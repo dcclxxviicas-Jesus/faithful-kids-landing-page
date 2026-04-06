@@ -183,7 +183,7 @@ export default function Quiz() {
           <div className="q-card enter">
             <p className="inter-eyebrow">A quick peek at what your kids could be watching</p>
             <div className="inter-video-wrap">
-              <video src="/video-1.mp4" autoPlay playsInline muted loop className="inter-video" />
+              <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" autoPlay playsInline muted loop className="inter-video" />
             </div>
             <p className="inter-video-caption">This is a real story from Faithful Kids. 60 seconds of Scripture, beautifully told.</p>
             <button className="btn-quiz-next" onClick={dismissInterstitial}>
@@ -576,7 +576,7 @@ function ResultPage({ answers, minutes, seconds }: {
               </div>
             </div>
             <div className="rec-right">
-              <video src="/video-1.mp4" autoPlay muted loop playsInline />
+              <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" autoPlay muted loop playsInline />
             </div>
           </div>
         </div>

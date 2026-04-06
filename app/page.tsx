@@ -219,9 +219,9 @@ export default function Home() {
         <p className="section-sub">Hover to preview. Every video is 60-90 seconds of faithful, age-appropriate Bible storytelling.</p>
         <div className="preview-grid">
           {[
-            { src: '/video-1.mp4', title: 'An Angel Visits Mary', series: 'Birth of Jesus', age: 'Ages 5+' },
-            { src: '/video-2.mp4', title: 'In the Beginning: Creation', series: 'Genesis', age: 'Ages 5+' },
-            { src: '/video-3.mp4', title: 'Noah & the Great Flood', series: 'Genesis', age: 'Ages 5+' },
+            { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4', title: 'An Angel Visits Mary', series: 'Birth of Jesus', age: 'Ages 5+' },
+            { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4', title: 'In the Beginning: Creation', series: 'Genesis', age: 'Ages 5+' },
+            { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4', title: 'Noah & the Great Flood', series: 'Genesis', age: 'Ages 5+' },
           ].map((v) => (
             <PreviewCard key={v.src} {...v} />
           ))}
@@ -488,9 +488,9 @@ function PreviewCard({ src, title, series, age }: { src: string; title: string; 
 }
 
 const PHONE_VIDEOS = [
-  { src: '/video-1.mp4', title: 'An Angel Visits Mary', badge: 'Birth of Jesus' },
-  { src: '/video-2.mp4', title: 'In the Beginning: Creation', badge: 'Genesis' },
-  { src: '/video-3.mp4', title: 'Noah & the Great Flood', badge: 'Genesis' },
+  { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4', title: 'An Angel Visits Mary', badge: 'Birth of Jesus' },
+  { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4', title: 'In the Beginning: Creation', badge: 'Genesis' },
+  { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4', title: 'Noah & the Great Flood', badge: 'Genesis' },
 ]
 
 function PhoneMockup() {
@@ -635,7 +635,7 @@ function FullStoryPlayer() {
       <div className="fullstory-video-wrap">
         <video
           ref={videoRef}
-          src="/video-1.mp4"
+          src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
           autoPlay
           muted={muted}
           playsInline
@@ -807,7 +807,7 @@ function ExitIntent() {
         <h2>Before you go, watch this.</h2>
         <p>60 seconds. One Bible story. See if it is good enough for your kids.</p>
         <div className="exit-video-wrap">
-          <video src="/video-1.mp4" controls autoPlay playsInline className="exit-video" />
+          <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" controls autoPlay playsInline className="exit-video" />
         </div>
         <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/checkout' }}>
           Try Free for 7 Days

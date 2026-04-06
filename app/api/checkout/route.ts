@@ -5,11 +5,11 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
   apiVersion: '2025-04-30.basil',
 })
 
-// Plan configs - prices in cents
-const PLANS: Record<string, { name: string; amount: number; interval: 'month'; intervalCount: number }> = {
-  monthly: { name: 'Faithful Kids 1-Month Plan', amount: 3999, interval: 'month', intervalCount: 1 },
-  quarterly: { name: 'Faithful Kids 4-Month Plan', amount: 1999, interval: 'month', intervalCount: 1 },
-  annual: { name: 'Faithful Kids 12-Month Plan', amount: 999, interval: 'month', intervalCount: 1 },
+// Plan configs - prices in cents, billed monthly
+const PLANS: Record<string, { name: string; amount: number; interval: 'month' | 'year'; intervalCount: number }> = {
+  monthly: { name: 'Faithful Kids Monthly', amount: 3999, interval: 'month', intervalCount: 1 },
+  quarterly: { name: 'Faithful Kids 4-Month', amount: 7996, interval: 'month', intervalCount: 4 },
+  annual: { name: 'Faithful Kids Annual', amount: 11988, interval: 'year', intervalCount: 1 },
 }
 
 export async function POST(req: NextRequest) {

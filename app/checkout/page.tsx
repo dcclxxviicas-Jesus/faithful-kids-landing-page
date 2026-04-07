@@ -220,6 +220,13 @@ export default function Checkout() {
               {loading ? 'Redirecting to payment...' : 'Continue to Payment'}
             </button>
 
+            <p style={{ textAlign: 'center', margin: '12px 0 0', fontSize: '14px', color: '#888' }}>
+              Already have an account?{' '}
+              <a href="https://app.faithfulkids.app/login" style={{ color: '#7B61FF', fontWeight: 700, textDecoration: 'none' }}>
+                Sign in
+              </a>
+            </p>
+
             <div className="summary-badges">
               <span>✓ 30-day money-back guarantee</span>
               <span>✓ Zero ads, subscription only</span>

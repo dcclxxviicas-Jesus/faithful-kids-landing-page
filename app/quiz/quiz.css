@@ -401,9 +401,22 @@
   padding: 48px 24px;
   text-align: center;
 }
+.build-progress-ring {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+.build-percent {
+  position: absolute;
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: #e07a5f;
+}
 .build-icon { font-size: 3rem; margin-bottom: 16px; animation: pulse 1.5s ease infinite; }
 @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.1); } }
-.build-screen h2 { font-size: 1.4rem; font-weight: 800; color: #1e293b; margin-bottom: 32px; }
+.build-screen h2 { font-size: 1.4rem; font-weight: 800; color: #1e293b; margin-bottom: 8px; }
 .build-steps { display: flex; flex-direction: column; gap: 12px; max-width: 320px; width: 100%; text-align: left; }
 .build-step {
   display: flex;

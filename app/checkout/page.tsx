@@ -164,6 +164,19 @@ export default function Checkout() {
             ))}
           </div>
 
+          {/* Mobile-only checkout button */}
+          <div className="mobile-checkout-btn">
+            <button className="btn-checkout" onClick={handleContinue} disabled={loading}>
+              {loading ? 'Redirecting to payment...' : 'Continue to Payment'}
+            </button>
+            <p style={{ textAlign: 'center', margin: '12px 0 0', fontSize: '14px', color: '#888' }}>
+              Already have an account?{' '}
+              <a href="https://app.faithfulkids.app/login" style={{ color: '#7B61FF', fontWeight: 700, textDecoration: 'none' }}>
+                Sign in
+              </a>
+            </p>
+          </div>
+
           {/* What's included */}
           <div className="checkout-includes">
             <h3>What's included:</h3>

@@ -299,10 +299,22 @@
   line-height: 1.5;
 }
 
+/* Mobile checkout button - hidden on desktop */
+.mobile-checkout-btn {
+  display: none;
+}
+
 /* Responsive */
 @media (max-width: 800px) {
   .checkout-layout {
     grid-template-columns: 1fr;
+  }
+  .mobile-checkout-btn {
+    display: block;
+    margin: 20px 0;
+  }
+  .checkout-sidebar {
+    display: none;
   }
   .summary-card {
     position: static;

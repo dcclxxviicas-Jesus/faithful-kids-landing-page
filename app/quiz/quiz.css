@@ -257,6 +257,41 @@
 .qz-r-signin { font-size: 0.82rem; color: #9ca3af; margin-top: 12px; }
 .qz-r-signin a { color: #e07a5f; font-weight: 700; text-decoration: none; }
 
+/* Plan cards */
+.qz-r-plans { display: flex; flex-direction: column; gap: 10px; margin: 14px 0; }
+.qz-r-plan {
+  position: relative; background: #fff; border: 2px solid #e5e7eb;
+  border-radius: 14px; padding: 16px; cursor: pointer;
+  transition: all 0.12s; text-align: left;
+  -webkit-tap-highlight-color: transparent;
+}
+.qz-r-plan:active { transform: scale(0.98); }
+.qz-r-plan.selected { border-color: #e07a5f; background: #fdf8f6; }
+.qz-r-plan-badge {
+  position: absolute; top: -10px; right: 12px;
+  background: #e07a5f; color: #fff; font-size: 0.68rem; font-weight: 800;
+  padding: 3px 10px; border-radius: 6px; text-transform: uppercase; letter-spacing: 0.5px;
+}
+.qz-r-plan-badge.best { background: #16a34a; }
+.qz-r-plan-row { display: flex; align-items: center; gap: 12px; }
+.qz-r-plan-radio {
+  width: 22px; height: 22px; border-radius: 50%; border: 2px solid #d1d5db;
+  display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+}
+.qz-r-plan-radio div { width: 12px; height: 12px; border-radius: 50%; transition: all 0.15s; }
+.qz-r-plan-radio div.on { background: #e07a5f; }
+.qz-r-plan.selected .qz-r-plan-radio { border-color: #e07a5f; }
+.qz-r-plan-info { flex: 1; }
+.qz-r-plan-info strong { display: block; font-size: 0.95rem; color: #1e293b; }
+.qz-r-plan-info span { font-size: 0.78rem; color: #9ca3af; }
+.qz-r-plan-price { text-align: right; }
+.qz-r-plan-price strong { display: block; font-size: 0.95rem; color: #1e293b; }
+.qz-r-plan-price span { font-size: 0.72rem; color: #9ca3af; }
+.qz-r-plan-save {
+  margin-top: 8px; font-size: 0.72rem; font-weight: 700; color: #16a34a;
+  background: #ecfdf5; display: inline-block; padding: 2px 8px; border-radius: 4px;
+}
+
 /* Sticky bar */
 .qz-sticky {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 100;

@@ -360,9 +360,18 @@ function MultiSelect({ opts, onDone }: { opts: { label: string; val: string; emo
 // ============================================================================
 // Result page
 // ============================================================================
+const PLANS = [
+  { id: 'annual', name: '12-Month', price: 9.99, total: 119.88, period: '/mo', savings: 75, label: 'Best Value', weekly: 2.31 },
+  { id: 'quarterly', name: '4-Month', price: 19.99, total: 79.96, period: '/mo', savings: 50, label: 'Most Popular', weekly: 4.62 },
+  { id: 'monthly', name: '1-Month', price: 39.99, total: 39.99, period: '/mo', savings: null, label: null, weekly: 9.24 },
+]
+
 function Result({ answers, liveCount }: { answers: Record<string, string>; liveCount: number }) {
   const [min, setMin] = useState(9)
   const [sec, setSec] = useState(59)
+  const [selectedPlan, setSelectedPlan] = useState('annual')
+  const [loading, setLoading] = useState(false)
+
   useEffect(() => {
     const t = setInterval(() => setSec(s => { if (s === 0) { setMin(m => m === 0 ? 9 : m - 1); return 59 } return s - 1 }), 1000)
     return () => clearInterval(t)
@@ -387,9 +396,24 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
     '4hr+': '20 minutes out of 4+ hours. That tiny swap changes what they carry into adulthood.',
   }
 
-  function handleCTA() {
-    posthog.capture('quiz_cta_click', answers)
-    window.location.href = '/checkout'
+  async function handleCheckout() {
+    setLoading(true)
+    posthog.capture('quiz_checkout_click', { ...answers, plan: selectedPlan })
+    try {
+      const res = await fetch('/api/checkout', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ plan: selectedPlan }),
+      })
+      const data = await res.json()
+      if (data.url) {
+        window.location.href = data.url
+      } else {
+        setLoading(false)
+      }
+    } catch {
+      setLoading(false)
+    }
   }
 
   return (
@@ -491,14 +515,42 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
           </div>
         </div>
 
-        {/* CTA */}
-        <div className="qz-r-cta">
+        {/* Plan selection */}
+        <div className="qz-r-section">
+          <h2>Choose your plan</h2>
           <div className="qz-r-timer">Plan reserved for <strong>{String(min).padStart(2, '0')}:{String(sec).padStart(2, '0')}</strong></div>
-          <button className="qz-r-btn" onClick={handleCTA}>Start Free 7-Day Trial</button>
+          <div className="qz-r-plans">
+            {PLANS.map(p => (
+              <button
+                key={p.id}
+                className={`qz-r-plan ${selectedPlan === p.id ? 'selected' : ''}`}
+                onClick={() => { setSelectedPlan(p.id); posthog.capture('quiz_plan_select', { plan: p.id }) }}
+              >
+                {p.label && <span className={`qz-r-plan-badge ${p.id === 'annual' ? 'best' : ''}`}>{p.label}</span>}
+                <div className="qz-r-plan-row">
+                  <div className="qz-r-plan-radio"><div className={selectedPlan === p.id ? 'on' : ''} /></div>
+                  <div className="qz-r-plan-info">
+                    <strong>{p.name}</strong>
+                    <span>${p.total.toFixed(2)} total</span>
+                  </div>
+                  <div className="qz-r-plan-price">
+                    <strong>${p.price.toFixed(2)}{p.period}</strong>
+                    <span>${p.weekly.toFixed(2)}/week</span>
+                  </div>
+                </div>
+                {p.savings && <div className="qz-r-plan-save">SAVE {p.savings}%</div>}
+              </button>
+            ))}
+          </div>
+
+          <button className="qz-r-btn" onClick={handleCheckout} disabled={loading}>
+            {loading ? 'Redirecting...' : `Start Free 7-Day Trial`}
+          </button>
+
           <div className="qz-r-trust">
             <span>✓ 7-day free trial</span>
+            <span>✓ 30-day money-back</span>
             <span>✓ Cancel anytime</span>
-            <span>✓ No ads ever</span>
           </div>
           <p className="qz-r-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
         </div>
@@ -510,7 +562,7 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
       {/* Sticky bottom */}
       <div className="qz-sticky">
         <span className="qz-sticky-timer">{String(min).padStart(2, '0')}:{String(sec).padStart(2, '0')}</span>
-        <button onClick={handleCTA}>Start Free Trial →</button>
+        <button onClick={handleCheckout} disabled={loading}>{loading ? '...' : 'Start Free Trial →'}</button>
       </div>
     </div>
   )

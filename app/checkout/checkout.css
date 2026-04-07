@@ -306,8 +306,25 @@
 
 /* Responsive */
 @media (max-width: 800px) {
+  .checkout-header {
+    padding: 10px 16px;
+    gap: 8px;
+  }
+  .checkout-logo-img {
+    height: 40px;
+  }
+  .checkout-logo {
+    font-size: 0.95rem;
+  }
+  .checkout-back {
+    font-size: 0.8rem;
+  }
+  .checkout-secure {
+    font-size: 0.72rem;
+  }
   .checkout-layout {
     grid-template-columns: 1fr;
+    padding: 24px 16px;
   }
   .mobile-checkout-btn {
     display: block;

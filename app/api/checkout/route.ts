@@ -20,7 +20,7 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Invalid plan' }, { status: 400 })
   }
 
-  const origin = req.headers.get('origin') || 'http://localhost:3456'
+  const origin = req.headers.get('origin') || 'https://faithfulkids.app'
 
   const session = await stripe.checkout.sessions.create({
     mode: 'subscription',

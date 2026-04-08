@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react'
 import posthog from 'posthog-js'
+import { useTimer } from './use-timer'
 import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
 
 const DENOMINATIONS = ['Catholic', 'Evangelical', 'Non-denominational', 'Other']
@@ -580,23 +581,12 @@ function PhoneMockup() {
 function StickyBar({ onCTA }: { onCTA: () => void }) {
   const [dismissed, setDismissed] = useState(false)
   const [visible, setVisible] = useState(false)
-  const [minutes, setMinutes] = useState(9)
-  const [seconds, setSeconds] = useState(59)
+  const { minutes, seconds } = useTimer()
 
   useEffect(() => {
     const handleScroll = () => setVisible(window.scrollY > 600)
     window.addEventListener('scroll', handleScroll)
     return () => window.removeEventListener('scroll', handleScroll)
-  }, [])
-
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setSeconds((s) => {
-        if (s === 0) { setMinutes((m) => (m === 0 ? 9 : m - 1)); return 59 }
-        return s - 1
-      })
-    }, 1000)
-    return () => clearInterval(timer)
   }, [])
 
   if (dismissed || !visible) return null

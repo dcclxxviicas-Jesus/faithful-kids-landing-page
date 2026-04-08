@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import posthog from 'posthog-js'
+import { useTimer } from '../use-timer'
 import './checkout.css'
 
 const PLANS = [
@@ -56,22 +57,11 @@ const TESTIMONIALS = [
 
 export default function Checkout() {
   const [selected, setSelected] = useState('quarterly')
-  const [minutes, setMinutes] = useState(9)
-  const [seconds, setSeconds] = useState(59)
+  const { minutes, seconds } = useTimer()
 
   const plan = PLANS.find((p) => p.id === selected)!
 
   useEffect(() => {
-    const timer = setInterval(() => {
-      setSeconds((s) => {
-        if (s === 0) {
-          setMinutes((m) => (m === 0 ? 9 : m - 1))
-          return 59
-        }
-        return s - 1
-      })
-    }, 1000)
-    return () => clearInterval(timer)
   }, [])
 
   const [loading, setLoading] = useState(false)

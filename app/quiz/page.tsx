@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import posthog from 'posthog-js'
+import { useTimer } from '../use-timer'
 import './quiz.css'
 
 // ============================================================================
@@ -219,7 +220,7 @@ export default function Quiz() {
           <div className="qz-ring">
             <svg viewBox="0 0 120 120" width="130" height="130">
               <circle cx="60" cy="60" r="52" fill="none" stroke="#f3f4f6" strokeWidth="8" />
-              <circle cx="60" cy="60" r="52" fill="none" stroke="#e07a5f" strokeWidth="8" strokeLinecap="round"
+              <circle cx="60" cy="60" r="52" fill="none" stroke="#7B61FF" strokeWidth="8" strokeLinecap="round"
                 strokeDasharray={`${2 * Math.PI * 52}`}
                 strokeDashoffset={`${2 * Math.PI * 52 * (1 - buildPct / 100)}`}
                 style={{ transition: 'stroke-dashoffset 0.2s', transform: 'rotate(-90deg)', transformOrigin: 'center' }} />
@@ -367,14 +368,11 @@ const PLANS = [
 ]
 
 function Result({ answers, liveCount }: { answers: Record<string, string>; liveCount: number }) {
-  const [min, setMin] = useState(9)
-  const [sec, setSec] = useState(59)
+  const { minutes: min, seconds: sec, display: timerDisplay } = useTimer()
   const [selectedPlan, setSelectedPlan] = useState('annual')
   const [loading, setLoading] = useState(false)
 
   useEffect(() => {
-    const t = setInterval(() => setSec(s => { if (s === 0) { setMin(m => m === 0 ? 9 : m - 1); return 59 } return s - 1 }), 1000)
-    return () => clearInterval(t)
   }, [])
 
   const kids = answers.num_kids === '1' ? 'your child' : 'your kids'

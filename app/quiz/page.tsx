@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import posthog from 'posthog-js'
 import { useTimer } from '../use-timer'
 import './quiz.css'
@@ -276,22 +276,7 @@ export default function Quiz() {
 
   // ===== VIDEO INTERSTITIAL =====
   if (inter === 'video') {
-    return (
-      <div className="qz">
-        <div className="qz-bar"><div className="qz-bar-fill" style={{ width: `${pct}%` }} /></div>
-        <div className="qz-body">
-          <div className="qz-card enter">
-            <p className="qz-eyebrow">A peek at what your kids could be watching</p>
-            <div className="qz-vid-wrap">
-              <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" autoPlay playsInline muted loop />
-            </div>
-            <p className="qz-vid-cap">Real lesson from Faithful Kids. Jesus narrates every story.</p>
-            <div className="qz-live-pill">👁️ {liveCount} families watching right now</div>
-            <button className="qz-btn" onClick={dismissInter}>Almost done — 2 left</button>
-          </div>
-        </div>
-      </div>
-    )
+    return <VideoInterstitial pct={pct} liveCount={liveCount} onDismiss={dismissInter} />
   }
 
   // ===== QUESTIONS =====
@@ -339,6 +324,52 @@ export default function Quiz() {
 // ============================================================================
 // Multi-select
 // ============================================================================
+function VideoInterstitial({ pct, liveCount, onDismiss }: { pct: number; liveCount: number; onDismiss: () => void }) {
+  const vidRef = useRef<HTMLVideoElement>(null)
+  const [muted, setMuted] = useState(true)
+
+  function toggleMute() {
+    if (vidRef.current) {
+      vidRef.current.muted = !muted
+      setMuted(!muted)
+      if (muted) posthog.capture('quiz_video_unmuted')
+    }
+  }
+
+  return (
+    <div className="qz">
+      <div className="qz-bar"><div className="qz-bar-fill" style={{ width: `${pct}%` }} /></div>
+      <div className="qz-body">
+        <div className="qz-card enter">
+          <p className="qz-eyebrow">A peek at what your kids could be watching</p>
+          <div className="qz-vid-wrap" style={{ position: 'relative' }}>
+            <video
+              ref={vidRef}
+              src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
+              autoPlay playsInline muted loop
+            />
+            <button
+              onClick={toggleMute}
+              style={{
+                position: 'absolute', bottom: '12px', left: '12px',
+                background: 'rgba(0,0,0,0.6)', color: '#fff', border: 'none',
+                borderRadius: '8px', padding: '8px 14px', fontSize: '0.82rem',
+                fontWeight: 700, cursor: 'pointer', display: 'flex',
+                alignItems: 'center', gap: '6px',
+              }}
+            >
+              {muted ? '\u{1F507} Tap to listen' : '\u{1F50A} Playing'}
+            </button>
+          </div>
+          <p className="qz-vid-cap">Real lesson from Faithful Kids. Jesus narrates every story.</p>
+          <div className="qz-live-pill">{'\u{1F441}\uFE0F'} {liveCount} families watching right now</div>
+          <button className="qz-btn" onClick={onDismiss}>Almost done — 2 left</button>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 function MultiSelect({ opts, onDone }: { opts: { label: string; val: string; emoji: string }[], onDone: (v: string) => void }) {
   const [sel, setSel] = useState<string[]>([])
   return (
@@ -361,6 +392,35 @@ function MultiSelect({ opts, onDone }: { opts: { label: string; val: string; emo
 // ============================================================================
 // Result page
 // ============================================================================
+function ResultVideo() {
+  const ref = useRef<HTMLVideoElement>(null)
+  const [muted, setMuted] = useState(true)
+  return (
+    <div className="qz-vid-wrap" style={{ position: 'relative' }}>
+      <video
+        ref={ref}
+        src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
+        autoPlay muted loop playsInline
+      />
+      <button
+        onClick={() => {
+          if (ref.current) { ref.current.muted = !muted; setMuted(!muted) }
+          if (muted) posthog.capture('result_video_unmuted')
+        }}
+        style={{
+          position: 'absolute', bottom: '12px', left: '12px',
+          background: 'rgba(0,0,0,0.6)', color: '#fff', border: 'none',
+          borderRadius: '8px', padding: '8px 14px', fontSize: '0.82rem',
+          fontWeight: 700, cursor: 'pointer', display: 'flex',
+          alignItems: 'center', gap: '6px',
+        }}
+      >
+        {muted ? '\u{1F507} Tap to listen' : '\u{1F50A} Playing'}
+      </button>
+    </div>
+  )
+}
+
 const PLANS = [
   { id: 'annual', name: '12-Month', price: 9.99, total: 119.88, period: '/mo', savings: 75, label: 'Best Value', weekly: 2.31 },
   { id: 'quarterly', name: '4-Month', price: 19.99, total: 79.96, period: '/mo', savings: 50, label: 'Most Popular', weekly: 4.62 },
@@ -457,9 +517,7 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
         {/* Video preview */}
         <div className="qz-r-section">
           <h2>See it in action</h2>
-          <div className="qz-vid-wrap">
-            <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" autoPlay muted loop playsInline />
-          </div>
+          <ResultVideo />
         </div>
 
         {/* Stats */}

@@ -31,7 +31,7 @@
 
 /* Promo banner */
 .promo-banner {
-  background: #7B61FF;
+  background: #4338ca;
   color: white;
   text-align: center;
   padding: 12px 24px;
@@ -87,7 +87,7 @@
 .checkout-depth-num {
   font-size: 3rem;
   font-weight: 800;
-  color: #7B61FF;
+  color: #4338ca;
   letter-spacing: -0.04em;
   line-height: 1;
 }
@@ -117,9 +117,9 @@
   text-align: left;
   width: 100%;
 }
-.plan-card:hover { border-color: #7B61FF; }
+.plan-card:hover { border-color: #4338ca; }
 .plan-card.selected {
-  border-color: #7B61FF;
+  border-color: #4338ca;
   background: #fdf6e3;
   box-shadow: 0 2px 12px rgba(184,134,11,0.12);
 }
@@ -133,13 +133,13 @@
   position: relative;
 }
 .radio-dot.active {
-  border-color: #7B61FF;
+  border-color: #4338ca;
 }
 .radio-dot.active::after {
   content: '';
   position: absolute;
   inset: 3px;
-  background: #7B61FF;
+  background: #4338ca;
   border-radius: 50%;
 }
 
@@ -154,7 +154,7 @@
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
-.plan-label.popular { background: #7B61FF; color: white; }
+.plan-label.popular { background: #4338ca; color: white; }
 .plan-label.best { background: #2d8a4e; color: white; }
 .plan-save {
   font-size: 0.68rem;
@@ -201,14 +201,14 @@
   border-bottom: 1px solid #e5e5e5;
 }
 .checkout-review:last-child { border-bottom: none; }
-.review-stars { color: #7B61FF; font-size: 0.85rem; margin-bottom: 6px; letter-spacing: 1px; }
+.review-stars { color: #4338ca; font-size: 0.85rem; margin-bottom: 6px; letter-spacing: 1px; }
 .review-quote { font-size: 0.9rem; color: #555; line-height: 1.5; margin-bottom: 10px; font-style: italic; }
 .review-author { display: flex; align-items: center; gap: 10px; }
 .review-avatar {
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  background: #7B61FF;
+  background: #4338ca;
   color: white;
   display: flex;
   align-items: center;
@@ -266,7 +266,7 @@
 .btn-checkout {
   width: 100%;
   padding: 16px;
-  background: #7B61FF;
+  background: #4338ca;
   color: white;
   border: none;
   border-radius: 12px;
@@ -276,7 +276,7 @@
   margin: 16px 0;
   transition: background 0.2s;
 }
-.btn-checkout:hover { background: #6549e0; }
+.btn-checkout:hover { background: #3730a3; }
 
 .summary-badges {
   display: flex;

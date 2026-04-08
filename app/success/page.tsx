@@ -54,7 +54,7 @@ export default function Success() {
           style={{
             display: 'inline-block',
             padding: '14px 32px',
-            background: '#7B61FF',
+            background: '#4338ca',
             color: 'white',
             borderRadius: 12,
             textDecoration: 'none',

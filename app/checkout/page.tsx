@@ -161,7 +161,7 @@ export default function Checkout() {
             </button>
             <p style={{ textAlign: 'center', margin: '12px 0 0', fontSize: '14px', color: '#888' }}>
               Already have an account?{' '}
-              <a href="https://app.faithfulkids.app/login" style={{ color: '#7B61FF', fontWeight: 700, textDecoration: 'none' }}>
+              <a href="https://app.faithfulkids.app/login" style={{ color: '#4338ca', fontWeight: 700, textDecoration: 'none' }}>
                 Sign in
               </a>
             </p>
@@ -225,7 +225,7 @@ export default function Checkout() {
 
             <p style={{ textAlign: 'center', margin: '12px 0 0', fontSize: '14px', color: '#888' }}>
               Already have an account?{' '}
-              <a href="https://app.faithfulkids.app/login" style={{ color: '#7B61FF', fontWeight: 700, textDecoration: 'none' }}>
+              <a href="https://app.faithfulkids.app/login" style={{ color: '#4338ca', fontWeight: 700, textDecoration: 'none' }}>
                 Sign in
               </a>
             </p>

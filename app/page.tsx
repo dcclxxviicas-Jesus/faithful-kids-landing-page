@@ -797,7 +797,7 @@ function ExitIntent() {
         <h2>Before you go, watch this.</h2>
         <p>60 seconds. One Bible story. See if it is good enough for your kids.</p>
         <div className="exit-video-wrap">
-          <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" controls autoPlay playsInline className="exit-video" />
+          <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" controls autoPlay muted playsInline className="exit-video" />
         </div>
         <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/checkout' }}>
           Try Free for 7 Days

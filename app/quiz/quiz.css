@@ -97,7 +97,7 @@
   display: block; width: 100%; padding: 16px; margin-top: 8px;
   background: #059669; color: #fff; border: none; border-radius: 14px;
   font-size: 1rem; font-weight: 700; cursor: pointer;
-  box-shadow: 0 4px 14px rgba(224,122,95,0.25);
+  box-shadow: 0 4px 14px rgba(5,150,105,0.25);
   transition: all 0.15s; -webkit-tap-highlight-color: transparent;
 }
 .qz-btn:hover { background: #047857; }
@@ -248,7 +248,7 @@
 .qz-r-btn {
   display: block; width: 100%; padding: 18px; background: #059669; color: #fff;
   border: none; border-radius: 14px; font-size: 1.1rem; font-weight: 800;
-  cursor: pointer; box-shadow: 0 6px 20px rgba(224,122,95,0.35);
+  cursor: pointer; box-shadow: 0 6px 20px rgba(5,150,105,0.35);
   transition: all 0.15s; margin-bottom: 12px;
 }
 .qz-r-btn:hover { background: #047857; }
@@ -304,7 +304,7 @@
 .qz-sticky button {
   background: #059669; color: #fff; border: none; border-radius: 10px;
   padding: 12px 24px; font-weight: 800; font-size: 0.88rem; cursor: pointer;
-  box-shadow: 0 3px 10px rgba(224,122,95,0.3);
+  box-shadow: 0 3px 10px rgba(5,150,105,0.3);
 }
 .qz-sticky button:active { transform: scale(0.97); }
 

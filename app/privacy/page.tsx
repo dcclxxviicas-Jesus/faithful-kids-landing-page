@@ -38,7 +38,7 @@ export default function Privacy() {
       </p>
 
       <p style={{ marginTop: 32 }}>
-        <a href="/" style={{ color: '#b8860b', fontWeight: 600 }}>&larr; Back to home</a>
+        <a href="/" style={{ color: '#059669', fontWeight: 600 }}>&larr; Back to home</a>
       </p>
     </section>
   )

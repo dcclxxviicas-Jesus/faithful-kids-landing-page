@@ -141,9 +141,9 @@ body {
   cursor: pointer;
   white-space: nowrap;
   transition: all var(--transition);
-  box-shadow: 0 2px 8px rgba(224, 122, 95, 0.3);
+  box-shadow: 0 2px 8px rgba(5, 150, 105, 0.3);
 }
-.btn-primary:hover { background: var(--primary-hover); box-shadow: 0 4px 14px rgba(224, 122, 95, 0.4); }
+.btn-primary:hover { background: var(--primary-hover); box-shadow: 0 4px 14px rgba(5, 150, 105, 0.4); }
 .btn-primary:disabled { opacity: 0.5; cursor: not-allowed; }
 .btn-lg { padding: 18px 40px; font-size: 1.1rem; }
 
@@ -727,7 +727,7 @@ body {
 .final-cta-section .btn-primary {
   background: var(--primary);
   color: var(--white);
-  box-shadow: 0 4px 20px rgba(224, 122, 95, 0.4);
+  box-shadow: 0 4px 20px rgba(5, 150, 105, 0.4);
 }
 .final-cta-section .btn-primary:hover { background: var(--primary-hover); }
 .final-badges {

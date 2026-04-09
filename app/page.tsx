@@ -418,7 +418,7 @@ export default function Home() {
           <div className="footer-links">
             <a href="/privacy">Privacy</a>
             <a href="/terms">Terms</a>
-            <a href="mailto:hello@example.com">Contact</a>
+            <a href="mailto:team@faithfulkids.app">Contact</a>
           </div>
           <p className="footer-copy">&copy; 2026 Faithful Kids. All rights reserved.</p>
         </div>

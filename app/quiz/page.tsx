@@ -220,7 +220,7 @@ export default function Quiz() {
           <div className="qz-ring">
             <svg viewBox="0 0 120 120" width="130" height="130">
               <circle cx="60" cy="60" r="52" fill="none" stroke="#f3f4f6" strokeWidth="8" />
-              <circle cx="60" cy="60" r="52" fill="none" stroke="#4338ca" strokeWidth="8" strokeLinecap="round"
+              <circle cx="60" cy="60" r="52" fill="none" stroke="#059669" strokeWidth="8" strokeLinecap="round"
                 strokeDasharray={`${2 * Math.PI * 52}`}
                 strokeDashoffset={`${2 * Math.PI * 52 * (1 - buildPct / 100)}`}
                 style={{ transition: 'stroke-dashoffset 0.2s', transform: 'rotate(-90deg)', transformOrigin: 'center' }} />

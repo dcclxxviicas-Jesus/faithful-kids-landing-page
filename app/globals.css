@@ -1215,7 +1215,7 @@ body {
   justify-content: space-between;
 }
 .footer-logo { font-size: 1.1rem; font-weight: 800; display: flex; align-items: center; gap: 4px; }
-.footer-logo .nav-logo-img { height: 24px; filter: brightness(10); }
+.footer-logo .nav-logo-img { height: 24px; }
 .footer-links { display: flex; gap: 24px; }
 .footer-links a { color: rgba(255,255,255,0.6); text-decoration: none; font-size: 0.85rem; }
 .footer-links a:hover { color: var(--white); }

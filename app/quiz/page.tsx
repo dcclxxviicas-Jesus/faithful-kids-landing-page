@@ -42,10 +42,10 @@ const QUESTIONS: {
     q: 'How many kids are in your family?',
     sub: 'We support up to 5 profiles on one account',
     opts: [
-      { label: '1 child', val: '1', emoji: '👧' },
-      { label: '2 children', val: '2', emoji: '👧👦' },
-      { label: '3 children', val: '3', emoji: '👧👦👶' },
-      { label: '4 or more', val: '4+', emoji: '👨‍👩‍👧‍👦' },
+      { label: '1 child', val: '1', emoji: '1️⃣' },
+      { label: '2 children', val: '2', emoji: '2️⃣' },
+      { label: '3 children', val: '3', emoji: '3️⃣' },
+      { label: '4 or more', val: '4+', emoji: '4️⃣' },
     ],
   },
   {
@@ -342,24 +342,21 @@ function VideoInterstitial({ pct, liveCount, onDismiss }: { pct: number; liveCou
       <div className="qz-body">
         <div className="qz-card enter">
           <p className="qz-eyebrow">A peek at what your kids could be watching</p>
-          <div className="qz-vid-wrap" style={{ position: 'relative' }}>
+          <div className="qz-vid-wrap" style={{ position: 'relative', cursor: 'pointer' }} onClick={toggleMute}>
             <video
               ref={vidRef}
               src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
               autoPlay playsInline muted loop
             />
-            <button
-              onClick={toggleMute}
-              style={{
-                position: 'absolute', bottom: '12px', left: '12px',
-                background: 'rgba(0,0,0,0.6)', color: '#fff', border: 'none',
-                borderRadius: '8px', padding: '8px 14px', fontSize: '0.82rem',
-                fontWeight: 700, cursor: 'pointer', display: 'flex',
-                alignItems: 'center', gap: '6px',
-              }}
-            >
+            <div style={{
+              position: 'absolute', bottom: '12px', left: '12px',
+              background: 'rgba(0,0,0,0.6)', color: '#fff',
+              borderRadius: '8px', padding: '8px 14px', fontSize: '0.82rem',
+              fontWeight: 700, display: 'flex', alignItems: 'center', gap: '6px',
+              pointerEvents: 'none',
+            }}>
               {muted ? '\u{1F507} Tap to listen' : '\u{1F50A} Playing'}
-            </button>
+            </div>
           </div>
           <p className="qz-vid-cap">Real lesson from Faithful Kids. Jesus narrates every story.</p>
           <div className="qz-live-pill">{'\u{1F441}\uFE0F'} {liveCount} families watching right now</div>
@@ -395,28 +392,26 @@ function MultiSelect({ opts, onDone }: { opts: { label: string; val: string; emo
 function ResultVideo() {
   const ref = useRef<HTMLVideoElement>(null)
   const [muted, setMuted] = useState(true)
+  function toggle() {
+    if (ref.current) { ref.current.muted = !muted; setMuted(!muted) }
+    if (muted) posthog.capture('result_video_unmuted')
+  }
   return (
-    <div className="qz-vid-wrap" style={{ position: 'relative' }}>
+    <div className="qz-vid-wrap" style={{ position: 'relative', cursor: 'pointer' }} onClick={toggle}>
       <video
         ref={ref}
         src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
         autoPlay muted loop playsInline
       />
-      <button
-        onClick={() => {
-          if (ref.current) { ref.current.muted = !muted; setMuted(!muted) }
-          if (muted) posthog.capture('result_video_unmuted')
-        }}
-        style={{
-          position: 'absolute', bottom: '12px', left: '12px',
-          background: 'rgba(0,0,0,0.6)', color: '#fff', border: 'none',
-          borderRadius: '8px', padding: '8px 14px', fontSize: '0.82rem',
-          fontWeight: 700, cursor: 'pointer', display: 'flex',
-          alignItems: 'center', gap: '6px',
-        }}
-      >
+      <div style={{
+        position: 'absolute', bottom: '12px', left: '12px',
+        background: 'rgba(0,0,0,0.6)', color: '#fff',
+        borderRadius: '8px', padding: '8px 14px', fontSize: '0.82rem',
+        fontWeight: 700, display: 'flex', alignItems: 'center', gap: '6px',
+        pointerEvents: 'none',
+      }}>
         {muted ? '\u{1F507} Tap to listen' : '\u{1F50A} Playing'}
-      </button>
+      </div>
     </div>
   )
 }

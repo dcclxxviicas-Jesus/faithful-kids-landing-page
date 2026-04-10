@@ -417,9 +417,8 @@ function ResultVideo() {
 }
 
 const PLANS = [
-  { id: 'annual', name: '12-Month', price: 9.99, total: 119.88, period: '/mo', savings: 75, label: 'Best Value', weekly: 2.31 },
-  { id: 'quarterly', name: '4-Month', price: 19.99, total: 79.96, period: '/mo', savings: 50, label: 'Most Popular', weekly: 4.62 },
-  { id: 'monthly', name: '1-Month', price: 39.99, total: 39.99, period: '/mo', savings: null, label: null, weekly: 9.24 },
+  { id: 'annual', name: 'Annual', price: 7.99, total: 95.88, period: '/mo', savings: 47, label: 'Best Value', weekly: 1.84 },
+  { id: 'monthly', name: 'Monthly', price: 14.99, total: 14.99, period: '/mo', savings: null, label: null, weekly: 3.46 },
 ]
 
 function Result({ answers, liveCount }: { answers: Record<string, string>; liveCount: number }) {

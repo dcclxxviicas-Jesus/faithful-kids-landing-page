@@ -283,7 +283,7 @@ export default function Quiz() {
   return (
     <div className="qz">
       <div className="qz-head">
-        <img src="/logo.png" alt="" className="qz-logo" />
+        <img src="/logo-sm.png" alt="" className="qz-logo" />
         <span className="qz-count">{step + 1}/{total}</span>
       </div>
       <div className="qz-bar"><div className="qz-bar-fill" style={{ width: `${pct}%` }} /></div>
@@ -470,7 +470,7 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
 
   return (
     <div className="qz qz-result-bg">
-      <div className="qz-head"><img src="/logo.png" alt="" className="qz-logo" /></div>
+      <div className="qz-head"><img src="/logo-sm.png" alt="" className="qz-logo" /></div>
 
       <div className="qz-result">
         {/* Hero */}

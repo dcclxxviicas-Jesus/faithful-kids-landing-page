@@ -105,10 +105,10 @@ export default function Home() {
   return (
     <>
       {/* NAV */}
-      <nav className="nav">
+      <nav className="nav" aria-label="Main navigation">
         <div className="nav-inner">
           <div className="nav-logo">
-            <img src="/logo.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
+            <img src="/logo-sm.png" alt="Faithful Kids logo" width={40} height={40} className="nav-logo-img" /> Faithful Kids
           </div>
           <div className="nav-links">
             <a href="#how-it-works">How It Works</a>
@@ -120,8 +120,10 @@ export default function Home() {
         </div>
       </nav>
 
+      <main id="main-content">
+
       {/* HERO */}
-      <section className="hero">
+      <section className="hero" aria-label="Hero">
         <div className="hero-content">
           <h1>Screen time that <span className="highlight">feeds their soul</span></h1>
           <p className="subtitle">
@@ -345,9 +347,9 @@ export default function Home() {
               ].map(([feature, ours, yt, others], i) => (
                 <tr key={i}>
                   <td>{feature as string}</td>
-                  <td className="compare-ours">{ours ? '✓' : '✗'}</td>
-                  <td>{yt ? '✓' : '✗'}</td>
-                  <td>{others ? '✓' : '✗'}</td>
+                  <td className="compare-ours"><span aria-label={ours ? 'Yes' : 'No'}>{ours ? '✓' : '✗'}</span></td>
+                  <td><span aria-label={yt ? 'Yes' : 'No'}>{yt ? '✓' : '✗'}</span></td>
+                  <td><span aria-label={others ? 'Yes' : 'No'}>{others ? '✓' : '✗'}</span></td>
                 </tr>
               ))}
             </tbody>
@@ -357,7 +359,7 @@ export default function Home() {
 
       {/* MONEY BACK GUARANTEE */}
       <section className="guarantee-section">
-        <h3>30-Day Money-Back Guarantee</h3>
+        <h2 className="guarantee-heading">30-Day Money-Back Guarantee</h2>
         <p>Try it risk-free. If your kids don't love it, or if you're not satisfied for any reason, we'll give you a full refund within 30 days. No questions asked.</p>
         <button className="btn-primary" onClick={handleCTA}>Start Risk-Free</button>
       </section>
@@ -389,9 +391,9 @@ export default function Home() {
         <div className="faq-list">
           {FAQS.map((faq, i) => (
             <div key={i} className={`faq-item ${openFaq === i ? 'open' : ''}`}>
-              <button className="faq-q" onClick={() => setOpenFaq(openFaq === i ? null : i)}>
+              <button className="faq-q" onClick={() => setOpenFaq(openFaq === i ? null : i)} aria-expanded={openFaq === i}>
                 {faq.q}
-                <span className="faq-arrow">{openFaq === i ? '−' : '+'}</span>
+                <span className="faq-arrow" aria-hidden="true">{openFaq === i ? '−' : '+'}</span>
               </button>
               {openFaq === i && <p className="faq-a">{faq.a}</p>}
             </div>
@@ -411,10 +413,12 @@ export default function Home() {
         </div>
       </section>
 
+      </main>
+
       {/* FOOTER */}
       <footer className="footer">
         <div className="footer-inner">
-          <div className="footer-logo"><img src="/logo.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids</div>
+          <div className="footer-logo"><img src="/logo-sm.png" alt="Faithful Kids logo" width={24} height={24} className="nav-logo-img" /> Faithful Kids</div>
           <div className="footer-links">
             <a href="/blog">Blog</a>
             <a href="/privacy">Privacy</a>
@@ -472,10 +476,10 @@ function PreviewCard({ src, title, series, age }: { src: string; title: string; 
   return (
     <div className="preview-card" onMouseEnter={handlePlay} onMouseLeave={handleStop}>
       <div className="preview-video-wrap">
-        <video ref={vidRef} src={src} muted loop playsInline />
+        <video ref={vidRef} src={src} muted loop playsInline preload="none" />
         {!playing && <div className="preview-play-hint">▶ Hover to preview</div>}
         {playing && (
-          <button className="preview-mute-btn" onClick={toggleMute}>
+          <button className="preview-mute-btn" onClick={toggleMute} aria-label={muted ? 'Unmute video' : 'Mute video'}>
             {muted ? '🔇' : '🔊'}
           </button>
         )}
@@ -544,6 +548,7 @@ function PhoneMockup() {
           muted={muted}
           loop
           playsInline
+          preload="metadata"
           className="phone-video"
         />
         <div className="phone-overlay">
@@ -557,22 +562,25 @@ function PhoneMockup() {
         </button>
 
         {/* Scroll dots */}
-        <div className="phone-dots">
-          {PHONE_VIDEOS.map((_, i) => (
+        <div className="phone-dots" role="tablist" aria-label="Video selector">
+          {PHONE_VIDEOS.map((vid, i) => (
             <button
               key={i}
               className={`phone-dot ${i === current ? 'active' : ''}`}
               onClick={() => goTo(i)}
+              aria-label={`Go to video: ${vid.title}`}
+              role="tab"
+              aria-selected={i === current}
             />
           ))}
         </div>
 
         {/* Arrow buttons */}
         {current > 0 && (
-          <button className="phone-arrow up" onClick={prev}>&#8249;</button>
+          <button className="phone-arrow up" onClick={prev} aria-label="Previous video">&#8249;</button>
         )}
         {current < PHONE_VIDEOS.length - 1 && (
-          <button className="phone-arrow down" onClick={next}>&#8250;</button>
+          <button className="phone-arrow down" onClick={next} aria-label="Next video">&#8250;</button>
         )}
       </div>
     </div>
@@ -600,7 +608,7 @@ function StickyBar({ onCTA }: { onCTA: () => void }) {
           Ends in <span className="sticky-timer">{String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}</span>
         </span>
         <button className="sticky-cta" onClick={onCTA}>Claim your free trial</button>
-        <button className="sticky-dismiss" onClick={() => setDismissed(true)}>✕</button>
+        <button className="sticky-dismiss" onClick={() => setDismissed(true)} aria-label="Dismiss promotion bar">✕</button>
       </div>
     </div>
   )
@@ -631,6 +639,7 @@ function FullStoryPlayer() {
           muted={muted}
           playsInline
           controls
+          preload="none"
           className="fullstory-video"
         />
         <button className="mute-btn" onClick={toggleMute}>
@@ -792,13 +801,13 @@ function ExitIntent() {
   if (!show || dismissed) return null
 
   return (
-    <div className="exit-overlay" onClick={() => setDismissed(true)}>
+    <div className="exit-overlay" onClick={() => setDismissed(true)} role="dialog" aria-modal="true" aria-label="Watch a story before you go">
       <div className="exit-modal" onClick={(e) => e.stopPropagation()}>
-        <button className="exit-close" onClick={() => setDismissed(true)}>✕</button>
+        <button className="exit-close" onClick={() => setDismissed(true)} aria-label="Close dialog">✕</button>
         <h2>Before you go, watch this.</h2>
         <p>60 seconds. One Bible story. See if it is good enough for your kids.</p>
         <div className="exit-video-wrap">
-          <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" controls autoPlay muted playsInline className="exit-video" />
+          <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" controls autoPlay muted playsInline preload="none" className="exit-video" />
         </div>
         <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/checkout' }}>
           Try Free for 7 Days

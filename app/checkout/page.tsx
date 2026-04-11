@@ -93,7 +93,7 @@ export default function Checkout() {
       {/* Header */}
       <header className="checkout-header">
         <a href="/" className="checkout-back">&larr; Back</a>
-        <div className="checkout-logo"><img src="/logo.png" alt="Faithful Kids" className="checkout-logo-img" /> Faithful Kids</div>
+        <div className="checkout-logo"><img src="/logo-sm.png" alt="Faithful Kids logo" width={32} height={32} className="checkout-logo-img" /> Faithful Kids</div>
         <span className="checkout-secure">Secure checkout</span>
       </header>
 

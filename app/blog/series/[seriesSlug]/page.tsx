@@ -92,7 +92,7 @@ export default async function SeriesPage({ params }: Props) {
       <nav className="nav">
         <div className="nav-inner">
           <a href="/" className="nav-logo" style={{ textDecoration: 'none' }}>
-            <img src="/logo.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
+            <img src="/logo-sm.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
           </a>
           <div className="nav-links">
             <a href="/blog">Blog</a>
@@ -183,7 +183,7 @@ export default async function SeriesPage({ params }: Props) {
       <footer className="footer">
         <div className="footer-inner">
           <div className="footer-logo">
-            <img src="/logo.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
+            <img src="/logo-sm.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
           </div>
           <div className="footer-links">
             <a href="/blog">Blog</a>

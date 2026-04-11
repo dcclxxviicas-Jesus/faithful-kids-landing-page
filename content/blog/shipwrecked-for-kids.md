@@ -9,8 +9,8 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "adventure, perseverance, sharing faith, courage"
-metaDescription: "Learn the story of Shipwrecked explained for kids. Simple retelling from Acts, with key lessons, discussion questions, and a free video. Perfect for ages 5+."
-keywords: ["shipwrecked for kids", "shipwrecked bible story", "shipwrecked for children", "bible stories for kids", "pauls adventures for kids", "kids bible", "acts for kids"]
+metaDescription: "Learn the story of Shipwrecked explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+keywords: ["shipwrecked for kids", "shipwrecked bible story", "shipwrecked for children", "shipwrecked explained for kids", "shipwrecked story for kids", "bible stories for kids", "pauls adventures for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/pauls-adventures/shipwrecked/lesson-video.mp4"
 quizAvailable: true
 ---
@@ -19,38 +19,45 @@ quizAvailable: true
 
 **Series:** Pauls Adventures (Episode 08 of 10) | **Scripture:** Acts | **Ages 7+**
 
-Looking for a simple way to teach your child the story of Shipwrecked? This retelling is designed for kids ages 5 and up, using language they can understand and lessons they will remember.
+Shipwrecked is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Video
+## Watch the Full Story of Shipwrecked
 
-Watch the full story of Shipwrecked in our 60-second animated video. Your child can follow along and take a quiz after to see what they learned.
+Watch Shipwrecked in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
 [**Watch "Shipwrecked" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
 
 *Part of our Pauls Adventures series, 10 episodes covering adventure, perseverance, sharing faith, courage.*
 
-## What Is the Story of Shipwrecked?
+## What Is the Story of Shipwrecked for Kids?
 
 PAUL'S ADVENTURES — EPISODE 8: SHIPWRECKED! Based on Acts 27 Series: Paul's Adventures | Episode 8 of 10 Target audience: Kids ages 7-15
 
+Buckle up — because this one is an absolute disaster movie. And every word of it is true.
+
+Paul was being transported to Rome as a prisoner. He was on a ship with 275 other people — soldiers, sailors, and other prisoners — heading across the Mediterranean Sea. And Paul had warned them: "Men, I can see this voyage is going to end in disaster." But the captain ignored him. They sailed anyway.
+
+A hurricane-force wind called a northeaster slammed into them. The sky went black. Waves crashed over the deck. The crew threw cargo overboard to lighten the ship. They wrapped ropes around the hull to keep it from splitting apart. For day after day after day, the storm raged. No sun. No stars. No way to navigate. Nothing but howling wind and mountains of water.
+
 This story comes from Acts and is part of the New Testament.
 
-## What Does This Story Teach Kids?
+## What Does the Story of Shipwrecked Teach Children?
 
-The story of Shipwrecked teaches children important lessons about adventure, perseverance, sharing faith, courage. Here are the key takeaways for your child:
+The story of Shipwrecked teaches children important lessons about adventure, perseverance, sharing faith, courage:
 
-- **Trust in God** — Even when things seem impossible, God has a plan
-- **Courage** — Standing up for what is right, even when it is hard
-- **Faith** — Believing in God's promises even when you cannot see the outcome
-- **Obedience** — Following God's instructions leads to blessings
+- **This story teaches children about adventure in a way they can understand**
+- **God's love and faithfulness are visible throughout this story**
+- **Every Bible story connects to the bigger picture of God's plan for the world**
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding."* — Proverbs 3:5
+> *"Not one of you will lose a single hair from his head."* — Acts 27:34
 
-This verse connects to the story of Shipwrecked because it reminds us that God's plan is always bigger than what we can see.
+## Parent's Guide: Why This Story Matters
 
-## Quiz: Test What You Learned
+Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, snakebites. Kids love this because it is exciting. But underneath the adventure is a lesson about perseverance. Paul never gave up, no matter what happened. When your child faces setbacks, frustration, or the temptation to quit something hard, Paul's story is the one to revisit. God does not promise an easy road, but He promises to be on the road with you.
+
+## Quiz: Test What Your Child Learned
 
 After watching the video, see if your child can answer these questions:
 
@@ -59,49 +66,59 @@ After watching the video, see if your child can answer these questions:
 
 
 
-## Discussion Questions for Parents
+## Discussion Questions for Families
 
-Use these questions at the dinner table or during bedtime to talk about the story with your child:
+Use these questions at the dinner table or during bedtime:
 
 1. What was your favorite part of the story of Shipwrecked?
 2. What do you think God was teaching us through this story?
 3. How can we be more like Shipwrecked in our own lives?
-4. If you were in this story, what would you have done?
+4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## About the Pauls Adventures Series
+## More Episodes in the Pauls Adventures Series
 
-This story is episode 08 of 10 in our Pauls Adventures series, which covers adventure, perseverance, sharing faith, courage. The series is based on the book of Acts in the New Testament.
+This story is episode 08 of 10 in the Pauls Adventures series:
 
-**Other episodes in this series:**
-Watch all 10 episodes of Pauls Adventures on Faithful Kids, each with a video lesson and comprehension quiz.
+- [Pauls First Journey for Kids](/blog/pauls-first-journey-for-kids)
+- [Paul and Barnabas Split for Kids](/blog/paul-and-barnabas-split-for-kids)
+- [Paul and Silas in Prison for Kids](/blog/paul-and-silas-in-prison-for-kids)
+- [Paul in Athens for Kids](/blog/paul-in-athens-for-kids)
+- [Paul in Corinth for Kids](/blog/paul-in-corinth-for-kids)
+- [The Riot in Ephesus for Kids](/blog/the-riot-in-ephesus-for-kids)
+- [Pauls Farewell for Kids](/blog/pauls-farewell-for-kids)
+- [Paul in Rome for Kids](/blog/paul-in-rome-for-kids)
+- [Pauls Legacy for Kids](/blog/pauls-legacy-for-kids)
 
-## More Bible Stories for Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is told in 60 seconds, designed for kids Ages 7+, with a quiz after each lesson.
+## 400+ Bible Stories for Kids on Faithful Kids
 
-**Other popular series:** Genesis, Exodus, Promised Land, Judges and Ruth, Rise of Kings
+Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
 
 [**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
+### What is the story of Shipwrecked about for kids?
+
+Shipwrecked is a story from Acts. PAUL'S ADVENTURES — EPISODE 8: SHIPWRECKED! Based on Acts 27 Series: Paul's Adventures | Episode 8 of 10 Target audience: Kids ages 7-15
+
 ### What age is the story of Shipwrecked appropriate for?
 
-This retelling is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just 60 seconds long, which is perfect for young attention spans.
+This retelling of Shipwrecked is designed for children Ages 7+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
 
-### Where is the story of Shipwrecked found in the Bible?
+### Where is Shipwrecked found in the Bible?
 
-This story is found in Acts. It is part of the New Testament and falls within the broader narrative of pauls adventures.
+Shipwrecked is found in Acts in the New Testament. It is part of the Pauls Adventures series on Faithful Kids.
 
-### How can I use this story for Sunday School or homeschool?
+### Is there a video of Shipwrecked for kids?
 
-You can use the Faithful Kids video as a 60-second introduction, then discuss using the questions above. The quiz is great for checking comprehension. Many Sunday school teachers and homeschool parents use our videos as part of their weekly curriculum.
+Yes. Faithful Kids has a 60-second video retelling of Shipwrecked designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
 
-### Is there a video of this Bible story for kids?
+### How can I use Shipwrecked for Sunday School or homeschool?
 
-Yes! Faithful Kids has a 60-second video retelling of Shipwrecked designed specifically for children. It includes narration, visuals, and is followed by a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What other Bible stories are available for kids?
+### What does Shipwrecked teach kids?
 
-Faithful Kids has 400+ video lessons covering the entire Bible, from Creation in Genesis to Revelation. Popular stories include Noah's Ark, David and Goliath, The Good Samaritan, and the Birth of Jesus. [See all series](https://faithfulkids.com/quiz?ref=blog).
+The story of Shipwrecked teaches children about adventure, perseverance, sharing faith, courage. This story teaches children about adventure in a way they can understand.

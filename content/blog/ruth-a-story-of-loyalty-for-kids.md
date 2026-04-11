@@ -9,8 +9,8 @@ testament: "Old Testament"
 book: "Judges/Ruth"
 age: "Ages 6+"
 themes: "bravery, loyalty, faith, God's plan"
-metaDescription: "Learn the story of Ruth a Story of Loyalty explained for kids. Simple retelling from Ruth 1-2, with key lessons, discussion questions, and a free video. Perfect for ages 5+."
-keywords: ["ruth a story of loyalty for kids", "ruth a story of loyalty bible story", "ruth a story of loyalty for children", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
+metaDescription: "Learn the story of Ruth a Story of Loyalty explained for kids ages 5+. Simple retelling from Ruth 1-2, with key lessons, discussion questions, quiz, and a free video."
+keywords: ["ruth a story of loyalty for kids", "ruth a story of loyalty bible story", "ruth a story of loyalty for children", "ruth a story of loyalty explained for kids", "ruth a story of loyalty story for kids", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
 videoUrl: "/videos/judges-and-ruth/ruth-a-story-of-loyalty/lesson-video.mp4"
 quizAvailable: true
 ---
@@ -19,80 +19,97 @@ quizAvailable: true
 
 **Series:** Judges and Ruth (Episode 07 of 10) | **Scripture:** Ruth 1-2 | **Ages 6+**
 
-Looking for a simple way to teach your child the story of Ruth a Story of Loyalty? This retelling is designed for kids ages 5 and up, using language they can understand and lessons they will remember.
+Ruth a Story of Loyalty is a Bible story from Ruth 1-2 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Video
+## Watch the Full Story of Ruth a Story of Loyalty
 
-Watch the full story of Ruth a Story of Loyalty in our 60-second animated video. Your child can follow along and take a quiz after to see what they learned.
+Watch Ruth a Story of Loyalty in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
 [**Watch "Ruth a Story of Loyalty" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
 
 *Part of our Judges and Ruth series, 10 episodes covering bravery, loyalty, faith, God's plan.*
 
-## What Is the Story of Ruth a Story of Loyalty?
+## What Is the Story of Ruth a Story of Loyalty for Kids?
 
 Hey friend! We're stepping out of the chaos of Judges for a moment and into one of the most beautiful stories in the entire Bible. No armies. No battles. No supernatural strength. Just ordinary people making extraordinary choices. This is the story of Ruth.
 
+During the time of the judges, there was a famine in Israel. A man named Elimelech took his wife Naomi and their two sons and moved to the land of Moab to find food. While there, the two sons married Moabite women — Orpah and Ruth.
+
+Then the worst thing imaginable happened. Elimelech died. And then — both sons died too. Naomi lost her husband AND both of her boys. She was left with nothing. No provider. No protection. In that culture, a widow with no sons was about as vulnerable as a person could be.
+
+Naomi decided to go back home to Bethlehem. She told her daughters-in-law, "Go back to your families. Go find new husbands. There's nothing left for you here." She was basically saying, "My life is over. Don't let mine drag yours down too."
+
 This story comes from Ruth 1-2 and is part of the Old Testament.
 
-## What Does This Story Teach Kids?
+## What Does the Story of Ruth a Story of Loyalty Teach Children?
 
-The story of Ruth a Story of Loyalty teaches children important lessons about bravery, loyalty, faith, God's plan. Here are the key takeaways for your child:
+The story of Ruth a Story of Loyalty teaches children important lessons about bravery, loyalty, faith, God's plan:
 
-- **Trust in God** — Even when things seem impossible, God has a plan
-- **Courage** — Standing up for what is right, even when it is hard
-- **Faith** — Believing in God's promises even when you cannot see the outcome
-- **Obedience** — Following God's instructions leads to blessings
+- **This story teaches children about bravery in a way they can understand**
+- **God's love and faithfulness are visible throughout this story**
+- **Every Bible story connects to the bigger picture of God's plan for the world**
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding."* — Proverbs 3:5
+> *"Where you go I will go, and where you stay I will stay."* — Ruth 1:16
 
-This verse connects to the story of Ruth a Story of Loyalty because it reminds us that God's plan is always bigger than what we can see.
+## Parent's Guide: Why This Story Matters
 
-## Discussion Questions for Parents
+Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
-Use these questions at the dinner table or during bedtime to talk about the story with your child:
+## Discussion Questions for Families
+
+Use these questions at the dinner table or during bedtime:
 
 1. What was your favorite part of the story of Ruth a Story of Loyalty?
 2. What do you think God was teaching us through this story?
 3. How can we be more like Ruth in our own lives?
-4. If you were in this story, what would you have done?
+4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## About the Judges and Ruth Series
+## More Episodes in the Judges and Ruth Series
 
-This story is episode 07 of 10 in our Judges and Ruth series, which covers bravery, loyalty, faith, God's plan. The series is based on the book of Judges/Ruth in the Old Testament.
+This story is episode 07 of 10 in the Judges and Ruth series:
 
-**Other episodes in this series:**
-Watch all 10 episodes of Judges and Ruth on Faithful Kids, each with a video lesson and comprehension quiz.
+- [The Cycle Begins for Kids](/blog/the-cycle-begins-for-kids)
+- [Deborah a Brave Leader for Kids](/blog/deborah-a-brave-leader-for-kids)
+- [Gideon the Unlikely Hero for Kids](/blog/gideon-the-unlikely-hero-for-kids)
+- [Gideons 300 for Kids](/blog/gideons-300-for-kids)
+- [Samson Strongest Man Alive for Kids](/blog/samson-strongest-man-alive-for-kids)
+- [Samsons Fall and Final Stand for Kids](/blog/samsons-fall-and-final-stand-for-kids)
+- [Ruth and Boaz for Kids](/blog/ruth-and-boaz-for-kids)
+- [Hannahs Prayer for Kids](/blog/hannahs-prayer-for-kids)
+- [God Calls Samuel for Kids](/blog/god-calls-samuel-for-kids)
 
-## More Bible Stories for Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is told in 60 seconds, designed for kids Ages 6+, with a quiz after each lesson.
+## 400+ Bible Stories for Kids on Faithful Kids
 
-**Other popular series:** Genesis, Exodus, Promised Land, Rise of Kings, King Davids Reign
+Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
 [**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
+### What is the story of Ruth a Story of Loyalty about for kids?
+
+Ruth a Story of Loyalty is a story from Ruth 1-2. Hey friend! We're stepping out of the chaos of Judges for a moment and into one of the most beautiful stories in the entire Bible. No armies. No battles. No supernatural strength. Just ordinary peo...
+
 ### What age is the story of Ruth a Story of Loyalty appropriate for?
 
-This retelling is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just 60 seconds long, which is perfect for young attention spans.
+This retelling of Ruth a Story of Loyalty is designed for children Ages 6+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
 
-### Where is the story of Ruth a Story of Loyalty found in the Bible?
+### Where is Ruth a Story of Loyalty found in the Bible?
 
-This story is found in Ruth 1-2. It is part of the Old Testament and falls within the broader narrative of judges and ruth.
+Ruth a Story of Loyalty is found in Ruth 1-2 in the Old Testament. It is part of the Judges and Ruth series on Faithful Kids.
 
-### How can I use this story for Sunday School or homeschool?
+### Is there a video of Ruth a Story of Loyalty for kids?
 
-You can use the Faithful Kids video as a 60-second introduction, then discuss using the questions above. The quiz is great for checking comprehension. Many Sunday school teachers and homeschool parents use our videos as part of their weekly curriculum.
+Yes. Faithful Kids has a 60-second video retelling of Ruth a Story of Loyalty designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
 
-### Is there a video of this Bible story for kids?
+### How can I use Ruth a Story of Loyalty for Sunday School or homeschool?
 
-Yes! Faithful Kids has a 60-second video retelling of Ruth a Story of Loyalty designed specifically for children. It includes narration, visuals, and is followed by a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What other Bible stories are available for kids?
+### What does Ruth a Story of Loyalty teach kids?
 
-Faithful Kids has 400+ video lessons covering the entire Bible, from Creation in Genesis to Revelation. Popular stories include Noah's Ark, David and Goliath, The Good Samaritan, and the Birth of Jesus. [See all series](https://faithfulkids.com/quiz?ref=blog).
+The story of Ruth a Story of Loyalty teaches children about bravery, loyalty, faith, God's plan. This story teaches children about bravery in a way they can understand.

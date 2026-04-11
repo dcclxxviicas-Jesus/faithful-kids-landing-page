@@ -1822,4 +1822,73 @@ body {
   .blog-article-info { font-size: 0.78rem; }
   .blog-article-body blockquote { padding: 16px 18px; }
   .blog-card { padding: 18px; }
+  .series-header { padding: 40px 16px 24px; }
+  .series-title { font-size: 1.8rem; }
+  .series-episodes { padding: 0 16px 48px; }
+}
+
+/* ============================================================
+   SERIES INDEX PAGE
+   ============================================================ */
+.series-header {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 48px 24px 32px;
+  text-align: center;
+}
+.series-testament-badge {
+  display: inline-block;
+  background: var(--primary-light, #ecfdf5);
+  color: var(--primary, #059669);
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 4px 14px;
+  border-radius: 20px;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.series-title {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: var(--text-primary, #1a1a2e);
+  margin-bottom: 8px;
+  line-height: 1.15;
+}
+.series-subtitle {
+  font-size: 1rem;
+  color: var(--text-muted, #6b7280);
+  margin-bottom: 16px;
+}
+.series-description {
+  font-size: 1.05rem;
+  color: var(--text-secondary, #4b5563);
+  line-height: 1.7;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.series-episodes {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 24px 64px;
+}
+.blog-card-footer {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 0.8rem;
+  color: var(--text-muted, #6b7280);
+  margin-bottom: 6px;
+}
+.blog-card-book-inline {
+  font-weight: 500;
+}
+.blog-card-scripture {
+  opacity: 0.8;
+}
+.blog-card-themes {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
 }

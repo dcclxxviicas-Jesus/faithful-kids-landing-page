@@ -9,8 +9,8 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "love, kindness, forgiveness, prayer, wisdom"
-metaDescription: "Learn the story of The Beatitudes explained for kids. Simple retelling from Matthew/Luke, with key lessons, discussion questions, and a free video. Perfect for ages 5+."
-keywords: ["the beatitudes for kids", "the beatitudes bible story", "the beatitudes for children", "bible stories for kids", "teachings of jesus for kids", "kids bible", "matthew/luke for kids"]
+metaDescription: "Learn the story of The Beatitudes explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, discussion questions, quiz, and a free video."
+keywords: ["the beatitudes for kids", "the beatitudes bible story", "the beatitudes for children", "the beatitudes explained for kids", "the beatitudes story for kids", "bible stories for kids", "teachings of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/teachings-of-jesus/the-beatitudes/lesson-video.mp4"
 quizAvailable: true
 ---
@@ -19,38 +19,45 @@ quizAvailable: true
 
 **Series:** Teachings of Jesus (Episode 02 of 10) | **Scripture:** Matthew/Luke | **Ages 5+**
 
-Looking for a simple way to teach your child the story of The Beatitudes? This retelling is designed for kids ages 5 and up, using language they can understand and lessons they will remember.
+The Beatitudes is a Bible story from Matthew/Luke in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Video
+## Watch the Full Story of The Beatitudes
 
-Watch the full story of The Beatitudes in our 60-second animated video. Your child can follow along and take a quiz after to see what they learned.
+Watch The Beatitudes in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
 [**Watch "The Beatitudes" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
 
 *Part of our Teachings of Jesus series, 10 episodes covering love, kindness, forgiveness, prayer, wisdom.*
 
-## What Is the Story of The Beatitudes?
+## What Is the Story of The Beatitudes for Kids?
 
 THE TEACHINGS OF JESUS — Episode 2 "The Beatitudes" Based on Matthew 5:1-12
 
+The very first words of my Sermon on the Mount were so unexpected, so upside-down, that people are STILL trying to wrap their heads around them. I gave eight statements that begin with one word: BLESSED. And what I said next shocked everyone.
+
+The world says blessed are the rich. I said: "Blessed are the poor in spirit, for theirs is the kingdom of heaven." Poor in spirit means you know you need God. You're not walking around thinking you've got it all figured out. When you realize you can't do life without Him — THAT is when the kingdom opens up.
+
+The world says blessed are the happy. I said: "Blessed are those who mourn." When your heart breaks over what breaks God's heart — injustice, pain, sin — He draws close and comforts you in a way nobody else can.
+
 This story comes from Matthew/Luke and is part of the New Testament.
 
-## What Does This Story Teach Kids?
+## What Does the Story of The Beatitudes Teach Children?
 
-The story of The Beatitudes teaches children important lessons about love, kindness, forgiveness, prayer, wisdom. Here are the key takeaways for your child:
+The story of The Beatitudes teaches children important lessons about love, kindness, forgiveness, prayer, wisdom:
 
-- **Trust in God** — Even when things seem impossible, God has a plan
-- **Courage** — Standing up for what is right, even when it is hard
-- **Faith** — Believing in God's promises even when you cannot see the outcome
-- **Obedience** — Following God's instructions leads to blessings
+- **This story teaches children about love in a way they can understand**
+- **God's love and faithfulness are visible throughout this story**
+- **Every Bible story connects to the bigger picture of God's plan for the world**
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding."* — Proverbs 3:5
+> *"Blessed are the peacemakers, for they will be called children of God."* — Matthew 5:9
 
-This verse connects to the story of The Beatitudes because it reminds us that God's plan is always bigger than what we can see.
+## Parent's Guide: Why This Story Matters
 
-## Quiz: Test What You Learned
+Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
+
+## Quiz: Test What Your Child Learned
 
 After watching the video, see if your child can answer these questions:
 
@@ -75,49 +82,59 @@ Jesus didn't say blessed are those who avoid problems. He said blessed are the p
 Jesus said when people make fun of you or mistreat you because of your faith, you should rejoice — because the prophets before you faced the same thing. You're in incredible company (Matthew 5:11-12).
 
 
-## Discussion Questions for Parents
+## Discussion Questions for Families
 
-Use these questions at the dinner table or during bedtime to talk about the story with your child:
+Use these questions at the dinner table or during bedtime:
 
 1. What was your favorite part of the story of The Beatitudes?
 2. What do you think God was teaching us through this story?
 3. How can we be more like The in our own lives?
-4. If you were in this story, what would you have done?
+4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## About the Teachings of Jesus Series
+## More Episodes in the Teachings of Jesus Series
 
-This story is episode 02 of 10 in our Teachings of Jesus series, which covers love, kindness, forgiveness, prayer, wisdom. The series is based on the book of Matthew/Luke in the New Testament.
+This story is episode 02 of 10 in the Teachings of Jesus series:
 
-**Other episodes in this series:**
-Watch all 10 episodes of Teachings of Jesus on Faithful Kids, each with a video lesson and comprehension quiz.
+- [The Sermon on the Mount for Kids](/blog/the-sermon-on-the-mount-for-kids)
+- [The Lords Prayer for Kids](/blog/the-lords-prayer-for-kids)
+- [The Good Samaritan for Kids](/blog/the-good-samaritan-for-kids)
+- [The Prodigal Son for Kids](/blog/the-prodigal-son-for-kids)
+- [The Sower and the Seeds for Kids](/blog/the-sower-and-the-seeds-for-kids)
+- [The Mustard Seed for Kids](/blog/the-mustard-seed-for-kids)
+- [The Lost Sheep for Kids](/blog/the-lost-sheep-for-kids)
+- [The Wise and Foolish Builders for Kids](/blog/the-wise-and-foolish-builders-for-kids)
+- [The Unforgiving Servant for Kids](/blog/the-unforgiving-servant-for-kids)
 
-## More Bible Stories for Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is told in 60 seconds, designed for kids Ages 5+, with a quiz after each lesson.
+## 400+ Bible Stories for Kids on Faithful Kids
 
-**Other popular series:** Genesis, Exodus, Promised Land, Judges and Ruth, Rise of Kings
+Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
 [**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
+### What is the story of The Beatitudes about for kids?
+
+The Beatitudes is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 2 "The Beatitudes" Based on Matthew 5:1-12
+
 ### What age is the story of The Beatitudes appropriate for?
 
-This retelling is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just 60 seconds long, which is perfect for young attention spans.
+This retelling of The Beatitudes is designed for children Ages 5+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
 
-### Where is the story of The Beatitudes found in the Bible?
+### Where is The Beatitudes found in the Bible?
 
-This story is found in Matthew/Luke. It is part of the New Testament and falls within the broader narrative of teachings of jesus.
+The Beatitudes is found in Matthew/Luke in the New Testament. It is part of the Teachings of Jesus series on Faithful Kids.
 
-### How can I use this story for Sunday School or homeschool?
+### Is there a video of The Beatitudes for kids?
 
-You can use the Faithful Kids video as a 60-second introduction, then discuss using the questions above. The quiz is great for checking comprehension. Many Sunday school teachers and homeschool parents use our videos as part of their weekly curriculum.
+Yes. Faithful Kids has a 60-second video retelling of The Beatitudes designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
 
-### Is there a video of this Bible story for kids?
+### How can I use The Beatitudes for Sunday School or homeschool?
 
-Yes! Faithful Kids has a 60-second video retelling of The Beatitudes designed specifically for children. It includes narration, visuals, and is followed by a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What other Bible stories are available for kids?
+### What does The Beatitudes teach kids?
 
-Faithful Kids has 400+ video lessons covering the entire Bible, from Creation in Genesis to Revelation. Popular stories include Noah's Ark, David and Goliath, The Good Samaritan, and the Birth of Jesus. [See all series](https://faithfulkids.com/quiz?ref=blog).
+The story of The Beatitudes teaches children about love, kindness, forgiveness, prayer, wisdom. This story teaches children about love in a way they can understand.

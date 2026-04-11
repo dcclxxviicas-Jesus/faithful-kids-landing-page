@@ -324,7 +324,7 @@ export function extractFaqFromContent(content: string): { question: string; answ
 export function extractDiscussionQuestions(content: string): { question: string; answer: string }[] {
   const questions: { question: string; answer: string }[] = []
 
-  const sectionMatch = content.match(/<h2>Discussion Questions for Parents<\/h2>([\s\S]*?)(?=<h2>|$)/)
+  const sectionMatch = content.match(/<h2>Discussion Questions for (?:Parents|Families)<\/h2>([\s\S]*?)(?=<h2>|$)/)
   if (!sectionMatch) return questions
 
   const sectionHtml = sectionMatch[1]
@@ -351,4 +351,46 @@ export function getReadingTime(content: string): number {
   const text = content.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ')
   const words = text.split(' ').filter(Boolean).length
   return Math.max(1, Math.ceil(words / 200))
+}
+
+/**
+ * Hero stories — the most popular / iconic posts across all series.
+ * Used for cross-series internal linking on blog posts.
+ */
+const HERO_STORIES = [
+  'in-the-beginning-creation-for-kids',
+  'noah-and-the-great-flood-for-kids',
+  'abraham-and-isaac-for-kids',
+  'the-burning-bush-for-kids',
+  'the-ten-commandments-for-kids',
+  'david-and-goliath-for-kids',
+  'daniel-in-the-lions-den-for-kids',
+  'jonah-running-from-god-for-kids',
+  'an-angel-visits-mary-for-kids',
+  'the-good-samaritan-for-kids',
+  'the-prodigal-son-for-kids',
+  'walking-on-water-for-kids',
+  'feeding-the-five-thousand-for-kids',
+  'the-last-supper-for-kids',
+  'the-cross-for-kids',
+  'the-empty-tomb-for-kids',
+  'the-day-of-pentecost-for-kids',
+  'shipwrecked-for-kids',
+  'the-armor-of-god-for-kids',
+  'love-is-for-kids',
+]
+
+/**
+ * Get 3-5 hero story links from OTHER series for cross-linking.
+ * Filters out stories from the same series as the current post.
+ */
+export function getHeroStoryLinks(currentSlug: string, currentSeriesSlug: string): BlogPost[] {
+  const allPosts = getAllPosts()
+  const heroSlugs = HERO_STORIES.filter(s => s !== currentSlug)
+
+  const heroes = heroSlugs
+    .map(slug => allPosts.find(p => p.slug === slug))
+    .filter((p): p is BlogPost => p !== null && p !== undefined && p.seriesSlug !== currentSeriesSlug)
+
+  return heroes.slice(0, 5)
 }

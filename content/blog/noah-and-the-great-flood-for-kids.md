@@ -9,8 +9,8 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of Noah and the Great Flood explained for kids. Simple retelling from Genesis 6-9, with key lessons, discussion questions, and a free video. Perfect for ages 5+."
-keywords: ["noah and the great flood for kids", "noah and the great flood bible story", "noah and the great flood for children", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
+metaDescription: "Learn the story of Noah and the Great Flood explained for kids ages 5+. Simple retelling from Genesis 6-9, with key lessons, discussion questions, quiz, and a free video."
+keywords: ["noah and the great flood for kids", "noah and the great flood bible story", "noah and the great flood for children", "noah and the great flood explained for kids", "noah and the great flood story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/noah-and-the-great-flood/lesson-video.mp4"
 quizAvailable: true
 ---
@@ -19,38 +19,45 @@ quizAvailable: true
 
 **Series:** Genesis (Episode 04 of 10) | **Scripture:** Genesis 6-9 | **Ages 5+**
 
-Looking for a simple way to teach your child the story of Noah and the Great Flood? This retelling is designed for kids ages 5 and up, using language they can understand and lessons they will remember.
+Noah and the Great Flood is a Bible story from Genesis 6-9 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Video
+## Watch the Full Story of Noah and the Great Flood
 
-Watch the full story of Noah and the Great Flood in our 60-second animated video. Your child can follow along and take a quiz after to see what they learned.
+Watch Noah and the Great Flood in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
 [**Watch "Noah and the Great Flood" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
 
 *Part of our Genesis series, 10 episodes covering creation, faith, family, God's promises.*
 
-## What Is the Story of Noah and the Great Flood?
+## What Is the Story of Noah and the Great Flood for Kids?
 
 Hey friend, welcome back! Okay — today's story? Absolute blockbuster. You've probably heard it before, but I promise you there are parts that will blow your mind. This is the story of Noah and the flood.
 
+So here's what happened after Cain and Abel. Generations passed. People multiplied across the earth. But things went downhill — fast. The world became full of violence, cruelty, and wickedness. People had completely forgotten about God. And the Bible says something that might surprise you — it says God's heart was broken. The Creator of the universe... heartbroken by what His creation had become.
+
+But there was one guy — one single man — who was different. His name was Noah. The Bible says Noah was righteous and he walked faithfully with God. In a world full of people going the wrong way, Noah kept walking with God.
+
+And God came to Noah with the wildest instructions anyone has ever received. He said, "Noah, I'm sending a massive flood to cleanse the earth. But I want to save you and your family. Here's what I need you to do — build a boat."
+
 This story comes from Genesis 6-9 and is part of the Old Testament.
 
-## What Does This Story Teach Kids?
+## What Does the Story of Noah and the Great Flood Teach Children?
 
-The story of Noah and the Great Flood teaches children important lessons about creation, faith, family, God's promises. Here are the key takeaways for your child:
+The story of Noah and the Great Flood teaches children important lessons about creation, faith, family, God's promises:
 
-- **Trust in God** — Even when things seem impossible, God has a plan
-- **Courage** — Standing up for what is right, even when it is hard
-- **Faith** — Believing in God's promises even when you cannot see the outcome
-- **Obedience** — Following God's instructions leads to blessings
+- **Obeying God even when nobody else does takes real courage**
+- **God keeps His promises, just like the rainbow reminds us**
+- **Sometimes doing the right thing means standing alone**
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding."* — Proverbs 3:5
+> *"Noah did everything just as God commanded him."* — Genesis 6:22
 
-This verse connects to the story of Noah and the Great Flood because it reminds us that God's plan is always bigger than what we can see.
+## Parent's Guide: Why This Story Matters
 
-## Quiz: Test What You Learned
+Noah's Ark is one of the most beloved Bible stories for kids, and for good reason. It combines animals (which kids love), a boat (adventure), and a rainbow (hope). But underneath the fun is a serious lesson: doing the right thing when everyone around you is doing the wrong thing. This story is especially relevant when your child faces peer pressure. Ask them: would you build the ark if your friends laughed at you?
+
+## Quiz: Test What Your Child Learned
 
 After watching the video, see if your child can answer these questions:
 
@@ -67,49 +74,59 @@ The olive branch meant that plants were growing again and the land was drying up
 God put a rainbow in the sky as a sign of His covenant — His sacred promise — that He would never again destroy the earth with a flood. Every rainbow is a reminder that God keeps His word.
 
 
-## Discussion Questions for Parents
+## Discussion Questions for Families
 
-Use these questions at the dinner table or during bedtime to talk about the story with your child:
+Use these questions at the dinner table or during bedtime:
 
 1. What was your favorite part of the story of Noah and the Great Flood?
 2. What do you think God was teaching us through this story?
 3. How can we be more like Noah in our own lives?
-4. If you were in this story, what would you have done?
+4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## About the Genesis Series
+## More Episodes in the Genesis Series
 
-This story is episode 04 of 10 in our Genesis series, which covers creation, faith, family, God's promises. The series is based on the book of Genesis in the Old Testament.
+This story is episode 04 of 10 in the Genesis series:
 
-**Other episodes in this series:**
-Watch all 10 episodes of Genesis on Faithful Kids, each with a video lesson and comprehension quiz.
+- [In the Beginning Creation for Kids](/blog/in-the-beginning-creation-for-kids)
+- [The Garden and the Fall for Kids](/blog/the-garden-and-the-fall-for-kids)
+- [Cain and Abel for Kids](/blog/cain-and-abel-for-kids)
+- [The Tower of Babel for Kids](/blog/the-tower-of-babel-for-kids)
+- [God Calls Abraham for Kids](/blog/god-calls-abraham-for-kids)
+- [Abraham and Isaac for Kids](/blog/abraham-and-isaac-for-kids)
+- [Jacob and Esau for Kids](/blog/jacob-and-esau-for-kids)
+- [Joseph the Dreamer for Kids](/blog/joseph-the-dreamer-for-kids)
+- [Joseph from Prison to Palace for Kids](/blog/joseph-from-prison-to-palace-for-kids)
 
-## More Bible Stories for Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is told in 60 seconds, designed for kids Ages 5+, with a quiz after each lesson.
+## 400+ Bible Stories for Kids on Faithful Kids
 
-**Other popular series:** Exodus, Promised Land, Judges and Ruth, Rise of Kings, King Davids Reign
+Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
 [**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
+### What is the story of Noah and the Great Flood about for kids?
+
+Noah and the Great Flood is a story from Genesis 6-9. Hey friend, welcome back! Okay — today's story? Absolute blockbuster. You've probably heard it before, but I promise you there are parts that will blow your mind. This is the story of Noah and the ...
+
 ### What age is the story of Noah and the Great Flood appropriate for?
 
-This retelling is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just 60 seconds long, which is perfect for young attention spans.
+This retelling of Noah and the Great Flood is designed for children Ages 5+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
 
-### Where is the story of Noah and the Great Flood found in the Bible?
+### Where is Noah and the Great Flood found in the Bible?
 
-This story is found in Genesis 6-9. It is part of the Old Testament and falls within the broader narrative of genesis.
+Noah and the Great Flood is found in Genesis 6-9 in the Old Testament. It is part of the Genesis series on Faithful Kids.
 
-### How can I use this story for Sunday School or homeschool?
+### Is there a video of Noah and the Great Flood for kids?
 
-You can use the Faithful Kids video as a 60-second introduction, then discuss using the questions above. The quiz is great for checking comprehension. Many Sunday school teachers and homeschool parents use our videos as part of their weekly curriculum.
+Yes. Faithful Kids has a 60-second video retelling of Noah and the Great Flood designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
 
-### Is there a video of this Bible story for kids?
+### How can I use Noah and the Great Flood for Sunday School or homeschool?
 
-Yes! Faithful Kids has a 60-second video retelling of Noah and the Great Flood designed specifically for children. It includes narration, visuals, and is followed by a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What other Bible stories are available for kids?
+### What does Noah and the Great Flood teach kids?
 
-Faithful Kids has 400+ video lessons covering the entire Bible, from Creation in Genesis to Revelation. Popular stories include Noah's Ark, David and Goliath, The Good Samaritan, and the Birth of Jesus. [See all series](https://faithfulkids.com/quiz?ref=blog).
+The story of Noah and the Great Flood teaches children about creation, faith, family, God's promises. Obeying God even when nobody else does takes real courage.

@@ -9,8 +9,8 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "community, courage, sharing faith, miracles"
-metaDescription: "Learn the story of The Church at Antioch explained for kids. Simple retelling from Acts, with key lessons, discussion questions, and a free video. Perfect for ages 5+."
-keywords: ["the church at antioch for kids", "the church at antioch bible story", "the church at antioch for children", "bible stories for kids", "early church for kids", "kids bible", "acts for kids"]
+metaDescription: "Learn the story of The Church at Antioch explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+keywords: ["the church at antioch for kids", "the church at antioch bible story", "the church at antioch for children", "the church at antioch explained for kids", "the church at antioch story for kids", "bible stories for kids", "early church for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/early-church/the-church-at-antioch/lesson-video.mp4"
 quizAvailable: true
 ---
@@ -19,38 +19,45 @@ quizAvailable: true
 
 **Series:** Early Church (Episode 10 of 10) | **Scripture:** Acts | **Ages 7+**
 
-Looking for a simple way to teach your child the story of The Church at Antioch? This retelling is designed for kids ages 5 and up, using language they can understand and lessons they will remember.
+The Church at Antioch is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Video
+## Watch the Full Story of The Church at Antioch
 
-Watch the full story of The Church at Antioch in our 60-second animated video. Your child can follow along and take a quiz after to see what they learned.
+Watch The Church at Antioch in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
 [**Watch "The Church at Antioch" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
 
 *Part of our Early Church series, 10 episodes covering community, courage, sharing faith, miracles.*
 
-## What Is the Story of The Church at Antioch?
+## What Is the Story of The Church at Antioch for Kids?
 
 THE EARLY CHURCH — EPISODE 10: THE CHURCH AT ANTIOCH Based on Acts 11:19-30, 13:1-3 Series: The Early Church | Episode 10 of 10 Target audience: Kids ages 7-15
 
+We've made it to the final episode of this series — and what a way to end. Because this is the story of the church that changed the world.
+
+After Stephen was killed and persecution scattered believers everywhere, some ended up in Antioch — the third-largest city in the Roman Empire. Massive, diverse, bustling with people from every background you can imagine.
+
+And here's the bold part — these scattered believers didn't just talk to Jewish people. They shared my message with Greeks. Gentiles. And those people believed — in huge numbers.
+
 This story comes from Acts and is part of the New Testament.
 
-## What Does This Story Teach Kids?
+## What Does the Story of The Church at Antioch Teach Children?
 
-The story of The Church at Antioch teaches children important lessons about community, courage, sharing faith, miracles. Here are the key takeaways for your child:
+The story of The Church at Antioch teaches children important lessons about community, courage, sharing faith, miracles:
 
-- **Trust in God** — Even when things seem impossible, God has a plan
-- **Courage** — Standing up for what is right, even when it is hard
-- **Faith** — Believing in God's promises even when you cannot see the outcome
-- **Obedience** — Following God's instructions leads to blessings
+- **This story teaches children about community in a way they can understand**
+- **God's love and faithfulness are visible throughout this story**
+- **Every Bible story connects to the bigger picture of God's plan for the world**
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding."* — Proverbs 3:5
+> *"The disciples were called Christians first at Antioch."* — Acts 11:26
 
-This verse connects to the story of The Church at Antioch because it reminds us that God's plan is always bigger than what we can see.
+## Parent's Guide: Why This Story Matters
 
-## Quiz: Test What You Learned
+Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
+
+## Quiz: Test What Your Child Learned
 
 After watching the video, see if your child can answer these questions:
 
@@ -67,49 +74,59 @@ The leaders at Antioch came from vastly different backgrounds — Barnabas from 
 While the church was worshipping and fasting, the Holy Spirit said to set apart Barnabas and Saul for a special mission. The church obeyed — they laid hands on them, prayed, and sent them out as the very first missionaries. This moment launched the gospel to the wider world.
 
 
-## Discussion Questions for Parents
+## Discussion Questions for Families
 
-Use these questions at the dinner table or during bedtime to talk about the story with your child:
+Use these questions at the dinner table or during bedtime:
 
 1. What was your favorite part of the story of The Church at Antioch?
 2. What do you think God was teaching us through this story?
 3. How can we be more like The in our own lives?
-4. If you were in this story, what would you have done?
+4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## About the Early Church Series
+## More Episodes in the Early Church Series
 
-This story is episode 10 of 10 in our Early Church series, which covers community, courage, sharing faith, miracles. The series is based on the book of Acts in the New Testament.
+This story is episode 10 of 10 in the Early Church series:
 
-**Other episodes in this series:**
-Watch all 10 episodes of Early Church on Faithful Kids, each with a video lesson and comprehension quiz.
+- [The Church is Born for Kids](/blog/the-church-is-born-for-kids)
+- [Peter Heals the Lame Man for Kids](/blog/peter-heals-the-lame-man-for-kids)
+- [Ananias and Sapphira for Kids](/blog/ananias-and-sapphira-for-kids)
+- [Stephen the First Martyr for Kids](/blog/stephen-the-first-martyr-for-kids)
+- [Philip and the Ethiopian for Kids](/blog/philip-and-the-ethiopian-for-kids)
+- [Saul Meets Jesus for Kids](/blog/saul-meets-jesus-for-kids)
+- [Peter and Cornelius for Kids](/blog/peter-and-cornelius-for-kids)
+- [Peter Escapes Prison for Kids](/blog/peter-escapes-prison-for-kids)
+- [Barnabas the Encourager for Kids](/blog/barnabas-the-encourager-for-kids)
 
-## More Bible Stories for Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is told in 60 seconds, designed for kids Ages 7+, with a quiz after each lesson.
+## 400+ Bible Stories for Kids on Faithful Kids
 
-**Other popular series:** Genesis, Exodus, Promised Land, Judges and Ruth, Rise of Kings
+Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
 
 [**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
+### What is the story of The Church at Antioch about for kids?
+
+The Church at Antioch is a story from Acts. THE EARLY CHURCH — EPISODE 10: THE CHURCH AT ANTIOCH Based on Acts 11:19-30, 13:1-3 Series: The Early Church | Episode 10 of 10 Target audience: Kids ages 7-15
+
 ### What age is the story of The Church at Antioch appropriate for?
 
-This retelling is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just 60 seconds long, which is perfect for young attention spans.
+This retelling of The Church at Antioch is designed for children Ages 7+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
 
-### Where is the story of The Church at Antioch found in the Bible?
+### Where is The Church at Antioch found in the Bible?
 
-This story is found in Acts. It is part of the New Testament and falls within the broader narrative of early church.
+The Church at Antioch is found in Acts in the New Testament. It is part of the Early Church series on Faithful Kids.
 
-### How can I use this story for Sunday School or homeschool?
+### Is there a video of The Church at Antioch for kids?
 
-You can use the Faithful Kids video as a 60-second introduction, then discuss using the questions above. The quiz is great for checking comprehension. Many Sunday school teachers and homeschool parents use our videos as part of their weekly curriculum.
+Yes. Faithful Kids has a 60-second video retelling of The Church at Antioch designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
 
-### Is there a video of this Bible story for kids?
+### How can I use The Church at Antioch for Sunday School or homeschool?
 
-Yes! Faithful Kids has a 60-second video retelling of The Church at Antioch designed specifically for children. It includes narration, visuals, and is followed by a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What other Bible stories are available for kids?
+### What does The Church at Antioch teach kids?
 
-Faithful Kids has 400+ video lessons covering the entire Bible, from Creation in Genesis to Revelation. Popular stories include Noah's Ark, David and Goliath, The Good Samaritan, and the Birth of Jesus. [See all series](https://faithfulkids.com/quiz?ref=blog).
+The story of The Church at Antioch teaches children about community, courage, sharing faith, miracles. This story teaches children about community in a way they can understand.

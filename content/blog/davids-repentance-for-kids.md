@@ -9,8 +9,8 @@ testament: "Old Testament"
 book: "2 Samuel/Psalms"
 age: "Ages 6+"
 themes: "worship, repentance, God's promises, honesty"
-metaDescription: "Learn the story of Davids Repentance explained for kids. Simple retelling from 2 Samuel/Psalms, with key lessons, discussion questions, and a free video. Perfect for ages 5+."
-keywords: ["davids repentance for kids", "davids repentance bible story", "davids repentance for children", "bible stories for kids", "king davids reign for kids", "kids bible", "2 samuel/psalms for kids"]
+metaDescription: "Learn the story of Davids Repentance explained for kids ages 5+. Simple retelling from 2 Samuel/Psalms, with key lessons, discussion questions, quiz, and a free video."
+keywords: ["davids repentance for kids", "davids repentance bible story", "davids repentance for children", "davids repentance explained for kids", "davids repentance story for kids", "bible stories for kids", "king davids reign for kids", "kids bible", "2 samuel/psalms for kids"]
 videoUrl: "/videos/king-davids-reign/davids-repentance/lesson-video.mp4"
 quizAvailable: true
 ---
@@ -19,38 +19,45 @@ quizAvailable: true
 
 **Series:** King Davids Reign (Episode 08 of 10) | **Scripture:** 2 Samuel/Psalms | **Ages 6+**
 
-Looking for a simple way to teach your child the story of Davids Repentance? This retelling is designed for kids ages 5 and up, using language they can understand and lessons they will remember.
+Davids Repentance is a Bible story from 2 Samuel/Psalms in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Video
+## Watch the Full Story of Davids Repentance
 
-Watch the full story of Davids Repentance in our 60-second animated video. Your child can follow along and take a quiz after to see what they learned.
+Watch Davids Repentance in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
 [**Watch "Davids Repentance" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
 
 *Part of our King Davids Reign series, 10 episodes covering worship, repentance, God's promises, honesty.*
 
-## What Is the Story of Davids Repentance?
+## What Is the Story of Davids Repentance for Kids?
 
 KING DAVID'S REIGN — EPISODE 8: DAVID'S REPENTANCE — PSALM 51 Scripture: Psalm 51
 
+Friends, today we're looking at something incredibly powerful — the moment David hit rock bottom and poured his heart out to God. This is Psalm 51, and it might be the most honest prayer ever written.
+
+You remember the story. David sinned — badly. He took another man's wife. He tried to cover it up. He even arranged for her husband Uriah to be killed in battle. For a while, David acted like nothing happened. But God sent the prophet Nathan to confront him. And when the truth hit David, it shattered him completely.
+
+That's when David wrote Psalm 51. And here's what makes it so remarkable — David didn't minimize what he'd done. He didn't make excuses. He didn't say, "Well, everyone makes mistakes," or "It wasn't that bad," or "Other kings do worse." No. David owned it. Completely.
+
 This story comes from 2 Samuel/Psalms and is part of the Old Testament.
 
-## What Does This Story Teach Kids?
+## What Does the Story of Davids Repentance Teach Children?
 
-The story of Davids Repentance teaches children important lessons about worship, repentance, God's promises, honesty. Here are the key takeaways for your child:
+The story of Davids Repentance teaches children important lessons about worship, repentance, God's promises, honesty:
 
-- **Trust in God** — Even when things seem impossible, God has a plan
-- **Courage** — Standing up for what is right, even when it is hard
-- **Faith** — Believing in God's promises even when you cannot see the outcome
-- **Obedience** — Following God's instructions leads to blessings
+- **God does not look at size or strength but at the heart**
+- **With God on your side, no problem is too big**
+- **Sometimes the smallest person in the room has the biggest faith**
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding."* — Proverbs 3:5
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
 
-This verse connects to the story of Davids Repentance because it reminds us that God's plan is always bigger than what we can see.
+## Parent's Guide: Why This Story Matters
 
-## Quiz: Test What You Learned
+David and Goliath is the ultimate underdog story, and kids instinctively connect with it. Your child is small in a big world, and this story tells them that size does not determine who wins. God does. This is a powerful story to revisit when your child faces something that feels too big: a hard test, a bully, a new school. The lesson is not that they can do it alone, but that God is with them.
+
+## Quiz: Test What Your Child Learned
 
 After watching the video, see if your child can answer these questions:
 
@@ -59,49 +66,59 @@ After watching the video, see if your child can answer these questions:
 
 
 
-## Discussion Questions for Parents
+## Discussion Questions for Families
 
-Use these questions at the dinner table or during bedtime to talk about the story with your child:
+Use these questions at the dinner table or during bedtime:
 
 1. What was your favorite part of the story of Davids Repentance?
 2. What do you think God was teaching us through this story?
 3. How can we be more like Davids in our own lives?
-4. If you were in this story, what would you have done?
+4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## About the King Davids Reign Series
+## More Episodes in the King Davids Reign Series
 
-This story is episode 08 of 10 in our King Davids Reign series, which covers worship, repentance, God's promises, honesty. The series is based on the book of 2 Samuel/Psalms in the Old Testament.
+This story is episode 08 of 10 in the King Davids Reign series:
 
-**Other episodes in this series:**
-Watch all 10 episodes of King Davids Reign on Faithful Kids, each with a video lesson and comprehension quiz.
+- [Dancing Before the Lord for Kids](/blog/dancing-before-the-lord-for-kids)
+- [Gods Promise to David for Kids](/blog/gods-promise-to-david-for-kids)
+- [David and Mephibosheth for Kids](/blog/david-and-mephibosheth-for-kids)
+- [Davids Big Mistake for Kids](/blog/davids-big-mistake-for-kids)
+- [The Shepherds Song for Kids](/blog/the-shepherds-song-for-kids)
+- [Songs of Praise for Kids](/blog/songs-of-praise-for-kids)
+- [Absaloms Rebellion for Kids](/blog/absaloms-rebellion-for-kids)
+- [Solomon is Chosen for Kids](/blog/solomon-is-chosen-for-kids)
+- [Davids Final Words for Kids](/blog/davids-final-words-for-kids)
 
-## More Bible Stories for Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is told in 60 seconds, designed for kids Ages 6+, with a quiz after each lesson.
+## 400+ Bible Stories for Kids on Faithful Kids
 
-**Other popular series:** Genesis, Exodus, Promised Land, Judges and Ruth, Rise of Kings
+Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
 [**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
+### What is the story of Davids Repentance about for kids?
+
+Davids Repentance is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 8: DAVID'S REPENTANCE — PSALM 51 Scripture: Psalm 51
+
 ### What age is the story of Davids Repentance appropriate for?
 
-This retelling is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just 60 seconds long, which is perfect for young attention spans.
+This retelling of Davids Repentance is designed for children Ages 6+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
 
-### Where is the story of Davids Repentance found in the Bible?
+### Where is Davids Repentance found in the Bible?
 
-This story is found in 2 Samuel/Psalms. It is part of the Old Testament and falls within the broader narrative of king davids reign.
+Davids Repentance is found in 2 Samuel/Psalms in the Old Testament. It is part of the King Davids Reign series on Faithful Kids.
 
-### How can I use this story for Sunday School or homeschool?
+### Is there a video of Davids Repentance for kids?
 
-You can use the Faithful Kids video as a 60-second introduction, then discuss using the questions above. The quiz is great for checking comprehension. Many Sunday school teachers and homeschool parents use our videos as part of their weekly curriculum.
+Yes. Faithful Kids has a 60-second video retelling of Davids Repentance designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
 
-### Is there a video of this Bible story for kids?
+### How can I use Davids Repentance for Sunday School or homeschool?
 
-Yes! Faithful Kids has a 60-second video retelling of Davids Repentance designed specifically for children. It includes narration, visuals, and is followed by a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What other Bible stories are available for kids?
+### What does Davids Repentance teach kids?
 
-Faithful Kids has 400+ video lessons covering the entire Bible, from Creation in Genesis to Revelation. Popular stories include Noah's Ark, David and Goliath, The Good Samaritan, and the Birth of Jesus. [See all series](https://faithfulkids.com/quiz?ref=blog).
+The story of Davids Repentance teaches children about worship, repentance, God's promises, honesty. God does not look at size or strength but at the heart.

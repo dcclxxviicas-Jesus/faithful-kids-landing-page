@@ -9,8 +9,8 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 6+"
 themes: "sacrifice, love, courage, Easter"
-metaDescription: "Learn the story of The Garden of Gethsemane explained for kids. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, and a free video. Perfect for ages 5+."
-keywords: ["the garden of gethsemane for kids", "the garden of gethsemane bible story", "the garden of gethsemane for children", "bible stories for kids", "road to the cross for kids", "kids bible", "matthew/mark/luke/john for kids"]
+metaDescription: "Learn the story of The Garden of Gethsemane explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+keywords: ["the garden of gethsemane for kids", "the garden of gethsemane bible story", "the garden of gethsemane for children", "the garden of gethsemane explained for kids", "the garden of gethsemane story for kids", "bible stories for kids", "road to the cross for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/road-to-the-cross/the-garden-of-gethsemane/lesson-video.mp4"
 quizAvailable: true
 ---
@@ -19,38 +19,45 @@ quizAvailable: true
 
 **Series:** Road to the Cross (Episode 04 of 10) | **Scripture:** Matthew/Mark/Luke/John | **Ages 6+**
 
-Looking for a simple way to teach your child the story of The Garden of Gethsemane? This retelling is designed for kids ages 5 and up, using language they can understand and lessons they will remember.
+The Garden of Gethsemane is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Video
+## Watch the Full Story of The Garden of Gethsemane
 
-Watch the full story of The Garden of Gethsemane in our 60-second animated video. Your child can follow along and take a quiz after to see what they learned.
+Watch The Garden of Gethsemane in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
 [**Watch "The Garden of Gethsemane" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
 
 *Part of our Road to the Cross series, 10 episodes covering sacrifice, love, courage, Easter.*
 
-## What Is the Story of The Garden of Gethsemane?
+## What Is the Story of The Garden of Gethsemane for Kids?
 
 THE ROAD TO THE CROSS — Episode 4: The Garden of Gethsemane Based on Matthew 26:36-46 Series: The Road to the Cross | Target audience: Ages 7-15
 
+I need to tell you about the hardest night of my life. And I'm going to be completely honest with you — because you deserve to know what it really cost.
+
+After supper, we sang a hymn together and walked out into the night. Jerusalem was quiet now. The streets were mostly empty. We crossed the Kidron Valley and climbed the hill to a garden called Gethsemane — a grove of old, gnarled olive trees that I had gone to many times before to pray.
+
+I left most of the disciples near the entrance. "Sit here while I go over there and pray," I told them. Then I took Peter, James, and John — my three closest friends — deeper into the garden.
+
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
-## What Does This Story Teach Kids?
+## What Does the Story of The Garden of Gethsemane Teach Children?
 
-The story of The Garden of Gethsemane teaches children important lessons about sacrifice, love, courage, Easter. Here are the key takeaways for your child:
+The story of The Garden of Gethsemane teaches children important lessons about sacrifice, love, courage, Easter:
 
-- **Trust in God** — Even when things seem impossible, God has a plan
-- **Courage** — Standing up for what is right, even when it is hard
-- **Faith** — Believing in God's promises even when you cannot see the outcome
-- **Obedience** — Following God's instructions leads to blessings
+- **This story teaches children about sacrifice in a way they can understand**
+- **God's love and faithfulness are visible throughout this story**
+- **Every Bible story connects to the bigger picture of God's plan for the world**
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding."* — Proverbs 3:5
+> *"The Lord God took the man and put him in the Garden of Eden to work it and take care of it."* — Genesis 2:15
 
-This verse connects to the story of The Garden of Gethsemane because it reminds us that God's plan is always bigger than what we can see.
+## Parent's Guide: Why This Story Matters
 
-## Quiz: Test What You Learned
+Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
+
+## Quiz: Test What Your Child Learned
 
 After watching the video, see if your child can answer these questions:
 
@@ -59,49 +66,59 @@ After watching the video, see if your child can answer these questions:
 
 
 
-## Discussion Questions for Parents
+## Discussion Questions for Families
 
-Use these questions at the dinner table or during bedtime to talk about the story with your child:
+Use these questions at the dinner table or during bedtime:
 
 1. What was your favorite part of the story of The Garden of Gethsemane?
 2. What do you think God was teaching us through this story?
 3. How can we be more like The in our own lives?
-4. If you were in this story, what would you have done?
+4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## About the Road to the Cross Series
+## More Episodes in the Road to the Cross Series
 
-This story is episode 04 of 10 in our Road to the Cross series, which covers sacrifice, love, courage, Easter. The series is based on the book of Matthew/Mark/Luke/John in the New Testament.
+This story is episode 04 of 10 in the Road to the Cross series:
 
-**Other episodes in this series:**
-Watch all 10 episodes of Road to the Cross on Faithful Kids, each with a video lesson and comprehension quiz.
+- [The Triumphal Entry for Kids](/blog/the-triumphal-entry-for-kids)
+- [Cleansing the Temple for Kids](/blog/cleansing-the-temple-for-kids)
+- [The Last Supper for Kids](/blog/the-last-supper-for-kids)
+- [The Betrayal for Kids](/blog/the-betrayal-for-kids)
+- [The Trial for Kids](/blog/the-trial-for-kids)
+- [Peter Denies Jesus for Kids](/blog/peter-denies-jesus-for-kids)
+- [The Cross for Kids](/blog/the-cross-for-kids)
+- [It is Finished for Kids](/blog/it-is-finished-for-kids)
+- [The Burial for Kids](/blog/the-burial-for-kids)
 
-## More Bible Stories for Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is told in 60 seconds, designed for kids Ages 6+, with a quiz after each lesson.
+## 400+ Bible Stories for Kids on Faithful Kids
 
-**Other popular series:** Genesis, Exodus, Promised Land, Judges and Ruth, Rise of Kings
+Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
 [**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
+### What is the story of The Garden of Gethsemane about for kids?
+
+The Garden of Gethsemane is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 4: The Garden of Gethsemane Based on Matthew 26:36-46 Series: The Road to the Cross | Target audience: Ages 7-15
+
 ### What age is the story of The Garden of Gethsemane appropriate for?
 
-This retelling is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just 60 seconds long, which is perfect for young attention spans.
+This retelling of The Garden of Gethsemane is designed for children Ages 6+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
 
-### Where is the story of The Garden of Gethsemane found in the Bible?
+### Where is The Garden of Gethsemane found in the Bible?
 
-This story is found in Matthew/Mark/Luke/John. It is part of the New Testament and falls within the broader narrative of road to the cross.
+The Garden of Gethsemane is found in Matthew/Mark/Luke/John in the New Testament. It is part of the Road to the Cross series on Faithful Kids.
 
-### How can I use this story for Sunday School or homeschool?
+### Is there a video of The Garden of Gethsemane for kids?
 
-You can use the Faithful Kids video as a 60-second introduction, then discuss using the questions above. The quiz is great for checking comprehension. Many Sunday school teachers and homeschool parents use our videos as part of their weekly curriculum.
+Yes. Faithful Kids has a 60-second video retelling of The Garden of Gethsemane designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
 
-### Is there a video of this Bible story for kids?
+### How can I use The Garden of Gethsemane for Sunday School or homeschool?
 
-Yes! Faithful Kids has a 60-second video retelling of The Garden of Gethsemane designed specifically for children. It includes narration, visuals, and is followed by a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What other Bible stories are available for kids?
+### What does The Garden of Gethsemane teach kids?
 
-Faithful Kids has 400+ video lessons covering the entire Bible, from Creation in Genesis to Revelation. Popular stories include Noah's Ark, David and Goliath, The Good Samaritan, and the Birth of Jesus. [See all series](https://faithfulkids.com/quiz?ref=blog).
+The story of The Garden of Gethsemane teaches children about sacrifice, love, courage, Easter. This story teaches children about sacrifice in a way they can understand.

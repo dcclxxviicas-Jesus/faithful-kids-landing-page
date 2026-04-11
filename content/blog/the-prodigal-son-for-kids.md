@@ -9,8 +9,8 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "love, kindness, forgiveness, prayer, wisdom"
-metaDescription: "Learn the story of The Prodigal Son explained for kids. Simple retelling from Matthew/Luke, with key lessons, discussion questions, and a free video. Perfect for ages 5+."
-keywords: ["the prodigal son for kids", "the prodigal son bible story", "the prodigal son for children", "bible stories for kids", "teachings of jesus for kids", "kids bible", "matthew/luke for kids"]
+metaDescription: "Learn the story of The Prodigal Son explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, discussion questions, quiz, and a free video."
+keywords: ["the prodigal son for kids", "the prodigal son bible story", "the prodigal son for children", "the prodigal son explained for kids", "the prodigal son story for kids", "bible stories for kids", "teachings of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/teachings-of-jesus/the-prodigal-son/lesson-video.mp4"
 quizAvailable: true
 ---
@@ -19,38 +19,45 @@ quizAvailable: true
 
 **Series:** Teachings of Jesus (Episode 05 of 10) | **Scripture:** Matthew/Luke | **Ages 5+**
 
-Looking for a simple way to teach your child the story of The Prodigal Son? This retelling is designed for kids ages 5 and up, using language they can understand and lessons they will remember.
+The Prodigal Son is a Bible story from Matthew/Luke in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Video
+## Watch the Full Story of The Prodigal Son
 
-Watch the full story of The Prodigal Son in our 60-second animated video. Your child can follow along and take a quiz after to see what they learned.
+Watch The Prodigal Son in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
 [**Watch "The Prodigal Son" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
 
 *Part of our Teachings of Jesus series, 10 episodes covering love, kindness, forgiveness, prayer, wisdom.*
 
-## What Is the Story of The Prodigal Son?
+## What Is the Story of The Prodigal Son for Kids?
 
 THE TEACHINGS OF JESUS — Episode 5 "The Prodigal Son" Based on Luke 15:11-32
 
+I told this story because the religious people were complaining that I spent too much time with sinners. They said, "This man welcomes sinners and eats with them!" So I told them a story that silenced the room.
+
+A man had two sons. The younger one walked up to his father and said, "Give me my share of the inheritance." Now you need to understand — that was like saying, "Dad, I wish you were dead. Give me the money now." Brutal. Disrespectful. Heartbreaking. But the father gave it to him.
+
+The son took everything and ran to a distant country. Far from home. Far from his father. And he blew it ALL. Every coin. Wild parties. Reckless living. He burned through his entire fortune like it was nothing.
+
 This story comes from Matthew/Luke and is part of the New Testament.
 
-## What Does This Story Teach Kids?
+## What Does the Story of The Prodigal Son Teach Children?
 
-The story of The Prodigal Son teaches children important lessons about love, kindness, forgiveness, prayer, wisdom. Here are the key takeaways for your child:
+The story of The Prodigal Son teaches children important lessons about love, kindness, forgiveness, prayer, wisdom:
 
-- **Trust in God** — Even when things seem impossible, God has a plan
-- **Courage** — Standing up for what is right, even when it is hard
-- **Faith** — Believing in God's promises even when you cannot see the outcome
-- **Obedience** — Following God's instructions leads to blessings
+- **God welcomes us back no matter how far we have wandered**
+- **Forgiveness is always available when we turn back to God**
+- **Jealousy of God's grace toward others misses the point of His love**
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding."* — Proverbs 3:5
+> *"This son of mine was dead and is alive again; he was lost and is found."* — Luke 15:24
 
-This verse connects to the story of The Prodigal Son because it reminds us that God's plan is always bigger than what we can see.
+## Parent's Guide: Why This Story Matters
 
-## Quiz: Test What You Learned
+The Prodigal Son teaches the hardest and most beautiful lesson in the Bible: that God's love has no conditions. For kids who mess up (which is all of them), this story says you can always come home. It also teaches kids who are the 'good child' to not be jealous of grace. This is a bedtime story, a post-tantrum story, a story for any day when your child needs to hear that they are loved no matter what.
+
+## Quiz: Test What Your Child Learned
 
 After watching the video, see if your child can answer these questions:
 
@@ -75,49 +82,59 @@ The robe meant honor. The ring meant authority and belonging. The sandals meant 
 The older brother represents people who follow the rules but miss the heart of God. He was so focused on fairness that he couldn't celebrate grace. The father reminded him: "Everything I have is yours. But we HAD to celebrate — your brother was lost and now he's found."
 
 
-## Discussion Questions for Parents
+## Discussion Questions for Families
 
-Use these questions at the dinner table or during bedtime to talk about the story with your child:
+Use these questions at the dinner table or during bedtime:
 
 1. What was your favorite part of the story of The Prodigal Son?
 2. What do you think God was teaching us through this story?
 3. How can we be more like The in our own lives?
-4. If you were in this story, what would you have done?
+4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## About the Teachings of Jesus Series
+## More Episodes in the Teachings of Jesus Series
 
-This story is episode 05 of 10 in our Teachings of Jesus series, which covers love, kindness, forgiveness, prayer, wisdom. The series is based on the book of Matthew/Luke in the New Testament.
+This story is episode 05 of 10 in the Teachings of Jesus series:
 
-**Other episodes in this series:**
-Watch all 10 episodes of Teachings of Jesus on Faithful Kids, each with a video lesson and comprehension quiz.
+- [The Sermon on the Mount for Kids](/blog/the-sermon-on-the-mount-for-kids)
+- [The Beatitudes for Kids](/blog/the-beatitudes-for-kids)
+- [The Lords Prayer for Kids](/blog/the-lords-prayer-for-kids)
+- [The Good Samaritan for Kids](/blog/the-good-samaritan-for-kids)
+- [The Sower and the Seeds for Kids](/blog/the-sower-and-the-seeds-for-kids)
+- [The Mustard Seed for Kids](/blog/the-mustard-seed-for-kids)
+- [The Lost Sheep for Kids](/blog/the-lost-sheep-for-kids)
+- [The Wise and Foolish Builders for Kids](/blog/the-wise-and-foolish-builders-for-kids)
+- [The Unforgiving Servant for Kids](/blog/the-unforgiving-servant-for-kids)
 
-## More Bible Stories for Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is told in 60 seconds, designed for kids Ages 5+, with a quiz after each lesson.
+## 400+ Bible Stories for Kids on Faithful Kids
 
-**Other popular series:** Genesis, Exodus, Promised Land, Judges and Ruth, Rise of Kings
+Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
 [**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
+### What is the story of The Prodigal Son about for kids?
+
+The Prodigal Son is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 5 "The Prodigal Son" Based on Luke 15:11-32
+
 ### What age is the story of The Prodigal Son appropriate for?
 
-This retelling is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just 60 seconds long, which is perfect for young attention spans.
+This retelling of The Prodigal Son is designed for children Ages 5+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
 
-### Where is the story of The Prodigal Son found in the Bible?
+### Where is The Prodigal Son found in the Bible?
 
-This story is found in Matthew/Luke. It is part of the New Testament and falls within the broader narrative of teachings of jesus.
+The Prodigal Son is found in Matthew/Luke in the New Testament. It is part of the Teachings of Jesus series on Faithful Kids.
 
-### How can I use this story for Sunday School or homeschool?
+### Is there a video of The Prodigal Son for kids?
 
-You can use the Faithful Kids video as a 60-second introduction, then discuss using the questions above. The quiz is great for checking comprehension. Many Sunday school teachers and homeschool parents use our videos as part of their weekly curriculum.
+Yes. Faithful Kids has a 60-second video retelling of The Prodigal Son designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
 
-### Is there a video of this Bible story for kids?
+### How can I use The Prodigal Son for Sunday School or homeschool?
 
-Yes! Faithful Kids has a 60-second video retelling of The Prodigal Son designed specifically for children. It includes narration, visuals, and is followed by a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What other Bible stories are available for kids?
+### What does The Prodigal Son teach kids?
 
-Faithful Kids has 400+ video lessons covering the entire Bible, from Creation in Genesis to Revelation. Popular stories include Noah's Ark, David and Goliath, The Good Samaritan, and the Birth of Jesus. [See all series](https://faithfulkids.com/quiz?ref=blog).
+The story of The Prodigal Son teaches children about love, kindness, forgiveness, prayer, wisdom. God welcomes us back no matter how far we have wandered.

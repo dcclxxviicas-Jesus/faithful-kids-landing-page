@@ -9,8 +9,8 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of The Burning Bush explained for kids. Simple retelling from Exodus 3-4, with key lessons, discussion questions, and a free video. Perfect for ages 5+."
-keywords: ["the burning bush for kids", "the burning bush bible story", "the burning bush for children", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
+metaDescription: "Learn the story of The Burning Bush explained for kids ages 5+. Simple retelling from Exodus 3-4, with key lessons, discussion questions, quiz, and a free video."
+keywords: ["the burning bush for kids", "the burning bush bible story", "the burning bush for children", "the burning bush explained for kids", "the burning bush story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/the-burning-bush/lesson-video.mp4"
 quizAvailable: true
 ---
@@ -19,38 +19,45 @@ quizAvailable: true
 
 **Series:** Exodus (Episode 02 of 10) | **Scripture:** Exodus 3-4 | **Ages 5+**
 
-Looking for a simple way to teach your child the story of The Burning Bush? This retelling is designed for kids ages 5 and up, using language they can understand and lessons they will remember.
+The Burning Bush is a Bible story from Exodus 3-4 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Video
+## Watch the Full Story of The Burning Bush
 
-Watch the full story of The Burning Bush in our 60-second animated video. Your child can follow along and take a quiz after to see what they learned.
+Watch The Burning Bush in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
 [**Watch "The Burning Bush" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
 
 *Part of our Exodus series, 10 episodes covering freedom, courage, God's power, obedience.*
 
-## What Is the Story of The Burning Bush?
+## What Is the Story of The Burning Bush for Kids?
 
 Okay, so last time we left Moses running for his life, right? He went from living in a palace to hiding out in the middle of nowhere -- a place called Midian. And what's he doing there? Herding sheep. Yep, sheep. The guy who grew up as Egyptian royalty is now chasing fluffy animals around the desert. Life is funny like that sometimes.
 
+But here's the thing -- Moses spent FORTY YEARS out there. Forty! That's not a quick timeout. That's a whole career of walking around dusty hills with a bunch of sheep who don't exactly have great conversation skills.
+
+Moses is leading his flock near Mount Horeb when he sees something that makes zero sense. A bush is on fire. Okay, not that weird -- it's the desert, things get dry. BUT THIS BUSH ISN'T BURNING UP. The flames are dancing, the bush is blazing, but not a single leaf turns to ash. Moses thinks, "I gotta check this out."
+
+And as he walks toward it, a voice comes from the bush: "Moses! Moses!"
+
 This story comes from Exodus 3-4 and is part of the Old Testament.
 
-## What Does This Story Teach Kids?
+## What Does the Story of The Burning Bush Teach Children?
 
-The story of The Burning Bush teaches children important lessons about freedom, courage, God's power, obedience. Here are the key takeaways for your child:
+The story of The Burning Bush teaches children important lessons about freedom, courage, God's power, obedience:
 
-- **Trust in God** — Even when things seem impossible, God has a plan
-- **Courage** — Standing up for what is right, even when it is hard
-- **Faith** — Believing in God's promises even when you cannot see the outcome
-- **Obedience** — Following God's instructions leads to blessings
+- **God can use anyone, even someone who feels unqualified**
+- **When God calls you to do something, He will give you what you need**
+- **Courage is not the absence of fear but trusting God through it**
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding."* — Proverbs 3:5
+> *"Take off your sandals, for the place where you are standing is holy ground."* — Exodus 3:5
 
-This verse connects to the story of The Burning Bush because it reminds us that God's plan is always bigger than what we can see.
+## Parent's Guide: Why This Story Matters
 
-## Quiz: Test What You Learned
+Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
+
+## Quiz: Test What Your Child Learned
 
 After watching the video, see if your child can answer these questions:
 
@@ -67,49 +74,59 @@ God told Moses His name was "I AM WHO I AM," showing that He is eternal, always 
 Moses told God he was slow of speech and not eloquent, so God gave him his brother Aaron to be his spokesperson before Pharaoh.
 
 
-## Discussion Questions for Parents
+## Discussion Questions for Families
 
-Use these questions at the dinner table or during bedtime to talk about the story with your child:
+Use these questions at the dinner table or during bedtime:
 
 1. What was your favorite part of the story of The Burning Bush?
 2. What do you think God was teaching us through this story?
 3. How can we be more like The in our own lives?
-4. If you were in this story, what would you have done?
+4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## About the Exodus Series
+## More Episodes in the Exodus Series
 
-This story is episode 02 of 10 in our Exodus series, which covers freedom, courage, God's power, obedience. The series is based on the book of Exodus in the Old Testament.
+This story is episode 02 of 10 in the Exodus series:
 
-**Other episodes in this series:**
-Watch all 10 episodes of Exodus on Faithful Kids, each with a video lesson and comprehension quiz.
+- [A Baby in a Basket for Kids](/blog/a-baby-in-a-basket-for-kids)
+- [Let My People Go for Kids](/blog/let-my-people-go-for-kids)
+- [The Ten Plagues for Kids](/blog/the-ten-plagues-for-kids)
+- [The Passover for Kids](/blog/the-passover-for-kids)
+- [Crossing the Red Sea for Kids](/blog/crossing-the-red-sea-for-kids)
+- [Manna from Heaven for Kids](/blog/manna-from-heaven-for-kids)
+- [The Ten Commandments for Kids](/blog/the-ten-commandments-for-kids)
+- [The Golden Calf for Kids](/blog/the-golden-calf-for-kids)
+- [Gods Presence for Kids](/blog/gods-presence-for-kids)
 
-## More Bible Stories for Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is told in 60 seconds, designed for kids Ages 5+, with a quiz after each lesson.
+## 400+ Bible Stories for Kids on Faithful Kids
 
-**Other popular series:** Genesis, Promised Land, Judges and Ruth, Rise of Kings, King Davids Reign
+Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
 [**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
+### What is the story of The Burning Bush about for kids?
+
+The Burning Bush is a story from Exodus 3-4. Okay, so last time we left Moses running for his life, right? He went from living in a palace to hiding out in the middle of nowhere -- a place called Midian. And what's he doing there? Herding she...
+
 ### What age is the story of The Burning Bush appropriate for?
 
-This retelling is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just 60 seconds long, which is perfect for young attention spans.
+This retelling of The Burning Bush is designed for children Ages 5+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
 
-### Where is the story of The Burning Bush found in the Bible?
+### Where is The Burning Bush found in the Bible?
 
-This story is found in Exodus 3-4. It is part of the Old Testament and falls within the broader narrative of exodus.
+The Burning Bush is found in Exodus 3-4 in the Old Testament. It is part of the Exodus series on Faithful Kids.
 
-### How can I use this story for Sunday School or homeschool?
+### Is there a video of The Burning Bush for kids?
 
-You can use the Faithful Kids video as a 60-second introduction, then discuss using the questions above. The quiz is great for checking comprehension. Many Sunday school teachers and homeschool parents use our videos as part of their weekly curriculum.
+Yes. Faithful Kids has a 60-second video retelling of The Burning Bush designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
 
-### Is there a video of this Bible story for kids?
+### How can I use The Burning Bush for Sunday School or homeschool?
 
-Yes! Faithful Kids has a 60-second video retelling of The Burning Bush designed specifically for children. It includes narration, visuals, and is followed by a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What other Bible stories are available for kids?
+### What does The Burning Bush teach kids?
 
-Faithful Kids has 400+ video lessons covering the entire Bible, from Creation in Genesis to Revelation. Popular stories include Noah's Ark, David and Goliath, The Good Samaritan, and the Birth of Jesus. [See all series](https://faithfulkids.com/quiz?ref=blog).
+The story of The Burning Bush teaches children about freedom, courage, God's power, obedience. God can use anyone, even someone who feels unqualified.

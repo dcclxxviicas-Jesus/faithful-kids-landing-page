@@ -6,6 +6,7 @@ import {
   extractFaqFromContent,
   extractDiscussionQuestions,
   getReadingTime,
+  getHeroStoryLinks,
 } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 
@@ -57,31 +58,44 @@ export default async function BlogPostPage({ params }: Props) {
   const readingTime = getReadingTime(post.content)
   const faqs = extractFaqFromContent(post.content)
   const discussionQuestions = extractDiscussionQuestions(post.content)
-  const allFaqItems = [...discussionQuestions, ...faqs]
+  const heroStories = getHeroStoryLinks(post.slug, post.seriesSlug)
 
-  // JSON-LD Article schema
+  // Use only real FAQ items (not discussion questions) for FAQPage schema
+  const faqItems = faqs
+
+  // JSON-LD Article schema (enhanced for AEO)
+  const titleWithoutForKids = post.title.replace(/ for Kids.*$/, '')
   const articleJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: post.title,
     description: post.metaDescription,
-    author: { '@type': 'Organization', name: 'Faithful Kids Team' },
+    author: { '@type': 'Person', name: 'Faithful Kids Team' },
     publisher: {
       '@type': 'Organization',
       name: 'Faithful Kids',
       url: 'https://faithfulkids.app',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://faithfulkids.app/logo.png',
+      },
     },
-    datePublished: '2026-04-10',
+    datePublished: '2026-04-01',
+    dateModified: '2026-04-10',
     keywords: post.keywords,
     mainEntityOfPage: `https://faithfulkids.app/blog/${post.slug}`,
+    educationalLevel: 'beginner',
+    audience: { '@type': 'EducationalAudience', educationalRole: 'parent' },
+    isPartOf: { '@type': 'CreativeWorkSeries', name: `${post.series} - Faithful Kids Bible Series` },
+    about: { '@type': 'Thing', name: `${titleWithoutForKids} Bible Story` },
   }
 
-  // FAQ schema
-  const faqJsonLd = allFaqItems.length > 0
+  // FAQ schema — uses extracted FAQ section only
+  const faqJsonLd = faqItems.length > 0
     ? {
         '@context': 'https://schema.org',
         '@type': 'FAQPage',
-        mainEntity: allFaqItems.map(faq => ({
+        mainEntity: faqItems.map(faq => ({
           '@type': 'Question',
           name: faq.question,
           acceptedAnswer: {
@@ -89,6 +103,23 @@ export default async function BlogPostPage({ params }: Props) {
             text: faq.answer,
           },
         })),
+      }
+    : null
+
+  // VideoObject schema
+  const videoJsonLd = post.videoUrl
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'VideoObject',
+        name: `${post.title} — Bible Story Video`,
+        description: post.metaDescription,
+        thumbnailUrl: 'https://faithfulkids.app/logo.png',
+        uploadDate: '2026-01-01',
+        duration: 'PT1M30S',
+        contentUrl: `https://faithfulkids.app${post.videoUrl}`,
+        publisher: { '@type': 'Organization', name: 'Faithful Kids' },
+        educationalLevel: 'beginner',
+        inLanguage: 'en',
       }
     : null
 
@@ -106,6 +137,12 @@ export default async function BlogPostPage({ params }: Props) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
+      {videoJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(videoJsonLd) }}
         />
       )}
 
@@ -127,7 +164,7 @@ export default async function BlogPostPage({ params }: Props) {
       <div className="blog-breadcrumb">
         <a href="/blog">Blog</a>
         <span className="blog-breadcrumb-sep">/</span>
-        <a href={`/blog?series=${post.seriesSlug}`}>{post.series}</a>
+        <a href={`/blog/series/${post.seriesSlug}`}>{post.series}</a>
         <span className="blog-breadcrumb-sep">/</span>
         <span className="blog-breadcrumb-current">{post.title.split(':')[0]}</span>
       </div>
@@ -216,6 +253,26 @@ export default async function BlogPostPage({ params }: Props) {
                   {rp.book && <>{rp.book} &middot; </>}{rp.age}
                 </p>
                 <span className="blog-card-link">Read More &rarr;</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* RELATED STORIES FROM OTHER SERIES */}
+      {heroStories.length > 0 && (
+        <section className="blog-related">
+          <h2>Related Bible Stories</h2>
+          <div className="blog-related-grid">
+            {heroStories.map(story => (
+              <a key={story.slug} href={`/blog/${story.slug}`} className="blog-card blog-card-compact">
+                <div className="blog-card-header">
+                  <span className="blog-card-badge">{story.series}</span>
+                  <span className="blog-card-episode">Ep. {story.episode}</span>
+                </div>
+                <h3 className="blog-card-title">{story.title.split(':')[0]}</h3>
+                <p className="blog-card-desc">{story.metaDescription}</p>
+                <span className="blog-card-link">Read Story &rarr;</span>
               </a>
             ))}
           </div>

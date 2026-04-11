@@ -1,9 +1,10 @@
 import type { MetadataRoute } from 'next'
-import { getAllPosts } from '@/lib/blog'
+import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://faithfulkids.app'
   const posts = getAllPosts()
+  const series = getAllSeriesNames()
 
   const staticPages: MetadataRoute.Sitemap = [
     {
@@ -44,6 +45,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 
+  const seriesPages: MetadataRoute.Sitemap = series.map(s => ({
+    url: `${baseUrl}/blog/series/${s.slug}`,
+    lastModified: new Date('2026-04-10'),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }))
+
   const blogPages: MetadataRoute.Sitemap = posts.map(post => ({
     url: `${baseUrl}/blog/${post.slug}`,
     lastModified: new Date('2026-04-10'),
@@ -51,5 +59,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
-  return [...staticPages, ...blogPages]
+  return [...staticPages, ...seriesPages, ...blogPages]
 }

@@ -192,8 +192,13 @@ function markdownToHtml(md: string): string {
 }
 
 function applyInlineFormatting(text: string): string {
-  // Links: [text](url)
-  text = text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+  // Links: [text](url) — block javascript: protocol to prevent XSS
+  text = text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, linkText, url) => {
+    if (url.toLowerCase().trimStart().startsWith('javascript:')) return linkText;
+    if (url.toLowerCase().trimStart().startsWith('data:')) return linkText;
+    if (url.toLowerCase().trimStart().startsWith('vbscript:')) return linkText;
+    return `<a href="${url}">${linkText}</a>`;
+  })
 
   // Images: ![alt](src)
   text = text.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" />')

@@ -34,11 +34,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: `https://faithfulkids.app/blog/${post.slug}`,
       siteName: 'Faithful Kids',
       type: 'article',
+      images: [{
+        url: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
+        width: 1792,
+        height: 1024,
+        alt: `${post.title} - Bible Story Illustration`,
+      }],
     },
     twitter: {
       card: 'summary_large_image',
       title: post.title,
       description: post.metaDescription,
+      images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`],
     },
     alternates: {
       canonical: `https://faithfulkids.app/blog/${post.slug}`,
@@ -70,6 +77,7 @@ export default async function BlogPostPage({ params }: Props) {
     '@type': 'Article',
     headline: post.title,
     description: post.metaDescription,
+    image: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
     author: { '@type': 'Person', name: 'Faithful Kids Team' },
     publisher: {
       '@type': 'Organization',
@@ -123,6 +131,19 @@ export default async function BlogPostPage({ params }: Props) {
       }
     : null
 
+  // ImageObject schema for hero image
+  const imageJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ImageObject',
+    contentUrl: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
+    name: `${post.title} - Bible Story Illustration for Kids`,
+    description: post.metaDescription,
+    width: 1792,
+    height: 1024,
+    representativeOfPage: true,
+    creator: { '@type': 'Organization', name: 'Faithful Kids' },
+  }
+
   // Split content to inject mid-article CTA
   const contentParts = splitContentForCTA(post.content)
 
@@ -145,6 +166,10 @@ export default async function BlogPostPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(videoJsonLd) }}
         />
       )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(imageJsonLd) }}
+      />
 
       {/* NAV */}
       <nav className="nav">
@@ -167,6 +192,17 @@ export default async function BlogPostPage({ params }: Props) {
         <a href={`/blog/series/${post.seriesSlug}`}>{post.series}</a>
         <span className="blog-breadcrumb-sep">/</span>
         <span className="blog-breadcrumb-current">{post.title.split(':')[0]}</span>
+      </div>
+
+      {/* HERO IMAGE */}
+      <div style={{ maxWidth: '900px', margin: '0 auto', padding: '0 20px' }}>
+        <img
+          src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-hero.webp`}
+          alt={`${post.title} - Bible Story Illustration for Kids`}
+          width={1792}
+          height={1024}
+          style={{ width: '100%', height: 'auto', borderRadius: '16px', marginBottom: '24px' }}
+        />
       </div>
 
       {/* ARTICLE */}
@@ -215,6 +251,16 @@ export default async function BlogPostPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: contentParts.first }}
         />
 
+        {/* Inline image 1 — after first content section */}
+        <img
+          src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-1.webp`}
+          alt={`Illustration from ${post.title}`}
+          width={1024}
+          height={1024}
+          loading="lazy"
+          style={{ width: '100%', maxWidth: '600px', height: 'auto', borderRadius: '12px', margin: '24px auto', display: 'block' }}
+        />
+
         {/* Mid-article CTA */}
         <div className="blog-mid-cta">
           <div className="blog-mid-cta-icon">&#9654;</div>
@@ -227,6 +273,18 @@ export default async function BlogPostPage({ params }: Props) {
             Watch Free for 7 Days
           </a>
         </div>
+
+        {/* Inline image 2 — before discussion/quiz section */}
+        {contentParts.second && (
+          <img
+            src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-2.webp`}
+            alt={`${post.title} - Key Moment Illustration`}
+            width={1024}
+            height={1024}
+            loading="lazy"
+            style={{ width: '100%', maxWidth: '600px', height: 'auto', borderRadius: '12px', margin: '24px auto', display: 'block' }}
+          />
+        )}
 
         {/* Body — second half */}
         {contentParts.second && (
@@ -244,6 +302,14 @@ export default async function BlogPostPage({ params }: Props) {
           <div className="blog-related-grid">
             {relatedPosts.map(rp => (
               <a key={rp.slug} href={`/blog/${rp.slug}`} className="blog-card blog-card-compact">
+                <img
+                  src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${rp.slug}-hero.webp`}
+                  alt={`${rp.title} - Bible Story Illustration`}
+                  width={1792}
+                  height={1024}
+                  loading="lazy"
+                  style={{ width: '100%', height: 'auto', borderRadius: '12px 12px 0 0' }}
+                />
                 <div className="blog-card-header">
                   <span className="blog-card-badge">{rp.series}</span>
                   <span className="blog-card-episode">Ep. {rp.episode}</span>
@@ -266,6 +332,14 @@ export default async function BlogPostPage({ params }: Props) {
           <div className="blog-related-grid">
             {heroStories.map(story => (
               <a key={story.slug} href={`/blog/${story.slug}`} className="blog-card blog-card-compact">
+                <img
+                  src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${story.slug}-hero.webp`}
+                  alt={`${story.title} - Bible Story Illustration`}
+                  width={1792}
+                  height={1024}
+                  loading="lazy"
+                  style={{ width: '100%', height: 'auto', borderRadius: '12px 12px 0 0' }}
+                />
                 <div className="blog-card-header">
                   <span className="blog-card-badge">{story.series}</span>
                   <span className="blog-card-episode">Ep. {story.episode}</span>

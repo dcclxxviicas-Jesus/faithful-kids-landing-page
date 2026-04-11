@@ -30,11 +30,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: `https://faithfulkids.app/blog/series/${seriesSlug}`,
       siteName: 'Faithful Kids',
       type: 'website',
+      images: [{
+        url: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${posts[0].slug}-hero.webp`,
+        width: 1792,
+        height: 1024,
+        alt: `${seriesName} - Bible Story Series for Kids`,
+      }],
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
+      images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${posts[0].slug}-hero.webp`],
     },
     alternates: {
       canonical: `https://faithfulkids.app/blog/series/${seriesSlug}`,
@@ -122,6 +129,14 @@ export default async function SeriesPage({ params }: Props) {
             .sort((a, b) => a.episode - b.episode)
             .map(post => (
             <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
+              <img
+                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+                alt={`${post.title} - Bible Story Illustration for Kids`}
+                width={1792}
+                height={1024}
+                loading="lazy"
+                style={{ width: '100%', height: 'auto', borderRadius: '12px 12px 0 0' }}
+              />
               <div className="blog-card-header">
                 <span className="blog-card-badge">{post.series}</span>
                 <span className="blog-card-episode">Ep. {post.episode}</span>

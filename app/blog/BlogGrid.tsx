@@ -66,6 +66,14 @@ export default function BlogGrid({
       <div className="blog-grid">
         {filtered.map(post => (
           <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
+            <img
+              src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+              alt={post.title}
+              width={1792}
+              height={1024}
+              loading="lazy"
+              style={{ width: '100%', height: 'auto', borderRadius: '12px 12px 0 0' }}
+            />
             <div className="blog-card-header">
               <span className="blog-card-badge">{post.series}</span>
               <span className="blog-card-episode">Ep. {post.episode}</span>

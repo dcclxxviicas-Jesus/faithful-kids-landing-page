@@ -12,11 +12,17 @@ export const metadata: Metadata = {
     url: 'https://faithfulkids.app/blog',
     siteName: 'Faithful Kids',
     type: 'website',
+    images: [{
+      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp',
+      width: 1792,
+      height: 1024,
+    }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Bible Stories for Kids - Free Guides for Every Story',
     description: '200+ Bible stories explained simply for kids ages 5+.',
+    images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp'],
   },
   alternates: {
     canonical: 'https://faithfulkids.app/blog',

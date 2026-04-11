@@ -416,6 +416,7 @@ export default function Home() {
         <div className="footer-inner">
           <div className="footer-logo"><img src="/logo.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids</div>
           <div className="footer-links">
+            <a href="/blog">Blog</a>
             <a href="/privacy">Privacy</a>
             <a href="/terms">Terms</a>
             <a href="mailto:team@faithfulkids.app">Contact</a>

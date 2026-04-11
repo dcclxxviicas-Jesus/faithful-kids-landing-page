@@ -25,7 +25,7 @@ The Wall is Finished is a Bible story from Ezra/Nehemiah/Esther in the Old Testa
 
 Watch The Wall is Finished in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "The Wall is Finished" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "The Wall is Finished" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our The Return Home series, 10 episodes covering rebuilding, courage, God's faithfulness, prayer.*
 
@@ -95,7 +95,7 @@ This story is episode 06 of 10 in the The Return Home series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -113,7 +113,7 @@ The Wall is Finished is found in Ezra/Nehemiah/Esther in the Old Testament. It i
 
 ### Is there a video of The Wall is Finished for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of The Wall is Finished designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of The Wall is Finished designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use The Wall is Finished for Sunday School or homeschool?
 

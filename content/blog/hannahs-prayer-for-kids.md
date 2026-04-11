@@ -25,7 +25,7 @@ Hannahs Prayer is a Bible story from 1 Samuel 1-2 in the Old Testament. This ret
 
 Watch Hannahs Prayer in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "Hannahs Prayer" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "Hannahs Prayer" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Judges and Ruth series, 10 episodes covering bravery, loyalty, faith, God's plan.*
 
@@ -86,7 +86,7 @@ This story is episode 09 of 10 in the Judges and Ruth series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -104,7 +104,7 @@ Hannahs Prayer is found in 1 Samuel 1-2 in the Old Testament. It is part of the 
 
 ### Is there a video of Hannahs Prayer for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Hannahs Prayer designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of Hannahs Prayer designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Hannahs Prayer for Sunday School or homeschool?
 

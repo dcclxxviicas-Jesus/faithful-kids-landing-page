@@ -25,7 +25,7 @@ Jonah Running from God is a Bible story from Daniel/Jonah/Isaiah in the Old Test
 
 Watch Jonah Running from God in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "Jonah Running from God" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "Jonah Running from God" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Exile and Faith series, 10 episodes covering courage, faith under pressure, obedience, hope.*
 
@@ -103,7 +103,7 @@ This story is episode 08 of 10 in the Exile and Faith series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -121,7 +121,7 @@ Jonah Running from God is found in Daniel/Jonah/Isaiah in the Old Testament. It 
 
 ### Is there a video of Jonah Running from God for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Jonah Running from God designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of Jonah Running from God designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Jonah Running from God for Sunday School or homeschool?
 

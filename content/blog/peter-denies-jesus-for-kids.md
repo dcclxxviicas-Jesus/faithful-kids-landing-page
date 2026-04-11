@@ -25,7 +25,7 @@ Peter Denies Jesus is a Bible story from Matthew/Mark/Luke/John in the New Testa
 
 Watch Peter Denies Jesus in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "Peter Denies Jesus" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "Peter Denies Jesus" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Road to the Cross series, 10 episodes covering sacrifice, love, courage, Easter.*
 
@@ -95,7 +95,7 @@ This story is episode 07 of 10 in the Road to the Cross series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -113,7 +113,7 @@ Peter Denies Jesus is found in Matthew/Mark/Luke/John in the New Testament. It i
 
 ### Is there a video of Peter Denies Jesus for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Peter Denies Jesus designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of Peter Denies Jesus designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Peter Denies Jesus for Sunday School or homeschool?
 

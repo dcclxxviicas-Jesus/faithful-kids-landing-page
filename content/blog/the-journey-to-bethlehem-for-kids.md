@@ -25,7 +25,7 @@ The Journey to Bethlehem is a Bible story from Luke 2:1-5 in the New Testament. 
 
 Watch The Journey to Bethlehem in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "The Journey to Bethlehem" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "The Journey to Bethlehem" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Birth of Jesus series, 10 episodes covering hope, faith, God's plan, Christmas, miracles.*
 
@@ -103,7 +103,7 @@ This story is episode 03 of 10 in the Birth of Jesus series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -121,7 +121,7 @@ The Journey to Bethlehem is found in Luke 2:1-5 in the New Testament. It is part
 
 ### Is there a video of The Journey to Bethlehem for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of The Journey to Bethlehem designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of The Journey to Bethlehem designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use The Journey to Bethlehem for Sunday School or homeschool?
 

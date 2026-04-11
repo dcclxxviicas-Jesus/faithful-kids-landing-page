@@ -25,7 +25,7 @@ The Lords Prayer is a Bible story from Matthew/Luke in the New Testament. This r
 
 Watch The Lords Prayer in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "The Lords Prayer" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "The Lords Prayer" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Teachings of Jesus series, 10 episodes covering love, kindness, forgiveness, prayer, wisdom.*
 
@@ -111,7 +111,7 @@ This story is episode 03 of 10 in the Teachings of Jesus series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -129,7 +129,7 @@ The Lords Prayer is found in Matthew/Luke in the New Testament. It is part of th
 
 ### Is there a video of The Lords Prayer for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of The Lords Prayer designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of The Lords Prayer designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use The Lords Prayer for Sunday School or homeschool?
 

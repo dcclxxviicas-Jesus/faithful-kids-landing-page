@@ -25,7 +25,7 @@ David and Goliath is a Bible story from 1 Samuel in the Old Testament. This rete
 
 Watch David and Goliath in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "David and Goliath" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "David and Goliath" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Rise of Kings series, 10 episodes covering courage, faith, God choosing the unlikely.*
 
@@ -95,7 +95,7 @@ This story is episode 05 of 10 in the Rise of Kings series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -113,7 +113,7 @@ David and Goliath is found in 1 Samuel in the Old Testament. It is part of the R
 
 ### Is there a video of David and Goliath for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of David and Goliath designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of David and Goliath designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use David and Goliath for Sunday School or homeschool?
 

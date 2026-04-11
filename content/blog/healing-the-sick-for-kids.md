@@ -25,7 +25,7 @@ Healing the Sick is a Bible story from Matthew/Mark/Luke/John in the New Testame
 
 Watch Healing the Sick in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "Healing the Sick" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "Healing the Sick" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Jesus Begins Ministry series, 10 episodes covering calling, healing, compassion, faith.*
 
@@ -95,7 +95,7 @@ This story is episode 07 of 10 in the Jesus Begins Ministry series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -113,7 +113,7 @@ Healing the Sick is found in Matthew/Mark/Luke/John in the New Testament. It is 
 
 ### Is there a video of Healing the Sick for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Healing the Sick designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of Healing the Sick designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Healing the Sick for Sunday School or homeschool?
 

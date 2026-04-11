@@ -25,7 +25,7 @@ Gideons 300 is a Bible story from Judges 7-8 in the Old Testament. This retellin
 
 Watch Gideons 300 in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "Gideons 300" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "Gideons 300" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Judges and Ruth series, 10 episodes covering bravery, loyalty, faith, God's plan.*
 
@@ -86,7 +86,7 @@ This story is episode 04 of 10 in the Judges and Ruth series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -104,7 +104,7 @@ Gideons 300 is found in Judges 7-8 in the Old Testament. It is part of the Judge
 
 ### Is there a video of Gideons 300 for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Gideons 300 designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of Gideons 300 designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Gideons 300 for Sunday School or homeschool?
 

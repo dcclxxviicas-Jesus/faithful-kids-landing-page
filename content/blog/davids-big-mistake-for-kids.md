@@ -25,7 +25,7 @@ Davids Big Mistake is a Bible story from 2 Samuel/Psalms in the Old Testament. T
 
 Watch Davids Big Mistake in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "Davids Big Mistake" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "Davids Big Mistake" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our King Davids Reign series, 10 episodes covering worship, repentance, God's promises, honesty.*
 
@@ -95,7 +95,7 @@ This story is episode 04 of 10 in the King Davids Reign series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -113,7 +113,7 @@ Davids Big Mistake is found in 2 Samuel/Psalms in the Old Testament. It is part 
 
 ### Is there a video of Davids Big Mistake for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Davids Big Mistake designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of Davids Big Mistake designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Davids Big Mistake for Sunday School or homeschool?
 

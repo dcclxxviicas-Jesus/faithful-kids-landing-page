@@ -25,7 +25,7 @@ Good Kings and Bad Kings is a Bible story from 1 Kings in the Old Testament. Thi
 
 Watch Good Kings and Bad Kings in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "Good Kings and Bad Kings" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "Good Kings and Bad Kings" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Solomon and the Kingdom series, 10 episodes covering wisdom, worship, consequences, choices.*
 
@@ -103,7 +103,7 @@ This story is episode 09 of 10 in the Solomon and the Kingdom series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -121,7 +121,7 @@ Good Kings and Bad Kings is found in 1 Kings in the Old Testament. It is part of
 
 ### Is there a video of Good Kings and Bad Kings for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Good Kings and Bad Kings designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of Good Kings and Bad Kings designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Good Kings and Bad Kings for Sunday School or homeschool?
 

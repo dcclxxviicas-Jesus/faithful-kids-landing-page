@@ -25,7 +25,7 @@ Peter is Restored is a Bible story from Matthew/Luke/Acts in the New Testament. 
 
 Watch Peter is Restored in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "Peter is Restored" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "Peter is Restored" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our He is Risen series, 10 episodes covering resurrection, hope, faith, new life, Easter.*
 
@@ -95,7 +95,7 @@ This story is episode 06 of 10 in the He is Risen series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -113,7 +113,7 @@ Peter is Restored is found in Matthew/Luke/Acts in the New Testament. It is part
 
 ### Is there a video of Peter is Restored for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Peter is Restored designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of Peter is Restored designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Peter is Restored for Sunday School or homeschool?
 

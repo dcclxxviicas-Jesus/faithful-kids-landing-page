@@ -25,7 +25,7 @@ The Garden and the Fall is a Bible story from Genesis 2-3 in the Old Testament. 
 
 Watch The Garden and the Fall in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "The Garden and the Fall" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "The Garden and the Fall" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Genesis series, 10 episodes covering creation, faith, family, God's promises.*
 
@@ -103,7 +103,7 @@ This story is episode 02 of 10 in the Genesis series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -121,7 +121,7 @@ The Garden and the Fall is found in Genesis 2-3 in the Old Testament. It is part
 
 ### Is there a video of The Garden and the Fall for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of The Garden and the Fall designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of The Garden and the Fall designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use The Garden and the Fall for Sunday School or homeschool?
 

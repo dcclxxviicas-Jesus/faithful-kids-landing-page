@@ -25,7 +25,7 @@ The Tower of Babel is a Bible story from Genesis 11 in the Old Testament. This r
 
 Watch The Tower of Babel in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
 
-[**Watch "The Tower of Babel" on Faithful Kids**](https://faithfulkids.com/quiz?ref=blog)
+[**Watch "The Tower of Babel" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
 
 *Part of our Genesis series, 10 episodes covering creation, faith, family, God's promises.*
 
@@ -103,7 +103,7 @@ This story is episode 05 of 10 in the Genesis series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.com/quiz?ref=blog)
+[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 
@@ -121,7 +121,7 @@ The Tower of Babel is found in Genesis 11 in the Old Testament. It is part of th
 
 ### Is there a video of The Tower of Babel for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of The Tower of Babel designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.com/quiz?ref=blog).
+Yes. Faithful Kids has a 60-second video retelling of The Tower of Babel designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use The Tower of Babel for Sunday School or homeschool?
 

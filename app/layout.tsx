@@ -31,8 +31,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <head>
-        {/* Preload the hero logo for faster LCP */}
-        <link rel="preload" href="/logo.png" as="image" />
+        {/* Preload the nav logo for faster FCP */}
+        <link rel="preload" href="/logo-sm.png" as="image" />
         {/* Preconnect to video CDN to reduce latency */}
         <link rel="preconnect" href="https://d3g07v1w0lehiv.cloudfront.net" />
         <link rel="dns-prefetch" href="https://d3g07v1w0lehiv.cloudfront.net" />

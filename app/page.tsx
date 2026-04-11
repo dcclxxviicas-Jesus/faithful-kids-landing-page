@@ -486,7 +486,7 @@ function PreviewCard({ src, title, series, age }: { src: string; title: string; 
       </div>
       <div className="preview-info">
         <span className="preview-series">{series}</span>
-        <h4>{title}</h4>
+        <p className="preview-title">{title}</p>
         <span className="preview-age">{age}</span>
       </div>
     </div>
@@ -550,6 +550,8 @@ function PhoneMockup() {
           playsInline
           preload="metadata"
           className="phone-video"
+          // @ts-expect-error -- fetchPriority is valid HTML but not in React types yet
+          fetchpriority="high"
         />
         <div className="phone-overlay">
           <span className="phone-title">{v.title}</span>

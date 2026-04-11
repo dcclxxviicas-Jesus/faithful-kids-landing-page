@@ -185,6 +185,9 @@ export default async function BlogPostPage({ params }: Props) {
         </div>
       </nav>
 
+      {/* MAIN CONTENT */}
+      <main>
+
       {/* BREADCRUMB */}
       <div className="blog-breadcrumb">
         <a href="/blog">Blog</a>
@@ -196,11 +199,14 @@ export default async function BlogPostPage({ params }: Props) {
 
       {/* HERO IMAGE */}
       <div style={{ maxWidth: '900px', margin: '0 auto', padding: '0 20px' }}>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-hero.webp`}
           alt={`${post.title} - Bible Story Illustration for Kids`}
           width={1792}
           height={1024}
+          // @ts-expect-error fetchpriority is valid HTML but not in React types
+          fetchpriority="high"
           style={{ width: '100%', height: 'auto', borderRadius: '16px', marginBottom: '24px' }}
         />
       </div>
@@ -383,6 +389,8 @@ export default async function BlogPostPage({ params }: Props) {
           </a>
         </div>
       </div>
+
+      </main>
 
       {/* FOOTER */}
       <footer className="footer">

@@ -46,7 +46,7 @@ const TESTIMONIALS = [
 ]
 
 export default function Checkout() {
-  const [selected, setSelected] = useState('quarterly')
+  const [selected, setSelected] = useState('annual')
   const { minutes, seconds } = useTimer()
 
   const plan = PLANS.find((p) => p.id === selected)!

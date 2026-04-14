@@ -76,6 +76,31 @@ function markdownToHtml(md: string): string {
   // Fix faithfulkids.com → faithfulkids.app
   html = html.replace(/faithfulkids\.com/g, 'faithfulkids.app')
 
+  // Convert markdown tables to HTML tables
+  html = html.replace(/((?:\|[^\n]+\|\n)+)/g, (tableBlock) => {
+    const rows = tableBlock.trim().split('\n').filter(r => r.trim())
+    if (rows.length < 2) return tableBlock
+    // Check if second row is separator (|---|---|)
+    const isSep = (r: string) => /^\|[\s\-:|]+\|$/.test(r.trim())
+    const headerRow = rows[0]
+    const hasSep = isSep(rows[1])
+    const dataRows = hasSep ? rows.slice(2) : rows.slice(1)
+    const parseRow = (r: string) => r.split('|').slice(1, -1).map(c => c.trim())
+
+    let table = '<div style="overflow-x:auto;margin:20px 0"><table style="width:100%;border-collapse:collapse;font-size:14px">'
+    if (hasSep) {
+      const cells = parseRow(headerRow)
+      table += '<thead><tr>' + cells.map(c => `<th style="border:1px solid #e5e5e5;padding:10px 12px;background:#f7f7f7;font-weight:700;text-align:left">${applyInlineFormatting(c)}</th>`).join('') + '</tr></thead>'
+    }
+    table += '<tbody>'
+    for (const row of (hasSep ? dataRows : rows)) {
+      const cells = parseRow(row)
+      table += '<tr>' + cells.map(c => `<td style="border:1px solid #e5e5e5;padding:10px 12px">${applyInlineFormatting(c)}</td>`).join('') + '</tr>'
+    }
+    table += '</tbody></table></div>'
+    return table
+  })
+
   // Process line by line for block elements
   const lines = html.split('\n')
   const output: string[] = []

@@ -9,11 +9,11 @@ const PLANS = [
   {
     id: 'annual',
     name: 'Annual Plan',
-    price: 7.99,
+    price: 8.08,
     period: '/mo',
-    total: 95.88,
-    weekly: 1.84,
-    savings: 47,
+    total: 97.00,
+    weekly: 1.87,
+    savings: 46,
     label: 'Best Value',
   },
   {

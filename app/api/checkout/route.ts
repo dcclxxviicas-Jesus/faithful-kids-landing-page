@@ -8,7 +8,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
 // Plan configs - prices in cents, billed monthly
 const PLANS: Record<string, { name: string; amount: number; interval: 'month' | 'year'; intervalCount: number }> = {
   monthly: { name: 'Faithful Kids Monthly', amount: 1499, interval: 'month', intervalCount: 1 },
-  annual: { name: 'Faithful Kids Annual', amount: 9588, interval: 'year', intervalCount: 1 },
+  annual: { name: 'Faithful Kids Annual', amount: 9700, interval: 'year', intervalCount: 1 },
 }
 
 export async function POST(req: NextRequest) {

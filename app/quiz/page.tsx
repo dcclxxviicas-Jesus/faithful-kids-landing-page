@@ -417,7 +417,7 @@ function ResultVideo() {
 }
 
 const PLANS = [
-  { id: 'annual', name: 'Annual', price: 7.99, total: 95.88, period: '/mo', savings: 47, label: 'Best Value', weekly: 1.84 },
+  { id: 'annual', name: 'Annual', price: 8.08, total: 97.00, period: '/mo', savings: 46, label: 'Best Value', weekly: 1.87 },
   { id: 'monthly', name: 'Monthly', price: 14.99, total: 14.99, period: '/mo', savings: null, label: null, weekly: 3.46 },
 ]
 

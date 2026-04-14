@@ -329,7 +329,7 @@ export default function Home() {
             <thead>
               <tr>
                 <th>Feature</th>
-                <th className="compare-ours"><strong>Faithful Kids</strong><br/><span>$7.99/mo</span></th>
+                <th className="compare-ours"><strong>Faithful Kids</strong><br/><span>$8.08/mo</span></th>
                 <th>YouTube Kids<br/><span>Free (with ads)</span></th>
                 <th>Others<br/><span>$5-15/mo</span></th>
               </tr>
@@ -371,7 +371,7 @@ export default function Home() {
             {!surveyDone ? (
               <>
                 <h3>Quick question</h3>
-                <p>Would you pay $7.99/month for daily Bible story videos for your kids?</p>
+                <p>Would you pay $8.08/month for daily Bible story videos for your kids?</p>
                 <div className="survey-buttons">
                   <button className="survey-btn yes" onClick={() => handleSurvey(true)}>Yes, I would</button>
                   <button className="survey-btn" onClick={() => handleSurvey(false)}>Probably not</button>

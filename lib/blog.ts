@@ -4,6 +4,7 @@ import path from 'path'
 export interface BlogPost {
   title: string
   slug: string
+  type: string
   series: string
   seriesSlug: string
   episode: number
@@ -233,6 +234,7 @@ function readPost(filename: string): BlogPost | null {
   return {
     title: (data.title as string) || '',
     slug: (data.slug as string) || '',
+    type: (data.type as string) || 'episode',
     series: (data.series as string) || '',
     seriesSlug: (data.seriesSlug as string) || '',
     episode: (data.episode as number) || 0,

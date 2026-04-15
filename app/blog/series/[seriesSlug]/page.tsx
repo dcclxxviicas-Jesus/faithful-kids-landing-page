@@ -140,7 +140,6 @@ export default async function SeriesPage({ params }: Props) {
               />
               <div className="blog-card-header">
                 <span className="blog-card-badge">{post.series}</span>
-                <span className="blog-card-episode">Ep. {post.episode}</span>
               </div>
               <h3 className="blog-card-title">{post.title.split(':')[0]}</h3>
               <p className="blog-card-desc">{post.metaDescription}</p>

@@ -77,8 +77,8 @@ export default function BlogGrid({
               onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }}
             />
             <div className="blog-card-header">
-              <span className="blog-card-badge">{post.series}</span>
-              <span className="blog-card-episode">Ep. {post.episode}</span>
+              {post.series && <span className="blog-card-badge">{post.series}</span>}
+              {!post.series && <span className="blog-card-badge">Guide</span>}
             </div>
             <h3 className="blog-card-title">{post.title}</h3>
             <p className="blog-card-book">

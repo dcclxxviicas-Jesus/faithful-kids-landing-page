@@ -220,12 +220,6 @@ export default async function BlogPostPage({ params }: Props) {
         <header className="blog-article-header">
           <div className="blog-article-meta-row">
             {post.series && <span className="blog-card-badge">{post.series}</span>}
-            {post.series && post.episode > 0 && (
-              <>
-                <span className="blog-article-meta-sep">&middot;</span>
-                <span className="blog-article-meta-text">Episode {post.episode}</span>
-              </>
-            )}
             {!post.series && post.type === 'listicle' && <span className="blog-card-badge">Guide</span>}
             {post.book && (
               <>
@@ -326,7 +320,6 @@ export default async function BlogPostPage({ params }: Props) {
                 />
                 <div className="blog-card-header">
                   <span className="blog-card-badge">{rp.series}</span>
-                  <span className="blog-card-episode">Ep. {rp.episode}</span>
                 </div>
                 <h3 className="blog-card-title">{rp.title.split(':')[0]}</h3>
                 <p className="blog-card-book">
@@ -356,7 +349,6 @@ export default async function BlogPostPage({ params }: Props) {
                 />
                 <div className="blog-card-header">
                   <span className="blog-card-badge">{story.series}</span>
-                  <span className="blog-card-episode">Ep. {story.episode}</span>
                 </div>
                 <h3 className="blog-card-title">{story.title.split(':')[0]}</h3>
                 <p className="blog-card-desc">{story.metaDescription}</p>

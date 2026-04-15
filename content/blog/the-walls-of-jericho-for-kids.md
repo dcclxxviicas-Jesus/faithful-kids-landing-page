@@ -57,6 +57,23 @@ The story of The Walls of Jericho teaches children important lessons about coura
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What was God's unusual battle plan for conquering Jericho?
+
+God's plan was unlike any military strategy the world had ever seen! The Israelites marched silently around Jericho once a day for six days. On the seventh day, they marched around seven times, the priests blew their trumpets, the people shouted — and the walls came crashing down. God showed that victory comes through obedience, not human battle tactics.
+
+### What happened to Rahab and her family when Jericho fell?
+
+The spies kept their promise! When the walls of Jericho fell, the Israelites saw the scarlet (red) cord hanging from Rahab's window and rescued her and everyone in her house. Rahab's faith — and the promise made to her — was honored completely.
+
+### What is the key lesson from the battle of Jericho?
+
+From a human perspective, marching around a city and shouting makes zero sense as a battle plan. But Israel obeyed God anyway — and the impossible happened. The lesson is clear: when God asks you to do something and it doesn't make sense, trust Him and obey. He sees the full picture even when you can't.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

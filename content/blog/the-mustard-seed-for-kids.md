@@ -51,7 +51,7 @@ The story of The Mustard Seed teaches children important lessons about love, kin
 
 ## Key Bible Verse
 
-> *"If you have faith as small as a mustard seed, you can say to this mountain, Move, and it will move."* — Matthew 17:20
+> *"The kingdom of heaven is like a mustard seed, which is the smallest of all seeds on earth. Yet when planted, it grows and becomes the largest of all garden plants."* — Mark 4:31-32
 
 ## Parent's Guide: Why This Story Matters
 

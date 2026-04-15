@@ -57,6 +57,23 @@ The story of Balaams Donkey teaches children important lessons about courage, tr
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### Why did King Balak hire the prophet Balaam?
+
+King Balak of Moab was terrified of the Israelites because he saw how powerful they were with God on their side. He hired the prophet Balaam to place a curse on Israel, believing that would weaken them. But you can't curse what God has blessed!
+
+### Why did Balaam's donkey keep stopping and swerving off the road?
+
+An angel of the Lord stood in the road with a drawn sword to stop Balaam. The donkey could see the angel even though Balaam couldn't. Each time the donkey tried to avoid the angel, Balaam beat her — not realizing the donkey was actually saving his life.
+
+### What happened every time Balaam tried to curse Israel?
+
+Three separate times, King Balak set up altars and asked Balaam to curse Israel. But every single time Balaam opened his mouth, God put blessings there instead. No one can override what God has declared — if He says you are blessed, you are blessed, period.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

@@ -57,6 +57,23 @@ The story of Wandering in the Wilderness teaches children important lessons abou
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What happened to Korah when he rebelled against Moses' leadership?
+
+Korah challenged Moses' God-given authority, and God made it dramatically clear who He had chosen. The earth opened and swallowed Korah and his followers — a powerful reminder that rebelling against God's appointed leaders has serious consequences.
+
+### What mistake did Moses make that cost him entry into the Promised Land?
+
+God told Moses to speak to the rock and water would come out. But Moses was so frustrated with the people's constant complaining that he struck the rock with his staff instead. Even though water still came out, Moses had disobeyed God, and the consequence was that he would not enter the Promised Land.
+
+### How did God provide for the Israelites during their 40 years in the wilderness?
+
+Despite the Israelites' constant complaining, God faithfully provided for them in miraculous ways every single day for forty years — manna each morning, water from rocks, and even keeping their clothing and sandals from wearing out.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

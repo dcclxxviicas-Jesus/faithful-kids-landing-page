@@ -57,6 +57,23 @@ The story of God Calls Samuel teaches children important lessons about bravery, 
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### How many times did God call Samuel's name before Samuel realized it was God?
+
+God called Samuel three times, and each time Samuel ran to Eli thinking the old priest had called him. After the third time, Eli realized that it was the Lord speaking to the boy and told Samuel how to respond.
+
+### What did Eli tell Samuel to say if God called again?
+
+Eli instructed Samuel to respond with humility and openness: "Speak, Lord, for your servant is listening." This simple response showed willingness to hear and obey whatever God had to say.
+
+### What did Samuel grow up to become?
+
+From that night when God first spoke to him, Samuel grew into one of Israel's most important prophets. He would anoint kings, guide the nation, and faithfully deliver God's words to the people for decades.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

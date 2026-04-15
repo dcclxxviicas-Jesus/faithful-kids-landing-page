@@ -57,6 +57,23 @@ The story of Choosing to Serve teaches children important lessons about courage,
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What did Joshua do before giving the people his famous challenge?
+
+Before his big challenge, Joshua reminded the people of their entire history with God. He walked them through Abraham's calling, slavery in Egypt, the Exodus, the wilderness wandering, crossing the Jordan, and the conquest of the land. He wanted them to SEE God's faithfulness before he asked them to choose.
+
+### What is the famous line Joshua told the people of Israel?
+
+This is one of the most quoted verses in the entire Bible! Joshua made it clear that faith requires a personal choice. He couldn't make the decision for the people — each person had to decide for themselves. And Joshua led by example, declaring that no matter what anyone else chose, HE and his family would serve God.
+
+### What is the key lesson about faith from this episode?
+
+Joshua's challenge was about "this day" — today! Faith isn't a one-and-done decision you make once and forget about. It's a daily, ongoing choice. Every morning when you wake up, you have the opportunity to choose who you'll listen to, who you'll trust, and who you'll follow. That's what makes faith real and alive — it's chosen again and again.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

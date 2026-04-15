@@ -57,6 +57,23 @@ The story of The Sun Stands Still teaches children important lessons about coura
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### How many enemy kings joined forces against Gibeon?
+
+Five enemy kings banded together because they were terrified of what God was doing through Israel. They attacked Gibeon, which had made peace with Israel — and that brought Joshua and his army into the fight.
+
+### What did God send from the sky to fight against Israel's enemies?
+
+God sent massive hailstones raining down on the enemy army. The Bible tells us that more enemy soldiers fell from the hailstones than from the swords of Israel's army. God Himself was fighting from heaven on Israel's behalf — in a way nobody could have predicted!
+
+### What did Joshua boldly ask God to do during the battle?
+
+With the battle still raging and daylight fading, Joshua needed more time. So he cried out to God and commanded the sun to stand still over Gibeon and the moon over the valley of Aijalon — and God made it happen! The sun stayed in the sky for about a full day. The Bible says there has never been a day like it. This proves that absolutely nothing is impossible for God.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

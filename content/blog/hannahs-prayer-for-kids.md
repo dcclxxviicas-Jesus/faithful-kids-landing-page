@@ -57,6 +57,23 @@ The story of Hannahs Prayer teaches children important lessons about bravery, lo
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### Why was Hannah so deeply heartbroken?
+
+Hannah desperately wanted a child but couldn't have one. To make matters worse, Elkanah's other wife Peninnah had many children and constantly provoked Hannah about it, year after year.
+
+### What happened when the priest Eli saw Hannah praying at the temple?
+
+Hannah was praying so intensely — from such a deep place of pain — that her lips moved but no words came out. Eli saw this and assumed she was drunk, but Hannah explained she was pouring her soul out to God.
+
+### What did Hannah do after God answered her prayer and gave her a son?
+
+Hannah had vowed that if God gave her a son, she would give him back to God. After Samuel was born, she kept that incredible promise — bringing her miracle child to the temple to serve the Lord for his entire life. That's extraordinary faith.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

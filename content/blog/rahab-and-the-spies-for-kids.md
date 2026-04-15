@@ -57,6 +57,23 @@ The story of Rahab and the Spies teaches children important lessons about courag
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### Where did Rahab hide the two Israelite spies?
+
+Rahab hid the spies on her rooftop and covered them with stalks of flax — a plant that was often dried on flat rooftops in that time period. When the king's soldiers came looking, she sent them off in the wrong direction. Pretty clever!
+
+### What did the spies tell Rahab to hang from her window as a sign of protection?
+
+The spies told Rahab to hang a bright red rope — a scarlet cord — from her window. This was the sign that would protect everyone inside her house when Israel attacked. It echoes the blood on the doorposts during Passover — both are signs of God's rescue through faith.
+
+### What is the main lesson from Rahab's story?
+
+Rahab was an outsider — a Canaanite woman with a rough past. But she believed in God, and that faith changed everything. Her story proves that God doesn't look at your background or your mistakes. He looks at your heart. His invitation to be saved is open to absolutely everyone.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

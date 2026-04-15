@@ -57,6 +57,23 @@ The story of Ruth a Story of Loyalty teaches children important lessons about br
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What devastating losses did Naomi experience in Moab?
+
+Naomi lost everything — first her husband Elimelech, then both of her sons. She was left as a widow with no one to provide for or protect her, which was an extremely vulnerable position in that culture.
+
+### What did Ruth say to Naomi when Naomi told her to go home?
+
+Ruth refused to abandon Naomi. Her famous words are one of the most powerful expressions of loyalty in the entire Bible. She gave up her homeland, her family, and her future security to stay with her mother-in-law.
+
+### Whose field did Ruth end up gleaning in, and why was that significant?
+
+Ruth "happened" to end up in the field of Boaz, who was a relative of Naomi's family. This was no coincidence — God was working behind the scenes. Boaz noticed Ruth's character and loyalty, setting the stage for what would come next.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

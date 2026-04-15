@@ -57,6 +57,23 @@ The story of The Twelve Spies teaches children important lessons about courage, 
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### How many of the twelve spies came back with a fearful report about the Promised Land?
+
+Ten of the twelve spies were terrified by the giants and fortified cities they saw in Canaan. Only Joshua and Caleb trusted that God would help them conquer the land as He promised.
+
+### What did the spies bring back to show how amazing the land was?
+
+The spies cut down a massive cluster of grapes in the Valley of Eshcol that was so heavy two men had to carry it on a pole between them. They also brought back pomegranates and figs.
+
+### What was the consequence for the Israelites choosing fear over faith?
+
+Because the people refused to trust God and enter the Promised Land, God declared that the entire adult generation (except Joshua and Caleb) would wander in the wilderness for 40 years and would never enter the land He had promised them.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

@@ -57,6 +57,23 @@ The story of Moses Says Goodbye teaches children important lessons about courage
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### How old was Moses when he died?
+
+Moses was 120 years old when he died, and remarkably, the Bible tells us his eyes were not weak and his strength had not left him. He had spent the last 40 years of his life leading Israel through the wilderness.
+
+### Who did Moses pass the leadership of Israel to before he died?
+
+Moses chose Joshua — the same man who, as one of the twelve spies, had courageously said "We can take the land because God is with us." Joshua had proven his faith, and now God appointed him to lead the next generation into the Promised Land.
+
+### What happened after Moses died on Mount Nebo?
+
+In one of the most intimate moments in the entire Bible, God personally buried His servant Moses. The location of Moses' grave has never been found. It shows the deep, personal relationship Moses had with God — known as the prophet who spoke with God face to face.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

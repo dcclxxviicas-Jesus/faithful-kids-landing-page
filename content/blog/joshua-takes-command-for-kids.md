@@ -57,6 +57,23 @@ The story of Joshua Takes Command teaches children important lessons about coura
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### How many times did God tell Joshua to "be strong and courageous" in Joshua chapter 1?
+
+God told Joshua to be strong and courageous THREE times! When God repeats something, it means He really wants you to pay attention. He wanted Joshua to deeply understand that courage would be essential for the mission ahead — and that God Himself would be the source of that courage.
+
+### What was God's big promise to Joshua as the new leader?
+
+God promised Joshua His presence — "I will be with you wherever you go. I will never leave you or abandon you." God didn't promise an easy road. He promised something even better: that Joshua would never walk that road alone.
+
+### What is the real meaning of courage according to this lesson?
+
+Courage isn't about never being scared — that's impossible! Real courage means trusting God and doing what He asks even when fear is screaming at you to stop. Joshua was probably terrified to lead an entire nation, but he stepped forward anyway because he trusted God's promise to be with him.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

@@ -14,9 +14,9 @@ With dozens of Bible apps for kids available, how do you choose the right one? W
 
 | App | Price | Ages | Videos | Quizzes | Ad-Free | Best For |
 |-----|-------|------|--------|---------|---------|----------|
-| **Faithful Kids** | $8.08/mo | 5+ | 400+ | Yes | Yes | Complete Bible coverage with accountability |
+| **Faithful Kids** | $9.99/mo | 5+ | 400+ | Yes | Yes | Complete Bible coverage with accountability |
 | Bible App for Kids | Free | 3-8 | 40+ | No | Yes | Young kids, interactive touch stories |
-| Minno | $8.08/mo | 2-12 | 100s | No | Yes | Animated shows, Netflix-like experience |
+| Minno | $9.99/mo | 2-12 | 100s | No | Yes | Animated shows, Netflix-like experience |
 | Superbook | Free | 5-12 | 50+ | No | Yes | High-quality animation, adventure style |
 | Yippee TV | Free/Premium | 2-12 | 50+ | No | Mostly | Budget-friendly, classic shows |
 | Dwell Kids | $3.99/mo | 4-10 | Audio | No | Yes | Audio Bible stories and playlists |
@@ -26,7 +26,7 @@ With dozens of Bible apps for kids available, how do you choose the right one? W
 
 ## 1. Faithful Kids — Best Overall
 
-**Price:** Starting at $8.08/month (7-day free trial)
+**Price:** Starting at $9.99/month (7-day free trial)
 **Ages:** 5+
 **Content:** 400+ video lessons across 20 series, Genesis to Revelation
 
@@ -68,7 +68,7 @@ The Bible App for Kids is made by the same team behind the YouVersion Bible app 
 
 ## 3. Minno — Best for Animated Shows
 
-**Price:** $8.08/month
+**Price:** $9.99/month
 **Ages:** 2-12
 
 Minno is the largest Christian kids streaming service. Think of it as the Christian Netflix for kids. It has hundreds of episodes of animated shows including VeggieTales, What's in the Bible, and original productions. Every show is screened for biblical truth.
@@ -82,7 +82,7 @@ Minno is the largest Christian kids streaming service. Think of it as the Christ
 **Cons:**
 - Does not cover the full Bible systematically
 - No quizzes or learning accountability
-- $8.08/month
+- $9.99/month
 - Entertainment-focused rather than education-focused
 
 ## 4. Superbook — Best Animation Quality
@@ -192,4 +192,4 @@ Yes, the Bible App for Kids by YouVersion is completely free with no ads and no 
 
 ### How much does Faithful Kids cost?
 
-Faithful Kids starts at $8.08/month with a 7-day free trial. Annual plans are available at a discount.
+Faithful Kids starts at $9.99/month with a 7-day free trial. Annual plans are available at a discount.

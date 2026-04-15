@@ -51,7 +51,7 @@ The story of Taming the Tongue teaches children important lessons about faith, h
 
 ## Key Bible Verse
 
-> *"The tongue has the power of life and death."* — Proverbs 18:21
+> *"The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark."* — James 3:5
 
 ## Parent's Guide: Why This Story Matters
 

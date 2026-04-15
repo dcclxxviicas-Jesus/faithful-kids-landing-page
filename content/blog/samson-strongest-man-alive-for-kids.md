@@ -57,6 +57,23 @@ The story of Samson Strongest Man Alive teaches children important lessons about
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What was Samson's special calling from before he was born?
+
+An angel announced before Samson's birth that he would be a Nazirite, dedicated to God. This meant he was to avoid wine, unclean food, and never cut his hair. His hair was the symbol of his covenant with God, and through this dedication, God gave him supernatural strength.
+
+### What weapon did Samson use to defeat a thousand Philistine soldiers?
+
+When the Philistines came after him, Samson picked up the jawbone of a donkey — a discarded animal bone — and used it to defeat a thousand enemy soldiers single-handedly. His strength came not from the weapon but from the Spirit of God.
+
+### What was Samson's biggest weakness despite his incredible physical strength?
+
+Despite being the strongest man alive, Samson was reckless and impulsive. He repeatedly broke his Nazirite vows, made foolish choices, and chased things that pulled him away from God. His lack of inner discipline was far more dangerous than any enemy he faced.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

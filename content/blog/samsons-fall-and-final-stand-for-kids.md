@@ -57,6 +57,23 @@ The story of Samsons Fall and Final Stand teaches children important lessons abo
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What did Delilah keep pressuring Samson to reveal?
+
+The Philistine rulers bribed Delilah to discover the source of Samson's power. She nagged him day after day until he finally gave in and told her about his Nazirite vow — that his hair had never been cut.
+
+### What happened when Samson's hair was shaved off?
+
+Samson's hair was the sign of his Nazirite vow with God. When it was shaved, his strength vanished. The most heartbreaking part was that he didn't even realize at first that the Lord had left him.
+
+### How did Samson's story end?
+
+Even after his terrible fall, Samson cried out to God one final time. God answered his prayer, giving him strength to bring down the entire temple on thousands of Philistines. It was tragic but powerful — proof that God still hears us even after failure.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

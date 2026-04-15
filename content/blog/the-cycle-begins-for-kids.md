@@ -57,6 +57,23 @@ The story of The Cycle Begins teaches children important lessons about bravery, 
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What pattern did the Israelites keep repeating during the time of the judges?
+
+The book of Judges describes a repeating cycle: Israel would turn away from God, face consequences from enemies, cry out for help, and God would send a judge to rescue them. Then after a period of peace, they'd fall right back into the same pattern.
+
+### Who was the first judge God raised up to rescue Israel?
+
+Othniel, Caleb's nephew, was the first judge. God's Spirit came upon him, he led Israel to victory over their enemies, and the land had peace for forty years.
+
+### What was unique about the judge named Ehud?
+
+Ehud was left-handed, which allowed him to conceal a weapon where guards didn't expect it. He used this advantage to carry out a bold mission against King Eglon of Moab, delivering Israel from oppression.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

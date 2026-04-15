@@ -14,7 +14,7 @@ Minno and Faithful Kids are the two most popular Bible-based video apps for kids
 
 | Feature | Faithful Kids | Minno |
 |---------|--------------|-------|
-| **Price** | $8.08/mo | $8.08/mo |
+| **Price** | $9.99/mo | $9.99/mo |
 | **Content type** | Short video lessons (60 sec) | Full animated shows (20-30 min) |
 | **Bible coverage** | Genesis to Revelation (complete) | Select stories and themes |
 | **Quizzes** | Yes, after every lesson | No |

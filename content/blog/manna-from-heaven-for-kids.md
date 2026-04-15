@@ -51,7 +51,7 @@ The story of Manna from Heaven teaches children important lessons about freedom,
 
 ## Key Bible Verse
 
-> *"Give us today our daily bread."* — Matthew 6:11
+> *"He gave them bread from heaven to eat."* — John 6:31
 
 ## Parent's Guide: Why This Story Matters
 

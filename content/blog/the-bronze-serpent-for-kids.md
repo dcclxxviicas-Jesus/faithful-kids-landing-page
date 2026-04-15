@@ -57,6 +57,23 @@ The story of The Bronze Serpent teaches children important lessons about courage
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### Why did God send venomous snakes into the Israelite camp?
+
+The Israelites spoke against God and against Moses, saying they hated the manna God was providing. The venomous snakes were a consequence of their sin of complaining and ingratitude toward God.
+
+### What did a person bitten by a snake need to do to be healed?
+
+God told Moses to make a bronze serpent and lift it up on a pole. Anyone who had been bitten simply had to look at it, and they would live. No complicated steps — just look and be healed. This points to the simplicity of faith.
+
+### In John 3:14, Jesus compared the bronze serpent to what?
+
+Jesus told Nicodemus, "Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up." The bronze serpent was a preview of Jesus on the cross — just as looking at the serpent brought physical healing, looking to Jesus in faith brings eternal life.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

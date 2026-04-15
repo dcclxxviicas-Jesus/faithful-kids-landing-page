@@ -57,6 +57,23 @@ The story of Ruth and Boaz teaches children important lessons about bravery, loy
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What is a "kinsman-redeemer" in the Bible?
+
+In Israelite law, a kinsman-redeemer was a near relative with the right and responsibility to step in and rescue a family member in trouble — buying back their land, providing for widows, and restoring what was lost. Boaz filled this role for Naomi and Ruth.
+
+### What happened when Boaz went to the town gate to settle the matter?
+
+There was another relative closer in line who had first right to redeem Naomi's family. But when he heard the full responsibility, he declined. Boaz gladly stepped in and became the redeemer, marrying Ruth.
+
+### Why is Ruth's place in history so incredible?
+
+Ruth — a foreign woman from Moab who once gathered leftover grain to survive — became part of the most important family line in history. Her great-grandson was King David, and her lineage leads directly to Jesus the Messiah.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

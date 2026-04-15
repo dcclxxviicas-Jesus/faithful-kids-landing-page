@@ -57,6 +57,23 @@ The story of Gideon the Unlikely Hero teaches children important lessons about b
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What was Gideon doing when the angel of the Lord appeared to him?
+
+Gideon was so afraid of the Midianites that he was threshing wheat in a winepress — a hidden, low spot — instead of out in the open where it was normally done. He was trying to prepare food without being discovered by the enemy.
+
+### What did the angel call Gideon when he first appeared?
+
+The angel greeted Gideon by saying "The Lord is with you, mighty warrior" — even though Gideon was hiding in fear at that very moment. God saw Gideon not as he was, but as who he would become.
+
+### What did Gideon do with a fleece to test whether God was really calling him?
+
+Gideon placed a wool fleece on the ground and asked God to make it wet with dew while the ground stayed dry. When God did it, Gideon asked for the reverse — dry fleece, wet ground. God patiently did both, confirming His call on Gideon's life.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

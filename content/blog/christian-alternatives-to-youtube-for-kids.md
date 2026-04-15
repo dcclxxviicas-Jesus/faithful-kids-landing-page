@@ -22,7 +22,7 @@ YouTube Kids is not safe enough for many Christian families. The algorithm serve
 
 ### 1. Faithful Kids — Best for Bible Story Videos with Quizzes
 
-**Price:** Starting at $8.08/month | **Ages:** 5+ | **Ad-free:** Yes
+**Price:** Starting at $9.99/month | **Ages:** 5+ | **Ad-free:** Yes
 
 Faithful Kids has 400+ short Bible story videos (60 seconds each) covering the entire Bible from Genesis to Revelation. Every video is followed by a comprehension quiz so your child actually retains what they watch. The content is narrated in a warm, engaging style that kids genuinely enjoy.
 
@@ -34,7 +34,7 @@ Faithful Kids has 400+ short Bible story videos (60 seconds each) covering the e
 
 ### 2. Minno — Best for Animated Shows
 
-**Price:** $8.08/month | **Ages:** 2-12 | **Ad-free:** Yes
+**Price:** $9.99/month | **Ages:** 2-12 | **Ad-free:** Yes
 
 Minno is the largest Christian kids streaming service. It has hundreds of animated shows including VeggieTales, What's in the Bible, and original content. Every show is screened for biblical truth and child development.
 
@@ -86,7 +86,7 @@ Holy Sprouts is a YouTube channel by a Christian educator that teaches letters, 
 
 | Feature | Faithful Kids | Minno | Yippee | Superbook | Bible App for Kids |
 |---------|--------------|-------|--------|-----------|-------------------|
-| Price | $8.08/mo | $8.08/mo | Free | Free | Free |
+| Price | $9.99/mo | $9.99/mo | Free | Free | Free |
 | Bible coverage | Genesis to Revelation | Select stories | Select shows | Select stories | Major stories |
 | Quizzes | Yes, every lesson | No | No | No | No |
 | Ad-free | Yes | Yes | Mostly | Yes | Yes |

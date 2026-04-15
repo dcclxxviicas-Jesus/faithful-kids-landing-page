@@ -57,6 +57,23 @@ The story of Deborah a Brave Leader teaches children important lessons about bra
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### What two roles did Deborah hold in Israel?
+
+Deborah was both a prophet — hearing directly from God — and a judge, meaning she was the leader of Israel. People came from across the nation to seek her guidance and wisdom under the palm tree where she held court.
+
+### What condition did Barak give before agreeing to go into battle?
+
+When Deborah told Barak that God commanded him to lead the army against Sisera, Barak said he would only go if Deborah went with him. She agreed, but told him the glory for defeating Sisera would go to a woman instead of to him.
+
+### How was the enemy commander Sisera ultimately defeated?
+
+After fleeing the lost battle on foot, Sisera hid in Jael's tent, thinking he was safe. Jael gave him shelter and a drink, but when he fell asleep, she used a tent peg to end the threat of Sisera permanently — fulfilling Deborah's prophecy that the glory would go to a woman.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

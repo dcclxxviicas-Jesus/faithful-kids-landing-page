@@ -57,6 +57,23 @@ The story of Gideons 300 teaches children important lessons about bravery, loyal
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.
 
+## Quiz: Test What Your Child Learned
+
+After watching the video, see if your child can answer these questions:
+
+### Why did God tell Gideon he had too many soldiers?
+
+God deliberately reduced Gideon's army from 32,000 to just 300 so that Israel could never boast that their own strength won the battle. The victory was so impossible by human standards that everyone would know God was the one who did it.
+
+### How did God reduce the army from 10,000 to 300?
+
+God told Gideon to watch how the soldiers drank water. Most knelt down and put their faces in the water, but 300 men scooped water with their hands and lapped it while staying alert. God chose those 300 for the battle.
+
+### What unusual "weapons" did Gideon's 300 soldiers use to defeat the Midianites?
+
+Instead of traditional weapons, each of the 300 men carried a trumpet, a clay jar, and a torch hidden inside the jar. On Gideon's signal, they blew the trumpets, smashed the jars to reveal the torches, and shouted. The sudden noise and light caused the Midianites to panic and turn on each other.
+
+
 ## Discussion Questions for Families
 
 Use these questions at the dinner table or during bedtime:

@@ -42,9 +42,7 @@ export async function POST(req: NextRequest) {
         quantity: 1,
       },
     ],
-    subscription_data: {
-      trial_period_days: 7,
-    },
+    ...(plan === 'annual' ? { subscription_data: { trial_period_days: 7 } } : {}),
     success_url: `https://app.faithfulkids.app/activate?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/checkout`,
   })

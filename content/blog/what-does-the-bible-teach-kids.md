@@ -19,8 +19,8 @@ Help people who need it, even if they are different from you. [Watch](https://fa
 ### 3. Forgiveness — The Prodigal Son
 You can always come home. God forgives completely. [Watch](https://faithfulkids.app/blog/the-prodigal-son-for-kids)
 
-### 4. Honesty — Ananias and Sapphira
-Lying has consequences. Honesty matters to God. [Watch](https://faithfulkids.app/blog/ananias-and-sapphira-for-kids)
+### 4. Honesty — Ananias and Sapphira *(ages 8+)*
+Lying has serious consequences. Honesty matters to God, even when the truth is hard. This story is intense and best for older kids who can handle the weight of it. [Watch](https://faithfulkids.app/blog/ananias-and-sapphira-for-kids)
 
 ### 5. Patience — Joseph's Journey
 God's timing is not always our timing, but it is always right. [Watch](https://faithfulkids.app/blog/joseph-the-dreamer-for-kids)

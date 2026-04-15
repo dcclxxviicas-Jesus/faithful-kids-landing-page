@@ -49,7 +49,7 @@ John prepares the way for Jesus, baptizing people in the river and telling every
 [Watch video](https://faithfulkids.app/blog/john-the-baptist-for-kids)
 
 ### 10. The Baptism of Jesus
-Jesus comes to John to be baptized. As He comes out of the water, God's voice says: "This is my Son, whom I love."
+*Note: The baptism happens about 30 years after Jesus' birth, but it completes the Birth of Jesus series by showing Jesus stepping into His public ministry.* Jesus comes to John to be baptized. As He comes out of the water, God's voice says: "This is my Son, whom I love."
 [Watch video](https://faithfulkids.app/blog/the-baptism-of-jesus-for-kids)
 
 ---

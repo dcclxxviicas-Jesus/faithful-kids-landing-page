@@ -34,8 +34,10 @@ Faithful Kids covers the entire Bible in 20 series of 10 episodes each. Here is 
 | 31-32 | He Is Risen | Gospels/Acts |
 | 33-34 | Early Church | Acts |
 | 35-36 | Paul's Adventures | Acts |
+| 37-38 | Letters to Churches | Romans/Corinthians/Ephesians |
+| 39-40 | Ending & Beginning | Hebrews/James/Revelation |
 
-That is 36 weeks, one school year, covering the entire Bible.
+That is 40 weeks, one school year, covering the entire Bible from Genesis to Revelation. Each series has 10 episodes, so you cover 5 episodes per week (one per school day).
 
 ## Daily Lesson Plan (15-20 minutes)
 

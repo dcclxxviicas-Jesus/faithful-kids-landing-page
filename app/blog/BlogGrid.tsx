@@ -66,6 +66,7 @@ export default function BlogGrid({
       <div className="blog-grid">
         {filtered.map(post => (
           <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
               alt={post.title}
@@ -73,6 +74,7 @@ export default function BlogGrid({
               height={1024}
               loading="lazy"
               style={{ width: '100%', height: 'auto', borderRadius: '12px 12px 0 0' }}
+              onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }}
             />
             <div className="blog-card-header">
               <span className="blog-card-badge">{post.series}</span>

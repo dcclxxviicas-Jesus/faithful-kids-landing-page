@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { getAllPosts, getPostsBySeriesSlug, getAllSeriesNames } from '@/lib/blog'
 import { notFound } from 'next/navigation'
+import { BlogImage } from '../../BlogImage'
 
 type Props = {
   params: Promise<{ seriesSlug: string }>
@@ -129,7 +130,7 @@ export default async function SeriesPage({ params }: Props) {
             .sort((a, b) => a.episode - b.episode)
             .map(post => (
             <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
-              <img
+              <BlogImage
                 src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
                 alt={`${post.title} - Bible Story Illustration for Kids`}
                 width={1792}

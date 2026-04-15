@@ -9,6 +9,7 @@ import {
   getHeroStoryLinks,
 } from '@/lib/blog'
 import { notFound } from 'next/navigation'
+import { BlogImage } from '../BlogImage'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -192,21 +193,23 @@ export default async function BlogPostPage({ params }: Props) {
       <div className="blog-breadcrumb">
         <a href="/blog">Blog</a>
         <span className="blog-breadcrumb-sep">/</span>
-        <a href={`/blog/series/${post.seriesSlug}`}>{post.series}</a>
-        <span className="blog-breadcrumb-sep">/</span>
+        {post.series ? (
+          <>
+            <a href={`/blog/series/${post.seriesSlug}`}>{post.series}</a>
+            <span className="blog-breadcrumb-sep">/</span>
+          </>
+        ) : null}
         <span className="blog-breadcrumb-current">{post.title.split(':')[0]}</span>
       </div>
 
       {/* HERO IMAGE */}
       <div style={{ maxWidth: '900px', margin: '0 auto', padding: '0 20px' }}>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
+        <BlogImage
           src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-hero.webp`}
           alt={`${post.title} - Bible Story Illustration for Kids`}
           width={1792}
           height={1024}
-          // @ts-expect-error fetchpriority is valid HTML but not in React types
-          fetchpriority="high"
+          fetchPriority="high"
           style={{ width: '100%', height: 'auto', borderRadius: '16px', marginBottom: '24px' }}
         />
       </div>
@@ -216,9 +219,14 @@ export default async function BlogPostPage({ params }: Props) {
         {/* Header */}
         <header className="blog-article-header">
           <div className="blog-article-meta-row">
-            <span className="blog-card-badge">{post.series}</span>
-            <span className="blog-article-meta-sep">&middot;</span>
-            <span className="blog-article-meta-text">Episode {post.episode}</span>
+            {post.series && <span className="blog-card-badge">{post.series}</span>}
+            {post.series && post.episode > 0 && (
+              <>
+                <span className="blog-article-meta-sep">&middot;</span>
+                <span className="blog-article-meta-text">Episode {post.episode}</span>
+              </>
+            )}
+            {!post.series && post.type === 'listicle' && <span className="blog-card-badge">Guide</span>}
             {post.book && (
               <>
                 <span className="blog-article-meta-sep">&middot;</span>
@@ -258,7 +266,7 @@ export default async function BlogPostPage({ params }: Props) {
         />
 
         {/* Inline image 1 — after first content section */}
-        <img
+        <BlogImage
           src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-1.webp`}
           alt={`Illustration from ${post.title}`}
           width={1024}
@@ -282,7 +290,7 @@ export default async function BlogPostPage({ params }: Props) {
 
         {/* Inline image 2 — before discussion/quiz section */}
         {contentParts.second && (
-          <img
+          <BlogImage
             src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-2.webp`}
             alt={`${post.title} - Key Moment Illustration`}
             width={1024}

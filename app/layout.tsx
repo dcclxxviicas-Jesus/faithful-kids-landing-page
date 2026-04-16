@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp'],
   },
   icons: {
-    icon: '/logo-sm.png',
-    apple: '/logo-sm.png',
+    icon: '/icon.png',
+    apple: '/apple-icon.png',
   },
   other: {
     'theme-color': '#059669',

@@ -35,7 +35,7 @@ function getGuideCategory(slug: string): string {
   if (slug.includes('family') || slug.includes('devotions') || slug.includes('bible-time') || slug.includes('30-day') || slug.includes('dinner')) return 'Family'
   if (slug.includes('parenting') || slug.includes('godly-kids') || slug.includes('pray-with') || slug.includes('church-fun') || slug.includes('podcast') || slug.includes('when-should')) return 'Parenting'
   if (slug.includes('book-of-') || slug.includes('books-of-') || slug.includes('commandments') || slug.includes('lords-prayer') || slug.includes('beatitudes') || slug.includes('fruit-of-the-spirit') || slug.includes('gospel')) return 'Bible Books'
-  if (slug.includes('salvation') || slug.includes('death') || slug.includes('bad-things') || slug.includes('bullying') || slug.includes('divorce') || slug.includes('sickness') || slug.includes('anxious') || slug.includes('healing')) return 'Tough Topics'
+  if (slug.includes('salvation') || slug.includes('death') || slug.includes('bad-things') || slug.includes('bullying') || slug.includes('divorce') || slug.includes('sickness') || slug.includes('anxious') || slug.includes('healing')) return 'Life Questions'
   return 'Guides'
 }
 

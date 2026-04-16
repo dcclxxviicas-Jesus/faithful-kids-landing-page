@@ -29,9 +29,18 @@ export default function BlogGrid({
 }) {
   const [activeSeries, setActiveSeries] = useState<string>('all')
 
+  const sorted = [...posts].sort((a, b) => {
+    // Story posts first, listicles/guides last
+    if (a.series && !b.series) return -1
+    if (!a.series && b.series) return 1
+    return 0
+  })
+
   const filtered = activeSeries === 'all'
-    ? posts
-    : posts.filter(p => p.seriesSlug === activeSeries)
+    ? sorted
+    : activeSeries === 'guides'
+    ? sorted.filter(p => !p.series)
+    : sorted.filter(p => p.seriesSlug === activeSeries)
 
   return (
     <>
@@ -52,6 +61,14 @@ export default function BlogGrid({
             {s.name} ({s.count})
           </button>
         ))}
+        {posts.some(p => !p.series) && (
+          <button
+            className={`blog-filter-tab ${activeSeries === 'guides' ? 'active' : ''}`}
+            onClick={() => setActiveSeries('guides')}
+          >
+            Guides ({posts.filter(p => !p.series).length})
+          </button>
+        )}
       </div>
 
       {/* Post count */}

@@ -308,6 +308,7 @@ export function getAllSeriesNames(): { name: string; slug: string; count: number
   const seriesMap = new Map<string, { name: string; slug: string; count: number }>()
 
   for (const post of posts) {
+    if (!post.series || !post.seriesSlug) continue // Skip listicles with no series
     const existing = seriesMap.get(post.seriesSlug)
     if (existing) {
       existing.count++

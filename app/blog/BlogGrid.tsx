@@ -29,54 +29,53 @@ export default function BlogGrid({
 }) {
   const [activeSeries, setActiveSeries] = useState<string>('all')
 
-  const sorted = [...posts].sort((a, b) => {
-    // Story posts first, listicles/guides last
-    if (a.series && !b.series) return -1
-    if (!a.series && b.series) return 1
-    return 0
-  })
+  const guidePosts = posts.filter(p => !p.series)
+  const storyPosts = posts.filter(p => !!p.series)
 
   const filtered = activeSeries === 'all'
-    ? sorted
+    ? [...storyPosts, ...guidePosts]
     : activeSeries === 'guides'
-    ? sorted.filter(p => !p.series)
-    : sorted.filter(p => p.seriesSlug === activeSeries)
+    ? guidePosts
+    : storyPosts.filter(p => p.seriesSlug === activeSeries)
 
   return (
     <>
-      {/* Filter tabs */}
-      <div className="blog-filters">
-        <button
-          className={`blog-filter-tab ${activeSeries === 'all' ? 'active' : ''}`}
-          onClick={() => setActiveSeries('all')}
-        >
-          All ({posts.length})
-        </button>
-        {seriesList.map(s => (
+      {/* Horizontal scrollable filter tabs */}
+      <div className="blog-filters-scroll">
+        <div className="blog-filters">
           <button
-            key={s.slug}
-            className={`blog-filter-tab ${activeSeries === s.slug ? 'active' : ''}`}
-            onClick={() => setActiveSeries(s.slug)}
+            className={`blog-filter-tab ${activeSeries === 'all' ? 'active' : ''}`}
+            onClick={() => setActiveSeries('all')}
           >
-            {s.name} ({s.count})
+            All
           </button>
-        ))}
-        {posts.some(p => !p.series) && (
-          <button
-            className={`blog-filter-tab ${activeSeries === 'guides' ? 'active' : ''}`}
-            onClick={() => setActiveSeries('guides')}
-          >
-            Guides ({posts.filter(p => !p.series).length})
-          </button>
-        )}
+          {seriesList.map(s => (
+            <button
+              key={s.slug}
+              className={`blog-filter-tab ${activeSeries === s.slug ? 'active' : ''}`}
+              onClick={() => setActiveSeries(s.slug)}
+            >
+              {s.name}
+            </button>
+          ))}
+          {guidePosts.length > 0 && (
+            <button
+              className={`blog-filter-tab ${activeSeries === 'guides' ? 'active' : ''}`}
+              onClick={() => setActiveSeries('guides')}
+            >
+              Guides
+            </button>
+          )}
+        </div>
       </div>
 
       {/* Post count */}
       <p className="blog-result-count">
-        {filtered.length} {filtered.length === 1 ? 'story' : 'stories'}
-        {activeSeries !== 'all' && (
+        {filtered.length} {filtered.length === 1 ? 'article' : 'articles'}
+        {activeSeries !== 'all' && activeSeries !== 'guides' && (
           <> in <strong>{seriesList.find(s => s.slug === activeSeries)?.name}</strong></>
         )}
+        {activeSeries === 'guides' && <> in <strong>Guides</strong></>}
       </p>
 
       {/* Grid */}
@@ -87,27 +86,23 @@ export default function BlogGrid({
             <img
               src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
               alt={post.title}
-              width={1792}
-              height={1024}
+              width={896}
+              height={512}
               loading="lazy"
-              style={{ width: '100%', height: 'auto', borderRadius: '12px 12px 0 0' }}
+              className="blog-card-img"
               onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }}
             />
-            <div className="blog-card-header">
-              {post.series && <span className="blog-card-badge">{post.series}</span>}
-              {!post.series && <span className="blog-card-badge">Guide</span>}
+            <div className="blog-card-body">
+              <div className="blog-card-header">
+                {post.series
+                  ? <span className="blog-card-badge">{post.series}</span>
+                  : <span className="blog-card-badge blog-card-badge-guide">Guide</span>
+                }
+              </div>
+              <h3 className="blog-card-title">{post.title.split(':')[0]}</h3>
+              {post.book && <p className="blog-card-book">{post.book}</p>}
+              <span className="blog-card-link">Read &rarr;</span>
             </div>
-            <h3 className="blog-card-title">{post.title}</h3>
-            <p className="blog-card-book">
-              {post.book && <>{post.book} &middot; </>}{post.age}
-            </p>
-            <p className="blog-card-desc">{post.metaDescription.slice(0, 140)}...</p>
-            <div className="blog-card-themes">
-              {post.themes.split(',').slice(0, 3).map(t => (
-                <span key={t.trim()} className="blog-card-theme">{t.trim()}</span>
-              ))}
-            </div>
-            <span className="blog-card-link">Read More &rarr;</span>
           </a>
         ))}
       </div>

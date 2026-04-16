@@ -1441,14 +1441,24 @@ body {
 }
 
 /* Filter tabs */
+/* Filter scroll container */
+.blog-filters-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 20px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.blog-filters-scroll::-webkit-scrollbar { display: none; }
 .blog-filters {
   display: flex;
-  flex-wrap: wrap;
   gap: 8px;
-  margin-bottom: 20px;
+  padding-bottom: 4px;
+  width: max-content;
+  min-width: 100%;
 }
 .blog-filter-tab {
-  padding: 8px 18px;
+  padding: 8px 16px;
   border: 1.5px solid var(--border);
   border-radius: 24px;
   background: var(--white);
@@ -1458,6 +1468,7 @@ body {
   cursor: pointer;
   transition: all var(--transition);
   white-space: nowrap;
+  flex-shrink: 0;
 }
 .blog-filter-tab:hover {
   border-color: var(--primary);
@@ -1479,7 +1490,7 @@ body {
 /* Blog grid */
 .blog-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
 
@@ -1490,7 +1501,7 @@ body {
   background: var(--white);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
-  padding: 24px;
+  overflow: hidden;
   text-decoration: none;
   color: var(--text);
   transition: all var(--transition);
@@ -1500,65 +1511,57 @@ body {
   box-shadow: 0 4px 20px rgba(5, 150, 105, 0.08);
   transform: translateY(-2px);
 }
-.blog-card-header {
+.blog-card-img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  display: block;
+}
+.blog-card-body {
+  padding: 14px 16px 16px;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 10px;
+  flex-direction: column;
+  flex: 1;
+}
+.blog-card-header {
+  margin-bottom: 8px;
 }
 .blog-card-badge {
   display: inline-block;
   background: var(--primary-light);
   color: var(--primary-dark);
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 700;
-  padding: 4px 12px;
-  border-radius: 8px;
+  padding: 3px 10px;
+  border-radius: 6px;
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
-.blog-card-episode {
-  font-size: 0.75rem;
-  color: var(--text-muted);
-  font-weight: 600;
+.blog-card-badge-guide {
+  background: #f0f0f0;
+  color: #666;
 }
 .blog-card-title {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   font-weight: 700;
   line-height: 1.3;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 .blog-card-book {
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   color: var(--text-muted);
   margin-bottom: 8px;
 }
-.blog-card-desc {
-  font-size: 0.85rem;
-  color: var(--text-secondary);
-  line-height: 1.5;
-  margin-bottom: 12px;
-  flex: 1;
-}
-.blog-card-themes {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-bottom: 12px;
-}
-.blog-card-theme {
-  font-size: 0.72rem;
-  padding: 3px 10px;
-  background: var(--bg-alt);
-  border-radius: 6px;
-  color: var(--text-secondary);
-  font-weight: 500;
-  text-transform: capitalize;
-}
 .blog-card-link {
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   font-weight: 700;
   color: var(--primary);
+  margin-top: auto;
 }
 .blog-card:hover .blog-card-link {
   text-decoration: underline;
@@ -1852,7 +1855,7 @@ body {
   .blog-hero h1 { font-size: 2.2rem; }
   .blog-hero-sub { font-size: 1rem; }
   .blog-stats-inner { gap: 20px; }
-  .blog-grid { grid-template-columns: 1fr; }
+  .blog-grid { grid-template-columns: repeat(2, 1fr); }
   .blog-related-grid { grid-template-columns: 1fr; }
   .blog-article-title { font-size: 1.8rem; }
   .blog-article-body h2 { font-size: 1.35rem; }
@@ -1871,10 +1874,10 @@ body {
   .blog-stats-inner { flex-direction: column; gap: 8px; text-align: center; }
   .blog-filters { gap: 6px; }
   .blog-filter-tab { padding: 6px 14px; font-size: 0.78rem; }
+  .blog-grid { grid-template-columns: 1fr; gap: 14px; }
   .blog-article-title { font-size: 1.5rem; }
   .blog-article-info { font-size: 0.78rem; }
   .blog-article-body blockquote { padding: 16px 18px; }
-  .blog-card { padding: 18px; }
   .series-header { padding: 40px 16px 24px; }
   .series-title { font-size: 1.8rem; }
   .series-episodes { padding: 0 16px 48px; }

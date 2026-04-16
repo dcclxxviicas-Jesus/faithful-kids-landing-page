@@ -1472,6 +1472,19 @@ body {
   border-color: var(--primary);
   color: white;
 }
+.blog-filter-tab-guide {
+  border-style: dashed;
+}
+.blog-filter-tab-guide.active {
+  border-style: solid;
+}
+.blog-filter-divider {
+  width: 1px;
+  height: 28px;
+  background: var(--border);
+  flex-shrink: 0;
+  align-self: center;
+}
 
 /* Result count */
 .blog-result-count {

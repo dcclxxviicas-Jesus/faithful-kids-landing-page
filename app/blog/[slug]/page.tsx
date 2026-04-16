@@ -90,12 +90,14 @@ export default async function BlogPostPage({ params }: Props) {
       },
     },
     datePublished: '2026-04-01',
-    dateModified: '2026-04-10',
+    dateModified: '2026-04-16',
     keywords: post.keywords,
     mainEntityOfPage: `https://faithfulkids.app/blog/${post.slug}`,
+    inLanguage: 'en-US',
+    wordCount: post.content.split(/\s+/).length,
     educationalLevel: 'beginner',
     audience: { '@type': 'EducationalAudience', educationalRole: 'parent' },
-    isPartOf: { '@type': 'CreativeWorkSeries', name: `${post.series} - Faithful Kids Bible Series` },
+    ...(post.series ? { isPartOf: { '@type': 'CreativeWorkSeries', name: `${post.series} - Faithful Kids Bible Series` } } : {}),
     about: { '@type': 'Thing', name: `${titleWithoutForKids} Bible Story` },
   }
 
@@ -131,6 +133,18 @@ export default async function BlogPostPage({ params }: Props) {
         inLanguage: 'en',
       }
     : null
+
+  // BreadcrumbList schema
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://faithfulkids.app' },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: 'https://faithfulkids.app/blog' },
+      ...(post.series ? [{ '@type': 'ListItem', position: 3, name: post.series, item: `https://faithfulkids.app/blog/series/${post.seriesSlug}` }] : []),
+      { '@type': 'ListItem', position: post.series ? 4 : 3, name: post.title.split(':')[0] },
+    ],
+  }
 
   // ImageObject schema for hero image
   const imageJsonLd = {
@@ -170,6 +184,10 @@ export default async function BlogPostPage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(imageJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
       {/* NAV */}

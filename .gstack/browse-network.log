@@ -103,3 +103,4 @@
 [2026-04-16T01:05:55.853Z] GET https://us-assets.i.posthog.com/static/dead-clicks-autocapture.js?v=1.364.6 → 200 (?ms, 13086B)
 [2026-04-16T01:05:55.853Z] GET https://us-assets.i.posthog.com/array/phc_oqFs36zWarmLYs7nrSrX8KXCcCgStDFK6mtV9C7bCWe2/config.js → 200 (48ms, 1230B)
 [2026-04-16T01:05:55.901Z] GET https://us-assets.i.posthog.com/static/surveys.js?v=1.364.6 → 200 (47ms, 90040B)
+[2026-04-16T01:10:55.920Z] POST https://us.i.posthog.com/flags/?v=2&ip=0&_=1776301855911&ver=1.364.6&compression=base64 → 200 (298ms, 125B)

@@ -822,7 +822,7 @@ function ExitIntent() {
 
 function LiveCounter() {
   const [count, setCount] = useState(0)
-  const target = 127
+  const target = 1377
 
   useEffect(() => {
     // Animate count up on mount

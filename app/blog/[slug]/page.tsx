@@ -264,8 +264,8 @@ export default async function BlogPostPage({ params }: Props) {
           </div>
           {post.themes && (
             <div className="blog-article-themes">
-              {post.themes.split(',').map(t => (
-                <span key={t.trim()} className="blog-card-theme">{t.trim()}</span>
+              {post.themes.split(',').slice(0, 5).map(t => (
+                <span key={t.trim()} className="blog-theme-pill">{t.trim()}</span>
               ))}
             </div>
           )}

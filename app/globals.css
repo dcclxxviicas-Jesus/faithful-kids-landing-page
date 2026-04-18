@@ -1621,27 +1621,36 @@ body {
 
 /* Breadcrumb */
 .blog-breadcrumb {
-  max-width: 780px;
+  max-width: 900px;
   margin: 0 auto;
-  padding: 20px 24px 0;
-  font-size: 0.82rem;
+  padding: 16px 24px;
+  font-size: 0.8rem;
   color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 0;
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--border);
 }
 .blog-breadcrumb a {
-  color: var(--text-secondary);
+  color: var(--primary);
   text-decoration: none;
+  font-weight: 600;
 }
 .blog-breadcrumb a:hover {
-  color: var(--primary);
   text-decoration: underline;
 }
 .blog-breadcrumb-sep {
-  margin: 0 8px;
-  color: var(--text-muted);
+  margin: 0 6px;
+  color: var(--border);
+  font-size: 0.7rem;
 }
 .blog-breadcrumb-current {
-  color: var(--text);
-  font-weight: 500;
+  color: var(--text-secondary);
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 /* Article */
@@ -1692,6 +1701,16 @@ body {
   flex-wrap: wrap;
   gap: 6px;
   margin-top: 14px;
+}
+.blog-theme-pill {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 4px 12px;
+  background: var(--primary-light);
+  color: var(--primary-dark);
+  border-radius: 20px;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
 }
 
 /* Article body prose */

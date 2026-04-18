@@ -147,13 +147,6 @@ export default async function SeriesPage({ params }: Props) {
                 {post.book && <span className="blog-card-book-inline">{post.book}</span>}
                 {post.scripture && <span className="blog-card-scripture">{post.scripture}</span>}
               </div>
-              {post.themes && (
-                <div className="blog-card-themes">
-                  {post.themes.split(',').slice(0, 3).map(t => (
-                    <span key={t.trim()} className="blog-card-theme">{t.trim()}</span>
-                  ))}
-                </div>
-              )}
               <span className="blog-card-link">Read Story &rarr;</span>
             </a>
           ))}

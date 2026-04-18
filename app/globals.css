@@ -1629,8 +1629,7 @@ body {
   display: flex;
   align-items: center;
   gap: 0;
-  background: var(--bg-alt);
-  border-bottom: 1px solid var(--border);
+  background: transparent;
 }
 .blog-breadcrumb a {
   color: var(--primary);

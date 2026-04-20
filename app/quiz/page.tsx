@@ -196,6 +196,10 @@ export default function Quiz() {
   function startBuild(a: Record<string, string>) {
     setPhase('build')
     posthog.capture('quiz_completed', a)
+    // Meta Pixel: Lead (quiz completion)
+    if (typeof window !== 'undefined' && (window as any).fbq) {
+      (window as any).fbq('track', 'Lead')
+    }
     let i = 0, pct = 0
     function tick() {
       if (i >= BUILD_STEPS.length) { setTimeout(() => setPhase('result'), 500); return }
@@ -451,6 +455,14 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
   async function handleCheckout() {
     setLoading(true)
     posthog.capture('quiz_checkout_click', { ...answers, plan: selectedPlan })
+    // Meta Pixel: InitiateCheckout
+    if (typeof window !== 'undefined' && (window as any).fbq) {
+      (window as any).fbq('track', 'InitiateCheckout', {
+        content_name: selectedPlan,
+        value: selectedPlan === 'annual' ? 97 : 14.99,
+        currency: 'USD',
+      })
+    }
     try {
       const res = await fetch('/api/checkout', {
         method: 'POST',

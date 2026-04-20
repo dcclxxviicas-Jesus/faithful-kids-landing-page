@@ -196,22 +196,6 @@ export default function Quiz() {
   function startBuild(a: Record<string, string>) {
     setPhase('build')
     posthog.capture('quiz_completed', a)
-    // Meta: Lead event (browser + server for deduplication)
-    if (typeof window !== 'undefined') {
-      const eventId = `lead_${Date.now()}_${Math.random().toString(36).slice(2, 10)}`
-      if ((window as any).fbq) {
-        (window as any).fbq('track', 'Lead', {}, { eventID: eventId })
-      }
-      fetch('/api/meta/conversion', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          event_name: 'Lead',
-          event_id: eventId,
-          event_source_url: window.location.href,
-        }),
-      }).catch(() => {})
-    }
     let i = 0, pct = 0
     function tick() {
       if (i >= BUILD_STEPS.length) { setTimeout(() => setPhase('result'), 500); return }
@@ -467,30 +451,6 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
   async function handleCheckout() {
     setLoading(true)
     posthog.capture('quiz_checkout_click', { ...answers, plan: selectedPlan })
-    // Meta: InitiateCheckout (browser + server for deduplication)
-    if (typeof window !== 'undefined') {
-      const eventId = `ic_${Date.now()}_${Math.random().toString(36).slice(2, 10)}`
-      const value = selectedPlan === 'annual' ? 97 : 14.99
-      if ((window as any).fbq) {
-        (window as any).fbq('track', 'InitiateCheckout', {
-          content_name: selectedPlan,
-          value,
-          currency: 'USD',
-        }, { eventID: eventId })
-      }
-      fetch('/api/meta/conversion', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          event_name: 'InitiateCheckout',
-          event_id: eventId,
-          value,
-          currency: 'USD',
-          content_name: selectedPlan,
-          event_source_url: window.location.href,
-        }),
-      }).catch(() => {})
-    }
     try {
       const res = await fetch('/api/checkout', {
         method: 'POST',

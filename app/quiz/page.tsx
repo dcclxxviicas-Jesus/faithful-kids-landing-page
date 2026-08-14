@@ -475,7 +475,7 @@ export default function Quiz() {
           <h1 className="qz-q">{q.q}</h1>
           <p className="qz-sub">{q.sub}</p>
 
-          {q.type === 'single' && q.opts && (
+          {(q.type === 'single' || q.type === 'trivia') && q.opts && (
             <div className="qz-opts">
               {q.opts.map(o => (
                 <button key={o.val} className="qz-opt" onClick={() => pick(o.val)}>

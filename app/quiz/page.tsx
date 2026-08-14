@@ -20,6 +20,17 @@ const PROOF = [
   'Got it — almost done!',
 ]
 
+const KID_PROOF = [
+  'Awesome pick! 🎉',
+  'Great choice — this is going to be fun!',
+  'You have excellent taste! ⭐',
+  'Adding that to your adventure...',
+  'You\'re going to love this!',
+  'Almost there, hero!',
+  'Your adventure is looking amazing!',
+  'Last one — you\'ve got this!',
+]
+
 const BUILD_STEPS = [
   { text: 'Analyzing your answers', icon: '🔍', ms: 900 },
   { text: 'Matching content to age group', icon: '👶', ms: 1000 },
@@ -30,13 +41,27 @@ const BUILD_STEPS = [
   { text: 'Finalizing your plan', icon: '✨', ms: 600 },
 ]
 
+const KID_BUILD_STEPS = [
+  { text: 'Loading your hero adventures', icon: '🗡️', ms: 900 },
+  { text: 'Picking stories for your age', icon: '🎂', ms: 1000 },
+  { text: 'Adding quizzes to beat', icon: '🏆', ms: 800 },
+  { text: 'Setting up your levels', icon: '⭐', ms: 1000 },
+  { text: 'Unlocking your first series', icon: '🔓', ms: 900 },
+  { text: 'Drawing your adventure map', icon: '🗺️', ms: 800 },
+]
+
 // Questions — all single-tap, no typing
-const QUESTIONS: {
+type Question = {
   id: string; emoji: string; q: string; sub: string
-  type: 'single' | 'multi' | 'slider' | 'scale'
+  type: 'single' | 'multi' | 'slider' | 'scale' | 'trivia'
   opts?: { label: string; val: string; emoji: string; sub?: string }[]
+  correct?: string
+  correctMsg?: string
+  revealMsg?: string
   interstitialAfter?: 'screen_time' | 'video'
-}[] = [
+}
+
+const PARENT_QUESTIONS: Question[] = [
   {
     id: 'num_kids', emoji: '👨‍👩‍👧‍👦', type: 'single',
     q: 'How many kids are in your family?',
@@ -132,11 +157,112 @@ const QUESTIONS: {
   },
 ]
 
+const KID_QUESTIONS: Question[] = [
+  {
+    id: 'age', emoji: '🎂', type: 'single',
+    q: 'How old are you?',
+    sub: 'So we pick the perfect stories for you',
+    opts: [
+      { label: '4-5', val: '4-5', emoji: '🌱', sub: 'Little Learner' },
+      { label: '6-7', val: '6-7', emoji: '🌿', sub: 'Growing Mind' },
+      { label: '8-9', val: '8-9', emoji: '🌳', sub: 'Explorer' },
+      { label: '10-12', val: '10-12', emoji: '⭐', sub: 'Young Scholar' },
+      { label: '13+', val: '13+', emoji: '🎓', sub: 'Almost grown up!' },
+    ],
+  },
+  {
+    id: 'hero', emoji: '🦸', type: 'single',
+    q: 'Pick your favorite Bible hero!',
+    sub: 'Your adventure starts with them',
+    opts: [
+      { label: 'David', val: 'david', emoji: '🪨', sub: 'Beat a giant with one stone' },
+      { label: 'Noah', val: 'noah', emoji: '🚢', sub: 'Built the biggest boat ever' },
+      { label: 'Esther', val: 'esther', emoji: '👑', sub: 'The bravest queen' },
+      { label: 'Daniel', val: 'daniel', emoji: '🦁', sub: 'Slept next to lions' },
+      { label: 'Peter', val: 'peter', emoji: '🌊', sub: 'Walked on water' },
+      { label: 'All of them!', val: 'all', emoji: '🌟', sub: 'Why pick just one?' },
+    ],
+  },
+  {
+    id: 'trivia_boat', emoji: '🧠', type: 'trivia',
+    q: 'Quick quiz! Who built the giant boat for all the animals?',
+    sub: 'Bet you know this one...',
+    correct: 'noah',
+    correctMsg: '🎉 CORRECT! You\'re good at this!',
+    revealMsg: 'It was Noah! 🚢 Now you know — that\'s how learning works!',
+    opts: [
+      { label: 'David', val: 'david', emoji: '🪨' },
+      { label: 'Noah', val: 'noah', emoji: '🚢' },
+      { label: 'Goliath', val: 'goliath', emoji: '💪' },
+      { label: 'Jonah', val: 'jonah', emoji: '🐋' },
+    ],
+  },
+  {
+    id: 'fun', emoji: '🎮', type: 'single',
+    q: 'What sounds the MOST fun?',
+    sub: 'You get all of these, by the way',
+    opts: [
+      { label: 'Watching Bible movies', val: 'videos', emoji: '📺' },
+      { label: 'Beating quizzes', val: 'quizzes', emoji: '🏆' },
+      { label: 'Leveling up like a game', val: 'levels', emoji: '⭐' },
+      { label: 'ALL of it!', val: 'all', emoji: '🌟' },
+    ],
+    interstitialAfter: 'video',
+  },
+  {
+    id: 'trivia_giant', emoji: '🧠', type: 'trivia',
+    q: 'One more! Who beat the giant Goliath?',
+    sub: 'You\'ve got this...',
+    correct: 'david',
+    correctMsg: '🎉 YES! Two in a row — you\'re a natural!',
+    revealMsg: 'It was David! 🪨 One smooth stone. Wait till you see the video!',
+    opts: [
+      { label: 'Moses', val: 'moses', emoji: '🌊' },
+      { label: 'Noah', val: 'noah', emoji: '🚢' },
+      { label: 'David', val: 'david', emoji: '🪨' },
+      { label: 'Peter', val: 'peter', emoji: '🎣' },
+    ],
+  },
+  {
+    id: 'watch', emoji: '📺', type: 'single',
+    q: 'How much do you watch videos or play games?',
+    sub: 'Be honest — we won\'t tell 😉',
+    opts: [
+      { label: 'A little', val: '<1hr', emoji: '😇' },
+      { label: 'Some days a lot', val: '1-2hr', emoji: '📱' },
+      { label: 'A LOT', val: '2-4hr', emoji: '😅' },
+      { label: 'My parents say too much', val: '4hr+', emoji: '🙈' },
+    ],
+  },
+  {
+    id: 'adventure', emoji: '🗺️', type: 'single',
+    q: 'Pick your FIRST adventure!',
+    sub: 'Where should your journey start?',
+    opts: [
+      { label: 'The lions\' den with Daniel', val: 'daniel', emoji: '🦁' },
+      { label: 'The great flood with Noah', val: 'noah', emoji: '🌊' },
+      { label: 'Walking on water', val: 'water', emoji: '👣' },
+      { label: 'The very first day of the world', val: 'creation', emoji: '✨' },
+    ],
+  },
+  {
+    id: 'excited', emoji: '🚀', type: 'single',
+    q: 'How excited are you to start?',
+    sub: 'Last one!',
+    opts: [
+      { label: 'Pretty excited', val: 'excited', emoji: '😀' },
+      { label: 'Super excited', val: 'super', emoji: '🤩' },
+      { label: 'THE MOST excited EVER!!', val: 'most', emoji: '🚀' },
+    ],
+  },
+]
+
 // ============================================================================
 // Component
 // ============================================================================
 
 export default function Quiz() {
+  const [path, setPath] = useState<'kid' | 'parent' | null>(null)
   const [step, setStep] = useState(0)
   const [answers, setAnswers] = useState<Record<string, string>>({})
   const [anim, setAnim] = useState<'enter' | 'exit'>('enter')
@@ -149,27 +275,43 @@ export default function Quiz() {
 
   useEffect(() => { posthog.capture('quiz_started') }, [])
 
+  const QUESTIONS = path === 'kid' ? KID_QUESTIONS : PARENT_QUESTIONS
   const total = QUESTIONS.length
   const q = QUESTIONS[step]
   const pct = ((step + 1) / total) * 100
 
+  function choosePath(p: 'kid' | 'parent') {
+    setPath(p)
+    posthog.capture('quiz_answer', { question: 'path', answer: p, step: -1 })
+    posthog.capture('quiz_path_selected', { path: p })
+  }
+
   function pick(val: string) {
     const next = { ...answers, [q.id]: val }
     setAnswers(next)
-    posthog.capture('quiz_answer', { question: q.id, answer: val, step })
+    posthog.capture('quiz_answer', { question: q.id, answer: val, step, path })
 
-    // Social proof flash
-    setProof(PROOF[Math.min(step, PROOF.length - 1)])
-    setTimeout(() => setProof(null), 1400)
+    // Feedback flash — trivia gets right/wrong, others get social proof
+    let wait = 800
+    if (q.type === 'trivia') {
+      const gotIt = val === q.correct
+      setProof(gotIt ? (q.correctMsg || '🎉 Correct!') : (q.revealMsg || 'Good try!'))
+      wait = gotIt ? 1100 : 1800
+      setTimeout(() => setProof(null), wait + 600)
+    } else {
+      const proofList = path === 'kid' ? KID_PROOF : PROOF
+      setProof(proofList[Math.min(step, proofList.length - 1)])
+      setTimeout(() => setProof(null), 1400)
+    }
 
     // Interstitial?
     if (q.interstitialAfter) {
-      setTimeout(() => setInter(q.interstitialAfter!), 800)
+      setTimeout(() => setInter(q.interstitialAfter!), wait)
       return
     }
 
     // Next or build
-    setTimeout(() => advance(next), 800)
+    setTimeout(() => advance(next), wait)
   }
 
   function pickMulti(val: string) {
@@ -195,25 +337,62 @@ export default function Quiz() {
 
   function startBuild(a: Record<string, string>) {
     setPhase('build')
-    posthog.capture('quiz_completed', a)
+    posthog.capture('quiz_completed', { ...a, path })
+    const steps = path === 'kid' ? KID_BUILD_STEPS : BUILD_STEPS
     let i = 0, pct = 0
     function tick() {
-      if (i >= BUILD_STEPS.length) { setTimeout(() => setPhase('result'), 500); return }
+      if (i >= steps.length) { setTimeout(() => setPhase('result'), 500); return }
       setBuildIdx(i)
-      const target = Math.round(((i + 1) / BUILD_STEPS.length) * 100)
+      const target = Math.round(((i + 1) / steps.length) * 100)
       const interval = setInterval(() => {
         pct++
         setBuildPct(Math.min(pct, 100))
         if (pct >= target) clearInterval(interval)
-      }, BUILD_STEPS[i].ms / Math.max(target - pct, 1))
+      }, steps[i].ms / Math.max(target - pct, 1))
       i++
-      setTimeout(tick, BUILD_STEPS[i - 1].ms)
+      setTimeout(tick, steps[i - 1].ms)
     }
     tick()
   }
 
+  // ===== PATH FORK =====
+  if (!path) {
+    return (
+      <div className="qz">
+        <div className="qz-head">
+          <img src="/logo-sm.png" alt="" className="qz-logo" />
+        </div>
+        <div className="qz-bar"><div className="qz-bar-fill" style={{ width: '4%' }} /></div>
+        <div className="qz-body">
+          <div className="qz-card enter">
+            <div className="qz-emoji">👋</div>
+            <h1 className="qz-q">Who&apos;s taking this quiz today?</h1>
+            <p className="qz-sub">We&apos;ll make it perfect for you</p>
+            <div className="qz-opts">
+              <button className="qz-opt" onClick={() => choosePath('kid')}>
+                <span className="qz-opt-emoji">🧒</span>
+                <span className="qz-opt-text">
+                  <strong>I&apos;m a kid!</strong>
+                  <small>Build your own Bible adventure</small>
+                </span>
+              </button>
+              <button className="qz-opt" onClick={() => choosePath('parent')}>
+                <span className="qz-opt-emoji">👨‍👩‍👧</span>
+                <span className="qz-opt-text">
+                  <strong>I&apos;m a parent</strong>
+                  <small>Build a plan for your family</small>
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    )
+  }
+
   // ===== BUILD =====
   if (phase === 'build') {
+    const steps = path === 'kid' ? KID_BUILD_STEPS : BUILD_STEPS
     return (
       <div className="qz">
         <div className="qz-build">
@@ -227,10 +406,10 @@ export default function Quiz() {
             </svg>
             <span className="qz-ring-num">{buildPct}%</span>
           </div>
-          <h2>Building your family&apos;s plan</h2>
-          <p className="qz-build-sub">Hang tight — personalizing for your answers...</p>
+          <h2>{path === 'kid' ? 'Building your adventure map' : 'Building your family’s plan'}</h2>
+          <p className="qz-build-sub">{path === 'kid' ? 'Hang tight, hero — almost ready...' : 'Hang tight — personalizing for your answers...'}</p>
           <div className="qz-build-list">
-            {BUILD_STEPS.map((s, i) => (
+            {steps.map((s, i) => (
               <div key={i} className={`qz-build-row ${i < buildIdx ? 'done' : i === buildIdx ? 'active' : ''}`}>
                 <span className="qz-build-icon">{i < buildIdx ? '✓' : s.icon}</span>
                 <span>{s.text}</span>
@@ -244,7 +423,7 @@ export default function Quiz() {
 
   // ===== RESULT =====
   if (phase === 'result') {
-    return <Result answers={answers} liveCount={liveCount} />
+    return <Result answers={answers} liveCount={liveCount} path={path} />
   }
 
   // ===== SCREEN TIME INTERSTITIAL =====
@@ -276,7 +455,7 @@ export default function Quiz() {
 
   // ===== VIDEO INTERSTITIAL =====
   if (inter === 'video') {
-    return <VideoInterstitial pct={pct} liveCount={liveCount} onDismiss={dismissInter} />
+    return <VideoInterstitial pct={pct} liveCount={liveCount} onDismiss={dismissInter} path={path} />
   }
 
   // ===== QUESTIONS =====
@@ -324,9 +503,10 @@ export default function Quiz() {
 // ============================================================================
 // Multi-select
 // ============================================================================
-function VideoInterstitial({ pct, liveCount, onDismiss }: { pct: number; liveCount: number; onDismiss: () => void }) {
+function VideoInterstitial({ pct, liveCount, onDismiss, path }: { pct: number; liveCount: number; onDismiss: () => void; path: 'kid' | 'parent' | null }) {
   const vidRef = useRef<HTMLVideoElement>(null)
   const [muted, setMuted] = useState(true)
+  const isKid = path === 'kid'
 
   function toggleMute() {
     if (vidRef.current) {
@@ -341,7 +521,7 @@ function VideoInterstitial({ pct, liveCount, onDismiss }: { pct: number; liveCou
       <div className="qz-bar"><div className="qz-bar-fill" style={{ width: `${pct}%` }} /></div>
       <div className="qz-body">
         <div className="qz-card enter">
-          <p className="qz-eyebrow">A peek at what your kids could be watching</p>
+          <p className="qz-eyebrow">{isKid ? 'Look — Jesus tells YOU the story! 🤩' : 'A peek at what your kids could be watching'}</p>
           <div className="qz-vid-wrap" style={{ position: 'relative', cursor: 'pointer' }} onClick={toggleMute}>
             <video
               ref={vidRef}
@@ -358,9 +538,9 @@ function VideoInterstitial({ pct, liveCount, onDismiss }: { pct: number; liveCou
               {muted ? '\u{1F507} Tap to listen' : '\u{1F50A} Playing'}
             </div>
           </div>
-          <p className="qz-vid-cap">Real lesson from Faithful Kids. Jesus narrates every story.</p>
+          <p className="qz-vid-cap">{isKid ? 'Every story is a movie like this — with a quiz to beat after!' : 'Real lesson from Faithful Kids. Jesus narrates every story.'}</p>
           <div className="qz-live-pill">{'\u{1F441}\uFE0F'} {liveCount} families watching right now</div>
-          <button className="qz-btn" onClick={onDismiss}>Almost done — 2 left</button>
+          <button className="qz-btn" onClick={onDismiss}>{isKid ? 'Cool! Keep going →' : 'Almost done — 2 left'}</button>
         </div>
       </div>
     </div>
@@ -421,17 +601,31 @@ const PLANS = [
   { id: 'monthly', name: 'Monthly', price: 14.99, total: 14.99, period: '/mo', savings: null, label: null, weekly: 3.46 },
 ]
 
-function Result({ answers, liveCount }: { answers: Record<string, string>; liveCount: number }) {
+const HERO_NAMES: Record<string, string> = {
+  david: 'David', noah: 'Noah', esther: 'Esther', daniel: 'Daniel', peter: 'Peter', all: 'every Bible hero',
+}
+const ADVENTURE_NAMES: Record<string, string> = {
+  daniel: 'The Lions\' Den with Daniel 🦁',
+  noah: 'The Great Flood with Noah 🌊',
+  water: 'Walking on Water 👣',
+  creation: 'The Very First Day of the World ✨',
+}
+
+function Result({ answers, liveCount, path }: { answers: Record<string, string>; liveCount: number; path: 'kid' | 'parent' | null }) {
   const { minutes: min, seconds: sec, display: timerDisplay } = useTimer()
   const [selectedPlan, setSelectedPlan] = useState('annual')
   const [loading, setLoading] = useState(false)
+  const isKid = path === 'kid'
 
   useEffect(() => {
   }, [])
 
-  const kids = answers.num_kids === '1' ? 'your child' : 'your kids'
+  const kids = isKid ? 'your child' : answers.num_kids === '1' ? 'your child' : 'your kids'
   const age = answers.age || '6-7'
   const denom = answers.denomination === 'catholic' ? 'Catholic' : answers.denomination === 'evangelical' ? 'Evangelical' : 'Christian'
+  const heroName = HERO_NAMES[answers.hero] || 'every Bible hero'
+  const adventureName = ADVENTURE_NAMES[answers.adventure] || ADVENTURE_NAMES.creation
+  const screenAnswer = answers.screen_time || answers.watch
 
   const painMap: Record<string, { t: string; fix: string }> = {
     no_value: { t: 'They watch junk and learn nothing', fix: 'Every Faithful Kids video teaches real Scripture. No filler. No junk. No wasted minutes.' },
@@ -450,7 +644,7 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
 
   async function handleCheckout() {
     setLoading(true)
-    posthog.capture('quiz_checkout_click', { ...answers, plan: selectedPlan })
+    posthog.capture('quiz_checkout_click', { ...answers, plan: selectedPlan, path })
     try {
       const res = await fetch('/api/checkout', {
         method: 'POST',
@@ -475,10 +669,32 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
       <div className="qz-result">
         {/* Hero */}
         <div className="qz-r-hero">
-          <div className="qz-r-badge">✨ {kids}&apos;s plan is ready</div>
-          <h1>Your family&apos;s personalized<br />Bible journey</h1>
-          <p>{Object.keys(answers).length} answers analyzed. Here&apos;s what we built.</p>
+          <div className="qz-r-badge">{isKid ? '🎉 Your adventure is ready!' : `✨ ${kids}'s plan is ready`}</div>
+          {isKid ? (
+            <h1>You built your own<br />Bible adventure!</h1>
+          ) : (
+            <h1>Your family&apos;s personalized<br />Bible journey</h1>
+          )}
+          <p>{isKid
+            ? `Starring ${heroName}. First stop: ${adventureName}`
+            : `${Object.keys(answers).length} answers analyzed. Here's what we built.`}</p>
         </div>
+
+        {/* Kid → parent handoff */}
+        {isKid && (
+          <div className="qz-r-section">
+            <div className="qz-r-pain" style={{ textAlign: 'center' }}>
+              <div style={{ fontSize: '2.2rem', marginBottom: '6px' }}>👋</div>
+              <div className="qz-r-pain-title">Go grab your mom or dad!</div>
+              <p>Tell them: <strong>&ldquo;I made a Bible adventure and I want to try it!&rdquo;</strong> Then hand them the phone. 📱</p>
+              <p style={{ marginTop: '12px', fontSize: '0.88rem', color: '#666' }}>
+                <strong>Parents:</strong> your child just built their own Bible learning plan — matched to
+                ages {age}, starting with {adventureName.replace(/ [^ ]+$/, '')}. Every lesson is a short video narrated by
+                Jesus with a comprehension quiz after. Everything below is ready to go, with a 7-day free trial.
+              </p>
+            </div>
+          </div>
+        )}
 
         {/* Live */}
         <div className="qz-r-live">🔥 {liveCount} families taking this quiz right now</div>
@@ -494,19 +710,29 @@ function Result({ answers, liveCount }: { answers: Record<string, string>; liveC
             <div className="qz-r-after">
               <div className="qz-r-compare-emoji">🌟</div>
               <strong>With Faithful Kids</strong>
-              <p>{screenMap[answers.screen_time] || screenMap['2-4hr']}</p>
+              <p>{screenMap[screenAnswer] || screenMap['2-4hr']}</p>
             </div>
           </div>
         </div>
 
-        {/* Pain point */}
-        <div className="qz-r-section">
-          <h2>We heard you</h2>
-          <div className="qz-r-pain">
-            <div className="qz-r-pain-title">&ldquo;{pain.t}&rdquo;</div>
-            <p>{pain.fix}</p>
+        {/* Pain point (parents) / First adventure (kids) */}
+        {isKid ? (
+          <div className="qz-r-section">
+            <h2>Your first adventure</h2>
+            <div className="qz-r-pain">
+              <div className="qz-r-pain-title">{adventureName}</div>
+              <p>Watch the story, beat the quiz, earn your stars — then unlock the next episode. {heroName === 'every Bible hero' ? 'All your heroes are waiting.' : `${heroName} is waiting for you.`}</p>
+            </div>
           </div>
-        </div>
+        ) : (
+          <div className="qz-r-section">
+            <h2>We heard you</h2>
+            <div className="qz-r-pain">
+              <div className="qz-r-pain-title">&ldquo;{pain.t}&rdquo;</div>
+              <p>{pain.fix}</p>
+            </div>
+          </div>
+        )}
 
         {/* Video preview */}
         <div className="qz-r-section">

@@ -18,6 +18,8 @@ export interface BlogPost {
   content: string
   videoUrl: string
   quizAvailable: boolean
+  datePublished: string
+  dateModified: string
 }
 
 const BLOG_DIR = path.join(process.cwd(), 'content', 'blog')
@@ -273,6 +275,9 @@ function readPost(filename: string): BlogPost | null {
     content: markdownToHtml(body),
     videoUrl: (data.videoUrl as string) || '',
     quizAvailable: (data.quizAvailable as boolean) || false,
+    // Posts written before dates were tracked keep the original launch dates
+    datePublished: (data.datePublished as string) || '2026-04-01',
+    dateModified: (data.dateModified as string) || (data.datePublished as string) || '2026-04-16',
   }
 }
 

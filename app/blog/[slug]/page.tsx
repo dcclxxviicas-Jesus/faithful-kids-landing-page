@@ -89,8 +89,8 @@ export default async function BlogPostPage({ params }: Props) {
         url: 'https://faithfulkids.app/logo.png',
       },
     },
-    datePublished: '2026-04-01',
-    dateModified: '2026-04-16',
+    datePublished: post.datePublished,
+    dateModified: post.dateModified,
     keywords: post.keywords,
     mainEntityOfPage: `https://faithfulkids.app/blog/${post.slug}`,
     inLanguage: 'en-US',
@@ -261,6 +261,8 @@ export default async function BlogPostPage({ params }: Props) {
             <span>{post.testament}</span>
             <span>&middot;</span>
             <span>By Faithful Kids Team</span>
+            <span>&middot;</span>
+            <span>Updated {new Date(post.dateModified + 'T00:00:00').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
           </div>
           {post.themes && (
             <div className="blog-article-themes">

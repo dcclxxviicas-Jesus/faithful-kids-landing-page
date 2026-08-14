@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 & 2 Kings"
 age: "Ages 6+"
 themes: "faith, miracles, trusting God, prayer"
-metaDescription: "Learn the story of Naboths Vineyard explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Naboths Vineyard explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, a quiz, and a free video."
 keywords: ["naboths vineyard for kids", "naboths vineyard bible story", "naboths vineyard for children", "naboths vineyard explained for kids", "naboths vineyard story for kids", "bible stories for kids", "elijah and elisha for kids", "kids bible", "1 & 2 kings for kids"]
 videoUrl: "/videos/elijah-and-elisha/naboths-vineyard/lesson-video.mp4"
 quizAvailable: true

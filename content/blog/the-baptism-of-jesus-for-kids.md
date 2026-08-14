@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "hope, faith, God's plan, Christmas, miracles"
-metaDescription: "Learn the story of The Baptism of Jesus explained for kids ages 5+. Simple retelling from Matthew 3:13-17, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Baptism of Jesus explained for kids ages 5+. Simple retelling from Matthew 3:13-17, with key lessons, a quiz, and a free video."
 keywords: ["the baptism of jesus for kids", "the baptism of jesus bible story", "the baptism of jesus for children", "the baptism of jesus explained for kids", "the baptism of jesus story for kids", "bible stories for kids", "birth of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/birth-of-jesus/the-baptism-of-jesus/lesson-video.mp4"
 quizAvailable: true

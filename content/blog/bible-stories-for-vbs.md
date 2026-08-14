@@ -2,7 +2,7 @@
 title: "15 Bible Stories for VBS (Vacation Bible School): Free Video Lessons"
 slug: "bible-stories-for-vbs"
 type: "listicle"
-metaDescription: "The best Bible stories for Vacation Bible School. 15 engaging stories with free 60-second videos, quizzes, discussion questions, and coloring pages. Ready for your VBS program."
+metaDescription: "The best Bible stories for Vacation Bible School. 15 engaging stories with free 60-second videos, quizzes, discussion questions, and coloring pages."
 keywords: ["bible stories for vbs", "vacation bible school stories", "vbs bible lessons", "vbs curriculum ideas", "free vbs content"]
 ---
 

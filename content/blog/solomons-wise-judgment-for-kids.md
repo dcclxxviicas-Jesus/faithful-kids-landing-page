@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of Solomons Wise Judgment explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Solomons Wise Judgment explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, a quiz, and a free video."
 keywords: ["solomons wise judgment for kids", "solomons wise judgment bible story", "solomons wise judgment for children", "solomons wise judgment explained for kids", "solomons wise judgment story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/solomons-wise-judgment/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Judges/Ruth"
 age: "Ages 6+"
 themes: "bravery, loyalty, faith, God's plan"
-metaDescription: "Learn the story of Deborah a Brave Leader explained for kids ages 5+. Simple retelling from Judges 4-5, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Deborah a Brave Leader explained for kids ages 5+. Simple retelling from Judges 4-5, with key lessons, a quiz, and a free video."
 keywords: ["deborah a brave leader for kids", "deborah a brave leader bible story", "deborah a brave leader for children", "deborah a brave leader explained for kids", "deborah a brave leader story for kids", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
 videoUrl: "/videos/judges-and-ruth/deborah-a-brave-leader/lesson-video.mp4"
 quizAvailable: true

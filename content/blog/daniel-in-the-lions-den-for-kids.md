@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Daniel/Jonah/Isaiah"
 age: "Ages 6+"
 themes: "courage, faith under pressure, obedience, hope"
-metaDescription: "Learn the story of Daniel in the Lions Den explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Daniel in the Lions Den explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, a quiz, and a free video."
 keywords: ["daniel in the lions den for kids", "daniel in the lions den bible story", "daniel in the lions den for children", "daniel in the lions den explained for kids", "daniel in the lions den story for kids", "bible stories for kids", "exile and faith for kids", "kids bible", "daniel/jonah/isaiah for kids"]
 videoUrl: "/videos/exile-and-faith/daniel-in-the-lions-den/lesson-video.mp4"
 quizAvailable: true

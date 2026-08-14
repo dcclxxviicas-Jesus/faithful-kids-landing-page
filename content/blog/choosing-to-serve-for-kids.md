@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Joshua/Numbers"
 age: "Ages 6+"
 themes: "courage, trust, following God, new beginnings"
-metaDescription: "Learn the story of Choosing to Serve explained for kids ages 5+. Simple retelling from Joshua 23-24, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Choosing to Serve explained for kids ages 5+. Simple retelling from Joshua 23-24, with key lessons, a quiz, and a free video."
 keywords: ["choosing to serve for kids", "choosing to serve bible story", "choosing to serve for children", "choosing to serve explained for kids", "choosing to serve story for kids", "bible stories for kids", "promised land for kids", "kids bible", "joshua/numbers for kids"]
 videoUrl: "/videos/promised-land/choosing-to-serve/lesson-video.mp4"
 quizAvailable: true

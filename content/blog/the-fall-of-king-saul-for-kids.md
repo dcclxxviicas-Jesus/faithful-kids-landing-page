@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Samuel"
 age: "Ages 5+"
 themes: "courage, faith, God choosing the unlikely"
-metaDescription: "Learn the story of The Fall of King Saul explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Fall of King Saul explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, a quiz, and a free video."
 keywords: ["the fall of king saul for kids", "the fall of king saul bible story", "the fall of king saul for children", "the fall of king saul explained for kids", "the fall of king saul story for kids", "bible stories for kids", "rise of kings for kids", "kids bible", "1 samuel for kids"]
 videoUrl: "/videos/rise-of-kings/the-fall-of-king-saul/lesson-video.mp4"
 quizAvailable: true

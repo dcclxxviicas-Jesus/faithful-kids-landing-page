@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Judges/Ruth"
 age: "Ages 6+"
 themes: "bravery, loyalty, faith, God's plan"
-metaDescription: "Learn the story of Samson Strongest Man Alive explained for kids ages 5+. Simple retelling from Judges 13-15, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Samson Strongest Man Alive explained for kids ages 5+. Simple retelling from Judges 13-15, with key lessons, a quiz, and a free video."
 keywords: ["samson strongest man alive for kids", "samson strongest man alive bible story", "samson strongest man alive for children", "samson strongest man alive explained for kids", "samson strongest man alive story for kids", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
 videoUrl: "/videos/judges-and-ruth/samson-strongest-man-alive/lesson-video.mp4"
 quizAvailable: true

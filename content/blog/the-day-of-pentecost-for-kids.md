@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke/Acts"
 age: "Ages 5+"
 themes: "resurrection, hope, faith, new life, Easter"
-metaDescription: "Learn the story of The Day of Pentecost explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Day of Pentecost explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, a quiz, and a free video."
 keywords: ["the day of pentecost for kids", "the day of pentecost bible story", "the day of pentecost for children", "the day of pentecost explained for kids", "the day of pentecost story for kids", "bible stories for kids", "he is risen for kids", "kids bible", "matthew/luke/acts for kids"]
 videoUrl: "/videos/he-is-risen/the-day-of-pentecost/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of Building the Temple explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Building the Temple explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, a quiz, and a free video."
 keywords: ["building the temple for kids", "building the temple bible story", "building the temple for children", "building the temple explained for kids", "building the temple story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/building-the-temple/lesson-video.mp4"
 quizAvailable: true

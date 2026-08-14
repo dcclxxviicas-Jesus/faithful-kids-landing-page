@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "adventure, perseverance, sharing faith, courage"
-metaDescription: "Learn the story of Paul and Silas in Prison explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Paul and Silas in Prison explained for kids ages 5+. Simple retelling from Acts, with key lessons, a quiz, and a free video."
 keywords: ["paul and silas in prison for kids", "paul and silas in prison bible story", "paul and silas in prison for children", "paul and silas in prison explained for kids", "paul and silas in prison story for kids", "bible stories for kids", "pauls adventures for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/pauls-adventures/paul-and-silas-in-prison/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "faith, God's power, compassion, trust"
-metaDescription: "Learn the story of The Demon Possessed Man explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Demon Possessed Man explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John with a quiz and a free video."
 keywords: ["the demon possessed man for kids", "the demon possessed man bible story", "the demon possessed man for children", "the demon possessed man explained for kids", "the demon possessed man story for kids", "bible stories for kids", "miracles of jesus for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/miracles-of-jesus/the-demon-possessed-man/lesson-video.mp4"
 quizAvailable: true

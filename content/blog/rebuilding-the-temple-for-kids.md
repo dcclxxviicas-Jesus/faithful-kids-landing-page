@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Ezra/Nehemiah/Esther"
 age: "Ages 7+"
 themes: "rebuilding, courage, God's faithfulness, prayer"
-metaDescription: "Learn the story of Rebuilding the Temple explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Rebuilding the Temple explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, a quiz, and a free video."
 keywords: ["rebuilding the temple for kids", "rebuilding the temple bible story", "rebuilding the temple for children", "rebuilding the temple explained for kids", "rebuilding the temple story for kids", "bible stories for kids", "the return home for kids", "kids bible", "ezra/nehemiah/esther for kids"]
 videoUrl: "/videos/the-return-home/rebuilding-the-temple/lesson-video.mp4"
 quizAvailable: true

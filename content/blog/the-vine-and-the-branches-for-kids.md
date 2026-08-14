@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Hebrews/James/Revelation"
 age: "Ages 7+"
 themes: "faith, hope, heaven, God's promises, eternity"
-metaDescription: "Learn the story of The Vine and the Branches explained for kids ages 5+. Simple retelling from Hebrews/James/Revelation, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Vine and the Branches explained for kids ages 5+. Simple retelling from Hebrews/James/Revelation with a quiz and a free video."
 keywords: ["the vine and the branches for kids", "the vine and the branches bible story", "the vine and the branches for children", "the vine and the branches explained for kids", "the vine and the branches story for kids", "bible stories for kids", "ending and beginning for kids", "kids bible", "hebrews/james/revelation for kids"]
 videoUrl: "/videos/ending-and-beginning/the-vine-and-the-branches/lesson-video.mp4"
 quizAvailable: true

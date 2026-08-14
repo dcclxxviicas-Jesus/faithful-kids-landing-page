@@ -2,7 +2,7 @@
 title: "25 Easy Bible Verses for Kids to Memorize (Organized by Age)"
 slug: "bible-verses-for-kids-to-memorize"
 type: "listicle"
-metaDescription: "25 Bible verses for kids to memorize, organized by age group. Short verses for ages 3-5, medium for ages 6-8, and longer passages for ages 9-12 with memory tips."
+metaDescription: "25 Bible verses for kids to memorize, organized by age group. Short verses for ages 3-5, medium for ages 6-8."
 keywords: ["bible verses for kids to memorize", "easy memory verses for children", "bible memorization for kids by age"]
 ---
 

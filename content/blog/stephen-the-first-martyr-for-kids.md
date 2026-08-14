@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "community, courage, sharing faith, miracles"
-metaDescription: "Learn the story of Stephen the First Martyr explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Stephen the First Martyr explained for kids ages 5+. Simple retelling from Acts, with key lessons, a quiz, and a free video."
 keywords: ["stephen the first martyr for kids", "stephen the first martyr bible story", "stephen the first martyr for children", "stephen the first martyr explained for kids", "stephen the first martyr story for kids", "bible stories for kids", "early church for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/early-church/stephen-the-first-martyr/lesson-video.mp4"
 quizAvailable: true

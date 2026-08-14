@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "calling, healing, compassion, faith"
-metaDescription: "Learn the story of The Four Fishermen explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Four Fishermen explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["the four fishermen for kids", "the four fishermen bible story", "the four fishermen for children", "the four fishermen explained for kids", "the four fishermen story for kids", "bible stories for kids", "jesus begins ministry for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/jesus-begins-ministry/the-four-fishermen/lesson-video.mp4"
 quizAvailable: true

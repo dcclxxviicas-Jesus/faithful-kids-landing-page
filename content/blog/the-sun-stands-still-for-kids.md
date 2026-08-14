@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Joshua/Numbers"
 age: "Ages 6+"
 themes: "courage, trust, following God, new beginnings"
-metaDescription: "Learn the story of The Sun Stands Still explained for kids ages 5+. Simple retelling from Joshua 10, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Sun Stands Still explained for kids ages 5+. Simple retelling from Joshua 10, with key lessons, a quiz, and a free video."
 keywords: ["the sun stands still for kids", "the sun stands still bible story", "the sun stands still for children", "the sun stands still explained for kids", "the sun stands still story for kids", "bible stories for kids", "promised land for kids", "kids bible", "joshua/numbers for kids"]
 videoUrl: "/videos/promised-land/the-sun-stands-still/lesson-video.mp4"
 quizAvailable: true

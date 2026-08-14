@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "hope, faith, God's plan, Christmas, miracles"
-metaDescription: "Learn the story of Joseph and the Angel explained for kids ages 5+. Simple retelling from Matthew 1:18-25, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Joseph and the Angel explained for kids ages 5+. Simple retelling from Matthew 1:18-25, with key lessons, a quiz, and a free video."
 keywords: ["joseph and the angel for kids", "joseph and the angel bible story", "joseph and the angel for children", "joseph and the angel explained for kids", "joseph and the angel story for kids", "bible stories for kids", "birth of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/birth-of-jesus/joseph-and-the-angel/lesson-video.mp4"
 quizAvailable: true

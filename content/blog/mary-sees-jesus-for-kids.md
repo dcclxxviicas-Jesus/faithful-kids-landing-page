@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke/Acts"
 age: "Ages 5+"
 themes: "resurrection, hope, faith, new life, Easter"
-metaDescription: "Learn the story of Mary Sees Jesus explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Mary Sees Jesus explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, a quiz, and a free video."
 keywords: ["mary sees jesus for kids", "mary sees jesus bible story", "mary sees jesus for children", "mary sees jesus explained for kids", "mary sees jesus story for kids", "bible stories for kids", "he is risen for kids", "kids bible", "matthew/luke/acts for kids"]
 videoUrl: "/videos/he-is-risen/mary-sees-jesus/lesson-video.mp4"
 quizAvailable: true

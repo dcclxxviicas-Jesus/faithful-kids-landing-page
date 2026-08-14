@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of Crossing the Red Sea explained for kids ages 5+. Simple retelling from Exodus 13-15, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Crossing the Red Sea explained for kids ages 5+. Simple retelling from Exodus 13-15, with key lessons, a quiz, and a free video."
 keywords: ["crossing the red sea for kids", "crossing the red sea bible story", "crossing the red sea for children", "crossing the red sea explained for kids", "crossing the red sea story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/crossing-the-red-sea/lesson-video.mp4"
 quizAvailable: true

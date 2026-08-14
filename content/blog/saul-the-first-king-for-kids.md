@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Samuel"
 age: "Ages 5+"
 themes: "courage, faith, God choosing the unlikely"
-metaDescription: "Learn the story of Saul the First King explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Saul the First King explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, a quiz, and a free video."
 keywords: ["saul the first king for kids", "saul the first king bible story", "saul the first king for children", "saul the first king explained for kids", "saul the first king story for kids", "bible stories for kids", "rise of kings for kids", "kids bible", "1 samuel for kids"]
 videoUrl: "/videos/rise-of-kings/saul-the-first-king/lesson-video.mp4"
 quizAvailable: true

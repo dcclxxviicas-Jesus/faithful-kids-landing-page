@@ -2,7 +2,7 @@
 title: "The Easter Story for Kids: 10 Bible Stories from Palm Sunday to the Resurrection"
 slug: "easter-bible-stories-for-kids"
 type: "listicle"
-metaDescription: "The complete Easter story for kids. 10 Bible stories from the Triumphal Entry to the Empty Tomb, told simply for children ages 5+. With videos and discussion questions."
+metaDescription: "The complete Easter story for kids. 10 Bible stories from the Triumphal Entry to the Empty Tomb, told simply for children ages 5+."
 keywords: ["easter story for kids", "easter bible stories children", "resurrection story kids", "holy week for kids", "good friday for kids"]
 ---
 

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "2 Samuel/Psalms"
 age: "Ages 6+"
 themes: "worship, repentance, God's promises, honesty"
-metaDescription: "Learn the story of Dancing Before the Lord explained for kids ages 5+. Simple retelling from 2 Samuel/Psalms, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Dancing Before the Lord explained for kids ages 5+. Simple retelling from 2 Samuel/Psalms, with key lessons, a quiz, and a free video."
 keywords: ["dancing before the lord for kids", "dancing before the lord bible story", "dancing before the lord for children", "dancing before the lord explained for kids", "dancing before the lord story for kids", "bible stories for kids", "king davids reign for kids", "kids bible", "2 samuel/psalms for kids"]
 videoUrl: "/videos/king-davids-reign/dancing-before-the-lord/lesson-video.mp4"
 quizAvailable: true

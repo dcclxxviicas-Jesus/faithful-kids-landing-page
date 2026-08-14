@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 6+"
 themes: "sacrifice, love, courage, Easter"
-metaDescription: "Learn the story of The Last Supper explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Last Supper explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["the last supper for kids", "the last supper bible story", "the last supper for children", "the last supper explained for kids", "the last supper story for kids", "bible stories for kids", "road to the cross for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/road-to-the-cross/the-last-supper/lesson-video.mp4"
 quizAvailable: true

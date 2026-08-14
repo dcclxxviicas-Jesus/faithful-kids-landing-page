@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 6+"
 themes: "sacrifice, love, courage, Easter"
-metaDescription: "Learn the story of It is Finished explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of It is Finished explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["it is finished for kids", "it is finished bible story", "it is finished for children", "it is finished explained for kids", "it is finished story for kids", "bible stories for kids", "road to the cross for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/road-to-the-cross/it-is-finished/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Joshua/Numbers"
 age: "Ages 6+"
 themes: "courage, trust, following God, new beginnings"
-metaDescription: "Learn the story of Joshua Takes Command explained for kids ages 5+. Simple retelling from Joshua 1, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Joshua Takes Command explained for kids ages 5+. Simple retelling from Joshua 1, with key lessons, a quiz, and a free video."
 keywords: ["joshua takes command for kids", "joshua takes command bible story", "joshua takes command for children", "joshua takes command explained for kids", "joshua takes command story for kids", "bible stories for kids", "promised land for kids", "kids bible", "joshua/numbers for kids"]
 videoUrl: "/videos/promised-land/joshua-takes-command/lesson-video.mp4"
 quizAvailable: true

@@ -2,7 +2,7 @@
 title: "12 Bible Verses About Family for Kids"
 slug: "bible-verses-about-family-for-kids"
 type: "listicle"
-metaDescription: "12 Bible verses about family for kids with simple explanations. Psalm 133:1, Joshua 24:15, Colossians 3:20, Ephesians 6:1-3, and more for teaching kids about family."
+metaDescription: "12 Bible verses about family for kids with simple explanations. Psalm 133:1, Joshua 24:15, Colossians 3:20, Ephesians 6:1-3."
 keywords: ["bible verses about family for kids", "family scriptures for children", "what does the bible say about family"]
 ---
 

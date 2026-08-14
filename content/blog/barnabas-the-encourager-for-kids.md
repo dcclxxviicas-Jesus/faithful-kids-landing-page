@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "community, courage, sharing faith, miracles"
-metaDescription: "Learn the story of Barnabas the Encourager explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Barnabas the Encourager explained for kids ages 5+. Simple retelling from Acts, with key lessons, a quiz, and a free video."
 keywords: ["barnabas the encourager for kids", "barnabas the encourager bible story", "barnabas the encourager for children", "barnabas the encourager explained for kids", "barnabas the encourager story for kids", "bible stories for kids", "early church for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/early-church/barnabas-the-encourager/lesson-video.mp4"
 quizAvailable: true

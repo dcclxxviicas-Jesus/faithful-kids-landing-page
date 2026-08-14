@@ -2,7 +2,7 @@
 title: "Yippee TV vs Faithful Kids: Entertainment vs Education"
 slug: "yippee-tv-vs-faithful-kids"
 type: "listicle"
-metaDescription: "Yippee TV vs Faithful Kids — how do these Christian kids platforms compare? One streams shows, the other teaches the Bible. Find out which is right for your family."
+metaDescription: "Yippee TV vs Faithful Kids — how do these Christian kids platforms compare? One streams shows, the other teaches the Bible."
 keywords: ["yippee tv vs faithful kids", "christian streaming for kids", "bible education app for kids"]
 ---
 

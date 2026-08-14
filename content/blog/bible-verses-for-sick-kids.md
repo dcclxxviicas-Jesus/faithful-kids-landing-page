@@ -2,7 +2,7 @@
 title: "Comforting Bible Verses for Sick Kids (When Your Child Is Unwell)"
 slug: "bible-verses-for-sick-kids"
 type: "listicle"
-metaDescription: "Comforting Bible verses for sick kids. Gentle, healing scriptures like Psalm 41:3, Jeremiah 30:17, and James 5:15 to read when your child is unwell or in the hospital."
+metaDescription: "Comforting Bible verses for sick kids. Gentle, healing scriptures like Psalm 41:3, Jeremiah 30:17."
 keywords: ["bible verses for sick kids", "healing scriptures for children", "comforting bible verses for sick child"]
 ---
 

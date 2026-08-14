@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "calling, healing, compassion, faith"
-metaDescription: "Learn the story of The First Disciples explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The First Disciples explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["the first disciples for kids", "the first disciples bible story", "the first disciples for children", "the first disciples explained for kids", "the first disciples story for kids", "bible stories for kids", "jesus begins ministry for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/jesus-begins-ministry/the-first-disciples/lesson-video.mp4"
 quizAvailable: true

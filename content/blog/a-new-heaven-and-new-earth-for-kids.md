@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Hebrews/James/Revelation"
 age: "Ages 7+"
 themes: "faith, hope, heaven, God's promises, eternity"
-metaDescription: "Learn the story of A New Heaven and New Earth explained for kids ages 5+. Simple retelling from Hebrews/James/Revelation, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of A New Heaven and New Earth explained for kids ages 5+. Simple retelling from Hebrews/James/Revelation with a quiz and a free video."
 keywords: ["a new heaven and new earth for kids", "a new heaven and new earth bible story", "a new heaven and new earth for children", "a new heaven and new earth explained for kids", "a new heaven and new earth story for kids", "bible stories for kids", "ending and beginning for kids", "kids bible", "hebrews/james/revelation for kids"]
 videoUrl: "/videos/ending-and-beginning/a-new-heaven-and-new-earth/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "faith, God's power, compassion, trust"
-metaDescription: "Learn the story of Healing the Blind Man explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Healing the Blind Man explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["healing the blind man for kids", "healing the blind man bible story", "healing the blind man for children", "healing the blind man explained for kids", "healing the blind man story for kids", "bible stories for kids", "miracles of jesus for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/miracles-of-jesus/healing-the-blind-man/lesson-video.mp4"
 quizAvailable: true

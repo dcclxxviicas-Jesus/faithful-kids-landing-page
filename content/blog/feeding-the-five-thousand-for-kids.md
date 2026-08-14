@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "faith, God's power, compassion, trust"
-metaDescription: "Learn the story of Feeding the Five Thousand explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Feeding the Five Thousand explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John with a quiz and a free video."
 keywords: ["feeding the five thousand for kids", "feeding the five thousand bible story", "feeding the five thousand for children", "feeding the five thousand explained for kids", "feeding the five thousand story for kids", "bible stories for kids", "miracles of jesus for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/miracles-of-jesus/feeding-the-five-thousand/lesson-video.mp4"
 quizAvailable: true

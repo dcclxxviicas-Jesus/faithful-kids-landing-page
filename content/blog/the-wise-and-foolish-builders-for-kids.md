@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "love, kindness, forgiveness, prayer, wisdom"
-metaDescription: "Learn the story of The Wise and Foolish Builders explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Wise and Foolish Builders explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, a quiz, and a free video."
 keywords: ["the wise and foolish builders for kids", "the wise and foolish builders bible story", "the wise and foolish builders for children", "the wise and foolish builders explained for kids", "the wise and foolish builders story for kids", "bible stories for kids", "teachings of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/teachings-of-jesus/the-wise-and-foolish-builders/lesson-video.mp4"
 quizAvailable: true

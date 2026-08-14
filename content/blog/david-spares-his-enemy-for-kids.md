@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Samuel"
 age: "Ages 5+"
 themes: "courage, faith, God choosing the unlikely"
-metaDescription: "Learn the story of David Spares His Enemy explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of David Spares His Enemy explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, a quiz, and a free video."
 keywords: ["david spares his enemy for kids", "david spares his enemy bible story", "david spares his enemy for children", "david spares his enemy explained for kids", "david spares his enemy story for kids", "bible stories for kids", "rise of kings for kids", "kids bible", "1 samuel for kids"]
 videoUrl: "/videos/rise-of-kings/david-spares-his-enemy/lesson-video.mp4"
 quizAvailable: true

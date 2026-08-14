@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Joshua/Numbers"
 age: "Ages 6+"
 themes: "courage, trust, following God, new beginnings"
-metaDescription: "Learn the story of The Twelve Spies explained for kids ages 5+. Simple retelling from Numbers 13-14, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Twelve Spies explained for kids ages 5+. Simple retelling from Numbers 13-14, with key lessons, a quiz, and a free video."
 keywords: ["the twelve spies for kids", "the twelve spies bible story", "the twelve spies for children", "the twelve spies explained for kids", "the twelve spies story for kids", "bible stories for kids", "promised land for kids", "kids bible", "joshua/numbers for kids"]
 videoUrl: "/videos/promised-land/the-twelve-spies/lesson-video.mp4"
 quizAvailable: true

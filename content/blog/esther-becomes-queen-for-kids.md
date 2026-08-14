@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Ezra/Nehemiah/Esther"
 age: "Ages 7+"
 themes: "rebuilding, courage, God's faithfulness, prayer"
-metaDescription: "Learn the story of Esther Becomes Queen explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Esther Becomes Queen explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, a quiz, and a free video."
 keywords: ["esther becomes queen for kids", "esther becomes queen bible story", "esther becomes queen for children", "esther becomes queen explained for kids", "esther becomes queen story for kids", "bible stories for kids", "the return home for kids", "kids bible", "ezra/nehemiah/esther for kids"]
 videoUrl: "/videos/the-return-home/esther-becomes-queen/lesson-video.mp4"
 quizAvailable: true

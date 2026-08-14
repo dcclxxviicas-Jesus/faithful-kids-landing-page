@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Romans/Corinthians/Ephesians"
 age: "Ages 7+"
 themes: "love, faith, hope, character, spiritual growth"
-metaDescription: "Learn the story of Running the Race explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Running the Race explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians with a quiz and a free video."
 keywords: ["running the race for kids", "running the race bible story", "running the race for children", "running the race explained for kids", "running the race story for kids", "bible stories for kids", "letters to churches for kids", "kids bible", "romans/corinthians/ephesians for kids"]
 videoUrl: "/videos/letters-to-churches/running-the-race/lesson-video.mp4"
 quizAvailable: true

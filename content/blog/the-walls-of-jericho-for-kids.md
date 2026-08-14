@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Joshua/Numbers"
 age: "Ages 6+"
 themes: "courage, trust, following God, new beginnings"
-metaDescription: "Learn the story of The Walls of Jericho explained for kids ages 5+. Simple retelling from Joshua 5-6, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Walls of Jericho explained for kids ages 5+. Simple retelling from Joshua 5-6, with key lessons, a quiz, and a free video."
 keywords: ["the walls of jericho for kids", "the walls of jericho bible story", "the walls of jericho for children", "the walls of jericho explained for kids", "the walls of jericho story for kids", "bible stories for kids", "promised land for kids", "kids bible", "joshua/numbers for kids"]
 videoUrl: "/videos/promised-land/the-walls-of-jericho/lesson-video.mp4"
 quizAvailable: true

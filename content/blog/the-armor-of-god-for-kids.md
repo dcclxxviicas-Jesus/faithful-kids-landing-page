@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Romans/Corinthians/Ephesians"
 age: "Ages 7+"
 themes: "love, faith, hope, character, spiritual growth"
-metaDescription: "Learn the story of The Armor of God explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Armor of God explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians with a quiz and a free video."
 keywords: ["the armor of god for kids", "the armor of god bible story", "the armor of god for children", "the armor of god explained for kids", "the armor of god story for kids", "bible stories for kids", "letters to churches for kids", "kids bible", "romans/corinthians/ephesians for kids"]
 videoUrl: "/videos/letters-to-churches/the-armor-of-god/lesson-video.mp4"
 quizAvailable: true

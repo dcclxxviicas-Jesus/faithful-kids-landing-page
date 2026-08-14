@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Romans/Corinthians/Ephesians"
 age: "Ages 7+"
 themes: "love, faith, hope, character, spiritual growth"
-metaDescription: "Learn the story of The Fruit of the Spirit explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Fruit of the Spirit explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians with a quiz and a free video."
 keywords: ["the fruit of the spirit for kids", "the fruit of the spirit bible story", "the fruit of the spirit for children", "the fruit of the spirit explained for kids", "the fruit of the spirit story for kids", "bible stories for kids", "letters to churches for kids", "kids bible", "romans/corinthians/ephesians for kids"]
 videoUrl: "/videos/letters-to-churches/the-fruit-of-the-spirit/lesson-video.mp4"
 quizAvailable: true

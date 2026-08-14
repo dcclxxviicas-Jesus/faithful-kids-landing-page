@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "2 Samuel/Psalms"
 age: "Ages 6+"
 themes: "worship, repentance, God's promises, honesty"
-metaDescription: "Learn the story of David and Mephibosheth explained for kids ages 5+. Simple retelling from 2 Samuel/Psalms, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of David and Mephibosheth explained for kids ages 5+. Simple retelling from 2 Samuel/Psalms, with key lessons, a quiz, and a free video."
 keywords: ["david and mephibosheth for kids", "david and mephibosheth bible story", "david and mephibosheth for children", "david and mephibosheth explained for kids", "david and mephibosheth story for kids", "bible stories for kids", "king davids reign for kids", "kids bible", "2 samuel/psalms for kids"]
 videoUrl: "/videos/king-davids-reign/david-and-mephibosheth/lesson-video.mp4"
 quizAvailable: true

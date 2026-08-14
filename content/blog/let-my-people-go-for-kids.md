@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of Let My People Go explained for kids ages 5+. Simple retelling from Exodus 5-7, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Let My People Go explained for kids ages 5+. Simple retelling from Exodus 5-7, with key lessons, a quiz, and a free video."
 keywords: ["let my people go for kids", "let my people go bible story", "let my people go for children", "let my people go explained for kids", "let my people go story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/let-my-people-go/lesson-video.mp4"
 quizAvailable: true

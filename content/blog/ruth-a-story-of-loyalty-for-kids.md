@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Judges/Ruth"
 age: "Ages 6+"
 themes: "bravery, loyalty, faith, God's plan"
-metaDescription: "Learn the story of Ruth a Story of Loyalty explained for kids ages 5+. Simple retelling from Ruth 1-2, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Ruth a Story of Loyalty explained for kids ages 5+. Simple retelling from Ruth 1-2, with key lessons, a quiz, and a free video."
 keywords: ["ruth a story of loyalty for kids", "ruth a story of loyalty bible story", "ruth a story of loyalty for children", "ruth a story of loyalty explained for kids", "ruth a story of loyalty story for kids", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
 videoUrl: "/videos/judges-and-ruth/ruth-a-story-of-loyalty/lesson-video.mp4"
 quizAvailable: true

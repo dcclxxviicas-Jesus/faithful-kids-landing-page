@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Samuel"
 age: "Ages 5+"
 themes: "courage, faith, God choosing the unlikely"
-metaDescription: "Learn the story of David and Jonathan explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of David and Jonathan explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, a quiz, and a free video."
 keywords: ["david and jonathan for kids", "david and jonathan bible story", "david and jonathan for children", "david and jonathan explained for kids", "david and jonathan story for kids", "bible stories for kids", "rise of kings for kids", "kids bible", "1 samuel for kids"]
 videoUrl: "/videos/rise-of-kings/david-and-jonathan/lesson-video.mp4"
 quizAvailable: true

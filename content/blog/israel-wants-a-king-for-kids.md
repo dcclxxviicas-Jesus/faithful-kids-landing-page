@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Samuel"
 age: "Ages 5+"
 themes: "courage, faith, God choosing the unlikely"
-metaDescription: "Learn the story of Israel Wants a King explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Israel Wants a King explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, a quiz, and a free video."
 keywords: ["israel wants a king for kids", "israel wants a king bible story", "israel wants a king for children", "israel wants a king explained for kids", "israel wants a king story for kids", "bible stories for kids", "rise of kings for kids", "kids bible", "1 samuel for kids"]
 videoUrl: "/videos/rise-of-kings/israel-wants-a-king/lesson-video.mp4"
 quizAvailable: true

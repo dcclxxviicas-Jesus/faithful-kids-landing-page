@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke/Acts"
 age: "Ages 5+"
 themes: "resurrection, hope, faith, new life, Easter"
-metaDescription: "Learn the story of The Empty Tomb explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Empty Tomb explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, a quiz, and a free video."
 keywords: ["the empty tomb for kids", "the empty tomb bible story", "the empty tomb for children", "the empty tomb explained for kids", "the empty tomb story for kids", "bible stories for kids", "he is risen for kids", "kids bible", "matthew/luke/acts for kids"]
 videoUrl: "/videos/he-is-risen/the-empty-tomb/lesson-video.mp4"
 quizAvailable: true

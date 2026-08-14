@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Daniel/Jonah/Isaiah"
 age: "Ages 6+"
 themes: "courage, faith under pressure, obedience, hope"
-metaDescription: "Learn the story of Judah Falls to Babylon explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Judah Falls to Babylon explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, a quiz, and a free video."
 keywords: ["judah falls to babylon for kids", "judah falls to babylon bible story", "judah falls to babylon for children", "judah falls to babylon explained for kids", "judah falls to babylon story for kids", "bible stories for kids", "exile and faith for kids", "kids bible", "daniel/jonah/isaiah for kids"]
 videoUrl: "/videos/exile-and-faith/judah-falls-to-babylon/lesson-video.mp4"
 quizAvailable: true

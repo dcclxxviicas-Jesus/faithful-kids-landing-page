@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Judges/Ruth"
 age: "Ages 6+"
 themes: "bravery, loyalty, faith, God's plan"
-metaDescription: "Learn the story of Samsons Fall and Final Stand explained for kids ages 5+. Simple retelling from Judges 16, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Samsons Fall and Final Stand explained for kids ages 5+. Simple retelling from Judges 16, with key lessons, a quiz, and a free video."
 keywords: ["samsons fall and final stand for kids", "samsons fall and final stand bible story", "samsons fall and final stand for children", "samsons fall and final stand explained for kids", "samsons fall and final stand story for kids", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
 videoUrl: "/videos/judges-and-ruth/samsons-fall-and-final-stand/lesson-video.mp4"
 quizAvailable: true

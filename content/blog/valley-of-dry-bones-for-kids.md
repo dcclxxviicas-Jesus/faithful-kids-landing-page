@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Daniel/Jonah/Isaiah"
 age: "Ages 6+"
 themes: "courage, faith under pressure, obedience, hope"
-metaDescription: "Learn the story of Valley of Dry Bones explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Valley of Dry Bones explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, a quiz, and a free video."
 keywords: ["valley of dry bones for kids", "valley of dry bones bible story", "valley of dry bones for children", "valley of dry bones explained for kids", "valley of dry bones story for kids", "bible stories for kids", "exile and faith for kids", "kids bible", "daniel/jonah/isaiah for kids"]
 videoUrl: "/videos/exile-and-faith/valley-of-dry-bones/lesson-video.mp4"
 quizAvailable: true

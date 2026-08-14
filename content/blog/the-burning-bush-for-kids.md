@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of The Burning Bush explained for kids ages 5+. Simple retelling from Exodus 3-4, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Burning Bush explained for kids ages 5+. Simple retelling from Exodus 3-4, with key lessons, a quiz, and a free video."
 keywords: ["the burning bush for kids", "the burning bush bible story", "the burning bush for children", "the burning bush explained for kids", "the burning bush story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/the-burning-bush/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Romans/Corinthians/Ephesians"
 age: "Ages 7+"
 themes: "love, faith, hope, character, spiritual growth"
-metaDescription: "Learn the story of More Than Conquerors explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of More Than Conquerors explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians with a quiz and a free video."
 keywords: ["more than conquerors for kids", "more than conquerors bible story", "more than conquerors for children", "more than conquerors explained for kids", "more than conquerors story for kids", "bible stories for kids", "letters to churches for kids", "kids bible", "romans/corinthians/ephesians for kids"]
 videoUrl: "/videos/letters-to-churches/more-than-conquerors/lesson-video.mp4"
 quizAvailable: true

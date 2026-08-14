@@ -2,7 +2,7 @@
 title: "Bible Discussion Questions for Kids (200+ Organized by Story)"
 slug: "bible-discussion-questions-for-kids"
 type: "listicle"
-metaDescription: "200+ Bible discussion questions for kids organized by 20 major stories. Open-ended, age-appropriate questions for Sunday school, homeschool, and family devotions."
+metaDescription: "200+ Bible discussion questions for kids organized by 20 major stories. Open-ended, age-appropriate questions for Sunday school, homeschool."
 keywords: ["bible discussion questions for kids", "sunday school questions", "bible study questions children"]
 ---
 

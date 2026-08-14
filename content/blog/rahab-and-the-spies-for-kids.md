@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Joshua/Numbers"
 age: "Ages 6+"
 themes: "courage, trust, following God, new beginnings"
-metaDescription: "Learn the story of Rahab and the Spies explained for kids ages 5+. Simple retelling from Joshua 2, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Rahab and the Spies explained for kids ages 5+. Simple retelling from Joshua 2, with key lessons, a quiz, and a free video."
 keywords: ["rahab and the spies for kids", "rahab and the spies bible story", "rahab and the spies for children", "rahab and the spies explained for kids", "rahab and the spies story for kids", "bible stories for kids", "promised land for kids", "kids bible", "joshua/numbers for kids"]
 videoUrl: "/videos/promised-land/rahab-and-the-spies/lesson-video.mp4"
 quizAvailable: true

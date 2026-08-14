@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Joshua/Numbers"
 age: "Ages 6+"
 themes: "courage, trust, following God, new beginnings"
-metaDescription: "Learn the story of Balaams Donkey explained for kids ages 5+. Simple retelling from Numbers 22-24, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Balaams Donkey explained for kids ages 5+. Simple retelling from Numbers 22-24, with key lessons, a quiz, and a free video."
 keywords: ["balaams donkey for kids", "balaams donkey bible story", "balaams donkey for children", "balaams donkey explained for kids", "balaams donkey story for kids", "bible stories for kids", "promised land for kids", "kids bible", "joshua/numbers for kids"]
 videoUrl: "/videos/promised-land/balaams-donkey/lesson-video.mp4"
 quizAvailable: true

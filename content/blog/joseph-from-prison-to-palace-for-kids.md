@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of Joseph from Prison to Palace explained for kids ages 5+. Simple retelling from Genesis 41-50, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Joseph from Prison to Palace explained for kids ages 5+. Simple retelling from Genesis 41-50, with key lessons, a quiz, and a free video."
 keywords: ["joseph from prison to palace for kids", "joseph from prison to palace bible story", "joseph from prison to palace for children", "joseph from prison to palace explained for kids", "joseph from prison to palace story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/joseph-from-prison-to-palace/lesson-video.mp4"
 quizAvailable: true

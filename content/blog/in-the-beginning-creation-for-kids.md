@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of In the Beginning Creation explained for kids ages 5+. Simple retelling from Genesis 1-2, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of In the Beginning Creation explained for kids ages 5+. Simple retelling from Genesis 1-2, with key lessons, a quiz, and a free video."
 keywords: ["in the beginning creation for kids", "in the beginning creation bible story", "in the beginning creation for children", "in the beginning creation explained for kids", "in the beginning creation story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/in-the-beginning-creation/lesson-video.mp4"
 quizAvailable: true

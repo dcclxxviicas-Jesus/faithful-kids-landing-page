@@ -2,7 +2,7 @@
 title: "8 Bible Stories About Friendship for Kids"
 slug: "bible-stories-about-friendship-for-kids"
 type: "listicle"
-metaDescription: "Bible stories about friendship for kids. David and Jonathan, Ruth and Naomi, Jesus and His disciples. Teach your child what real friendship looks like through Scripture."
+metaDescription: "Bible stories about friendship for kids. David and Jonathan, Ruth and Naomi, Jesus and His disciples."
 keywords: ["bible stories about friendship for kids", "friendship bible stories children", "friends in the bible kids", "bible friendship kids"]
 ---
 

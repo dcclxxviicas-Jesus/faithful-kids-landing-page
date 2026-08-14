@@ -2,7 +2,7 @@
 title: "7 Christian Alternatives to YouTube for Kids (2026)"
 slug: "christian-alternatives-to-youtube-for-kids"
 type: "listicle"
-metaDescription: "Looking for a Christian alternative to YouTube for your kids? Here are 7 safe, ad-free, faith-based video apps and services that replace mindless scrolling with meaningful content."
+metaDescription: "Looking for a Christian alternative to YouTube for kids? 7 safe, ad-free, faith-based video apps that replace mindless scrolling with meaningful content."
 keywords: ["christian alternative to youtube for kids", "christian youtube replacement kids", "safe christian apps for kids", "faith based streaming kids"]
 ---
 

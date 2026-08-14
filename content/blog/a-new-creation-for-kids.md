@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Romans/Corinthians/Ephesians"
 age: "Ages 7+"
 themes: "love, faith, hope, character, spiritual growth"
-metaDescription: "Learn the story of A New Creation explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of A New Creation explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians, with key lessons, a quiz, and a free video."
 keywords: ["a new creation for kids", "a new creation bible story", "a new creation for children", "a new creation explained for kids", "a new creation story for kids", "bible stories for kids", "letters to churches for kids", "kids bible", "romans/corinthians/ephesians for kids"]
 videoUrl: "/videos/letters-to-churches/a-new-creation/lesson-video.mp4"
 quizAvailable: true

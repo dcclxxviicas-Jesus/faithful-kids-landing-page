@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "hope, faith, God's plan, Christmas, miracles"
-metaDescription: "Learn the story of John the Baptist explained for kids ages 5+. Simple retelling from Matthew 3:1-12, Luke 3:1-18, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of John the Baptist explained for kids ages 5+. Simple retelling from Matthew 3:1-12, Luke 3:1-18, with key lessons, a quiz, and a free video."
 keywords: ["john the baptist for kids", "john the baptist bible story", "john the baptist for children", "john the baptist explained for kids", "john the baptist story for kids", "bible stories for kids", "birth of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/birth-of-jesus/john-the-baptist/lesson-video.mp4"
 quizAvailable: true

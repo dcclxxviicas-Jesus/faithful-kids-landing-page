@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "hope, faith, God's plan, Christmas, miracles"
-metaDescription: "Learn the story of An Angel Visits Mary explained for kids ages 5+. Simple retelling from Luke 1:26-56, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of An Angel Visits Mary explained for kids ages 5+. Simple retelling from Luke 1:26-56, with key lessons, a quiz, and a free video."
 keywords: ["an angel visits mary for kids", "an angel visits mary bible story", "an angel visits mary for children", "an angel visits mary explained for kids", "an angel visits mary story for kids", "bible stories for kids", "birth of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/birth-of-jesus/an-angel-visits-mary/lesson-video.mp4"
 quizAvailable: true

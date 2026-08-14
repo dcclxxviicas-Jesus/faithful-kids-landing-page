@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke/Acts"
 age: "Ages 5+"
 themes: "resurrection, hope, faith, new life, Easter"
-metaDescription: "Learn the story of Breakfast on the Beach explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Breakfast on the Beach explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, a quiz, and a free video."
 keywords: ["breakfast on the beach for kids", "breakfast on the beach bible story", "breakfast on the beach for children", "breakfast on the beach explained for kids", "breakfast on the beach story for kids", "bible stories for kids", "he is risen for kids", "kids bible", "matthew/luke/acts for kids"]
 videoUrl: "/videos/he-is-risen/breakfast-on-the-beach/lesson-video.mp4"
 quizAvailable: true

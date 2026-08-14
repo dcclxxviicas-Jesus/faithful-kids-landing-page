@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Hebrews/James/Revelation"
 age: "Ages 7+"
 themes: "faith, hope, heaven, God's promises, eternity"
-metaDescription: "Learn the story of Faith Without Works explained for kids ages 5+. Simple retelling from Hebrews/James/Revelation, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Faith Without Works explained for kids ages 5+. Simple retelling from Hebrews/James/Revelation, with key lessons, a quiz, and a free video."
 keywords: ["faith without works for kids", "faith without works bible story", "faith without works for children", "faith without works explained for kids", "faith without works story for kids", "bible stories for kids", "ending and beginning for kids", "kids bible", "hebrews/james/revelation for kids"]
 videoUrl: "/videos/ending-and-beginning/faith-without-works/lesson-video.mp4"
 quizAvailable: true

@@ -2,7 +2,7 @@
 title: "12 Bible Verses About Fear for Kids (Be Not Afraid)"
 slug: "bible-verses-about-fear-for-kids"
 type: "listicle"
-metaDescription: "12 comforting Bible verses about fear for kids with simple explanations. Help your child overcome anxiety and worry with Scripture like Isaiah 41:10 and Psalm 23:4."
+metaDescription: "12 comforting Bible verses about fear for kids, with simple explanations. Help your child face worry with Scripture like Isaiah 41:10 and Psalm 23:4."
 keywords: ["bible verses about fear for kids", "be not afraid bible verse", "overcoming fear scripture for children"]
 ---
 

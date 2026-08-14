@@ -2,7 +2,7 @@
 title: "10 Bible Verses About Friendship for Kids"
 slug: "bible-verses-about-friendship-for-kids"
 type: "listicle"
-metaDescription: "10 Bible verses about friendship for kids with practical applications. Teach children what the Bible says about being a good friend using Proverbs, Ecclesiastes, and more."
+metaDescription: "10 Bible verses about friendship for kids with practical applications. Teach children what the Bible says about being a good friend using Proverbs."
 keywords: ["bible verses about friendship for kids", "friendship scriptures for children", "what does the bible say about friends"]
 ---
 

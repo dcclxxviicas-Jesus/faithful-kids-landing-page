@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Ezra/Nehemiah/Esther"
 age: "Ages 7+"
 themes: "rebuilding, courage, God's faithfulness, prayer"
-metaDescription: "Learn the story of Looking Forward explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Looking Forward explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, a quiz, and a free video."
 keywords: ["looking forward for kids", "looking forward bible story", "looking forward for children", "looking forward explained for kids", "looking forward story for kids", "bible stories for kids", "the return home for kids", "kids bible", "ezra/nehemiah/esther for kids"]
 videoUrl: "/videos/the-return-home/looking-forward/lesson-video.mp4"
 quizAvailable: true

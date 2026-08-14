@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "calling, healing, compassion, faith"
-metaDescription: "Learn the story of The Twelve Apostles explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Twelve Apostles explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["the twelve apostles for kids", "the twelve apostles bible story", "the twelve apostles for children", "the twelve apostles explained for kids", "the twelve apostles story for kids", "bible stories for kids", "jesus begins ministry for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/jesus-begins-ministry/the-twelve-apostles/lesson-video.mp4"
 quizAvailable: true

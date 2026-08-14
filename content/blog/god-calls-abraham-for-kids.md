@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of God Calls Abraham explained for kids ages 5+. Simple retelling from Genesis 12-15, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of God Calls Abraham explained for kids ages 5+. Simple retelling from Genesis 12-15, with key lessons, a quiz, and a free video."
 keywords: ["god calls abraham for kids", "god calls abraham bible story", "god calls abraham for children", "god calls abraham explained for kids", "god calls abraham story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/god-calls-abraham/lesson-video.mp4"
 quizAvailable: true

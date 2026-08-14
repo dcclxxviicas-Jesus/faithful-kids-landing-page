@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "2 Samuel/Psalms"
 age: "Ages 6+"
 themes: "worship, repentance, God's promises, honesty"
-metaDescription: "Learn the story of The Shepherds Song explained for kids ages 5+. Simple retelling from 2 Samuel/Psalms, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Shepherds Song explained for kids ages 5+. Simple retelling from 2 Samuel/Psalms, with key lessons, a quiz, and a free video."
 keywords: ["the shepherds song for kids", "the shepherds song bible story", "the shepherds song for children", "the shepherds song explained for kids", "the shepherds song story for kids", "bible stories for kids", "king davids reign for kids", "kids bible", "2 samuel/psalms for kids"]
 videoUrl: "/videos/king-davids-reign/the-shepherds-song/lesson-video.mp4"
 quizAvailable: true

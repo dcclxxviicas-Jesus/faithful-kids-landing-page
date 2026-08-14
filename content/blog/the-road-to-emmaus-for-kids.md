@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke/Acts"
 age: "Ages 5+"
 themes: "resurrection, hope, faith, new life, Easter"
-metaDescription: "Learn the story of The Road to Emmaus explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Road to Emmaus explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, a quiz, and a free video."
 keywords: ["the road to emmaus for kids", "the road to emmaus bible story", "the road to emmaus for children", "the road to emmaus explained for kids", "the road to emmaus story for kids", "bible stories for kids", "he is risen for kids", "kids bible", "matthew/luke/acts for kids"]
 videoUrl: "/videos/he-is-risen/the-road-to-emmaus/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Hebrews/James/Revelation"
 age: "Ages 7+"
 themes: "faith, hope, heaven, God's promises, eternity"
-metaDescription: "Learn the story of The Good Shepherd explained for kids ages 5+. Simple retelling from Hebrews/James/Revelation, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Good Shepherd explained for kids ages 5+. Simple retelling from Hebrews/James/Revelation, with key lessons, a quiz, and a free video."
 keywords: ["the good shepherd for kids", "the good shepherd bible story", "the good shepherd for children", "the good shepherd explained for kids", "the good shepherd story for kids", "bible stories for kids", "ending and beginning for kids", "kids bible", "hebrews/james/revelation for kids"]
 videoUrl: "/videos/ending-and-beginning/the-good-shepherd/lesson-video.mp4"
 quizAvailable: true

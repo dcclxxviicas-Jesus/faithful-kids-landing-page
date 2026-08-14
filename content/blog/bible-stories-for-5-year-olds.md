@@ -2,7 +2,7 @@
 title: "15 Bible Stories Perfect for 5-Year-Olds (Simple and Engaging)"
 slug: "bible-stories-for-5-year-olds"
 type: "listicle"
-metaDescription: "The best Bible stories for 5-year-olds. Short, simple retellings with gentle lessons, colorful characters, and free video links. Perfect for bedtime or screen time."
+metaDescription: "The best Bible stories for 5-year-olds. Short, simple retellings with gentle lessons, colorful characters, and free video links."
 keywords: ["bible stories for 5 year olds", "bible for 5 year old", "bible stories for young kids", "easy bible stories for children"]
 ---
 

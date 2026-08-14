@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of The Tower of Babel explained for kids ages 5+. Simple retelling from Genesis 11, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Tower of Babel explained for kids ages 5+. Simple retelling from Genesis 11, with key lessons, a quiz, and a free video."
 keywords: ["the tower of babel for kids", "the tower of babel bible story", "the tower of babel for children", "the tower of babel explained for kids", "the tower of babel story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/the-tower-of-babel/lesson-video.mp4"
 quizAvailable: true

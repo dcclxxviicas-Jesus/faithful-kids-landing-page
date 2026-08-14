@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of Noah and the Great Flood explained for kids ages 5+. Simple retelling from Genesis 6-9, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Noah and the Great Flood explained for kids ages 5+. Simple retelling from Genesis 6-9, with key lessons, a quiz, and a free video."
 keywords: ["noah and the great flood for kids", "noah and the great flood bible story", "noah and the great flood for children", "noah and the great flood explained for kids", "noah and the great flood story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/noah-and-the-great-flood/lesson-video.mp4"
 quizAvailable: true

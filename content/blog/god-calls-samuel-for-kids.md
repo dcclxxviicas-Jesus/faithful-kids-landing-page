@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Judges/Ruth"
 age: "Ages 6+"
 themes: "bravery, loyalty, faith, God's plan"
-metaDescription: "Learn the story of God Calls Samuel explained for kids ages 5+. Simple retelling from 1 Samuel 3, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of God Calls Samuel explained for kids ages 5+. Simple retelling from 1 Samuel 3, with key lessons, a quiz, and a free video."
 keywords: ["god calls samuel for kids", "god calls samuel bible story", "god calls samuel for children", "god calls samuel explained for kids", "god calls samuel story for kids", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
 videoUrl: "/videos/judges-and-ruth/god-calls-samuel/lesson-video.mp4"
 quizAvailable: true

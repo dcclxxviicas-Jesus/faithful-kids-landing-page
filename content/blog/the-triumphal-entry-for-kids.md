@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 6+"
 themes: "sacrifice, love, courage, Easter"
-metaDescription: "Learn the story of The Triumphal Entry explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Triumphal Entry explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["the triumphal entry for kids", "the triumphal entry bible story", "the triumphal entry for children", "the triumphal entry explained for kids", "the triumphal entry story for kids", "bible stories for kids", "road to the cross for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/road-to-the-cross/the-triumphal-entry/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of Manna from Heaven explained for kids ages 5+. Simple retelling from Exodus 16-17, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Manna from Heaven explained for kids ages 5+. Simple retelling from Exodus 16-17, with key lessons, a quiz, and a free video."
 keywords: ["manna from heaven for kids", "manna from heaven bible story", "manna from heaven for children", "manna from heaven explained for kids", "manna from heaven story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/manna-from-heaven/lesson-video.mp4"
 quizAvailable: true

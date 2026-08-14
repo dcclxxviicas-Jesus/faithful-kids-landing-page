@@ -2,7 +2,7 @@
 title: "12 Bible Stories About Faith for Kids (Trust God Like Abraham)"
 slug: "bible-stories-about-faith-for-kids"
 type: "listicle"
-metaDescription: "Bible stories about faith for children. Abraham, Noah, Moses, David, and more. 12 stories that teach kids what it means to trust God even when you cannot see the outcome."
+metaDescription: "12 Bible stories about faith for kids -- Abraham, Noah, Moses, David, and more -- teaching children to trust God even when they cannot see the outcome."
 keywords: ["bible stories about faith for kids", "faith bible stories children", "trusting god stories kids", "bible faith kids"]
 ---
 

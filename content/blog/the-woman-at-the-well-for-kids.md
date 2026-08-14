@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "calling, healing, compassion, faith"
-metaDescription: "Learn the story of The Woman at the Well explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Woman at the Well explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["the woman at the well for kids", "the woman at the well bible story", "the woman at the well for children", "the woman at the well explained for kids", "the woman at the well story for kids", "bible stories for kids", "jesus begins ministry for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/jesus-begins-ministry/the-woman-at-the-well/lesson-video.mp4"
 quizAvailable: true

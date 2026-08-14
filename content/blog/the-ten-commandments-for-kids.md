@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of The Ten Commandments explained for kids ages 5+. Simple retelling from Exodus 19-20, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Ten Commandments explained for kids ages 5+. Simple retelling from Exodus 19-20, with key lessons, a quiz, and a free video."
 keywords: ["the ten commandments for kids", "the ten commandments bible story", "the ten commandments for children", "the ten commandments explained for kids", "the ten commandments story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/the-ten-commandments/lesson-video.mp4"
 quizAvailable: true

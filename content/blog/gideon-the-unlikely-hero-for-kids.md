@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Judges/Ruth"
 age: "Ages 6+"
 themes: "bravery, loyalty, faith, God's plan"
-metaDescription: "Learn the story of Gideon the Unlikely Hero explained for kids ages 5+. Simple retelling from Judges 6-7, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Gideon the Unlikely Hero explained for kids ages 5+. Simple retelling from Judges 6-7, with key lessons, a quiz, and a free video."
 keywords: ["gideon the unlikely hero for kids", "gideon the unlikely hero bible story", "gideon the unlikely hero for children", "gideon the unlikely hero explained for kids", "gideon the unlikely hero story for kids", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
 videoUrl: "/videos/judges-and-ruth/gideon-the-unlikely-hero/lesson-video.mp4"
 quizAvailable: true

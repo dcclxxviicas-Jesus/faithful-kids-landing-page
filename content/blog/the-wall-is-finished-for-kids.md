@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Ezra/Nehemiah/Esther"
 age: "Ages 7+"
 themes: "rebuilding, courage, God's faithfulness, prayer"
-metaDescription: "Learn the story of The Wall is Finished explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Wall is Finished explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, a quiz, and a free video."
 keywords: ["the wall is finished for kids", "the wall is finished bible story", "the wall is finished for children", "the wall is finished explained for kids", "the wall is finished story for kids", "bible stories for kids", "the return home for kids", "kids bible", "ezra/nehemiah/esther for kids"]
 videoUrl: "/videos/the-return-home/the-wall-is-finished/lesson-video.mp4"
 quizAvailable: true

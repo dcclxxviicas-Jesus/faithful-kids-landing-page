@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Joshua/Numbers"
 age: "Ages 6+"
 themes: "courage, trust, following God, new beginnings"
-metaDescription: "Learn the story of Wandering in the Wilderness explained for kids ages 5+. Simple retelling from Numbers 14-20, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Wandering in the Wilderness explained for kids ages 5+. Simple retelling from Numbers 14-20, with key lessons, a quiz, and a free video."
 keywords: ["wandering in the wilderness for kids", "wandering in the wilderness bible story", "wandering in the wilderness for children", "wandering in the wilderness explained for kids", "wandering in the wilderness story for kids", "bible stories for kids", "promised land for kids", "kids bible", "joshua/numbers for kids"]
 videoUrl: "/videos/promised-land/wandering-in-the-wilderness/lesson-video.mp4"
 quizAvailable: true

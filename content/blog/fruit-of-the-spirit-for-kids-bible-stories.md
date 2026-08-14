@@ -2,7 +2,7 @@
 title: "The Fruit of the Spirit for Kids: Bible Stories for Each One"
 slug: "fruit-of-the-spirit-for-kids-bible-stories"
 type: "listicle"
-metaDescription: "The Fruit of the Spirit explained for kids with a Bible story for each one. Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control."
+metaDescription: "The Fruit of the Spirit explained for kids with a Bible story for each one. Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness."
 keywords: ["fruit of the spirit for kids", "galatians 5 22-23 for kids", "fruit of the spirit bible stories", "teaching fruit of the spirit to children"]
 ---
 

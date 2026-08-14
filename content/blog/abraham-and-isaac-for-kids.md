@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of Abraham and Isaac explained for kids ages 5+. Simple retelling from Genesis 22, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Abraham and Isaac explained for kids ages 5+. Simple retelling from Genesis 22, with key lessons, a quiz, and a free video."
 keywords: ["abraham and isaac for kids", "abraham and isaac bible story", "abraham and isaac for children", "abraham and isaac explained for kids", "abraham and isaac story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/abraham-and-isaac/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of The Garden and the Fall explained for kids ages 5+. Simple retelling from Genesis 2-3, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Garden and the Fall explained for kids ages 5+. Simple retelling from Genesis 2-3, with key lessons, a quiz, and a free video."
 keywords: ["the garden and the fall for kids", "the garden and the fall bible story", "the garden and the fall for children", "the garden and the fall explained for kids", "the garden and the fall story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/the-garden-and-the-fall/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of The Ten Plagues explained for kids ages 5+. Simple retelling from Exodus 7-11, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Ten Plagues explained for kids ages 5+. Simple retelling from Exodus 7-11, with key lessons, a quiz, and a free video."
 keywords: ["the ten plagues for kids", "the ten plagues bible story", "the ten plagues for children", "the ten plagues explained for kids", "the ten plagues story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/the-ten-plagues/lesson-video.mp4"
 quizAvailable: true

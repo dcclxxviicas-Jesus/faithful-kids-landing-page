@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Ezra/Nehemiah/Esther"
 age: "Ages 7+"
 themes: "rebuilding, courage, God's faithfulness, prayer"
-metaDescription: "Learn the story of Cyrus Sets Them Free explained for kids ages 5+. Simple retelling from Isaiah 44:28–45:1, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Cyrus Sets Them Free explained for kids ages 5+. Simple retelling from Isaiah 44:28–45:1, with key lessons, a quiz, and a free video."
 keywords: ["cyrus sets them free for kids", "cyrus sets them free bible story", "cyrus sets them free for children", "cyrus sets them free explained for kids", "cyrus sets them free story for kids", "bible stories for kids", "the return home for kids", "kids bible", "ezra/nehemiah/esther for kids"]
 videoUrl: "/videos/the-return-home/cyrus-sets-them-free/lesson-video.mp4"
 quizAvailable: true

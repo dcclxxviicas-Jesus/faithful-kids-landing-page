@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of A Baby in a Basket explained for kids ages 5+. Simple retelling from Exodus 1-2, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of A Baby in a Basket explained for kids ages 5+. Simple retelling from Exodus 1-2, with key lessons, a quiz, and a free video."
 keywords: ["a baby in a basket for kids", "a baby in a basket bible story", "a baby in a basket for children", "a baby in a basket explained for kids", "a baby in a basket story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/a-baby-in-a-basket/lesson-video.mp4"
 quizAvailable: true

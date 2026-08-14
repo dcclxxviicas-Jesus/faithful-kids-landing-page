@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of Joseph the Dreamer explained for kids ages 5+. Simple retelling from Genesis 37-40, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Joseph the Dreamer explained for kids ages 5+. Simple retelling from Genesis 37-40, with key lessons, a quiz, and a free video."
 keywords: ["joseph the dreamer for kids", "joseph the dreamer bible story", "joseph the dreamer for children", "joseph the dreamer explained for kids", "joseph the dreamer story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/joseph-the-dreamer/lesson-video.mp4"
 quizAvailable: true

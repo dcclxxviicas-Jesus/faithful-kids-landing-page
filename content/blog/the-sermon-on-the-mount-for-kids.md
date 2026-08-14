@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "love, kindness, forgiveness, prayer, wisdom"
-metaDescription: "Learn the story of The Sermon on the Mount explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Sermon on the Mount explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, a quiz, and a free video."
 keywords: ["the sermon on the mount for kids", "the sermon on the mount bible story", "the sermon on the mount for children", "the sermon on the mount explained for kids", "the sermon on the mount story for kids", "bible stories for kids", "teachings of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/teachings-of-jesus/the-sermon-on-the-mount/lesson-video.mp4"
 quizAvailable: true

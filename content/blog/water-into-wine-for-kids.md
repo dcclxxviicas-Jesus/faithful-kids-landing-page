@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "calling, healing, compassion, faith"
-metaDescription: "Learn the story of Water Into Wine explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Water Into Wine explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["water into wine for kids", "water into wine bible story", "water into wine for children", "water into wine explained for kids", "water into wine story for kids", "bible stories for kids", "jesus begins ministry for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/jesus-begins-ministry/water-into-wine/lesson-video.mp4"
 quizAvailable: true

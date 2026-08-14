@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Judges/Ruth"
 age: "Ages 6+"
 themes: "bravery, loyalty, faith, God's plan"
-metaDescription: "Learn the story of The Cycle Begins explained for kids ages 5+. Simple retelling from Judges 1-3, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Cycle Begins explained for kids ages 5+. Simple retelling from Judges 1-3, with key lessons, a quiz, and a free video."
 keywords: ["the cycle begins for kids", "the cycle begins bible story", "the cycle begins for children", "the cycle begins explained for kids", "the cycle begins story for kids", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
 videoUrl: "/videos/judges-and-ruth/the-cycle-begins/lesson-video.mp4"
 quizAvailable: true

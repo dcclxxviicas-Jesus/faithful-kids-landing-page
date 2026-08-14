@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Ezra/Nehemiah/Esther"
 age: "Ages 7+"
 themes: "rebuilding, courage, God's faithfulness, prayer"
-metaDescription: "Learn the story of Rebuilding the Walls explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Rebuilding the Walls explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, a quiz, and a free video."
 keywords: ["rebuilding the walls for kids", "rebuilding the walls bible story", "rebuilding the walls for children", "rebuilding the walls explained for kids", "rebuilding the walls story for kids", "bible stories for kids", "the return home for kids", "kids bible", "ezra/nehemiah/esther for kids"]
 videoUrl: "/videos/the-return-home/rebuilding-the-walls/lesson-video.mp4"
 quizAvailable: true

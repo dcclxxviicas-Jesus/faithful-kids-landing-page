@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "adventure, perseverance, sharing faith, courage"
-metaDescription: "Learn the story of Paul and Barnabas Split explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Paul and Barnabas Split explained for kids ages 5+. Simple retelling from Acts, with key lessons, a quiz, and a free video."
 keywords: ["paul and barnabas split for kids", "paul and barnabas split bible story", "paul and barnabas split for children", "paul and barnabas split explained for kids", "paul and barnabas split story for kids", "bible stories for kids", "pauls adventures for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/pauls-adventures/paul-and-barnabas-split/lesson-video.mp4"
 quizAvailable: true

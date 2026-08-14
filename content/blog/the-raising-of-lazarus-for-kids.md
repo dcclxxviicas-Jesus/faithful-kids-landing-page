@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "faith, God's power, compassion, trust"
-metaDescription: "Learn the story of The Raising of Lazarus explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Raising of Lazarus explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John with a quiz and a free video."
 keywords: ["the raising of lazarus for kids", "the raising of lazarus bible story", "the raising of lazarus for children", "the raising of lazarus explained for kids", "the raising of lazarus story for kids", "bible stories for kids", "miracles of jesus for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/miracles-of-jesus/the-raising-of-lazarus/lesson-video.mp4"
 quizAvailable: true

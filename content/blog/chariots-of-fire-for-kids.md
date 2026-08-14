@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 & 2 Kings"
 age: "Ages 6+"
 themes: "faith, miracles, trusting God, prayer"
-metaDescription: "Learn the story of Chariots of Fire explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Chariots of Fire explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, a quiz, and a free video."
 keywords: ["chariots of fire for kids", "chariots of fire bible story", "chariots of fire for children", "chariots of fire explained for kids", "chariots of fire story for kids", "bible stories for kids", "elijah and elisha for kids", "kids bible", "1 & 2 kings for kids"]
 videoUrl: "/videos/elijah-and-elisha/chariots-of-fire/lesson-video.mp4"
 quizAvailable: true

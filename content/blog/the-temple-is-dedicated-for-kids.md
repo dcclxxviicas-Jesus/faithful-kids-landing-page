@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of The Temple is Dedicated explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Temple is Dedicated explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, a quiz, and a free video."
 keywords: ["the temple is dedicated for kids", "the temple is dedicated bible story", "the temple is dedicated for children", "the temple is dedicated explained for kids", "the temple is dedicated story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/the-temple-is-dedicated/lesson-video.mp4"
 quizAvailable: true

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Daniel/Jonah/Isaiah"
 age: "Ages 6+"
 themes: "courage, faith under pressure, obedience, hope"
-metaDescription: "Learn the story of The Fiery Furnace explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Fiery Furnace explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, a quiz, and a free video."
 keywords: ["the fiery furnace for kids", "the fiery furnace bible story", "the fiery furnace for children", "the fiery furnace explained for kids", "the fiery furnace story for kids", "bible stories for kids", "exile and faith for kids", "kids bible", "daniel/jonah/isaiah for kids"]
 videoUrl: "/videos/exile-and-faith/the-fiery-furnace/lesson-video.mp4"
 quizAvailable: true

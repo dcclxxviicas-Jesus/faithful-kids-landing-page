@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "hope, faith, God's plan, Christmas, miracles"
-metaDescription: "Learn the story of The Wise Men explained for kids ages 5+. Simple retelling from Matthew 2:1-12, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Wise Men explained for kids ages 5+. Simple retelling from Matthew 2:1-12, with key lessons, a quiz, and a free video."
 keywords: ["the wise men for kids", "the wise men bible story", "the wise men for children", "the wise men explained for kids", "the wise men story for kids", "bible stories for kids", "birth of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/birth-of-jesus/the-wise-men/lesson-video.mp4"
 quizAvailable: true

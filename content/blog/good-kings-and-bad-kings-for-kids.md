@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of Good Kings and Bad Kings explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Good Kings and Bad Kings explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, a quiz, and a free video."
 keywords: ["good kings and bad kings for kids", "good kings and bad kings bible story", "good kings and bad kings for children", "good kings and bad kings explained for kids", "good kings and bad kings story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/good-kings-and-bad-kings/lesson-video.mp4"
 quizAvailable: true

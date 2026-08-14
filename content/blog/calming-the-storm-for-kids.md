@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "faith, God's power, compassion, trust"
-metaDescription: "Learn the story of Calming the Storm explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Calming the Storm explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["calming the storm for kids", "calming the storm bible story", "calming the storm for children", "calming the storm explained for kids", "calming the storm story for kids", "bible stories for kids", "miracles of jesus for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/miracles-of-jesus/calming-the-storm/lesson-video.mp4"
 quizAvailable: true

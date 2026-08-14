@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Genesis"
 age: "Ages 5+"
 themes: "creation, faith, family, God's promises"
-metaDescription: "Learn the story of Jacob and Esau explained for kids ages 5+. Simple retelling from Genesis 25-33, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Jacob and Esau explained for kids ages 5+. Simple retelling from Genesis 25-33, with key lessons, a quiz, and a free video."
 keywords: ["jacob and esau for kids", "jacob and esau bible story", "jacob and esau for children", "jacob and esau explained for kids", "jacob and esau story for kids", "bible stories for kids", "genesis for kids", "kids bible", "genesis for kids"]
 videoUrl: "/videos/genesis/jacob-and-esau/lesson-video.mp4"
 quizAvailable: true

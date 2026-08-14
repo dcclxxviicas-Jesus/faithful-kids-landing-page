@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of Solomon Asks for Wisdom explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Solomon Asks for Wisdom explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, a quiz, and a free video."
 keywords: ["solomon asks for wisdom for kids", "solomon asks for wisdom bible story", "solomon asks for wisdom for children", "solomon asks for wisdom explained for kids", "solomon asks for wisdom story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/solomon-asks-for-wisdom/lesson-video.mp4"
 quizAvailable: true

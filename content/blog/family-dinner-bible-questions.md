@@ -2,7 +2,7 @@
 title: "Family Dinner Bible Questions: 52 Weeks of Conversation Starters"
 slug: "family-dinner-bible-questions"
 type: "listicle"
-metaDescription: "52 weeks of Bible-based conversation starters for family dinner. One question per week organized by theme: love, courage, faith, kindness, forgiveness, and more."
+metaDescription: "52 weeks of Bible-based conversation starters for family dinner. One question per week organized by theme: love, courage, faith, kindness, forgiveness."
 keywords: ["family dinner bible questions", "bible conversation starters", "christian family dinner discussion"]
 ---
 

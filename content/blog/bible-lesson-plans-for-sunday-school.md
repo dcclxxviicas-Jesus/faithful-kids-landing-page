@@ -2,7 +2,7 @@
 title: "Free Bible Lesson Plans for Sunday School Teachers"
 slug: "bible-lesson-plans-for-sunday-school"
 type: "listicle"
-metaDescription: "Free Bible lesson plans for Sunday School teachers. 30-minute lesson structure plus 10 complete outlines with Bible verses, discussion questions, and activities."
+metaDescription: "Free Bible lesson plans for Sunday School teachers. 30-minute lesson structure plus 10 complete outlines with Bible verses, discussion questions."
 keywords: ["bible lesson plans for sunday school", "free sunday school lessons", "sunday school curriculum", "bible lessons for kids"]
 ---
 

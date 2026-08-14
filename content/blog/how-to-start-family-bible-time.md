@@ -2,7 +2,7 @@
 title: "How to Start Family Bible Time (7-Day Starter Plan Included)"
 slug: "how-to-start-family-bible-time"
 type: "listicle"
-metaDescription: "How to start family Bible time with a step-by-step guide and a complete 7-day starter plan. Specific stories, discussion questions, and practical tips for busy parents."
+metaDescription: "How to start family Bible time with a step-by-step guide and a complete 7-day starter plan."
 keywords: ["how to start family bible time", "family devotions for kids", "family bible study", "bible time with kids"]
 ---
 

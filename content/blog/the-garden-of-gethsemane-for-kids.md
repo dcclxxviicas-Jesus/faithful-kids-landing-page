@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 6+"
 themes: "sacrifice, love, courage, Easter"
-metaDescription: "Learn the story of The Garden of Gethsemane explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Garden of Gethsemane explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John with a quiz and a free video."
 keywords: ["the garden of gethsemane for kids", "the garden of gethsemane bible story", "the garden of gethsemane for children", "the garden of gethsemane explained for kids", "the garden of gethsemane story for kids", "bible stories for kids", "road to the cross for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/road-to-the-cross/the-garden-of-gethsemane/lesson-video.mp4"
 quizAvailable: true

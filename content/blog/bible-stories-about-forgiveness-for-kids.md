@@ -2,7 +2,7 @@
 title: "8 Bible Stories About Forgiveness for Kids"
 slug: "bible-stories-about-forgiveness-for-kids"
 type: "listicle"
-metaDescription: "Bible stories about forgiveness for kids. From the Prodigal Son to Joseph forgiving his brothers, these stories teach children that forgiveness is always possible."
+metaDescription: "Bible stories about forgiveness for kids. From the Prodigal Son to Joseph forgiving his brothers."
 keywords: ["bible stories about forgiveness for kids", "forgiveness bible stories children", "bible forgiveness kids", "forgiving others bible kids"]
 ---
 

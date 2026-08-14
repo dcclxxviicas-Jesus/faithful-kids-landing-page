@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "love, kindness, forgiveness, prayer, wisdom"
-metaDescription: "Learn the story of The Good Samaritan explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Good Samaritan explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, a quiz, and a free video."
 keywords: ["the good samaritan for kids", "the good samaritan bible story", "the good samaritan for children", "the good samaritan explained for kids", "the good samaritan story for kids", "bible stories for kids", "teachings of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/teachings-of-jesus/the-good-samaritan/lesson-video.mp4"
 quizAvailable: true

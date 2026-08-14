@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "hope, faith, God's plan, Christmas, miracles"
-metaDescription: "Learn the story of Escape to Egypt explained for kids ages 5+. Simple retelling from Matthew 2:13-23, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Escape to Egypt explained for kids ages 5+. Simple retelling from Matthew 2:13-23, with key lessons, a quiz, and a free video."
 keywords: ["escape to egypt for kids", "escape to egypt bible story", "escape to egypt for children", "escape to egypt explained for kids", "escape to egypt story for kids", "bible stories for kids", "birth of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/birth-of-jesus/escape-to-egypt/lesson-video.mp4"
 quizAvailable: true

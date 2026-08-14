@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Daniel/Jonah/Isaiah"
 age: "Ages 6+"
 themes: "courage, faith under pressure, obedience, hope"
-metaDescription: "Learn the story of Jonah Running from God explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Jonah Running from God explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, a quiz, and a free video."
 keywords: ["jonah running from god for kids", "jonah running from god bible story", "jonah running from god for children", "jonah running from god explained for kids", "jonah running from god story for kids", "bible stories for kids", "exile and faith for kids", "kids bible", "daniel/jonah/isaiah for kids"]
 videoUrl: "/videos/exile-and-faith/jonah-running-from-god/lesson-video.mp4"
 quizAvailable: true

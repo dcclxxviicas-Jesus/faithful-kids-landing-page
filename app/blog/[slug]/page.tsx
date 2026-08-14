@@ -5,11 +5,13 @@ import {
   getPostsBySeriesSlug,
   extractFaqFromContent,
   extractDiscussionQuestions,
+  extractTriviaQuestions,
   getReadingTime,
   getHeroStoryLinks,
 } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 import { BlogImage } from '../BlogImage'
+import { TriviaGame } from '../TriviaGame'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -64,6 +66,7 @@ export default async function BlogPostPage({ params }: Props) {
     .slice(0, 6)
 
   const readingTime = getReadingTime(post.content)
+  const triviaQuestions = extractTriviaQuestions(post.content)
   const faqs = extractFaqFromContent(post.content)
   const discussionQuestions = extractDiscussionQuestions(post.content)
   const heroStories = getHeroStoryLinks(post.slug, post.seriesSlug)
@@ -273,6 +276,15 @@ export default async function BlogPostPage({ params }: Props) {
           )}
         </header>
 
+        {/* Interactive trivia game — only on posts with extractable Q&A */}
+        {triviaQuestions.length >= 10 && (
+          <TriviaGame
+            questions={triviaQuestions}
+            postSlug={post.slug}
+            {...getTriviaVideo(post.slug)}
+          />
+        )}
+
         {/* Body — first half */}
         <div
           className="blog-article-body"
@@ -429,6 +441,31 @@ export default async function BlogPostPage({ params }: Props) {
       </footer>
     </>
   )
+}
+
+/**
+ * Pick the course-preview video for the trivia game end screen.
+ * Old Testament book trivia gets the Creation lesson; everything else gets
+ * the flagship "An Angel Visits Mary" lesson (same videos as the homepage).
+ */
+function getTriviaVideo(slug: string): { videoSrc: string; videoTitle: string } {
+  const otBooks = [
+    'genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth',
+    'samuel', 'kings', 'chronicles', 'ezra', 'nehemiah', 'esther', 'job', 'psalms', 'proverbs',
+    'ecclesiastes', 'song-of-solomon', 'isaiah', 'jeremiah', 'lamentations', 'ezekiel', 'daniel',
+    'hosea', 'joel', 'amos', 'obadiah', 'jonah', 'micah', 'nahum', 'habakkuk', 'zephaniah',
+    'haggai', 'zechariah', 'malachi', 'old-testament',
+  ]
+  if (otBooks.some(b => slug.includes(b))) {
+    return {
+      videoSrc: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4',
+      videoTitle: 'In the Beginning: Creation',
+    }
+  }
+  return {
+    videoSrc: 'https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4',
+    videoTitle: 'An Angel Visits Mary',
+  }
 }
 
 /**

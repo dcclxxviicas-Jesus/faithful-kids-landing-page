@@ -382,6 +382,51 @@ export function extractDiscussionQuestions(content: string): { question: string;
   return questions
 }
 
+export interface TriviaQuestion {
+  question: string
+  answer: string
+  citation: string
+}
+
+/**
+ * Extract trivia questions from HTML content.
+ * Matches list items shaped like: Question? <strong>Answer</strong> (Citation)
+ */
+export function extractTriviaQuestions(content: string): TriviaQuestion[] {
+  const questions: TriviaQuestion[] = []
+
+  // Format A (book trivia posts): <li>Question? <strong>Answer</strong> (Citation)</li>
+  const liRegex = /<li>([\s\S]*?)<\/li>/g
+  let match
+  while ((match = liRegex.exec(content)) !== null) {
+    const item = match[1]
+    const strongMatch = item.match(/^([\s\S]*?)<strong>([\s\S]*?)<\/strong>\s*(?:\(([^)]+)\))?/)
+    if (!strongMatch) continue
+    const question = strongMatch[1].replace(/<[^>]+>/g, '').trim()
+    const answer = strongMatch[2].replace(/<[^>]+>/g, '').trim()
+    const citation = (strongMatch[3] || '').trim()
+    // Only real Q&A items: the part before the answer must be a question
+    if (question.endsWith('?') && answer) {
+      questions.push({ question, answer, citation })
+    }
+  }
+
+  // Format B (legacy trivia posts):
+  //   <strong>1. Question?</strong> ... Answer: Noah (Genesis 6-9)
+  //   <strong>1. Question?</strong> ... Answer: <strong>Bethlehem</strong> (Luke 2:4-7)
+  const qaRegex = /<strong>\s*\d+\.\s*([^<]+\?)\s*<\/strong>[\s\S]{0,40}?Answer:\s*(?:<strong>)?([^<(\n]+?)(?:<\/strong>)?\s*(?:\(([^)]+)\))?\s*(?=\n|<)/g
+  while ((match = qaRegex.exec(content)) !== null) {
+    const question = match[1].trim()
+    const answer = match[2].trim().replace(/[.,;]$/, '')
+    const citation = (match[3] || '').trim()
+    if (question && answer) {
+      questions.push({ question, answer, citation })
+    }
+  }
+
+  return questions
+}
+
 /**
  * Estimate reading time from HTML content.
  */

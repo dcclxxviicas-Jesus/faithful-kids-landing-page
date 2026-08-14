@@ -12,6 +12,7 @@ import {
 import { notFound } from 'next/navigation'
 import { BlogImage } from '../BlogImage'
 import { TriviaGame } from '../TriviaGame'
+import { BlogExitIntent } from '../BlogExitIntent'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -165,6 +166,15 @@ export default async function BlogPostPage({ params }: Props) {
   // Split content to inject mid-article CTA
   const contentParts = splitContentForCTA(post.content)
 
+  // Exit-intent popup: context-aware variant + video
+  const exitVariant: 'trivia' | 'story' | 'guide' =
+    post.slug.includes('trivia') ? 'trivia' : post.type !== 'listicle' ? 'story' : 'guide'
+  const exitFallback = getTriviaVideo(post.slug)
+  const storyVideoSrc =
+    exitVariant === 'story' && post.episode && post.seriesSlug
+      ? `https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${String(post.episode).padStart(2, '0')}-${post.slug.replace(/-for-kids$/, '')}/lesson-video.mp4`
+      : null
+
   return (
     <>
       {/* JSON-LD */}
@@ -206,6 +216,14 @@ export default async function BlogPostPage({ params }: Props) {
           <a href="/quiz" className="btn-nav" style={{ textDecoration: 'none' }}>Try Free</a>
         </div>
       </nav>
+
+      {/* Exit-intent popup (renders nothing until triggered) */}
+      <BlogExitIntent
+        postSlug={post.slug}
+        variant={exitVariant}
+        videoSrc={storyVideoSrc ?? exitFallback.videoSrc}
+        fallbackSrc={exitFallback.videoSrc}
+      />
 
       {/* MAIN CONTENT */}
       <main>

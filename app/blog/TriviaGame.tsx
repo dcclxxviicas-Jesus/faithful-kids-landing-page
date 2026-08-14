@@ -57,6 +57,8 @@ export function TriviaGame({
   const lengthChoices = [5, 10, 20].filter(n => n <= questions.length)
 
   const start = (count: number) => {
+    // Suppress the exit-intent popup once the reader is playing
+    try { sessionStorage.setItem('fk_trivia_started', '1') } catch { /* private mode */ }
     setRound(shuffle(questions).slice(0, count))
     setIndex(0)
     setRevealed(false)

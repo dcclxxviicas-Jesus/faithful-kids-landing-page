@@ -8,10 +8,11 @@ export function PostHogProvider({ children }: { children: React.ReactNode }) {
     // Defer PostHog init to after page is interactive (doesn't block LCP)
     const timer = setTimeout(() => {
       const key = process.env.NEXT_PUBLIC_POSTHOG_KEY
-      const host = process.env.NEXT_PUBLIC_POSTHOG_HOST
       if (key && key !== 'phc_your_key_here') {
         posthog.init(key, {
-          api_host: host || 'https://us.i.posthog.com',
+          // Proxied through our own domain (see rewrites in next.config.js)
+          api_host: '/ingest',
+          ui_host: 'https://us.posthog.com',
           capture_pageview: true,
           capture_pageleave: true,
         })

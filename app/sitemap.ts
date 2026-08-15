@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next'
 import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
+import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://faithfulkids.app'
@@ -61,5 +62,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
-  return [...staticPages, ...seriesPages, ...blogPages]
+  // Topic hub pages — only categories that actually contain guide posts
+  const guidePosts = posts.filter(p => !p.series)
+  const topicPages: MetadataRoute.Sitemap = GUIDE_CATEGORIES.filter(c =>
+    guidePosts.some(p => getGuideCategory(p.slug) === c.name)
+  ).map(c => ({
+    url: `${baseUrl}/blog/topics/${c.slug}`,
+    lastModified: new Date('2026-08-15'),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }))
+
+  return [...staticPages, ...seriesPages, ...topicPages, ...blogPages]
 }

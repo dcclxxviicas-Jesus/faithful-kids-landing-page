@@ -7,7 +7,7 @@ const SHOWN_KEY = 'fk_exit_shown_at'
 const SESSION_KEY = 'fk_exit_session'
 const QUIZ_CLICK_KEY = 'fk_quiz_cta_clicked'
 const TRIVIA_KEY = 'fk_trivia_started'
-const SUPPRESS_DAYS = 7
+const SUPPRESS_DAYS = 1
 const MIN_TIME_MS = 20_000
 const MIN_SCROLL = 0.35
 

@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react'
 import posthog from 'posthog-js'
+import { EmailCaptureCard } from './EmailCaptureCard'
 
 const SHOWN_KEY = 'fk_exit_shown_at'
 const SESSION_KEY = 'fk_exit_session'
@@ -49,6 +50,7 @@ export function BlogExitIntent({
   posterSrc?: string
 }) {
   const [show, setShow] = useState(false)
+  const [mode, setMode] = useState<'offer' | 'email'>('offer')
   const [isMobile, setIsMobile] = useState(false)
   const [src, setSrc] = useState(videoSrc)
   const triggered = useRef(false)
@@ -172,19 +174,38 @@ export function BlogExitIntent({
           onError={() => { if (src !== fallbackSrc) setSrc(fallbackSrc) }}
           style={{ width: '100%', borderRadius: '12px', background: '#000', marginBottom: '16px' }}
         />
-        <a
-          href="/quiz"
-          onClick={() => posthog.capture('exit_intent_cta', { post: postSlug, variant, surface: 'blog' })}
-          style={{
-            display: 'block', background: emerald, color: '#fff', fontWeight: 700,
-            fontSize: '1.05rem', padding: '14px 24px', borderRadius: '999px', textDecoration: 'none',
-          }}
-        >
-          Try Faithful Kids Free
-        </a>
-        <p style={{ fontSize: '0.8rem', color: '#888', margin: '12px 0 0' }}>
-          7-day free trial · 30-day money-back guarantee · Cancel anytime
-        </p>
+        {mode === 'offer' ? (
+          <>
+            <a
+              href="/quiz"
+              onClick={() => posthog.capture('exit_intent_cta', { post: postSlug, variant, surface: 'blog' })}
+              style={{
+                display: 'block', background: emerald, color: '#fff', fontWeight: 700,
+                fontSize: '1.05rem', padding: '14px 24px', borderRadius: '999px', textDecoration: 'none',
+              }}
+            >
+              Try Faithful Kids Free
+            </a>
+            <p style={{ fontSize: '0.8rem', color: '#888', margin: '12px 0 0' }}>
+              7-day free trial · 30-day money-back guarantee · Cancel anytime
+            </p>
+            <button
+              onClick={() => {
+                setMode('email')
+                posthog.capture('email_capture_shown', { source: 'blog-exit', post: postSlug })
+              }}
+              style={{ background: 'none', border: 'none', color: emerald, fontWeight: 700, cursor: 'pointer', fontSize: '0.88rem', marginTop: '10px' }}
+            >
+              Not ready? Get the free {variant === 'trivia' ? 'Bible Trivia Pack' : 'Bedtime Bible Kit'} by email →
+            </button>
+          </>
+        ) : (
+          <EmailCaptureCard
+            magnet={variant === 'trivia' ? 'trivia-pack' : 'bedtime-kit'}
+            source="blog-exit"
+            sourcePost={postSlug}
+          />
+        )}
       </div>
     </div>
   )

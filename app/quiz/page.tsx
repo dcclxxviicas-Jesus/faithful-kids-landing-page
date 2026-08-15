@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react'
 import posthog from 'posthog-js'
 import { useTimer } from '../use-timer'
+import { QuizExitCatch } from './QuizExitCatch'
 import './quiz.css'
 
 // ============================================================================
@@ -666,6 +667,7 @@ function Result({ answers, liveCount, path }: { answers: Record<string, string>;
 
   return (
     <div className="qz qz-result-bg">
+      <QuizExitCatch answers={answers} path={path} />
       <div className="qz-head"><img src="/logo-sm.png" alt="" className="qz-logo" /></div>
 
       <div className="qz-result">

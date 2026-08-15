@@ -8,11 +8,13 @@ import {
   extractTriviaQuestions,
   getReadingTime,
   getHeroStoryLinks,
+  getRelatedGuides,
 } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 import { BlogImage } from '../BlogImage'
 import { TriviaGame } from '../TriviaGame'
 import { BlogExitIntent } from '../BlogExitIntent'
+import { EmailCaptureCard } from '../EmailCaptureCard'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -62,9 +64,12 @@ export default async function BlogPostPage({ params }: Props) {
   const post = getPostBySlug(slug)
   if (!post) notFound()
 
-  const relatedPosts = getPostsBySeriesSlug(post.seriesSlug)
-    .filter(p => p.slug !== post.slug)
-    .slice(0, 6)
+  // Story posts: siblings from the same series. Guides (no series): topically
+  // related guides — an empty seriesSlug would otherwise match ALL guides.
+  const relatedPosts = (post.seriesSlug
+    ? getPostsBySeriesSlug(post.seriesSlug).filter(p => p.slug !== post.slug)
+    : getRelatedGuides(post)
+  ).slice(0, 6)
 
   const readingTime = getReadingTime(post.content)
   const triviaQuestions = extractTriviaQuestions(post.content)
@@ -121,17 +126,17 @@ export default async function BlogPostPage({ params }: Props) {
       }
     : null
 
-  // VideoObject schema
-  const videoJsonLd = post.videoUrl
+  // VideoObject schema — real CDN video URL (verified live for all 200 episode
+  // posts), real hero thumbnail, real publish date. No fabricated duration.
+  const videoJsonLd = post.videoUrl && post.seriesSlug && post.episode
     ? {
         '@context': 'https://schema.org',
         '@type': 'VideoObject',
         name: `${post.title} — Bible Story Video`,
         description: post.metaDescription,
-        thumbnailUrl: 'https://faithfulkids.app/logo.png',
-        uploadDate: '2026-01-01',
-        duration: 'PT1M30S',
-        contentUrl: `https://faithfulkids.app${post.videoUrl}`,
+        thumbnailUrl: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
+        uploadDate: post.datePublished,
+        contentUrl: `https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${String(post.episode).padStart(2, '0')}-${post.slug.replace(/-for-kids$/, '')}/lesson-video.mp4`,
         publisher: { '@type': 'Organization', name: 'Faithful Kids' },
         educationalLevel: 'beginner',
         inLanguage: 'en',
@@ -353,12 +358,18 @@ export default async function BlogPostPage({ params }: Props) {
             dangerouslySetInnerHTML={{ __html: contentParts.second }}
           />
         )}
+        {/* Email capture — magnet matched to page type */}
+        <EmailCaptureCard
+          magnet={exitVariant === 'trivia' ? 'trivia-pack' : 'bedtime-kit'}
+          source="blog-inline"
+          sourcePost={post.slug}
+        />
       </article>
 
       {/* RELATED POSTS */}
       {relatedPosts.length > 0 && (
         <section className="blog-related">
-          <h2>More from the {post.series} Series</h2>
+          <h2>{post.series ? `More from the ${post.series} Series` : 'Related Guides'}</h2>
           <div className="blog-related-grid">
             {relatedPosts.map(rp => (
               <a key={rp.slug} href={`/blog/${rp.slug}`} className="blog-card blog-card-compact">
@@ -371,7 +382,7 @@ export default async function BlogPostPage({ params }: Props) {
                   style={{ width: '100%', height: 'auto', borderRadius: '12px 12px 0 0' }}
                 />
                 <div className="blog-card-header">
-                  <span className="blog-card-badge">{rp.series}</span>
+                  <span className="blog-card-badge">{rp.series || 'Guide'}</span>
                 </div>
                 <h3 className="blog-card-title">{rp.title.split(':')[0]}</h3>
                 <p className="blog-card-book">

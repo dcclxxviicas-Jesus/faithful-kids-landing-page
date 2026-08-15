@@ -8,7 +8,13 @@ import { buildEmail, DRIP_SCHEDULE } from '@/lib/lead-emails'
 
 export async function GET(req: Request) {
   const url = new URL(req.url)
-  if (url.searchParams.get('secret') !== process.env.DRIP_SECRET) {
+  // Two accepted callers: Vercel Cron (Authorization: Bearer CRON_SECRET,
+  // injected automatically) and manual runs (?secret=DRIP_SECRET).
+  const isVercelCron =
+    !!process.env.CRON_SECRET &&
+    req.headers.get('authorization') === `Bearer ${process.env.CRON_SECRET}`
+  const isManual = url.searchParams.get('secret') === process.env.DRIP_SECRET
+  if (!isVercelCron && !isManual) {
     return NextResponse.json({ error: 'unauthorized' }, { status: 401 })
   }
 

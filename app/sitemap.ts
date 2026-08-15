@@ -19,17 +19,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly',
       priority: 0.9,
     },
-    {
-      url: `${baseUrl}/checkout`,
-      lastModified: new Date('2026-04-10'),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
+    // /checkout is deliberately absent: it is Disallowed in robots.txt and
+    // noindexed — listing it in the sitemap contradicted both signals
     {
       url: `${baseUrl}/quiz`,
       lastModified: new Date('2026-04-10'),
       changeFrequency: 'monthly',
       priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/support`,
+      lastModified: new Date('2026-04-10'),
+      changeFrequency: 'yearly',
+      priority: 0.4,
     },
     {
       url: `${baseUrl}/privacy`,

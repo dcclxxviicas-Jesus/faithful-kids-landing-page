@@ -1,3 +1,13 @@
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Privacy Policy',
+  description: 'How Faithful Kids collects, uses, and protects your family’s information.',
+  alternates: {
+    canonical: 'https://faithfulkids.app/privacy',
+  },
+}
+
 export default function Privacy() {
   return (
     <section style={{ maxWidth: 640, margin: '0 auto', padding: '72px 24px' }}>

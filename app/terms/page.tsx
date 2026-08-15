@@ -1,3 +1,13 @@
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Terms of Service',
+  description: 'The terms and conditions for using the Faithful Kids app and website.',
+  alternates: {
+    canonical: 'https://faithfulkids.app/terms',
+  },
+}
+
 export default function Terms() {
   return (
     <section style={{ maxWidth: 640, margin: '0 auto', padding: '40px 20px', fontFamily: 'system-ui, sans-serif', color: '#333', lineHeight: 1.7, fontSize: '0.95rem' }}>

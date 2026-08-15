@@ -150,11 +150,13 @@ function markdownToHtml(md: string): string {
       output.push(`<h2>${text}</h2>`)
       continue
     }
+    // The page template renders the frontmatter title as the page <h1>,
+    // so any body-level `#` heading is demoted to <h2> to keep one H1 per page
     if (trimmed.startsWith('# ')) {
       closeList()
       closeParagraph()
       const text = applyInlineFormatting(trimmed.slice(2))
-      output.push(`<h1>${text}</h1>`)
+      output.push(`<h2>${text}</h2>`)
       continue
     }
 
@@ -258,6 +260,10 @@ function readPost(filename: string): BlogPost | null {
 
   if (!data.slug || !data.title) return null
 
+  // 285 legacy posts open with a `# Title` line that duplicates the page
+  // template's <h1> — drop it (the page renders the frontmatter title)
+  const bodyWithoutLeadingH1 = body.replace(/^\s*# [^\n]*\n+/, '')
+
   return {
     title: (data.title as string) || '',
     slug: (data.slug as string) || '',
@@ -272,7 +278,7 @@ function readPost(filename: string): BlogPost | null {
     themes: (data.themes as string) || '',
     metaDescription: (data.metaDescription as string) || '',
     keywords: (data.keywords as string[]) || [],
-    content: markdownToHtml(body),
+    content: markdownToHtml(bodyWithoutLeadingH1),
     videoUrl: (data.videoUrl as string) || '',
     quizAvailable: (data.quizAvailable as boolean) || false,
     // Posts written before dates were tracked keep the original launch dates
@@ -476,4 +482,32 @@ export function getHeroStoryLinks(currentSlug: string, currentSeriesSlug: string
     .filter((p): p is BlogPost => p !== null && p !== undefined && p.seriesSlug !== currentSeriesSlug)
 
   return heroes.slice(0, 5)
+}
+
+// Tokens too generic to signal topical relatedness between guide slugs
+const RELATED_STOPWORDS = new Set([
+  'for', 'kids', 'the', 'and', 'with', 'your', 'child', 'children',
+  'bible', 'how', 'what', 'who', 'was', 'about', 'best', 'christian',
+])
+
+/**
+ * Related guides for posts that have no series (the 233 listicles/guides).
+ * Scores other guides by shared meaningful slug tokens so each guide page
+ * gets topically related links instead of an arbitrary fixed set.
+ */
+export function getRelatedGuides(post: BlogPost, limit = 6): BlogPost[] {
+  const tokens = new Set(
+    post.slug.split('-').filter(t => t.length > 2 && !RELATED_STOPWORDS.has(t))
+  )
+
+  return getAllPosts()
+    .filter(p => p.slug !== post.slug && !p.seriesSlug)
+    .map(p => ({
+      post: p,
+      score: p.slug.split('-').filter(t => tokens.has(t)).length,
+    }))
+    .filter(x => x.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit)
+    .map(x => x.post)
 }

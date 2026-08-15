@@ -223,6 +223,7 @@ export default async function BlogPostPage({ params }: Props) {
         variant={exitVariant}
         videoSrc={storyVideoSrc ?? exitFallback.videoSrc}
         fallbackSrc={exitFallback.videoSrc}
+        posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
       />
 
       {/* MAIN CONTENT */}
@@ -299,6 +300,7 @@ export default async function BlogPostPage({ params }: Props) {
           <TriviaGame
             questions={triviaQuestions}
             postSlug={post.slug}
+            posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
             {...getTriviaVideo(post.slug)}
           />
         )}

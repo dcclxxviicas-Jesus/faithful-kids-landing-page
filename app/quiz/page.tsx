@@ -526,6 +526,7 @@ function VideoInterstitial({ pct, liveCount, onDismiss, path }: { pct: number; l
             <video
               ref={vidRef}
               src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
+              poster="https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp"
               autoPlay playsInline muted loop
             />
             <div style={{
@@ -581,6 +582,7 @@ function ResultVideo() {
       <video
         ref={ref}
         src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
+        poster="https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp"
         autoPlay muted loop playsInline
       />
       <div style={{

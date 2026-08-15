@@ -39,11 +39,13 @@ export function TriviaGame({
   postSlug,
   videoSrc,
   videoTitle,
+  posterSrc,
 }: {
   questions: TriviaQuestion[]
   postSlug: string
   videoSrc: string
   videoTitle: string
+  posterSrc?: string
 }) {
   const [round, setRound] = useState<TriviaQuestion[] | null>(null)
   const [index, setIndex] = useState(0)
@@ -159,6 +161,7 @@ export function TriviaGame({
         </p>
         <video
           src={videoSrc}
+          poster={posterSrc}
           controls
           autoPlay
           muted

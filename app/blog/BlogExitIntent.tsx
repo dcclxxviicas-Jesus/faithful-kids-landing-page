@@ -40,11 +40,13 @@ export function BlogExitIntent({
   variant,
   videoSrc,
   fallbackSrc,
+  posterSrc,
 }: {
   postSlug: string
   variant: Variant
   videoSrc: string
   fallbackSrc: string
+  posterSrc?: string
 }) {
   const [show, setShow] = useState(false)
   const [isMobile, setIsMobile] = useState(false)
@@ -161,6 +163,7 @@ export function BlogExitIntent({
         <p style={{ color: '#555', fontSize: '0.95rem', margin: '0 0 14px' }}>{copy.sub}</p>
         <video
           src={src}
+          poster={posterSrc}
           controls
           autoPlay
           muted

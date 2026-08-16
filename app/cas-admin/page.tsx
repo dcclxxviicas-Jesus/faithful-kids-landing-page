@@ -41,81 +41,36 @@ interface RangeStats {
   start_day: string; end_day: string; collected_at: string
   traffic: Traffic; gsc: Gsc | null; stripe: StripeStats | null; app: AppStats | null
 }
-interface ApiPayload { range: string; live: RangeStats; history: { day: string; data: RangeStats }[] }
+interface ApiPayload { range: string; live: RangeStats; prev: RangeStats | null; history: { day: string; data: RangeStats }[] }
 
 const RANGES = [
-  { key: 'today', label: 'Today' },
-  { key: 'yesterday', label: 'Yesterday' },
-  { key: '7d', label: '7 days' },
-  { key: '30d', label: '30 days' },
-  { key: 'all', label: 'All time' },
+  { key: 'today', label: 'Today', vs: 'yesterday at this time' },
+  { key: 'yesterday', label: 'Yesterday', vs: 'the day before' },
+  { key: '7d', label: 'Last 7 days', vs: 'the 7 days before' },
+  { key: '30d', label: 'Last 30 days', vs: 'the 30 days before' },
+  { key: 'all', label: 'All time', vs: '' },
 ] as const
 
-function fmt(n: number | undefined | null): string {
-  return (n ?? 0).toLocaleString('en-US')
-}
+function fmt(n: number | undefined | null): string { return (n ?? 0).toLocaleString('en-US') }
 function money(n: number | undefined | null): string {
-  return '$' + (n ?? 0).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })
-}
-function dur(sec: number): string {
-  const m = Math.floor(sec / 60), s = Math.round(sec % 60)
-  return `${m}m ${String(s).padStart(2, '0')}s`
+  const v = n ?? 0
+  return '$' + (Number.isInteger(v) ? v.toLocaleString('en-US') : v.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }))
 }
 
-function Tile({ label, value, sub, alert }: { label: string; value: string; sub?: string; alert?: boolean }) {
-  return (
-    <div className={`tile${alert ? ' alert' : ''}`}>
-      <div className="t-label">{label}</div>
-      <div className="t-value">{value}</div>
-      {sub ? <div className="t-sub">{sub}</div> : null}
-    </div>
-  )
+function Delta({ now, before }: { now: number; before: number | undefined }) {
+  if (before === undefined || (before === 0 && now === 0)) return null
+  if (before === 0) return <span className="delta up">new</span>
+  const pct = Math.round(((now - before) / before) * 100)
+  if (pct === 0) return <span className="delta flat">even</span>
+  return <span className={`delta ${pct > 0 ? 'up' : 'down'}`}>{pct > 0 ? '▲' : '▼'} {Math.abs(pct)}%</span>
 }
 
-function Panel({ title, sub, children }: { title: string; sub?: string; children: React.ReactNode }) {
-  return (
-    <div className="panel">
-      <h3>{title}</h3>
-      {sub ? <p className="p-sub">{sub}</p> : null}
-      {children}
-    </div>
-  )
-}
-
-function BarRow({ label, value, max, extra }: { label: string; value: number; max: number; extra?: string }) {
+function Bar({ label, value, max, note }: { label: string; value: number; max: number; note?: string }) {
   const w = max > 0 ? Math.max((value / max) * 100, value > 0 ? 1.5 : 0) : 0
   return (
-    <div className="barrow" title={`${label}: ${fmt(value)}`}>
-      <span className="br-label">{label}</span>
-      <span className="br-track"><span className="br-fill" style={{ width: `${w}%` }} /></span>
-      <span className="br-val">{fmt(value)}{extra ? <em> {extra}</em> : null}</span>
-    </div>
-  )
-}
-
-// Daily trend chart from snapshot history (oldest → newest)
-function TrendChart({ points, label }: { points: { day: string; v: number }[]; label: string }) {
-  if (points.length < 2) return <p className="p-sub">Not enough history yet — snapshots build up nightly.</p>
-  const W = 900, H = 160, pad = 4
-  const max = Math.max(...points.map((p) => p.v), 1)
-  const bw = (W - pad * 2) / points.length
-  return (
-    <div className="chartwrap">
-      <svg viewBox={`0 0 ${W} ${H}`} width="100%" role="img" aria-label={label}>
-        {points.map((p, i) => {
-          const h = Math.max((p.v / max) * (H - 24), p.v > 0 ? 2 : 0)
-          return (
-            <g key={p.day}>
-              <rect x={pad + i * bw + 1} y={H - 18 - h} width={Math.max(bw - 2, 1)} height={h} rx={2} className="trend-bar">
-                <title>{p.day}: {fmt(p.v)}</title>
-              </rect>
-            </g>
-          )
-        })}
-        <text x={pad} y={H - 4} className="trend-tick">{points[0].day.slice(5)}</text>
-        <text x={W - pad} y={H - 4} textAnchor="end" className="trend-tick">{points[points.length - 1].day.slice(5)}</text>
-        <text x={pad} y={12} className="trend-tick">peak {fmt(max)}</text>
-      </svg>
+    <div className="bar">
+      <div className="bar-top"><span className="bar-label">{label}</span><span className="bar-val">{fmt(value)}{note ? <em>{note}</em> : null}</span></div>
+      <div className="bar-track"><div className="bar-fill" style={{ width: `${w}%` }} /></div>
     </div>
   )
 }
@@ -133,15 +88,13 @@ export default function CasAdmin() {
     try {
       const res = await fetch(`/api/cas-admin/stats?range=${r}`, { headers: { 'x-admin-password': password } })
       if (res.status === 401) { setAuthed(false); localStorage.removeItem('casAdminPw'); setError('Wrong password'); return }
-      if (!res.ok) throw new Error(`${res.status}: ${(await res.json()).error || 'failed'}`)
+      if (!res.ok) throw new Error((await res.json()).error || `Error ${res.status}`)
       setData(await res.json())
       setAuthed(true)
       localStorage.setItem('casAdminPw', password)
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to load')
-    } finally {
-      setLoading(false)
-    }
+    } finally { setLoading(false) }
   }, [])
 
   useEffect(() => {
@@ -149,229 +102,252 @@ export default function CasAdmin() {
     if (saved) { setPw(saved); load(saved, 'today') }
   }, [load])
 
-  const pick = (r: string) => { setRange(r); load(pw, r) }
-
   const live = data?.live
+  const prev = data?.prev
   const t = live?.traffic
-  const s = live?.stripe
+  const p = prev?.traffic
   const g = live?.gsc
+  const s = live?.stripe
   const a = live?.app
+  const rangeMeta = RANGES.find((r) => r.key === range)
   const history = (data?.history || []).slice().sort((x, y) => x.day.localeCompare(y.day))
+  const trend = history.slice(-30)
+  const trendMax = Math.max(...trend.map((h) => h.data.traffic?.visitors ?? 0), 1)
+  const realLeads = a?.recent_leads?.filter((l) => !l.email.startsWith('cristo7005')) ?? []
+
+  // One-sentence summary of the selected range
+  const verdict = t ? (() => {
+    const bits: string[] = [`${fmt(t.visitors)} ${t.visitors === 1 ? 'person' : 'people'} visited`]
+    if (p && p.visitors > 0) {
+      const pct = Math.round(((t.visitors - p.visitors) / p.visitors) * 100)
+      if (pct !== 0) bits[0] += ` — ${pct > 0 ? 'up' : 'down'} ${Math.abs(pct)}% vs ${rangeMeta?.vs}`
+    }
+    if (realLeads.length) bits.push(`you captured ${realLeads.length} email${realLeads.length > 1 ? 's' : ''}`)
+    if (s && s.range.organic.revenue > 0) bits.push(`you collected ${money(s.range.organic.revenue)}`)
+    else if (s && s.range.organic.trials_started > 0) bits.push(`${s.range.organic.trials_started} free trial${s.range.organic.trials_started > 1 ? 's' : ''} started`)
+    return bits.join(', ') + '.'
+  })() : ''
 
   return (
-    <div className="admin-root">
+    <div className="root">
       <style>{CSS}</style>
 
       {!authed ? (
-        <form
-          className="gate"
-          onSubmit={(e) => { e.preventDefault(); load(pw, range) }}
-        >
-          <h1>Faithful Kids Admin</h1>
-          <input
-            type="password" placeholder="Password" value={pw} autoFocus
-            onChange={(e) => setPw(e.target.value)}
-          />
+        <form className="gate" onSubmit={(e) => { e.preventDefault(); load(pw, range) }}>
+          <h1>Faithful Kids</h1>
+          <input type="password" placeholder="Password" value={pw} autoFocus onChange={(e) => setPw(e.target.value)} />
           <button type="submit" disabled={loading}>{loading ? 'Checking…' : 'Enter'}</button>
           {error ? <p className="err">{error}</p> : null}
         </form>
       ) : (
         <main>
           <header className="head">
-            <div>
-              <h1>Faithful Kids Admin</h1>
-              <p className="sub">
-                {live ? `${live.start_day}${live.end_day !== live.start_day ? ` → ${live.end_day}` : ''} · refreshed ${new Date(live.collected_at).toLocaleTimeString()}` : ''}
-              </p>
-            </div>
+            <h1>Faithful Kids</h1>
             <div className="tabs">
               {RANGES.map((r) => (
-                <button key={r.key} className={range === r.key ? 'on' : ''} onClick={() => pick(r.key)}>{r.label}</button>
+                <button key={r.key} className={range === r.key ? 'on' : ''} onClick={() => { setRange(r.key); load(pw, r.key) }}>
+                  {r.label}
+                </button>
               ))}
-              <button onClick={() => load(pw, range)} title="Refresh">↻</button>
             </div>
           </header>
 
-          {loading ? <p className="loading">Loading…</p> : null}
+          {loading ? <div className="loadbar" /> : null}
           {error ? <p className="err">{error}</p> : null}
 
           {t ? (
-            <>
+            <div className={loading ? 'faded' : ''}>
+              <p className="verdict">{verdict}</p>
+
               <section className="tiles">
-                <Tile label="Visitors" value={fmt(t.visitors)} sub={`${fmt(t.new_visitors)} new · ${fmt(t.returning_visitors)} returning`} />
-                <Tile label="Pageviews" value={fmt(t.pageviews)} sub={`${t.pages_per_session} per session`} />
-                <Tile label="Sessions" value={fmt(t.sessions)} sub={`${t.bounce_rate}% bounce · ${dur(t.avg_session_seconds)} avg`} />
-                <Tile label="Google clicks" value={g ? fmt(g.clicks) : '—'} sub={g ? `${fmt(g.impressions)} impressions · ${g.ctr}% CTR · pos ${g.position}` : 'GSC data lags 2–3 days'} />
-                <Tile label="Quiz completions" value={fmt(t.funnel.quiz_completed)} sub={`${fmt(t.funnel.quiz_visitors)} quiz visitors`} />
-                <Tile
-                  label="Revenue (range)"
-                  value={s ? money(s.range.organic.revenue) : '—'}
-                  sub={s ? `${s.range.organic.purchases} payments · ${s.range.organic.trials_started} trials started` : ''}
-                  alert={!!s && s.range.organic.revenue === 0 && s.range.checkout_sessions_expired > 0}
-                />
+                <div className="tile">
+                  <div className="t-label">Visitors <Delta now={t.visitors} before={p?.visitors} /></div>
+                  <div className="t-value">{fmt(t.visitors)}</div>
+                  <div className="t-sub">{fmt(t.new_visitors)} first-timers</div>
+                </div>
+                <div className="tile">
+                  <div className="t-label">Pageviews <Delta now={t.pageviews} before={p?.pageviews} /></div>
+                  <div className="t-value">{fmt(t.pageviews)}</div>
+                  <div className="t-sub">{t.bounce_rate}% read one page and left</div>
+                </div>
+                <div className="tile">
+                  <div className="t-label">Emails captured <Delta now={realLeads.length} before={undefined} /></div>
+                  <div className="t-value">{fmt(realLeads.length)}</div>
+                  <div className="t-sub">{fmt(a?.total_leads)} on the list total</div>
+                </div>
+                <div className="tile">
+                  <div className="t-label">Money collected</div>
+                  <div className="t-value">{s ? money(s.range.organic.revenue) : '—'}</div>
+                  <div className="t-sub">{s ? `${money(s.now.organic_revenue_alltime)} all-time from real customers` : ''}</div>
+                </div>
               </section>
 
-              {s ? (
-                <section className="tiles">
-                  <Tile label="MRR (real customers)" value={money(s.now.organic_mrr)} sub={`${money(s.now.mrr)} incl. test/family`} />
-                  <Tile label="Paying now" value={fmt(s.now.organic_paying)} sub={`${s.now.organic_active} active · ${s.now.organic_trialing} trialing (real)`} />
-                  <Tile label="Revenue all-time" value={money(s.now.organic_revenue_alltime)} sub={`${money(s.now.revenue_alltime)} incl. test/family`} />
-                  <Tile label="Abandoned checkouts" value={fmt(s.range.checkout_sessions_expired)} sub="Stripe sessions expired in range" alert={s.range.checkout_sessions_expired > 0} />
-                  <Tile label="Canceled in range" value={fmt(s.range.organic.canceled)} sub="real customers" alert={s.range.organic.canceled > 0} />
-                  <Tile label="Open payment failures" value={fmt(s.now.open_payment_failures)} alert={s.now.open_payment_failures > 0} />
-                </section>
-              ) : null}
+              <section className="panel">
+                <h2>Visitors, day by day</h2>
+                <p className="note">Last 30 recorded days. Bars appear the morning after each day ends.</p>
+                {trend.length >= 2 ? (
+                  <div className="trend">
+                    {trend.map((h) => {
+                      const v = h.data.traffic?.visitors ?? 0
+                      return (
+                        <div key={h.day} className="trend-col" title={`${h.day}: ${fmt(v)} visitors`}>
+                          <div className="trend-bar" style={{ height: `${Math.max((v / trendMax) * 100, v > 0 ? 2 : 0)}%` }} />
+                        </div>
+                      )
+                    })}
+                  </div>
+                ) : <p className="note">History is still filling in — check back after tonight&apos;s run.</p>}
+                {trend.length >= 2 ? (
+                  <div className="trend-x"><span>{trend[0].day}</span><span>peak {fmt(trendMax)}</span><span>{trend[trend.length - 1].day}</span></div>
+                ) : null}
+              </section>
 
-              {a ? (
-                <section className="tiles">
-                  <Tile label="Families" value={fmt(a.total_families)} sub={`+${a.new_families} in range`} />
-                  <Tile label="Kid profiles" value={fmt(a.total_kids)} sub={`+${a.new_kids} in range`} />
-                  <Tile label="Email leads" value={fmt(a.total_leads)} sub={`+${a.new_leads} in range`} />
-                  <Tile label="App sign-ups (range)" value={fmt(t.conversion_events.sign_up)} />
-                  <Tile label="Purchases tracked" value={fmt(t.conversion_events.purchase_completed)} sub="purchase_completed events" />
-                  <Tile label="Cancellations tracked" value={fmt(t.conversion_events.subscription_canceled)} sub="subscription_canceled events" />
+              <div className="cols">
+                <section className="panel">
+                  <h2>Where visitors came from</h2>
+                  {t.referrers.slice(0, 8).map((r) => (
+                    <Bar key={r.ref} label={r.ref === '$direct' ? 'Typed the address / unknown' : r.ref.replace('www.', '')} value={r.visitors} max={t.referrers[0]?.visitors || 1} />
+                  ))}
                 </section>
-              ) : null}
+                <section className="panel">
+                  <h2>What they read</h2>
+                  {t.top_pages.slice(0, 8).map((pg) => (
+                    <Bar key={pg.path} label={pg.path.replace('/blog/', '').replace('/', 'home') || 'home'} value={pg.visitors} max={t.top_pages[0]?.visitors || 1} />
+                  ))}
+                </section>
+              </div>
 
-              <Panel title="Funnel" sub="Unique people at each step in this range">
+              <section className="panel">
+                <h2>Google search</h2>
+                {g ? (
+                  <>
+                    <p className="statline">
+                      <strong>{fmt(g.clicks)}</strong> clicks from <strong>{fmt(g.impressions)}</strong> times shown
+                      · {g.ctr}% clicked · average spot #{Math.round(g.position)}
+                      {prev?.gsc ? <Delta now={g.clicks} before={prev.gsc.clicks} /> : null}
+                    </p>
+                    <table className="tbl">
+                      <thead><tr><th>What people searched</th><th>Clicks</th><th>Shown</th><th>Your spot</th></tr></thead>
+                      <tbody>
+                        {g.top_queries.slice(0, 10).map((q) => (
+                          <tr key={q.query}><td>{q.query}</td><td className="num">{fmt(q.clicks)}</td><td className="num dim">{fmt(q.impressions)}</td><td className="num dim">#{Math.round(q.position)}</td></tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </>
+                ) : (
+                  <p className="note">Google hasn&apos;t reported {range === 'today' ? 'today' : 'this period'} yet — their data runs 2–3 days behind. Switch to &ldquo;Last 7 days&rdquo; or &ldquo;Last 30 days&rdquo; to see it.</p>
+                )}
+              </section>
+
+              <section className="panel">
+                <h2>From visit to payment</h2>
                 {(() => {
                   const f = t.funnel
                   const max = Math.max(f.quiz_visitors, 1)
+                  const pctOf = (n: number, d: number) => (d > 0 ? ` · ${Math.round((n / d) * 100)}% of previous` : '')
                   return (
-                    <div>
-                      <BarRow label="Visited /quiz" value={f.quiz_visitors} max={max} extra={t.visitors ? `${Math.round((f.quiz_visitors / t.visitors) * 1000) / 10}% of visitors` : ''} />
-                      <BarRow label="Started quiz" value={f.quiz_started} max={max} />
-                      <BarRow label="Answered a question" value={f.quiz_answered} max={max} />
-                      <BarRow label="Completed quiz" value={f.quiz_completed} max={max} />
-                      <BarRow label="Selected a plan" value={f.plan_selected} max={max} />
-                      <BarRow label="Clicked checkout" value={f.checkout_clicked} max={max} />
-                      {s ? <BarRow label="Started trial (Stripe)" value={s.range.organic.trials_started} max={max} /> : null}
-                      {s ? <BarRow label="Paid (Stripe)" value={s.range.organic.purchases} max={max} /> : null}
-                    </div>
+                    <>
+                      <Bar label="Opened the quiz" value={f.quiz_visitors} max={max} note={t.visitors ? ` · ${Math.round((f.quiz_visitors / t.visitors) * 1000) / 10}% of all visitors` : ''} />
+                      <Bar label="Answered questions" value={f.quiz_answered} max={max} note={pctOf(f.quiz_answered, f.quiz_visitors)} />
+                      <Bar label="Finished the quiz" value={f.quiz_completed} max={max} note={pctOf(f.quiz_completed, f.quiz_answered)} />
+                      <Bar label="Clicked checkout" value={f.checkout_clicked} max={max} note={pctOf(f.checkout_clicked, f.quiz_completed)} />
+                      <Bar label="Started a free trial" value={s?.range.organic.trials_started ?? 0} max={max} />
+                      <Bar label="Paid" value={s?.range.organic.purchases ?? 0} max={max} note={s && s.range.organic.revenue > 0 ? ` · ${money(s.range.organic.revenue)}` : ''} />
+                    </>
                   )
                 })()}
-              </Panel>
+                {s && s.range.checkout_sessions_expired > 0 ? (
+                  <p className="warn">⚠ {s.range.checkout_sessions_expired} {s.range.checkout_sessions_expired === 1 ? 'person' : 'people'} reached the Stripe payment page and left without paying.</p>
+                ) : null}
+              </section>
 
-              <Panel title="Visitors per day" sub="From nightly snapshots · today appears after tonight's run">
-                <TrendChart
-                  points={history.map((h) => ({ day: h.day, v: h.data.traffic?.visitors ?? 0 }))}
-                  label="Visitors per day"
-                />
-              </Panel>
+              {s ? (
+                <section className="panel">
+                  <h2>The business</h2>
+                  <p className="note">Your own test and family accounts are excluded from these numbers.</p>
+                  <div className="facts">
+                    <div><strong>{fmt(s.now.organic_paying)}</strong> paying {s.now.organic_paying === 1 ? 'customer' : 'customers'}</div>
+                    <div><strong>{fmt(s.now.organic_trialing)}</strong> on free trials right now</div>
+                    <div><strong>{money(s.now.organic_revenue_alltime)}</strong> collected all-time</div>
+                    <div><strong>{fmt(a?.total_families)}</strong> app accounts · <strong>{fmt(a?.total_kids)}</strong> kid profiles</div>
+                    {s.range.organic.canceled > 0 ? <div className="bad"><strong>{s.range.organic.canceled}</strong> canceled in this period</div> : null}
+                    {s.now.open_payment_failures > 0 ? <div className="bad"><strong>{s.now.open_payment_failures}</strong> customer{s.now.open_payment_failures > 1 ? 's have' : ' has'} a failing card</div> : null}
+                  </div>
+                </section>
+              ) : null}
 
-              <div className="grid2">
-                <Panel title="Top pages" sub="Unique visitors in range">
-                  <table><tbody>
-                    {t.top_pages.slice(0, 20).map((p) => (
-                      <tr key={p.path}><td className="path">{p.path}</td><td className="num">{fmt(p.visitors)}</td><td className="num dim">{fmt(p.views)} views</td></tr>
-                    ))}
-                  </tbody></table>
-                </Panel>
-                <Panel title="Traffic sources">
-                  <table><tbody>
-                    {t.referrers.map((r) => (
-                      <tr key={r.ref}><td>{r.ref === '$direct' ? 'Direct / none' : r.ref}</td><td className="num">{fmt(r.visitors)}</td></tr>
-                    ))}
-                  </tbody></table>
-                </Panel>
-              </div>
+              <section className="panel">
+                <h2>Emails captured{realLeads.length ? ` (${realLeads.length})` : ''}</h2>
+                {realLeads.length ? (
+                  <table className="tbl">
+                    <tbody>
+                      {realLeads.map((l) => (
+                        <tr key={l.email + l.created_at}>
+                          <td><strong>{l.email}</strong></td>
+                          <td className="dim">downloaded the {l.magnet.replace('-', ' ')}</td>
+                          <td className="dim">from {l.source_post || l.source}</td>
+                          <td className="num dim">{l.created_at.slice(5, 10)}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                ) : <p className="note">No emails captured in this period.</p>}
+              </section>
 
-              <div className="grid2">
-                <Panel title="Google queries" sub={g ? 'Clicks / impressions / avg position' : 'GSC data lags 2–3 days — pick a wider range'}>
-                  {g ? (
-                    <table><tbody>
-                      {g.top_queries.map((q) => (
-                        <tr key={q.query}><td>{q.query}</td><td className="num">{fmt(q.clicks)}</td><td className="num dim">{fmt(q.impressions)}</td><td className="num dim">{q.position}</td></tr>
+              <details className="more">
+                <summary>More detail — countries, devices, every tracked event</summary>
+                <div className="cols">
+                  <section className="panel">
+                    <h2>Countries</h2>
+                    {t.countries.slice(0, 8).map((c) => <Bar key={c.country} label={c.country} value={c.visitors} max={t.countries[0]?.visitors || 1} />)}
+                    <p className="note" style={{ marginTop: 12 }}>
+                      Devices: {t.devices.map((d) => `${d.device} ${fmt(d.visitors)}`).join(' · ')}
+                    </p>
+                  </section>
+                  <section className="panel">
+                    <h2>Every tracked event</h2>
+                    <table className="tbl"><tbody>
+                      {t.events_breakdown?.map((e) => (
+                        <tr key={e.event}><td>{e.event}</td><td className="num">{fmt(e.count)}</td><td className="num dim">{fmt(e.uniques)} people</td></tr>
                       ))}
                     </tbody></table>
-                  ) : null}
-                </Panel>
-                <Panel title="Google pages" sub={g ? 'Clicks / impressions / avg position' : ''}>
-                  {g ? (
-                    <table><tbody>
-                      {g.top_pages.map((p) => (
-                        <tr key={p.page}><td className="path">{p.page}</td><td className="num">{fmt(p.clicks)}</td><td className="num dim">{fmt(p.impressions)}</td><td className="num dim">{p.position}</td></tr>
-                      ))}
-                    </tbody></table>
-                  ) : null}
-                </Panel>
-              </div>
+                  </section>
+                </div>
+              </details>
 
-              <div className="grid2">
-                <Panel title="Event activity" sub="Every tracked event in range · total / unique people">
-                  <table><tbody>
-                    {t.events_breakdown?.map((e) => (
-                      <tr key={e.event}><td className="path">{e.event}</td><td className="num">{fmt(e.count)}</td><td className="num dim">{fmt(e.uniques)}</td></tr>
-                    ))}
-                    {!t.events_breakdown?.length ? <tr><td className="dim">No events in range</td></tr> : null}
-                  </tbody></table>
-                </Panel>
-                <Panel title="Email leads captured" sub="From blog email-capture forms in range">
-                  <table><tbody>
-                    {a?.recent_leads?.map((l) => (
-                      <tr key={l.email + l.created_at}>
-                        <td className="path">{l.email}</td>
-                        <td className="dim">{l.magnet}</td>
-                        <td className="path dim">{l.source_post || l.source}</td>
-                        <td className="num dim">{l.created_at.slice(5, 10)}</td>
-                      </tr>
-                    ))}
-                    {!a?.recent_leads?.length ? <tr><td className="dim">No leads in range</td></tr> : null}
-                  </tbody></table>
-                </Panel>
-              </div>
-
-              <div className="grid2">
-                <Panel title="Countries">
-                  <table><tbody>
-                    {t.countries.map((c) => (
-                      <tr key={c.country}><td>{c.country}</td><td className="num">{fmt(c.visitors)}</td></tr>
-                    ))}
-                  </tbody></table>
-                </Panel>
-                <Panel title="Devices">
-                  <table><tbody>
-                    {t.devices.map((d) => (
-                      <tr key={d.device}><td>{d.device}</td><td className="num">{fmt(d.visitors)}</td></tr>
-                    ))}
-                  </tbody></table>
-                </Panel>
-              </div>
-
-              <Panel title="Daily history" sub="One row per day, saved by the nightly cron (America/New_York days)">
+              <section className="panel">
+                <h2>Daily log</h2>
+                <p className="note">One row per day, saved automatically every night.</p>
                 <div className="scroll">
-                  <table className="history">
-                    <thead>
-                      <tr>
-                        <th>Day</th><th>Visitors</th><th>Views</th><th>Bounce</th>
-                        <th>G clicks</th><th>G imps</th><th>Quiz done</th><th>Checkout</th>
-                        <th>Trials</th><th>Revenue</th><th>Leads</th>
-                      </tr>
-                    </thead>
+                  <table className="tbl log">
+                    <thead><tr><th>Day</th><th>Visitors</th><th>Views</th><th>Google clicks</th><th>Quiz finished</th><th>Emails</th><th>Money</th></tr></thead>
                     <tbody>
                       {history.slice().reverse().map((h) => {
                         const ht = h.data.traffic, hg = h.data.gsc, hs = h.data.stripe, ha = h.data.app
+                        const rev = hs?.range?.organic?.revenue ?? 0
                         return (
                           <tr key={h.day}>
                             <td>{h.day}</td>
                             <td className="num">{fmt(ht?.visitors)}</td>
-                            <td className="num">{fmt(ht?.pageviews)}</td>
-                            <td className="num dim">{ht ? `${ht.bounce_rate}%` : '—'}</td>
-                            <td className="num">{hg ? fmt(hg.clicks) : '—'}</td>
-                            <td className="num dim">{hg ? fmt(hg.impressions) : '—'}</td>
+                            <td className="num dim">{fmt(ht?.pageviews)}</td>
+                            <td className="num">{hg ? fmt(hg.clicks) : '…'}</td>
                             <td className="num">{fmt(ht?.funnel?.quiz_completed)}</td>
-                            <td className="num">{fmt(ht?.funnel?.checkout_clicked)}</td>
-                            <td className="num">{fmt(hs?.range?.organic?.trials_started)}</td>
-                            <td className={`num${(hs?.range?.organic?.revenue ?? 0) > 0 ? ' good' : ''}`}>{hs ? money(hs.range.organic.revenue) : '—'}</td>
                             <td className="num">{fmt(ha?.new_leads)}</td>
+                            <td className={`num${rev > 0 ? ' good' : ''}`}>{rev > 0 ? money(rev) : '—'}</td>
                           </tr>
                         )
                       })}
                     </tbody>
                   </table>
                 </div>
-              </Panel>
-            </>
+              </section>
+
+              <p className="foot">
+                {live ? `${live.start_day}${live.end_day !== live.start_day ? ` to ${live.end_day}` : ''} · refreshed ${new Date(live.collected_at).toLocaleTimeString()} · ` : ''}
+                <button className="linky" onClick={() => load(pw, range)}>refresh</button>
+              </p>
+            </div>
           ) : null}
         </main>
       )}
@@ -380,50 +356,62 @@ export default function CasAdmin() {
 }
 
 const CSS = `
-.admin-root { min-height: 100vh; background: #f6f8f7; color: #14201b; font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
-.admin-root main { max-width: 1100px; margin: 0 auto; padding: 24px 20px 80px; }
-.gate { max-width: 320px; margin: 18vh auto 0; display: grid; gap: 10px; padding: 0 20px; }
-.gate h1 { font-size: 22px; margin: 0 0 6px; }
-.gate input { padding: 10px 12px; border: 1px solid #cfd8d3; border-radius: 8px; font-size: 15px; }
-.gate button { padding: 10px 12px; border: 0; border-radius: 8px; background: #059669; color: #fff; font-size: 15px; font-weight: 600; cursor: pointer; }
-.err { color: #c02626; }
-.loading { color: #6b7a73; }
-.head { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; margin-bottom: 18px; }
-.head h1 { font-size: 24px; margin: 0; }
-.head .sub { margin: 2px 0 0; color: #6b7a73; font-size: 13px; }
-.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
-.tabs button { padding: 7px 14px; border: 1px solid #cfd8d3; border-radius: 999px; background: #fff; font-size: 13.5px; cursor: pointer; color: #14201b; }
-.tabs button.on { background: #059669; border-color: #059669; color: #fff; font-weight: 600; }
-.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px; margin-bottom: 12px; }
-.tile { background: #fff; border: 1px solid #e2e8e5; border-radius: 10px; padding: 12px 14px; }
-.tile.alert { border-color: #e0a1a1; background: #fdf6f6; }
-.t-label { font-size: 12px; color: #6b7a73; }
-.t-value { font-size: 24px; font-weight: 700; margin-top: 2px; }
-.tile.alert .t-value { color: #c02626; }
-.t-sub { font-size: 12px; color: #8a958f; margin-top: 2px; }
-.panel { background: #fff; border: 1px solid #e2e8e5; border-radius: 10px; padding: 16px 18px; margin: 12px 0; }
-.panel h3 { margin: 0 0 2px; font-size: 15px; }
-.p-sub { margin: 0 0 12px; font-size: 12.5px; color: #8a958f; }
-.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-@media (max-width: 760px) { .grid2 { grid-template-columns: 1fr; } }
-.panel table { width: 100%; border-collapse: collapse; font-size: 13px; }
-.panel td, .panel th { padding: 5px 8px 5px 0; border-bottom: 1px solid #eef2f0; text-align: left; }
-.panel tr:last-child td { border-bottom: 0; }
+.root { min-height: 100vh; background: #fafaf8; color: #14201b; font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+.root main { max-width: 860px; margin: 0 auto; padding: 32px 20px 90px; }
+.root h1 { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-size: 26px; margin: 0; }
+.root h2 { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-size: 19px; margin: 0 0 4px; }
+.gate { max-width: 300px; margin: 20vh auto 0; display: grid; gap: 10px; padding: 0 20px; text-align: center; }
+.gate input { padding: 11px 12px; border: 1px solid #d5dbd7; border-radius: 9px; font-size: 16px; text-align: center; }
+.gate button { padding: 11px; border: 0; border-radius: 9px; background: #059669; color: #fff; font-size: 15px; font-weight: 600; cursor: pointer; }
+.err { color: #b91c1c; }
+.head { display: flex; justify-content: space-between; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 8px; }
+.tabs { display: flex; gap: 4px; flex-wrap: wrap; background: #eef1ef; border-radius: 999px; padding: 3px; }
+.tabs button { padding: 7px 13px; border: 0; border-radius: 999px; background: transparent; font-size: 13.5px; cursor: pointer; color: #4d5b54; }
+.tabs button.on { background: #fff; color: #14201b; font-weight: 600; box-shadow: 0 1px 2px rgba(0,0,0,0.08); }
+.verdict { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-size: 21px; line-height: 1.35; margin: 18px 0 22px; max-width: 42em; }
+.loadbar { height: 3px; border-radius: 2px; background: linear-gradient(90deg, #059669 30%, #d1e9df 30%); background-size: 200% 100%; animation: slide 1s linear infinite; margin: 8px 0; }
+@keyframes slide { from { background-position: 0 0 } to { background-position: -200% 0 } }
+.faded { opacity: 0.99; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin-bottom: 14px; }
+.tile { background: #fff; border: 1px solid #e5e9e6; border-radius: 12px; padding: 14px 16px; }
+.t-label { font-size: 13px; color: #6b7a73; display: flex; align-items: center; gap: 8px; }
+.t-value { font-size: 30px; font-weight: 700; margin-top: 2px; letter-spacing: -0.02em; }
+.t-sub { font-size: 12.5px; color: #8a958f; margin-top: 3px; }
+.delta { font-size: 12px; font-weight: 700; padding: 1px 7px; border-radius: 999px; }
+.delta.up { color: #047857; background: #e6f4ee; }
+.delta.down { color: #b91c1c; background: #fbeaea; }
+.delta.flat { color: #6b7a73; background: #eef1ef; }
+.panel { background: #fff; border: 1px solid #e5e9e6; border-radius: 12px; padding: 18px 20px; margin: 12px 0; }
+.note { font-size: 13px; color: #8a958f; margin: 2px 0 12px; }
+.warn { font-size: 13.5px; color: #92400e; background: #fef6e7; border-radius: 8px; padding: 8px 12px; margin: 12px 0 0; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+@media (max-width: 700px) { .cols { grid-template-columns: 1fr; } }
+.bar { margin: 9px 0; }
+.bar-top { display: flex; justify-content: space-between; gap: 10px; font-size: 13.5px; margin-bottom: 3px; }
+.bar-label { color: #4d5b54; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar-val { font-weight: 650; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.bar-val em { font-style: normal; font-weight: 400; color: #8a958f; font-size: 12px; }
+.bar-track { height: 8px; background: #eef1ef; border-radius: 4px; overflow: hidden; }
+.bar-fill { height: 100%; background: #059669; border-radius: 4px; }
+.trend { display: flex; align-items: flex-end; gap: 2px; height: 120px; }
+.trend-col { flex: 1; display: flex; align-items: flex-end; height: 100%; }
+.trend-bar { width: 100%; background: #059669; border-radius: 3px 3px 0 0; min-height: 0; }
+.trend-x { display: flex; justify-content: space-between; font-size: 11.5px; color: #8a958f; margin-top: 6px; }
+.statline { font-size: 15px; margin: 4px 0 14px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.tbl { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.tbl th { text-align: left; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.05em; color: #8a958f; font-weight: 600; padding: 4px 10px 6px 0; border-bottom: 1px solid #e5e9e6; }
+.tbl td { padding: 6px 10px 6px 0; border-bottom: 1px solid #f0f3f1; }
+.tbl tr:last-child td { border-bottom: 0; }
 .num { text-align: right !important; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .num.good { color: #047857; font-weight: 700; }
 .dim { color: #8a958f; }
-.path { max-width: 340px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.history th { font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.04em; color: #8a958f; text-align: right; }
-.history th:first-child { text-align: left; }
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 8px 20px; font-size: 14.5px; }
+.facts strong { font-size: 17px; }
+.facts .bad { color: #b91c1c; }
+.more { margin: 12px 0; }
+.more summary { font-size: 13.5px; color: #6b7a73; cursor: pointer; padding: 4px 2px; }
 .scroll { overflow-x: auto; }
-.barrow { display: grid; grid-template-columns: 170px 1fr 150px; align-items: center; gap: 10px; padding: 4px 0; }
-.br-label { font-size: 13px; color: #4d5b54; }
-.br-track { background: #eef2f0; border-radius: 4px; height: 16px; overflow: hidden; }
-.br-fill { display: block; height: 100%; background: #059669; border-radius: 4px; }
-.br-val { font-size: 13px; font-weight: 600; font-variant-numeric: tabular-nums; }
-.br-val em { font-style: normal; font-weight: 400; color: #8a958f; font-size: 12px; }
-.chartwrap { overflow-x: auto; }
-.trend-bar { fill: #059669; }
-.trend-tick { font-size: 11px; fill: #8a958f; }
-@media (max-width: 600px) { .barrow { grid-template-columns: 120px 1fr 90px; } .br-val em { display: none; } }
+.log th, .log td { padding-right: 14px; }
+.foot { font-size: 12.5px; color: #8a958f; margin-top: 18px; }
+.linky { border: 0; background: none; color: #059669; cursor: pointer; font-size: 12.5px; padding: 0; text-decoration: underline; }
 `

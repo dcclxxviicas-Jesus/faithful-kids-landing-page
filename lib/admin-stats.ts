@@ -418,10 +418,11 @@ export interface RangeStats {
   app: Awaited<ReturnType<typeof collectApp>>
 }
 
-// endDay inclusive
-export async function computeRangeStats(startDay: string, endDay: string, endNow = false): Promise<RangeStats> {
+// endDay inclusive; endUTCOverride lets callers truncate the window (used for
+// "previous period at the same time of day" comparisons)
+export async function computeRangeStats(startDay: string, endDay: string, endNow = false, endUTCOverride?: Date): Promise<RangeStats> {
   const startUTC = dayStartUTC(startDay)
-  const endUTC = endNow ? new Date() : dayStartUTC(addDays(endDay, 1))
+  const endUTC = endUTCOverride || (endNow ? new Date() : dayStartUTC(addDays(endDay, 1)))
   const [traffic, gsc, stripe, app] = await Promise.all([
     collectTraffic(startUTC, endUTC),
     collectGsc(startDay, endDay),

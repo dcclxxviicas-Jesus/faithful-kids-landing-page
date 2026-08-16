@@ -3,12 +3,40 @@
 // single day (cron snapshot) or an arbitrary range (live dashboard views).
 // All "days" are America/New_York calendar days.
 
-const POSTHOG_KEY = process.env.POSTHOG_PERSONAL_API_KEY
 const POSTHOG_PROJECT = '368526'
 const GSC_SITE = 'sc-domain:faithfulkids.app'
-const STRIPE_KEY = process.env.STRIPE_READONLY_KEY
 const SUPABASE_URL = process.env.SUPABASE_URL
 const SUPABASE_KEY = process.env.SUPABASE_SECRET_KEY
+
+// Secrets live in Supabase (admin_daily_stats row day=1970-01-01, service-role
+// only) so the Vercel project needs no new env vars — it already has the
+// Supabase credentials for the leads system. process.env still wins when set
+// (local dev uses .env.local).
+const CONFIG_DAY = '1970-01-01'
+let configCache: Record<string, string> | null = null
+
+async function config(): Promise<Record<string, string>> {
+  if (configCache) return configCache
+  try {
+    const res = await fetch(
+      `${SUPABASE_URL}/rest/v1/admin_daily_stats?day=eq.${CONFIG_DAY}&select=data`,
+      { headers: { apikey: SUPABASE_KEY || '', Authorization: `Bearer ${SUPABASE_KEY}` } }
+    )
+    const rows = res.ok ? await res.json() : []
+    configCache = (rows[0]?.data?.config as Record<string, string>) || {}
+  } catch {
+    configCache = {}
+  }
+  return configCache
+}
+
+async function cfg(name: string): Promise<string> {
+  return process.env[name] || (await config())[name] || ''
+}
+
+export async function adminPassword(): Promise<string> {
+  return cfg('CAS_ADMIN_PASSWORD')
+}
 
 export const ADMIN_TZ = 'America/New_York'
 
@@ -61,9 +89,10 @@ function chSql(d: Date): string {
 // ---------- PostHog ----------
 
 async function hogql(query: string): Promise<unknown[][]> {
+  const key = await cfg('POSTHOG_PERSONAL_API_KEY')
   const res = await fetch(`https://us.posthog.com/api/projects/${POSTHOG_PROJECT}/query/`, {
     method: 'POST',
-    headers: { Authorization: `Bearer ${POSTHOG_KEY}`, 'Content-Type': 'application/json' },
+    headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
     body: JSON.stringify({ query: { kind: 'HogQLQuery', query } }),
   })
   if (!res.ok) throw new Error(`PostHog ${res.status}: ${(await res.text()).slice(0, 300)}`)
@@ -165,9 +194,9 @@ async function gscToken(): Promise<string> {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
     body: new URLSearchParams({
-      client_id: process.env.GSC_CLIENT_ID || '',
-      client_secret: process.env.GSC_CLIENT_SECRET || '',
-      refresh_token: process.env.GSC_REFRESH_TOKEN || '',
+      client_id: await cfg('GSC_CLIENT_ID'),
+      client_secret: await cfg('GSC_CLIENT_SECRET'),
+      refresh_token: await cfg('GSC_REFRESH_TOKEN'),
       grant_type: 'refresh_token',
     }),
   })
@@ -228,13 +257,14 @@ async function collectGsc(startDay: string, endDay: string) {
 // ---------- Stripe ----------
 
 async function stripeList(path: string, params: Record<string, string> = {}): Promise<Record<string, unknown>[]> {
+  const key = await cfg('STRIPE_READONLY_KEY')
   const out: Record<string, unknown>[] = []
   let starting_after = ''
   for (let page = 0; page < 20; page++) {
     const qs = new URLSearchParams({ limit: '100', ...params })
     if (starting_after) qs.set('starting_after', starting_after)
     const res = await fetch(`https://api.stripe.com/v1/${path}?${qs}`, {
-      headers: { Authorization: `Bearer ${STRIPE_KEY}` },
+      headers: { Authorization: `Bearer ${key}` },
     })
     if (!res.ok) throw new Error(`Stripe ${path} ${res.status}`)
     const json = await res.json()
@@ -421,7 +451,7 @@ export async function saveSnapshot(day: string, data: RangeStats): Promise<void>
 }
 
 export async function loadSnapshots(): Promise<{ day: string; data: RangeStats }[]> {
-  const res = await fetch(`${SUPABASE_URL}/rest/v1/admin_daily_stats?select=day,data&order=day.desc&limit=400`, {
+  const res = await fetch(`${SUPABASE_URL}/rest/v1/admin_daily_stats?select=day,data&day=gt.2020-01-01&order=day.desc&limit=400`, {
     headers: { apikey: SUPABASE_KEY || '', Authorization: `Bearer ${SUPABASE_KEY}` },
   })
   if (!res.ok) return []

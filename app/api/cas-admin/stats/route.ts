@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { computeRangeStats, loadSnapshots, todayNY, addDays } from '@/lib/admin-stats'
+import { adminPassword, computeRangeStats, loadSnapshots, todayNY, addDays } from '@/lib/admin-stats'
 
 export const maxDuration = 120
 
@@ -7,7 +7,8 @@ export const maxDuration = 120
 // Returns live (deduplicated) stats for the range + the daily snapshot history.
 export async function GET(req: NextRequest) {
   const pw = req.headers.get('x-admin-password') || ''
-  if (!process.env.CAS_ADMIN_PASSWORD || pw !== process.env.CAS_ADMIN_PASSWORD) {
+  const expected = await adminPassword()
+  if (!expected || pw !== expected) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 

@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { computeDayStats, saveSnapshot, todayNY, addDays } from '@/lib/admin-stats'
+import { adminPassword, computeDayStats, saveSnapshot, todayNY, addDays } from '@/lib/admin-stats'
 
 export const maxDuration = 300
 
@@ -9,8 +9,14 @@ export const maxDuration = 300
 export async function GET(req: NextRequest) {
   const auth = req.headers.get('authorization') || ''
   const pw = req.nextUrl.searchParams.get('password') || req.headers.get('x-admin-password') || ''
-  const cronOk = process.env.CRON_SECRET && auth === `Bearer ${process.env.CRON_SECRET}`
-  const pwOk = process.env.CAS_ADMIN_PASSWORD && pw === process.env.CAS_ADMIN_PASSWORD
+  const expected = await adminPassword()
+  // Vercel cron requests carry this UA; CRON_SECRET only exists if the
+  // project has it configured. Worst case for a spoofed UA is an idempotent
+  // re-collection, which is harmless.
+  const cronOk =
+    req.headers.get('user-agent')?.startsWith('vercel-cron/') ||
+    (process.env.CRON_SECRET && auth === `Bearer ${process.env.CRON_SECRET}`)
+  const pwOk = expected && pw === expected
   if (!cronOk && !pwOk) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }

@@ -212,7 +212,7 @@ export default function CasAdmin() {
                 <section className="panel">
                   <h2>What they read</h2>
                   {t.top_pages.slice(0, 8).map((pg) => (
-                    <Bar key={pg.path} label={pg.path.replace('/blog/', '').replace('/', 'home') || 'home'} value={pg.visitors} max={t.top_pages[0]?.visitors || 1} />
+                    <Bar key={pg.path} label={pg.path === '/' ? 'homepage' : pg.path.replace('/blog/', '')} value={pg.visitors} max={t.top_pages[0]?.visitors || 1} />
                   ))}
                 </section>
               </div>

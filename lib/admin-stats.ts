@@ -101,7 +101,8 @@ async function hogql(query: string): Promise<unknown[][]> {
 }
 
 async function collectTraffic(startUTC: Date, endUTC: Date) {
-  const W = `timestamp >= toDateTime('${chSql(startUTC)}') AND timestamp < toDateTime('${chSql(endUTC)}')`
+  // The admin dashboard itself is tracked by PostHog — exclude it everywhere
+  const W = `timestamp >= toDateTime('${chSql(startUTC)}') AND timestamp < toDateTime('${chSql(endUTC)}') AND coalesce(properties.$pathname, '') != '/cas-admin'`
 
   const [summary] = await hogql(`
     SELECT

@@ -123,6 +123,12 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
     FROM events WHERE event = '$pageview' AND ${W}
     GROUP BY 1 ORDER BY 2 DESC LIMIT 15`)
 
+  const eventsBreakdown = await hogql(`
+    SELECT event, count(), count(DISTINCT distinct_id)
+    FROM events
+    WHERE ${W} AND event NOT IN ('$pageview','$pageleave','$autocapture','$web_vitals','$identify','$set','$rageclick','$recording_observed')
+    GROUP BY event ORDER BY 2 DESC LIMIT 30`)
+
   const s = summary as number[]
   const sess = (sessions || [0, 0, 0]) as number[]
   const visitors = s[0] || 0
@@ -144,6 +150,7 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
       sign_up: s[8] || 0, trial_started: s[9] || 0, purchase_completed: s[10] || 0,
       subscription_canceled: s[11] || 0, payment_failed: s[12] || 0,
     },
+    events_breakdown: (eventsBreakdown as [string, number, number][]).map((r) => ({ event: r[0], count: r[1], uniques: r[2] })),
     top_pages: (topPages as [string, number, number][]).map((r) => ({ path: r[0], visitors: r[1], views: r[2] })),
     referrers: (referrers as [string, number][]).map((r) => ({ ref: r[0] || '$direct', visitors: r[1] })),
     devices: (devices as [string, number][]).map((r) => ({ device: r[0] || 'Unknown', visitors: r[1] })),
@@ -348,15 +355,20 @@ async function supaCount(table: string, filter = ''): Promise<number> {
 async function collectApp(startUTC: Date, endUTC: Date) {
   try {
     const created = `&created_at=gte.${startUTC.toISOString()}&created_at=lt.${endUTC.toISOString()}`
-    const [totalFamilies, newFamilies, totalKids, newKids, totalLeads, newLeads] = await Promise.all([
+    const [totalFamilies, newFamilies, totalKids, newKids, totalLeads, newLeads, leadRows] = await Promise.all([
       supaCount('families'), supaCount('families', created),
       supaCount('kids'), supaCount('kids', created),
       supaCount('leads'), supaCount('leads', created),
+      fetch(
+        `${SUPABASE_URL}/rest/v1/leads?select=email,magnet,source,source_post,created_at&created_at=gte.${startUTC.toISOString()}&created_at=lt.${endUTC.toISOString()}&order=created_at.desc&limit=25`,
+        { headers: { apikey: SUPABASE_KEY || '', Authorization: `Bearer ${SUPABASE_KEY}` } }
+      ).then((r) => (r.ok ? r.json() : [])),
     ])
     return {
       total_families: totalFamilies, new_families: newFamilies,
       total_kids: totalKids, new_kids: newKids,
       total_leads: totalLeads, new_leads: newLeads,
+      recent_leads: leadRows as { email: string; magnet: string; source: string; source_post: string | null; created_at: string }[],
     }
   } catch (err) {
     console.error('Supabase collect failed:', err)

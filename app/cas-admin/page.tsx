@@ -9,6 +9,7 @@ interface Traffic {
   avg_session_seconds: number; pages_per_session: number
   funnel: { quiz_visitors: number; quiz_started: number; quiz_answered: number; quiz_completed: number; plan_selected: number; checkout_clicked: number }
   conversion_events: { sign_up: number; trial_started: number; purchase_completed: number; subscription_canceled: number; payment_failed: number }
+  events_breakdown: { event: string; count: number; uniques: number }[]
   top_pages: { path: string; visitors: number; views: number }[]
   referrers: { ref: string; visitors: number }[]
   devices: { device: string; visitors: number }[]
@@ -31,7 +32,11 @@ interface StripeStats {
     revenue_alltime: number; organic_revenue_alltime: number; open_payment_failures: number
   }
 }
-interface AppStats { total_families: number; new_families: number; total_kids: number; new_kids: number; total_leads: number; new_leads: number }
+interface AppStats {
+  total_families: number; new_families: number; total_kids: number; new_kids: number
+  total_leads: number; new_leads: number
+  recent_leads: { email: string; magnet: string; source: string; source_post: string | null; created_at: string }[]
+}
 interface RangeStats {
   start_day: string; end_day: string; collected_at: string
   traffic: Traffic; gsc: Gsc | null; stripe: StripeStats | null; app: AppStats | null
@@ -289,6 +294,30 @@ export default function CasAdmin() {
                       ))}
                     </tbody></table>
                   ) : null}
+                </Panel>
+              </div>
+
+              <div className="grid2">
+                <Panel title="Event activity" sub="Every tracked event in range · total / unique people">
+                  <table><tbody>
+                    {t.events_breakdown?.map((e) => (
+                      <tr key={e.event}><td className="path">{e.event}</td><td className="num">{fmt(e.count)}</td><td className="num dim">{fmt(e.uniques)}</td></tr>
+                    ))}
+                    {!t.events_breakdown?.length ? <tr><td className="dim">No events in range</td></tr> : null}
+                  </tbody></table>
+                </Panel>
+                <Panel title="Email leads captured" sub="From blog email-capture forms in range">
+                  <table><tbody>
+                    {a?.recent_leads?.map((l) => (
+                      <tr key={l.email + l.created_at}>
+                        <td className="path">{l.email}</td>
+                        <td className="dim">{l.magnet}</td>
+                        <td className="path dim">{l.source_post || l.source}</td>
+                        <td className="num dim">{l.created_at.slice(5, 10)}</td>
+                      </tr>
+                    ))}
+                    {!a?.recent_leads?.length ? <tr><td className="dim">No leads in range</td></tr> : null}
+                  </tbody></table>
                 </Panel>
               </div>
 

@@ -3,7 +3,7 @@
 
 export function SiteNav({ active }: { active?: 'blog' | 'trivia' | 'printables' | 'churches' }) {
   return (
-    <nav className="nav no-print">
+    <nav className="nav no-print" aria-label="Main navigation">
       <div className="nav-inner">
         <a href="/" className="nav-logo" style={{ textDecoration: 'none' }}>
           <img src="/logo-sm.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
@@ -35,6 +35,7 @@ export function SiteFooter() {
           <a href="/support">Support</a>
           <a href="/privacy">Privacy</a>
           <a href="/terms">Terms</a>
+          <a href="mailto:team@faithfulkids.app">Contact</a>
         </div>
         <p className="footer-copy">&copy; 2026 Faithful Kids. All rights reserved.</p>
       </div>

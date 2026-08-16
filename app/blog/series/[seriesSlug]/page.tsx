@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { getAllPosts, getPostsBySeriesSlug, getAllSeriesNames } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 import { BlogImage } from '../../BlogImage'
@@ -90,18 +91,7 @@ export default async function SeriesPage({ params }: Props) {
       />
 
       {/* NAV */}
-      <nav className="nav">
-        <div className="nav-inner">
-          <a href="/" className="nav-logo" style={{ textDecoration: 'none' }}>
-            <img src="/logo-sm.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
-          </a>
-          <div className="nav-links">
-            <a href="/blog">Blog</a>
-            <a href="/quiz">Start Free Trial</a>
-          </div>
-          <a href="/quiz" className="btn-nav" style={{ textDecoration: 'none' }}>Try Free</a>
-        </div>
-      </nav>
+      <SiteNav active="blog" />
 
       {/* BREADCRUMB */}
       <div className="blog-breadcrumb">
@@ -173,20 +163,7 @@ export default async function SeriesPage({ params }: Props) {
       </section>
 
       {/* FOOTER */}
-      <footer className="footer">
-        <div className="footer-inner">
-          <div className="footer-logo">
-            <img src="/logo-sm.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
-          </div>
-          <div className="footer-links">
-            <a href="/blog">Blog</a>
-            <a href="/privacy">Privacy</a>
-            <a href="/terms">Terms</a>
-            <a href="mailto:team@faithfulkids.app">Contact</a>
-          </div>
-          <p className="footer-copy">&copy; 2026 Faithful Kids. All rights reserved.</p>
-        </div>
-      </footer>
+      <SiteFooter />
     </>
   )
 }

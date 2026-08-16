@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
+import { SiteFooter } from '@/app/components/SiteChrome'
 import posthog from 'posthog-js'
 import { useTimer } from './use-timer'
 import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
@@ -416,18 +417,7 @@ export default function Home() {
       </main>
 
       {/* FOOTER */}
-      <footer className="footer">
-        <div className="footer-inner">
-          <div className="footer-logo"><img src="/logo-sm.png" alt="Faithful Kids logo" width={24} height={24} className="nav-logo-img" /> Faithful Kids</div>
-          <div className="footer-links">
-            <a href="/blog">Blog</a>
-            <a href="/privacy">Privacy</a>
-            <a href="/terms">Terms</a>
-            <a href="mailto:team@faithfulkids.app">Contact</a>
-          </div>
-          <p className="footer-copy">&copy; 2026 Faithful Kids. All rights reserved.</p>
-        </div>
-      </footer>
+      <SiteFooter />
 
       {/* EXIT INTENT POPUP */}
       <ExitIntent />

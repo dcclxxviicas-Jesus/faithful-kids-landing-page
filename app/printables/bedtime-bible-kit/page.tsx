@@ -1,8 +1,10 @@
 import PrintButton from '../PrintButton';
 
 export const metadata = {
-  title: 'The Bedtime Bible Kit — 7 Nights, Printable',
-  robots: { index: false, follow: false },
+  title: 'The Bedtime Bible Kit — 7 Nights, Free Printable | Faithful Kids',
+  description:
+    'A free printable week of calm Bible bedtimes: seven nights of short stories, memory verses, and simple prayers for the last ten minutes before lights out.',
+  alternates: { canonical: 'https://faithfulkids.app/printables/bedtime-bible-kit' },
 };
 
 type Night = {

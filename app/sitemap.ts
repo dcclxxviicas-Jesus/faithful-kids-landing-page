@@ -29,6 +29,42 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      url: `${baseUrl}/bible-trivia`,
+      lastModified: new Date('2026-08-16'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/churches`,
+      lastModified: new Date('2026-08-16'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/printables`,
+      lastModified: new Date('2026-08-16'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/printables/bible-trivia-pack`,
+      lastModified: new Date('2026-08-16'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/printables/30-day-challenge`,
+      lastModified: new Date('2026-08-16'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/printables/bedtime-bible-kit`,
+      lastModified: new Date('2026-08-16'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: `${baseUrl}/support`,
       lastModified: new Date('2026-04-10'),
       changeFrequency: 'yearly',

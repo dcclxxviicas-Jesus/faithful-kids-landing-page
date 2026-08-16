@@ -1,14 +1,14 @@
 ---
-title: "5-Minute Bible Devotions for Kids: A Week Done for You"
+title: "5-Minute Devotions for Kids: A Free Week Done for You"
 slug: "bible-devotions-for-kids-daily"
 type: "listicle"
-metaDescription: "Bible devotions for kids daily in 5 minutes: one verse, a short thought, one question. Get 7 free ready-to-use devotions plus tips to make the habit stick."
-keywords: ["bible devotions for kids daily", "5 minute devotions for kids", "free bible devotions for kids", "what makes a good devotion for kids", "how to start daily devotions with kids", "short devotions for children"]
+metaDescription: "Free 5-minute devotions for kids: 7 ready-to-use daily devotions -- one verse, a short thought, one question each -- plus tips to make the habit stick."
+keywords: ["5 minute devotions for kids", "free 5 minute devotions for kids", "bible devotions for kids daily", "free bible devotions for kids", "what makes a good devotion for kids", "how to start daily devotions with kids", "short devotions for children"]
 datePublished: "2026-04-16"
-dateModified: "2026-08-15"
+dateModified: "2026-08-16"
 ---
 
-A good daily Bible devotion for kids has exactly three parts: one verse, a two-minute thought explained at a kid's level, and one open-ended question. That's it. The whole thing takes five minutes, it works for ages 4 to 14, and it requires zero preparation from you. Below you'll find seven complete, ready-to-use 5-minute devotions -- a full week done for you -- plus a step-by-step plan for turning one good week into a habit that actually lasts.
+A good daily Bible devotion for kids has exactly three parts: one verse, a two-minute thought explained at a kid's level, and one open-ended question. That's it. The whole thing takes five minutes, it works for ages 4 to 14, and it requires zero preparation from you. Below you'll find seven complete, free 5-minute devotions for kids -- a full week done for you -- plus a step-by-step plan for turning one good week into a habit that actually lasts.
 
 Here's why most family devotionals fail, and it's not because families are lazy: almost every kids' devotional on the market is an adult devotional that got shortened. Same abstract language, same theology-first framing, just fewer paragraphs. Kids don't need a smaller version of an adult's quiet time -- they need something built for how kids think: concrete, brief, and ending with a question about their real life.
 
@@ -24,7 +24,7 @@ The three-part formula works because each part does one specific job:
 
 Close with a one-sentence prayer if you like, and you're done.
 
-## 7 Ready-to-Use 5-Minute Devotions (One Week Done for You)
+## 7 Free 5-Minute Devotions for Kids (One Week Done for You)
 
 Each devotion below is complete: verse, kid-level thought, and discussion question. Read them straight off your phone -- no book, no prep, no printing required.
 

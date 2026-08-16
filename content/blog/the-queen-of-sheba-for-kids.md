@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of The Queen of Sheba explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Queen of Sheba explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz."
 keywords: ["the queen of sheba for kids", "the queen of sheba bible story", "the queen of sheba for children", "the queen of sheba explained for kids", "the queen of sheba story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/the-queen-of-sheba/lesson-video.mp4"
 quizAvailable: true

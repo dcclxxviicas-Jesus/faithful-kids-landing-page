@@ -2,7 +2,7 @@
 title: "10 Bible Stories About Courage for Kids (Be Brave Like David)"
 slug: "bible-stories-about-courage-for-kids"
 type: "listicle"
-metaDescription: "Bible stories about courage for kids. From David facing Goliath to Daniel in the lions' den, these 10 stories teach children what it means to be brave with God."
+metaDescription: "Bible stories about courage for kids. David facing Goliath to Daniel in the lions' den, these 10 stories teach children what it means to be brave with God."
 keywords: ["bible stories about courage for kids", "brave bible stories children", "bible courage kids", "stories about bravery in the bible"]
 ---
 

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of The Kingdom Splits explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Kingdom Splits explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz."
 keywords: ["the kingdom splits for kids", "the kingdom splits bible story", "the kingdom splits for children", "the kingdom splits explained for kids", "the kingdom splits story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/the-kingdom-splits/lesson-video.mp4"
 quizAvailable: true

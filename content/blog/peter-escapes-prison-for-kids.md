@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "community, courage, sharing faith, miracles"
-metaDescription: "Learn the story of Peter Escapes Prison explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Peter Escapes Prison explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz."
 keywords: ["peter escapes prison for kids", "peter escapes prison bible story", "peter escapes prison for children", "peter escapes prison explained for kids", "peter escapes prison story for kids", "bible stories for kids", "early church for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/early-church/peter-escapes-prison/lesson-video.mp4"
 quizAvailable: true

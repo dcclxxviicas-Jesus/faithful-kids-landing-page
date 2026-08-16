@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of Solomon Turns Away explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Solomon Turns Away explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz."
 keywords: ["solomon turns away for kids", "solomon turns away bible story", "solomon turns away for children", "solomon turns away explained for kids", "solomon turns away story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/solomon-turns-away/lesson-video.mp4"
 quizAvailable: true

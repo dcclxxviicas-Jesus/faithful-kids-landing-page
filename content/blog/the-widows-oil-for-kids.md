@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 & 2 Kings"
 age: "Ages 6+"
 themes: "faith, miracles, trusting God, prayer"
-metaDescription: "Learn the story of The Widows Oil explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Widows Oil explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, discussion questions, quiz."
 keywords: ["the widows oil for kids", "the widows oil bible story", "the widows oil for children", "the widows oil explained for kids", "the widows oil story for kids", "bible stories for kids", "elijah and elisha for kids", "kids bible", "1 & 2 kings for kids"]
 videoUrl: "/videos/elijah-and-elisha/the-widows-oil/lesson-video.mp4"
 quizAvailable: true

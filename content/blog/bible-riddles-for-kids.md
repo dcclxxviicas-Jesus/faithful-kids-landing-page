@@ -2,7 +2,7 @@
 title: "20 Bible Riddles for Kids (With Answers)"
 slug: "bible-riddles-for-kids"
 type: "listicle"
-metaDescription: "20 fun Bible riddles for kids with answers. Perfect for car rides, game nights, and Sunday school. Test your family's Bible knowledge with these brain teasers."
+metaDescription: "20 fun Bible riddles for kids with answers -- perfect for car rides, game nights, and Sunday school. Test your family with these brain teasers."
 keywords: ["bible riddles for kids", "bible riddles with answers", "bible brain teasers for children"]
 ---
 

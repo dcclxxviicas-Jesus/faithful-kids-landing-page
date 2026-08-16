@@ -2,7 +2,7 @@
 title: "Who Was Moses? Bible Story for Kids Explained Simply"
 slug: "who-was-moses-for-kids"
 type: "listicle"
-metaDescription: "Who was Moses? A kid-friendly guide to the life of Moses from the basket in the Nile to the Ten Commandments. Simple Bible story with key lessons for children."
+metaDescription: "Who was Moses? A kid-friendly guide from the basket in the Nile to the Ten Commandments -- simple Bible story with key lessons for children."
 keywords: ["who was moses for kids", "moses bible story for kids", "moses and the ten commandments for children"]
 ---
 

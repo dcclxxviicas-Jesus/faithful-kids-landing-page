@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "community, courage, sharing faith, miracles"
-metaDescription: "Learn the story of The Church at Antioch explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Church at Antioch explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz."
 keywords: ["the church at antioch for kids", "the church at antioch bible story", "the church at antioch for children", "the church at antioch explained for kids", "the church at antioch story for kids", "bible stories for kids", "early church for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/early-church/the-church-at-antioch/lesson-video.mp4"
 quizAvailable: true

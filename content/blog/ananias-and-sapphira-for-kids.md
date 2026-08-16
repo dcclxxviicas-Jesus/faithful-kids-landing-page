@@ -9,7 +9,7 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "community, courage, sharing faith, miracles"
-metaDescription: "Learn the story of Ananias and Sapphira explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Ananias and Sapphira explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz."
 keywords: ["ananias and sapphira for kids", "ananias and sapphira bible story", "ananias and sapphira for children", "ananias and sapphira explained for kids", "ananias and sapphira story for kids", "bible stories for kids", "early church for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/early-church/ananias-and-sapphira/lesson-video.mp4"
 quizAvailable: true

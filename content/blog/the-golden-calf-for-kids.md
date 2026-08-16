@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of The Golden Calf explained for kids ages 5+. Simple retelling from Exodus 32, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Golden Calf explained for kids ages 5+. Simple retelling from Exodus 32, with key lessons, discussion questions, quiz."
 keywords: ["the golden calf for kids", "the golden calf bible story", "the golden calf for children", "the golden calf explained for kids", "the golden calf story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/the-golden-calf/lesson-video.mp4"
 quizAvailable: true

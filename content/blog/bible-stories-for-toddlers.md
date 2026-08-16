@@ -1,14 +1,16 @@
 ---
-title: "12 Best Bible Stories for Toddlers (Ages 2-4): Simple and Sweet"
+title: "Bible Stories for Toddlers: 12 Simple Favorites (Ages 2-4)"
 slug: "bible-stories-for-toddlers"
 type: "listicle"
-metaDescription: "The best Bible stories for toddlers ages 2-4. Ultra-simple retellings with animals, bright imagery, and gentle lessons. Perfect first Bible stories."
-keywords: ["bible stories for toddlers", "bible for 2 year old", "bible for 3 year old", "toddler bible stories", "first bible stories for babies"]
+metaDescription: "12 Bible stories toddlers will actually sit through -- 60-second retellings full of animals and rainbows, with one-line lessons and tips for ages 2-4."
+keywords: ["bible stories for toddlers", "bible stories toddlers", "bible for 2 year old", "bible for 3 year old", "toddler bible stories", "first bible stories for babies"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
-# 12 Best Bible Stories for Toddlers (Ages 2-4): Simple and Sweet
+# Bible Stories for Toddlers: 12 Simple Favorites (Ages 2-4)
 
-Toddlers ages 2-4 need the simplest, gentlest Bible stories. At this age, your child learns through repetition, bright imagery, and emotional tone, not complex narratives. Here are the 12 best Bible stories for your toddler, chosen specifically for very short attention spans and ultra-simple lessons.
+Toddlers ages 2-4 need the simplest, gentlest Bible stories. The Bible stories toddlers love best share three things: animals, repetition, and a happy ending -- at this age, your child learns through bright imagery and emotional tone, not complex narratives. Here are the 12 best Bible stories for your toddler, chosen specifically for very short attention spans and ultra-simple lessons.
 
 ## What Makes a Bible Story Good for a Toddler?
 
@@ -20,10 +22,10 @@ Toddlers ages 2-4 need the simplest, gentlest Bible stories. At this age, your c
 
 ---
 
-### 1. Creation — God Made Everything
+### 1. Creation -- God Made Everything
 God made light, water, animals, and people. Point at things around the room: "God made the sun. God made the trees. God made YOU." This is the ultimate toddler story because everything they see connects to it.
 
-### 2. Noah's Ark — Animals Two by Two
+### 2. Noah's Ark -- Animals Two by Two
 The animals are the whole story at this age. Two elephants. Two giraffes. Two puppies. Count them. Name them. The boat, the rain, the rainbow. Toddler perfection.
 
 ### 3. Baby Moses in the Basket

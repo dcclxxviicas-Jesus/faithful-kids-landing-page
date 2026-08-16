@@ -2,7 +2,7 @@
 title: "20 Best Bible Stories for Sunday School (With Discussion Questions)"
 slug: "bible-stories-for-sunday-school"
 type: "listicle"
-metaDescription: "The 20 best Bible stories for Sunday school lessons. Each story includes a summary, key verse, discussion questions, and a free 60-second video. Ready to teach."
+metaDescription: "The 20 best Bible stories for Sunday school lessons. Each story includes a summary, key verse, discussion questions."
 keywords: ["bible stories for sunday school", "sunday school bible stories", "sunday school lesson ideas", "bible lessons for kids church"]
 ---
 

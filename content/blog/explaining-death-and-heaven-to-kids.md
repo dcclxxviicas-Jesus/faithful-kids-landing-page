@@ -2,7 +2,7 @@
 title: "How to Explain Death and Heaven to Kids Using Bible Stories"
 slug: "explaining-death-and-heaven-to-kids"
 type: "listicle"
-metaDescription: "How to explain death and heaven to kids using 5 Bible stories. Empathetic, age-appropriate language for grieving children with what to say and what not to say."
+metaDescription: "How to explain death and heaven to kids using 5 Bible stories. Age-appropriate language for grieving children, what to say and what to avoid."
 keywords: ["explaining death to kids", "how to explain heaven to a child", "bible stories about death for kids", "talking to kids about death"]
 ---
 

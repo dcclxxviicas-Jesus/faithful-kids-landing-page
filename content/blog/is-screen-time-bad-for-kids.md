@@ -2,7 +2,7 @@
 title: "Is Screen Time Bad for Kids? What Christian Parents Need to Know"
 slug: "is-screen-time-bad-for-kids"
 type: "listicle"
-metaDescription: "Is screen time actually bad for kids? What the research says, what Christian parents should consider, and how to make screen time beneficial instead of harmful."
+metaDescription: "Is screen time actually bad for kids? What the research says, what Christian parents should consider, and how to make screen time beneficial."
 keywords: ["is screen time bad for kids", "screen time research kids", "screen time christian perspective", "good screen time for kids"]
 ---
 

@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of Solomons Proverbs explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Solomons Proverbs explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, discussion questions, quiz."
 keywords: ["solomons proverbs for kids", "solomons proverbs bible story", "solomons proverbs for children", "solomons proverbs explained for kids", "solomons proverbs story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/solomons-proverbs/lesson-video.mp4"
 quizAvailable: true

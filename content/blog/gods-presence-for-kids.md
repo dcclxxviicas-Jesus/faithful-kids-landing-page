@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of Gods Presence explained for kids ages 5+. Simple retelling from Exodus 33-40, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Gods Presence explained for kids ages 5+. Simple retelling from Exodus 33-40, with key lessons, discussion questions, quiz."
 keywords: ["gods presence for kids", "gods presence bible story", "gods presence for children", "gods presence explained for kids", "gods presence story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/gods-presence/lesson-video.mp4"
 quizAvailable: true

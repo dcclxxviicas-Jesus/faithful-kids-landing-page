@@ -9,7 +9,7 @@ testament: "Old Testament"
 book: "1 Samuel"
 age: "Ages 5+"
 themes: "courage, faith, God choosing the unlikely"
-metaDescription: "Learn the story of David on the Run explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of David on the Run explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, discussion questions, quiz."
 keywords: ["david on the run for kids", "david on the run bible story", "david on the run for children", "david on the run explained for kids", "david on the run story for kids", "bible stories for kids", "rise of kings for kids", "kids bible", "1 samuel for kids"]
 videoUrl: "/videos/rise-of-kings/david-on-the-run/lesson-video.mp4"
 quizAvailable: true

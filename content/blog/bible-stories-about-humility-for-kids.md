@@ -2,7 +2,7 @@
 title: "9 Bible Stories About Humility for Kids"
 slug: "bible-stories-about-humility-for-kids"
 type: "listicle"
-metaDescription: "9 Bible stories about humility for kids. Jesus washes feet, Moses, Mary, John the Baptist, David dances, and more. Teach children what true humility looks like."
+metaDescription: "9 Bible stories about humility for kids. Jesus washes feet, Moses, Mary, John the Baptist, David dances,. Teach children what true humility looks like."
 keywords: ["bible stories about humility for kids", "humility in the bible for kids", "bible stories about being humble", "teaching kids humility bible"]
 ---
 

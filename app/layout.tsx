@@ -4,6 +4,9 @@ import { PostHogProvider } from './providers'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://faithfulkids.app'),
+  verification: {
+    other: { 'p:domain_verify': '5f5b1b32e961a0e961786606d549be7e' },
+  },
   title: {
     default: 'Faithful Kids — Bible Story Videos for Kids Ages 5+ | No Ads',
     template: '%s | Faithful Kids',

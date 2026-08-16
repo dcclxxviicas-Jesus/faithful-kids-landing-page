@@ -3,6 +3,10 @@
     {
       "path": "/api/leads/drip",
       "schedule": "0 14 * * *"
+    },
+    {
+      "path": "/api/cas-admin/collect",
+      "schedule": "0 9 * * *"
     }
   ]
 }

@@ -62,7 +62,6 @@ function rankFor(score: number): { title: string; emoji: string; line: string } 
   return { title: 'Brave Beginner', emoji: '💪', line: 'Great start — every question is a story to discover!' }
 }
 
-const EMERALD = '#059669'
 const CONFETTI_COLORS = ['#059669', '#34d399', '#fbbf24', '#f472b6', '#60a5fa', '#a78bfa']
 
 export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
@@ -161,85 +160,26 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
     }
   }
 
-  // ——— shared styles ———
-  const card: React.CSSProperties = {
-    background: '#ffffff',
-    border: '2px solid #d1fae5',
-    borderRadius: 24,
-    padding: embed ? '22px 18px' : '30px 26px',
-    margin: '0 auto',
-    maxWidth: 640,
-    boxShadow: '0 8px 32px rgba(5, 150, 105, 0.10)',
-    textAlign: 'center',
-    position: 'relative',
-    overflow: 'hidden',
-    fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
-    color: '#1f2937',
-  }
-  const pill: React.CSSProperties = {
-    display: 'inline-block',
-    background: EMERALD,
-    color: '#fff',
-    fontWeight: 800,
-    fontSize: '1rem',
-    padding: '13px 30px',
-    borderRadius: 999,
-    border: 'none',
-    cursor: 'pointer',
-  }
-
-  const css = (
-    <style>{`
-      @keyframes fkPop { 0% { transform: scale(0.96); } 45% { transform: scale(1.03); } 100% { transform: scale(1); } }
-      @keyframes fkShake { 0%,100% { transform: translateX(0); } 20% { transform: translateX(-7px); } 40% { transform: translateX(7px); } 60% { transform: translateX(-5px); } 80% { transform: translateX(5px); } }
-      @keyframes fkRise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-      @keyframes fkFloat { 0% { opacity: 1; transform: translateY(0); } 100% { opacity: 0; transform: translateY(-38px); } }
-      @keyframes fkConfetti { 0% { opacity: 1; transform: translateY(-10px) rotate(0deg); } 100% { opacity: 0; transform: translateY(340px) rotate(540deg); } }
-      @keyframes fkTrophy { 0% { transform: scale(0) rotate(-20deg); } 60% { transform: scale(1.25) rotate(6deg); } 100% { transform: scale(1) rotate(0deg); } }
-      .fk-opt { transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.15s ease, border-color 0.15s ease; }
-      .fk-opt:not(:disabled):hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(5,150,105,0.14); }
-      .fk-opt:not(:disabled):active { transform: translateY(0); }
-      .fk-diff:hover { transform: translateY(-3px); box-shadow: 0 10px 22px rgba(5,150,105,0.16); }
-      .fk-diff { transition: transform 0.14s ease, box-shadow 0.14s ease; }
-    `}</style>
-  )
-
   // ——— start screen ———
   if (!round) {
     return (
-      <div style={card}>
-        {css}
+      <div className="tg-card">
         <div style={{ fontSize: '2.6rem', lineHeight: 1, marginBottom: 8 }}>🏆</div>
-        <h2 style={{ fontSize: embed ? '1.3rem' : '1.5rem', fontWeight: 900, margin: '0 0 6px' }}>
-          Bible Trivia Challenge
-        </h2>
-        <p style={{ color: '#6b7280', margin: '0 0 20px', fontSize: '0.95rem' }}>
+        <div className="tg-kicker">Free Bible Game</div>
+        <h2 className="tg-title">Bible Trivia Challenge</h2>
+        <p className="tg-sub">
           10 questions. Pick your level — how well do you know the greatest story ever told?
         </p>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(130px, 1fr))', gap: 10 }}>
+        <div className="tg-diff-grid">
           {DIFFICULTIES.map(d => (
-            <button
-              key={d.key}
-              className="fk-diff"
-              onClick={() => start(d.key)}
-              style={{
-                background: '#f0fdf9',
-                border: '2px solid #d1fae5',
-                borderRadius: 16,
-                padding: '16px 10px',
-                cursor: 'pointer',
-                fontFamily: 'inherit',
-              }}
-            >
-              <span style={{ display: 'block', fontSize: '1.7rem', marginBottom: 4 }}>{d.emoji}</span>
-              <span style={{ display: 'block', fontWeight: 800, fontSize: '1rem', color: '#065f46' }}>{d.label}</span>
-              <span style={{ display: 'block', fontSize: '0.78rem', color: '#6b7280', marginTop: 2 }}>{d.sub}</span>
+            <button key={d.key} className="tg-diff" onClick={() => start(d.key)}>
+              <span className="tg-diff-emoji">{d.emoji}</span>
+              <span className="tg-diff-name">{d.label}</span>
+              <span className="tg-diff-sub">{d.sub}</span>
             </button>
           ))}
         </div>
-        <p style={{ fontSize: '0.8rem', color: '#9ca3af', margin: '16px 0 0' }}>
-          100 questions in the pool — every round is different. Free forever.
-        </p>
+        <p className="tg-note">100 questions in the pool — every round is different. Free forever.</p>
       </div>
     )
   }
@@ -249,8 +189,7 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
     const rank = rankFor(score)
     const celebrate = score >= 8
     return (
-      <div style={card}>
-        {css}
+      <div className="tg-card">
         {celebrate && (
           <div aria-hidden style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}>
             {Array.from({ length: 26 }, (_, i) => (
@@ -264,69 +203,62 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
                   height: i % 3 === 0 ? 9 : 14,
                   borderRadius: i % 3 === 0 ? '50%' : 2,
                   background: CONFETTI_COLORS[i % CONFETTI_COLORS.length],
-                  animation: `fkConfetti ${1.9 + (i % 5) * 0.35}s ease-in ${(i % 7) * 0.18}s both`,
+                  animation: `tgConfetti ${1.9 + (i % 5) * 0.35}s ease-in ${(i % 7) * 0.18}s both`,
                 }}
               />
             ))}
           </div>
         )}
-        <div style={{ fontSize: '3.2rem', lineHeight: 1, marginBottom: 6, animation: 'fkTrophy 0.7s ease' }}>
+        <div style={{ fontSize: '3.2rem', lineHeight: 1, marginBottom: 6, animation: 'tgTrophy 0.7s ease' }}>
           {rank.emoji}
         </div>
-        <p style={{ fontSize: '0.85rem', fontWeight: 800, letterSpacing: 1.5, color: EMERALD, textTransform: 'uppercase', margin: '0 0 2px' }}>
-          Your rank
-        </p>
-        <h2 style={{ fontSize: '1.7rem', fontWeight: 900, margin: '0 0 4px' }}>{rank.title}</h2>
-        <p style={{ color: '#6b7280', margin: '0 0 18px', fontSize: '0.95rem' }}>{rank.line}</p>
-        <div style={{ display: 'flex', justifyContent: 'center', gap: 10, flexWrap: 'wrap', marginBottom: 20 }}>
+        <p className="tg-rank-label">Your rank</p>
+        <h2 className="tg-rank">{rank.title}</h2>
+        <p className="tg-sub" style={{ marginBottom: 18 }}>{rank.line}</p>
+        <div className="tg-stats">
           {[
             { label: 'Correct', value: `${score}/${ROUND_SIZE}` },
             { label: 'Points', value: points.toLocaleString() },
             { label: 'Best streak', value: `${bestStreak} 🔥` },
           ].map(s => (
-            <div key={s.label} style={{ background: '#f0fdf9', border: '2px solid #d1fae5', borderRadius: 14, padding: '10px 18px', minWidth: 92 }}>
-              <div style={{ fontSize: '1.25rem', fontWeight: 900, color: '#065f46' }}>{s.value}</div>
-              <div style={{ fontSize: '0.75rem', color: '#6b7280', fontWeight: 600 }}>{s.label}</div>
+            <div key={s.label} className="tg-stat">
+              <div className="tg-stat-value">{s.value}</div>
+              <div className="tg-stat-label">{s.label}</div>
             </div>
           ))}
         </div>
-        <div style={{ display: 'flex', gap: 10, justifyContent: 'center', flexWrap: 'wrap', marginBottom: 18 }}>
-          <button style={pill} onClick={() => start(difficulty)}>Play again ↻</button>
-          <button
-            style={{ ...pill, background: '#fff', color: EMERALD, border: `2px solid ${EMERALD}` }}
-            onClick={share}
-          >
+        <div style={{ display: 'flex', gap: 10, justifyContent: 'center', flexWrap: 'wrap', marginBottom: 14 }}>
+          <button className="tg-btn" onClick={() => start(difficulty)}>Play again ↻</button>
+          <button className="tg-btn-ghost" onClick={share}>
             {shared ? 'Copied! ✓' : 'Challenge a friend 📣'}
           </button>
         </div>
         {difficulty !== 'hard' && score >= 8 && (
-          <button
-            onClick={() => start(difficulty === 'easy' ? 'medium' : 'hard')}
-            style={{ background: 'none', border: 'none', color: EMERALD, fontWeight: 800, cursor: 'pointer', fontSize: '0.9rem', fontFamily: 'inherit' }}
-          >
+          <button className="tg-btn-text" onClick={() => start(difficulty === 'easy' ? 'medium' : 'hard')}>
             That looked easy — try {difficulty === 'easy' ? 'Medium' : 'Hard'} →
           </button>
         )}
-        <div style={{ borderTop: '1px solid #e5e7eb', marginTop: 18, paddingTop: 16 }}>
-          <p style={{ fontSize: '0.92rem', color: '#374151', margin: '0 0 10px' }}>
-            Love Bible trivia? Your kids will love <strong>Faithful Kids</strong> — short Bible story
-            videos with quizzes just like this one.
+        <div className="tg-cta-divider">
+          <p style={{ fontSize: '0.92rem', margin: '0 0 12px' }} className="tg-sub">
+            Love Bible trivia? Your kids will love <strong style={{ color: 'var(--text)' }}>Faithful Kids</strong> —
+            short Bible story videos with quizzes just like this one.
           </p>
           <a
             href="https://faithfulkids.app/quiz"
             target={linkTarget}
             rel={embed ? 'noopener' : undefined}
-            style={{ ...pill, textDecoration: 'none', fontSize: '0.92rem', padding: '11px 24px' }}
+            className="tg-btn"
+            style={{ textDecoration: 'none', display: 'inline-block' }}
             onClick={() => base('trivia_page_cta_click')}
           >
             Try it free for 7 days
           </a>
-          <p style={{ margin: '10px 0 0' }}>
+          <p style={{ margin: '12px 0 0' }}>
             <a
               href="https://faithfulkids.app/printables/bible-trivia-pack"
               target={linkTarget}
               rel={embed ? 'noopener' : undefined}
-              style={{ color: EMERALD, fontWeight: 700, fontSize: '0.85rem', textDecoration: 'none' }}
+              style={{ color: 'var(--primary)', fontWeight: 700, fontSize: '0.85rem', textDecoration: 'none' }}
               onClick={() => base('trivia_page_printable_click')}
             >
               📄 Get all 100 questions as a free printable
@@ -342,86 +274,36 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
   const answered = picked !== null
   const gotIt = answered && picked === q.correctIndex
   return (
-    <div style={{ ...card, animation: 'fkRise 0.3s ease' }} key={index}>
-      {css}
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: '0.82rem', color: '#6b7280', fontWeight: 700, marginBottom: 8 }}>
+    <div className="tg-card" style={{ animation: 'tgRise 0.3s ease' }} key={index}>
+      <div className="tg-meta">
         <span>Question {index + 1} of {round.length}</span>
         <span style={{ display: 'flex', gap: 12 }}>
-          {streak > 1 && <span style={{ color: '#d97706' }}>🔥 {streak}</span>}
-          <span style={{ color: '#065f46' }}>{points.toLocaleString()} pts</span>
+          {streak > 1 && <span style={{ color: 'var(--gold)' }}>🔥 {streak}</span>}
+          <span style={{ color: 'var(--primary-dark)' }}>{points.toLocaleString()} pts</span>
         </span>
       </div>
-      <div style={{ height: 8, background: '#e8f7f0', borderRadius: 4, marginBottom: 18 }}>
-        <div style={{ height: 8, width: `${((index + (answered ? 1 : 0.4)) / round.length) * 100}%`, background: `linear-gradient(90deg, ${EMERALD}, #34d399)`, borderRadius: 4, transition: 'width 0.4s ease' }} />
+      <div className="tg-progress">
+        <div
+          className="tg-progress-fill"
+          style={{ width: `${((index + (answered ? 1 : 0.4)) / round.length) * 100}%` }}
+        />
       </div>
 
-      <p style={{ fontSize: embed ? '1.05rem' : '1.18rem', fontWeight: 800, margin: '0 0 18px', minHeight: 52, lineHeight: 1.4 }}>
-        {q.q}
-      </p>
+      <p className="tg-question">{q.q}</p>
 
-      <div style={{ display: 'grid', gap: 10, textAlign: 'left' }}>
+      <div className="tg-opts">
         {q.options.map((opt, i) => {
           const isCorrect = i === q.correctIndex
           const isPicked = i === picked
-          let bg = '#ffffff'
-          let border = '#d1fae5'
-          let color = '#1f2937'
-          let anim: string | undefined
+          let cls = 'tg-opt'
           if (answered) {
-            if (isCorrect) {
-              bg = EMERALD
-              border = EMERALD
-              color = '#ffffff'
-              anim = 'fkPop 0.4s ease'
-            } else if (isPicked) {
-              bg = '#fef2f2'
-              border = '#fca5a5'
-              color = '#b91c1c'
-              anim = 'fkShake 0.45s ease'
-            } else {
-              color = '#9ca3af'
-            }
+            if (isCorrect) cls += ' is-correct'
+            else if (isPicked) cls += ' is-wrong'
+            else cls += ' is-dim'
           }
           return (
-            <button
-              key={i}
-              className="fk-opt"
-              disabled={answered}
-              onClick={() => pick(i)}
-              style={{
-                display: 'flex',
-                alignItems: 'center',
-                gap: 12,
-                width: '100%',
-                background: bg,
-                border: `2px solid ${border}`,
-                borderRadius: 14,
-                padding: '13px 14px',
-                fontSize: '0.95rem',
-                fontWeight: 700,
-                color,
-                cursor: answered ? 'default' : 'pointer',
-                textAlign: 'left',
-                fontFamily: 'inherit',
-                animation: anim,
-              }}
-            >
-              <span
-                aria-hidden
-                style={{
-                  flexShrink: 0,
-                  width: 28,
-                  height: 28,
-                  borderRadius: '50%',
-                  background: answered && isCorrect ? 'rgba(255,255,255,0.25)' : '#f0fdf9',
-                  color: answered && isCorrect ? '#fff' : '#065f46',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  fontSize: '0.82rem',
-                  fontWeight: 900,
-                }}
-              >
+            <button key={i} className={cls} disabled={answered} onClick={() => pick(i)}>
+              <span aria-hidden className="tg-letter">
                 {answered && isCorrect ? '✓' : answered && isPicked ? '✕' : String.fromCharCode(65 + i)}
               </span>
               {opt}
@@ -430,29 +312,25 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
         })}
       </div>
 
-      <div aria-live="polite" style={{ minHeight: 64, marginTop: 14 }}>
+      <div aria-live="polite" className="tg-feedback">
         {answered && (
-          <div style={{ animation: 'fkRise 0.3s ease' }}>
-            <p style={{ margin: '0 0 4px', fontWeight: 800, fontSize: '0.95rem', color: gotIt ? EMERALD : '#b45309' }}>
-              {gotIt ? feedback : `${feedback}`}
-              {gotIt && lastGain > 0 && (
-                <span style={{ display: 'inline-block', marginLeft: 8, color: '#d97706', animation: 'fkFloat 1.6s ease forwards' }}>
-                  +{lastGain}
-                </span>
-              )}
+          <div style={{ animation: 'tgRise 0.3s ease' }}>
+            <p className="tg-feedback-line" style={{ color: gotIt ? 'var(--primary)' : 'var(--gold)' }}>
+              {feedback}
+              {gotIt && lastGain > 0 && <span className="tg-gain">+{lastGain}</span>}
             </p>
-            <p style={{ margin: 0, fontSize: '0.82rem', color: '#6b7280' }}>📖 {q.ref}</p>
+            <p className="tg-feedback-ref">📖 {q.ref}</p>
           </div>
         )}
       </div>
 
       {answered && index + 1 < round.length && (
-        <button style={{ ...pill, marginTop: 6 }} onClick={next} autoFocus>
+        <button className="tg-btn" style={{ marginTop: 6 }} onClick={next} autoFocus>
           Next question →
         </button>
       )}
       {answered && index + 1 >= round.length && (
-        <p style={{ margin: '6px 0 0', fontWeight: 800, color: EMERALD, fontSize: '0.9rem' }}>
+        <p style={{ margin: '6px 0 0', fontWeight: 700, color: 'var(--primary)', fontSize: '0.9rem' }}>
           Adding up your score…
         </p>
       )}

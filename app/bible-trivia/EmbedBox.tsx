@@ -21,38 +21,9 @@ export function EmbedBox() {
   }
 
   return (
-    <div>
-      <pre
-        style={{
-          background: '#f9fafb',
-          border: '1px solid #e5e7eb',
-          borderRadius: 12,
-          padding: 16,
-          fontSize: '0.78rem',
-          lineHeight: 1.6,
-          overflowX: 'auto',
-          whiteSpace: 'pre-wrap',
-          wordBreak: 'break-all',
-          color: '#374151',
-          margin: '0 0 12px',
-        }}
-      >
-        {EMBED_CODE}
-      </pre>
-      <button
-        onClick={copy}
-        style={{
-          background: copied ? '#065f46' : '#059669',
-          color: '#fff',
-          fontWeight: 800,
-          fontSize: '0.92rem',
-          padding: '11px 26px',
-          borderRadius: 999,
-          border: 'none',
-          cursor: 'pointer',
-          fontFamily: 'inherit',
-        }}
-      >
+    <div style={{ maxWidth: 640, margin: '0 auto' }}>
+      <pre className="tg-embed-code">{EMBED_CODE}</pre>
+      <button className="tg-btn" onClick={copy}>
         {copied ? 'Copied! ✓' : 'Copy embed code'}
       </button>
     </div>

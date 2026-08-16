@@ -1,4 +1,5 @@
 import PrintButton from '../PrintButton';
+import { SiteNav, SiteFooter } from '../../components/SiteChrome';
 
 export const metadata = {
   title: '30-Day Family Bible Challenge — Free Printable | Faithful Kids',
@@ -232,6 +233,8 @@ const EMERALD = '#059669';
 
 export default function ThirtyDayChallengePrintable() {
   return (
+    <>
+    <SiteNav active="printables" />
     <main
       style={{
         backgroundColor: '#ffffff',
@@ -366,5 +369,7 @@ export default function ThirtyDayChallengePrintable() {
         <strong style={{ color: EMERALD }}>faithfulkids.app</strong> — free 7-day trial.
       </footer>
     </main>
+    <SiteFooter />
+    </>
   );
 }

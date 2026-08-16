@@ -1,4 +1,5 @@
 import PrintButton from '../PrintButton';
+import { SiteNav, SiteFooter } from '../../components/SiteChrome';
 
 export const metadata = {
   title: 'Printable Bible Trivia Pack — 100 Questions | Faithful Kids',
@@ -130,6 +131,8 @@ const EMERALD = '#059669';
 
 export default function BibleTriviaPackPage() {
   return (
+    <>
+    <SiteNav active="printables" />
     <main
       style={{
         maxWidth: '52rem',
@@ -267,5 +270,7 @@ export default function BibleTriviaPackPage() {
         <strong style={{ color: EMERALD }}>faithfulkids.app</strong> — free 7-day trial.
       </footer>
     </main>
+    <SiteFooter />
+    </>
   );
 }

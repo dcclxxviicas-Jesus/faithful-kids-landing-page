@@ -1,4 +1,5 @@
 import PrintButton from '../PrintButton';
+import { SiteNav, SiteFooter } from '../../components/SiteChrome';
 
 export const metadata = {
   title: 'The Bedtime Bible Kit — 7 Nights, Free Printable | Faithful Kids',
@@ -129,6 +130,8 @@ const EMERALD = '#059669';
 
 export default function BedtimeBibleKitPrintable() {
   return (
+    <>
+    <SiteNav active="printables" />
     <main
       style={{
         backgroundColor: '#ffffff',
@@ -282,5 +285,7 @@ export default function BedtimeBibleKitPrintable() {
         </p>
       </section>
     </main>
+    <SiteFooter />
+    </>
   );
 }

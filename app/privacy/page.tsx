@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { SiteNav, SiteFooter } from '../components/SiteChrome'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy',
@@ -10,46 +11,130 @@ export const metadata: Metadata = {
 
 export default function Privacy() {
   return (
-    <section style={{ maxWidth: 640, margin: '0 auto', padding: '72px 24px' }}>
-      <h1 style={{ fontSize: '1.8rem', fontWeight: 700, marginBottom: 24 }}>Privacy Policy</h1>
+    <>
+      <SiteNav />
+      <section className="doc-hero">
+        <span className="section-label">Legal</span>
+        <h1>Privacy Policy</h1>
+        <p>Last updated: April 2026</p>
+      </section>
 
-      <p style={{ marginBottom: 16, lineHeight: 1.7, color: '#555' }}>
-        <strong>What we collect:</strong> Your email address and denomination
-        preference when you sign up for early access. We also collect anonymous
-        usage data (page views, button clicks) to improve the product.
-      </p>
+      <div className="doc-body">
+        <h2>About Faithful Kids</h2>
+        <p>
+          Faithful Kids is an educational video platform that helps children learn the stories of
+          the Bible. This Privacy Policy explains how we collect, use, and protect information when
+          you and your children use our website and app.
+        </p>
 
-      <p style={{ marginBottom: 16, lineHeight: 1.7, color: '#555' }}>
-        <strong>What we don't collect:</strong> We do not collect any data from
-        children. This site is intended for parents and guardians only. Children
-        do not interact with this site directly.
-      </p>
+        <h2>What Data We Collect</h2>
+        <p>We collect the following information:</p>
+        <ul>
+          <li>Child&apos;s first name</li>
+          <li>Age range (e.g., 4–6, 7–9)</li>
+          <li>Avatar choice</li>
+          <li>Parent email address</li>
+          <li>Quiz scores</li>
+          <li>Reflection responses</li>
+          <li>Usage events (e.g., episodes viewed, streaks)</li>
+        </ul>
 
-      <p style={{ marginBottom: 16, lineHeight: 1.7, color: '#555' }}>
-        <strong>How we use it:</strong> Your email is used only to notify you
-        when the app launches. We will never sell or share your email with third
-        parties.
-      </p>
+        <h2>How We Use Your Data</h2>
+        <ul>
+          <li><strong>Personalization:</strong> We use your child&apos;s name, age, and avatar to personalize their learning experience.</li>
+          <li><strong>Email notifications:</strong> We send progress updates, quiz results, and weekly reports to the parent email address.</li>
+          <li><strong>Improving the service:</strong> We use aggregated usage data to understand how children interact with our content and improve the learning experience.</li>
+        </ul>
 
-      <p style={{ marginBottom: 16, lineHeight: 1.7, color: '#555' }}>
-        <strong>Analytics:</strong> We use PostHog for anonymous usage analytics.
-        No personally identifiable information is shared with any third party
-        beyond PostHog.
-      </p>
+        <div className="doc-callout">
+          <h2>COPPA Compliance</h2>
+          <p>
+            We take children&apos;s privacy seriously. In compliance with the Children&apos;s Online
+            Privacy Protection Act (COPPA), we require verifiable parental consent before collecting
+            any personal information from children under 13.
+          </p>
+          <p style={{ marginBottom: 0 }}>
+            Parents can review their child&apos;s data, request deletion of their child&apos;s data,
+            or refuse further collection at any time from the Parent Dashboard. If you believe we
+            have collected information from a child without parental consent, please contact us
+            immediately.
+          </p>
+        </div>
 
-      <p style={{ marginBottom: 16, lineHeight: 1.7, color: '#555' }}>
-        <strong>Data retention:</strong> If this product does not proceed to
-        launch, all collected email addresses will be deleted within 90 days.
-      </p>
+        <h2>Data Storage</h2>
+        <p>
+          Learning progress is stored locally on your device using browser storage. Family
+          registration data and usage events are stored in Supabase, a secure cloud database. Data
+          is encrypted in transit and at rest.
+        </p>
 
-      <p style={{ marginBottom: 16, lineHeight: 1.7, color: '#555' }}>
-        <strong>Unsubscribe:</strong> You can request deletion of your data at
-        any time by emailing us.
-      </p>
+        <h2>Email Communications</h2>
+        <p>
+          We use Resend to deliver notification emails to parents, including welcome emails,
+          progress reports, and streak milestones. Parents can opt out of email notifications at any
+          time from the Parent Dashboard. Marketing emails always include an unsubscribe link.
+        </p>
 
-      <p style={{ marginTop: 32 }}>
-        <a href="/" style={{ color: '#059669', fontWeight: 600 }}>&larr; Back to home</a>
-      </p>
-    </section>
+        <h2>Analytics (PostHog)</h2>
+        <p>
+          We use PostHog for anonymous product analytics. This includes pageviews, button clicks,
+          and feature usage data. No names, email addresses, or child data are sent to PostHog. This
+          data helps us understand how families use the platform so we can improve the learning
+          experience.
+        </p>
+
+        <h2>Payment Processing (Stripe)</h2>
+        <p>
+          We use Stripe to process payments securely. When you subscribe, your payment method
+          information (such as credit card number) is sent directly to Stripe and is never stored on
+          our servers. We only store your Stripe customer ID and subscription status to manage your
+          account. Stripe&apos;s handling of your payment data is governed by{' '}
+          <a href="https://stripe.com/privacy" target="_blank" rel="noopener noreferrer">Stripe&apos;s Privacy Policy</a>.
+        </p>
+
+        <h2>Sign-In with Google / Apple</h2>
+        <p>
+          If you sign in using Google or Apple, we receive your email address and display name from
+          the OAuth provider. We use this information solely to create and identify your account. We
+          do not access your contacts, calendar, or any other data from your Google or Apple
+          account.
+        </p>
+
+        <h2>Cookies</h2>
+        <p>
+          We use cookies strictly for authentication and session management. These cookies keep you
+          signed in between visits and are essential for the service to function. We do not use
+          advertising cookies or third-party tracking cookies. PostHog analytics uses a first-party
+          cookie to distinguish unique visitors without identifying them personally.
+        </p>
+
+        <h2>Third Parties</h2>
+        <p>
+          We do not sell or share personal data with third parties. Our service providers process
+          data on our behalf and are bound by their own privacy policies:
+        </p>
+        <ul>
+          <li><strong>Supabase</strong> — database and authentication</li>
+          <li><strong>Resend</strong> — email delivery</li>
+          <li><strong>Stripe</strong> — payment processing</li>
+          <li><strong>PostHog</strong> — anonymous product analytics</li>
+          <li><strong>Google / Apple</strong> — OAuth sign-in (if used)</li>
+        </ul>
+
+        <h2>Data Deletion</h2>
+        <p>
+          Parents can delete all family data at any time from the Parent Dashboard. This includes
+          all child profiles, quiz scores, reflection responses, and usage data. Deletion is
+          permanent and cannot be undone.
+        </p>
+
+        <h2>Contact Us</h2>
+        <p>
+          If you have any questions about this Privacy Policy or our data practices, please contact
+          us at <a href="mailto:privacy@faithfulkids.app">privacy@faithfulkids.app</a>.
+        </p>
+      </div>
+      <SiteFooter />
+    </>
   )
 }

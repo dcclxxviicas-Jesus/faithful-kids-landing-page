@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "27 1 Peter Bible trivia questions with answers and verse references -- easy to hard rounds on living hope, the roaring lion, and more."
 keywords: ["1 peter bible trivia", "1 peter quiz questions", "questions about the book of 1 peter", "1 peter bible questions and answers", "first peter trivia", "peter bible quiz for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 27 1 Peter Bible trivia questions cover all five chapters of Peter's first letter, with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so the whole family can play together.
@@ -85,6 +85,8 @@ Once you know Peter's story, the letter is full of echoes of his own life -- and
 Run the easy round at dinner and let little kids collect the animal answers -- the lion, the sheep, and the lamb are gimmes they'll love. The letter is short enough to read aloud in about fifteen minutes, or one chapter per night for a five-night family challenge, quizzing after each chapter. For a bigger event, make this the "Peter round" of a [family Bible trivia night](/blog/family-bible-trivia-night) or mix it into our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids).
 
 The backstory makes the letter hit harder, so pair the quiz with [who Peter was](/blog/who-was-peter-for-kids) -- and for older kids, the stories of how [Peter denied Jesus](/blog/peter-denies-jesus-for-kids) and how [Jesus restored him](/blog/peter-is-restored-for-kids) explain why this apostle wrote so tenderly about failure and hope. If your kids want more, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair every Bible story with a quiz, and our [Bible verses about hope for kids](/blog/bible-verses-about-hope-for-kids) list starts with 1 Peter's living hope.
+
+Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
 ## Frequently Asked Questions
 

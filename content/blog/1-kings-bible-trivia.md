@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "36 1 Kings Bible trivia questions with answers and verse references -- Solomon's wisdom, the temple, the split kingdom, and Elijah, sorted easy to hard."
 keywords: ["1 kings bible trivia", "1 kings quiz questions", "questions about the book of 1 kings", "1 kings bible questions and answers", "solomon trivia questions", "elijah quiz questions"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 36 1 Kings Bible trivia questions cover the book's two great acts -- Solomon's golden age with the temple and the queen of Sheba, then the kingdom splitting in two and Elijah's showdown with the prophets of Baal. Answers with verse references follow every question, sorted into easy, medium, and hard rounds by age.
@@ -68,6 +68,8 @@ The book pivots at chapter 11: Solomon, the wisest man alive, lets his heart be 
 This book splits neatly into two trivia nights: Solomon (questions 1-3, 8, 11-23) and Elijah (questions 4-7, 9-10, 26-31) -- or run it as one long game and let the "gentle whisper" question decide the tie. For team play, scoring, and prize ideas, see our [family Bible trivia night guide](/blog/family-bible-trivia-night).
 
 For story prep, the episode-length tellings of [Solomon asking for wisdom](/blog/solomon-asks-for-wisdom-for-kids), [the queen of Sheba's visit](/blog/the-queen-of-sheba-for-kids), [the kingdom splitting](/blog/the-kingdom-splits-for-kids), [Elijah and the ravens](/blog/elijah-and-the-ravens-for-kids), and [fire from heaven on Mount Carmel](/blog/fire-from-heaven-for-kids) cover most of this list. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through the whole kings-and-prophets era with a quiz after every episode.
+
+For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
 ## Frequently Asked Questions
 

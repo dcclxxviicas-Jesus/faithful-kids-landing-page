@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "28 2 Corinthians Bible trivia questions with answers and verse references -- jars of clay, the thorn in the flesh, and the cheerful giver, easy to hard."
 keywords: ["2 corinthians bible trivia", "2 corinthians quiz questions", "questions about the book of 2 corinthians", "2 corinthians bible questions and answers", "thorn in the flesh quiz", "jars of clay bible trivia"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 28 2 Corinthians Bible trivia questions cover treasure in jars of clay, the thorn in the flesh, the cheerful giver, and Paul's jaw-dropping hardship list -- with answers and verse references after every question. They're sorted into easy, medium, and hard rounds so ages 5 through adult can play the same game.
@@ -70,6 +70,8 @@ Because it's the closest thing we have to Paul's autobiography -- and almost non
 With 28 questions, this works as a single game night: easy round for the youngest, then let teens and adults fight over the hardship-list details. Because so many answers are one memorable phrase -- jars of clay, angel of light, cheerful giver -- it also works as a matching game: write the phrases on cards and have kids pair them with the questions. For full formats and scorekeeping, use our [family Bible trivia night](/blog/family-bible-trivia-night) playbook.
 
 For backstory, read [who was Paul](/blog/who-was-paul-for-kids) and [Paul in Corinth](/blog/paul-in-corinth-for-kids), and for the letter's most famous promise retold at kid level, see [A New Creation](/blog/a-new-creation-for-kids). Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair every story with a short animated video and quiz, which makes the medium round feel easy fast.
+
+Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
 ## Frequently Asked Questions
 

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "32 Deuteronomy Bible trivia questions with answers and verse references -- the Shema, Moses' farewell, and 'choose life,' sorted easy to hard by age."
 keywords: ["deuteronomy bible trivia", "deuteronomy quiz questions", "questions about the book of deuteronomy", "deuteronomy bible questions and answers", "deuteronomy trivia for kids", "book of deuteronomy quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 32 Deuteronomy Bible trivia questions cover Moses' farewell speeches, the Shema, the great "choose life" challenge, and Moses' mysterious mountaintop ending -- sorted into easy, medium, and hard rounds by age. Each answer appears in bold right after its question with a verse reference, so the whole family can check the text together.
@@ -64,6 +64,8 @@ The name means "second law" (from the Greek), because Moses restates the covenan
 Deuteronomy is quote-heavy rather than story-heavy, so play it as a "finish the verse" round -- questions 3, 12, 17, and 30 work brilliantly that way, and kids end up memorizing Scripture by accident. Keep it to a handful of questions per sitting, and let the Shema (questions 3-5) become your family's recurring bonus question until everyone can say it cold. For team formats and scoring ideas, see our guide to [family Bible trivia night](/blog/family-bible-trivia-night); for turning these verses into lasting recall, try our [Bible memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids).
 
 For the stories behind the questions, read about [who Moses was](/blog/who-was-moses-for-kids) and the moving final scene in [Moses says goodbye](/blog/moses-says-goodbye-for-kids), plus [the Ten Commandments explained for kids](/blog/ten-commandments-for-kids-explained) for chapter 5. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover Moses' whole story, farewell included, with a quiz after every episode.
+
+Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
 ## Frequently Asked Questions
 

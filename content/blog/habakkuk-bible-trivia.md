@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "22 Habakkuk Bible trivia questions with answers and verse references -- easy to hard rounds from the prophet who asked God the tough questions."
 keywords: ["habakkuk bible trivia", "habakkuk quiz questions", "questions about the book of habakkuk", "habakkuk bible questions and answers", "book of habakkuk trivia", "minor prophets trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 22 Habakkuk Bible trivia questions cover all three chapters -- the prophet's two complaints, God's surprising answers, and the "yet I will rejoice" ending -- with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
@@ -79,6 +79,8 @@ It also matters for parenting: Habakkuk gives kids biblical permission to bring 
 Habakkuk trivia works best as a conversation starter, not a speed round. Ask question 2 or 4 at dinner and let it open the real topic -- that God welcomes honest questions -- before running the rest of the set. The hard round is genuinely hard, which makes this a strong pick for [teen Bible trivia](/blog/bible-trivia-for-teens) or a parents-versus-kids showdown at [family Bible trivia night](/blog/family-bible-trivia-night).
 
 Habakkuk 3:17-18 also makes a memorable family memory-verse project: kids illustrate the six empty harvests, then write "yet I will rejoice" over the top. If your kids learn best with story-plus-quiz, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) use the same rhythm for every Bible story. When you're ready to zoom out, our [Old Testament trivia questions](/blog/old-testament-bible-trivia-for-kids) put Habakkuk's era in line with the rest of the story.
+
+You can also mix in questions from our [family-friendly Bible trivia](/blog/bible-trivia-for-kids) collection.
 
 ## Frequently Asked Questions
 

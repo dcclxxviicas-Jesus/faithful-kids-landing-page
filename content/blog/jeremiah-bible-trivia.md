@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "40 Jeremiah Bible trivia questions with answers and verse references, easy to expert -- for family trivia night, Sunday school, or the car."
 keywords: ["jeremiah bible trivia", "jeremiah quiz questions", "questions about the book of jeremiah", "jeremiah bible questions and answers", "weeping prophet trivia", "jeremiah 29 11 quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 40 Jeremiah Bible trivia questions cover the story of the weeping prophet -- the potter's house, the burned scroll, the muddy cistern rescue, and the real story behind Jeremiah 29:11 -- sorted into easy, medium, and hard rounds. Answers with verse references follow every question.
@@ -74,6 +74,8 @@ Jeremiah's story questions work best told in order -- the call, the potter, the 
 For background, read [how Judah fell to Babylon](/blog/judah-falls-to-babylon-for-kids) -- the event Jeremiah spent forty years warning about -- along with the era of [good kings and bad kings](/blog/good-kings-and-bad-kings-for-kids) and the ending of the exile in [Cyrus sets them free](/blog/cyrus-sets-them-free-for-kids), which fulfilled Jeremiah's seventy-year prophecy. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover this whole prophets-and-exile arc with a quiz after every episode.
 
 For a broader mix, fold your favorites into the big [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) list.
+
+Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
 ## Frequently Asked Questions
 

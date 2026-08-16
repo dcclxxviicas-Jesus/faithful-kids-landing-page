@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "22 Ecclesiastes Bible trivia questions with answers and verse references, easy to hard -- for family trivia night, Sunday school, or curious teens."
 keywords: ["ecclesiastes bible trivia", "ecclesiastes quiz questions", "questions about the book of ecclesiastes", "ecclesiastes bible questions and answers", "ecclesiastes trivia for kids", "vanity of vanities meaning"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 22 Ecclesiastes Bible trivia questions cover the Bible's most surprising book -- "a time for everything," a cord of three strands, and the Teacher's famous cry of "Meaningless!" -- sorted into easy, medium, and hard rounds. Answers with verse references follow every question.
@@ -70,6 +70,8 @@ The friendship passage is the sleeper hit with kids. "Two are better than one...
 ## How to Use These Questions
 
 Use the easy round with young kids at dinner, and save the medium and hard rounds for teens -- Ecclesiastes rewards a little life experience. The chapter 3 questions work especially well in the car, because most kids can finish the "a time to..." pairs out loud. For scoring ideas, team formats, and prizes, see our [family Bible trivia night](/blog/family-bible-trivia-night) guide, and fold your favorites into the big [Old Testament trivia list](/blog/old-testament-bible-trivia-for-kids) for variety.
+
+You can also mix in questions from our [family-friendly Bible trivia](/blog/bible-trivia-for-kids) collection.
 
 ## Frequently Asked Questions
 

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "22 Song of Solomon Bible trivia questions with answers and verse references -- authorship, imagery, and famous verses for family trivia night."
 keywords: ["song of solomon bible trivia", "song of solomon quiz questions", "questions about the book of song of solomon", "song of songs trivia", "song of solomon bible questions and answers", "who wrote song of solomon"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 22 Song of Solomon Bible trivia questions cover the Bible's one and only love poem -- its authorship, its wild word pictures, and famous lines like "love is as strong as death" -- sorted into easy, medium, and hard rounds. Answers with verse references follow every question.
@@ -70,6 +70,8 @@ Two structural details make great trivia in their own right. The poem is a conve
 ## How to Use These Questions
 
 Keep the easy round for young kids and treat the hard round as a "stump the parents" challenge -- question 21 gets almost everyone. Because the book is short, a family can actually read the famous passages (chapter 2 and 8:6-7) in one sitting before playing. For a full game-night format with teams and scoring, use our [family Bible trivia night](/blog/family-bible-trivia-night) guide, then fold these into the bigger [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) rotation.
+
+You can also mix in questions from our [family-friendly Bible trivia](/blog/bible-trivia-for-kids) collection.
 
 ## Frequently Asked Questions
 

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "42 Luke Bible trivia questions with answers and verse references -- easy to hard rounds on the manger, the prodigal son, Zacchaeus, and Emmaus."
 keywords: ["luke bible trivia", "luke quiz questions", "questions about the book of luke", "luke bible questions and answers", "gospel of luke trivia for kids", "book of luke quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 42 Luke Bible trivia questions cover the whole gospel -- the angel Gabriel, the manger in Bethlehem, the Good Samaritan, the prodigal son, Zacchaeus in his tree, and the road to Emmaus -- with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so the whole family can play.
@@ -113,6 +113,8 @@ Luke is the longest of the four gospels by word count, and it's volume one of a 
 Run the easy round at dinner -- the birth story and the parables are the ones most kids already half-know -- and save the trial and resurrection questions for older kids at [family Bible trivia night](/blog/family-bible-trivia-night). A fun team twist: since so many of these stories are "only in Luke," challenge teens to guess which questions couldn't be answered from any other gospel.
 
 If your kids need story prep first, our five-minute retellings are the fastest catch-up: [an angel visits Mary](/blog/an-angel-visits-mary-for-kids), [the Good Samaritan](/blog/the-good-samaritan-for-kids), [the prodigal son](/blog/the-prodigal-son-for-kids), and [the road to Emmaus](/blog/the-road-to-emmaus-for-kids) cover the biggest point-scorers here. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through these same Luke stories with a short video and a quiz after each episode. When your family has mastered this list, keep going with our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids).
+
+You can also mix in questions from our [family-friendly Bible trivia](/blog/bible-trivia-for-kids) collection.
 
 ## Frequently Asked Questions
 

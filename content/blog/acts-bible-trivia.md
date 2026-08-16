@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "44 Acts Bible trivia questions with answers and verse references -- Pentecost, Paul's journeys, prison escapes, and the shipwreck, easy to expert."
 keywords: ["acts bible trivia", "book of acts quiz questions", "questions about the book of acts", "acts bible questions and answers", "acts of the apostles trivia", "paul missionary journeys quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 44 Acts Bible trivia questions cover Pentecost, Stephen, the road to Damascus, two miraculous prison breaks, and the shipwreck on Malta -- with answers and verse references after every question. They're sorted into easy, medium, and hard rounds so ages 5 through adult can play the same game.
@@ -89,6 +89,8 @@ A pattern worth pointing out to kids: in Acts, trouble is a delivery method. The
 Run it as a journey game: start in Jerusalem with the easy round (Pentecost, Peter, Stephen), move outward with the medium round (Philip, Cornelius, Antioch), and end on the open sea with the hard round. Kids can trace the routes on a map as they answer. For scorekeeping and team formats, use our [family Bible trivia night](/blog/family-bible-trivia-night) playbook.
 
 If a story is fuzzy, catch up fast with our kid-friendly retellings of [the day of Pentecost](/blog/the-day-of-pentecost-for-kids), [Saul meets Jesus](/blog/saul-meets-jesus-for-kids), [Paul and Silas in prison](/blog/paul-and-silas-in-prison-for-kids), and [the shipwreck](/blog/shipwrecked-for-kids). And our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover the book of Acts as an animated series with a quiz after every episode.
+
+Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
 ## Frequently Asked Questions
 

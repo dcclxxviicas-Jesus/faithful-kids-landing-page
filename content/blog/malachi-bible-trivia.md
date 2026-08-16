@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "23 Malachi Bible trivia questions with answers and verse references -- easy to hard rounds on the last book of the Old Testament."
 keywords: ["malachi bible trivia", "malachi quiz questions", "questions about the book of malachi", "malachi bible questions and answers", "last book of the old testament trivia", "minor prophets trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 23 Malachi Bible trivia questions cover the whole final book of the Old Testament -- the blemished sacrifices, the challenge to "test" God with the tithe, and the promise of an Elijah who would arrive 400 years later -- with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
@@ -81,6 +81,8 @@ That makes Malachi the best "cliffhanger" book in the Bible to teach kids. The O
 Open with question 17 -- "What's the one thing God says 'test me' about?" -- because it surprises adults as much as kids, and it leads straight into a conversation about generosity. The easy round works at dinner or in the car; the medium round doubles as a Sunday school review of how the Old Testament ends; and the hard round belongs at [family Bible trivia night](/blog/family-bible-trivia-night), where question 19 -- the Old Testament ending on a warning -- reliably stumps the room.
 
 Malachi also pairs naturally with a "bridge night": read Malachi 4:5-6, then Mark 1:1-9, and let kids discover the connection themselves. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) use the same watch-then-quiz rhythm across both testaments. When you're ready to cross the bridge, our [Matthew trivia questions](/blog/matthew-bible-trivia) start the New Testament side, and the full [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) covers everything that led here.
+
+Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
 ## Frequently Asked Questions
 

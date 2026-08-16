@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "32 Numbers Bible trivia questions with answers and verse references -- the twelve spies, the talking donkey, and the bronze snake, sorted easy to hard."
 keywords: ["numbers bible trivia", "numbers quiz questions", "questions about the book of numbers", "numbers bible questions and answers", "book of numbers trivia for kids", "book of numbers quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 32 Numbers Bible trivia questions cover the twelve spies, the forty years of wandering, Balaam's talking donkey, and the bronze snake -- sorted into easy, medium, and hard rounds by age. Every answer follows its question in bold, with a verse reference included so you can verify it straight from the text.
@@ -64,6 +64,8 @@ The book gets its name from the two censuses that frame it -- the exodus generat
 Numbers works best as a "stranger than fiction" round -- lead with the talking donkey and the blossoming staff, and even trivia-weary kids lean in. Keep sessions short (four or five questions), let younger kids take the easy round while teens sweat the census figures, and award double points for anyone who can find the verse. For team formats and scoring ideas, see our guide to [family Bible trivia night](/blog/family-bible-trivia-night).
 
 The stories behind the hardest questions are worth reading together: our five-minute retellings of [Balaam's donkey](/blog/balaams-donkey-for-kids) and [wandering in the wilderness](/blog/wandering-in-the-wilderness-for-kids) cover the book's two biggest scenes, and the story of [Moses](/blog/who-was-moses-for-kids) ties the whole journey together. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through the wilderness years episode by episode with a quiz after each one. For the bigger picture, mix this round into our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids).
+
+Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
 ## Frequently Asked Questions
 

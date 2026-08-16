@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "18 2 John Bible trivia questions with answers and verse references -- easy to hard rounds from the book with the fewest verses in the whole Bible."
 keywords: ["2 john bible trivia", "2 john quiz questions", "questions about the book of 2 john", "2 john bible questions and answers", "second john trivia", "shortest books of the bible trivia"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 18 2 John Bible trivia questions cover the book with the fewest verses in the entire Bible -- just 13 -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds, so the whole family can play together.
@@ -71,6 +71,8 @@ Both readings are old, and both make sense of the letter -- so it's a great one 
 The best way to play 2 John trivia is to read the entire book aloud first -- it takes about a minute -- then quiz immediately and watch who was paying attention. It makes a perfect "mystery book" round in a [family Bible trivia night](/blog/family-bible-trivia-night), and kids love the bragging rights of having read a complete book of the Bible in one sitting. Pair it with our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids) to build out a full game.
 
 2 John is also a natural doorway into two bigger topics: the command to [love one another](/blog/love-one-another-for-kids), which John says is not new but "from the beginning," and where the tiny letters sit in the [books of the Bible](/blog/books-of-the-bible-for-kids) -- tucked near the very end, right before Jude and Revelation. If your kids enjoy the elder himself, John appears throughout the Gospels as one of [the twelve apostles](/blog/the-twelve-apostles-for-kids), and our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair his stories with quizzes kids actually ask to take.
+
+If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-trivia-for-kids) pulls questions from every part of Scripture.
 
 ## Frequently Asked Questions
 

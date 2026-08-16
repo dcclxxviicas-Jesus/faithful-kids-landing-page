@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "35 Daniel Bible trivia questions with answers and verse references -- lions' den, fiery furnace, and writing on the wall, sorted easy to expert."
 keywords: ["daniel bible trivia", "daniel quiz questions", "questions about the book of daniel", "daniel bible questions and answers", "daniel in the lions den trivia", "fiery furnace quiz questions"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 35 Daniel Bible trivia questions cover the lions' den, the fiery furnace, the writing on the wall, and the dreams that troubled two Babylonian kings -- with answers and verse references after every question. They're sorted into easy, medium, and hard rounds so ages 5 through adult can play the same game.
@@ -82,6 +82,8 @@ One more timeline anchor worth teaching: Daniel 5 and 6 happen back-to-back in h
 Play it as six story rounds -- food test, statue dream, furnace, grass-eating king, wall writing, lions' den -- and let kids retell each story after its questions. The easy round works from age five up since these are the most-illustrated stories in children's Bibles; the hard round is genuinely hard, so make parents take it. For team formats and scorekeeping, use our [family Bible trivia night](/blog/family-bible-trivia-night) playbook.
 
 If a story is fuzzy, catch up fast with our kid-friendly retellings of [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids), [the fiery furnace](/blog/the-fiery-furnace-for-kids), [Nebuchadnezzar's dream](/blog/nebuchadnezzars-dream-for-kids), and [the writing on the wall](/blog/the-writing-on-the-wall-for-kids). And our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover the whole book of Daniel as an animated series with a quiz after every episode -- the best trivia prep there is.
+
+Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
 ## Frequently Asked Questions
 

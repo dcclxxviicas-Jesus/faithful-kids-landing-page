@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "27 Ezra Bible trivia questions with answers and verse references -- Cyrus's decree, the temple rebuild, and Ezra the scribe, easy to hard."
 keywords: ["ezra bible trivia", "ezra quiz questions", "questions about the book of ezra", "ezra bible questions and answers", "book of ezra trivia", "rebuilding the temple quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 27 Ezra Bible trivia questions cover the great return from exile -- Cyrus's decree, the rebuilding of the temple, and the scribe who taught a nation its own Bible again. Answers with verse references follow every question, sorted into easy, medium, and hard rounds by age.
@@ -87,6 +87,8 @@ Ezra works best as a story night: read a chapter aloud, then ask that chapter's 
 If your kids are new to this era, three short reads set up the whole book: [Cyrus sets them free](/blog/cyrus-sets-them-free-for-kids), [rebuilding the temple](/blog/rebuilding-the-temple-for-kids), and [Ezra reads the Law](/blog/ezra-reads-the-law-for-kids). Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover the return from exile in short episodes with a quiz after each one, which makes the Persian kings much easier to keep straight.
 
 Ready for more? Our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) spans the whole story from Creation to this very return.
+
+For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
 ## Frequently Asked Questions
 

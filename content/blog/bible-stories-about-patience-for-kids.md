@@ -1,9 +1,11 @@
 ---
-title: "10 Bible Stories About Patience for Kids (Waiting on God)"
+title: "11 Bible Stories About Patience for Kids (Waiting on God)"
 slug: "bible-stories-about-patience-for-kids"
 type: "listicle"
-metaDescription: "10 Bible stories about patience for kids. From Abraham waiting for Isaac to Joseph in prison, teach your child to wait on God."
-keywords: ["bible stories about patience for kids", "patience bible stories children", "waiting on God for kids", "teaching patience bible"]
+metaDescription: "11 Bible stories about patience for kids. From Abraham waiting for Isaac to Joseph in prison, teach your child to wait on God."
+keywords: ["bible stories about patience for kids", "11 bible stories about patience", "patience bible stories children", "waiting on God for kids", "teaching patience bible"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-15"
 ---
 
 If there is one virtue that every parent wishes they could download straight into their child's brain, it is patience. The "Are we there yet?" on a road trip, the meltdown when dinner takes five more minutes, the frustration when a new skill does not come instantly -- kids struggle with waiting, and honestly, so do we.
@@ -66,7 +68,13 @@ The apostle Paul traveled all over the world telling people about Jesus, but he 
 
 **Talk about it:** "Paul turned his waiting time into something amazing. How can we use our waiting time for good?"
 
-## 10. Jesus in the Garden of Gethsemane (Matthew 26:36-46)
+## 10. Zechariah and Elizabeth Wait for a Baby (Luke 1:5-25, 57-80)
+
+Zechariah and Elizabeth prayed for a child for their entire marriage -- and the answer did not come until they were old and gray. When the angel Gabriel finally appeared to Zechariah in the temple and announced that Elizabeth would have a son, Zechariah could hardly believe it. Because he doubted, God gave him an unusual assignment in patience: nine months of complete silence, unable to speak a single word until the baby arrived. When John was born and Zechariah wrote "His name is John," his voice returned -- and the first thing he did was praise God. Their son grew up to be John the Baptist, the one who prepared the way for Jesus. Some prayers take decades to answer, and they are still worth praying.
+
+**Talk about it:** "Zechariah had to stay completely quiet for nine whole months. What do you think he was thinking about all that time?"
+
+## 11. Jesus in the Garden of Gethsemane (Matthew 26:36-46)
 
 On the night before He was crucified, Jesus went to a garden called Gethsemane to pray. He knew what was coming -- the pain, the betrayal, the cross. He asked His Father if there was another way. But then He said the most patient words in all of Scripture: "Not my will, but yours be done" (Luke 22:42). Jesus waited through the hardest night of His life because He trusted His Father's plan. And because He waited, because He did not run, the whole world was saved.
 

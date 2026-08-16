@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "37 1 Corinthians Bible trivia questions with answers and verse references -- the love chapter, the resurrection, and one messy church, easy to expert."
 keywords: ["1 corinthians bible trivia", "1 corinthians quiz questions", "questions about the book of 1 corinthians", "1 corinthians bible questions and answers", "love chapter quiz", "1 corinthians 13 trivia"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 37 1 Corinthians Bible trivia questions cover the love chapter, the Lord's Supper, the body with many parts, and the great resurrection chapter -- with answers and verse references after every question. They're sorted into easy, medium, and hard rounds so ages 5 through adult can play the same game.
@@ -75,6 +75,8 @@ That context turns chapter 13 from a greeting card into a thunderclap. "Love is 
 Play it in three themed rounds: the messy-church round (questions on divisions and the body), the love-chapter round, and the resurrection round -- chapter 15 questions make a natural grand finale. The fill-in-the-blank format lets young kids compete with teens on equal footing. For team setups and scorekeeping, use our [family Bible trivia night](/blog/family-bible-trivia-night) playbook.
 
 For the backstory, read [who was Paul](/blog/who-was-paul-for-kids), and for the letter's two most famous ideas retold at kid level, see [Love Is](/blog/love-is-for-kids) and [Faith, Hope, and Love](/blog/faith-hope-and-love-for-kids). Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair every story with a short animated video and a quiz -- perfect trivia training.
+
+Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
 ## Frequently Asked Questions
 

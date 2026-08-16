@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "38 1 Samuel Bible trivia questions with answers and verse references -- Hannah, Samuel, Saul, and David vs. Goliath, sorted easy to hard by age."
 keywords: ["1 samuel bible trivia", "1 samuel quiz questions", "questions about the book of 1 samuel", "1 samuel bible questions and answers", "david and goliath trivia", "king saul quiz questions"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 38 1 Samuel Bible trivia questions cover the whole book -- Hannah's prayer, the boy who heard God's voice at night, Israel's first king, and the most famous underdog fight in history. Answers with verse references are included after every question, sorted into easy, medium, and hard rounds by age.
@@ -72,6 +72,8 @@ The easy round is basically the David and Goliath story plus Samuel's childhood 
 If your kids need story prep, the fastest catch-up is [who was David](/blog/who-was-david-for-kids), plus the episode-length stories of [Hannah's prayer](/blog/hannahs-prayer-for-kids), [God calling Samuel](/blog/god-calls-samuel-for-kids), and [David and Goliath](/blog/david-and-goliath-for-kids). Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover the whole 1 Samuel storyline as a series, with a quiz after every episode -- kids who finish it will sweep this list.
 
 For more questions in this era, try our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids).
+
+Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
 ## Frequently Asked Questions
 

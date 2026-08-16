@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "36 2 Kings Bible trivia questions with answers and verse references -- Elijah's chariot, Elisha's miracles, and the fall of two kingdoms, easy to hard."
 keywords: ["2 kings bible trivia", "2 kings quiz questions", "questions about the book of 2 kings", "2 kings bible questions and answers", "elisha trivia questions", "naaman quiz questions"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 36 2 Kings Bible trivia questions cover the whole book -- Elijah's fiery exit, Elisha's astonishing miracles, boy kings, an angel routing an entire army, and the fall of both kingdoms. Answers with verse references follow every question, sorted into easy, medium, and hard rounds by age.
@@ -68,6 +68,8 @@ The first half belongs to the prophet Elisha, who asked for a double portion of 
 The easy and medium rounds are almost all Elisha, which makes a great themed night: read one miracle story aloud, then ask its question. Save the hard round's fall-of-the-kingdoms questions for teens -- they set up the whole exile era (and the book of Daniel). For team formats and scoring, see our [family Bible trivia night guide](/blog/family-bible-trivia-night).
 
 For story prep, the episode-length tellings of [Elijah taken to heaven](/blog/elijah-taken-to-heaven-for-kids), [Elisha's double portion](/blog/elisha-double-portion-for-kids), and [Naaman the leper](/blog/naaman-the-leper-for-kids) cover the first half of this list, while [good kings and bad kings](/blog/good-kings-and-bad-kings-for-kids) explains the second. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through the whole 2 Kings era with a quiz after every episode -- and for a broader challenge, try our [Old Testament trivia questions](/blog/old-testament-bible-trivia-for-kids).
+
+For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
 ## Frequently Asked Questions
 

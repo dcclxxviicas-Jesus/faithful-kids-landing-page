@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "28 Zechariah Bible trivia questions with answers -- night visions, the king on a donkey, and thirty pieces of silver, sorted easy to hard for families."
 keywords: ["zechariah bible trivia", "zechariah quiz questions", "questions about the book of zechariah", "zechariah bible questions and answers", "zechariah 9:9 trivia", "minor prophets trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 28 Zechariah Bible trivia questions cover the prophet's strange and wonderful night visions, the rebuilding of the temple, and the famous prophecies Jesus fulfilled -- with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
@@ -91,6 +91,8 @@ That's why Zechariah's most famous line lands the way it does. To a tiny provinc
 Start with the donkey (question 4) -- almost every kid knows Palm Sunday, and discovering that a prophet called the donkey five hundred years early is the "whoa" moment that sells the whole book. Run the easy round at dinner, use the vision questions as a draw-what-you-hear game for artsy kids (a flying scroll and a woman in a basket beg to be drawn), and save the thirty-pieces-of-silver thread for teens at [family Bible trivia night](/blog/family-bible-trivia-night) -- it's a straight line from Zechariah 11 to Judas.
 
 Sunday school teachers can pair this set with our [Haggai trivia questions](/blog/haggai-bible-trivia), since the two prophets preached to the same crowd in the same year. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) follow the same watch-then-quiz rhythm if your kids want more, and our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) covers the big picture from Creation to the exile.
+
+New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
 ## Frequently Asked Questions
 

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "28 Jonah Bible trivia questions with answers and verse references -- easy, medium, and hard rounds for family trivia night, Sunday school, or the car."
 keywords: ["jonah bible trivia", "jonah quiz questions", "questions about the book of jonah", "jonah bible questions and answers", "jonah and the whale trivia", "jonah trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 28 Jonah Bible trivia questions cover all four chapters of the book -- the storm, the fish, Nineveh, and the strange little plant at the end -- with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
@@ -91,6 +91,8 @@ It's also one of the few Old Testament books Jesus talked about directly. He cal
 Jonah is the ideal starter book for family trivia because even a 5-year-old can score points on the easy round. Try two questions per kid at dinner, run the whole set on a road trip (the story order carries you chapter by chapter), or use the medium round as a Sunday school review after teaching [the lesson of Jonah](/blog/jonah-the-lesson-for-kids). For a full evening with score sheets and prizes, fold these into a [family Bible trivia night](/blog/family-bible-trivia-night).
 
 One tip: let the "whale" question spark a conversation, not a correction. The point isn't to catch kids being wrong -- it's to send them back to the actual text, which is the whole skill you're building. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) do the same thing, pairing every Bible story with a quiz so kids learn to check the source. When they've mastered Jonah, level up to our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids).
+
+New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
 ## Frequently Asked Questions
 

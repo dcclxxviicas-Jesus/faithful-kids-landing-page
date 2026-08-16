@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "45 Genesis Bible trivia questions with answers and verse references, from easy to expert -- perfect for family trivia night, Sunday school, or the car."
 keywords: ["genesis bible trivia", "genesis quiz questions", "questions about the book of genesis", "genesis bible questions and answers", "genesis trivia for kids", "book of genesis quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 45 Genesis Bible trivia questions cover the whole book -- Creation, Noah, the Tower of Babel, Abraham, Jacob, and Joseph -- sorted into easy, medium, and hard rounds by age. The answer, in bold with a verse reference, comes right after every question, so anyone can run the game with zero prep.
@@ -79,6 +79,8 @@ Match the round to the kid and keep it short -- five questions at dinner beats f
 If a question exposes a story your kids don't know yet, that's the win -- go read it together. Our kid-friendly walkthroughs of [the book of Genesis](/blog/book-of-genesis-for-kids), [Noah and the great flood](/blog/noah-and-the-great-flood-for-kids), [who Abraham was](/blog/who-was-abraham-for-kids), and [who Joseph was](/blog/who-was-joseph-for-kids) cover the big ones in about five minutes each. And the video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through every Genesis story with a short video and a quiz after each episode -- basically trivia practice that feels like screen time.
 
 When your family has mastered Genesis, keep going with our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids), which picks up the story from here.
+
+Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
 ## Frequently Asked Questions
 

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "44 John Bible trivia questions with answers and verse references -- miracles, I Am statements, and Easter morning, sorted easy to expert."
 keywords: ["john bible trivia", "gospel of john quiz questions", "questions about the book of john", "john bible questions and answers", "gospel of john trivia for kids", "i am statements quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 44 John Bible trivia questions cover water turned to wine, Lazarus walking out of his tomb, the seven "I am" statements, and breakfast on the beach with the risen Jesus -- with answers and verse references after every question. They're sorted into easy, medium, and hard rounds so ages 5 through adult can play the same game.
@@ -92,6 +92,8 @@ Kids love spotting the pattern: the signs get bigger and bigger, from fixing a p
 Play it in story rounds -- the wedding at Cana, the woman at the well, the blind man, Lazarus, the last supper, the cross, Easter morning -- and let kids retell each story after its questions. The easy round works from age five up; the hard round is genuinely hard, so make the adults take it. For team formats and scorekeeping ideas, use our [family Bible trivia night](/blog/family-bible-trivia-night) playbook.
 
 If a story is fuzzy, catch up fast with our kid-friendly retellings of [water into wine](/blog/water-into-wine-for-kids), [the woman at the well](/blog/the-woman-at-the-well-for-kids), [the raising of Lazarus](/blog/the-raising-of-lazarus-for-kids), and [doubting Thomas](/blog/doubting-thomas-for-kids). And our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through the Gospel of John story by story with a quiz after every episode -- the best trivia prep there is.
+
+Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
 ## Frequently Asked Questions
 

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "27 Esther Bible trivia questions with answers and verse references -- Queen Esther, Mordecai, Haman, and Purim, sorted easy, medium, and hard."
 keywords: ["esther bible trivia", "esther quiz questions", "questions about the book of esther", "esther bible questions and answers", "queen esther trivia", "purim trivia questions"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 27 Esther Bible trivia questions cover the orphan girl who became queen of Persia and saved her people from destruction -- with answers and verse references after every question, sorted into easy, medium, and hard rounds by age. Several are trick questions, starting with the relative who raised Esther (it's not her uncle).
@@ -87,6 +87,8 @@ Esther is a ten-chapter story with a movie-perfect plot, so the best format is r
 If your kids need the story first, start with [who was Esther](/blog/who-was-esther-for-kids), then walk the plot in three parts: [Esther becomes queen](/blog/esther-becomes-queen-for-kids), [Haman's evil plot](/blog/hamans-evil-plot-for-kids), and [Esther saves her people](/blog/esther-saves-her-people-for-kids). Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) tell Esther's story in short animated episodes with a quiz after each one.
 
 Then widen the net with our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) -- Esther's book supplies its final trick question.
+
+New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
 ## Frequently Asked Questions
 

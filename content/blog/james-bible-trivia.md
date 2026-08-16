@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "28 James Bible trivia questions with answers and verse references -- easy to hard rounds on taming the tongue, faith and deeds, and more."
 keywords: ["james bible trivia", "james quiz questions", "questions about the book of james", "james bible questions and answers", "book of james trivia", "james bible quiz for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 28 James Bible trivia questions cover all five chapters of the New Testament's most practical book, with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so the whole family can play together.
@@ -87,6 +87,8 @@ Here's a detail worth sharing with older kids: James sounds more like Jesus' own
 Play one chapter per night at the dinner table -- James is five chapters, so it's a perfect five-day family challenge, and each chapter takes about four minutes to read aloud first. The tongue questions in chapter 3 spark the best conversations; our post on [taming the tongue for kids](/blog/taming-the-tongue-for-kids) turns that round into a full lesson, and [faith without works for kids](/blog/faith-without-works-for-kids) does the same for chapter 2.
 
 For a bigger event, add these rounds to a [family Bible trivia night](/blog/family-bible-trivia-night) or mix them with our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids). Since James 1:5 is all about asking God for wisdom, it also pairs nicely with our [Bible verses about wisdom for kids](/blog/bible-verses-about-wisdom-for-kids). And if your kids catch the quiz bug, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) follow every Bible story with a quiz, so the habit sticks.
+
+For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
 ## Frequently Asked Questions
 

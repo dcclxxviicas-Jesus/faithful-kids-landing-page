@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "30 Leviticus Bible trivia questions with answers and verse references -- offerings, the Day of Atonement, and 'love your neighbor,' sorted easy to hard."
 keywords: ["leviticus bible trivia", "leviticus quiz questions", "questions about the book of leviticus", "leviticus bible questions and answers", "leviticus trivia for kids", "book of leviticus quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 30 Leviticus Bible trivia questions cover the offerings, the priests, the Day of Atonement, the festivals, and the famous command to love your neighbor -- sorted into easy, medium, and hard rounds by age. Every answer is in bold right after its question, with a verse reference so you can check it in the text.
@@ -62,6 +62,8 @@ The book is named for the tribe of Levi, Israel's priestly tribe, and it reads l
 Don't run Leviticus as a marathon -- use it as a change-up round after your family has worn out the story books. Three or four questions at dinner is plenty, and the "did you know that's in the Bible?" reactions (wages, honest scales, standing up for the elderly) start better conversations than most story questions do. For formats, scorekeeping, and prize ideas, see our guide to [family Bible trivia night](/blog/family-bible-trivia-night).
 
 Because Leviticus leans on what came before it, a quick refresher helps: the tabernacle these offerings were brought to is built at the end of [the book of Exodus](/blog/book-of-exodus-for-kids), and Aaron's whole story starts alongside [Moses](/blog/who-was-moses-for-kids). The festivals in question 21 all grow out of [the first Passover](/blog/the-passover-for-kids). Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover the Exodus-to-Sinai storyline episode by episode, each with a quiz -- good background before tackling the hard round. And when you're ready to zoom back out, try our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids).
+
+Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
 ## Frequently Asked Questions
 

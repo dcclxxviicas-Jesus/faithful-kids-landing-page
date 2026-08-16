@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "22 Haggai Bible trivia questions with answers and verse references -- easy to hard rounds on the prophet who got God's temple rebuilt."
 keywords: ["haggai bible trivia", "haggai quiz questions", "questions about the book of haggai", "haggai bible questions and answers", "minor prophets trivia for kids", "haggai temple quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 22 Haggai Bible trivia questions cover both chapters of the book -- the paneled houses, the purse with holes in it, and the promise that God's presence makes a small start greater than a glorious past -- with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
@@ -79,6 +79,8 @@ Then, in 520 BC, Haggai started preaching -- and something almost unheard of in 
 Start with question 7 -- the purse with holes in it -- because every kid instantly gets the picture, and it opens the door to Haggai's whole message about putting God first. Run the easy round at dinner, use the medium round for Sunday school (it pairs perfectly with a lesson on the return from exile), and save the hard round for [family Bible trivia night](/blog/family-bible-trivia-night) when the adults need humbling -- almost nobody knows question 19.
 
 Haggai also makes a great five-minute read-aloud: two chapters, one sitting. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) follow the same watch-then-quiz rhythm if your kids like learning this way. For the bigger sweep from Creation to the exile and back, keep our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) in the rotation, and the [Ezra trivia questions](/blog/ezra-bible-trivia) tell the other half of this same rebuilding story.
+
+Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
 ## Frequently Asked Questions
 

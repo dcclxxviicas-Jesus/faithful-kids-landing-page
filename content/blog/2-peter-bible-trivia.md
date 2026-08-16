@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "22 2 Peter Bible trivia questions with answers and verse references -- easy to hard rounds covering Peter's final letter, for family trivia night."
 keywords: ["2 peter bible trivia", "2 peter quiz questions", "questions about the book of 2 peter", "2 peter bible questions and answers", "second peter trivia", "new testament trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 22 2 Peter Bible trivia questions cover the apostle's short, urgent final letter -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds, so the whole family can play together.
@@ -79,6 +79,8 @@ Peter also gives one of the Bible's clearest pictures of what we're waiting for:
 Start with the easy round at dinner and let the youngest kids run up the score -- then flip the table and make the adults take the hard round cold. Because 2 Peter is only 61 verses, you can read the whole book aloud in under ten minutes first, which turns the quiz into a memory game instead of a guessing game. For a bigger event, fold these into a [family Bible trivia night](/blog/family-bible-trivia-night) or pair them with our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids) for a full evening.
 
 The book also opens great conversations: Peter's ladder in 1:5-7 makes a fun memory challenge (who can recite all eight rungs?), and the [story of who Peter was](/blog/who-was-peter-for-kids) -- including [how Jesus restored him after his worst failure](/blog/peter-is-restored-for-kids) -- helps kids feel the weight of a man writing his last letter. If your kids get hooked on the talking donkey, [Balaam's story](/blog/balaams-donkey-for-kids) is the natural next read, and our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair stories like [Noah's ark](/blog/noah-and-the-great-flood-for-kids) with quizzes so the habit keeps going all week.
+
+Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
 ## Frequently Asked Questions
 

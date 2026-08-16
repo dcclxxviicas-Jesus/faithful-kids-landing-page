@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "20 Nahum Bible trivia questions with answers and verse references -- the sequel to Jonah's story, sorted into easy, medium, and hard rounds."
 keywords: ["nahum bible trivia", "nahum quiz questions", "questions about the book of nahum", "nahum bible questions and answers", "book of nahum trivia", "minor prophets trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 20 Nahum Bible trivia questions cover all three chapters of the Old Testament's least-quizzed book, with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
@@ -81,6 +81,8 @@ That background is what turns Nahum's closing line into the book's mic drop: "ev
 The best way to run Nahum trivia is as a double feature: quiz [Jonah](/blog/jonah-the-lesson-for-kids) first, then reveal that the story has a sequel and run this set. Kids who just aced the fish questions are genuinely stunned that Nineveh shows up again -- and the "second chance squandered" arc sticks with them. For a bigger event, use Nahum as the expert round at a [family Bible trivia night](/blog/family-bible-trivia-night); almost no adult sees these questions coming.
 
 Because the medium and hard rounds reward close reading, this book works especially well for [teens](/blog/bible-trivia-for-teens) -- hand them the three chapters, give them ten minutes, then quiz. If your kids like learning Bible stories through questions, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) end every episode the same way. And for the full sweep from Genesis to the prophets, keep our [Old Testament trivia questions](/blog/old-testament-bible-trivia-for-kids) handy.
+
+For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
 ## Frequently Asked Questions
 

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "25 2 Timothy Bible trivia questions with answers and verse references -- easy to hard rounds from Paul's final letter, perfect for family trivia night."
 keywords: ["2 timothy bible trivia", "2 timothy quiz questions", "questions about the book of 2 timothy", "2 timothy bible questions and answers", "second timothy trivia", "pauls letters trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 25 2 Timothy Bible trivia questions cover Paul's final letter -- his last recorded words before his death -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so the whole family can play together.
@@ -85,6 +85,8 @@ The chapter-4 details make it feel like a real goodbye. Paul asks Timothy to hur
 Start with the easy round at dinner and let the youngest kids score first -- 2 Timothy is short enough that you can read a whole chapter aloud in about three minutes before quizzing on it. For a bigger event, fold these into a [family Bible trivia night](/blog/family-bible-trivia-night) as the "Paul's last letter" round, or combine them with our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids) for a full evening.
 
 This book also pairs naturally with memory work, since 2 Timothy 1:7 and 3:16 are two of the best first verses for kids to learn -- our list of [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) includes both. And if your family gets hooked on quizzing, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair every Bible story with a built-in quiz, so the habit keeps going all week.
+
+Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
 ## Frequently Asked Questions
 

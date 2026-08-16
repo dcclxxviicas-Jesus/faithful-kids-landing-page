@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "38 Hebrews Bible trivia questions with answers and verse references -- easy to expert rounds covering the faith hall of fame, Melchizedek, and more."
 keywords: ["hebrews bible trivia", "hebrews quiz questions", "questions about the book of hebrews", "hebrews bible questions and answers", "book of hebrews trivia", "hebrews 11 trivia"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 38 Hebrews Bible trivia questions cover the whole book -- from Jesus and the angels to Melchizedek to the famous "faith hall of fame" in chapter 11 -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so the whole family can play together.
@@ -105,6 +105,8 @@ Here's the plain truth about the author: nobody knows who wrote Hebrews. The let
 Run the easy round at dinner, then save chapter 11 questions for a "faith hall of fame" lightning round -- kids who know their Old Testament heroes will clean up, and our post on the [faith hall of fame for kids](/blog/faith-hall-of-fame-for-kids) is a perfect warm-up read. Since so many Hebrews 11 answers are Old Testament characters, it pairs well with our guides to [Abraham](/blog/who-was-abraham-for-kids) and [Moses](/blog/who-was-moses-for-kids).
 
 For a bigger event, make Hebrews the "champion round" of a [family Bible trivia night](/blog/family-bible-trivia-night) -- the Melchizedek questions will stump most adults. Teens who breeze through can graduate to our [Bible trivia for teens](/blog/bible-trivia-for-teens), and if the quizzing habit sticks, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair every Bible story with a quiz kids actually want to take.
+
+New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
 ## Frequently Asked Questions
 

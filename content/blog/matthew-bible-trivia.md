@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "45 Matthew Bible trivia questions with answers and verse references -- wise men to the Great Commission, sorted easy, medium, and hard for family night."
 keywords: ["matthew bible trivia", "matthew quiz questions", "questions about the book of matthew", "matthew bible questions and answers", "gospel of matthew trivia for kids", "sermon on the mount quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 45 Matthew Bible trivia questions cover the whole first Gospel -- the wise men, the Sermon on the Mount, the miracles, the parables, and the empty tomb -- with an answer and verse reference after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so the whole family can play at once.
@@ -119,6 +119,8 @@ The Gospel is formally anonymous, but early church tradition attributes it to Ma
 Run the easy round at dinner, hand the medium round to your grade-schoolers, and save questions 31-45 for when the adults get cocky at [family Bible trivia night](/blog/family-bible-trivia-night) -- question 33 alone will humble most grown-ups. In the car, the questions work in story order: birth, baptism, sermon, miracles, holy week, resurrection, so each answer sets up the next one.
 
 For catch-up before you play, the fastest prep is a story refresher: [Matthew the tax collector](/blog/matthew-the-tax-collector-for-kids) for the author, [the wise men](/blog/the-wise-men-for-kids) for the opening chapters, and [the Sermon on the Mount](/blog/the-sermon-on-the-mount-for-kids) for the big middle block. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through these same stories with a short video and a quiz after each episode. When you've mastered Matthew, move to the next Gospel with our [Mark Bible trivia](/blog/mark-bible-trivia) or zoom out with [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids).
+
+Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
 ## Frequently Asked Questions
 

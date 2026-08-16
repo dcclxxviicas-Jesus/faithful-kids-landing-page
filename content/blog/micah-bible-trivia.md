@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "25 Micah Bible trivia questions with answers and verse references -- from the Bethlehem prophecy to Micah 6:8, sorted easy, medium, and hard."
 keywords: ["micah bible trivia", "micah quiz questions", "questions about the book of micah", "micah bible questions and answers", "micah 6:8 trivia", "minor prophets trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 25 Micah Bible trivia questions cover the whole book -- the Bethlehem prophecy, the famous "act justly" verse, and the courtroom scene where God puts his own people on trial -- with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
@@ -85,6 +85,8 @@ The other verse every family should know is Micah 6:8: "Act justly, love mercy, 
 Run the easy round at dinner during Advent -- the Bethlehem questions make Micah the perfect December prophet -- then save the medium and hard rounds for a [family Bible trivia night](/blog/family-bible-trivia-night) where teens have to earn their points. Sunday school teachers can pair questions 9-12 with a lesson on [Isaiah's promise](/blog/isaiahs-promise-for-kids), since the two prophets preached side by side.
 
 Micah 6:8 also makes a great weekly memory verse challenge: kids recite it, then name one concrete way to "act justly" that day. If your family enjoys learning this way, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each Bible story with a quiz kids actually want to finish. For more questions across the whole era of the prophets, jump to our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids).
+
+If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-trivia-for-kids) pulls questions from every part of Scripture.
 
 ## Frequently Asked Questions
 

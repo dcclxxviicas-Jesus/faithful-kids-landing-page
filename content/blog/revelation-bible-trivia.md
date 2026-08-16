@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "36 Revelation Bible trivia questions with answers and verse references -- easy to hard rounds on the seven churches, heaven's throne room, and the new earth."
 keywords: ["revelation bible trivia", "revelation quiz questions", "questions about the book of revelation", "revelation bible questions and answers", "book of revelation trivia for kids", "seven churches of revelation quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 36 Revelation Bible trivia questions cover the last book of the Bible -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds, and they focus on the parts of Revelation families enjoy most: the seven churches, heaven's throne room, and the new heaven and new earth.
@@ -107,6 +107,8 @@ For young kids, three scenes carry the whole book: Jesus among the lampstands sa
 Run this as three separate games rather than one marathon: the easy round works at dinner with any age, the medium round makes a great "heaven round" for Sunday school, and the hard round is a genuine challenge for teens and adults -- the seven-churches questions stump almost everyone. For a full evening, mix these into a [family Bible trivia night](/blog/family-bible-trivia-night) or pair them with our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids).
 
 Revelation also pairs naturally with conversation. The promise that Jesus is [coming soon](/blog/behold-i-am-coming-soon-for-kids) and the picture of a world with no more tears give kids concrete, hopeful answers when they ask [what heaven is like](/blog/explaining-death-and-heaven-to-kids). Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk through the throne room and the new creation scenes at a kid's pace, with a quiz after every episode -- the same watch-then-quiz rhythm these questions use.
+
+For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
 ## Frequently Asked Questions
 

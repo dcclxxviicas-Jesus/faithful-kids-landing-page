@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "43 Exodus Bible trivia questions with answers and verse references -- Moses, the plagues, the Red Sea, and Sinai, sorted easy to hard for all ages."
 keywords: ["exodus bible trivia", "exodus quiz questions", "questions about the book of exodus", "exodus bible questions and answers", "moses trivia for kids", "book of exodus quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 43 Exodus Bible trivia questions follow the story from baby Moses in the basket to the glory of God filling the finished tabernacle, sorted into easy, medium, and hard rounds by age. Every answer appears in bold right after its question, with the verse reference so you can settle any dinner-table dispute on the spot.
@@ -75,6 +75,8 @@ The book falls into two halves. Chapters 1-18 are the rescue: Moses' birth, the 
 Run them in story order and Exodus practically teaches itself -- each answer sets up the next scene, which makes this list perfect for long car rides. At the dinner table, try two questions per kid per night; in Sunday school, use the easy round as a warm-up and the medium round as review. For team play, scorekeeping, and prize ideas, see our guide to [family Bible trivia night](/blog/family-bible-trivia-night).
 
 When a question reveals a gap, fill it with the story itself. Our five-minute retellings cover the key scenes: [who was Moses](/blog/who-was-moses-for-kids), [the ten plagues](/blog/the-ten-plagues-for-kids), [crossing the Red Sea](/blog/crossing-the-red-sea-for-kids), and [the golden calf](/blog/the-golden-calf-for-kids). For the full sweep of the book, start with [the book of Exodus for kids](/blog/book-of-exodus-for-kids) -- and if your family likes learning by quizzing, the video lessons at [Faithful Kids](https://faithfulkids.app/quiz) turn every one of these Exodus stories into a short video with a quiz after each episode.
+
+Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
 ## Frequently Asked Questions
 

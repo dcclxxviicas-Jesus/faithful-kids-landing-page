@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "20 Jude Bible trivia questions with answers and verse references -- easy to hard rounds on the one-chapter letter likely written by Jesus' own brother."
 keywords: ["jude bible trivia", "jude quiz questions", "questions about the book of jude", "jude bible questions and answers", "book of jude trivia", "new testament trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 20 Jude Bible trivia questions cover the one-chapter letter tucked right before Revelation -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds, so the whole family can play together.
@@ -75,6 +75,8 @@ Enoch himself is a genuine Genesis mystery kids love: "Enoch walked faithfully w
 Jude rewards a read-aloud: the whole book takes about four minutes, and the imagery -- wild waves, wandering stars, clouds without rain -- keeps even squirmy kids listening. Quiz immediately afterward, easy round first, and save the Enoch and Michael questions for the adults; they stump nearly everyone. These make a killer "book nobody studied" round in a [family Bible trivia night](/blog/family-bible-trivia-night), or fold them into our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids) for a full evening.
 
 Jude also connects to stories your kids may already know: [Cain and Abel](/blog/cain-and-abel-for-kids), [Balaam and his talking donkey](/blog/balaams-donkey-for-kids), and Israel's [years in the wilderness](/blog/wandering-in-the-wilderness-for-kids), where Korah's rebellion happened. Reading those first turns Jude's rapid-fire warnings into familiar faces. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover these stories with a quiz after every episode -- and don't confuse this Jude with Judas Iscariot, which is exactly why translators gave him a different English name.
+
+If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-trivia-for-kids) pulls questions from every part of Scripture.
 
 ## Frequently Asked Questions
 

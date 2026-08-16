@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "20 Obadiah Bible trivia questions with answers and verse references -- easy to hard rounds from the shortest book in the Old Testament."
 keywords: ["obadiah bible trivia", "obadiah quiz questions", "questions about the book of obadiah", "obadiah bible questions and answers", "book of obadiah trivia", "minor prophets trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 20 Obadiah Bible trivia questions cover the shortest book in the Old Testament -- just 21 verses -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds, so the whole family can play together.
@@ -77,6 +77,8 @@ One more detail kids find fascinating: those "clefts of the rocks" (the Hebrew w
 Start with the easy round at the dinner table and let younger kids rack up points -- with only 21 verses, you can read the entire book of Obadiah out loud in about three minutes first, which turns the quiz into a memory game instead of a stumper. For a bigger event, mix these into a [family Bible trivia night](/blog/family-bible-trivia-night) as the "mystery book" round, or pair them with our [Old Testament trivia questions](/blog/old-testament-bible-trivia-for-kids) for a full evening.
 
 Obadiah also works great as a "books of the Bible" teaching moment -- kids love that they can finish an entire book of Scripture in one sitting. If yours get hooked, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each Bible story with a quiz, so the trivia habit keeps going all week. For a map of where Obadiah fits among the twelve Minor Prophets, see our guide to the [books of the Bible for kids](/blog/books-of-the-bible-for-kids).
+
+You can also mix in questions from our [family-friendly Bible trivia](/blog/bible-trivia-for-kids) collection.
 
 ## Frequently Asked Questions
 

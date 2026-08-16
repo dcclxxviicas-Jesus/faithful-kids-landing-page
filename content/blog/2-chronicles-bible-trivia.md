@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "33 2 Chronicles Bible trivia questions with answers and verse references -- Solomon's temple, the kings of Judah, and the exile, easy to hard."
 keywords: ["2 chronicles bible trivia", "2 chronicles quiz questions", "questions about the book of 2 chronicles", "2 chronicles bible questions and answers", "second chronicles trivia", "kings of judah trivia"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 33 2 Chronicles Bible trivia questions cover Solomon's temple, the Queen of Sheba, and the roller-coaster kings of Judah -- from an eight-year-old on the throne to the most wicked king who repented. Answers with verse references follow every question, sorted into easy, medium, and hard rounds by age.
@@ -97,6 +97,8 @@ Run the easy round as a warm-up at dinner or in the car, then let older kids tac
 If the kings blur together for your kids (they do for most adults), our kid-friendly walkthroughs help: [Solomon asks for wisdom](/blog/solomon-asks-for-wisdom-for-kids), [the temple is dedicated](/blog/the-temple-is-dedicated-for-kids), [good kings and bad kings](/blog/good-kings-and-bad-kings-for-kids), and [Judah falls to Babylon](/blog/judah-falls-to-babylon-for-kids) cover the book's whole arc. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) turn this same era into short episodes with a quiz after each one -- the kings finally stick.
 
 Then keep going with our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids), which spans Genesis to the prophets.
+
+New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
 ## Frequently Asked Questions
 

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "24 1 John Bible trivia questions with answers and verse references -- easy to hard rounds on the Bible's great letter about love, light, and truth."
 keywords: ["1 john bible trivia", "1 john quiz questions", "questions about the book of 1 john", "1 john bible questions and answers", "first john trivia", "new testament trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 24 1 John Bible trivia questions cover the New Testament's great letter about love, light, and truth -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds, so the whole family can play together.
@@ -83,6 +83,8 @@ For kids, this makes 1 John the most practical book in the Bible about how to tr
 Run the easy round as a fill-in-the-blank game -- 1 John's famous verses are so short that even pre-readers can shout the missing word. For older kids, turn the medium round into a Bible drill: call the reference, race to find it, read it aloud, then ask the question. These slot perfectly into a [family Bible trivia night](/blog/family-bible-trivia-night) as a "love round," or combine them with our full set of [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids).
 
 1 John is also one of the best books for memory work -- 1 John 4:19 ("We love because he first loved us") may be the easiest first memory verse in the Bible, and our list of [Bible verses about love for kids](/blog/bible-verses-about-love-for-kids) pairs well with it. If your kids want the backstory on the man behind the letter, John was one of [the first disciples Jesus called](/blog/the-first-disciples-for-kids), and our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk through his story with a quiz after every episode. For the Cain question, the original story is in our guide to [Cain and Abel](/blog/cain-and-abel-for-kids).
+
+If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-trivia-for-kids) pulls questions from every part of Scripture.
 
 ## Frequently Asked Questions
 

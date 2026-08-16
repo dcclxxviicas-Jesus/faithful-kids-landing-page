@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "28 Galatians Bible trivia questions with answers and verse references -- the fruit of the Spirit, freedom in Christ, and Paul's most fiery letter."
 keywords: ["galatians bible trivia", "galatians quiz questions", "questions about the book of galatians", "galatians bible questions and answers", "fruit of the spirit quiz", "fruit of the spirit trivia for kids"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 28 Galatians Bible trivia questions cover the fruit of the Spirit, freedom in Christ, and the day Paul confronted Peter face to face -- with answers and verse references after every question. They're sorted into easy, medium, and hard rounds so ages 5 through adult can play the same game.
@@ -72,6 +72,8 @@ But the heat comes from love, and that's the conversation worth having with kids
 Galatians makes a perfect one-evening game: easy round before dinner, medium round during, hard round for dessert. Since the fruit of the Spirit anchors the whole quiz, start by having everyone recite the nine together -- then award a bonus point any time a player can name which fruit a question's answer displays. For team formats and scorekeeping, use our [family Bible trivia night](/blog/family-bible-trivia-night) playbook.
 
 For the backstory, read [who was Paul](/blog/who-was-paul-for-kids) and [Paul's first journey](/blog/pauls-first-journey-for-kids) -- the trip where the Galatian churches were born. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair Paul's adventures with short animated videos and a quiz after every episode, so the medium round starts feeling easy fast.
+
+Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
 ## Frequently Asked Questions
 

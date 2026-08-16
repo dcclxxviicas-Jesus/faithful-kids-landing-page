@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "35 2 Samuel Bible trivia questions with answers and verse references -- King David's reign, triumphs, and failures, sorted easy to hard by age."
 keywords: ["2 samuel bible trivia", "2 samuel quiz questions", "questions about the book of 2 samuel", "2 samuel bible questions and answers", "king david trivia questions", "david and bathsheba quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 35 2 Samuel Bible trivia questions cover King David's entire forty-year reign -- capturing Jerusalem, dancing before the ark, God's forever promise, the Bathsheba disaster, and Absalom's rebellion. Answers with verse references follow every question, sorted into easy, medium, and hard rounds by age.
@@ -67,6 +67,8 @@ The hinge of the whole book is God's covenant in chapter 7: David wants to build
 Play it in two halves, the way the book itself splits: rounds on David's rise (questions 1-15) one night, and David's fall and restoration (questions 16-35) another -- the second half is genuinely better with teens, since it raises real questions about consequences and repentance. For scoring formats and team ideas, our [family Bible trivia night guide](/blog/family-bible-trivia-night) has everything ready to go.
 
 For story prep, start with [who was David](/blog/who-was-david-for-kids), then the episode-length tellings of [David becoming king](/blog/david-becomes-king-for-kids), [God's promise to David](/blog/gods-promise-to-david-for-kids), [David and Mephibosheth](/blog/david-and-mephibosheth-for-kids), and -- for older kids -- [David's big mistake](/blog/davids-big-mistake-for-kids). Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover the full 2 Samuel arc as a series with a quiz after each episode.
+
+Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
 ## Frequently Asked Questions
 

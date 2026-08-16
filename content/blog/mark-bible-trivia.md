@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "40 Mark Bible trivia questions with answers and verse references -- the fast-paced Gospel from Jesus' baptism to the empty tomb, sorted easy to hard."
 keywords: ["mark bible trivia", "mark quiz questions", "questions about the book of mark", "mark bible questions and answers", "gospel of mark trivia for kids", "shortest gospel quiz"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 40 Mark Bible trivia questions cover the shortest, fastest Gospel from Jesus' baptism to the empty tomb -- the storm, the pigs, Jairus's daughter, blind Bartimaeus, and the centurion at the cross -- with an answer and verse reference after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
@@ -109,6 +109,8 @@ The Gospel is formally anonymous, but early church tradition attributes it to Jo
 Because Mark moves in strict story order, these questions work beautifully as a road-trip game -- start at question 1 and the answers retell the whole Gospel by the time you park. At the dinner table, give the little ones the easy round (the four fishermen and the [calming of the storm](/blog/calming-the-storm-for-kids) are stories they likely already know), and save the "only in Mark" details for the adults at [family Bible trivia night](/blog/family-bible-trivia-night) -- question 37 wins the night every time.
 
 For pre-game prep, our story pages on [Jairus's daughter](/blog/jairus-daughter-for-kids) and [the feeding of the five thousand](/blog/feeding-the-five-thousand-for-kids) cover the two biggest miracle questions, and our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each of these stories with a short quiz. Then keep the streak going with our [Matthew Bible trivia](/blog/matthew-bible-trivia) or the full [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids).
+
+New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
 ## Frequently Asked Questions
 

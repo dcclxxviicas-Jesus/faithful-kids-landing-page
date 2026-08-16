@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "20 Philemon Bible trivia questions with answers and verse references -- easy to hard rounds from the shortest of Paul's letters, just 25 verses long."
 keywords: ["philemon bible trivia", "philemon quiz questions", "questions about the book of philemon", "philemon bible questions and answers", "book of philemon trivia", "onesimus trivia"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 20 Philemon Bible trivia questions cover the shortest of Paul's letters -- just one chapter and 25 verses -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so the whole family can play together.
@@ -77,6 +77,8 @@ That's also what makes the letter such a vivid picture of what Jesus does for us
 Read the whole letter aloud first -- it takes about two minutes -- and then quiz, which turns trivia into a memory game and guarantees even the youngest kids can score. Philemon makes a great "mystery book" round at a [family Bible trivia night](/blog/family-bible-trivia-night), since almost no adult can answer these cold. Afterward, talk through the big question together: why did Paul ask instead of command?
 
 For more rounds, pull from our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids), and use our [books of the Bible for kids](/blog/books-of-the-bible-for-kids) guide to show where this one-page letter hides between Titus and Hebrews. If your kids catch the quizzing bug, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair every Bible story with a quiz and keep the streak going all week.
+
+Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
 ## Frequently Asked Questions
 

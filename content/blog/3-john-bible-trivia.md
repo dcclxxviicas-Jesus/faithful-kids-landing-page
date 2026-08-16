@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "18 3 John Bible trivia questions with answers and verse references -- easy to hard rounds from the shortest book in the entire Bible."
 keywords: ["3 john bible trivia", "3 john quiz questions", "questions about the book of 3 john", "3 john bible questions and answers", "third john trivia", "shortest book in the bible"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-15"
 ---
 
 These 18 3 John Bible trivia questions cover the shortest book in the entire Bible by word count -- with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds, so the whole family can play together.
@@ -71,6 +71,8 @@ That brevity hides this book's most famous trivia fact: 3 John is the only book 
 Read the whole book aloud first -- it takes about a minute -- then quiz right away and see who caught the three names: Gaius, Diotrephes, Demetrius. Kids remember the characters fastest as "the kind one, the bossy one, and the trusted one," and the Diotrephes question opens an easy conversation about what "loving to be first" looks like at school. These work beautifully as the mystery round in a [family Bible trivia night](/blog/family-bible-trivia-night), or paired with our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids) for a longer game.
 
 For a fun "battle of the shortest books," play this set back-to-back with our [Obadiah trivia](/blog/obadiah-bible-trivia) -- the Old Testament's shortest book -- and let kids debate which one they'd memorize. Our guide to the [books of the Bible for kids](/blog/books-of-the-bible-for-kids) shows where these tiny letters sit, and if the quiz habit sticks, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair every Bible story with its own quiz.
+
+New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
 ## Frequently Asked Questions
 

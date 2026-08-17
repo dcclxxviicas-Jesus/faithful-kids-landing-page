@@ -42,6 +42,7 @@ export const ADMIN_TZ = 'America/New_York'
 
 // Build/test + friends-and-family Stripe accounts, excluded from "organic" numbers
 const TEST_EMAILS = new Set([
+  'reviewer@faithfulkids.app', // directory/press reviewer test account (no Stripe)
   'cristo7005@gmail.com',
   'christianashaman@gmail.com',
   'christianshaman77@gmail.com',

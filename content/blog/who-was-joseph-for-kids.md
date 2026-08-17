@@ -4,6 +4,8 @@ slug: "who-was-joseph-for-kids"
 type: "listicle"
 metaDescription: "Who was Joseph? The coat of many colors, his brothers' betrayal, prison, dreams, and forgiveness explained simply for kids. Bible story from Genesis 37-50."
 keywords: ["who was joseph for kids", "joseph coat of many colors for kids", "joseph bible story children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Joseph? Bible Story for Kids
@@ -18,7 +20,7 @@ Joseph was the eleventh of Jacob's twelve sons. He was also Jacob's favorite -- 
 
 Joseph's brothers saw the coat and burned with jealousy. They hated Joseph. To make things worse, Joseph had two dreams that made his brothers even angrier. In the first dream, the brothers' bundles of grain bowed down to Joseph's bundle. In the second, the sun, moon, and eleven stars bowed to him. The meaning was clear: Joseph would one day rule over his whole family.
 
-Even Jacob was bothered by the dreams. But he kept the matter in mind (Genesis 37:11).
+Even Jacob was bothered by the dreams. But he kept the matter in mind (Genesis 37:11). (We tell this opening chapter in [Joseph the Dreamer for kids](/blog/joseph-the-dreamer-for-kids).)
 
 **Key lesson for kids:** Favoritism causes pain. Jacob's favoritism toward Joseph created a wound in that family that lasted for years. This teaches kids that treating people fairly and not playing favorites matters deeply. It also shows that God can speak through dreams and visions, even to young people.
 
@@ -74,7 +76,7 @@ Joseph explained that both dreams meant the same thing: Egypt would have seven y
 
 Pharaoh was so impressed that he did something astonishing. He put Joseph in charge of the entire country. He gave Joseph his signet ring, dressed him in fine linen, put a gold chain around his neck, and had him ride in a chariot as second-in-command of all Egypt.
 
-Joseph went from prison to palace in a single day. He was 30 years old.
+Joseph went from prison to palace in a single day. He was 30 years old. (Read the full turnaround in [Joseph: From Prison to Palace for kids](/blog/joseph-from-prison-to-palace-for-kids).)
 
 **Key lesson for kids:** God's timing is not our timing, but it's always perfect. Joseph waited 13 years from the day he was sold by his brothers to the day he stood before Pharaoh. Those years weren't wasted -- they prepared Joseph for the enormous job God had for him.
 
@@ -108,11 +110,11 @@ Joseph's life is a masterclass in faith through suffering:
 
 - **God is with us in the dark places.** In the cistern, in slavery, in prison -- God never left Joseph.
 - **Character matters everywhere.** Joseph worked hard and did the right thing whether he was a slave, a prisoner, or a governor.
-- **Forgiveness sets you free.** Holding onto bitterness would have destroyed Joseph. Forgiveness allowed him to embrace his family again.
+- **Forgiveness sets you free.** Holding onto bitterness would have destroyed Joseph. Forgiveness allowed him to embrace his family again. (More examples in our [Bible stories about forgiveness for kids](/blog/bible-stories-about-forgiveness-for-kids).)
 - **God turns evil into good.** Genesis 50:20 is one of the most hopeful verses in the Bible. No matter how bad things get, God can redeem them.
 - **Dreams come true in God's time.** The dreams Joseph had as a teenager came true when he was 30, in a way nobody expected.
 
-Joseph's story teaches children that their worst days aren't the end of their story. God is always working behind the scenes, weaving even the painful parts into something beautiful.
+Joseph's story teaches children that their worst days aren't the end of their story. God is always working behind the scenes, weaving even the painful parts into something beautiful. When you finish, review the whole saga with a round of [Genesis Bible trivia](/blog/genesis-bible-trivia), or meet Joseph's great-grandfather in [Who Was Abraham? for kids](/blog/who-was-abraham-for-kids).
 
 ## Watch on Faithful Kids
 

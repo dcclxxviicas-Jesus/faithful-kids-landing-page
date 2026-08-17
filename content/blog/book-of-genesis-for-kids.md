@@ -4,6 +4,8 @@ slug: "book-of-genesis-for-kids"
 type: "listicle"
 metaDescription: "A parent-friendly guide to Genesis for kids. 10 key stories from creation to Joseph, major themes, and tips for teaching the first book of the Bible."
 keywords: ["genesis for kids", "book of genesis summary for kids", "bible stories for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # The Book of Genesis for Kids: Summary and Key Stories
@@ -31,7 +33,7 @@ In six days, God created light, sky, land, plants, sun, moon, stars, fish, birds
 God placed Adam and Eve in a perfect garden called Eden. They had one rule: do not eat from the Tree of the Knowledge of Good and Evil. A serpent tempted Eve, she ate the fruit, Adam followed, and sin entered the world. For kids, this story shows that choices matter and that even when we mess up, God still comes looking for us (Genesis 3:9).
 
 ### 3. Cain and Abel (Genesis 4)
-Adam and Eve's sons brought offerings to God. Abel's offering pleased God, but Cain's did not. Jealousy took root in Cain's heart, and he killed his brother. This heartbreaking story teaches kids that jealousy is dangerous and that God cares about our hearts, not just our actions.
+Adam and Eve's sons brought offerings to God. Abel's offering pleased God, but Cain's did not. Jealousy took root in Cain's heart, and he killed his brother. This heartbreaking story teaches kids that jealousy is dangerous and that God cares about our hearts, not just our actions. We unpack it further in [Cain and Abel for kids](/blog/cain-and-abel-for-kids).
 
 ### 4. Noah's Ark (Genesis 6-9)
 The world had become so wicked that God decided to start over with a great flood. But Noah was a righteous man who obeyed God and built an enormous ark. He brought his family and two of every kind of animal aboard. After the flood, God set a rainbow in the sky as a promise to never flood the whole earth again. Kids love this story, and its message is clear: obedience matters, and God always keeps His promises.
@@ -40,10 +42,10 @@ The world had become so wicked that God decided to start over with a great flood
 After the flood, people gathered in one place and decided to build a tower reaching to heaven to "make a name for themselves." God confused their languages and scattered them across the earth. For kids, this is a story about pride versus humility. God wants us to trust Him, not try to replace Him.
 
 ### 6. God Calls Abraham (Genesis 12)
-God told a man named Abram (later Abraham) to leave his home and go to a land God would show him. God promised to make Abraham into a great nation, to bless him, and to bless all the families of the earth through him. Abraham obeyed, even though he did not know where he was going. This story teaches kids that faith means trusting God even when you cannot see the whole plan.
+God told a man named Abram (later Abraham) to leave his home and go to a land God would show him. God promised to make Abraham into a great nation, to bless him, and to bless all the families of the earth through him. Abraham obeyed, even though he did not know where he was going. This story teaches kids that faith means trusting God even when you cannot see the whole plan. Our guide to [God calling Abraham](/blog/god-calls-abraham-for-kids) explores it in more depth.
 
 ### 7. Abraham and Isaac (Genesis 22)
-God tested Abraham by asking him to sacrifice his son Isaac on a mountain. Abraham obeyed in faith, trusting that God would provide. At the last moment, God stopped Abraham and provided a ram instead. This powerful story shows kids that God tests our faith but always provides. It also points forward to how God would one day provide His own Son.
+God tested Abraham by asking him to sacrifice his son Isaac on a mountain. Abraham obeyed in faith, trusting that God would provide. At the last moment, God stopped Abraham and provided a ram instead. This powerful story shows kids that God tests our faith but always provides. It also points forward to how God would one day provide His own Son. Read the full retelling in [Abraham and Isaac for kids](/blog/abraham-and-isaac-for-kids).
 
 ### 8. Jacob and Esau (Genesis 25, 27, 33)
 Twin brothers Jacob and Esau had a complicated relationship. Jacob tricked Esau out of his birthright and blessing, then fled in fear. Years later, the brothers reunited and forgave each other. Kids learn that deception leads to trouble, but forgiveness can heal even the deepest wounds.
@@ -79,9 +81,9 @@ The golden thread running through Genesis is God's covenant. He promises Noah He
 
 ## Why Genesis Matters for Your Family
 
-Genesis is the foundation of the entire Bible. Every major theme, promise, and story that follows builds on what begins in this first book. When your child understands Genesis, they have a framework for understanding everything from Exodus to Revelation.
+Genesis is the foundation of the entire Bible. Every major theme, promise, and story that follows builds on what begins in this first book. When your child understands Genesis, they have a framework for understanding everything from [the book of Exodus](/blog/book-of-exodus-for-kids) to Revelation.
 
-More than that, Genesis answers the biggest questions kids naturally ask: Where did the world come from? Why do bad things happen? Does God care about me? The answers in Genesis are beautiful, honest, and hopeful.
+More than that, Genesis answers the biggest questions kids naturally ask: Where did the world come from? Why do bad things happen? Does God care about me? The answers in Genesis are beautiful, honest, and hopeful. Once your child knows the stories, a round of [Genesis Bible trivia](/blog/genesis-bible-trivia) makes a fun family review.
 
 ## Watch on Faithful Kids
 

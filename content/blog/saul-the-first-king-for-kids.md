@@ -1,6 +1,8 @@
 ---
 title: "Saul the First King for Kids: Bible Story Explained Simply"
 slug: "saul-the-first-king-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 02
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What made Saul stand out physically from everyone else in Israel?
+### What made Saul stand out physically from everyone else in Israel?
 
+**He was head and shoulders taller than everyone.** 
 
+### How did Saul first react when he learned God had chosen him to be king?
 
+**He said he was from the smallest tribe and least important family.**
+
+### What happened when the people came to crown Saul as king?
+
+**He was hiding among the baggage.**
+
+### What was Saul's first major military victory as king?
+
+**He defeated the Ammonites who threatened Jabesh-Gilead.**
+
+### What is the main lesson from Saul's early story?
+
+**How you start isn't as important as how you finish.**
 
 ## Discussion Questions for Families
 

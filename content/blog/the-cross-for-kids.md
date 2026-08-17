@@ -1,6 +1,8 @@
 ---
 title: "The Cross for Kids: Bible Story Explained Simply"
 slug: "the-cross-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 08
@@ -61,10 +63,29 @@ The crucifixion is the most important and most difficult story in the Bible to s
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who was forced to help carry Jesus' cross?
+### Who was forced to help carry Jesus' cross?
 
+**Simon of Cyrene.** Simon of Cyrene. He was just passing through Jerusalem and never planned to be part of this story, but the soldiers pulled him from the crowd.
 
+### What is the name of the hill where Jesus was crucified?
 
+**Golgotha, which means "the Place of the Skull." This was the hill outside Jerusalem where crucifixions took place.** 
+
+### What did the soldiers do with Jesus' clothing?
+
+**They gambled for them, rolling dice at the foot of the cross.** This fulfilled a prophecy written hundreds of years earlier in Psalm 22.
+
+### What did Jesus say to the criminal who asked to be remembered?
+
+**"Today you will be with me in paradise." Even in His final hours on the cross, Jesus offered salvation to someone who simply believed.** 
+
+### What did Jesus do when He saw His mother standing near the cross?
+
+**He entrusted her to John, His disciple.** Even while dying, Jesus made sure His mother would be taken care of.
+
+### What is the main lesson of this episode?
+
+**Love that costs nothing isn't love.** Jesus could have stopped the crucifixion at any moment, but He chose to stay on the cross because of His love for us.
 
 ## Discussion Questions for Families
 

@@ -4,6 +4,8 @@ slug: "who-was-daniel-for-kids"
 type: "listicle"
 metaDescription: "Who was Daniel? The Bible story of Daniel for kids: taken to Babylon, refused the king's food, interpreted dreams, and survived the lions' den. Daniel 1-6."
 keywords: ["who was daniel for kids", "daniel and the lions den for kids", "daniel bible story children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Daniel? Bible Story for Kids
@@ -34,7 +36,7 @@ After ten days, Daniel and his friends looked healthier and better nourished tha
 
 At the end of their training, the king found Daniel and his friends ten times better than all the magicians and enchanters in his kingdom.
 
-**Key lesson for kids:** Standing up for what's right can start with small choices. Daniel didn't fight the king or cause a scene. He respectfully asked for an alternative and trusted God with the results. Sometimes the bravest thing a child can do is politely say, "I'd rather not do that, and here's why."
+**Key lesson for kids:** Standing up for what's right can start with small choices. Daniel didn't fight the king or cause a scene. He respectfully asked for an alternative and trusted God with the results. Sometimes the bravest thing a child can do is politely say, "I'd rather not do that, and here's why." (We tell this story in full in [Daniel's Resolve for kids](/blog/daniels-resolve-for-kids).)
 
 ## Nebuchadnezzar's Dream (Daniel 2)
 
@@ -48,7 +50,7 @@ Daniel went before the king and said, "No wise man, enchanter, magician or divin
 
 Daniel described the dream: a giant statue made of gold, silver, bronze, iron, and clay, representing a series of kingdoms. Then a rock not cut by human hands smashed the statue and became a huge mountain filling the whole earth -- representing God's eternal kingdom.
 
-The king was astonished. He fell on his face before Daniel and said, "Surely your God is the God of gods and the Lord of kings" (Daniel 2:47). He promoted Daniel to ruler over the entire province of Babylon.
+The king was astonished. He fell on his face before Daniel and said, "Surely your God is the God of gods and the Lord of kings" (Daniel 2:47). He promoted Daniel to ruler over the entire province of Babylon. (There's more detail in [Nebuchadnezzar's Dream for kids](/blog/nebuchadnezzars-dream-for-kids).)
 
 **Key lesson for kids:** When we face impossible situations, the first thing to do is pray. Daniel didn't try to figure it out alone. He gathered his friends and asked God for help. And God answered.
 
@@ -70,7 +72,7 @@ But when the king looked into the furnace, he was shocked. He saw not three but 
 
 Nebuchadnezzar called them out. Not a hair on their heads was singed. Their clothes didn't smell like smoke. They were completely untouched.
 
-**Key lesson for kids:** Sometimes God delivers us FROM the fire. Sometimes He walks with us THROUGH it. Either way, He is with us. Shadrach, Meshach, and Abednego teach kids that true faith means trusting God no matter what -- even when the outcome is uncertain.
+**Key lesson for kids:** Sometimes God delivers us FROM the fire. Sometimes He walks with us THROUGH it. Either way, He is with us. Shadrach, Meshach, and Abednego teach kids that true faith means trusting God no matter what -- even when the outcome is uncertain. (Read the full account in [The Fiery Furnace for kids](/blog/the-fiery-furnace-for-kids).)
 
 ## Writing on the Wall (Daniel 5)
 
@@ -80,7 +82,7 @@ Suddenly, a human hand appeared and began writing on the wall of the palace. The
 
 They called for Daniel, now an old man. He read the writing: MENE, MENE, TEKEL, PARSIN. It meant: God has numbered the days of your kingdom and ended it. You have been weighed on the scales and found wanting. Your kingdom is divided and given to the Medes and Persians.
 
-That very night, Belshazzar was killed, and the Persian King Darius took over the kingdom.
+That very night, Belshazzar was killed, and the Persian King Darius took over the kingdom. (We break this story down in [The Writing on the Wall for kids](/blog/the-writing-on-the-wall-for-kids).)
 
 **Key lesson for kids:** God holds all rulers accountable. Power and wealth don't impress God. What matters is how we treat Him and others. Belshazzar showed disrespect for God's holy things, and there were consequences.
 
@@ -112,7 +114,7 @@ Daniel lived his entire adult life in a foreign land, surrounded by people who d
 - **Pray first.** Whether facing execution or promotion, Daniel's first response was always prayer.
 - **God is with us everywhere.** Daniel was far from home, but God was right there with him in Babylon.
 - **Excellence honors God.** Daniel was outstanding at everything he did, and people noticed.
-- **God shuts lions' mouths.** Whatever "lions" your kids face -- fear, peer pressure, loneliness -- God is able to protect them.
+- **God shuts lions' mouths.** Whatever "lions" your kids face -- fear, peer pressure, loneliness -- God is able to protect them. Dive deeper with [Daniel in the Lion's Den for kids](/blog/daniel-in-the-lions-den-for-kids), then quiz your family with some [Daniel Bible trivia](/blog/daniel-bible-trivia).
 
 ## Watch on Faithful Kids
 

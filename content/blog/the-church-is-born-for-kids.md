@@ -1,6 +1,8 @@
 ---
 title: "The Church is Born for Kids: Bible Story Explained Simply"
 slug: "the-church-is-born-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Early Church"
 seriesSlug: "early-church"
 episode: 01
@@ -61,10 +63,29 @@ The birth of Jesus is the story your child will hear every Christmas for the res
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What event happened right before the first church formed?
+### What event happened right before the first church formed?
 
+**Pentecost.**
 
+### How many people decided to follow Jesus on the day of Pentecost?
 
+**3,000.**
+
+### What were the four things the early believers devoted themselves to?
+
+**The apostles' teaching, fellowship, breaking bread, and prayer.**
+
+### What did the early believers do when someone had a need?
+
+**Sold their possessions to help.**
+
+### Where did the first church meet?
+
+**In each other's homes.**
+
+### What was the main lesson of this episode?
+
+**Church isn't a place you go — it's a community you belong to.**
 
 ## Discussion Questions for Families
 

@@ -1,6 +1,8 @@
 ---
 title: "Judah Falls to Babylon for Kids: Bible Story Explained Simply"
 slug: "judah-falls-to-babylon-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Exile and Faith"
 seriesSlug: "exile-and-faith"
 episode: 01
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Which empire conquered the Southern Kingdom of Judah?
+### Which empire conquered the Southern Kingdom of Judah?
 
+**Babylon.** Babylon, led by King Nebuchadnezzar, conquered Judah and destroyed Jerusalem.
 
+### What was the name of the king who attacked Jerusalem?
 
+**Nebuchadnezzar.** King Nebuchadnezzar of Babylon led the siege and destruction of Jerusalem.
+
+### What magnificent building was destroyed during the siege?
+
+**Solomon's Temple.** Solomon's Temple, the most beautiful building on earth and the place where God's presence dwelled, was torn apart and looted.
+
+### What happened to the people of Judah after the fall of Jerusalem?
+
+**They were taken captive to Babylon.** The people of Judah were marched out of their homeland in chains and taken as captives to Babylon.
+
+### What is the main lesson of this episode?
+
+**Even when it looks like God has abandoned you, He hasn't — the worst chapter can set up the greatest comeback.** Even when everything falls apart, God doesn't lose track of His people. The worst chapter was setting up an incredible comeback.
 
 ## Discussion Questions for Families
 

@@ -1,6 +1,8 @@
 ---
 title: "Pauls Farewell for Kids: Bible Story Explained Simply"
 slug: "pauls-farewell-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Pauls Adventures"
 seriesSlug: "pauls-adventures"
 episode: 07
@@ -61,10 +63,29 @@ Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, s
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Where was Paul heading when he stopped to meet with the Ephesian elders?
+### Where was Paul heading when he stopped to meet with the Ephesian elders?
 
+**Jerusalem.**
 
+### How long had Paul spent with the believers in Ephesus?
 
+**About three years.**
+
+### What did the Holy Spirit warn Paul about at every stop?
+
+**That prison and hardships were ahead.**
+
+### What did Paul say his only aim in life was?
+
+**To finish the race and complete the task Jesus gave him.**
+
+### What grieved the Ephesian elders the most?
+
+**That Paul said they would never see his face again.**
+
+### What is the main lesson of this episode?
+
+**Finishing what God gave you to do is more important than personal comfort or safety.**
 
 ## Discussion Questions for Families
 

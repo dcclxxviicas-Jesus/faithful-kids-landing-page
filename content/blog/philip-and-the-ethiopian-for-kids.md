@@ -1,6 +1,8 @@
 ---
 title: "Philip and the Ethiopian for Kids: Bible Story Explained Simply"
 slug: "philip-and-the-ethiopian-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Early Church"
 seriesSlug: "early-church"
 episode: 05
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who told Philip to go to the desert road?
+### Who told Philip to go to the desert road?
 
+**An angel.**
 
+### Who was the man in the chariot?
 
+**An Ethiopian official — the treasurer for the queen of Ethiopia.**
+
+### What was the Ethiopian reading when Philip found him?
+
+**The scroll of the prophet Isaiah.**
+
+### What question did Philip ask the Ethiopian?
+
+**"Do you understand what you're reading?".**
+
+### What happened after the Ethiopian was baptized?
+
+**The Holy Spirit snatched Philip away supernaturally.**
+
+### What is the main lesson from this story?
+
+**God sets up divine appointments — be ready to explain your faith when someone asks.**
 
 ## Discussion Questions for Families
 

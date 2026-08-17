@@ -1,6 +1,8 @@
 ---
 title: "The Widows Oil for Kids: Bible Story Explained Simply"
 slug: "the-widows-oil-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 02
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. After the brook dried up, where did God tell Elijah to go?
+### After the brook dried up, where did God tell Elijah to go?
 
+**To the town of Zarephath.** 
 
+### Who did God say would provide food for Elijah in Zarephath?
 
+**A widow.**
+
+### What did the widow have left when Elijah found her?
+
+**A handful of flour and a little oil.**
+
+### What did Elijah ask the widow to do FIRST?
+
+**Make him a small cake before feeding herself.**
+
+### What did God promise about the jar of flour and jug of oil?
+
+**They would never run out until rain returned.**
+
+### What happened to the widow's son later in the story?
+
+**He got sick and died.**
+
+### How many times did Elijah cry out to God for the boy?
+
+**Three times.**
+
+### What is the main lesson of this story?
+
+**When God asks you to give what you think you can't lose, trust Him — He multiplies it.**
 
 ## Discussion Questions for Families
 

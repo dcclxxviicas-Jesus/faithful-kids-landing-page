@@ -1,6 +1,8 @@
 ---
 title: "Israel Wants a King for Kids: Bible Story Explained Simply"
 slug: "israel-wants-a-king-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 01
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why did the people of Israel want a new leader instead of Samuel's sons?
+### Why did the people of Israel want a new leader instead of Samuel's sons?
 
+**Samuel's sons were dishonest and took bribes.** 
 
+### What did the elders of Israel ask Samuel to give them?
 
+**A king like all the other nations.**
+
+### What did God tell Samuel when the people demanded a king?
+
+**"They have rejected ME as their king".**
+
+### What warning did Samuel give the people about having a king?
+
+**The king would take their sons, daughters, crops, and land.**
+
+### How did the people respond to Samuel's warning about a king?
+
+**They insisted they still wanted a king.**
 
 ## Discussion Questions for Families
 

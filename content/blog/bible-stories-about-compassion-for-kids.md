@@ -4,6 +4,8 @@ slug: "bible-stories-about-compassion-for-kids"
 type: "listicle"
 metaDescription: "Teach your kids compassion with these 8 powerful Bible stories. From the Good Samaritan to feeding the 5,000, each story includes discussion questions."
 keywords: ["bible stories about compassion for kids", "teaching kids compassion bible", "good samaritan for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 Compassion is one of the most important qualities we can nurture in our children. In a world that often rewards self-focus and competition, the Bible offers a radically different vision — one where we notice people who are hurting, feel something in our hearts, and then do something about it.
@@ -16,7 +18,7 @@ These eight Bible stories are perfect for teaching kids what compassion looks li
 
 A man is beaten and left on the road. A priest walks by. A Levite walks by. But a Samaritan — someone from a group that was despised by the Jewish community — stops, bandages the man's wounds, carries him to an inn, and pays for his care.
 
-Jesus told this story to answer one simple question: "Who is my neighbor?" The answer shook everyone listening. Your neighbor is not just the person who looks like you or lives next to you. Your neighbor is anyone who needs help.
+Jesus told [this story](/blog/the-good-samaritan-for-kids) to answer one simple question: "Who is my neighbor?" The answer shook everyone listening. Your neighbor is not just the person who looks like you or lives next to you. Your neighbor is anyone who needs help.
 
 **Talk about it:** Ask your child, "Have you ever seen someone who needed help but nobody was helping? What did you do? What could you do next time?"
 
@@ -32,7 +34,7 @@ Jesus knew He was about to raise Lazarus from the dead. He had the power to fix 
 
 Naomi lost her husband and both of her sons. She was heartbroken and told her daughters-in-law to go back to their own families. Orpah left. But Ruth refused. Her words are among the most beautiful in all of Scripture: "Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God" (Ruth 1:16).
 
-Ruth gave up her homeland, her comfort, and her future plans to stay with a grieving mother-in-law. That is compassion that costs something. And God honored it beyond anything Ruth could have imagined — she became the great-grandmother of King David and an ancestor of Jesus Himself.
+Ruth gave up her homeland, her comfort, and her future plans to stay with a grieving mother-in-law. [Her story of loyalty](/blog/ruth-a-story-of-loyalty-for-kids) is compassion that costs something. And God honored it beyond anything Ruth could have imagined — she became the great-grandmother of King David and an ancestor of Jesus Himself.
 
 **Talk about it:** "Ruth could have gone home where life was easier. Why do you think she stayed?" This is a wonderful opportunity to talk about loyalty and sacrificial love.
 
@@ -40,7 +42,7 @@ Ruth gave up her homeland, her comfort, and her future plans to stay with a grie
 
 After King Saul died, David could have ignored or even harmed Saul's remaining family. Instead, he asked, "Is there anyone still left of the house of Saul to whom I can show kindness for Jonathan's sake?" (2 Samuel 9:1).
 
-He found Mephibosheth, Jonathan's son, who was disabled and living in hiding. David invited him to eat at the king's table for the rest of his life and restored all of Saul's land to him. Mephibosheth expected to be rejected or punished. Instead, he received dignity and belonging.
+He found Mephibosheth, Jonathan's son, who was disabled and living in hiding. [David invited him](/blog/david-and-mephibosheth-for-kids) to eat at the king's table for the rest of his life and restored all of Saul's land to him. Mephibosheth expected to be rejected or punished. Instead, he received dignity and belonging.
 
 **Talk about it:** "David showed kindness to someone who expected nothing. Is there someone at school or in your neighborhood who might feel left out? How could you include them?"
 
@@ -48,7 +50,7 @@ He found Mephibosheth, Jonathan's son, who was disabled and living in hiding. Da
 
 Jesus had just learned that John the Baptist had been killed. He tried to withdraw to a quiet place, but a huge crowd followed Him. Matthew 14:14 says, "When Jesus landed and saw a large crowd, he had compassion on them and healed their sick."
 
-Even in His own grief, Jesus saw the needs of others. And when the disciples wanted to send the hungry crowd away, Jesus said, "They do not need to go away. You give them something to eat" (Matthew 14:16). With five loaves of bread and two fish from a boy's lunch, Jesus fed over 5,000 people.
+Even in His own grief, Jesus saw the needs of others. And when the disciples wanted to send the hungry crowd away, Jesus said, "They do not need to go away. You give them something to eat" (Matthew 14:16). With five loaves of bread and two fish from a boy's lunch, [Jesus fed over 5,000 people](/blog/feeding-the-five-thousand-for-kids).
 
 **Talk about it:** "The boy gave his small lunch to Jesus, and Jesus turned it into something huge. What small thing could you share that might help someone a lot?"
 
@@ -88,7 +90,7 @@ Bible stories are uniquely powerful tools for building compassion because they d
 
 1. **Name it when you see it.** When your child shares, helps, or comforts someone, say, "That was compassion. You noticed someone needed help, and you did something."
 
-2. **Read these stories regularly.** Repetition matters. Kids internalize values through stories they hear again and again.
+2. **Read these stories regularly.** Repetition matters. Kids internalize values through stories they hear again and again. Rotate in these [Bible stories about kindness](/blog/bible-stories-about-kindness-for-kids) for variety on the same theme.
 
 3. **Practice perspective-taking.** At dinner, ask, "What do you think that person was feeling?" Help your child build the mental muscle of imagining others' experiences.
 

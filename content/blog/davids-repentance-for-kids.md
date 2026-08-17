@@ -1,6 +1,8 @@
 ---
 title: "Davids Repentance for Kids: Bible Story Explained Simply"
 slug: "davids-repentance-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 08
@@ -61,10 +63,25 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who did God send to confront David about his sin?
+### Who did God send to confront David about his sin?
 
+**Nathan the prophet.** 
 
+### When David was confronted, how did he respond?
 
+**He owned his sin completely and asked God for mercy.**
+
+### What famous line did David write in Psalm 51?
+
+**"Create in me a clean heart, O God".**
+
+### What did David say God would NOT despise?
+
+**A broken and contrite heart.**
+
+### What did David do instead of running away from God?
+
+**He ran TO God and asked to be changed from the inside out.**
 
 ## Discussion Questions for Families
 

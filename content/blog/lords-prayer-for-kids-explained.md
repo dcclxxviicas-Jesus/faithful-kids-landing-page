@@ -4,6 +4,8 @@ slug: "lords-prayer-for-kids-explained"
 type: "listicle"
 metaDescription: "The Lord's Prayer explained line by line for kids. Matthew 6:9-13 broken into 7 parts with kid-friendly meanings. Perfect for family prayer time."
 keywords: ["lords prayer for kids", "lords prayer explained for children", "matthew 6 9-13 for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # The Lord's Prayer for Kids Explained Line by Line
@@ -65,13 +67,13 @@ Now let us break it down.
 
 **Why it matters:** This is where the prayer shifts from worship to requests. And the first request is not for a new bicycle or a snow day. It is for what we need today. Jesus is teaching kids (and adults) that dependence on God is not weakness. It is wisdom.
 
-**How to explain it:** Remind your child of the manna story from Exodus 16. God sent bread from heaven every morning, and the Israelites could only gather enough for one day. If they tried to hoard it, it spoiled. God wants us to trust Him fresh every morning.
+**How to explain it:** Remind your child of the [manna from heaven story](/blog/manna-from-heaven-for-kids) from Exodus 16. God sent bread from heaven every morning, and the Israelites could only gather enough for one day. If they tried to hoard it, it spoiled. God wants us to trust Him fresh every morning.
 
 ## Line 5: "Forgive Us Our Debts, as We Also Have Forgiven Our Debtors"
 
 **What it means for kids:** "Debts" here means sins, the things we have done wrong. We are asking God to forgive us. But there is a catch: we are also committing to forgive the people who have wronged us. You cannot ask God for forgiveness while holding a grudge against your sister.
 
-**Why it matters:** This is one of the hardest lines in the prayer, and one of the most important. Forgiveness is at the center of the Christian faith. God forgives us freely, and He expects us to pass that forgiveness along. For kids who struggle with grudges, this line is transformational.
+**Why it matters:** This is one of the hardest lines in the prayer, and one of the most important. Forgiveness is at the center of the Christian faith. God forgives us freely, and He expects us to pass that forgiveness along. For kids who struggle with grudges, this line is transformational. (If this concept is tricky in your home, see [how to explain forgiveness to a child](/blog/how-to-explain-forgiveness-to-a-child).)
 
 **How to explain it:** "Imagine you accidentally broke your mom's favorite mug and she forgave you immediately. How would it feel if, that same day, you refused to forgive your friend for stepping on your shoe? This line says: receive forgiveness, then give it away."
 
@@ -105,7 +107,7 @@ This closing line (found in some manuscripts and used in many churches) brings t
 
 **Pray it slowly.** Instead of rushing through it as a recitation, pause after each line and let your child think about what it means. Add personal prayers between the lines. After "give us today our daily bread," let your child name something specific they need today.
 
-**Use it as a prayer template.** Teach your child that the Lord's Prayer gives them a pattern: start with worship, then ask for needs, then ask for forgiveness, then ask for protection. They can use this pattern to pray their own words any time.
+**Use it as a prayer template.** Teach your child that the Lord's Prayer gives them a pattern: start with worship, then ask for needs, then ask for forgiveness, then ask for protection. They can use this pattern to pray their own words any time. Our guide on [how to pray with kids](/blog/how-to-pray-with-kids) has more ideas, plus simple [bedtime prayers for kids](/blog/bedtime-prayers-for-kids) to build the habit.
 
 **Write it out.** Have your child write or illustrate each line of the prayer. Put it on their wall or in a prayer journal. The physical act of writing helps cement the words in memory.
 
@@ -129,4 +131,4 @@ Both words mean sins or wrongs we have committed. "Debts" comes from the origina
 Both. Jesus gave the Lord's Prayer as a model, not a script. It is wonderful for kids to pray these specific words, and it is equally wonderful for them to pray in their own words using the pattern Jesus taught. The best prayer life combines memorized prayers with spontaneous, heartfelt conversation with God.
 
 ### Is the Lord's Prayer in the Old Testament or the New Testament?
-The Lord's Prayer is in the New Testament, in Matthew 6:9-13 and also in a slightly shorter form in Luke 11:2-4. Jesus taught it during the Sermon on the Mount (Matthew's account) in response to His disciples asking Him to teach them how to pray.
+The Lord's Prayer is in the New Testament, in Matthew 6:9-13 and also in a slightly shorter form in Luke 11:2-4. Jesus taught it during the [Sermon on the Mount](/blog/the-sermon-on-the-mount-for-kids) (Matthew's account) in response to His disciples asking Him to teach them how to pray.

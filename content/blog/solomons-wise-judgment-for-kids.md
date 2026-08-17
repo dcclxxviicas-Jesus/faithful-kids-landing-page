@@ -1,6 +1,8 @@
 ---
 title: "Solomons Wise Judgment for Kids: Bible Story Explained Simply"
 slug: "solomons-wise-judgment-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Solomon and the Kingdom"
 seriesSlug: "solomon-and-the-kingdom"
 episode: 02
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What was the dispute between the two women who came to Solomon?
+### What was the dispute between the two women who came to Solomon?
 
 All Israel heard about the verdict and held the king in awe. They recognized this wasn't just human cleverness — the wisdom of God Himself was operating through Solomon. His reputation for wisdom spread across the entire nation.
 
+### What did Solomon order to be brought before him?
+
+**A sword.**
+
+### How did the real mother respond to Solomon's command?
+
+**She begged Solomon to give the baby to the other woman rather than kill him.**
+
+### What did Solomon's ruling reveal about true wisdom?
+
+**That wisdom sees through deception and reveals the truth.**
+
+### How did the people of Israel respond when they heard about this judgment?
+
+**They stood in awe, recognizing the wisdom of God was in Solomon.**
 
 ## Discussion Questions for Families
 

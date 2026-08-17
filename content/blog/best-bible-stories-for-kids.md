@@ -4,6 +4,8 @@ slug: "best-bible-stories-for-kids"
 type: "listicle"
 metaDescription: "The 25 best Bible stories for kids, ranked by age-appropriateness and engagement. Includes short summaries, key lessons, and free video links for each story."
 keywords: ["best bible stories for kids", "bible stories for children", "top bible stories kids", "popular bible stories for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 25 Best Bible Stories for Kids: The Complete List for 2026
@@ -280,9 +282,11 @@ The best way to share Bible stories with children is to watch or read one togeth
 
 1. **Start with the stories your child already knows** (Noah, David and Goliath, the Birth of Jesus) and work outward from there
 2. **One story per day or per week** is better than cramming multiple stories at once
-3. **Ask open-ended questions** after the story: "What was your favorite part?" or "What do you think God was trying to teach us?"
+3. **Ask open-ended questions** after the story: "What was your favorite part?" or "What do you think God was trying to teach us?" (Our list of [Bible discussion questions for kids](/blog/bible-discussion-questions-for-kids) has dozens of ready-made prompts.)
 4. **Let them retell it** in their own words. Kids remember stories they tell, not just stories they hear
 5. **Connect it to their life** when possible: "Remember when you were brave like David at school today?"
+
+Once your child knows a handful of these stories, turn review into play with some [Bible trivia questions](/blog/bible-trivia-for-kids) or a few [Bible games for kids](/blog/bible-games-for-kids).
 
 ## Watch All 25 Stories (and 175 More) on Faithful Kids
 
@@ -294,11 +298,11 @@ Every story on this list is available as a 60-second video lesson with a quiz on
 
 ### What are the best Bible stories to start with for young kids?
 
-For children ages 5-6, start with Creation, Noah's Ark, David and Goliath, the Birth of Jesus, and The Good Samaritan. These stories are visually engaging, have clear characters, and teach simple lessons that young children can understand.
+For children ages 5-6, start with Creation, Noah's Ark, David and Goliath, the Birth of Jesus, and The Good Samaritan. These stories are visually engaging, have clear characters, and teach simple lessons that young children can understand. See our full list of [Bible stories for 5-year-olds](/blog/bible-stories-for-5-year-olds).
 
 ### What Bible stories are appropriate for kids under 5?
 
-For children under 5, focus on the gentlest stories: Creation, Noah's Ark (focus on the animals and the rainbow), Baby Moses in the Basket, and the Birth of Jesus. Avoid the more intense stories (the Crucifixion, Daniel in the Lions' Den) until they are a bit older.
+For children under 5, focus on the gentlest stories: Creation, Noah's Ark (focus on the animals and the rainbow), Baby Moses in the Basket, and the Birth of Jesus. Avoid the more intense stories (the Crucifixion, Daniel in the Lions' Den) until they are a bit older. We have dedicated roundups of [Bible stories for toddlers](/blog/bible-stories-for-toddlers) and [Bible stories for preschoolers](/blog/bible-stories-for-preschoolers).
 
 ### How many Bible stories should a child learn?
 

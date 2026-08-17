@@ -31,7 +31,7 @@ This is the gold-standard children's Bible app for toddlers and preschoolers. Cr
 
 The stories are simplified beautifully for young minds: Creation becomes a colorful world appearing with each tap. Noah's Ark features friendly animals boarding the boat. Baby Moses floats in a basket through gentle waves. As Psalm 78:4 says, *"We will tell the next generation the praiseworthy deeds of the Lord, his power, and the wonders he has done."*
 
-**Why it works at this age:** Zero reading required. Everything is visual and tactile. Stories are 2-3 minutes -- perfect for short attention spans. And it's completely free.
+**Why it works at this age:** Zero reading required. Everything is visual and tactile. Stories are 2-3 minutes -- perfect for short attention spans. And it's completely free. (Read our full [Bible App for Kids review](/blog/bible-app-for-kids-review) for the details.)
 
 **Runner-up: Superbook Kids Bible App** -- The animated episodes are beautiful, but at 25+ minutes each, they're too long for most toddlers. Better as a "watch together with parent" option.
 
@@ -46,7 +46,7 @@ The stories are simplified beautifully for young minds: Creation becomes a color
 
 **Best app: Faithful Kids (starting at age 7) or Superbook (ages 5-6)**
 
-For 5-6 year olds, Superbook's animated episodes are age-appropriate and engaging. The time-travel storyline captures imagination, and the production quality rivals secular cartoons. Kids this age love the adventure format.
+For 5-6 year olds, Superbook's animated episodes are age-appropriate and engaging. The time-travel storyline captures imagination, and the production quality rivals secular cartoons. Kids this age love the adventure format. (Curious how it compares? See [Superbook vs Faithful Kids](/blog/superbook-vs-faithful-kids).)
 
 At age 7, children are ready for Faithful Kids. This is where learning shifts from passive watching to active engagement. Each Faithful Kids lesson includes a video narration of the Bible story, followed by a quiz that checks whether your child actually understood the passage, and then a reflection activity.
 
@@ -97,7 +97,7 @@ At 13+, teens benefit from a two-app approach.
 
 **YouVersion Bible App** (the adult version, not the kids version) gives teens access to the full text of Scripture in dozens of translations. They can follow reading plans, highlight verses, and explore topics that matter to them. It treats them like the young adults they're becoming.
 
-This combination works because teens need both structure and freedom. Faithful Kids provides the structure ("Today's lesson: Paul's Letter to the Romans"). YouVersion provides the freedom ("I want to read about forgiveness" or "I want to find verses about anxiety").
+This combination works because teens need both structure and freedom. Faithful Kids provides the structure ("Today's lesson: Paul's Letter to the Romans"). YouVersion provides the freedom ("I want to read about forgiveness" or "I want to find verses about anxiety"). For more strategies at this stage, see our guide on [how to teach the Bible to teenagers](/blog/how-to-teach-bible-to-teenagers).
 
 2 Timothy 3:16-17 says, *"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work."* Teens are at the age where they can engage with this truth directly.
 
@@ -117,7 +117,7 @@ This combination works because teens need both structure and freedom. Faithful K
 
 ## Tips for Every Age
 
-**Make it routine, not random.** Whether your child is 3 or 13, consistency matters more than duration. Ten minutes a day beats an hour once a week. As Joshua 1:8 teaches, *"Keep this Book of the Law always on your lips; meditate on it day and night."*
+**Make it routine, not random.** Whether your child is 3 or 13, consistency matters more than duration. Ten minutes a day beats an hour once a week -- our guide to [starting family Bible time](/blog/how-to-start-family-bible-time) shows how to build the habit. As Joshua 1:8 teaches, *"Keep this Book of the Law always on your lips; meditate on it day and night."*
 
 **Transition gradually.** Don't jump your child from Bible App for Kids to YouVersion overnight. Use Faithful Kids as the bridge between simple children's stories and full Scripture engagement.
 
@@ -147,4 +147,4 @@ Yes. Faithful Kids supports multiple kid profiles on one family account. Each ch
 For ages 2-6, yes -- sit with them and discuss the stories. For ages 7-12, periodic check-ins work well (ask what they learned today). For ages 13+, give them independence but use the parent dashboard to stay informed about their progress.
 
 ### How much screen time is appropriate for Bible apps?
-Most child development experts treat educational screen time differently from recreational screen time. A 15-20 minute Faithful Kids lesson is a meaningful learning activity, similar to reading a book. We recommend one lesson per session -- enough to learn without screen fatigue.
+Most child development experts treat educational screen time differently from recreational screen time. A 15-20 minute Faithful Kids lesson is a meaningful learning activity, similar to reading a book. We recommend one lesson per session -- enough to learn without screen fatigue. For a deeper look, read our guide to [healthy screen time for Christian kids](/blog/healthy-screen-time-for-christian-kids).

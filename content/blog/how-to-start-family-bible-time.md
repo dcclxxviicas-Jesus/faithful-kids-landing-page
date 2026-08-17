@@ -4,6 +4,8 @@ slug: "how-to-start-family-bible-time"
 type: "listicle"
 metaDescription: "How to start family Bible time with a step-by-step guide and a complete 7-day starter plan."
 keywords: ["how to start family bible time", "family devotions for kids", "family bible study", "bible time with kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # How to Start Family Bible Time (7-Day Starter Plan Included)
@@ -35,7 +37,7 @@ Before the "how," let us settle the "why," because on the nights when you are ex
 The best time for family Bible time is the time that actually happens. For most families, that is one of three windows:
 
 - **After dinner, before screen time.** The table is already cleared, everyone is together, and you can use Bible time as the gateway to evening activities.
-- **Bedtime.** Replace one bedtime story with a Bible story. This is especially effective for families with younger children.
+- **Bedtime.** Replace one bedtime story with a Bible story. This is especially effective for families with younger children -- these [Bible stories for bedtime](/blog/bible-stories-for-bedtime) are made for winding down.
 - **Morning before school.** Harder to pull off, but powerful for families with early risers. Even five minutes over breakfast works.
 
 Pick one. Put it on the calendar. Treat it like a non-negotiable appointment. The biggest enemy of family Bible time is not opposition. It is distraction.
@@ -53,7 +55,7 @@ That is it. Ten minutes. You can always add time later as the habit solidifies. 
 
 ### Step 3: Use a Story-Based Approach
 
-Do not start in Romans. Do not start with theology. Start with stories. Children are wired for narrative. They learn through characters, conflict, and resolution. The Bible is the greatest story ever told, and your job is to let them experience it as a story first. The theology will follow naturally.
+Do not start in Romans. Do not start with theology. Start with stories. Children are wired for narrative. They learn through characters, conflict, and resolution. The Bible is the greatest story ever told, and your job is to let them experience it as a story first. The theology will follow naturally. Our roundup of [best-loved Bible stories for kids](/blog/best-bible-stories-for-kids) gives you a ready-made menu.
 
 Good starting points:
 - **Creation** (Genesis 1-2) — God made everything, including them
@@ -74,7 +76,7 @@ The fastest way to kill family Bible time is to turn it into a one-way monologue
 - **When have you felt like that?** (personal connection)
 - **What does this story teach us about God?** (theological reflection)
 
-Let your kids answer. Do not correct unless they are factually wrong about the story. Affirm their thinking. Say "That is a great observation" often. The goal is not to quiz them. The goal is to help them think about Scripture.
+Let your kids answer. Do not correct unless they are factually wrong about the story. Affirm their thinking. Say "That is a great observation" often. The goal is not to quiz them. The goal is to help them think about Scripture. If you ever run dry, these [Bible discussion questions for kids](/blog/bible-discussion-questions-for-kids) will keep the conversation moving.
 
 ### Step 5: Pray Together (Keep It Simple)
 
@@ -207,6 +209,8 @@ Once you have completed the 7-day plan, you have several options:
 2. **Jump to the life of Jesus.** Start with the Gospel of Luke, which is written as a narrative and reads like a story.
 3. **Use Faithful Kids.** The app covers Genesis to Revelation in 400+ short video lessons with built-in quizzes and reflections, perfect for family Bible time with zero prep.
 4. **Follow your child's interests.** If they loved the David story, explore more of David's life. If they connected with Jonah, look at other prophets.
+
+Ready for a bigger goal? Take on the [30-day family Bible challenge](/blog/30-day-family-bible-challenge), or fold in [daily Bible devotions for kids](/blog/bible-devotions-for-kids-daily) to keep the momentum going.
 
 ---
 

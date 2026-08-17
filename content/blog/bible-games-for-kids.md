@@ -136,7 +136,7 @@ Where Sword Drill tests book order under pressure, this game teaches it hands-on
 
 ## What Bible Games Work in Sunday School or Groups?
 
-Group settings need games that scale to a dozen kids and survive a wide age spread.
+Group settings need games that scale to a dozen kids and survive a wide age spread. (For a classroom-specific list, see our [Sunday school games for kids](/blog/sunday-school-games-for-kids).)
 
 ### 14. Bible Charades
 
@@ -148,7 +148,7 @@ Charades is the workhorse of Sunday school games: it scales from 4 players to 40
 
 Make 5x5 bingo cards filled with Bible names, objects, and words -- Moses, manger, cross, faith, ark -- each card arranged differently. The caller draws a matching calling card and reads it with a one-line clue: "Noah -- the man who built the ark." Players cover matches; five in a row shouts "Bingo!"
 
-Bingo reviews dozens of Bible terms per game while feeling like pure luck -- perfect for mixed groups where quiz-style games would embarrass slower readers. Use candy as markers and let winners eat their row. The clue lines can come straight from a bank of [Bible trivia questions for kids](https://faithfulkids.app/blog/bible-trivia-for-kids).
+Bingo reviews dozens of Bible terms per game while feeling like pure luck -- perfect for mixed groups where quiz-style games would embarrass slower readers. Use candy as markers and let winners eat their row. (Our [Bible bingo for kids](/blog/bible-bingo-for-kids) guide has card ideas and variations.) The clue lines can come straight from a bank of [Bible trivia questions for kids](https://faithfulkids.app/blog/bible-trivia-for-kids).
 
 ### 16. Bible Scavenger Hunt
 
@@ -182,7 +182,7 @@ Performing demands deeper processing than listening ever will: kids must decide 
 
 ## Which Bible Games Need Zero Prep?
 
-No printer, no supplies, no notice. These five run anywhere -- car, waiting room, dinner table.
+No printer, no supplies, no notice. These five run anywhere -- car, waiting room, dinner table. (If you do have a printer, [Bible word searches](/blog/bible-word-search-for-kids) and [Bible mazes and puzzles](/blog/bible-mazes-and-puzzles-for-kids) make great quiet-time companions.)
 
 ### 21. 20 Questions: Bible Edition
 
@@ -257,7 +257,7 @@ Bible Memory Match, Noah's Ark Animal Charades, Walls of Jericho Stack-and-Shout
 20 Questions: Bible Edition, Bible Story Telephone, Bible Riddle Race, Bible Sound Effects Story, and Books of the Bible Beat all work indoors with zero supplies, and Who Am I? needs only a scrap of paper. Between those six, you can fill an hour with nothing but the people in the room.
 
 ### Which Bible games work best for Sunday school?
-Team games scale best: Bible Charades, Bible Bingo, Verse Scramble Relay, Armor of God Dress-Up Relay, and Bible Story Theater all handle 10-30 kids and a wide age range. Split the class into teams of four to six and rotate through two or three games per session. Save individual competitions like Sword Drill for smaller classes of similar-age readers.
+Team games scale best: Bible Charades, Bible Bingo, Verse Scramble Relay, Armor of God Dress-Up Relay, and Bible Story Theater all handle 10-30 kids and a wide age range. Split the class into teams of four to six and rotate through two or three games per session. Save individual competitions like Sword Drill for smaller classes of similar-age readers. For end-of-lesson review, these [Bible review games for Sunday school](/blog/bible-review-games-for-sunday-school) are built to reinforce the day's story.
 
 ### How do I make Bible games educational without ruining the fun?
 Play the game at full fun, then spend 60 seconds afterward connecting it to the story or verse -- never gate the fun behind the lesson. Choose games where the Bible content lives inside the mechanics (acting the story, finding the verse) rather than bolted on as quiz questions between turns. Kids who associate the Bible with laughter come back; kids who associate it with being tested do not.

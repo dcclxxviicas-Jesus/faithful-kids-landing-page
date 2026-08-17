@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Books of the Bible for kids: all 66 in order -- 39 Old Testament, 27 New Testament -- with memory tricks and a kid-friendly trivia quiz for every book."
 keywords: ["books of the bible for kids", "how many books in the bible", "books of the bible in order for kids", "how to memorize the books of the bible", "what are the 66 books of the bible", "old testament books in order for kids"]
 datePublished: "2026-04-16"
-dateModified: "2026-08-15"
+dateModified: "2026-08-16"
 ---
 
 The Bible has 66 books -- 39 in the Old Testament and 27 in the New Testament. That sounds like a lot, but here is the encouraging part: with a song, a few hand motions, and about ten minutes a day, most kids ages 7-12 can memorize all 66 book names in order within a few weeks. Below you will find every book listed in canonical order, what each one is about in a single kid-friendly line, and a trivia quiz for every single book.
@@ -102,11 +102,11 @@ Tap any book for a kid-friendly trivia quiz on it -- answers included.
 
 **Sing them.** Music is by far the fastest route into a child's memory. There are dozens of "Books of the Bible" songs online -- pick one your child likes and play it in the car for a week. Most kids absorb the melody (and the book names with it) almost without trying.
 
-**Learn the shelves, then the books.** Do not start with book 1 and grind to book 66. Teach the group names first: Law, History, Poetry, Prophets, Gospels, Letters, Revelation. Then memorize one group at a time -- five Law books this week, twelve History books over the next two weeks. Every group is a small, winnable challenge.
+**Learn the shelves, then the books.** Do not start with book 1 and grind to book 66. Teach the group names first: Law, History, Poetry, Prophets, Gospels, Letters, Revelation. Then memorize one group at a time -- five Law books this week, twelve History books over the next two weeks. Every group is a small, winnable challenge. A [printable books of the Bible chart](/blog/books-of-the-bible-printable) helps kids see the shelves at a glance.
 
-**Add hand motions.** Give each group a gesture kids can feel: hands held up like stone tablets for Law, marching feet for History, hands over the heart for Poetry, a hand shading the eyes (looking ahead) for Prophets, an open book for Gospels, a writing motion for Letters, and hands bursting open like fireworks for Revelation. Moving while reciting locks the order into muscle memory.
+**Add hand motions.** Give each group a gesture kids can feel: hands held up like stone tablets for Law, marching feet for History, hands over the heart for Poetry, a hand shading the eyes (looking ahead) for Prophets, an open book for Gospels, a writing motion for Letters, and hands bursting open like fireworks for Revelation. Moving while reciting locks the order into muscle memory. The same [memory verse strategies](/blog/bible-memory-verse-strategies-for-kids) that work for Scripture work for book names too.
 
-**Quiz them in the gaps.** Car rides and dinner tables are perfect: "What comes after Nehemiah?" "Which shelf is Philippians on?" Small rewards -- a sticker, picking dessert -- keep it a game instead of a chore.
+**Quiz them in the gaps.** Car rides and dinner tables are perfect: "What comes after Nehemiah?" "Which shelf is Philippians on?" Small rewards -- a sticker, picking dessert -- keep it a game instead of a chore. Our collection of [Bible trivia for kids](/blog/bible-trivia-for-kids) is full of ready-made questions for those moments.
 
 **Connect names to stories.** A book name sticks when it means something. That is exactly how [Faithful Kids](https://faithfulkids.app/quiz) works: short animated video lessons walk kids ages 7-15 through the stories inside every book -- from Genesis to Revelation -- with quizzes and reflections after each episode, so "Exodus" stops being a word on a list and becomes the story of the Red Sea.
 

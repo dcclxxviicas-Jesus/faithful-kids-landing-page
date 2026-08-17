@@ -1,6 +1,8 @@
 ---
 title: "More Than Conquerors for Kids: Bible Story Explained Simply"
 slug: "more-than-conquerors-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Letters to Churches"
 seriesSlug: "letters-to-churches"
 episode: 02
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. According to Romans 8:28, in how many things does God work for the good of those who love Him?
+### According to Romans 8:28, in how many things does God work for the good of those who love Him?
 
+**All things.** "In all things God works for the good of those who love him." (Romans 8:28)
 
+### What question does Paul ask in Romans 8:31?
 
+**"If God is for us, who can be against us?".** "If God is for us, who can be against us?"
+
+### What does Paul say we are "in all these things"?
+
+**More than conquerors.** "In all these things we are more than conquerors through him who loved us." (Romans 8:37)
+
+### Which of the following does Paul say CANNOT separate us from the love of God?
+
+**All of the above.** Paul lists all of these and more. Nothing in all creation can separate us from God's love.
+
+### What is the main lesson of Romans 8:28-39?
+
+**Nothing can separate you from God's love.** The entire passage declares that absolutely nothing can separate us from the love of God in Christ Jesus.
 
 ## Discussion Questions for Families
 

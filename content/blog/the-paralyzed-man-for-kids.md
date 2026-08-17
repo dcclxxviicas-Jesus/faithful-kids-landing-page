@@ -1,6 +1,8 @@
 ---
 title: "The Paralyzed Man for Kids: Bible Story Explained Simply"
 slug: "the-paralyzed-man-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 08
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why couldn't the four friends get their paralyzed friend to Jesus?
+### Why couldn't the four friends get their paralyzed friend to Jesus?
 
+**The house was too packed with people.** 
 
+### How did the friends get the paralyzed man to Jesus?
 
+**They dug through the roof and lowered him down.**
+
+### What was the FIRST thing Jesus said to the paralyzed man?
+
+**"Son, your sins are forgiven.".**
+
+### Why were the religious leaders upset?
+
+**They thought only God could forgive sins.**
+
+### What did the healed man do after Jesus told him to get up?
+
+**He picked up his mat and walked out.**
 
 ## Discussion Questions for Families
 

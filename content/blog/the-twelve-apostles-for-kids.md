@@ -1,6 +1,8 @@
 ---
 title: "The Twelve Apostles for Kids: Bible Story Explained Simply"
 slug: "the-twelve-apostles-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 10
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did Jesus do the entire night BEFORE choosing the twelve apostles?
+### What did Jesus do the entire night BEFORE choosing the twelve apostles?
 
+**He prayed on a mountain.** 
 
+### What nickname did Jesus give James and John?
 
+**The Sons of Thunder.**
+
+### Why is it surprising that Matthew and Simon the Zealot were on the same team?
+
+**One worked for Rome and the other wanted to destroy Rome.**
+
+### How many apostles did Jesus choose from His followers?
+
+**Twelve.** After praying all night, Jesus chose twelve of His disciples and named them apostles (Luke 6:12-13).
+
+### Why did Jesus say He chose the twelve?
+
+**Because they were willing.**
 
 ## Discussion Questions for Families
 

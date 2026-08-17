@@ -1,6 +1,8 @@
 ---
 title: "Gods Promise to David for Kids: Bible Story Explained Simply"
 slug: "gods-promise-to-david-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 02
@@ -61,10 +63,33 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did David want to build for God?
+### What did David want to build for God?
 
+**A temple — a permanent house for the Ark of God.** 
 
+### Who was the prophet that God spoke through to deliver His message to David?
 
+**Nathan.**
+
+### What was God's surprising response to David's plan?
+
+**He said David would not build God a house — God would build David's house instead.**
+
+### What did God promise about David's throne?
+
+**It would be established forever.**
+
+### Who eventually built the physical temple in Jerusalem?
+
+**David's son Solomon.**
+
+### How did David respond when he heard God's incredible promise?
+
+**He sat before the Lord in awe and gratitude.**
+
+### What is the main lesson of this story?
+
+**Sometimes God's plans are bigger than ours, and we should trust Him.**
 
 ## Discussion Questions for Families
 

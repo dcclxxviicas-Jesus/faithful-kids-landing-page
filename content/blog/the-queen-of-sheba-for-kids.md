@@ -1,6 +1,8 @@
 ---
 title: "The Queen of Sheba for Kids: Bible Story Explained Simply"
 slug: "the-queen-of-sheba-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Solomon and the Kingdom"
 seriesSlug: "solomon-and-the-kingdom"
 episode: 05
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why did the Queen of Sheba travel to Jerusalem?
+### Why did the Queen of Sheba travel to Jerusalem?
 
 Solomon never advertised himself. He never tried to prove anything. He simply lived faithfully, pursued wisdom, and developed his character. And his reputation traveled over a thousand miles on its own. The lesson is clear: be faithful, and let the fruit of your life speak for itself.
 
+### What did the Queen of Sheba bring with her to Jerusalem?
+
+**Spices, large quantities of gold, and precious stones.**
+
+### How did Solomon perform when the Queen tested him with hard questions?
+
+**He answered every single one — nothing was too hard for him.**
+
+### What was the Queen of Sheba's famous reaction after seeing everything?
+
+**"Not even half was told me".**
+
+### What is the main lesson of this episode?
+
+**Wisdom and godly character will speak for themselves — you don't have to prove yourself, just be faithful.**
 
 ## Discussion Questions for Families
 

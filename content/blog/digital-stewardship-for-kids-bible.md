@@ -4,6 +4,8 @@ slug: "digital-stewardship-for-kids-bible"
 type: "listicle"
 metaDescription: "Teach kids to use technology wisely with biblical stewardship principles. Age-appropriate conversations and practical rules for phones and tablets."
 keywords: ["digital stewardship for kids", "biblical approach to technology kids", "teaching kids about technology bible"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 Your child will spend an estimated 10,000+ hours on screens before they turn 18. That is not a prediction of doom — it is a reality that calls for preparation. The question is not whether your child will use technology. The question is whether they will use it wisely.
@@ -40,7 +42,7 @@ In the digital world, "the tongue" includes texts, comments, DMs, posts, and eve
 
 ### We Are Known by Our Fruit (Matthew 7:16-20)
 
-"By their fruit you will recognize them" (Matthew 7:16). The concept of "fruit" applies beautifully to digital behavior. What does your child's online activity produce? Does it produce kindness, learning, creativity, and connection? Or does it produce anxiety, comparison, gossip, and wasted time?
+"By their fruit you will recognize them" (Matthew 7:16). The concept of "fruit" applies beautifully to digital behavior (for a deeper dive, see [the fruit of the Spirit for kids](/blog/the-fruit-of-the-spirit-for-kids)). What does your child's online activity produce? Does it produce kindness, learning, creativity, and connection? Or does it produce anxiety, comparison, gossip, and wasted time?
 
 **For kids:** "Jesus said we are known by our fruit — what we produce. If someone looked at everything you did on your phone this week, what fruit would they see? Good stuff or bad stuff? Would they see someone who uses technology to grow and help others, or someone who just consumes and scrolls?"
 
@@ -54,7 +56,7 @@ In the digital world, "the tongue" includes texts, comments, DMs, posts, and eve
 
 ### Ages 5-7: Introducing the Concept
 
-At this age, digital stewardship is about basic habits and boundaries. Children are not making independent decisions about technology yet, but they are forming habits.
+At this age, digital stewardship is about basic habits and boundaries. Children are not making independent decisions about technology yet, but they are forming habits. Our guide to [healthy screen time for Christian kids](/blog/healthy-screen-time-for-christian-kids) covers age-by-age limits in detail.
 
 **Conversations to have:**
 - "Screens are tools, like a hammer. A hammer can build a house or break a window. How we use it matters."
@@ -109,7 +111,7 @@ Teenagers need to be making more of their own digital decisions — within a fra
 
 ## The Family Tech Contract
 
-A tech contract is not about control — it is about clarity. When expectations are written down and agreed upon, there are fewer arguments and more accountability. Here is a framework you can adapt:
+A tech contract is not about control — it is about clarity. When expectations are written down and agreed upon, there are fewer arguments and more accountability. (For a full set of sample house rules, see [screen time rules for Christian families](/blog/screen-time-rules-christian-families).) Here is a framework you can adapt:
 
 **I agree to:**
 1. Keep my phone out of my bedroom at night (charges in the kitchen)
@@ -152,7 +154,7 @@ There is no universal right answer. The average age in the US is around 11-12, b
 
 ### How do I teach digital stewardship if my child already has bad screen habits?
 
-Start with an honest, non-shaming conversation. "I realize we have not been very intentional about how we use screens in our family, and I want to change that — for all of us, not just you." Introduce one new rule at a time. Expect pushback and respond with calm consistency. Changes made gradually stick better than overnight overhauls.
+Start with an honest, non-shaming conversation. "I realize we have not been very intentional about how we use screens in our family, and I want to change that — for all of us, not just you." Introduce one new rule at a time. Expect pushback and respond with calm consistency. Changes made gradually stick better than overnight overhauls. We share a step-by-step plan in [how to reduce screen time for kids](/blog/how-to-reduce-screen-time-for-kids).
 
 ### Should Christian families avoid social media entirely?
 

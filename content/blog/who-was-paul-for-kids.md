@@ -4,6 +4,8 @@ slug: "who-was-paul-for-kids"
 type: "listicle"
 metaDescription: "Who was Paul the Apostle? From persecutor to preacher, Paul's dramatic story explained for kids. Damascus road, missionary journeys, and prison letters."
 keywords: ["who was paul for kids", "paul the apostle for kids", "saul to paul bible story children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Paul the Apostle? Bible Story for Kids
@@ -40,7 +42,7 @@ God then sent a Christian named Ananias to visit Saul. Ananias was understandabl
 
 Ananias went to Saul, placed his hands on him, and said, "Brother Saul, the Lord -- Jesus, who appeared to you on the road as you were coming here -- has sent me so that you may see again and be filled with the Holy Spirit."
 
-Immediately, something like scales fell from Saul's eyes. He could see. He was baptized. And Saul the persecutor began his transformation into Paul the apostle.
+Immediately, something like scales fell from Saul's eyes. He could see. He was baptized. And Saul the persecutor began his transformation into Paul the apostle. (We retell this dramatic moment in [Saul Meets Jesus for kids](/blog/saul-meets-jesus-for-kids).)
 
 **Key lesson for kids:** No one is too far gone for God. Saul was actively trying to destroy the church, and Jesus stopped him with a flash of light and a question. If God can turn Saul into Paul, He can change anyone. This is also a lesson about obedience -- Ananias was scared but went anyway because God asked him to.
 
@@ -50,7 +52,7 @@ The change in Paul was immediate and dramatic. He went straight to the synagogue
 
 Not everyone was happy about Paul's conversion. The Jewish leaders in Damascus plotted to kill him. Paul's friends had to lower him over the city wall in a basket at night so he could escape.
 
-When Paul went to Jerusalem, the Christians there were afraid of him. They didn't believe he was really a follower of Jesus -- they thought it might be a trick. But a man named Barnabas vouched for Paul and brought him to the apostles. Barnabas told them about Paul's encounter with Jesus and how boldly he had preached in Damascus.
+When Paul went to Jerusalem, the Christians there were afraid of him. They didn't believe he was really a follower of Jesus -- they thought it might be a trick. But a man named Barnabas vouched for Paul and brought him to the apostles. Barnabas told them about Paul's encounter with Jesus and how boldly he had preached in Damascus. (Meet this remarkable friend in [Barnabas the Encourager for kids](/blog/barnabas-the-encourager-for-kids).)
 
 **Key lesson for kids:** When God changes us, it might take time for others to believe it. Paul's past made people suspicious. But his actions over time proved that his change was real. This is true for us too -- when we change, our consistent behavior shows people that the change is genuine.
 
@@ -70,7 +72,7 @@ His journeys were anything but comfortable. In 2 Corinthians 11:24-28, Paul list
 
 And through all of it, Paul kept going. He didn't stop because it was hard. He didn't quit because it was dangerous. He was driven by one thing: the love of Christ.
 
-On these journeys, Paul preached in major cities like Antioch, Ephesus, Corinth, Philippi, and Athens. In Athens, he stood on Mars Hill and preached to Greek philosophers. In Philippi, he and Silas were beaten and thrown in prison -- where they sang hymns at midnight until an earthquake shook the prison doors open (Acts 16:25-26).
+On these journeys, Paul preached in major cities like Antioch, Ephesus, Corinth, Philippi, and Athens. In Athens, he stood on Mars Hill and preached to Greek philosophers (see [Paul in Athens for kids](/blog/paul-in-athens-for-kids)). In Philippi, he and Silas were beaten and thrown in prison -- where they sang hymns at midnight until an earthquake shook the prison doors open (Acts 16:25-26). (Read the full story in [Paul and Silas in Prison for kids](/blog/paul-and-silas-in-prison-for-kids), or start at the beginning with [Paul's First Journey for kids](/blog/pauls-first-journey-for-kids).)
 
 **Key lesson for kids:** Following Jesus doesn't mean life will be easy. Paul faced incredible hardships, but he counted them as worth it for the sake of sharing God's love. When we face difficult things for doing what's right, we're in good company.
 
@@ -96,7 +98,7 @@ Many of the most quoted Bible verses come from Paul's letters:
 
 ## Paul's Final Years
 
-Paul was eventually taken to Rome as a prisoner. According to tradition, he was executed under Emperor Nero around AD 64-67. He died for the faith he once tried to destroy.
+Paul was eventually taken to Rome as a prisoner -- a journey that included a dramatic shipwreck ([Shipwrecked! for kids](/blog/shipwrecked-for-kids)) before he arrived in the capital ([Paul in Rome for kids](/blog/paul-in-rome-for-kids)). According to tradition, he was executed under Emperor Nero around AD 64-67. He died for the faith he once tried to destroy.
 
 But before he died, Paul wrote some of his most moving words. In his final letter to Timothy, his young protege, Paul wrote:
 

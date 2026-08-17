@@ -4,6 +4,8 @@ slug: "how-to-explain-god-to-a-child"
 type: "listicle"
 metaDescription: "Age-by-age guide to explaining God to kids: 3-4, 5-7, 8-10, 11-13. Simple language, Bible verses, and practical tips for every stage of development."
 keywords: ["explain God to a child", "how to talk to kids about God", "who is God for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 "Who is God?"
@@ -51,7 +53,7 @@ At this age, children think in very concrete terms. They understand what they ca
 ### Bible Verse for This Age
 **Genesis 1:1** — "In the beginning God created the heavens and the earth."
 
-Make it kid-friendly: "A long, long time ago — before anything else existed — God was there. And He made everything."
+Make it kid-friendly: "A long, long time ago — before anything else existed — God was there. And He made everything." Our retelling of [the creation story for kids](/blog/in-the-beginning-creation-for-kids) is a lovely companion here.
 
 ## Ages 5-7: God Is Always With You and Hears Your Prayers
 
@@ -60,7 +62,7 @@ At this age, children are developing empathy, a sense of right and wrong, and th
 ### Core Ideas for This Age
 
 **God hears you when you pray.**
-"Whenever you talk to God — out loud or just in your mind — He hears every word. You can tell Him anything. He never gets tired of listening to you."
+"Whenever you talk to God — out loud or just in your mind — He hears every word. You can tell Him anything. He never gets tired of listening to you." (For more on this conversation, see [how to explain prayer to a child](/blog/how-to-explain-prayer-to-a-child).)
 
 **God has a plan for your life.**
 "God made you on purpose. He gave you your personality, your gifts, your smile, and your laugh for a reason. He has good plans for you, even when things are hard."
@@ -74,6 +76,8 @@ At this age, children are developing empathy, a sense of right and wrong, and th
 
 **God sent Jesus because He loves us.**
 "God loves people so much that He sent His own Son, Jesus, to live on earth and to die for us so that we could be forgiven and be close to God forever. That is how much God loves you — He gave His most precious thing."
+
+If your child starts asking how God, Jesus, and the Holy Spirit fit together, here is [how to explain the Trinity to a child](/blog/how-to-explain-the-trinity-to-a-child).
 
 ### Practical Tips for Ages 5-7
 - Start praying together in their own words (not just memorized prayers)
@@ -98,7 +102,7 @@ At this age, children can think more abstractly. They understand fairness, justi
 "God cares about fairness. He sees when people are treated wrongly, and He cares. The Bible says He is a defender of orphans and widows — people who have no one else to stand up for them. God's justice means that wrong will not win forever."
 
 **God is merciful.**
-"Even though God is perfectly fair, He is also incredibly merciful. Mercy means not giving someone the punishment they deserve. We all deserve consequences for our sins, but God offers forgiveness through Jesus instead. Justice and mercy meet at the cross."
+"Even though God is perfectly fair, He is also incredibly merciful. Mercy means not giving someone the punishment they deserve. We all deserve consequences for our sins, but God offers forgiveness through Jesus instead. Justice and mercy meet at the cross." (Our guide on [explaining sin to a child](/blog/how-to-explain-sin-to-a-child) can lay the groundwork for this idea.)
 
 **God is all-knowing and all-powerful.**
 "God knows everything — every star in the sky, every grain of sand on the beach, every thought you have ever had. And He is more powerful than anything in the universe. Nothing surprises Him and nothing is too hard for Him."
@@ -135,6 +139,8 @@ This is the big one. Here is an honest, age-appropriate way to address it:
 But God did not abandon us in the brokenness. He entered into it. Jesus suffered. He was betrayed, rejected, beaten, and killed. God knows what suffering feels like from the inside.
 
 And the story is not over. God promises that one day He will make everything right — 'He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain' (Revelation 21:4). We live in the 'not yet' — between the brokenness and the restoration. And in the meantime, God is with us in every dark moment."
+
+We dig deeper into this question in [why do bad things happen? A Bible answer for kids](/blog/why-do-bad-things-happen-bible-for-kids).
 
 **Faith and science are not enemies.**
 "Many of the greatest scientists in history have been Christians. Science studies how the world works; faith asks why it exists and what it means. They answer different questions, and they can work together."

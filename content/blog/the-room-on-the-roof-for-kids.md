@@ -1,6 +1,8 @@
 ---
 title: "The Room on the Roof for Kids: Bible Story Explained Simply"
 slug: "the-room-on-the-roof-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 08
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did the wealthy woman of Shunem do for Elisha whenever he passed through town?
+### What did the wealthy woman of Shunem do for Elisha whenever he passed through town?
 
 The Shunammite woman's generosity led to blessings she never expected. And when everything seemed lost — when her son was dead — God brought him back to life. No situation is too far gone for God. He specializes in resurrection.
 
+### What did the Shunammite woman build for Elisha?
+
+**A small room on the roof with a bed, table, chair, and lamp.**
+
+### What blessing did Elisha promise the woman?
+
+**A son by the next year.**
+
+### What happened to the boy years later while he was in the fields?
+
+**He cried out about his head hurting and later died.**
+
+### Where did the mother lay her dead son?
+
+**On Elisha's bed in the room on the roof.**
+
+### What did Elisha do when he reached the dead boy?
+
+**Shut the door, prayed to the Lord, and stretched himself over the child.**
+
+### How many times did the boy sneeze when he came back to life?
+
+**Seven times.**
+
+### What is the main lesson of this story?
+
+**The kindness you show others comes back in ways you can't imagine, and nothing is too dead for God to bring back to life.**
 
 ## Discussion Questions for Families
 

@@ -4,6 +4,8 @@ slug: "bible-stories-about-bullying-for-kids"
 type: "listicle"
 metaDescription: "Help your child face bullying with courage using these Bible stories. David, Joseph, Daniel, and Esther show kids they are never alone."
 keywords: ["bible stories about bullying for kids", "christian response to bullying", "bible verses for bullied kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 If your child is being bullied, your heart is probably breaking. You want to fix it, fight back, and protect them from every cruel word and every lonely lunch table. But you also know you cannot always be there. What you can do is fill your child's heart with truth — truth about who they are, who God says they are, and what courage looks like when the world feels hostile.
@@ -14,7 +16,7 @@ Here are six Bible stories that speak directly to the experience of being bullie
 
 ## 1. David and Goliath: When the Bully Seems Too Big (1 Samuel 17)
 
-Every kid knows this story, but when a child is being bullied, it takes on new meaning. David was a shepherd boy — the youngest, the smallest, the one his own family overlooked. When he volunteered to fight Goliath, even King Saul said he was too small.
+Every kid knows [this story](/blog/david-and-goliath-for-kids), but when a child is being bullied, it takes on new meaning. David was a shepherd boy — the youngest, the smallest, the one his own family overlooked. When he volunteered to fight Goliath, even King Saul said he was too small.
 
 Goliath mocked David openly: "Am I a dog, that you come at me with sticks?" (1 Samuel 17:43). He cursed David and laughed at him in front of two entire armies.
 
@@ -36,7 +38,7 @@ This does not mean bullying is okay. It means that God can bring something good 
 
 Daniel served faithfully in a foreign government, but his colleagues were jealous. They could not find any fault in his work, so they targeted the one thing that made him different — his faith. They manipulated the king into signing a law that made prayer illegal, knowing Daniel would never stop praying.
 
-Daniel did not hide. He did not compromise. He went to his room, opened his windows toward Jerusalem, and prayed just as he always had (Daniel 6:10). He was thrown into a den of lions. And God shut the lions' mouths.
+Daniel did not hide. He did not compromise. He went to his room, opened his windows toward Jerusalem, and prayed just as he always had (Daniel 6:10). He was [thrown into a den of lions](/blog/daniel-in-the-lions-den-for-kids). And God shut the lions' mouths.
 
 This story speaks powerfully to kids who are bullied for being different — for their faith, their interests, their personality, or anything else that sets them apart.
 
@@ -68,7 +70,7 @@ Haman was the ultimate bully — a powerful official who wanted to destroy an en
 
 Mordecai's words to Esther echo through the centuries: "Who knows but that you have come to your royal position for such a time as this?" (Esther 4:14).
 
-Esther fasted, prayed, and then walked into the king's court. She spoke up. She exposed Haman's cruelty. And she saved her people.
+Esther fasted, prayed, and then walked into the king's court. She spoke up. She exposed Haman's cruelty. And [she saved her people](/blog/esther-saves-her-people-for-kids).
 
 **What your child needs to hear:** "Sometimes standing up to a bully means telling the truth to someone who can help. That is not tattling — that is courage. Esther saved lives by speaking up."
 
@@ -85,6 +87,8 @@ Beyond these stories, here are five things every bullied child needs to hear fro
 4. **"Telling an adult is brave."** Reframe reporting as courage, not weakness. Esther saved her people by speaking up. Your child can too.
 
 5. **"This will not last forever."** Joseph's story took years, but it ended in redemption. Help your child hold onto hope even when the situation feels permanent.
+
+Alongside these stories, keep a few [Bible verses about courage](/blog/bible-verses-about-courage-for-kids) on hand, and if the bullying has stirred up worry, these [Bible stories about fear and anxiety](/blog/bible-stories-about-fear-and-anxiety-for-kids) can help too.
 
 ## When to Seek Help
 

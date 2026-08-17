@@ -4,6 +4,8 @@ slug: "how-to-start-kids-bible-study-group"
 type: "listicle"
 metaDescription: "Step-by-step guide to starting a kids Bible study group at your church. Age groups, curriculum, volunteers, session structure, and parent engagement."
 keywords: ["kids bible study group", "children's ministry curriculum", "church bible study for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 Starting a kids Bible study group at your church is one of the most impactful things you can do for the next generation. When children gather together to explore God's Word, they build friendships, deepen their faith, and develop habits that last a lifetime.
@@ -33,7 +35,7 @@ The curriculum you pick sets the tone for everything. Here are the main approach
 Programs like Gospel Project for Kids, Orange/252 Kids, and Answers in Genesis offer complete lesson plans with videos, crafts, and discussion guides. The upside is that everything is done for you. The downside is cost -- expect $100-300 per quarter depending on the program.
 
 **Free Resources**
-Websites like Ministry-to-Children.com and The Bible App for Kids offer free lesson plans and printables. These require more preparation time but work well for churches on a budget.
+Websites like Ministry-to-Children.com and The Bible App for Kids offer free lesson plans and printables. These require more preparation time but work well for churches on a budget. Our roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids) is a good place to start.
 
 **Video-Based Learning**
 This is where modern tools shine. Programs like Faithful Kids use AI-generated video lessons where kids watch engaging Bible stories, then answer quiz questions and reflect on what they learned. Video-based approaches work especially well for volunteer-led groups because the teaching is built into the content -- your volunteers facilitate discussion rather than lecture.
@@ -73,7 +75,7 @@ Singing together builds community. You don't need a worship band -- a phone conn
 This is the core teaching time. Whether you're reading Scripture together, watching a video lesson, or having a volunteer teach, keep it interactive. Ask questions throughout. Use props. Move around the room.
 
 **Activity (10-15 minutes)**
-Reinforce the lesson with a craft, game, or hands-on activity. For the story of Noah, build an ark out of popsicle sticks. For David and Goliath, have kids write their "giants" (fears) on paper and crumple them up. For the feeding of the 5,000 (John 6:1-14), share a snack together and talk about generosity.
+Reinforce the lesson with a [craft](/blog/bible-crafts-for-sunday-school), game, or hands-on [object lesson](/blog/bible-object-lessons-for-kids). For the story of Noah, build an ark out of popsicle sticks. For David and Goliath, have kids write their "giants" (fears) on paper and crumple them up. For the feeding of the 5,000 (John 6:1-14), share a snack together and talk about generosity.
 
 **Closing (5 minutes)**
 Recap the main point, pray together, and give kids a take-home card with a verse to remember and a question to discuss with their parents.
@@ -114,7 +116,7 @@ Consistency is everything with kids. They thrive on routine. Here's a sample ann
 - **May:** Acts and the Early Church (4 weeks)
 - **June-August:** Summer break or lighter schedule (optional VBS tie-in)
 
-Plan at least one special event per quarter: a Bible trivia night, a service project, a movie night featuring a Bible-based film, or a family potluck.
+Plan at least one special event per quarter: a [family Bible trivia night](/blog/family-bible-trivia-night), a service project, a movie night featuring a Bible-based film, or a family potluck.
 
 ## Step 8: Measure and Adjust
 
@@ -133,7 +135,7 @@ Don't be afraid to adjust. Maybe your lesson time is too long. Maybe your pretee
 Start with one group instead of three. It's better to do one age group well than three poorly. As the group grows, volunteers will emerge from within.
 
 **"Kids are distracted and won't sit still."**
-Shorten your lesson time and add more movement. Games, acting out Bible stories, and hands-on activities keep energy focused.
+Shorten your lesson time and add more movement. [Bible games for kids](/blog/bible-games-for-kids), acting out Bible stories, and hands-on activities keep energy focused. A quick round of [Bible trivia](/blog/bible-trivia-for-kids) at the end of a lesson also works wonders for review.
 
 **"Parents aren't engaged."**
 Make it easy. A two-sentence text message with the week's verse and one question is more effective than a long email most parents won't read.

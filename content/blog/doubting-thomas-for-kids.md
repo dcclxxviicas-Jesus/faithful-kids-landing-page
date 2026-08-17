@@ -1,6 +1,8 @@
 ---
 title: "Doubting Thomas for Kids: Bible Story Explained Simply"
 slug: "doubting-thomas-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 04
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why was Thomas not with the other disciples when Jesus first appeared?
+### Why was Thomas not with the other disciples when Jesus first appeared?
 
+**He had stepped out and missed it.** Thomas simply was not there when Jesus appeared to the group. He missed the moment, which set up his struggle with doubt.
 
+### What did Thomas say he would need in order to believe Jesus was alive?
 
+**He wanted to see the nail marks in Jesus' hands and put his finger in them, and put his hand in Jesus' side.** Thomas set a very specific and physical standard for belief. He wanted to see and touch the wounds himself.
+
+### How long did Thomas wait before Jesus appeared again?
+
+**One full week.** Thomas sat with his doubt for seven full days while everyone around him was celebrating. Then, the following Sunday, Jesus came again.
+
+### What did Thomas say when he finally saw Jesus?
+
+**"My Lord and my God!".** "My Lord and my God!" is the greatest declaration of who Jesus is in all four Gospels — and it came from the one who doubted most.
+
+### What did Jesus say about people who believe without seeing Him?
+
+**"Blessed are those who have not seen and yet have believed".** Jesus said those who believe without seeing are blessed. That includes every believer today — including you.
 
 ## Discussion Questions for Families
 

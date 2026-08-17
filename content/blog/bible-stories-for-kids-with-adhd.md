@@ -4,6 +4,8 @@ slug: "bible-stories-for-kids-with-adhd"
 type: "listicle"
 metaDescription: "The best Bible stories for kids with ADHD — action-packed, short, and easy to remember. Plus tips for engaging ADHD learners with Scripture."
 keywords: ["bible stories for kids with adhd", "adhd bible study kids", "short bible stories for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 If your child has ADHD, you already know that traditional Bible study methods — sitting still, reading long passages, filling out worksheets — can feel like torture. Not because your child does not care about God. Not because they are being defiant. But because their brain is wired differently, and it needs movement, novelty, and engagement to absorb information.
@@ -42,7 +44,7 @@ The Bible, when taught with these principles, becomes one of the most ADHD-frien
 
 **Key moment:** The storm at sea (Jonah 1:4-5). The sailors are terrified, the ship is breaking apart, and Jonah is asleep below deck. The drama is cinematic.
 
-**Make it stick:** Draw a massive fish and put Jonah inside it. Or build a "fish belly" fort with blankets and sit inside to talk about what Jonah prayed while he was stuck in the dark.
+**Make it stick:** Draw a massive fish and put Jonah inside it. Or build a "fish belly" fort with blankets and sit inside to talk about what Jonah prayed while he was stuck in the dark. Our retelling of [Jonah running from God](/blog/jonah-running-from-god-for-kids) covers the whole arc.
 
 ### 3. The Walls of Jericho (Joshua 6:1-20)
 
@@ -58,7 +60,7 @@ The Bible, when taught with these principles, becomes one of the most ADHD-frien
 
 **Key moment:** The king calling out to Daniel the next morning: "Daniel, servant of the living God, has your God been able to rescue you from the lions?" (Daniel 6:20). The dramatic irony is powerful — the audience knows God saved Daniel, but the king does not yet.
 
-**Make it stick:** Turn off the lights and tell this story with a flashlight. The darkness of the den, the silence, the waiting — and then the light when the stone is rolled away.
+**Make it stick:** Turn off the lights and tell this story with a flashlight. The darkness of the den, the silence, the waiting — and then the light when the stone is rolled away. There is a full kid-friendly version of [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids) on the blog.
 
 ### 5. Peter Walks on Water (Matthew 14:22-33)
 
@@ -90,7 +92,7 @@ The Bible, when taught with these principles, becomes one of the most ADHD-frien
 
 **Key moment:** The contrast between chaos and calm. One second the boat is about to capsize. The next second, everything is perfectly still. The disciples look at each other: "Who is this? Even the wind and the waves obey him!" (Mark 4:41).
 
-**Make it stick:** Fill a bowl with water. Blow on it to make waves. Then have your child say "Quiet! Be still!" and stop blowing. Watch the water settle. "That is what Jesus can do with the storms in your life."
+**Make it stick:** Fill a bowl with water. Blow on it to make waves. Then have your child say "Quiet! Be still!" and stop blowing. Watch the water settle. "That is what Jesus can do with the storms in your life." (Full story: [Jesus calms the storm](/blog/calming-the-storm-for-kids).)
 
 ## Tips for Engaging ADHD Kids with the Bible
 
@@ -106,7 +108,7 @@ The Bible, when taught with these principles, becomes one of the most ADHD-frien
 
 **Let them choose.** Give your child two or three story options and let them pick. Autonomy increases engagement dramatically.
 
-**Use hands-on activities.** Build, draw, act out, or create something related to the story. ADHD kids are often kinesthetic learners who process information through their hands.
+**Use hands-on activities.** Build, draw, act out, or create something related to the story. ADHD kids are often kinesthetic learners who process information through their hands. These [Bible games for kids](/blog/bible-games-for-kids) are a great starting point.
 
 **Celebrate engagement, not perfection.** If your child listened for three minutes and remembers one thing, that is a win. Do not measure their spiritual growth by neurotypical standards.
 
@@ -132,7 +134,7 @@ Not at all. Traditional church services are designed for neurotypical adult atte
 
 ### What if my child only wants to watch videos and never read the Bible?
 
-Start where they are. Video engagement is real engagement. Over time, you can layer in reading — a single verse connected to the video they just watched, for example. Many ADHD children become strong readers when they find material that captivates them. The goal is a lifelong relationship with Scripture, not a specific delivery method.
+Start where they are. Video engagement is real engagement. Over time, you can layer in reading — a single verse connected to the video they just watched, for example. Many ADHD children become strong readers when they find material that captivates them. The goal is a lifelong relationship with Scripture, not a specific delivery method. We dig deeper into this in [Bible stories for kids who hate reading](/blog/bible-stories-for-kids-who-hate-reading).
 
 ### Are there Bible study resources designed specifically for kids with ADHD?
 

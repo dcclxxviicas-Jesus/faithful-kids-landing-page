@@ -1,6 +1,8 @@
 ---
 title: "The Woman at the Well for Kids: Bible Story Explained Simply"
 slug: "the-woman-at-the-well-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 04
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why was it so shocking that Jesus spoke to this woman?
+### Why was it so shocking that Jesus spoke to this woman?
 
+**She was a Samaritan, and Jews didn't talk to Samaritans.** 
 
+### What time of day did the woman come to the well?
 
+**Noon — the hottest part of the day.**
+
+### What did Jesus offer the woman?
+
+**Living water that would satisfy her forever.**
+
+### What surprising thing did Jesus know about the woman?
+
+**That she had five husbands and the man she was with wasn't her husband.**
+
+### What did the woman do after talking to Jesus?
+
+**She ran to town and told everyone about Jesus.**
 
 ## Discussion Questions for Families
 

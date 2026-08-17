@@ -4,6 +4,8 @@ slug: "how-to-explain-heaven-to-a-preschooler"
 type: "listicle"
 metaDescription: "A gentle guide to explaining heaven to preschoolers. Simple, comforting language about what heaven is, who will be there, and how to answer tough questions."
 keywords: ["explain heaven to a preschooler", "heaven for kids", "how to talk to children about heaven"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 "Where do people go when they die?" "Is Grandma in heaven?" "What does heaven look like?"
@@ -26,7 +28,7 @@ You might say: "You know the happiest you have ever been? Maybe when we went to 
 
 This is the heart of heaven. It is not primarily about the place — it is about the Person.
 
-"Heaven means being with God forever. And God loves you more than anyone in the whole world. Being with Him will be the happiest, safest feeling you have ever had — and it will never end."
+"Heaven means being with God forever. And God loves you more than anyone in the whole world. Being with Him will be the happiest, safest feeling you have ever had — and it will never end." (If "who is God?" comes next, here is [how to explain God to a child](/blog/how-to-explain-god-to-a-child).)
 
 **John 14:2-3** — Jesus said: "My Father's house has many rooms... I am going there to prepare a place for you. And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am."
 
@@ -48,7 +50,7 @@ Preschoolers love beautiful things — sparkly things, colorful things, things t
 
 "The Bible says heaven is more beautiful than anything we have ever seen. It says there are streets of gold and gates made of pearls. There is a river of clear water and trees that give fruit all year long. And the best part — there is no night in heaven because God's light shines everywhere."
 
-You do not need to get into the theological details of whether these descriptions are literal or symbolic. For a preschooler, the point is simple: heaven is breathtakingly beautiful.
+You do not need to get into the theological details of whether these descriptions are literal or symbolic. For a preschooler, the point is simple: heaven is breathtakingly beautiful. (When they are older, the story of [a new heaven and new earth](/blog/a-new-heaven-and-new-earth-for-kids) paints the full picture.)
 
 ### 4. Everyone Who Loves Jesus Will Be There
 
@@ -68,7 +70,7 @@ A simple analogy: "You know how your favorite song ends and you want to play it 
 
 ## When a Preschooler Asks About Death
 
-The conversation about heaven often comes up because of a conversation about death — a pet died, a grandparent passed away, or they saw something on TV. Here is how to handle it:
+The conversation about heaven often comes up because of a conversation about death — a pet died, a grandparent passed away, or they saw something on TV. For a fuller treatment written for kids of all ages, see our guide to [explaining death and heaven to kids](/blog/explaining-death-and-heaven-to-kids). Here is how to handle it:
 
 ### Be Honest but Gentle
 "When someone dies, their body stops working. It is like a shell — the real them, their soul, goes to be with God in heaven. Their body stays here, but they — who they really are — are with God."
@@ -100,7 +102,7 @@ If your preschooler is dealing with the loss of someone close, here are extra ti
 
 - **"God needed another angel."** This is not biblically accurate (people do not become angels) and it can make children afraid that God will "need" them or someone they love.
 - **"They are in a better place."** While true, this can feel dismissive to a grieving child. Pair it with empathy: "They are with God, which is wonderful. AND it is okay that we are sad they are not here with us."
-- **"Only good people go to heaven."** This can terrify a child who knows they are not always good. The Bible teaches that heaven is a gift of grace through faith, not a reward for being good enough.
+- **"Only good people go to heaven."** This can terrify a child who knows they are not always good. The Bible teaches that heaven is a gift of grace through faith, not a reward for being good enough. (Our guide on [explaining salvation to a child](/blog/how-to-explain-salvation-to-a-child) unpacks this beautifully.)
 - **"Do not cry."** Let them feel their feelings. Jesus wept at the death of His friend Lazarus (John 11:35). If Jesus cried, your child can too.
 
 ## Answering Tough Preschooler Questions
@@ -123,6 +125,8 @@ This is one of the most common questions from young children. You can honestly s
 ## A Simple Bedtime Prayer About Heaven
 
 "Dear God, thank You that You have a beautiful place called heaven waiting for us. Thank You that there are no more tears or boo-boos there. Thank You that everyone who loves Jesus gets to be with You forever. Help us not be afraid. Help us trust You. We love You. Amen."
+
+For more end-of-day prayer ideas, browse our collection of [bedtime prayers for kids](/blog/bedtime-prayers-for-kids).
 
 ## Watch on Faithful Kids
 

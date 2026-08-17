@@ -4,6 +4,8 @@ slug: "how-to-explain-salvation-to-a-child"
 type: "listicle"
 metaDescription: "How to explain salvation to a child using simple, age-appropriate language. Scripts for ages 4-12, key Bible verses, what not to say, and a sample prayer."
 keywords: ["how to explain salvation to a child", "salvation for kids", "how to explain Jesus to a child", "gospel for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # How to Explain Salvation to a Child (Simple, Age-Appropriate Language)
@@ -47,7 +49,7 @@ At this age, keep it to three big ideas:
 **Jesus came to fix it.**
 "God loved us so much that He sent His son Jesus to earth. Jesus never did anything wrong, not even once. But He chose to take the punishment for all the wrong things we do. He died on a cross, and then something amazing happened: He came back to life three days later! That means He is stronger than anything bad, even death. And if we tell Jesus we are sorry for the wrong things we do and ask Him to be our friend and leader, He forgives us completely and we get to be with God forever."
 
-That is it for a four-to-six-year-old. Do not go deeper unless they ask.
+That is it for a four-to-six-year-old. Do not go deeper unless they ask. If you want a fuller kid-friendly walkthrough of this message, see [the gospel explained for kids](/blog/the-gospel-explained-for-kids).
 
 ### Ages 7-9: Adding More Detail
 
@@ -57,7 +59,7 @@ Children in this age range can handle cause and effect, so you can introduce the
 "In the very beginning, God created people to be close to Him. Adam and Eve walked with God in the Garden of Eden. They talked to Him like a friend. That is what God wants with you too, a close, real friendship" (Genesis 1-2).
 
 **Explain sin as separation.**
-"But Adam and Eve chose to disobey God, and that choice broke their closeness with Him. It is like if you told your best friend a big lie. You are still friends, but something feels broken between you. Sin is anything we think, say, or do that goes against what God says is good. And every person who has ever lived has sinned. 'For all have sinned and fall short of the glory of God' (Romans 3:23)."
+"But Adam and Eve chose to disobey God, and that choice broke their closeness with Him. It is like if you told your best friend a big lie. You are still friends, but something feels broken between you. Sin is anything we think, say, or do that goes against what God says is good. And every person who has ever lived has sinned. 'For all have sinned and fall short of the glory of God' (Romans 3:23)." Our guide on [explaining sin to a child](/blog/how-to-explain-sin-to-a-child) unpacks this piece in more depth.
 
 **Explain why Jesus had to come.**
 "The problem is that we cannot fix this on our own. We cannot be good enough to undo the broken relationship. That is why God sent Jesus. 'For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life' (John 3:16). Jesus lived a perfect life, died on the cross to take the punishment we deserved, and rose from the dead three days later."
@@ -118,7 +120,7 @@ When your child is genuinely ready, not pressured, not performing, but ready, yo
 
 "Dear Jesus, thank you for loving me. I know I have done wrong things, and I am sorry. Thank you for dying on the cross to take away my sins and coming back to life. I believe in you. I want to follow you and be your friend forever. Please come into my life and help me live the way you want me to. Amen."
 
-After they pray, celebrate. Tell them what just happened is the most important decision they will ever make. And then live it out with them, daily, through Bible reading, prayer, church, and conversation. Salvation is a doorway, not a destination. The journey of faith begins now.
+After they pray, celebrate. Tell them what just happened is the most important decision they will ever make. And then live it out with them, daily, through Bible reading, prayer, church, and conversation. Salvation is a doorway, not a destination. The journey of faith begins now. (And when the next big question comes, here is [how to explain baptism to a child](/blog/how-to-explain-baptism-to-a-child).)
 
 ---
 
@@ -126,8 +128,8 @@ After they pray, celebrate. Tell them what just happened is the most important d
 
 Many parents focus entirely on the salvation moment and forget to nurture what comes next. Here are four things to do in the days and weeks that follow:
 
-1. **Start reading the Bible together.** Even five minutes a day builds a habit. The Gospel of John is a great starting point.
-2. **Encourage them to pray in their own words.** Not formal, scripted prayers. Just talking to God like a friend.
+1. **Start reading the Bible together.** Even five minutes a day builds a habit. The Gospel of John is a great starting point, and our tips on [starting family Bible time](/blog/how-to-start-family-bible-time) can help you make it stick.
+2. **Encourage them to pray in their own words.** Not formal, scripted prayers. Just talking to God like a friend. If they need a nudge, these ideas for [praying with kids](/blog/how-to-pray-with-kids) can help.
 3. **Connect them with a church community.** Sunday School, kids' ministry, or a small group gives them peers who share their faith.
 4. **Be patient with imperfection.** Your child will still sin after their salvation prayer. That does not mean it did not work. It means they are human. Teach them about confession and God's ongoing grace (1 John 1:9).
 

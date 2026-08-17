@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Bible stories about self-control for kids: 10 stories -- David sparing Saul, Daniel's food test, Jesus in the desert -- retold simply with verses."
 keywords: ["bible stories about self control for kids", "what does the bible say about self control for kids", "how to teach kids self control from the bible", "self control bible stories for children", "which bible characters showed self control", "bible verses about self control for kids"]
 datePublished: "2026-04-16"
-dateModified: "2026-08-15"
+dateModified: "2026-08-16"
 ---
 
 The best Bible stories about self-control for kids are David sparing Saul in the cave, Daniel refusing the king's food, and Jesus resisting temptation in the desert -- plus seven more below, each retold simply with the verse it comes from. Some show self-control winning, like Joseph fleeing temptation; some show what happens when it loses (Samson, Esau, King Saul) -- often the lesson kids remember best.
@@ -62,7 +62,7 @@ When soldiers came to arrest Him, one of His friends drew a sword and cut off a 
 
 Samson was the strongest man alive, set apart by God from birth. But his strength had no walls around it. He chased whatever he wanted, lost his temper constantly, and when Delilah pestered him day after day, he finally told her the secret of his strength. She had his hair cut while he slept, and his strength left him.
 
-His enemies captured him, blinded him, and put him to work grinding grain in prison. In his final act, Samson prayed, God returned his strength one last time, and he pushed down the temple pillars on the Philistines (Judges 16:28-30).
+His enemies captured him, blinded him, and put him to work grinding grain in prison. In his final act, Samson prayed, God returned his strength one last time, and he pushed down the temple pillars on the Philistines (Judges 16:28-30). The whole arc is retold in [Samson's fall and final stand](/blog/samsons-fall-and-final-stand-for-kids).
 
 **What kids learn:** Talent without self-control ends in disaster. Samson is Proverbs 25:28 in person -- a strong man with broken walls. Yet his ending shows God gives second chances to those who turn back to Him.
 
@@ -78,7 +78,7 @@ Water still came out. But God told Moses that because he did not trust Him enoug
 
 Esau came in from the fields starving. His brother Jacob was cooking lentil stew, and Esau demanded some -- "Quick, let me have some of that red stew!" Jacob named his price: Esau's birthright -- the inheritance and blessing of the oldest son.
 
-Esau reasoned that a birthright was no use to a starving man, swore the oath, ate, and left. Genesis 25:34 ends bluntly: "So Esau despised his birthright." He traded something priceless and permanent for something cheap and temporary, all because he could not wait one hour for a meal.
+Esau reasoned that a birthright was no use to a starving man, swore the oath, ate, and left (the rivalry continues in [Jacob and Esau for kids](/blog/jacob-and-esau-for-kids)). Genesis 25:34 ends bluntly: "So Esau despised his birthright." He traded something priceless and permanent for something cheap and temporary, all because he could not wait one hour for a meal.
 
 **What kids learn:** This is the clearest impulse-control story in the Bible. "I want it NOW" can cost you something you will want forever. Feelings like hunger are loud, but loud does not mean important.
 
@@ -86,7 +86,7 @@ Esau reasoned that a birthright was no use to a starving man, swore the oath, at
 
 In Jesus' parable, the younger son demanded his inheritance early, left home, and "squandered his wealth in wild living" (Luke 15:13). No rules, no limits, no self-control -- until the money ran out and a famine hit. He ended up feeding pigs, so hungry he wanted their food.
 
-In the pigpen, "he came to his senses" (Luke 15:17) and headed home to apologize. His father saw him from far off, ran, embraced him, and threw a feast. The parable is mostly about the father's grace, but the first half is the Bible's honest picture of life with zero self-control.
+In the pigpen, "he came to his senses" (Luke 15:17) and headed home to apologize. His father saw him from far off, ran, embraced him, and threw a feast ([the full parable](/blog/the-prodigal-son-for-kids) is worth reading together). The parable is mostly about the father's grace, but the first half is the Bible's honest picture of life with zero self-control.
 
 **What kids learn:** Total freedom with no limits sounds fun and ends empty. Rules and self-discipline are not a cage -- they are what keep the good life from leaking away. And when you blow it, home is still open.
 
@@ -94,7 +94,7 @@ In the pigpen, "he came to his senses" (Luke 15:17) and headed home to apologize
 
 Before Saul was chasing David, his own downfall started with a failure to wait. The Philistine army was massing, Saul's soldiers were scattering, and the prophet Samuel had told Saul to wait seven days for him to come offer the sacrifice. Saul waited almost the whole time -- then panicked and offered the burnt offering himself, which was not his to offer.
 
-Samuel arrived just as he finished. "You have done a foolish thing," he said. "You have not kept the command the LORD your God gave you... your kingdom will not endure" (1 Samuel 13:13-14). Saul's impatience under pressure revealed a heart that trusted his own timing over God's.
+Samuel arrived just as he finished. "You have done a foolish thing," he said. "You have not kept the command the LORD your God gave you... your kingdom will not endure" (1 Samuel 13:13-14). Saul's impatience under pressure revealed a heart that trusted his own timing over God's -- a pattern that deepened in [Saul's disobedience](/blog/sauls-disobedience-for-kids).
 
 **What kids learn:** Self-control is hardest at the last minute, when the pressure peaks. Obeying 90 percent of the way is not obeying. Waiting on God is a form of self-control too.
 

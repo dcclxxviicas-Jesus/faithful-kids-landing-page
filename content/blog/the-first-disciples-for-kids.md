@@ -1,6 +1,8 @@
 ---
 title: "The First Disciples for Kids: Bible Story Explained Simply"
 slug: "the-first-disciples-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 02
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who pointed to Jesus and called Him "the Lamb of God"?
+### Who pointed to Jesus and called Him "the Lamb of God"?
 
+**John the Baptist.** 
 
+### What did Jesus say when Andrew and the other disciple asked where He was staying?
 
+**"Come and see".**
+
+### Andrew brought his brother to meet Jesus. What was his brother's name?
+
+**Simon (Peter).**
+
+### What did Nathanael say when he first heard Jesus was from Nazareth?
+
+**"Can anything good come from there?".**
+
+### What convinced Nathanael that Jesus was the Son of God?
+
+**Jesus knew about him before they met — He saw him under the fig tree.**
 
 ## Discussion Questions for Families
 

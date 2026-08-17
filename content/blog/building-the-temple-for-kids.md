@@ -1,6 +1,8 @@
 ---
 title: "Building the Temple for Kids: Bible Story Explained Simply"
 slug: "building-the-temple-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Solomon and the Kingdom"
 seriesSlug: "solomon-and-the-kingdom"
 episode: 03
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who originally dreamed of building a temple for God?
+### Who originally dreamed of building a temple for God?
 
 David dreamed the dream, but Solomon built the building. That was always God's plan. Sometimes your role is to start something that someone else will finish — and that's not failure, it's faithfulness. Every person's chapter matters in God's bigger story.
 
+### How many years did it take to build Solomon's temple?
+
+**7 years.**
+
+### What was unique about the construction at the actual building site?
+
+**No hammer, chisel, or iron tool was heard — all stones were cut offsite.**
+
+### What material covered the interior walls, floors, and altar of the temple?
+
+**Pure gold.**
+
+### What is the main lesson of this episode?
+
+**When God gives you a dream, it might take someone else to build it — and that's okay, because we're all part of God's bigger story.**
 
 ## Discussion Questions for Families
 

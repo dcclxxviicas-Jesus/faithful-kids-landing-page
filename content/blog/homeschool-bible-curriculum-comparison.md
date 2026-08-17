@@ -4,6 +4,8 @@ slug: "homeschool-bible-curriculum-comparison"
 type: "listicle"
 metaDescription: "Compare top homeschool Bible curricula for 2026: Apologia, Sonlight, Answers in Genesis, free options, and video-based programs like Faithful Kids."
 keywords: ["homeschool bible curriculum", "bible curriculum comparison", "best bible curriculum for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 Choosing a Bible curriculum for your homeschool is one of the most personal decisions you'll make as a parent. You want something that teaches Scripture faithfully, engages your kids, and fits your family's schedule and budget.
@@ -155,7 +157,7 @@ Easy Peasy offers a free, full K-12 Bible curriculum online. Each day has a Bibl
 
 ### 8. Ministry-to-Children.com
 
-This site offers hundreds of free Bible lesson plans designed for Sunday school but easily adaptable for homeschool. Each lesson includes the Bible story, discussion questions, crafts, and coloring pages.
+This site offers hundreds of free Bible lesson plans designed for Sunday school but easily adaptable for homeschool. Each lesson includes the Bible story, discussion questions, crafts, and coloring pages. We've also rounded up our own [free Bible printables for kids](/blog/free-bible-printables-for-kids) you can add to the mix.
 
 **Best for:** Families who want activity-rich, hands-on Bible lessons.
 
@@ -163,7 +165,7 @@ This site offers hundreds of free Bible lesson plans designed for Sunday school 
 
 ### 9. The Bible App for Kids (YouVersion)
 
-An interactive app that retells 41 Bible stories with touchscreen animations, narration, and activities. Not a full curriculum, but an excellent supplement.
+An interactive app that retells 41 Bible stories with touchscreen animations, narration, and activities. Not a full curriculum, but an excellent supplement. (Read our full [Bible App for Kids review](/blog/bible-app-for-kids-review) for the details.)
 
 **Best for:** Younger kids (ages 4-8) as a daily Bible story time.
 
@@ -201,6 +203,8 @@ Faithful Kids is a newer approach that uses AI-generated video lessons to teach 
 
 **Cost:** $14.99/month or $7.99/month billed annually ($95.88/year). Includes a 7-day free trial.
 
+Curious how it stacks up against YouVersion's free app? See our [Bible App for Kids vs Faithful Kids comparison](/blog/bible-app-for-kids-vs-faithful-kids).
+
 **Time commitment:** 15-20 minutes per episode (video + quiz + reflection). Perfect for daily use.
 
 ## Side-by-Side Comparison
@@ -229,7 +233,7 @@ Faithful Kids is a newer approach that uses AI-generated video lessons to teach 
 
 **If you want Bible woven into everything:** Sonlight integrates Bible into history and literature, so it's not a separate subject but a lens through which your kids see the world.
 
-**If you're new to homeschooling:** Start simple. Read the Bible together for 15 minutes a day. Add a structured curriculum later once you know your family's rhythms.
+**If you're new to homeschooling:** Start simple. Read the Bible together for 15 minutes a day -- our guide on [how to start family Bible time](/blog/how-to-start-family-bible-time) walks you through it. Add a structured curriculum later once you know your family's rhythms.
 
 ## Can You Combine Programs?
 
@@ -239,7 +243,7 @@ Absolutely -- and many families do. A popular combination:
 - **Faithful Kids** for daily video lessons that reinforce and expand on what they're learning
 - **Family Bible reading** at dinner or bedtime for devotional time together
 
-The key is not to over-schedule. Bible learning should feel like a gift, not a chore. As Deuteronomy 6:6-7 says: "These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road."
+The key is not to over-schedule. Bible learning should feel like a gift, not a chore. If you'd like story ideas to slot into your week, browse these [Bible stories for homeschool](/blog/bible-stories-for-homeschool). As Deuteronomy 6:6-7 says: "These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road."
 
 The best Bible curriculum is the one your family actually uses consistently.
 

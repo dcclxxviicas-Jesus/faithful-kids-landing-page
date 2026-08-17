@@ -4,11 +4,13 @@ slug: "bible-stories-for-5-year-olds"
 type: "listicle"
 metaDescription: "The best Bible stories for 5-year-olds. Short, simple retellings with gentle lessons, colorful characters, and free video links."
 keywords: ["bible stories for 5 year olds", "bible for 5 year old", "bible stories for young kids", "easy bible stories for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 15 Bible Stories Perfect for 5-Year-Olds
 
-Five-year-olds learn best through short, simple stories with clear characters, visual imagery, and gentle lessons. Here are the 15 best Bible stories for this age group, ranked by how well they hold a young child's attention and how clearly they communicate a lesson.
+Five-year-olds learn best through short, simple stories with clear characters, visual imagery, and gentle lessons. Here are the 15 best Bible stories for this age group, ranked by how well they hold a young child's attention and how clearly they communicate a lesson. (Have a younger child too? See our picks of [Bible stories for preschoolers](/blog/bible-stories-for-preschoolers) and [Bible stories for toddlers](/blog/bible-stories-for-toddlers).)
 
 ## What Makes a Bible Story Good for a 5-Year-Old?
 
@@ -117,7 +119,7 @@ Women come to visit Jesus' tomb and find it open and empty. An angel says: He is
 1. **Keep it short.** 60 seconds to 5 minutes is perfect. Do not try to read a whole chapter.
 2. **Use voices.** A deep voice for Goliath. A gentle voice for Jesus. Kids remember voices.
 3. **Ask questions during the story.** "What do you think happens next?" keeps them engaged.
-4. **Let them pick.** Give them 2-3 choices and let them choose tonight's story.
+4. **Let them pick.** Give them 2-3 choices and let them choose tonight's story. (These [Bible stories for bedtime](/blog/bible-stories-for-bedtime) are calm, gentle picks for the evening slot.)
 5. **Watch the video, then retell it.** Kids retain stories they retell in their own words.
 
 ## Watch All 15 Stories on Faithful Kids
@@ -136,7 +138,7 @@ Aim for 1-5 minutes. Five-year-olds have short attention spans. Faithful Kids vi
 
 ### Should I skip scary Bible stories for young kids?
 
-Yes. At age 5, avoid the more intense stories like the Crucifixion, the plagues of Egypt, and the fiery furnace. Focus on stories with gentle lessons and happy endings. You can introduce the more complex stories around age 7-8.
+Yes. At age 5, avoid the more intense stories like the Crucifixion, the plagues of Egypt, and the fiery furnace. Focus on stories with gentle lessons and happy endings. You can introduce the more complex stories around age 7-8 -- our list of [Bible stories for 8-year-olds](/blog/bible-stories-for-8-year-olds) is the natural next step.
 
 ### What Bible story teaches kindness to 5-year-olds?
 

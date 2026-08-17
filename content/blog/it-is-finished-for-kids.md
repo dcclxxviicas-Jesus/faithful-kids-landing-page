@@ -1,6 +1,8 @@
 ---
 title: "It is Finished for Kids: Bible Story Explained Simply"
 slug: "it-is-finished-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 09
@@ -61,10 +63,29 @@ The crucifixion is the most important and most difficult story in the Bible to s
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What happened to the sky while Jesus was on the cross?
+### What happened to the sky while Jesus was on the cross?
 
+**Darkness covered the land for three hours.** Darkness covered the entire land from noon to three in the afternoon. The sun itself stopped shining during the most important hours in history.
 
+### What did Jesus cry out during the darkness?
 
+**"My God, my God, why have you forsaken me?" For the first time in all of eternity, Jesus experienced separation from His Father as He bore the weight of the world's sin.** 
+
+### What does the word "Tetelestai" — the word Jesus used when He said "It is finished" — mean?
+
+**"Paid in full." Jesus wasn't saying He was defeated.** He was declaring that the debt for sin was completely settled — nothing left to pay.
+
+### What happened to the temple curtain when Jesus died?
+
+**It tore in two from top to bottom.** God Himself ripped it open, showing that the barrier between people and God was destroyed forever.
+
+### What did the Roman centurion say after watching Jesus die?
+
+**"Surely this was the Son of God." Even a hardened Roman soldier who had watched many executions recognized that something supernatural had just happened.** 
+
+### What is the main lesson of this episode?
+
+**"It is finished" is the most important sentence ever spoken.** Jesus completed the work of salvation. It's not something we earn or add to — it's a gift that's already been paid for.
 
 ## Discussion Questions for Families
 

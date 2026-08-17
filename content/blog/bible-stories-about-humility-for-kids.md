@@ -4,6 +4,8 @@ slug: "bible-stories-about-humility-for-kids"
 type: "listicle"
 metaDescription: "9 Bible stories about humility for kids. Jesus washes feet, Moses, Mary, John the Baptist, David dances,. Teach children what true humility looks like."
 keywords: ["bible stories about humility for kids", "humility in the bible for kids", "bible stories about being humble", "teaching kids humility bible"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 9 Bible Stories About Humility for Kids
@@ -50,7 +52,7 @@ How did Moses show humility? When God first called him from the burning bush, Mo
 
 ### 4. John the Baptist: He Must Increase (John 3:22-30)
 
-**The story:** John the Baptist was the most popular preacher in Israel. Crowds traveled to the wilderness to hear him. He had disciples, influence, and a following. Then Jesus came, and John's disciples noticed that people were leaving John to follow Jesus. They were concerned. But John's response is one of the most beautiful statements of humility in Scripture: "He must become greater; I must become less" (John 3:30).
+**The story:** [John the Baptist](/blog/john-the-baptist-for-kids) was the most popular preacher in Israel. Crowds traveled to the wilderness to hear him. He had disciples, influence, and a following. Then Jesus came, and John's disciples noticed that people were leaving John to follow Jesus. They were concerned. But John's response is one of the most beautiful statements of humility in Scripture: "He must become greater; I must become less" (John 3:30).
 
 **The humility lesson:** John had every reason to be jealous. He was famous first. He was successful in his own right. But John understood his role: he was the warm-up act, not the main event. His purpose was to point to Jesus, and when Jesus arrived, John stepped aside gladly. Humility means celebrating when someone else gets the spotlight, especially when God is the one directing the show.
 
@@ -60,7 +62,7 @@ How did Moses show humility? When God first called him from the burning bush, Mo
 
 ### 5. David Dances Before the Ark (2 Samuel 6:14-22)
 
-**The story:** When the Ark of the Covenant was being brought to Jerusalem, King David was so overjoyed that he danced in the streets "with all his might," wearing nothing but a simple linen garment, not his royal robes. His wife Michal watched from a window and despised him: "How the king of Israel has distinguished himself today, going around half-naked in full view of the slave girls" (2 Samuel 6:20). David replied, "I will celebrate before the Lord. I will become even more undignified than this" (2 Samuel 6:21-22).
+**The story:** When the Ark of the Covenant was being brought to Jerusalem, King David was so overjoyed that [he danced in the streets](/blog/dancing-before-the-lord-for-kids) "with all his might," wearing nothing but a simple linen garment, not his royal robes. His wife Michal watched from a window and despised him: "How the king of Israel has distinguished himself today, going around half-naked in full view of the slave girls" (2 Samuel 6:20). David replied, "I will celebrate before the Lord. I will become even more undignified than this" (2 Samuel 6:21-22).
 
 **The humility lesson:** David was the king. Kings do not dance in the streets in their underwear. It was undignified. People mocked him. But David did not care about his image because he cared more about worshipping God. Humility means being willing to look foolish for the right reasons. It means caring more about God's opinion than people's opinion.
 
@@ -80,7 +82,7 @@ How did Moses show humility? When God first called him from the burning bush, Mo
 
 ### 7. Gideon: The Least of the Least (Judges 6:11-16)
 
-**The story:** When the angel of the Lord appeared to Gideon and called him "mighty warrior," Gideon's response was pure humility: "But Lord, how can I save Israel? My clan is the weakest in Manasseh, and I am the least in my family" (Judges 6:15). Gideon did not see himself as a warrior. He was hiding from the enemy, secretly threshing wheat in a winepress. But God saw something different.
+**The story:** When the angel of the Lord appeared to [Gideon](/blog/gideon-the-unlikely-hero-for-kids) and called him "mighty warrior," Gideon's response was pure humility: "But Lord, how can I save Israel? My clan is the weakest in Manasseh, and I am the least in my family" (Judges 6:15). Gideon did not see himself as a warrior. He was hiding from the enemy, secretly threshing wheat in a winepress. But God saw something different.
 
 **The humility lesson:** Gideon was genuinely humble about his abilities, and God used him anyway. In fact, God specifically chose someone from the weakest clan and then reduced his army from 32,000 to 300 to make it undeniably clear that the victory came from God, not from human strength. Humility positions us for God to work through us because it removes the temptation to take credit.
 
@@ -100,7 +102,7 @@ How did Moses show humility? When God first called him from the burning bush, Mo
 
 ### 9. Naaman's Servant Girl: Humble Advice That Changed Everything (2 Kings 5:1-4)
 
-**The story:** Naaman was a mighty commander of the Syrian army, but he had leprosy. In his household was a young Israelite girl, captured in a raid, who served Naaman's wife. Despite being a slave in the home of her people's enemy, this girl said, "If only my master would see the prophet who is in Samaria! He would cure him of his leprosy" (2 Kings 5:3). Her humble advice set in motion the entire chain of events that led to Naaman's healing and conversion.
+**The story:** [Naaman](/blog/naaman-the-leper-for-kids) was a mighty commander of the Syrian army, but he had leprosy. In his household was a young Israelite girl, captured in a raid, who served Naaman's wife. Despite being a slave in the home of her people's enemy, this girl said, "If only my master would see the prophet who is in Samaria! He would cure him of his leprosy" (2 Kings 5:3). Her humble advice set in motion the entire chain of events that led to Naaman's healing and conversion.
 
 **The humility lesson:** This unnamed servant girl had every reason to be bitter. She was taken from her family and forced to serve an enemy. But she still cared enough to help. She offered humble advice that she could not enforce. She did not demand credit. She just quietly pointed the way. Her humility and kindness, given from a position of powerlessness, changed the life of one of the most powerful men in Syria.
 
@@ -116,7 +118,7 @@ Parents sometimes worry that teaching humility will make their child a doormat. 
 2. **Model humility yourself.** Apologize to your kids when you are wrong. Say "I do not know" when you do not know. Ask for help in front of them.
 3. **Praise effort and character, not just achievement.** "I am proud of how hard you worked" matters more than "You are the best."
 4. **Teach them to celebrate others.** When a friend succeeds, practice being genuinely happy for them. "That is awesome that Sophia won the science fair!"
-5. **Read stories of humble heroes.** The Bible is full of them. David, Mary, Moses, John the Baptist, Jesus Himself. These are not weak people. They are the strongest people in Scripture.
+5. **Read stories of humble heroes.** The Bible is full of them. David, Mary, Moses, John the Baptist, Jesus Himself. These are not weak people. They are the strongest people in Scripture. Jesus even built humility into His most famous sermon -- see [the Beatitudes explained for kids](/blog/beatitudes-for-kids-explained).
 
 ---
 

@@ -4,6 +4,8 @@ slug: "who-was-peter-for-kids"
 type: "listicle"
 metaDescription: "Who was Peter? A kid-friendly guide to the apostle Peter: fisherman, walked on water, denied Jesus, and led the early church. Bible story for children."
 keywords: ["who was peter for kids", "peter the apostle for kids", "peter bible story children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Peter the Apostle? Bible Story for Kids
@@ -24,7 +26,7 @@ The catch was so enormous that the nets began to break. They had to call another
 
 Jesus said, "Don't be afraid; from now on you will fish for people" (Luke 5:10).
 
-Peter left everything -- his nets, his boats, his business -- and followed Jesus.
+Peter left everything -- his nets, his boats, his business -- and followed Jesus. (We retell this calling in [The Great Catch of Fish for kids](/blog/the-great-catch-of-fish-for-kids) and [The Four Fishermen for kids](/blog/the-four-fishermen-for-kids).)
 
 **Key lesson for kids:** Jesus doesn't wait for us to be perfect before He calls us. Peter was an ordinary fisherman with rough edges, and Jesus chose him anyway. Whatever you are right now -- student, athlete, artist, kid who doesn't feel special -- Jesus sees more in you than you see in yourself.
 
@@ -44,7 +46,7 @@ Peter climbed out of the boat and started walking on water toward Jesus. He actu
 
 Immediately, Jesus reached out His hand and caught him. "You of little faith," Jesus said, "why did you doubt?" (Matthew 14:31).
 
-**Key lesson for kids:** Peter is often criticized for sinking, but he's the only one who got out of the boat. He had enough faith to step out, even if he wobbled. When kids take a step of faith -- standing up for someone, trying something new, trusting God with something scary -- they might wobble too. But Jesus is right there, ready to catch them.
+**Key lesson for kids:** Peter is often criticized for sinking, but he's the only one who got out of the boat. He had enough faith to step out, even if he wobbled. When kids take a step of faith -- standing up for someone, trying something new, trusting God with something scary -- they might wobble too. But Jesus is right there, ready to catch them. (Read the full story in [Walking on Water for kids](/blog/walking-on-water-for-kids).)
 
 ## "You Are the Christ" (Matthew 16:13-20)
 
@@ -85,7 +87,7 @@ Just as Peter spoke those last words, a rooster crowed. At that exact moment, Je
 
 Peter went outside and wept bitterly (Luke 22:62).
 
-This is one of the saddest moments in the New Testament. Peter, who had promised to die for Jesus, couldn't even admit he knew Him. He was broken, ashamed, and filled with regret.
+This is one of the saddest moments in the New Testament. Peter, who had promised to die for Jesus, couldn't even admit he knew Him. He was broken, ashamed, and filled with regret. (We handle this hard scene gently in [Peter Denies Jesus for kids](/blog/peter-denies-jesus-for-kids).)
 
 **Key lesson for kids:** Everyone fails sometimes. Even the bravest, most well-intentioned people can let fear get the best of them. Peter's denial feels devastating, but it's not the end of his story. The most important thing isn't that Peter fell -- it's what happened next.
 
@@ -105,13 +107,13 @@ Three times Peter answered, "Yes, Lord, you know that I love you."
 
 And three times Jesus gave him a commission: "Feed my lambs." "Take care of my sheep." "Feed my sheep."
 
-Jesus didn't lecture Peter about his failure. He didn't shame him or bring up the courtyard. He simply asked, "Do you love me?" and then gave him a job to do. Peter was restored. Forgiven. Commissioned. Given a second chance.
+Jesus didn't lecture Peter about his failure. He didn't shame him or bring up the courtyard. He simply asked, "Do you love me?" and then gave him a job to do. Peter was restored. Forgiven. Commissioned. Given a second chance. (This beautiful scene gets its own retelling in [Peter Is Restored for kids](/blog/peter-is-restored-for-kids).)
 
 **Key lesson for kids:** Jesus doesn't give up on us when we fail. Peter denied Jesus three times, and Jesus restored him three times. If your child has done something they're ashamed of, they need to hear this: Jesus isn't done with them. He asks the same question He asked Peter -- "Do you love me?" -- and then He gives us another chance to serve Him.
 
 ## Peter Leads the Early Church (Acts 2-12)
 
-After receiving the Holy Spirit at Pentecost, Peter was transformed. The man who had been too scared to admit he knew Jesus now stood up in front of thousands of people in Jerusalem and preached a sermon so powerful that 3,000 people were baptized that day (Acts 2:41).
+After receiving the Holy Spirit at Pentecost ([The Day of Pentecost for kids](/blog/the-day-of-pentecost-for-kids)), Peter was transformed. The man who had been too scared to admit he knew Jesus now stood up in front of thousands of people in Jerusalem and preached a sermon so powerful that 3,000 people were baptized that day (Acts 2:41).
 
 Peter healed the sick, performed miracles, and fearlessly preached about Jesus to the Jewish authorities who had crucified Him. When the same council that had condemned Jesus told Peter to stop preaching, Peter said, "We must obey God rather than human beings!" (Acts 5:29).
 

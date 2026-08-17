@@ -24,6 +24,8 @@ Yes -- while there is no single official "Christian YouTube," several Christian 
 - **Rabbit holes.** One tap and your child is watching content you have never seen.
 - **Zero educational accountability.** No quizzes, no progress tracking, no learning outcomes.
 
+If you are wrestling with how much viewing is appropriate in the first place, our guide to [healthy screen time for Christian kids](/blog/healthy-screen-time-for-christian-kids) walks through age-by-age recommendations.
+
 ---
 
 ### 1. Faithful Kids -- Best for Bible Story Videos with Quizzes
@@ -44,7 +46,7 @@ Faithful Kids has 400+ short Bible story videos (60 seconds each) covering the e
 
 Minno is the largest Christian kids streaming service. It has hundreds of animated shows including VeggieTales, What's in the Bible, and original content. Every show is screened for biblical truth and child development.
 
-**Best for:** Families who want a Netflix-like experience with shows and episodes, not just short-form videos.
+**Best for:** Families who want a Netflix-like experience with shows and episodes, not just short-form videos. See our full [Minno vs Faithful Kids comparison](/blog/minno-vs-faithful-kids) for a side-by-side breakdown.
 
 ### 3. Yippee TV -- Best Free Option
 
@@ -60,7 +62,7 @@ Yippee TV offers free Christian kids shows including classic content like Veggie
 
 Superbook is produced by CBN and features high-quality animated Bible stories where modern-day kids are transported into biblical times. The animation quality is surprisingly good.
 
-**Best for:** Kids who love animated adventure shows and need to "see themselves" in the story.
+**Best for:** Kids who love animated adventure shows and need to "see themselves" in the story. We compare it head-to-head in [Superbook vs Faithful Kids](/blog/superbook-vs-faithful-kids).
 
 ### 5. Bible App for Kids (YouVersion) -- Best for Interactive Stories
 
@@ -68,7 +70,7 @@ Superbook is produced by CBN and features high-quality animated Bible stories wh
 
 The Bible App for Kids by YouVersion has touch-and-swipe Bible stories with simple animations. It covers major stories with colorful, interactive illustrations.
 
-**Best for:** Younger kids (3-6) who need an interactive, touch-based experience rather than video.
+**Best for:** Younger kids (3-6) who need an interactive, touch-based experience rather than video. Read our detailed [Bible App for Kids review](/blog/bible-app-for-kids-review) before downloading.
 
 ### 6. RightNow Media -- Best for Families Who Want Everything
 
@@ -112,7 +114,7 @@ YouTube Kids is safer than regular YouTube, but it still uses an algorithm that 
 
 ### What is the best free Bible app for kids?
 
-The Bible App for Kids by YouVersion is the best free option. For video-based learning with quizzes, Faithful Kids offers a free 7-day trial.
+The Bible App for Kids by YouVersion is the best free option. We also keep a running list of [free Bible apps for kids](/blog/free-bible-apps-for-kids). For video-based learning with quizzes, Faithful Kids offers a free 7-day trial.
 
 ### Can I use these apps for Sunday School?
 

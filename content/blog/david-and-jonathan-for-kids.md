@@ -1,6 +1,8 @@
 ---
 title: "David and Jonathan for Kids: Bible Story Explained Simply"
 slug: "david-and-jonathan-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 06
@@ -61,10 +63,25 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What happened between Jonathan and David after the Goliath victory?
+### What happened between Jonathan and David after the Goliath victory?
 
+**Jonathan's soul was knit to David's and they became best friends.** 
 
+### What did Jonathan give to David as a sign of their bond?
 
+**His robe, armor, sword, and bow.**
+
+### Why did Saul become jealous of David?
+
+**The women sang that David had killed ten thousands while Saul only thousands.**
+
+### How did Saul react when Jonathan defended David?
+
+**He threw a spear at his own son.**
+
+### What did Jonathan tell David when they parted ways?
+
+**"Go in peace — the LORD is between you and me forever".**
 
 ## Discussion Questions for Families
 

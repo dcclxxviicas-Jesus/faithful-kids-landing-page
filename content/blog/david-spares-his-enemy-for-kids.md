@@ -1,6 +1,8 @@
 ---
 title: "David Spares His Enemy for Kids: Bible Story Explained Simply"
 slug: "david-spares-his-enemy-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 08
@@ -61,10 +63,25 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Where was David hiding when Saul unknowingly walked in?
+### Where was David hiding when Saul unknowingly walked in?
 
+**A cave at En Gedi.** 
 
+### What did David do instead of killing Saul in the cave?
 
+**He cut off a corner of Saul's robe.**
+
+### What did David say about why he wouldn't harm Saul?
+
+**"I will not touch the LORD's anointed".**
+
+### In the second encounter, what did David take from Saul's camp while Saul slept?
+
+**Saul's spear and water jug.**
+
+### What is the main lesson from David sparing Saul's life twice?
+
+**Just because you CAN do something doesn't mean you SHOULD — revenge belongs to God.**
 
 ## Discussion Questions for Families
 

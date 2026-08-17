@@ -1,6 +1,8 @@
 ---
 title: "Looking Forward for Kids: Bible Story Explained Simply"
 slug: "looking-forward-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 10
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who was the last prophet of the Old Testament?
+### Who was the last prophet of the Old Testament?
 
+**Malachi.** Malachi was the final prophet to speak in the Old Testament. His name actually means "my messenger," and he delivered God's last words before centuries of silence.
 
+### What was God's opening message through Malachi?
 
+**"I have loved you".** Even after all the people's failures and broken promises, God's first words through Malachi were "I have loved you." He started with love, not punishment.
+
+### What did Malachi prophesy God would send before the Lord's coming?
+
+**A messenger to prepare the way.** Malachi prophesied, "I will send my messenger to prepare the way before Me." This was fulfilled by John the Baptist, who prepared the way for Jesus.
+
+### How long was the period of silence between the Old and New Testaments?
+
+**400 years.** After Malachi's prophecy, there were 400 years with no prophets, no miracles, and no new messages from God — until the birth of Jesus in Bethlehem.
+
+### According to Isaiah's prophecy, what would the coming child be called?
+
+**Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.** Isaiah 9:6 prophesied that the child would be called "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace" — names that describe who Jesus truly is.
 
 ## Discussion Questions for Families
 

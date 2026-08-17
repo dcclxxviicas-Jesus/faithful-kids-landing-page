@@ -4,6 +4,8 @@ slug: "new-year-bible-verses-for-kids"
 type: "listicle"
 metaDescription: "15 Bible verses about new beginnings for kids with simple explanations. Help your children start the new year with faith, hope, and trust in God."
 keywords: ["new year bible verses for kids", "bible verses about new beginnings", "christian new year for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 A new year is a blank page. For kids, it's full of possibilities -- new classes, new friendships, new challenges, new adventures. And there's no better way to start fresh than with God's Word.
@@ -105,7 +107,7 @@ These 15 Bible verses about new beginnings, trust, goals, and hope are perfect f
 ### 13. Romans 15:13
 **"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."**
 
-**What it means for kids:** God doesn't just give you a little bit of hope -- He wants you to overflow with it. Like a cup filled to the very top and spilling over. That kind of hope comes from trusting God, not from knowing exactly what's going to happen.
+**What it means for kids:** God doesn't just give you a little bit of hope -- He wants you to overflow with it. Like a cup filled to the very top and spilling over. That kind of hope comes from trusting God, not from knowing exactly what's going to happen. (For more like this one, see our [Bible verses about hope for kids](/blog/bible-verses-about-hope-for-kids).)
 
 **Reflection:** On a scale of 1 to 10, how hopeful do you feel about this year? Ask God to fill your cup to overflowing.
 
@@ -119,7 +121,7 @@ These 15 Bible verses about new beginnings, trust, goals, and hope are perfect f
 ### 15. Joshua 1:9
 **"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."**
 
-**What it means for kids:** God said this to Joshua right before a huge new chapter -- leading the Israelites into the Promised Land. Joshua was probably terrified. But God didn't say "don't be scared." He said "I will be with you wherever you go." That's the promise for your new year too. Wherever you go -- new school, new team, new friendship, new challenge -- God goes with you.
+**What it means for kids:** God said this to Joshua right before a huge new chapter -- leading the Israelites into the Promised Land (the story continues in [Joshua Takes Command for kids](/blog/joshua-takes-command-for-kids)). Joshua was probably terrified. But God didn't say "don't be scared." He said "I will be with you wherever you go." That's the promise for your new year too. Wherever you go -- new school, new team, new friendship, new challenge -- God goes with you.
 
 **Reflection:** Where are you going this year that feels new or scary? Read this verse out loud and remember: God is going there with you.
 
@@ -127,7 +129,7 @@ These 15 Bible verses about new beginnings, trust, goals, and hope are perfect f
 
 **As a January devotional:** Read one verse every two days. That gives you exactly 30 days (15 verses x 2 days each). Day one: read and discuss. Day two: memorize and pray.
 
-**As memory verses:** Pick your child's three favorites and practice them throughout January. Write them on index cards, stick them to the bathroom mirror, or recite them at bedtime.
+**As memory verses:** Pick your child's three favorites and practice them throughout January. Write them on index cards, stick them to the bathroom mirror, or recite them at bedtime. Our list of [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) and these [memory verse strategies](/blog/bible-memory-verse-strategies-for-kids) can keep the habit going past January.
 
 **As a family activity:** On January 1st, have each family member pick one verse as their "word for the year." Write it down and seal it in an envelope. Open the envelopes next December 31st and share how God used that verse in your life.
 
@@ -154,7 +156,7 @@ Joshua 1:9 is one of the most powerful New Year verses for children: "Be strong 
 Use repetition, music, and visual cues. Write the verse on an index card and read it together morning and evening. Set it to a simple melody. For younger kids, add hand motions for key words. Most children can memorize a short verse in 5-7 days with daily practice.
 
 ### How do I make New Year's meaningful for my family as Christians?
-Instead of (or in addition to) secular resolutions, choose a family Bible verse for the year, set spiritual goals together (like reading through a book of the Bible), and pray together on January 1st. Making God part of the new year's first moments sets the tone for the whole year.
+Instead of (or in addition to) secular resolutions, choose a family Bible verse for the year, set spiritual goals together (like reading through a book of the Bible), and pray together on January 1st. Making God part of the new year's first moments sets the tone for the whole year. For a full plan, try these [New Year's family devotions](/blog/new-years-family-devotions).
 
 ### At what age can kids start setting spiritual goals?
 Children as young as 6-7 can set simple faith goals like "pray every night" or "learn 5 Bible verses." By ages 10-12, kids can set more meaningful goals like reading a Gospel on their own, serving at church, or journaling about what they're learning about God.

@@ -1,6 +1,8 @@
 ---
 title: "The Good Shepherd for Kids: Bible Story Explained Simply"
 slug: "the-good-shepherd-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Ending and Beginning"
 seriesSlug: "ending-and-beginning"
 episode: 05
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What does Jesus call Himself in John 10?
+### What does Jesus call Himself in John 10?
 
+**The Good Shepherd.** Jesus said, "I am the Good Shepherd." It's one of His most personal and powerful names.
 
+### How do the sheep recognize the Good Shepherd?
 
+**By His voice.** "My sheep listen to My voice. I know them, and they follow Me." The sheep follow because they know the voice of the one who loves them.
+
+### What does the hired hand do when the wolf comes?
+
+**He runs away and abandons the sheep.** The hired hand doesn't love the sheep. When danger comes, he runs. He's working for a paycheck, not out of love.
+
+### What did Jesus say about how He would lay down His life?
+
+**No one takes His life — He lays it down of His own accord.** "No one takes My life from Me. I lay it down of My own accord." Jesus died willingly, on purpose, because He chose to save you.
+
+### Who are the "other sheep not of this sheep pen" that Jesus mentions?
+
+**People from every nation — including you.** Jesus wasn't only talking about the Jewish people. He was talking about all people, from every nation and every time period — and that includes you.
+
+### Which Old Testament psalm connects directly to Jesus being the Good Shepherd?
+
+**Psalm 23.** "The Lord is my shepherd, I shall not want." David wrote Psalm 23 a thousand years before Jesus, pointing forward to the ultimate Shepherd who would come.
 
 ## Discussion Questions for Families
 

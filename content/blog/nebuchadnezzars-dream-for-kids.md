@@ -1,6 +1,8 @@
 ---
 title: "Nebuchadnezzars Dream for Kids: Bible Story Explained Simply"
 slug: "nebuchadnezzars-dream-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Exile and Faith"
 seriesSlug: "exile-and-faith"
 episode: 03
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did King Nebuchadnezzar demand from his wise men?
+### What did King Nebuchadnezzar demand from his wise men?
 
+**That they tell him what he dreamed AND what it meant.** Nebuchadnezzar didn't just want an interpretation. He demanded that the wise men tell him the dream itself AND its meaning — an impossible task without God's help.
 
+### What did Daniel do when he heard about the king's death threat?
 
+**He gathered his friends and prayed all night.** Daniel gathered Hananiah, Mishael, and Azariah and they prayed all night, asking God to reveal the mystery.
+
+### What was the head of the statue in the dream made of?
+
+**Gold.** The head of gold represented Babylon and King Nebuchadnezzar himself.
+
+### What did the rock "not cut by human hands" represent?
+
+**God's eternal kingdom that would never be destroyed.** The rock represented God's eternal kingdom — the one kingdom that would smash all others and last forever.
+
+### What is the main lesson of this episode?
+
+**Human empires rise and fall, but God's kingdom lasts forever — when you feel small, remember you're part of the thing that outlasts everything.** Every empire in human history rises and falls. But God's kingdom is the rock that can never be shattered. When you feel small or overwhelmed, remember you belong to something eternal.
 
 ## Discussion Questions for Families
 

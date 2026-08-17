@@ -1,6 +1,8 @@
 ---
 title: "Love is for Kids: Bible Story Explained Simply"
 slug: "love-is-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Letters to Churches"
 seriesSlug: "letters-to-churches"
 episode: 04
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What are the first two things Paul says love IS?
+### What are the first two things Paul says love IS?
 
+**Patient and kind.** "Love is patient, love is kind." (1 Corinthians 13:4)
 
+### What does it mean that love "keeps no record of wrongs"?
 
+**Love forgives and doesn't hold grudges.** Love forgives. It doesn't keep a running list of every time someone hurt you, waiting to throw it in their face.
+
+### According to Paul, what happens if you have all knowledge and faith to move mountains, but don't have love?
+
+**It means nothing.** "If I have a faith that can move mountains, but do not have love, I am nothing." (1 Corinthians 13:2)
+
+### Paul says love does NOT do which of the following?
+
+**All of the above.** Love does not envy, boast, act proud, behave rudely, seek its own way, or get easily angered.
+
+### What does Paul say about love at the end of the chapter?
+
+**Love never fails.** "Love never fails." (1 Corinthians 13:8)
 
 ## Discussion Questions for Families
 

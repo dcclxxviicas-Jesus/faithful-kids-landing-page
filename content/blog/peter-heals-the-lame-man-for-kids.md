@@ -1,6 +1,8 @@
 ---
 title: "Peter Heals the Lame Man for Kids: Bible Story Explained Simply"
 slug: "peter-heals-the-lame-man-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Early Church"
 seriesSlug: "early-church"
 episode: 02
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Where were Peter and John going when they encountered the lame man?
+### Where were Peter and John going when they encountered the lame man?
 
+**To the temple for afternoon prayer.**
 
+### What was the name of the temple gate where the man sat?
 
+**The Beautiful Gate.**
+
+### How long had the man been unable to walk?
+
+**Since birth.**
+
+### What did Peter say to the man before healing him?
+
+**"Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk!".**
+
+### What did the man do after he was healed?
+
+**He jumped, walked, leaped, and praised God.**
+
+### What was Peter's message to the crowd who saw the miracle?
+
+**"It wasn't our power — it was the name of Jesus".**
 
 ## Discussion Questions for Families
 

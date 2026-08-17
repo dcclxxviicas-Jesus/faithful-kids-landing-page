@@ -1,6 +1,8 @@
 ---
 title: "Solomon is Chosen for Kids: Bible Story Explained Simply"
 slug: "solomon-is-chosen-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 09
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who tried to make himself king before David chose a successor?
+### Who tried to make himself king before David chose a successor?
 
+**Adonijah.** 
 
+### Who alerted David that Adonijah was trying to take the throne?
 
+**Nathan the prophet and Bathsheba.**
+
+### What animal did Solomon ride to his anointing ceremony?
+
+**David's own royal mule.**
+
+### Where was Solomon anointed as king?
+
+**At the spring of Gihon.**
+
+### What was the most important thing David passed down to Solomon?
+
+**Faith — the charge to walk with God and keep His commands.**
 
 ## Discussion Questions for Families
 

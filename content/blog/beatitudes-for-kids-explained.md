@@ -4,11 +4,13 @@ slug: "beatitudes-for-kids-explained"
 type: "listicle"
 metaDescription: "The 8 Beatitudes explained for kids with real-life examples. Matthew 5:3-12 in kid-friendly language. Perfect for teaching the Sermon on the Mount."
 keywords: ["beatitudes for kids", "beatitudes explained for children", "sermon on the mount for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # The Beatitudes for Kids Explained Simply
 
-At the beginning of the most famous sermon ever preached, Jesus sat down on a hillside, looked at the crowd gathered around Him, and said eight things that turned the world upside down. We call them the Beatitudes, and they are found in Matthew 5:3-12.
+At the beginning of [the most famous sermon ever preached](/blog/the-sermon-on-the-mount-for-kids), Jesus sat down on a hillside, looked at the crowd gathered around Him, and said eight things that turned the world upside down. We call them the Beatitudes, and they are found in Matthew 5:3-12.
 
 The word "beatitude" comes from the Latin word for "blessed" or "happy." But this is not the kind of happiness that comes from getting a new toy or eating ice cream. This is a deeper kind of joy, the kind that comes from living the way God designed you to live, even when life is hard.
 
@@ -38,7 +40,7 @@ Here are all eight Beatitudes explained in kid-friendly language, with real-life
 
 **What it means:** Meek does not mean weak. Meekness is strength under control. Think of a powerful horse that obeys the rider's gentle touch. A meek person has the power to strike back, argue, or dominate, but they choose restraint. They choose kindness. And Jesus says they will inherit the earth.
 
-**Real-life example:** A bigger kid shoves your child on the playground. Your child could shove back harder, but instead they walk away and tell a teacher. That takes more courage than fighting. That is meekness: choosing self-control when you have every reason to lose it.
+**Real-life example:** A bigger kid shoves your child on the playground. Your child could shove back harder, but instead they walk away and tell a teacher. That takes more courage than fighting. That is meekness: choosing self-control when you have every reason to lose it. (These [Bible stories about self-control](/blog/bible-stories-about-self-control-for-kids) pair well with this beatitude.)
 
 ## Beatitude #4: "Blessed Are Those Who Hunger and Thirst for Righteousness, for They Will Be Filled" (Matthew 5:6)
 
@@ -54,7 +56,7 @@ Here are all eight Beatitudes explained in kid-friendly language, with real-life
 
 **What it means:** Mercy is giving someone better than what they deserve. When someone wrongs you and you choose forgiveness over revenge, that is mercy. When you help someone who cannot help you back, that is mercy. Jesus says that merciful people receive mercy in return. What goes around comes around, in the best possible way.
 
-**Real-life example:** Your sibling breaks your favorite toy by accident. You have every right to be angry. But instead of screaming or demanding punishment, you say, "It is okay. Accidents happen. I forgive you." That is mercy, and it changes the entire atmosphere of your home.
+**Real-life example:** Your sibling breaks your favorite toy by accident. You have every right to be angry. But instead of screaming or demanding punishment, you say, "It is okay. Accidents happen. I forgive you." That is mercy, and it changes the entire atmosphere of your home. If forgiveness is a tough concept in your house, here is [how to explain forgiveness to a child](/blog/how-to-explain-forgiveness-to-a-child).
 
 ## Beatitude #6: "Blessed Are the Pure in Heart, for They Will See God" (Matthew 5:8)
 
@@ -82,7 +84,7 @@ Here are all eight Beatitudes explained in kid-friendly language, with real-life
 
 ## Why the Beatitudes Matter for Kids
 
-The Beatitudes are radical. They say that the people the world ignores (the humble, the grieving, the gentle) are actually the ones God blesses most. In a culture that tells kids to be loud, strong, popular, and self-sufficient, Jesus says the opposite: be humble, be merciful, be a peacemaker, and hunger for what is right.
+The Beatitudes are radical. They say that the people the world ignores (the humble, the grieving, the gentle) are actually the ones God blesses most. In a culture that tells kids to be loud, strong, popular, and self-sufficient, Jesus says the opposite: be humble, be merciful, be a peacemaker, and hunger for what is right. These [Bible stories about humility](/blog/bible-stories-about-humility-for-kids) show what that upside-down way of living looks like in action.
 
 These eight statements form the foundation of Christian character. They are not rules to follow; they are a picture of what a heart transformed by God looks like. When your child begins to understand the Beatitudes, they begin to see the world the way Jesus sees it.
 
@@ -93,6 +95,8 @@ These eight statements form the foundation of Christian character. They are not 
 **Use a visual.** Create a poster or chart with all eight Beatitudes. As you study each one, add drawings or stickers. By the end, your child has a visual reminder on their wall.
 
 **Role-play scenarios.** Give your child a situation: "Your friend got in trouble and everyone is laughing at them. What would a merciful person do?" Let them practice applying the Beatitudes to real-life moments.
+
+**Watch the story version.** Our companion lesson on [the Beatitudes for kids](/blog/the-beatitudes-for-kids) retells Matthew 5 as a story your child can follow along with.
 
 **Connect them to Jesus.** Jesus is the perfect example of every beatitude. He was humble, He mourned over Jerusalem, He was gentle, He hungered for righteousness, He showed mercy, His heart was pure, He made peace between God and humanity, and He was persecuted and killed for doing right. The Beatitudes are a self-portrait of Jesus.
 

@@ -1,6 +1,8 @@
 ---
 title: "Cleansing the Temple for Kids: Bible Story Explained Simply"
 slug: "cleansing-the-temple-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 02
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did Jesus find happening inside the temple?
+### What did Jesus find happening inside the temple?
 
+**Merchants overcharging for animals and money changers cheating people.** Merchants were selling sacrificial animals at inflated prices and money changers were cheating people. God's house of prayer had been turned into a den of robbers.
 
+### What did Jesus make out of cords?
 
+**whip.** Jesus made a whip out of cords and used it to drive the merchants and money changers out of the temple.
+
+### What did Jesus call the temple?
+
+**Jesus said "My house shall be called a house of prayer, but you have made it a den of robbers." He quoted the prophet Isaiah and the prophet Jeremiah together.** 
+
+### Who came to Jesus in the temple after He drove out the merchants?
+
+**The blind and the lame came to Him in the temple, and He healed them.** The very people the corrupt system had pushed aside were the ones Jesus welcomed.
+
+### Who shouted "Hosanna to the Son of David" in the temple?
+
+**Children! Kids were singing praise to Jesus right there in the temple.** When the leaders complained, Jesus quoted Scripture: "From the lips of children and infants, God has ordained praise."
+
+### What is the main lesson of this episode?
+
+**Righteous anger is real.** Jesus wasn't throwing a tantrum. He was standing up against exploitation and injustice because powerful people were using God's name to hurt the vulnerable. Following Jesus doesn't mean being a pushover.
 
 ## Discussion Questions for Families
 

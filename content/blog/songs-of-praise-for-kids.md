@@ -1,6 +1,8 @@
 ---
 title: "Songs of Praise for Kids: Bible Story Explained Simply"
 slug: "songs-of-praise-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 06
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What was David known as, besides being a king?
+### What was David known as, besides being a king?
 
+**A songwriter and musician.** 
 
+### In Psalm 8, what amazed David when he looked at the night sky?
 
+**That God, who made the moon and stars, still thinks about us.**
+
+### What does Psalm 19 say the heavens do?
+
+**Declare the glory of God.**
+
+### What does Psalm 100 tell us to make?
+
+**A joyful noise to the Lord.**
+
+### In Psalm 150, how many ways does David say to praise God?
+
+**With every instrument and everything that has breath.**
 
 ## Discussion Questions for Families
 

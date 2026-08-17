@@ -1,6 +1,8 @@
 ---
 title: "Fire from Heaven for Kids: Bible Story Explained Simply"
 slug: "fire-from-heaven-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 03
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How many prophets of Baal gathered on Mount Carmel to face Elijah?
+### How many prophets of Baal gathered on Mount Carmel to face Elijah?
 
+**450 prophets of Baal.** It was 450 against one -- and one man with the true God was more than enough (1 Kings 18:22).
 
+### What was the challenge Elijah proposed?
 
+**The god who answers by fire is the real God.**
+
+### What happened when the prophets of Baal called on their god?
+
+**Absolutely nothing happened.**
+
+### What did Elijah do while the prophets of Baal were failing?
+
+**He taunted and mocked them.**
+
+### How many times did Elijah have water poured on his altar?
+
+**Three times.**
+
+### How long was Elijah's prayer to God?
+
+**It was one short, simple prayer.**
+
+### What happened when the fire fell from heaven?
+
+**It burned the sacrifice, wood, stones, dust, and even the water.**
+
+### What is the main lesson of this story?
+
+**One honest prayer to the real God beats a thousand empty rituals.**
 
 ## Discussion Questions for Families
 

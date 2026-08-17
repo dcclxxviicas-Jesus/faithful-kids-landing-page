@@ -4,6 +4,8 @@ slug: "30-day-family-bible-challenge"
 type: "listicle"
 metaDescription: "A 30-day family Bible reading challenge with one story per day. Days 1-10 Old Testament heroes, 11-20 Jesus' life, 21-30 the Early Church."
 keywords: ["30 day bible challenge", "family bible reading plan", "bible stories for families"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 Here's the challenge: 30 days, 30 Bible stories, one per day, as a family.
@@ -60,13 +62,13 @@ Pharaoh's army is closing in. The sea is blocking escape. God tells Moses to rai
 
 ### Day 8 — David and Goliath
 **Read:** 1 Samuel 17:32-50
-A shepherd boy with a sling faces a nine-foot giant in bronze armor. Everyone says he's too small. David says, "I come against you in the name of the Lord Almighty" (1 Samuel 17:45). One stone. The giant falls.
+A shepherd boy with a sling faces a nine-foot giant in bronze armor. Everyone says he's too small. David says, "I come against you in the name of the Lord Almighty" (1 Samuel 17:45). One stone. The giant falls. (For a deeper retelling, see our guide to [David and Goliath for kids](/blog/david-and-goliath-for-kids).)
 
 **One question:** What is your Goliath -- and what name are you going to face it in?
 
 ### Day 9 — Daniel in the Lion's Den
 **Read:** Daniel 6:1-28
-Daniel refuses to stop praying even when it means death. He's thrown to the lions. God shuts their mouths. In the morning, Daniel walks out without a scratch, and the king proclaims the power of Daniel's God.
+Daniel refuses to stop praying even when it means death. He's thrown to the lions. God shuts their mouths. In the morning, [Daniel walks out of the lions' den](/blog/daniel-in-the-lions-den-for-kids) without a scratch, and the king proclaims the power of Daniel's God.
 
 **One question:** What would you keep doing even if you got in trouble for it?
 
@@ -122,7 +124,7 @@ The disciples are in a boat, battling a storm. Jesus comes walking across the wa
 
 ### Day 18 — The Prodigal Son
 **Read:** Luke 15:11-32
-A son demands his inheritance, wastes it all, and comes home in shame. His father runs to meet him, throws a party, and declares: "This son of mine was dead and is alive again; he was lost and is found" (Luke 15:24).
+In [the story of the prodigal son](/blog/the-prodigal-son-for-kids), a son demands his inheritance, wastes it all, and comes home in shame. His father runs to meet him, throws a party, and declares: "This son of mine was dead and is alive again; he was lost and is found" (Luke 15:24).
 
 **One question:** Which part of this story surprises you the most -- the son's return or the father's reaction?
 
@@ -208,9 +210,11 @@ If you completed this challenge, celebrate. You've given your family something m
 
 Here are three ways to keep going:
 
-1. **Start a book study.** Pick one book of the Bible (Mark is a great next step) and read a chapter a day together.
+1. **Start a book study.** Pick one book of the Bible (Mark is a great next step) and read a chapter a day together. Our guide on [how to start family Bible time](/blog/how-to-start-family-bible-time) walks you through building the routine.
 2. **Add video lessons.** Faithful Kids pairs each of these stories with animated videos, quizzes, and reflections that reinforce what your family is learning.
 3. **Do the challenge again.** Seriously. Repetition deepens understanding. What your kids grasp at a surface level this time will sink deeper the second time through.
+
+Want to test what everyone remembers? Host a [family Bible trivia night](/blog/family-bible-trivia-night) or quiz the kids with these [Bible trivia questions for kids](/blog/bible-trivia-for-kids).
 
 ## Watch on Faithful Kids
 

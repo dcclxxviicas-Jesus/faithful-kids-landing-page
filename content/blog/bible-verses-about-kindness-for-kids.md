@@ -4,6 +4,8 @@ slug: "bible-verses-about-kindness-for-kids"
 type: "listicle"
 metaDescription: "15 Bible verses about kindness for kids with simple explanations and real-life applications. Ephesians 4:32, Colossians 3:12, Luke 6:31, and more."
 keywords: ["bible verses about kindness for kids", "kindness scriptures for children", "teaching kids kindness bible"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 15 Bible Verses About Kindness for Kids
@@ -12,7 +14,7 @@ Kindness is one of the most practical virtues in the Bible — and one of the mo
 
 The Bible doesn't just tell us to be kind. It shows us why kindness matters, what it looks like in action, and where the power to be kind comes from (hint: it's not willpower — it's the Holy Spirit).
 
-Here are 15 Bible verses about kindness that your child can learn, memorize, and live out every day.
+Here are 15 Bible verses about kindness that your child can learn, memorize, and live out every day. To see kindness in action, pair them with these [Bible stories about kindness for kids](/blog/bible-stories-about-kindness-for-kids).
 
 ## 1. Ephesians 4:32
 
@@ -52,7 +54,7 @@ Here are 15 Bible verses about kindness that your child can learn, memorize, and
 
 **What it means for kids:** Kindness is listed as one of the nine "fruits" of the Holy Spirit. That means true kindness isn't something you force yourself to do — it grows in you naturally when you're close to God. Like a tree that produces apples because that's what apple trees do, you produce kindness because God's Spirit is alive in you.
 
-**Real-life application:** If you're finding it hard to be kind, the solution isn't "try harder." The solution is "get closer to God." Pray, read Scripture, worship — and watch kindness grow naturally.
+**Real-life application:** If you're finding it hard to be kind, the solution isn't "try harder." The solution is "get closer to God." Pray, read Scripture, worship — and watch kindness grow naturally. These [fruit of the Spirit Bible stories](/blog/fruit-of-the-spirit-for-kids-bible-stories) explore each of the nine fruits with kids.
 
 ## 6. Micah 6:8
 
@@ -124,7 +126,7 @@ Here are 15 Bible verses about kindness that your child can learn, memorize, and
 
 **What it means for kids:** Sharing and doing good are called "sacrifices" — because kindness costs something. It costs your time, your comfort, your toys, your seat, your turn. But those little sacrifices please God. He sees every shared snack, every generous act, every kind word — and He is pleased.
 
-**Real-life application:** What can you share today? A snack, a compliment, your time, your attention? Small acts of sharing are sacrifices that make God smile.
+**Real-life application:** What can you share today? A snack, a compliment, your time, your attention? Small acts of sharing are sacrifices that make God smile. For more on sharing freely, see these [Bible verses about generosity for kids](/blog/bible-verses-about-generosity-for-kids).
 
 ## 15. 2 Peter 1:5-7
 
@@ -139,7 +141,7 @@ Here are 15 Bible verses about kindness that your child can learn, memorize, and
 These verses are most powerful when they're lived, not just memorized. Here are practical ways to build a culture of kindness in your family:
 
 - **Kindness jar:** When someone catches a family member being kind, they write it on a slip and drop it in the jar. Read them aloud at dinner on Sunday.
-- **Verse of the week:** Pick one kindness verse and discuss it all week. Ask each day: "How did you practice this verse today?"
+- **Verse of the week:** Pick one kindness verse and discuss it all week. Ask each day: "How did you practice this verse today?" These [memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) help the verses stick.
 - **Kindness challenges:** Give each child a daily kindness mission. "Today, compliment three people." "Today, help someone without being asked."
 
 As Paul wrote in Galatians 6:9, *"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."*
@@ -164,4 +166,4 @@ Absolutely. Kindness doesn't require being outgoing. A shy child can write a kin
 No. Biblical kindness includes boundaries. Jesus was the kindest person who ever lived, and He also cleared the temple, confronted hypocrisy, and said no to requests that conflicted with His mission. Teach your child that kindness means treating others with respect and compassion — not letting people walk all over them. Ephesians 4:15 says to "speak the truth in love" — honest boundaries, delivered kindly.
 
 ### Are there Bible stories that model kindness for kids?
-Many. The Good Samaritan (Luke 10:25-37) shows kindness to a stranger. Ruth's devotion to Naomi (Ruth 1-4) shows kindness through loyalty. Joseph forgiving his brothers (Genesis 50:15-21) shows kindness after being deeply wronged. Boaz's generosity to Ruth (Ruth 2) shows kindness to the vulnerable. And Jesus healing the ten lepers (Luke 17:11-19) shows kindness without expectation of thanks.
+Many. The Good Samaritan (Luke 10:25-37) shows kindness to a stranger. Ruth's devotion to Naomi (Ruth 1-4) shows kindness through loyalty. Joseph forgiving his brothers (Genesis 50:15-21) shows kindness after being deeply wronged. Boaz's generosity to Ruth (Ruth 2) shows kindness to the vulnerable. And Jesus healing the ten lepers (Luke 17:11-19) shows kindness without expectation of thanks. Our collection of [Bible stories about compassion for kids](/blog/bible-stories-about-compassion-for-kids) gathers more examples like these.

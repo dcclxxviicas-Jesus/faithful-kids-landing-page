@@ -1,6 +1,8 @@
 ---
 title: "Breakfast on the Beach for Kids: Bible Story Explained Simply"
 slug: "breakfast-on-the-beach-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 05
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How many fish did the disciples catch before Jesus told them where to cast their net?
+### How many fish did the disciples catch before Jesus told them where to cast their net?
 
+**None — they caught nothing all night.** They fished all night long and caught absolutely nothing. Every cast came up empty.
 
+### What did Jesus tell the disciples to do from the shore?
 
+**Throw their net on the right side of the boat.** Jesus called out, "Throw your net on the right side of the boat and you will find some." And did they ever.
+
+### How many fish did they catch after following Jesus' instructions?
+
+**A hundred and fifty-three.** One hundred and fifty-three large fish! So many they could not haul the net in, yet it did not break.
+
+### What did Peter do when John said, "It is the Lord"?
+
+**He threw on his outer garment and jumped into the water to swim to Jesus.** Peter could not wait. The moment he knew it was Jesus, he jumped in and swam to shore. That is Peter for you — all in, every time.
+
+### What had Jesus prepared for the disciples on the shore?
+
+**A charcoal fire with bread and fish — breakfast.** The risen King of the universe had a fire going with bread and fish ready. He made breakfast for His tired, hungry friends.
 
 ## Discussion Questions for Families
 

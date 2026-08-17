@@ -1,6 +1,8 @@
 ---
 title: "Hamans Evil Plot for Kids: Bible Story Explained Simply"
 slug: "hamans-evil-plot-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 08
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why was Haman so furious with Mordecai?
+### Why was Haman so furious with Mordecai?
 
+**Mordecai refused to bow to Haman.** Mordecai refused to bow down to Haman because he bowed to God alone. Haman's ego couldn't handle the fact that one man wouldn't kneel before him.
 
+### What did Haman plot to do in response to Mordecai's defiance?
 
+**Destroy ALL the Jewish people in the entire empire.** Haman didn't just go after Mordecai. He plotted to wipe out every Jewish man, woman, and child across all 127 provinces of the Persian Empire.
+
+### What would happen to anyone who approached the king without being invited?
+
+**They would be put to death unless the king extended his golden scepter.** Approaching the king uninvited was punishable by death. The only exception was if the king chose to extend his golden scepter, sparing that person's life.
+
+### What famous words did Mordecai say to Esther?
+
+**"Who knows — perhaps you were made queen for such a time as this?".** Mordecai's words are some of the most powerful in the Bible. He helped Esther see that her position as queen wasn't about comfort — it was about purpose.
+
+### What was Esther's courageous response?
+
+**"If I perish, I perish".** Esther asked all the Jews to fast for three days, and then she declared, "If I perish, I perish." She chose courage over comfort, knowing she might die for it.
 
 ## Discussion Questions for Families
 

@@ -4,6 +4,8 @@ slug: "bible-stories-about-sickness-and-healing-for-kids"
 type: "listicle"
 metaDescription: "Share these 6 Bible healing stories with kids facing illness. From Naaman to Jairus' daughter, each story shows God's care for the sick and hurting."
 keywords: ["bible stories about healing for kids", "bible stories about sickness for kids", "jesus heals for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 When a child is sick — or when someone they love is sick — the world can feel very scary. Questions swirl that adults struggle to answer: Why is this happening? Will it get better? Does God care?
@@ -18,7 +20,7 @@ Naaman was a powerful military commander — the kind of man who was used to giv
 
 A young servant girl — an Israelite child captured in war — told Naaman's wife about the prophet Elisha. Naaman traveled to Israel with gold, silver, and fine clothes, expecting a dramatic healing ceremony. Instead, Elisha sent a messenger who said, "Go, wash yourself seven times in the Jordan, and your flesh will be restored" (2 Kings 5:10).
 
-Naaman was furious. The Jordan was a muddy river. He wanted something grand. But his servants reasoned with him, and he finally obeyed. He dipped once, twice, seven times — and his skin was completely healed.
+Naaman was furious. The Jordan was a muddy river. He wanted something grand. But his servants reasoned with him, and he finally obeyed. He dipped once, twice, seven times — and his skin was completely healed. (Read the full retelling in [Naaman the leper for kids](/blog/naaman-the-leper-for-kids).)
 
 **Talk about it:** "Naaman wanted healing to happen his way. But God's way was different — and it worked. Sometimes healing does not look the way we expect, but God always knows what He is doing."
 
@@ -30,7 +32,7 @@ The disciples asked Jesus a question many people still ask today: "Rabbi, who si
 
 Jesus' answer changed everything: "Neither this man nor his parents sinned. This happened so that the works of God might be displayed in him" (John 9:3).
 
-Then Jesus made mud, put it on the man's eyes, and told him to wash in the Pool of Siloam. The man obeyed and came back seeing.
+Then Jesus made mud, put it on the man's eyes, and told him to wash in the Pool of Siloam. The man obeyed and came back seeing. (We tell this story gently in [healing the blind man for kids](/blog/healing-the-blind-man-for-kids).)
 
 **Talk about it:** "Being sick is not a punishment. Jesus said so Himself. God does not make people sick because they did something wrong. Sometimes hard things happen, and God uses them to show His love and power."
 
@@ -38,7 +40,7 @@ This is one of the most important lessons for kids who are sick: it is not their
 
 ## 3. The Paralyzed Man Lowered Through the Roof (Mark 2:1-12)
 
-A paralyzed man had four friends who would not give up on him. The house where Jesus was teaching was so crowded that they could not get through the door, so they climbed up to the roof, dug a hole, and lowered their friend down on a mat right in front of Jesus.
+[A paralyzed man](/blog/the-paralyzed-man-for-kids) had four friends who would not give up on him. The house where Jesus was teaching was so crowded that they could not get through the door, so they climbed up to the roof, dug a hole, and lowered their friend down on a mat right in front of Jesus.
 
 Mark 2:5 says, "When Jesus saw their faith, he said to the paralyzed man, 'Son, your sins are forgiven.'" Then He said, "'Get up, take your mat and go home.' He got up, took his mat and walked out in full view of them all" (Mark 2:11-12).
 
@@ -60,7 +62,7 @@ The word "daughter" matters. Jesus did not just heal her body. He restored her i
 
 ## 5. Jairus' Daughter Is Raised (Mark 5:21-24, 35-43)
 
-While Jesus was on His way to heal Jairus' daughter, messengers arrived with devastating news: "Your daughter is dead. Why bother the teacher anymore?" (Mark 5:35). Jairus' worst fear had come true.
+While Jesus was on His way to heal [Jairus' daughter](/blog/jairus-daughter-for-kids), messengers arrived with devastating news: "Your daughter is dead. Why bother the teacher anymore?" (Mark 5:35). Jairus' worst fear had come true.
 
 But Jesus said, "Don't be afraid; just believe" (Mark 5:36). He went to the house, took the girl by the hand, and said, "Talitha koum!" — "Little girl, I say to you, get up!" (Mark 5:41). She stood up and walked around. She was twelve years old.
 
@@ -88,13 +90,13 @@ Here are some principles for navigating conversations about illness with your ch
 
 **Affirm their feelings.** "It is okay to be scared. It is okay to be sad. It is okay to be angry. God can handle all of your feelings."
 
-**Pray together.** Let your child hear you pray honestly. "God, we are scared. We do not understand why this is happening. But we trust You. Please be close to us."
+**Pray together.** Let your child hear you pray honestly. "God, we are scared. We do not understand why this is happening. But we trust You. Please be close to us." Keep a few [Bible verses for sick kids](/blog/bible-verses-for-sick-kids) nearby for these moments.
 
 **Point to God's presence, not just His power.** Healing stories show God's power, but the deeper message is His presence. He is Immanuel — God with us — especially in the hospital room, especially in the waiting, especially in the dark.
 
 ## When Healing Does Not Come
 
-Not every story ends in miraculous healing — in the Bible or in life. If your child is grieving someone who died despite prayers, they need to know that God is not absent or uncaring. "The Lord is close to the brokenhearted" (Psalm 34:18). Heaven is real. Reunion is promised. And God catches every tear (Psalm 56:8).
+Not every story ends in miraculous healing — in the Bible or in life. If your child is grieving someone who died despite prayers, they need to know that God is not absent or uncaring. "The Lord is close to the brokenhearted" (Psalm 34:18). Heaven is real. Reunion is promised. And God catches every tear (Psalm 56:8). For those harder conversations, our guide on [explaining death and heaven to kids](/blog/explaining-death-and-heaven-to-kids) can help.
 
 ## Watch on Faithful Kids
 

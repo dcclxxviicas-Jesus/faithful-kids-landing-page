@@ -1,6 +1,8 @@
 ---
 title: "Naaman the Leper for Kids: Bible Story Explained Simply"
 slug: "naaman-the-leper-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 09
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who was Naaman?
+### Who was Naaman?
 
 Naaman almost missed his miracle because God's instructions seemed too ordinary. He wanted something grand and impressive. But God doesn't need impressive — He needs obedience. When you humble yourself and do what God says, even when it seems too simple, that's when the breakthrough comes.
 
+### Who told Naaman about the prophet Elisha?
+
+**A young Israelite servant girl.**
+
+### What did Naaman bring with him to Elisha's house?
+
+**Silver, gold, and sets of clothing.**
+
+### What instruction did Elisha give Naaman?
+
+**"Go wash yourself seven times in the Jordan River".**
+
+### Why was Naaman furious at Elisha's instructions?
+
+**He expected something more impressive and thought Syrian rivers were better.**
+
+### Who convinced Naaman to follow Elisha's instructions?
+
+**His own servants.**
+
+### What happened on Naaman's seventh dip in the Jordan?
+
+**His skin became clean and smooth like a child's.**
+
+### What is the main lesson of this story?
+
+**God's solutions often seem too simple — humility and obedience beat pride every time.**
 
 ## Discussion Questions for Families
 

@@ -1,6 +1,8 @@
 ---
 title: "Waiting in Jerusalem for Kids: Bible Story Explained Simply"
 slug: "waiting-in-jerusalem-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 09
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did Jesus tell His disciples to do after He ascended?
+### What did Jesus tell His disciples to do after He ascended?
 
+**Stay in Jerusalem and wait for the Holy Spirit.** Jesus gave them a clear instruction: stay in Jerusalem and wait for the gift the Father promised — the Holy Spirit.
 
+### How many believers gathered together in the upper room?
 
+**About one hundred and twenty.** About one hundred and twenty believers gathered in the upper room, including the eleven disciples, the women, Mary the mother of Jesus, and His brothers.
+
+### What did the believers do while they waited?
+
+**They prayed constantly and stayed united.** They devoted themselves to prayer, staying together and unified as they waited for what Jesus had promised.
+
+### Who was chosen to replace Judas among the twelve?
+
+**Matthias.** After prayer and casting lots, Matthias was chosen to take Judas's place, restoring the number of apostles to twelve.
+
+### What is the big lesson about waiting on God?
+
+**Obedient waiting is preparation for what God has next.** When God says "wait," it is not "no" — it is "not yet." Obedient waiting, filled with prayer and patience, prepares you for what God has planned next.
 
 ## Discussion Questions for Families
 

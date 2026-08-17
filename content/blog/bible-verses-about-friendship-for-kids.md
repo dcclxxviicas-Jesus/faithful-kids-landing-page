@@ -4,6 +4,8 @@ slug: "bible-verses-about-friendship-for-kids"
 type: "listicle"
 metaDescription: "10 Bible verses about friendship for kids with practical applications. Teach children what the Bible says about being a good friend using Proverbs."
 keywords: ["bible verses about friendship for kids", "friendship scriptures for children", "what does the bible say about friends"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 10 Bible Verses About Friendship for Kids
@@ -12,7 +14,7 @@ Friendship is one of the biggest parts of a child's life. From their first best 
 
 The Bible has a lot to say about friendship — and the wisdom it offers is strikingly practical. These aren't abstract theological concepts. They're real-world truths that apply to the playground, the lunch table, the group chat, and the sleepover.
 
-Here are 10 Bible verses about friendship that every child should know, along with practical applications they can use today.
+Here are 10 Bible verses about friendship that every child should know, along with practical applications they can use today. To see these truths lived out in narrative form, pair them with these [Bible stories about friendship for kids](/blog/bible-stories-about-friendship-for-kids).
 
 ## 1. Proverbs 17:17
 
@@ -52,7 +54,7 @@ Here are 10 Bible verses about friendship that every child should know, along wi
 
 **What it means for kids:** David and Jonathan had one of the greatest friendships in the entire Bible. Jonathan was the prince — he was supposed to become king. But when God chose David to be king instead, Jonathan didn't get jealous. He loved David and supported him, even when it meant giving up his own future. That's friendship without jealousy.
 
-**How to apply it:** When good things happen to your friends — they make the team, they get the award, they're invited to the party — be genuinely happy for them. Don't let jealousy poison your friendship. Celebrate their wins like they're your own.
+**How to apply it:** When good things happen to your friends — they make the team, they get the award, they're invited to the party — be genuinely happy for them. Don't let jealousy poison your friendship. Celebrate their wins like they're your own. The full story of [David and Jonathan](/blog/david-and-jonathan-for-kids) is worth reading together.
 
 ## 6. Proverbs 27:17
 
@@ -76,7 +78,7 @@ Here are 10 Bible verses about friendship that every child should know, along wi
 
 **What it means for kids:** Even the best friendships have conflicts. Your friend will hurt your feelings. You'll hurt theirs. The question isn't whether you'll have disagreements — it's whether you'll forgive each other when you do. "Bear with each other" means being patient with each other's imperfections. "Forgive as the Lord forgave you" means completely, not holding grudges.
 
-**How to apply it:** When a friend wrongs you, ask yourself: "Has God forgiven me for worse?" The answer is always yes. That doesn't mean you pretend it didn't hurt. Talk about it, work through it, and then truly let it go. Friendships that survive conflict become stronger than ones that never face it.
+**How to apply it:** When a friend wrongs you, ask yourself: "Has God forgiven me for worse?" The answer is always yes. That doesn't mean you pretend it didn't hurt. Talk about it, work through it, and then truly let it go. Friendships that survive conflict become stronger than ones that never face it. For more Scripture on making things right, see these [Bible verses about forgiveness for kids](/blog/bible-verses-about-forgiveness-for-kids).
 
 ## 9. Galatians 6:2
 
@@ -84,7 +86,7 @@ Here are 10 Bible verses about friendship that every child should know, along wi
 
 **What it means for kids:** A "burden" is something heavy you're carrying — it could be sadness, worry, a family problem, or a hard situation. This verse says friends help carry each other's heavy things. When your friend is struggling, you step in and share the weight. You listen. You help. You pray with them. That's what it means to fulfill "the law of Christ" — which is love.
 
-**How to apply it:** If your friend seems sad or quiet, ask them: "Are you okay? Do you want to talk about it?" Sometimes just asking is enough. You don't have to solve their problem. Just being willing to carry part of the weight makes it lighter.
+**How to apply it:** If your friend seems sad or quiet, ask them: "Are you okay? Do you want to talk about it?" Sometimes just asking is enough. You don't have to solve their problem. Just being willing to carry part of the weight makes it lighter. These [Bible stories about compassion](/blog/bible-stories-about-compassion-for-kids) show what burden-carrying looks like in practice.
 
 ## 10. John 15:15
 
@@ -109,7 +111,7 @@ When you step back and look at all 10 verses together, a picture emerges of what
 - **Burden-sharing** — friends carry each other's weight (Galatians 6:2)
 - **Intimate** — friends share their hearts (John 15:15)
 
-That's a high standard — and no kid (or adult) will be perfect at all of these all the time. But having the standard gives your child something to aim for. And when they fall short, they know exactly what to work on.
+That's a high standard — and no kid (or adult) will be perfect at all of these all the time. But having the standard gives your child something to aim for. And when they fall short, they know exactly what to work on. Several of these verses also appear in our list of [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) if your child wants to learn them by heart.
 
 ## Watch on Faithful Kids
 

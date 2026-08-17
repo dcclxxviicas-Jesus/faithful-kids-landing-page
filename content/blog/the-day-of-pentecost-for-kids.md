@@ -1,6 +1,8 @@
 ---
 title: "The Day of Pentecost for Kids: Bible Story Explained Simply"
 slug: "the-day-of-pentecost-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 10
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did the arrival of the Holy Spirit sound like?
+### What did the arrival of the Holy Spirit sound like?
 
+**A violent, rushing wind.** The Holy Spirit arrived with a sound from heaven like a violent, rushing wind that filled the entire house where the believers were gathered.
 
+### What appeared and rested on each of the believers?
 
+**Tongues of fire.** What looked like tongues of fire separated and rested on each person in the room, and they were all filled with the Holy Spirit.
+
+### Why is Pentecost called the reversal of the Tower of Babel?
+
+**At Babel languages divided people, but at Pentecost the Spirit united them.** At Babel, God confused languages and scattered people. At Pentecost, the Holy Spirit enabled believers to speak in every language, uniting people from all nations under one gospel.
+
+### Who stood up and preached to the crowd at Pentecost?
+
+**Peter.** Peter — the same man who had denied Jesus three times — stood boldly before thousands and preached the first great sermon of the church.
+
+### How many people were saved on the day of Pentecost?
+
+**About three thousand.** About three thousand people repented, were baptized, and received the Holy Spirit on that single, extraordinary day.
 
 ## Discussion Questions for Families
 

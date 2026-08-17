@@ -1,6 +1,8 @@
 ---
 title: "The Trial for Kids: Bible Story Explained Simply"
 slug: "the-trial-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 06
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Where was Jesus first taken after being arrested?
+### Where was Jesus first taken after being arrested?
 
+**To the high priest Caiaphas.** To the high priest Caiaphas. The religious leaders had already assembled and were waiting to put Jesus on trial.
 
+### What happened when false witnesses spoke against Jesus at the trial?
 
+**Their stories didn't match.** The witnesses contradicted each other, yet the court didn't care because the verdict had already been decided.
+
+### What did Jesus say when Caiaphas asked, "Are you the Christ, the Son of the Blessed One?"
+
+**"I am." Jesus told the truth even though He knew it would be used against Him.** He never denied who He was.
+
+### What did Pilate say after questioning Jesus?
+
+**"I find no guilt in this man." Even the Roman governor admitted Jesus was innocent, but he gave in to the crowd anyway.** 
+
+### Who did the crowd choose to release instead of Jesus?
+
+**Barabbas, a murderer.** The crowd chose a violent criminal over the innocent Son of God.
+
+### What is the main lesson of this episode?
+
+**The truth doesn't change just because people reject it.** Jesus was innocent no matter what the crowd shouted or the court decided. Truth isn't determined by popularity.
 
 ## Discussion Questions for Families
 

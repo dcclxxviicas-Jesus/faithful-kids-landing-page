@@ -1,6 +1,8 @@
 ---
 title: "Peter Denies Jesus for Kids: Bible Story Explained Simply"
 slug: "peter-denies-jesus-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 07
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What had Peter promised Jesus at the Last Supper?
+### What had Peter promised Jesus at the Last Supper?
 
+**That he was ready to go to prison and to death for Jesus.** Peter declared he was ready to go to prison and even die for Jesus. He meant it with all his heart, but his courage would be tested that very night.
 
+### How many times did Peter deny knowing Jesus?
 
+**Three times, exactly as Jesus had predicted.** Each denial was worse than the last, with Peter eventually cursing and swearing.
+
+### What happened immediately after Peter's third denial?
+
+**rooster crowed, exactly as Jesus had warned at the Last Supper.** That sound became the most haunting sound Peter would ever hear.
+
+### What did Jesus do when He looked at Peter across the courtyard?
+
+**Jesus looked at Peter with love and sadness.** There was no anger in that look — just the heartbreak of knowing what Peter was going through.
+
+### What did Peter do after realizing what he had done?
+
+**Peter went outside and wept bitterly.** His grief was overwhelming because he had failed the person he loved most in the world.
+
+### What is the main lesson of this episode?
+
+**Failure doesn't disqualify you.** Peter went on to become the leader of the early church. His worst night didn't end his story — getting back up is what mattered.
 
 ## Discussion Questions for Families
 

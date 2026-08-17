@@ -4,6 +4,8 @@ slug: "back-to-school-bible-stories-for-kids"
 type: "listicle"
 metaDescription: "8 Bible stories about courage, new beginnings, and trusting God for back-to-school season. Help your kids start the school year with faith and confidence."
 keywords: ["back to school bible stories", "bible stories about courage for kids", "first day of school bible verse"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 The first day of school is one of the biggest days of a kid's year. New classrooms, new teachers, new expectations -- and maybe a stomach full of butterflies. Whether your child is starting kindergarten or walking into middle school, back-to-school season stirs up a mix of excitement and anxiety.
@@ -24,7 +26,7 @@ Moses had died, and Joshua was suddenly in charge of leading the entire nation o
 
 **Read:** 1 Samuel 17:32-50
 
-David was just a kid -- a shepherd boy too young to join the army. But when he saw Goliath mocking God and terrifying the soldiers, he volunteered. Everyone said he was too small. He didn't even fit in the king's armor. David went with his sling, five stones, and his trust in God.
+David was just a kid -- a shepherd boy too young to join the army. But when he saw Goliath mocking God and terrifying the soldiers, he volunteered. (We tell the full story in [David and Goliath for kids](/blog/david-and-goliath-for-kids).) Everyone said he was too small. He didn't even fit in the king's armor. David went with his sling, five stones, and his trust in God.
 
 "The Lord who rescued me from the paw of the lion and the paw of the bear will rescue me from the hand of this Philistine" (1 Samuel 17:37).
 
@@ -48,7 +50,7 @@ The result? After ten days, Daniel and his friends looked healthier and stronger
 
 **Read:** Esther 4:1-17
 
-Esther was a young Jewish woman who became queen of Persia. When an evil official named Haman plotted to destroy all the Jewish people, Esther's uncle Mordecai told her she was in a unique position to save them. But speaking to the king without being summoned could mean death.
+[Esther](/blog/who-was-esther-for-kids) was a young Jewish woman who became queen of Persia. When an evil official named Haman plotted to destroy all the Jewish people, Esther's uncle Mordecai told her she was in a unique position to save them. But speaking to the king without being summoned could mean death.
 
 Mordecai said, "Who knows but that you have come to your royal position for such a time as this?" (Esther 4:14). Esther chose to speak up, risking her life to save her people.
 
@@ -66,7 +68,7 @@ She said to Naomi, "Where you go I will go, and where you stay I will stay. Your
 
 In Bethlehem, Ruth gleaned in the fields of a man named Boaz, who noticed her kindness and character. Eventually, Ruth married Boaz and became part of the lineage of King David -- and of Jesus.
 
-**The back-to-school connection:** Starting at a new school (or just a new grade with new classmates) can feel like being in a foreign land. Ruth's story reminds kids that being the new person is temporary. Hard work, kindness, and loyalty attract good people.
+**The back-to-school connection:** Starting at a new school (or just a new grade with new classmates) can feel like being in a foreign land. [Ruth's story of loyalty](/blog/ruth-a-story-of-loyalty-for-kids) reminds kids that being the new person is temporary. Hard work, kindness, and loyalty attract good people.
 
 **Talk about it:** Have you ever been the new kid? What helped? What's one thing you can do to welcome someone who's new at your school this year? How did God reward Ruth's faithfulness?
 
@@ -76,7 +78,7 @@ In Bethlehem, Ruth gleaned in the fields of a man named Boaz, who noticed her ki
 
 When Solomon became king, God appeared to him in a dream and said, "Ask for whatever you want me to give you." Solomon could have asked for anything -- money, power, long life, revenge on his enemies. Instead, he asked for wisdom: "Give your servant a discerning heart to govern your people and to distinguish between right and wrong" (1 Kings 3:9).
 
-God was so pleased with this request that He gave Solomon wisdom AND everything he didn't ask for -- wealth, honor, and a long life.
+God was so pleased with this request that He gave Solomon wisdom AND everything he didn't ask for -- wealth, honor, and a long life. Dig deeper with our lesson on [Solomon asking for wisdom](/blog/solomon-asks-for-wisdom-for-kids).
 
 **The back-to-school connection:** What if your kids prayed for wisdom before the school year starts? Not just for good grades, but for the ability to make good decisions, understand people, and know right from wrong. Solomon teaches kids that wisdom is the most valuable thing you can ask God for -- and He loves giving it.
 
@@ -112,7 +114,7 @@ Pray this together the night before school starts:
 
 ## 5 Ways to Keep Faith Alive During the School Year
 
-1. **Morning verse.** Pick a verse of the week and read it together at breakfast every morning. By Friday, your kids will have it memorized.
+1. **Morning verse.** Pick a verse of the week -- these [Bible verses for the first day of school](/blog/bible-verses-for-first-day-of-school) are a great place to start -- and read it together at breakfast every morning. By Friday, your kids will have it memorized.
 
 2. **Lunchbox prayers.** Write a short prayer or encouraging Bible verse on a sticky note and tuck it into your child's lunch.
 

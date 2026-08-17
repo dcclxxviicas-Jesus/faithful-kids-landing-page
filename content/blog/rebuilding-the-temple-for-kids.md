@@ -1,6 +1,8 @@
 ---
 title: "Rebuilding the Temple for Kids: Bible Story Explained Simply"
 slug: "rebuilding-the-temple-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 02
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. When the people returned to Jerusalem, what did they find?
+### When the people returned to Jerusalem, what did they find?
 
+**The city was in ruins and the temple was destroyed.** Jerusalem was in ruins after 70 years. The temple was destroyed and the streets were rubble.
 
+### When the foundation of the new temple was laid, how did the old people react?
 
+**They wept because it was smaller than Solomon's temple.** The older people who remembered Solomon's glorious temple wept because the new foundation looked so much smaller and simpler.
+
+### How did the enemies try to stop the rebuilding?
+
+**They sent threats and petitioned the government to stop the work.** The enemies sent threatening letters and hired people to petition the Persian government, which actually succeeded in halting the work for years.
+
+### Which two prophets encouraged the people to start building again?
+
+**Haggai and Zechariah.** The prophets Haggai and Zechariah challenged the people to stop sitting around and get back to building God's house.
+
+### What is the main lesson of this episode?
+
+**Don't compare your new beginning to someone else's past glory — just start building.** God doesn't ask you to match past glory. He asks you to be faithful and start where you are. He'll meet you there.
 
 ## Discussion Questions for Families
 

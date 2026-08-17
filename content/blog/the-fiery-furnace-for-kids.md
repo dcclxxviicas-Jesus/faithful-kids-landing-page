@@ -1,6 +1,8 @@
 ---
 title: "The Fiery Furnace for Kids: Bible Story Explained Simply"
 slug: "the-fiery-furnace-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Exile and Faith"
 seriesSlug: "exile-and-faith"
 episode: 04
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did King Nebuchadnezzar command everyone to do when the music played?
+### What did King Nebuchadnezzar command everyone to do when the music played?
 
+**Bow down and worship his golden statue.** Nebuchadnezzar commanded everyone to bow down and worship his ninety-foot golden statue. Anyone who refused would be thrown into a blazing furnace.
 
+### How tall was the golden statue Nebuchadnezzar built?
 
+**90 feet.** The statue was 90 feet tall — an enormous monument to the king's pride.
+
+### What did Shadrach, Meshach, and Abednego say to the king when he threatened them?
+
+**"Our God CAN save us, but even if He doesn't, we still won't bow".** Their response was legendary. They trusted God completely but didn't demand a specific outcome. They chose faithfulness regardless of what happened.
+
+### What did Nebuchadnezzar see when he looked into the furnace?
+
+**Four figures walking around unharmed, the fourth looking like a son of the gods.** Instead of three bound men, the king saw four figures walking freely in the flames. The fourth had a supernatural appearance.
+
+### What is the main lesson of this episode?
+
+**Faith means trusting God with the outcome, not just when you know it'll work out.** Real faith means trusting God whether He rescues you or not. Shadrach, Meshach, and Abednego didn't demand a miracle — they chose faithfulness and left the outcome to God.
 
 ## Discussion Questions for Families
 

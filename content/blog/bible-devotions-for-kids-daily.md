@@ -32,7 +32,7 @@ Each devotion below is complete: verse, kid-level thought, and discussion questi
 
 **Verse:** "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go." -- Joshua 1:9 (NIV)
 
-**Thought:** God said this to Joshua right before the scariest job of his life -- leading a whole nation into an unknown land. Notice that God didn't promise nothing scary would happen; He promised to be there in it. Courage isn't the absence of fear -- it's walking into the scary thing knowing you're not walking in alone.
+**Thought:** God said this to Joshua right before the scariest job of his life -- leading a whole nation into an unknown land. Notice that God didn't promise nothing scary would happen; He promised to be there in it. Courage isn't the absence of fear -- it's walking into the scary thing knowing you're not walking in alone. (More like this in our [Bible verses about courage for kids](/blog/bible-verses-about-courage-for-kids).)
 
 **Question:** What's one thing coming up this week that feels a little scary -- and how does it change things to know God goes with you?
 
@@ -56,7 +56,7 @@ Each devotion below is complete: verse, kid-level thought, and discussion questi
 
 **Verse:** "Give thanks in all circumstances; for this is God's will for you in Christ Jesus." -- 1 Thessalonians 5:18 (NIV)
 
-**Thought:** The verse says give thanks *in* all circumstances, not *for* all circumstances -- there's a big difference. You don't have to be thankful that your day went badly, but you can always find something to thank God for inside a bad day. Gratitude is like a flashlight: it doesn't change the room, but it changes what you see.
+**Thought:** The verse says give thanks *in* all circumstances, not *for* all circumstances -- there's a big difference. You don't have to be thankful that your day went badly, but you can always find something to thank God for inside a bad day. Gratitude is like a flashlight: it doesn't change the room, but it changes what you see. (These [Bible verses about thankfulness](/blog/bible-verses-about-thankfulness-for-kids) extend the theme.)
 
 **Question:** What's one good thing hiding inside a hard thing you're going through right now?
 
@@ -72,7 +72,7 @@ Each devotion below is complete: verse, kid-level thought, and discussion questi
 
 **Verse:** "We love because he first loved us." -- 1 John 4:19 (NIV)
 
-**Thought:** This might be the shortest explanation of the whole Christian life in the Bible: love is something we pass on, not something we produce. God loved you before you did anything to earn it -- before you were even born. So when loving someone feels hard, the trick isn't to try harder; it's to remember how loved you already are, and let some of that spill out.
+**Thought:** This might be the shortest explanation of the whole Christian life in the Bible: love is something we pass on, not something we produce. God loved you before you did anything to earn it -- before you were even born. So when loving someone feels hard, the trick isn't to try harder; it's to remember how loved you already are, and let some of that spill out. (More [Bible verses about love for kids](/blog/bible-verses-about-love-for-kids) here.)
 
 **Question:** Who in your life is hardest to love right now -- and what's one small way you could love them anyway this week?
 
@@ -80,7 +80,7 @@ Each devotion below is complete: verse, kid-level thought, and discussion questi
 
 **Verse:** "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God." -- Philippians 4:6 (NIV)
 
-**Thought:** Worry is like carrying a heavy backpack you were never supposed to wear. This verse gives the trade: every worry can be turned into a prayer, handed to God like a package you don't have to carry anymore. It doesn't say worries won't come -- it says you know exactly where to take them when they do.
+**Thought:** Worry is like carrying a heavy backpack you were never supposed to wear. This verse gives the trade: every worry can be turned into a prayer, handed to God like a package you don't have to carry anymore. It doesn't say worries won't come -- it says you know exactly where to take them when they do. (For a worrier in your house, keep these [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids) handy.)
 
 **Question:** What's one worry sitting in your "backpack" right now that you could turn into a prayer before bed tonight?
 

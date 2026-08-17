@@ -1,6 +1,8 @@
 ---
 title: "Naboths Vineyard for Kids: Bible Story Explained Simply"
 slug: "naboths-vineyard-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 05
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did Naboth own that King Ahab wanted?
+### What did Naboth own that King Ahab wanted?
 
+**A vineyard.** 
 
+### Why did Naboth refuse to give up his vineyard?
 
+**It was his family inheritance from God.**
+
+### How did King Ahab react when Naboth said no?
+
+**He went home and pouted, refusing to eat.**
+
+### Who came up with the evil plan to get the vineyard?
+
+**Queen Jezebel.**
+
+### What was Jezebel's plan to get rid of Naboth?
+
+**Have false witnesses accuse him, then have him killed.**
+
+### What happened to Naboth?
+
+**He was falsely accused and stoned to death.**
+
+### Who did God send to confront Ahab at the vineyard?
+
+**Elijah.**
+
+### What is the main lesson of this story?
+
+**Power doesn't give you the right to take what you want — God sees injustice and responds.**
 
 ## Discussion Questions for Families
 

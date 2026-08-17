@@ -1,6 +1,8 @@
 ---
 title: "The Wall is Finished for Kids: Bible Story Explained Simply"
 slug: "the-wall-is-finished-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 06
@@ -61,10 +63,25 @@ The crucifixion is the most important and most difficult story in the Bible to s
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How many times did Sanballat and his allies invite Nehemiah to "come down" and meet with them?
+### How many times did Sanballat and his allies invite Nehemiah to "come down" and meet with them?
 
+**4 times.** They sent the same invitation four times, but Nehemiah refused every time because he recognized it was a trap to lure him away from the work.
 
+### What was Nehemiah's famous response when they tried to get him to stop building?
 
+**"I am doing a great work and I cannot come down".** Nehemiah said, "I am doing a great work and I cannot come down. Why should the work stop while I leave it to come down to you?" That's elite focus.
+
+### What false rumor did the enemies spread about Nehemiah?
+
+**That he was planning to rebel and make himself king.** They spread lies saying Nehemiah was planning to revolt against the Persian king and crown himself ruler, hoping to scare him into quitting.
+
+### How many days did it take to complete the wall around Jerusalem?
+
+**52 days.** The wall was completed in just 52 days — an astonishing achievement that stunned everyone, including Israel's enemies.
+
+### Why were the surrounding nations afraid when the wall was finished?
+
+**Because they realized God was behind the project.** The nations recognized that this project could not have been accomplished by human effort alone. They realized God Himself was behind it, and that's what terrified them.
 
 ## Discussion Questions for Families
 

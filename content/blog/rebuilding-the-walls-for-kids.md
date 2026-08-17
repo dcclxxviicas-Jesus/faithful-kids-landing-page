@@ -1,6 +1,8 @@
 ---
 title: "Rebuilding the Walls for Kids: Bible Story Explained Simply"
 slug: "rebuilding-the-walls-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 05
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did Nehemiah do when he first arrived in Jerusalem?
+### What did Nehemiah do when he first arrived in Jerusalem?
 
+**He rode around the city at night to secretly inspect the walls.** Nehemiah quietly rode around the broken walls at night to see the full extent of the damage before telling anyone his plan.
 
+### What was unusual about the people who helped rebuild the wall?
 
+**Priests, perfume-makers, goldsmiths, and entire families — including daughters — all helped build.** The rebuilding included all kinds of people: priests, perfume-makers, goldsmiths, and even families with their daughters. Everyone contributed regardless of their usual profession.
+
+### Why did Nehemiah assign each family the section of wall nearest their own house?
+
+**Because when you're protecting your own home, you work harder.** People work harder and build stronger when they're protecting what's closest to them. It was a brilliant leadership strategy.
+
+### What did the enemy Sanballat say to mock the builders?
+
+**"A fox could knock down what they're building".** Sanballat's ally Tobiah mocked them by saying even a fox climbing on the wall could break it down. They tried to crush the workers' morale through ridicule.
+
+### How did Nehemiah respond when enemies threatened to attack?
+
+**He armed the workers — half held weapons while the other half built, and builders carried tools in one hand and a weapon in the other.** Nehemiah armed the workers so they could build AND defend at the same time. They carried loads with one hand and held a weapon with the other.
 
 ## Discussion Questions for Families
 

@@ -1,6 +1,8 @@
 ---
 title: "David and Mephibosheth for Kids: Bible Story Explained Simply"
 slug: "david-and-mephibosheth-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 03
@@ -61,10 +63,33 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why did David want to show kindness to someone from Saul's family?
+### Why did David want to show kindness to someone from Saul's family?
 
+**He made a promise to Jonathan and wanted to honor their friendship.** 
 
+### What was Mephibosheth's relationship to Jonathan?
 
+**He was Jonathan's son.**
+
+### How did Mephibosheth become crippled?
+
+**His nurse dropped him while fleeing after Saul and Jonathan died.**
+
+### What does the name "Lo-Debar" mean?
+
+**No pasture — a place of nothing.**
+
+### How did Mephibosheth react when he was brought before King David?
+
+**He was terrified and fell on his face.**
+
+### What did David promise to give Mephibosheth?
+
+**All of Saul's land and a permanent place at the king's table.**
+
+### What is the main lesson of this story?
+
+**Grace means God invites us to His table not because we deserve it but because He loves us.**
 
 ## Discussion Questions for Families
 

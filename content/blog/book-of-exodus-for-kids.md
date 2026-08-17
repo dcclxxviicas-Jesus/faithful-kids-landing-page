@@ -4,6 +4,8 @@ slug: "book-of-exodus-for-kids"
 type: "listicle"
 metaDescription: "The Book of Exodus explained for kids. Moses, the 10 plagues, the Red Sea, the 10 Commandments, and 8 key stories parents can use to teach children."
 keywords: ["exodus for kids", "book of exodus summary for kids", "moses bible story for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # The Book of Exodus for Kids: Summary and Key Stories
@@ -14,7 +16,7 @@ Exodus is the story of Moses, the ten plagues, the parting of the Red Sea, and t
 
 ## What Does the Book of Exodus Cover?
 
-Exodus picks up where Genesis left off. Joseph's family had settled in Egypt and grown into a large nation called the Israelites. But a new Pharaoh came to power who did not remember Joseph, and he enslaved the entire Israelite people.
+Exodus picks up where [the book of Genesis](/blog/book-of-genesis-for-kids) left off. Joseph's family had settled in Egypt and grown into a large nation called the Israelites. But a new Pharaoh came to power who did not remember Joseph, and he enslaved the entire Israelite people.
 
 The book follows three major movements:
 
@@ -30,7 +32,7 @@ God gives Moses the Ten Commandments and detailed instructions for building the 
 ## 8 Key Stories Every Kid Should Know from Exodus
 
 ### 1. Baby Moses in the Basket (Exodus 1-2)
-Pharaoh ordered that all Israelite baby boys be thrown into the Nile River. Moses' mother hid him for three months, then placed him in a waterproof basket among the reeds. Pharaoh's own daughter found the baby and adopted him. Moses grew up in the palace as an Egyptian prince, but he was born an Israelite. Kids love this story because it shows that God protects the people He has plans for, even when the situation looks impossible.
+Pharaoh ordered that all Israelite baby boys be thrown into the Nile River. Moses' mother hid him for three months, then placed him in a waterproof basket among the reeds. Pharaoh's own daughter found the baby and adopted him. Moses grew up in the palace as an Egyptian prince, but he was born an Israelite. Kids love this story because it shows that God protects the people He has plans for, even when the situation looks impossible. You can explore it in more depth in our retelling of [the baby in the basket](/blog/a-baby-in-a-basket-for-kids).
 
 ### 2. The Burning Bush (Exodus 3-4)
 After fleeing Egypt as an adult, Moses was tending sheep in the wilderness when he saw a bush that was on fire but did not burn up. God spoke from the bush, calling Moses to go back to Egypt and demand that Pharaoh release the Israelites. Moses was afraid and full of excuses, but God promised to be with him. This story teaches kids that God uses ordinary people and that it is okay to feel scared as long as you trust God to help you.
@@ -42,7 +44,7 @@ When Pharaoh refused to let the Israelites go, God sent ten plagues upon Egypt: 
 Before the tenth plague, God told the Israelites to mark their doorframes with the blood of a lamb. The angel of death would "pass over" any house with the mark. This event became the Passover, one of the most important celebrations in the Bible. Kids learn that God provides a way of protection for those who trust Him. Christians also see the Passover lamb as pointing forward to Jesus.
 
 ### 5. Crossing the Red Sea (Exodus 14)
-With the Egyptian army charging behind them and the Red Sea in front of them, the Israelites were trapped. But God told Moses to stretch out his hand, and the sea divided, creating dry ground for the people to walk through. When the Egyptians followed, the waters crashed back down. This is one of the most cinematic moments in the entire Bible. For kids, it demonstrates that God can make a way when there seems to be no way.
+With the Egyptian army charging behind them and the Red Sea in front of them, the Israelites were trapped. But God told Moses to stretch out his hand, and the sea divided, creating dry ground for the people to walk through. When the Egyptians followed, the waters crashed back down. This is one of the most cinematic moments in the entire Bible. For kids, it demonstrates that God can make a way when there seems to be no way. Our guide to [crossing the Red Sea for kids](/blog/crossing-the-red-sea-for-kids) walks through the whole story.
 
 ### 6. Manna from Heaven (Exodus 16)
 In the desert, the Israelites complained about being hungry. God sent manna, a flaky bread-like substance that appeared on the ground every morning. They were told to gather only what they needed for each day and trust that God would provide again tomorrow. On the sixth day, they gathered double because the seventh day was a day of rest. This story teaches kids about daily trust and contentment. God provides what we need, one day at a time.
@@ -68,9 +70,9 @@ From the burning bush to the plagues to the parting of the sea, Exodus puts God'
 
 **Make it dramatic.** Exodus is a story that begs to be acted out. Let your kids play Moses holding up his staff, or Pharaoh stubbornly saying "No!" Act out the plagues with sound effects. March around the living room like the Israelites leaving Egypt. Physical engagement helps kids remember.
 
-**Count the plagues together.** Kids love lists, and the ten plagues are a perfect memory challenge. See if your child can name all ten in order. Use hand motions or drawings for each one. This kind of repetition builds biblical literacy in a fun way.
+**Count the plagues together.** Kids love lists, and the ten plagues are a perfect memory challenge. See if your child can name all ten in order. Use hand motions or drawings for each one. This kind of repetition builds biblical literacy in a fun way. Once they know the stories, a round of [Exodus Bible trivia](/blog/exodus-bible-trivia) makes a great review.
 
-**Talk about waiting.** The Israelites spent 400 years in slavery before God acted. Moses spent 40 years as a shepherd before God called him. Exodus teaches patience. When your child is waiting for something, whether it is a birthday, a new sibling, or a hard situation to get better, Exodus reminds them that God is always working even when we cannot see it.
+**Talk about waiting.** The Israelites spent 400 years in slavery before God acted. Moses spent 40 years as a shepherd before God called him. Exodus teaches patience. When your child is waiting for something, whether it is a birthday, a new sibling, or a hard situation to get better, Exodus reminds them that God is always working even when we cannot see it. These [Bible stories about patience](/blog/bible-stories-about-patience-for-kids) reinforce the same lesson.
 
 **Focus on the character of God.** Every story in Exodus reveals something about who God is: He hears prayers, He keeps promises, He is more powerful than any obstacle, He provides daily needs, and He wants a relationship with His people. Help your kids see God's character in each story.
 

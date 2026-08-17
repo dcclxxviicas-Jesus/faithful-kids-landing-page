@@ -1,6 +1,8 @@
 ---
 title: "Solomon Asks for Wisdom for Kids: Bible Story Explained Simply"
 slug: "solomon-asks-for-wisdom-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Solomon and the Kingdom"
 seriesSlug: "solomon-and-the-kingdom"
 episode: 01
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How did God appear to Solomon?
+### How did God appear to Solomon?
 
 The big takeaway is that what you ask for reveals what's really in your heart. Solomon chose wisdom over wealth, power, and long life. That choice set the course for his entire reign. Seek wisdom first, and everything else follows.
 
+### What did Solomon ask God for?
+
+**A wise and discerning heart.**
+
+### Why was God pleased with Solomon's request?
+
+**Because Solomon didn't ask for selfish things like wealth, long life, or his enemies' destruction.**
+
+### Besides wisdom, what else did God give Solomon?
+
+**Riches AND honor, so he would have no equal among kings.**
+
+### What is the main lesson of this episode?
+
+**What you ask for reveals what you value — and wisdom is the best thing you can pursue.**
 
 ## Discussion Questions for Families
 

@@ -4,6 +4,8 @@ slug: "how-to-explain-the-trinity-to-a-child"
 type: "listicle"
 metaDescription: "Learn how to explain the Trinity to a child using simple analogies like water, eggs, and the sun. Age-appropriate language for Father, Son, and Holy Spirit."
 keywords: ["explain trinity to a child", "trinity for kids", "Father Son Holy Spirit for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 If your child has ever asked, "Wait... is Jesus God? Or is God someone else?" you are not alone. The Trinity is one of the most profound ideas in all of Christianity, and honestly, it stretches the minds of adults too. But here is the good news: you do not need a theology degree to help your child begin to understand it. You just need a few good word pictures and a whole lot of patience.
@@ -54,6 +56,8 @@ The word "Trinity" is not actually in the Bible, but the idea is everywhere. Her
 
 Point out to your child: "See how Jesus mentions all three? The Father, the Son, and the Holy Spirit. And He says 'the name' — singular, one name — not 'the names.' That is because they are one God."
 
+All three Persons also showed up together at [the baptism of Jesus](/blog/the-baptism-of-jesus-for-kids) -- the Son stood in the water, the Father spoke from heaven, and the Spirit descended like a dove.
+
 **2 Corinthians 13:14** — "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all."
 
 This is a beautiful verse to show how all three Persons of the Trinity are active in our lives — Jesus gives grace, the Father gives love, and the Holy Spirit gives fellowship (closeness and friendship with God).
@@ -62,7 +66,7 @@ This is a beautiful verse to show how all three Persons of the Trinity are activ
 
 ### God the Father
 
-"God the Father is the one who made everything — the stars, the oceans, the animals, and you. He is in charge of all things, and He loves you more than you can imagine. He is the one Jesus called 'Abba,' which means 'Daddy.'"
+"God the Father is the one who made everything — the stars, the oceans, the animals, and you. He is in charge of all things, and He loves you more than you can imagine. He is the one Jesus called 'Abba,' which means 'Daddy.'" For a fuller conversation about who God is, see [how to explain God to a child](/blog/how-to-explain-god-to-a-child).
 
 ### God the Son (Jesus)
 
@@ -70,7 +74,7 @@ This is a beautiful verse to show how all three Persons of the Trinity are activ
 
 ### God the Holy Spirit
 
-"The Holy Spirit is God living inside you. When you believe in Jesus, the Holy Spirit comes to live in your heart. He helps you know right from wrong, comforts you when you are sad, and gives you the power to do what is right even when it is hard."
+"The Holy Spirit is God living inside you. When you believe in Jesus, the Holy Spirit comes to live in your heart. He helps you know right from wrong, comforts you when you are sad, and gives you the power to do what is right even when it is hard." This Person of the Trinity often raises the most questions, so we wrote a whole guide on [explaining the Holy Spirit to a child](/blog/how-to-explain-the-holy-spirit-to-a-child).
 
 ## Tips for the Conversation
 
@@ -90,7 +94,7 @@ This is a beautiful verse to show how all three Persons of the Trinity are activ
 
 **Ages 6-8:** Introduce an analogy. The sun analogy tends to land best with this age. Read Matthew 28:19 together and count the three names.
 
-**Ages 9-12:** Have a deeper conversation. Talk about how analogies break down and why that is okay. Discuss how the Father, Son, and Holy Spirit interact with each other (the Father sends the Son, the Son sends the Spirit). Read John 14-16 together where Jesus talks about all three.
+**Ages 9-12:** Have a deeper conversation. Talk about how analogies break down and why that is okay. Discuss how the Father, Son, and Holy Spirit interact with each other (the Father sends the Son, the Son sends the Spirit). Read John 14-16 together where Jesus talks about all three, then explore [the day of Pentecost](/blog/the-day-of-pentecost-for-kids), when the Spirit arrived in power.
 
 **Ages 13+:** Explore the historical creeds (the Nicene Creed is a great starting point). Discuss why early Christians cared so much about getting this right. Talk about what the Trinity tells us about the nature of love — that love existed within God even before creation, because the Father, Son, and Holy Spirit have always loved each other.
 

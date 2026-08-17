@@ -4,6 +4,8 @@ slug: "how-to-explain-easter-to-a-child"
 type: "listicle"
 metaDescription: "Learn how to explain the real meaning of Easter to kids. The crucifixion, resurrection, and why Easter matters — told in simple, age-appropriate language."
 keywords: ["explain Easter to a child", "Easter for kids", "real meaning of Easter for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 Chocolate eggs, bunny ears, and Easter baskets — your child probably knows that part of Easter already. But at some point, they look at you and ask, "What is Easter really about?"
@@ -17,13 +19,13 @@ Easter is the most important day on the Christian calendar. It is the day we cel
 Before diving into explanations and applications, just tell the story. Kids learn through stories, and this one is the greatest story ever told.
 
 ### The Triumphal Entry (Palm Sunday)
-"A few days before Easter, Jesus rode into the big city of Jerusalem on a donkey. People were so excited to see Him that they waved palm branches and laid them on the road, shouting, 'Hosanna! Blessed is He who comes in the name of the Lord!' It was like a parade for a king. But this king was different — He did not come riding a war horse. He came on a humble donkey."
+"A few days before Easter, Jesus rode into the big city of Jerusalem on a donkey. People were so excited to see Him that they waved palm branches and laid them on the road, shouting, 'Hosanna! Blessed is He who comes in the name of the Lord!' It was like a parade for a king. But this king was different — He did not come riding a war horse. He came on a humble donkey." (Read the longer version in [the triumphal entry for kids](/blog/the-triumphal-entry-for-kids).)
 
 ### The Last Supper (Thursday)
 "On Thursday night, Jesus had a special dinner with His twelve closest friends. He washed their feet, which was a job usually done by servants. He told them He loved them and that something very hard was about to happen. He shared bread and wine with them and said, 'Remember me when you do this.'"
 
 ### The Arrest and Trial (Thursday Night / Friday Morning)
-"After dinner, Jesus went to a garden to pray. He was very sad because He knew what was coming. While He was praying, soldiers came and arrested Him. His friend Judas had told the soldiers where to find Him. They took Jesus to the leaders of the city, and even though Jesus had never done anything wrong, they said He had to die."
+"After dinner, Jesus went to a garden to pray -- the story we tell in [the Garden of Gethsemane for kids](/blog/the-garden-of-gethsemane-for-kids). He was very sad because He knew what was coming. While He was praying, soldiers came and arrested Him. His friend Judas had told the soldiers where to find Him. They took Jesus to the leaders of the city, and even though Jesus had never done anything wrong, they said He had to die."
 
 ### The Cross (Good Friday)
 "On Friday, the soldiers nailed Jesus to a wooden cross. This is the hardest part of the story. Jesus suffered a lot, but He chose to go through it because He loved us. While He was on the cross, He said, 'Father, forgive them.' Even while people were hurting Him, Jesus was asking God to forgive them. Then Jesus died."
@@ -38,7 +40,7 @@ For younger children, you can soften this: "Jesus was hurt very badly by people 
 
 **Matthew 28:5-6:** "The angel said to the women, 'Do not be afraid, for I know that you are looking for Jesus, who was crucified. He is not here; he has risen, just as he said.'"
 
-"Jesus was alive! He had beaten death! Over the next forty days, He appeared to His friends — He ate with them, talked with them, and showed them He was really, truly alive. More than 500 people saw Him."
+"Jesus was alive! He had beaten death! Over the next forty days, He appeared to His friends — He ate with them, talked with them, and showed them He was really, truly alive. More than 500 people saw Him." Kids who want to relive that morning can explore [the empty tomb for kids](/blog/the-empty-tomb-for-kids).
 
 ## Why Easter Matters (Explained for Kids)
 
@@ -56,7 +58,7 @@ After telling the story, your child might ask, "But why? Why did Jesus have to d
 ## How to Keep Christ in Easter (Practical Ideas)
 
 ### 1. Read the Easter Story Together
-Get a good children's Bible or storybook Bible and read the Easter story during the week leading up to Easter. You could read one part each day — Palm Sunday on Monday, the Last Supper on Tuesday, and so on — building toward the resurrection on Easter morning.
+Get a good children's Bible or storybook Bible and read the Easter story during the week leading up to Easter. You could read one part each day — Palm Sunday on Monday, the Last Supper on Tuesday, and so on — building toward the resurrection on Easter morning. Our [day-by-day Holy Week guide for kids](/blog/holy-week-day-by-day-for-kids) maps out exactly what to read and do each day.
 
 ### 2. Do a Resurrection Egg Hunt
 Instead of (or alongside) a regular egg hunt, use special eggs that tell the Easter story. Put small symbols inside numbered eggs: a palm leaf, a piece of bread, a nail, a small rock, and leave the last egg empty — representing the empty tomb. Open them in order and tell the story together.
@@ -68,7 +70,7 @@ Some families light a candle on Easter morning to represent Jesus as the light o
 Easter is all about new life. Take a nature walk and point out the signs of spring — flowers blooming, birds singing, trees budding. "Just like God brings new life to the world in spring, Jesus brings new life to our hearts."
 
 ### 5. Watch the Story Come to Life
-Animated video lessons can help kids visualize the Easter story in a way that sticks. Watching Jesus enter Jerusalem, share the Last Supper, and emerge from the empty tomb brings the narrative to life.
+Animated video lessons can help kids visualize the Easter story in a way that sticks. Watching Jesus enter Jerusalem, share the Last Supper, and emerge from the empty tomb brings the narrative to life. Our roundup of [Easter Bible stories for kids](/blog/easter-bible-stories-for-kids) collects the key scenes in one place.
 
 ### 6. Serve Others
 "Because Jesus gave everything for us, we can give to others." Volunteer as a family, deliver meals, or make Easter cards for people who are alone. Show your child that the love of Easter is meant to overflow into action.

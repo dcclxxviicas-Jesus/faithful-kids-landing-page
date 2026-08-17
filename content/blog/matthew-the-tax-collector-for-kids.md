@@ -1,6 +1,8 @@
 ---
 title: "Matthew the Tax Collector for Kids: Bible Story Explained Simply"
 slug: "matthew-the-tax-collector-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 09
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why were tax collectors so hated in Israel?
+### Why were tax collectors so hated in Israel?
 
+**They worked for Rome and cheated their own people.** 
 
+### What did Jesus say to Matthew at the tax booth?
 
+**"Follow me.".**
+
+### What did Matthew do after Jesus called him?
+
+**He got up, left everything, and followed Jesus.**
+
+### Why were the Pharisees upset with Jesus?
+
+**He ate dinner with tax collectors and sinners.**
+
+### What did Jesus say about why He came?
+
+**"I came not for the righteous, but for sinners.".**
 
 ## Discussion Questions for Families
 

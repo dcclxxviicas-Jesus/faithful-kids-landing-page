@@ -4,6 +4,8 @@ slug: "holy-week-day-by-day-for-kids"
 type: "listicle"
 metaDescription: "Walk through Holy Week day by day with your kids. Bible stories, family activities, and discussion questions from Palm Sunday through Easter Sunday."
 keywords: ["holy week for kids", "easter bible stories for kids", "palm sunday to easter for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 Holy Week is the most important week in the Christian calendar. It's the week that changed everything -- when Jesus rode into Jerusalem as a king, was betrayed, crucified, and rose from the dead.
@@ -20,7 +22,7 @@ Jesus rode into Jerusalem on a donkey, and the crowds went wild. They spread the
 
 This wasn't a random parade. The people believed Jesus was the long-promised Messiah -- the King who would save Israel. They expected a military hero who would overthrow the Romans. Jesus had something very different in mind.
 
-**Why a donkey?** Kings rode horses into battle but donkeys in peacetime. By choosing a donkey, Jesus was saying: I am a King, but not the kind you expect. My kingdom is one of peace.
+**Why a donkey?** Kings rode horses into battle but donkeys in peacetime. By choosing a donkey, Jesus was saying: I am a King, but not the kind you expect. My kingdom is one of peace. For a fuller kid-friendly retelling, see [the triumphal entry for kids](/blog/the-triumphal-entry-for-kids).
 
 **Talk about it with your kids:**
 - Why were the people so excited to see Jesus?
@@ -37,7 +39,7 @@ The day after His triumphal entry, Jesus walked into the temple in Jerusalem and
 
 Jesus overturned the tables and drove out the merchants, saying, "My house shall be called a house of prayer, but you are making it a den of robbers" (Matthew 21:13).
 
-This is one of the few times in the Gospels where Jesus shows visible anger. He wasn't angry at the people -- He was angry at the injustice. The temple was supposed to be a place where anyone could come close to God. The merchants had turned it into a place where only the wealthy could afford to worship.
+This is one of the few times in the Gospels where Jesus shows visible anger (we unpack the whole scene in [Jesus cleansing the temple](/blog/cleansing-the-temple-for-kids)). He wasn't angry at the people -- He was angry at the injustice. The temple was supposed to be a place where anyone could come close to God. The merchants had turned it into a place where only the wealthy could afford to worship.
 
 **Talk about it with your kids:**
 - Why was Jesus so upset at the temple?
@@ -90,7 +92,7 @@ Foot washing was the job of the lowest servant in the household. No rabbi would 
 
 Then came the meal. Jesus took bread, gave thanks, broke it, and said, "This is my body given for you; do this in remembrance of me." Then He took the cup and said, "This cup is the new covenant in my blood, which is poured out for you" (Luke 22:19-20).
 
-Jesus was telling His friends what was about to happen -- and asking them to remember it forever.
+Jesus was telling His friends what was about to happen -- and asking them to remember it forever. Kids who want to linger here can explore [the Last Supper story for kids](/blog/the-last-supper-for-kids).
 
 **Talk about it with your kids:**
 - Why did Jesus wash His disciples' feet? What was He teaching them?
@@ -149,7 +151,7 @@ Early Sunday morning, women went to the tomb to anoint Jesus' body with spices. 
 
 He is risen.
 
-Those three words changed everything. Death didn't win. The tomb is empty. Jesus is alive.
+Those three words changed everything. Death didn't win. The tomb is empty. Jesus is alive. (Our retelling of [the empty tomb for kids](/blog/the-empty-tomb-for-kids) walks through this glorious morning in more detail.)
 
 Mary Magdalene was the first to see the risen Jesus. She didn't recognize Him at first -- until He said her name. "Mary." She turned and cried out, "Rabboni!" (Teacher!) and ran to tell the others (John 20:16-18).
 
@@ -169,7 +171,7 @@ This is why Christians celebrate Easter. Not because of eggs and bunnies, but be
 
 Walking through Holy Week together doesn't require perfect execution. It requires presence. Even if you only do three or four of these days, your kids will remember them.
 
-Consider starting a family tradition: every Holy Week, read through these stories together, share a special Thursday meal, make a cross on Friday, and celebrate with joy on Sunday.
+Consider starting a family tradition: every Holy Week, read through these stories together, share a special Thursday meal, make a cross on Friday, and celebrate with joy on Sunday. You can even close the week with a round of [Easter Bible trivia](/blog/easter-bible-trivia-for-kids) to see what stuck.
 
 As Deuteronomy 6:6-7 says: "These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."
 

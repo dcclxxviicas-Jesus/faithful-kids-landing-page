@@ -4,6 +4,8 @@ slug: "who-was-moses-for-kids"
 type: "listicle"
 metaDescription: "Who was Moses? A kid-friendly guide from the basket in the Nile to the Ten Commandments -- simple Bible story with key lessons for children."
 keywords: ["who was moses for kids", "moses bible story for kids", "moses and the ten commandments for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Moses? Bible Story for Kids Explained Simply
@@ -20,7 +22,7 @@ When Moses was born, his mother, Jochebed, knew she had to protect him. She hid 
 
 Then something amazing happened. Pharaoh's own daughter came to the river to bathe. She spotted the basket, opened it, and found the crying baby inside. She felt sorry for him. Miriam bravely stepped forward and asked, "Shall I go and get one of the Hebrew women to nurse the baby for you?" Pharaoh's daughter agreed, and Miriam ran to get their own mother.
 
-So Moses's mother got to raise him -- and she was even paid to do it. When Moses was old enough, he went to live in Pharaoh's palace and was raised as an Egyptian prince.
+So Moses's mother got to raise him -- and she was even paid to do it. When Moses was old enough, he went to live in Pharaoh's palace and was raised as an Egyptian prince. (We retell this rescue in [A Baby in a Basket for kids](/blog/a-baby-in-a-basket-for-kids).)
 
 **Key lesson for kids:** God was watching over Moses from the very beginning. Even when things seemed hopeless, God had a plan. He can protect us in ways we never expect.
 
@@ -44,7 +46,7 @@ God told Moses that He had seen the suffering of His people in Egypt and had com
 
 Moses was scared. He gave God excuse after excuse. "Who am I to do this?" "What if they don't believe me?" "I'm not a good speaker." But God answered every objection. He even gave Moses his brother Aaron to help him speak. Finally, Moses said yes.
 
-**Key lesson for kids:** God doesn't call people who are perfect or confident. He calls people who are willing. Moses was afraid and full of doubts, but God equipped him for everything He asked him to do.
+**Key lesson for kids:** God doesn't call people who are perfect or confident. He calls people who are willing. Moses was afraid and full of doubts, but God equipped him for everything He asked him to do. (There's more in [The Burning Bush for kids](/blog/the-burning-bush-for-kids).)
 
 ## The Ten Plagues (Exodus 7-12)
 
@@ -65,7 +67,7 @@ The ten plagues were:
 
 Before the last plague, God told the Israelites to mark their doorposts with the blood of a lamb. When the angel of death passed through Egypt, he "passed over" the homes with the blood on them. This is where the celebration of Passover comes from, which Jewish families still observe today.
 
-After the tenth plague, Pharaoh finally said, "Go!"
+After the tenth plague, Pharaoh finally said, "Go!" (Get the full story in [The Ten Plagues for kids](/blog/the-ten-plagues-for-kids).)
 
 **Key lesson for kids:** God keeps His promises. He said He would free His people, and He did -- even when the most powerful ruler on earth stood in the way.
 
@@ -79,7 +81,7 @@ Then God told Moses to raise his staff over the sea. Moses stretched out his han
 
 The Israelites were free.
 
-**Key lesson for kids:** When it looks like there's no way out, God can make a way. Nothing is impossible for Him.
+**Key lesson for kids:** When it looks like there's no way out, God can make a way. Nothing is impossible for Him. (Dive deeper into [Crossing the Red Sea for kids](/blog/crossing-the-red-sea-for-kids).)
 
 ## The Ten Commandments (Exodus 19-20)
 
@@ -96,7 +98,7 @@ Three months after leaving Egypt, the Israelites arrived at Mount Sinai. God cal
 9. You shall not lie.
 10. You shall not covet what belongs to others.
 
-God wrote these commandments on two stone tablets and gave them to Moses to bring down to the people.
+God wrote these commandments on two stone tablets and gave them to Moses to bring down to the people. (Each one is unpacked in our guide to [the Ten Commandments for kids](/blog/ten-commandments-for-kids-explained).)
 
 **Key lesson for kids:** God's rules aren't meant to take away our fun. They're meant to help us live good lives and treat each other well. When we follow God's ways, life works better.
 
@@ -119,7 +121,7 @@ Moses's life teaches us so many things:
 - **God is faithful.** Through every plague, every miracle, every year in the wilderness, God never abandoned His people.
 - **Fear is normal, but faith is the answer.** Moses was afraid many times. But he kept saying yes to God, and God kept showing up.
 
-Moses's story isn't just ancient history. It's a reminder to every child that God has a plan for their life too, and He's powerful enough to make it happen.
+Moses's story isn't just ancient history. It's a reminder to every child that God has a plan for their life too, and He's powerful enough to make it happen. When you've covered his life, keep going with [Wandering in the Wilderness for kids](/blog/wandering-in-the-wilderness-for-kids) or test your family's memory with [Exodus Bible trivia](/blog/exodus-bible-trivia).
 
 ## Watch on Faithful Kids
 

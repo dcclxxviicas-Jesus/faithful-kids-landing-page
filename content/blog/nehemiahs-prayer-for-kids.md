@@ -1,6 +1,8 @@
 ---
 title: "Nehemiahs Prayer for Kids: Bible Story Explained Simply"
 slug: "nehemiahs-prayer-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 04
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What was Nehemiah's job in Persia?
+### What was Nehemiah's job in Persia?
 
+**He was the king's cupbearer.** Nehemiah was the cupbearer to King Artaxerxes. This was a high-ranking, trusted position — he tasted the king's wine and served as a close confidant.
 
+### What devastating news did Nehemiah receive about Jerusalem?
 
+**The walls were broken down and the gates were burned.** Nehemiah learned that Jerusalem's walls were broken and the gates had been burned. The city was defenseless and in disgrace.
+
+### How did Nehemiah respond to the bad news?
+
+**He sat down, wept, mourned, fasted, and prayed for months.** Nehemiah didn't rush into action. He sat down, wept, and then spent MONTHS in prayer and fasting before doing anything else.
+
+### What did Nehemiah do in the split second before answering the king?
+
+**He prayed to the God of heaven.** In that critical instant, Nehemiah "prayed to the God of heaven" — a quick, silent prayer before speaking. He was ready because months of prayer had prepared him.
+
+### What did the king give Nehemiah when he asked for help?
+
+**Permission, supplies to rebuild, and letters of protection.** King Artaxerxes gave Nehemiah everything he asked for: permission to go to Jerusalem, supplies for rebuilding, and official letters for safe passage.
 
 ## Discussion Questions for Families
 

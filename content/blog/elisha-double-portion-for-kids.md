@@ -1,6 +1,8 @@
 ---
 title: "Elisha Double Portion for Kids: Bible Story Explained Simply"
 slug: "elisha-double-portion-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 07
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What happened when Elisha struck the Jordan River with Elijah's cloak?
+### What happened when Elisha struck the Jordan River with Elijah's cloak?
 
 The widow thought she had nothing. But God took her tiny jar of oil and turned it into more than enough. He does the same with us — our small talents, our limited resources, our little faith. Bring what you have, start pouring, and let God do the multiplying.
 
+### What did the watching prophets declare after seeing the Jordan part?
+
+**"The spirit of Elijah rests on Elisha".**
+
+### What was wrong with the water in Jericho?
+
+**It was bad and making the land unproductive.**
+
+### How did Elisha purify the water in Jericho?
+
+**He threw salt from a new bowl into the spring.**
+
+### Why was the widow in distress?
+
+**Creditors were coming to take her sons as slaves to pay her debts.**
+
+### What did the widow have in her house?
+
+**A small jar of oil.**
+
+### What did Elisha tell the widow to do?
+
+**Borrow as many empty jars as she could find and pour oil into them.**
+
+### What is the main lesson of this story?
+
+**God works with what you already have — bring Him your "small jar" and He'll multiply it.**
 
 ## Discussion Questions for Families
 

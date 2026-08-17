@@ -1,6 +1,8 @@
 ---
 title: "Taming the Tongue for Kids: Bible Story Explained Simply"
 slug: "taming-the-tongue-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Ending and Beginning"
 seriesSlug: "ending-and-beginning"
 episode: 03
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. James compares the tongue to what part of a ship?
+### James compares the tongue to what part of a ship?
 
+**The rudder.** The rudder is tiny compared to the ship, but it controls the entire direction. Just like your tongue — small but incredibly powerful.
 
+### What does James say a single spark can do?
 
+**Set an entire forest on fire.** One tiny spark can destroy an entire forest. James used this to show how one careless word can cause massive damage.
+
+### What problem does James point out about how people use their tongues?
+
+**With the same mouth, people praise God and curse others made in God's image.** James said it makes no sense that the same tongue that worships God also tears down people made in His likeness. Fresh water and salt water shouldn't come from the same spring.
+
+### According to James, can anyone tame the tongue completely on their own?
+
+**No — James says no human can tame it alone.** James was honest: the tongue is restless and full of poison. No one can fully control it on their own — we need God's help.
+
+### What question should you ask before you speak, text, or post?
+
+**"Is this building someone up or tearing them down?".** The real test for your words is simple: are they giving life or causing destruction? Choose words that build.
+
+### James says "the tongue is a small part of the body, but it makes great ___."
+
+**Boasts.** "The tongue is a small part of the body, but it makes great boasts." Small but powerful — and that power can go in either direction.
 
 ## Discussion Questions for Families
 

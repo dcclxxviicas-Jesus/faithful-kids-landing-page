@@ -4,6 +4,8 @@ slug: "who-was-david-for-kids"
 type: "listicle"
 metaDescription: "Who was King David? A kid-friendly guide to David's life from shepherd boy to king. Goliath, Jonathan, Psalms, and key lessons children can learn from David."
 keywords: ["who was king david for kids", "david and goliath for kids", "king david bible story children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was King David? Bible Story for Kids
@@ -26,7 +28,7 @@ Jesse said, "Well, there's the youngest. He's out watching the sheep."
 
 They brought David in. He was young, ruddy, and had a handsome face. And God said to Samuel, "Rise and anoint him; this is the one."
 
-God chose the youngest, the one nobody expected. The shepherd boy would become king.
+God chose the youngest, the one nobody expected. The shepherd boy would become king. (We retell this moment in [God Chooses David for kids](/blog/god-chooses-david-for-kids).)
 
 **Key lesson for kids:** God doesn't look at the outside. He looks at the heart. You don't have to be the biggest, the strongest, or the most popular for God to choose you for something incredible.
 
@@ -44,7 +46,7 @@ David answered, "You come against me with sword and spear and javelin, but I com
 
 David slung one stone. It hit Goliath right in the forehead. The giant fell face-down on the ground. David defeated the most feared warrior in the land with a single stone and the power of God.
 
-**Key lesson for kids:** The "giants" in our lives -- fear, bullies, hard situations -- can seem impossible. But with God on our side, we can face anything. It's not about how big we are. It's about how big our God is.
+**Key lesson for kids:** The "giants" in our lives -- fear, bullies, hard situations -- can seem impossible. But with God on our side, we can face anything. It's not about how big we are. It's about how big our God is. (Get the full story in [David and Goliath for kids](/blog/david-and-goliath-for-kids).)
 
 ## Best Friends with Jonathan (1 Samuel 18-20)
 
@@ -56,7 +58,7 @@ Jonathan was caught in the middle. He loved his father, but he also loved David.
 
 Jonathan later died in battle alongside his father. David mourned deeply and said, "I grieve for you, Jonathan my brother; you were very dear to me. Your love for me was wonderful" (2 Samuel 1:26).
 
-**Key lesson for kids:** True friendship means being loyal even when it's hard. Jonathan gave up his chance to be king because he knew God had chosen David. Real friends put others before themselves.
+**Key lesson for kids:** True friendship means being loyal even when it's hard. Jonathan gave up his chance to be king because he knew God had chosen David. Real friends put others before themselves. (Read more in [David and Jonathan for kids](/blog/david-and-jonathan-for-kids).)
 
 ## David Becomes King (2 Samuel 2-5)
 
@@ -80,7 +82,7 @@ David's heart broke. He didn't make excuses. He didn't blame someone else. He sa
 
 God forgave David, but there were still consequences for his actions. The rest of David's life was marked by family conflict and heartache.
 
-**Key lesson for kids:** Everyone makes mistakes -- even the people God uses the most. What matters is what we do after. David didn't hide from his sin. He admitted it, asked for forgiveness, and turned back to God. That's what real repentance looks like.
+**Key lesson for kids:** Everyone makes mistakes -- even the people God uses the most. What matters is what we do after. David didn't hide from his sin. He admitted it, asked for forgiveness, and turned back to God. That's what real repentance looks like. (We cover this gently in [David's Big Mistake for kids](/blog/davids-big-mistake-for-kids).)
 
 ## The Psalms -- David's Songs
 
@@ -93,7 +95,7 @@ Some of the most beloved passages in all of Scripture are David's Psalms:
 - **Psalm 139** -- "You knit me together in my mother's womb." A celebration of how God made each of us.
 - **Psalm 27** -- "The Lord is my light and my salvation -- whom shall I fear?" A declaration of courage.
 
-David's Psalms teach kids that it's okay to be honest with God. You can tell God when you're scared, when you're angry, when you're confused. He can handle it. In fact, He wants to hear it.
+David's Psalms teach kids that it's okay to be honest with God. You can tell God when you're scared, when you're angry, when you're confused. He can handle it. In fact, He wants to hear it. (Explore the whole songbook in the [Book of Psalms for kids](/blog/book-of-psalms-for-kids).)
 
 **Key lesson for kids:** You can talk to God about anything. David didn't just pray polite, tidy prayers. He poured out his real feelings, and God loved him for it. You can do the same.
 

@@ -1,6 +1,8 @@
 ---
 title: "David on the Run for Kids: Bible Story Explained Simply"
 slug: "david-on-the-run-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 07
@@ -61,10 +63,25 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How many soldiers did Saul send to hunt David?
+### How many soldiers did Saul send to hunt David?
 
+**3,000.** 
 
+### What kind of people gathered around David at the cave of Adullam?
 
+**People in distress, in debt, and discontented.**
+
+### About how many men joined David's group?
+
+**About 400 men.** They were people in distress, in debt, or discontented -- and David became their leader in the cave of Adullam (1 Samuel 22:1-2).
+
+### What did David do during his time hiding in caves and deserts?
+
+**He wrote some of the most powerful Psalms in the Bible.**
+
+### What is the main lesson from David's years on the run?
+
+**The season between God's promise and its fulfillment is where character is built.**
 
 ## Discussion Questions for Families
 

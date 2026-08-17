@@ -4,9 +4,11 @@ slug: "advent-bible-stories-for-kids"
 type: "listicle"
 metaDescription: "25 days of Advent Bible stories for kids with family activities. A Christmas countdown devotional from December 1st through Christmas Day."
 keywords: ["advent bible stories for kids", "christmas bible countdown", "advent devotional for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
-Advent is the season of waiting and anticipation leading up to Christmas. For kids, it's the most exciting time of year -- but between the chocolate calendars and Santa countdowns, the real story can get lost.
+Advent is the season of waiting and anticipation leading up to Christmas. (If your kids are asking [what Advent actually means](/blog/what-is-advent-for-kids), start there.) For kids, it's the most exciting time of year -- but between the chocolate calendars and Santa countdowns, the real story can get lost.
 
 This 25-day Advent devotional brings it back. Each day from December 1st through Christmas, your family reads a short Bible passage, discusses it together, and does a simple activity. The readings tell one connected story: God's plan to send a Savior, from the very beginning to the manger in Bethlehem.
 
@@ -102,7 +104,7 @@ An angel appeared to an old priest named Zechariah and told him his wife Elizabe
 
 ### Day 14 — An Angel Visits Mary
 **Read:** Luke 1:26-38
-The angel Gabriel appeared to a young girl named Mary and told her she would give birth to God's Son. Mary was scared, confused, and probably overwhelmed. But she said, "I am the Lord's servant. May your word to me be fulfilled" (Luke 1:38).
+The angel Gabriel appeared to a young girl named Mary and told her she would give birth to God's Son -- a moment we unpack in [An Angel Visits Mary for kids](/blog/an-angel-visits-mary-for-kids). Mary was scared, confused, and probably overwhelmed. But she said, "I am the Lord's servant. May your word to me be fulfilled" (Luke 1:38).
 
 **Activity:** Mary said yes to something she didn't fully understand. Talk about a time you had to trust God without seeing the whole picture.
 
@@ -126,7 +128,7 @@ Elizabeth gave birth to John, and Zechariah's voice returned. His first words we
 
 ### Day 18 — The Journey to Bethlehem
 **Read:** Luke 2:1-5
-Caesar Augustus ordered a census, and everyone had to return to their ancestral town. Joseph and Mary -- with Mary very pregnant -- made the 90-mile journey from Nazareth to Bethlehem. It likely took 4-7 days on foot and donkey.
+Caesar Augustus ordered a census, and everyone had to return to their ancestral town. Joseph and Mary -- with Mary very pregnant -- made [the 90-mile journey from Nazareth to Bethlehem](/blog/the-journey-to-bethlehem-for-kids). It likely took 4-7 days on foot and donkey.
 
 **Activity:** Look up how far 90 miles is from your house. Imagine walking that distance while nine months pregnant.
 
@@ -162,7 +164,7 @@ On the eighth day, they named Him Jesus, as the angel had instructed. The name "
 
 ### Day 23 — The Wise Men's Journey
 **Read:** Matthew 2:1-8
-Wise men (Magi) from the east saw a star and traveled a great distance to find the newborn king. They went to King Herod first, asking, "Where is the one who has been born king of the Jews?" Herod was terrified.
+[The wise men](/blog/the-wise-men-for-kids) (Magi) from the east saw a star and traveled a great distance to find the newborn king. They went to King Herod first, asking, "Where is the one who has been born king of the Jews?" Herod was terrified.
 
 **Activity:** Follow a star. Go outside and pick the brightest star you can see. Imagine following it for weeks across the desert.
 
@@ -193,6 +195,8 @@ A few tips for using this devotional:
 - **Let kids read.** If your children can read, take turns reading the Bible passage aloud.
 - **Don't stress about perfection.** If you miss a day, double up. If you miss three days, skip ahead. The goal is presence, not performance.
 - **Save this page.** Use it again next year. Repetition builds tradition, and tradition builds faith.
+
+Looking for more ways to fill December? Try these [Advent activities for kids](/blog/advent-activities-for-kids) or wrap up the season with some [Christmas Bible trivia](/blog/christmas-bible-trivia-for-kids).
 
 ## Watch on Faithful Kids
 

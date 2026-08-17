@@ -1,6 +1,8 @@
 ---
 title: "Elijah Taken to Heaven for Kids: Bible Story Explained Simply"
 slug: "elijah-taken-to-heaven-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 06
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did Elisha keep saying when Elijah told him to stay behind?
+### What did Elisha keep saying when Elijah told him to stay behind?
 
 Elijah's departure wasn't the end — it was a new beginning. God had already prepared Elisha to carry the mission forward. The work of God never stops; He's always raising up the next generation. And that someone could be you.
 
+### What did Elijah use to part the Jordan River?
+
+**His cloak (mantle).**
+
+### What did Elisha ask Elijah for before he was taken away?
+
+**A double portion of his spirit.**
+
+### How was Elijah taken to heaven?
+
+**A chariot of fire appeared and he was taken up in a whirlwind.**
+
+### What did Elisha find on the ground after Elijah was taken up?
+
+**Elijah's cloak.**
+
+### What condition did Elijah give for Elisha to receive the double portion?
+
+**Elisha had to see Elijah being taken away.**
+
+### How many times did Elijah tell Elisha to stay behind?
+
+**Three times.**
+
+### What is the main lesson of this story?
+
+**God always has a next generation ready — the baton gets passed.**
 
 ## Discussion Questions for Families
 

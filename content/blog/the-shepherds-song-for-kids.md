@@ -1,6 +1,8 @@
 ---
 title: "The Shepherds Song for Kids: Bible Story Explained Simply"
 slug: "the-shepherds-song-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 05
@@ -61,10 +63,33 @@ The birth of Jesus is the story your child will hear every Christmas for the res
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why did David understand shepherding so well?
+### Why did David understand shepherding so well?
 
+**He was a shepherd boy who protected his father's sheep from lions and bears.** 
 
+### What does "The Lord is my shepherd, I shall not want" mean?
 
+**God takes care of us so completely that we lack nothing we truly need.**
+
+### Why does the psalm mention "still waters" instead of rushing rivers?
+
+**Sheep are afraid of rushing water — a good shepherd finds calm streams.**
+
+### In the psalm, David says he walks THROUGH the valley of the shadow of death. What does that word "through" tell us?
+
+**The valley is not your destination — it is a passage, and God walks with you.**
+
+### What were the rod and staff used for?
+
+**The rod protected sheep from predators and the staff pulled wandering sheep to safety.**
+
+### What does it mean that God "prepares a table in the presence of my enemies"?
+
+**God blesses you and provides for you even in the middle of difficult times.**
+
+### Who did Jesus say He is in connection with this psalm?
+
+**The Good Shepherd that David was writing about.**
 
 ## Discussion Questions for Families
 

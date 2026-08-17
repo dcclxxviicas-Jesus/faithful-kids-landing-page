@@ -1,6 +1,8 @@
 ---
 title: "The Fall of King Saul for Kids: Bible Story Explained Simply"
 slug: "the-fall-of-king-saul-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 09
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why was Saul desperate before the battle with the Philistines?
+### Why was Saul desperate before the battle with the Philistines?
 
+**God had stopped answering him through prayer, dreams, or prophets.** 
 
+### What forbidden thing did Saul do in his desperation?
 
+**He visited a medium at Endor to conjure Samuel's spirit.**
+
+### What did Samuel's spirit tell Saul?
+
+**"Tomorrow, Israel will fall and you and your sons will die".**
+
+### What happened to Jonathan in the battle at Mount Gilboa?
+
+**He was killed in the fighting.**
+
+### How did David respond when he heard about Saul and Jonathan's deaths?
+
+**He wept, fasted, and wrote a song of lament.**
 
 ## Discussion Questions for Families
 

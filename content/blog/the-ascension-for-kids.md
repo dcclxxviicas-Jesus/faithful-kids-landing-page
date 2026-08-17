@@ -1,6 +1,8 @@
 ---
 title: "The Ascension for Kids: Bible Story Explained Simply"
 slug: "the-ascension-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 08
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How many days did Jesus stay on earth after His resurrection?
+### How many days did Jesus stay on earth after His resurrection?
 
+**Forty days.** Jesus remained on earth for forty days after the resurrection, appearing to His disciples and many others, proving He was alive.
 
+### What did Jesus tell His disciples to wait for in Jerusalem?
 
+**The Holy Spirit.** Jesus told them to stay in Jerusalem and wait for the gift the Father had promised — the baptism of the Holy Spirit.
+
+### What happened when Jesus ascended into heaven?
+
+**He was lifted up before their eyes and a cloud received Him.** Jesus was physically lifted up into the sky right before the disciples' eyes, and a cloud took Him out of their sight.
+
+### What did the two angels say to the disciples?
+
+**"This same Jesus will come back in the same way you have seen Him go".** The angels promised that Jesus would return in the same way He left — visibly, physically, and from the sky.
+
+### Why did Jesus say He was leaving?
+
+**So the Holy Spirit could come and live inside every believer.** Jesus left so that something better could come — the Holy Spirit, God Himself, living inside every believer, every moment.
 
 ## Discussion Questions for Families
 

@@ -1,6 +1,8 @@
 ---
 title: "The Temple is Dedicated for Kids: Bible Story Explained Simply"
 slug: "the-temple-is-dedicated-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Solomon and the Kingdom"
 seriesSlug: "solomon-and-the-kingdom"
 episode: 04
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What sacred object was brought into the Most Holy Place of the temple?
+### What sacred object was brought into the Most Holy Place of the temple?
 
 The glory cloud proved that God's presence is not a metaphor — it's real and powerful enough to knock trained priests off their feet. And Solomon's prayer for foreigners reveals God's heart: He has always wanted every person, from every nation, to have access to Him.
 
+### What happened when the priests came out of the Holy Place after placing the Ark?
+
+**A cloud of God's glory filled the temple so thickly the priests couldn't stand to minister.**
+
+### What did Solomon do after the cloud filled the temple?
+
+**He knelt before the people and prayed a prayer of dedication to God.**
+
+### Who did Solomon specifically include in his prayer, besides the people of Israel?
+
+**Foreigners — people from other nations who would come to pray.**
+
+### What is the main lesson of this episode?
+
+**God's presence is real and overwhelming, and He wants EVERYONE to have access to Him.**
 
 ## Discussion Questions for Families
 

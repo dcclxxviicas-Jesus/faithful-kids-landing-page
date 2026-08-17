@@ -1,6 +1,8 @@
 ---
 title: "Chariots of Fire for Kids: Bible Story Explained Simply"
 slug: "chariots-of-fire-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 10
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why was the king of Syria frustrated with his battle plans?
+### Why was the king of Syria frustrated with his battle plans?
 
 The greatest truth of this story is that God's protection surrounds you even when you can't see it. The chariots of fire were always there — the servant just needed his eyes opened. No matter what you're facing, you are never outnumbered, because those who are with you are more than those who are against you.
 
+### How did Elisha know the Syrian king's secret plans?
+
+**God revealed them to him — even words spoken in private rooms.**
+
+### What did the Syrian king send to capture Elisha?
+
+**Horses, chariots, and a massive army that surrounded the entire city.**
+
+### What did Elisha say to his terrified servant?
+
+**"Don't be afraid — those who are with us are more than those who are with them".**
+
+### What did Elisha's servant see when God opened his eyes?
+
+**The hills covered with horses and chariots of fire.**
+
+### What did Elisha pray would happen to the Syrian army?
+
+**That they would be struck with blindness.**
+
+### What did Elisha tell the Israelite king to do with the captured Syrian soldiers?
+
+**Feed them a great feast and send them home.**
+
+### What is the main lesson of this story?
+
+**You are never alone — God's army is always around you, even when you can't see it.**
 
 ## Discussion Questions for Families
 

@@ -1,6 +1,8 @@
 ---
 title: "The Riot in Ephesus for Kids: Bible Story Explained Simply"
 slug: "the-riot-in-ephesus-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Pauls Adventures"
 seriesSlug: "pauls-adventures"
 episode: 06
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why was Paul's preaching in Ephesus causing problems for Demetrius?
+### Why was Paul's preaching in Ephesus causing problems for Demetrius?
 
+**People stopped buying silver idols of Artemis.**
 
+### What did Demetrius do for a living?
 
+**He made silver shrines of Artemis.**
+
+### What did the mob chant for two hours in the theater?
+
+**"Great is Artemis of the Ephesians!".**
+
+### What did Paul want to do when the riot broke out?
+
+**Go face the crowd himself.**
+
+### Who finally calmed the crowd down?
+
+**The city clerk.**
+
+### What is the main lesson of this episode?
+
+**When you're making a real difference, expect pushback — especially from people profiting from the old way.**
 
 ## Discussion Questions for Families
 

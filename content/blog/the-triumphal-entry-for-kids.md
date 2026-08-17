@@ -1,6 +1,8 @@
 ---
 title: "The Triumphal Entry for Kids: Bible Story Explained Simply"
 slug: "the-triumphal-entry-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 01
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What animal did Jesus ride into Jerusalem on?
+### What animal did Jesus ride into Jerusalem on?
 
+**A donkey.** A donkey. This fulfilled the prophecy of Zechariah that Israel's true King would come humbly, not as a conquering warrior.
 
+### What did the crowds lay on the road as Jesus entered Jerusalem?
 
+**Palm branches and their cloaks.** This was their way of honoring Jesus as a King.
+
+### What word did the crowds shout as Jesus entered the city?
+
+**Hosanna! It means "Save us!" and was a cry of praise recognizing Jesus as the promised Messiah.** 
+
+### What did Jesus say would happen if the people stopped praising Him?
+
+**The stones themselves would cry out.** Jesus was saying that this moment was so important, even creation couldn't stay silent.
+
+### Why did Jesus cry when He saw Jerusalem?
+
+**He knew the city would reject Him.** Even though the crowd cheered that day, Jesus knew they would turn against Him within the same week.
+
+### What is the main lesson of this episode?
+
+**Popularity is fickle.** The same crowd that cheered "Hosanna" would soon shout "Crucify Him." Jesus didn't come for the applause — He came on a mission to save us.
 
 ## Discussion Questions for Families
 

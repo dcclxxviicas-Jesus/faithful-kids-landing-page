@@ -4,6 +4,8 @@ slug: "who-was-jonah-for-kids"
 type: "listicle"
 metaDescription: "Who was Jonah? The Bible story of Jonah and the whale for kids: running from God, the storm, the big fish, Nineveh, and the lesson of obedience."
 keywords: ["who was jonah for kids", "jonah and the whale for kids", "jonah bible story children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Jonah? Bible Story for Kids
@@ -22,7 +24,7 @@ Jonah's response? He ran the other direction.
 
 Instead of going northeast to Nineveh, Jonah went to the port city of Joppa, found a ship heading to Tarshish (the opposite direction, as far west as you could go), paid the fare, and went aboard. He was running from God.
 
-The Bible says Jonah went "to flee from the Lord" (Jonah 1:3). He actually thought he could hide from the God who made the universe.
+The Bible says Jonah went "to flee from the Lord" (Jonah 1:3). He actually thought he could hide from the God who made the universe. (We retell this opening chapter in [Jonah Running From God for kids](/blog/jonah-running-from-god-for-kids).)
 
 **Key lesson for kids:** When God asks us to do something, running away doesn't work. God doesn't give up on His plans just because we say no. Jonah learned this the hard way. Sometimes the things God asks us to do feel scary or uncomfortable, but avoiding them only makes things worse.
 
@@ -44,7 +46,7 @@ The sailors didn't want to throw a man overboard. They tried rowing harder first
 
 Immediately, the storm stopped. The sea became perfectly calm. The sailors were so amazed that they offered sacrifices to the Lord and made vows to Him.
 
-**Key lesson for kids:** Our choices affect the people around us. Jonah's disobedience didn't just affect Jonah -- it put everyone on that ship in danger. When we run from what's right, other people can get caught in the storm too. This teaches kids to think about how their choices impact their family and friends.
+**Key lesson for kids:** Our choices affect the people around us. Jonah's disobedience didn't just affect Jonah -- it put everyone on that ship in danger. When we run from what's right, other people can get caught in the storm too. This teaches kids to think about how their choices impact their family and friends. (More stories like this in our [Bible stories about obedience for kids](/blog/bible-stories-about-obedience-for-kids).)
 
 ## Swallowed by a Great Fish (Jonah 1:17-2:10)
 
@@ -98,7 +100,7 @@ Then God delivered the punch line of the whole book:
 
 God said, "You have been concerned about this plant, though you did not tend it or make it grow. It sprang up overnight and died overnight. And should I not have concern for the great city of Nineveh, in which there are more than a hundred and twenty thousand people who cannot tell their right hand from their left -- and also many animals?" (Jonah 4:10-11)
 
-The book ends right there. We never hear Jonah's response. It's an open question left hanging in the air, and it's meant for every reader: Will you accept that God's mercy extends to everyone -- even the people you don't like?
+The book ends right there. We never hear Jonah's response. It's an open question left hanging in the air, and it's meant for every reader: Will you accept that God's mercy extends to everyone -- even the people you don't like? (We unpack this surprising ending in [Jonah: The Lesson for kids](/blog/jonah-the-lesson-for-kids).)
 
 **Key lesson for kids:** God's love isn't just for people who are like us. It's for everyone. Jonah wanted God to love Israelites and hate Ninevites. But God loved them all. This is a powerful lesson for kids about including others, being kind to people who are different, and trusting that God's mercy is always a good thing -- even when it's shown to people we struggle with.
 
@@ -112,7 +114,7 @@ Jonah's story packs enormous lessons into just four short chapters:
 - **God's mercy is for everyone.** The Ninevites were enemies of Israel, yet God had compassion on them. God's love doesn't have borders.
 - **Our comfort isn't the point.** Jonah cared more about a plant than 120,000 people. God challenges us to care about what He cares about -- people.
 
-Jonah's story also points forward to Jesus. Just as Jonah was three days in the belly of the fish, Jesus was three days in the tomb before rising again. And just as Jonah was sent to bring God's message to outsiders, Jesus came to bring salvation to the whole world.
+Jonah's story also points forward to Jesus. Just as Jonah was three days in the belly of the fish, Jesus was three days in the tomb before rising again. And just as Jonah was sent to bring God's message to outsiders, Jesus came to bring salvation to the whole world. When you've finished the story, challenge your family with our [Jonah Bible trivia](/blog/jonah-bible-trivia).
 
 ## Watch on Faithful Kids
 

@@ -1,6 +1,8 @@
 ---
 title: "Esther Saves Her People for Kids: Bible Story Explained Simply"
 slug: "esther-saves-her-people-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 09
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What happened to King Xerxes the night before Esther's banquet?
+### What happened to King Xerxes the night before Esther's banquet?
 
+**He couldn't sleep and had the royal records read to him.** The king couldn't sleep, so he had the royal chronicles read aloud. In those records, he discovered that Mordecai had once saved his life by uncovering an assassination plot — and was never rewarded.
 
+### What did Haman think when the king asked, "What should be done for a man the king wants to honor?"
 
+**He thought the king was talking about himself (Haman).** Haman's ego was so enormous that he was convinced the king must be talking about honoring him. So he described the most extravagant honor he could imagine — and it all went to Mordecai instead.
+
+### What did Esther reveal at her banquet?
+
+**That she was Jewish and that Haman was plotting to destroy her people.** Esther courageously revealed her Jewish identity and exposed Haman's genocidal plot right there at the dinner table, with the king and Haman both present.
+
+### What happened to Haman in the end?
+
+**He was hanged on the very gallows he had built for Mordecai.** In one of the greatest reversals in the Bible, Haman was executed on the exact seventy-five-foot gallows he had built to kill Mordecai. The trap caught the trapper.
+
+### How were the Jewish people ultimately saved?
+
+**A new decree allowed them to defend themselves.** Since the original decree couldn't be reversed under Persian law, a new decree was issued giving the Jewish people the right to defend themselves. And they were saved.
 
 ## Discussion Questions for Families
 

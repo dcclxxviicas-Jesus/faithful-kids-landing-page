@@ -4,6 +4,8 @@ slug: "how-to-explain-communion-to-a-child"
 type: "listicle"
 metaDescription: "A parent-friendly guide to explaining communion (the Lord's Supper) to kids. The Last Supper, bread and cup, and when children can participate."
 keywords: ["explain communion to a child", "Lord's Supper for kids", "communion for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 It is Sunday morning. The bread and the little cups are being passed around. Your child watches everyone eat and drink with serious faces, and they whisper, "What are they doing? Can I have some?"
@@ -14,7 +16,7 @@ Communion — also called the Lord's Supper or the Eucharist — is one of the m
 
 Every good explanation starts with a good story, and communion has one of the best.
 
-The night before Jesus died, He ate a special dinner with His twelve closest friends — His disciples. This meal is called the Last Supper.
+The night before Jesus died, He ate a special dinner with His twelve closest friends — His disciples. This meal is called the Last Supper, and you can find our full kid-friendly retelling in [the Last Supper for kids](/blog/the-last-supper-for-kids).
 
 **Luke 22:19-20** tells us what happened: "And he took bread, gave thanks and broke it, and gave it to them, saying, 'This is my body given for you; do this in remembrance of me.' In the same way, after the supper he took the cup, saying, 'This cup is the new covenant in my blood, which is poured out for you.'"
 
@@ -26,7 +28,7 @@ For your child, you might tell the story like this:
 
 The bread represents the body of Jesus.
 
-For kids: "When we eat the bread during communion, we are remembering that Jesus gave His body for us. He went to the cross and suffered so that we could be forgiven and be close to God. The bread helps us remember that Jesus's love for us was not just words — He showed it with His whole self."
+For kids: "When we eat the bread during communion, we are remembering that Jesus gave His body for us. He went to the cross and suffered so that we could be forgiven and be close to God. The bread helps us remember that Jesus's love for us was not just words — He showed it with His whole self." (Our gentle telling of [the cross for kids](/blog/the-cross-for-kids) can help with that part of the story.)
 
 You might point out that Jesus broke the bread. "Jesus broke the bread into pieces, just like His body was broken on the cross. But here is the amazing part — because He was broken, we get to be made whole."
 
@@ -62,7 +64,7 @@ Here are some reasons communion matters that kids can understand:
 
 ## Different Church Traditions
 
-Just like with baptism, different churches handle communion in different ways. Here is a quick guide so you can help your child understand what they might see:
+Just like with [baptism](/blog/how-to-explain-baptism-to-a-child), different churches handle communion in different ways. Here is a quick guide so you can help your child understand what they might see:
 
 ### How Often
 - Some churches have communion every week
@@ -110,7 +112,7 @@ Some churches practice open communion and welcome anyone — including children 
 
 When the time is right, here is how to make it meaningful:
 
-**1. Read the story together.** Go through Luke 22:14-20 or 1 Corinthians 11:23-26 the night before or that morning.
+**1. Read the story together.** Go through Luke 22:14-20 or 1 Corinthians 11:23-26 the night before or that morning. Around Easter, pairing it with [how to explain Easter to a child](/blog/how-to-explain-easter-to-a-child) gives the meal its full context.
 
 **2. Explain what will happen.** Walk them through the practical steps — someone will pray, bread will be passed, the cup will be passed, everyone eats and drinks together.
 
@@ -127,6 +129,8 @@ When the time is right, here is how to make it meaningful:
 **Ages 6-8:** "Communion is a special meal at church where we eat bread and drink juice to remember what Jesus did for us. The bread reminds us of His body, and the juice reminds us of His blood. Jesus started this meal the night before He died, and He said, 'Do this to remember me.'"
 
 **Ages 9-12:** "Communion, or the Lord's Supper, goes back to the night Jesus was betrayed. He shared bread and wine with His disciples and told them the bread represented His body and the cup represented His blood — both given for the forgiveness of sins. Every time we take communion, we are proclaiming Jesus's death and looking forward to His return."
+
+If forgiveness itself is the concept your child is wrestling with, our guide on [explaining forgiveness to a child](/blog/how-to-explain-forgiveness-to-a-child) can help.
 
 ## Watch on Faithful Kids
 

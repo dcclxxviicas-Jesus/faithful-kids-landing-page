@@ -4,6 +4,8 @@ slug: "bible-coloring-pages-for-kids"
 type: "listicle"
 metaDescription: "20 Bible coloring page themes for kids from creation to Revelation. Learn how coloring reinforces Bible stories and where to find free printable pages."
 keywords: ["bible coloring pages for kids", "free bible coloring pages", "printable bible coloring sheets"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Free Bible Coloring Pages for Kids (Old and New Testament)
@@ -23,7 +25,7 @@ Seven coloring pages, one for each day of creation. Day 1: light and dark. Day 2
 A lush garden scene with trees, flowers, rivers, and animals. Include the Tree of the Knowledge of Good and Evil and the serpent. This coloring page gives kids a visual anchor for one of the most foundational stories in the Bible and opens conversation about choices and consequences.
 
 #### 3. Noah's Ark (Genesis 6-9)
-The classic ark scene with animals marching two by two, a rainbow arching overhead, and Noah's family waving from the deck. This is one of the most popular coloring themes for young children because of the variety of animals to color. Add a second page with just the rainbow and Genesis 9:13 as a memory verse.
+The classic ark scene with animals marching two by two, a rainbow arching overhead, and Noah's family waving from the deck. This is one of the most popular coloring themes for young children because of the variety of animals to color. (Pair it with our retelling of [Noah and the great flood](/blog/noah-and-the-great-flood-for-kids).) Add a second page with just the rainbow and Genesis 9:13 as a memory verse.
 
 #### 4. The Tower of Babel (Genesis 11)
 A tall, spiraling tower with people of different appearances speaking in different languages (show speech bubbles with different symbols). This teaches kids about pride and God's sovereignty over human plans.
@@ -41,7 +43,7 @@ Two towering walls of water with a dry path through the middle. The Israelites w
 Moses holding two stone tablets on Mount Sinai with lightning and clouds around the mountain. A second page can list the Ten Commandments with decorative borders for coloring. This combines art with Scripture memorization.
 
 #### 9. David and Goliath (1 Samuel 17)
-Young David with his sling facing the towering Goliath in armor. This is a scene of courage that resonates deeply with kids who sometimes feel small in a big world. Encourage kids to color David in bright, bold colors to emphasize his bravery.
+Young David with his sling facing the towering Goliath in armor. This is a scene of courage that resonates deeply with kids who sometimes feel small in a big world. (Read the full story of [David and Goliath for kids](/blog/david-and-goliath-for-kids) before coloring.) Encourage kids to color David in bright, bold colors to emphasize his bravery.
 
 #### 10. Daniel in the Lion's Den (Daniel 6)
 Daniel standing calmly among lions whose mouths are closed, with light streaming in from above. An angel can be included standing next to Daniel. This coloring page teaches kids about courage and God's protection.
@@ -94,7 +96,7 @@ When a child completes a coloring page, they have created something personal. Th
 
 ## How to Get the Most Out of Bible Coloring Pages
 
-**Tell the story first.** Before handing over the coloring page, tell or read the Bible story together. When kids understand the context, they color with more intention. "This is the Red Sea, and these are the Israelites walking through on dry ground. God made this happen."
+**Tell the story first.** Before handing over the coloring page, tell or read the Bible story together -- our list of the [best Bible stories for kids](/blog/best-bible-stories-for-kids) is a good place to start. When kids understand the context, they color with more intention. "This is the Red Sea, and these are the Israelites walking through on dry ground. God made this happen."
 
 **Ask questions while they color.** "What do you think Jonah was feeling inside the fish?" "Why do you think David was not afraid of Goliath?" "What color do you think Joseph's coat was?" Open-ended questions turn coloring time into Bible study time.
 
@@ -108,7 +110,7 @@ When a child completes a coloring page, they have created something personal. Th
 
 Many churches and Christian education websites offer free printable Bible coloring pages. Search for specific scenes ("Daniel lion's den coloring page free") and you will find dozens of options. Most are available as PDF downloads that you can print at home.
 
-For a more organized approach, look for coloring page sets that follow the Bible chronologically. This allows your family to work through the Bible story by story, building a complete visual narrative over weeks or months.
+For a more organized approach, look for coloring page sets that follow the Bible chronologically. This allows your family to work through the Bible story by story, building a complete visual narrative over weeks or months. Our roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids) includes coloring pages, and [Bible mazes and puzzles](/blog/bible-mazes-and-puzzles-for-kids) make a great follow-up activity.
 
 ## From Coloring Pages to Video: The Next Step
 

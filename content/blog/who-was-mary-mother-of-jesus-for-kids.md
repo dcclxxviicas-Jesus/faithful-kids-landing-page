@@ -4,6 +4,8 @@ slug: "who-was-mary-mother-of-jesus-for-kids"
 type: "listicle"
 metaDescription: "Who was Mary, mother of Jesus? A kid-friendly Bible story about Mary's faith, the angel Gabriel, the journey to Bethlehem, and her life as Jesus' mother."
 keywords: ["who was mary mother of jesus for kids", "mary bible story for kids", "virgin mary for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Mary, Mother of Jesus? Bible Story for Kids
@@ -32,7 +34,7 @@ And then Mary spoke the words that changed history:
 
 "I am the Lord's servant. May your word to me be fulfilled." (Luke 1:38)
 
-That was it. No long deliberation. No list of conditions. Mary said yes to God. She didn't fully understand what was ahead, but she trusted the One who was asking.
+That was it. No long deliberation. No list of conditions. Mary said yes to God. She didn't fully understand what was ahead, but she trusted the One who was asking. (We retell this moment in [An Angel Visits Mary for kids](/blog/an-angel-visits-mary-for-kids).)
 
 **Key lesson for kids:** Saying yes to God takes courage, especially when we don't understand the whole plan. Mary didn't know how people would react, how she would explain this to Joseph, or what her future would look like. She just knew God was asking, and she said yes. Sometimes faith means taking the next step even when you can't see the whole staircase.
 
@@ -56,7 +58,7 @@ When Joseph found out Mary was pregnant, he was devastated. They were engaged bu
 
 But before he could do that, an angel appeared to Joseph in a dream: "Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins" (Matthew 1:20-21).
 
-Joseph woke up and did what the angel commanded. He took Mary as his wife. He protected her. He believed.
+Joseph woke up and did what the angel commanded. He took Mary as his wife. He protected her. He believed. (His side of the story is told in [Joseph and the Angel for kids](/blog/joseph-and-the-angel-for-kids).)
 
 **Key lesson for kids:** Mary wasn't alone in her faith. Joseph also had to trust God with something he didn't understand. Their story shows that sometimes God asks us to believe things that don't make sense to the world around us, and that takes courage from everyone involved.
 
@@ -68,7 +70,7 @@ Mary, heavily pregnant, made this difficult journey with Joseph. When they arriv
 
 So Mary gave birth to her firstborn son in a humble place -- likely a stable or a cave where animals were kept. She wrapped Jesus in cloths and laid him in a manger, a feeding trough for animals.
 
-The King of Kings was born not in a palace, but in the humblest of places. And Mary was there, holding Him, wrapping Him, caring for Him. The girl from Nazareth who said yes to God was now cradling the Savior of the world.
+The King of Kings was born not in a palace, but in the humblest of places. And Mary was there, holding Him, wrapping Him, caring for Him. The girl from Nazareth who said yes to God was now cradling the Savior of the world. (Walk through this night in [The Journey to Bethlehem for kids](/blog/the-journey-to-bethlehem-for-kids) and [Born in a Manger for kids](/blog/born-in-a-manger-for-kids).)
 
 **Key lesson for kids:** God often works in unexpected ways. The Savior of the world wasn't born in a grand palace with doctors and servants. He was born in a place where animals ate, laid in a feeding trough, held by a young mother far from home. God doesn't need fancy settings to do amazing things.
 
@@ -88,7 +90,7 @@ After the danger of King Herod's threat had passed (Herod had tried to kill the 
 
 We don't know much about Jesus's childhood, but we get one glimpse in Luke 2:41-52. When Jesus was 12, the family traveled to Jerusalem for the Passover festival. On the way home, Mary and Joseph realized Jesus wasn't with their group. They searched for three days before finding Him in the temple, sitting among the teachers, listening and asking questions. Everyone was amazed at His understanding.
 
-Mary said, "Son, why have you treated us like this? Your father and I have been anxiously searching for you" (Luke 2:48). Every parent can hear the mixture of relief and frustration in her voice.
+Mary said, "Son, why have you treated us like this? Your father and I have been anxiously searching for you" (Luke 2:48). Every parent can hear the mixture of relief and frustration in her voice. (This episode gets its own retelling in [Young Jesus in the Temple for kids](/blog/young-jesus-in-the-temple-for-kids).)
 
 Jesus replied, "Didn't you know I had to be in my Father's house?" (Luke 2:49). Mary and Joseph didn't fully understand what He meant, but Mary "treasured all these things in her heart" (Luke 2:51) -- that phrase again. She was a mother learning, step by step, that her son had a mission bigger than she could comprehend.
 

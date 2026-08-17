@@ -1,6 +1,8 @@
 ---
 title: "The Road to Emmaus for Kids: Bible Story Explained Simply"
 slug: "the-road-to-emmaus-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 03
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How were the two disciples feeling as they walked to Emmaus?
+### How were the two disciples feeling as they walked to Emmaus?
 
+**Devastated and heartbroken.** They had watched Jesus die on the cross and believed all their hopes were crushed. They were walking home with broken hearts.
 
+### Why did the two disciples not recognize Jesus when He joined them?
 
+**Their eyes were kept from recognizing Him.** The Bible says their eyes were kept from recognizing Him. God had a purpose in this — He wanted them to learn something first.
+
+### What did Jesus do as they walked together?
+
+**He walked them through the entire Bible showing how everything pointed to Him.** Starting with Moses and going through all the Prophets, Jesus showed them how every story, prophecy, and promise in Scripture pointed to Him.
+
+### At what moment did the disciples finally recognize Jesus?
+
+**When He took bread, blessed it, and broke it.** At the dinner table, when Jesus broke the bread, their eyes were opened and they knew exactly who He was.
+
+### What did the disciples say after Jesus vanished?
+
+**"Did not our hearts burn within us while He talked with us on the road and opened the Scriptures to us?".** They realized that while Jesus was explaining the Scriptures, their hearts were burning with excitement and truth. Then they ran seven miles back to Jerusalem to tell the others!
 
 ## Discussion Questions for Families
 

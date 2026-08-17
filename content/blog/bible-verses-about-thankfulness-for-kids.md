@@ -4,13 +4,15 @@ slug: "bible-verses-about-thankfulness-for-kids"
 type: "listicle"
 metaDescription: "Teach kids gratitude with 15 Bible verses about thankfulness. Simple explanations and fun activities to help children develop a grateful heart."
 keywords: ["bible verses about thankfulness for kids", "gratitude bible verses children", "thankful scripture for kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 15 Bible Verses About Thankfulness for Kids
 
 Teaching children to be thankful is one of the most important things a parent can do. Gratitude changes how kids see the world. Instead of focusing on what they don't have, thankful children learn to appreciate the blessings all around them -- their family, their friends, a sunny day, a warm meal.
 
-The Bible is full of verses about thankfulness, and many of them are simple enough for even young children to understand. Whether you're looking for a verse to memorize together, a scripture to talk about at dinner, or a bedtime devotion about gratitude, this list has something for every family.
+The Bible is full of verses about thankfulness, and many of them are simple enough for even young children to understand. Whether you're looking for a [verse to memorize together](/blog/bible-verses-for-kids-to-memorize), a scripture to talk about at dinner, or a bedtime devotion about gratitude, this list has something for every family.
 
 Here are 15 Bible verses about thankfulness that kids can understand, remember, and live out every day.
 
@@ -36,7 +38,7 @@ This verse paints a picture of coming to God with a thankful heart. Imagine walk
 
 Paul ends this verse with three simple words: "And be thankful." It's almost like a gentle reminder tucked at the end. Peace and thankfulness go together. When we're grateful, we feel more peaceful inside.
 
-**How to talk about it with kids:** When your child is feeling anxious or upset, try asking them to name five things they're thankful for. It's amazing how gratitude can calm a worried mind.
+**How to talk about it with kids:** When your child is feeling anxious or upset, try asking them to name five things they're thankful for. It's amazing how gratitude can calm a worried mind. For more help with worry, see these [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids).
 
 ## 4. Psalm 107:1
 
@@ -76,7 +78,7 @@ This verse is repeated throughout Psalm 136 as a refrain. In fact, the phrase "H
 
 Always. For everything. That's a big ask, but it's what God calls us to. This verse teaches kids that thankfulness isn't just for the obvious blessings. It's for the small things, the ordinary things, and even the difficult things.
 
-**How to talk about it with kids:** At dinner, go around the table and have each family member share one "unexpected" thing they're thankful for. It could be something small like a funny moment at school or the sound of rain.
+**How to talk about it with kids:** At dinner, go around the table and have each family member share one "unexpected" thing they're thankful for. It could be something small like a funny moment at school or the sound of rain. These [family dinner Bible questions](/blog/family-dinner-bible-questions) keep the conversation going.
 
 ## 9. Psalm 9:1
 
@@ -137,10 +139,12 @@ The final verse on our list circles back to the same truth that runs through all
 ## Practical Tips for Teaching Kids Thankfulness
 
 1. **Model it.** Kids learn gratitude by watching you. Say "thank you" to God out loud in front of them.
-2. **Make it a routine.** Pick one thankfulness verse to memorize each month.
+2. **Make it a routine.** Pick one thankfulness verse to memorize each month. These [memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) can help.
 3. **Create a gratitude jar.** Write thankful moments on slips of paper and read them together at the end of the month.
 4. **Talk about hard things too.** Help kids see that even in difficult seasons, there are things to be grateful for.
 5. **Celebrate thankfulness.** When you catch your child being genuinely grateful, point it out and praise them for it.
+
+For stories that model grateful hearts, read these [Bible stories about gratitude for kids](/blog/bible-stories-about-gratitude-for-kids) together.
 
 ## Watch on Faithful Kids
 

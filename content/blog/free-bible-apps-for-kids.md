@@ -37,7 +37,7 @@ Bible App for Kids is the most downloaded children's Bible app in the world, and
 - Stories are very simplified, which means older kids (8+) will outgrow them fast
 - No reflection activities or discussion prompts
 
-Bible App for Kids is a wonderful starting point for young children, but think of it as a picture Bible rather than a curriculum. It introduces stories beautifully but doesn't go deep.
+Bible App for Kids is a wonderful starting point for young children, but think of it as a picture Bible rather than a curriculum. It introduces stories beautifully but doesn't go deep. For a closer look, read our full [Bible App for Kids review](/blog/bible-app-for-kids-review).
 
 ## 2. Superbook Kids Bible App
 
@@ -60,7 +60,7 @@ Superbook has been a staple in Christian children's media since the original ani
 - No parent dashboard or progress reports
 - Limited control over content pacing
 
-Superbook is excellent entertainment with a Biblical message. If your child loves cartoons, this is a strong choice. Just know that the free version is a sample, not the full library.
+Superbook is excellent entertainment with a Biblical message. If your child loves cartoons, this is a strong choice. Just know that the free version is a sample, not the full library. We break down how it stacks up in [Superbook vs Faithful Kids](/blog/superbook-vs-faithful-kids).
 
 ## 3. Adventure Bible App
 
@@ -106,7 +106,7 @@ DLTK's Bible section isn't technically an app -- it's a website. But it's been a
 - No progress tracking or parent features
 - Content quality varies -- some pages feel dated
 
-DLTK is best used as a supplement alongside another Bible teaching tool. Print out a coloring page of David and Goliath after watching the story -- that kind of layered approach works beautifully.
+DLTK is best used as a supplement alongside another Bible teaching tool. Print out a coloring page of David and Goliath after watching the story -- that kind of layered approach works beautifully. (We rounded up more printable options in [Bible coloring pages for kids](/blog/bible-coloring-pages-for-kids).)
 
 ## 5. Faithful Kids (7-Day Free Trial)
 
@@ -160,7 +160,7 @@ As Proverbs 22:6 says, *"Start children off on the way they should go, and even 
 
 ## Our Recommendation
 
-Start with **Bible App for Kids** if your children are under 6. It's genuinely excellent for that age group.
+Start with **Bible App for Kids** if your children are under 6. It's genuinely excellent for that age group. If you want recommendations broken down by developmental stage, see our guide to the [best Bible apps by age](/blog/best-bible-apps-by-age).
 
 For kids aged 7 and up, try the **Faithful Kids 7-day free trial**. If your child stays engaged through quizzes and reflection -- and you see them actually retaining what they learn -- the subscription pays for itself in spiritual growth.
 
@@ -186,4 +186,4 @@ Children as young as 2-3 can enjoy simple Bible story apps like Bible App for Ki
 Bible apps are a wonderful supplement, but they shouldn't fully replace the experience of reading Scripture together as a family. Think of apps as a gateway -- they build familiarity and excitement that makes kids *want* to open the Bible. As your child grows, transition them toward reading Scripture directly.
 
 ### How much screen time should kids spend on Bible apps?
-The American Academy of Pediatrics recommends limiting recreational screen time, but educational screen time is different. A 15-20 minute Bible lesson is a meaningful use of screen time. Faithful Kids episodes are designed to be completed in one sitting without excessive screen exposure.
+The American Academy of Pediatrics recommends limiting recreational screen time, but educational screen time is different -- we unpack the research in [is screen time bad for kids?](/blog/is-screen-time-bad-for-kids). A 15-20 minute Bible lesson is a meaningful use of screen time. Faithful Kids episodes are designed to be completed in one sitting without excessive screen exposure.

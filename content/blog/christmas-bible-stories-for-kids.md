@@ -4,11 +4,13 @@ slug: "christmas-bible-stories-for-kids"
 type: "listicle"
 metaDescription: "The real Christmas story for kids. 10 Bible stories about the birth of Jesus, from the angel visiting Mary to the wise men. Simple retellings for ages 5+."
 keywords: ["christmas story for kids", "birth of jesus for kids", "nativity story children", "christmas bible stories kids", "real christmas story kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # The Christmas Story for Kids: 10 Bible Stories About the Birth of Jesus
 
-The real Christmas story is better than any movie. Angels, a star, shepherds, wise men, and a baby born in the humblest place imaginable. Here are 10 Bible stories that tell the complete birth of Jesus, from the angel visiting Mary to the wise men following the star.
+The real Christmas story is better than any movie. Angels, a star, shepherds, wise men, and a baby born in the humblest place imaginable. Here are 10 Bible stories that tell the complete birth of Jesus, from the angel visiting Mary to the wise men following the star. If your child is full of questions about the season, our guide on [how to explain Christmas to a child](/blog/how-to-explain-christmas-to-a-child) pairs perfectly with these stories.
 
 ## The Complete Christmas Story in 10 Episodes
 
@@ -52,6 +54,8 @@ John prepares the way for Jesus, baptizing people in the river and telling every
 *Note: The baptism happens about 30 years after Jesus' birth, but it completes the Birth of Jesus series by showing Jesus stepping into His public ministry.* Jesus comes to John to be baptized. As He comes out of the water, God's voice says: "This is my Son, whom I love."
 [Watch video](https://faithfulkids.app/blog/the-baptism-of-jesus-for-kids)
 
+Want to make these stories stick? Quiz your kids afterward with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia-for-kids), or pair each story with one of these [Christmas Bible crafts](/blog/christmas-crafts-for-kids-bible).
+
 ---
 
 ## Watch the Full Birth of Jesus Series on Faithful Kids
@@ -64,7 +68,7 @@ All 10 episodes of the Birth of Jesus series are available with 60-second videos
 
 ### When should I teach my child the Christmas story?
 
-Start in late November as Advent begins. Watch one episode per day during the 10 days before Christmas for a meaningful countdown.
+Start in late November as Advent begins. Watch one episode per day during the 10 days before Christmas for a meaningful countdown. For the season leading up to it, see [what Advent means for kids](/blog/what-is-advent-for-kids) and these [Advent activities for kids](/blog/advent-activities-for-kids).
 
 ### What is the real Christmas story in the Bible?
 

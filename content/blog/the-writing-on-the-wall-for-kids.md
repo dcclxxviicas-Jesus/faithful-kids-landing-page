@@ -1,6 +1,8 @@
 ---
 title: "The Writing on the Wall for Kids: Bible Story Explained Simply"
 slug: "the-writing-on-the-wall-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Exile and Faith"
 seriesSlug: "exile-and-faith"
 episode: 05
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What reckless thing did King Belshazzar do at his party?
+### What reckless thing did King Belshazzar do at his party?
 
+**He drank from the sacred cups stolen from God's Temple in Jerusalem.** Belshazzar ordered the sacred gold and silver vessels from God's Temple to be brought out, and he used them to drink wine and toast false gods.
 
+### What mysterious thing appeared during the party?
 
+**A human hand writing on the wall.** A disembodied human hand appeared and wrote four words on the plaster wall of the palace, terrifying everyone.
+
+### What were the words written on the wall?
+
+**MENE, MENE, TEKEL, UPHARSIN.** The hand wrote MENE, MENE, TEKEL, UPHARSIN — a divine message of judgment against King Belshazzar.
+
+### What did the word TEKEL mean?
+
+**You have been weighed on the scales and found wanting.** TEKEL meant that Belshazzar had been weighed and measured by God's standards and was found lacking. He had failed to honor God.
+
+### What is the main lesson of this episode?
+
+**There's a point where arrogance meets accountability — how you treat what's sacred matters.** There is a point where arrogance meets accountability. How you treat what is sacred and what God has given you matters deeply. God sees everything.
 
 ## Discussion Questions for Families
 

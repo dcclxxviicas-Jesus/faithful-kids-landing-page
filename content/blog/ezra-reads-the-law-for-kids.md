@@ -1,6 +1,8 @@
 ---
 title: "Ezra Reads the Law for Kids: Bible Story Explained Simply"
 slug: "ezra-reads-the-law-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 03
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How long did Ezra read the Law to the people?
+### How long did Ezra read the Law to the people?
 
+**From sunrise to midday — about 6 hours.** Ezra read from sunrise to midday, which was roughly six hours. And the people stood and listened the entire time!
 
+### Who helped explain the meaning of the Law to the people as Ezra read?
 
+**The Levites.** The Levites walked among the crowd and helped the people understand the meaning of what was being read.
+
+### How did the people react when they heard and understood God's Law?
+
+**They wept.** The people wept when they realized how far they had strayed from God's commands. The Word pierced their hearts.
+
+### What did Nehemiah and Ezra tell the people to do instead of weeping?
+
+**Rejoice, eat good food, and share with those who have nothing.** They told the people to stop crying, celebrate, eat good food, drink sweet drinks, and share with others because it was a holy day.
+
+### What famous verse comes from this passage?
+
+**"The joy of the Lord is your strength".** Nehemiah told the people, "The joy of the Lord is your strength" (Nehemiah 8:10). Conviction from God isn't meant to crush you — it's meant to guide you back.
 
 ## Discussion Questions for Families
 

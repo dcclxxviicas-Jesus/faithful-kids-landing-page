@@ -1,6 +1,8 @@
 ---
 title: "David Becomes King for Kids: Bible Story Explained Simply"
 slug: "david-becomes-king-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 10
@@ -61,10 +63,25 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Which tribe anointed David as king first?
+### Which tribe anointed David as king first?
 
+**Judah.** 
 
+### What city did David conquer and make his capital?
 
+**Jerusalem.**
+
+### What did David bring to Jerusalem to put God at the center of his kingdom?
+
+**The Ark of the Covenant.**
+
+### How did David worship when the Ark entered Jerusalem?
+
+**He danced before the LORD with all his might in simple linen.**
+
+### What did David say when Michal criticized him for dancing?
+
+**"I will celebrate before the LORD — I will become even more undignified".**
 
 ## Discussion Questions for Families
 

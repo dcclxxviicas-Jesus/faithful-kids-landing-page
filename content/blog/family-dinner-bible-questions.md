@@ -4,6 +4,8 @@ slug: "family-dinner-bible-questions"
 type: "listicle"
 metaDescription: "52 weeks of Bible-based conversation starters for family dinner. One question per week organized by theme: love, courage, faith, kindness, forgiveness."
 keywords: ["family dinner bible questions", "bible conversation starters", "christian family dinner discussion"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 The dinner table is the most underrated discipleship tool in your home.
@@ -56,7 +58,7 @@ Print this out. Stick it on the fridge. And watch what happens when your family 
 **Week 10:** Is it possible to be brave and scared at the same time?
 *Verse: Psalm 56:3 -- "When I am afraid, I put my trust in you."*
 
-**Week 11:** David faced a giant. What's your "Goliath" right now?
+**Week 11:** David faced a giant. What's your "Goliath" right now? (If your kids don't know the story yet, read [David and Goliath for kids](/blog/david-and-goliath-for-kids) first.)
 *Verse: 1 Samuel 17:45 -- "I come against you in the name of the Lord Almighty."*
 
 **Week 12:** When is it hardest to stand up for what's right?
@@ -105,7 +107,7 @@ Print this out. Stick it on the fridge. And watch what happens when your family 
 **Week 25:** When was the last time a stranger was kind to you? How did it make you feel?
 *Verse: Ephesians 4:32 -- "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."*
 
-**Week 26:** The Good Samaritan helped someone everyone else ignored. Who gets ignored at your school or in our neighborhood?
+**Week 26:** [The Good Samaritan](/blog/the-good-samaritan-for-kids) helped someone everyone else ignored. Who gets ignored at your school or in our neighborhood?
 *Verse: Luke 10:36-37 -- "'Which of these three do you think was a neighbor?' ... 'The one who had mercy on him.' Jesus told him, 'Go and do likewise.'"*
 
 **Week 27:** A boy gave Jesus five loaves and two fish. What small thing could you give that God might use for something big?
@@ -140,7 +142,7 @@ Print this out. Stick it on the fridge. And watch what happens when your family 
 **Week 36:** Is forgiving someone the same as saying what they did was okay?
 *Verse: Romans 12:19 -- "Do not take revenge, my dear friends, but leave room for God's wrath."*
 
-**Week 37:** The prodigal son's father ran to meet him and threw a party. How does God's forgiveness compare to human forgiveness?
+**Week 37:** [The prodigal son's](/blog/the-prodigal-son-for-kids) father ran to meet him and threw a party. How does God's forgiveness compare to human forgiveness?
 *Verse: Luke 15:20 -- "But while he was still a long way off, his father saw him and was filled with compassion for him."*
 
 **Week 38:** Is there someone you need to forgive? What's holding you back?
@@ -154,7 +156,7 @@ Print this out. Stick it on the fridge. And watch what happens when your family 
 
 ## Weeks 41-46: Wisdom and Character
 
-**Week 41:** If God said you could ask for one thing, what would you ask for? Solomon asked for wisdom. Why is that the best answer?
+**Week 41:** If God said you could ask for one thing, what would you ask for? [Solomon asked for wisdom](/blog/solomon-asks-for-wisdom-for-kids). Why is that the best answer?
 *Verse: James 1:5 -- "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault."*
 
 **Week 42:** What's the difference between being smart and being wise?
@@ -204,7 +206,7 @@ A few tips for keeping momentum:
 - **Ban phones from the table.** Including yours. Non-negotiable.
 - **When a guest joins dinner,** include them. These questions work for anyone, believer or not.
 
-As Deuteronomy 6:7 says, talk about God's Word "when you sit at home." The dinner table is exactly where faith gets passed from one generation to the next.
+As Deuteronomy 6:7 says, talk about God's Word "when you sit at home." The dinner table is exactly where faith gets passed from one generation to the next. When you want to mix things up, try [hosting a family Bible trivia night](/blog/family-bible-trivia-night) or pull from these [Bible discussion questions for kids](/blog/bible-discussion-questions-for-kids).
 
 ## Watch on Faithful Kids
 

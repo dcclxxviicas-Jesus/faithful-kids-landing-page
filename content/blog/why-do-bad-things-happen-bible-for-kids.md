@@ -4,6 +4,8 @@ slug: "why-do-bad-things-happen-bible-for-kids"
 type: "listicle"
 metaDescription: "Why do bad things happen? 3 biblical frameworks and 5 Bible stories to help you talk to kids about suffering, pain, and evil in age-appropriate language."
 keywords: ["why do bad things happen bible for kids", "talking to kids about suffering", "explaining evil to children", "why does God allow bad things"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Why Do Bad Things Happen? Talking to Kids About Suffering
@@ -42,7 +44,7 @@ When God created the world, everything was perfect. No death, no pain, no sickne
 
 **How to explain this to kids:** "When God first made the world, everything was perfect. Nobody got sick, nobody was mean, and nothing died. But when the first people chose to disobey God, it broke things. Not just for them, but for the whole world. Bad things happen because we live in a broken world. It is not the way God wanted it, and it is not how it will always be."
 
-This framework is helpful because it does not blame God for evil. It places the origin of suffering in human choice while affirming that God's original design was good.
+This framework is helpful because it does not blame God for evil. It places the origin of suffering in human choice while affirming that God's original design was good. (For a kid-friendly retelling of that first choice, see [The Garden and the Fall for kids](/blog/the-garden-and-the-fall-for-kids).)
 
 ### Framework 2: God Can Bring Good Out of Bad (Romans 8:28, Genesis 50:20)
 
@@ -70,7 +72,7 @@ The Bible promises a future where all suffering ends. Revelation 21:4 says, "He 
 
 **The lesson:** Joseph's suffering was real and unjust. But God was working through every terrible chapter of the story. Years of pain led to the salvation of an entire nation. Joseph did not see the big picture while he was in the pit or the prison, but God did.
 
-**What to say:** "Joseph went through terrible things that were not fair at all. His own brothers hurt him. But God never left him, and God used everything Joseph went through to save thousands of people. When bad things happen to us, we may not understand why. But God sees the whole story."
+**What to say:** "Joseph went through terrible things that were not fair at all. His own brothers hurt him. But God never left him, and God used everything Joseph went through to save thousands of people. When bad things happen to us, we may not understand why. But God sees the whole story." (Read Joseph's full journey in [Who Was Joseph? for kids](/blog/who-was-joseph-for-kids).)
 
 ### 2. Job and Unexplained Suffering (Job 1-2, 38-42)
 
@@ -90,7 +92,7 @@ The Bible promises a future where all suffering ends. Revelation 21:4 says, "He 
 
 **The lesson:** God does not watch our suffering from a distance. He enters into it. Jesus could have prevented Lazarus's death. He chose not to, for reasons Martha could not understand at the time. But He did not stand apart from the pain. He wept.
 
-**What to say:** "When something bad happens and you feel sad, God is not far away. Jesus cried when His friend died. God feels our pain with us. You are never alone in your hurt."
+**What to say:** "When something bad happens and you feel sad, God is not far away. Jesus cried when His friend died. God feels our pain with us. You are never alone in your hurt." (The whole story is in [The Raising of Lazarus for kids](/blog/the-raising-of-lazarus-for-kids).)
 
 ### 4. Paul's Thorn in the Flesh (2 Corinthians 12:7-10)
 
@@ -121,6 +123,8 @@ The Bible promises a future where all suffering ends. Revelation 21:4 says, "He 
 - "It is okay to be angry and sad. Even people in the Bible were angry and sad."
 - "God did not cause this. We live in a broken world, but God is in the business of fixing broken things."
 - "Let us pray about it together."
+
+For related conversations, see our guides on [explaining death and heaven to kids](/blog/explaining-death-and-heaven-to-kids) and [Bible stories about fear and anxiety for kids](/blog/bible-stories-about-fear-and-anxiety-for-kids).
 
 ### Do Not Say:
 - **"God needed [person/pet] in heaven."** Makes God sound cruel.

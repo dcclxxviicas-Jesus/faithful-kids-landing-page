@@ -1,6 +1,8 @@
 ---
 title: "Pauls Legacy for Kids: Bible Story Explained Simply"
 slug: "pauls-legacy-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Pauls Adventures"
 seriesSlug: "pauls-adventures"
 episode: 10
@@ -61,10 +63,29 @@ Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, s
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who was Paul writing his final letter to?
+### Who was Paul writing his final letter to?
 
+**Timothy.**
 
+### What three things did Paul say he had done at the end of his life?
 
+**Fought the good fight, finished the race, and kept the faith.**
+
+### What was Paul's life motto from Philippians?
+
+**"For to me, to live is Christ and to die is gain".**
+
+### What was Paul doing before he followed Jesus?
+
+**He was persecuting and arresting believers.**
+
+### How much of the New Testament did Paul write?
+
+**Nearly half.**
+
+### What is the main lesson of the series finale?
+
+**It's not how you start — it's how you finish.**
 
 ## Discussion Questions for Families
 

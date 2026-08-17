@@ -1,6 +1,8 @@
 ---
 title: "Cyrus Sets Them Free for Kids: Bible Story Explained Simply"
 slug: "cyrus-sets-them-free-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 01
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How many years were the Jewish people in Babylon before they were allowed to go home?
+### How many years were the Jewish people in Babylon before they were allowed to go home?
 
+**70 years.** The Jewish people were in Babylon for 70 years, just as God had promised through the prophet Jeremiah.
 
+### Who was the king that let the Jewish people return to Jerusalem?
 
+**Cyrus, king of Persia.** Cyrus, king of Persia, issued the decree that allowed God's people to go home and rebuild the temple.
+
+### How many years BEFORE Cyrus was born did the prophet Isaiah write down his name?
+
+**150 years.** Isaiah named Cyrus about 150 years before he was even born, showing that God knows the future completely.
+
+### About how many people made the journey back to Jerusalem?
+
+**50,000.** Approximately 50,000 people packed up and traveled back to Jerusalem.
+
+### What did Cyrus tell the people surrounding the Jews to give them for the journey?
+
+**Silver, gold, and supplies.** Cyrus decreed that people should load the Jews up with silver, gold, and supplies for rebuilding the temple.
 
 ## Discussion Questions for Families
 

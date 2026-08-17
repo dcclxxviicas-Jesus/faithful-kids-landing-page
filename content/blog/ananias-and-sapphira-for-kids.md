@@ -1,6 +1,8 @@
 ---
 title: "Ananias and Sapphira for Kids: Bible Story Explained Simply"
 slug: "ananias-and-sapphira-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Early Church"
 seriesSlug: "early-church"
 episode: 03
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What did Ananias and Sapphira sell?
+### What did Ananias and Sapphira sell?
 
+**A piece of property.**
 
+### What was the actual problem with what Ananias and Sapphira did?
 
+**They lied about how much they received and pretended to give everything.**
+
+### According to Peter, who did Ananias really lie to?
+
+**The Holy Spirit / God.**
+
+### Were Ananias and Sapphira required to give all their money?
+
+**No — it was their property and their choice.**
+
+### How much time passed between what happened to Ananias and what happened to Sapphira?
+
+**Three hours.**
+
+### What is the main lesson from this story?
+
+**Integrity means being the same person in private as in public — honesty with God matters deeply.**
 
 ## Discussion Questions for Families
 

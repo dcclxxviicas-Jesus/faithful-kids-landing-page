@@ -1,6 +1,8 @@
 ---
 title: "The Last Supper for Kids: Bible Story Explained Simply"
 slug: "the-last-supper-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 03
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What surprising thing did Jesus do before the meal began?
+### What surprising thing did Jesus do before the meal began?
 
+**He washed His disciples' feet.** Jesus washed His disciples' feet. This was normally the job of the lowest servant. By doing it Himself, Jesus showed that true leadership means serving others.
 
+### Which disciple protested and said Jesus would NEVER wash his feet?
 
+**Peter.** He couldn't accept his Lord doing a servant's job. But Jesus told him, "Unless I wash you, you have no part with me," and Peter quickly changed his mind.
+
+### What did Jesus say when He broke the bread?
+
+**"This is my body, which is broken for you.** Do this in remembrance of me." Jesus was telling His disciples that His body would be broken on the cross for their salvation.
+
+### What did Jesus say about the cup of wine?
+
+**"This is my blood of the new covenant, poured out for many for the forgiveness of sins." Jesus was establishing a new covenant between God and humanity, sealed by His own blood.** 
+
+### Whose feet did Jesus wash, even though He knew this person would betray Him?
+
+**Judas's.** Jesus knelt down and washed the feet of the very man who would hand Him over to be killed that same night. He served even the one who would betray Him.
+
+### What is the main lesson of this episode?
+
+**True leadership serves.** Jesus showed that real greatness isn't about power or position. It's about kneeling down and serving others — even the ones who will let you down.
 
 ## Discussion Questions for Families
 

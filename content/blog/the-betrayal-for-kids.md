@@ -1,6 +1,8 @@
 ---
 title: "The Betrayal for Kids: Bible Story Explained Simply"
 slug: "the-betrayal-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 05
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What signal did Judas give the soldiers to identify Jesus?
+### What signal did Judas give the soldiers to identify Jesus?
 
+**He kissed Jesus on the cheek.** A kiss. Judas used a kiss — a sign of friendship and respect — as the signal to identify Jesus to the soldiers. He said "Greetings, Rabbi!" and kissed Him.
 
+### What did Jesus call Judas when Judas came to betray Him?
 
+**Friend.** Even in the moment of betrayal, Jesus called Judas "Friend." He said, "Friend, do what you came for."
+
+### What did Peter do when the soldiers came to arrest Jesus?
+
+**Peter drew a sword and cut off the right ear of Malchus, the high priest's servant.** Peter was trying to fight back, but Jesus had a different plan.
+
+### How many legions of angels did Jesus say His Father could send?
+
+**Twelve legions, which is more than 72,000 angels.** Jesus made it clear He wasn't powerless. He had unlimited power available — He simply chose not to use it.
+
+### What was the last miracle Jesus performed before the cross?
+
+**He healed the ear of Malchus, the high priest's servant.** Even while being arrested, Jesus showed mercy to one of the men who came to capture Him.
+
+### What is the main lesson of this episode?
+
+**Jesus wasn't a victim.** He had the power to stop everything. Twelve legions of angels were ready at His word. But He chose the cross because He chose us. He wasn't taken — He was given willingly.
 
 ## Discussion Questions for Families
 

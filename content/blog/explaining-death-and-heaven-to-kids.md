@@ -4,6 +4,8 @@ slug: "explaining-death-and-heaven-to-kids"
 type: "listicle"
 metaDescription: "How to explain death and heaven to kids using 5 Bible stories. Age-appropriate language for grieving children, what to say and what to avoid."
 keywords: ["explaining death to kids", "how to explain heaven to a child", "bible stories about death for kids", "talking to kids about death"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # How to Explain Death and Heaven to Kids Using Bible Stories
@@ -18,11 +20,11 @@ This guide walks you through five Bible stories that address death and the hope 
 
 ### Children grieve differently at different ages.
 
-**Ages 4-6:** Children this age often do not understand that death is permanent. They may ask when the person is coming back. They need simple, concrete language: "Grandma's body stopped working and she died. She is not coming back to our house, but we believe she is with God in heaven."
+**Ages 4-6:** Children this age often do not understand that death is permanent. They may ask when the person is coming back. They need simple, concrete language: "Grandma's body stopped working and she died. She is not coming back to our house, but we believe she is with God in heaven." (For this age group, see our guide on [how to explain heaven to a preschooler](/blog/how-to-explain-heaven-to-a-preschooler).)
 
 **Ages 7-9:** Children begin to understand that death is final and irreversible. They may become worried about their own death or yours. They need reassurance and honest answers: "Yes, everyone dies someday. But that is not something you need to worry about right now. God has a plan for your whole life."
 
-**Ages 10-12:** Preteens can grasp abstract concepts like the soul, eternity, and the difference between physical death and spiritual life. They may have theological questions: "If God is good, why do people die?" "How do we know heaven is real?" Meet these questions with honesty, not deflection.
+**Ages 10-12:** Preteens can grasp abstract concepts like the soul, eternity, and the difference between physical death and spiritual life. They may have theological questions: "If God is good, why do people die?" "How do we know heaven is real?" Meet these questions with honesty, not deflection. Our post on [why bad things happen, explained from the Bible](/blog/why-do-bad-things-happen-bible-for-kids) can help with the hardest ones.
 
 ### The most important thing you can do is be present.
 
@@ -42,6 +44,8 @@ Your child does not need a perfectly constructed theological explanation. They n
 
 **Key verse:** "Jesus said to her, 'I am the resurrection and the life. The one who believes in me will live, even though they die'" (John 11:25).
 
+You can read a kid-friendly retelling of this story in [the raising of Lazarus for kids](/blog/the-raising-of-lazarus-for-kids).
+
 ### 2. The Resurrection of Jesus (Matthew 28:1-10, Luke 24:1-12)
 
 **The story:** Jesus was crucified on a Friday and buried in a tomb sealed with a heavy stone. On Sunday morning, women who came to care for His body found the stone rolled away and the tomb empty. An angel told them, "He is not here; he has risen, just as he said." Over the next forty days, Jesus appeared to His followers many times, eating with them, talking with them, showing them that He was truly, physically alive.
@@ -51,6 +55,8 @@ Your child does not need a perfectly constructed theological explanation. They n
 **What to say:** "The most amazing thing that ever happened is that Jesus died and came back to life. Not pretend. For real. And because He came back to life, He promised that everyone who believes in Him will live with God forever too. Death is not the end of the story. It is more like a doorway."
 
 **Key verse:** "Where, O death, is your victory? Where, O death, is your sting?" (1 Corinthians 15:55).
+
+For a simple version to share with younger children, see [the empty tomb for kids](/blog/the-empty-tomb-for-kids).
 
 ### 3. Elijah Taken Up to Heaven (2 Kings 2:1-12)
 
@@ -81,6 +87,8 @@ Your child does not need a perfectly constructed theological explanation. They n
 **What to say:** "The Bible tells us that in heaven, there is no more crying, no more pain, and no more dying. God Himself will wipe every tear from our eyes. Everyone in heaven is happy and safe and together with God forever. The sad things we feel now will not last forever. God is going to make everything new."
 
 **Key verse:** "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away" (Revelation 21:4).
+
+There is a child-friendly walkthrough of this vision in [a new heaven and new earth for kids](/blog/a-new-heaven-and-new-earth-for-kids).
 
 ---
 

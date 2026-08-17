@@ -1,6 +1,8 @@
 ---
 title: "Shipwrecked for Kids: Bible Story Explained Simply"
 slug: "shipwrecked-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Pauls Adventures"
 seriesSlug: "pauls-adventures"
 episode: 08
@@ -61,10 +63,29 @@ Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, s
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why was Paul on the ship in the first place?
+### Why was Paul on the ship in the first place?
 
+**He was being transported to Rome as a prisoner.**
 
+### How many days did the storm last?
 
+**14 days.**
+
+### What did the angel tell Paul during the storm?
+
+**That God had given him the lives of everyone on the ship.**
+
+### How many people were on the ship?
+
+**276 people.** Luke records the exact count -- and thanks to God's promise to Paul, every single one made it safely to shore (Acts 27:37).
+
+### What happened to Paul on the island of Malta?
+
+**He was bitten by a viper and shook it off unharmed.**
+
+### What is the main lesson of this episode?
+
+**Storms will come, but God's promise holds — if He said you'll make it, you'll make it.**
 
 ## Discussion Questions for Families
 

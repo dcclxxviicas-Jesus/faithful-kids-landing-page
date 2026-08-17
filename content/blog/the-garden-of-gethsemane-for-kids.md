@@ -1,6 +1,8 @@
 ---
 title: "The Garden of Gethsemane for Kids: Bible Story Explained Simply"
 slug: "the-garden-of-gethsemane-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 04
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Where did Jesus go to pray after the Last Supper?
+### Where did Jesus go to pray after the Last Supper?
 
+**The Garden of Gethsemane.** The Garden of Gethsemane, a grove of olive trees on the Mount of Olives where Jesus had gone to pray many times before.
 
+### Which three disciples did Jesus take deeper into the garden with Him?
 
+**Peter, James, and John.** These were Jesus's three closest friends, and He asked them to stay awake and keep watch with Him.
+
+### What did Jesus tell His disciples about how He was feeling?
+
+**"My soul is crushed with grief to the point of death." Jesus was completely honest about the anguish He felt.** He didn't hide His pain.
+
+### What did Jesus pray to His Father?
+
+**"If it is possible, let this cup pass from me — yet not my will, but Yours be done." Jesus asked honestly for another way, but ultimately submitted to God's plan.** 
+
+### What happened when Jesus went back to check on Peter, James, and John?
+
+**They were asleep.** All three times Jesus went back to check on them, they had fallen asleep. In His darkest hour, Jesus was alone.
+
+### What is the main lesson of this episode?
+
+**Courage isn't the absence of fear.** Jesus was genuinely terrified — He sweat drops of blood. But He chose obedience over comfort, and He chose us over Himself. That's what real courage looks like.
 
 ## Discussion Questions for Families
 

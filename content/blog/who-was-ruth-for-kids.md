@@ -4,6 +4,8 @@ slug: "who-was-ruth-for-kids"
 type: "listicle"
 metaDescription: "Who was Ruth? A kid-friendly guide to the book of Ruth. Loyalty to Naomi, gleaning in Boaz's fields, and how Ruth became great-grandmother of King David."
 keywords: ["who was ruth for kids", "ruth and naomi bible story for kids", "book of ruth for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Ruth? Bible Story for Kids
@@ -34,7 +36,7 @@ Read those words again. Ruth was a young Moabite woman choosing to leave her hom
 
 When Naomi saw that Ruth was determined, she stopped arguing. They traveled together to Bethlehem.
 
-**Key lesson for kids:** Loyalty means staying with someone even when it's hard and there's nothing in it for you. Ruth didn't leave Naomi when life got difficult. Real love and real friendship look like this -- showing up for people when they need us most, not just when it's convenient.
+**Key lesson for kids:** Loyalty means staying with someone even when it's hard and there's nothing in it for you. Ruth didn't leave Naomi when life got difficult. Real love and real friendship look like this -- showing up for people when they need us most, not just when it's convenient. (We retell this moment in [Ruth: A Story of Loyalty for kids](/blog/ruth-a-story-of-loyalty-for-kids).)
 
 ## Gleaning in the Fields (Ruth 2)
 
@@ -74,13 +76,13 @@ But there was a complication. There was another relative who was a closer kinsma
 
 The next morning, Boaz went to the town gate -- the place where legal business was conducted -- and found the other relative. In front of witnesses, Boaz explained the situation. The other man initially agreed to buy Elimelech's land, but when he learned he would also need to marry Ruth and raise up children in Elimelech's name, he backed out. "I might endanger my own estate," he said (Ruth 4:6).
 
-Boaz was free to step in. He bought the land and took Ruth as his wife. The whole town celebrated.
+Boaz was free to step in. He bought the land and took Ruth as his wife. The whole town celebrated. (Read the full love story in [Ruth and Boaz for kids](/blog/ruth-and-boaz-for-kids).)
 
 Ruth and Boaz had a son named Obed. The women of Bethlehem said to Naomi, "Praise be to the Lord, who this day has not left you without a guardian-redeemer. He will renew your life and sustain you in your old age. For your daughter-in-law, who loves you and who is better to you than seven sons, has given him birth" (Ruth 4:14-15).
 
 The woman who had returned to Bethlehem empty and broken was now holding a grandchild in her arms, surrounded by love.
 
-And here's the most amazing part: Obed became the father of Jesse, who became the father of King David. Ruth -- a Moabite foreigner, a widow, a gleaner in the fields -- was the great-grandmother of Israel's greatest king. And through David's line, she is an ancestor of Jesus Christ.
+And here's the most amazing part: Obed became the father of Jesse, who became the father of [King David](/blog/who-was-david-for-kids). Ruth -- a Moabite foreigner, a widow, a gleaner in the fields -- was the great-grandmother of Israel's greatest king. And through David's line, she is an ancestor of Jesus Christ.
 
 **Key lesson for kids:** God's plans are bigger than we can see. Ruth had no idea that her simple choices -- staying with Naomi, working in the fields, trusting God -- would lead to her being part of Jesus's family tree. God takes our small acts of faithfulness and weaves them into something magnificent.
 
@@ -92,7 +94,7 @@ Ruth's story may be short, but its lessons are deep:
 - **God welcomes everyone.** Ruth was a foreigner, a Moabite. Yet God welcomed her, blessed her, and placed her in the lineage of His own Son.
 - **Faithfulness in small things leads to big blessings.** Ruth didn't do anything dramatic. She gleaned grain, cared for her mother-in-law, and trusted God. That was enough.
 - **God redeems.** The word "redeemer" runs through this whole book. Boaz redeemed Ruth. And ultimately, Jesus redeems us. Ruth's story is a small picture of the bigger story of salvation.
-- **Kindness matters.** Boaz's kindness to Ruth, Ruth's kindness to Naomi, Naomi's kindness to Ruth -- the whole book is held together by people being genuinely good to each other.
+- **Kindness matters.** Boaz's kindness to Ruth, Ruth's kindness to Naomi, Naomi's kindness to Ruth -- the whole book is held together by people being genuinely good to each other. (For more like this, browse our [Bible stories about kindness for kids](/blog/bible-stories-about-kindness-for-kids), then try our [Ruth Bible trivia](/blog/ruth-bible-trivia).)
 
 ## Watch on Faithful Kids
 

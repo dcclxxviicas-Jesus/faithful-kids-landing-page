@@ -4,6 +4,8 @@ slug: "short-bible-verses-for-kids"
 type: "listicle"
 metaDescription: "30 short Bible verses for kids, all under 15 words. Organized by theme: love, courage, trust, kindness, and joy. Perfect for memorization at any age."
 keywords: ["short bible verses for kids", "easy bible verses for children", "simple bible verses to memorize"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 30 Short Bible Verses for Kids (Perfect for Memorization)
@@ -74,7 +76,7 @@ Fear doesn't come from God. Power does. Love does. Self-control does. When you f
 ### 12. Deuteronomy 31:6
 *"Be strong and courageous... for the Lord your God goes with you."*
 
-God doesn't send you into hard situations alone. He goes WITH you. Every step, every moment, every battle.
+God doesn't send you into hard situations alone. He goes WITH you. Every step, every moment, every battle. (More like these in our [Bible verses about courage for kids](/blog/bible-verses-about-courage-for-kids).)
 
 ## Trust (6 Verses)
 
@@ -174,17 +176,17 @@ A beautiful prayer from Paul. He's asking God to fill you up — not with a litt
 
 ## How to Use This List
 
-**Start small.** Pick 3-5 verses from the theme your child needs most right now. A child dealing with anxiety? Start with the trust verses. A child struggling with friendness? Kindness verses.
+**Start small.** Pick 3-5 verses from the theme your child needs most right now. A child dealing with anxiety? Start with the trust verses (or these [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids)). A child struggling with friendness? Try more [Bible verses about kindness for kids](/blog/bible-verses-about-kindness-for-kids).
 
 **One verse per week.** Say it together daily. Write it on a sticky note for their lunchbox. Text it to them (if they're old enough). By Friday, they'll know it.
 
-**Make it a game.** Write each verse on a card. Shuffle and quiz. First one to recite the verse from just the reference wins. Kids love competition, even with Scripture.
+**Make it a game.** Write each verse on a card (or use our [printable memory verse cards](/blog/bible-memory-verse-cards-printable)). Shuffle and quiz. First one to recite the verse from just the reference wins. Kids love competition, even with Scripture.
 
 **Use a verse jar.** Write all 30 on slips of paper. Each morning, pull one out and read it together. It takes 30 seconds and sets the tone for the day.
 
 **Connect verses to moments.** When your child is scared: "What does Psalm 56:3 say?" When they're being unkind: "What does Ephesians 4:32 tell us?" When they're celebrating: "This is Psalm 118:24 — the day the Lord has made!"
 
-The power of short verses is that they become reflexes. Your child won't have to think about what to do when they're afraid — Psalm 56:3 will already be on their lips.
+The power of short verses is that they become reflexes. Your child won't have to think about what to do when they're afraid — Psalm 56:3 will already be on their lips. When your child is ready for longer passages, move on to our list of [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) and these proven [memory verse strategies](/blog/bible-memory-verse-strategies-for-kids).
 
 As Isaiah 55:11 promises, *"So is my word that goes out from my mouth: It will not return to me empty."* Every verse your child memorizes is a seed that God promises will bear fruit.
 

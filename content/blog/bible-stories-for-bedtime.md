@@ -4,13 +4,15 @@ slug: "bible-stories-for-bedtime"
 type: "listicle"
 metaDescription: "The 10 best Bible stories for bedtime. Calming, gentle stories that help kids wind down, feel safe, and fall asleep with Scripture on their hearts."
 keywords: ["bible stories for bedtime", "bedtime bible stories kids", "calming bible stories children", "bible stories before bed"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 10 Best Bible Stories for Bedtime
 
 Bedtime is the most intimate moment in a parent's day. The house is quiet. Your child is in pajamas. The world is slowing down. This is the perfect time for a Bible story.
 
-The best bedtime Bible stories are calming, reassuring, and end with a sense of safety and love. Here are the 10 best stories for winding down and falling asleep with Scripture on your child's heart.
+The best bedtime Bible stories are calming, reassuring, and end with a sense of safety and love. Here are the 10 best stories for winding down and falling asleep with Scripture on your child's heart. (For the very youngest listeners, see our [Bible stories for toddlers](/blog/bible-stories-for-toddlers).)
 
 ## What Makes a Good Bedtime Bible Story?
 
@@ -98,8 +100,8 @@ After the resurrection, Jesus makes breakfast for His friends on the beach. Fish
 
 1. **Watch one story** on Faithful Kids with your child (60 seconds)
 2. **Ask one question**: "What was your favorite part?"
-3. **Say one prayer together**: "Thank you God for today. Watch over [child's name] tonight. Amen."
-4. **Lights out.** The last thing they heard was Scripture and prayer.
+3. **Say one prayer together**: "Thank you God for today. Watch over [child's name] tonight. Amen." (More [bedtime prayers for kids](/blog/bedtime-prayers-for-kids) here.)
+4. **Lights out.** The last thing they heard was Scripture and prayer. You can also tuck in one of these [goodnight Bible verses](/blog/goodnight-bible-verses-for-kids).
 
 ## Faithful Kids Bedtime Mode
 
@@ -119,4 +121,4 @@ Keep it to 1-3 minutes. Your child is already tired. A 60-second video or a shor
 
 ### Should I read the Bible to my child every night?
 
-A Bible story at bedtime is a wonderful habit, but do not make it feel like an obligation. Even 2-3 nights per week builds a lasting connection between Scripture and the feeling of safety and love at bedtime.
+A Bible story at bedtime is a wonderful habit, but do not make it feel like an obligation. Even 2-3 nights per week builds a lasting connection between Scripture and the feeling of safety and love at bedtime. If you want to grow the habit beyond bedtime, here is [how to start family Bible time](/blog/how-to-start-family-bible-time).

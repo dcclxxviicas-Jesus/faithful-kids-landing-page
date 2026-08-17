@@ -1,6 +1,8 @@
 ---
 title: "Elijah and the Ravens for Kids: Bible Story Explained Simply"
 slug: "elijah-and-the-ravens-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 01
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who was the wicked king ruling Israel when Elijah appeared?
+### Who was the wicked king ruling Israel when Elijah appeared?
 
+**King Ahab.** 
 
+### What bold announcement did Elijah make to the king?
 
+**"There will be no rain until I say so".**
+
+### Where did God tell Elijah to hide after confronting the king?
+
+**By the Brook Cherith.**
+
+### What kind of birds did God send to bring Elijah food?
+
+**Ravens.**
+
+### How often did the ravens bring food to Elijah?
+
+**Twice a day — morning and evening.**
+
+### What did the ravens bring Elijah to eat?
+
+**Bread and meat.**
+
+### Why did the brook eventually dry up?
+
+**There was no rain in the land.**
+
+### What is the main lesson of this story?
+
+**God provides in unexpected ways — trust Him.**
 
 ## Discussion Questions for Families
 

@@ -1,6 +1,8 @@
 ---
 title: "Faith Hope and Love for Kids: Bible Story Explained Simply"
 slug: "faith-hope-and-love-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Letters to Churches"
 seriesSlug: "letters-to-churches"
 episode: 05
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. According to 1 Corinthians 13:13, which three things remain forever?
+### According to 1 Corinthians 13:13, which three things remain forever?
 
+**Faith, hope, and love.** "And now these three remain: faith, hope, and love." (1 Corinthians 13:13)
 
+### How does Hebrews 11:1 define faith?
 
+**The substance of things hoped for, the evidence of things not seen.** "Faith is the substance of things hoped for, the evidence of things not seen." (Hebrews 11:1)
+
+### How is biblical hope DIFFERENT from ordinary wishing?
+
+**Biblical hope is confident expectation based on God's promises.** Biblical hope isn't wishful thinking. It's confident expectation because it's based on the promises of a God who never lies and never fails.
+
+### Why does Paul say love is the GREATEST of the three?
+
+**Because faith and hope will one day be fulfilled, but love never ends.** Faith will become sight when we see Jesus face to face. Hope will be fulfilled when all God's promises come true. But love is eternal — it never ends.
+
+### How did Jesus describe faith, hope, and love working together in daily life?
+
+**Faith trusts God, hope looks forward, love puts it all into action.** Faith trusts God when you can't see the answer. Hope looks forward when the day is dark. Love puts faith and hope into action in the real world.
 
 ## Discussion Questions for Families
 

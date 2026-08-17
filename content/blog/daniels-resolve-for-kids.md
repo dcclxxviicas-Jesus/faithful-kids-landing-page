@@ -1,6 +1,8 @@
 ---
 title: "Daniels Resolve for Kids: Bible Story Explained Simply"
 slug: "daniels-resolve-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Exile and Faith"
 seriesSlug: "exile-and-faith"
 episode: 02
@@ -61,10 +63,25 @@ Daniel in the Lions' Den is about courage under pressure. Your child will inevit
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why did King Nebuchadnezzar select the best young men from the Jewish captives?
+### Why did King Nebuchadnezzar select the best young men from the Jewish captives?
 
+**To train them to serve in his royal court.** Nebuchadnezzar wanted to absorb the brightest young men from conquered nations and train them to serve in the Babylonian court.
 
+### Why did Daniel refuse to eat the king's food?
 
+**The food violated God's laws and had been offered to idols.** The royal food had been offered to Babylonian idols and violated God's dietary laws. Daniel chose to honor God over comfort.
+
+### What did Daniel ask to eat and drink instead?
+
+**Vegetables and water.** Daniel respectfully requested vegetables and water as an alternative to the king's rich food.
+
+### How long was the test period Daniel proposed?
+
+**10 days.** Daniel asked for a 10-day trial. After just ten days, Daniel and his friends looked healthier and stronger than everyone who ate the royal food.
+
+### What is the main lesson of this episode?
+
+**You can be respectful AND firm in your convictions — standing for what's right doesn't mean being rude.** Daniel proved that you can stand firm in your beliefs while still being polite, wise, and respectful. Real strength is being brave enough to be different and kind enough to do it with grace.
 
 ## Discussion Questions for Families
 

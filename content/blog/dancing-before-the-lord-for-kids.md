@@ -1,6 +1,8 @@
 ---
 title: "Dancing Before the Lord for Kids: Bible Story Explained Simply"
 slug: "dancing-before-the-lord-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 01
@@ -61,10 +63,33 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why did David want to bring the Ark of the Covenant to Jerusalem?
+### Why did David want to bring the Ark of the Covenant to Jerusalem?
 
+**He wanted God's presence at the center of his city.** 
 
+### What went wrong the first time David tried to move the Ark?
 
+**Uzzah touched the Ark and died because they were not carrying it God's way.**
+
+### Where did David leave the Ark for three months?
+
+**At the house of Obed-Edom.**
+
+### How was the Ark supposed to be carried according to God's instructions?
+
+**On poles carried by the Levites on their shoulders.**
+
+### How did David worship when the Ark finally arrived in Jerusalem?
+
+**He danced before the Lord with all his might.**
+
+### Who watched David dancing from the window and was disgusted?
+
+**His wife Michal.**
+
+### What is the main lesson of this story?
+
+**Worship God with everything you have and do not worry about what others think.**
 
 ## Discussion Questions for Families
 

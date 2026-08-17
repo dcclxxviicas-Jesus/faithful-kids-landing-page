@@ -1,6 +1,8 @@
 ---
 title: "The Burial for Kids: Bible Story Explained Simply"
 slug: "the-burial-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Road to the Cross"
 seriesSlug: "road-to-the-cross"
 episode: 10
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who asked Pilate for permission to take Jesus' body?
+### Who asked Pilate for permission to take Jesus' body?
 
+**Joseph of Arimathea.** Joseph of Arimathea. He was a secret follower of Jesus and a member of the Jewish council who finally stepped out of hiding.
 
+### What was special about Joseph of Arimathea's role in the council?
 
+**He had never agreed with the council's plan.** Though he had been a secret follower of Jesus, watching the crucifixion gave him the courage to finally act publicly.
+
+### Who helped Joseph prepare Jesus' body for burial?
+
+**Nicodemus, the same man who had visited Jesus secretly at night in John chapter 3.** He brought seventy-five pounds of burial spices.
+
+### Why did the Pharisees ask Pilate to post guards at the tomb?
+
+**They were afraid the disciples would steal the body and fake a resurrection.** Ironically, all their security measures just made the real resurrection even more undeniable.
+
+### What did Jesus mean when He said "Sunday is coming"?
+
+**The resurrection was coming.** Friday was the darkest day, Saturday was silent and hopeless, but Sunday would change everything.
+
+### What is the main lesson of this episode?
+
+**Sometimes you're living in Saturday.** It feels like the end. The pain is real. But Sunday is coming — and when it does, it changes everything. The story is never over with God.
 
 ## Discussion Questions for Families
 

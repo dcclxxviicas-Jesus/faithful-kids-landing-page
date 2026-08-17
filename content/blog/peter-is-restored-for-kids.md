@@ -1,6 +1,8 @@
 ---
 title: "Peter is Restored for Kids: Bible Story Explained Simply"
 slug: "peter-is-restored-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 06
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How many times did Peter deny knowing Jesus?
+### How many times did Peter deny knowing Jesus?
 
+**Three times.** Peter denied Jesus three times on the night Jesus was arrested, just as Jesus had predicted.
 
+### What did Jesus ask Peter three times after breakfast?
 
+**"Do you love me?".** Jesus asked "Do you love me?" three times — once for each of Peter's three denials.
+
+### What did Jesus tell Peter to do each time Peter said he loved Him?
+
+**Feed my lambs / Take care of my sheep / Feed my sheep.** Each time Peter declared his love, Jesus gave him a responsibility to care for and feed His people.
+
+### Why was Peter hurt when Jesus asked the question a third time?
+
+**It reminded him of his three denials and he felt the weight of it.** The third question cut deep because Peter knew it mirrored his three failures, and it grieved him to revisit that pain.
+
+### What is the big lesson from Peter's restoration?
+
+**Jesus does not just forgive — He restores you to purpose.** Jesus did not just forgive Peter's failure — He gave him a new mission. Our worst moments do not disqualify us from God's plan.
 
 ## Discussion Questions for Families
 

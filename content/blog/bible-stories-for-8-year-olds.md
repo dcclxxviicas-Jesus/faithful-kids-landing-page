@@ -4,6 +4,8 @@ slug: "bible-stories-for-8-year-olds"
 type: "listicle"
 metaDescription: "The best Bible stories for 8-year-olds. Action-packed adventures, deeper lessons, and real moral challenges. Includes David, Daniel, Paul, and more."
 keywords: ["bible stories for 8 year olds", "bible for 8 year old", "bible stories for second graders", "bible stories for elementary kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 15 Bible Stories for 8-Year-Olds (Adventure and Life Lessons)
@@ -13,7 +15,7 @@ Eight-year-olds are ready for real adventure. They can handle conflict, moral co
 ---
 
 ### 1. David and Goliath (1 Samuel 17)
-A boy faces a giant with nothing but faith and a sling.
+A boy faces a giant with nothing but faith and a sling. Get the full retelling in our [David and Goliath story for kids](/blog/david-and-goliath-for-kids).
 
 ### 2. Daniel in the Lions' Den (Daniel 6)
 Daniel is thrown to lions for praying, but God shuts their mouths.
@@ -34,7 +36,7 @@ The deepest friendship in the Bible between a prince and a shepherd.
 450 false prophets vs one man who trusts God. Fire falls from the sky.
 
 ### 8. Joseph from Prison to Palace (Genesis 39-41)
-Betrayed by brothers, sold as a slave, imprisoned. Then God makes him second in command of Egypt.
+Betrayed by brothers, sold as a slave, imprisoned. Then God makes him [second in command of Egypt](/blog/joseph-from-prison-to-palace-for-kids).
 
 ### 9. The Walls of Jericho (Joshua 6)
 March around the walls. Blow the trumpets. Shout. Watch the walls fall.
@@ -64,7 +66,7 @@ Two religious leaders walk past a hurt man. A foreigner stops to help. Who is th
 ## How to Use These Stories with 8-year-olds
 
 1. **Watch the video** (60 seconds on Faithful Kids)
-2. **Take the quiz** to check comprehension
+2. **Take the quiz** to check comprehension (or quiz them yourself with these [Bible trivia questions for kids](/blog/bible-trivia-for-kids))
 3. **Discuss:** Ask open-ended questions like "Was that character right or wrong? Why?"
 4. **Challenge:** Give them a real-world scenario and ask what the Bible character would do
 
@@ -78,7 +80,7 @@ Every story on this list is available on [Faithful Kids](https://faithfulkids.ap
 
 ### What Bible stories are best for 8-year-olds?
 
-At age 8, kids are ready for action and moral complexity. David and Goliath, Daniel in the Lions' Den, Esther, and Paul's adventures are all excellent choices.
+At age 8, kids are ready for action and moral complexity. David and Goliath, Daniel in the Lions' Den, Esther, and Paul's adventures are all excellent choices. Younger siblings may do better with our [Bible stories for 5-year-olds](/blog/bible-stories-for-5-year-olds), while older kids can move up to [stories for 10-year-olds](/blog/bible-stories-for-10-year-olds).
 
 ### Are these stories too intense for 8-year-olds?
 

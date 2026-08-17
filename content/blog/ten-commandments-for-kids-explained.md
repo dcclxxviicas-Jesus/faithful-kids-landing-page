@@ -4,11 +4,13 @@ slug: "ten-commandments-for-kids-explained"
 type: "listicle"
 metaDescription: "The 10 Commandments explained for kids with modern examples. Each commandment in kid-friendly language from Exodus 20. Perfect for family Bible study."
 keywords: ["10 commandments for kids", "ten commandments explained for kids", "exodus 20 for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # The 10 Commandments for Kids Explained Simply
 
-The Ten Commandments are the most famous rules in history. God gave them to Moses on Mount Sinai after rescuing the Israelites from slavery in Egypt. They are found in Exodus 20:1-17 and repeated in Deuteronomy 5:6-21.
+The Ten Commandments are the most famous rules in history. God gave them to [Moses](/blog/who-was-moses-for-kids) on Mount Sinai after rescuing the Israelites from slavery in Egypt. They are found in Exodus 20:1-17 (see our overview of the [Book of Exodus for kids](/blog/book-of-exodus-for-kids)) and repeated in Deuteronomy 5:6-21.
 
 But here is something important to understand: these commandments are not a list of rules designed to ruin your fun. They are more like instructions from a loving parent who knows what is best. God had just set His people free, and now He was teaching them how to live as free people. The commandments are a gift, not a burden.
 
@@ -28,7 +30,7 @@ Here is each commandment explained in kid-friendly language, with a modern examp
 
 **"You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below."** (Exodus 20:4)
 
-**In kid language:** An idol is anything you treat like a god. In ancient times, people made statues out of gold and wood and prayed to them. Today, idols look different. They might be money, fame, a celebrity, a sport, or even your own appearance. Anything that takes God's place in your heart is an idol.
+**In kid language:** An idol is anything you treat like a god. In ancient times, people made statues out of gold and wood and prayed to them -- like the Israelites did in [the golden calf story](/blog/the-golden-calf-for-kids). Today, idols look different. They might be money, fame, a celebrity, a sport, or even your own appearance. Anything that takes God's place in your heart is an idol.
 
 **Modern example:** If you spend hours every day scrolling through social media and zero minutes talking to God, your phone might have become an idol. It does not mean you cannot use it. It means it should not replace God.
 
@@ -110,7 +112,7 @@ When your kids understand the Ten Commandments, they have a moral foundation tha
 
 **One per week.** Spend one week on each commandment. Talk about it at dinner, share examples from your day, and look for it in the shows or books your family enjoys. In ten weeks, you will have covered them all.
 
-**Pair with stories.** Each commandment connects to a Bible story. Honor your parents? Think of Jesus as a boy in the temple (Luke 2:51). Do not steal? Think of Zacchaeus returning what he took (Luke 19:8). Stories make the commandments come alive.
+**Pair with stories.** Each commandment connects to a Bible story. Honor your parents? Think of Jesus as a boy in the temple (Luke 2:51). Do not steal? Think of Zacchaeus returning what he took (Luke 19:8). Stories make the commandments come alive. Start with the story of how [God gave the Ten Commandments](/blog/the-ten-commandments-for-kids) at Mount Sinai.
 
 ## Watch on Faithful Kids
 
@@ -130,4 +132,4 @@ The content is the same (Exodus 20:1-17), but different traditions number them s
 Jesus did not abolish the commandments. He deepened them. He taught that anger is connected to murder, that lust is connected to adultery, and that all ten commandments flow from two great commands: love God and love people (Matthew 22:37-40). Understanding the Ten Commandments helps kids understand what Jesus taught.
 
 ### What if my child breaks one of the commandments?
-That is actually the whole point of the Bible's story. Everyone breaks the commandments, which is why we need grace. Use it as a teaching moment about repentance, forgiveness, and God's unfailing love. The commandments show us the standard; Jesus shows us the Savior who meets us when we fall short.
+That is actually the whole point of the Bible's story. Everyone breaks the commandments, which is why we need grace. Use it as a teaching moment about repentance, forgiveness, and God's unfailing love (our guide on [how to explain sin to a child](/blog/how-to-explain-sin-to-a-child) can help). The commandments show us the standard; Jesus shows us the Savior who meets us when we fall short.

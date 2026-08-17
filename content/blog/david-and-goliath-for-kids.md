@@ -1,6 +1,8 @@
 ---
 title: "David and Goliath for Kids: Bible Story Explained Simply"
 slug: "david-and-goliath-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 05
@@ -61,10 +63,25 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How long did Goliath challenge the army of Israel before David arrived?
+### How long did Goliath challenge the army of Israel before David arrived?
 
+**40 days.** 
 
+### Why did David originally come to the battlefield?
 
+**His father sent him to deliver food to his brothers.**
+
+### What had David already fought and killed before facing Goliath?
+
+**A lion and a bear.**
+
+### Why did David take off King Saul's armor?
+
+**It was too heavy and he hadn't tested it.**
+
+### What did David shout as he ran toward Goliath?
+
+**"You come with sword and spear, but I come in the name of the Lord!".**
 
 ## Discussion Questions for Families
 

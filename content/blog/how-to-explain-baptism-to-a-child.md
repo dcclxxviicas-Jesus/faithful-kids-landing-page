@@ -4,6 +4,8 @@ slug: "how-to-explain-baptism-to-a-child"
 type: "listicle"
 metaDescription: "A parent's guide to explaining baptism to kids in simple language. What it means, why Jesus was baptized, and when children can be baptized."
 keywords: ["explain baptism to a child", "baptism for kids", "what is baptism for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 Your child just watched someone get dunked underwater at church. Or maybe they noticed a baby being sprinkled at the front. Either way, the question comes: "What just happened? Why did they do that?"
@@ -26,9 +28,9 @@ For an older child: "Baptism is an outward sign of an inward change. When someon
 
 The most powerful reason to share with your child is that **Jesus Himself was baptized.** If it was important enough for Jesus to do, it is important for us too.
 
-**Matthew 3:13-17** tells the story: Jesus went to the Jordan River and asked John the Baptist to baptize Him. When Jesus came up out of the water, the heavens opened, the Holy Spirit came down like a dove, and God the Father spoke from heaven saying, "This is my beloved Son, with whom I am well pleased."
+**Matthew 3:13-17** tells the story: Jesus went to the Jordan River and asked [John the Baptist](/blog/john-the-baptist-for-kids) to baptize Him. When Jesus came up out of the water, the heavens opened, the Holy Spirit came down like a dove, and God the Father spoke from heaven saying, "This is my beloved Son, with whom I am well pleased."
 
-Tell your child: "When Jesus was baptized, something amazing happened — God the Father spoke from heaven and the Holy Spirit came down like a dove. All three Persons of the Trinity were there. Jesus did not need to be baptized because He never sinned, but He did it to show us the right thing to do and to begin His work on earth."
+Tell your child: "When Jesus was baptized, something amazing happened — God the Father spoke from heaven and the Holy Spirit came down like a dove. All three Persons of the Trinity were there. Jesus did not need to be baptized because He never sinned, but He did it to show us the right thing to do and to begin His work on earth." (If that raises Trinity questions, here is [how to explain the Trinity to a child](/blog/how-to-explain-the-trinity-to-a-child).)
 
 ### 2. Because Jesus Told Us To
 
@@ -73,7 +75,7 @@ Some traditions baptize babies as a sign of God's grace and the family's commitm
 
 It helps kids to know what baptism does not do, so they do not get confused:
 
-- **Baptism does not save you.** Believing in Jesus saves you. Baptism is a celebration of that belief, not the thing that earns you a spot in heaven.
+- **Baptism does not save you.** Believing in Jesus saves you. Baptism is a celebration of that belief, not the thing that earns you a spot in heaven. (Our guide on [explaining salvation to a child](/blog/how-to-explain-salvation-to-a-child) can help with that bigger conversation.)
 - **Baptism is not magic.** The water does not have special powers. It is regular water used as a symbol.
 - **Baptism does not make you perfect.** You will still make mistakes after being baptized. But it marks the moment you told the world you are following Jesus.
 - **Baptism is not just getting wet.** It is a meaningful, sacred act that represents something deep and real happening in your heart.
@@ -101,7 +103,7 @@ In these traditions, a child can be baptized when they are old enough to underst
 
 - **Watch baptisms together at church.** Let your child see the joy and celebration. Talk about what is happening.
 - **Tell your own baptism story.** If you were baptized, share the story with your child. Show them photos if you have them. Tell them what it meant to you.
-- **Read the story of Jesus's baptism** from a children's Bible. Let them see the dove, the river, and hear God's voice from heaven.
+- **Read the story of Jesus's baptism** from a children's Bible, or walk through our kid-friendly retelling of [the baptism of Jesus](/blog/the-baptism-of-jesus-for-kids). Let them see the dove, the river, and hear God's voice from heaven.
 - **Celebrate others.** When someone at your church gets baptized, celebrate with them. Let your child see that the whole church family rejoices.
 - **Do not pressure.** Let the Holy Spirit work in your child's heart in His timing. Your job is to teach and model faith. God's job is to draw your child to Himself.
 
@@ -118,6 +120,8 @@ If your child is curious about baptism and wants to talk to God about it, here i
 **Ages 6-8:** "Baptism is a way of telling everyone, 'I love Jesus and I am following Him.' The water is a symbol of being washed clean and starting a new life with God. Jesus was baptized too."
 
 **Ages 9-12:** "Baptism is an outward symbol of an inward change. When you go under the water, it represents your old life being buried with Jesus. When you come up, it represents the new life God gives you. It is one of the most important steps you can take as a Christian."
+
+Once baptism clicks, kids often ask about the bread and cup next -- here is [how to explain communion to a child](/blog/how-to-explain-communion-to-a-child) when that question comes.
 
 ## Watch on Faithful Kids
 

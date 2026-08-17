@@ -1,6 +1,8 @@
 ---
 title: "Water Into Wine for Kids: Bible Story Explained Simply"
 slug: "water-into-wine-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 03
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. In what town did this wedding take place?
+### In what town did this wedding take place?
 
+**Cana in Galilee.** John tells us this was where Jesus performed the first of His miraculous signs (John 2:1, 11).
 
+### Who told Jesus that the wine had run out?
 
+**His mother Mary.**
+
+### What did Mary tell the servants?
+
+**"Do whatever He tells you".**
+
+### How many stone water jars did Jesus have the servants fill?
+
+**Six stone jars.** Each held twenty to thirty gallons -- and every drop of that water became the finest wine of the feast (John 2:6-10).
+
+### What did the master of the banquet say about the wine?
+
+**"You've saved the BEST wine for last".**
 
 ## Discussion Questions for Families
 

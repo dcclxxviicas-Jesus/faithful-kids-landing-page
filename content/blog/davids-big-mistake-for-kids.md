@@ -1,6 +1,8 @@
 ---
 title: "Davids Big Mistake for Kids: Bible Story Explained Simply"
 slug: "davids-big-mistake-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 04
@@ -61,10 +63,33 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What was David's first mistake in this story?
+### What was David's first mistake in this story?
 
+**He stayed home from battle when he should have been leading his army.** 
 
+### Instead of confessing his sin, what did David try to do?
 
+**He tried to cover it up, and it only got worse.**
+
+### Why was Uriah such an honorable man?
+
+**He refused to enjoy comfort at home while his fellow soldiers were fighting.**
+
+### How did God confront David about his sin?
+
+**God sent Nathan the prophet who told a story about a rich man stealing a poor man's lamb.**
+
+### How did David react when Nathan said "You are that man"?
+
+**He was crushed and said "I have sinned against the Lord".**
+
+### What psalm did David write as a prayer of repentance after this event?
+
+**Psalm 51.**
+
+### What is the main lesson of this story?
+
+**Even heroes fall — what matters is owning your mistakes and truly repenting.**
 
 ## Discussion Questions for Families
 

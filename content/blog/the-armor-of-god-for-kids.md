@@ -1,6 +1,8 @@
 ---
 title: "The Armor of God for Kids: Bible Story Explained Simply"
 slug: "the-armor-of-god-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Letters to Churches"
 seriesSlug: "letters-to-churches"
 episode: 03
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What does the Belt of Truth do for a believer?
+### What does the Belt of Truth do for a believer?
 
+**Holds everything together — knowing what's true keeps lies from knocking you down.** The belt of truth holds your life together. When you know what is true, lies lose their power.
 
+### What does the Breastplate of Righteousness protect?
 
+**Your heart.** The breastplate covers the heart. It reminds you that you are made right with God through Jesus, not through your own perfection.
+
+### What are the "flaming arrows" that the Shield of Faith stops?
+
+**Doubts, fears, and lies from the enemy.** The flaming arrows represent the doubts, fears, and lies the enemy throws at you. Faith puts them out.
+
+### Which piece of armor protects your mind?
+
+**The Helmet of Salvation.** The Helmet of Salvation protects your mind, reminding you that you are saved, chosen, and loved.
+
+### What is the ONLY offensive weapon in the armor of God?
+
+**The Sword of the Spirit — the Word of God.** The Sword of the Spirit, which is God's Word, is the only offensive weapon. Everything else is for defense.
 
 ## Discussion Questions for Families
 

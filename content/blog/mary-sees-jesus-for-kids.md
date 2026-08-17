@@ -1,6 +1,8 @@
 ---
 title: "Mary Sees Jesus for Kids: Bible Story Explained Simply"
 slug: "mary-sees-jesus-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 02
@@ -61,10 +63,25 @@ The birth of Jesus is the story your child will hear every Christmas for the res
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why was Mary Magdalene crying outside the tomb?
+### Why was Mary Magdalene crying outside the tomb?
 
+**She thought someone had stolen Jesus' body.** Mary did not yet realize Jesus had risen. She thought His body had been taken, and she was heartbroken.
 
+### Who did Mary think Jesus was when she first saw Him?
 
+**The gardener.** Her eyes were blurred with tears and her heart was heavy with grief, so she mistook Jesus for the gardener.
+
+### What did Jesus say that made Mary recognize Him?
+
+**"Mary" — He spoke her name.** Jesus said just one word — her name — and she instantly knew His voice.
+
+### What did Mary call Jesus when she recognized Him?
+
+**Rabboni, which means Teacher.** She cried out "Rabboni!" which is a deeply personal and respectful word meaning "Teacher" or "My Teacher."
+
+### Why is it significant that Jesus appeared to Mary first?
+
+**In that culture, a woman's testimony was not accepted in court — yet Jesus chose her voice to announce His resurrection first.** The world said her voice did not count, but Jesus chose her to be the very first person to see Him risen and to announce the greatest news in history.
 
 ## Discussion Questions for Families
 

@@ -4,6 +4,8 @@ slug: "book-of-psalms-for-kids"
 type: "listicle"
 metaDescription: "10 Psalms every kid should know, explained in simple language. Psalm 23, 100, 139, and more with kid-friendly meanings parents can use for family devotions."
 keywords: ["psalms for kids", "book of psalms for kids", "kid friendly psalms"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # The Book of Psalms for Kids: 10 Psalms Every Child Should Know
@@ -20,7 +22,7 @@ Here are 10 Psalms every child should know, explained in simple language your fa
 
 **What it means for kids:** Imagine having the best, most caring shepherd in the world looking after you. He makes sure you have food, rest, and peace. Even when you walk through a scary, dark valley, you do not need to be afraid because He is right there beside you. God takes care of His people the way a good shepherd takes care of his sheep.
 
-**When to share it:** When your child is anxious about something new, like starting a new school, sleeping at a friend's house, or facing a doctor's visit. Psalm 23 is the ultimate comfort Psalm.
+**When to share it:** When your child is anxious about something new, like starting a new school, sleeping at a friend's house, or facing a doctor's visit. Psalm 23 is the ultimate comfort Psalm. For more comfort scriptures, see these [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids).
 
 ## 2. Psalm 100 — "Shout for Joy"
 
@@ -28,7 +30,7 @@ Here are 10 Psalms every child should know, explained in simple language your fa
 
 **What it means for kids:** This Psalm is like a big, loud invitation to celebrate God. It says to shout, sing, and be happy because God made us, we belong to Him, and His love lasts forever. It is only five verses long, making it perfect for kids to memorize.
 
-**When to share it:** On good days when your family wants to express gratitude. It is also a wonderful Psalm to read on Thanksgiving or at the start of a road trip. It sets a tone of joy and thankfulness.
+**When to share it:** On good days when your family wants to express gratitude. It is also a wonderful Psalm to read on Thanksgiving or at the start of a road trip. It sets a tone of joy and thankfulness, and pairs well with these [Bible verses about thankfulness](/blog/bible-verses-about-thankfulness-for-kids).
 
 ## 3. Psalm 139 — "You Know Me Completely"
 
@@ -60,7 +62,7 @@ Here are 10 Psalms every child should know, explained in simple language your fa
 
 **What it means for kids:** This might be the most important eight words in the Bible for a child. It does not say "I am never afraid." It says "when I am afraid." Fear is normal. Everyone feels it, even King David who wrote this Psalm. The difference is what you do with your fear. Instead of letting it control you, you give it to God.
 
-**When to share it:** At bedtime when the dark feels scary. Before a test. When a child is worried about something they cannot control. This verse is short enough for even a four-year-old to memorize.
+**When to share it:** At bedtime when the dark feels scary. Before a test. When a child is worried about something they cannot control. This verse is short enough for even a four-year-old to memorize. More [Bible verses about fear](/blog/bible-verses-about-fear-for-kids) can help with those moments.
 
 ## 7. Psalm 150 — "Praise Him with Everything"
 
@@ -96,13 +98,13 @@ Here are 10 Psalms every child should know, explained in simple language your fa
 
 ## How to Use the Psalms with Your Kids
 
-**Memorize one at a time.** Pick one Psalm or verse per month. Write it on a card and put it on the fridge. Say it together at meals. By the end of a year, your child will have twelve powerful verses stored in their heart.
+**Memorize one at a time.** Pick one Psalm or verse per month. Write it on a card and put it on the fridge. Say it together at meals. By the end of a year, your child will have twelve powerful verses stored in their heart. Our list of [easy Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) is a good companion here.
 
 **Pray the Psalms.** The Psalms are prayers set to poetry. When your child does not know what to pray, read a Psalm out loud together and let it become your family's prayer. Psalm 23 at bedtime. Psalm 100 at breakfast. Psalm 46 during hard times.
 
 **Match Psalms to emotions.** Help your child build an emotional vocabulary by connecting feelings to Psalms. Happy? Read Psalm 100. Scared? Read Psalm 56. Feeling small? Read Psalm 139. This teaches kids that every emotion has a place in their relationship with God.
 
-**Sing them.** Many worship songs are based on Psalms. Find musical versions that your kids enjoy and play them in the car. Music embeds Scripture in memory faster than almost anything else.
+**Sing them.** Many worship songs are based on Psalms. Find musical versions that your kids enjoy and play them in the car. Music embeds Scripture in memory faster than almost anything else. Once your kids know a few Psalms well, try a round of [Psalms Bible trivia](/blog/psalms-bible-trivia) together.
 
 ## Watch on Faithful Kids
 

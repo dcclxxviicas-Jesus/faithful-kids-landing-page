@@ -4,6 +4,8 @@ slug: "goodnight-bible-verses-for-kids"
 type: "listicle"
 metaDescription: "End the day with peace using 10 goodnight Bible verses for kids. Bedtime scriptures about God's protection, rest, and love, plus a simple bedtime prayer."
 keywords: ["goodnight bible verses for kids", "bedtime scripture for children", "bedtime bible verses kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 10 Goodnight Bible Verses for Kids (Bedtime Scripture)
@@ -20,7 +22,7 @@ Here are ten goodnight Bible verses that are perfect for bedtime, along with way
 
 This is the ultimate bedtime verse. David wrote it, and you can almost picture him lying down on his mat after a long day, letting out a deep breath, and trusting God with the night ahead. "In peace I will lie down and sleep." What a simple, powerful declaration.
 
-For kids who struggle with bedtime anxiety, this verse is a gift. It teaches them that they can sleep in peace because God is the one keeping them safe. Not the nightlight. Not the locked doors. God alone.
+For kids who struggle with bedtime anxiety, this verse is a gift. If worry is a nightly battle in your home, we've also gathered [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids) that speak directly to fearful hearts. It teaches them that they can sleep in peace because God is the one keeping them safe. Not the nightlight. Not the locked doors. God alone.
 
 **Bedtime idea:** Say this verse together every night for a week until your child has it memorized. Then whenever they feel nervous at bedtime, they can whisper it to themselves like a prayer.
 
@@ -82,7 +84,7 @@ This verse teaches kids that bedtime is a wonderful time to think about God. Ins
 
 **"You will keep in perfect peace those whose minds are steadfast, because they trust in you."**
 
-Perfect peace. Not sort-of peace or almost peace -- perfect peace. And how do we get it? By keeping our minds focused on God and trusting Him. When a child's mind is racing at bedtime with worries and what-ifs, this verse points them back to the source of peace.
+Perfect peace. Not sort-of peace or almost peace -- perfect peace. And how do we get it? By keeping our minds focused on God and trusting Him. When a child's mind is racing at bedtime with worries and what-ifs, this verse points them back to the source of peace. For more scriptures on this theme, see our collection of [Bible verses about peace for kids](/blog/bible-verses-about-peace-for-kids).
 
 **How to talk about it with kids:** Explain "steadfast" in kid-friendly terms: "It means keeping your mind on God instead of letting it wander to scary thoughts. When you think about how much God loves you and how He's taking care of you, your mind settles down and you feel peace."
 
@@ -104,7 +106,7 @@ This verse reveals something stunning: God sings over His children. While your c
 
 ## A Simple Bedtime Prayer
 
-Here's a prayer you can pray together with your child each night. Feel free to adapt it to your family's style:
+Here's a prayer you can pray together with your child each night. If you'd like more options to rotate through, our roundup of [bedtime prayers for kids](/blog/bedtime-prayers-for-kids) has several. Feel free to adapt it to your family's style:
 
 *"Dear God, thank You for today. Thank You for the good things and even the hard things, because You were with us through all of it. As we go to sleep tonight, please watch over us. Keep us safe through the night. Help us rest peacefully because we know You're in control. Thank You for loving us so much. We love You too. In Jesus' name, amen."*
 
@@ -112,11 +114,13 @@ Here's a prayer you can pray together with your child each night. Feel free to a
 
 Here are some simple ways to make Bible verses a regular part of bedtime:
 
-1. **Pick one verse per week.** Read it together every night until your child has it memorized, then move to the next one.
+1. **Pick one verse per week.** Read it together every night until your child has it memorized, then move to the next one. Our list of [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) is a great place to find the next batch.
 2. **Create a bedtime verse jar.** Write each verse on a slip of paper. Let your child draw one each night to read together.
 3. **Use a Bible verse pillowcase.** Write a verse on fabric with a fabric marker, or print one and tape it near their bed.
 4. **Let your child read it.** Once they can read, let them read the verse aloud to you. It builds confidence and ownership.
 5. **Connect it to their day.** After reading the verse, ask one question about their day. Then link the verse to something they experienced.
+
+If your child loves a longer wind-down, pairing the verse with one of these calming [Bible stories for bedtime](/blog/bible-stories-for-bedtime) works beautifully.
 
 ## Watch on Faithful Kids
 

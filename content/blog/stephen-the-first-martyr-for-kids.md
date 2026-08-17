@@ -1,6 +1,8 @@
 ---
 title: "Stephen the First Martyr for Kids: Bible Story Explained Simply"
 slug: "stephen-the-first-martyr-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Early Church"
 seriesSlug: "early-church"
 episode: 04
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What was Stephen's original role in the early church?
+### What was Stephen's original role in the early church?
 
+**He was chosen to help serve — making sure widows received food.**
 
+### Why did the religious leaders bring false witnesses against Stephen?
 
+**Because they couldn't defeat his wisdom in argument.**
+
+### What did Stephen's face look like when he stood before the council?
+
+**Like the face of an angel.**
+
+### What did Stephen see when he looked up toward heaven?
+
+**Heaven open and the Son of Man standing at the right hand of God.**
+
+### What were Stephen's last words?
+
+**"Lord, do not hold this sin against them".**
+
+### Who was the young man watching and approving of Stephen's death?
+
+**Saul.** The witnesses laid their coats at his feet (Acts 7:58) -- the same Saul who would later meet Jesus and become the apostle Paul.
 
 ## Discussion Questions for Families
 

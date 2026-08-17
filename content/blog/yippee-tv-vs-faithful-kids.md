@@ -97,7 +97,7 @@ Faithful Kids is the right choice when:
 - **Your kids are 7-15.** This age group is ready for real learning. They can handle quizzes, process reflection questions, and build genuine Biblical knowledge.
 - **You want measurable learning.** Faithful Kids tracks exactly which stories your child has learned, how they scored on quizzes, and what level they've reached. You can see progress, not just assume it.
 - **Your child isn't getting Bible education elsewhere.** If your family doesn't attend church regularly, or your church doesn't have a kids program, Faithful Kids fills that gap with a complete curriculum.
-- **You want to replace recreational screen time with educational screen time.** Instead of fighting over the iPad, redirect that energy. "You can have 20 minutes of screen time -- on Faithful Kids."
+- **You want to replace recreational screen time with educational screen time.** Instead of fighting over the iPad, redirect that energy. "You can have 20 minutes of screen time -- on Faithful Kids." (Our guide to [healthy screen time for Christian kids](/blog/healthy-screen-time-for-christian-kids) has more on this approach.)
 - **Your child is competitive or goal-oriented.** The Duolingo-style gamification (XP, levels, streaks, achievements) motivates kids who thrive on progress and accomplishment.
 - **You have multiple kids at different levels.** Each child gets their own profile with independent progress. Your 8-year-old can be learning about Moses while your 12-year-old studies the Apostle Paul.
 
@@ -118,9 +118,9 @@ As Deuteronomy 6:6-7 instructs: *"These commandments that I give you today are t
 A few other platforms parents often compare:
 
 - **RightNow Media Kids** -- Large library, but mostly church-produced content of varying quality. Free through many churches.
-- **Bible App for Kids (YouVersion)** -- Excellent for ages 2-6, but only 41 stories with no quizzes or progress tracking. Completely free.
-- **Superbook** -- High-quality 3D animated series. Free episodes available, premium content requires purchase.
-- **Minno (formerly JellyToad)** -- Christian streaming similar to Yippee, $6.99/month. Features VeggieTales, Owlegories, and original shows.
+- **Bible App for Kids (YouVersion)** -- Excellent for ages 2-6, but only 41 stories with no quizzes or progress tracking. Completely free. (See our full [Bible App for Kids vs Faithful Kids](/blog/bible-app-for-kids-vs-faithful-kids) comparison.)
+- **Superbook** -- High-quality 3D animated series. Free episodes available, premium content requires purchase. (We compare it in depth in [Superbook vs Faithful Kids](/blog/superbook-vs-faithful-kids).)
+- **Minno (formerly JellyToad)** -- Christian streaming similar to Yippee, $6.99/month. Features VeggieTales, Owlegories, and original shows. (Full breakdown in [Minno vs Faithful Kids](/blog/minno-vs-faithful-kids).)
 
 None of these combine video lessons with interactive quizzes and reflections the way Faithful Kids does. They're all valuable, but they all fall on the "entertainment" side of the spectrum.
 
@@ -134,7 +134,7 @@ If the answer is entertainment, go with Yippee. It's affordable, well-made, and 
 
 If the answer is education, go with Faithful Kids. The quiz-and-reflection model produces actual Biblical literacy, and the gamification keeps kids coming back.
 
-If you can swing both, your child gets the best of both worlds: deep learning *and* fun viewing. *"Train up a child in the way he should go; even when he is old he will not depart from it"* (Proverbs 22:6, ESV).
+If you can swing both, your child gets the best of both worlds: deep learning *and* fun viewing. *"Train up a child in the way he should go; even when he is old he will not depart from it"* (Proverbs 22:6, ESV). Still weighing options? Our roundups of the [best Bible apps by age](/blog/best-bible-apps-by-age) and [Christian alternatives to YouTube for kids](/blog/christian-alternatives-to-youtube-for-kids) cover the wider landscape.
 
 ## Watch on Faithful Kids
 

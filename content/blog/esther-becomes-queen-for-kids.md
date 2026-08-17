@@ -1,6 +1,8 @@
 ---
 title: "Esther Becomes Queen for Kids: Bible Story Explained Simply"
 slug: "esther-becomes-queen-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "The Return Home"
 seriesSlug: "the-return-home"
 episode: 07
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why was Queen Vashti removed as queen?
+### Why was Queen Vashti removed as queen?
 
+**She refused to come when the king summoned her.** Queen Vashti refused to appear before King Xerxes at his banquet, and the king removed her from her position as queen.
 
+### How long did King Xerxes' original banquet celebration last?
 
+**180 days.** The king's display of wealth and power lasted an astonishing 180 days — that's six months of showing off his kingdom's glory.
+
+### Who raised Esther after her parents died?
+
+**Her cousin Mordecai.** Mordecai, Esther's older cousin, raised her as his own daughter after both her parents died. He loved her and guided her.
+
+### How long were the young women prepared with beauty treatments before meeting the king?
+
+**12 months.** Each candidate received a full twelve months of beauty treatments — six months with oil of myrrh and six months with perfumes and cosmetics — before their turn to stand before the king.
+
+### What secret was Esther hiding after she became queen?
+
+**That she was Jewish.** Mordecai told Esther not to reveal that she was Jewish, so she kept her identity hidden. She was sitting on the throne of the most powerful empire on earth, and nobody knew who she really was.
 
 ## Discussion Questions for Families
 

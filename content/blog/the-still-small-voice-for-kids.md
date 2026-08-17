@@ -1,6 +1,8 @@
 ---
 title: "The Still Small Voice for Kids: Bible Story Explained Simply"
 slug: "the-still-small-voice-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Elijah and Elisha"
 seriesSlug: "elijah-and-elisha"
 episode: 04
@@ -61,10 +63,37 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who threatened to kill Elijah after the Mount Carmel showdown?
+### Who threatened to kill Elijah after the Mount Carmel showdown?
 
+**Queen Jezebel.** 
 
+### What did Elijah do when he received the threat?
 
+**He ran away into the wilderness.**
+
+### What did Elijah say to God under the broom tree?
+
+**"I've had enough, Lord — take my life".**
+
+### How did God FIRST respond to Elijah's despair?
+
+**He sent an angel with food and let him rest.**
+
+### How many days did Elijah travel to reach Mount Horeb?
+
+**40 days.**
+
+### Which of these powerful events did God appear in on the mountain?
+
+**None of the above — God was in the gentle whisper.**
+
+### What did Elijah do when he heard the gentle whisper?
+
+**He wrapped his face in his cloak and stepped out.**
+
+### What is the main lesson of this story?
+
+**God meets you in your lowest moments and sometimes speaks in the quiet.**
 
 ## Discussion Questions for Families
 

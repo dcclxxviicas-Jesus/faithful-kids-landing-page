@@ -1,6 +1,8 @@
 ---
 title: "Faith Without Works for Kids: Bible Story Explained Simply"
 slug: "faith-without-works-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Ending and Beginning"
 seriesSlug: "ending-and-beginning"
 episode: 02
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. In James's example, what does the person say to the hungry, cold brother or sister?
+### In James's example, what does the person say to the hungry, cold brother or sister?
 
+**"Go in peace! Stay warm and well fed!" — but does nothing.** James used this example to show how empty words are without action. Saying kind things while doing nothing is meaningless.
 
+### According to James, what is faith without works?
 
+**Dead.** James didn't sugarcoat it. He said faith without works is dead — not struggling, not growing — dead. Like a body without a spirit.
+
+### Does James teach that good works EARN salvation?
+
+**No — salvation is a gift, but real faith naturally produces action.** Salvation is always a gift from God. But genuine faith changes you from the inside out, and that change shows in how you live.
+
+### What did Abraham do that showed his faith was real?
+
+**He was willing to offer his son Isaac when God asked.** Abraham's willingness to obey God — even in the hardest moment imaginable — proved that his faith wasn't just words. It was action.
+
+### How did Rahab demonstrate her faith?
+
+**She risked her life by hiding the Israelite spies.** Rahab didn't just believe — she acted on that belief. She risked everything to protect God's people, and her faith saved her life.
+
+### What is the main lesson of James chapter 2?
+
+**If you believe it, you'll live it — real faith moves your feet.** Real faith isn't just something in your head. It shows up in your life — in how you treat people, how you serve, and how you love.
 
 ## Discussion Questions for Families
 

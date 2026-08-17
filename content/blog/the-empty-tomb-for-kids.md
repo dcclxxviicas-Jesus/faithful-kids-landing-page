@@ -1,6 +1,8 @@
 ---
 title: "The Empty Tomb for Kids: Bible Story Explained Simply"
 slug: "the-empty-tomb-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 01
@@ -61,10 +63,25 @@ The Resurrection is the happiest story in the Bible, and kids should feel that j
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why did the angel roll the stone away from the tomb?
+### Why did the angel roll the stone away from the tomb?
 
+**To let people in so they could see the tomb was empty.** Jesus was already risen! The stone was rolled away so people could come inside and see for themselves that the tomb was empty.
 
+### What happened to the Roman soldiers guarding the tomb?
 
+**They shook with fear and fainted.** These tough, trained soldiers were so terrified by the angel that they collapsed like dead men.
+
+### What did the women find when they arrived at the tomb?
+
+**An empty tomb and an angel.** The tomb was empty and an angel was sitting on the stone, telling them Jesus had risen.
+
+### What did Peter and John find inside the tomb?
+
+**The grave clothes, neatly folded.** The burial cloths were left behind and neatly folded — evidence that Jesus had risen.
+
+### What is the big lesson from the empty tomb?
+
+**The resurrection changes everything — death is not the end.** Because Jesus conquered death and rose again, everyone who trusts in Him has the promise of life that never ends. The resurrection changes everything.
 
 ## Discussion Questions for Families
 

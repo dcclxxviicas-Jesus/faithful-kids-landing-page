@@ -1,6 +1,8 @@
 ---
 title: "The Gospel Explained for Kids: Bible Story Explained Simply"
 slug: "the-gospel-explained-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Letters to Churches"
 seriesSlug: "letters-to-churches"
 episode: 01
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. According to Paul's letter to the Romans, how many people have sinned?
+### According to Paul's letter to the Romans, how many people have sinned?
 
+**All have sinned.** "All have sinned and fall short of the glory of God." (Romans 3:23)
 
+### What does the Bible say the "wages of sin" is?
 
+**Death — separation from God.** "The wages of sin is death." (Romans 6:23)
+
+### What does Paul call eternal life through Jesus?
+
+**A gift.** "The gift of God is eternal life through Christ Jesus our Lord." (Romans 6:23)
+
+### When did Christ die for us, according to Romans 5:8?
+
+**While we were still sinners.** "While we were still sinners, Christ died for us."
+
+### What does Romans 8:1 say about those who are in Christ Jesus?
+
+**There is no condemnation for them.** "There is now no condemnation for those who are in Christ Jesus."
 
 ## Discussion Questions for Families
 

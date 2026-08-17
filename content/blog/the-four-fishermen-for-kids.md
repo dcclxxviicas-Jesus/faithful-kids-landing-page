@@ -1,6 +1,8 @@
 ---
 title: "The Four Fishermen for Kids: Bible Story Explained Simply"
 slug: "the-four-fishermen-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 06
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why did Jesus get into Simon Peter's boat?
+### Why did Jesus get into Simon Peter's boat?
 
+**To teach the crowd from the water.** 
 
+### How long had the fishermen been fishing without catching anything?
 
+**All night.**
+
+### What did Simon Peter say before letting down the nets?
+
+**"But because YOU say so, I will let down the nets.".**
+
+### What happened when they let down the nets?
+
+**They caught so many fish the nets began to break.**
+
+### What did Jesus tell Simon Peter he would do from now on?
+
+**Fish for people.**
 
 ## Discussion Questions for Families
 

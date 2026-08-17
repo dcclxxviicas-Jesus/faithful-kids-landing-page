@@ -1,6 +1,8 @@
 ---
 title: "Faith Hall of Fame for Kids: Bible Story Explained Simply"
 slug: "faith-hall-of-fame-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Ending and Beginning"
 seriesSlug: "ending-and-beginning"
 episode: 01
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What made Abel's offering special compared to Cain's?
+### What made Abel's offering special compared to Cain's?
 
+**It was his best — not his leftovers.** Abel offered God his very best, and that's what made his sacrifice better.
 
+### What happened to Enoch because he walked so closely with God?
 
+**God took him — he never died.** Enoch's faith was so real that God simply took him. He never experienced death.
+
+### Why did people laugh at Noah?
+
+**He was building a boat with no flood in sight.** There was no rain, no flood, no reason to build a boat — except that God said so. And that was enough for Noah.
+
+### How old was Sarah when she had her promised baby?
+
+**90.** Sarah was about ninety years old, proving that nothing is impossible with God.
+
+### What did Moses give up to follow God?
+
+**The wealth and power of Egypt's palace.** Moses walked away from all the luxury of being Egyptian royalty because he saw something more valuable — God's purpose.
+
+### What did all these faith heroes have in common, according to Hebrews 11?
+
+**They were commended for their faith but never received what was promised.** Every one of them believed without seeing the full promise. They were looking forward to what Jesus would accomplish.
 
 ## Discussion Questions for Families
 

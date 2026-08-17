@@ -1,6 +1,8 @@
 ---
 title: "Sauls Disobedience for Kids: Bible Story Explained Simply"
 slug: "sauls-disobedience-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 03
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Why did Saul offer the sacrifice himself instead of waiting for Samuel?
+### Why did Saul offer the sacrifice himself instead of waiting for Samuel?
 
+**He panicked because his soldiers were leaving and Samuel was late.** 
 
+### What did Samuel say when he arrived right after Saul offered the sacrifice?
 
+**"What have you done? You acted foolishly".**
+
+### What did God command Saul to do to the Amalekites?
+
+**Destroy them and everything they had completely.**
+
+### What did Saul keep alive instead of obeying God's command fully?
+
+**The best sheep, cattle, and King Agag.**
+
+### What famous words did Samuel say to Saul about obedience?
+
+**"To obey is better than sacrifice".**
 
 ## Discussion Questions for Families
 

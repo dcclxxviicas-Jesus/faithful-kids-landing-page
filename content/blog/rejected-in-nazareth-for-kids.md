@@ -1,6 +1,8 @@
 ---
 title: "Rejected in Nazareth for Kids: Bible Story Explained Simply"
 slug: "rejected-in-nazareth-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 05
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What was Nazareth to Jesus?
+### What was Nazareth to Jesus?
 
+**His hometown where He grew up.** 
 
+### Which prophet's scroll did Jesus read from in the synagogue?
 
+**Isaiah.**
+
+### What did Jesus say after reading the Scripture?
+
+**"Today this Scripture is fulfilled in your hearing".**
+
+### Why did the people in the synagogue become furious?
+
+**Jesus reminded them that God sent prophets to help foreigners, not just Israelites.**
+
+### What happened when the crowd tried to throw Jesus off a cliff?
+
+**He walked right through the crowd and went on His way.**
 
 ## Discussion Questions for Families
 

@@ -4,6 +4,8 @@ slug: "bible-stories-about-faith-for-kids"
 type: "listicle"
 metaDescription: "12 Bible stories about faith for kids -- Abraham, Noah, Moses, David, and more -- teaching children to trust God even when they cannot see the outcome."
 keywords: ["bible stories about faith for kids", "faith bible stories children", "trusting god stories kids", "bible faith kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 12 Bible Stories About Faith for Kids (Trust God Like Abraham)
@@ -12,12 +14,12 @@ Looking for Bible stories that teach your child about faith? These 12 stories ar
 
 ## Why Teach Kids About Faith Through Bible Stories?
 
-Children learn values through stories, not lectures. When your child watches David face Goliath or Ruth stay loyal to Naomi, they are not just hearing about faith. They are seeing it in action. These stories give kids a vocabulary for faith that they carry into their own lives.
+Children learn values through stories, not lectures. When your child watches [David face Goliath](/blog/david-and-goliath-for-kids) or [Ruth stay loyal to Naomi](/blog/ruth-a-story-of-loyalty-for-kids), they are not just hearing about faith. They are seeing it in action. These stories give kids a vocabulary for faith that they carry into their own lives.
 
 ---
 
 ### 1. Abraham Leaves Home
-God says go, Abraham goes, destination unknown.
+God says go, Abraham goes, destination unknown. (Full story: [God calls Abraham](/blog/god-calls-abraham-for-kids).)
 
 ### 2. Noah Builds the Ark
 Building a boat when there is no rain.
@@ -29,7 +31,7 @@ An unqualified man accepts an impossible mission.
 A sling, a stone, and total trust in God.
 
 ### 5. Daniel in the Lions' Den
-Praying when prayer is punishable by death.
+Praying when prayer is punishable by death. (Full story: [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids).)
 
 ### 6. Shadrach, Meshach, Abednego
 Even if God does not save us, we will not bow.
@@ -62,6 +64,8 @@ I am the Lord's servant.
 2. **Ask:** "Where did you see faith in that story?"
 3. **Connect it to their life:** "When have you needed to show faith?"
 4. **Revisit** the story when a real-life moment calls for faith
+
+Want to go deeper? The Bible has its own list of faith heroes in Hebrews 11 -- we walk through it in [the Faith Hall of Fame for kids](/blog/faith-hall-of-fame-for-kids).
 
 ## Watch All 12 Stories on Faithful Kids
 

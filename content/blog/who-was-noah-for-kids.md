@@ -4,6 +4,8 @@ slug: "who-was-noah-for-kids"
 type: "listicle"
 metaDescription: "Who was Noah? The Bible story of Noah's Ark explained for kids. The flood, the animals, the rainbow promise, and faith lessons from Genesis 6-9."
 keywords: ["who was noah for kids", "noahs ark bible story for kids", "noah and the flood for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Noah? Bible Story for Kids
@@ -14,7 +16,7 @@ Here's Noah's story from Genesis 6-9, explained in a way that kids can understan
 
 ## The World Goes Wrong (Genesis 6:1-8)
 
-To understand Noah, we need to understand what the world looked like before the flood. The Bible says that people had become deeply wicked. "Every inclination of the thoughts of the human heart was only evil all the time" (Genesis 6:5). Violence and cruelty were everywhere. The world God had created as good and beautiful had been filled with darkness.
+To understand Noah, we need to understand what the world looked like before the flood -- the story that began back in [the Garden and the Fall](/blog/the-garden-and-the-fall-for-kids). The Bible says that people had become deeply wicked. "Every inclination of the thoughts of the human heart was only evil all the time" (Genesis 6:5). Violence and cruelty were everywhere. The world God had created as good and beautiful had been filled with darkness.
 
 God was grieved. The Bible says His heart was filled with pain (Genesis 6:6). This is an important detail for kids -- God isn't a distant figure who doesn't care. He was heartbroken by what His creation had become.
 
@@ -46,13 +48,13 @@ The Bible doesn't describe his neighbors' reactions in detail, but 2 Peter 2:5 c
 
 Year after year, Noah kept building. Year after year, people kept mocking. And year after year, Noah kept obeying God.
 
-**Key lesson for kids:** Sometimes doing the right thing means doing something nobody else understands. That takes incredible courage and patience. Noah didn't stop building just because people made fun of him. He kept going because he trusted God, not people's opinions.
+**Key lesson for kids:** Sometimes doing the right thing means doing something nobody else understands. That takes incredible courage and patience. Noah didn't stop building just because people made fun of him. He kept going because he trusted God, not people's opinions. (For more heroes who obeyed against the odds, see our [Bible stories about obedience for kids](/blog/bible-stories-about-obedience-for-kids).)
 
 ## The Animals Come (Genesis 7:1-16)
 
 When the ark was finished, God told Noah it was time. The animals came to the ark -- two by two, just as God had said. The Bible says "they came to Noah and entered the ark" (Genesis 7:9). Noah didn't have to chase them down or round them up. God brought them.
 
-Lions and lambs. Eagles and earthworms. Elephants and insects. Every kind of creature on earth came to the ark. It must have been an incredible sight.
+Lions and lambs. Eagles and earthworms. Elephants and insects. Every kind of creature on earth came to the ark. It must have been an incredible sight. (Curious kids can meet more creatures in [Animals of the Bible for kids](/blog/animals-of-the-bible-for-kids).)
 
 Noah, his family, and all the animals went inside. And then God Himself shut the door (Genesis 7:16). It's a small detail, but it matters. God closed the door. He sealed them in safely.
 
@@ -108,7 +110,7 @@ Noah's story is packed with lessons that kids can carry for their entire lives:
 - **One person can make a difference.** Noah was one righteous man in a world full of wickedness, and God used him to preserve life on earth.
 - **Worship first.** When God brings us through something, our first response should be gratitude.
 
-Noah's story reminds us that God is both just and merciful. He takes sin seriously, but He always provides a way of rescue for those who trust Him. That pattern runs through the entire Bible -- all the way to Jesus.
+Noah's story reminds us that God is both just and merciful. He takes sin seriously, but He always provides a way of rescue for those who trust Him. That pattern runs through the entire Bible -- all the way to Jesus. Continue the Genesis journey with [Who Was Abraham? for kids](/blog/who-was-abraham-for-kids), or read our fuller retelling in [Noah and the Great Flood for kids](/blog/noah-and-the-great-flood-for-kids).
 
 ## Watch on Faithful Kids
 

@@ -1,6 +1,8 @@
 ---
 title: "Healing the Sick for Kids: Bible Story Explained Simply"
 slug: "healing-the-sick-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 07
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Who was the first person Jesus healed in this episode?
+### Who was the first person Jesus healed in this episode?
 
+**Simon Peter's mother-in-law.** 
 
+### What happened at sunset outside Peter's house?
 
+**The whole town brought their sick to Jesus.**
+
+### Why were lepers forced to live alone?
+
+**They were considered unclean and nobody would come near them.**
+
+### What did the leper say to Jesus?
+
+**"If you are WILLING, you can make me clean.".**
+
+### What did Jesus do that shocked everyone before healing the leper?
+
+**He TOUCHED the leper.**
 
 ## Discussion Questions for Families
 

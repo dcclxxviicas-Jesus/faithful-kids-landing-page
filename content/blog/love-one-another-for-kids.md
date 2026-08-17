@@ -1,6 +1,8 @@
 ---
 title: "Love One Another for Kids: Bible Story Explained Simply"
 slug: "love-one-another-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Ending and Beginning"
 seriesSlug: "ending-and-beginning"
 episode: 04
@@ -61,10 +63,29 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How does John define what love is?
+### How does John define what love is?
 
+**Jesus Christ laid down His life for us.** John's definition of love is the cross. Love is sacrifice — laying down your life for others. That's the standard Jesus set.
 
+### John says we should love "not with words or speech but with ___ and in ___."
 
+**Actions and truth.** "Let us not love with words or speech but with actions and in truth." Love isn't just something you say — it's something you do.
+
+### What does John say God IS?
+
+**God is love.** "God is love." Not that God has love or shows love sometimes. Love is His very identity. Everything He does flows from it.
+
+### According to John, what does perfect love drive out?
+
+**Fear.** "There is no fear in love. Perfect love drives out fear." When you truly know God's love, fear loses its grip on you.
+
+### Why do we love, according to 1 John 4:19?
+
+**Because He first loved us.** "We love because He first loved us." The order matters — God loved you first, and that love is what empowers you to love others.
+
+### What did John call himself?
+
+**The disciple whom Jesus loved.** John referred to himself as "the disciple whom Jesus loved." Not as a boast, but as his identity — he was defined by being loved by Jesus.
 
 ## Discussion Questions for Families
 

@@ -1,6 +1,8 @@
 ---
 title: "Absaloms Rebellion for Kids: Bible Story Explained Simply"
 slug: "absaloms-rebellion-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 07
@@ -61,10 +63,25 @@ Daniel in the Lions' Den is about courage under pressure. Your child will inevit
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How did Absalom steal the hearts of the people?
+### How did Absalom steal the hearts of the people?
 
+**He stood at the city gate and promised them better justice.** 
 
+### Where did Absalom declare himself king?
 
+**Hebron.**
+
+### How did David leave Jerusalem when Absalom took over?
+
+**On foot, barefoot, and weeping.**
+
+### What happened to Absalom during the battle?
+
+**His hair got caught in an oak tree and he was left hanging.**
+
+### What did David cry out when he heard Absalom had been killed?
+
+**"O my son Absalom! If only I had died instead of you!".**
 
 ## Discussion Questions for Families
 

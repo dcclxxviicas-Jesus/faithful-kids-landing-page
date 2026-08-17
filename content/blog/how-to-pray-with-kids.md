@@ -4,11 +4,13 @@ slug: "how-to-pray-with-kids"
 type: "listicle"
 metaDescription: "How to pray with your kids even if you have never done it. Simple guide with the ACTS model, 10 sample prayers, and a bedtime prayer routine."
 keywords: ["how to pray with kids", "prayer for kids", "teaching kids to pray", "family prayer guide"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 If you have ever wanted to pray with your kids but felt awkward, unsure, or like you did not know the right words, you are not alone. A lot of Christian parents grew up without a strong prayer model at home, and now they want something different for their own children but have no idea where to start.
 
-Here is the good news: prayer is simply talking to God. You do not need a seminary degree, a special voice, or memorized religious language. If your child can talk to you, they can talk to God. And the fact that you want to teach them is already a beautiful first step.
+Here is the good news: prayer is simply talking to God. You do not need a seminary degree, a special voice, or memorized religious language. If your child can talk to you, they can talk to God. And the fact that you want to teach them is already a beautiful first step. (If your child has never prayed at all, our guide on [explaining prayer to a child](/blog/how-to-explain-prayer-to-a-child) is a gentle place to start.)
 
 This guide will walk you through everything: why praying with kids matters, how to adjust prayer by age, a simple framework anyone can use, ten ready-to-go sample prayers, and a bedtime routine you can start tonight.
 
@@ -82,7 +84,7 @@ You do not need to use all four parts every time, especially with younger kids. 
 
 ## 10 Sample Prayers for Kids
 
-Use these as starting points. Read them together, or let your child adapt them in their own words.
+Use these as starting points. Read them together, or let your child adapt them in their own words. You will find even more in our collections of [bedtime prayers](/blog/bedtime-prayers-for-kids) and [mealtime prayers](/blog/mealtime-prayers-for-kids).
 
 ### 1. Bedtime Prayer
 "Dear God, thank you for today. Thank you for my family and my home. Please watch over us tonight and give us good sleep. I love you. Amen."
@@ -128,7 +130,7 @@ Take turns praying three simple things:
 - **Please** -- for one thing you need God's help with tomorrow.
 
 **Step 3: Blessing (1 minute)**
-The parent prays a short blessing over the child: "God, thank you for [child's name]. Watch over them tonight. Give them peace. Help them know how much you love them. Amen."
+The parent prays a short blessing over the child: "God, thank you for [child's name]. Watch over them tonight. Give them peace. Help them know how much you love them. Amen." For more blessing ideas, see these [prayers to pray over your child](/blog/prayers-for-my-child).
 
 That is it. Five minutes. No pressure, no performance, no perfect words required. Just a family talking to God together.
 
@@ -167,4 +169,4 @@ Absolutely. God cares about what your child cares about. If they want to pray fo
 For young kids, two to three minutes is plenty. For older kids, five to ten minutes works well. The consistency matters far more than the length. A short prayer every night will have more impact than a long prayer once a month.
 
 ### What is the Lord's Prayer and should I teach it to my kids?
-The Lord's Prayer is found in Matthew 6:9-13. It is the prayer Jesus taught His disciples when they asked Him how to pray. It covers adoration, submission to God's will, daily needs, forgiveness, and protection from evil. It is a wonderful prayer to memorize as a family and can serve as a foundation for your child's prayer life. Many families recite it together each night and then add their own personal prayers afterward.
+The Lord's Prayer is found in Matthew 6:9-13. It is the prayer Jesus taught His disciples when they asked Him how to pray. It covers adoration, submission to God's will, daily needs, forgiveness, and protection from evil. It is a wonderful prayer to memorize as a family and can serve as a foundation for your child's prayer life. Many families recite it together each night and then add their own personal prayers afterward. Here is [the Lord's Prayer broken down for kids](/blog/the-lords-prayer-for-kids), line by line.

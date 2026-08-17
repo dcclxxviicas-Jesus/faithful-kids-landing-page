@@ -4,6 +4,8 @@ slug: "who-was-abraham-for-kids"
 type: "listicle"
 metaDescription: "Who was Abraham? A kid-friendly Bible story about the father of faith. God's promise, Isaac, and lessons on trust for children explained simply."
 keywords: ["who was abraham for kids", "abraham bible story for kids", "father of faith bible children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # Who Was Abraham? Bible Story for Kids
@@ -20,7 +22,7 @@ Then God spoke to him: "Go from your country, your people and your father's hous
 
 Think about how scary that must have been. God didn't give Abram a map or an address. He just said "Go, and I'll show you where." Abram had to pack up everything, leave his family and friends behind, and head into the unknown -- all because God said to.
 
-And Abram went. He was 75 years old, and he just went.
+And Abram went. He was 75 years old, and he just went. (For a deeper retelling of this moment, see [God Calls Abraham for kids](/blog/god-calls-abraham-for-kids).)
 
 **Key lesson for kids:** Sometimes God asks us to step into the unknown. We might not know what's coming next, but if God is leading, we can trust that He knows the way. Obedience doesn't always make sense at first, but it always leads somewhere good with God.
 
@@ -80,7 +82,7 @@ Sarah said, "God has brought me laughter, and everyone who hears about this will
 
 Then came the most difficult moment of Abraham's life. God told him, "Take your son, your only son, whom you love -- Isaac -- and go to the region of Moriah. Sacrifice him there as a burnt offering" (Genesis 22:2).
 
-This is a hard passage for adults, and it needs to be handled gently with kids. God asked Abraham to give up the thing he loved most -- the son he had waited 25 years for. It doesn't make sense to us, and it must not have made sense to Abraham either.
+This is a hard passage for adults, and it needs to be handled gently with kids -- we walk through it step by step in our guide to [Abraham and Isaac for kids](/blog/abraham-and-isaac-for-kids). God asked Abraham to give up the thing he loved most -- the son he had waited 25 years for. It doesn't make sense to us, and it must not have made sense to Abraham either.
 
 But Abraham obeyed. Early the next morning, he took Isaac and headed for Moriah. On the way, Isaac noticed they had fire and wood but no lamb for the sacrifice. He asked his father about it.
 
@@ -96,7 +98,7 @@ Abraham named that place "The Lord Will Provide." And to this day, on the mounta
 
 ## Abraham's Legacy
 
-Abraham died at the age of 175, and the Bible says he was "gathered to his people" at a good old age (Genesis 25:8). He is honored as the father of the Jewish people, and through his descendant Jesus, he became a blessing to the entire world -- just as God had promised.
+Abraham died at the age of 175, and the Bible says he was "gathered to his people" at a good old age (Genesis 25:8). He is honored as the father of the Jewish people, and through his descendant Jesus, he became a blessing to the entire world -- just as God had promised. His great-grandson Joseph carried the family story forward in one of the Bible's most dramatic sagas ([who was Joseph?](/blog/who-was-joseph-for-kids)).
 
 Here's what Abraham's life teaches us:
 
@@ -106,7 +108,7 @@ Here's what Abraham's life teaches us:
 - **God provides.** On the mountain, when it looked like all was lost, God provided the ram. He always provides.
 - **God keeps every promise.** The stars in the sky, the descendants beyond counting, the blessing to all nations -- every word God spoke to Abraham has come true.
 
-Abraham's faith wasn't perfect. He doubted, he laughed, he made mistakes. But he kept following God, step by step, into the unknown. And God turned that imperfect faith into something that changed the world.
+Abraham's faith wasn't perfect. He doubted, he laughed, he made mistakes. But he kept following God, step by step, into the unknown. And God turned that imperfect faith into something that changed the world. If your family enjoyed this story, explore more [Bible stories about faith for kids](/blog/bible-stories-about-faith-for-kids), then test what you've learned with some [Genesis Bible trivia](/blog/genesis-bible-trivia).
 
 ## Watch on Faithful Kids
 

@@ -4,6 +4,8 @@ slug: "talking-to-kids-about-divorce-bible"
 type: "listicle"
 metaDescription: "A gentle guide for talking to kids about divorce using Bible stories of hope. Ruth, Hagar, and David show kids that God stays faithful in broken places."
 keywords: ["talking to kids about divorce bible", "bible stories about broken families", "christian divorce kids"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 If you are walking through a divorce or separation, you already know it is one of the hardest things a family can face. And one of the heaviest burdens is figuring out what to say to your children. How do you explain something you may not fully understand yourself? How do you give them hope when your own heart is breaking?
@@ -32,7 +34,7 @@ But Ruth stayed. Ruth's loyalty and love carried Naomi through the darkest chapt
 
 **How to use this story:** "Sometimes families go through really hard changes. Naomi lost people she loved and felt very sad. But God brought new people into her life and took care of her. God does that for us too — even when things feel really hard."
 
-The message for your child: loss is real, grief is valid, and God is faithful even when the story takes unexpected turns.
+The message for your child: loss is real, grief is valid, and God is faithful even when the story takes unexpected turns. (Read the whole story in [Who Was Ruth? for kids](/blog/who-was-ruth-for-kids).)
 
 ### Hagar and Ishmael: Alone but Not Abandoned (Genesis 16; 21:8-21)
 
@@ -62,7 +64,7 @@ Joseph was torn from his family at a young age. He did not choose it. He could n
 
 When Joseph finally reunited with his brothers, he wept. When he saw his father, they embraced and cried together. The separation was real. The pain was real. And the reunion was real.
 
-**How to use this story:** "Joseph had to live away from his dad for a long time, and it was very hard. But God stayed with Joseph every single day. And eventually, God brought his family back together in a new way. God is with you every single day too, no matter where you are."
+**How to use this story:** "Joseph had to live away from his dad for a long time, and it was very hard. But God stayed with Joseph every single day. And eventually, God brought his family back together in a new way. God is with you every single day too, no matter where you are." (For the full journey, see [Who Was Joseph? for kids](/blog/who-was-joseph-for-kids).)
 
 ## Verses to Share with Your Child
 
@@ -73,6 +75,8 @@ Keep these simple and repeat them often. Write them on cards. Put them on the ba
 - **"He heals the brokenhearted and binds up their wounds"** — Psalm 147:3
 - **"For I know the plans I have for you, plans to prosper you and not to harm you, plans to give you hope and a future"** — Jeremiah 29:11
 - **"Cast all your anxiety on him because he cares for you"** — 1 Peter 5:7
+
+If worry is your child's biggest battle right now, our list of [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids) has more to lean on.
 
 ## What Not to Say
 
@@ -86,13 +90,13 @@ Just as important as what you say is what you avoid:
 
 ## Practical Tips for Bible Time During Divorce
 
-1. **Keep routines consistent.** If you read Bible stories at bedtime, keep doing it — especially now. Consistency communicates safety.
+1. **Keep routines consistent.** If you read [Bible stories at bedtime](/blog/bible-stories-for-bedtime), keep doing it — especially now. Consistency communicates safety.
 
 2. **Let your child choose the stories.** Give them agency. If they want to hear about David and Goliath for the fifth time, let them. Repetition is comforting.
 
 3. **Use video stories for hard days.** Some nights, you will be too tired to read aloud. That is okay. A short video that tells the story for you gives your child the content while giving you a moment to breathe.
 
-4. **Pray together honestly.** Model honest prayer: "God, we are sad tonight. Will you hold us close?" Your child needs to see that faith is for the hard days, not just the good ones.
+4. **Pray together honestly.** Model honest prayer: "God, we are sad tonight. Will you hold us close?" Your child needs to see that faith is for the hard days, not just the good ones. (More ideas in our guide on [how to pray with kids](/blog/how-to-pray-with-kids).)
 
 5. **Journal together.** For older kids, keeping a prayer journal where they write letters to God can be a powerful outlet for feelings they do not know how to say out loud.
 

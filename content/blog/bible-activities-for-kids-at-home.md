@@ -4,6 +4,8 @@ slug: "bible-activities-for-kids-at-home"
 type: "listicle"
 metaDescription: "25 easy Bible activities you can do at home with your kids. No supplies needed for most. Includes games, discussion prompts."
 keywords: ["bible activities for kids", "bible games kids home", "fun bible activities children", "bible crafts kids easy", "bible activities no supplies"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 25 Fun Bible Activities for Kids at Home (No Supplies Needed)
@@ -19,7 +21,7 @@ Watch a Bible story video. Then have your child retell it in their own words. Se
 Pick a story and act it out as a family. Someone is David. Someone is Goliath. Use pillows as stones.
 
 ### 3. Bible Story Charades
-Write 10 Bible characters on slips of paper. Take turns acting them out without talking. Can you guess Noah? Moses? Jonah inside the fish?
+Write 10 Bible characters on slips of paper. Take turns acting them out without talking. Can you guess Noah? Moses? Jonah inside the fish? (Need prompts? Here's a full list of [Bible charades ideas for kids](/blog/bible-charades-for-kids).)
 
 ### 4. What Happens Next?
 Tell your child the first half of a Bible story. Stop in the middle. Ask them to guess what happens next. Then watch the full story.
@@ -50,7 +52,7 @@ Pick a short verse. Write it in big letters. Decorate around it with drawings, c
 Would you rather be David facing Goliath or Daniel in the lions' den? Would you rather build the ark or cross the Red Sea?
 
 ### 12. Dinner Table Questions
-Use discussion questions from [Faithful Kids blog posts](https://faithfulkids.app/blog) during dinner. One question per meal.
+Use these [family dinner Bible questions](/blog/family-dinner-bible-questions) during dinner. One question per meal.
 
 ### 13. Bible Story Rankings
 Which story is the bravest? The funniest? The scariest? The most surprising? Rank your top 5 as a family.
@@ -81,19 +83,21 @@ Walk around your neighborhood. At each house, say a silent prayer for the family
 ## Quiz and Game Activities
 
 ### 21. Bible Trivia Night
-Use quiz questions from Faithful Kids. Keep score. Winner picks dessert.
+Use these [Bible trivia questions for kids](/blog/bible-trivia-for-kids). Keep score. Winner picks dessert. For a bigger event, here's how to run a full [family Bible trivia night](/blog/family-bible-trivia-night).
 
 ### 22. Bible Bingo
-Make bingo cards with Bible characters, places, and objects. Read clues. First to get 5 in a row wins.
+Make bingo cards with Bible characters, places, and objects. Read clues. First to get 5 in a row wins. (Our [Bible bingo guide](/blog/bible-bingo-for-kids) has card ideas and variations.)
 
 ### 23. Sword Drill
 Call out a Bible reference (Genesis 1:1). Everyone races to find it in a Bible. First one to read it aloud wins.
 
 ### 24. Memory Verse Challenge
-Pick a verse. Say it together 5 times. Tomorrow, see who remembers it.
+Pick a verse. Say it together 5 times. Tomorrow, see who remembers it. These [memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) make verses stick even faster.
 
 ### 25. Bible Story Binge Night
 Pick a series on Faithful Kids. Watch all 10 episodes back to back as a family. Pop popcorn. Make it an event.
+
+Want even more ideas? Browse our full roundup of [Bible games for kids](/blog/bible-games-for-kids).
 
 ---
 

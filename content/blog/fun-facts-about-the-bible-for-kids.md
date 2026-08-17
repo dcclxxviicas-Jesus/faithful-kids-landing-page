@@ -4,6 +4,8 @@ slug: "fun-facts-about-the-bible-for-kids"
 type: "listicle"
 metaDescription: "25 mind-blowing Bible facts for kids: shortest verse, oldest person, most popular verse, how many languages, and more. Perfect for curious young minds."
 keywords: ["fun facts about the Bible for kids", "Bible facts for children", "interesting Bible facts"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 The Bible is not just the most important book in the world — it is also one of the most fascinating. It is full of incredible details, jaw-dropping numbers, and surprising facts that will make your kids say, "Wait, REALLY?"
@@ -13,7 +15,7 @@ Here are 25 fun facts about the Bible that will blow your kids' minds and make t
 ## The Numbers
 
 ### 1. The Bible Has 66 Books
-The Bible is not just one book — it is a whole library. It has 66 different books: 39 in the Old Testament and 27 in the New Testament. These books include history, poetry, prophecy, letters, and more. All written by different people, in different places, over hundreds and hundreds of years — but they all tell one big story.
+The Bible is not just one book — it is a whole library. It has 66 different books: 39 in the Old Testament and 27 in the New Testament. These books include history, poetry, prophecy, letters, and more. All written by different people, in different places, over hundreds and hundreds of years — but they all tell one big story. (Help your kids learn all 66 with our guide to the [books of the Bible for kids](/blog/books-of-the-bible-for-kids).)
 
 ### 2. About 40 People Wrote the Bible
 Kings, shepherds, fishermen, doctors, prophets, tax collectors, and even a tentmaker all contributed to writing the Bible. They lived across about 1,500 years, on three different continents, in three different languages. Yet somehow, the Bible tells one unified story from beginning to end. That is one of the things that makes it so remarkable.
@@ -53,10 +55,10 @@ Just one chapter, 15 verses, and about 219 words in the original Greek. You coul
 His name was Methuselah (Genesis 5:27). To put that in perspective, if Methuselah were alive today and had been born in the year 1057, he would still be living. People in the early chapters of Genesis lived incredibly long lives — the Bible says this changed after the flood.
 
 ### 13. The Strongest Man Had a Big Weakness
-Samson could tear a lion apart with his bare hands and knock down a building with his strength (Judges 14-16). But his weakness was not physical — it was his choices. He kept trusting the wrong people, which eventually led to his downfall. The lesson? Strength without wisdom is dangerous.
+Samson could tear a lion apart with his bare hands and knock down a building with his strength (Judges 14-16). But his weakness was not physical — it was his choices. He kept trusting the wrong people, which eventually led to his downfall. The lesson? Strength without wisdom is dangerous. Read the whole story in [Samson, the strongest man alive](/blog/samson-strongest-man-alive-for-kids).
 
 ### 14. A Donkey Talked
-In Numbers 22:28, Balaam's donkey actually opened its mouth and spoke to him. The donkey could see an angel blocking the road that Balaam could not see. God used a donkey to get a stubborn man's attention. If God can use a talking donkey, He can use anyone.
+In Numbers 22:28, Balaam's donkey actually opened its mouth and spoke to him. The donkey could see an angel blocking the road that Balaam could not see. God used a donkey to get a stubborn man's attention. If God can use a talking donkey, He can use anyone. The full story is in [Balaam's donkey for kids](/blog/balaams-donkey-for-kids).
 
 ### 15. There Are Over 3,200 Characters in the Bible
 From Adam to Zechariah, the Bible is populated with thousands of named individuals. Some appear for just one verse. Others — like Moses, David, and Paul — have entire books devoted to their stories.
@@ -68,7 +70,7 @@ In 1455, Johannes Gutenberg invented the printing press, and the very first book
 The word "Bible" comes from the Greek word "biblia," which means "books." But you will not find the word "Bible" anywhere in the actual text. The Bible refers to itself as "Scripture," "the Word of God," or "the Word of the Lord."
 
 ### 18. Dogs Are Mentioned 14 Times, but Cats Are Never Mentioned
-That is right — the Bible mentions dogs, donkeys, camels, eagles, lions, sheep, goats, fish, and dozens of other animals, but cats never make an appearance. Nobody knows exactly why, but it is a fun fact that always gets a reaction.
+That is right — the Bible mentions dogs, donkeys, camels, eagles, lions, sheep, goats, fish, and dozens of other animals, but cats never make an appearance. Nobody knows exactly why, but it is a fun fact that always gets a reaction. For more creature features, see [animals of the Bible for kids](/blog/animals-of-the-bible-for-kids).
 
 ### 19. The Bible Contains About 185 Songs
 The book of Psalms alone has 150 songs, but there are also songs scattered throughout other books — including the Song of Moses (Exodus 15), the Song of Deborah (Judges 5), Mary's Magnificat (Luke 1:46-55), and the songs of the angels in Revelation.
@@ -100,6 +102,8 @@ The Old Testament, written hundreds of years before Jesus was born, contains ove
 - The book of Obadiah is only 21 verses long — the shortest book in the Old Testament.
 - The apostle Paul wrote 13 books of the New Testament — more than any other author.
 - The word "Christian" appears only 3 times in the entire Bible (Acts 11:26, Acts 26:28, 1 Peter 4:16).
+
+Want to turn these facts into a game? Try our [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids) or lighten things up with some [Bible jokes for kids](/blog/bible-jokes-for-kids).
 
 ## Watch on Faithful Kids
 

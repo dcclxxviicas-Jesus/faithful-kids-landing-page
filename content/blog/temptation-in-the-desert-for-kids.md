@@ -1,6 +1,8 @@
 ---
 title: "Temptation in the Desert for Kids: Bible Story Explained Simply"
 slug: "temptation-in-the-desert-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Jesus Begins Ministry"
 seriesSlug: "jesus-begins-ministry"
 episode: 01
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How many days did Jesus fast in the wilderness?
+### How many days did Jesus fast in the wilderness?
 
+**40 days.** 
 
+### Who led Jesus into the wilderness?
 
+**The Holy Spirit.**
+
+### What was Satan's FIRST temptation?
+
+**Turn stones into bread.**
+
+### How did Jesus fight back against every temptation?
+
+**He quoted Scripture — "It is written...".**
+
+### What happened after Satan left Jesus?
+
+**Angels came and attended to Him.**
 
 ## Discussion Questions for Families
 

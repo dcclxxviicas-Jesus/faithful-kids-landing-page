@@ -1,6 +1,8 @@
 ---
 title: "Davids Final Words for Kids: Bible Story Explained Simply"
 slug: "davids-final-words-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "King Davids Reign"
 seriesSlug: "king-davids-reign"
 episode: 10
@@ -61,10 +63,25 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. What was David's greatest dream that he could not fulfill himself?
+### What was David's greatest dream that he could not fulfill himself?
 
+**Building a permanent temple for God.** 
 
+### Why did God say David couldn't build the temple?
 
+**David had been a man of war.**
+
+### What did David give from his personal fortune for the temple?
+
+**Thousands of talents of his own gold and silver.**
+
+### What did David say in his famous prayer about all the gifts given?
+
+**"Everything comes from you, and we have given you only what comes from your hand".**
+
+### Why is David called "a man after God's own heart"?
+
+**Because he always came back to God, no matter how many times he fell.**
 
 ## Discussion Questions for Families
 

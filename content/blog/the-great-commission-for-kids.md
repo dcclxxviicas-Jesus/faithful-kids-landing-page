@@ -1,6 +1,8 @@
 ---
 title: "The Great Commission for Kids: Bible Story Explained Simply"
 slug: "the-great-commission-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "He is Risen"
 seriesSlug: "he-is-risen"
 episode: 07
@@ -61,10 +63,25 @@ Every Bible story is an opportunity to talk with your child about faith in a nat
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Where did Jesus tell the eleven disciples to meet Him?
+### Where did Jesus tell the eleven disciples to meet Him?
 
+**On a mountain in Galilee.** Jesus told them to go to a specific mountain in Galilee, and all eleven disciples went there to meet Him.
 
+### What did Jesus say had been given to Him?
 
+**All authority in heaven and on earth.** Jesus declared that ALL authority in heaven and on earth had been given to Him — total, complete authority over everything.
+
+### What did Jesus command His followers to do?
+
+**Go and make disciples of all nations.** Jesus commanded them to GO, make disciples of all nations, baptize them, and teach them to obey His commands.
+
+### How did some of the disciples react when they saw Jesus on the mountain?
+
+**Some worshiped, but some doubted.** Some worshiped right away, but others hesitated and doubted. Jesus gave the mission to all of them anyway.
+
+### What promise did Jesus make at the end of the Great Commission?
+
+**"I am with you always, to the very end of the age".** Jesus promised to be with His followers ALWAYS — not sometimes, not when it is easy, but always, to the very end of the age.
 
 ## Discussion Questions for Families
 

@@ -4,6 +4,8 @@ slug: "how-to-explain-christmas-to-a-child"
 type: "listicle"
 metaDescription: "Help your child understand the real meaning of Christmas beyond Santa. The manger, shepherds, wise men, and why Jesus came — explained for kids."
 keywords: ["explain Christmas to a child", "real meaning of Christmas for kids", "Christmas story for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 The tree is decorated, presents are wrapped, and your child is buzzing with excitement about Christmas morning. But somewhere between the cookies for Santa and the wrapping paper chaos, you want them to know what this day is really about.
@@ -19,8 +21,10 @@ Here is how to share that story with your child in a way they will never forget.
 
 Mary was surprised — and probably a little scared. But she trusted God and said, 'I am God's servant. Let it happen as you say.'"
 
+(You can read the full retelling of this moment in [an angel visits Mary](/blog/an-angel-visits-mary-for-kids).)
+
 ### The Journey to Bethlehem
-"Mary was engaged to a man named Joseph. He was a good man who loved God. Around the time the baby was going to be born, the king ordered everyone to go to the town where their family was originally from to be counted. Joseph's family was from Bethlehem, so he and Mary had to travel there — a long trip, probably on a donkey, while Mary was very pregnant."
+"Mary was engaged to a man named Joseph. He was a good man who loved God. Around the time the baby was going to be born, the king ordered everyone to go to the town where their family was originally from to be counted. Joseph's family was from Bethlehem, so he and Mary had to travel there — a long trip, probably on a donkey, while Mary was very pregnant." Our story of [the journey to Bethlehem](/blog/the-journey-to-bethlehem-for-kids) fills in this leg of the adventure for kids.
 
 ### No Room at the Inn
 "When they finally arrived in Bethlehem, the town was packed with other people who had also come to be counted. Joseph looked everywhere for a place to stay, but every inn was full. 'No room,' they were told again and again. Finally, someone let them stay in a stable — the place where animals slept."
@@ -48,7 +52,7 @@ For your child: "God did not send the announcement to kings or important people 
 
 **Matthew 2:11:** "On coming to the house, they saw the child with his mother Mary, and they bowed down and worshiped him. Then they opened their treasures and presented him with gifts of gold, frankincense and myrrh."
 
-"The wise men traveled a very long distance to find Jesus. They recognized that this baby was worth the journey."
+"The wise men traveled a very long distance to find Jesus. They recognized that this baby was worth the journey." For the longer version of their story, see [the wise men for kids](/blog/the-wise-men-for-kids).
 
 ## Why Did Jesus Come?
 
@@ -61,7 +65,7 @@ After telling the story, your child will likely ask, "But why? Why did God becom
 "Nobody can see God directly. But when God became the person Jesus, people could see Him, hear Him, and know Him. Everything Jesus said and did shows us what God is like — loving, kind, forgiving, brave, and good."
 
 ### To Save Us
-"Jesus did not just come to be a baby in a manger. He came to grow up and eventually give His life for us on the cross so that our sins could be forgiven. Christmas is the beginning of the rescue mission. Easter is when it was completed."
+"Jesus did not just come to be a baby in a manger. He came to grow up and eventually give His life for us on the cross so that our sins could be forgiven. Christmas is the beginning of the rescue mission. Easter is when it was completed." (When spring comes, here is [how to explain Easter to a child](/blog/how-to-explain-easter-to-a-child).)
 
 ### To Give Us the Best Gift Ever
 "People love giving gifts at Christmas, and that is wonderful. But the very first Christmas gift was God giving us His Son. It is the greatest gift ever given, and it is free to everyone who believes."
@@ -83,7 +87,7 @@ Let your child arrange the figures — Mary, Joseph, baby Jesus, the shepherds, 
 Before opening presents, have each family member share one thing they are thankful to God for. Or give to someone else first — donate toys, serve at a shelter, or deliver cookies to a neighbor who is alone.
 
 ### 5. Advent Calendar with the Christmas Story
-Instead of (or alongside) a candy advent calendar, use one that tells a piece of the Christmas story each day in December. By Christmas, your child will know the whole story.
+Instead of (or alongside) a candy advent calendar, use one that tells a piece of the Christmas story each day in December. By Christmas, your child will know the whole story. Need inspiration? Browse these [advent calendar ideas for kids](/blog/advent-calendar-ideas-for-kids).
 
 ### 6. The Gift of the Wise Men
 Talk about what the wise men's gifts meant. Gold for a king, frankincense for God, myrrh (a burial spice) pointing to His death. Then ask: "If you could give Jesus a gift, what would it be?" Help your child think about giving Jesus their heart, their obedience, or their kindness to others.

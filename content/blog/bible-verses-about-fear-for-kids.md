@@ -4,6 +4,8 @@ slug: "bible-verses-about-fear-for-kids"
 type: "listicle"
 metaDescription: "12 comforting Bible verses about fear for kids, with simple explanations. Help your child face worry with Scripture like Isaiah 41:10 and Psalm 23:4."
 keywords: ["bible verses about fear for kids", "be not afraid bible verse", "overcoming fear scripture for children"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 # 12 Bible Verses About Fear for Kids (Be Not Afraid)
@@ -14,7 +16,7 @@ Some fears are developmental and pass naturally. Others are deep and need real c
 
 The Bible says "do not fear" or "be not afraid" over 365 times — one for every day of the year. That's not because God expects us to never feel fear. It's because He knows we will, and He wants us to know what to do with it.
 
-Here are 12 Bible verses about fear that can anchor your child's heart when worry, anxiety, or terror knocks at their door.
+Here are 12 Bible verses about fear that can anchor your child's heart when worry, anxiety, or terror knocks at their door. For worry that lingers day after day, we also have a companion list of [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids).
 
 ## 1. Isaiah 41:10
 
@@ -30,7 +32,7 @@ Here are 12 Bible verses about fear that can anchor your child's heart when worr
 
 **What it means for kids:** God said this to Joshua when he had to lead an entire nation into a scary new land. Notice that God didn't say "The land isn't actually scary" — He said "I'll be WITH you." Courage isn't the absence of fear. Courage is trusting God even though you're afraid.
 
-**When to use it:** First days — first day of school, first practice, first time sleeping over at a friend's house. Any moment when your child is stepping into something new and unfamiliar.
+**When to use it:** First days — first day of school, first practice, first time sleeping over at a friend's house. Any moment when your child is stepping into something new and unfamiliar. Our roundup of [Bible verses for the first day of school](/blog/bible-verses-for-first-day-of-school) goes deeper on exactly these moments.
 
 ## 3. Psalm 56:3
 
@@ -62,7 +64,7 @@ Here are 12 Bible verses about fear that can anchor your child's heart when worr
 
 **What it means for kids:** "Sought" means David went looking for God. He didn't just wait for the fear to go away on its own. He prayed. He called out. And God answered — not just some fears, but ALL fears. This verse shows kids that prayer is an active weapon against fear. When you're scared, don't just sit there. Talk to God about it.
 
-**When to use it:** As a prompt for prayer. "Are you feeling scared right now? Let's seek the Lord like David did. Let's tell God exactly what you're afraid of."
+**When to use it:** As a prompt for prayer. "Are you feeling scared right now? Let's seek the Lord like David did. Let's tell God exactly what you're afraid of." If praying together still feels awkward, this guide on [how to pray with kids](/blog/how-to-pray-with-kids) offers simple ways to start.
 
 ## 7. Deuteronomy 31:6
 
@@ -110,7 +112,7 @@ Here are 12 Bible verses about fear that can anchor your child's heart when worr
 
 **What it means for kids:** Jesus said this to His disciples the night before He was crucified. He knew they would be terrified. So He gave them a gift: His peace. Not the world's version of peace (everything going well), but Jesus's peace — the kind that exists even in the middle of chaos. That same peace is available to your child right now.
 
-**When to use it:** At bedtime, when fears tend to surface. "Jesus left you His peace. It's yours right now. Close your eyes and receive it."
+**When to use it:** At bedtime, when fears tend to surface. "Jesus left you His peace. It's yours right now. Close your eyes and receive it." You'll find more calming options in our list of [goodnight Bible verses for kids](/blog/goodnight-bible-verses-for-kids).
 
 ## A Note for Parents: When Fear Becomes Anxiety
 
@@ -140,4 +142,4 @@ Keep it simple. Tell them they can talk to God like they talk to you: "God, I'm 
 No. The Bible acknowledges fear as a natural human experience. David, Moses, Elijah, and even Jesus's disciples all experienced fear. When God says "do not be afraid," He's not condemning the emotion — He's giving an instruction about what to do next: trust Him instead of staying in the fear. Fear is a signal. Faith is the response.
 
 ### How can I help my child with nighttime anxiety using Scripture?
-Create a bedtime routine that includes Scripture. Read one of these verses together, then pray specifically about whatever your child is afraid of. Psalm 4:8 ("In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety") is perfect for bedtime. You might also write a verse on a card and place it on their nightstand — something tangible they can hold when they wake up afraid.
+Create a bedtime routine that includes Scripture. Read one of these verses together, then pray specifically about whatever your child is afraid of. Psalm 4:8 ("In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety") is perfect for bedtime. You might also write a verse on a card and place it on their nightstand — something tangible they can hold when they wake up afraid. Pairing the verse with one of these [bedtime prayers for kids](/blog/bedtime-prayers-for-kids) rounds out the routine.

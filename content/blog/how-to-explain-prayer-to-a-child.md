@@ -4,6 +4,8 @@ slug: "how-to-explain-prayer-to-a-child"
 type: "listicle"
 metaDescription: "A simple guide to explaining prayer to kids who have never prayed. What prayer is, how to pray, the ACTS model for children, and 5 starter prayers."
 keywords: ["explain prayer to a child", "how to teach kids to pray", "prayer for children beginners"]
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 ---
 
 Your child has never prayed before. Maybe they have seen you pray. Maybe they have heard prayers at church or before a meal. But when it comes to actually doing it themselves, they are not sure where to start.
@@ -72,7 +74,7 @@ Kid version: "Thank You, God, for my family, my friends, my home, and my food. T
 
 Kid version: "Please help my grandma feel better. Please help me be brave at school tomorrow. Please be with people who are sad tonight."
 
-"You do not have to use this framework every time. But it is a great way to learn different kinds of prayer. Some prayers are just one sentence. Some are long conversations. Both are wonderful."
+"You do not have to use this framework every time. But it is a great way to learn different kinds of prayer. Some prayers are just one sentence. Some are long conversations. Both are wonderful." When your child is ready to go deeper, walk them through [the Lord's Prayer explained for kids](/blog/lords-prayer-for-kids-explained) -- it is the model Jesus Himself gave.
 
 ## 5 Starter Prayers for Kids
 
@@ -93,7 +95,7 @@ If your child does not know what to say, they can start with one of these:
 ### 5. A Prayer for Someone Else
 "Dear God, please be with [name]. They are going through a hard time. Please help them feel Your love and give them what they need. Amen."
 
-"These are just starting points. You can change the words, add your own, or make up something completely new. God does not care about getting the words perfect — He cares about your heart."
+"These are just starting points. You can change the words, add your own, or make up something completely new. God does not care about getting the words perfect — He cares about your heart." If your child wants more examples, we have full collections of [morning prayers for kids](/blog/morning-prayers-for-kids) and [bedtime prayers for kids](/blog/bedtime-prayers-for-kids).
 
 ## Does God Always Say Yes?
 
@@ -132,7 +134,7 @@ This is one of the most important lessons about prayer, and kids need to hear it
 ## How to Make Prayer a Family Habit
 
 ### Pray at meals
-Even a simple "Thank You, God, for this food" teaches kids that prayer is a regular part of life.
+Even a simple "Thank You, God, for this food" teaches kids that prayer is a regular part of life. These [mealtime prayers for kids](/blog/mealtime-prayers-for-kids) give you a few easy ones to rotate through.
 
 ### Pray at bedtime
 Make it part of the bedtime routine. Ask your child, "What do you want to thank God for today? Is there anything you want to ask Him?"
@@ -144,7 +146,7 @@ Before school drop-off, pray together for the day ahead. It takes 30 seconds and
 When someone is sick, when your child is worried, when you see an ambulance drive by — pray in the moment. This teaches kids that prayer is for real life, not just religious moments.
 
 ### Model imperfect prayer
-Let your kids hear you pray imperfectly. Stumble over words. Pause to think. Pray about everyday things. When kids see that Mom or Dad does not have a script, they realize they do not need one either.
+Let your kids hear you pray imperfectly. Stumble over words. Pause to think. Pray about everyday things. When kids see that Mom or Dad does not have a script, they realize they do not need one either. For more practical ideas on building this habit together, see our guide on [how to pray with kids](/blog/how-to-pray-with-kids).
 
 ## Watch on Faithful Kids
 

@@ -1,6 +1,8 @@
 ---
 title: "God Chooses David for Kids: Bible Story Explained Simply"
 slug: "god-chooses-david-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Rise of Kings"
 seriesSlug: "rise-of-kings"
 episode: 04
@@ -61,10 +63,25 @@ David and Goliath is the ultimate underdog story, and kids instinctively connect
 
 After watching the video, see if your child can answer these questions:
 
-### 1. Where did God send Samuel to find the next king?
+### Where did God send Samuel to find the next king?
 
+**To Jesse's house in Bethlehem.** 
 
+### When Samuel saw Jesse's oldest son Eliab, what did God tell him?
 
+**"Don't look at his appearance — the Lord looks at the heart".**
+
+### How many of Jesse's sons passed before Samuel and were rejected by God?
+
+**Seven.**
+
+### Where was David when Samuel came to anoint the next king?
+
+**Out in the fields watching the sheep.**
+
+### What happened after Samuel anointed David?
+
+**The Spirit of the Lord came powerfully upon David.**
 
 ## Discussion Questions for Families
 

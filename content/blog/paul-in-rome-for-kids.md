@@ -1,6 +1,8 @@
 ---
 title: "Paul in Rome for Kids: Bible Story Explained Simply"
 slug: "paul-in-rome-for-kids"
+datePublished: "2026-04-01"
+dateModified: "2026-08-16"
 series: "Pauls Adventures"
 seriesSlug: "pauls-adventures"
 episode: 09
@@ -61,10 +63,29 @@ Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, s
 
 After watching the video, see if your child can answer these questions:
 
-### 1. How did Paul arrive in Rome?
+### How did Paul arrive in Rome?
 
+**As a prisoner in chains.**
 
+### Where did Paul live while in Rome?
 
+**In his own rented house with a soldier guarding him.**
+
+### How long did Paul preach from his rented house in Rome?
+
+**Two years.**
+
+### How did the gospel spread through the Roman imperial guard?
+
+**Soldiers chained to Paul had to listen to him and then told others.**
+
+### Which of these letters did Paul write from prison in Rome?
+
+**Ephesians, Philippians, Colossians, and Philemon.**
+
+### What is the main lesson of this episode?
+
+**Your circumstances don't determine your impact.**
 
 ## Discussion Questions for Families
 

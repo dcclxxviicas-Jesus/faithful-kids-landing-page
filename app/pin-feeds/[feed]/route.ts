@@ -79,7 +79,18 @@ ${items
 <title>${esc(post.title)}</title>
 <link>${SITE}/blog/${post.slug}</link>
 <guid isPermaLink="true">${SITE}/blog/${post.slug}</guid>
-<description>${esc(post.metaDescription || post.title)}</description>
+<description>${esc(
+      [
+        post.metaDescription || post.title,
+        // Pinterest indexes ~500 chars and rewards related-keyword breadth;
+        // posts carry curated keywords in frontmatter — surface them naturally
+        post.keywords?.length ? post.keywords.slice(0, 4).join(' · ') : '',
+        'From FaithfulKids.app — Bible learning kids love.',
+      ]
+        .filter(Boolean)
+        .join(' | ')
+        .slice(0, 490)
+    )}</description>
 <pubDate>${pubDate.toUTCString()}</pubDate>
 <media:content url="${CDN}/pin-images/${post.slug}.jpg" medium="image" />
 <enclosure url="${CDN}/pin-images/${post.slug}.jpg" type="image/jpeg" length="300000" />

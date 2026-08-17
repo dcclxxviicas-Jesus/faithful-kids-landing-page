@@ -165,7 +165,6 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
     return (
       <div className="tg-card">
         <div style={{ fontSize: '2.6rem', lineHeight: 1, marginBottom: 8 }}>🏆</div>
-        <div className="tg-kicker">Free Bible Game</div>
         <h2 className="tg-title">Bible Trivia Challenge</h2>
         <p className="tg-sub">
           10 questions. Pick your level — how well do you know the greatest story ever told?

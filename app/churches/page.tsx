@@ -74,7 +74,7 @@ export default function Churches() {
           Everything families get — free for your class
         </h2>
         <p className="section-sub">The full app, plus free resources you can use today without signing up for anything.</p>
-        <div className="features-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))' }}>
+        <div className="features-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))' }}>
           <div className="feature-item">
             <div className="feature-icon">📺</div>
             <h3>670 Bible video episodes</h3>

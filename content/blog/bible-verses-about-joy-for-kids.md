@@ -112,7 +112,7 @@ When we teach kids to choose joy, we're giving them something that will carry th
 
 ## Watch on Faithful Kids
 
-Help your kids discover the joy of knowing God's Word through fun, animated video lessons. Faithful Kids makes Bible learning engaging with quizzes, reflections, and a level-up system that keeps kids coming back. It's screen time that feeds their soul.
+Help your kids discover the joy of knowing God's Word through fun, animated video lessons. Faithful Kids makes Bible learning engaging with quizzes, reflections, and a level-up system that keeps kids coming back. It's where kids learn to love the Bible.
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 

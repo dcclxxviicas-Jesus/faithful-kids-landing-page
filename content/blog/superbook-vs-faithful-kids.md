@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Superbook vs Faithful Kids compared. Animation vs narrated lessons, free vs paid, content depth, quizzes, and which Bible app is better for your child."
 keywords: ["superbook vs faithful kids", "superbook bible app review", "best bible app for kids", "superbook app for kids"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-18"
 ---
 
 # Superbook vs Faithful Kids: Which Bible App Is Better?
@@ -91,7 +91,7 @@ Superbook includes simple games and activities alongside its episodes, but these
 
 Faithful Kids builds comprehension checking into every single lesson. After watching, your child answers 3-5 questions ranging from factual recall ("Who did God tell to build an ark?") to interpretive thinking ("Why do you think Abraham trusted God even when the command did not make sense?"). They earn XP for correct answers, which feeds into a level progression system.
 
-This is not a minor feature. It is the difference between your child saying "I watched a Bible video" and "I can tell you what happened and why it matters."
+This is not a minor feature. It is the difference between your child saying "I watched a Bible video" and "I can tell you what happened and why it matters." For the full research case on why quizzing beats passive watching, see our guide to [Bible curriculum with quizzes](/blog/bible-curriculum-with-quizzes).
 
 ---
 

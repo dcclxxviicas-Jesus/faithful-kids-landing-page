@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Compare top homeschool Bible curricula for 2026: Apologia, Sonlight, Answers in Genesis, free options, and video-based programs like Faithful Kids."
 keywords: ["homeschool bible curriculum", "bible curriculum comparison", "best bible curriculum for kids"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-18"
 ---
 
 Choosing a Bible curriculum for your homeschool is one of the most personal decisions you'll make as a parent. You want something that teaches Scripture faithfully, engages your kids, and fits your family's schedule and budget.
@@ -21,6 +21,8 @@ Before diving into specific programs, here are the key factors that matter:
 **Age range.** A curriculum that works for a six-year-old won't work for a twelve-year-old. Some programs span K-12 with different levels; others target specific age ranges.
 
 **Teaching style.** Are you a hands-on, project-based family? A textbook-and-workbook family? A watch-and-discuss family? The best curriculum matches how your kids actually learn.
+
+**Comprehension checks.** Programs that quiz kids after each lesson consistently outperform passive reading for retention -- we explain the research in [Bible curriculum with quizzes](/blog/bible-curriculum-with-quizzes).
 
 **Time commitment.** Some programs require 45-60 minutes daily. Others are designed for 15-20 minutes. Be realistic about what fits your schedule.
 

@@ -276,12 +276,28 @@ export default function Quiz() {
 
   useEffect(() => { posthog.capture('quiz_started') }, [])
 
+  // Restore a completed quiz after returning from Stripe (browser back/swipe)
+  useEffect(() => {
+    try {
+      const raw = sessionStorage.getItem('fk_quiz_state')
+      if (raw) {
+        const s = JSON.parse(raw)
+        if (s.phase === 'result' && s.answers && s.path) {
+          setPath(s.path)
+          setAnswers(s.answers)
+          setPhase('result')
+        }
+      }
+    } catch { /* private mode */ }
+  }, [])
+
   const QUESTIONS = path === 'kid' ? KID_QUESTIONS : PARENT_QUESTIONS
   const total = QUESTIONS.length
   const q = QUESTIONS[step]
   const pct = ((step + 1) / total) * 100
 
   function choosePath(p: 'kid' | 'parent') {
+    try { sessionStorage.removeItem('fk_quiz_state') } catch { /* private mode */ }
     setPath(p)
     posthog.capture('quiz_answer', { question: 'path', answer: p, step: -1 })
     posthog.capture('quiz_path_selected', { path: p })
@@ -339,6 +355,7 @@ export default function Quiz() {
   function startBuild(a: Record<string, string>) {
     setPhase('build')
     posthog.capture('quiz_completed', { ...a, path })
+    try { sessionStorage.setItem('fk_quiz_state', JSON.stringify({ phase: 'result', answers: a, path })) } catch { /* private mode */ }
     const steps = path === 'kid' ? KID_BUILD_STEPS : BUILD_STEPS
     let i = 0, pct = 0
     function tick() {

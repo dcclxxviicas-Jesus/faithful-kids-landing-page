@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "What is Yippee TV? Phil Vischer's Christian kids streaming service -- shows, subscription pricing, and how Yippee TV compares to Faithful Kids for learning."
 keywords: ["yippee tv", "yippee kids tv", "yippee subscription", "yippee tv vs faithful kids", "christian streaming for kids", "bible education app for kids"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-18"
 ---
 
 # Yippee TV vs Faithful Kids: Entertainment vs Education
@@ -42,7 +42,7 @@ Faithful Kids is a Bible education platform that teaches children the stories, l
 - Parent dashboard with content controls
 - Captions on all videos
 
-**Cost:** $14.99/month or $7.99/month billed annually ($95.88/year)
+**Cost:** $8.88/month, or $77.77/year (about $6.48/month)
 
 **Best for:** Families who want their kids to *learn* the Bible -- not just watch stories about it -- with comprehension checks and spiritual reflection built in.
 
@@ -64,9 +64,9 @@ Consider the analogy: watching a nature documentary is wonderful, but it's not t
 |---------|-----------|---------------|
 | **Primary purpose** | Christian entertainment | Bible education |
 | **Content type** | Shows, movies, series | Video lessons + quizzes + reflections |
-| **Monthly cost** | $7.99/mo | $14.99/mo |
-| **Annual cost** | $49/yr | $95.88/yr ($7.99/mo) |
-| **Free trial** | 7 days | 7 days |
+| **Monthly cost** | $7.99/mo | $8.88/mo |
+| **Annual cost** | $49/yr | $77.77/yr (about $6.48/mo) |
+| **Free trial** | 7 days | 3 days (annual plan) |
 | **Age range** | 2-12 | 7-15 |
 | **Number of titles** | 500+ episodes | 200+ lessons |
 | **Quizzes** | No | Yes, after every lesson |
@@ -87,7 +87,7 @@ Yippee TV is the right choice when:
 - **Your kids are young (2-6).** Preschoolers aren't ready for quizzes and reflection. They need bright colors, fun characters, and simple stories. VeggieTales and similar shows are perfect for this age.
 - **You need background entertainment.** Sometimes you just need your kids occupied with something safe while you make dinner. Yippee is great for that.
 - **Your family already has a Bible education routine.** If your kids attend Sunday school, Awana, or a church youth group, they may already be getting structured Bible education. Yippee adds wholesome entertainment on top.
-- **Budget is tight.** At $7.99/month, Yippee is very affordable. If $14.99/month isn't in the budget right now, Yippee keeps Scripture-adjacent content in your home.
+- **Budget is tight.** At $7.99/month ($49/year), Yippee is one of the most affordable options -- slightly less than Faithful Kids' $8.88/month, and meaningfully less on annual plans. If every dollar counts, Yippee keeps Scripture-adjacent content in your home.
 - **You want TV-style content.** Yippee has full series with recurring characters, story arcs, and production values that feel like "real TV." Kids who love watching shows will feel right at home.
 
 ## When to Choose Faithful Kids
@@ -120,7 +120,7 @@ A few other platforms parents often compare:
 - **RightNow Media Kids** -- Large library, but mostly church-produced content of varying quality. Free through many churches.
 - **Bible App for Kids (YouVersion)** -- Excellent for ages 2-6, but only 41 stories with no quizzes or progress tracking. Completely free. (See our full [Bible App for Kids vs Faithful Kids](/blog/bible-app-for-kids-vs-faithful-kids) comparison.)
 - **Superbook** -- High-quality 3D animated series. Free episodes available, premium content requires purchase. (We compare it in depth in [Superbook vs Faithful Kids](/blog/superbook-vs-faithful-kids).)
-- **Minno (formerly JellyToad)** -- Christian streaming similar to Yippee, $6.99/month. Features VeggieTales, Owlegories, and original shows. (Full breakdown in [Minno vs Faithful Kids](/blog/minno-vs-faithful-kids).)
+- **Minno (formerly JellyTelly)** -- Christian streaming similar to Yippee, $10.99/month or $69.99/year. Features VeggieTales, Owlegories, and original shows. (Full breakdown in [Minno vs Faithful Kids](/blog/minno-vs-faithful-kids).)
 
 None of these combine video lessons with interactive quizzes and reflections the way Faithful Kids does. They're all valuable, but they all fall on the "entertainment" side of the spectrum.
 
@@ -138,7 +138,7 @@ If you can swing both, your child gets the best of both worlds: deep learning *a
 
 ## Watch on Faithful Kids
 
-See the difference active learning makes. Start your 7-day free trial and watch your child go from passively watching Bible stories to actively understanding and reflecting on Scripture.
+See the difference active learning makes. Start your 3-day free trial and watch your child go from passively watching Bible stories to actively understanding and reflecting on Scripture.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 
@@ -150,7 +150,7 @@ See the difference active learning makes. Start your 7-day free trial and watch 
 Yippee TV was created by Phil Vischer, who also created VeggieTales. Yippee includes VeggieTales episodes alongside many other Christian shows and movies. Think of it as a streaming platform that includes VeggieTales plus much more.
 
 ### How much does a Yippee TV subscription cost?
-A Yippee subscription costs $7.99 per month or $49 per year (about $4.08 per month billed annually), with a 7-day free trial. That makes it one of the most affordable Christian streaming options for kids -- roughly half the monthly price of Faithful Kids, though the two serve different purposes (entertainment vs. Bible education).
+A Yippee subscription costs $7.99 per month or $49 per year (about $4.08 per month billed annually), with a 7-day free trial. That makes it one of the most affordable Christian streaming options for kids -- just under Faithful Kids' $8.88 per month, though the two serve different purposes (entertainment vs. Bible education).
 
 ### Can Faithful Kids replace Sunday school?
 Faithful Kids provides structured Bible education with lessons, quizzes, and reflections -- similar to what a good Sunday school program offers. While it can supplement or fill in when your family can't attend church, the community aspect of Sunday school (friendships, group discussion, mentorship from teachers) is something no app can fully replace.

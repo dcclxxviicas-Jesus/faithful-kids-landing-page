@@ -34,7 +34,7 @@ export default function Terms() {
 
         <h2>Free Trial</h2>
         <p>
-          New subscribers may receive a 7-day free trial. You will not be charged during the trial
+          New subscribers may receive a 3-day free trial. You will not be charged during the trial
           period. If you do not cancel before the trial ends, your subscription will begin and you
           will be charged according to your selected plan.
         </p>

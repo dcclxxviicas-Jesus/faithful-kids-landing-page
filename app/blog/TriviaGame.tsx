@@ -181,7 +181,7 @@ export function TriviaGame({
           style={{ ...btn, textDecoration: 'none' }}
           onClick={() => track('trivia_game_cta_click', { post: postSlug, score, total: round.length })}
         >
-          Take a Look — Free for 7 Days
+          Take a Look — Free for 3 Days
         </a>
         <div style={{ marginTop: '14px' }}>
           <button

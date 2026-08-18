@@ -30,7 +30,7 @@ export default function Success() {
           Welcome to FaithfulKids!
         </h1>
         <p style={{ fontSize: '1.05rem', color: '#4b5563', marginBottom: 24, lineHeight: 1.6 }}>
-          Your 7-day free trial has started. Your kids can start watching Bible stories right now.
+          Your 3-day free trial has started. Your kids can start watching Bible stories right now.
         </p>
         <div style={{
           background: '#e6f4ea',

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Compare the 7 best educational apps for Christian kids in 2026. Features, pricing, age ranges, and honest reviews of Faithful Kids, Minno, Superbook & more."
 keywords: ["best bible apps for kids", "christian educational apps for kids", "bible app for kids review"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-18"
 ---
 
 Finding quality digital content for your kids is like panning for gold — there is a lot of dirt to sift through before you find something genuinely valuable. Christian parents face a double challenge: the content needs to be both educationally sound and theologically faithful, and it needs to hold a child's attention in a world designed to distract.
@@ -17,7 +17,7 @@ This guide reviews seven of the best educational apps and platforms for Christia
 ## 1. Faithful Kids
 
 **Ages:** 7-15
-**Price:** $14.99/month or $7.99/month billed annually ($95.88/year). 7-day free trial.
+**Price:** $8.88/month, or $77.77/year (about $6.48/month). 3-day free trial on the annual plan.
 **Platform:** iOS app, web browser (app.faithfulkids.app)
 
 **What it is:** A gamified video learning platform that teaches kids the Bible through short AI-generated video episodes (approximately 60 seconds each), followed by interactive quizzes and reflection activities. Think Duolingo, but for Scripture.
@@ -194,7 +194,7 @@ This guide reviews seven of the best educational apps and platforms for Christia
 | Feature | Faithful Kids | Bible App for Kids | Minno | Superbook | Yippee | Adventure Bible | RightNow Media |
 |---------|---------------|-------------------|-------|-----------|--------|-----------------|----------------|
 | **Ages** | 7-15 | 4-8 | 2-12 | 5-12 | 3-10 | 6-10 | 2-15 |
-| **Price/mo** | $14.99 | Free | $9.99 | Free/$9.99 | $9.99 | Free/IAP | Via church |
+| **Price/mo** | $8.88 | Free | $9.99 | Free/$9.99 | $9.99 | Free/IAP | Via church |
 | **Video** | Yes | No | Yes | Yes | Yes | No | Yes |
 | **Quizzes** | Yes | No | No | Academy only | No | Games | No |
 | **Gamification** | Yes | Minimal | No | No | No | Yes | No |

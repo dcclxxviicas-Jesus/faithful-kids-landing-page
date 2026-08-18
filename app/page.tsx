@@ -132,7 +132,7 @@ export default function Home() {
           </p>
 
           <button className="btn-primary btn-hero" onClick={handleCTA}>
-            Try Free for 7 Days
+            Try Free for 3 Days
           </button>
           <p className="hero-subtext">No commitment. Cancel anytime. 30-day money-back guarantee.</p>
 
@@ -330,7 +330,7 @@ export default function Home() {
             <thead>
               <tr>
                 <th>Feature</th>
-                <th className="compare-ours"><strong>Faithful Kids</strong><br/><span>$8.08/mo</span></th>
+                <th className="compare-ours"><strong>Faithful Kids</strong><br/><span>$6.48/mo</span></th>
                 <th>YouTube Kids<br/><span>Free (with ads)</span></th>
                 <th>Others<br/><span>$5-15/mo</span></th>
               </tr>
@@ -372,7 +372,7 @@ export default function Home() {
             {!surveyDone ? (
               <>
                 <h3>Quick question</h3>
-                <p>Would you pay $8.08/month for daily Bible story videos for your kids?</p>
+                <p>Would you pay $6.48/month for daily Bible story videos for your kids?</p>
                 <div className="survey-buttons">
                   <button className="survey-btn yes" onClick={() => handleSurvey(true)}>Yes, I would</button>
                   <button className="survey-btn" onClick={() => handleSurvey(false)}>Probably not</button>
@@ -596,7 +596,7 @@ function StickyBar({ onCTA }: { onCTA: () => void }) {
     <div className="sticky-bar">
       <div className="sticky-inner">
         <span className="sticky-text">
-          <strong>7-day free trial</strong> — then up to 75% off.
+          <strong>3-day free trial</strong> — then up to 75% off.
           Ends in <span className="sticky-timer">{String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}</span>
         </span>
         <button className="sticky-cta" onClick={onCTA}>Claim your free trial</button>
@@ -802,7 +802,7 @@ function ExitIntent() {
           <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" controls autoPlay muted playsInline preload="none" className="exit-video" />
         </div>
         <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/checkout' }}>
-          Try Free for 7 Days
+          Try Free for 3 Days
         </button>
         <p className="exit-sub">30-day money-back guarantee. Cancel anytime.</p>
       </div>

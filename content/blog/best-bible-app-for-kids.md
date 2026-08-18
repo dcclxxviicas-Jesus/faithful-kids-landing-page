@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Comparing the 7 best Bible apps for kids in 2026. Features, pricing, age ranges, and which app is best for your family. Includes free and paid options."
 keywords: ["best bible app for kids", "bible app for kids", "kids bible app", "bible app for children 2026"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-18"
 ---
 
 # Best Bible App for Kids in 2026: Top 7 Apps Compared
@@ -16,7 +16,7 @@ With dozens of Bible apps for kids available, how do you choose the right one? W
 
 | App | Price | Ages | Videos | Quizzes | Ad-Free | Best For |
 |-----|-------|------|--------|---------|---------|----------|
-| **Faithful Kids** | $9.99/mo | 5+ | 400+ | Yes | Yes | Complete Bible coverage with accountability |
+| **Faithful Kids** | $8.88/mo | 5+ | 400+ | Yes | Yes | Complete Bible coverage with accountability |
 | Bible App for Kids | Free | 3-8 | 40+ | No | Yes | Young kids, interactive touch stories |
 | Minno | $9.99/mo | 2-12 | 100s | No | Yes | Animated shows, Netflix-like experience |
 | Superbook | Free | 5-12 | 50+ | No | Yes | High-quality animation, adventure style |
@@ -28,7 +28,7 @@ With dozens of Bible apps for kids available, how do you choose the right one? W
 
 ## 1. Faithful Kids — Best Overall
 
-**Price:** Starting at $9.99/month (7-day free trial)
+**Price:** $8.88/month, or $77.77/year (about $6.48/month) with a 3-day free trial
 **Ages:** 5+
 **Content:** 400+ video lessons across 20 series, Genesis to Revelation
 
@@ -43,11 +43,11 @@ Faithful Kids stands out for two reasons: coverage and accountability. It is the
 - New stories added weekly
 
 **Cons:**
-- Not free (though there is a 7-day free trial)
+- Not free (though the annual plan includes a 3-day free trial)
 - Video only, no interactive touch elements for younger kids
 - Best for ages 5+, younger children may need a simpler app
 
-[Try Faithful Kids free for 7 days](https://faithfulkids.app/quiz?ref=listicle-bestapp)
+[Try Faithful Kids with a 3-day free trial](https://faithfulkids.app/quiz?ref=listicle-bestapp)
 
 ## 2. Bible App for Kids (YouVersion) — Best Free App
 
@@ -178,7 +178,7 @@ God for Kids is a simple app designed for very young children. It has basic Bibl
 
 **Our recommendation:** Start with Faithful Kids for daily Bible learning (the quiz feature makes the difference), and supplement with Minno or Superbook for entertainment-focused viewing.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=listicle-bestapp)
+[**Try Faithful Kids with a 3-day free trial**](https://faithfulkids.app/quiz?ref=listicle-bestapp)
 
 ## Frequently Asked Questions
 
@@ -196,4 +196,4 @@ Yes, the Bible App for Kids by YouVersion is completely free with no ads and no 
 
 ### How much does Faithful Kids cost?
 
-Faithful Kids starts at $9.99/month with a 7-day free trial. Annual plans are available at a discount.
+Faithful Kids costs $8.88/month, or $77.77/year (which works out to about $6.48/month). The annual plan includes a 3-day free trial.

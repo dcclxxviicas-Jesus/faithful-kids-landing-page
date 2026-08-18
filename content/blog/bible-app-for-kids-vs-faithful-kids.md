@@ -22,8 +22,8 @@ Here is a detailed, honest comparison to help you decide which app is the best f
 
 | Feature | Bible App for Kids (YouVersion) | Faithful Kids |
 |---------|-------------------------------|---------------|
-| **Price** | Free | $14.99/mo or $7.99/mo (annual) |
-| **Free trial** | N/A | 7-day free trial |
+| **Price** | Free | $8.88/mo or $77.77/yr (about $6.48/mo) |
+| **Free trial** | N/A | 3-day free trial (annual plan) |
 | **Target ages** | 3-8 | 7-15 |
 | **Content format** | Touch-and-swipe animated stories | 60-second narrated video lessons |
 | **Number of stories** | ~41 stories | 400+ lessons across 31 series |
@@ -118,7 +118,7 @@ Here is how to think about it practically. If your child is under 7 and you want
 
 If your child is 7 or older, or if they have already gone through the Bible App for Kids and you want to take their Bible education to the next level, Faithful Kids fills a gap that no free app currently addresses. For less than the cost of a single Sunday School curriculum book, you get 400+ lessons, comprehension quizzes, guided reflections, and a parent dashboard.
 
-Faithful Kids offers a 7-day free trial, so you can see the difference before committing a single dollar.
+Faithful Kids' annual plan includes a 3-day free trial, so you can see the difference before committing a single dollar.
 
 ---
 
@@ -148,7 +148,7 @@ Weighing other platforms too? See how [Minno compares to Faithful Kids](/blog/mi
 
 ## Watch on Faithful Kids
 
-Ready to see the difference for yourself? Faithful Kids offers a [free 7-day trial](https://faithfulkids.app/quiz) with full access to all 400+ lessons, quizzes, and the parent dashboard. Your child can start learning the Bible in depth today.
+Ready to see the difference for yourself? Faithful Kids offers a [free 3-day trial](https://faithfulkids.app/quiz) on its annual plan, with full access to all 400+ lessons, quizzes, and the parent dashboard. Your child can start learning the Bible in depth today.
 
 [Start Your Free Trial](https://faithfulkids.app/quiz)
 

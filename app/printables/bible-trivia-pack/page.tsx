@@ -267,7 +267,7 @@ export default function BibleTriviaPackPage() {
         }}
       >
         Want trivia with videos, levels, and streaks? Visit{' '}
-        <strong style={{ color: EMERALD }}>faithfulkids.app</strong> — free 7-day trial.
+        <strong style={{ color: EMERALD }}>faithfulkids.app</strong> — free 3-day trial.
       </footer>
     </main>
     <SiteFooter />

@@ -600,8 +600,8 @@ function ResultVideo() {
 }
 
 const PLANS = [
-  { id: 'annual', name: 'Annual', price: 8.08, total: 97.00, period: '/mo', savings: 46, label: 'Best Value', weekly: 1.87 },
-  { id: 'monthly', name: 'Monthly', price: 14.99, total: 14.99, period: '/mo', savings: null, label: null, weekly: 3.46 },
+  { id: 'annual', name: 'Annual', price: 6.48, total: 77.77, period: '/mo', savings: 27, label: 'Best Value · 3-Day Free Trial', weekly: 1.50 },
+  { id: 'monthly', name: 'Monthly', price: 8.88, total: 8.88, period: '/mo', savings: null, label: null, weekly: 2.05 },
 ]
 
 const HERO_NAMES: Record<string, string> = {
@@ -694,7 +694,7 @@ function Result({ answers, liveCount, path }: { answers: Record<string, string>;
               <p style={{ marginTop: '12px', fontSize: '0.88rem', color: '#666' }}>
                 <strong>Parents:</strong> your child just built their own Bible learning plan — matched to
                 ages {age}, starting with {adventureName.replace(/ [^ ]+$/, '')}. Every lesson is a short video narrated by
-                Jesus with a comprehension quiz after. Everything below is ready to go, with a 7-day free trial.
+                Jesus with a comprehension quiz after. Everything below is ready to go -- the annual plan includes a 3-day free trial.
               </p>
             </div>
           </div>
@@ -824,11 +824,11 @@ function Result({ answers, liveCount, path }: { answers: Record<string, string>;
           </div>
 
           <button className="qz-r-btn" onClick={handleCheckout} disabled={loading}>
-            {loading ? 'Redirecting...' : `Start Free 7-Day Trial`}
+            {loading ? 'Redirecting...' : selectedPlan === 'annual' ? 'Start Free 3-Day Trial' : 'Subscribe — $8.88/mo'}
           </button>
 
           <div className="qz-r-trust">
-            <span>✓ 7-day free trial</span>
+            <span>✓ {selectedPlan === 'annual' ? '3-day free trial' : 'Cancel anytime'}</span>
             <span>✓ 30-day money-back</span>
             <span>✓ Cancel anytime</span>
           </div>
@@ -842,7 +842,7 @@ function Result({ answers, liveCount, path }: { answers: Record<string, string>;
       {/* Sticky bottom */}
       <div className="qz-sticky">
         <span className="qz-sticky-timer">{String(min).padStart(2, '0')}:{String(sec).padStart(2, '0')}</span>
-        <button onClick={handleCheckout} disabled={loading}>{loading ? '...' : 'Start Free Trial →'}</button>
+        <button onClick={handleCheckout} disabled={loading}>{loading ? '...' : selectedPlan === 'annual' ? 'Start Free Trial →' : 'Subscribe →'}</button>
       </div>
     </div>
   )

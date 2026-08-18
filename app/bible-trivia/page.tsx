@@ -116,7 +116,7 @@ export default function BibleTriviaPage() {
           Start Your Free Week
         </a>
         <div className="final-badges">
-          <span>✓ 7-day free trial</span>
+          <span>✓ 3-day free trial</span>
           <span>✓ Cancel anytime</span>
           <span>✓ Zero ads, ever</span>
         </div>

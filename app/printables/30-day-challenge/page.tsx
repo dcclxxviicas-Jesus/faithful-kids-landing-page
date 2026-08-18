@@ -366,7 +366,7 @@ export default function ThirtyDayChallengePrintable() {
         }}
       >
         Want every story as a video with a quiz? Visit{' '}
-        <strong style={{ color: EMERALD }}>faithfulkids.app</strong> — free 7-day trial.
+        <strong style={{ color: EMERALD }}>faithfulkids.app</strong> — free 3-day trial.
       </footer>
     </main>
     <SiteFooter />

@@ -108,10 +108,10 @@ DLTK's Bible section isn't technically an app -- it's a website. But it's been a
 
 DLTK is best used as a supplement alongside another Bible teaching tool. Print out a coloring page of David and Goliath after watching the story -- that kind of layered approach works beautifully. (We rounded up more printable options in [Bible coloring pages for kids](/blog/bible-coloring-pages-for-kids).)
 
-## 5. Faithful Kids (7-Day Free Trial)
+## 5. Faithful Kids (3-Day Free Trial)
 
 **Platform:** iOS, Web (app.faithfulkids.app)  
-**Cost:** Free 7-day trial, then $14.99/month or $7.99/month billed annually  
+**Cost:** $8.88/month, or $77.77/year (about $6.48/month) with a free 3-day trial on the annual plan  
 **Best for:** Ages 7-15
 
 Full disclosure -- this is our app, and we built it specifically to address the gaps we saw in free alternatives. Faithful Kids uses AI-generated video lessons narrated by a warm, Jesus-like avatar to walk kids through every major Bible story, followed by interactive quizzes and reflection activities.
@@ -125,7 +125,7 @@ Full disclosure -- this is our app, and we built it specifically to address the 
 - Parent dashboard with controls and progress reports
 
 **Where it falls short:**
-- It's not free beyond the 7-day trial
+- It's not free (the 3-day free trial comes with the annual plan)
 - Requires an internet connection for video streaming
 - Currently Bible-focused (other faith traditions coming soon)
 
@@ -149,7 +149,7 @@ As Proverbs 22:6 says, *"Start children off on the way they should go, and even 
 
 | Feature | Bible App for Kids | Superbook | Adventure Bible | DLTK | Faithful Kids |
 |---------|-------------------|-----------|----------------|------|---------------|
-| Cost | Free | Free/Paid | Free/Paid | Free (ads) | $14.99/mo |
+| Cost | Free | Free/Paid | Free/Paid | Free (ads) | $8.88/mo |
 | Best age | 2-6 | 5-10 | 6-10 | 4-8 | 7-15 |
 | Video lessons | No | Yes (some) | No | No | Yes (200+) |
 | Quizzes | No | Games only | No | No | Yes |
@@ -162,13 +162,13 @@ As Proverbs 22:6 says, *"Start children off on the way they should go, and even 
 
 Start with **Bible App for Kids** if your children are under 6. It's genuinely excellent for that age group. If you want recommendations broken down by developmental stage, see our guide to the [best Bible apps by age](/blog/best-bible-apps-by-age).
 
-For kids aged 7 and up, try the **Faithful Kids 7-day free trial**. If your child stays engaged through quizzes and reflection -- and you see them actually retaining what they learn -- the subscription pays for itself in spiritual growth.
+For kids aged 7 and up, try the **Faithful Kids 3-day free trial**. If your child stays engaged through quizzes and reflection -- and you see them actually retaining what they learn -- the subscription pays for itself in spiritual growth.
 
 And honestly? Use more than one. Let your child watch a Superbook episode for fun, then do the Faithful Kids lesson for learning. *"For where two or three gather in my name, there am I with them"* (Matthew 18:20) -- and that includes gathering around a screen with your kids.
 
 ## Watch on Faithful Kids
 
-Ready to see the difference between watching and *learning*? Start your free 7-day trial and let your kids experience Bible stories through interactive video lessons, quizzes, and reflections.
+Ready to see the difference between watching and *learning*? Start your free 3-day trial and let your kids experience Bible stories through interactive video lessons, quizzes, and reflections.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

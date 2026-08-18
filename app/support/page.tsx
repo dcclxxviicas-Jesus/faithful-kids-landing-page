@@ -81,7 +81,7 @@ export default function Support() {
 
         <h3>Is there a free trial?</h3>
         <p>
-          Yes — every new account gets a 7-day free trial. Cancel anytime before day 7 and you
+          Yes — every new account gets a 3-day free trial. Cancel anytime before day 7 and you
           won&apos;t be charged.
         </p>
 

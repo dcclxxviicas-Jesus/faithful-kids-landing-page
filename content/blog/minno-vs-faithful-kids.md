@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Minno vs Faithful Kids compared honestly -- content style, Bible coverage, quizzes, pricing, and ages, plus which app fits your family's actual goal."
 keywords: ["minno vs faithful kids", "minno review", "minno alternative", "best christian kids app comparison"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-18"
 ---
 
 Minno and Faithful Kids are both Christian video apps for kids, but they are built for different jobs: Minno is Christian entertainment -- a streaming library of full-length animated shows -- while Faithful Kids is Bible education, with short structured lessons, quizzes, and progress tracking through Scripture in order. Choose Minno if you want a safe replacement for Netflix; choose Faithful Kids if you want your child to systematically learn the Bible; many families deliberately run both.
@@ -31,9 +31,9 @@ This comparison walks through content, Bible coverage, learning features, pricin
 | **Built-in session limits** | Yes | No |
 | **Library size** | 400+ lessons across 20 series | Hundreds of episodes across many shows |
 | **Best for** | Daily Bible learning, ages 7-15 | Family movie night, ages 3-10 |
-| **Price** | $14.99/mo, or $7.99/mo billed annually | $10.99/mo or $69.99/yr (about $5.83/mo) |
+| **Price** | $8.88/mo, or $77.77/yr (about $6.48/mo) | $10.99/mo or $69.99/yr (about $5.83/mo) |
 
-Both offer free trials, and both are ad-free -- which is half the reason parents leave YouTube for either of them in the first place.
+Both offer free trials (Faithful Kids' 3-day trial comes with the annual plan), and both are ad-free -- which is half the reason parents leave YouTube for either of them in the first place.
 
 ## When Should You Choose Faithful Kids?
 
@@ -64,7 +64,7 @@ Yes, and this is often the best answer. The apps occupy different slots in a fam
 
 Framed this way, the combined cost replaces both "curriculum" and "Netflix for the kids" line items. Families who try to make one app do both jobs usually end up disappointed in the direction they stretched it -- Minno will not produce Bible literacy on its own, and Faithful Kids will not carry a movie night.
 
-If budget forces a single choice, choose by age and goal: under 6 and mainly fixing entertainment, Minno; 7 and up with a Bible-learning goal, [start a free 7-day trial of Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-vsminno). For the wider field beyond these two, see our roundups of the [best Bible app for kids](/blog/best-bible-app-for-kids) and [best Bible apps by age](/blog/best-bible-apps-by-age).
+If budget forces a single choice, choose by age and goal: under 6 and mainly fixing entertainment, Minno; 7 and up with a Bible-learning goal, [start a free 3-day trial of Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-vsminno). For the wider field beyond these two, see our roundups of the [best Bible app for kids](/blog/best-bible-app-for-kids) and [best Bible apps by age](/blog/best-bible-apps-by-age).
 
 ## Frequently Asked Questions
 
@@ -78,7 +78,7 @@ No. Minno is a streaming service -- kids browse shows and watch, like Netflix. T
 Minno lands best with ages 3-10, since most of its animated library targets younger kids. Faithful Kids is designed for ages 7-15 -- old enough to read quiz questions and follow a structured path. For a 7-to-10-year-old, both fit, which is the age band where families most often run the two together.
 
 ### Which app is cheaper?
-Minno is cheaper month to month -- $10.99/mo or $69.99/yr (about $5.83/mo billed annually), versus $14.99/mo (or $7.99/mo billed annually) for Faithful Kids. On annual plans the gap narrows considerably. Comparing prices directly is slightly misleading, though, since one is priced as entertainment and the other as a learning program; the fairer comparison is against what each replaces.
+It depends on the plan. Month to month, Faithful Kids is cheaper -- $8.88/mo versus $10.99/mo for Minno. On annual plans, Minno edges ahead -- $69.99/yr (about $5.83/mo) versus $77.77/yr (about $6.48/mo) for Faithful Kids. Comparing prices directly is slightly misleading, though, since one is priced as entertainment and the other as a learning program; the fairer comparison is against what each replaces.
 
 ### Does either app work for family devotions or homeschool?
 Faithful Kids does -- its lesson-plus-quiz format drops directly into a homeschool Bible block or a nightly devotion slot, and the sequential structure functions as a scope and sequence. Minno can supplement (a What's in the Bible? episode makes a good discussion springboard), but it has no structure to build a devotional habit or curriculum around.

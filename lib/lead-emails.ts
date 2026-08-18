@@ -85,7 +85,7 @@ export function buildEmail(lead: Lead, stage: number): { subject: string; html: 
 ${button(magnetUrl, `Open the ${m.shortName} →`)}
 <p style="color:#6b7280;font-size:13px;">Tip: print it — ${lead.magnet === 'bedtime-kit' ? 'paper works better than a glowing screen at bedtime' : 'it works better where everyone can see it'}.</p>
 ${lead.source === 'quiz-exit' ? quizRecap(lead) : ''}
-<p style="margin-top:20px;">P.S. Every story in it exists as a 60-second video lesson narrated by Jesus, with a quiz after — that's what we make. <a href="${quizUrl}" style="color:#059669;font-weight:700;">Try it free for 7 days</a> whenever you're curious.</p>`),
+<p style="margin-top:20px;">P.S. Every story in it exists as a 60-second video lesson narrated by Jesus, with a quiz after — that's what we make. <a href="${quizUrl}" style="color:#059669;font-weight:700;">Try it free for 3 days</a> whenever you're curious.</p>`),
       }
     case 2:
       return {
@@ -106,7 +106,7 @@ ${button(utm(`${SITE_URL}/blog/in-the-beginning-creation-for-kids`, stage), 'Wat
 <p style="font-size:22px;font-weight:800;margin:14px 0;color:#059669;">1,095 hours</p>
 <p>That's what "about 3 hours of screens a day" adds up to in a year. Nobody plans it. It just happens.</p>
 <p>Now the hopeful part: <strong>if just 5% of that became Scripture</strong>, your child would walk through the entire Bible — twice — this year. Twenty minutes a day. That's the whole idea behind Faithful Kids.</p>
-${button(quizUrl, 'See how it works — free for 7 days')}
+${button(quizUrl, 'See how it works — free for 3 days')}
 <p style="color:#6b7280;font-size:13px;">No ads. No junk. Cancel anytime.</p>`),
       }
     case 4:
@@ -127,7 +127,7 @@ ${button(quizUrl, 'Start your free week →')}`),
         html: wrap(lead.email, `
 <p>This is the last email in this little series — we promised not to clutter your inbox, and we meant it.</p>
 <p>Just one honest thought before we go: the parents who get the most out of Faithful Kids aren't the ones with perfect routines. They're the ones who swapped <em>one</em> YouTube session a day for one Bible story with a quiz. That's it. That swap compounds into a child who knows Scripture.</p>
-<p>The 7-day trial is free, and the 30-day money-back guarantee covers the rest — there's genuinely no catch.</p>
+<p>The 3-day trial is free, and the 30-day money-back guarantee covers the rest — there's genuinely no catch.</p>
 ${button(quizUrl, 'Give it a week — free')}
 <p>Either way: keep the printable, enjoy the stories, and thank you for letting us into your family's inbox for a few days. 💚</p>`),
       }

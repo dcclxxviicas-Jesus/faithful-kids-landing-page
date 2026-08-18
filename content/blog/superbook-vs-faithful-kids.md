@@ -22,8 +22,8 @@ Both are ad-free. Both are made by people who love Scripture. But they serve dif
 
 | Feature | Superbook | Faithful Kids |
 |---------|-----------|---------------|
-| **Price** | Free | $14.99/mo or $7.99/mo (annual) |
-| **Free trial** | N/A | 7-day free trial |
+| **Price** | Free | $8.88/mo or $77.77/yr (about $6.48/mo) |
+| **Free trial** | N/A | 3-day free trial (annual plan) |
 | **Target ages** | 5-12 | 7-15 |
 | **Content format** | 25-min animated episodes | 60-second narrated video lessons |
 | **Number of episodes** | 50+ full episodes | 400+ lessons across 31 series |
@@ -113,9 +113,9 @@ For parents who want visibility into their child's Bible learning without hoveri
 
 Superbook is free, funded by CBN donations. There are no ads, no premium tier, no hidden costs. This makes it accessible to every family regardless of budget, which is genuinely commendable. (For more no-cost options, see our list of [free Bible apps for kids](/blog/free-bible-apps-for-kids).)
 
-Faithful Kids costs $14.99 per month or $7.99 per month when paid annually ($95.88 per year). There is a 7-day free trial. For a family with multiple children, the subscription covers up to 5 child profiles, so the per-child cost drops significantly.
+Faithful Kids costs $8.88 per month, or $77.77 per year (which works out to about $6.48 per month). The annual plan includes a 3-day free trial. For a family with multiple children, the subscription covers up to 5 child profiles, so the per-child cost drops significantly.
 
-Is Faithful Kids worth the cost? That depends on what you are paying for. If you are comparing it to "watching Bible cartoons," then free is obviously better. If you are comparing it to "a structured Bible education program with assessment and parental oversight," then $7.99 per month is less than a single Sunday School curriculum book, less than one hour of tutoring, and less than most educational apps charge per child.
+Is Faithful Kids worth the cost? That depends on what you are paying for. If you are comparing it to "watching Bible cartoons," then free is obviously better. If you are comparing it to "a structured Bible education program with assessment and parental oversight," then $8.88 per month is less than a single Sunday School curriculum book, less than one hour of tutoring, and less than most educational apps charge per child.
 
 ---
 
@@ -147,7 +147,7 @@ Still comparing? See how Faithful Kids stacks up against other platforms in [Min
 
 ## Watch on Faithful Kids
 
-Want to see the learning approach in action? Faithful Kids offers a [free 7-day trial](https://faithfulkids.app/quiz) with full access to 400+ lessons, quizzes, reflections, and the parent dashboard. Let your child try it and see the difference between watching and learning.
+Want to see the learning approach in action? Faithful Kids offers a [free 3-day trial](https://faithfulkids.app/quiz) on its annual plan, with full access to 400+ lessons, quizzes, reflections, and the parent dashboard. Let your child try it and see the difference between watching and learning.
 
 [Start Your Free Trial](https://faithfulkids.app/quiz)
 

@@ -203,7 +203,7 @@ Faithful Kids is a newer approach that uses AI-generated video lessons to teach 
 - Newer platform (launched 2026)
 - Video-based format may not appeal to families avoiding screens entirely
 
-**Cost:** $14.99/month or $7.99/month billed annually ($95.88/year). Includes a 7-day free trial.
+**Cost:** $8.88/month, or $77.77/year (about $6.48/month). The annual plan includes a 3-day free trial.
 
 Curious how it stacks up against YouVersion's free app? See our [Bible App for Kids vs Faithful Kids comparison](/blog/bible-app-for-kids-vs-faithful-kids).
 
@@ -221,7 +221,7 @@ Curious how it stacks up against YouVersion's free app? See our [Bible App for K
 | Easy Peasy | Free | K-12 | Online lessons | 15-20 min | Yes |
 | Ministry-to-Children | Free | K-6 | Printable lessons | 30-45 min | Yes |
 | Bible App for Kids | Free | 4-8 | App/interactive | 10-15 min | Supplement only |
-| Faithful Kids | $96-180 | 7-15 | Video + quiz | 15-20 min | Yes |
+| Faithful Kids | $78-107 | 7-15 | Video + quiz | 15-20 min | Yes |
 
 ## How to Choose: A Decision Framework
 

@@ -63,7 +63,7 @@ export default function BlogIndex() {
         <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
           Watch the Video Lessons Free
         </a>
-        <p className="blog-hero-note">7-day free trial. No commitment. Cancel anytime.</p>
+        <p className="blog-hero-note">3-day free trial. No commitment. Cancel anytime.</p>
       </section>
 
       {/* SERIES STATS BAR */}
@@ -98,7 +98,7 @@ export default function BlogIndex() {
             by a comprehension quiz. Your child will actually remember what they learned.
           </p>
           <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
-            Try Faithful Kids Free for 7 Days
+            Try Faithful Kids Free for 3 Days
           </a>
           <div className="blog-cta-badges">
             <span>No ads, ever</span>

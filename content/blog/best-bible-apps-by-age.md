@@ -129,7 +129,7 @@ This combination works because teens need both structure and freedom. Faithful K
 
 ## Watch on Faithful Kids
 
-Whether your child is 7 or 15, Faithful Kids meets them where they are. Start your free 7-day trial and see your child engage with Scripture through interactive video lessons, quizzes, and reflections designed for their age.
+Whether your child is 7 or 15, Faithful Kids meets them where they are. Start your free 3-day trial and see your child engage with Scripture through interactive video lessons, quizzes, and reflections designed for their age.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

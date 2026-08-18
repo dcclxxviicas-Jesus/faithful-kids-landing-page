@@ -250,7 +250,7 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
             style={{ textDecoration: 'none', display: 'inline-block' }}
             onClick={() => base('trivia_page_cta_click')}
           >
-            Try it free for 7 days
+            Try it free for 3 days
           </a>
           <p style={{ margin: '12px 0 0' }}>
             <a

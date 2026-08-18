@@ -187,7 +187,7 @@ export function BlogExitIntent({
               Try Faithful Kids Free
             </a>
             <p style={{ fontSize: '0.8rem', color: '#888', margin: '12px 0 0' }}>
-              7-day free trial · 30-day money-back guarantee · Cancel anytime
+              3-day free trial · 30-day money-back guarantee · Cancel anytime
             </p>
             <button
               onClick={() => {

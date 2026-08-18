@@ -7,8 +7,8 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
 
 // Plan configs - prices in cents, billed monthly
 const PLANS: Record<string, { name: string; amount: number; interval: 'month' | 'year'; intervalCount: number }> = {
-  monthly: { name: 'Faithful Kids Monthly', amount: 1499, interval: 'month', intervalCount: 1 },
-  annual: { name: 'Faithful Kids Annual', amount: 9700, interval: 'year', intervalCount: 1 },
+  monthly: { name: 'Faithful Kids Monthly', amount: 888, interval: 'month', intervalCount: 1 },
+  annual: { name: 'Faithful Kids Annual', amount: 7777, interval: 'year', intervalCount: 1 },
 }
 
 export async function POST(req: NextRequest) {
@@ -43,7 +43,8 @@ export async function POST(req: NextRequest) {
         quantity: 1,
       },
     ],
-    ...(plan === 'annual' ? { subscription_data: { trial_period_days: 7 } } : {}),
+    // Annual gets a 3-day free trial; monthly has no trial (charged immediately)
+    ...(plan === 'annual' ? { subscription_data: { trial_period_days: 3 } } : {}),
     success_url: `https://app.faithfulkids.app/activate?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/checkout`,
   })

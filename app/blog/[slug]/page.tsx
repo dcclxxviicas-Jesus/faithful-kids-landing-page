@@ -325,7 +325,7 @@ export default async function BlogPostPage({ params }: Props) {
             your child will love. Followed by a fun quiz to check what they learned.
           </p>
           <a href="/quiz" className="btn-primary" style={{ textDecoration: 'none', display: 'inline-block' }}>
-            Watch Free for 7 Days
+            Watch Free for 3 Days
           </a>
         </div>
 
@@ -421,7 +421,7 @@ export default async function BlogPostPage({ params }: Props) {
             From Genesis to Revelation — safe, ad-free, and made for kids.
           </p>
           <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
-            Try Faithful Kids Free for 7 Days
+            Try Faithful Kids Free for 3 Days
           </a>
           <div className="blog-cta-badges">
             <span>No ads, ever</span>
@@ -435,7 +435,7 @@ export default async function BlogPostPage({ params }: Props) {
       <div className="blog-sticky-cta">
         <div className="blog-sticky-inner">
           <span className="blog-sticky-text">
-            <strong>Start your child&apos;s Bible journey</strong> &mdash; 7 days free
+            <strong>Start your child&apos;s Bible journey</strong> &mdash; 3 days free
           </span>
           <a href="/quiz" className="btn-primary" style={{ textDecoration: 'none', padding: '10px 24px', fontSize: '0.88rem' }}>
             Try Free

@@ -9,21 +9,23 @@ const PLANS = [
   {
     id: 'annual',
     name: 'Annual Plan',
-    price: 8.08,
-    period: '/mo',
-    total: 97.00,
-    weekly: 1.87,
-    savings: 46,
+    display: '$77.77',
+    unit: '/year',
+    sub: '3-day free trial \u00b7 just $1.50 a week',
+    dueToday: 0,
+    renewLine: 'Free for 3 days, then $77.77/year',
+    save: 'Save ~$30 a year',
     label: 'Best Value',
   },
   {
     id: 'monthly',
     name: 'Monthly Plan',
-    price: 14.99,
-    period: '/mo',
-    total: 14.99,
-    weekly: 3.46,
-    savings: null,
+    display: '$8.88',
+    unit: '/month',
+    sub: 'No trial \u00b7 cancel anytime',
+    dueToday: 8.88,
+    renewLine: 'Renews monthly \u00b7 cancel anytime',
+    save: null,
     label: null,
   },
 ]
@@ -60,8 +62,7 @@ export default function Checkout() {
     setLoading(true)
     posthog.capture('checkout_continue', {
       plan: selected,
-      price: plan.price,
-      total: plan.total,
+      due_today: plan.dueToday,
     })
 
     try {
@@ -131,14 +132,13 @@ export default function Checkout() {
                 <div className="plan-info">
                   <div className="plan-name-row">
                     <span className="plan-name">{p.name}</span>
-                    {p.label && <span className={`plan-label ${p.id === 'annual' ? 'best' : 'popular'}`}>{p.label}</span>}
-                    {p.savings && <span className="plan-save">SAVE {p.savings}%</span>}
+                    {p.label && <span className="plan-label best">{p.label}</span>}
+                    {p.save && <span className="plan-save">{p.save}</span>}
                   </div>
-                  <span className="plan-total">${p.total.toFixed(2)} total</span>
+                  <span className="plan-total">{p.sub}</span>
                 </div>
                 <div className="plan-price-col">
-                  <span className="plan-weekly">${p.weekly.toFixed(2)}/week</span>
-                  <span className="plan-monthly">${p.price.toFixed(2)} {p.period}</span>
+                  <span className="plan-monthly" style={{ fontSize: '1.25rem', fontWeight: 800, color: '#1e293b' }}>{p.display}<small style={{ fontSize: '0.7em', fontWeight: 600, color: '#64748b' }}>{p.unit}</small></span>
                 </div>
               </button>
             ))}
@@ -147,7 +147,7 @@ export default function Checkout() {
           {/* Mobile-only checkout button */}
           <div className="mobile-checkout-btn">
             <button className="btn-checkout" onClick={handleContinue} disabled={loading}>
-              {loading ? 'Redirecting to payment...' : 'Continue to Payment'}
+              {loading ? 'Redirecting to payment...' : selected === 'annual' ? 'Start Free 3-Day Trial' : 'Continue to Payment'}
             </button>
             <p style={{ textAlign: 'center', margin: '12px 0 0', fontSize: '14px', color: '#888' }}>
               Already have an account?{' '}
@@ -192,25 +192,25 @@ export default function Checkout() {
                 <p className="summary-plan-name">{plan.name}</p>
                 <p className="summary-plan-desc">Bible Story Videos for Kids</p>
               </div>
-              <p className="summary-plan-price">${plan.total.toFixed(2)}</p>
+              <p className="summary-plan-price">{plan.display}{plan.unit}</p>
             </div>
             <div className="summary-line">
-              <span>Per month</span>
-              <span>${plan.price.toFixed(2)}/mo</span>
+              <span>Billing</span>
+              <span>{plan.renewLine}</span>
             </div>
-            {plan.savings && (
+            {plan.save && (
               <div className="summary-line savings">
                 <span>You save</span>
-                <span>{plan.savings}% off monthly price</span>
+                <span>~$30 vs monthly</span>
               </div>
             )}
             <div className="summary-total">
-              <span>Total today</span>
-              <span>${plan.total.toFixed(2)}</span>
+              <span>Total due today</span>
+              <span>${plan.dueToday.toFixed(2)}</span>
             </div>
 
             <button className="btn-checkout" onClick={handleContinue} disabled={loading}>
-              {loading ? 'Redirecting to payment...' : 'Continue to Payment'}
+              {loading ? 'Redirecting to payment...' : selected === 'annual' ? 'Start Free 3-Day Trial' : 'Continue to Payment'}
             </button>
 
             <p style={{ textAlign: 'center', margin: '12px 0 0', fontSize: '14px', color: '#888' }}>

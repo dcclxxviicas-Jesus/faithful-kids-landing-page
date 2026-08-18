@@ -600,8 +600,8 @@ function ResultVideo() {
 }
 
 const PLANS = [
-  { id: 'annual', name: 'Annual', price: 6.48, total: 77.77, period: '/mo', savings: 27, label: 'Best Value · 3-Day Free Trial', weekly: 1.50 },
-  { id: 'monthly', name: 'Monthly', price: 8.88, total: 8.88, period: '/mo', savings: null, label: null, weekly: 2.05 },
+  { id: 'annual', name: 'Annual', display: '$77.77', unit: '/year', sub: '3-day free trial \u00b7 just $1.50 a week', badge: 'BEST VALUE', save: 'Save $28.79 a year' },
+  { id: 'monthly', name: 'Monthly', display: '$8.88', unit: '/month', sub: 'No trial \u00b7 cancel anytime', badge: null, save: null },
 ]
 
 const HERO_NAMES: Record<string, string> = {
@@ -679,9 +679,9 @@ function Result({ answers, liveCount, path }: { answers: Record<string, string>;
           ) : (
             <h1>Your family&apos;s personalized<br />Bible journey</h1>
           )}
-          <p>{isKid
+          <p style={{ marginBottom: 0 }}>{isKid
             ? `Starring ${heroName}. First stop: ${adventureName}`
-            : `${Object.keys(answers).length} answers analyzed. Here's what we built.`}</p>
+            : 'Built from your answers \u2014 pick a plan and start today.'}</p>
         </div>
 
         {/* Kid → parent handoff */}
@@ -702,6 +702,45 @@ function Result({ answers, liveCount, path }: { answers: Record<string, string>;
 
         {/* Live */}
         <div className="qz-r-live">🔥 {liveCount} families taking this quiz right now</div>
+
+        {/* Plan selection */}
+        <div className="qz-r-section" style={{ marginTop: '4px' }}>
+          <div className="qz-r-timer">Your plan is reserved for <strong>{String(min).padStart(2, '0')}:{String(sec).padStart(2, '0')}</strong></div>
+          <div className="qz-r-plans">
+            {PLANS.map(p => (
+              <button
+                key={p.id}
+                className={`qz-r-plan ${selectedPlan === p.id ? 'selected' : ''}`}
+                onClick={() => { setSelectedPlan(p.id); posthog.capture('quiz_plan_select', { plan: p.id }) }}
+              >
+                {p.badge && <span className="qz-r-plan-badge best">{p.badge}</span>}
+                <div className="qz-r-plan-row">
+                  <div className="qz-r-plan-radio"><div className={selectedPlan === p.id ? 'on' : ''} /></div>
+                  <div className="qz-r-plan-info">
+                    <strong>{p.name}</strong>
+                    <span>{p.sub}</span>
+                  </div>
+                  <div className="qz-r-plan-price">
+                    <strong>{p.display}<small style={{ fontSize: '0.72em', fontWeight: 600, color: '#64748b' }}>{p.unit}</small></strong>
+                    {p.save && <span style={{ color: '#16a34a', fontWeight: 700 }}>{p.save}</span>}
+                  </div>
+                </div>
+              </button>
+            ))}
+          </div>
+
+          <button className="qz-r-btn" onClick={handleCheckout} disabled={loading}>
+            {loading ? 'Redirecting...' : selectedPlan === 'annual' ? 'Start My Free 3-Day Trial' : 'Subscribe — $8.88/month'}
+          </button>
+
+          <div className="qz-r-trust">
+            {selectedPlan === 'annual'
+              ? <><span>✓ Free for 3 days</span><span>✓ 30-day money-back</span><span>✓ Cancel anytime</span></>
+              : <><span>✓ No contract</span><span>✓ 30-day money-back</span><span>✓ Cancel anytime</span></>}
+          </div>
+          <p className="qz-r-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
+        </div>
+
 
         {/* Before / After */}
         <div className="qz-r-section">
@@ -795,45 +834,7 @@ function Result({ answers, liveCount, path }: { answers: Record<string, string>;
           </div>
         </div>
 
-        {/* Plan selection */}
-        <div className="qz-r-section">
-          <h2>Choose your plan</h2>
-          <div className="qz-r-timer">Plan reserved for <strong>{String(min).padStart(2, '0')}:{String(sec).padStart(2, '0')}</strong></div>
-          <div className="qz-r-plans">
-            {PLANS.map(p => (
-              <button
-                key={p.id}
-                className={`qz-r-plan ${selectedPlan === p.id ? 'selected' : ''}`}
-                onClick={() => { setSelectedPlan(p.id); posthog.capture('quiz_plan_select', { plan: p.id }) }}
-              >
-                {p.label && <span className={`qz-r-plan-badge ${p.id === 'annual' ? 'best' : ''}`}>{p.label}</span>}
-                <div className="qz-r-plan-row">
-                  <div className="qz-r-plan-radio"><div className={selectedPlan === p.id ? 'on' : ''} /></div>
-                  <div className="qz-r-plan-info">
-                    <strong>{p.name}</strong>
-                    <span>${p.total.toFixed(2)} total</span>
-                  </div>
-                  <div className="qz-r-plan-price">
-                    <strong>${p.price.toFixed(2)}{p.period}</strong>
-                    <span>${p.weekly.toFixed(2)}/week</span>
-                  </div>
-                </div>
-                {p.savings && <div className="qz-r-plan-save">SAVE {p.savings}%</div>}
-              </button>
-            ))}
-          </div>
 
-          <button className="qz-r-btn" onClick={handleCheckout} disabled={loading}>
-            {loading ? 'Redirecting...' : selectedPlan === 'annual' ? 'Start Free 3-Day Trial' : 'Subscribe — $8.88/mo'}
-          </button>
-
-          <div className="qz-r-trust">
-            <span>✓ {selectedPlan === 'annual' ? '3-day free trial' : 'Cancel anytime'}</span>
-            <span>✓ 30-day money-back</span>
-            <span>✓ Cancel anytime</span>
-          </div>
-          <p className="qz-r-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
-        </div>
 
         {/* Spacer for sticky bar */}
         <div style={{ height: '80px' }} />

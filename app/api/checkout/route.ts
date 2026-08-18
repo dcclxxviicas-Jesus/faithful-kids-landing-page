@@ -25,6 +25,7 @@ export async function POST(req: NextRequest) {
     mode: 'subscription',
     payment_method_types: ['card'],
     allow_promotion_codes: true,
+    phone_number_collection: { enabled: true },
     line_items: [
       {
         price_data: {

@@ -1,18 +1,18 @@
 ---
-title: "10 Sunday School Lessons for Preschoolers (Ages 3-5)"
+title: "20 Sunday School Lessons for Preschoolers (Ages 3-5)"
 slug: "sunday-school-lessons-for-preschoolers"
 type: "listicle"
-metaDescription: "10 complete Sunday school lessons for preschoolers ages 3-5 -- each with a story summary, one activity, one takeaway line, and a short memory verse."
-keywords: ["sunday school lessons for preschoolers", "preschool sunday school lessons", "bible lessons for preschoolers", "preschool bible lessons", "sunday school for 3 year olds", "toddler sunday school lessons"]
+metaDescription: "20 free Sunday school lessons for preschoolers ages 3-5 -- each with a story summary, one activity, one takeaway line, and a short memory verse."
+keywords: ["sunday school lessons for preschoolers", "free preschool sunday school lessons", "preschool sunday school lessons", "bible lessons for preschoolers", "preschool bible lessons", "sunday school for 3 year olds", "toddler sunday school lessons"]
 datePublished: "2026-08-16"
-dateModified: "2026-08-16"
+dateModified: "2026-08-19"
 ---
 
-The best Sunday school lessons for preschoolers follow one simple formula: a short story (3-5 minutes), one hands-on activity, one takeaway sentence repeated several times, and a memory verse of seven words or fewer. Below are 10 complete lessons built exactly that way, ready to teach ages 3-5 with almost no prep.
+The best Sunday school lessons for preschoolers follow one simple formula: a short story (3-5 minutes), one hands-on activity, one takeaway sentence repeated several times, and a memory verse of seven words or fewer. Below are 20 complete lessons built exactly that way, ready to teach ages 3-5 with almost no prep.
 
 If you've taught this age group, you know the truth: preschoolers don't need more content -- they need less content, delivered better. A 3-year-old will not remember your three-point outline. They will remember "God made everything!" if you say it eight times, let them shout it back, and attach it to something they did with their hands.
 
-Each lesson below runs about 20-25 minutes. Stretch or shrink as your morning requires. For story-time help beyond Sunday morning, our list of [Bible stories for preschoolers](/blog/bible-stories-for-preschoolers) pairs well with these.
+Each lesson below runs about 20-25 minutes. Stretch or shrink as your morning requires. These are free preschool Sunday school lessons in the plainest sense: nothing here is behind a signup, nothing needs a purchased curriculum, and every supply is something your church closet already has. Teach one a week and you have five months of Sundays covered. For story-time help beyond Sunday morning, our list of [Bible stories for preschoolers](/blog/bible-stories-for-preschoolers) pairs well with these.
 
 ## What Makes a Good Preschool Sunday School Lesson?
 
@@ -125,6 +125,110 @@ Keep these rules taped inside your supply cabinet:
 
 **Verse:** "Let the little children come to me." -- Mark 10:14
 
+## Lesson 11: Abraham Said Yes to God
+
+**Story summary:** God told Abraham to pack up and move to a brand-new place. Abraham did not get a map. He did not get to see the house first. God said "go," and Abraham went, because he trusted God to take care of the rest. (Genesis 12:1-4)
+
+**Activity:** Suitcase march. Fill a small bag or backpack with a few toys, and let kids take turns packing it and marching around the room to a chair marked "the new place." Everyone waves goodbye and cheers when the traveler arrives.
+
+**Takeaway line:** "I can go where God says."
+
+**Verse:** "Abram went, as the Lord had told him." -- Genesis 12:4 (shorten to "I will go where God says")
+
+## Lesson 12: God Had a Plan for Joseph
+
+**Story summary:** Joseph's brothers were mean to him and sent him far away. That was a very sad day. But God stayed with Joseph the whole time, and years later Joseph got to save his whole family from hunger. God can bring good things even out of sad days. (Genesis 37 and 45)
+
+**Activity:** Colorful coat. Give each child a paper coat shape and strips of colored tissue paper or crayons to fill it in. As each color goes on, name one way God takes care of us: food, family, friends, home, church.
+
+**Takeaway line:** "God is with me on happy days and sad days."
+
+**Verse:** "God intended it for good." -- Genesis 50:20
+
+## Lesson 13: God Made a Dry Path Through the Sea
+
+**Story summary:** God's people were trapped -- water in front of them, chariots behind them. Moses held out his staff, and God pushed the water back to make a dry road right through the middle of the sea. Every single person walked across safely. (Exodus 14)
+
+**Activity:** Blue sheet sea. Two adults or big kids hold up a blue sheet, then lift it high while children walk through the "dry path" one at a time. Wiggle it like waves, then hold it apart and shout, "God made a way!"
+
+**Takeaway line:** "God makes a way for me."
+
+**Verse:** "The Lord will fight for you." -- Exodus 14:14
+
+## Lesson 14: The Walls of Jericho Fell Down
+
+**Story summary:** God told Joshua to march his people around a big walled city once a day for six days, and seven times on the seventh day. Then everyone shouted -- and the enormous walls came crashing down. God's instructions did not sound like a plan. They worked anyway. (Joshua 6)
+
+**Activity:** Block wall march. Build a tall wall out of blocks or cardboard boxes. Kids march around it silently six times, then on the seventh lap everyone shouts as loud as they can and the wall gets knocked down. Rebuild and repeat, because they will ask.
+
+**Takeaway line:** "I can obey God even when it seems silly."
+
+**Verse:** "Be strong and courageous." -- Joshua 1:9
+
+## Lesson 15: Samuel Heard God Say His Name
+
+**Story summary:** Little Samuel was lying down at bedtime when he heard someone call his name. He ran to Eli three times. Finally Eli understood: it was God. So Samuel answered, "Speak, Lord, I'm listening." God talks to kids too. (1 Samuel 3:1-10)
+
+**Activity:** Who called your name? Kids lie on mats with eyes closed while you whisper one child's name. That child sits up and says, "Speak, Lord, I'm listening." Go around until every name has been called. This one gets quieter every round, which is a small miracle.
+
+**Takeaway line:** "God knows my name, and I can listen."
+
+**Verse:** "Speak, Lord, for your servant is listening." -- 1 Samuel 3:9
+
+## Lesson 16: Solomon Asked for a Wise Heart
+
+**Story summary:** God told young King Solomon he could ask for anything at all. He could have asked for money, or a bigger castle, or to live forever. Instead Solomon asked God to make him wise so he could take good care of people -- and God was so pleased that He gave him wisdom and much more besides. (1 Kings 3:5-13)
+
+**Activity:** The wish crown. Kids decorate a paper crown, then go around the circle finishing the sentence "If I could ask God for one thing, I would ask for ___." Say every answer back warmly, then teach the good one: "God, help me be wise."
+
+**Takeaway line:** "I can ask God to help me choose the good thing."
+
+**Verse:** "Give your servant a discerning heart." -- 1 Kings 3:9 (shorten to "God, make my heart wise")
+
+## Lesson 17: Jonah and the Big Fish
+
+**Story summary:** God told Jonah to go to a city called Nineveh, but Jonah got on a boat going the opposite way. A storm blew up, Jonah ended up in the sea, and a giant fish swallowed him. Jonah prayed for three days -- and God gave him another chance. (Jonah 1-3)
+
+**Activity:** Fish tunnel. Drape a blanket over two chairs to make a fish's belly. Kids crawl in, count to three, and crawl out the other side while everyone cheers, "God gave Jonah another chance!" A paper-plate fish with a moving mouth works too.
+
+**Takeaway line:** "God gives me another chance."
+
+**Verse:** "Salvation comes from the Lord." -- Jonah 2:9 (shorten to "God saves me")
+
+## Lesson 18: Jesus Called Zacchaeus by Name
+
+**Story summary:** Zacchaeus was too short to see over the crowd, so he climbed a tree. Jesus stopped right underneath, looked up, and called him by his name -- and invited Himself over for dinner. Nobody else wanted to be Zacchaeus's friend. Jesus did. (Luke 19:1-10)
+
+**Activity:** Climb and see. Set up a sturdy step stool with an adult spotting. Each child climbs up, looks around, and everyone calls out, "[Name], come down! Jesus wants to be your friend!" Then a pretend dinner party with plastic food.
+
+**Takeaway line:** "Jesus knows my name and wants to be my friend."
+
+**Verse:** "The Son of Man came to seek and to save the lost." -- Luke 19:10 (shorten to "Jesus came to find us")
+
+## Lesson 19: Jesus Is Alive!
+
+**Story summary:** Jesus died on the cross because He loves us. His friends were very sad and laid Him in a cave with a big stone across the door. But on Sunday morning the stone was rolled away and the cave was empty -- Jesus was alive! (Luke 24:1-8)
+
+**Activity:** Roll the stone. Make a cave from a paper plate folded in half with a circle "stone" to slide aside. Kids open and shut it while everyone says the line. Keep this lesson light and joyful; the good news is the whole point at this age.
+
+**Takeaway line:** "Jesus is alive!"
+
+**Verse:** "He is not here; he has risen!" -- Luke 24:6
+
+## Lesson 20: The Helper Who Stopped
+
+**Story summary:** A man got hurt and was lying beside the road. Two people walked right past him. Then a third man stopped, bandaged him up, put him on his own donkey, and paid for a safe place for him to rest. Jesus said: be like that man. (Luke 10:25-37)
+
+**Activity:** Boo-boo bandages. Give each child a doll or stuffed animal and a few sticker bandages. Kids "find" their patient on the floor, stop, bandage it, and carry it somewhere safe. Ask each one, "Were you a walk-past or a stop-and-help?"
+
+**Takeaway line:** "I can be the one who stops and helps."
+
+**Verse:** "Go and do likewise." -- Luke 10:37 (shorten to "I can help too")
+
+## Can Preschoolers Really Handle a Solomon Lesson?
+
+Yes -- as long as you teach the wish, not the throne. Solomon shows up in preschool searches more than teachers expect, and Lesson 16 above works because the hook is something every 4-year-old already understands: someone offers you anything you want, and you have to pick. The politics, the temple building, and Solomon's later mistakes belong to older classes. What preschoolers can carry home is the choice itself -- Solomon asked for a wise heart instead of treasure, and God was glad. If you want the fuller version to read aloud or send home, our story post [Solomon asks for wisdom](/blog/solomon-asks-for-wisdom-for-kids) tells it at an elementary reading level, and his famous wise ruling in [Solomon's wise judgment](/blog/solomons-wise-judgment-for-kids) makes a good follow-up week for a 5-year-old class.
+
 ## How Do You Keep 3-Year-Olds Engaged for a Whole Lesson?
 
 You keep preschoolers engaged by changing the activity every 5-7 minutes and letting their bodies participate in the story. A workable rhythm: welcome song (3 min), story with motions (5 min), activity (8 min), snack with takeaway-line review (5 min), free play or coloring (5 min). Our roundup of [Sunday school games for kids](/blog/sunday-school-games-for-kids) has quick movement games that fit the transitions, and [Bible crafts with lessons built in](/blog/bible-crafts-for-kids-with-lessons) work well when you have an extra 10 minutes to fill.
@@ -135,7 +239,7 @@ One more tool worth knowing about: many teachers use the short animated video le
 
 When a preschool lesson falls apart, drop the plan and return to the takeaway line with a movement activity. Meltdowns, wiggles, and a fire truck driving past the window are not failures -- they're Tuesday. Stand up, do the motions, sing the song again, and repeat the one sentence you want them to leave with. If they walk out to their parents saying "God made everything!", the morning was a win, whatever it looked like from inside the room.
 
-If you're building out a full quarter of teaching, our broader guide to [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school) covers structure for every age group.
+If you're building out a full quarter of teaching, our broader guide to [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school) covers structure for every age group. For the two Sundays that matter most on the church calendar, swap in a seasonal plan: our [Christmas Sunday school lessons](/blog/christmas-sunday-school-lessons) and [Easter Sunday school lessons](/blog/easter-sunday-school-lessons) both include preschool adaptations, so you can run them in the same 20-minute rhythm you use here.
 
 ## Frequently Asked Questions
 
@@ -153,7 +257,7 @@ Yes -- but keep it under seven words and treat it as a chant, not a recitation. 
 
 ### How much prep time do these lessons take?
 
-Each lesson here takes 10-15 minutes of prep -- gathering household supplies like paper plates, cotton balls, cups, and a blanket. The stories can be told from a children's Bible or from the summaries above. If your church has a supply closet with construction paper, glue sticks, and crayons, you're equipped for all 10 lessons.
+Each lesson here takes 10-15 minutes of prep -- gathering household supplies like paper plates, cotton balls, cups, blocks, and a blanket. The stories can be told from a children's Bible or from the summaries above. If your church has a supply closet with construction paper, glue sticks, and crayons, you're equipped for all 20 lessons.
 
 ### What do I do with mixed ages, like 2-year-olds alongside 5-year-olds?
 
@@ -161,4 +265,4 @@ Teach to the middle and give the oldest kids helper jobs. A 5-year-old can hold 
 
 ### Should I repeat lessons, or always teach something new?
 
-Repeat freely -- preschoolers love repetition and learn through it. Many teachers run each of these 10 lessons twice in a quarter, changing only the activity the second time. If a child says "We already did Noah!", smile and say "Good memory! Let's see what else we can find in the story" -- that's retention, and it's exactly what you're after.
+Repeat freely -- preschoolers love repetition and learn through it. Twenty lessons is roughly five months of Sundays, so many teachers run the whole list once and then cycle back through it, changing only the activity the second time around. If a child says "We already did Noah!", smile and say "Good memory! Let's see what else we can find in the story" -- that's retention, and it's exactly what you're after.

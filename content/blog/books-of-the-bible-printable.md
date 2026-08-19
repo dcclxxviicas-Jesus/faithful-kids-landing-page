@@ -2,10 +2,10 @@
 title: "Books of the Bible Printable Guide for Kids (All 66 Books)"
 slug: "books-of-the-bible-printable"
 type: "listicle"
-metaDescription: "A printable-ready list of all 66 books of the Bible with kid-friendly descriptions, plus songs, chunking tricks, and games to help kids memorize them."
-keywords: ["books of the bible printable", "books of the bible list for kids", "66 books of the bible", "memorize books of the bible", "books of the bible song", "bible books in order for kids"]
+metaDescription: "A printable-ready list of all 66 books of the Bible with kid-friendly descriptions, plus wall charts, bookmarks, songs, and games to help kids memorize them."
+keywords: ["books of the bible printable", "books of the bible printables", "books of the bible list for kids", "66 books of the bible", "books of the bible chart", "books of the bible bookmark", "memorize books of the bible"]
 datePublished: "2026-08-16"
-dateModified: "2026-08-16"
+dateModified: "2026-08-19"
 ---
 
 The Bible has 66 books -- 39 in the Old Testament and 27 in the New Testament -- and this guide gives you the full list in order with a one-line, kid-friendly description of each. Print it, tape it inside your child's Bible cover, and use the memorization strategies below to help them learn all 66 in a few weeks.
@@ -105,6 +105,52 @@ The 66 books run from Genesis to Revelation, and they're easiest to learn in gro
 64. **3 John** -- A thank-you note for showing hospitality.
 65. **Jude** -- Defend the faith.
 66. **Revelation** -- Jesus wins, and God makes everything new.
+
+## What Books of the Bible Printables Should You Make?
+
+There are three formats worth printing, and each does a different job: a **list** for reference, a **wall chart** for daily exposure, and a **bookmark** for use inside an actual Bible. Most families need all three, and all three come from the same source material -- the list above. Build them once and reprint as they wear out.
+
+### Format 1: The One-Page List
+
+A one-page list is the reference copy: all 66 books in order, grouped by section, small enough type to fit on a single sheet.
+
+**How to build it:** Two columns, portrait orientation. Old Testament in the left column, New Testament in the right. Bold the section headers (The Law, OT History, Poetry and Wisdom, Major Prophets, Minor Prophets, Gospels and Acts, Paul's Letters, General Letters and Prophecy) and number every book 1 through 66. Color-code the eight section headers if you have a color printer; if not, use a different indentation or a small symbol for each section. Nine or ten point type fits comfortably.
+
+**How to use it:** Slide it into a page protector and add a check-off column at the far left, so kids mark each book as they learn it. Tape a copy inside a Bible's front cover, put one in the family binder, and keep one in the Sunday school folder. The check-off column is what makes kids come back to it -- the checking-off is half the motivation.
+
+**Variation for young kids:** Make a New Testament-only version. Twenty-seven books on a half sheet in large type is far less intimidating than 66 in small type, and finishing it builds the confidence to attempt the Old Testament.
+
+### Format 2: The Wall Chart
+
+A wall chart is the same information at ten times the size, designed to be readable from across a room, and it does its work through sheer repetition -- kids absorb the sequence by walking past it hundreds of times.
+
+**How to build it:** Print the eight sections on eight separate landscape sheets and tape them together into a long horizontal banner, or print at poster size if you have access to a large-format printer. Each section gets its own color band across the top with the section name and book count ("Minor Prophets -- 12 books"). Books listed in order within the band, in the largest type that fits. Skip the descriptions on a wall chart; the wall chart's job is sequence, not content.
+
+**Where to hang it:** The hallway outside a bedroom, the stairwell, beside the breakfast table, or along a Sunday school classroom's back wall at kid height. Low enough that a 7-year-old can touch it matters more than centered and tidy.
+
+**Three ways to use it actively:**
+
+1. **Point-and-say.** Ninety seconds after breakfast: your child points at each book in one section and says it aloud.
+2. **Cover and recall.** Sticky-note over three books; can they name what's hidden?
+3. **Section race.** Time how fast they can read one band aloud, and keep the record in pencil on the chart itself.
+
+A wall chart also gives you a natural place to mark progress through a reading plan -- put a small sticker on each book as your family reads something from it. Our free [30-Day Family Bible Challenge](/printables/30-day-challenge) walks kids through the big story from creation to resurrection with one short reading a day, and sticking a dot on the chart for each day's book turns an abstract list into a map of where you've actually been.
+
+### Format 3: Bookmarks
+
+A books-of-the-Bible bookmark is the format that lives inside the Bible, which makes it the one kids use most, because it's there at the exact moment they need it -- during a sermon, when the pastor says "turn to Habakkuk."
+
+**How to build it:** A 2 by 8 inch vertical strip, printed on card stock. Old Testament books down one side of a two-column layout, New Testament down the other, in seven or eight point type with section headers in bold. Print two-sided: the list on the front, and on the back a small "how to find a verse" key (book, then chapter, then verse) plus the section groupings with their counts. Cut, then laminate or cover with clear packing tape -- an un-laminated bookmark lasts about a month in a kid's Bible.
+
+**Three bookmark variations worth making:**
+
+- **The Old Testament / New Testament pair.** Two bookmarks instead of one, each in bigger type. Easier for young readers, and you can keep them in two different places in the Bible.
+- **The progress bookmark.** Small empty circles beside each book. Kids fill in the circle for every book they can name from memory or have read from. It doubles as a tracker.
+- **The section bookmark.** One bookmark per section (eight total), each with just those books in large type. Kids carry only the section they're currently learning, which is chunking made physical.
+
+Bookmarks make the best giveaway of the three formats -- print a class set, and every kid takes the Bible's table of contents home in their pocket.
+
+For the other paper tools that pair with these -- verse cards, coloring pages, word searches, and reading charts -- see our roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids), and our [Bible study printables](/blog/bible-study-printables) guide covers the reading charts and trackers that pair with a wall chart.
 
 ## What's the Best Way for Kids to Memorize the Books of the Bible?
 

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Teach kids gratitude with 15 Bible verses about thankfulness. Simple explanations and fun activities to help children develop a grateful heart."
 keywords: ["bible verses about thankfulness for kids", "gratitude bible verses children", "thankful scripture for kids"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-19"
 ---
 
 # 15 Bible Verses About Thankfulness for Kids
@@ -143,8 +143,9 @@ The final verse on our list circles back to the same truth that runs through all
 3. **Create a gratitude jar.** Write thankful moments on slips of paper and read them together at the end of the month.
 4. **Talk about hard things too.** Help kids see that even in difficult seasons, there are things to be grateful for.
 5. **Celebrate thankfulness.** When you catch your child being genuinely grateful, point it out and praise them for it.
+6. **Play it, don't preach it.** A November round of [Thanksgiving Bible trivia](/blog/thanksgiving-bible-trivia) gets kids talking about gratitude without a single lecture.
 
-For stories that model grateful hearts, read these [Bible stories about gratitude for kids](/blog/bible-stories-about-gratitude-for-kids) together.
+For stories that model grateful hearts, read these [Bible stories about gratitude for kids](/blog/bible-stories-about-gratitude-for-kids) together. And when your kids start asking the harder questions these verses raise, our [Bible questions and answers](/blog/bible-questions-and-answers) guide covers the ones children ask most.
 
 ## Watch on Faithful Kids
 

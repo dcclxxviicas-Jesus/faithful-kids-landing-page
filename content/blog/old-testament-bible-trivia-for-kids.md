@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "45 Old Testament trivia questions for kids with answers and verse references -- Genesis through the prophets, sorted easy, medium, and hard by age."
 keywords: ["old testament trivia for kids", "old testament quiz questions", "bible trivia genesis", "old testament questions and answers for children", "sunday school old testament trivia", "bible quiz old testament stories"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-19"
 ---
 
 Here are 45 Old Testament trivia questions for kids, with answers and Scripture references, sorted into easy (ages 5-7), medium (ages 8-11), and hard (ages 12+) rounds. The questions run in rough story order from Genesis through the prophets -- Creation, Noah, Abraham, Joseph, Moses, the judges, the kings, and heroes like Daniel and Esther.
@@ -16,7 +16,7 @@ The Old Testament is a goldmine for kids' trivia because it's packed with the mo
 
 Use them wherever your family already gathers -- dinner table, car, bedtime -- and match the round to the kid. A few proven setups:
 
-- **Dinner table:** Two questions per night. Kids answer their level; parents must take the hard round.
+- **Dinner table:** Two questions per night. Kids answer their level; parents must take the hard round -- pull those from our [hard Bible trivia questions](/blog/hard-bible-trivia-questions) if you want the grown-ups genuinely stumped.
 - **Sunday school:** Run the easy round as a warm-up, then use medium questions to review whatever era you're teaching.
 - **Road trips:** Story-order questions work great in the car -- each answer sets up the next story.
 - **Timeline game:** For older kids, shuffle the questions and have them put the people in historical order (Adam, Noah, Abraham, Joseph, Moses, David, Daniel).
@@ -182,7 +182,7 @@ If your family enjoys quiz-style learning, our video lessons at [Faithful Kids](
 
 Because they send kids back to the actual text -- which is the whole point. "What fruit did Eve eat?" and "How many of each animal went on the ark?" are the two most-missed Bible questions in America, and both are missed because we learned the stories from pictures instead of pages. When a nine-year-old discovers that Genesis 7:2 says seven pairs of clean animals, something clicks: the Bible is checkable. That instinct -- "let's see what it actually says" -- will serve them for life.
 
-When your family has mastered this list, keep going with our full [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids), which mixes both testaments.
+When your family has mastered this list, keep going with our full [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids), which mixes both testaments, or move up to the all-ages master set of [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers).
 
 ## Frequently Asked Questions
 

@@ -5,14 +5,14 @@ type: "listicle"
 metaDescription: "The 20 best Bible stories for Sunday school, in teaching order -- each with a short retelling, key verse, and discussion questions for ages 5-12."
 keywords: ["bible stories for sunday school", "sunday school bible stories", "sunday school lesson ideas", "bible lessons for kids church"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-19"
 ---
 
 The best Bible stories for Sunday school have a clear hero, a visible act of God, and one big truth a child can repeat on the car ride home -- and the 20 below check all three boxes. Each comes with a short retelling, a key verse, and discussion questions, arranged in Bible order so a year of lessons builds one continuous story from Creation to the early church.
 
 ## How Do You Teach One of These Stories in a Sunday School Hour?
 
-Keep the story short and spend your time on the conversation: an opening game (5 minutes), the story told with energy (5-7 minutes), the key verse read together twice (2 minutes), discussion (10 minutes), and a craft or review game to close. If you need ready-made openers, our list of [Sunday school opening activities](/blog/sunday-school-opening-activities) requires zero prep, and our [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school) turn any story below into a complete hour.
+Keep the story short and spend your time on the conversation: an opening game (5 minutes), the story told with energy (5-7 minutes), the key verse read together twice (2 minutes), discussion (10 minutes), and a craft or review game to close. If you need ready-made openers, our list of [Sunday school opening activities](/blog/sunday-school-opening-activities) requires zero prep, and our [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school) turn any story below into a complete hour. For the discussion block, keep our [Bible questions and answers](/blog/bible-questions-and-answers) guide nearby -- it covers the questions kids raise most often, so you are not caught flat-footed mid-lesson.
 
 ### 1. Creation (Genesis 1-2)
 Out of nothing, God spoke everything -- light, seas, stars, animals, and finally people made in His own image. Six days of making, one day of rest, and God called it all very good.
@@ -116,7 +116,7 @@ Beaten and locked in the innermost cell, Paul and Silas spent midnight singing h
 
 ## How Do You Keep Kids Engaged After the Story?
 
-Discussion carries the lesson, but movement seals it. Follow the questions with a quick review game -- our [Sunday school games for kids](/blog/sunday-school-games-for-kids) and [Bible review games for Sunday school](/blog/bible-review-games-for-sunday-school) both sort by age and group size -- or a hands-on project from our [Bible crafts for Sunday school](/blog/bible-crafts-for-sunday-school). If your class likes screens, each story above is also a 60-second video with a built-in quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-sundayschool), which many teachers play as the story introduction before discussion.
+Discussion carries the lesson, but movement seals it. Follow the questions with a quick review game -- our [Sunday school games for kids](/blog/sunday-school-games-for-kids) and [Bible review games for Sunday school](/blog/bible-review-games-for-sunday-school) both sort by age and group size -- or a hands-on project from our [Bible crafts for Sunday school](/blog/bible-crafts-for-sunday-school). A five-question round drawn from our [easy Bible trivia questions](/blog/easy-bible-trivia-questions) also works as a fast closer when you are down to your last few minutes. If your class likes screens, each story above is also a 60-second video with a built-in quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-sundayschool), which many teachers play as the story introduction before discussion.
 
 ## Frequently Asked Questions
 

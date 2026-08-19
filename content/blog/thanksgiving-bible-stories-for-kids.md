@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "8 Bible stories about thankfulness for kids, plus a family Thanksgiving devotion plan. Teach gratitude through Scripture this November."
 keywords: ["thanksgiving bible stories for kids", "gratitude bible stories", "thankfulness scripture for children"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-19"
 ---
 
 Thanksgiving is more than turkey and football. It's a chance to teach your kids something that sticks with them all year: gratitude rooted in faith.
@@ -115,7 +115,7 @@ Read Psalm 136 (the "His love endures forever" psalm). Each day, name one attrib
 Read James 1:2-4. This one's harder. Each day, name one difficult experience that God used for good in your family. Thank Him for what He taught you through it.
 
 **Thanksgiving Day: The Thankful Table**
-Before your Thanksgiving meal, go around the table. Each person shares three things: one thing they're thankful for from this year, one thing they're thankful for about the person sitting next to them, and one thing they're thankful God is teaching them.
+Before your Thanksgiving meal, go around the table. Each person shares three things: one thing they're thankful for from this year, one thing they're thankful for about the person sitting next to them, and one thing they're thankful God is teaching them. Once the plates are cleared and the cousins get restless, a round of [Thanksgiving Bible trivia](/blog/thanksgiving-bible-trivia) keeps everyone at the table a little longer.
 
 Close with 1 Chronicles 16:34: "Give thanks to the Lord, for he is good; his love endures forever."
 
@@ -129,7 +129,7 @@ Thanksgiving is a launching pad, not a finish line. Here are three habits that k
 
 **Bedtime prayers.** End each day with "Thank you, God, for..." and let your kids fill in the blank. Over time, this becomes a reflex -- their default orientation shifts toward gratitude.
 
-For more to work with, browse our [Bible verses about thankfulness for kids](/blog/bible-verses-about-thankfulness-for-kids) and these [Thanksgiving prayers for the family](/blog/thanksgiving-prayers-for-family).
+For more to work with, browse our [Bible verses about thankfulness for kids](/blog/bible-verses-about-thankfulness-for-kids) and these [Thanksgiving prayers for the family](/blog/thanksgiving-prayers-for-family). When you want a game rather than a devotion, our [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers) works any night of the year.
 
 As Colossians 3:17 says: "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him."
 

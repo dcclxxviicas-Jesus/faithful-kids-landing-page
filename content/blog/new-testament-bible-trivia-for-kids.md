@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "45 New Testament trivia questions for kids with answers and verse references -- Jesus' life, parables, miracles, and the book of Acts, sorted by difficulty."
 keywords: ["new testament trivia for kids", "new testament quiz questions", "bible trivia about jesus", "gospel trivia for kids", "book of acts trivia", "new testament questions and answers for children"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-19"
 ---
 
 Here are 45 New Testament trivia questions for kids, with answers and Scripture references, organized by difficulty: easy for ages 5-7, medium for ages 8-11, and hard for ages 12 and up. The questions walk through the whole New Testament story -- Jesus' birth, miracles, and parables, then the resurrection, Pentecost, and the adventures of Peter and Paul in the book of Acts.
@@ -17,7 +17,7 @@ Most kids know the Gospel headlines (walking on water, feeding the 5,000) but ha
 Match the round to the kid, and let everyone play at their own level. A few formats that work:
 
 - **Family quiz night:** Kids answer from their age bracket; parents must answer hard-round questions. Keep score on paper.
-- **Sunday school review:** The easy round makes a great warm-up; the Acts questions work well after a unit on the early church.
+- **Sunday school review:** The easy round makes a great warm-up; the Acts questions work well after a unit on the early church. Our [Bible quiz questions and answers](/blog/bible-quiz-questions-and-answers) page is built for exactly this kind of end-of-lesson review.
 - **Car rides and waiting rooms:** No supplies needed -- just read a question aloud.
 - **Bedtime bonus round:** One question after prayers. If they get it right, they pick tomorrow's Bible story.
 
@@ -180,7 +180,7 @@ If your family likes learning this way, our video lessons at [Faithful Kids](htt
 
 ## What Makes New Testament Trivia Different From General Bible Trivia?
 
-New Testament trivia rewards kids who know the story's sequence, not just its scenes. The Old Testament reads like a collection of hero stories, but the New Testament is one connected narrative: Jesus' life leads to the cross, the cross to the resurrection, the resurrection to Pentecost, and Pentecost to the church spreading from Jerusalem to Rome. Once kids see that chain, the Acts questions stop feeling like obscure names and start feeling like chapters of an adventure they already know. For a broader mix that spans both testaments, our [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids) is the natural next round.
+New Testament trivia rewards kids who know the story's sequence, not just its scenes. The Old Testament reads like a collection of hero stories, but the New Testament is one connected narrative: Jesus' life leads to the cross, the cross to the resurrection, the resurrection to Pentecost, and Pentecost to the church spreading from Jerusalem to Rome. Once kids see that chain, the Acts questions stop feeling like obscure names and start feeling like chapters of an adventure they already know. For a broader mix that spans both testaments, our [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids) is the natural next round, and the full [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers) master list carries the same game from Genesis all the way to Revelation.
 
 ## Frequently Asked Questions
 

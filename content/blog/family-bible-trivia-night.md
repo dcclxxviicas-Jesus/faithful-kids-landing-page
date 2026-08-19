@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Host a family Bible trivia night in 5 easy steps: pick teams, use three rounds, keep scoring simple. Includes 30 ready-to-use questions with answers."
 keywords: ["family bible trivia night", "bible trivia for families", "family bible quiz night", "bible game night ideas", "bible trivia questions for family", "how to host bible trivia"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-08-19"
 ---
 
 A family Bible trivia night needs just four things: mixed-age teams, three short rounds (a kids round, a parents round, and an all-play round), a simple 2-1-0 scoring system, and snacks. This guide gives you the full run-of-show plus 30 ready-to-use questions with answers and verse references -- everything you need to host one this weekend.
@@ -81,7 +81,7 @@ Answer: **Adam and Eve** (Genesis 2:7, 3:20)
 
 ## Round 2: Parents Round (10 Questions)
 
-Hard questions -- adults only, and the kids get to enjoy watching them squirm.
+Hard questions -- adults only, and the kids get to enjoy watching them squirm. If your grown-ups clear these too easily, restock the round from our [Bible trivia for adults](/blog/bible-trivia-for-adults) set.
 
 **11. Who was chosen by lot to replace Judas as the twelfth apostle?**
 Answer: **Matthias** (Acts 1:26)
@@ -155,7 +155,7 @@ And end the night by reading one short passage together -- the story behind whic
 
 ## Where Do You Get More Questions for Next Time?
 
-Rotate your question bank so trivia night stays fresh -- a monthly night needs about 30 new questions each time. Our [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids) covers several months of kids rounds, and [Bible trivia for teens](/blog/bible-trivia-for-teens) is perfect once your older kids age out of the all-play round. For variety between trivia nights, mix in a few active options from our list of [Bible games for kids](/blog/bible-games-for-kids) -- charades and drawing games reach the kids who freeze up on quiz questions.
+Rotate your question bank so trivia night stays fresh -- a monthly night needs about 30 new questions each time. Our [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids) covers several months of kids rounds, and [Bible trivia for teens](/blog/bible-trivia-for-teens) is perfect once your older kids age out of the all-play round. The fastest way to refill all three rounds at once is our master bank of [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers), which is already sorted into four difficulty tiers. When December rolls around, swap the whole night over to [Christmas Bible trivia](/blog/christmas-bible-trivia) so the questions match the season. For variety between trivia nights, mix in a few active options from our list of [Bible games for kids](/blog/bible-games-for-kids) -- charades and drawing games reach the kids who freeze up on quiz questions.
 
 Between game nights, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) quietly do the prep work for you -- each Bible story comes with an animated video and a quiz, so kids show up to trivia night already knowing the material (and gunning to beat their parents).
 

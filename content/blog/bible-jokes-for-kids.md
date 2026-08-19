@@ -5,14 +5,14 @@ type: "listicle"
 metaDescription: "30 clean, family-friendly Bible jokes for kids. Perfect for Sunday school, car rides, and dinner tables. Kid-appropriate humor with biblical references."
 keywords: ["bible jokes for kids", "christian jokes for kids", "clean bible humor for children"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-19"
 ---
 
 # 30 Clean Bible Jokes for Kids (Family Friendly)
 
 Laughter is a gift from God. Proverbs 17:22 says, "A cheerful heart is good medicine," and there is no better medicine for a family than laughing together. These 30 clean Bible jokes are kid-tested and parent-approved. They are perfect for lightening the mood at Sunday school, filling long car rides, or getting the whole family giggling at the dinner table.
 
-Fair warning: some of these are wonderfully corny. That is the point. Kids ages 5-14 love a good groan-worthy joke, especially when it connects to something they are learning about in the Bible.
+Fair warning: some of these are wonderfully corny. That is the point. Kids ages 5-14 love a good groan-worthy joke, especially when it connects to something they are learning about in the Bible. Want jokes the grown-ups will groan at too? See our all-ages collection of [70 funny Bible jokes](/blog/funny-bible-jokes).
 
 ## The Jokes
 

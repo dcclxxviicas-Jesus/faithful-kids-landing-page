@@ -5,14 +5,14 @@ type: "listicle"
 metaDescription: "10 themed Bible word search puzzles for kids. Creation, Noah's Ark, Christmas, Easter, Fruit of the Spirit, and more. Plus how to make your own."
 keywords: ["bible word search for kids", "free bible word search puzzles", "christian word search for children"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-19"
 ---
 
 # Free Bible Word Search Puzzles for Kids
 
 Word searches are one of those rare activities that feel like pure fun while sneaking in real learning. When a child scans a grid looking for the word "RESURRECTION" or "BETHLEHEM," they are spelling it out letter by letter, reinforcing the word in their memory, and building vocabulary they will recognize when they encounter it in the Bible, at church, or in a devotional.
 
-Bible word searches are especially powerful for kids ages 5-12 because they combine literacy skills with scriptural vocabulary. A child who can find "PHARISEE" in a word search is more likely to pay attention when they hear the word in a Sunday sermon. A child who has spelled out "COMPASSION" letter by letter is building a foundation for understanding what that word means in the context of Jesus' teaching. Word searches also pair well with other [Bible games for kids](/blog/bible-games-for-kids) for a full family game night.
+Bible word searches are especially powerful for kids ages 5-12 because they combine literacy skills with scriptural vocabulary. A child who can find "PHARISEE" in a word search is more likely to pay attention when they hear the word in a Sunday sermon. A child who has spelled out "COMPASSION" letter by letter is building a foundation for understanding what that word means in the context of Jesus' teaching. Word searches also pair well with other [Bible games for kids](/blog/bible-games-for-kids) for a full family game night, and a few [funny Bible jokes](/blog/funny-bible-jokes) between puzzles keep younger kids at the table when their focus starts to slip.
 
 Below you will find 10 themed Bible word searches with complete word lists, plus instructions for making your own custom puzzles.
 
@@ -127,7 +127,7 @@ Perhaps most importantly, word searches are fun. When a child associates Bible v
 
 **Ages 7-9:** Standard grid size (12x12), words up to 8 letters, words can go across, down, and diagonally. Include 10-12 words per puzzle.
 
-**Ages 10-12:** Larger grid (15x15), longer vocabulary words, diagonal and backward words included. Challenge them with 15-20 words and add bonus questions at the bottom.
+**Ages 10-12:** Larger grid (15x15), longer vocabulary words, diagonal and backward words included. Challenge them with 15-20 words and add bonus questions at the bottom -- our [easy Bible trivia questions](/blog/easy-bible-trivia-questions) are the right length to drop into that bonus slot.
 
 **Ages 13+:** Use advanced vocabulary (sanctification, reconciliation, propitiation) and a 20x20 grid. Include a Bible verse reference for each word and ask them to look up the passages.
 

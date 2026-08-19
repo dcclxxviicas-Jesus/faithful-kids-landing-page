@@ -92,6 +92,15 @@ export const GUIDE_CATEGORIES: GuideCategory[] = [
       'Every season is a teaching moment. These guides pair each holiday with the stories, activities, and traditions that keep its meaning in front of your kids.',
   },
   {
+    name: 'Printables',
+    slug: 'bible-printables',
+    title: 'Free Bible Printables for Kids',
+    description:
+      'Printable Bible resources for families and classrooms -- coloring pages, verse cards, word searches, bingo, journaling and study templates.',
+    intro:
+      'Everything here is built to be printed and used: coloring page ideas by story, memory verse cards, word searches, bingo sets, and study templates. Our three free downloads live on the printables page.',
+  },
+  {
     name: 'Activities',
     slug: 'bible-games-and-activities',
     title: 'Bible Games and Activities',
@@ -168,8 +177,9 @@ export function getGuideCategory(slug: string): string {
   if (slug.startsWith('bible-stories-for-') || slug === 'best-bible-stories-for-kids') return 'By Age'
   if (slug.includes('screen-time') || slug.includes('digital-stewardship') || slug.includes('christian-alternatives')) return 'Screen Time'
   if (slug.includes('-vs-') || slug.includes('best-bible-app') || slug.includes('free-bible-apps') || slug.includes('best-educational') || slug.includes('best-bible-apps') || slug === 'bible-app-for-kids-review') return 'App Reviews'
-  if (slug.includes('sunday-school') || slug.includes('homeschool') || slug.includes('lesson-plan') || slug.includes('memory-verse') || slug.includes('bible-study-group') || slug.includes('discussion-questions') || slug.includes('curriculum')) return 'Teaching'
+  if (slug.includes('sunday-school') || slug.includes('homeschool') || slug.includes('lesson-plan') || slug.includes('object-lesson') || slug.includes('memory-verse') || slug.includes('bible-study-group') || slug.includes('discussion-questions') || slug.includes('curriculum') || slug.includes('childrens-church') || slug.includes('teaching-the-bible') || slug.includes('teacher-tips')) return 'Teaching'
   if (slug.includes('holy-week') || slug.includes('advent') || slug.includes('thanksgiving') || slug.includes('christmas') || slug.includes('easter') || slug.includes('lent') || slug.includes('new-year') || slug.includes('back-to-school') || slug.includes('summer')) return 'Seasonal'
+  if (slug.includes('printable') || slug.includes('coloring')) return 'Printables'
   if (slug.includes('trivia') || slug.includes('riddles') || slug.includes('jokes') || slug.includes('games') || slug.includes('word-search') || slug.includes('coloring') || slug.includes('crafts') || slug.includes('fun-facts')) return 'Activities'
   if (slug.includes('family') || slug.includes('devotions') || slug.includes('bible-time') || slug.includes('30-day') || slug.includes('dinner')) return 'Family'
   if (slug.includes('parenting') || slug.includes('godly-kids') || slug.includes('pray-with') || slug.includes('church-fun') || slug.includes('podcast') || slug.includes('when-should')) return 'Parenting'

@@ -5,10 +5,10 @@ type: "listicle"
 metaDescription: "8 ready-to-teach Bible lesson plans for elementary ages 6-10 -- each with an objective, story, discussion questions, activity, and memory verse."
 keywords: ["bible lesson plans for elementary", "elementary sunday school lessons", "bible lessons for elementary students", "sunday school lesson plans", "bible lessons for kids ages 6-10", "elementary bible curriculum"]
 datePublished: "2026-08-16"
-dateModified: "2026-08-16"
+dateModified: "2026-08-20"
 ---
 
-Here are 8 complete Bible lesson plans for elementary kids (ages 6-10), each with a clear objective, story passage, discussion questions, activity, and memory verse -- ready to teach with 15 minutes of prep or less. Each plan fills a 40-45 minute class and follows the same rhythm, so once you've taught one, you've learned the system.
+Here are 8 complete Bible lesson plans for elementary kids (ages 6-10), each with a clear objective, story passage, discussion questions, activity, and memory verse -- ready to teach with 15 minutes of prep or less. Each plan fills a 40-45 minute class and follows the same rhythm, so once you've taught one, you've learned the system. Nothing here sits behind a paywall either -- these eight join the rest of our [no-cost lesson archive](/blog/free-sunday-school-lessons).
 
 Elementary kids are the sweet spot of Sunday school. They can read, reason, and remember -- but they still think concretely, so every lesson below anchors its big idea to something kids can see, touch, or act out. If you teach a wide age range, aim your questions at the 8-year-olds and let the 6s and 10s meet you there.
 
@@ -144,7 +144,7 @@ Adapt by shifting the discussion questions, not the story or activity. Six-year-
 | 8-9 | 8-10 minutes | Why did they do it? | Read short verses aloud themselves |
 | 10 | 10-12 minutes | What would you do? What does it mean? | Look up passages independently |
 
-If your class skews younger, borrow simpler activities from our [Sunday school lessons for preschoolers](/blog/sunday-school-lessons-for-preschoolers) approach. If it skews older, add an object lesson -- our collection of [Bible object lessons for kids](/blog/bible-object-lessons-for-kids) slots neatly into the Hook segment.
+If your class skews younger, borrow simpler activities from our [Sunday school lessons for preschoolers](/blog/sunday-school-lessons-for-preschoolers) approach. If it skews older, add an object lesson -- our collection of [Bible object lessons for kids](/blog/bible-object-lessons-for-kids) slots neatly into the Hook segment. And when you need the whole span in one place, our index of [graded lessons for every age](/blog/sunday-school-lessons-for-kids) runs from preschool through preteen.
 
 ## What If You Run Out of Time -- or Have Time Left Over?
 
@@ -178,4 +178,4 @@ State it simply and truthfully without dwelling on physical detail: "Jesus died 
 
 ### What supplies do I need for all 8 lessons?
 
-Everything here uses standard supply-closet items: construction paper, crayons, sticky notes, a backpack and books, plastic eggs, a first-aid kit, and star stickers. Total cost if you're buying from scratch is under $25, and nothing requires advance ordering. Each lesson's prep is 15 minutes or less, mostly reading the passage and gathering materials.
+Everything here uses standard supply-closet items: construction paper, crayons, sticky notes, a backpack and books, plastic eggs, a first-aid kit, and star stickers. Total cost if you're buying from scratch is under $25, and nothing requires advance ordering. Each lesson's prep is 15 minutes or less, mostly reading the passage and gathering materials. If you'd rather hand kids something ready-made than cut and glue, our [printable Bible study sheets](/blog/bible-study-printables) cover the same stories and need nothing but a printer.

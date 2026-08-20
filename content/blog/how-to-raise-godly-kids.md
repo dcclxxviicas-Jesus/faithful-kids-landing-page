@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Practical guide to raising godly kids in today's culture. 8 biblical strategies with scripture for Christian parents who want to build lasting faith."
 keywords: ["how to raise godly kids", "raising christian children", "godly parenting", "raising kids in faith"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-20"
 ---
 
 Let's be honest: raising kids who love God in today's world can feel like swimming upstream. Your children are immersed in a culture that often contradicts what you teach at home. The shows they watch, the apps they scroll, the conversations they overhear at school -- it all adds up. And at some point, every Christian parent lies awake wondering the same thing: Am I doing enough?
@@ -18,7 +18,7 @@ Here are eight practical, biblical strategies for raising godly kids -- not in a
 
 Children are excellent observers and terrible listeners. They may not remember the devotional you read last Tuesday, but they will remember how you handled a stressful situation, whether you prayed when things got hard, and how you treated people who were difficult.
 
-Your faith has to be real before it can be transferred. Let your kids see you reading the Bible, not just telling them to read it. Let them hear you pray honestly, not just formally. When you mess up, apologize and tell them you need God's grace too. Authenticity is the most powerful parenting tool you have.
+Your faith has to be real before it can be transferred. Let your kids see you reading the Bible, not just telling them to read it. Let them hear you pray honestly, not just formally. When you mess up, apologize and tell them you need God's grace too. Authenticity is the most powerful parenting tool you have. If your own faith feels thin right now, a good book can refill the tank before you try to pour it out -- our list of [must-read Christian parenting books](/blog/best-christian-parenting-books) is a place to start.
 
 **Scripture:** "In everything set them an example by doing what is good" (Titus 2:7).
 
@@ -32,7 +32,7 @@ Kids thrive on routine, and spiritual habits are no different. The goal is not t
 - **Weekly:** Church together. Not as an obligation but as a family priority.
 - **Seasonal:** Mark Easter, Christmas, and other moments with their true meaning.
 
-The rhythm matters more than the length. Five minutes of consistent daily connection with God will shape your child more than one marathon Bible study per month. If you are not sure where to begin, learn how to [pray together as a family](/blog/how-to-pray-with-kids) or build a simple [family Bible time habit](/blog/how-to-start-family-bible-time).
+The rhythm matters more than the length. Five minutes of consistent daily connection with God will shape your child more than one marathon Bible study per month. If you are not sure where to begin, learn how to [pray together as a family](/blog/how-to-pray-with-kids) or build a simple [family Bible time habit](/blog/how-to-start-family-bible-time). Seasonal rhythms give you easy on-ramps too: a week of [gratitude devotions around the Thanksgiving table](/blog/thanksgiving-devotions-for-kids) often turns into a habit that outlasts November.
 
 **Scripture:** "Train up a child in the way he should go; even when he is old he will not depart from it" (Proverbs 22:6).
 
@@ -111,7 +111,7 @@ Raising godly kids is not about having all the answers, running a perfect househ
 
 Joshua 24:15 says it best: "But as for me and my household, we will serve the Lord." That declaration is not about perfection. It is about direction. You have chosen a direction for your family, and that choice matters more than you know.
 
-Keep going. Keep praying. Keep reading the stories, having the conversations, and living the faith in front of your kids. The seeds you plant today will bear fruit for generations.
+Keep going. Keep praying. Keep reading the stories, having the conversations, and living the faith in front of your kids. And when you need backup, there is plenty of it: our roundup of [tools and ministries built for Christian families](/blog/christian-parenting-resources) covers everything from devotionals to curriculum. The seeds you plant today will bear fruit for generations.
 
 ## Watch on Faithful Kids
 

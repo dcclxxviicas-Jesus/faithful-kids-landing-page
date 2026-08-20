@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "How to start family Bible time with a step-by-step guide and a complete 7-day starter plan."
 keywords: ["how to start family bible time", "family devotions for kids", "family bible study", "bible time with kids"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-20"
 ---
 
 # How to Start Family Bible Time (7-Day Starter Plan Included)
@@ -26,7 +26,7 @@ Before the "how," let us settle the "why," because on the nights when you are ex
 
 **It creates connection.** Family Bible time is not just about information transfer. It is a shared experience that creates memories, rituals, and a common language. Years from now, your children will remember sitting together and talking about David's courage or Ruth's loyalty.
 
-**It compounds.** Fifteen minutes a day, five days a week, for a year is over 60 hours of Bible teaching. That is more than most adults get in a decade of Sunday sermons. Consistency beats intensity.
+**It compounds.** Fifteen minutes a day, five days a week, for a year is over 60 hours of Bible teaching. That is more than most adults get in a decade of Sunday sermons. Consistency beats intensity, which is exactly why a set of [devotions you can finish in a quarter hour](/blog/15-minute-family-devotions) outperforms the ambitious hour you never actually schedule.
 
 ---
 
@@ -94,7 +94,7 @@ When you miss a day, do not apologize or make it a big deal. Just pick it back u
 
 ## The 7-Day Starter Plan
 
-Use this plan to begin tonight. Each day includes a story, a key verse, three discussion questions, and a simple activity. Total time: 10-15 minutes per day.
+Use this plan to begin tonight. Each day includes a story, a key verse, three discussion questions, and a simple activity. Total time: 10-15 minutes per day. If your kids would rather draw than talk, keep a stack of [Bible journaling sheets](/blog/bible-journaling-printables) on the table and let those stand in for the activity.
 
 ### Day 1: Creation (Genesis 1:1-2:3)
 
@@ -210,7 +210,7 @@ Once you have completed the 7-day plan, you have several options:
 3. **Use Faithful Kids.** The app covers Genesis to Revelation in 400+ short video lessons with built-in quizzes and reflections, perfect for family Bible time with zero prep.
 4. **Follow your child's interests.** If they loved the David story, explore more of David's life. If they connected with Jonah, look at other prophets.
 
-Ready for a bigger goal? Take on the [30-day family Bible challenge](/blog/30-day-family-bible-challenge), or fold in [daily Bible devotions for kids](/blog/bible-devotions-for-kids-daily) to keep the momentum going.
+Ready for a bigger goal? Take on the [30-day family Bible challenge](/blog/30-day-family-bible-challenge), or fold in [daily Bible devotions for kids](/blog/bible-devotions-for-kids-daily) to keep the momentum going. The calendar can carry you too: run [an Advent countdown your kids will ask for](/blog/advent-devotions-for-kids) through December, and [a short week of Thanksgiving devotions](/blog/thanksgiving-devotions-for-kids) in November.
 
 ---
 
@@ -231,7 +231,7 @@ Start without them. You can do family Bible time with just you and your kids. Ma
 Use the same story but differentiate the discussion. Ask your five-year-old "What happened?" and your twelve-year-old "Why did that happen?" Let older kids help explain things to younger siblings. This actually deepens the older child's understanding.
 
 ### What if I do not know the Bible very well myself?
-You do not need to be a Bible scholar. You are learning alongside your children, and that is a beautiful thing. Use a children's Bible, a study guide, or video lessons (like Faithful Kids) that explain the stories simply. Your kids will not judge your knowledge. They will remember that you made time.
+You do not need to be a Bible scholar. You are learning alongside your children, and that is a beautiful thing. Use a children's Bible, a study guide, or video lessons (like Faithful Kids) that explain the stories simply. Your kids will not judge your knowledge. They will remember that you made time. Growing your own understanding on the commute helps as well, and [a few podcasts made for Christian parents](/blog/christian-parenting-podcasts) will teach you more than you expect in a month of drives.
 
 ### We tried before and it fell apart after two weeks. How do we make it stick this time?
 Lower the bar. If 15 minutes feels like too much, do 5. If every night feels overwhelming, commit to three nights per week. Attach it to an existing habit (right after dinner, right before bedtime). And give yourself grace. Missing days is not failure. Quitting is. Just start again.

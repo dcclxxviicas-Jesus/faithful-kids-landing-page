@@ -5,12 +5,12 @@ type: "listicle"
 metaDescription: "The complete Easter story for kids. 10 Bible stories from the Triumphal Entry to the Empty Tomb, told simply for children ages 5+."
 keywords: ["easter story for kids", "easter bible stories children", "resurrection story kids", "holy week for kids", "good friday for kids"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-20"
 ---
 
 # The Easter Story for Kids: 10 Bible Stories from Palm Sunday to the Resurrection
 
-Easter is the most important event in Christianity, and your kids deserve to know the real story, not just the bunny version. Here are 10 Bible stories that walk your child through Holy Week: from Jesus riding into Jerusalem on a donkey to the empty tomb on Sunday morning. For a day-by-day family plan, see our companion guide to [Holy Week for kids](/blog/holy-week-day-by-day-for-kids).
+Easter is the most important event in Christianity, and your kids deserve to know the real story, not just the bunny version. Here are 10 Bible stories that walk your child through Holy Week: from Jesus riding into Jerusalem on a donkey to the empty tomb on Sunday morning. For a day-by-day family plan, see our companion guide to [Holy Week for kids](/blog/holy-week-day-by-day-for-kids). If you would rather read the account straight through first, here is [where each scene shows up in Scripture](/blog/easter-story-in-the-bible).
 
 ## The Complete Easter Story in 10 Episodes
 
@@ -54,7 +54,9 @@ Joseph of Arimathea wraps Jesus' body and places it in a tomb. A stone is rolled
 Women come to the tomb at sunrise. The stone is rolled away. The tomb is empty. An angel says: "He is not here. He has risen." This is the best news in the history of the world.
 [Watch video](https://faithfulkids.app/blog/the-empty-tomb-for-kids)
 
-After the stories, keep the conversation going with our [Easter Bible trivia for kids](/blog/easter-bible-trivia-for-kids) -- it is a fun way to see how much they remembered.
+Reading one verse aloud with each story makes it stick, and we have gathered the best [Easter Bible verses](/blog/easter-bible-verses) for kids in a single list.
+
+After the stories, keep the conversation going with our [Easter Bible trivia for kids](/blog/easter-bible-trivia-for-kids) -- it is a fun way to see how much they remembered. If your kids learn best by doing, pair the week with a few [hands-on resurrection activities](/blog/resurrection-activities-for-kids).
 
 ---
 

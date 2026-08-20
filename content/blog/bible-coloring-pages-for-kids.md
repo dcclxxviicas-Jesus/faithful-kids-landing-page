@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "20 Bible coloring page themes for kids from creation to Revelation. Learn how coloring reinforces Bible stories and where to find free printable pages."
 keywords: ["bible coloring pages for kids", "free bible coloring pages", "printable bible coloring sheets", "bible coloring pages by story", "bible story coloring pages"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-19"
+dateModified: "2026-08-20"
 ---
 
 # Free Bible Coloring Pages for Kids (Old and New Testament)
@@ -130,11 +130,13 @@ When a child completes a coloring page, they have created something personal. Th
 
 **Pair coloring with video.** Watch an animated version of the Bible story first, then give kids the coloring page. They will have a vivid mental picture of the scene, which makes coloring more engaging and detailed. Faithful Kids videos are a perfect companion for this activity.
 
-**Create a Bible coloring journal.** Over time, collect your child's colored pages into a booklet. By the end of a year, they will have their own illustrated Bible storybook, entirely in their handwriting and color choices. This becomes a treasured keepsake.
+**Create a Bible coloring journal.** Over time, collect your child's colored pages into a booklet. By the end of a year, they will have their own illustrated Bible storybook, entirely in their handwriting and color choices. This becomes a treasured keepsake. Older kids who want margins to write in as well as color usually graduate to [Bible journaling printables](/blog/bible-journaling-printables), which pair the same artwork with space for their own notes.
 
 ## Where to Find Free Bible Coloring Pages
 
 Many churches and Christian education websites offer free printable Bible coloring pages. Search for specific scenes ("Daniel lion's den coloring page free") and you will find dozens of options. Most are available as PDF downloads that you can print at home.
+
+If your child is still too young to stay inside the lines, a page is often the wrong format entirely. Swap it for one of these [Bible crafts for preschoolers](/blog/bible-crafts-for-preschoolers), where gluing, stamping, and tearing paper carry the story instead.
 
 For a more organized approach, look for coloring page sets that follow the Bible chronologically. This allows your family to work through the Bible story by story, building a complete visual narrative over weeks or months. Our roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids) includes coloring pages, and [Bible mazes and puzzles](/blog/bible-mazes-and-puzzles-for-kids) make a great follow-up activity.
 

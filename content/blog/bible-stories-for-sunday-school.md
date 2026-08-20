@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "The 20 best Bible stories for Sunday school, in teaching order -- each with a short retelling, key verse, and discussion questions for ages 5-12."
 keywords: ["bible stories for sunday school", "sunday school bible stories", "sunday school lesson ideas", "bible lessons for kids church"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-19"
+dateModified: "2026-08-20"
 ---
 
 The best Bible stories for Sunday school have a clear hero, a visible act of God, and one big truth a child can repeat on the car ride home -- and the 20 below check all three boxes. Each comes with a short retelling, a key verse, and discussion questions, arranged in Bible order so a year of lessons builds one continuous story from Creation to the early church.
@@ -59,6 +59,8 @@ A nine-foot warrior taunted God's army for forty days while trained soldiers hid
 **Key verse:** "I come against you in the name of the Lord Almighty." -- 1 Samuel 17:45
 **Discussion:** What is your "Goliath" right now? Why was David brave when soldiers were terrified? Where did his confidence come from?
 
+David's story keeps going long after the giant falls, and our [sunday school lessons on David](/blog/sunday-school-lessons-on-david) follow him from the sheep field to the throne if you want to build a short series out of him.
+
 ### 10. Daniel in the Lions' Den (Daniel 6)
 When jealous officials made praying illegal, Daniel kept praying at his open window anyway and was thrown to the lions. God sent an angel to shut their mouths, and by morning the king himself praised Daniel's God.
 **Key verse:** "My God sent his angel, and he shut the mouths of the lions." -- Daniel 6:22
@@ -109,6 +111,8 @@ The women came at dawn expecting to care for a body -- and found the stone rolle
 **Key verse:** "He is not here; he has risen!" -- Luke 24:6
 **Discussion:** Why is the resurrection the most important event in the Bible? How would you have felt at the tomb? What changes because Jesus is alive?
 
+If you are teaching this one in the spring, walk your class through the whole week first -- our retelling of [the Easter story in the Bible](/blog/easter-story-in-the-bible) covers Palm Sunday through the empty tomb in kid-sized pieces.
+
 ### 20. Paul and Silas in Prison (Acts 16:16-34)
 Beaten and locked in the innermost cell, Paul and Silas spent midnight singing hymns. An earthquake threw every door open -- but nobody fled, and by morning the terrified jailer and his whole household believed.
 **Key verse:** "Believe in the Lord Jesus, and you will be saved." -- Acts 16:31
@@ -130,10 +134,10 @@ Bible order, if your curriculum allows it. Teaching Creation through the early c
 Start with the most concrete, visual stories: Creation, Noah's ark, baby Moses, David and Goliath, Daniel, the birth of Jesus, and Jesus calming the storm. Save parables like the prodigal son for ages 7 and up, when kids can grasp a story about a story.
 
 ### How do I handle a class with mixed ages?
-Tell the story to everyone, then split the response: younger kids color or act it out while older kids tackle the discussion questions. Ask your oldest students to help the youngest during craft time -- it keeps them engaged and gives them ownership.
+Tell the story to everyone, then split the response: younger kids color or act it out while older kids tackle the discussion questions. Ask your oldest students to help the youngest during craft time -- it keeps them engaged and gives them ownership. Keep a printed stack of something like our [printable ark scenes](/blog/noahs-ark-coloring-pages) in the cabinet so the younger half always has somewhere to go.
 
 ### What if kids already know the story?
 Let them tell it. Ask a confident child to retell the story, then teach into the details they missed -- kids who "know" David and Goliath often can't say why David refused Saul's armor, and those details are where the lesson lives.
 
 ### Do I need a curriculum, or can I just teach from this list?
-You can teach straight from this list -- story, verse, discussion, and a game is a complete lesson. A curriculum adds printables and crafts, but no published program rescues a lesson taught without enthusiasm, and none is required to teach one well.
+You can teach straight from this list -- story, verse, discussion, and a game is a complete lesson. A curriculum adds printables and crafts, but no published program rescues a lesson taught without enthusiasm, and none is required to teach one well. If you would rather start from something already assembled, our library of [ready-to-teach kids lessons](/blog/sunday-school-lessons-for-kids) is sorted by age and costs nothing to use.

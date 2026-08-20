@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "20 field-tested Sunday school teacher tips organized by problem: discipline, shy kids, know-it-alls, prep shortcuts, and avoiding burnout."
 keywords: ["sunday school teacher tips", "tips for teaching sunday school", "sunday school classroom management", "new sunday school teacher", "sunday school discipline", "children's ministry volunteer tips"]
 datePublished: "2026-08-16"
-dateModified: "2026-08-16"
+dateModified: "2026-08-20"
 ---
 
 The best Sunday school teacher tips are solutions to specific problems -- discipline that doesn't escalate, ways to draw out shy kids and rein in know-it-alls, prep shortcuts for busy weeks, and habits that prevent burnout. Below are 20 field-tested tips, organized by the exact problem they solve, gathered from years of Sunday mornings that did not go as planned.
@@ -70,7 +70,7 @@ Know-it-alls dominate fact questions ("How many days was Jonah in the fish?") bu
 
 ### 12. Use the answer-once rule for games
 
-In review games, institute "every player answers before anyone answers twice." It converts the fastest hand in the room from a game-ender into a teammate who starts coaching others -- which is what you actually want that knowledge doing.
+In review games, institute "every player answers before anyone answers twice." It converts the fastest hand in the room from a game-ender into a teammate who starts coaching others -- which is what you actually want that knowledge doing. The rule matters most in December, when visitors swell the room and the [Christmas Sunday school games](/blog/christmas-sunday-school-games) get loud enough for one confident kid to run away with the whole morning.
 
 ## How Do You Prep a Lesson When the Week Got Away From You?
 
@@ -82,7 +82,7 @@ Write the reusable structure once -- opener (5 min), story (10), activity (15), 
 
 ### 14. Build an emergency drawer
 
-One drawer or bin holding a no-prep review game, a stack of coloring pages, a ball for question toss, and a list of [Sunday school games](/blog/sunday-school-games-for-kids) that need zero materials. When the craft fails, attendance doubles, or you get asked to teach at 8 a.m. Sunday, the drawer is the difference between a scramble and a shrug.
+One drawer or bin holding a no-prep review game, a stack of coloring pages, a ball for question toss, and a list of [Sunday school games](/blog/sunday-school-games-for-kids) that need zero materials. When the craft fails, attendance doubles, or you get asked to teach at 8 a.m. Sunday, the drawer is the difference between a scramble and a shrug. Print two or three [free printable lessons](/blog/free-sunday-school-lessons) and slide them in there as well, because a complete backup lesson beats a stack of coloring pages on the Sunday everything falls apart.
 
 ### 15. Steal from your household for object lessons
 
@@ -138,4 +138,4 @@ Give them responsibility and real questions. Preteens disengage from being taugh
 
 ### Should new Sunday school teachers follow a curriculum or write their own lessons?
 
-Start with a curriculum or a consistent lesson framework for your first year, then customize as confidence grows. A curriculum handles scope and accuracy while you focus on learning classroom skills -- discipline, pacing, discussion -- which are the harder part at first. Most experienced teachers land in the middle: a curriculum spine with their own openers, questions, and activities layered on.
+Start with a curriculum or a consistent lesson framework for your first year, then customize as confidence grows. A curriculum handles scope and accuracy while you focus on learning classroom skills -- discipline, pacing, discussion -- which are the harder part at first. Our [age-sorted lessons for kids](/blog/sunday-school-lessons-for-kids) work as that spine if your church hasn't handed you one. Most experienced teachers land in the middle: a curriculum spine with their own openers, questions, and activities layered on.

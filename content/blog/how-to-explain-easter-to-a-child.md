@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Learn how to explain the real meaning of Easter to kids. The crucifixion, resurrection, and why Easter matters — told in simple, age-appropriate language."
 keywords: ["explain Easter to a child", "Easter for kids", "real meaning of Easter for children"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-20"
 ---
 
 Chocolate eggs, bunny ears, and Easter baskets — your child probably knows that part of Easter already. But at some point, they look at you and ask, "What is Easter really about?"
@@ -16,7 +16,7 @@ Easter is the most important day on the Christian calendar. It is the day we cel
 
 ## The Easter Story in Kid-Friendly Language
 
-Before diving into explanations and applications, just tell the story. Kids learn through stories, and this one is the greatest story ever told.
+Before diving into explanations and applications, just tell the story. Kids learn through stories, and this one is the greatest story ever told. If you want the chapter and verse behind each scene, our walkthrough of [where the Easter account sits in Scripture](/blog/easter-story-in-the-bible) lays them out in order.
 
 ### The Triumphal Entry (Palm Sunday)
 "A few days before Easter, Jesus rode into the big city of Jerusalem on a donkey. People were so excited to see Him that they waved palm branches and laid them on the road, shouting, 'Hosanna! Blessed is He who comes in the name of the Lord!' It was like a parade for a king. But this king was different — He did not come riding a war horse. He came on a humble donkey." (Read the longer version in [the triumphal entry for kids](/blog/the-triumphal-entry-for-kids).)
@@ -61,7 +61,7 @@ After telling the story, your child might ask, "But why? Why did Jesus have to d
 Get a good children's Bible or storybook Bible and read the Easter story during the week leading up to Easter. You could read one part each day — Palm Sunday on Monday, the Last Supper on Tuesday, and so on — building toward the resurrection on Easter morning. Our [day-by-day Holy Week guide for kids](/blog/holy-week-day-by-day-for-kids) maps out exactly what to read and do each day.
 
 ### 2. Do a Resurrection Egg Hunt
-Instead of (or alongside) a regular egg hunt, use special eggs that tell the Easter story. Put small symbols inside numbered eggs: a palm leaf, a piece of bread, a nail, a small rock, and leave the last egg empty — representing the empty tomb. Open them in order and tell the story together.
+Instead of (or alongside) a regular egg hunt, use special eggs that tell the Easter story. Put small symbols inside numbered eggs: a palm leaf, a piece of bread, a nail, a small rock, and leave the last egg empty — representing the empty tomb. Open them in order and tell the story together. If you need more make-it-yourself ideas, our roundup of [Easter crafts for Sunday school](/blog/easter-crafts-for-sunday-school) works just as well at the kitchen table.
 
 ### 3. Start an Easter Tradition
 Some families light a candle on Easter morning to represent Jesus as the light of the world. Others make empty-tomb rolls (crescent rolls with a marshmallow inside — the marshmallow melts away during baking, leaving the roll hollow like the empty tomb). Find a tradition that works for your family.
@@ -102,6 +102,8 @@ This one is up to you as a parent. Some families enjoy the Easter Bunny as a fun
 
 **Ages 13+:** Engage with historical evidence and apologetics. Discuss why the resurrection matters theologically and historically. Read 1 Corinthians 15 together, where Paul makes the case that everything depends on the resurrection being real.
 
+If you are teaching a class rather than one child, our [Easter Sunday school lessons](/blog/easter-sunday-school-lessons) are grouped by age the same way.
+
 ## Watch on Faithful Kids
 
 Bring the Easter story to life for your kids with animated video lessons, quizzes, and reflections. Faithful Kids covers the death, burial, and resurrection of Jesus in a way that is engaging, accurate, and age-appropriate for kids 7-15. [Start your free trial today](https://faithfulkids.app/quiz) and give your child the real Easter story.
@@ -109,7 +111,7 @@ Bring the Easter story to life for your kids with animated video lessons, quizze
 ## Frequently Asked Questions
 
 ### How do I talk about the crucifixion without scaring my child?
-For very young children (under 5), you can focus more on the resurrection and less on the details of the cross. As children get older, they can handle more of the story. Always pair the hard parts with the beautiful truth: Jesus chose this because He loves us, and the story does not end on Friday — Sunday is coming.
+For very young children (under 5), you can focus more on the resurrection and less on the details of the cross. As children get older, they can handle more of the story. Always pair the hard parts with the beautiful truth: Jesus chose this because He loves us, and the story does not end on Friday — Sunday is coming. Anchoring the week in a few [verses short enough to memorize by Sunday](/blog/easter-bible-verses) gives kids something hopeful to hold on to.
 
 ### At what age should I tell my child the Easter Bunny is not real?
 There is no perfect age, but many parents transition the conversation around ages 6-8 when children naturally start questioning. Frame it positively: "The Easter Bunny is a fun pretend tradition, but the real Easter story is even more amazing because it actually happened."

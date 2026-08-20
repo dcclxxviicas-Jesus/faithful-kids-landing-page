@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Walk through Holy Week day by day with your kids. Bible stories, family activities, and discussion questions from Palm Sunday through Easter Sunday."
 keywords: ["holy week for kids", "easter bible stories for kids", "palm sunday to easter for children"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-20"
 ---
 
 Holy Week is the most important week in the Christian calendar. It's the week that changed everything -- when Jesus rode into Jerusalem as a king, was betrayed, crucified, and rose from the dead.
@@ -29,7 +29,7 @@ This wasn't a random parade. The people believed Jesus was the long-promised Mes
 - What kind of king were they expecting? What kind of king did Jesus actually turn out to be?
 - Have you ever expected something to go one way and it went completely differently?
 
-**Family activity:** Cut palm leaves from green construction paper. Wave them around the house while reading Matthew 21:9 together. Talk about what it means to welcome Jesus into your life.
+**Family activity:** Cut palm leaves from green construction paper. Wave them around the house while reading Matthew 21:9 together. Talk about what it means to welcome Jesus into your life. If you want more make-and-do options for the week, we have a batch of [simple crafts you can prep the night before](/blog/easter-crafts-for-sunday-school).
 
 ## Monday: Jesus Clears the Temple
 
@@ -165,11 +165,11 @@ This is why Christians celebrate Easter. Not because of eggs and bunnies, but be
 - Jesus said Mary's name and she recognized Him. What does it mean that Jesus knows your name?
 - How does knowing Jesus is alive change the way you live?
 
-**Family activity:** Celebrate. This is a day for joy. Make a special breakfast, go to church, sing worship songs loud, and tell each other what the resurrection means to you. You might also do a "sunrise experience" -- wake up early, go outside, and watch the sun come up while reading Matthew 28:1-10 together.
+**Family activity:** Celebrate. This is a day for joy. Make a special breakfast, go to church, sing worship songs loud, and tell each other what the resurrection means to you. You might also do a "sunrise experience" -- wake up early, go outside, and watch the sun come up while reading Matthew 28:1-10 together. For families who want more to do on Easter afternoon, we have a longer list of [resurrection activities for kids](/blog/resurrection-activities-for-kids).
 
 ## Making Holy Week a Family Tradition
 
-Walking through Holy Week together doesn't require perfect execution. It requires presence. Even if you only do three or four of these days, your kids will remember them.
+Walking through Holy Week together doesn't require perfect execution. It requires presence. Even if you only do three or four of these days, your kids will remember them. Church volunteers running a Holy Week class can pull the same structure from our [week of classroom-ready lessons](/blog/easter-sunday-school-lessons).
 
 Consider starting a family tradition: every Holy Week, read through these stories together, share a special Thursday meal, make a cross on Friday, and celebrate with joy on Sunday. You can even close the week with a round of [Easter Bible trivia](/blog/easter-bible-trivia-for-kids) to see what stuck.
 
@@ -192,7 +192,7 @@ Children as young as 4-5 can understand the basic narrative: Jesus rode a donkey
 Focus on the love behind the sacrifice rather than graphic details. You might say: "Jesus loved us so much that He was willing to go through something very painful so that we could be close to God forever." Let your child ask questions and answer honestly at their level.
 
 ### What family activities work best for Holy Week?
-The most memorable activities are simple: waving palm branches on Sunday, washing hands on Thursday, making a cross on Friday, and celebrating with a special meal on Easter. The goal is participation, not perfection.
+The most memorable activities are simple: waving palm branches on Sunday, washing hands on Thursday, making a cross on Friday, and celebrating with a special meal on Easter. The goal is participation, not perfection. Pairing each day with [a short list of Easter verses to read aloud](/blog/easter-bible-verses) keeps Scripture at the center of it.
 
 ### Can I do Holy Week activities with kids of different ages?
 Yes. Read the same Bible passage together, then adjust your discussion. Ask younger kids "What happened in the story?" and older kids "Why do you think that happened?" The shared experience of walking through the week together is what matters most.

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "15 perfect Bible verses for kids graduation — from preschool to 8th grade. Great for cards, speeches, gifts, and celebrations."
 keywords: ["bible verses for graduation kids", "scripture for kids graduation", "graduation bible verse for children"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-20"
 ---
 
 # Bible Verses for Kids Graduation (Preschool Through 8th Grade)
@@ -65,6 +65,8 @@ Here are 15 Bible verses perfect for kids' graduations, organized by theme so yo
 *"I can do all this through him who gives me strength."*
 
 **Why it's perfect for graduation:** Simple, powerful, and encouraging. After proving they could handle this year, this verse reminds them they can handle the next one too — not by their own power, but through God's strength.
+
+It is also short enough to learn on the drive home, which is why it shows up on almost every list of [short memory verses for kids](/blog/short-memory-verses).
 
 **How to use it:** "You did it! And you'll keep doing great things — because God gives you the strength."
 
@@ -126,7 +128,7 @@ Here are 15 Bible verses perfect for kids' graduations, organized by theme so yo
 
 *"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well."*
 
-**Why it works for preschool:** At 4-5 years old, the most important thing a child can know is that they are wonderfully made by God. This verse celebrates who they are, not just what they've accomplished. Write it in their first graduation card and keep it in their memory box.
+**Why it works for preschool:** At 4-5 years old, the most important thing a child can know is that they are wonderfully made by God. This verse celebrates who they are, not just what they've accomplished. Write it in their first graduation card and keep it in their memory box. If you need a few more options at that age, we gathered a full set of [Bible verses for kindergarten graduation](/blog/bible-verses-for-kindergarten-graduation).
 
 ### 14. For Elementary Graduation (5th/6th Grade): Colossians 3:23
 
@@ -149,6 +151,8 @@ Here are 15 Bible verses perfect for kids' graduations, organized by theme so yo
 **On a gift:** Engrave or print a verse on a bookmark, picture frame, journal, or piece of jewelry. The physical object keeps the verse visible.
 
 **As a family blessing:** Gather your family on graduation day. Read the verse aloud. Lay hands on your graduate and pray over them. This is a moment they'll remember for decades.
+
+If your handwriting is not up to the occasion, a set of [printable scripture cards](/blog/bible-scripture-printables) gives you the verse already laid out for cards, frames, and bookmarks.
 
 As Moses instructed in Deuteronomy 6:6-7, *"These commandments that I give you today are to be on your hearts. Impress them on your children."* Graduation is the perfect moment to impress God's promises on a young heart. One lasting way to do that is helping your graduate [memorize a few key verses](/blog/bible-verses-for-kids-to-memorize) over the summer.
 

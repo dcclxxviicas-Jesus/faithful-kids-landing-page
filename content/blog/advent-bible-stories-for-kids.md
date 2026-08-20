@@ -5,14 +5,14 @@ type: "listicle"
 metaDescription: "25 days of Advent Bible stories for kids with family activities. A Christmas countdown devotional from December 1st through Christmas Day."
 keywords: ["advent bible stories for kids", "christmas bible countdown", "advent devotional for children"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-20"
 ---
 
 Advent is the season of waiting and anticipation leading up to Christmas. (If your kids are asking [what Advent actually means](/blog/what-is-advent-for-kids), start there.) For kids, it's the most exciting time of year -- but between the chocolate calendars and Santa countdowns, the real story can get lost.
 
 This 25-day Advent devotional brings it back. Each day from December 1st through Christmas, your family reads a short Bible passage, discusses it together, and does a simple activity. The readings tell one connected story: God's plan to send a Savior, from the very beginning to the manger in Bethlehem.
 
-Each entry takes about 10-15 minutes. Light a candle, gather your family, and make this December the one your kids remember.
+Each entry takes about 10-15 minutes. Light a candle, gather your family, and make this December the one your kids remember. If you are still shopping, our roundup of [Advent calendars for kids](/blog/advent-calendars-for-kids) pairs neatly with these daily readings.
 
 ## Week 1: The Promise Begins
 
@@ -138,7 +138,7 @@ When they arrived in Bethlehem, there was no room for them at the inn. Mary gave
 
 The King of the universe was born in the humblest possible place.
 
-**Activity:** Set up your nativity scene (or draw one). Talk about why God chose a manger instead of a palace.
+**Activity:** Set up your nativity scene (or draw one). Talk about why God chose a manger instead of a palace. Younger kids can color along with our [printable nativity coloring pages](/blog/nativity-coloring-pages).
 
 ## Week 4: The Celebration
 
@@ -192,11 +192,13 @@ A few tips for using this devotional:
 
 - **Same time each day.** Breakfast, after school, or bedtime -- pick a consistent time and stick with it.
 - **Light a candle.** It signals "this is special time" and helps kids focus.
-- **Let kids read.** If your children can read, take turns reading the Bible passage aloud.
+- **Let kids read.** If your children can read, take turns reading the Bible passage aloud. A stack of [Advent books for kids](/blog/advent-books-for-kids) gives them something to keep going with on their own.
 - **Don't stress about perfection.** If you miss a day, double up. If you miss three days, skip ahead. The goal is presence, not performance.
 - **Save this page.** Use it again next year. Repetition builds tradition, and tradition builds faith.
 
-Looking for more ways to fill December? Try these [Advent activities for kids](/blog/advent-activities-for-kids) or wrap up the season with some [Christmas Bible trivia](/blog/christmas-bible-trivia-for-kids).
+If 25 full readings feels like too much for your family this year, these [short daily Advent devotions](/blog/advent-devotions-for-kids) cover the same arc in about five minutes a night.
+
+Looking for more ways to fill December? Try these [Advent activities for kids](/blog/advent-activities-for-kids) or wrap up the season with some [Christmas Bible trivia](/blog/christmas-bible-trivia-for-kids). And if you use a reusable calendar, we have ideas for [what to put in each numbered pocket](/blog/what-to-put-in-advent-calendar).
 
 ## Watch on Faithful Kids
 

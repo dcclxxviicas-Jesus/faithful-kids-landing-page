@@ -14,18 +14,24 @@ const MIN_SCROLL = 0.35
 
 type Variant = 'trivia' | 'story' | 'guide'
 
-const COPY: Record<Variant, { head: string; sub: string }> = {
+const COPY: Record<Variant, { head: string; sub: string; magnet: 'trivia-pack' | 'bedtime-kit'; magnetName: string }> = {
   trivia: {
-    head: 'Wait — the quiz doesn’t have to end 🎮',
-    sub: '200 Bible quizzes with video lessons, levels, and streaks. Kids beg to play.',
+    head: 'Take the questions with you',
+    sub: 'Free printable pack: 100 Bible trivia questions with the answer key in the back. No screens needed at the table.',
+    magnet: 'trivia-pack',
+    magnetName: 'Bible Trivia Pack',
   },
   story: {
-    head: 'Watch this exact story as a video ▶️',
-    sub: 'Every Bible story as a 60-second lesson narrated by Jesus, with a quiz after.',
+    head: 'Seven nights of Bible stories, free',
+    sub: 'A printable bedtime kit: one short story, one question to whisper about, and a goodnight prayer for each night.',
+    magnet: 'bedtime-kit',
+    magnetName: 'Bedtime Bible Kit',
   },
   guide: {
-    head: '5 minutes a day changes everything 🌱',
-    sub: 'Turn tonight’s story into a daily faith habit your kids actually ask for.',
+    head: 'Seven nights of Bible stories, free',
+    sub: 'A printable bedtime kit: one short story, one question to whisper about, and a goodnight prayer for each night.',
+    magnet: 'bedtime-kit',
+    magnetName: 'Bedtime Bible Kit',
   },
 }
 
@@ -39,20 +45,12 @@ function safeSet(store: Storage, key: string, val: string) {
 export function BlogExitIntent({
   postSlug,
   variant,
-  videoSrc,
-  fallbackSrc,
-  posterSrc,
 }: {
   postSlug: string
   variant: Variant
-  videoSrc: string
-  fallbackSrc: string
-  posterSrc?: string
 }) {
   const [show, setShow] = useState(false)
-  const [mode, setMode] = useState<'offer' | 'email'>('offer')
   const [isMobile, setIsMobile] = useState(false)
-  const [src, setSrc] = useState(videoSrc)
   const triggered = useRef(false)
   const mountedAt = useRef(0)
   const deepScrolled = useRef(false)
@@ -78,6 +76,7 @@ export function BlogExitIntent({
     safeSet(localStorage, SHOWN_KEY, String(Date.now()))
     setShow(true)
     posthog.capture('exit_intent_shown', { source, post: postSlug, variant, surface: 'blog' })
+    posthog.capture('email_capture_shown', { source: 'blog-exit', post: postSlug, variant })
   }
 
   function dismiss() {
@@ -161,51 +160,28 @@ export function BlogExitIntent({
         >
           ✕
         </button>
-        <h2 style={{ fontSize: '1.3rem', fontWeight: 800, margin: '4px 0 8px', clear: 'both' }}>{copy.head}</h2>
-        <p style={{ color: '#555', fontSize: '0.95rem', margin: '0 0 14px' }}>{copy.sub}</p>
-        <video
-          src={src}
-          poster={posterSrc}
-          controls
-          autoPlay
-          muted
-          playsInline
-          preload="none"
-          onError={() => { if (src !== fallbackSrc) setSrc(fallbackSrc) }}
-          style={{ width: '100%', borderRadius: '12px', background: '#000', marginBottom: '16px' }}
+        <div style={{ fontSize: '1.8rem', clear: 'both' }}>{variant === 'trivia' ? '🎯' : '🌙'}</div>
+        <h2 style={{ fontSize: '1.3rem', fontWeight: 800, margin: '4px 0 8px' }}>{copy.head}</h2>
+        <p style={{ color: '#555', fontSize: '0.95rem', margin: '0 0 4px' }}>{copy.sub}</p>
+
+        {/* The free printable IS the offer -- email field visible immediately.
+            Asking a cold reader to start a subscription on their way out
+            converted at 1.1%; the low-friction ask fits the moment. */}
+        <EmailCaptureCard
+          magnet={copy.magnet}
+          source="blog-exit"
+          sourcePost={postSlug}
+          title=""
+          subtitle=""
         />
-        {mode === 'offer' ? (
-          <>
-            <a
-              href="/quiz"
-              onClick={() => posthog.capture('exit_intent_cta', { post: postSlug, variant, surface: 'blog' })}
-              style={{
-                display: 'block', background: emerald, color: '#fff', fontWeight: 700,
-                fontSize: '1.05rem', padding: '14px 24px', borderRadius: '999px', textDecoration: 'none',
-              }}
-            >
-              Try Faithful Kids Free
-            </a>
-            <p style={{ fontSize: '0.8rem', color: '#888', margin: '12px 0 0' }}>
-              3-day free trial · 30-day money-back guarantee · Cancel anytime
-            </p>
-            <button
-              onClick={() => {
-                setMode('email')
-                posthog.capture('email_capture_shown', { source: 'blog-exit', post: postSlug })
-              }}
-              style={{ background: 'none', border: 'none', color: emerald, fontWeight: 700, cursor: 'pointer', fontSize: '0.88rem', marginTop: '10px' }}
-            >
-              Not ready? Get the free {variant === 'trivia' ? 'Bible Trivia Pack' : 'Bedtime Bible Kit'} by email →
-            </button>
-          </>
-        ) : (
-          <EmailCaptureCard
-            magnet={variant === 'trivia' ? 'trivia-pack' : 'bedtime-kit'}
-            source="blog-exit"
-            sourcePost={postSlug}
-          />
-        )}
+
+        <a
+          href="/quiz"
+          onClick={() => posthog.capture('exit_intent_cta', { post: postSlug, variant, surface: 'blog' })}
+          style={{ color: emerald, fontWeight: 700, fontSize: '0.88rem', textDecoration: 'none' }}
+        >
+          Or see the full app -- free for 3 days →
+        </a>
       </div>
     </div>
   )

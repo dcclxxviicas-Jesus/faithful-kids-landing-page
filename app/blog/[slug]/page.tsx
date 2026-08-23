@@ -172,14 +172,10 @@ export default async function BlogPostPage({ params }: Props) {
   // Split content to inject mid-article CTA
   const contentParts = splitContentForCTA(post.content)
 
-  // Exit-intent popup: context-aware variant + video
+  // Exit-intent popup: context-aware variant (drives which free printable
+  // it offers). No video -- the popup's job is one low-friction ask.
   const exitVariant: 'trivia' | 'story' | 'guide' =
     post.slug.includes('trivia') ? 'trivia' : post.type !== 'listicle' ? 'story' : 'guide'
-  const exitFallback = getTriviaVideo(post.slug)
-  const storyVideoSrc =
-    exitVariant === 'story' && post.episode && post.seriesSlug
-      ? `https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${String(post.episode).padStart(2, '0')}-${post.slug.replace(/-for-kids$/, '')}/lesson-video.mp4`
-      : null
 
   return (
     <>
@@ -213,13 +209,7 @@ export default async function BlogPostPage({ params }: Props) {
       <SiteNav active="blog" />
 
       {/* Exit-intent popup (renders nothing until triggered) */}
-      <BlogExitIntent
-        postSlug={post.slug}
-        variant={exitVariant}
-        videoSrc={storyVideoSrc ?? exitFallback.videoSrc}
-        fallbackSrc={exitFallback.videoSrc}
-        posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
-      />
+      <BlogExitIntent postSlug={post.slug} variant={exitVariant} />
 
       {/* MAIN CONTENT */}
       <main>

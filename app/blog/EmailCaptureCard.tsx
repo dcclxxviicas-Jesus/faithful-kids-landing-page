@@ -38,8 +38,8 @@ export function EmailCaptureCard({
       name: '30-Day Challenge',
     },
   }[magnet]
-  const heading = title ?? COPY.heading
-  const sub = subtitle ?? COPY.sub
+  const heading = title === undefined ? COPY.heading : title
+  const sub = subtitle === undefined ? COPY.sub : subtitle
 
   async function submit(e: React.FormEvent) {
     e.preventDefault()
@@ -75,8 +75,8 @@ export function EmailCaptureCard({
 
   return (
     <div style={{ background: '#f0fdf4', border: '2px solid #d1fae5', borderRadius: '16px', padding: '24px', textAlign: 'center', margin: '32px 0' }}>
-      <p style={{ fontWeight: 800, fontSize: '1.1rem', margin: '0 0 6px' }}>{heading}</p>
-      <p style={{ color: '#555', fontSize: '0.92rem', margin: '0 0 16px' }}>{sub}</p>
+      {heading && <p style={{ fontWeight: 800, fontSize: '1.1rem', margin: '0 0 6px' }}>{heading}</p>}
+      {sub && <p style={{ color: '#555', fontSize: '0.92rem', margin: '0 0 16px' }}>{sub}</p>}
       <form onSubmit={submit} style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
         {/* Honeypot — humans never see or fill this */}
         <input type="text" name="website" tabIndex={-1} autoComplete="off" aria-hidden="true"

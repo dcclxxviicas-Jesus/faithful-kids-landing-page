@@ -14,24 +14,32 @@ const MIN_SCROLL = 0.35
 
 type Variant = 'trivia' | 'story' | 'guide'
 
-const COPY: Record<Variant, { head: string; sub: string; magnet: 'trivia-pack' | 'bedtime-kit'; magnetName: string }> = {
+const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/blog-images'
+
+const COPY: Record<Variant, {
+  head: string; sub: string; img: string; alt: string
+  magnet: 'trivia-pack' | 'bedtime-kit'
+}> = {
   trivia: {
-    head: 'Take the questions with you',
-    sub: 'Free printable pack: 100 Bible trivia questions with the answer key in the back. No screens needed at the table.',
+    head: 'Free: 100 Bible Trivia Questions',
+    sub: 'Printable, answer key included.',
+    img: `${CDN}/magnet-preview-trivia.webp`,
+    alt: 'Two printed pages of Bible trivia questions',
     magnet: 'trivia-pack',
-    magnetName: 'Bible Trivia Pack',
   },
   story: {
-    head: 'Seven nights of Bible stories, free',
-    sub: 'A printable bedtime kit: one short story, one question to whisper about, and a goodnight prayer for each night.',
+    head: 'Free: 7 Nights of Bible Stories',
+    sub: 'One story, one prayer, one question a night.',
+    img: `${CDN}/magnet-preview-bedtime.webp`,
+    alt: 'Two printed pages of the Bedtime Bible Kit',
     magnet: 'bedtime-kit',
-    magnetName: 'Bedtime Bible Kit',
   },
   guide: {
-    head: 'Seven nights of Bible stories, free',
-    sub: 'A printable bedtime kit: one short story, one question to whisper about, and a goodnight prayer for each night.',
+    head: 'Free: 7 Nights of Bible Stories',
+    sub: 'One story, one prayer, one question a night.',
+    img: `${CDN}/magnet-preview-bedtime.webp`,
+    alt: 'Two printed pages of the Bedtime Bible Kit',
     magnet: 'bedtime-kit',
-    magnetName: 'Bedtime Bible Kit',
   },
 }
 
@@ -160,13 +168,19 @@ export function BlogExitIntent({
         >
           ✕
         </button>
-        <div style={{ fontSize: '1.8rem', clear: 'both' }}>{variant === 'trivia' ? '🎯' : '🌙'}</div>
-        <h2 style={{ fontSize: '1.3rem', fontWeight: 800, margin: '4px 0 8px' }}>{copy.head}</h2>
-        <p style={{ color: '#555', fontSize: '0.95rem', margin: '0 0 4px' }}>{copy.sub}</p>
+        {/* Image first: the fastest thing the eye resolves. We are offering a
+            printable, so we show the actual printable. Headline names it and
+            leads with FREE; the subline is deliberately under 8 words. */}
+        <img
+          src={copy.img}
+          alt={copy.alt}
+          width={1000}
+          height={640}
+          style={{ width: '100%', maxWidth: '360px', height: 'auto', margin: '0 auto', display: 'block', clear: 'both' }}
+        />
+        <h2 style={{ fontSize: '1.45rem', fontWeight: 800, margin: '6px 0 4px', lineHeight: 1.2 }}>{copy.head}</h2>
+        <p style={{ color: '#555', fontSize: '0.95rem', margin: '0' }}>{copy.sub}</p>
 
-        {/* The free printable IS the offer -- email field visible immediately.
-            Asking a cold reader to start a subscription on their way out
-            converted at 1.1%; the low-friction ask fits the moment. */}
         <EmailCaptureCard
           magnet={copy.magnet}
           source="blog-exit"

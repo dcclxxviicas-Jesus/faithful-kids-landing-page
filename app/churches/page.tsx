@@ -27,10 +27,21 @@ export default function Churches() {
           670 story episodes with quizzes and reflections — at no cost. We built this to serve
           families, and that starts with the church.
         </p>
-        <a href={mailto} className="btn-primary btn-hero" style={{ textDecoration: 'none' }}>
-          Request Free Access →
+        <a
+          href={mailto}
+          className="btn-primary btn-hero"
+          style={{ textDecoration: 'none', maxWidth: '100%' }}
+        >
+          Request Free Access —{' '}
+          <span style={{ whiteSpace: 'nowrap' }}>team@faithfulkids.app</span> →
         </a>
-        <p className="blog-hero-note">One email. Usually set up within 24 hours.</p>
+        <p className="blog-hero-note">
+          Clicking opens your email app. Or write us directly at{' '}
+          <a href={mailto} style={{ color: 'var(--primary)', fontWeight: 700 }}>
+            team@faithfulkids.app
+          </a>
+          . One email — usually set up within 24 hours.
+        </p>
       </section>
 
       {/* How it works */}

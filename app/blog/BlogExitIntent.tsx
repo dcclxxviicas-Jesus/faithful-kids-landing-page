@@ -176,10 +176,15 @@ export function BlogExitIntent({
           alt={copy.alt}
           width={1000}
           height={640}
-          style={{ width: '100%', maxWidth: '360px', height: 'auto', margin: '0 auto', display: 'block', clear: 'both' }}
+          style={{
+            width: '100%', maxWidth: isMobile ? '260px' : '360px',
+            maxHeight: isMobile ? '150px' : '230px',
+            height: 'auto', objectFit: 'contain',
+            margin: '0 auto', display: 'block', clear: 'both',
+          }}
         />
-        <h2 style={{ fontSize: '1.45rem', fontWeight: 800, margin: '6px 0 4px', lineHeight: 1.2 }}>{copy.head}</h2>
-        <p style={{ color: '#555', fontSize: '0.95rem', margin: '0' }}>{copy.sub}</p>
+        <h2 style={{ fontSize: isMobile ? '1.25rem' : '1.45rem', fontWeight: 800, margin: '8px 0 4px', lineHeight: 1.2 }}>{copy.head}</h2>
+        <p style={{ color: '#555', fontSize: isMobile ? '0.9rem' : '0.95rem', margin: '0' }}>{copy.sub}</p>
 
         <EmailCaptureCard
           magnet={copy.magnet}
@@ -187,6 +192,7 @@ export function BlogExitIntent({
           sourcePost={postSlug}
           title=""
           subtitle=""
+          compact={isMobile}
         />
 
         <a
@@ -194,7 +200,7 @@ export function BlogExitIntent({
           onClick={() => posthog.capture('exit_intent_cta', { post: postSlug, variant, surface: 'blog' })}
           style={{ color: emerald, fontWeight: 700, fontSize: '0.88rem', textDecoration: 'none' }}
         >
-          Or see the full app -- free for 3 days →
+          Or see the full app — free for 3 days →
         </a>
       </div>
     </div>

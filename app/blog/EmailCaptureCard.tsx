@@ -10,6 +10,7 @@ export function EmailCaptureCard({
   quizAnswers,
   title,
   subtitle,
+  compact = false,
 }: {
   magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit'
   source: 'blog-inline' | 'blog-exit' | 'quiz-exit'
@@ -17,6 +18,8 @@ export function EmailCaptureCard({
   quizAnswers?: Record<string, string>
   title?: string
   subtitle?: string
+  /** Tighter padding + margins for constrained surfaces like the exit sheet. */
+  compact?: boolean
 }) {
   const [email, setEmail] = useState('')
   const [state, setState] = useState<'idle' | 'sending' | 'done' | 'error'>('idle')
@@ -74,7 +77,7 @@ export function EmailCaptureCard({
   }
 
   return (
-    <div style={{ background: '#f0fdf4', border: '2px solid #d1fae5', borderRadius: '16px', padding: '24px', textAlign: 'center', margin: '32px 0' }}>
+    <div style={{ background: '#f0fdf4', border: '2px solid #d1fae5', borderRadius: '16px', padding: compact ? '14px' : '24px', textAlign: 'center', margin: compact ? '14px 0 10px' : '32px 0' }}>
       {heading && <p style={{ fontWeight: 800, fontSize: '1.1rem', margin: '0 0 6px' }}>{heading}</p>}
       {sub && <p style={{ color: '#555', fontSize: '0.92rem', margin: '0 0 16px' }}>{sub}</p>}
       <form onSubmit={submit} style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>

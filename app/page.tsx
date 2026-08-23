@@ -858,7 +858,7 @@ function LiveCounter() {
     <div className="live-counter">
       <span className="live-dot" />
       <span className="live-text">
-        <strong>{count}</strong> parents exploring Faithful Kids today
+        <strong>{count}</strong> families joined today
       </span>
     </div>
   )

@@ -126,7 +126,7 @@ export default function Home() {
       {/* HERO */}
       <section className="hero" aria-label="Hero">
         <div className="hero-content">
-          <h1>Where kids learn to <span className="highlight">love the Bible</span></h1>
+          <h1>Where <span className="highlight">kids</span> learn to <span className="highlight">love the Bible</span></h1>
           <p className="subtitle">
             Short Bible story videos for kids ages 5+. No ads, no algorithm, no guilt. Just Scripture, beautifully told.
           </p>
@@ -810,12 +810,29 @@ function ExitIntent() {
   )
 }
 
+// Seeded from the calendar date so every visitor on a given day sees the same
+// figure and it changes on its own each morning. Range 100-950, then +1 every
+// 30 minutes so the number climbs through the day (max +47 by 11:30pm).
+function dailyBase(d: Date): number {
+  const key = d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate()
+  let h = key ^ 0x9e3779b9
+  h = Math.imul(h ^ (h >>> 15), 0x85ebca6b)
+  h = Math.imul(h ^ (h >>> 13), 0xc2b2ae35)
+  h ^= h >>> 16
+  return 100 + (Math.abs(h) % 851)
+}
+
+function liveCount(now: Date): number {
+  return dailyBase(now) + Math.floor((now.getHours() * 60 + now.getMinutes()) / 30)
+}
+
 function LiveCounter() {
   const [count, setCount] = useState(0)
-  const target = 1377
 
+  // Animate up on mount. Computed client-side only -- SSR would bake in the
+  // build-time date and hydration would mismatch.
   useEffect(() => {
-    // Animate count up on mount
+    const target = liveCount(new Date())
     let current = 0
     const step = Math.ceil(target / 40)
     const timer = setInterval(() => {
@@ -827,28 +844,21 @@ function LiveCounter() {
         setCount(current)
       }
     }, 50)
-
     return () => clearInterval(timer)
   }, [])
 
-  // Slow trickle: add 1 every 30-90 seconds
+  // Re-sync each minute so long-open tabs pick up the 30-minute step
+  // (and roll over correctly at midnight).
   useEffect(() => {
-    function tick() {
-      const delay = 30000 + Math.random() * 60000
-      setTimeout(() => {
-        setCount((c) => c + 1)
-        tick()
-      }, delay)
-    }
-    const initial = setTimeout(tick, 15000)
-    return () => clearTimeout(initial)
+    const id = setInterval(() => setCount(liveCount(new Date())), 60_000)
+    return () => clearInterval(id)
   }, [])
 
   return (
     <div className="live-counter">
       <span className="live-dot" />
       <span className="live-text">
-        <strong>{count}</strong> families joined this week
+        <strong>{count}</strong> parents exploring Faithful Kids today
       </span>
     </div>
   )

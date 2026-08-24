@@ -104,7 +104,12 @@ export function unsubscribeUrl(email: string): string {
   return `${SITE_URL}/api/unsubscribe?email=${encodeURIComponent(email)}&token=${unsubscribeToken(email)}`
 }
 
-export async function sendLeadEmail(to: string, subject: string, html: string): Promise<boolean> {
+export async function sendLeadEmail(
+  to: string,
+  subject: string,
+  html: string,
+  from?: string
+): Promise<boolean> {
   if (!RESEND_KEY) throw new Error('RESEND_API_KEY missing')
   const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
@@ -113,7 +118,10 @@ export async function sendLeadEmail(to: string, subject: string, html: string): 
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      from: `Faithful Kids <${FROM_EMAIL}>`,
+      // Cold lead nurture sends as the brand; trial and customer mail sends
+      // as Christian, because those emails ask for a reply and a person has
+      // to be on the other end of it.
+      from: from || `Faithful Kids <${FROM_EMAIL}>`,
       to: [to],
       subject,
       html,

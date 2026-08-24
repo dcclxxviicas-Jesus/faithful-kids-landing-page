@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { cfg, adminPassword } from '@/lib/admin-stats'
 import { sendLeadEmail } from '@/lib/leads'
-import { buildTrialEmail, type TrialContext, type TrialEmailType } from '@/lib/trial-emails'
+import { buildTrialEmail, TRIAL_FROM, type TrialContext, type TrialEmailType } from '@/lib/trial-emails'
 
 export const maxDuration = 120
 
@@ -212,7 +212,7 @@ export async function GET(req: NextRequest) {
         results.push({ email: c.ctx.email, type: c.type, reason: c.reason, subject, sent: 'DRY RUN' })
         continue
       }
-      const ok = await sendLeadEmail(c.ctx.email, subject, html)
+      const ok = await sendLeadEmail(c.ctx.email, subject, html, TRIAL_FROM)
       if (ok) {
         await supa('/email_log', {
           method: 'POST',

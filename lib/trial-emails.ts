@@ -13,6 +13,11 @@ import { SITE_URL, unsubscribeUrl } from './leads'
 
 const APP_URL = 'https://app.faithfulkids.app'
 
+// Trial mail comes from Christian, not the brand: every one of these emails
+// invites a reply, and christian@faithfulkids.app is a monitored inbox.
+// (Cold lead nurture still sends as "Faithful Kids" — see lib/lead-emails.ts.)
+export const TRIAL_FROM = 'Christian at Faithful Kids <christian@faithfulkids.app>'
+
 export type TrialState = 'no_kids' | 'no_episodes' | 'engaged'
 export type TrialEmailType =
   | 'trial_day1'
@@ -41,7 +46,7 @@ function wrap(email: string, bodyHtml: string): string {
 <html><body style="margin:0;padding:0;background:#ffffff;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;">
 <div style="max-width:560px;margin:0 auto;padding:28px 20px;color:#1f2937;font-size:15px;line-height:1.65;">
 ${bodyHtml}
-<p style="margin:26px 0 0;">— The Faithful Kids Team<br/><span style="color:#6b7280;font-size:13px;">faithfulkids.app</span></p>
+<p style="margin:26px 0 0;">— Christian<br/><span style="color:#6b7280;font-size:13px;">Faithful Kids · faithfulkids.app</span></p>
 <p style="margin:24px 0 0;color:#9ca3af;font-size:12px;line-height:1.5;">
   You're receiving this because you started a Faithful Kids trial.
   <a href="${unsubscribeUrl(email)}" style="color:#9ca3af;">Unsubscribe from tips</a>
@@ -90,7 +95,7 @@ export function buildTrialEmail(
 <p>Your Faithful Kids account is ready — there's just one thing left before the stories can start: <strong>adding a profile for each child</strong>.</p>
 <p>It takes about thirty seconds, and it's what lets each kid keep their own progress, streak, and faith seeds.</p>
 ${button(utm(`${APP_URL}/profiles`, type), 'Add your kids →')}
-<p style="color:#6b7280;font-size:13px;">Stuck on anything at all? Just reply to this email — a real person reads it.</p>`),
+<p style="color:#6b7280;font-size:13px;">Stuck on anything at all? Just reply — this comes straight to my inbox.</p>`),
         }
       }
       if (state === 'no_episodes') {
@@ -128,7 +133,7 @@ ${button(appLink, 'Continue watching →')}
 <p>Everything is set up on our side — there's just one step left before ${kids} can start: <strong>a profile for each child</strong>. Thirty seconds, and then the stories are open.</p>
 ${button(utm(`${APP_URL}/profiles`, type), 'Add your kids →')}
 <p>Once they're in, we'd start with <strong>Creation</strong>. It's three minutes, and most parents tell us the questions afterward are the best part of the day.</p>
-<p style="color:#6b7280;font-size:13px;">If something's in the way — a login that won't work, a question about ages — just reply. A real person reads every message.</p>`),
+<p style="color:#6b7280;font-size:13px;">If something's in the way — a login that won't work, a question about ages — just reply and tell me. It comes straight to me.</p>`),
         }
       }
       if (state === 'no_episodes') {
@@ -169,7 +174,7 @@ ${button(appLink, 'Keep going →')}
   <li>You can add up to 5 kid profiles at no extra cost</li>
 </ul>
 ${button(appLink, 'Keep the streak going →')}
-<p>If anything ever feels off — a story that didn't land, a feature you wish existed — just reply. We read every message, and small teams change things fast.</p>`),
+<p>If anything ever feels off — a story that didn't land, a feature you wish existed — just reply and tell me. I read every message, and we're small enough to actually change things.</p>`),
       }
 
     // ---------- They set it to cancel, mid-trial ----------
@@ -181,8 +186,8 @@ ${button(appLink, 'Keep the streak going →')}
 <p>We saw your subscription is set to end${ctx.trialEndsLabel ? ` ${ctx.trialEndsLabel}` : ''}, and that's completely okay — no hard feelings and nothing to do.</p>
 ${
   state === 'engaged'
-    ? `<p>One thing though: ${kids} did get through ${ctx.episodesWatched === 1 ? 'an episode' : `${ctx.episodesWatched} episodes`}, so something was working. If it was the price, the timing, or something that annoyed you, we'd honestly love to know — just hit reply.</p>`
-    : `<p>If you never quite got started, that's usually our fault rather than yours. If there's a reason it didn't click — confusing setup, wrong ages, not what you expected — hit reply and tell us. We read every one.</p>`
+    ? `<p>One thing though: ${kids} did get through ${ctx.episodesWatched === 1 ? 'an episode' : `${ctx.episodesWatched} episodes`}, so something was working. If it was the price, the timing, or something that annoyed you, I'd genuinely like to know — just hit reply.</p>`
+    : `<p>If you never quite got started, that's usually our fault rather than yours. If there's a reason it didn't click — confusing setup, wrong ages, not what you expected — hit reply and tell me. I read every one.</p>`
 }
 <p>Your access stays on until the end of the period, so ${kids} can keep watching in the meantime.</p>
 ${button(appLink, 'Watch while you still have access →')}
@@ -198,7 +203,7 @@ ${button(appLink, 'Watch while you still have access →')}
 <p>${hi(ctx)}</p>
 <p>Your trial has ended and you haven't been charged anything.</p>
 <p>If Faithful Kids wasn't the right fit right now, we understand completely. Your account and ${kids === 'your kids' ? 'any progress' : `${kids}'s progress`} will be waiting if you ever want to come back — nothing gets deleted.</p>
-<p>And if you'd tell us one honest sentence about why it didn't work, it would genuinely help us build something better. Just reply.</p>
+<p>And if you'd send me one honest sentence about why it didn't work, it would genuinely help me build something better. Just reply — it comes straight to me.</p>
 ${button(utm(`${SITE_URL}/quiz`, type), 'Start again whenever you like')}
 <p style="color:#6b7280;font-size:13px;">In the meantime, our Bible stories, trivia and printables stay free at faithfulkids.app.</p>`),
       }

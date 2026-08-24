@@ -30,7 +30,7 @@ async function config(): Promise<Record<string, string>> {
   return configCache
 }
 
-async function cfg(name: string): Promise<string> {
+export async function cfg(name: string): Promise<string> {
   return process.env[name] || (await config())[name] || ''
 }
 

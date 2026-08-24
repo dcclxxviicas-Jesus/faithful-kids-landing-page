@@ -288,7 +288,7 @@ export function TriviaGame({
             </p>
             <div style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fit, minmax(150px, 1fr))',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(128px, 1fr))',
               gap: '10px',
             }}>
               {related.map(r => (

@@ -9,8 +9,7 @@ import {
   extractTriviaQuestions,
   getReadingTime,
   getHeroStoryLinks,
-  getRelatedGuides,
-} from '@/lib/blog'
+  getRelatedGuides, triviaLabel, getRelatedTrivia } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 import { BlogImage } from '../BlogImage'
 import { TriviaGame } from '../TriviaGame'
@@ -305,6 +304,8 @@ const hasTriviaGame = triviaQuestions.length >= 10
             questions={triviaQuestions}
             postSlug={post.slug}
             postTitle={post.title}
+            label={triviaLabel(post.slug, post.title)}
+            related={getRelatedTrivia(post.slug)}
             posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
             {...getTriviaVideo(post.slug)}
           />

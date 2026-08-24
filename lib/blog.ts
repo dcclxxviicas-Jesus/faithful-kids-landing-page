@@ -511,3 +511,64 @@ export function getRelatedGuides(post: BlogPost, limit = 6): BlogPost[] {
     .slice(0, limit)
     .map(x => x.post)
 }
+
+// ---------------------------------------------------------------------------
+// Trivia cross-linking: after a reader finishes one game, point them at more.
+// ---------------------------------------------------------------------------
+
+export interface TriviaLink {
+  slug: string
+  label: string
+  count: number
+}
+
+const SMALL_WORDS = new Set(['of', 'the', 'and', 'for', 'to', 'in'])
+
+/** "1-corinthians-bible-trivia" -> "1 Corinthians"; falls back to the title. */
+export function triviaLabel(slug: string, title: string): string {
+  const m = slug.match(/^(.+)-bible-trivia$/)
+  if (!m) return title.split(/[:(]/)[0].trim()
+  return m[1]
+    .split('-')
+    .map((w, i) =>
+      /^\d+$/.test(w) ? w
+      : i > 0 && SMALL_WORDS.has(w) ? w
+      : w.charAt(0).toUpperCase() + w.slice(1)
+    )
+    .join(' ')
+}
+
+let cachedPlayable: TriviaLink[] | null = null
+
+/** Every post that actually has a playable game (>= 10 extractable Q&A). */
+export function getPlayableTrivia(): TriviaLink[] {
+  if (cachedPlayable) return cachedPlayable
+  cachedPlayable = getAllPosts()
+    .filter(p => /trivia/i.test(p.slug))
+    .map(p => ({
+      slug: p.slug,
+      label: triviaLabel(p.slug, p.title),
+      count: extractTriviaQuestions(p.content).length,
+    }))
+    .filter(t => t.count >= 10)
+  return cachedPlayable
+}
+
+/**
+ * Games to suggest when a round ends. Deterministic per page (so the build is
+ * stable) but varied across pages, seeded off the current slug.
+ */
+export function getRelatedTrivia(currentSlug: string, limit = 6): TriviaLink[] {
+  const pool = getPlayableTrivia().filter(t => t.slug !== currentSlug)
+  let seed = 0
+  for (let i = 0; i < currentSlug.length; i++) seed = (seed * 31 + currentSlug.charCodeAt(i)) >>> 0
+  return pool
+    .map(t => {
+      let h = seed
+      for (let i = 0; i < t.slug.length; i++) h = (h * 33 + t.slug.charCodeAt(i)) >>> 0
+      return { t, h }
+    })
+    .sort((a, b) => a.h - b.h)
+    .slice(0, limit)
+    .map(x => x.t)
+}

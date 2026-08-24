@@ -2,7 +2,7 @@
 
 import { useRef, useState } from 'react'
 import posthog from 'posthog-js'
-import type { TriviaQuestion } from '@/lib/blog'
+import type { TriviaQuestion, TriviaLink } from '@/lib/blog'
 
 function track(event: string, props?: Record<string, unknown>) {
   try {
@@ -40,6 +40,8 @@ export function TriviaGame({
   questions,
   postSlug,
   postTitle,
+  label,
+  related,
   videoSrc,
   videoTitle,
   posterSrc,
@@ -47,6 +49,10 @@ export function TriviaGame({
   questions: TriviaQuestion[]
   postSlug: string
   postTitle: string
+  /** Short game name, e.g. "Exodus" */
+  label: string
+  /** Other playable games to send them to when this round ends */
+  related: TriviaLink[]
   videoSrc: string
   videoTitle: string
   posterSrc?: string
@@ -138,6 +144,28 @@ export function TriviaGame({
     border: 'none',
     cursor: 'pointer',
   }
+  // The card is edge-to-edge inside, so the banner has to pull back out
+  // over the card padding to reach the corners.
+  const banner: React.CSSProperties = {
+    background: 'linear-gradient(135deg, #059669 0%, #047857 100%)',
+    color: '#fff',
+    margin: '-28px -24px 20px',
+    padding: '18px 24px 16px',
+    borderRadius: '18px 18px 0 0',
+  }
+  const eyebrow: React.CSSProperties = {
+    display: 'inline-block',
+    background: 'rgba(255,255,255,0.18)',
+    borderRadius: '999px',
+    padding: '3px 11px',
+    fontSize: '0.68rem',
+    fontWeight: 800,
+    letterSpacing: '0.09em',
+    marginBottom: '7px',
+  }
+  const heading = /trivia/i.test(label) ? label : `${label} Bible Trivia`
+  const minutes = Math.max(1, Math.round(round.length * 0.2))
+
   const ghost: React.CSSProperties = {
     ...btn,
     background: '#fff',
@@ -250,8 +278,49 @@ export function TriviaGame({
           Take a Look — Free for 3 Days
         </a>
 
-        <div style={{ marginTop: '18px' }}>
-          <p style={{ fontSize: '0.85rem', color: '#777', margin: '0 0 8px' }}>Play again with</p>
+        {related.length > 0 && (
+          <div style={{ marginTop: '26px', borderTop: '1px solid #eee', paddingTop: '20px' }}>
+            <p style={{ fontWeight: 800, fontSize: '1.05rem', margin: '0 0 3px' }}>
+              🎯 Play another Bible trivia game
+            </p>
+            <p style={{ fontSize: '0.85rem', color: '#777', margin: '0 0 14px' }}>
+              {related.length} more waiting &mdash; all free, no sign-up.
+            </p>
+            <div style={{
+              display: 'grid',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(150px, 1fr))',
+              gap: '10px',
+            }}>
+              {related.map(r => (
+                <a
+                  key={r.slug}
+                  href={`/blog/${r.slug}`}
+                  onClick={() => track('trivia_game_next_click', { from: postSlug, to: r.slug })}
+                  style={{
+                    display: 'block',
+                    background: '#f0fdf4',
+                    border: '2px solid #d1fae5',
+                    borderRadius: '14px',
+                    padding: '13px 12px',
+                    textDecoration: 'none',
+                    color: '#065f46',
+                    fontWeight: 700,
+                    fontSize: '0.95rem',
+                    textAlign: 'center',
+                  }}
+                >
+                  {r.label}
+                  <span style={{ display: 'block', fontWeight: 500, fontSize: '0.78rem', color: '#6b7280', marginTop: '2px' }}>
+                    {r.count} questions
+                  </span>
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
+
+        <div style={{ marginTop: '22px' }}>
+          <p style={{ fontSize: '0.85rem', color: '#777', margin: '0 0 8px' }}>Or replay this one with</p>
           <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
             {lengthChoices.map(n => (
               <button key={n} style={ghost} onClick={() => replay(n)}>{n} questions</button>
@@ -264,8 +333,18 @@ export function TriviaGame({
 
   // ---- Question screen (this is what a reader lands on -- no start gate) ----
   const q = round[index]
+  const fresh = index === 0 && !revealed && !feedback
   return (
     <div style={card}>
+      {/* Banner: the reader has to know at a glance this is a live game they
+          can play right now, for free, in about two minutes. */}
+      <div style={banner}>
+        <span style={eyebrow}>{fresh ? '\u25B6 PLAY NOW \u00B7 FREE' : '\u25B6 IN PLAY'}</span>
+        <h2 style={{ fontSize: '1.32rem', fontWeight: 800, margin: '0 0 3px', lineHeight: 1.2 }}>{heading}</h2>
+        <p style={{ fontSize: '0.85rem', opacity: 0.93, margin: 0 }}>
+          {round.length} questions &middot; about {minutes} min &middot; no sign-up
+        </p>
+      </div>
       <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.85rem', color: '#777', marginBottom: '10px' }}>
         <span>Question {index + 1} of {round.length}</span>
         <span>{streak > 1 ? `🔥 ${streak} streak` : `Score: ${score}`}</span>
@@ -286,9 +365,21 @@ export function TriviaGame({
           {feedback.text}
         </p>
       )}
-      <p style={{ fontSize: '1.15rem', fontWeight: 700, margin: '0 0 20px', minHeight: '56px' }}>{q.question}</p>
+      <p style={{ fontSize: fresh ? '1.3rem' : '1.15rem', fontWeight: 700, margin: '0 0 20px', minHeight: '56px', lineHeight: 1.35 }}>{q.question}</p>
       {!revealed ? (
-        <button style={btn} onClick={() => { markStarted(); setRevealed(true) }}>Reveal Answer</button>
+        <>
+          <button
+            style={{ ...btn, fontSize: fresh ? '1.05rem' : '1rem', padding: fresh ? '15px 34px' : '13px 30px', boxShadow: '0 6px 18px rgba(5,150,105,0.28)' }}
+            onClick={() => { markStarted(); setRevealed(true) }}
+          >
+            {fresh ? 'Reveal the Answer' : 'Reveal Answer'}
+          </button>
+          {fresh && (
+            <p style={{ fontSize: '0.82rem', color: '#888', margin: '12px 0 0' }}>
+              Guess out loud first &mdash; then see if you got it.
+            </p>
+          )}
+        </>
       ) : (
         <>
           <div style={{ background: '#ecfdf5', borderRadius: '14px', padding: '16px', margin: '0 0 18px' }}>

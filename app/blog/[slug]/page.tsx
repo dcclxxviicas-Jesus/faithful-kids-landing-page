@@ -13,6 +13,7 @@ import {
 import { notFound } from 'next/navigation'
 import { BlogImage } from '../BlogImage'
 import { TriviaGame } from '../TriviaGame'
+import { BlogStickyCta } from '../BlogStickyCta'
 import { BlogExitIntent } from '../BlogExitIntent'
 import { EmailCaptureCard } from '../EmailCaptureCard'
 
@@ -430,16 +431,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
       </section>
 
       {/* STICKY BOTTOM CTA */}
-      <div className="blog-sticky-cta">
-        <div className="blog-sticky-inner">
-          <span className="blog-sticky-text">
-            <strong>Start your child&apos;s Bible journey</strong> &mdash; 3 days free
-          </span>
-          <a href="/quiz" className="btn-primary" style={{ textDecoration: 'none', padding: '10px 24px', fontSize: '0.88rem' }}>
-            Try Free
-          </a>
-        </div>
-      </div>
+      <BlogStickyCta postSlug={post.slug} />
 
       </main>
 

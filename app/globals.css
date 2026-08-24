@@ -1858,13 +1858,29 @@ body {
   backdrop-filter: blur(12px);
   border-top: 1px solid var(--border);
   padding: 12px 24px;
+  transition: transform 0.25s ease;
 }
+.blog-sticky-cta.is-hidden {
+  transform: translateY(110%);
+}
+.blog-sticky-close {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 1.4rem;
+  line-height: 1;
+  padding: 0 2px;
+  cursor: pointer;
+  opacity: 0.55;
+}
+.blog-sticky-close:hover { opacity: 1; }
 .blog-sticky-inner {
   max-width: var(--max-width);
   margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 12px;
 }
 .blog-sticky-text {
   font-size: 0.9rem;
@@ -1889,7 +1905,13 @@ body {
   .blog-mid-cta { padding: 24px 20px; margin: 32px 0; }
   .blog-bottom-cta { padding: 56px 20px; }
   .blog-bottom-cta h2 { font-size: 1.6rem; }
-  .blog-sticky-inner { flex-direction: column; gap: 8px; text-align: center; }
+  /* One compact row on phones -- stacking made this a two-row bar that ate
+     the bottom of the screen on every blog page. */
+  .blog-sticky-cta { padding: 8px 12px; }
+  .blog-sticky-inner { gap: 8px; }
+  .blog-sticky-text { font-size: 0.82rem; line-height: 1.25; }
+  .blog-sticky-long { display: none; }
+  .blog-sticky-btn { padding: 9px 18px !important; font-size: 0.85rem !important; white-space: nowrap; }
 }
 
 @media (max-width: 480px) {

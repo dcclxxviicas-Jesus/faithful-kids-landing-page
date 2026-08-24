@@ -174,6 +174,7 @@ export default async function BlogPostPage({ params }: Props) {
 
   // Exit-intent popup: context-aware variant (drives which free printable
   // it offers). No video -- the popup's job is one low-friction ask.
+const hasTriviaGame = triviaQuestions.length >= 10
   const exitVariant: 'trivia' | 'story' | 'guide' =
     post.slug.includes('trivia') ? 'trivia' : post.type !== 'listicle' ? 'story' : 'guide'
 
@@ -280,16 +281,6 @@ export default async function BlogPostPage({ params }: Props) {
           )}
         </header>
 
-        {/* Interactive trivia game — only on posts with extractable Q&A */}
-        {triviaQuestions.length >= 10 && (
-          <TriviaGame
-            questions={triviaQuestions}
-            postSlug={post.slug}
-            posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
-            {...getTriviaVideo(post.slug)}
-          />
-        )}
-
         {/* Body — first half */}
         <div
           className="blog-article-body"
@@ -306,18 +297,34 @@ export default async function BlogPostPage({ params }: Props) {
           style={{ width: '100%', maxWidth: '600px', height: 'auto', borderRadius: '12px', margin: '24px auto', display: 'block' }}
         />
 
-        {/* Mid-article CTA */}
-        <div className="blog-mid-cta">
-          <div className="blog-mid-cta-icon">&#9654;</div>
-          <h3>Watch This Story Come Alive</h3>
-          <p>
-            See <strong>{post.title.split(':')[0]}</strong> in a 60-second narrated video lesson
-            your child will love. Followed by a fun quiz to check what they learned.
-          </p>
-          <a href="/quiz" className="btn-primary" style={{ textDecoration: 'none', display: 'inline-block' }}>
-            Watch Free for 3 Days
-          </a>
-        </div>
+        {/* Interactive trivia game — sits below the opening section so the
+            reader meets the article first, then the game. Only on posts with
+            extractable Q&A. */}
+        {hasTriviaGame && (
+          <TriviaGame
+            questions={triviaQuestions}
+            postSlug={post.slug}
+            postTitle={post.title}
+            posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+            {...getTriviaVideo(post.slug)}
+          />
+        )}
+
+        {/* Mid-article CTA — skipped when the game is present, since the
+            game's end screen already makes the same offer with a video. */}
+        {!hasTriviaGame && (
+          <div className="blog-mid-cta">
+            <div className="blog-mid-cta-icon">&#9654;</div>
+            <h3>Watch This Story Come Alive</h3>
+            <p>
+              See <strong>{post.title.split(':')[0]}</strong> in a 60-second narrated video lesson
+              your child will love. Followed by a fun quiz to check what they learned.
+            </p>
+            <a href="/quiz" className="btn-primary" style={{ textDecoration: 'none', display: 'inline-block' }}>
+              Watch Free for 3 Days
+            </a>
+          </div>
+        )}
 
         {/* Inline image 2 — before discussion/quiz section */}
         {contentParts.second && (

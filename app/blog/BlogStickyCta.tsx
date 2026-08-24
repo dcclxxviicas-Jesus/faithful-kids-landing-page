@@ -5,7 +5,10 @@ import posthog from 'posthog-js'
 
 const DISMISS_KEY = 'fk_sticky_dismissed_at'
 const DISMISS_MS = 24 * 60 * 60 * 1000
-const SHOW_AFTER_SCROLL = 0.2
+// A fraction of ONE SCREEN, not of the page. These posts run 12k-30k px, so a
+// percentage of document height meant 4-9 screens of scrolling before the bar
+// appeared -- it would have been invisible for most of the visit.
+const SHOW_AFTER_SCREENS = 0.6
 
 /**
  * Bottom CTA bar. It is the best-converting CTA on mobile blog pages, so it
@@ -23,8 +26,7 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
     } catch { /* private mode */ }
 
     function onScroll() {
-      const docH = document.documentElement.scrollHeight - window.innerHeight
-      setVisible(docH > 0 && window.scrollY / docH >= SHOW_AFTER_SCROLL)
+      setVisible(window.scrollY > window.innerHeight * SHOW_AFTER_SCREENS)
     }
     onScroll()
     window.addEventListener('scroll', onScroll, { passive: true })

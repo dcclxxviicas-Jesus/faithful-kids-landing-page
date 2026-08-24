@@ -115,29 +115,43 @@ ${button(appLink, 'Continue watching →')}
       }
     }
 
-    // ---------- Day 2: value + honest heads-up about the charge ----------
+    // ---------- Day 2: momentum, not billing ----------
+    // No charge reminder here by design: for trials under 7 days the card
+    // networks want the terms in the enrollment confirmation, which is where
+    // they now live. This email's only job is to get them watching.
     case 'trial_day2': {
-      const nudge =
-        state === 'no_kids'
-          ? `<p>You haven't added a kid profile yet — that's the one step between you and the stories. <a href="${utm(`${APP_URL}/profiles`, type)}" style="color:#059669;font-weight:700;">It takes thirty seconds.</a></p>`
-          : state === 'no_episodes'
-            ? `<p>${kids} ${ctx.kidNames.length === 1 ? 'hasn\'t' : 'haven\'t'} watched anything yet. If you get one episode in before the trial ends, you'll know whether this is right for your family. <a href="${appLink}" style="color:#059669;font-weight:700;">Start with Creation →</a></p>`
-            : `<p>${kids} ${ctx.kidNames.length === 1 ? 'has' : 'have'} already been through ${ctx.episodesWatched === 1 ? 'an episode' : `${ctx.episodesWatched} episodes`} — you're off to a better start than most.</p>`
+      if (state === 'no_kids') {
+        return {
+          subject: 'Your first story is still waiting',
+          html: wrap(ctx.email, `
+<p>${hi(ctx)}</p>
+<p>Everything is set up on our side — there's just one step left before ${kids} can start: <strong>a profile for each child</strong>. Thirty seconds, and then the stories are open.</p>
+${button(utm(`${APP_URL}/profiles`, type), 'Add your kids →')}
+<p>Once they're in, we'd start with <strong>Creation</strong>. It's three minutes, and most parents tell us the questions afterward are the best part of the day.</p>
+<p style="color:#6b7280;font-size:13px;">If something's in the way — a login that won't work, a question about ages — just reply. A real person reads every message.</p>`),
+        }
+      }
+      if (state === 'no_episodes') {
+        return {
+          subject: 'Three minutes, one story',
+          html: wrap(ctx.email, `
+<p>${hi(ctx)}</p>
+<p>${kids} ${ctx.kidNames.length === 1 ? 'is' : 'are'} set up and ready, but ${ctx.kidNames.length === 1 ? 'hasn\'t' : 'haven\'t'} watched a story yet — so here's the smallest possible start.</p>
+<p><strong>One episode. Three minutes.</strong> Creation, the first story in Genesis: narrated by Jesus, then a handful of questions, then one thing to talk about together.</p>
+${button(appLink, 'Play Creation →')}
+<p>That's genuinely all it takes to know whether this is right for your family. Bedtime, breakfast, the car — wherever three minutes fits.</p>`),
+        }
+      }
       return {
-        subject: `Your trial ends ${ctx.trialEndsLabel} — here's what to expect`,
+        subject: `${ctx.kidNames.length === 1 ? 'Look what they' : 'Look what they'} did this week`,
         html: wrap(ctx.email, `
 <p>${hi(ctx)}</p>
-<p>A quick, honest heads-up so nothing is a surprise: <strong>your free trial ends ${ctx.trialEndsLabel}</strong>, and unless you cancel before then, your subscription starts at <strong>${ctx.priceLabel}</strong>.</p>
-${nudge}
-<p style="margin-top:18px;">What that subscription includes:</p>
-<ul style="margin:0 0 12px;padding-left:20px;">
-  <li>200+ video Bible lessons, Genesis through Revelation</li>
-  <li>A quiz and a reflection after every story</li>
-  <li>Up to 5 kid profiles, each with their own progress</li>
-  <li>Zero ads — ever</li>
-</ul>
-${button(appLink, 'Open Faithful Kids →')}
-<p style="color:#6b7280;font-size:13px;">Changed your mind? You can <a href="${billingLink}" style="color:#6b7280;">cancel in one click</a> from your parent dashboard, and there's a 30-day money-back guarantee either way.</p>`),
+<p>A quick picture of where ${kids} ${ctx.kidNames.length === 1 ? 'has' : 'have'} got to:</p>
+<p style="font-size:20px;font-weight:800;margin:14px 0;color:#059669;">${ctx.episodesWatched} ${ctx.episodesWatched === 1 ? 'episode' : 'episodes'} finished</p>
+<p>Every one of those was a full story, a quiz, and a reflection — not just a video playing in the background. That's the part that sticks.</p>
+${ctx.lastSeriesName ? `<p><strong>${ctx.lastSeriesName}</strong> picks up right where you left off, and finishing a series unlocks the next one.</p>` : `<p>The next episode picks up right where you left off, and finishing a series unlocks the next one.</p>`}
+${button(appLink, 'Keep going →')}
+<p style="color:#6b7280;font-size:13px;">Families who watch a few days in a row tend to keep going for months. The streak counter is worth chasing.</p>`),
       }
     }
 

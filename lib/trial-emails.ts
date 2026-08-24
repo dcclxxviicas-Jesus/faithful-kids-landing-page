@@ -16,7 +16,7 @@ const APP_URL = 'https://app.faithfulkids.app'
 // Trial mail comes from Christian, not the brand: every one of these emails
 // invites a reply, and christian@faithfulkids.app is a monitored inbox.
 // (Cold lead nurture still sends as "Faithful Kids" — see lib/lead-emails.ts.)
-export const TRIAL_FROM = 'Christian at Faithful Kids <christian@faithfulkids.app>'
+export const TRIAL_FROM = 'Christian Alexander <christian@faithfulkids.app>'
 
 export type TrialState = 'no_kids' | 'no_episodes' | 'engaged'
 export type TrialEmailType =
@@ -46,7 +46,7 @@ function wrap(email: string, bodyHtml: string): string {
 <html><body style="margin:0;padding:0;background:#ffffff;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;">
 <div style="max-width:560px;margin:0 auto;padding:28px 20px;color:#1f2937;font-size:15px;line-height:1.65;">
 ${bodyHtml}
-<p style="margin:26px 0 0;">— Christian<br/><span style="color:#6b7280;font-size:13px;">Faithful Kids · faithfulkids.app</span></p>
+<p style="margin:26px 0 0;">— Christian from Faithful Kids<br/><span style="color:#6b7280;font-size:13px;">faithfulkids.app</span></p>
 <p style="margin:24px 0 0;color:#9ca3af;font-size:12px;line-height:1.5;">
   You're receiving this because you started a Faithful Kids trial.
   <a href="${unsubscribeUrl(email)}" style="color:#9ca3af;">Unsubscribe from tips</a>

@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server'
 import { getDueLeads, updateLead, sendLeadEmail } from '@/lib/leads'
 import { buildEmail, DRIP_SCHEDULE } from '@/lib/lead-emails'
+import { runTrialEmails } from '@/lib/trial-runner'
 
 // Drip engine — hit daily by cron-job.org:
 //   GET /api/leads/drip?secret=DRIP_SECRET
@@ -39,7 +40,19 @@ export async function GET(req: Request) {
       sent++
     }
 
-    return NextResponse.json({ ok: true, due: due.length, sent, failed })
+    // Second job on the same daily tick: trial lifecycle emails. The Hobby
+    // plan allows only two cron entries and both are spoken for, so this
+    // rides along here. Isolated so a trial-email failure can never stop the
+    // lead drip from reporting success.
+    let trial: unknown = { skipped: true }
+    try {
+      trial = await runTrialEmails()
+    } catch (e) {
+      console.error('trial emails failed:', e)
+      trial = { error: e instanceof Error ? e.message : 'failed' }
+    }
+
+    return NextResponse.json({ ok: true, due: due.length, sent, failed, trial })
   } catch (e) {
     console.error('drip error:', e)
     return NextResponse.json({ error: 'drip failed' }, { status: 500 })

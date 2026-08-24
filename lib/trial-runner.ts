@@ -115,6 +115,16 @@ async function findCandidates(): Promise<Candidate[]> {
     }
     if (!type) continue
 
+    // Stripe usually has the real cardholder name even when the app's
+    // parent_name is null, so use it as the greeting fallback.
+    let stripeName: string | null = null
+    try {
+      const cust = (await stripeGet(`customers/${sub.customer}`)) as { name?: string | null }
+      stripeName = cust?.name || null
+    } catch {
+      // best effort only
+    }
+
     // Family for this Stripe customer
     const famRes = await supa(
       `/families?select=id,parent_email,parent_name,email_notifications&stripe_customer_id=eq.${sub.customer}`
@@ -158,7 +168,7 @@ async function findCandidates(): Promise<Candidate[]> {
       reason,
       ctx: {
         email: fam.parent_email,
-        firstName: firstNameOf(fam.parent_name, fam.parent_email),
+        firstName: firstNameOf(fam.parent_name || stripeName, fam.parent_email),
         kidNames: (kids as { name: string }[]).map((k) => k.name).filter(Boolean),
         episodesWatched,
         lastSeriesName,

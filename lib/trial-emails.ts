@@ -60,11 +60,26 @@ function button(href: string, label: string): string {
 </td></tr></table>`
 }
 
+// Plenty of parents type placeholders into the profile screen ("Kid 1",
+// "Older c3", "test"). Dropping those into a warm email reads as a broken
+// mail merge, so anything that doesn't look like a real name disqualifies
+// the whole list and we fall back to "your kids".
+const GENERIC_NAME = /^(kid|kids|child|children|boy|girl|older|younger|oldest|youngest|son|daughter|baby|test|profile|user|me|mum|mom|dad|parent|abc|xyz)\b/i
+
+export function looksLikeRealName(name: string): boolean {
+  const n = (name || '').trim()
+  if (n.length < 2 || n.length > 20) return false
+  if (/\d/.test(n)) return false // "Kid 1", "Older c3"
+  if (GENERIC_NAME.test(n)) return false
+  return /^[\p{L}][\p{L}'’. -]*$/u.test(n)
+}
+
 // "Ariel and Audrey" / "Ariel, Audrey and Sam" / "your kids"
 export function nameList(names: string[]): string {
-  if (!names.length) return 'your kids'
-  if (names.length === 1) return names[0]
-  return names.slice(0, -1).join(', ') + ' and ' + names[names.length - 1]
+  const usable = names.filter(looksLikeRealName)
+  if (!usable.length || usable.length !== names.length) return 'your kids'
+  if (usable.length === 1) return usable[0]
+  return usable.slice(0, -1).join(', ') + ' and ' + usable[usable.length - 1]
 }
 
 export function trialState(ctx: TrialContext): TrialState {
@@ -100,7 +115,9 @@ ${button(utm(`${APP_URL}/profiles`, type), 'Add your kids →')}
       }
       if (state === 'no_episodes') {
         return {
-          subject: `${ctx.kidNames[0]}'s first story is waiting`,
+          subject: looksLikeRealName(ctx.kidNames[0] || '')
+            ? `${ctx.kidNames[0]}'s first story is waiting`
+            : 'Their first story is waiting',
           html: wrap(ctx.email, `
 <p>${hi(ctx)}</p>
 <p>${kids} ${ctx.kidNames.length === 1 ? 'is' : 'are'} all set up — now comes the fun part.</p>

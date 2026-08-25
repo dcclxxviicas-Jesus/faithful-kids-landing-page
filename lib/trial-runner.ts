@@ -164,13 +164,6 @@ async function findCandidates(): Promise<Candidate[]> {
     const famEmail = fam.parent_email.toLowerCase()
     if (TEST_EMAILS.has(custEmail) || TEST_EMAILS.has(famEmail)) continue
 
-    // Never send the same trial email to the same family twice
-    const logRes = await supa(
-      `/email_log?select=id&family_id=eq.${fam.id}&email_type=eq.${type}&limit=1`
-    )
-    const already = logRes.ok ? await logRes.json() : []
-    if (already.length) continue
-
     // Engagement state
     const kidsRes = await supa(`/kids?select=id,name&family_id=eq.${fam.id}`)
     const kids = kidsRes.ok ? await kidsRes.json() : []
@@ -199,6 +192,14 @@ async function findCandidates(): Promise<Candidate[]> {
       type = 'never_watched'
       reason = `paying ${Math.floor(ageDays)}d, has watched nothing`
     }
+
+    // Dedupe LAST, once the type is actually known. Checking earlier queried
+    // email_type=eq.null for never-watched candidates, matched nothing, and
+    // would have re-sent the same email every single day.
+    const logRes = await supa(
+      `/email_log?select=id&family_id=eq.${fam.id}&email_type=eq.${type}&limit=1`
+    )
+    if (logRes.ok && ((await logRes.json()) as unknown[]).length) continue
 
     out.push({
       familyId: fam.id,

@@ -64,7 +64,7 @@ After the stories, keep the conversation going with our [Easter Bible trivia for
 
 All 10 episodes of the Road to the Cross and He Is Risen series are available on Faithful Kids, each with a 60-second video and a quiz.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=listicle-easter)
+[**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-easter)
 
 ## Frequently Asked Questions
 

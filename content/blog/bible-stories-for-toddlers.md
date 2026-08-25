@@ -74,7 +74,7 @@ For a more structured approach, see our [Bible lessons for toddlers](/blog/bible
 
 Faithful Kids has 400+ Bible story videos designed for kids ages 5+. For toddlers, start with Creation, Noah's Ark, and the Birth of Jesus. Each video is 60 seconds, perfect for tiny attention spans.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=listicle-toddlers)
+[**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-toddlers)
 
 ## Frequently Asked Questions
 

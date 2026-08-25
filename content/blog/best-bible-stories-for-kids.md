@@ -292,7 +292,7 @@ Once your child knows a handful of these stories, turn review into play with som
 
 Every story on this list is available as a 60-second video lesson with a quiz on Faithful Kids. We have 400+ Bible story videos covering the entire Bible from Genesis to Revelation. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=listicle)
+[**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle)
 
 ## Frequently Asked Questions
 

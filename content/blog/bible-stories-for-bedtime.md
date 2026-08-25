@@ -107,7 +107,7 @@ After the resurrection, Jesus makes breakfast for His friends on the beach. Fish
 
 Faithful Kids has a dedicated bedtime mode that dims the screen, plays one story, follows it with a gentle prayer, and fades to silence. No autoplay. No bright screens. Just sleep.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=listicle-bedtime)
+[**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-bedtime)
 
 ## Frequently Asked Questions
 

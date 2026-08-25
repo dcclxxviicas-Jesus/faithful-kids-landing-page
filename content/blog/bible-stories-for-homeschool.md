@@ -84,7 +84,7 @@ Rotate through these five, roughly one per weekday:
 
 Most homeschool families do not want to slap a letter grade on Scripture, and you do not need to. Track three simple things instead: stories completed (check off the 200), verses memorized (aim for 20 over the year -- one per unit), and narrations written. That gives you a portfolio for your homeschool records in states that require them, without ever making the Bible feel like a test to pass.
 
-If you want the comprehension checking done for you, this is where a tool earns its keep. Faithful Kids covers this exact Genesis-to-Revelation sequence in 20 series of short video lessons, each followed by an auto-graded quiz, so you can see at a glance which stories your child actually understood -- [try it free for 7 days](https://faithfulkids.app/quiz?ref=listicle-homeschool).
+If you want the comprehension checking done for you, this is where a tool earns its keep. Faithful Kids covers this exact Genesis-to-Revelation sequence in 20 series of short video lessons, each followed by an auto-graded quiz, so you can see at a glance which stories your child actually understood -- [start your free trial](https://faithfulkids.app/quiz?ref=listicle-homeschool).
 
 And remember that the goal of all this tracking is a habit, not a transcript. If the wheels come off in February, do not restart the plan -- just pick up at the next story. A family that finishes 150 of the 200 stories has still walked through more of the Bible than most adults ever have. For help protecting the daily slot itself, see our guide on [how to start family Bible time](/blog/how-to-start-family-bible-time).
 

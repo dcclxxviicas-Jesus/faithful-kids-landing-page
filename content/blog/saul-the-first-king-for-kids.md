@@ -112,7 +112,7 @@ This story is episode 02 of 10 in the Rise of Kings series:
 
 Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=blog)
+[**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
 ## Frequently Asked Questions
 

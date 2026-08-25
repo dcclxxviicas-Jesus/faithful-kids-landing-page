@@ -79,7 +79,7 @@ The goal is zero guilt. When your child's screen time is Bible stories, quizzes,
 
 [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-screentime) has 400+ Bible story videos with quizzes, screen time controls, and a parent dashboard so you always know what your child watched and how they did.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=listicle-screentime)
+[**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-screentime)
 
 ## Frequently Asked Questions
 

@@ -71,7 +71,7 @@ Want to go deeper? The Bible has its own list of faith heroes in Hebrews 11 -- w
 
 Every story on this list is available as a 60-second video lesson with a quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-faith). 400+ total lessons covering the entire Bible. No ads, ever.
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=listicle-faith)
+[**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-faith)
 
 ## Frequently Asked Questions
 

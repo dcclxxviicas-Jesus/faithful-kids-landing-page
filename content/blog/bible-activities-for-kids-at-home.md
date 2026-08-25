@@ -105,4 +105,4 @@ Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten
 
 ## Get 400+ Bible Stories with Quizzes
 
-[**Try Faithful Kids free for 7 days**](https://faithfulkids.app/quiz?ref=listicle-activities)
+[**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-activities)

@@ -38,7 +38,7 @@ Faithful Kids has 400+ short Bible story videos (60 seconds each) covering the e
 
 **Also includes:** Screen time controls, parent dashboard, up to 5 child profiles, denomination-specific content paths.
 
-[Try Faithful Kids free for 7 days](https://faithfulkids.app/quiz?ref=listicle-alternatives)
+[Start your free trial](https://faithfulkids.app/quiz?ref=listicle-alternatives)
 
 ### 2. Minno -- Best for Animated Shows
 

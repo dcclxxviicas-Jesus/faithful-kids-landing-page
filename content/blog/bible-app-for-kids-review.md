@@ -1,9 +1,9 @@
 ---
-title: "Bible App for Kids Review: Is It Enough for Your Family?"
+title: "YouVersion Bible App for Kids Review: Is It Enough After Age 7?"
 slug: "bible-app-for-kids-review"
 type: "listicle"
 metaDescription: "Bible App for Kids review: what the free YouVersion kids app does brilliantly, where it falls short by age 7, and how to know when your child needs more."
-keywords: ["bible app for kids review", "kids bible app", "childrens bible app", "youversion kids review", "bible app for kids worth it", "bible app for kids vs faithful kids"]
+keywords: ["youversion bible app for kids review", "bible app for kids review", "youversion kids review", "is bible app for kids good", "bible app for kids worth it", "outgrown bible app for kids"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-18"
 ---

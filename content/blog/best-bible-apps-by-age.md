@@ -1,9 +1,9 @@
 ---
-title: "Best Bible Apps for Kids by Age Group: A Parent's Guide"
+title: "Which Bible App Fits Your Child's Age? Toddler to Teen"
 slug: "best-bible-apps-by-age"
 type: "listicle"
-metaDescription: "Find the best Bible app for kids at every age -- from a toddler's first children's Bible app to quiz-based learning for teens. A parent's guide by age."
-keywords: ["best bible app for kids by age", "kids bible app", "childrens bible app", "bible app for kids", "bible apps for toddlers", "bible apps for tweens and teens"]
+metaDescription: "Bible apps matched to your child's actual age -- what works at 3, what an 8-year-old outgrows, and what finally holds a teenager's attention."
+keywords: ["bible app by age", "bible app for 3 year old", "bible app for 5 year olds", "bible app for 8 year olds", "bible apps for toddlers", "bible app for tweens and teens", "age appropriate bible app"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-18"
 ---

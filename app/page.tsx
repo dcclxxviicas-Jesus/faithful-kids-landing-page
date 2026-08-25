@@ -105,6 +105,69 @@ export default function Home() {
 
   return (
     <>
+      {/* App schema. Tells Google this domain is a product, not just a blog --
+          the homepage previously carried only Organization + WebSite markup, so
+          nothing on the site identified Faithful Kids as an app at all.
+          NOTE: deliberately no aggregateRating. The "4.9/5" in the hero is
+          marketing copy, not ratings collected from real users, and Google
+          issues manual actions for review markup that isn't genuine. Add
+          aggregateRating only once real reviews exist and are shown on-page. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'SoftwareApplication',
+          name: 'Faithful Kids',
+          alternateName: 'Faithful Kids Bible App for Kids',
+          applicationCategory: 'EducationalApplication',
+          applicationSubCategory: 'Bible study app for children',
+          operatingSystem: 'iOS, Web',
+          url: 'https://faithfulkids.app',
+          installUrl: 'https://faithfulkids.app/quiz',
+          description:
+            'A Bible app for kids ages 5-15. 400+ short Bible story videos from Genesis to Revelation, each followed by a quiz and a reflection, with a parent dashboard and multiple kid profiles. No ads.',
+          inLanguage: 'en',
+          isFamilyFriendly: true,
+          audience: {
+            '@type': 'PeopleAudience',
+            audienceType: 'Children and parents',
+            suggestedMinAge: 5,
+            suggestedMaxAge: 15,
+          },
+          featureList: [
+            '400+ Bible story videos',
+            'Quiz after every episode',
+            'Reflection prompts',
+            'Multiple kid profiles',
+            'Parent dashboard with progress tracking',
+            'Offline-free, ad-free viewing',
+          ],
+          offers: [
+            {
+              '@type': 'Offer',
+              name: 'Monthly',
+              price: '8.88',
+              priceCurrency: 'USD',
+              category: 'subscription',
+              url: 'https://faithfulkids.app/checkout',
+            },
+            {
+              '@type': 'Offer',
+              name: 'Annual',
+              price: '77.77',
+              priceCurrency: 'USD',
+              category: 'subscription',
+              url: 'https://faithfulkids.app/checkout',
+            },
+          ],
+          publisher: {
+            '@type': 'Organization',
+            name: 'Faithful Kids',
+            url: 'https://faithfulkids.app',
+          },
+        }) }}
+      />
+
       {/* NAV */}
       <nav className="nav" aria-label="Main navigation">
         <div className="nav-inner">

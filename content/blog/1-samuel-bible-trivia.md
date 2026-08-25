@@ -75,6 +75,8 @@ For more questions in this era, try our [Old Testament trivia for kids](/blog/ol
 
 Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
+If you want something the kids can play alone, point them at our [Bible trivia quiz for kids](/bible-trivia).
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 1 Samuel?

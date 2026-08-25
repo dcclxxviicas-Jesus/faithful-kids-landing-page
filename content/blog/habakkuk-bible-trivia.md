@@ -82,6 +82,8 @@ Habakkuk 3:17-18 also makes a memorable family memory-verse project: kids illust
 
 You can also mix in questions from our [family-friendly Bible trivia](/blog/bible-trivia-for-kids) collection.
 
+For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Habakkuk?

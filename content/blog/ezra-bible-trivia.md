@@ -90,6 +90,8 @@ Ready for more? Our [Old Testament trivia for kids](/blog/old-testament-bible-tr
 
 For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
+When you want zero setup, our [online Bible trivia for kids](/bible-trivia) is one tap and always ready to go.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ezra?

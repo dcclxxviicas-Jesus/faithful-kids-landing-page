@@ -117,6 +117,8 @@ For the sitting-down half of a camp or retreat night, a question game travels we
 
 Planning the rest of the summer? Our full [youth group games](/blog/youth-group-games) guide sorts everything by size, space, and prep, [fun youth group games](/blog/fun-youth-group-games) covers the high-energy favorites, and [Bible games for youth](/blog/bible-games-for-youth) has the ones that carry real Scripture content.
 
+Our [Bible trivia app for kids](/bible-trivia) is free in the browser -- no download, no account, no ads.
+
 ## Frequently Asked Questions
 
 ### What are the best outdoor games for a large youth group?

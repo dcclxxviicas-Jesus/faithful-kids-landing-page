@@ -73,6 +73,8 @@ Use the easy round with young kids at dinner, and save the medium and hard round
 
 You can also mix in questions from our [family-friendly Bible trivia](/blog/bible-trivia-for-kids) collection.
 
+Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
+
 ## Frequently Asked Questions
 
 ### Who wrote Ecclesiastes?

@@ -55,6 +55,8 @@ Second Thessalonians is a natural double-header with 1 Thessalonians -- play the
 
 The forged-letter angle (questions 16-17) fascinates older kids -- Paul dealing with fake news in AD 51 feels surprisingly modern. For backstory, our retellings of [Paul in Athens](/blog/paul-in-athens-for-kids) and [who was Paul?](/blog/who-was-paul-for-kids) set the scene, and the video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each story with a short quiz. Then widen the board with our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids) or the all-ages [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+Running this with a big group? Put our [online Bible trivia](/bible-trivia) on the screen and play as teams.
+
 ## Frequently Asked Questions
 
 ### Who wrote 2 Thessalonians?

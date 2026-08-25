@@ -146,6 +146,8 @@ Faithful Kids leaders often pair a loud night like this with something anchored,
 
 For more options, the full sorted list lives at [youth group games by group size](/blog/youth-group-games), with spinoffs for [indoor youth group games](/blog/indoor-youth-group-games), [youth group icebreakers](/blog/youth-group-icebreakers), [no-prep youth group games](/blog/no-prep-youth-group-games), and [outdoor youth group games](/blog/outdoor-youth-group-games). Mixed-age teams can also pull from our [Bible trivia for youth](/blog/bible-trivia-for-youth) questions, and if you want a story that matches a night this loud, [David and Goliath](/blog/david-and-goliath-for-kids) is the one every student already thinks they know.
 
+If you would rather let a screen keep score, play our [online Bible trivia game](/bible-trivia) -- 100 questions, three levels, no sign-up.
+
 ## Frequently Asked Questions
 
 ### What is the funniest youth group game?

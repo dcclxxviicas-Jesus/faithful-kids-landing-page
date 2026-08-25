@@ -94,6 +94,8 @@ If your kids want to see the passage taught before they build it, the armor of G
 
 Ages 4-12 can all engage with the armor of God, but aim the lesson differently by age. Ages 4-6 grasp "God protects me" plus the fun of dress-up -- keep it concrete and physical (Activities 1, 5, and 7). Ages 7-9 can connect each piece to its meaning and memorize Ephesians 6:10-11 (Activities 2, 3, and 6). Ages 10-12 are ready for the real-life layer: what a "flaming arrow" actually looks like at school, and how quoting Scripture under pressure works in practice (Activities 4 and 8, plus honest conversation).
 
+For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
+
 ## Frequently Asked Questions
 
 ### What are the 6 pieces of the armor of God in order?

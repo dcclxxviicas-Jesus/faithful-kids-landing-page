@@ -82,6 +82,8 @@ When your family has mastered Genesis, keep going with our [Old Testament trivia
 
 Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
+For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Genesis?

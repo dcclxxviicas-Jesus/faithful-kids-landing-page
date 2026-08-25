@@ -86,6 +86,8 @@ For younger kids who need the story first, start with [Nehemiah's prayer](/blog/
 
 When your family has the wall memorized, test the whole sweep of Scripture with our [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids).
 
+If you would rather let a screen keep score, play our [online Bible trivia game](/bible-trivia) -- 100 questions, three levels, no sign-up.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Nehemiah?

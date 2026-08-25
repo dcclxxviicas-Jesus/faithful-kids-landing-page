@@ -158,6 +158,8 @@ The best part of a wrong answer is the story behind the right one. If Esther's "
 
 Hosting a group? Print our free [Bible Trivia Pack](/printables/bible-trivia-pack) -- 100 questions with a separate answer key, so the host is the only one who sees the answers.
 
+There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
+
 ## Frequently Asked Questions
 
 ### How hard should Bible trivia be for adults?

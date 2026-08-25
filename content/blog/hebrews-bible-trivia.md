@@ -108,6 +108,8 @@ For a bigger event, make Hebrews the "champion round" of a [family Bible trivia 
 
 New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
+Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles a fresh round every time you play.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Hebrews?

@@ -122,6 +122,8 @@ Beaten and locked in the innermost cell, Paul and Silas spent midnight singing h
 
 Discussion carries the lesson, but movement seals it. Follow the questions with a quick review game -- our [Sunday school games for kids](/blog/sunday-school-games-for-kids) and [Bible review games for Sunday school](/blog/bible-review-games-for-sunday-school) both sort by age and group size -- or a hands-on project from our [Bible crafts for Sunday school](/blog/bible-crafts-for-sunday-school). A five-question round drawn from our [easy Bible trivia questions](/blog/easy-bible-trivia-questions) also works as a fast closer when you are down to your last few minutes. If your class likes screens, each story above is also a 60-second video with a built-in quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-sundayschool), which many teachers play as the story introduction before discussion.
 
+Running this with a big group? Put our [online Bible trivia](/bible-trivia) on the screen and play as teams.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson be?

@@ -73,6 +73,8 @@ Keep the easy round for young kids and treat the hard round as a "stump the pare
 
 You can also mix in questions from our [family-friendly Bible trivia](/blog/bible-trivia-for-kids) collection.
 
+Our [Bible trivia app for kids](/bible-trivia) is free in the browser -- no download, no account, no ads.
+
 ## Frequently Asked Questions
 
 ### Who wrote the Song of Solomon?

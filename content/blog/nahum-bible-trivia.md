@@ -84,6 +84,8 @@ Because the medium and hard rounds reward close reading, this book works especia
 
 For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
+For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Nahum?

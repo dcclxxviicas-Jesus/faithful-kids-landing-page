@@ -120,6 +120,8 @@ If your kids took this with you, keep their momentum: our [Bible trivia for kids
 
 And if the quiz exposed stories your family hasn't read yet, that's the best possible outcome. [Faithful Kids](https://faithfulkids.app/quiz) walks kids through every major Bible story with a short video and a quiz after each episode -- so the next time you run this test, they'll be the ones in the top band.
 
+Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full round in about five minutes.
+
 ## Frequently Asked Questions
 
 ### How do I score this Bible quiz?

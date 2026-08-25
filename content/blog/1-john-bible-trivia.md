@@ -86,6 +86,8 @@ Run the easy round as a fill-in-the-blank game -- 1 John's famous verses are so 
 
 If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-trivia-for-kids) pulls questions from every part of Scripture.
 
+Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 1 John?

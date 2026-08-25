@@ -196,6 +196,8 @@ For reinforcement between Sundays, send parents a link for home follow-up: our l
 
 Teaching more than one room this December? Our [Sunday school lessons for preschoolers](/blog/sunday-school-lessons-for-preschoolers) run the same stories in a 20-minute preschool rhythm, and [Bible crafts for Sunday school](/blog/bible-crafts-for-sunday-school) covers the craft table for whichever ages you're covering. When December ends, [Easter Sunday school lessons](/blog/easter-sunday-school-lessons) picks up the other half of the church calendar in the same format.
 
+Kids who like a scoreboard tend to prefer our [Bible trivia game online](/bible-trivia), which tracks the streak for them.
+
 ## Frequently Asked Questions
 
 ### How many Christmas lessons do I need for December?

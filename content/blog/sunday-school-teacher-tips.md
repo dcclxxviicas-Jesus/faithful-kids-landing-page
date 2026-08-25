@@ -114,6 +114,8 @@ Keep a note on your phone for the moments: the kid who prayed out loud the first
 
 One last multiplier that costs you nothing: connect with parents. A two-line text on Tuesday -- "We covered David and Goliath, ask your kid about the five stones!" -- turns your 45 weekly minutes into a conversation that continues at home. Some families extend it further with tools like [Faithful Kids](https://faithfulkids.app/quiz), where kids rewatch Bible stories as video lessons with quizzes during the week, and those kids walk in the next Sunday already warmed up.
 
+Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
+
 ## Frequently Asked Questions
 
 ### What makes a good Sunday school teacher?

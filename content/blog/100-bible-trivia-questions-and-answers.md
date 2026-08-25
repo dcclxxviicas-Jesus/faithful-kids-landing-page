@@ -144,6 +144,8 @@ You can also split by testament. Our [Old Testament Bible trivia for kids](/blog
 
 The best part of trivia is finding the stories your kids don't know yet. If a question stumps them, read the story together -- our five-minute retellings of [David and Goliath](/blog/david-and-goliath-for-kids) and [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids) are a good place to start. And if you want Bible learning that runs itself, [Faithful Kids](https://faithfulkids.app/quiz) turns every major Bible story into a short video with a quiz after each episode -- trivia practice that feels like screen time.
 
+Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally -- pick a level, get ten questions, see the verse behind every answer.
+
 ## Frequently Asked Questions
 
 ### What are good Bible trivia questions for beginners?

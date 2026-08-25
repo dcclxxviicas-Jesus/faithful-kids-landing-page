@@ -188,6 +188,8 @@ One more supplement worth knowing: the short animated video lessons at [Faithful
 
 When you need a class filled with zero prep, review beats a new story. Our free [Bible Trivia Pack](/printables/bible-trivia-pack) has 100 kid-friendly questions in easy, medium, and hard rounds, each answer with its Scripture reference. No signup, no email -- print it, split the room into teams, and the hour runs itself.
 
+If you would rather let a screen keep score, play our [online Bible trivia game](/bible-trivia) -- 100 questions, three levels, no sign-up.
+
 ## Frequently Asked Questions
 
 ### Are free Sunday school lessons actually good enough to use?

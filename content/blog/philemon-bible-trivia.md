@@ -80,6 +80,8 @@ For more rounds, pull from our [New Testament trivia questions](/blog/new-testam
 
 Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
+Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Philemon?

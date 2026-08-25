@@ -80,6 +80,8 @@ Keep quizzes short, playful, and penalty-free -- the moment a quiz determines pu
 
 Deuteronomy 6:7 describes exactly this rhythm -- "Impress them on your children. Talk about them when you sit at home and when you walk along the road." Impressing takes repetition, and repetition of the *recalling* kind is what makes it permanent. This matters most in the 9-13 window, when kids are old enough for real comprehension but young enough to still be building their foundation -- the same gap we map in our guide to the [best Bible apps for tweens](/blog/best-bible-apps-for-tweens).
 
+No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
+
 ## Frequently Asked Questions
 
 ### Do quizzes really help kids remember Bible stories?

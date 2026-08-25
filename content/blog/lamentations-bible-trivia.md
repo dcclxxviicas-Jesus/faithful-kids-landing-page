@@ -73,6 +73,8 @@ Match the round to the kid and keep it short -- two or three questions at dinner
 
 If your crew wants more, jump to our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the full [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids).
 
+Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally -- pick a level, get ten questions, see the verse behind every answer.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Lamentations?

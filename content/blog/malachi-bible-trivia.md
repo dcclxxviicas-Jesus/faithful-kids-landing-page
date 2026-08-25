@@ -84,6 +84,8 @@ Malachi also pairs naturally with a "bridge night": read Malachi 4:5-6, then Mar
 
 Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
+If you would rather let a screen keep score, play our [online Bible trivia game](/bible-trivia) -- 100 questions, three levels, no sign-up.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Malachi?

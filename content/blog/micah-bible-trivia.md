@@ -88,6 +88,8 @@ Micah 6:8 also makes a great weekly memory verse challenge: kids recite it, then
 
 If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-trivia-for-kids) pulls questions from every part of Scripture.
 
+Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Micah?

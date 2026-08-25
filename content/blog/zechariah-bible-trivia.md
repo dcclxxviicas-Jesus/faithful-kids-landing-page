@@ -94,6 +94,8 @@ Sunday school teachers can pair this set with our [Haggai trivia questions](/blo
 
 New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
+We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three levels, a verse with every answer, no ads.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Zechariah?

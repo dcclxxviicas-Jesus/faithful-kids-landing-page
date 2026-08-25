@@ -88,6 +88,8 @@ The backstory makes the letter hit harder, so pair the quiz with [who Peter was]
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
+For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Peter?

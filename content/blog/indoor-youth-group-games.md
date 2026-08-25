@@ -134,6 +134,8 @@ Faithful Kids works with a lot of leaders whose "youth room" is a classroom with
 
 More options: the full library sorted by group size is at [youth group games](/blog/youth-group-games), with companion lists for [fun and funny youth group games](/blog/fun-youth-group-games), [youth group icebreakers](/blog/youth-group-icebreakers), [no-prep youth group games](/blog/no-prep-youth-group-games), and [outdoor youth group games](/blog/outdoor-youth-group-games) for the week the weather cooperates. If you need a story to teach in a small room, [the walls of Jericho](/blog/the-walls-of-jericho-for-kids) pairs well with any game about things falling down.
 
+Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads.
+
 ## Frequently Asked Questions
 
 ### What indoor games work in a small youth room with no gym?

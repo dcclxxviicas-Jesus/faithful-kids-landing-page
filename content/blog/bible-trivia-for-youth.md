@@ -153,6 +153,8 @@ When a question exposes a story your students genuinely do not know, that is the
 
 For leaders who would rather not run the night off a phone, our free [printable Bible Trivia Pack](/printables/bible-trivia-pack) gives you 100 questions and a tear-off answer key you can bring to the room.
 
+Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads.
+
 ## Frequently Asked Questions
 
 ### How many Bible trivia questions do you need for a youth group night?

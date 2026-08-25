@@ -111,6 +111,8 @@ Whatever you pick, keep it consistent. Kids thrive on rhythm -- the same two or 
 
 One more tip: openers work even better when they connect to what kids are learning at home. Several families in my class use the video lessons at [Faithful Kids](https://faithfulkids.app/quiz) during the week, and kids who watched the story ahead of time arrive ready to answer the mystery bag or riddle before anyone else -- which motivates the rest of the class to keep up.
 
+When you want zero setup, our [online Bible trivia for kids](/bible-trivia) is one tap and always ready to go.
+
 ## Frequently Asked Questions
 
 ### How long should Sunday school opening activities last?

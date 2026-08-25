@@ -74,6 +74,8 @@ For a fun "battle of the shortest books," play this set back-to-back with our [O
 
 New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
+For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 3 John?

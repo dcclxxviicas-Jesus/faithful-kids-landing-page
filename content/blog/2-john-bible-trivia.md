@@ -74,6 +74,8 @@ The best way to play 2 John trivia is to read the entire book aloud first -- it 
 
 If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-trivia-for-kids) pulls questions from every part of Scripture.
 
+For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 John?

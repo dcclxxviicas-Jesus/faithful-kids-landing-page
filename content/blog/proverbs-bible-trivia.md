@@ -77,6 +77,8 @@ If your kids are new to the book, start with our overview of [the book of Prover
 
 When your family has this list down, mix in the [Old Testament trivia questions](/blog/old-testament-bible-trivia-for-kids) or go for the full [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids).
 
+Running this with a big group? Put our [online Bible trivia](/bible-trivia) on the screen and play as teams.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Proverbs?

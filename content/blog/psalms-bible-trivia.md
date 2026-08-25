@@ -85,6 +85,8 @@ Since David wrote almost half the book, brushing up on [who David was](/blog/who
 
 When you've mastered this list, keep going with our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the full [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Psalms?

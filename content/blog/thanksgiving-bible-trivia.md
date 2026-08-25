@@ -89,6 +89,8 @@ Want gratitude to outlast the leftovers? [Faithful Kids](https://faithfulkids.ap
 
 If you want something to set beside the plates, our free [printable Bible Trivia Pack](/printables/bible-trivia-pack) has 100 questions and an answer key you can print the night before.
 
+Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
+
 ## Frequently Asked Questions
 
 ### Is Thanksgiving actually in the Bible?

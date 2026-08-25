@@ -71,6 +71,8 @@ For story prep, the episode-length tellings of [Solomon asking for wisdom](/blog
 
 For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
+Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 1 Kings?

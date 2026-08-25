@@ -130,6 +130,8 @@ Teachers who want more animated support for these stories can use the video less
 
 Six weeks of David deserve a seventh week of nobody sitting still. Our free [Bible Trivia Pack](/printables/bible-trivia-pack) is 100 kid-friendly questions across easy, medium, and hard rounds, every answer with its Scripture reference -- print it, split into teams, and the review runs itself with zero prep.
 
+There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
+
 ## Frequently Asked Questions
 
 ### What ages is this David series for?

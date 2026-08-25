@@ -88,6 +88,8 @@ This book also pairs naturally with memory work, since 2 Timothy 1:7 and 3:16 ar
 
 Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
+Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full round in about five minutes.
+
 ## Frequently Asked Questions
 
 ### Who wrote 2 Timothy?

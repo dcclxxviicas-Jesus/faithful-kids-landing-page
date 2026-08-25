@@ -166,6 +166,8 @@ When you need something with more substance than an icebreaker, question games h
 
 For more options once the ice is broken, our full [youth group games](/blog/youth-group-games) guide sorts every game by size, space, and prep, [fun youth group games](/blog/fun-youth-group-games) covers the loud ones, and [indoor youth group games](/blog/indoor-youth-group-games) handles the nights when weather traps you in the fellowship hall.
 
+Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
+
 ## Frequently Asked Questions
 
 ### What is a good icebreaker for a youth group first night?

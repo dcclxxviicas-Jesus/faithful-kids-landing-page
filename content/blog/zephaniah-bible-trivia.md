@@ -78,6 +78,8 @@ Lead with question 3 -- "What does God do over his people?" -- because "he sings
 
 Sunday school teachers can pair this set with a lesson on King Josiah, since the boy-king and the prophet worked the same streets in the same years. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) follow the same watch-then-quiz rhythm if your kids want more. And for the big picture from Creation to the exile, keep our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) and [Bible trivia for kids](/blog/bible-trivia-for-kids) in the rotation.
 
+Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles a fresh round every time you play.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Zephaniah?

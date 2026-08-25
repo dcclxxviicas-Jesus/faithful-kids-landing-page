@@ -82,6 +82,8 @@ Haggai also makes a great five-minute read-aloud: two chapters, one sitting. Our
 
 Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
+Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Haggai?

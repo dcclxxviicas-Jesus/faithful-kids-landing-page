@@ -140,6 +140,8 @@ Want kids to learn these stories before quizzing them? The video lessons at [Fai
 
 If you would rather hand out paper than pass a phone around, our free [printable Bible Trivia Pack](/printables/bible-trivia-pack) has 100 questions sorted by difficulty with an answer key in the back.
 
+Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
+
 ## Frequently Asked Questions
 
 ### What are some easy Bible trivia questions for kids?

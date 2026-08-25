@@ -241,6 +241,8 @@ When a preschool lesson falls apart, drop the plan and return to the takeaway li
 
 If you're building out a full quarter of teaching, our broader guide to [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school) covers structure for every age group. For the two Sundays that matter most on the church calendar, swap in a seasonal plan: our [Christmas Sunday school lessons](/blog/christmas-sunday-school-lessons) and [Easter Sunday school lessons](/blog/easter-sunday-school-lessons) both include preschool adaptations, so you can run them in the same 20-minute rhythm you use here.
 
+We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three levels, a verse with every answer, no ads.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson be for preschoolers?

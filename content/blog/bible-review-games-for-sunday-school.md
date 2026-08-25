@@ -91,6 +91,8 @@ Play a short review game every single week, and a big-format game at the end of 
 
 A useful habit: start each week's game with two questions from *last* week before today's questions. It costs 60 seconds and quietly builds the spaced repetition that makes stories permanent. If you want more game formats beyond review -- icebreakers, energy-burners, memory verse games -- our full list of [Sunday school games for kids](/blog/sunday-school-games-for-kids) covers the rest of the morning, and [Bible games for kids](/blog/bible-games-for-kids) has options families can play at home.
 
+The same questions live in our [Bible trivia game](/bible-trivia) if you would rather tap than print.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible review game for a small class of 3-5 kids?

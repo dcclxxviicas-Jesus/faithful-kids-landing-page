@@ -67,6 +67,8 @@ For the stories behind the questions, read about [who Moses was](/blog/who-was-m
 
 Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
+If you want something the kids can play alone, point them at our [Bible trivia quiz for kids](/bible-trivia).
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Deuteronomy?

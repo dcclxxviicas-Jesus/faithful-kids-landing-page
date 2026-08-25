@@ -194,6 +194,8 @@ And if the kids watching this game want in on the fun, the video lessons at [Fai
 
 Want a set you can hand around on paper? Our free [printable Bible Trivia Pack](/printables/bible-trivia-pack) collects 100 questions with the answer key in the back -- no screens, no scrolling, just print and play.
 
+Kids who like a scoreboard tend to prefer our [Bible trivia game online](/bible-trivia), which tracks the streak for them.
+
 ## Frequently Asked Questions
 
 ### What is the hardest Bible trivia question ever?

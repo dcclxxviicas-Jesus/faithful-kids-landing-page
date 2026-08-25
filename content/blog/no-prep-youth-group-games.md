@@ -96,6 +96,8 @@ For the teaching half of the night, question games buy you real content with no 
 
 Need more range? Our full [youth group games](/blog/youth-group-games) guide sorts every game by group size, space, and prep time, [indoor youth group games](/blog/indoor-youth-group-games) is built for small rooms and bad weather, and [Bible games for youth](/blog/bible-games-for-youth) covers the ones that carry real Scripture content.
 
+You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
+
 ## Frequently Asked Questions
 
 ### What is the easiest youth group game with no supplies?

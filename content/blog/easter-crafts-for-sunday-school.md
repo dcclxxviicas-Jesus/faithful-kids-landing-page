@@ -180,6 +180,8 @@ If you want the story told twice, send parents home with something: our [Easter 
 
 For the week after Easter, when the crafts are done and the room is still full, our free [Bible Trivia Pack](/printables/bible-trivia-pack) prints as question cards and score sheets in easy, medium, and hard rounds -- no prep, no supplies, and the five-year-olds and the twelve-year-olds can play the same game. Our [Easter Bible trivia for kids](/blog/easter-bible-trivia-for-kids) adds a resurrection-specific round.
 
+The same questions live in our [Bible trivia game](/bible-trivia) if you would rather tap than print.
+
 ## Frequently Asked Questions
 
 ### What is the easiest Easter craft for a Sunday school class?

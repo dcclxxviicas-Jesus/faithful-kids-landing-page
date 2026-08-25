@@ -216,6 +216,8 @@ If you want the story between Sundays, hand parents a home version: our collecti
 
 For the review week after Easter, our free [Bible Trivia Pack](/printables/bible-trivia-pack) prints out as question cards and score sheets in easy, medium, and hard rounds -- hand the easy stack to the youngest reader and let them run the game while you finally sit down. Our [Easter Bible trivia for kids](/blog/easter-bible-trivia-for-kids) adds a Holy-Week-specific round if you want the questions tied to exactly what you taught.
 
+There is also a [free Bible trivia game](/bible-trivia) on our site that reshuffles every round, so it never plays the same twice.
+
 ## Frequently Asked Questions
 
 ### How do you explain the crucifixion to young children?

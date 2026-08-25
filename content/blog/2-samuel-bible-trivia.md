@@ -70,6 +70,8 @@ For story prep, start with [who was David](/blog/who-was-david-for-kids), then t
 
 Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
+Running this with a big group? Put our [online Bible trivia](/bible-trivia) on the screen and play as teams.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Samuel?

@@ -92,6 +92,8 @@ Families who want the story fresh before Sunday sometimes use [Faithful Kids](ht
 
 Hosting a class party and want something on the table? Our free [Bible Trivia Pack](/printables/bible-trivia-pack) prints 100 questions with the answer key on a separate page, so a volunteer can run it without prep.
 
+Our [Bible trivia app for kids](/bible-trivia) is free in the browser -- no download, no account, no ads.
+
 ## Frequently Asked Questions
 
 ### What are good Christmas games for a Sunday school class with no prep?

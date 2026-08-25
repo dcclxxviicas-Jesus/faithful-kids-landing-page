@@ -65,6 +65,8 @@ Because Ruth is so short, try the read-then-quiz method: read one chapter aloud 
 
 For the backstory in kid-friendly form, start with [who was Ruth](/blog/who-was-ruth-for-kids), then the two-part story of [Ruth's loyalty to Naomi](/blog/ruth-a-story-of-loyalty-for-kids) and [Ruth and Boaz](/blog/ruth-and-boaz-for-kids). Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each of these episodes with a short quiz, which makes trivia prep automatic. And when your family is ready for more, the full [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids) covers both testaments.
 
+Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally -- pick a level, get ten questions, see the verse behind every answer.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ruth?

@@ -99,6 +99,8 @@ Pick a series on Faithful Kids. Watch all 10 episodes back to back as a family. 
 
 Want even more ideas? Browse our full roundup of [Bible games for kids](/blog/bible-games-for-kids).
 
+Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten questions at a time, right in the browser.
+
 ---
 
 ## Get 400+ Bible Stories with Quizzes

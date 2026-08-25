@@ -110,6 +110,8 @@ Revelation also pairs naturally with conversation. The promise that Jesus is [co
 
 For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
+You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Revelation?

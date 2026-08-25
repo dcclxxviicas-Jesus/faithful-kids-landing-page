@@ -128,6 +128,8 @@ Families who like the video-then-quiz rhythm should try [Faithful Kids](https://
 
 Printing for a party? Our free [Bible Trivia Pack](/printables/bible-trivia-pack) works the same way year-round -- 100 questions with the answer key kept separate for whoever is hosting.
 
+If you want something the kids can play alone, point them at our [Bible trivia quiz for kids](/bible-trivia).
+
 ## Frequently Asked Questions
 
 ### What are good Christmas Bible trivia questions for adults?

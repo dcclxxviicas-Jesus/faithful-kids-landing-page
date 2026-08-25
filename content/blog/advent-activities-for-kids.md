@@ -103,6 +103,8 @@ Anchor one weekly non-negotiable (the Sunday candle), default to five-minute act
 - **Missed days don't exist.** Advent is not a streak to protect. Skip guilt-free and pick up the next day -- the paper chain doesn't judge.
 - **Repeat winners.** If kids beg to redo the shepherd night watch, do it three times and drop something else. The goal is the story sinking in, not checklist completion.
 
+Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten questions at a time, right in the browser.
+
 ## Frequently Asked Questions
 
 ### What is a simple advent activity we can start tonight?

@@ -134,6 +134,8 @@ If you want the stories behind the verses, short animated Bible lessons on [Fait
 
 For the nights when nobody has energy for a game, our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven short readings and a goodnight prayer that ride the routine you already have -- print it once and it covers a week of wind-downs.
 
+For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
+
 ## Frequently Asked Questions
 
 ### What is the best memory verse game for a large group?

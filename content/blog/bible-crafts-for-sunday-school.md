@@ -188,6 +188,8 @@ Two more habits that multiply the teaching:
 
 For weeks when a craft isn't the right fit -- squirmy class, short schedule -- swap in a game or filler from our list of [Sunday school activities for kids](/blog/sunday-school-activities-for-kids), which is organized by exactly how many minutes you have.
 
+Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally -- pick a level, get ten questions, see the verse behind every answer.
+
 ## Frequently Asked Questions
 
 ### What are the cheapest Bible crafts for a large Sunday school class?

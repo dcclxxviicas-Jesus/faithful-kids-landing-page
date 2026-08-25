@@ -270,6 +270,8 @@ If you want your students walking in already familiar with the story you're abou
 
 For deeper Scripture-anchored options, see our [Bible games for youth](/blog/bible-games-for-youth) list and our [how to teach the Bible to teenagers](/blog/how-to-teach-bible-to-teenagers) guide. Leaders running a combined elementary and youth night can pull from our [Sunday school games for kids](/blog/sunday-school-games-for-kids) list, and if you want a story to teach alongside the competitive games, [Gideon's 300](/blog/gideons-300-for-kids) is the rare Bible passage where being outnumbered is the point.
 
+Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten questions at a time, right in the browser.
+
 ## Frequently Asked Questions
 
 ### What are the best youth group games for a small group of 10 or fewer?

@@ -98,6 +98,8 @@ If your kids need a refresher first, start with [who was David](/blog/who-was-da
 
 When you've mastered this book, branch out to our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the full [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+When you want zero setup, our [online Bible trivia for kids](/bible-trivia) is one tap and always ready to go.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 1 Chronicles?

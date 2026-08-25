@@ -100,6 +100,8 @@ Then keep going with our [Old Testament trivia for kids](/blog/old-testament-bib
 
 New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
+Our free [Bible quiz game](/bible-trivia) covers the same ground with a streak counter kids genuinely chase.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Chronicles?

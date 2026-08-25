@@ -65,6 +65,8 @@ Colossians works well as a two-round game that mirrors the book: a "Who is Jesus
 
 The hard round is a name game, and it rewards families who know Paul's world -- [who was Paul?](/blog/who-was-paul-for-kids) and our retelling of [Paul in Rome](/blog/paul-in-rome-for-kids) give the backstory of the imprisonment this letter came from. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each story with a short quiz kids can replay. When you want a bigger board, widen out to our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids) or the all-ages [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+If the group is restless, switch to our [Bible trivia game online](/bible-trivia) and let the timer do the work.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Colossians?

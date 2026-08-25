@@ -94,6 +94,8 @@ One tip: let the "whale" question spark a conversation, not a correction. The po
 
 New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
+The same questions live in our [Bible trivia game](/bible-trivia) if you would rather tap than print.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Jonah?

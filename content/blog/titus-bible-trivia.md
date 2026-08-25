@@ -78,6 +78,8 @@ Read the whole book of Titus out loud first -- it takes about six minutes -- and
 
 Titus also works well as part of a books-of-the-Bible unit -- see our overview of the [books of the Bible for kids](/blog/books-of-the-bible-for-kids) to show where it sits among Paul's letters. When you're ready for more, our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids) and [Bible trivia for kids](/blog/bible-trivia-for-kids) collections have hundreds more, and our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each Bible story with a quiz kids actually ask to take.
 
+Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles a fresh round every time you play.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Titus?

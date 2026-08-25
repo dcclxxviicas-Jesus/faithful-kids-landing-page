@@ -77,6 +77,8 @@ For a broader mix, fold your favorites into the big [Old Testament trivia for ki
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
+You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Jeremiah?

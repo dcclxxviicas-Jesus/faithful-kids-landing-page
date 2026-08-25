@@ -66,6 +66,8 @@ Joshua plays best as a campaign: run the questions in order and your family marc
 
 If a question uncovers a story your kids haven't met, read it together first: our five-minute retellings of [Joshua takes command](/blog/joshua-takes-command-for-kids), [Rahab and the spies](/blog/rahab-and-the-spies-for-kids), and [the walls of Jericho](/blog/the-walls-of-jericho-for-kids) cover the book's three biggest scenes. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through the whole conquest with a short video and quiz per episode. Then widen the board with our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the all-ages [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+Our free [Bible quiz game](/bible-trivia) covers the same ground with a streak counter kids genuinely chase.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Joshua?

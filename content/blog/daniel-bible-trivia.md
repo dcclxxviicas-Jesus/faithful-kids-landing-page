@@ -85,6 +85,8 @@ If a story is fuzzy, catch up fast with our kid-friendly retellings of [Daniel i
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Daniel?

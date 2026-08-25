@@ -260,6 +260,8 @@ Every one of these 10 stories is available as a short video lesson on Faithful K
 
 ---
 
+Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
+
 ## Frequently Asked Questions
 
 ### How do I handle a wide age range in my Sunday School class?

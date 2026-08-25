@@ -75,6 +75,8 @@ For the backstory, read [who was Paul](/blog/who-was-paul-for-kids) and [Paul's 
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
+Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full round in about five minutes.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Galatians?

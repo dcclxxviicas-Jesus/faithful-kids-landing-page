@@ -134,6 +134,8 @@ One more rule of thumb: when in doubt, choose the activity that gets the Bible c
 
 A well-stocked Sunday school cabinet needs only about $30 of basics: construction paper, cardstock, crayons and markers, glue sticks, child-safe scissors, index cards, paper plates, painter's tape, cotton balls, plastic cups, and a couple of dice. With that cabinet, every activity on this list except the video station is possible on zero notice. Add a "prop box" of old bathrobes and towels and you've unlocked every skit in the New Testament.
 
+You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
+
 ## Frequently Asked Questions
 
 ### What are good Sunday school activities for mixed ages?

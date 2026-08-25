@@ -120,6 +120,8 @@ Many teachers also use short animated video lessons as their story segment on th
 
 At the end of each quarter, teach a review week instead of a new story. Our free [Bible Trivia Pack](/printables/bible-trivia-pack) is built for exactly this: 100 questions sorted into easy, medium, and hard rounds, every answer with its Scripture reference. Print it once, split the room into teams, and you have four review Sundays covered with zero prep.
 
+There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
+
 ## Frequently Asked Questions
 
 ### Are these Sunday school lessons for kids really free?

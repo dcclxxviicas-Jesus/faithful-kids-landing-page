@@ -80,6 +80,8 @@ Obadiah also works great as a "books of the Bible" teaching moment -- kids love 
 
 You can also mix in questions from our [family-friendly Bible trivia](/blog/bible-trivia-for-kids) collection.
 
+Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Obadiah?

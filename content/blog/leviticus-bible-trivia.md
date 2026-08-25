@@ -65,6 +65,8 @@ Because Leviticus leans on what came before it, a quick refresher helps: the tab
 
 Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
+There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Leviticus?

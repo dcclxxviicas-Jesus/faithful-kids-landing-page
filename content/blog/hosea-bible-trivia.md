@@ -73,6 +73,8 @@ Tell the story first, then quiz -- Hosea is unfamiliar enough that a two-minute 
 
 When you've finished Hosea, keep the streak going with our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the complete [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+There is also a [free Bible trivia game](/bible-trivia) on our site that reshuffles every round, so it never plays the same twice.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Hosea?

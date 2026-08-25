@@ -12,6 +12,8 @@ The best Bible games for kids are Sword Drill for kids who can read, Bible Chara
 
 One insight before the list: the fastest way to kill a Bible game is to make it feel like a pop quiz with a costume on. Kids smell "secret homework" instantly. The games that work are games first -- running, guessing, drawing, laughing -- where the Bible content rides inside the fun instead of being the toll you pay for it. Every game below is built on that principle.
 
+**Want a game you can play right now, with no setup?** Our [free Bible trivia game](/bible-trivia) runs in the browser -- 100 questions across three difficulty levels, a fresh ten-question round every time, and a verse with every answer. It works on a phone in the car and on a projector in a classroom, and churches can embed it on their own website for free.
+
 ## Which Bible Game Should You Play? (Quick Reference)
 
 Match the game to your kids' ages, your group size, and how much prep time you have -- this table shows all 29 games at a glance.

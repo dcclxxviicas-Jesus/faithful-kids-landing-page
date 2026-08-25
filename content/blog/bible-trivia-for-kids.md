@@ -12,6 +12,8 @@ These 50 Bible questions for kids cover the most important stories, people, and 
 
 Two of these questions trip up almost every family that plays. Question 14 asks what fruit Adam and Eve ate -- and nearly everyone answers wrong, because the "right" answer most people learned is not actually in the Bible. Question 33 asks how many of each animal Noah brought on the ark, and the famous answer of "two" is only part of the story. If your kids get both right on the first try, they know their Bible better than most adults.
 
+**Want to play instead of read?** Our [free Bible trivia game](/bible-trivia) puts 100 questions into a scored round you can play right now -- pick easy, medium, or hard, answer ten questions, and see the verse behind every answer. No sign-up, no ads, and free for churches and teachers to embed on their own site.
+
 ## Easy Bible Questions for Kids (Ages 5-8)
 
 Start here for young kids, beginners, or a warm-up round. These easy Bible questions come from the stories most children meet first: creation, Noah, Moses, David, and the life of Jesus. Read each question aloud, give everyone a moment to shout an answer, then reveal the bolded answer and look up the verse together if you have time. If even this round runs long for your youngest players, our set of [easy Bible trivia questions](/blog/easy-bible-trivia-questions) keeps every answer to a single word.

@@ -122,6 +122,8 @@ For catch-up before you play, the fastest prep is a story refresher: [Matthew th
 
 Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
+Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally -- pick a level, get ten questions, see the verse behind every answer.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Matthew?

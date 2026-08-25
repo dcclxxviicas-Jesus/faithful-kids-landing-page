@@ -61,6 +61,8 @@ First Timothy is the best book in the Bible for a kid who feels too young to mat
 
 The leadership round (19-22) works well for teens -- have them grade the qualifications list against what they'd want in a coach or teacher. For backstory on the author and the apprentice, see [who was Paul?](/blog/who-was-paul-for-kids) and our retelling of [Paul's legacy](/blog/pauls-legacy-for-kids), which covers how he passed the baton to Timothy. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each story with a short quiz. Then widen the board with our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids) or the all-ages [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Timothy?

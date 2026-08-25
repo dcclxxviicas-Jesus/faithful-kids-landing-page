@@ -67,6 +67,8 @@ Philippians is the best "bad day" trivia in the Bible -- play it the night a kid
 
 Question 4 is also a memory-verse setup: have kids recite Philippians 4:13 for a bonus point, then 4:6-7 for two more. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair stories like these with short quizzes kids actually ask to replay. When you're ready for a wider board, graduate to our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids) or the all-ages [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Philippians?

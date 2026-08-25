@@ -512,6 +512,8 @@ If you want more questions, our [100 Bible trivia questions and answers](/blog/1
 
 When a question turns up a story nobody at the table knows, read it together that night -- our short retelling of [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids) takes about five minutes. [Faithful Kids](https://faithfulkids.app/quiz) covers every major Bible story the same way, with a short video and a quiz after each episode, which is trivia practice disguised as screen time.
 
+Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten questions at a time, right in the browser.
+
 ## Frequently Asked Questions
 
 ### What makes a good multiple-choice Bible trivia question?

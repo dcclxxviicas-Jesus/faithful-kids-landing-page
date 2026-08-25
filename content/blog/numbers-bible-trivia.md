@@ -67,6 +67,8 @@ The stories behind the hardest questions are worth reading together: our five-mi
 
 Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
+Our free [Bible quiz game](/bible-trivia) covers the same ground with a streak counter kids genuinely chase.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Numbers?

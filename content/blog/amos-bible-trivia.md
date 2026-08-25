@@ -75,6 +75,8 @@ Lead with the underdog story -- a farmer versus a kingdom -- and the questions b
 
 Teens who breeze through can graduate to our [Bible trivia for teens](/blog/bible-trivia-for-teens), and the whole family can keep going with [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the full [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Amos?

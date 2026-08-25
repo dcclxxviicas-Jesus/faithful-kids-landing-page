@@ -182,6 +182,8 @@ If your family likes learning this way, our video lessons at [Faithful Kids](htt
 
 New Testament trivia rewards kids who know the story's sequence, not just its scenes. The Old Testament reads like a collection of hero stories, but the New Testament is one connected narrative: Jesus' life leads to the cross, the cross to the resurrection, the resurrection to Pentecost, and Pentecost to the church spreading from Jerusalem to Rome. Once kids see that chain, the Acts questions stop feeling like obscure names and start feeling like chapters of an adventure they already know. For a broader mix that spans both testaments, our [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids) is the natural next round, and the full [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers) master list carries the same game from Genesis all the way to Revelation.
 
+No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
+
 ## Frequently Asked Questions
 
 ### What are good New Testament trivia questions for kids?

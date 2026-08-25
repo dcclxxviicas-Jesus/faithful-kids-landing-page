@@ -87,6 +87,8 @@ For backstory before you play, read [who was Paul](/blog/who-was-paul-for-kids) 
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
+No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Romans?

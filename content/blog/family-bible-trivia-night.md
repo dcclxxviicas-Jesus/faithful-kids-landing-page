@@ -161,6 +161,8 @@ Between game nights, our video lessons at [Faithful Kids](https://faithfulkids.a
 
 If your family catches the momentum, roll it into our [30-day family Bible challenge](/blog/30-day-family-bible-challenge) -- one story a day for a month, which doubles as training camp for your next trivia night.
 
+Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
+
 ## Frequently Asked Questions
 
 ### How do you host a family Bible trivia night?

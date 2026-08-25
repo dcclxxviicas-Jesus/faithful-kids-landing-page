@@ -64,6 +64,8 @@ First Thessalonians makes a great "hope night" -- the questions build naturally 
 
 The Acts 17 questions come alive with backstory: our retellings of [Paul in Athens](/blog/paul-in-athens-for-kids) and [Paul in Corinth](/blog/paul-in-corinth-for-kids) trace exactly where Paul was when he wrote this letter, and [who was Paul?](/blog/who-was-paul-for-kids) covers the author himself. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each story with a short quiz. When you're ready for more, move up to our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids) or the all-ages [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full round in about five minutes.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Thessalonians?

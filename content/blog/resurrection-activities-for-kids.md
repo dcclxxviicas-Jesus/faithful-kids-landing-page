@@ -163,6 +163,8 @@ Pair the activities with the story itself so the crafts have something to hang o
 
 The nights when nobody has energy for a craft still count. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven short readings, a question, and a goodnight prayer -- print it once and it works for the whole Holy Week wind-down.
 
+Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads.
+
 ## Frequently Asked Questions
 
 ### What goes in resurrection eggs?

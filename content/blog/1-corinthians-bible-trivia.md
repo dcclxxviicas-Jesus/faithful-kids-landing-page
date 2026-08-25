@@ -78,6 +78,8 @@ For the backstory, read [who was Paul](/blog/who-was-paul-for-kids), and for the
 
 Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Corinthians?

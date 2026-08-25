@@ -90,6 +90,8 @@ For a bigger event, add these rounds to a [family Bible trivia night](/blog/fami
 
 For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
+No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of James?

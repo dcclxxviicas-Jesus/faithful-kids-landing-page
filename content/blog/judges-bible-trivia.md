@@ -67,6 +67,8 @@ If your kids are shaky on the three big judges, catch them up first: [Deborah th
 
 When your family has mastered this book, keep going with our [Old Testament trivia questions](/blog/old-testament-bible-trivia-for-kids) or the full [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids).
 
+For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Judges?

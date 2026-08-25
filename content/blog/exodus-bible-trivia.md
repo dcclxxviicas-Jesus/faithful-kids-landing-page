@@ -78,6 +78,8 @@ When a question reveals a gap, fill it with the story itself. Our five-minute re
 
 Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
+For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Exodus?

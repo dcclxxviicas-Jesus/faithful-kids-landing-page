@@ -71,6 +71,8 @@ For story prep, the episode-length tellings of [Elijah taken to heaven](/blog/el
 
 For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
+If the group is restless, switch to our [Bible trivia game online](/bible-trivia) and let the timer do the work.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Kings?

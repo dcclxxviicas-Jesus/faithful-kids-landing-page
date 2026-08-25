@@ -82,6 +82,8 @@ The book also opens great conversations: Peter's ladder in 1:5-7 makes a fun mem
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Peter?

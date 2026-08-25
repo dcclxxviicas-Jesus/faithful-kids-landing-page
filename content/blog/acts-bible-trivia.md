@@ -92,6 +92,8 @@ If a story is fuzzy, catch up fast with our kid-friendly retellings of [the day 
 
 Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
+For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Acts?

@@ -159,6 +159,8 @@ Match the game to attention span first and lesson second: preschoolers need whol
 
 One more multiplier: games work best when kids already know the story a little. Teachers in our community sometimes assign a [Faithful Kids](https://faithfulkids.app/quiz) video lesson during the week -- each Bible story comes with a built-in quiz -- so kids arrive Sunday with the story fresh and the review game gets ten hands in the air instead of two. Parents can run most of the small-class games above at home too; see our [Bible activities for kids at home](/blog/bible-activities-for-kids-at-home). And when December arrives, swap the whole list out for our [Christmas Sunday school games](/blog/christmas-sunday-school-games) -- nativity relays, party games, and gift-exchange alternatives that carry a class through Advent.
 
+Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
+
 ## Frequently Asked Questions
 
 ### What is a good Sunday school game with no preparation?

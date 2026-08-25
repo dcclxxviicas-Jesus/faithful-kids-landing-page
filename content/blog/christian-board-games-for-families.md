@@ -70,6 +70,8 @@ Assign each suit a category: hearts = name a Bible character, diamonds = name a 
 
 Pick a fixed night, keep it under an hour, and let kids choose the game -- consistency beats ambition. Families that succeed treat it like pizza night, not church: snacks out, phones away, one game, done while everyone still wants more. If a game sparks a question ("Wait, who was Nebuchadnezzar?"), chase it for two minutes, then get back to playing -- many families use the quizzes in our [Faithful Kids](https://faithfulkids.app/quiz) video lessons during the week so game night answers come easier. And on nights when a board game feels like too much setup, swap in quick [Bible activities you can do at home](/blog/bible-activities-for-kids-at-home) with zero pieces to lose.
 
+Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
+
 ## Frequently Asked Questions
 
 ### What is the best Christian board game for families?

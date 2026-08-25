@@ -184,6 +184,8 @@ Because they send kids back to the actual text -- which is the whole point. "Wha
 
 When your family has mastered this list, keep going with our full [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids), which mixes both testaments, or move up to the all-ages master set of [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers).
 
+Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
+
 ## Frequently Asked Questions
 
 ### What are good Old Testament trivia questions for kids?

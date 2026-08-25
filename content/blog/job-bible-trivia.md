@@ -100,6 +100,8 @@ Teens who enjoyed the hard round should try our [Bible trivia for teens](/blog/b
 
 Round out game night with our [best Bible trivia for kids and families](/blog/bible-trivia-for-kids).
 
+Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Job?

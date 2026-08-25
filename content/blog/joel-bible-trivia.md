@@ -68,6 +68,8 @@ Read Joel aloud first -- the whole book takes about ten minutes -- then play the
 
 For more material afterward, run the [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the full [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Joel?

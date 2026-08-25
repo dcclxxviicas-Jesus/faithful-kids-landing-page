@@ -95,6 +95,8 @@ If a story is fuzzy, catch up fast with our kid-friendly retellings of [water in
 
 Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
+Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles a fresh round every time you play.
+
 ## Frequently Asked Questions
 
 ### Who wrote the Gospel of John?

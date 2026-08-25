@@ -80,6 +80,8 @@ Two coaching tips. First, when a child misses a question, don't just give the an
 
 For year-round question banks beyond Easter, start with our master list of [Bible trivia for kids](/blog/bible-trivia-for-kids).
 
+Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
+
 ## Frequently Asked Questions
 
 ### What is the Easter story in the Bible?

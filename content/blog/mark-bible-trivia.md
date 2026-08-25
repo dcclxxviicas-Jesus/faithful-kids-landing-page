@@ -112,6 +112,8 @@ For pre-game prep, our story pages on [Jairus's daughter](/blog/jairus-daughter-
 
 New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
 
+For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Mark?

@@ -189,7 +189,7 @@ export default function Home() {
       {/* HERO */}
       <section className="hero" aria-label="Hero">
         <div className="hero-content">
-          <h1>Where <span className="highlight">kids</span> learn to <span className="highlight">love the Bible</span></h1>
+          <h1>The <span className="highlight">Bible app for kids</span> they actually <span className="highlight">ask to watch</span></h1>
           <p className="subtitle">
             Short Bible story videos for kids ages 5+. No ads, no algorithm, no guilt. Just Scripture, beautifully told.
           </p>

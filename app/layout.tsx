@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     other: { 'p:domain_verify': '5f5b1b32e961a0e961786606d549be7e' },
   },
   title: {
-    default: 'Faithful Kids — Bible Story Videos for Kids Ages 5+ | No Ads',
+    default: 'Bible App for Kids Ages 5-15 — 400+ Video Lessons, No Ads',
     template: '%s | Faithful Kids',
   },
   description: 'Bible story videos for kids ages 5-15. 400+ lessons narrated by Jesus, quizzes, and reflections. Genesis to Revelation. Zero ads, ever. Try free for 3 days.',

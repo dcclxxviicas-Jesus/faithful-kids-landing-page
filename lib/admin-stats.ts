@@ -40,7 +40,10 @@ export async function adminPassword(): Promise<string> {
 
 export const ADMIN_TZ = 'America/New_York'
 
-// Build/test + friends-and-family Stripe accounts, excluded from "organic" numbers
+// Accounts excluded from "organic" numbers and from all customer email:
+// build/test accounts, friends and family, and phantom subscriptions that
+// sit in Stripe as "active" but whose every invoice failed (they never paid,
+// so counting them as customers or MRR overstates the business).
 export const TEST_EMAILS = new Set([
   'reviewer@faithfulkids.app', // directory/press reviewer test account (no Stripe)
   'cristo7005@gmail.com',
@@ -51,6 +54,9 @@ export const TEST_EMAILS = new Set([
   'dtshaman@gmail.com',
   'zooms-riper.8w@icloud.com',
   '777@gmail.com',
+  // Two subscriptions, both stuck 'active', card declined on every attempt
+  // in May 2026. Never paid a cent. Not a customer.
+  'cathaljamescanavan@gmail.com',
 ])
 
 // ---------- time helpers ----------

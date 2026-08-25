@@ -25,6 +25,7 @@ export type TrialEmailType =
   | 'trial_converted'
   | 'trial_canceling'
   | 'trial_canceled'
+  | 'never_watched'
 
 export interface TrialContext {
   email: string
@@ -48,7 +49,7 @@ function wrap(email: string, bodyHtml: string): string {
 ${bodyHtml}
 <p style="margin:26px 0 0;">— Christian from Faithful Kids<br/><span style="color:#6b7280;font-size:13px;">faithfulkids.app</span></p>
 <p style="margin:24px 0 0;color:#9ca3af;font-size:12px;line-height:1.5;">
-  You're receiving this because you started a Faithful Kids trial.
+  You're receiving this because you have a Faithful Kids account.
   <a href="${unsubscribeUrl(email)}" style="color:#9ca3af;">Unsubscribe from tips</a>
 </p>
 </div></body></html>`
@@ -66,6 +67,15 @@ function button(href: string, label: string): string {
 // the whole list and we fall back to "your kids".
 const GENERIC_NAME = /^(kid|kids|child|children|boy|girl|older|younger|oldest|youngest|son|daughter|baby|test|profile|user|me|mum|mom|dad|parent|abc|xyz)\b/i
 
+// Profiles a parent made for themselves. Real, but not a child, so they get
+// dropped from "Dominion and Dominic-david" style lists rather than poisoning
+// the whole list the way a placeholder does.
+const SELF_NAME = /^(myself|me|mum|mom|mommy|mum+y|dad|daddy|papa|parent|grandma|grandpa|nana)$/i
+
+export function isSelfProfile(name: string): boolean {
+  return SELF_NAME.test((name || '').trim())
+}
+
 export function looksLikeRealName(name: string): boolean {
   const n = (name || '').trim()
   if (n.length < 2 || n.length > 20) return false
@@ -76,8 +86,9 @@ export function looksLikeRealName(name: string): boolean {
 
 // "Ariel and Audrey" / "Ariel, Audrey and Sam" / "your kids"
 export function nameList(names: string[]): string {
-  const usable = names.filter(looksLikeRealName)
-  if (!usable.length || usable.length !== names.length) return 'your kids'
+  const kidsOnly = names.filter((n) => !isSelfProfile(n))
+  const usable = kidsOnly.filter(looksLikeRealName)
+  if (!usable.length || usable.length !== kidsOnly.length) return 'your kids'
   if (usable.length === 1) return usable[0]
   return usable.slice(0, -1).join(', ') + ' and ' + usable[usable.length - 1]
 }
@@ -207,6 +218,22 @@ ${
 <p>Your access stays on until the end of the period.</p>
 ${button(appLink, 'Watch while you still have access →')}
 <p style="color:#6b7280;font-size:13px;">Changed your mind? You can turn it back on any time from your <a href="${billingLink}" style="color:#6b7280;">parent dashboard</a>.</p>`),
+      }
+
+    // ---------- Paying, but has never opened an episode ----------
+    // Not a trial email: this covers any active subscriber, including the
+    // monthly plan which has no trial and therefore no other touchpoint.
+    case 'never_watched':
+      return {
+        subject: looksLikeRealName(ctx.kidNames[0] || '')
+          ? `Where to start with ${kids}`
+          : 'Where to start',
+        html: wrap(ctx.email, `
+<p>${hi(ctx)}</p>
+<p>Thanks for joining us.${ctx.kidNames.some(isSelfProfile) ? ' I saw you set up a profile for yourself as well as the kids, which is my favourite way to do it.' : ''}</p>
+<p>If you have three minutes today, start with <strong>Creation</strong>, the first episode of Genesis. A story narrated by Jesus, a few questions, then one thing to talk about together. That last part is where it sticks.</p>
+${button(appLink, 'Start with Creation →')}
+<p style="color:#6b7280;font-size:13px;">Anything at all in the way, just reply. This comes straight to me.</p>`),
       }
 
     // ---------- Trial lapsed without converting ----------

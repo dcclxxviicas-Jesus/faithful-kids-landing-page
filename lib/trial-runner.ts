@@ -84,7 +84,10 @@ async function findCandidates(): Promise<Candidate[]> {
 
   for (const sub of subs) {
     const hadTrial = !!sub.trial_end
-    if (!hadTrial) continue
+    // Monthly subscribers have no trial, so they fall through every rule
+    // below. They still need the never-watched nudge, which is the only
+    // touchpoint they get.
+    if (!hadTrial && sub.status !== 'active') continue
 
     const trialEndMs = (sub.trial_end || 0) * 1000
     const ageDays = (now - sub.created * 1000) / 86400_000
@@ -113,7 +116,12 @@ async function findCandidates(): Promise<Candidate[]> {
       type = 'trial_canceled'
       reason = 'trial ended without converting'
     }
-    if (!type) continue
+    // A paying customer who has never opened an episode is the single
+    // strongest churn signal we have: every family that reached a reflection
+    // came back, and neither family that didn't ever returned.
+    const considerNeverWatched = !type && sub.status === 'active' && ageDays >= 1
+
+    if (!type && !considerNeverWatched) continue
 
     // Stripe usually has the real cardholder name even when the app's
     // parent_name is null, so use it as the greeting fallback.
@@ -160,6 +168,12 @@ async function findCandidates(): Promise<Candidate[]> {
           .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
           .join(' ')
       }
+    }
+
+    if (!type) {
+      if (episodesWatched > 0) continue // they are using it, nothing to say
+      type = 'never_watched'
+      reason = `paying ${Math.floor(ageDays)}d, has watched nothing`
     }
 
     out.push({

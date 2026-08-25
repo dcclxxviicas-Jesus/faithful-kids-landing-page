@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     default: 'Bible App for Kids Ages 5-15 — 400+ Video Lessons, No Ads',
     template: '%s | Faithful Kids',
   },
-  description: 'Bible story videos for kids ages 5-15. 400+ lessons narrated by Jesus, quizzes, and reflections. Genesis to Revelation. Zero ads, ever. Try free for 3 days.',
+  description: 'A Bible app for kids ages 5-15 — 400+ short Bible story videos, each with a quiz and a reflection. Genesis to Revelation. No ads, no algorithm.',
   keywords: ['bible stories for kids', 'bible app for kids', 'christian app for kids', 'bible videos for children', 'sunday school lessons', 'kids bible lessons'],
   openGraph: {
     siteName: 'Faithful Kids',

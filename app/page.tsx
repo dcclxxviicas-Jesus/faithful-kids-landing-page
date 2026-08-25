@@ -56,6 +56,8 @@ const FAQS = [
   { q: 'What age is this for?', a: 'Our Bible story videos are designed for kids ages 5 and up. Younger kids (5-7) get shorter, simpler retellings with bright visuals. Older kids (8+) get deeper stories with more context and life lessons.' },
   { q: 'Is it really ad-free?', a: 'Yes. Zero ads, ever. No pre-rolls, no banners, no sponsored content. We make money from subscriptions, not from advertising to your children.' },
   { q: 'How is this different from YouTube Kids?', a: 'YouTube Kids uses an algorithm that serves whatever keeps kids watching. We hand-pick every story and review it for doctrinal accuracy. No rabbit holes, no surprises, no junk content.' },
+  { q: 'What makes this different from other Bible apps for kids?', a: 'Most Bible apps for kids are built for the youngest readers, so children tend to outgrow them somewhere around age 7 or 8 and quietly stop opening them. Faithful Kids is made for the years after that. It works through the whole story of Scripture in order rather than a handful of favorite stories, and every lesson ends with a quiz, so you can see what your child actually understood instead of guessing.' },
+  { q: 'Is Faithful Kids a Christian app for kids of any denomination?', a: 'Yes. It is a Christian app for kids built around the stories all Christian traditions share, told faithfully to Scripture. Families can choose a Catholic, Evangelical, or Non-denominational content path during setup.' },
   { q: 'Can I set screen time limits?', a: 'Yes. Set daily limits per child. When time is up, the app gently pauses. No more "just one more video" battles.' },
   { q: 'Which denomination is the content for?', a: 'Our core Bible stories (David & Goliath, Noah, the Good Samaritan, the Nativity) are told faithfully to Scripture and resonate across Christian traditions. We offer content paths for Catholic, Evangelical, and Non-denominational families.' },
   { q: 'Is the content doctrinally accurate?', a: 'Every story is reviewed by practicing Christians with theological training. We take doctrinal accuracy seriously. If something is not right, we fix it or remove it.' },
@@ -378,7 +380,7 @@ export default function Home() {
 
       {/* AGE GROUPS */}
       <section className="age-section">
-        <h2>Content made for every age</h2>
+        <h2>A Bible app for kids at every age</h2>
         <p className="section-sub">Age-appropriate Bible stories that grow with your child.</p>
         <div className="age-grid">
           <div className="age-card">

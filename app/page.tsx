@@ -168,6 +168,50 @@ export default function Home() {
         }) }}
       />
 
+      {/* FAQ schema, generated from the FAQS array so it can never drift out of
+          sync with what the page actually shows.
+          Reality check: Google restricted FAQ rich results to government and
+          health sites in 2023, so this will NOT produce a rich snippet. It is
+          here because it gives AI Overviews and LLM crawlers clean, attributable
+          question/answer pairs -- which is where this traffic is going. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: FAQS.map(f => ({
+            '@type': 'Question',
+            name: f.q,
+            acceptedAnswer: { '@type': 'Answer', text: f.a },
+          })),
+        }) }}
+      />
+
+      {/* The full episode playable on the homepage. Video rich results DO still
+          display, unlike FAQ ones. URLs HEAD-verified 200; uploadDate is the
+          real CloudFront last-modified, not a guess. No duration claimed --
+          we don't have a verified one. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'VideoObject',
+          name: 'An Angel Visits Mary — Bible Story for Kids',
+          description:
+            'The angel Gabriel tells Mary she will give birth to Jesus. A short, kid-friendly retelling of Luke 1:26-56, episode 1 of the Birth of Jesus series on Faithful Kids.',
+          thumbnailUrl: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp',
+          contentUrl: 'https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4',
+          uploadDate: '2026-08-15',
+          isFamilyFriendly: true,
+          inLanguage: 'en',
+          publisher: {
+            '@type': 'Organization',
+            name: 'Faithful Kids',
+            url: 'https://faithfulkids.app',
+          },
+        }) }}
+      />
+
       {/* NAV */}
       <nav className="nav" aria-label="Main navigation">
         <div className="nav-inner">

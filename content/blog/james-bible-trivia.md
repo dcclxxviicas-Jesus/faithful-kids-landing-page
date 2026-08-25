@@ -90,7 +90,7 @@ For a bigger event, add these rounds to a [family Bible trivia night](/blog/fami
 
 For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
-No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
+We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three levels, a verse with every answer, no ads.
 
 ## Frequently Asked Questions
 

@@ -73,7 +73,7 @@ For backstory, read [who was Paul](/blog/who-was-paul-for-kids) and [Paul in Cor
 
 Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
-Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten questions at a time, right in the browser.
+There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
 
 ## Frequently Asked Questions
 

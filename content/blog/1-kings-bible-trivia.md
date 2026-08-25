@@ -71,7 +71,7 @@ For story prep, the episode-length tellings of [Solomon asking for wisdom](/blog
 
 For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
-Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
+We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three levels, a verse with every answer, no ads.
 
 ## Frequently Asked Questions
 

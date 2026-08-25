@@ -87,7 +87,7 @@ For backstory before you play, read [who was Paul](/blog/who-was-paul-for-kids) 
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
-No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
+We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three levels, a verse with every answer, no ads.
 
 ## Frequently Asked Questions
 

@@ -186,7 +186,7 @@ Give points for effort, not just accuracy. A simple system that works for mixed 
 
 When Christmas is over, keep the habit going with our year-round list of [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids), or graduate the family to the full [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers) once the easy rounds stop being a challenge.
 
-No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
+For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
 ## Frequently Asked Questions
 

@@ -60,7 +60,7 @@ SENTENCES = [
     "Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.",
     "Our free [Bible quiz game](/bible-trivia) covers the same ground with a streak counter kids genuinely chase.",
     "Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full round in about five minutes.",
-    "If the group is restless, switch to our [Bible trivia game online](/bible-trivia) and let the timer do the work.",
+    "If the group is restless, switch to our [Bible trivia game online](/bible-trivia) and let the streak counter do the work.",
     "There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.",
     "Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.",
     "Kids who like a scoreboard tend to prefer our [Bible trivia game online](/bible-trivia), which tracks the streak for them.",

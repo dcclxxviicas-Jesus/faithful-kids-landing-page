@@ -80,7 +80,7 @@ For more rounds, pull from our [New Testament trivia questions](/blog/new-testam
 
 Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/blog/bible-trivia-for-kids) covers Genesis to Revelation.
 
-Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
+For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
 
 ## Frequently Asked Questions
 

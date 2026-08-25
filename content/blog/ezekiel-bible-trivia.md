@@ -70,7 +70,7 @@ For the historical backdrop -- why Judah's people were sitting in Babylon at all
 
 Want broader material? Try [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the full [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
-The same questions live in our [Bible trivia game](/bible-trivia) if you would rather tap than print.
+For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
 
 ## Frequently Asked Questions
 

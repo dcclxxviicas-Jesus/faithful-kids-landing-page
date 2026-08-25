@@ -188,7 +188,7 @@ For a supplement families can use at home during the week, the video lessons and
 
 Some Sundays the discussion is not going to happen -- the retreat was yesterday, or half the group is at a game. Our free [Bible Trivia Pack](/printables/bible-trivia-pack) covers those weeks: 100 questions in easy, medium, and hard rounds with every answer cited, and teens compete harder than anyone. Print it, split into teams, and let the hour be fun on purpose. Pair it with our [Bible trivia for teens](/blog/bible-trivia-for-teens) list for a longer tournament.
 
-If the group is restless, switch to our [Bible trivia game online](/bible-trivia) and let the timer do the work.
+If the group is restless, switch to our [Bible trivia game online](/bible-trivia) and let the streak counter do the work.
 
 ## Frequently Asked Questions
 

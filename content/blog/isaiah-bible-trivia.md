@@ -77,7 +77,7 @@ If your kids need background first, start with [Isaiah's promise for kids](/blog
 
 When you've mastered Isaiah, branch out to the full [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the complete [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
-Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
+For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
 ## Frequently Asked Questions
 

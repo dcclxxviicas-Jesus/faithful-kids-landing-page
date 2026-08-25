@@ -78,7 +78,7 @@ Jude also connects to stories your kids may already know: [Cain and Abel](/blog/
 
 If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-trivia-for-kids) pulls questions from every part of Scripture.
 
-Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
+For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
 ## Frequently Asked Questions
 

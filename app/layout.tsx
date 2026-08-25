@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
 import { PostHogProvider } from './providers'
+import { MetaPixel } from './MetaPixel'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://faithfulkids.app'),
@@ -82,6 +83,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           }) }}
         />
         <PostHogProvider>{children}</PostHogProvider>
+        <MetaPixel />
       </body>
     </html>
   )

@@ -41,7 +41,7 @@ export async function adminPassword(): Promise<string> {
 export const ADMIN_TZ = 'America/New_York'
 
 // Build/test + friends-and-family Stripe accounts, excluded from "organic" numbers
-const TEST_EMAILS = new Set([
+export const TEST_EMAILS = new Set([
   'reviewer@faithfulkids.app', // directory/press reviewer test account (no Stripe)
   'cristo7005@gmail.com',
   'christianashaman@gmail.com',
@@ -50,6 +50,7 @@ const TEST_EMAILS = new Set([
   'markshaman@hotmail.com',
   'dtshaman@gmail.com',
   'zooms-riper.8w@icloud.com',
+  '777@gmail.com',
 ])
 
 // ---------- time helpers ----------

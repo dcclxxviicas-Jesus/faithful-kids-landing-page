@@ -1,4 +1,4 @@
-import { cfg } from '@/lib/admin-stats'
+import { cfg, TEST_EMAILS } from '@/lib/admin-stats'
 import { sendLeadEmail } from '@/lib/leads'
 import { buildTrialEmail, TRIAL_FROM, type TrialContext, type TrialEmailType } from '@/lib/trial-emails'
 
@@ -38,6 +38,19 @@ async function stripeGet(path: string): Promise<Record<string, unknown>> {
   })
   if (!res.ok) throw new Error(`Stripe ${res.status}`)
   return res.json()
+}
+
+// A subscription can sit in "active" while every invoice against it failed.
+// Those customers need a card-update prompt, not a getting-started email.
+async function hasEverPaid(customerId: string): Promise<boolean> {
+  try {
+    const inv = (await stripeGet(`invoices?customer=${customerId}&limit=100`)) as {
+      data: { amount_paid: number }[]
+    }
+    return inv.data.some((i) => (i.amount_paid || 0) > 0)
+  } catch {
+    return true // never withhold mail because a lookup failed
+  }
 }
 
 function priceLabel(sub: StripeSub): string {
@@ -126,9 +139,14 @@ async function findCandidates(): Promise<Candidate[]> {
     // Stripe usually has the real cardholder name even when the app's
     // parent_name is null, so use it as the greeting fallback.
     let stripeName: string | null = null
+    let stripeEmail: string | null = null
     try {
-      const cust = (await stripeGet(`customers/${sub.customer}`)) as { name?: string | null }
+      const cust = (await stripeGet(`customers/${sub.customer}`)) as {
+        name?: string | null
+        email?: string | null
+      }
       stripeName = cust?.name || null
+      stripeEmail = cust?.email || null
     } catch {
       // best effort only
     }
@@ -140,6 +158,11 @@ async function findCandidates(): Promise<Candidate[]> {
     const fams = famRes.ok ? await famRes.json() : []
     const fam = fams[0]
     if (!fam?.parent_email) continue
+
+    // Build/test and friends-and-family accounts never get customer mail
+    const custEmail = (stripeEmail || '').toLowerCase()
+    const famEmail = fam.parent_email.toLowerCase()
+    if (TEST_EMAILS.has(custEmail) || TEST_EMAILS.has(famEmail)) continue
 
     // Never send the same trial email to the same family twice
     const logRes = await supa(
@@ -172,6 +195,7 @@ async function findCandidates(): Promise<Candidate[]> {
 
     if (!type) {
       if (episodesWatched > 0) continue // they are using it, nothing to say
+      if (!(await hasEverPaid(sub.customer as string))) continue
       type = 'never_watched'
       reason = `paying ${Math.floor(ageDays)}d, has watched nothing`
     }

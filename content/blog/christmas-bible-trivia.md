@@ -130,6 +130,8 @@ Printing for a party? Our free [Bible Trivia Pack](/printables/bible-trivia-pack
 
 If you want something the kids can play alone, point them at our [Bible trivia quiz for kids](/bible-trivia).
 
+For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas) — twelve words hidden in the grid, answer key included.
+
 ## Frequently Asked Questions
 
 ### What are good Christmas Bible trivia questions for adults?

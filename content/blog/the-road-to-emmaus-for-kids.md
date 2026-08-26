@@ -106,6 +106,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+For quiet time afterwards, print the [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) and let them color while you talk it through.
+
 ## Frequently Asked Questions
 
 ### What is the story of The Road to Emmaus about for kids?

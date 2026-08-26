@@ -126,6 +126,8 @@ Tap any book for a kid-friendly trivia quiz on it -- answers included.
 
 **Revelation.** The final book is John's vision of the end of the story: evil defeated, every tear wiped away, and God living with His people forever in a new heaven and new earth. The Bible starts in a garden and ends in a city where everything is made new.
 
+Older children who find coloring dull usually take to the [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### How many books are in the Bible?

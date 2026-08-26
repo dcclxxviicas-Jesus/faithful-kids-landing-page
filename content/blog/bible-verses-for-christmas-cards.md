@@ -111,6 +111,8 @@ Three quick don'ts: don't preach (one verse, not three), don't explain the verse
 
 If your kids sign the cards, let them pick the verse for each family -- it's a sneaky, wonderful Scripture exercise, and it pairs well with reading [the Christmas stories behind these verses](/blog/christmas-bible-stories-for-kids) together first. Kids who've learned the nativity story through our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) often surprise parents by matching verses to people thoughtfully. If they want a bigger pool to pick from, our list of [Christmas Bible verses for kids](/blog/christmas-bible-verses-for-kids) adds 25 more, each with a kid-friendly explanation. Card-writing season also overlaps nicely with birthday-card season for winter birthdays -- we keep a similar list of [birthday Bible verses for kids](/blog/birthday-bible-verses-for-kids) for exactly that.
 
+Older children who find coloring dull usually take to the [Christmas word search](/printables/bible-word-search/christmas) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### What is the most popular Bible verse for Christmas cards?

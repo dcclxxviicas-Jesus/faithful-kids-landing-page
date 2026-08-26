@@ -106,6 +106,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+Older children who find coloring dull usually take to the [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### What is the story of Water Into Wine about for kids?

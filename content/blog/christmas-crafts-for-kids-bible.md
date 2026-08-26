@@ -191,6 +191,8 @@ We keep a running collection of year-round ideas in our guide to [Bible crafts f
 
 There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
 
+For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas) — twelve words hidden in the grid, answer key included.
+
 ## Frequently Asked Questions
 
 ### What is the easiest nativity craft for toddlers?

@@ -106,6 +106,8 @@ Start with one tradition, attach it to a date you can't miss, and repeat it for 
 
 A realistic starter set by stage: toddlers -- birthday cake for Jesus (#10) and nativity-first decorating (#3); elementary kids -- the advent wreath (#1) and the giving tree gift (#13); tweens and teens -- the Luke 2 reading (#6) with assigned parts and the thank-you walk (#16). And when kids ask bigger questions about what it all means, our post on [how to explain Christmas to a child](/blog/how-to-explain-christmas-to-a-child) gives you the words.
 
+There is a free [Christmas word search](/printables/bible-word-search/christmas) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### What is the easiest Christian Christmas tradition to start this year?

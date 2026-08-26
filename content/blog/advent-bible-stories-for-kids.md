@@ -206,6 +206,8 @@ Want to make this Advent even more engaging? Faithful Kids offers animated video
 
 [Start your free trial at faithfulkids.app/quiz](https://faithfulkids.app/quiz)
 
+Print the [Christmas word search](/printables/bible-word-search/christmas) for the table, or let them play it on screen. Either way it is free.
+
 ## Frequently Asked Questions
 
 ### What age is this Advent devotional designed for?

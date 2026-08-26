@@ -169,6 +169,8 @@ If you want the pages ready-made, our [Bible coloring pages](/printables/bible-c
 
 Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with no sign-up.
 
+For quiet time afterwards, print the [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) and let them color while you talk it through.
+
 ## Frequently Asked Questions
 
 ### What goes in resurrection eggs?

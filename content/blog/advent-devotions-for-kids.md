@@ -290,6 +290,8 @@ The free printable version is here: the [30-Day Family Bible Challenge](/printab
 
 If you want more hands-on elements alongside the reading, pair these devotions with [Advent activities for kids](/blog/advent-activities-for-kids) on weekends, light a wreath candle on Sundays (here's [what the Advent wreath means](/blog/advent-wreath-meaning-for-kids)), and hang a [Jesse Tree](/blog/jesse-tree-for-kids) ornament each night. Families who want a shorter run can use our twelve [Christmas family devotions](/blog/christmas-family-devotions) instead, three per week through December. Kids who take in stories better on screen can watch the matching Bible story at [Faithful Kids](https://faithfulkids.app/quiz) after the reading.
 
+Older children who find coloring dull usually take to the [Christmas word search](/printables/bible-word-search/christmas) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### What age are these Advent devotions for?

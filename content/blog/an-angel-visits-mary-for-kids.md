@@ -97,6 +97,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+Pair the story with our free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) — one sheet, ready to print.
+
 ## Frequently Asked Questions
 
 ### What is the story of An Angel Visits Mary about for kids?

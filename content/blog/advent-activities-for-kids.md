@@ -109,6 +109,8 @@ We have 16 [Bible coloring pages to print](/printables/bible-coloring-pages) cov
 
 Sunday school leaders: the [Bible word searches](/printables/bible-word-search) print one to a sheet with the answer key included.
 
+There is a free [Christmas word search](/printables/bible-word-search/christmas) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### What is a simple advent activity we can start tonight?

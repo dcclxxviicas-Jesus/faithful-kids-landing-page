@@ -110,6 +110,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+Pair the story with our free [the cross coloring page](/printables/bible-coloring-pages/the-cross) — one sheet, ready to print.
+
 ## Frequently Asked Questions
 
 ### What is the story of The Cross about for kids?

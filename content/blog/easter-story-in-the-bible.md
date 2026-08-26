@@ -162,6 +162,8 @@ Once the story is familiar, two companions make it stick: [50 Easter Bible verse
 
 For families who do most of their reading after lights-out, our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short readings with a question and a goodnight prayer, printable in one click.
 
+Older children who find coloring dull usually take to the [Easter word search](/printables/bible-word-search/easter) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### Where is the Easter story in the Bible?

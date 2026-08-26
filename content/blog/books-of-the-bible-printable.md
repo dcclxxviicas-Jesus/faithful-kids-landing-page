@@ -213,6 +213,8 @@ For something to hand over right now, there are 16 [printable Bible coloring pag
 
 For older children who find coloring dull, a [Bible word search](/printables/bible-word-search) holds attention longer.
 
+We built a [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) around this story. Free, no sign-up, and it works on screen or on paper.
+
 ## Frequently Asked Questions
 
 ### How many books are in the Bible?

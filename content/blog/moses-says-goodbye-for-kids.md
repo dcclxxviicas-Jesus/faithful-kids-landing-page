@@ -97,6 +97,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+There is a free [Moses word search](/printables/bible-word-search/moses) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### What is the story of Moses Says Goodbye about for kids?

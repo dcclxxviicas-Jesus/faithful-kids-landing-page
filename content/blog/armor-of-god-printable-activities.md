@@ -100,6 +100,8 @@ There is a matching set of [Bible story coloring pages](/printables/bible-colori
 
 Sunday school leaders: the [Bible word searches](/printables/bible-word-search) print one to a sheet with the answer key included.
 
+There is a free [Armor of God word search](/printables/bible-word-search/armor-of-god) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### What are the 6 pieces of the armor of God in order?

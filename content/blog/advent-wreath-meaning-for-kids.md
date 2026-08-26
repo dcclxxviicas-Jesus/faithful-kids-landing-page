@@ -134,6 +134,8 @@ Look at how bright our wreath is now. Remember the first week, when there was ju
 
 Then let the youngest kid blow out the candles -- or better, leave them burning through dinner. If your family wants one more voice in the prayer, our collection of [Christmas prayers for kids](/blog/christmas-prayers-for-kids) has short ones children can read themselves. Families using [Faithful Kids](https://faithfulkids.app/quiz) often end the night with the nativity video lesson and quiz -- a fun way to see how much the kids absorbed over four weeks.
 
+Print the [Christmas word search](/printables/bible-word-search/christmas) for the table, or let them play it on screen. Either way it is free.
+
 ## Frequently Asked Questions
 
 ### What do the 4 Advent candles stand for?

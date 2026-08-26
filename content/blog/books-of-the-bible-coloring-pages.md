@@ -168,6 +168,8 @@ For more coloring ideas beyond the book symbols, our story-by-story guide to [Bi
 
 We have 16 [Bible coloring pages to print](/printables/bible-coloring-pages) covering the stories most children meet first.
 
+Print the [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) for the table, or let them play it on screen. Either way it is free.
+
 ## Frequently Asked Questions
 
 ### What are the eight sections of the Bible for kids?

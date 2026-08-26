@@ -81,6 +81,8 @@ If you want the readings without buying anything, our free [25 days of Advent Bi
 
 Bedtime is where most of these books end up being read, which is exactly why bedtime is worth building on the other eleven months of the year too. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) is seven nights of short readings, a question, and a goodnight prayer -- print it in January when the Advent book goes back in the box, and the rhythm keeps going.
 
+There is a free [Christmas word search](/printables/bible-word-search/christmas) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### What is the best Advent book for kids overall?

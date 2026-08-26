@@ -183,6 +183,8 @@ Bring Holy Week to life with animated video lessons your kids will love. Faithfu
 
 [Start your free trial at faithfulkids.app/quiz](https://faithfulkids.app/quiz)
 
+We built a [Easter word search](/printables/bible-word-search/easter) around this story. Free, no sign-up, and it works on screen or on paper.
+
 ## Frequently Asked Questions
 
 ### At what age should I start teaching kids about Holy Week?

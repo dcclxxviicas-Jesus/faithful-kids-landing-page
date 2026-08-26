@@ -84,6 +84,8 @@ Round out game night with our [best Bible trivia for kids and families](/blog/bi
 
 For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
 
+Older children who find coloring dull usually take to the [Noah's Ark word search](/printables/bible-word-search/noahs-ark) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Genesis?

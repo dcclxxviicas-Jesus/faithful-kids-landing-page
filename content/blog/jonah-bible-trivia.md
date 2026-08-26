@@ -96,6 +96,8 @@ New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bibl
 
 For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
+If your class needs something to do with their hands, there is a [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) here.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Jonah?

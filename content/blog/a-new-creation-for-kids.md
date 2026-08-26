@@ -97,6 +97,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+If your class needs something to do with their hands, there is a [Creation coloring page](/printables/bible-coloring-pages/creation) here.
+
 ## Frequently Asked Questions
 
 ### What is the story of A New Creation about for kids?

@@ -97,6 +97,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+If your class needs something to do with their hands, there is a [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) here.
+
 ## Frequently Asked Questions
 
 ### What is the story of Jonah the Lesson about for kids?

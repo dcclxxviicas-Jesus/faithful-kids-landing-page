@@ -100,6 +100,8 @@ This retelling works best for ages 4-10 read aloud, and kids up to 12 or so stil
 
 If your kids fall in love with the story and want more, go deeper on individual scenes: our story posts on [the angel visiting Mary](/blog/an-angel-visits-mary-for-kids), [the journey to Bethlehem](/blog/the-journey-to-bethlehem-for-kids), and [born in a manger](/blog/born-in-a-manger-for-kids) each expand one scene to full length. Many families also watch the story after reading it -- the nativity video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each scene with a quiz, which is a fun Christmas-morning-breakfast activity while the cinnamon rolls bake.
 
+Pair the story with our free [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) — one sheet, ready to print.
+
 ## Frequently Asked Questions
 
 ### What is the Christmas story in simple words?

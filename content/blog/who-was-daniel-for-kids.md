@@ -122,6 +122,8 @@ Bring Daniel's thrilling story to life for your kids with animated video lessons
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
+Older children who find coloring dull usually take to the [Daniel word search](/printables/bible-word-search/daniel) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### How old was Daniel when he was taken to Babylon?

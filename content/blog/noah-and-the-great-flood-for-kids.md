@@ -97,6 +97,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+If your class needs something to do with their hands, there is a [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) here.
+
 ## Frequently Asked Questions
 
 ### What is the story of Noah and the Great Flood about for kids?

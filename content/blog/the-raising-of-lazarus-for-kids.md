@@ -105,6 +105,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+Print the [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) for the table, or let them play it on screen. Either way it is free.
+
 ## Frequently Asked Questions
 
 ### What is the story of The Raising of Lazarus about for kids?

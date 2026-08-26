@@ -97,6 +97,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+There is a free [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) on our site too, if they would rather draw the story than only hear it.
+
 ## Frequently Asked Questions
 
 ### What is the story of Joseph and the Angel about for kids?

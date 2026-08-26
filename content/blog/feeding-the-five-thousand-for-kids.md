@@ -105,6 +105,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+There is a free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### What is the story of Feeding the Five Thousand about for kids?

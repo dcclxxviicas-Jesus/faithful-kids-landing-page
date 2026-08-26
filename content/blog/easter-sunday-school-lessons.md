@@ -220,6 +220,8 @@ There is also a [free Bible trivia game](/bible-trivia) on our site that reshuff
 
 For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
 
+There is a free [Easter word search](/printables/bible-word-search/easter) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### How do you explain the crucifixion to young children?

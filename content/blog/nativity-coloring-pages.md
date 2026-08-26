@@ -144,6 +144,8 @@ For coloring beyond Christmas, our story-by-story guide to [Bible coloring pages
 
 There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
 
+There is a free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) on our site too, if they would rather draw the story than only hear it.
+
 ## Frequently Asked Questions
 
 ### What scenes should a nativity coloring set include?

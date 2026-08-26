@@ -110,6 +110,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+Pair the story with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) — one sheet, ready to print.
+
 ## Frequently Asked Questions
 
 ### What is the story of The Triumphal Entry about for kids?

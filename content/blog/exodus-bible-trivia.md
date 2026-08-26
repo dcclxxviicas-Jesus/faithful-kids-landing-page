@@ -80,6 +80,8 @@ Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-tri
 
 For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
+Older children who find coloring dull usually take to the [Moses word search](/printables/bible-word-search/moses) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Exodus?

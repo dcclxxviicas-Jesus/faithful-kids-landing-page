@@ -108,6 +108,8 @@ If you are teaching a class rather than one child, our [Easter Sunday school les
 
 Bring the Easter story to life for your kids with animated video lessons, quizzes, and reflections. Faithful Kids covers the death, burial, and resurrection of Jesus in a way that is engaging, accurate, and age-appropriate for kids 7-15. [Start your free trial today](https://faithfulkids.app/quiz) and give your child the real Easter story.
 
+For a quieter follow-up, try the [Easter word search](/printables/bible-word-search/easter) — twelve words hidden in the grid, answer key included.
+
 ## Frequently Asked Questions
 
 ### How do I talk about the crucifixion without scaring my child?

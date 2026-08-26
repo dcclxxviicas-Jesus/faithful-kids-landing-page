@@ -110,6 +110,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+If your class needs something to do with their hands, there is a [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) here.
+
 ## Frequently Asked Questions
 
 ### What is the story of The Last Supper about for kids?

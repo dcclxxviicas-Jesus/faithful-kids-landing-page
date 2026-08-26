@@ -186,6 +186,8 @@ Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work wel
 
 If you need something with no prep at all, the [Bible word search](/printables/bible-word-search) plays on a phone and prints on one sheet.
 
+We built a [Easter word search](/printables/bible-word-search/easter) around this story. Free, no sign-up, and it works on screen or on paper.
+
 ## Frequently Asked Questions
 
 ### What is the easiest Easter craft for a Sunday school class?

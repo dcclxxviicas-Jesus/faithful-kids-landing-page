@@ -223,6 +223,8 @@ Bedtime is when most of these verses actually get read out loud in real houses. 
 
 Once the verses are familiar, test them with our [Easter Bible trivia for kids](/blog/easter-bible-trivia-for-kids), and if you want the stories behind each verse, [Easter Bible stories for kids](/blog/easter-bible-stories-for-kids) covers all ten scenes. To put the verses in kids' hands rather than just their ears, tuck them into the eggs and crafts in [15 resurrection activities for kids](/blog/resurrection-activities-for-kids).
 
+There is a free [Easter word search](/printables/bible-word-search/easter) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### What is the main Bible verse for Easter?

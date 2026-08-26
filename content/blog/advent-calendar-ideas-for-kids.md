@@ -116,6 +116,8 @@ One honest tip before the list: don't feel guilty about chocolate calendars. A s
 
 **Setup:** Write 24 names of Jesus on paper stars, with the reference on the back (Isaiah 9:6 alone gives you Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace). Each day, a kid picks the star, you read the verse, and ask: "Why do you think Jesus is called that?" Hang each star on the tree or in a window. By Christmas, kids have a richer picture of who the baby in the manger actually is. Older kids can look up the verse themselves for memory practice.
 
+Older children who find coloring dull usually take to the [Christmas word search](/printables/bible-word-search/christmas) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### When should an Advent calendar start?

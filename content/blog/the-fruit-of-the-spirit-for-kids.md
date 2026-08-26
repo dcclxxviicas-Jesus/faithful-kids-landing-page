@@ -97,6 +97,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+Older children who find coloring dull usually take to the [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) instead. It plays in the browser or prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### What is the story of The Fruit of the Spirit about for kids?

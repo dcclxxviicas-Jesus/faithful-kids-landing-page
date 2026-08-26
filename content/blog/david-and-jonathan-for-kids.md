@@ -106,6 +106,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+We built a [David and Goliath word search](/printables/bible-word-search/david-and-goliath) around this story. Free, no sign-up, and it works on screen or on paper.
+
 ## Frequently Asked Questions
 
 ### What is the story of David and Jonathan about for kids?

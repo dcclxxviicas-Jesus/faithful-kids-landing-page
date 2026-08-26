@@ -92,6 +92,8 @@ Bring the story of Exodus to life for your children with Faithful Kids. Our anim
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 
+For a quieter follow-up, try the [Moses word search](/printables/bible-word-search/moses) — twelve words hidden in the grid, answer key included.
+
 ## Frequently Asked Questions
 
 ### What age should kids learn about the ten plagues?

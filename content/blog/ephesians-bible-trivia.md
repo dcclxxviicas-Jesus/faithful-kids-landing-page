@@ -65,6 +65,8 @@ The hard round leans on the book of Acts, because the church in Ephesus has one 
 
 Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
 
+For a quieter follow-up, try the [Armor of God word search](/printables/bible-word-search/armor-of-god) — twelve words hidden in the grid, answer key included.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ephesians?

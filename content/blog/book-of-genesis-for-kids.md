@@ -91,6 +91,8 @@ Ready to bring Genesis to life for your children? Faithful Kids has an entire an
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 
+There is a free [Noah's Ark word search](/printables/bible-word-search/noahs-ark) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### What age is best to start teaching Genesis to kids?

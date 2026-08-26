@@ -132,6 +132,8 @@ Make it stick with motions (kids invent great ones for "wrapped him in cloths"),
 
 Once your kids know a handful of these, quiz the whole family with our [Christmas Bible trivia for kids](/blog/christmas-bible-trivia-for-kids) -- verses 1-25 above answer most of the questions.
 
+There is a free [Christmas word search](/printables/bible-word-search/christmas) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### What is the most famous Christmas Bible verse?

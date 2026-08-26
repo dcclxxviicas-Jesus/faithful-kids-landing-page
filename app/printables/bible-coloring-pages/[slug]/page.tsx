@@ -6,6 +6,8 @@ import { COLORING_PAGES, getColoringPage, CDN } from '@/lib/coloring-pages'
 import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
 import { PrintableCta } from '../../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
+import { COLORING_TO_WORDSEARCH } from '@/lib/printable-pairs'
+import puzzles from '@/lib/word-searches.json'
 
 /**
  * One page per coloring scene.
@@ -62,6 +64,9 @@ export default async function ColoringPageDetail(
   if (!page) notFound()
 
   const others = COLORING_PAGES.filter(p => p.slug !== page.slug).slice(0, 8)
+  // The word search covering the same story, where one exists. This is the
+  // strongest contextual link the page has and it was missing entirely.
+  const pairedWs = puzzles.find(w => w.slug === COLORING_TO_WORDSEARCH[page.slug])
   const vids = printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>
   const clip = vids[page.slug] ?? vids._default
   const url = `https://faithfulkids.app/printables/bible-coloring-pages/${page.slug}`
@@ -125,6 +130,17 @@ export default async function ColoringPageDetail(
             with the video lesson and a quiz.
           </p>
         )}
+        {pairedWs && (
+          <p>
+            For older children, the same story comes as a puzzle:{' '}
+            <a href={`/printables/bible-word-search/${pairedWs.slug}`}>
+              the {pairedWs.title} word search
+            </a>{' '}
+            hides {pairedWs.words.length} words from {pairedWs.scripture}, and plays on screen or
+            prints on one sheet.
+          </p>
+        )}
+
         <h2>What to talk about while they color</h2>
         <p>{page.talkAbout}</p>
         <p>{page.tip}</p>

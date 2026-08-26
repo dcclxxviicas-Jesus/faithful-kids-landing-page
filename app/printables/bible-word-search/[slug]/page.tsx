@@ -7,6 +7,8 @@ import { WordSearchGame } from '../WordSearchGame'
 import { PrintableCta } from '../../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
+import { WORDSEARCH_TO_COLORING, WORDSEARCH_STORY } from '@/lib/printable-pairs'
+import { getColoringPage } from '@/lib/coloring-pages'
 
 type Puzzle = (typeof puzzles)[number]
 
@@ -54,6 +56,10 @@ export default async function WordSearchPuzzle(
   // Exclude 'bible' — it is played on the hub and has no detail route, so
   // linking to it from here would be a dead link.
   const others = puzzles.filter(o => o.slug !== p.slug && o.slug !== 'bible').slice(0, 6)
+  // The coloring sheet and the blog retelling of the same story. The coloring
+  // detail pages already link out to their story; these had neither.
+  const pairedCp = getColoringPage(WORDSEARCH_TO_COLORING[p.slug] ?? '')
+  const storySlug = WORDSEARCH_STORY[p.slug]
   const vids = printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>
   const clip = vids[p.slug] ?? vids._default
 
@@ -117,6 +123,23 @@ export default async function WordSearchPuzzle(
           same grid if you read the list aloud and let them find three or four rather than all
           twelve.
         </p>
+
+        {storySlug && (
+          <p>
+            The words mean more once they know the story:{' '}
+            <a href={`/blog/${storySlug}`}>{p.title} retold for kids</a> — a short version with the
+            video lesson and a quiz.
+          </p>
+        )}
+        {pairedCp && (
+          <p>
+            Younger children in the same room can color instead:{' '}
+            <a href={`/printables/bible-coloring-pages/${pairedCp.slug}`}>
+              the {pairedCp.title} coloring page
+            </a>{' '}
+            covers the same story and prints on one sheet.
+          </p>
+        )}
 
         <details className="ws-key">
           <summary>

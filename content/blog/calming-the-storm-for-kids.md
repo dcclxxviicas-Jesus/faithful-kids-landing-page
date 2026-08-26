@@ -105,6 +105,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+There is a free [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) on our site too, if they would rather draw the story than only hear it.
+
 ## Frequently Asked Questions
 
 ### What is the story of Calming the Storm about for kids?

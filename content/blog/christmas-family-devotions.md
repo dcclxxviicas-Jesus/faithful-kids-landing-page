@@ -148,6 +148,8 @@ Skip it and move on -- never double up, and never let a missed night become a qu
 
 And if January 1 arrives and your kids ask "are we still doing the candle thing?" -- congratulations, you've built a habit. Roll straight into our year-round [daily Bible devotions for kids](/blog/bible-devotions-for-kids-daily) and keep going.
 
+There is a free [Christmas word search](/printables/bible-word-search/christmas) to go with this, playable on a phone and printable for a class.
+
 ## Frequently Asked Questions
 
 ### How long should a Christmas family devotion take?

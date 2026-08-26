@@ -110,6 +110,8 @@ Faithful Kids has **400+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
+For quiet time afterwards, print the [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) and let them color while you talk it through.
+
 ## Frequently Asked Questions
 
 ### What is the story of The Good Shepherd about for kids?

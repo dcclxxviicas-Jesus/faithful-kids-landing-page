@@ -82,6 +82,8 @@ For year-round question banks beyond Easter, start with our master list of [Bibl
 
 Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
 
+For a quieter follow-up, try the [Easter word search](/printables/bible-word-search/easter) — twelve words hidden in the grid, answer key included.
+
 ## Frequently Asked Questions
 
 ### What is the Easter story in the Bible?

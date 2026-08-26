@@ -64,6 +64,8 @@ All 10 episodes of the Birth of Jesus series are available with short videos and
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-christmas)
 
+If your class needs something to do with their hands, there is a [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) here.
+
 ## Frequently Asked Questions
 
 ### When should I teach my child the Christmas story?

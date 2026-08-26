@@ -21,10 +21,6 @@ quizAvailable: true
 
 Daniel in the Lions Den is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Exile and Faith Series
-
-This is one of 10 episodes in our Exile and Faith series, covering courage, faith under pressure, obedience, hope. [Browse the whole series](/blog/series/exile-and-faith) to watch them in order.
-
 ## What Is the Story of Daniel in the Lions Den for Kids?
 
 EXILE & FAITH — EPISODE 6: DANIEL IN THE LIONS' DEN Based on Daniel 6 | Narrated by Jesus

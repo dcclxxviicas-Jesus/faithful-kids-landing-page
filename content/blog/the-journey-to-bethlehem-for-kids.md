@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Journey to Bethlehem is a Bible story from Luke 2:1-5 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Birth of Jesus Series
-
-This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
-
 ## What Is the Story of The Journey to Bethlehem for Kids?
 
 Welcome back, friend! Okay — so far you've heard about my mom saying yes to God, and my earthly dad Joseph choosing to trust and obey. Now the story takes a wild turn. And it starts with a guy who had absolutely no idea he was part of God's plan.

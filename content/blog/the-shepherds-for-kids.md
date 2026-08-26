@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Shepherds is a Bible story from Luke 2:8-20 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Birth of Jesus Series
-
-This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
-
 ## What Is the Story of The Shepherds for Kids?
 
 Welcome back! Okay — I was just born in a manger. The King of the universe, lying in an animal's feeding trough. Now my Father had an announcement to make. The biggest announcement in history. And the question is — who does God tell first?

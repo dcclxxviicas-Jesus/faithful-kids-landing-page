@@ -23,10 +23,6 @@ quizAvailable: true
 
 The Garden of Gethsemane is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Road to the Cross Series
-
-This is one of 10 episodes in our Road to the Cross series, covering sacrifice, love, courage, Easter. [Browse the whole series](/blog/series/road-to-the-cross) to watch them in order.
-
 ## What Is the Story of The Garden of Gethsemane for Kids?
 
 THE ROAD TO THE CROSS — Episode 4: The Garden of Gethsemane Based on Matthew 26:36-46 Series: The Road to the Cross | Target audience: Ages 7-15

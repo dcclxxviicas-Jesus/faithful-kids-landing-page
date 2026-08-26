@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Great Catch of Fish is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Miracles of Jesus Series
-
-This is one of 10 episodes in our Miracles of Jesus series, covering faith, God's power, compassion, trust. [Browse the whole series](/blog/series/miracles-of-jesus) to watch them in order.
-
 ## What Is the Story of The Great Catch of Fish for Kids?
 
 MIRACLES OF JESUS — Episode 10: The Great Catch of Fish Based on Luke 5:1-11 and John 21:1-14

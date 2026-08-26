@@ -21,10 +21,6 @@ quizAvailable: true
 
 Deborah a Brave Leader is a Bible story from Judges 4-5 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Judges and Ruth Series
-
-This is one of 10 episodes in our Judges and Ruth series, covering bravery, loyalty, faith, God's plan. [Browse the whole series](/blog/series/judges-and-ruth) to watch them in order.
-
 ## What Is the Story of Deborah a Brave Leader for Kids?
 
 Hey, welcome back! Today I've got a story that is going to blow your mind, because it's got not one but TWO incredible women at the center of it. In a time when most leaders were men, God handpicked a woman to lead an entire nation. Let's talk about Deborah.

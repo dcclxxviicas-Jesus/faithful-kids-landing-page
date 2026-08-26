@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Sun Stands Still is a Bible story from Joshua 10 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Promised Land Series
-
-This is one of 10 episodes in our Promised Land series, covering courage, trust, following God, new beginnings. [Browse the whole series](/blog/series/promised-land) to watch them in order.
-
 ## What Is the Story of The Sun Stands Still for Kids?
 
 Okay friend, I need to tell you about the day the sun STOPPED MOVING. Yes, you heard me right. The actual sun. In the actual sky. Just... froze. This might be one of the most jaw-dropping moments in the entire Bible, and I cannot WAIT for you to hear it.

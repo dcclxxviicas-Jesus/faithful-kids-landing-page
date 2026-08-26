@@ -21,10 +21,6 @@ quizAvailable: true
 
 Balaams Donkey is a Bible story from Numbers 22-24 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Promised Land Series
-
-This is one of 10 episodes in our Promised Land series, covering courage, trust, following God, new beginnings. [Browse the whole series](/blog/series/promised-land) to watch them in order.
-
 ## What Is the Story of Balaams Donkey for Kids?
 
 Okay, I need you to stop whatever else you're thinking about because today's story has a TALKING DONKEY. Yes, you heard that right. A donkey that opens its mouth and has an actual conversation. This really happened. Let's get into it.

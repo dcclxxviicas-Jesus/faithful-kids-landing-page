@@ -23,10 +23,6 @@ quizAvailable: true
 
 Fire from Heaven is a Bible story from 1 & 2 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Elijah and Elisha Series
-
-This is one of 10 episodes in our Elijah and Elisha series, covering faith, miracles, trusting God, prayer. [Browse the whole series](/blog/series/elijah-and-elisha) to watch them in order.
-
 ## What Is the Story of Fire from Heaven for Kids?
 
 FIRE FROM HEAVEN Series: Elijah & Elisha | Episode 3 Scripture: 1 Kings 18

@@ -23,10 +23,6 @@ quizAvailable: true
 
 Faith Hall of Fame is a Bible story from Hebrews/James/Revelation in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Ending and Beginning Series
-
-This is one of 10 episodes in our Ending and Beginning series, covering faith, hope, heaven, God's promises, eternity. [Browse the whole series](/blog/series/ending-and-beginning) to watch them in order.
-
 ## What Is the Story of Faith Hall of Fame for Kids?
 
 TITLE: Faith Hall of Fame SERIES: The Ending & the Beginning EPISODE: 1 SCRIPTURE: Hebrews 11

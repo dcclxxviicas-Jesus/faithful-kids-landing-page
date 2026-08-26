@@ -21,10 +21,6 @@ quizAvailable: true
 
 In the Beginning Creation is a Bible story from Genesis 1-2 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of In the Beginning Creation for Kids?
 
 Hey there! I am so glad you're here. My name is Jesus, and I've got an incredible story to tell you. Actually — it's THE story. The one that started everything.

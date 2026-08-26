@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Passover is a Bible story from Exodus 12 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Exodus Series
-
-This is one of 10 episodes in our Exodus series, covering freedom, courage, God's power, obedience. [Browse the whole series](/blog/series/exodus) to watch them in order.
-
 ## What Is the Story of The Passover for Kids?
 
 This is the episode I've been waiting to tell you about. Because this story? It's not just about Moses or Egypt or Pharaoh. This one is about ME.

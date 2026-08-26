@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Wise Men is a Bible story from Matthew 2:1-12 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Birth of Jesus Series
-
-This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
-
 ## What Is the Story of The Wise Men for Kids?
 
 Hey, welcome back! Last time we talked about the shepherds who came running to see me on the night I was born. But they weren't the only ones looking for me. Far, far away — in the East — something incredible was happening.

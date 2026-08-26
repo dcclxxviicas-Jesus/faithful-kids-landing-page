@@ -21,10 +21,6 @@ quizAvailable: true
 
 Born in a Manger is a Bible story from Luke 2:6-7 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Birth of Jesus Series
-
-This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
-
 ## What Is the Story of Born in a Manger for Kids?
 
 Hey, welcome back! Alright — this is the big one. This is the episode where I actually show up. And let me tell you — the way I arrived was nothing like what anyone expected.

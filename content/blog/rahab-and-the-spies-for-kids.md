@@ -21,10 +21,6 @@ quizAvailable: true
 
 Rahab and the Spies is a Bible story from Joshua 2 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Promised Land Series
-
-This is one of 10 episodes in our Promised Land series, covering courage, trust, following God, new beginnings. [Browse the whole series](/blog/series/promised-land) to watch them in order.
-
 ## What Is the Story of Rahab and the Spies for Kids?
 
 Okay, friend — this story has everything. Secret missions, a daring escape, soldiers banging on doors, and a hero you would NEVER expect. Buckle up.

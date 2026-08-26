@@ -21,10 +21,6 @@ quizAvailable: true
 
 Moses Says Goodbye is a Bible story from Deuteronomy 31-34 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Promised Land Series
-
-This is one of 10 episodes in our Promised Land series, covering courage, trust, following God, new beginnings. [Browse the whole series](/blog/series/promised-land) to watch them in order.
-
 ## What Is the Story of Moses Says Goodbye for Kids?
 
 Hey. Come sit with Me for this one. This story is different from the others. It's not about talking donkeys or giant grapes or snakes. It's about a man finishing his race. And honestly? It might be the most powerful episode yet.

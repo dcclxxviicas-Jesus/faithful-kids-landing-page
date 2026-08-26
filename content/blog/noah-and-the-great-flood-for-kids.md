@@ -21,10 +21,6 @@ quizAvailable: true
 
 Noah and the Great Flood is a Bible story from Genesis 6-9 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of Noah and the Great Flood for Kids?
 
 Hey friend, welcome back! Okay — today's story? Absolute blockbuster. You've probably heard it before, but I promise you there are parts that will blow your mind. This is the story of Noah and the flood.

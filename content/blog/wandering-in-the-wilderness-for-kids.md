@@ -21,10 +21,6 @@ quizAvailable: true
 
 Wandering in the Wilderness is a Bible story from Numbers 14-20 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Promised Land Series
-
-This is one of 10 episodes in our Promised Land series, covering courage, trust, following God, new beginnings. [Browse the whole series](/blog/series/promised-land) to watch them in order.
-
 ## What Is the Story of Wandering in the Wilderness for Kids?
 
 Alright, buckle up. Last time, the Israelites made a huge mistake — they let fear win and refused to enter the Promised Land. So what happens next? Forty years of wandering in the desert. Four. Zero. Years. That's not a road trip. That's a lifetime.

@@ -21,10 +21,6 @@ quizAvailable: true
 
 Crossing the Red Sea is a Bible story from Exodus 13-15 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Exodus Series
-
-This is one of 10 episodes in our Exodus series, covering freedom, courage, God's power, obedience. [Browse the whole series](/blog/series/exodus) to watch them in order.
-
 ## What Is the Story of Crossing the Red Sea for Kids?
 
 Hey, welcome back! Buckle up because today's story has one of the most jaw-dropping moments in the entire Bible. We're talking armies, impossible escapes, and an ocean splitting in half. Yeah. You heard me right.

@@ -21,10 +21,6 @@ quizAvailable: true
 
 John the Baptist is a Bible story from Matthew 3:1-12, Luke 3:1-18 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Birth of Jesus Series
-
-This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
-
 ## What Is the Story of John the Baptist for Kids?
 
 Alright, buckle up — we're fast-forwarding about eighteen years. Last time you saw me, I was twelve. Now I've grown up, and something wild is happening in the wilderness.

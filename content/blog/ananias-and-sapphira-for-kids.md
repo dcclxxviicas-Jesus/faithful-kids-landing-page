@@ -23,10 +23,6 @@ quizAvailable: true
 
 Ananias and Sapphira is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Early Church Series
-
-This is one of 10 episodes in our Early Church series, covering community, courage, sharing faith, miracles. [Browse the whole series](/blog/series/early-church) to watch them in order.
-
 ## What Is the Story of Ananias and Sapphira for Kids?
 
 THE EARLY CHURCH — EPISODE 3: ANANIAS AND SAPPHIRA Based on Acts 5:1-11 Series: The Early Church | Episode 3 of 5 Target audience: Kids ages 7-15

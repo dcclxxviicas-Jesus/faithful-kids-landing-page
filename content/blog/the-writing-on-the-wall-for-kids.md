@@ -23,10 +23,6 @@ quizAvailable: true
 
 The Writing on the Wall is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Exile and Faith Series
-
-This is one of 10 episodes in our Exile and Faith series, covering courage, faith under pressure, obedience, hope. [Browse the whole series](/blog/series/exile-and-faith) to watch them in order.
-
 ## What Is the Story of The Writing on the Wall for Kids?
 
 EXILE & FAITH — EPISODE 5: THE WRITING ON THE WALL Based on Daniel 5 | Narrated by Jesus

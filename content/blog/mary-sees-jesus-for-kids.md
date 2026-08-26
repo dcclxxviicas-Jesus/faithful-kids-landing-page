@@ -23,10 +23,6 @@ quizAvailable: true
 
 Mary Sees Jesus is a Bible story from Matthew/Luke/Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the He is Risen Series
-
-This is one of 10 episodes in our He is Risen series, covering resurrection, hope, faith, new life, Easter. [Browse the whole series](/blog/series/he-is-risen) to watch them in order.
-
 ## What Is the Story of Mary Sees Jesus for Kids?
 
 HE IS RISEN — Episode 2: Mary Sees Jesus Based on John 20:11-18 Series: He Is Risen | Target Age: 7-15

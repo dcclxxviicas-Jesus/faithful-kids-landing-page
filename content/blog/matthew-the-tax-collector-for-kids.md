@@ -23,10 +23,6 @@ quizAvailable: true
 
 Matthew the Tax Collector is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Jesus Begins Ministry Series
-
-This is one of 10 episodes in our Jesus Begins Ministry series, covering calling, healing, compassion, faith. [Browse the whole series](/blog/series/jesus-begins-ministry) to watch them in order.
-
 ## What Is the Story of Matthew the Tax Collector for Kids?
 
 JESUS BEGINS HIS MINISTRY — EPISODE 9 "Matthew the Tax Collector" Based on Matthew 9:9-13

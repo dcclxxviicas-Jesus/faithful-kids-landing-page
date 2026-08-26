@@ -21,10 +21,6 @@ quizAvailable: true
 
 A New Creation is a Bible story from Romans/Corinthians/Ephesians in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Letters to Churches Series
-
-This is one of 10 episodes in our Letters to Churches series, covering love, faith, hope, character, spiritual growth. [Browse the whole series](/blog/series/letters-to-churches) to watch them in order.
-
 ## What Is the Story of A New Creation for Kids?
 
 LETTERS TO THE CHURCHES — EPISODE 10 "A New Creation" Based on 2 Corinthians 5:17, Galatians 2:20 Jesus Narrates

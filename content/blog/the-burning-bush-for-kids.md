@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Burning Bush is a Bible story from Exodus 3-4 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Exodus Series
-
-This is one of 10 episodes in our Exodus series, covering freedom, courage, God's power, obedience. [Browse the whole series](/blog/series/exodus) to watch them in order.
-
 ## What Is the Story of The Burning Bush for Kids?
 
 Okay, so last time we left Moses running for his life, right? He went from living in a palace to hiding out in the middle of nowhere -- a place called Midian. And what's he doing there? Herding sheep. Yep, sheep. The guy who grew up as Egyptian royalty is now chasing fluffy animals around the desert. Life is funny like that sometimes.

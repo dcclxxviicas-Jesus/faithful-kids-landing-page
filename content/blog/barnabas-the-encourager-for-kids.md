@@ -21,10 +21,6 @@ quizAvailable: true
 
 Barnabas the Encourager is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Early Church Series
-
-This is one of 10 episodes in our Early Church series, covering community, courage, sharing faith, miracles. [Browse the whole series](/blog/series/early-church) to watch them in order.
-
 ## What Is the Story of Barnabas the Encourager for Kids?
 
 THE EARLY CHURCH — EPISODE 9: BARNABAS THE ENCOURAGER Based on Acts 4:36-37, 9:26-27, 11:22-26 Series: The Early Church | Episode 9 of 10 Target audience: Kids ages 7-15

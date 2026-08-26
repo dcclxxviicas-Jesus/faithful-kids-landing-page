@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Demon Possessed Man is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Miracles of Jesus Series
-
-This is one of 10 episodes in our Miracles of Jesus series, covering faith, God's power, compassion, trust. [Browse the whole series](/blog/series/miracles-of-jesus) to watch them in order.
-
 ## What Is the Story of The Demon Possessed Man for Kids?
 
 MIRACLES OF JESUS — Episode 7: The Demon-Possessed Man Based on Mark 5:1-20

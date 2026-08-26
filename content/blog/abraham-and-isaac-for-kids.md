@@ -21,10 +21,6 @@ quizAvailable: true
 
 Abraham and Isaac is a Bible story from Genesis 22 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of Abraham and Isaac for Kids?
 
 Welcome back, friend. I need to tell you upfront — today's story is intense. It might be the most intense story in all of Genesis. But it teaches us something so deep about trust and faith that it's worth every moment. Let's go.

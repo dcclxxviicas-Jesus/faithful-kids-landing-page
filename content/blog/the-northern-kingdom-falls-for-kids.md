@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Northern Kingdom Falls is a Bible story from 1 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Solomon and the Kingdom Series
-
-This is one of 10 episodes in our Solomon and the Kingdom series, covering wisdom, worship, consequences, choices. [Browse the whole series](/blog/series/solomon-and-the-kingdom) to watch them in order.
-
 ## What Is the Story of The Northern Kingdom Falls for Kids?
 
 SOLOMON & THE KINGDOM — Episode 10: The Northern Kingdom Falls Bible Reference: 2 Kings 17 Series: Solomon & the Kingdom

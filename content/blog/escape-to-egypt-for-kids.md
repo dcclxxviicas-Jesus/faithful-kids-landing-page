@@ -21,10 +21,6 @@ quizAvailable: true
 
 Escape to Egypt is a Bible story from Matthew 2:13-23 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Birth of Jesus Series
-
-This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
-
 ## What Is the Story of Escape to Egypt for Kids?
 
 Hey — glad you're back. But I have to warn you, this episode gets intense. Because right after those wise men left, my family was in serious danger.

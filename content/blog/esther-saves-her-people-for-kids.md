@@ -23,10 +23,6 @@ quizAvailable: true
 
 Esther Saves Her People is a Bible story from Ezra/Nehemiah/Esther in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the The Return Home Series
-
-This is one of 10 episodes in our The Return Home series, covering rebuilding, courage, God's faithfulness, prayer. [Browse the whole series](/blog/series/the-return-home) to watch them in order.
-
 ## What Is the Story of Esther Saves Her People for Kids?
 
 TITLE: Esther Saves Her People SERIES: The Return Home — Episode 9 SCRIPTURE: Esther 6-8

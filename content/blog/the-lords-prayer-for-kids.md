@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Lords Prayer is a Bible story from Matthew/Luke in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Teachings of Jesus Series
-
-This is one of 10 episodes in our Teachings of Jesus series, covering love, kindness, forgiveness, prayer, wisdom. [Browse the whole series](/blog/series/teachings-of-jesus) to watch them in order.
-
 ## What Is the Story of The Lords Prayer for Kids?
 
 THE TEACHINGS OF JESUS — Episode 3 "The Lord's Prayer" Based on Matthew 6:9-13

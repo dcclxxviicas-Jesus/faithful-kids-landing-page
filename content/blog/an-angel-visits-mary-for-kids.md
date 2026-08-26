@@ -21,10 +21,6 @@ quizAvailable: true
 
 An Angel Visits Mary is a Bible story from Luke 1:26-56 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Birth of Jesus Series
-
-This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
-
 ## What Is the Story of An Angel Visits Mary for Kids?
 
 Hey there, friend. I'm so glad you're here. My name is Jesus — and today I want to tell you the most personal story I've got. The story of how I came into the world. And it starts with the bravest young woman I know — my mother.

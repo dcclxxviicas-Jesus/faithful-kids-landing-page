@@ -21,10 +21,6 @@ quizAvailable: true
 
 Do Not Worry is a Bible story from Romans/Corinthians/Ephesians in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Letters to Churches Series
-
-This is one of 10 episodes in our Letters to Churches series, covering love, faith, hope, character, spiritual growth. [Browse the whole series](/blog/series/letters-to-churches) to watch them in order.
-
 ## What Is the Story of Do Not Worry for Kids?
 
 LETTERS TO THE CHURCHES — EPISODE 9 "Do Not Worry" Based on Matthew 6:25-34, Philippians 4:6-7 Jesus Narrates

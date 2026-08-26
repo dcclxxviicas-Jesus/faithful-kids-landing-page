@@ -23,10 +23,6 @@ quizAvailable: true
 
 David on the Run is a Bible story from 1 Samuel in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Rise of Kings Series
-
-This is one of 10 episodes in our Rise of Kings series, covering courage, faith, God choosing the unlikely. [Browse the whole series](/blog/series/rise-of-kings) to watch them in order.
-
 ## What Is the Story of David on the Run for Kids?
 
 THE RISE OF KINGS — Episode 7: David on the Run Based on 1 Samuel 21-26 | Narrated by Jesus

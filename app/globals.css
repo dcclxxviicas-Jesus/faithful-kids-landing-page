@@ -726,11 +726,6 @@ body {
   padding: 4px 12px; border-radius: 999px;
   backdrop-filter: blur(4px);
 }
-.sl-together {
-  text-align: center; margin-top: 16px;
-  font-size: .96rem; line-height: 1.5; color: #666;
-}
-.sl-together strong { color: #15803d; font-weight: 800; }
 
 .sl-open-row { text-align: center; margin-top: 20px; animation: slRise .34s ease-out; }
 @keyframes slRise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }

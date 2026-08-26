@@ -21,10 +21,6 @@ quizAvailable: true
 
 Paul in Corinth is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Pauls Adventures Series
-
-This is one of 10 episodes in our Pauls Adventures series, covering adventure, perseverance, sharing faith, courage. [Browse the whole series](/blog/series/pauls-adventures) to watch them in order.
-
 ## What Is the Story of Paul in Corinth for Kids?
 
 PAUL'S ADVENTURES — EPISODE 5: PAUL IN CORINTH Based on Acts 18:1-18 Series: Paul's Adventures | Episode 5 of 10 Target audience: Kids ages 7-15

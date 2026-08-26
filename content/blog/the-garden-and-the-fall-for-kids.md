@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Garden and the Fall is a Bible story from Genesis 2-3 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of The Garden and the Fall for Kids?
 
 Welcome back, friend! Last time we watched God create the entire universe. Today? Things take a turn. This is the story of the most beautiful place that ever existed — and the day everything changed.

@@ -23,10 +23,6 @@ quizAvailable: true
 
 Shipwrecked is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Pauls Adventures Series
-
-This is one of 10 episodes in our Pauls Adventures series, covering adventure, perseverance, sharing faith, courage. [Browse the whole series](/blog/series/pauls-adventures) to watch them in order.
-
 ## What Is the Story of Shipwrecked for Kids?
 
 PAUL'S ADVENTURES — EPISODE 8: SHIPWRECKED! Based on Acts 27 Series: Paul's Adventures | Episode 8 of 10 Target audience: Kids ages 7-15

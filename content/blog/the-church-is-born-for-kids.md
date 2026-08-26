@@ -23,10 +23,6 @@ quizAvailable: true
 
 The Church is Born is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Early Church Series
-
-This is one of 10 episodes in our Early Church series, covering community, courage, sharing faith, miracles. [Browse the whole series](/blog/series/early-church) to watch them in order.
-
 ## What Is the Story of The Church is Born for Kids?
 
 THE EARLY CHURCH — EPISODE 1: THE CHURCH IS BORN Based on Acts 2:42-47 Series: The Early Church | Episode 1 of 5 Target audience: Kids ages 7-15

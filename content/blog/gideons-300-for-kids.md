@@ -21,10 +21,6 @@ quizAvailable: true
 
 Gideons 300 is a Bible story from Judges 7-8 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Judges and Ruth Series
-
-This is one of 10 episodes in our Judges and Ruth series, covering bravery, loyalty, faith, God's plan. [Browse the whole series](/blog/series/judges-and-ruth) to watch them in order.
-
 ## What Is the Story of Gideons 300 for Kids?
 
 Hey, welcome back! Last time we met Gideon — the scared guy hiding in a winepress who God called a mighty warrior. Well, today? Today is when things get absolutely WILD. Because Gideon is about to fight the biggest battle of his life with the most ridiculous battle plan you've ever heard.

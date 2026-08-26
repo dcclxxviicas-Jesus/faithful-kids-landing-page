@@ -23,10 +23,6 @@ quizAvailable: true
 
 The Woman at the Well is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Jesus Begins Ministry Series
-
-This is one of 10 episodes in our Jesus Begins Ministry series, covering calling, healing, compassion, faith. [Browse the whole series](/blog/series/jesus-begins-ministry) to watch them in order.
-
 ## What Is the Story of The Woman at the Well for Kids?
 
 JESUS BEGINS HIS MINISTRY — EPISODE 4 "The Woman at the Well" Based on John 4:1-42

@@ -21,10 +21,6 @@ quizAvailable: true
 
 Joseph and the Angel is a Bible story from Matthew 1:18-25 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Birth of Jesus Series
-
-This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
-
 ## What Is the Story of Joseph and the Angel for Kids?
 
 Welcome back! Last time I told you about my mom — how an angel appeared to Mary and she said yes to God's incredible plan. But today I need to tell you about someone else. Someone who doesn't always get the spotlight, but without him, my story wouldn't be the same. I'm talking about Joseph. My earthly dad.

@@ -21,10 +21,6 @@ quizAvailable: true
 
 Cain and Abel is a Bible story from Genesis 4 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of Cain and Abel for Kids?
 
 Hey, welcome back. I have to warn you — today's story is a heavy one. It's about the first two brothers who ever lived. And it shows us how dangerous jealousy can be if we let it take over.

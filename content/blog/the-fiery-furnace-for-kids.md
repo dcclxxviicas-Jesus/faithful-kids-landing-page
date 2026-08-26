@@ -23,10 +23,6 @@ quizAvailable: true
 
 The Fiery Furnace is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Exile and Faith Series
-
-This is one of 10 episodes in our Exile and Faith series, covering courage, faith under pressure, obedience, hope. [Browse the whole series](/blog/series/exile-and-faith) to watch them in order.
-
 ## What Is the Story of The Fiery Furnace for Kids?
 
 EXILE & FAITH — EPISODE 4: THE FIERY FURNACE Based on Daniel 3 | Narrated by Jesus

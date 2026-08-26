@@ -21,10 +21,6 @@ quizAvailable: true
 
 Running the Race is a Bible story from Romans/Corinthians/Ephesians in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Letters to Churches Series
-
-This is one of 10 episodes in our Letters to Churches series, covering love, faith, hope, character, spiritual growth. [Browse the whole series](/blog/series/letters-to-churches) to watch them in order.
-
 ## What Is the Story of Running the Race for Kids?
 
 LETTERS TO THE CHURCHES — EPISODE 7 "Running the Race" Based on Hebrews 12:1-3, 1 Corinthians 9:24-27 Jesus Narrates

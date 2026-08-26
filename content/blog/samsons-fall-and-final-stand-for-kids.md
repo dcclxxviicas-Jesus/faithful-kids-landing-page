@@ -21,10 +21,6 @@ quizAvailable: true
 
 Samsons Fall and Final Stand is a Bible story from Judges 16 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Judges and Ruth Series
-
-This is one of 10 episodes in our Judges and Ruth series, covering bravery, loyalty, faith, God's plan. [Browse the whole series](/blog/series/judges-and-ruth) to watch them in order.
-
 ## What Is the Story of Samsons Fall and Final Stand for Kids?
 
 Hey friend! Last time we met the strongest man who ever lived — Samson. Ripped apart a lion. Defeated armies single-handedly. Unstoppable. But today? Today you're going to see what happens when the strongest person in the room makes the weakest choices. This story is both heartbreaking and incredible. Let's go.

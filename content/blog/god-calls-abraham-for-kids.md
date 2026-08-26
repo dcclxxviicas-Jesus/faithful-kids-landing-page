@@ -21,10 +21,6 @@ quizAvailable: true
 
 God Calls Abraham is a Bible story from Genesis 12-15 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of God Calls Abraham for Kids?
 
 Hey friend! Welcome back. Today we meet someone who changes everything — a man named Abram, who God would later rename Abraham. And this story? It's about the moment God asked someone to trust Him with absolutely zero details.

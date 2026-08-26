@@ -21,10 +21,6 @@ quizAvailable: true
 
 Gideon the Unlikely Hero is a Bible story from Judges 6-7 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Judges and Ruth Series
-
-This is one of 10 episodes in our Judges and Ruth series, covering bravery, loyalty, faith, God's plan. [Browse the whole series](/blog/series/judges-and-ruth) to watch them in order.
-
 ## What Is the Story of Gideon the Unlikely Hero for Kids?
 
 Hey everyone! Okay, today's story is one of my absolute favorites because it's about a guy who was the LAST person you'd expect to become a hero. His name is Gideon, and when we first meet him, he's hiding. Like, literally hiding.

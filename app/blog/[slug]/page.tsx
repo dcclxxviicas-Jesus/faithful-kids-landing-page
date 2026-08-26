@@ -188,6 +188,7 @@ export default async function BlogPostPage({ params }: Props) {
 
   // Split content to inject mid-article CTA
   const contentParts = splitContentForCTA(post.content)
+  const secondParts = splitSecondForImage(contentParts.second)
 
   // Exit-intent popup: context-aware variant (drives which free printable
   // it offers). No video -- the popup's job is one low-friction ask.
@@ -361,7 +362,16 @@ const hasTriviaGame = triviaQuestions.length >= 10
           </div>
         )}
 
-        {/* Inline image 2 — before discussion/quiz section */}
+        {/* Second half, part A — text between the two illustrations so they
+            never stack directly on top of each other. */}
+        {secondParts.a && (
+          <div
+            className="blog-article-body"
+            dangerouslySetInnerHTML={{ __html: secondParts.a }}
+          />
+        )}
+
+        {/* Inline image 2 */}
         {contentParts.second && (
           <BlogImage
             src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-2.webp`}
@@ -377,7 +387,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
         {contentParts.second && (
           <div
             className="blog-article-body"
-            dangerouslySetInnerHTML={{ __html: contentParts.second }}
+            dangerouslySetInnerHTML={{ __html: secondParts.b || contentParts.second }}
           />
         )}
         {/* Email capture — magnet matched to page type */}
@@ -502,6 +512,23 @@ function getTriviaVideo(slug: string): { videoSrc: string; videoTitle: string } 
 /**
  * Split content roughly in half at a heading boundary to insert a CTA in the middle.
  */
+/**
+ * Split the second content half after its first <h2> section, so inline image 2
+ * can sit INSIDE it rather than immediately after image 1.
+ *
+ * Why: on story posts nothing renders between the two images (no trivia game,
+ * and the mid-article CTA is skipped), so they stacked back to back. Two
+ * illustrations with no text between them reads as a gallery, not an article.
+ */
+function splitSecondForImage(html: string): { a: string; b: string } {
+  const positions: number[] = []
+  const re = /<h2>/g
+  let m
+  while ((m = re.exec(html)) !== null) positions.push(m.index)
+  if (positions.length < 2) return { a: html, b: '' }
+  return { a: html.slice(0, positions[1]), b: html.slice(positions[1]) }
+}
+
 function splitContentForCTA(html: string): { first: string; second: string } {
   // Find all h2 positions
   const h2Positions: number[] = []

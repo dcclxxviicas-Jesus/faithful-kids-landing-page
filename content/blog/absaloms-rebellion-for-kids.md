@@ -23,10 +23,6 @@ quizAvailable: true
 
 Absaloms Rebellion is a Bible story from 2 Samuel/Psalms in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the King Davids Reign Series
-
-This is one of 10 episodes in our King Davids Reign series, covering worship, repentance, God's promises, honesty. [Browse the whole series](/blog/series/king-davids-reign) to watch them in order.
-
 ## What Is the Story of Absaloms Rebellion for Kids?
 
 KING DAVID'S REIGN — EPISODE 7: ABSALOM'S REBELLION Scripture: 2 Samuel 15-18

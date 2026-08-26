@@ -21,10 +21,6 @@ quizAvailable: true
 
 Joseph from Prison to Palace is a Bible story from Genesis 41-50 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of Joseph from Prison to Palace for Kids?
 
 Welcome back for the grand finale of our Genesis series! Last time, we left Joseph sitting in an Egyptian prison — betrayed by his brothers, falsely accused, and forgotten. But God was about to do something nobody saw coming.

@@ -23,10 +23,6 @@ quizAvailable: true
 
 Judah Falls to Babylon is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Exile and Faith Series
-
-This is one of 10 episodes in our Exile and Faith series, covering courage, faith under pressure, obedience, hope. [Browse the whole series](/blog/series/exile-and-faith) to watch them in order.
-
 ## What Is the Story of Judah Falls to Babylon for Kids?
 
 EXILE & FAITH — EPISODE 1: JUDAH FALLS TO BABYLON Based on 2 Kings 24–25 | Narrated by Jesus

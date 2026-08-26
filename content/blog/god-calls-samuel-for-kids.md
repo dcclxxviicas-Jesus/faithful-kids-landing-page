@@ -21,10 +21,6 @@ quizAvailable: true
 
 God Calls Samuel is a Bible story from 1 Samuel 3 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Judges and Ruth Series
-
-This is one of 10 episodes in our Judges and Ruth series, covering bravery, loyalty, faith, God's plan. [Browse the whole series](/blog/series/judges-and-ruth) to watch them in order.
-
 ## What Is the Story of God Calls Samuel for Kids?
 
 Hey friend! Welcome to the final episode of this series — and what a way to finish. This is the story of a boy, a dark room, a voice in the night, and a moment that changed everything. This is the story of God calling Samuel.

@@ -21,10 +21,6 @@ quizAvailable: true
 
 Jacob and Esau is a Bible story from Genesis 25-33 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of Jacob and Esau for Kids?
 
 Hey, welcome back! Today's story has it all — twin brothers, stolen blessings, a bowl of soup that changes history, and one of the greatest wrestling matches ever. Let's get into it.

@@ -21,10 +21,6 @@ quizAvailable: true
 
 I Am the Way is a Bible story from Hebrews/James/Revelation in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Ending and Beginning Series
-
-This is one of 10 episodes in our Ending and Beginning series, covering faith, hope, heaven, God's promises, eternity. [Browse the whole series](/blog/series/ending-and-beginning) to watch them in order.
-
 ## What Is the Story of I Am the Way for Kids?
 
 TITLE: I Am the Way SERIES: The Ending & the Beginning EPISODE: 7 SCRIPTURE: John 14:1-14

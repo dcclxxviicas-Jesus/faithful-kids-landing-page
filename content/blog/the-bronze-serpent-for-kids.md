@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Bronze Serpent is a Bible story from Numbers 21 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Promised Land Series
-
-This is one of 10 episodes in our Promised Land series, covering courage, trust, following God, new beginnings. [Browse the whole series](/blog/series/promised-land) to watch them in order.
-
 ## What Is the Story of The Bronze Serpent for Kids?
 
 Okay, today's story is one of the most important ones I'll ever tell you. And I mean that. Because this one? It's not just about something that happened in the desert. It's about Me. Personally. You'll see what I mean.

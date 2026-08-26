@@ -23,10 +23,6 @@ quizAvailable: true
 
 It is Finished is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Road to the Cross Series
-
-This is one of 10 episodes in our Road to the Cross series, covering sacrifice, love, courage, Easter. [Browse the whole series](/blog/series/road-to-the-cross) to watch them in order.
-
 ## What Is the Story of It is Finished for Kids?
 
 THE ROAD TO THE CROSS — Episode 9: It Is Finished Based on Matthew 27:45-56 and John 19:28-37 Series: The Road to the Cross | Target audience: Ages 7-15

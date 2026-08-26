@@ -23,10 +23,6 @@ quizAvailable: true
 
 Peter is Restored is a Bible story from Matthew/Luke/Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the He is Risen Series
-
-This is one of 10 episodes in our He is Risen series, covering resurrection, hope, faith, new life, Easter. [Browse the whole series](/blog/series/he-is-risen) to watch them in order.
-
 ## What Is the Story of Peter is Restored for Kids?
 
 HE IS RISEN — Episode 6: Peter Is Restored Based on John 21:15-19 Series: He Is Risen | Target Age: 7-15

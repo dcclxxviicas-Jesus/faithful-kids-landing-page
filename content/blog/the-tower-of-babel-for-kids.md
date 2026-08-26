@@ -21,10 +21,6 @@ quizAvailable: true
 
 The Tower of Babel is a Bible story from Genesis 11 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of The Tower of Babel for Kids?
 
 Hey! Welcome back. Today's story is short, but it packs a serious punch. It's about the time humanity tried to build their way to heaven — and what happened when pride got out of control.

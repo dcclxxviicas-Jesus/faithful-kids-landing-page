@@ -21,10 +21,6 @@ quizAvailable: true
 
 Joshua Takes Command is a Bible story from Joshua 1 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Promised Land Series
-
-This is one of 10 episodes in our Promised Land series, covering courage, trust, following God, new beginnings. [Browse the whole series](/blog/series/promised-land) to watch them in order.
-
 ## What Is the Story of Joshua Takes Command for Kids?
 
 Hey there, friend! Have you ever had to step up and do something that felt WAY too big for you? Maybe take over a project, lead a team, or just walk into a room where you didn't know a single person? Yeah. Multiply that feeling by about a million, and you'll understand what Joshua was going through.

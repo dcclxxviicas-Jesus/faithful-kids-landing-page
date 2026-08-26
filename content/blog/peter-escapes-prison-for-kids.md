@@ -21,10 +21,6 @@ quizAvailable: true
 
 Peter Escapes Prison is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Early Church Series
-
-This is one of 10 episodes in our Early Church series, covering community, courage, sharing faith, miracles. [Browse the whole series](/blog/series/early-church) to watch them in order.
-
 ## What Is the Story of Peter Escapes Prison for Kids?
 
 THE EARLY CHURCH — EPISODE 8: PETER ESCAPES PRISON Based on Acts 12:1-19 Series: The Early Church | Episode 8 of 10 Target audience: Kids ages 7-15

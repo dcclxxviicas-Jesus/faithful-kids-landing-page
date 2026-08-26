@@ -21,10 +21,6 @@ quizAvailable: true
 
 Joseph the Dreamer is a Bible story from Genesis 37-40 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Genesis Series
-
-This is one of 10 episodes in our Genesis series, covering creation, faith, family, God's promises. [Browse the whole series](/blog/series/genesis) to watch them in order.
-
 ## What Is the Story of Joseph the Dreamer for Kids?
 
 Hey friend! Alright — buckle up, because for these last two episodes, we're diving into one of the greatest stories in all of Genesis. It's got drama, betrayal, dreams, and one of the most jaw-dropping comebacks you'll ever hear. This is the story of Joseph.

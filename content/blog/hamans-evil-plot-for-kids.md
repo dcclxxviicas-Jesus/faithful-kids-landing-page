@@ -23,10 +23,6 @@ quizAvailable: true
 
 Hamans Evil Plot is a Bible story from Ezra/Nehemiah/Esther in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the The Return Home Series
-
-This is one of 10 episodes in our The Return Home series, covering rebuilding, courage, God's faithfulness, prayer. [Browse the whole series](/blog/series/the-return-home) to watch them in order.
-
 ## What Is the Story of Hamans Evil Plot for Kids?
 
 TITLE: Haman's Evil Plot SERIES: The Return Home — Episode 8 SCRIPTURE: Esther 3-5

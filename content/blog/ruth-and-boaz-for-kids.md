@@ -21,10 +21,6 @@ quizAvailable: true
 
 Ruth and Boaz is a Bible story from Ruth 3-4 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Judges and Ruth Series
-
-This is one of 10 episodes in our Judges and Ruth series, covering bravery, loyalty, faith, God's plan. [Browse the whole series](/blog/series/judges-and-ruth) to watch them in order.
-
 ## What Is the Story of Ruth and Boaz for Kids?
 
 Hey friend! Last time we left off with Ruth gleaning in the fields of a man named Boaz, and Boaz noticing something special about her. Today we get to see how this story ends — and trust me, the ending is WAY bigger than you think.

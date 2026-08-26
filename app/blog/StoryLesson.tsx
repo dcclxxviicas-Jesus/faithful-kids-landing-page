@@ -40,6 +40,21 @@ export interface StoryQuestion {
 const CORRECT_MESSAGES = ['Amazing!', 'Nailed it!', "You're on fire!", 'Bible Scholar!', 'Incredible!', 'Way to go!', 'Brilliant!']
 const WRONG_MESSAGES = ['Almost!', 'Good try!', 'Keep going!', 'So close!', "Don't give up!"]
 
+/**
+ * How long to hold on the answer before moving on, in seconds.
+ *
+ * Scaled to the length of the explanation rather than fixed, so a one-line
+ * answer snaps past and a long verse quote still gets read. A wrong answer gets
+ * a little more room because that explanation is the teaching moment — but the
+ * caps are deliberately tight, and tapping skips ahead instantly either way.
+ */
+function holdSeconds(correct: boolean, why: string) {
+  const words = why ? why.trim().split(/\s+/).length : 0
+  return correct
+    ? Math.min(1.0 + words * 0.04, 1.9)
+    : Math.min(1.6 + words * 0.05, 2.8)
+}
+
 function scoreTitle(score: number, total: number) {
   if (score === total) return { emoji: '🏆', title: 'Bible Master!' }
   if (score >= total - 1) return { emoji: '⭐', title: 'Wisdom Seeker!' }
@@ -120,10 +135,10 @@ export function StoryLesson({
       : WRONG_MESSAGES[Math.floor(Math.random() * WRONG_MESSAGES.length)])
     track('story_lesson_answer', { slug, index, correct: right })
 
-    // Auto-advance. A wrong answer gets longer, because the explanation is the
-    // teaching moment and rushing past it defeats the point.
-    const hold = right ? (q.why ? 3200 : 2000) : (q.why ? 4600 : 2600)
-    advanceRef.current = window.setTimeout(() => advance(newScore), hold)
+    advanceRef.current = window.setTimeout(
+      () => advance(newScore),
+      holdSeconds(right, q.why) * 1000,
+    )
   }
 
   // Clear any pending timer on unmount so it can't fire into a dead component.
@@ -172,14 +187,6 @@ export function StoryLesson({
           </button>
         )}
       </div>
-
-      {/* Framing line, not another button. The page already carries five /quiz
-          links; what it lacked was a reason to press play in the first place. */}
-      {!playing && (
-        <p className="sl-together">
-          <strong>Watch it with your kids.</strong> Press play, then see what they remember.
-        </p>
-      )}
 
       {/* The quiz button only appears once they are half way in. Before that it
           competed with the play button for the same attention. */}
@@ -237,7 +244,7 @@ export function StoryLesson({
                       jump never feels like a glitch. Tapping skips it. */}
                   <span
                     className="sl-timer"
-                    style={{ animationDuration: `${picked === q.correct ? (q.why ? 3.2 : 2) : (q.why ? 4.6 : 2.6)}s` }}
+                    style={{ animationDuration: `${holdSeconds(picked === q.correct, q.why)}s` }}
                   />
                 </div>
               )}
@@ -256,7 +263,7 @@ export function StoryLesson({
                 href="/quiz?ref=story-lesson"
                 onClick={() => track('story_lesson_cta_click', { slug, score, total })}
               >
-                Build my child&rsquo;s plan
+                Start your child&rsquo;s Bible journey
               </a>
               <p className="sl-cta-note">A few quick questions. No ads, cancel anytime.</p>
               <button className="sl-again" onClick={replay}>Try the quiz again</button>

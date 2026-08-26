@@ -21,10 +21,6 @@ quizAvailable: true
 
 A Baby in a Basket is a Bible story from Exodus 1-2 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## More from the Exodus Series
-
-This is one of 10 episodes in our Exodus series, covering freedom, courage, God's power, obedience. [Browse the whole series](/blog/series/exodus) to watch them in order.
-
 ## What Is the Story of A Baby in a Basket for Kids?
 
 Hey there! Welcome to an incredible adventure. I want to tell you a story about one of the bravest babies who ever lived. Yeah, you heard me right -- a brave BABY. His name? Moses. And his story starts in a really dark place.

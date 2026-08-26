@@ -13,7 +13,11 @@ const SHOW_AFTER_SCREENS = 0.6
 /**
  * Bottom CTA bar. It is the best-converting CTA on mobile blog pages, so it
  * stays -- but it no longer covers the article the instant you land, it is one
- * compact row on phones instead of two, and it can be dismissed for a day.
+ * compact row on phones instead of two.
+ *
+ * The dismiss button was removed on Aug 26: it drew 6 uses against 2 clicks,
+ * i.e. it was retiring the CTA faster than the CTA converted. Existing
+ * dismissals are still honoured so nobody who hid it gets it forced back.
  */
 export function BlogStickyCta({ postSlug }: { postSlug: string }) {
   const [visible, setVisible] = useState(false)
@@ -35,12 +39,6 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
 
   if (gone) return null
 
-  const dismiss = () => {
-    try { localStorage.setItem(DISMISS_KEY, String(Date.now())) } catch { /* private mode */ }
-    setGone(true)
-    try { posthog.capture('blog_sticky_dismissed', { post: postSlug }) } catch { /* never break the page */ }
-  }
-
   return (
     <div className={`blog-sticky-cta${visible ? '' : ' is-hidden'}`}>
       <div className="blog-sticky-inner">
@@ -57,7 +55,6 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
         >
           Try Free
         </a>
-        <button className="blog-sticky-close" onClick={dismiss} aria-label="Hide this bar">&times;</button>
       </div>
     </div>
   )

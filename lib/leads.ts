@@ -14,7 +14,7 @@ export const SITE_URL = 'https://faithfulkids.app'
 export interface Lead {
   id: string
   email: string
-  magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit'
+  magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit' | 'coloring-pages'
   source: string
   source_post: string | null
   quiz_answers: Record<string, string> | null

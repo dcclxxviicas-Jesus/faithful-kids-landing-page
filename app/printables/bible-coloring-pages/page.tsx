@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
+import { EmailCaptureCard } from '../../blog/EmailCaptureCard'
 
 /**
  * Free printable Bible coloring pages.
@@ -130,6 +131,20 @@ export default function BibleColoringPages() {
           </figure>
         ))}
       </div>
+
+      {/* Email capture for the BUNDLE, not the pages.
+          The pages themselves stay free and crawlable -- gating them would
+          destroy the only reason this page exists (5,400/mo at KD 5, and
+          Google cannot index what it cannot fetch). The PDF is the upgrade:
+          the Sunday school teacher who wants all 16 in one file is the
+          higher-intent visitor, and that is worth an address. */}
+      <section className="cp-capture no-print">
+        <EmailCaptureCard
+          magnet="coloring-pages"
+          source="blog-inline"
+          sourcePost="bible-coloring-pages"
+        />
+      </section>
 
       <section className="cp-outro no-print">
         <h2>How to use Bible coloring pages that actually teach something</h2>

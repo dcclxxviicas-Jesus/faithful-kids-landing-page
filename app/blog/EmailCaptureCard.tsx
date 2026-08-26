@@ -12,7 +12,7 @@ export function EmailCaptureCard({
   subtitle,
   compact = false,
 }: {
-  magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit'
+  magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit' | 'coloring-pages'
   source: 'blog-inline' | 'blog-exit' | 'quiz-exit'
   sourcePost: string
   quizAnswers?: Record<string, string>
@@ -25,6 +25,11 @@ export function EmailCaptureCard({
   const [state, setState] = useState<'idle' | 'sending' | 'done' | 'error'>('idle')
 
   const COPY = {
+    'coloring-pages': {
+      heading: '🖍️ Free: All 16 Bible Coloring Pages',
+      sub: 'One PDF, Creation to the Empty Tomb — print the whole set at once instead of page by page.',
+      name: 'Bible Coloring Pack',
+    },
     'trivia-pack': {
       heading: '🎯 Free: The Family Bible Trivia Pack',
       sub: '100 printable questions for game night, car rides, and Sunday school — answers included.',

@@ -18,6 +18,12 @@ const MAGNET_INFO = {
     url: `${SITE_URL}/printables/30-day-challenge`,
     line: 'One story a night — read it together, talk about it, check it off.',
   },
+  'coloring-pages': {
+    name: 'The Bible Coloring Pages Pack',
+    shortName: 'Bible Coloring Pack',
+    url: 'https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/faithful-kids-bible-coloring-pages.pdf',
+    line: 'All 16 pages in one PDF — Creation to the Empty Tomb, ready to print.',
+  },
   'trivia-pack': {
     name: 'The Family Bible Trivia Pack',
     shortName: 'Bible Trivia Pack',

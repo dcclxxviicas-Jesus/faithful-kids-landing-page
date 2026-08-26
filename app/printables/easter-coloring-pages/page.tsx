@@ -57,7 +57,7 @@ export default function Page() {
       <section className="blog-hero no-print">
         <span className="section-label">Free · No Sign-Up</span>
         <h1>Religious Easter Coloring Pages</h1>
-        <p className="blog-hero-sub">Five pages walking Holy Week from Palm Sunday to the road to Emmaus. Free to print, no email, no sign-up.</p>
+        <p className="blog-hero-sub">Six pages walking Holy Week from Palm Sunday to the road to Emmaus. Free to print, no email, no sign-up.</p>
         <div style={{ marginTop: 18 }}><PrintButton /></div>
       </section>
 
@@ -92,7 +92,7 @@ export default function Page() {
       <section className="cp-outro no-print">
         <h2>Which page for which day</h2>
         <p>
-          Taken in order these five pages cover Holy Week: Palm Sunday for the entry into
+          Taken in order these six pages cover Holy Week: Palm Sunday for the entry into
           Jerusalem, the Last Supper for Thursday, the cross for Friday, resurrection morning for
           Sunday, and the road to Emmaus for the week after. One page a day gives a child the shape
           of the week without a worksheet or a lesson plan.

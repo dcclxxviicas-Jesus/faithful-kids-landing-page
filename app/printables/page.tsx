@@ -22,7 +22,7 @@ const PACKS = [
     emoji: '\u271D\uFE0F',
     title: 'Easter & Holy Week Coloring Pages',
     description:
-      'Five pages walking Holy Week from Palm Sunday to the road to Emmaus. The cross page shows the empty cross rather than the crucifixion, so it works with younger children too.',
+      'Six pages walking Holy Week from Palm Sunday to the road to Emmaus. The cross page shows the empty cross rather than the crucifixion, so it works with younger children too.',
     details: 'One a day, Sunday to Sunday · No email, no sign-up',
   },
   {

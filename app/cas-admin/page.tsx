@@ -92,6 +92,17 @@ export default function CasAdmin() {
       setData(await res.json())
       setAuthed(true)
       localStorage.setItem('casAdminPw', password)
+      // Anyone who can open this dashboard is us, not a visitor. Register a
+      // PostHog super-property so every future event from this browser is
+      // flagged and can be filtered out of the numbers. Survives navigation
+      // and IP changes, which matters because our IPs rotate on mobile.
+      try {
+        const ph = (window as unknown as { posthog?: { register?: (p: Record<string, unknown>) => void } }).posthog
+        ph?.register?.({ internal: true })
+        localStorage.setItem('fk_internal', '1')
+      } catch {
+        // never let analytics tagging break the dashboard
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to load')
     } finally { setLoading(false) }

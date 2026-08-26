@@ -108,9 +108,28 @@ async function hogql(query: string): Promise<unknown[][]> {
   return json.results || []
 }
 
+// Exclude only traffic we can be certain is ours. Deliberately narrow:
+// a page-count threshold would discard genuinely engaged readers, and the
+// interlinking work exists to push pages-per-session UP, so filtering on it
+// would hide the very improvement we are measuring. Likewise /privacy and
+// /terms are exactly what a careful parent checks before subscribing.
+const INTERNAL_PAGES = "('/cas-admin','/admin-dashboard')"
+
 async function collectTraffic(startUTC: Date, endUTC: Date) {
-  // The admin dashboard itself is tracked by PostHog — exclude it everywhere
-  const W = `timestamp >= toDateTime('${chSql(startUTC)}') AND timestamp < toDateTime('${chSql(endUTC)}') AND coalesce(properties.$pathname, '') != '/cas-admin'`
+  const window = `timestamp >= toDateTime('${chSql(startUTC)}') AND timestamp < toDateTime('${chSql(endUTC)}')`
+
+  // A session is ours if it carries the internal flag (set when the admin
+  // dashboard is opened) or if it visited an admin page at all.
+  const ourSessions = `
+    SELECT $session_id FROM events
+    WHERE ${window} AND $session_id IS NOT NULL
+    GROUP BY $session_id
+    HAVING countIf(properties.$pathname IN ${INTERNAL_PAGES}) > 0
+        OR countIf(properties.internal = true) > 0`
+
+  const W = `${window}
+    AND coalesce(properties.internal, false) != true
+    AND ($session_id IS NULL OR $session_id NOT IN (${ourSessions}))`
 
   const [summary] = await hogql(`
     SELECT

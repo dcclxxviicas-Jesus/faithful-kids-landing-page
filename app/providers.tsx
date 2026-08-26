@@ -16,6 +16,14 @@ if (typeof window !== 'undefined' && !posthog.__loaded) {
       capture_pageview: true,
       capture_pageleave: true,
     })
+    // Re-apply the internal flag on every load: super-properties live in
+    // PostHog's own storage, which a cache clear or a different profile can
+    // drop while our marker survives.
+    try {
+      if (localStorage.getItem('fk_internal') === '1') posthog.register({ internal: true })
+    } catch {
+      // ignore
+    }
   }
 }
 

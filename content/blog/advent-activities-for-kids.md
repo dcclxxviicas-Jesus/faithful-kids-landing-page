@@ -105,6 +105,8 @@ Anchor one weekly non-negotiable (the Sunday candle), default to five-minute act
 
 Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten questions at a time, right in the browser.
 
+We have 16 [Bible coloring pages to print](/printables/bible-coloring-pages) covering the stories most children meet first.
+
 ## Frequently Asked Questions
 
 ### What is a simple advent activity we can start tonight?

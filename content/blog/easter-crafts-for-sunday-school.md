@@ -182,6 +182,8 @@ For the week after Easter, when the crafts are done and the room is still full, 
 
 The same questions live in our [Bible trivia game](/bible-trivia) if you would rather tap than print.
 
+Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
+
 ## Frequently Asked Questions
 
 ### What is the easiest Easter craft for a Sunday school class?

@@ -146,6 +146,17 @@ export default function BibleColoringPages() {
         />
       </section>
 
+      <section className="cp-seasons no-print">
+        <a href="/printables/christmas-coloring-pages">
+          <strong>Christmas &amp; Nativity</strong>
+          <span>6 pages — the angel, Bethlehem, the shepherds, the wise men</span>
+        </a>
+        <a href="/printables/easter-coloring-pages">
+          <strong>Easter &amp; Holy Week</strong>
+          <span>5 pages — Palm Sunday through resurrection morning</span>
+        </a>
+      </section>
+
       <section className="cp-outro no-print">
         <h2>How to use Bible coloring pages that actually teach something</h2>
         <p>

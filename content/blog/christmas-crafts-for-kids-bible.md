@@ -189,6 +189,8 @@ Mixed ages? Pick one craft and give each kid a different job -- preschoolers glu
 
 We keep a running collection of year-round ideas in our guide to [Bible crafts for kids with lessons](/blog/bible-crafts-for-kids-with-lessons) if you want this same approach beyond December. And if craft time works well in your house, the same pairing works with video: our lessons at [Faithful Kids](https://faithfulkids.app/quiz) match each Bible story with a short video and quiz, which makes a nice wind-down after the glitter is swept up.
 
+There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
+
 ## Frequently Asked Questions
 
 ### What is the easiest nativity craft for toddlers?

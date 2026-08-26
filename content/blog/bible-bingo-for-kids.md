@@ -123,6 +123,8 @@ Also, mind the competitiveness. With kids under 6, consider playing until everyo
 
 If bingo becomes a favorite, rotate it with other paper-and-pencil classics -- [Bible word searches](/blog/bible-word-search-for-kids) use the same word lists you've already made, and our collection of [Sunday school games](/blog/sunday-school-games-for-kids) has a dozen more zero-budget options.
 
+You can print any of our [free Bible coloring pages](/printables/bible-coloring-pages) without giving an email address.
+
 ## Frequently Asked Questions
 
 ### What ages is Bible bingo good for?

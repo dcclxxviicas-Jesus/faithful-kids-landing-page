@@ -239,6 +239,8 @@ For the same crafts with a full teaching script attached, see [Bible crafts for 
 
 Our free [Bible Trivia Pack](/printables/bible-trivia-pack) is the easiest backstop for the child who finishes in four minutes: 100 questions in easy, medium, and hard rounds with every answer's Scripture reference. Read the easy round aloud to preschoolers as a picture-free guessing game while the rest of the table catches up, and save the harder rounds for their older siblings.
 
+Short on prep time? Our [Bible coloring pages](/printables/bible-coloring-pages) are one click from the page to the printer.
+
 ## Frequently Asked Questions
 
 ### What Bible crafts work best for 3-year-olds?

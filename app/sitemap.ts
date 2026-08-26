@@ -63,6 +63,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.9,
     },
+    {
+      // "religious easter coloring pages" 1,900/mo KD 0
+      url: `${baseUrl}/printables/easter-coloring-pages`,
+      lastModified: new Date('2026-08-26'),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
+    {
+      // "nativity coloring pages" 1,632/mo KD 0
+      url: `${baseUrl}/printables/christmas-coloring-pages`,
+      lastModified: new Date('2026-08-26'),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
     ...COLORING_PAGES.map(c => ({
       url: `${baseUrl}/printables/bible-coloring-pages/${c.slug}`,
       lastModified: new Date('2026-08-26'),

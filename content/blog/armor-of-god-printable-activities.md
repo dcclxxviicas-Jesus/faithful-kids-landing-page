@@ -96,6 +96,8 @@ Ages 4-12 can all engage with the armor of God, but aim the lesson differently b
 
 For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
 
+There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
+
 ## Frequently Asked Questions
 
 ### What are the 6 pieces of the armor of God in order?

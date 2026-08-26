@@ -166,6 +166,8 @@ If you print one thing tonight, print the Bedtime Bible Kit. A books-of-the-Bibl
 
 For more coloring ideas beyond the book symbols, our story-by-story guide to [Bible coloring pages for kids](/blog/bible-coloring-pages-for-kids) covers 20 scene themes, and the full [free Bible printables for kids](/blog/free-bible-printables-for-kids) roundup sorts every printable type by age and job. Families using Faithful Kids often watch a story on video, then color that book's symbol the same week -- the video carries the narrative, the square anchors where it lives.
 
+We have 16 [Bible coloring pages to print](/printables/bible-coloring-pages) covering the stories most children meet first.
+
 ## Frequently Asked Questions
 
 ### What are the eight sections of the Bible for kids?

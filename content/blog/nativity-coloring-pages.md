@@ -142,6 +142,8 @@ December nights are the hardest bedtimes of the year, which is exactly why the B
 
 For coloring beyond Christmas, our story-by-story guide to [Bible coloring pages for kids](/blog/bible-coloring-pages-for-kids) covers 20 scene themes across both testaments, and [free Bible printables for kids](/blog/free-bible-printables-for-kids) sorts every printable type by age and job. Plenty of families watch the Christmas story on Faithful Kids first and then color it, which gives kids a vivid mental picture to work from and makes the finished pages noticeably more detailed.
 
+There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
+
 ## Frequently Asked Questions
 
 ### What scenes should a nativity coloring set include?

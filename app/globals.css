@@ -2668,3 +2668,19 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   .tg-card { padding: 24px 18px; }
   .tg-question { font-size: 1.05rem; }
 }
+
+/* Season shortcuts on the coloring hub */
+.cp-seasons {
+  max-width: 720px; margin: 34px auto 0; padding: 0 24px;
+  display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;
+}
+.cp-seasons a {
+  display: block; padding: 18px 20px;
+  background: var(--white); border: 1px solid var(--border);
+  border-radius: var(--radius-lg); text-decoration: none;
+  transition: border-color .15s ease, transform .15s ease;
+}
+.cp-seasons a:hover { border-color: var(--primary); transform: translateY(-2px); }
+.cp-seasons strong { display: block; font-size: 1.02rem; color: var(--primary-dark); margin-bottom: 4px; }
+.cp-seasons span { font-size: .85rem; color: var(--text-secondary); line-height: 1.5; }
+@media (max-width: 768px) { .cp-seasons { grid-template-columns: 1fr; } }

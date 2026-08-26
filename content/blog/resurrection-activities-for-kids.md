@@ -165,6 +165,8 @@ The nights when nobody has energy for a craft still count. Our free [Bedtime Bib
 
 Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads.
 
+If you want the pages ready-made, our [Bible coloring pages](/printables/bible-coloring-pages) cover 16 stories and print straight from the browser.
+
 ## Frequently Asked Questions
 
 ### What goes in resurrection eggs?

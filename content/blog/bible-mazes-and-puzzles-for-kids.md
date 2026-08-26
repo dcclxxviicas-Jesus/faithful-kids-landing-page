@@ -121,6 +121,8 @@ Practically, puzzles fill the gaps other activities can't: the 15 minutes before
 
 One more tip: let kids make puzzles for *you*. A child who encodes a verse into a number cipher for Dad to solve has processed that verse far more deeply than one who merely decoded it. Puzzle-making is the advanced class disguised as a game.
 
+We drew a set of [free Bible coloring pages](/printables/bible-coloring-pages) to go with these — 16 scenes from Creation to the empty tomb, no email needed.
+
 ## Frequently Asked Questions
 
 ### What age are Bible mazes and puzzles good for?

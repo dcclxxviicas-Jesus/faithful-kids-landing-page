@@ -209,6 +209,8 @@ Ages 6-7 is the sweet spot to start, though preschoolers can learn sections thro
 
 Don't rush a reluctant 5-year-old, and don't assume a motivated 6-year-old can't do it -- some first graders learn the whole list in a month because a sibling is doing it.
 
+For something to hand over right now, there are 16 [printable Bible coloring pages](/printables/bible-coloring-pages) on our site — free, no sign-up.
+
 ## Frequently Asked Questions
 
 ### How many books are in the Bible?

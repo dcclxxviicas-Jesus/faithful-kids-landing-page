@@ -114,6 +114,8 @@ For 20 more kid-tested verses already formatted for cutting, plus card-stock and
 
 For the wider world of printables beyond verse art -- coloring pages, word searches, bingo, reading charts -- see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). If you are choosing verses for a young child to memorize rather than to hang, our lists of [short Bible verses for kids](/blog/short-bible-verses-for-kids) and [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) are sorted by length and reading level, and [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids) covers the nightstand category in more depth.
 
+Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
+
 ## Frequently Asked Questions
 
 ### What Bible verses work best as printable wall art?

@@ -129,6 +129,8 @@ If you're going to print one thing off this page tonight, make it the Bedtime Bi
 
 For the wider menu of what to color, our story-by-story guide to [Bible coloring pages for kids](/blog/bible-coloring-pages-for-kids) covers 20 scene themes from creation to the empty tomb, and the full [free Bible printables for kids](/blog/free-bible-printables-for-kids) roundup sorts every printable type by age and use. Families who watch a story on Faithful Kids first and then color its verse tend to get the most out of both. If you want verses grouped by need rather than by page design, our lists of [Bible verses about courage for kids](/blog/bible-verses-about-courage-for-kids) and [Bible verses about love for kids](/blog/bible-verses-about-love-for-kids) go deeper on two of the themes above.
 
+We drew a set of [free Bible coloring pages](/printables/bible-coloring-pages) to go with these — 16 scenes from Creation to the empty tomb, no email needed.
+
 ## Frequently Asked Questions
 
 ### What are Bible verse coloring pages?

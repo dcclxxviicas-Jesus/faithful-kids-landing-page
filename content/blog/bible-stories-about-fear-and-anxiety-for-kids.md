@@ -128,7 +128,7 @@ Here are eight Bible stories that teach children a simple, life-changing truth: 
 
 ## Watch on Faithful Kids
 
-All eight of these stories are available as short video lessons on Faithful Kids, complete with comprehension quizzes and guided reflections. Your child can watch [David and Goliath](/blog/david-and-goliath-for-kids), [Daniel in the Lions' Den](/blog/daniel-in-the-lions-den-for-kids), [Jesus Calms the Storm](/blog/jesus-calms-the-storm-for-kids), and more at their own pace.
+All eight of these stories are available as short video lessons on Faithful Kids, complete with comprehension quizzes and guided reflections. Your child can watch [David and Goliath](/blog/david-and-goliath-for-kids), [Daniel in the Lions' Den](/blog/daniel-in-the-lions-den-for-kids), [Jesus Calms the Storm](/blog/calming-the-storm-for-kids), and more at their own pace.
 
 [Start Your Free Trial](https://faithfulkids.app/quiz)
 

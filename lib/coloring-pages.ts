@@ -28,6 +28,7 @@ export type ColoringPage = {
   scripture: string
   ages: string
   blurb: string
+  season?: 'easter' | 'christmas'
   story?: string   // matching blog post slug
 }
 
@@ -160,6 +161,102 @@ export const COLORING_PAGES: ColoringPage[] = [
     ages: 'Ages 4+',
     blurb: 'The stone rolled away, the tomb open, sunrise behind it. The Easter page for families who want the resurrection rather than the rabbits, and it works for church, home or a class.',
     story: 'the-empty-tomb-for-kids',
+  },
+  // --- Christmas set. "nativity coloring pages" 1,632/mo KD 0,
+  //     "christian christmas coloring pages" 880/mo KD 0, "advent" 880/mo KD 0
+  {
+    slug: 'angel-visits-mary',
+    title: 'An Angel Visits Mary',
+    keyword: 'angel gabriel coloring page',
+    scripture: 'Luke 1:26-38',
+    ages: 'Ages 4+',
+    season: 'christmas',
+    blurb: 'Gabriel speaking to Mary in a plain room with light coming through the window. The quietest page in the Christmas set, and the one that starts the whole story — worth printing first if you are working through Advent in order.',
+    story: 'an-angel-visits-mary-for-kids',
+  },
+  {
+    slug: 'journey-to-bethlehem',
+    title: 'The Journey to Bethlehem',
+    keyword: 'journey to bethlehem coloring page',
+    scripture: 'Luke 2:1-5',
+    ages: 'Ages 4+',
+    season: 'christmas',
+    blurb: 'Joseph leading the donkey with Mary along a night road, one large star ahead and the town in the distance. Children rarely picture how far they walked until they color the road.',
+  },
+  {
+    slug: 'nativity-scene',
+    title: 'The Nativity Scene',
+    keyword: 'nativity scene coloring page',
+    scripture: 'Luke 2:6-20',
+    ages: 'Ages 3+',
+    season: 'christmas',
+    blurb: 'The full stable — manger, Mary and Joseph, shepherds kneeling, the ox and sheep, and the star above. The one page that holds the whole Christmas story, and the best choice for a class where everyone colors the same sheet.',
+  },
+  {
+    slug: 'shepherds-and-angels',
+    title: 'The Shepherds and the Angels',
+    keyword: 'shepherds coloring page',
+    scripture: 'Luke 2:8-14',
+    ages: 'Ages 4+',
+    season: 'christmas',
+    blurb: 'Shepherds on the hillside looking up at angels in the night sky. The moment the news went to the least important people in the story first, which is worth saying out loud while they color it.',
+    story: 'the-shepherds-for-kids',
+  },
+  {
+    slug: 'wise-men-star',
+    title: 'The Wise Men Follow the Star',
+    keyword: 'wise men coloring page',
+    scripture: 'Matthew 2:1-12',
+    ages: 'Ages 4+',
+    season: 'christmas',
+    blurb: 'Three travelers on camels crossing the desert under one very large star, carrying gifts. Good for the end of Advent, since they arrived long after the night everyone pictures.',
+  },
+  // --- Easter set. "religious easter coloring pages" 1,900/mo KD 0,
+  //     "palm sunday coloring page" 1,300/mo KD 0
+  {
+    slug: 'palm-sunday',
+    title: 'Palm Sunday',
+    keyword: 'palm sunday coloring page',
+    scripture: 'Matthew 21:1-11',
+    ages: 'Ages 4+',
+    season: 'easter',
+    blurb: 'Jesus riding a donkey through the city gate while children wave palm branches and lay cloaks on the road. The page most Sunday schools need one week a year, and it is the happiest scene in Holy Week.',
+  },
+  {
+    slug: 'the-last-supper',
+    title: 'The Last Supper',
+    keyword: 'last supper coloring page',
+    scripture: 'Luke 22:14-20',
+    ages: 'Ages 5+',
+    season: 'easter',
+    blurb: 'A long table with bread and a cup, friends seated on both sides. Drawn simply rather than as the famous painting, so a child sees a meal among friends instead of a work of art.',
+  },
+  {
+    slug: 'the-cross',
+    title: 'The Cross',
+    keyword: 'cross coloring page',
+    scripture: 'Luke 23',
+    ages: 'Ages 5+',
+    season: 'easter',
+    blurb: 'An empty cross on a hill with a folded cloth over one arm and light behind it. Deliberately gentle — the cross without the crucifixion, so it can be used with younger children whose parents are not ready for the rest.',
+  },
+  {
+    slug: 'resurrection-morning',
+    title: 'Resurrection Morning',
+    keyword: 'resurrection coloring page',
+    scripture: 'Matthew 28:1-10',
+    ages: 'Ages 4+',
+    season: 'easter',
+    blurb: 'Two women arriving at the open tomb at sunrise with an angel seated on the stone. The page that carries Easter morning, and the one to pair with the empty tomb sheet.',
+  },
+  {
+    slug: 'road-to-emmaus',
+    title: 'The Road to Emmaus',
+    keyword: 'road to emmaus coloring page',
+    scripture: 'Luke 24:13-35',
+    ages: 'Ages 6+',
+    season: 'easter',
+    blurb: 'Three travelers walking a country road at dusk, one of them talking. The story where nobody recognises him until supper, which older children find genuinely interesting once they notice it.',
   },
   {
     slug: 'armor-of-god',

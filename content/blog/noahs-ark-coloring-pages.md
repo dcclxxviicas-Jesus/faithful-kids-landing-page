@@ -120,6 +120,8 @@ If you only print one thing from this page, print the Bedtime Bible Kit. An ark 
 
 For coloring beyond the flood, our story-by-story guide to [Bible coloring pages for kids](/blog/bible-coloring-pages-for-kids) covers 20 scene themes across both testaments, and [free Bible printables for kids](/blog/free-bible-printables-for-kids) sorts every printable type by age and use. Families using Faithful Kids often watch the flood story on video first, then color it -- the video supplies the mental picture, and the finished pages come out noticeably more detailed.
 
+Short on prep time? Our [Bible coloring pages](/printables/bible-coloring-pages) are one click from the page to the printer.
+
 ## Frequently Asked Questions
 
 ### What age are Noah's ark coloring pages best for?

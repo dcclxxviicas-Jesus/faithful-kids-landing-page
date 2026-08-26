@@ -265,6 +265,8 @@ Love hands-on Bible learning? Faithful Kids pairs animated video Bible lessons w
 
 [Start your free trial at faithfulkids.app/quiz](https://faithfulkids.app/quiz)
 
+You can print any of our [free Bible coloring pages](/printables/bible-coloring-pages) without giving an email address.
+
 ## Frequently Asked Questions
 
 ### What age are these Bible crafts designed for?

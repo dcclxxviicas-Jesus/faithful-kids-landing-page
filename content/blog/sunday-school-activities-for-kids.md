@@ -136,6 +136,8 @@ A well-stocked Sunday school cabinet needs only about $30 of basics: constructio
 
 You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
 
+There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
+
 ## Frequently Asked Questions
 
 ### What are good Sunday school activities for mixed ages?

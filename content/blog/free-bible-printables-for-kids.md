@@ -97,6 +97,8 @@ A few practical notes from a family that's printed hundreds of these:
 
 Printables also pair naturally with screen-based learning instead of competing with it. In our house, the kids watch a story on [Faithful Kids](https://faithfulkids.app/quiz), then do the matching coloring page or word search after -- the video carries the story, the paper makes it stick. And for a bigger menu of off-screen ideas to rotate through, our list of [Bible activities for kids at home](/blog/bible-activities-for-kids-at-home) goes well beyond paper.
 
+Short on prep time? Our [Bible coloring pages](/printables/bible-coloring-pages) are one click from the page to the printer.
+
 ## Frequently Asked Questions
 
 ### Where can I find genuinely free Bible printables?

@@ -113,6 +113,8 @@ One more tip: openers work even better when they connect to what kids are learni
 
 When you want zero setup, our [online Bible trivia for kids](/bible-trivia) is one tap and always ready to go.
 
+Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
+
 ## Frequently Asked Questions
 
 ### How long should Sunday school opening activities last?

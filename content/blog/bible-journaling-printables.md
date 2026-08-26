@@ -106,6 +106,8 @@ In our house, journaling works best right after a story rather than cold: the ki
 
 For where journaling fits in the larger printable ecosystem, see our full roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). If memorization is your goal rather than reflection, [printable Bible memory verse cards](/blog/bible-memory-verse-cards-printable) are the better tool, and the approaches in [Bible memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) pair naturally with a verse map. Families building the habit from zero should start with [how to start family Bible time](/blog/how-to-start-family-bible-time).
 
+If you want the pages ready-made, our [Bible coloring pages](/printables/bible-coloring-pages) cover 16 stories and print straight from the browser.
+
 ## Frequently Asked Questions
 
 ### Where can I find genuinely free Bible journaling printables?

@@ -118,6 +118,8 @@ You do not use all five at once. A realistic week for a family with elementary-a
 
 That is roughly fifteen minutes a day, most of it attached to meals you were already eating. Start with two of the five -- the reading chart and the discussion cards are the highest-return pair -- and add the others only once those two run without reminders.
 
+Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
+
 ## Frequently Asked Questions
 
 ### Where can I find free Bible study printables?

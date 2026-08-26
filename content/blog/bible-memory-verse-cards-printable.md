@@ -160,6 +160,8 @@ If your child hits a wall on a longer verse, the fix is usually method, not moti
 
 For more printable formats beyond cards -- coloring pages, word searches, challenge charts -- see our full roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids).
 
+There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
+
 ## Frequently Asked Questions
 
 ### How many verses should a child memorize at once?

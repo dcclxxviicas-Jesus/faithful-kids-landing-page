@@ -23,13 +23,9 @@ quizAvailable: true
 
 Daniels Resolve is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Daniels Resolve
+## More from the Exile and Faith Series
 
-Watch Daniels Resolve in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Daniels Resolve" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Exile and Faith series, 10 episodes covering courage, faith under pressure, obedience, hope.*
+This is one of 10 episodes in our Exile and Faith series, covering courage, faith under pressure, obedience, hope. [Browse the whole series](/blog/series/exile-and-faith) to watch them in order.
 
 ## What Is the Story of Daniels Resolve for Kids?
 
@@ -130,11 +126,11 @@ Daniels Resolve is found in Daniel/Jonah/Isaiah in the Old Testament. It is part
 
 ### Is there a video of Daniels Resolve for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Daniels Resolve designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Daniels Resolve designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Daniels Resolve for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Daniels Resolve teach kids?
 

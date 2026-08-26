@@ -93,7 +93,7 @@ A quick note on scheduling: December usually gives you four Sundays before Chris
 - The angel said the news was "for all the people." Who does that include?
 - The shepherds couldn't keep the news to themselves. Who could you tell about Jesus?
 
-**Activity: Newsflash broadcast.** Kids work in teams to perform a 60-second "Bethlehem News" TV report about the birth of Jesus -- one anchor, one field reporter, one shepherd eyewitness. Give them 8 minutes to prepare, then perform for the class. Younger option: angel ornaments from paper doilies (body), cupcake liners (wings), and a wooden bead (head), while practicing the angel's announcement.
+**Activity: Newsflash broadcast.** Kids work in teams to perform a short "Bethlehem News" TV report about the birth of Jesus -- one anchor, one field reporter, one shepherd eyewitness. Give them 8 minutes to prepare, then perform for the class. Younger option: angel ornaments from paper doilies (body), cupcake liners (wings), and a wooden bead (head), while practicing the angel's announcement.
 
 **Memory verse:** "Glory to God in the highest heaven, and on earth peace to those on whom his favor rests" (Luke 2:14). Sing it -- several classic carols quote it nearly word for word.
 
@@ -190,7 +190,7 @@ A quick note on scheduling: December usually gives you four Sundays before Chris
 
 ## What If Kids Miss a Week?
 
-Build a 60-second recap into the start of every lesson -- each lesson also stands alone, so a kid who misses week two still understands week three. A recap poster helps: add one symbol per week (scroll, angel, donkey, shepherd, star, gift) and let kids retell the story-so-far from the symbols.
+Build a short recap into the start of every lesson -- each lesson also stands alone, so a kid who misses week two still understands week three. A recap poster helps: add one symbol per week (scroll, angel, donkey, shepherd, star, gift) and let kids retell the story-so-far from the symbols.
 
 For reinforcement between Sundays, send parents a link for home follow-up: our library of [Christmas Bible stories for kids](/blog/christmas-bible-stories-for-kids) matches these lessons story-for-story, and the video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each nativity story with a quiz kids can do in five minutes on a weeknight.
 

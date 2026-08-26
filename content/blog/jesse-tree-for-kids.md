@@ -80,7 +80,7 @@ A hybrid works too: buy or print a finished set this year and let kids make repl
 Attach the reading to an anchor you already have -- dinner or bedtime -- and keep it under ten minutes. The nightly liturgy:
 
 1. **Find the day's ornament** (kids' job).
-2. **Read the passage** -- children's Bible for under-8s, real text for older kids, or a parent's 60-second retelling on chaotic nights.
+2. **Read the passage** -- children's Bible for under-8s, real text for older kids, or a parent's short retelling on chaotic nights.
 3. **Ask one question:** "What did God promise or do in this story?" That single question, asked 25 nights in a row, teaches kids to read the whole Bible as one story.
 4. **Hang the ornament** and, if you like, light a candle or sing a verse of "O Come, O Come, Emmanuel" -- the carol is literally a Jesse Tree in song ("O come, thou Rod of Jesse").
 

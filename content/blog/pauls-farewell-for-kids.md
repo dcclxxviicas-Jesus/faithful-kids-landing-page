@@ -23,13 +23,9 @@ quizAvailable: true
 
 Pauls Farewell is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Pauls Farewell
+## More from the Pauls Adventures Series
 
-Watch Pauls Farewell in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Pauls Farewell" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Pauls Adventures series, 10 episodes covering adventure, perseverance, sharing faith, courage.*
+This is one of 10 episodes in our Pauls Adventures series, covering adventure, perseverance, sharing faith, courage. [Browse the whole series](/blog/series/pauls-adventures) to watch them in order.
 
 ## What Is the Story of Pauls Farewell for Kids?
 
@@ -134,11 +130,11 @@ Pauls Farewell is found in Acts in the New Testament. It is part of the Pauls Ad
 
 ### Is there a video of Pauls Farewell for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Pauls Farewell designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Pauls Farewell designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Pauls Farewell for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Pauls Farewell teach kids?
 

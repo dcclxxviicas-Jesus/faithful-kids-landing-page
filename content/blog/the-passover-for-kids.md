@@ -21,13 +21,9 @@ quizAvailable: true
 
 The Passover is a Bible story from Exodus 12 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of The Passover
+## More from the Exodus Series
 
-Watch The Passover in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "The Passover" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Exodus series, 10 episodes covering freedom, courage, God's power, obedience.*
+This is one of 10 episodes in our Exodus series, covering freedom, courage, God's power, obedience. [Browse the whole series](/blog/series/exodus) to watch them in order.
 
 ## What Is the Story of The Passover for Kids?
 
@@ -121,11 +117,11 @@ The Passover is found in Exodus 12 in the Old Testament. It is part of the Exodu
 
 ### Is there a video of The Passover for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of The Passover designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of The Passover designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use The Passover for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does The Passover teach kids?
 

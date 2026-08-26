@@ -23,13 +23,9 @@ quizAvailable: true
 
 Taming the Tongue is a Bible story from Hebrews/James/Revelation in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Taming the Tongue
+## More from the Ending and Beginning Series
 
-Watch Taming the Tongue in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Taming the Tongue" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Ending and Beginning series, 10 episodes covering faith, hope, heaven, God's promises, eternity.*
+This is one of 10 episodes in our Ending and Beginning series, covering faith, hope, heaven, God's promises, eternity. [Browse the whole series](/blog/series/ending-and-beginning) to watch them in order.
 
 ## What Is the Story of Taming the Tongue for Kids?
 
@@ -134,11 +130,11 @@ Taming the Tongue is found in Hebrews/James/Revelation in the New Testament. It 
 
 ### Is there a video of Taming the Tongue for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Taming the Tongue designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Taming the Tongue designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Taming the Tongue for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Taming the Tongue teach kids?
 

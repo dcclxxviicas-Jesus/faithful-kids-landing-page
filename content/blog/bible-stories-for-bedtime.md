@@ -117,7 +117,7 @@ Creation is the best bedtime Bible story because its day-by-day structure has a 
 
 ### How long should a bedtime Bible story be?
 
-Keep it to 1-3 minutes. Your child is already tired. A 60-second video or a short retelling is perfect. Faithful Kids videos are all 60 seconds, designed for exactly this use case.
+Keep it to 1-3 minutes. Your child is already tired. A short video or a short retelling is perfect. Faithful Kids videos are all 60 seconds, designed for exactly this use case.
 
 ### Should I read the Bible to my child every night?
 

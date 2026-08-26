@@ -21,13 +21,9 @@ quizAvailable: true
 
 Healing the Blind Man is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Healing the Blind Man
+## More from the Miracles of Jesus Series
 
-Watch Healing the Blind Man in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Healing the Blind Man" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Miracles of Jesus series, 10 episodes covering faith, God's power, compassion, trust.*
+This is one of 10 episodes in our Miracles of Jesus series, covering faith, God's power, compassion, trust. [Browse the whole series](/blog/series/miracles-of-jesus) to watch them in order.
 
 ## What Is the Story of Healing the Blind Man for Kids?
 
@@ -129,11 +125,11 @@ Healing the Blind Man is found in Matthew/Mark/Luke/John in the New Testament. I
 
 ### Is there a video of Healing the Blind Man for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Healing the Blind Man designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Healing the Blind Man designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Healing the Blind Man for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Healing the Blind Man teach kids?
 

@@ -100,7 +100,7 @@ Bible stories are uniquely powerful tools for building compassion because they d
 
 ## Watch on Faithful Kids
 
-Want your kids to experience these compassion stories through beautifully animated, age-appropriate videos? [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and watch stories like the Good Samaritan, Ruth and Naomi, and the feeding of the 5,000 come alive in 60-second episodes your kids will want to watch again and again.
+Want your kids to experience these compassion stories through beautifully animated, age-appropriate videos? [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and watch stories like the Good Samaritan, Ruth and Naomi, and the feeding of the 5,000 come alive in short episodes your kids will want to watch again and again.
 
 ## Frequently Asked Questions
 

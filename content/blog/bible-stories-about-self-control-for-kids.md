@@ -102,7 +102,7 @@ Samuel arrived just as he finished. "You have done a foolish thing," he said. "Y
 
 1. **Tell one story at a time, then ask "what would you have done?"** Kids remember stories they argued with. Let them defend Esau or Moses before you land the lesson.
 2. **Pair a winner with a loser.** Read Daniel next to Esau, or David next to Saul. The contrast between "held back" and "gave in" makes the lesson concrete without a lecture.
-3. **Watch the story, then quiz it.** Every story on this list is a 60-second video with a follow-up quiz on [Faithful Kids](https://faithfulkids.app/quiz) -- kids ask to watch, and the quiz cements the lesson.
+3. **Watch the story, then quiz it.** Every story on this list is a short video with a follow-up quiz on [Faithful Kids](https://faithfulkids.app/quiz) -- kids ask to watch, and the quiz cements the lesson.
 4. **Memorize one fighting verse.** Jesus beat temptation with Scripture, so give your child one verse to deploy -- Galatians 5:22-23 or Proverbs 25:28 work well. Our guide to the [Fruit of the Spirit](https://faithfulkids.app/blog/fruit-of-the-spirit-for-kids-bible-stories) has stories for all nine fruits.
 5. **Practice the pause.** Teach a family rule: name the feeling before you act on it. "I'm angry" or "I really want that" out loud creates the gap where self-control lives -- the gap Moses skipped at the rock.
 6. **Connect it to its cousins.** Waiting is half of self-control, so follow up with [Bible stories about patience](https://faithfulkids.app/blog/bible-stories-about-patience-for-kids); doing what God says under pressure is the other half -- see [Bible stories about obedience](https://faithfulkids.app/blog/bible-stories-about-obedience-for-kids).

@@ -23,13 +23,9 @@ quizAvailable: true
 
 The Fall of King Saul is a Bible story from 1 Samuel in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of The Fall of King Saul
+## More from the Rise of Kings Series
 
-Watch The Fall of King Saul in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "The Fall of King Saul" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Rise of Kings series, 10 episodes covering courage, faith, God choosing the unlikely.*
+This is one of 10 episodes in our Rise of Kings series, covering courage, faith, God choosing the unlikely. [Browse the whole series](/blog/series/rise-of-kings) to watch them in order.
 
 ## What Is the Story of The Fall of King Saul for Kids?
 
@@ -130,11 +126,11 @@ The Fall of King Saul is found in 1 Samuel in the Old Testament. It is part of t
 
 ### Is there a video of The Fall of King Saul for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of The Fall of King Saul designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of The Fall of King Saul designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use The Fall of King Saul for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does The Fall of King Saul teach kids?
 

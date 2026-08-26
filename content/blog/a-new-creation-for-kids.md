@@ -21,13 +21,9 @@ quizAvailable: true
 
 A New Creation is a Bible story from Romans/Corinthians/Ephesians in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of A New Creation
+## More from the Letters to Churches Series
 
-Watch A New Creation in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "A New Creation" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Letters to Churches series, 10 episodes covering love, faith, hope, character, spiritual growth.*
+This is one of 10 episodes in our Letters to Churches series, covering love, faith, hope, character, spiritual growth. [Browse the whole series](/blog/series/letters-to-churches) to watch them in order.
 
 ## What Is the Story of A New Creation for Kids?
 
@@ -121,11 +117,11 @@ A New Creation is found in Romans/Corinthians/Ephesians in the New Testament. It
 
 ### Is there a video of A New Creation for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of A New Creation designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of A New Creation designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use A New Creation for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does A New Creation teach kids?
 

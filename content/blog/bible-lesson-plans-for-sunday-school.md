@@ -274,4 +274,4 @@ Say, "That is a really thoughtful question. I want to give you a good answer, so
 Movement helps. Change activities every 5-7 minutes. Ask questions frequently (not just at the end). Use props and visual aids. And remember: if the entire class is distracted, the problem is probably the lesson, not the kids.
 
 ### Can I use videos instead of telling the story myself?
-Yes, and Faithful Kids' 60-second lessons are ideal for this because they are short enough to maintain attention and focused enough to set up your discussion. Show the video, then lead your own discussion and activity around it.
+Yes, and Faithful Kids' short lessons are ideal for this because they are short enough to maintain attention and focused enough to set up your discussion. Show the video, then lead your own discussion and activity around it.

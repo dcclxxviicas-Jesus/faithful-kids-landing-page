@@ -25,7 +25,7 @@ Here is a detailed, honest comparison to help you decide which app is the best f
 | **Price** | Free | $8.88/mo or $77.77/yr (about $6.48/mo) |
 | **Free trial** | N/A | 3-day free trial (annual plan) |
 | **Target ages** | 3-8 | 7-15 |
-| **Content format** | Touch-and-swipe animated stories | 60-second narrated video lessons |
+| **Content format** | Touch-and-swipe animated stories | short narrated video lessons |
 | **Number of stories** | ~41 stories | 400+ lessons across 31 series |
 | **Bible coverage** | Major highlights only | Genesis to Revelation (complete) |
 | **Quizzes after lessons** | No | Yes, after every lesson |

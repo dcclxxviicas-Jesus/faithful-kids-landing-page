@@ -21,13 +21,9 @@ quizAvailable: true
 
 Jonah the Lesson is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Jonah the Lesson
+## More from the Exile and Faith Series
 
-Watch Jonah the Lesson in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Jonah the Lesson" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Exile and Faith series, 10 episodes covering courage, faith under pressure, obedience, hope.*
+This is one of 10 episodes in our Exile and Faith series, covering courage, faith under pressure, obedience, hope. [Browse the whole series](/blog/series/exile-and-faith) to watch them in order.
 
 ## What Is the Story of Jonah the Lesson for Kids?
 
@@ -121,11 +117,11 @@ Jonah the Lesson is found in Daniel/Jonah/Isaiah in the Old Testament. It is par
 
 ### Is there a video of Jonah the Lesson for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Jonah the Lesson designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Jonah the Lesson designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Jonah the Lesson for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Jonah the Lesson teach kids?
 

@@ -23,13 +23,9 @@ quizAvailable: true
 
 David and Mephibosheth is a Bible story from 2 Samuel/Psalms in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of David and Mephibosheth
+## More from the King Davids Reign Series
 
-Watch David and Mephibosheth in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "David and Mephibosheth" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our King Davids Reign series, 10 episodes covering worship, repentance, God's promises, honesty.*
+This is one of 10 episodes in our King Davids Reign series, covering worship, repentance, God's promises, honesty. [Browse the whole series](/blog/series/king-davids-reign) to watch them in order.
 
 ## What Is the Story of David and Mephibosheth for Kids?
 
@@ -138,11 +134,11 @@ David and Mephibosheth is found in 2 Samuel/Psalms in the Old Testament. It is p
 
 ### Is there a video of David and Mephibosheth for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of David and Mephibosheth designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of David and Mephibosheth designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use David and Mephibosheth for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does David and Mephibosheth teach kids?
 

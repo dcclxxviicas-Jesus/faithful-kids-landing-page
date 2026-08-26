@@ -2,7 +2,7 @@
 title: "Bible Stories for Toddlers: 12 Simple Favorites (Ages 2-4)"
 slug: "bible-stories-for-toddlers"
 type: "listicle"
-metaDescription: "12 Bible stories toddlers will actually sit through -- 60-second retellings full of animals and rainbows, with one-line lessons and tips for ages 2-4."
+metaDescription: "12 Bible stories toddlers will actually sit through -- short retellings full of animals and rainbows, with one-line lessons and tips for ages 2-4."
 keywords: ["bible stories for toddlers", "bible stories toddlers", "bible for 2 year old", "bible for 3 year old", "toddler bible stories", "first bible stories for babies"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -84,7 +84,7 @@ You can start as early as you want. Even babies benefit from hearing a calm voic
 
 ### What is the best Bible for a 2-year-old?
 
-For 2-year-olds, look for board books with thick pages and bright illustrations. The Beginner's Bible board book version is a popular choice. For video content, Faithful Kids has 60-second stories that work well for this age.
+For 2-year-olds, look for board books with thick pages and bright illustrations. The Beginner's Bible board book version is a popular choice. For video content, Faithful Kids has short stories that work well for this age.
 
 ### How long should I read the Bible to a toddler?
 

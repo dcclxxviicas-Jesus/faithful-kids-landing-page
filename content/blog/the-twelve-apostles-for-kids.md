@@ -23,13 +23,9 @@ quizAvailable: true
 
 The Twelve Apostles is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of The Twelve Apostles
+## More from the Jesus Begins Ministry Series
 
-Watch The Twelve Apostles in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "The Twelve Apostles" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Jesus Begins Ministry series, 10 episodes covering calling, healing, compassion, faith.*
+This is one of 10 episodes in our Jesus Begins Ministry series, covering calling, healing, compassion, faith. [Browse the whole series](/blog/series/jesus-begins-ministry) to watch them in order.
 
 ## What Is the Story of The Twelve Apostles for Kids?
 
@@ -130,11 +126,11 @@ The Twelve Apostles is found in Matthew/Mark/Luke/John in the New Testament. It 
 
 ### Is there a video of The Twelve Apostles for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of The Twelve Apostles designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of The Twelve Apostles designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use The Twelve Apostles for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does The Twelve Apostles teach kids?
 

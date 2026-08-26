@@ -72,7 +72,7 @@ Two religious leaders walk past a hurt man. A foreigner stops to help. Who is th
 
 ## Watch All These Stories on Faithful Kids
 
-Every story on this list is available on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-age) with a 60-second video and comprehension quiz. 400+ lessons covering the entire Bible.
+Every story on this list is available on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-age) with a short video and comprehension quiz. 400+ lessons covering the entire Bible.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-age)
 

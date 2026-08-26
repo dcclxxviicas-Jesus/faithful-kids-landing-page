@@ -21,13 +21,9 @@ quizAvailable: true
 
 Rahab and the Spies is a Bible story from Joshua 2 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Rahab and the Spies
+## More from the Promised Land Series
 
-Watch Rahab and the Spies in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Rahab and the Spies" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Promised Land series, 10 episodes covering courage, trust, following God, new beginnings.*
+This is one of 10 episodes in our Promised Land series, covering courage, trust, following God, new beginnings. [Browse the whole series](/blog/series/promised-land) to watch them in order.
 
 ## What Is the Story of Rahab and the Spies for Kids?
 
@@ -121,11 +117,11 @@ Rahab and the Spies is found in Joshua 2 in the Old Testament. It is part of the
 
 ### Is there a video of Rahab and the Spies for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Rahab and the Spies designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Rahab and the Spies designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Rahab and the Spies for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Rahab and the Spies teach kids?
 

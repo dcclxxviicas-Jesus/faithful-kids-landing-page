@@ -164,7 +164,7 @@ For more printable formats beyond cards -- coloring pages, word searches, challe
 
 ### How many verses should a child memorize at once?
 
-One verse per week is the sweet spot for most kids ages 4-12, with daily 60-second reviews rather than one long session. Younger children (4-6) may need two weeks per verse, and that's fine -- consistency beats speed. The ring system handles review automatically: new verse up front, mastered verses behind it for quick flip-throughs.
+One verse per week is the sweet spot for most kids ages 4-12, with daily short reviews rather than one long session. Younger children (4-6) may need two weeks per verse, and that's fine -- consistency beats speed. The ring system handles review automatically: new verse up front, mastered verses behind it for quick flip-throughs.
 
 ### What age should kids start memorizing Bible verses?
 

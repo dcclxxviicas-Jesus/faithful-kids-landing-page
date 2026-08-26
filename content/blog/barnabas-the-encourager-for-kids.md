@@ -21,13 +21,9 @@ quizAvailable: true
 
 Barnabas the Encourager is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Barnabas the Encourager
+## More from the Early Church Series
 
-Watch Barnabas the Encourager in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Barnabas the Encourager" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Early Church series, 10 episodes covering community, courage, sharing faith, miracles.*
+This is one of 10 episodes in our Early Church series, covering community, courage, sharing faith, miracles. [Browse the whole series](/blog/series/early-church) to watch them in order.
 
 ## What Is the Story of Barnabas the Encourager for Kids?
 
@@ -121,11 +117,11 @@ Barnabas the Encourager is found in Acts in the New Testament. It is part of the
 
 ### Is there a video of Barnabas the Encourager for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Barnabas the Encourager designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Barnabas the Encourager designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Barnabas the Encourager for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Barnabas the Encourager teach kids?
 

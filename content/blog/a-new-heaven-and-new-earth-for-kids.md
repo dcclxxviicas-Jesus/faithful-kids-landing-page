@@ -21,13 +21,9 @@ quizAvailable: true
 
 A New Heaven and New Earth is a Bible story from Hebrews/James/Revelation in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of A New Heaven and New Earth
+## More from the Ending and Beginning Series
 
-Watch A New Heaven and New Earth in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "A New Heaven and New Earth" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Ending and Beginning series, 10 episodes covering faith, hope, heaven, God's promises, eternity.*
+This is one of 10 episodes in our Ending and Beginning series, covering faith, hope, heaven, God's promises, eternity. [Browse the whole series](/blog/series/ending-and-beginning) to watch them in order.
 
 ## What Is the Story of A New Heaven and New Earth for Kids?
 
@@ -121,11 +117,11 @@ A New Heaven and New Earth is found in Hebrews/James/Revelation in the New Testa
 
 ### Is there a video of A New Heaven and New Earth for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of A New Heaven and New Earth designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of A New Heaven and New Earth designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use A New Heaven and New Earth for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does A New Heaven and New Earth teach kids?
 

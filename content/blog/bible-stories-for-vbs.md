@@ -76,7 +76,7 @@ Less than the glossy kits suggest. Per day you need: one storyteller who has pra
 
 Two prep tips veterans swear by. First, brief your small-group leaders on the story the night before -- the discussion falls flat when leaders are hearing the story alongside the kids. Second, prepare one "rain plan" indoor game per day; the schedule will break at least once, and the teams that improvise best are the ones that planned to.
 
-If your storytellers are stretched thin, each story above also exists as a 60-second video with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-vbs) -- churches often play the video as the story introduction at assembly, then let live leaders handle the discussion.
+If your storytellers are stretched thin, each story above also exists as a short video with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-vbs) -- churches often play the video as the story introduction at assembly, then let live leaders handle the discussion.
 
 ## Frequently Asked Questions
 

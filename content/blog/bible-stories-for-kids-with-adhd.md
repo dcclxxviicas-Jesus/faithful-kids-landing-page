@@ -114,9 +114,9 @@ The Bible, when taught with these principles, becomes one of the most ADHD-frien
 
 ## How 60-Second Video Formats Help
 
-Many parents of ADHD children report that short-form video Bible stories have been transformative. Here is why: the 60-second format naturally matches the ADHD attention window. There is no time for the mind to wander because the story moves quickly, the visuals change constantly, and the resolution arrives before attention fades.
+Many parents of ADHD children report that short-form video Bible stories have been transformative. Here is why: the short format naturally matches the ADHD attention window. There is no time for the mind to wander because the story moves quickly, the visuals change constantly, and the resolution arrives before attention fades.
 
-This is not "dumbing down" the Bible. It is delivering the same truth in a format that the child's brain can actually absorb. A child who watches a 60-second video of Daniel in the lions' den and remembers it is learning more than a child who sits through a 30-minute lesson they cannot focus on.
+This is not "dumbing down" the Bible. It is delivering the same truth in a format that the child's brain can actually absorb. A child who watches a short video of Daniel in the lions' den and remembers it is learning more than a child who sits through a 30-minute lesson they cannot focus on.
 
 ## Watch on Faithful Kids
 

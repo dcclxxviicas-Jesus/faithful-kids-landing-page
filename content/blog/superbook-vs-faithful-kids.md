@@ -25,7 +25,7 @@ Both are ad-free. Both are made by people who love Scripture. But they serve dif
 | **Price** | Free | $8.88/mo or $77.77/yr (about $6.48/mo) |
 | **Free trial** | N/A | 3-day free trial (annual plan) |
 | **Target ages** | 5-12 | 7-15 |
-| **Content format** | 25-min animated episodes | 60-second narrated video lessons |
+| **Content format** | 25-min animated episodes | short narrated video lessons |
 | **Number of episodes** | 50+ full episodes | 400+ lessons across 31 series |
 | **Bible coverage** | Select stories | Genesis to Revelation (complete) |
 | **Teaching approach** | Entertainment with Bible themes | Structured learning with assessment |

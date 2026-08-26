@@ -60,7 +60,7 @@ Want to make these stories stick? Quiz your kids afterward with our [Christmas B
 
 ## Watch the Full Birth of Jesus Series on Faithful Kids
 
-All 10 episodes of the Birth of Jesus series are available with 60-second videos and quizzes.
+All 10 episodes of the Birth of Jesus series are available with short videos and quizzes.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-christmas)
 

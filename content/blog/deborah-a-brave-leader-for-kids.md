@@ -21,13 +21,9 @@ quizAvailable: true
 
 Deborah a Brave Leader is a Bible story from Judges 4-5 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Deborah a Brave Leader
+## More from the Judges and Ruth Series
 
-Watch Deborah a Brave Leader in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Deborah a Brave Leader" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Judges and Ruth series, 10 episodes covering bravery, loyalty, faith, God's plan.*
+This is one of 10 episodes in our Judges and Ruth series, covering bravery, loyalty, faith, God's plan. [Browse the whole series](/blog/series/judges-and-ruth) to watch them in order.
 
 ## What Is the Story of Deborah a Brave Leader for Kids?
 
@@ -121,11 +117,11 @@ Deborah a Brave Leader is found in Judges 4-5 in the Old Testament. It is part o
 
 ### Is there a video of Deborah a Brave Leader for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Deborah a Brave Leader designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Deborah a Brave Leader designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Deborah a Brave Leader for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Deborah a Brave Leader teach kids?
 

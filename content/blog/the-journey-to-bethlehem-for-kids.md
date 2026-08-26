@@ -21,13 +21,9 @@ quizAvailable: true
 
 The Journey to Bethlehem is a Bible story from Luke 2:1-5 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of The Journey to Bethlehem
+## More from the Birth of Jesus Series
 
-Watch The Journey to Bethlehem in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "The Journey to Bethlehem" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Birth of Jesus series, 10 episodes covering hope, faith, God's plan, Christmas, miracles.*
+This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
 
 ## What Is the Story of The Journey to Bethlehem for Kids?
 
@@ -121,11 +117,11 @@ The Journey to Bethlehem is found in Luke 2:1-5 in the New Testament. It is part
 
 ### Is there a video of The Journey to Bethlehem for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of The Journey to Bethlehem designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of The Journey to Bethlehem designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use The Journey to Bethlehem for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does The Journey to Bethlehem teach kids?
 

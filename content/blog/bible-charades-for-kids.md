@@ -145,7 +145,7 @@ One player silently acts out a Bible character, story, or action while everyone 
 Characters with famous physical trademarks work best for ages 4-7: Noah building the ark, David slinging a stone, Goliath stomping, Jonah being swallowed, Moses parting the sea, and Zacchaeus climbing his tree. Stick to stories your kids already know -- charades reviews knowledge rather than teaching it.
 
 ### How long should a game of Bible charades last?
-Twenty to thirty minutes is the sweet spot -- roughly 15-20 prompts with a 60-second timer each. End while kids still want more rather than playing the bowl empty; leftover slips seed next week's game. For parties, run it as one 20-minute station among several games.
+Twenty to thirty minutes is the sweet spot -- roughly 15-20 prompts with a short timer each. End while kids still want more rather than playing the bowl empty; leftover slips seed next week's game. For parties, run it as one 20-minute station among several games.
 
 ### Can you play Bible charades with only two or three people?
 Yes -- drop teams and play cooperatively: one person acts, the others guess, and you count total correct guesses as a family score to beat next time. With exactly two players, alternate actor and guesser and race the clock together. The reverse charades variation needs at least four.

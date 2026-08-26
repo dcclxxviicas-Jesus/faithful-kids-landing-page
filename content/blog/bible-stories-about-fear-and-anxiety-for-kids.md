@@ -146,4 +146,4 @@ Normal childhood fears are temporary, specific, and do not significantly interfe
 Several verses are especially comforting: Joshua 1:9 ("Be strong and courageous... the Lord your God will be with you wherever you go"), Psalm 56:3 ("When I am afraid, I put my trust in you"), Isaiah 41:10 ("Do not fear, for I am with you"), and Philippians 4:6-7 ("Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God").
 
 ### Can watching these stories on video help with anxiety?
-Video can be a powerful medium for anxious children because it engages both visual and auditory processing, making the stories feel more real and memorable. Faithful Kids' short 60-second format is especially helpful because it delivers the story without overwhelming an anxious child with a long viewing session.
+Video can be a powerful medium for anxious children because it engages both visual and auditory processing, making the stories feel more real and memorable. Faithful Kids' short short format is especially helpful because it delivers the story without overwhelming an anxious child with a long viewing session.

@@ -23,13 +23,9 @@ quizAvailable: true
 
 Doubting Thomas is a Bible story from Matthew/Luke/Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Doubting Thomas
+## More from the He is Risen Series
 
-Watch Doubting Thomas in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Doubting Thomas" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our He is Risen series, 10 episodes covering resurrection, hope, faith, new life, Easter.*
+This is one of 10 episodes in our He is Risen series, covering resurrection, hope, faith, new life, Easter. [Browse the whole series](/blog/series/he-is-risen) to watch them in order.
 
 ## What Is the Story of Doubting Thomas for Kids?
 
@@ -130,11 +126,11 @@ Doubting Thomas is found in Matthew/Luke/Acts in the New Testament. It is part o
 
 ### Is there a video of Doubting Thomas for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Doubting Thomas designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Doubting Thomas designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Doubting Thomas for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Doubting Thomas teach kids?
 

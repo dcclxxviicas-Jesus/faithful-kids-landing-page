@@ -23,13 +23,9 @@ quizAvailable: true
 
 Mary Sees Jesus is a Bible story from Matthew/Luke/Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Mary Sees Jesus
+## More from the He is Risen Series
 
-Watch Mary Sees Jesus in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Mary Sees Jesus" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our He is Risen series, 10 episodes covering resurrection, hope, faith, new life, Easter.*
+This is one of 10 episodes in our He is Risen series, covering resurrection, hope, faith, new life, Easter. [Browse the whole series](/blog/series/he-is-risen) to watch them in order.
 
 ## What Is the Story of Mary Sees Jesus for Kids?
 
@@ -130,11 +126,11 @@ Mary Sees Jesus is found in Matthew/Luke/Acts in the New Testament. It is part o
 
 ### Is there a video of Mary Sees Jesus for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Mary Sees Jesus designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Mary Sees Jesus designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Mary Sees Jesus for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Mary Sees Jesus teach kids?
 

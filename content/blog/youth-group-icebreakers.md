@@ -149,7 +149,7 @@ The best icebreaker for a teen who knows nobody is one that assigns them a partn
 **Group: 12-60. Space: church building and grounds. Materials: printed lists. Prep: 10 minutes.** Assign trios yourself -- one regular, one semi-regular, one first-timer -- and send them after 12 items or photos. Twenty minutes of shared purpose does more for a newcomer than an hour of free time.
 
 ### 39. Pair Challenge Cards
-**Group: any even number. Space: open floor. Materials: index cards with 60-second challenges. Prep: 15 minutes.** Write challenges on cards: build the tallest tower from your shoes, invent a handshake with eight moves, balance a Bible on your heads for 30 seconds. Pairs draw a card and perform for the group. The absurdity means neither partner can be the awkward one.
+**Group: any even number. Space: open floor. Materials: index cards with short challenges. Prep: 15 minutes.** Write challenges on cards: build the tallest tower from your shoes, invent a handshake with eight moves, balance a Bible on your heads for 30 seconds. Pairs draw a card and perform for the group. The absurdity means neither partner can be the awkward one.
 
 ### 40. Buddy Interview
 **Group: 8-40. Space: pairs anywhere, then groups of six. Materials: none. Prep: none.** Two minutes each to interview a partner, then introduce that partner to a group of six. Nobody speaks about themselves in front of the group -- they speak about someone else, which is dramatically easier -- and every teen hears their own name said kindly by a peer.

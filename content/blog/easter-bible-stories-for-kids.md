@@ -62,7 +62,7 @@ After the stories, keep the conversation going with our [Easter Bible trivia for
 
 ## Watch the Complete Easter Story on Faithful Kids
 
-All 10 episodes of the Road to the Cross and He Is Risen series are available on Faithful Kids, each with a 60-second video and a quiz.
+All 10 episodes of the Road to the Cross and He Is Risen series are available on Faithful Kids, each with a short video and a quiz.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-easter)
 

@@ -77,7 +77,7 @@ Preteens need competition, choice, or an opinion to defend -- otherwise they wil
 **Ages 10-13. Needs: nothing (Bibles help).** Each kid states three things about a Bible story -- two true, one false -- and the class votes on the lie, then proves it with the text. Whoever fools the most people wins. **Lesson tie-in:** any story you've just taught, plus the habit of checking claims against Scripture.
 
 ### 15. Parable Pitch
-**Ages 11-13. Needs: nothing.** Teams get three minutes to retell a parable as a 60-second modern story -- the good Samaritan on a school bus, the prodigal son and a maxed-out debit card. The class votes on which version keeps the original point. **Lesson tie-in:** Luke 10 and Luke 15. Kids can only modernize a parable if they understand what it actually meant.
+**Ages 11-13. Needs: nothing.** Teams get three minutes to retell a parable as a short modern story -- the good Samaritan on a school bus, the prodigal son and a maxed-out debit card. The class votes on which version keeps the original point. **Lesson tie-in:** Luke 10 and Luke 15. Kids can only modernize a parable if they understand what it actually meant.
 
 ### 16. Bible Bracket
 **Ages 10-13. Needs: whiteboard.** Eight items on a tournament bracket -- most impressive miracle, bravest character, hardest thing God asked someone to do. Kids argue each matchup for 60 seconds, then vote. **Lesson tie-in:** whatever list you're reviewing. The arguing is the studying; they just don't notice.

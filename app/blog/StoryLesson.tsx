@@ -148,9 +148,12 @@ export function StoryLesson({
       </div>
 
       {total > 0 && !quizOpen && (
-        <button className="sl-open-quiz" onClick={openQuiz}>
-          Then try the {total}-question quiz →
-        </button>
+        <div className="sl-open-row">
+          <button className="sl-btn sl-btn-green sl-open-quiz" onClick={openQuiz}>
+            Take the {total}-question quiz
+          </button>
+          <p className="sl-open-note">Same quiz your child gets in the app. Takes a minute.</p>
+        </div>
       )}
 
       {/* ---------------- quiz ---------------- */}
@@ -199,21 +202,17 @@ export function StoryLesson({
               <h3 className="sl-title">{result.title}</h3>
               <p className="sl-score">{score} of {total} correct</p>
               <p className="sl-pitch">
-                That is one story. In the app every episode works exactly like this — the video, a
-                quiz that shows you what your child actually understood, and a reflection
-                afterwards — across 200 more stories, with progress saved for each child and a
-                parent dashboard.
+                200 more stories work exactly like this — a quiz after every one, and progress you
+                can actually see.
               </p>
               <a
                 className="sl-btn sl-btn-green sl-cta"
                 href="/quiz?ref=story-lesson"
                 onClick={() => track('story_lesson_cta_click', { slug, score, total })}
               >
-                Start your free trial
+                Build my child&rsquo;s plan
               </a>
-              <div className="sl-badges">
-                <span>400+ lessons</span><span>No ads, ever</span><span>Cancel anytime</span>
-              </div>
+              <p className="sl-cta-note">A few quick questions. No ads, cancel anytime.</p>
               <button className="sl-again" onClick={replay}>Try the quiz again</button>
             </div>
           )}

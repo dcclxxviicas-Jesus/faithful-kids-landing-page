@@ -706,12 +706,13 @@ body {
   font-weight: 800; font-size: .74rem; letter-spacing: .02em;
   padding: 5px 12px; border-radius: 999px;
 }
+.sl-open-row { text-align: center; margin-top: 20px; }
 .sl-open-quiz {
-  display: block; margin: 16px auto 0;
-  background: none; border: 0; cursor: pointer;
-  color: var(--duo-green-dark); font-weight: 800; font-size: .96rem;
+  width: 100%; max-width: 380px;
+  padding: 16px 28px; font-size: 1.06rem;
 }
-.sl-open-quiz:hover { text-decoration: underline; }
+.sl-open-note { margin-top: 10px; font-size: .84rem; font-weight: 600; color: #777; }
+.sl-cta-note { margin-top: 12px; font-size: .8rem; font-weight: 600; color: #999; }
 
 /* --- quiz (mirrors card-duo-elevated / btn-duo) --- */
 .sl-quiz { margin-top: 22px; }

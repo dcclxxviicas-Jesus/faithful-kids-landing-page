@@ -216,7 +216,7 @@ Ready for a bigger goal? Take on the [30-day family Bible challenge](/blog/30-da
 
 ## Watch on Faithful Kids
 
-If you want to take family Bible time to the next level without adding preparation time, Faithful Kids does the work for you. Each lesson is a 60-second video followed by a quiz and reflection, all designed for kids ages 7-15. Use it as your story segment and then discuss as a family.
+If you want to take family Bible time to the next level without adding preparation time, Faithful Kids does the work for you. Each lesson is a short video followed by a quiz and reflection, all designed for kids ages 7-15. Use it as your story segment and then discuss as a family.
 
 [Start Your Free Trial](https://faithfulkids.app/quiz)
 

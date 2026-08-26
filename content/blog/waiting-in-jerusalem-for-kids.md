@@ -23,13 +23,9 @@ quizAvailable: true
 
 Waiting in Jerusalem is a Bible story from Matthew/Luke/Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Waiting in Jerusalem
+## More from the He is Risen Series
 
-Watch Waiting in Jerusalem in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Waiting in Jerusalem" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our He is Risen series, 10 episodes covering resurrection, hope, faith, new life, Easter.*
+This is one of 10 episodes in our He is Risen series, covering resurrection, hope, faith, new life, Easter. [Browse the whole series](/blog/series/he-is-risen) to watch them in order.
 
 ## What Is the Story of Waiting in Jerusalem for Kids?
 
@@ -130,11 +126,11 @@ Waiting in Jerusalem is found in Matthew/Luke/Acts in the New Testament. It is p
 
 ### Is there a video of Waiting in Jerusalem for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Waiting in Jerusalem designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Waiting in Jerusalem designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Waiting in Jerusalem for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Waiting in Jerusalem teach kids?
 

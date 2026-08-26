@@ -21,13 +21,9 @@ quizAvailable: true
 
 John the Baptist is a Bible story from Matthew 3:1-12, Luke 3:1-18 in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of John the Baptist
+## More from the Birth of Jesus Series
 
-Watch John the Baptist in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "John the Baptist" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Birth of Jesus series, 10 episodes covering hope, faith, God's plan, Christmas, miracles.*
+This is one of 10 episodes in our Birth of Jesus series, covering hope, faith, God's plan, Christmas, miracles. [Browse the whole series](/blog/series/birth-of-jesus) to watch them in order.
 
 ## What Is the Story of John the Baptist for Kids?
 
@@ -121,11 +117,11 @@ John the Baptist is found in Matthew 3:1-12, Luke 3:1-18 in the New Testament. I
 
 ### Is there a video of John the Baptist for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of John the Baptist designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of John the Baptist designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use John the Baptist for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does John the Baptist teach kids?
 

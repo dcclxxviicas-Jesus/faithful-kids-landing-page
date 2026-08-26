@@ -10,7 +10,7 @@ dateModified: "2026-08-16"
 
 # 25 Best Bible Stories for Kids: The Complete List for 2026
 
-Looking for the best Bible stories to share with your kids? We ranked the 25 most popular, most engaging, and most important stories in the Bible for children ages 5 and up. Each one includes a short summary, the key lesson, and a link to watch a free 60-second video version.
+Looking for the best Bible stories to share with your kids? We ranked the 25 most popular, most engaging, and most important stories in the Bible for children ages 5 and up. Each one includes a short summary, the key lesson, and a link to watch a free short video version.
 
 ## How We Ranked These Stories
 
@@ -290,7 +290,7 @@ Once your child knows a handful of these stories, turn review into play with som
 
 ## Watch All 25 Stories (and 175 More) on Faithful Kids
 
-Every story on this list is available as a 60-second video lesson with a quiz on Faithful Kids. We have 400+ Bible story videos covering the entire Bible from Genesis to Revelation. No ads, ever.
+Every story on this list is available as a short video lesson with a quiz on Faithful Kids. We have 400+ Bible story videos covering the entire Bible from Genesis to Revelation. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle)
 

@@ -149,7 +149,7 @@ Answer: **A freshly plucked olive leaf** (Genesis 8:11)
 
 ## How Do You Keep the Night About Faith, Not Just Facts?
 
-Pick one question per round and turn it into a 60-second conversation before moving on. When someone answers the Zacchaeus question, ask "why do you think Jesus picked the guy everybody hated?" That single beat turns a game into a discussion without anyone feeling ambushed by a sermon. If your family enjoys those moments, our list of [family dinner Bible questions](/blog/family-dinner-bible-questions) is built entirely around them -- and works as a between-rounds bonus feature.
+Pick one question per round and turn it into a short conversation before moving on. When someone answers the Zacchaeus question, ask "why do you think Jesus picked the guy everybody hated?" That single beat turns a game into a discussion without anyone feeling ambushed by a sermon. If your family enjoys those moments, our list of [family dinner Bible questions](/blog/family-dinner-bible-questions) is built entirely around them -- and works as a between-rounds bonus feature.
 
 And end the night by reading one short passage together -- the story behind whichever question caused the biggest argument. Nothing settles a dispute between teams like opening the actual text.
 

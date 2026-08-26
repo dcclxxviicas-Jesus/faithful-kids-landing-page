@@ -23,13 +23,9 @@ quizAvailable: true
 
 Solomons Wise Judgment is a Bible story from 1 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## Watch the Full Story of Solomons Wise Judgment
+## More from the Solomon and the Kingdom Series
 
-Watch Solomons Wise Judgment in our 60-second video lesson. Your child can follow along and take a quiz after to check what they learned.
-
-[**Watch "Solomons Wise Judgment" on Faithful Kids**](https://faithfulkids.app/quiz?ref=blog)
-
-*Part of our Solomon and the Kingdom series, 10 episodes covering wisdom, worship, consequences, choices.*
+This is one of 10 episodes in our Solomon and the Kingdom series, covering wisdom, worship, consequences, choices. [Browse the whole series](/blog/series/solomon-and-the-kingdom) to watch them in order.
 
 ## What Is the Story of Solomons Wise Judgment for Kids?
 
@@ -130,11 +126,11 @@ Solomons Wise Judgment is found in 1 Kings in the Old Testament. It is part of t
 
 ### Is there a video of Solomons Wise Judgment for kids?
 
-Yes. Faithful Kids has a 60-second video retelling of Solomons Wise Judgment designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Solomons Wise Judgment designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
 ### How can I use Solomons Wise Judgment for Sunday School or homeschool?
 
-Play the 60-second Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
+Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
 ### What does Solomons Wise Judgment teach kids?
 

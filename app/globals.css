@@ -677,34 +677,54 @@ body {
   align-items: center; justify-content: center;
   gap: 12px;
 }
+/* Heavier scrim than a normal video poster: these hero illustrations are bright
+   and pastel, so a light overlay left the play button competing with the art. */
 .sl-shade {
   position: absolute; inset: 0;
-  background: linear-gradient(180deg, rgba(0,0,0,.15) 0%, rgba(0,0,0,.48) 100%);
-  transition: background .18s ease;
+  background:
+    radial-gradient(circle at 50% 46%, rgba(0,0,0,.5) 0%, rgba(0,0,0,.28) 34%, rgba(0,0,0,.12) 62%),
+    linear-gradient(180deg, rgba(0,0,0,.28) 0%, rgba(0,0,0,.20) 45%, rgba(0,0,0,.55) 100%);
+  transition: opacity .2s ease;
 }
-.sl-poster:hover .sl-shade { background: linear-gradient(180deg, rgba(0,0,0,.05) 0%, rgba(0,0,0,.38) 100%); }
+.sl-poster:hover .sl-shade { opacity: .82; }
 .sl-play {
   position: relative;
-  width: 86px; height: 86px;
+  width: 92px; height: 92px;
   border-radius: 50%;
   background: var(--duo-green);
-  box-shadow: 0 6px 0 var(--duo-green-dark), 0 12px 28px rgba(0,0,0,.35);
+  box-shadow: 0 6px 0 var(--duo-green-dark), 0 14px 34px rgba(0,0,0,.45);
   display: flex; align-items: center; justify-content: center;
-  transition: transform .12s ease, box-shadow .12s ease;
+  transition: transform .14s ease, box-shadow .14s ease;
 }
-.sl-poster:hover .sl-play { transform: scale(1.06); }
-.sl-poster:active .sl-play { transform: translateY(4px) scale(1.02); box-shadow: 0 2px 0 var(--duo-green-dark), 0 6px 16px rgba(0,0,0,.3); }
-.sl-play svg { width: 40px; height: 40px; fill: #fff; margin-left: 5px; }
+/* Slow outward pulse — draws the eye without looking like an ad. */
+.sl-ring {
+  position: absolute; inset: -6px;
+  border-radius: 50%;
+  border: 3px solid rgba(255,255,255,.55);
+  animation: slPulse 2.4s ease-out infinite;
+}
+@keyframes slPulse {
+  0%   { transform: scale(.94); opacity: .75; }
+  70%  { transform: scale(1.28); opacity: 0; }
+  100% { transform: scale(1.28); opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) { .sl-ring { animation: none; opacity: .5; } }
+.sl-poster:hover .sl-play { transform: scale(1.07); }
+.sl-poster:active .sl-play { transform: translateY(4px) scale(1.02); box-shadow: 0 2px 0 var(--duo-green-dark), 0 6px 16px rgba(0,0,0,.35); }
+.sl-play svg { width: 42px; height: 42px; fill: #fff; margin-left: 5px; position: relative; }
 .sl-play-label {
   position: relative; color: #fff;
-  font-weight: 800; font-size: 1.12rem;
-  text-shadow: 0 2px 8px rgba(0,0,0,.5);
+  font-weight: 900; font-size: 1.34rem; letter-spacing: -.01em;
+  text-align: center; padding: 0 18px;
+  text-shadow: 0 2px 14px rgba(0,0,0,.75);
 }
-.sl-free {
+.sl-duration {
   position: relative;
-  background: rgba(255,255,255,.94); color: #15803d;
-  font-weight: 800; font-size: .74rem; letter-spacing: .02em;
-  padding: 5px 12px; border-radius: 999px;
+  background: rgba(0,0,0,.55);
+  border: 1px solid rgba(255,255,255,.28);
+  color: #fff; font-weight: 700; font-size: .8rem;
+  padding: 4px 12px; border-radius: 999px;
+  backdrop-filter: blur(4px);
 }
 .sl-open-row { text-align: center; margin-top: 20px; }
 .sl-open-quiz {
@@ -1804,6 +1824,18 @@ body {
   font-size: 0.78rem;
   color: var(--text-muted);
   margin-bottom: 8px;
+}
+/* Series-page card description. Had NO rules at all, so it inherited the full
+   body font size and crowded every other element in the card. */
+.blog-card-desc {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  margin-bottom: 10px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 .blog-card-link {
   font-size: 0.82rem;

@@ -128,16 +128,18 @@ export default async function SeriesPage({ params }: Props) {
                 loading="lazy"
                 style={{ width: '100%', height: 'auto', borderRadius: '12px 12px 0 0' }}
               />
-              <div className="blog-card-header">
-                <span className="blog-card-badge">{post.series}</span>
+              <div className="blog-card-body">
+                <div className="blog-card-header">
+                  <span className="blog-card-badge">{post.series}</span>
+                </div>
+                <h3 className="blog-card-title">{post.title.split(':')[0]}</h3>
+                <p className="blog-card-desc">{post.metaDescription}</p>
+                <div className="blog-card-footer">
+                  {post.book && <span className="blog-card-book-inline">{post.book}</span>}
+                  {post.scripture && <span className="blog-card-scripture">{post.scripture}</span>}
+                </div>
+                <span className="blog-card-link">Read Story &rarr;</span>
               </div>
-              <h3 className="blog-card-title">{post.title.split(':')[0]}</h3>
-              <p className="blog-card-desc">{post.metaDescription}</p>
-              <div className="blog-card-footer">
-                {post.book && <span className="blog-card-book-inline">{post.book}</span>}
-                {post.scripture && <span className="blog-card-scripture">{post.scripture}</span>}
-              </div>
-              <span className="blog-card-link">Read Story &rarr;</span>
             </a>
           ))}
         </div>

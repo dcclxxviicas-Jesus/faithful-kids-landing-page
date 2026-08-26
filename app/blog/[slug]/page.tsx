@@ -18,6 +18,7 @@ import { BlogExitIntent } from '../BlogExitIntent'
 import { EmailCaptureCard } from '../EmailCaptureCard'
 import { StoryLesson } from '../StoryLesson'
 import storyQuizzes from '@/lib/story-quizzes.json'
+import storyDurations from '@/lib/story-durations.json'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -138,6 +139,12 @@ export default async function BlogPostPage({ params }: Props) {
     ? `https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${String(post.episode).padStart(2, '0')}-${post.slug.replace(/-for-kids$/, '')}`
     : ''
   const lessonQuestions = (storyQuizzes as Record<string, { q: string; options: string[]; correct: number; why: string }[]>)[post.slug] || []
+  // Real runtime read from the file with ffprobe (all 200: 1:28-3:37, median
+  // 2:07). Never estimated -- the old copy claimed "60-second" and was wrong.
+  const durSecs = (storyDurations as Record<string, number>)[post.slug]
+  const lessonDuration = durSecs
+    ? `${Math.floor(durSecs / 60)}:${String(durSecs % 60).padStart(2, '0')}`
+    : undefined
 
   const videoJsonLd = post.videoUrl && post.seriesSlug && post.episode
     ? {
@@ -296,9 +303,10 @@ const hasTriviaGame = triviaQuestions.length >= 10
             videoUrl={`${mediaBase}/lesson-video.mp4`}
             posterUrl={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
             captionsUrl={`${mediaBase}/lesson-captions.vtt`}
-            storyName={post.title.split(':')[0]}
+            storyName={post.title.split(':')[0].replace(/ for Kids$/i, '')}
             questions={lessonQuestions}
             slug={post.slug}
+            duration={lessonDuration}
           />
         )}
 

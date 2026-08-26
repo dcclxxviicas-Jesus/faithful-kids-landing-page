@@ -48,7 +48,7 @@ function scoreTitle(score: number, total: number) {
 }
 
 export function StoryLesson({
-  videoUrl, posterUrl, captionsUrl, storyName, questions, slug,
+  videoUrl, posterUrl, captionsUrl, storyName, questions, slug, duration,
 }: {
   videoUrl: string
   posterUrl: string
@@ -56,6 +56,8 @@ export function StoryLesson({
   storyName: string
   questions: StoryQuestion[]
   slug: string
+  /** Real runtime, e.g. "2:07" — read from the file with ffprobe, never guessed. */
+  duration?: string
 }) {
   const videoRef = useRef<HTMLVideoElement>(null)
   const quizRef = useRef<HTMLDivElement>(null)
@@ -140,9 +142,12 @@ export function StoryLesson({
         {!playing && (
           <button className="sl-poster" onClick={start} aria-label={`Play ${storyName}`}>
             <span className="sl-shade" />
-            <span className="sl-play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.14v13.72L19 12z" /></svg></span>
-            <span className="sl-play-label">Watch the full lesson</span>
-            <span className="sl-free">Free · No sign-up</span>
+            <span className="sl-play">
+              <span className="sl-ring" />
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.14v13.72L19 12z" /></svg>
+            </span>
+            <span className="sl-play-label">Watch {storyName}</span>
+            {duration && <span className="sl-duration">{duration}</span>}
           </button>
         )}
       </div>

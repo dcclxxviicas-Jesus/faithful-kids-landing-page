@@ -387,18 +387,18 @@ export default function Quiz() {
             <h1 className="qz-q">Who&apos;s taking this quiz today?</h1>
             <p className="qz-sub">We&apos;ll make it perfect for you</p>
             <div className="qz-opts">
-              <button className="qz-opt" onClick={() => choosePath('kid')}>
-                <span className="qz-opt-emoji">🧒</span>
-                <span className="qz-opt-text">
-                  <strong>I&apos;m a kid!</strong>
-                  <small>Build your own Bible adventure</small>
-                </span>
-              </button>
               <button className="qz-opt" onClick={() => choosePath('parent')}>
                 <span className="qz-opt-emoji">👨‍👩‍👧</span>
                 <span className="qz-opt-text">
                   <strong>I&apos;m a parent</strong>
                   <small>Build a plan for your family</small>
+                </span>
+              </button>
+              <button className="qz-opt" onClick={() => choosePath('kid')}>
+                <span className="qz-opt-emoji">🧒</span>
+                <span className="qz-opt-text">
+                  <strong>I&apos;m a kid!</strong>
+                  <small>Build your own Bible adventure</small>
                 </span>
               </button>
             </div>

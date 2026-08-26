@@ -1,5 +1,5 @@
 ---
-title: "25 Fun Bible Activities for Kids at Home (No Supplies Needed)"
+title: "25 Fun Bible Activities for Kids at Home"
 slug: "bible-activities-for-kids-at-home"
 type: "listicle"
 metaDescription: "25 easy Bible activities you can do at home with your kids. No supplies needed for most. Includes games, discussion prompts."

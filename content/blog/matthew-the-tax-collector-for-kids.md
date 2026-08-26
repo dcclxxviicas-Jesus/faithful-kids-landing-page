@@ -1,5 +1,5 @@
 ---
-title: "Matthew the Tax Collector for Kids: Bible Story Explained Simply"
+title: "Matthew the Tax Collector: Bible Story for Kids"
 slug: "matthew-the-tax-collector-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

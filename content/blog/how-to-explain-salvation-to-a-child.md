@@ -1,5 +1,5 @@
 ---
-title: "How to Explain Salvation to a Child (Simple, Age-Appropriate Language)"
+title: "How to Explain Salvation to a Child"
 slug: "how-to-explain-salvation-to-a-child"
 type: "listicle"
 metaDescription: "How to explain salvation to a child using simple, age-appropriate language. Scripts for ages 4-12, key Bible verses, what not to say, and a sample prayer."

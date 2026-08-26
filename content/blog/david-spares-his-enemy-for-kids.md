@@ -1,5 +1,5 @@
 ---
-title: "David Spares His Enemy for Kids: Bible Story Explained Simply"
+title: "David Spares His Enemy: Bible Story for Kids"
 slug: "david-spares-his-enemy-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

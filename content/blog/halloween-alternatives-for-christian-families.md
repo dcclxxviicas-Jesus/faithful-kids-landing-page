@@ -1,5 +1,5 @@
 ---
-title: "10 Halloween Alternatives for Christian Families That Kids Love"
+title: "10 Halloween Alternatives for Christian Families"
 slug: "halloween-alternatives-for-christian-families"
 type: "listicle"
 metaDescription: "10 Halloween alternatives for Christian families -- harvest festivals, trunk-or-treat, light parties, Reformation Day, and cozy stay-home traditions."

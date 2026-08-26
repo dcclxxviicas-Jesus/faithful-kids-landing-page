@@ -1,5 +1,5 @@
 ---
-title: "1 Timothy Bible Trivia: 28 Questions and Answers for Families"
+title: "1 Timothy Bible Trivia: 28 Questions and Answers"
 slug: "1-timothy-bible-trivia"
 type: "listicle"
 metaDescription: "28 First Timothy Bible trivia questions with answers and verse references -- church leaders, the love of money, and Paul's young apprentice, easy to hard."

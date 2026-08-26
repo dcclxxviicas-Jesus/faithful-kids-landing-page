@@ -1,5 +1,5 @@
 ---
-title: "Ruth a Story of Loyalty for Kids: Bible Story Explained Simply"
+title: "Ruth a Story of Loyalty: Bible Story for Kids"
 slug: "ruth-a-story-of-loyalty-for-kids"
 series: "Judges and Ruth"
 seriesSlug: "judges-and-ruth"

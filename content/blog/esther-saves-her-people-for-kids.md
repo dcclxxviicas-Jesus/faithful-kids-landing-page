@@ -1,5 +1,5 @@
 ---
-title: "Esther Saves Her People for Kids: Bible Story Explained Simply"
+title: "Esther Saves Her People: Bible Story for Kids"
 slug: "esther-saves-her-people-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

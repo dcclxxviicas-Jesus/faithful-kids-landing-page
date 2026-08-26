@@ -1,5 +1,5 @@
 ---
-title: "Ruth Bible Trivia: 22 Questions and Answers for Kids & Families"
+title: "Ruth Bible Trivia: 22 Questions and Answers"
 slug: "ruth-bible-trivia"
 type: "listicle"
 metaDescription: "22 Ruth Bible trivia questions with answers and verse references -- easy to hard rounds from all four chapters, perfect for family night or Sunday school."

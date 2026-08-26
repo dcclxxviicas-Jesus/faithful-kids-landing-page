@@ -1,5 +1,5 @@
 ---
-title: "The Sermon on the Mount for Kids: Bible Story Explained Simply"
+title: "The Sermon on the Mount: Bible Story for Kids"
 slug: "the-sermon-on-the-mount-for-kids"
 series: "Teachings of Jesus"
 seriesSlug: "teachings-of-jesus"

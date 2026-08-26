@@ -1,5 +1,5 @@
 ---
-title: "Solomon Asks for Wisdom for Kids: Bible Story Explained Simply"
+title: "Solomon Asks for Wisdom: Bible Story for Kids"
 slug: "solomon-asks-for-wisdom-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

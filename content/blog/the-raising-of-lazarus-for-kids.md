@@ -1,5 +1,5 @@
 ---
-title: "The Raising of Lazarus for Kids: Bible Story Explained Simply"
+title: "The Raising of Lazarus: Bible Story for Kids"
 slug: "the-raising-of-lazarus-for-kids"
 series: "Miracles of Jesus"
 seriesSlug: "miracles-of-jesus"

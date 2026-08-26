@@ -1,5 +1,5 @@
 ---
-title: "In the Beginning Creation for Kids: Bible Story Explained Simply"
+title: "In the Beginning Creation: Bible Story for Kids"
 slug: "in-the-beginning-creation-for-kids"
 series: "Genesis"
 seriesSlug: "genesis"

@@ -1,5 +1,5 @@
 ---
-title: "20 Best Bible Stories for Sunday School (With Discussion Questions)"
+title: "20 Best Bible Stories for Sunday School"
 slug: "bible-stories-for-sunday-school"
 type: "listicle"
 metaDescription: "The 20 best Bible stories for Sunday school, in teaching order -- each with a short retelling, key verse, and discussion questions for ages 5-12."

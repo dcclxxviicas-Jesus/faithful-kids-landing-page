@@ -1,5 +1,5 @@
 ---
-title: "The Northern Kingdom Falls for Kids: Bible Story Explained Simply"
+title: "The Northern Kingdom Falls: Bible Story for Kids"
 slug: "the-northern-kingdom-falls-for-kids"
 series: "Solomon and the Kingdom"
 seriesSlug: "solomon-and-the-kingdom"

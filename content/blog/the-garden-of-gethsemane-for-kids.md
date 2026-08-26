@@ -1,5 +1,5 @@
 ---
-title: "The Garden of Gethsemane for Kids: Bible Story Explained Simply"
+title: "The Garden of Gethsemane: Bible Story for Kids"
 slug: "the-garden-of-gethsemane-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

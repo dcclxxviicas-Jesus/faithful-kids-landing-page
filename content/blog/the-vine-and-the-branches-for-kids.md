@@ -1,5 +1,5 @@
 ---
-title: "The Vine and the Branches for Kids: Bible Story Explained Simply"
+title: "The Vine and the Branches: Bible Story for Kids"
 slug: "the-vine-and-the-branches-for-kids"
 series: "Ending and Beginning"
 seriesSlug: "ending-and-beginning"

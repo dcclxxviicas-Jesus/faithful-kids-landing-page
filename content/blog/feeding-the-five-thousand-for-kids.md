@@ -1,5 +1,5 @@
 ---
-title: "Feeding the Five Thousand for Kids: Bible Story Explained Simply"
+title: "Feeding the Five Thousand: Bible Story for Kids"
 slug: "feeding-the-five-thousand-for-kids"
 series: "Miracles of Jesus"
 seriesSlug: "miracles-of-jesus"

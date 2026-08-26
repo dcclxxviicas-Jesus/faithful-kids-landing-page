@@ -1,5 +1,5 @@
 ---
-title: "The Christian Parenting Resource List (Books, Apps, Curricula)"
+title: "The Christian Parenting Resource List"
 slug: "christian-parenting-resources"
 type: "listicle"
 metaDescription: "A verified list of Christian parenting resources: the books, apps, curricula, podcasts, websites, and church programs actually worth your time and money."

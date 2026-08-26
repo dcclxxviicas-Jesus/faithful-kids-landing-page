@@ -1,5 +1,5 @@
 ---
-title: "Paul and Barnabas Split for Kids: Bible Story Explained Simply"
+title: "Paul and Barnabas Split: Bible Story for Kids"
 slug: "paul-and-barnabas-split-for-kids"
 series: "Pauls Adventures"
 seriesSlug: "pauls-adventures"

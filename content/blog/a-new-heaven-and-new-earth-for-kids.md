@@ -1,5 +1,5 @@
 ---
-title: "A New Heaven and New Earth for Kids: Bible Story Explained Simply"
+title: "A New Heaven and New Earth: Bible Story for Kids"
 slug: "a-new-heaven-and-new-earth-for-kids"
 series: "Ending and Beginning"
 seriesSlug: "ending-and-beginning"

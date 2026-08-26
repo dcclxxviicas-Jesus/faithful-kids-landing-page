@@ -1,5 +1,5 @@
 ---
-title: "The Great Catch of Fish for Kids: Bible Story Explained Simply"
+title: "The Great Catch of Fish: Bible Story for Kids"
 slug: "the-great-catch-of-fish-for-kids"
 series: "Miracles of Jesus"
 seriesSlug: "miracles-of-jesus"

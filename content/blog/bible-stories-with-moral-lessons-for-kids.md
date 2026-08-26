@@ -1,5 +1,5 @@
 ---
-title: "20 Bible Stories with Moral Lessons for Kids (Character Building)"
+title: "20 Bible Stories with Moral Lessons for Kids"
 slug: "bible-stories-with-moral-lessons-for-kids"
 type: "listicle"
 metaDescription: "20 Bible stories paired with moral lessons for kids: courage from David, compassion from the Good Samaritan, forgiveness from the Prodigal Son, and more."

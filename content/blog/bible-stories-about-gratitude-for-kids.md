@@ -1,5 +1,5 @@
 ---
-title: "8 Bible Stories About Gratitude for Kids (Saying Thank You to God)"
+title: "8 Bible Stories About Gratitude for Kids"
 slug: "bible-stories-about-gratitude-for-kids"
 type: "listicle"
 metaDescription: "8 Bible stories about gratitude for kids. From the 10 lepers to David's psalms of praise, teach children to say thank you to God."

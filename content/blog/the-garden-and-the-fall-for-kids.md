@@ -1,5 +1,5 @@
 ---
-title: "The Garden and the Fall for Kids: Bible Story Explained Simply"
+title: "The Garden and the Fall: Bible Story for Kids"
 slug: "the-garden-and-the-fall-for-kids"
 series: "Genesis"
 seriesSlug: "genesis"

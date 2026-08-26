@@ -1,5 +1,5 @@
 ---
-title: "Colossians Bible Trivia: 26 Questions and Answers for Families"
+title: "Colossians Bible Trivia: 26 Questions and Answers"
 slug: "colossians-bible-trivia"
 type: "listicle"
 metaDescription: "26 Colossians Bible trivia questions with answers and verse references -- Christ's supremacy, the wardrobe of virtues, and Paul's chains, easy to hard."

@@ -1,5 +1,5 @@
 ---
-title: "Behold I Am Coming Soon for Kids: Bible Story Explained Simply"
+title: "Behold I Am Coming Soon: Bible Story for Kids"
 slug: "behold-i-am-coming-soon-for-kids"
 series: "Ending and Beginning"
 seriesSlug: "ending-and-beginning"

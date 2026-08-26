@@ -1,5 +1,5 @@
 ---
-title: "Gideon the Unlikely Hero for Kids: Bible Story Explained Simply"
+title: "Gideon the Unlikely Hero: Bible Story for Kids"
 slug: "gideon-the-unlikely-hero-for-kids"
 series: "Judges and Ruth"
 seriesSlug: "judges-and-ruth"

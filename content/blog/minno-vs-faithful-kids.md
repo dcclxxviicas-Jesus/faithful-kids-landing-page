@@ -1,5 +1,5 @@
 ---
-title: "Minno vs Faithful Kids: Which Bible App Is Better for Your Family?"
+title: "Minno vs Faithful Kids: Which Bible App Is Better?"
 slug: "minno-vs-faithful-kids"
 type: "listicle"
 metaDescription: "Minno vs Faithful Kids compared honestly -- content style, Bible coverage, quizzes, pricing, and ages, plus which app fits your family's actual goal."

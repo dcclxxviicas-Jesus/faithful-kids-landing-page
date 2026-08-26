@@ -1,5 +1,5 @@
 ---
-title: "Dancing Before the Lord for Kids: Bible Story Explained Simply"
+title: "Dancing Before the Lord: Bible Story for Kids"
 slug: "dancing-before-the-lord-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

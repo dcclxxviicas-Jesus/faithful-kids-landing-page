@@ -1,5 +1,5 @@
 ---
-title: "15 Bible Stories for 8-Year-Olds (Adventure and Life Lessons)"
+title: "15 Bible Stories for 8-Year-Olds"
 slug: "bible-stories-for-8-year-olds"
 type: "listicle"
 metaDescription: "The best Bible stories for 8-year-olds. Action-packed adventures, deeper lessons, and real moral challenges. Includes David, Daniel, Paul, and more."

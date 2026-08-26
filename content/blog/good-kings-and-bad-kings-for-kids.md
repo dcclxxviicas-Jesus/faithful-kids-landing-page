@@ -1,5 +1,5 @@
 ---
-title: "Good Kings and Bad Kings for Kids: Bible Story Explained Simply"
+title: "Good Kings and Bad Kings: Bible Story for Kids"
 slug: "good-kings-and-bad-kings-for-kids"
 series: "Solomon and the Kingdom"
 seriesSlug: "solomon-and-the-kingdom"

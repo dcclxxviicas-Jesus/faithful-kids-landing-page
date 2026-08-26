@@ -1,5 +1,5 @@
 ---
-title: "Samson Strongest Man Alive for Kids: Bible Story Explained Simply"
+title: "Samson Strongest Man Alive: Bible Story for Kids"
 slug: "samson-strongest-man-alive-for-kids"
 series: "Judges and Ruth"
 seriesSlug: "judges-and-ruth"

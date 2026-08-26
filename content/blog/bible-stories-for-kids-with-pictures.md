@@ -1,5 +1,5 @@
 ---
-title: "Bible Stories for Kids with Pictures (A Visual Learning Guide)"
+title: "Bible Stories for Kids with Pictures"
 slug: "bible-stories-for-kids-with-pictures"
 type: "listicle"
 metaDescription: "Why visual learning matters for Bible education. 10 most visual Bible stories for kids, how illustrated Bibles compare to video, and the best visual tools."

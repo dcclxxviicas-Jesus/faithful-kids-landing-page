@@ -1,5 +1,5 @@
 ---
-title: "Bible Stories for Summer Break: A 10-Week Family Reading Plan"
+title: "Bible Stories for Summer Break"
 slug: "summer-bible-stories-for-kids"
 type: "listicle"
 metaDescription: "A 10-week summer Bible reading plan for families with one story per week, discussion questions, and fun activities. Keep kids growing in faith all summer."

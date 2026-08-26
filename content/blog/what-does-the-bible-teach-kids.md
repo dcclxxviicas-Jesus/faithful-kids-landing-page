@@ -1,5 +1,5 @@
 ---
-title: "What Does the Bible Teach Kids? 15 Life Lessons from Scripture"
+title: "What Does the Bible Teach Kids? 15 Life Lessons"
 slug: "what-does-the-bible-teach-kids"
 type: "listicle"
 metaDescription: "What does the Bible teach kids? 15 life lessons -- courage, kindness, forgiveness, honesty, and more -- each paired with the Bible story that teaches it."

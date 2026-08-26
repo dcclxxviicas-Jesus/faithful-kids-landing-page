@@ -1,5 +1,5 @@
 ---
-title: "Philippians Bible Trivia: 28 Questions and Answers for Families"
+title: "Philippians Bible Trivia: 28 Questions and Answers"
 slug: "philippians-bible-trivia"
 type: "listicle"
 metaDescription: "28 Philippians Bible trivia questions with answers and verse references -- joy in prison, the midnight jailbreak, and Philippians 4:13, easy to hard."

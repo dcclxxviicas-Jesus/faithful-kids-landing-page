@@ -1,5 +1,5 @@
 ---
-title: "Breakfast on the Beach for Kids: Bible Story Explained Simply"
+title: "Breakfast on the Beach: Bible Story for Kids"
 slug: "breakfast-on-the-beach-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

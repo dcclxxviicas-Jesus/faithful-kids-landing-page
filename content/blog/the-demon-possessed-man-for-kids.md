@@ -1,5 +1,5 @@
 ---
-title: "The Demon Possessed Man for Kids: Bible Story Explained Simply"
+title: "The Demon Possessed Man: Bible Story for Kids"
 slug: "the-demon-possessed-man-for-kids"
 series: "Miracles of Jesus"
 seriesSlug: "miracles-of-jesus"

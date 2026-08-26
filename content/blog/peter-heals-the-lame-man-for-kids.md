@@ -1,5 +1,5 @@
 ---
-title: "Peter Heals the Lame Man for Kids: Bible Story Explained Simply"
+title: "Peter Heals the Lame Man: Bible Story for Kids"
 slug: "peter-heals-the-lame-man-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

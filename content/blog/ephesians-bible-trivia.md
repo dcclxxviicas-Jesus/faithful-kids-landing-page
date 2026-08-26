@@ -1,5 +1,5 @@
 ---
-title: "Ephesians Bible Trivia: 30 Questions and Answers for Families"
+title: "Ephesians Bible Trivia: 30 Questions and Answers"
 slug: "ephesians-bible-trivia"
 type: "listicle"
 metaDescription: "30 Ephesians Bible trivia questions with answers and verse references -- the armor of God, saved by grace, and Paul's letter from prison, easy to hard."

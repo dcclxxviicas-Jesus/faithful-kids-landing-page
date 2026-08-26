@@ -1,5 +1,5 @@
 ---
-title: "Samsons Fall and Final Stand for Kids: Bible Story Explained Simply"
+title: "Samsons Fall and Final Stand: Bible Story for Kids"
 slug: "samsons-fall-and-final-stand-for-kids"
 series: "Judges and Ruth"
 seriesSlug: "judges-and-ruth"

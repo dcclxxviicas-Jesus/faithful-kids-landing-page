@@ -1,5 +1,5 @@
 ---
-title: "Young Jesus in the Temple for Kids: Bible Story Explained Simply"
+title: "Young Jesus in the Temple: Bible Story for Kids"
 slug: "young-jesus-in-the-temple-for-kids"
 series: "Birth of Jesus"
 seriesSlug: "birth-of-jesus"

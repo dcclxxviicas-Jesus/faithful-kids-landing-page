@@ -1,5 +1,5 @@
 ---
-title: "The Journey to Bethlehem for Kids: Bible Story Explained Simply"
+title: "The Journey to Bethlehem: Bible Story for Kids"
 slug: "the-journey-to-bethlehem-for-kids"
 series: "Birth of Jesus"
 seriesSlug: "birth-of-jesus"

@@ -1,5 +1,5 @@
 ---
-title: "Temptation in the Desert for Kids: Bible Story Explained Simply"
+title: "Temptation in the Desert: Bible Story for Kids"
 slug: "temptation-in-the-desert-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

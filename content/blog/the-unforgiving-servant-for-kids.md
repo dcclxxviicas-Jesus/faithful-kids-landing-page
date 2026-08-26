@@ -1,5 +1,5 @@
 ---
-title: "The Unforgiving Servant for Kids: Bible Story Explained Simply"
+title: "The Unforgiving Servant: Bible Story for Kids"
 slug: "the-unforgiving-servant-for-kids"
 series: "Teachings of Jesus"
 seriesSlug: "teachings-of-jesus"

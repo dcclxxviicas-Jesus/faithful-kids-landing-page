@@ -1,5 +1,5 @@
 ---
-title: "How to Pray with Your Kids: A Beginner's Guide for Christian Parents"
+title: "How to Pray with Your Kids: A Beginner's Guide"
 slug: "how-to-pray-with-kids"
 type: "listicle"
 metaDescription: "How to pray with your kids even if you have never done it. Simple guide with the ACTS model, 10 sample prayers, and a bedtime prayer routine."

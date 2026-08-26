@@ -1,5 +1,5 @@
 ---
-title: "The Wise and Foolish Builders for Kids: Bible Story Explained Simply"
+title: "The Wise and Foolish Builders: Bible Story for Kids"
 slug: "the-wise-and-foolish-builders-for-kids"
 series: "Teachings of Jesus"
 seriesSlug: "teachings-of-jesus"

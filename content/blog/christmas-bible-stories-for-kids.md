@@ -1,5 +1,5 @@
 ---
-title: "The Christmas Story for Kids: 10 Bible Stories About the Birth of Jesus"
+title: "The Christmas Story for Kids"
 slug: "christmas-bible-stories-for-kids"
 type: "listicle"
 metaDescription: "The real Christmas story for kids. 10 Bible stories about the birth of Jesus, from the angel visiting Mary to the wise men. Simple retellings for ages 5+."

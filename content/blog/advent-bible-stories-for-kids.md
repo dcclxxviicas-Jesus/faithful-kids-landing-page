@@ -1,5 +1,5 @@
 ---
-title: "Advent Bible Stories for Kids: 25 Days of Christmas Countdown"
+title: "Advent Bible Stories for Kids"
 slug: "advent-bible-stories-for-kids"
 type: "listicle"
 metaDescription: "25 days of Advent Bible stories for kids with family activities. A Christmas countdown devotional from December 1st through Christmas Day."

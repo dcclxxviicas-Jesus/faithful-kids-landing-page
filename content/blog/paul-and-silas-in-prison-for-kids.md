@@ -1,5 +1,5 @@
 ---
-title: "Paul and Silas in Prison for Kids: Bible Story Explained Simply"
+title: "Paul and Silas in Prison: Bible Story for Kids"
 slug: "paul-and-silas-in-prison-for-kids"
 series: "Pauls Adventures"
 seriesSlug: "pauls-adventures"

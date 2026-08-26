@@ -1,5 +1,5 @@
 ---
-title: "Jonah Running from God for Kids: Bible Story Explained Simply"
+title: "Jonah Running from God: Bible Story for Kids"
 slug: "jonah-running-from-god-for-kids"
 series: "Exile and Faith"
 seriesSlug: "exile-and-faith"

@@ -1,5 +1,5 @@
 ---
-title: "15 Bible Verses About Love for Kids (With Simple Explanations)"
+title: "15 Bible Verses About Love for Kids"
 slug: "bible-verses-about-love-for-kids"
 type: "listicle"
 metaDescription: "15 Bible verses about love explained for kids. Simple, age-appropriate explanations of John 3:16, 1 Corinthians 13, Romans 8:38-39, and more."

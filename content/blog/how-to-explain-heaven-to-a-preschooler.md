@@ -1,5 +1,5 @@
 ---
-title: "How to Explain Heaven to a Preschooler (Simple and Comforting)"
+title: "How to Explain Heaven to a Preschooler"
 slug: "how-to-explain-heaven-to-a-preschooler"
 type: "listicle"
 metaDescription: "A gentle guide to explaining heaven to preschoolers. Simple, comforting language about what heaven is, who will be there, and how to answer tough questions."

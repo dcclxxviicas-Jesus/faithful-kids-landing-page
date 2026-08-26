@@ -1,5 +1,5 @@
 ---
-title: "Is There a Bible App for Kids for Older Kids? Signs It's Time"
+title: "Bible App for Kids for Older Kids: Signs It's Time"
 slug: "bible-app-for-kids-for-older-kids"
 type: "listicle"
 metaDescription: "Signs your child has outgrown YouVersion's Bible App for Kids (around age 7-8), what older kids need from a Bible app, and the best next steps, ranked."

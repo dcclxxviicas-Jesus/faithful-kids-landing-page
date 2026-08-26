@@ -1,5 +1,5 @@
 ---
-title: "Deborah a Brave Leader for Kids: Bible Story Explained Simply"
+title: "Deborah a Brave Leader: Bible Story for Kids"
 slug: "deborah-a-brave-leader-for-kids"
 series: "Judges and Ruth"
 seriesSlug: "judges-and-ruth"

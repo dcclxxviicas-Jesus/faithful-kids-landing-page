@@ -1,5 +1,5 @@
 ---
-title: "Holy Week for Kids: Day-by-Day Bible Stories from Palm Sunday to Easter"
+title: "Holy Week for Kids: Day-by-Day Bible Stories"
 slug: "holy-week-day-by-day-for-kids"
 type: "listicle"
 metaDescription: "Walk through Holy Week day by day with your kids. Bible stories, family activities, and discussion questions from Palm Sunday through Easter Sunday."

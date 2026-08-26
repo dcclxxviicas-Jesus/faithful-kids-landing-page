@@ -1,5 +1,5 @@
 ---
-title: "Luke Bible Trivia: 42 Questions and Answers for Kids & Families"
+title: "Luke Bible Trivia: 42 Questions and Answers"
 slug: "luke-bible-trivia"
 type: "listicle"
 metaDescription: "42 Luke Bible trivia questions with answers and verse references -- easy to hard rounds on the manger, the prodigal son, Zacchaeus, and Emmaus."

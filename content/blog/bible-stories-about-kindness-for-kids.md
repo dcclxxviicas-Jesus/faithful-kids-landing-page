@@ -1,5 +1,5 @@
 ---
-title: "10 Bible Stories About Kindness for Kids (Be Kind Like Jesus)"
+title: "10 Bible Stories About Kindness for Kids"
 slug: "bible-stories-about-kindness-for-kids"
 type: "listicle"
 metaDescription: "10 Bible stories about kindness for kids -- the Good Samaritan, Ruth and Boaz, David and Mephibosheth, with questions to ask your child after each."

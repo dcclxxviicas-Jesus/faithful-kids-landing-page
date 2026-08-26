@@ -1,5 +1,5 @@
 ---
-title: "12 Bible Verses About Strength for Kids (Be Strong and Courageous)"
+title: "12 Bible Verses About Strength for Kids"
 slug: "bible-verses-about-strength-for-kids"
 type: "listicle"
 metaDescription: "12 powerful Bible verses about strength for kids. Philippians 4:13, Joshua 1:9, Isaiah 40:31 and more — with kid-friendly explanations for each."

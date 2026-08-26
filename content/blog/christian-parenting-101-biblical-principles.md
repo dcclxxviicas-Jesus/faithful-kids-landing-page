@@ -1,5 +1,5 @@
 ---
-title: "Christian Parenting 101: 10 Biblical Principles Every Parent Needs"
+title: "Christian Parenting 101: 10 Biblical Principles"
 slug: "christian-parenting-101-biblical-principles"
 type: "listicle"
 metaDescription: "10 biblical principles for Christian parenting with scripture references. Practical guidance from Deuteronomy 6:7, Proverbs 22:6, Ephesians 6:4, and more."

@@ -1,5 +1,5 @@
 ---
-title: "10 Bible Verses About Prayer for Kids (Teach Them to Talk to God)"
+title: "10 Bible Verses About Prayer for Kids"
 slug: "bible-verses-about-prayer-for-kids"
 type: "listicle"
 metaDescription: "10 Bible verses about prayer for kids with simple explanations. Teach your child to talk to God using Philippians 4:6, Matthew 7:7, Psalm 145:18, and more."

@@ -1,5 +1,5 @@
 ---
-title: "The Writing on the Wall for Kids: Bible Story Explained Simply"
+title: "The Writing on the Wall: Bible Story for Kids"
 slug: "the-writing-on-the-wall-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

@@ -1,5 +1,5 @@
 ---
-title: "How to Talk to Kids About Divorce Using Bible Stories of Hope"
+title: "Talking to Kids About Divorce: Bible Stories of Hope"
 slug: "talking-to-kids-about-divorce-bible"
 type: "listicle"
 metaDescription: "A gentle guide for talking to kids about divorce using Bible stories of hope. Ruth, Hagar, and David show kids that God stays faithful in broken places."

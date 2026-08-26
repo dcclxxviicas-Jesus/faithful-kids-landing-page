@@ -1,5 +1,5 @@
 ---
-title: "Daniel in the Lions Den for Kids: Bible Story Explained Simply"
+title: "Daniel in the Lions Den: Bible Story for Kids"
 slug: "daniel-in-the-lions-den-for-kids"
 series: "Exile and Faith"
 seriesSlug: "exile-and-faith"

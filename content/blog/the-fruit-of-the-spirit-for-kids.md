@@ -1,5 +1,5 @@
 ---
-title: "The Fruit of the Spirit for Kids: Bible Story Explained Simply"
+title: "The Fruit of the Spirit: Bible Story for Kids"
 slug: "the-fruit-of-the-spirit-for-kids"
 series: "Letters to Churches"
 seriesSlug: "letters-to-churches"

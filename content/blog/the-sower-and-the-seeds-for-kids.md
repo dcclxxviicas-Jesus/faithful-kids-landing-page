@@ -1,5 +1,5 @@
 ---
-title: "The Sower and the Seeds for Kids: Bible Story Explained Simply"
+title: "The Sower and the Seeds: Bible Story for Kids"
 slug: "the-sower-and-the-seeds-for-kids"
 series: "Teachings of Jesus"
 seriesSlug: "teachings-of-jesus"

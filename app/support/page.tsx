@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../components/SiteChrome'
 
 export const metadata: Metadata = {
-  title: 'Support | Faithful Kids',
+  title: 'Support',
   description: 'Get help with Faithful Kids — FAQ, contact info, and troubleshooting for the Bible story app for kids.',
   alternates: { canonical: 'https://faithfulkids.app/support' },
 }

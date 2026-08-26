@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../components/SiteChrome'
 
 export const metadata: Metadata = {
-  title: 'Free Printable Bible Activities for Kids | Faithful Kids',
+  title: 'Free Printable Bible Activities for Kids',
   description:
     'Free printable Bible resources for families: 100 Bible trivia questions, a 30-day family Bible challenge, and a bedtime Bible kit. No sign-up required.',
   alternates: { canonical: 'https://faithfulkids.app/printables' },

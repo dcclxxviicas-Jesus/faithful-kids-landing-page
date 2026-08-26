@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../components/SiteChrome'
 
 export const metadata: Metadata = {
-  title: 'Free for Churches — Bible Videos & Quizzes for Your Kids Ministry',
+  title: 'Free for Churches — Kids Bible Video Lessons',
   description:
-    'Faithful Kids is free for churches: give your Sunday school or kids ministry full access to 670 Bible video episodes with quizzes, plus free printables and an embeddable trivia game.',
+    'Free for churches: give your Sunday school or kids ministry full access to 670 Bible video episodes with quizzes, plus printables and a trivia game.',
   alternates: { canonical: 'https://faithfulkids.app/churches' },
 }
 

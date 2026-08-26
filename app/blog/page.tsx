@@ -4,8 +4,8 @@ import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
 import BlogGrid from './BlogGrid'
 
 export const metadata: Metadata = {
-  title: 'Bible Stories for Kids - Free Guides for Every Story | Faithful Kids',
-  description: 'Explore 200+ Bible stories explained simply for kids ages 5+. Free parent guides with discussion questions, key verses, and video lessons for every story from Genesis to Revelation.',
+  title: 'Bible Stories for Kids — 200+ Free Guides',
+  description: '200+ Bible stories explained simply for kids ages 5+. Free parent guides with discussion questions, key verses and a video lesson for every story.',
   keywords: ['bible stories for kids', 'kids bible stories', 'bible for children', 'sunday school lessons', 'bible lessons for kids', 'christian stories for kids', 'bible study for kids'],
   openGraph: {
     title: 'Bible Stories for Kids - Free Guides for Every Story | Faithful Kids',

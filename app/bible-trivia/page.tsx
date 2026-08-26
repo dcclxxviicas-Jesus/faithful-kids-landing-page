@@ -5,9 +5,9 @@ import { SiteNav, SiteFooter } from '../components/SiteChrome'
 import { EASY, MEDIUM, HARD } from '@/lib/trivia-game-questions'
 
 export const metadata: Metadata = {
-  title: 'Free Bible Trivia Game for Kids — 100 Questions, 3 Levels',
+  title: 'Free Bible Trivia for Kids — 100 Questions',
   description:
-    'Play free Bible trivia online: 100 kid-friendly questions in easy, medium, and hard levels, every answer with its verse. Perfect for family night, Sunday school, or the car — and free to embed on your own website.',
+    'Play free Bible trivia online: 100 kid-friendly questions across easy, medium and hard levels, every answer with its verse. Free to embed on your site.',
   alternates: { canonical: 'https://faithfulkids.app/bible-trivia' },
 }
 

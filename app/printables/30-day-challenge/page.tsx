@@ -2,9 +2,9 @@ import PrintButton from '../PrintButton';
 import { SiteNav, SiteFooter } from '../../components/SiteChrome';
 
 export const metadata = {
-  title: '30-Day Family Bible Challenge — Free Printable | Faithful Kids',
+  title: '30-Day Family Bible Challenge — Printable',
   description:
-    'A free printable 30-day family Bible reading challenge: one short daily reading from creation to resurrection, with a summary and discussion question for each day.',
+    'A free printable 30-day family Bible reading challenge: one short daily reading from creation to resurrection, with a discussion question for each.',
   alternates: { canonical: 'https://faithfulkids.app/printables/30-day-challenge' },
 };
 

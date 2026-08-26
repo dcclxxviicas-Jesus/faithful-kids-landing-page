@@ -2,9 +2,9 @@ import PrintButton from '../PrintButton';
 import { SiteNav, SiteFooter } from '../../components/SiteChrome';
 
 export const metadata = {
-  title: 'Printable Bible Trivia Pack — 100 Questions | Faithful Kids',
+  title: 'Printable Bible Trivia Pack — 100 Questions',
   description:
-    '100 free printable Bible trivia questions for kids in three difficulty levels, each answer with its Scripture reference. Print-ready for family game night or Sunday school.',
+    '100 free printable Bible trivia questions for kids in three difficulty levels, each answer with its Scripture reference. For game night or Sunday school.',
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-trivia-pack' },
 };
 

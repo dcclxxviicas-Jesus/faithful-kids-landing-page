@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const seriesName = posts[0].series
   const testament = posts[0].testament
-  const title = `${seriesName} — Bible Stories for Kids | Faithful Kids`
+  const title = `${seriesName} — Bible Stories for Kids`
   const description = `All ${posts.length} episodes in the ${seriesName} series. ${testament} Bible stories explained simply for kids ages 5+, with videos, quizzes, and discussion questions.`
 
   return {

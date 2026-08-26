@@ -145,6 +145,14 @@ for p in posts:
         if pool:
             got = sorted([s for s in stories if s["seriesSlug"] == pool],
                          key=lambda s: int(s["episode"]))
+        elif any(k in slug for k in ("teen", "youth", "adult", "hard")):
+            # Older audiences get stories with weight. Noah and the ark reads
+            # young on a page written for 15-year-olds at a youth group.
+            older = ["the-empty-tomb-for-kids", "daniel-in-the-lions-den-for-kids",
+                     "esther-saves-her-people-for-kids", "the-fiery-furnace-for-kids",
+                     "stephen-the-first-martyr-for-kids", "the-writing-on-the-wall-for-kids",
+                     "absaloms-rebellion-for-kids", "judah-falls-to-babylon-for-kids"]
+            got = [s for s in stories if s["slug"] in older]
         else:
             # Generic pages get one of the best-known stories, spread by slug.
             best = ["noah-and-the-great-flood-for-kids", "david-and-goliath-for-kids",

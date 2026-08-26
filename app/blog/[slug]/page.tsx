@@ -13,6 +13,7 @@ import {
 import { notFound } from 'next/navigation'
 import { BlogImage } from '../BlogImage'
 import { TriviaGame } from '../TriviaGame'
+import { TriviaVideo } from '../TriviaVideo'
 import { BlogStickyCta } from '../BlogStickyCta'
 import { BlogExitIntent } from '../BlogExitIntent'
 import { EmailCaptureCard } from '../EmailCaptureCard'
@@ -340,6 +341,19 @@ const hasTriviaGame = triviaQuestions.length >= 10
             related={getRelatedTrivia(post.slug)}
             posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
             {...getTriviaVideo(post.slug)}
+          />
+        )}
+
+        {/* Visible video for trivia pages. The game's end screen already has
+            one, but it sits behind starting the game, finishing ten questions
+            and scrolling past the share buttons -- so hardly anyone saw it.
+            Placed BELOW the questions on purpose: trivia visitors came for
+            questions, and a player above them would fight that. */}
+        {hasTriviaGame && (
+          <TriviaVideo
+            {...getTriviaVideo(post.slug)}
+            posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+            slug={post.slug}
           />
         )}
 

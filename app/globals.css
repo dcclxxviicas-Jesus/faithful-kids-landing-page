@@ -832,6 +832,19 @@ body {
   .sl-q { font-size: 1.1rem; }
 }
 
+/* Trivia-page video block. Reuses the .sl-player treatment so the two players
+   on the site look like one thing. */
+.tv-wrap {
+  --duo-green: #16a34a; --duo-green-dark: #15803d;
+  max-width: 720px;
+  margin: 40px auto;
+  text-align: center;
+}
+.tv-heading { font-size: 1.45rem; font-weight: 800; margin-bottom: 6px; }
+.tv-sub { font-size: .95rem; color: var(--text-secondary); margin-bottom: 18px; }
+.tv-note { margin-top: 14px; font-size: .9rem; color: var(--text-secondary); }
+.tv-note a { color: var(--primary-dark); font-weight: 700; }
+
 /* Bible stories hub (/bible-stories-for-kids) */
 .stories-intro {
   max-width: 760px;

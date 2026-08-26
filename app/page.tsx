@@ -494,6 +494,40 @@ export default function Home() {
         </section>
       )}
 
+      {/* TRUST / PRIVACY
+          Every competitor studied (Khan Academy Kids especially) surfaces data
+          and safety promises on the homepage rather than burying them in a
+          policy page. Ours were only in /privacy.
+          EVERY claim below is lifted from our own privacy policy -- do not add
+          anything here that the policy does not already commit to. */}
+      <section className="trust-section">
+        <h2>What we will never do with your child&rsquo;s data</h2>
+        <p className="section-sub">
+          The whole point of a walled garden is that someone actually guards the wall.
+        </p>
+        <div className="trust-grid">
+          <div className="trust-card">
+            <h3>We never sell your data</h3>
+            <p>We do not sell or share personal data with third parties. Not to advertisers, not to anyone.</p>
+          </div>
+          <div className="trust-card">
+            <h3>No third-party tracking</h3>
+            <p>No advertising cookies and no third-party tracking cookies follow your child around the internet.</p>
+          </div>
+          <div className="trust-card">
+            <h3>COPPA compliant</h3>
+            <p>We require verifiable parental consent before collecting anything, as the Children&rsquo;s Online Privacy Protection Act requires.</p>
+          </div>
+          <div className="trust-card">
+            <h3>No ads, and no one paying for placement</h3>
+            <p>Subscriptions are our only revenue. Nothing your child sees was bought by a brand.</p>
+          </div>
+        </div>
+        <p className="trust-footnote">
+          Read the full <a href="/privacy">privacy policy</a> — it is written in plain English, not lawyer.
+        </p>
+      </section>
+
       {/* FAQ */}
       <section className="faq-section" id="faq">
         <h2>Frequently asked questions</h2>

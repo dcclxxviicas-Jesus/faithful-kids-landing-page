@@ -1,5 +1,7 @@
 import PrintButton from '../PrintButton';
 import { SiteNav, SiteFooter } from '../../components/SiteChrome';
+import { PrintableCta } from '../PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 
 export const metadata = {
   title: 'Printable Bible Trivia Pack — 100 Questions',
@@ -270,6 +272,14 @@ export default function BibleTriviaPackPage() {
         <strong style={{ color: EMERALD }}>faithfulkids.app</strong> — free 3-day trial.
       </footer>
     </main>
+      <PrintableCta
+        {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
+        duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
+        heading="They answered the questions. Now show them the story."
+        body="A trivia pack tests what a child already knows. The episodes teach it — 200 stories, Genesis to Revelation, a few minutes each, with a quiz after every one so you can see what actually landed."
+        source="trivia-pack"
+      />
+
     <SiteFooter />
     </>
   );

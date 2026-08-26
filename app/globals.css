@@ -2921,3 +2921,25 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   .ws-sheet { margin: 0 auto !important; padding: 0 !important; }
   .ws-table td { width: 1.6rem !important; height: 1.6rem !important; font-size: .9rem !important; }
 }
+
+/* Drag-to-select. touch-action:none stops the page scrolling under a finger
+   that is dragging across the grid — without it the puzzle is unusable on a
+   phone, which is where most of these are played. */
+.wsg-table { touch-action: none; }
+.wsg-sel { background: #bbf7d0; color: #14532d; font-weight: 800; }
+.wsg-lit.wsg-sel { background: #16a34a; color: #fff; }
+
+/* Instructions: previously .wsg-hint at .86rem in #999, which nobody read. */
+.wsg-how { margin-top: 14px; }
+.wsg-how-main {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: #ecfdf3; color: #15803d;
+  font-size: 1rem; font-weight: 800;
+  padding: 9px 18px; border-radius: 999px;
+}
+.wsg-how-icon { font-size: 1.1rem; }
+.wsg-how-alt {
+  margin-top: 9px; font-size: .86rem; line-height: 1.5;
+  color: var(--text-secondary); max-width: 400px; margin-left: auto; margin-right: auto;
+}
+@media print { .wsg-sel { background: none !important; color: #333 !important; } }

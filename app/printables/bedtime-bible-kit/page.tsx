@@ -1,5 +1,7 @@
 import PrintButton from '../PrintButton';
 import { SiteNav, SiteFooter } from '../../components/SiteChrome';
+import { PrintableCta } from '../PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 
 export const metadata = {
   title: 'Bedtime Bible Kit — 7 Free Printable Nights',
@@ -285,6 +287,14 @@ export default function BedtimeBibleKitPrintable() {
         </p>
       </section>
     </main>
+      <PrintableCta
+        {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
+        duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
+        heading="Seven nights here. Two hundred stories in the app."
+        body="The kit covers a week of bedtimes. When you run out, the library picks up where it stops — short episodes built for the last ten minutes of the day, each with a quiz for the morning after."
+        source="bedtime-kit"
+      />
+
     <SiteFooter />
     </>
   );

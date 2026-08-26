@@ -9,14 +9,19 @@
  * visitor who stumbles onto this page should get a real game — that is what
  * keeps them on the page, and what makes the app pitch afterwards credible.
  *
- * Tap the first letter, then the last. Deliberately not drag-select: dragging
- * is fiddly on touch and breaks the moment a child's finger leaves the grid.
+ * Two ways to select, because neither alone suits everyone: drag across a word
+ * (mouse or finger), or tap the first letter and then the last. The tap route
+ * matters on touch — a child whose finger slips off the grid mid-drag loses the
+ * selection, and tapping two ends never fails that way.
+ *
+ * Dragging uses elementFromPoint rather than pointerenter, because pointerenter
+ * does not fire for a finger moving over elements on touch devices.
  *
  * Printing is unaffected — every game-state class is dropped by the print
  * stylesheet, so a page printed mid-game comes out blank and usable.
  */
 
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import posthog from 'posthog-js'
 
 type Placement = { row: number; col: number; dr: number; dc: number }
@@ -42,6 +47,10 @@ export function WordSearchGame({
 }) {
   const [found, setFound] = useState<Record<string, boolean>>({})
   const [start, setStart] = useState<[number, number] | null>(null)
+  const [anchor, setAnchor] = useState<[number, number] | null>(null)
+  const [cursor, setCursor] = useState<[number, number] | null>(null)
+  const draggingRef = useRef(false)
+  const movedRef = useRef(false)
   const [streak, setStreak] = useState(0)
   const [best, setBest] = useState(0)
   const [toast, setToast] = useState<{ text: string; good: boolean } | null>(null)
@@ -69,16 +78,17 @@ export function WordSearchGame({
     return s
   }, [found, answers])
 
-  const click = useCallback((r: number, c: number) => {
-    if (done) return
+  const begin = useCallback(() => {
     if (began === null) {
       setBegan(Date.now())
       try { posthog.capture('word_search_start', { slug }) } catch {}
     }
-    if (!start) { setStart([r, c]); return }
-    const [sr, sc] = start
-    if (sr === r && sc === c) { setStart(null); return }
+  }, [began, slug])
 
+  /** Validate a selection running from one cell to another. */
+  const submit = useCallback((a: [number, number], b: [number, number]) => {
+    const [sr, sc] = a, [r, c] = b
+    if (sr === r && sc === c) return false
     const straight = sr === r || sc === c || Math.abs(r - sr) === Math.abs(c - sc)
     if (straight) {
       const dr = Math.sign(r - sr), dc = Math.sign(c - sc)
@@ -91,31 +101,97 @@ export function WordSearchGame({
         const n = streak + 1
         setFound(f => ({ ...f, [hit]: true }))
         setStreak(n)
-        setBest(b => Math.max(b, n))
+        setBest(bs => Math.max(bs, n))
         setToast({
           text: n >= 3 ? `🔥 ${n} in a row! ${PRAISE[n % PRAISE.length]}` : PRAISE[n % PRAISE.length],
           good: true,
         })
         setTimeout(() => setToast(null), 1400)
-        setStart(null)
         if (foundCount + 1 === total) {
           try {
             posthog.capture('word_search_complete', {
-              slug, seconds: began ? Math.floor((Date.now() - began) / 1000) : null, best_streak: Math.max(best, n),
+              slug,
+              seconds: began ? Math.floor((Date.now() - began) / 1000) : null,
+              best_streak: Math.max(best, n),
             })
           } catch {}
         }
-        return
+        return true
       }
     }
     setStreak(0)
     setShake(true)
     setTimeout(() => setShake(false), 320)
-    setStart(null)
-  }, [done, began, start, grid, words, found, foundCount, total, streak, best, slug])
+    return false
+  }, [grid, words, found, foundCount, total, streak, best, began, slug])
+
+  /** Which cell is under this point? Works for mouse and finger alike --
+   *  pointerenter does not fire for a finger sliding across elements. */
+  function cellAt(x: number, y: number): [number, number] | null {
+    const el = document.elementFromPoint(x, y) as HTMLElement | null
+    const cell = el?.closest?.('[data-rc]') as HTMLElement | null
+    if (!cell?.dataset.rc) return null
+    const [r, c] = cell.dataset.rc.split(',').map(Number)
+    return [r, c]
+  }
+
+  function onPointerDown(e: React.PointerEvent, r: number, c: number) {
+    if (done) return
+    e.preventDefault()
+    begin()
+    draggingRef.current = true
+    movedRef.current = false
+    setAnchor([r, c])
+    setCursor([r, c])
+  }
+
+  function onPointerMove(e: React.PointerEvent) {
+    if (!draggingRef.current || done) return
+    const at = cellAt(e.clientX, e.clientY)
+    if (!at) return
+    if (!cursor || at[0] !== cursor[0] || at[1] !== cursor[1]) {
+      movedRef.current = true
+      setCursor(at)
+    }
+  }
+
+  function onPointerUp() {
+    if (done) return
+    const a = anchor
+    draggingRef.current = false
+
+    if (movedRef.current && a && cursor) {
+      submit(a, cursor)
+      setAnchor(null); setCursor(null); setStart(null)
+      return
+    }
+    // No drag: treat it as a tap. First tap arms, second tap submits.
+    if (a) {
+      if (start) {
+        submit(start, a)
+        setStart(null)
+      } else {
+        setStart(a)
+      }
+    }
+    setAnchor(null); setCursor(null)
+  }
+
+  /** Cells under the in-progress drag, for live highlighting. */
+  const previewing = useMemo(() => {
+    const s = new Set<string>()
+    if (!anchor || !cursor) return s
+    const [sr, sc] = anchor, [r, c] = cursor
+    const straight = sr === r || sc === c || Math.abs(r - sr) === Math.abs(c - sc)
+    if (!straight) return s
+    const dr = Math.sign(r - sr), dc = Math.sign(c - sc)
+    const len = Math.max(Math.abs(r - sr), Math.abs(c - sc)) + 1
+    for (let i = 0; i < len; i++) s.add(`${sr + dr * i},${sc + dc * i}`)
+    return s
+  }, [anchor, cursor])
 
   function reset() {
-    setFound({}); setStart(null); setStreak(0); setBest(0)
+    setFound({}); setStart(null); setAnchor(null); setCursor(null); setStreak(0); setBest(0)
     setBegan(null); setElapsed(0); setToast(null)
   }
 
@@ -139,9 +215,22 @@ export function WordSearchGame({
 
         {toast && <p className="wsg-toast">{toast.text}</p>}
         {!toast && !done && (
-          <p className="wsg-hint">
-            {start ? 'Now tap the last letter.' : 'Tap the first letter of a word, then the last.'}
-          </p>
+          <div className="wsg-how">
+            {start ? (
+              <p className="wsg-how-main">Now tap the <strong>last</strong> letter of the word.</p>
+            ) : (
+              <>
+                <p className="wsg-how-main">
+                  <span className="wsg-how-icon" aria-hidden="true">👆</span>
+                  Drag across a word to circle it
+                </p>
+                <p className="wsg-how-alt">
+                  Or tap the first letter, then the last. Words run in every direction,
+                  including backwards.
+                </p>
+              </>
+            )}
+          </div>
         )}
 
         {done && (
@@ -159,20 +248,38 @@ export function WordSearchGame({
         )}
       </div>
 
-      <table className={`ws-table wsg-table${shake ? ' wsg-shake' : ''}`}>
+      <table
+        className={`ws-table wsg-table${shake ? ' wsg-shake' : ''}`}
+        onPointerMove={onPointerMove}
+        onPointerUp={onPointerUp}
+        onPointerLeave={onPointerUp}
+        onPointerCancel={onPointerUp}
+      >
         <tbody>
           {grid.map((row, r) => (
             <tr key={r}>
               {row.map((ch, c) => {
+                const key = `${r},${c}`
                 const isStart = start && start[0] === r && start[1] === c
+                const cls = [
+                  'wsg-cell',
+                  lit.has(key) ? 'wsg-lit' : '',
+                  previewing.has(key) ? 'wsg-sel' : '',
+                  isStart ? 'wsg-start' : '',
+                ].filter(Boolean).join(' ')
                 return (
                   <td
                     key={c}
-                    className={`wsg-cell${lit.has(`${r},${c}`) ? ' wsg-lit' : ''}${isStart ? ' wsg-start' : ''}`}
-                    onClick={() => click(r, c)}
+                    data-rc={key}
+                    className={cls}
+                    onPointerDown={e => onPointerDown(e, r, c)}
                     role="button"
                     tabIndex={0}
-                    onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') click(r, c) }}
+                    onKeyDown={e => {
+                      if (e.key !== 'Enter' && e.key !== ' ') return
+                      begin()
+                      if (start) { submit(start, [r, c]); setStart(null) } else { setStart([r, c]) }
+                    }}
                   >
                     {ch}
                   </td>

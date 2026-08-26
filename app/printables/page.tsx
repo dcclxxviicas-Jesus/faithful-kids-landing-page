@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../components/SiteChrome'
+import { PrintableCta } from './PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 
 export const metadata: Metadata = {
   title: 'Free Printable Bible Activities for Kids',
@@ -137,6 +139,14 @@ export default function Printables() {
           <span>✓ Zero ads, ever</span>
         </div>
       </section>
+      <PrintableCta
+        {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
+        duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
+        heading="Free is the start, not the whole thing"
+        body="Every printable here comes from a story in the Faithful Kids library. The episodes tell it properly — a few minutes each, with a quiz afterwards so you can see what your child actually understood, across 200 stories in order."
+        source="printables-index"
+      />
+
 
       <SiteFooter />
     </>

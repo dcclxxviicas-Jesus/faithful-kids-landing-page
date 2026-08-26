@@ -29,6 +29,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      // Hub for "bible stories for kids" (1,479/mo). Priority matches the
+      // homepage because this is the primary organic target, not a side page.
+      url: `${baseUrl}/bible-stories-for-kids`,
+      lastModified: new Date('2026-08-26'),
+      changeFrequency: 'weekly',
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/bible-trivia`,
       lastModified: new Date('2026-08-16'),
       changeFrequency: 'monthly',

@@ -649,6 +649,59 @@ body {
 }
 .guarantee-section h2.guarantee-heading { font-size: 1.4rem; font-weight: 800; margin-bottom: 12px; }
 
+/* Bible stories hub (/bible-stories-for-kids) */
+.stories-intro {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 24px 8px;
+}
+.stories-intro p {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  color: var(--text-secondary);
+  margin-bottom: 18px;
+}
+.stories-section { padding: 56px 24px; text-align: center; }
+.stories-section.stories-alt { background: var(--bg-alt); }
+.stories-section h2 { font-size: 1.9rem; font-weight: 800; margin-bottom: 10px; }
+.stories-grid {
+  max-width: var(--max-width);
+  margin: 28px auto 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 22px;
+  text-align: left;
+}
+.stories-grid-3 { grid-template-columns: repeat(3, 1fr); }
+.stories-grid-4 { grid-template-columns: repeat(4, 1fr); }
+.stories-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 24px 22px;
+}
+.stories-card h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; }
+.stories-card h3 a { color: var(--text-primary); text-decoration: none; }
+.stories-card h3 a:hover { color: var(--primary-dark); }
+.stories-theme { text-transform: capitalize; color: var(--primary-dark); }
+.stories-scripture {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  margin-bottom: 12px;
+}
+.stories-list { margin: 0; padding-left: 1.1rem; }
+.stories-list li { margin-bottom: 6px; font-size: 0.9rem; line-height: 1.45; }
+.stories-list a { color: var(--text-secondary); text-decoration: none; }
+.stories-list a:hover { color: var(--primary-dark); text-decoration: underline; }
+.stories-faq {
+  max-width: 820px;
+  margin: 28px auto 0;
+  text-align: left;
+}
+.stories-faq-item { margin-bottom: 26px; }
+.stories-faq-item h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+.stories-faq-item p { font-size: 0.95rem; line-height: 1.7; color: var(--text-secondary); }
+
 /* Trust / privacy block — mirrors .age-section so it reads as native */
 .trust-section {
   background: var(--bg-alt);
@@ -1329,6 +1382,9 @@ body {
   .testimonial-grid { grid-template-columns: 1fr; }
   .age-grid { grid-template-columns: 1fr; }
   .trust-grid { grid-template-columns: 1fr; }
+  .stories-grid,
+  .stories-grid-3,
+  .stories-grid-4 { grid-template-columns: 1fr; }
   .steps-grid { grid-template-columns: repeat(2, 1fr); }
   .features-grid { grid-template-columns: repeat(2, 1fr); }
 

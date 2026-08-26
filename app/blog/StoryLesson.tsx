@@ -63,12 +63,14 @@ export function StoryLesson({
   const quizRef = useRef<HTMLDivElement>(null)
   const [playing, setPlaying] = useState(false)
   const [watched, setWatched] = useState(false)
+  const [halfway, setHalfway] = useState(false)
   const [quizOpen, setQuizOpen] = useState(false)
   const [index, setIndex] = useState(0)
   const [picked, setPicked] = useState<number | null>(null)
   const [score, setScore] = useState(0)
   const [done, setDone] = useState(false)
   const [msg, setMsg] = useState('')
+  const advanceRef = useRef<number | null>(null)
 
   const total = questions.length
   const q = questions[index]
@@ -94,26 +96,38 @@ export function StoryLesson({
     if (watched && !quizOpen && !done) openQuiz()
   }, [watched, quizOpen, done, openQuiz])
 
+  const advance = useCallback((finalScore: number) => {
+    if (advanceRef.current) { window.clearTimeout(advanceRef.current); advanceRef.current = null }
+    setIndex(i => {
+      if (i + 1 >= total) {
+        setDone(true)
+        track('story_lesson_complete', { slug, score: finalScore, total })
+        return i
+      }
+      setPicked(null)
+      return i + 1
+    })
+  }, [slug, total])
+
   function choose(i: number) {
     if (picked !== null) return
     const right = i === q.correct
+    const newScore = right ? score + 1 : score
     setPicked(i)
-    if (right) setScore(s => s + 1)
+    if (right) setScore(newScore)
     setMsg(right
       ? CORRECT_MESSAGES[Math.floor(Math.random() * CORRECT_MESSAGES.length)]
       : WRONG_MESSAGES[Math.floor(Math.random() * WRONG_MESSAGES.length)])
     track('story_lesson_answer', { slug, index, correct: right })
+
+    // Auto-advance. A wrong answer gets longer, because the explanation is the
+    // teaching moment and rushing past it defeats the point.
+    const hold = right ? (q.why ? 3200 : 2000) : (q.why ? 4600 : 2600)
+    advanceRef.current = window.setTimeout(() => advance(newScore), hold)
   }
 
-  function next() {
-    if (index + 1 >= total) {
-      setDone(true)
-      track('story_lesson_complete', { slug, score, total })
-      return
-    }
-    setIndex(i => i + 1)
-    setPicked(null)
-  }
+  // Clear any pending timer on unmount so it can't fire into a dead component.
+  useEffect(() => () => { if (advanceRef.current) window.clearTimeout(advanceRef.current) }, [])
 
   function replay() {
     setIndex(0); setPicked(null); setScore(0); setDone(false)
@@ -134,6 +148,13 @@ export function StoryLesson({
           preload="none"
           playsInline
           controls={playing}
+          onTimeUpdate={e => {
+            const v = e.currentTarget
+            if (!halfway && v.duration && v.currentTime / v.duration >= 0.5) {
+              setHalfway(true)
+              track('story_lesson_video_half', { slug })
+            }
+          }}
           onEnded={() => { setWatched(true); track('story_lesson_video_complete', { slug }) }}
         >
           {captionsUrl && <track kind="captions" src={captionsUrl} srcLang="en" label="English" default />}
@@ -152,12 +173,22 @@ export function StoryLesson({
         )}
       </div>
 
-      {total > 0 && !quizOpen && (
+      {/* Framing line, not another button. The page already carries five /quiz
+          links; what it lacked was a reason to press play in the first place. */}
+      {!playing && (
+        <p className="sl-together">
+          <strong>Watch it with your kids.</strong> Press play, then see what they remember.
+        </p>
+      )}
+
+      {/* The quiz button only appears once they are half way in. Before that it
+          competed with the play button for the same attention. */}
+      {total > 0 && !quizOpen && halfway && (
         <div className="sl-open-row">
           <button className="sl-btn sl-btn-green sl-open-quiz" onClick={openQuiz}>
             Take the {total}-question quiz
           </button>
-          <p className="sl-open-note">Same quiz your child gets in the app. Takes a minute.</p>
+          <p className="sl-open-note">Same quiz your child gets in the app.</p>
         </div>
       )}
 
@@ -192,12 +223,22 @@ export function StoryLesson({
               </div>
 
               {picked !== null && (
-                <div className={`sl-fb${picked === q.correct ? ' sl-fb-right' : ' sl-fb-wrong'}`}>
+                <div
+                  className={`sl-fb${picked === q.correct ? ' sl-fb-right' : ' sl-fb-wrong'}`}
+                  onClick={() => advance(score)}
+                  role="button"
+                  tabIndex={0}
+                  onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') advance(score) }}
+                  title="Tap to continue"
+                >
                   <strong>{msg}</strong>
                   {q.why && <p>{q.why}</p>}
-                  <button className="sl-btn sl-btn-green" onClick={next}>
-                    {index + 1 >= total ? 'See your score' : 'Continue'}
-                  </button>
+                  {/* Timer bar: shows the round is moving on by itself, so the
+                      jump never feels like a glitch. Tapping skips it. */}
+                  <span
+                    className="sl-timer"
+                    style={{ animationDuration: `${picked === q.correct ? (q.why ? 3.2 : 2) : (q.why ? 4.6 : 2.6)}s` }}
+                  />
                 </div>
               )}
             </div>

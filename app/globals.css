@@ -726,12 +726,30 @@ body {
   padding: 4px 12px; border-radius: 999px;
   backdrop-filter: blur(4px);
 }
-.sl-open-row { text-align: center; margin-top: 20px; }
+.sl-together {
+  text-align: center; margin-top: 16px;
+  font-size: .96rem; line-height: 1.5; color: #666;
+}
+.sl-together strong { color: #15803d; font-weight: 800; }
+
+.sl-open-row { text-align: center; margin-top: 20px; animation: slRise .34s ease-out; }
+@keyframes slRise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
 .sl-open-quiz {
   width: 100%; max-width: 380px;
   padding: 16px 28px; font-size: 1.06rem;
 }
 .sl-open-note { margin-top: 10px; font-size: .84rem; font-weight: 600; color: #777; }
+
+/* Auto-advance timer bar across the bottom of the feedback panel. */
+.sl-fb { position: relative; overflow: hidden; cursor: pointer; }
+.sl-timer {
+  position: absolute; left: 0; bottom: 0; height: 4px;
+  background: rgba(21,128,61,.55); border-radius: 0 4px 4px 0;
+  animation-name: slTimer; animation-timing-function: linear; animation-fill-mode: forwards;
+}
+.sl-fb-wrong .sl-timer { background: rgba(234,43,43,.5); }
+@keyframes slTimer { from { width: 0; } to { width: 100%; } }
+@media (prefers-reduced-motion: reduce) { .sl-timer { animation: none; width: 100%; } }
 .sl-cta-note { margin-top: 12px; font-size: .8rem; font-weight: 600; color: #999; }
 
 /* --- quiz (mirrors card-duo-elevated / btn-duo) --- */

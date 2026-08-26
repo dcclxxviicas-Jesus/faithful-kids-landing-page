@@ -9,8 +9,17 @@ const SESSION_KEY = 'fk_exit_session'
 const QUIZ_CLICK_KEY = 'fk_quiz_cta_clicked'
 const TRIVIA_KEY = 'fk_trivia_started'
 const SUPPRESS_DAYS = 1
-const MIN_TIME_MS = 20_000
-const MIN_SCROLL = 0.35
+// Loosened Aug 26. These were tuned when the popup asked a cold visitor to
+// start a paid subscription and people hated it. It now offers a free
+// printable and converts ~1.9% of everyone who sees it, so the job is to put
+// it in front of more of the ~78% who bounce.
+const MIN_TIME_MS = 8_000
+const MIN_SCROLL = 0.20
+// ...but 20% of a 30,000px post is 9 screens of scrolling. The guard only
+// needs to prove "this person is reading, not instantly bouncing", which one
+// and a half screens establishes on a page of any length. Whichever lands
+// first wins.
+const MIN_SCROLL_SCREENS = 1.5
 
 type Variant = 'trivia' | 'story' | 'guide'
 
@@ -100,7 +109,9 @@ export function BlogExitIntent({
     function onScroll() {
       const y = window.scrollY
       const docH = document.documentElement.scrollHeight - window.innerHeight
-      if (docH > 0 && y / docH >= MIN_SCROLL) deepScrolled.current = true
+      const byFraction = docH > 0 && y / docH >= MIN_SCROLL
+      const byScreens = y >= window.innerHeight * MIN_SCROLL_SCREENS
+      if (byFraction || byScreens) deepScrolled.current = true
 
       if (y < lastY.current && y > window.innerHeight && deepScrolled.current) {
         upDistance.current += lastY.current - y

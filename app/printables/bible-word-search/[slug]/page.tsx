@@ -3,6 +3,9 @@ import { notFound } from 'next/navigation'
 import { SiteNav, SiteFooter } from '../../../components/SiteChrome'
 import PrintButton from '../../PrintButton'
 import puzzles from '@/lib/word-searches.json'
+import { WordSearchGame } from '../WordSearchGame'
+import { PrintableCta } from '../../PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
 
 type Puzzle = (typeof puzzles)[number]
@@ -46,6 +49,8 @@ export default async function WordSearchPuzzle(
   if (!p) notFound()
 
   const others = puzzles.filter(o => o.slug !== p.slug).slice(0, 6)
+  const vids = printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>
+  const clip = vids[p.slug] ?? vids._default
 
   // Cells that belong to a hidden word, for the answer key rendering.
   type Placement = { row: number; col: number; dr: number; dc: number }
@@ -75,18 +80,13 @@ export default async function WordSearchPuzzle(
 
       <div className="ws-sheet">
         <h2 className="ws-sheet-title">{p.title} Word Search</h2>
-        <table className="ws-table">
-          <tbody>
-            {p.grid.map((row, r) => (
-              <tr key={r}>
-                {row.map((ch, c) => <td key={c}>{ch}</td>)}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-        <ul className="ws-list">
-          {p.words.map(w => <li key={w}>{w}</li>)}
-        </ul>
+        <WordSearchGame
+          grid={p.grid}
+          words={p.words}
+          answers={answers}
+          slug={p.slug}
+          title={p.title}
+        />
         <p className="ws-credit">
           <strong>FaithfulKids.app</strong>
           <span>Watch the {p.title} story free &middot; faithfulkids.app/bible-stories-for-kids</span>
@@ -103,19 +103,26 @@ export default async function WordSearchPuzzle(
           twelve.
         </p>
 
-        <h2>Answer key</h2>
-        <p>Fold this under before you hand the sheet over, or check it afterwards together.</p>
-        <table className="ws-table ws-answers">
-          <tbody>
-            {p.grid.map((row, r) => (
-              <tr key={r}>
-                {row.map((ch, c) => (
-                  <td key={c} className={solution.has(`${r},${c}`) ? 'ws-hit' : undefined}>{ch}</td>
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        <details className="ws-key">
+          <summary>
+            <span className="ws-key-caret" aria-hidden="true">&#9656;</span>
+            Show the answer key
+          </summary>
+          <p className="ws-key-note">
+            Closed by default so nobody spots it over a shoulder mid-puzzle.
+          </p>
+          <table className="ws-table ws-answers">
+            <tbody>
+              {p.grid.map((row, r) => (
+                <tr key={r}>
+                  {row.map((ch, c) => (
+                    <td key={c} className={solution.has(`${r},${c}`) ? 'ws-hit' : undefined}>{ch}</td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </details>
 
         <h2>More Bible word searches</h2>
         <div className="ws-more">
@@ -133,10 +140,18 @@ export default async function WordSearchPuzzle(
           magnet="coloring-pages"
           source="blog-inline"
           sourcePost={`word-search-${p.slug}`}
-          title="\u{1F58D}\uFE0F Free too: all 26 Bible coloring pages"
-          subtitle="One PDF, Creation to the Empty Tomb \u2014 the set that pairs with these puzzles."
+          title="🖍️ Free too: all 26 Bible coloring pages"
+          subtitle="One PDF, Creation to the Empty Tomb — the set that pairs with these puzzles."
         />
       </section>
+
+      <PrintableCta
+        {...clip}
+        duration={clip.duration ?? undefined}
+        heading="Finding the words is not the same as knowing the story"
+        body={`Twelve words is vocabulary. ${clip.videoTitle} tells the story in about two minutes and ends with a quiz, so you find out what actually landed — one of 200 episodes, Genesis to Revelation.`}
+        source="word-search-detail"
+      />
 
       <section className="blog-bottom-cta no-print">
         <div className="blog-bottom-cta-inner">

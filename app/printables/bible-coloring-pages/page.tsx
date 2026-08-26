@@ -1,6 +1,8 @@
 import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
+import { PrintableCta } from '../PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 import { EmailCaptureCard } from '../../blog/EmailCaptureCard'
 
 /**
@@ -161,6 +163,14 @@ export default function BibleColoringPages() {
           the main event, which is worth knowing before you plan a whole session around it.
         </p>
       </section>
+
+      <PrintableCta
+        {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
+        duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
+        heading="Coloring is quiet time. This is the lesson."
+        body="Print as many as you like — they cost nothing and they are genuinely useful. But a page tells you a child was busy, not what they understood. Every scene here is also a short episode with a quiz after it, and the quiz is the part that answers that."
+        source="coloring-hub"
+      />
 
       <section className="blog-bottom-cta no-print">
         <div className="blog-bottom-cta-inner">

@@ -1,0 +1,62 @@
+{
+"creation": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/in-the-beginning-creation-for-kids-hero.webp",
+"videoTitle": "In the Beginning Creation",
+"duration": "2:19"
+},
+"david-and-goliath": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+"videoTitle": "David and Goliath",
+"duration": "2:12"
+},
+"the-fiery-furnace": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/exile-and-faith-series/04-the-fiery-furnace/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-fiery-furnace-for-kids-hero.webp",
+"videoTitle": "The Fiery Furnace",
+"duration": "1:55"
+},
+"baby-jesus-manger": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/04-born-in-a-manger/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/born-in-a-manger-for-kids-hero.webp",
+"videoTitle": "Born in a Manger",
+"duration": "2:13"
+},
+"jesus-calms-the-storm": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/miracles-of-jesus-series/01-calming-the-storm/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/calming-the-storm-for-kids-hero.webp",
+"videoTitle": "Calming the Storm",
+"duration": "2:03"
+},
+"the-good-samaritan": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/04-the-good-samaritan/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-good-samaritan-for-kids-hero.webp",
+"videoTitle": "The Good Samaritan",
+"duration": "1:57"
+},
+"the-empty-tomb": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/he-is-risen-series/01-the-empty-tomb/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-empty-tomb-for-kids-hero.webp",
+"videoTitle": "The Empty Tomb",
+"duration": "1:58"
+},
+"angel-visits-mary": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp",
+"videoTitle": "An Angel Visits Mary",
+"duration": "2:03"
+},
+"shepherds-and-angels": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/05-the-shepherds/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-shepherds-for-kids-hero.webp",
+"videoTitle": "The Shepherds",
+"duration": "2:16"
+},
+"_default": {
+"videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+"posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+"videoTitle": "David and Goliath",
+"duration": "2:12"
+}
+}

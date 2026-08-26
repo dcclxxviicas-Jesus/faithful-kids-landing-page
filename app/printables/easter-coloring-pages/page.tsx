@@ -3,6 +3,8 @@ import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
 import { EmailCaptureCard } from '../../blog/EmailCaptureCard'
 import { COLORING_PAGES, CDN } from '@/lib/coloring-pages'
+import { PrintableCta } from '../PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 
 /**
  * Easter coloring pages hub.
@@ -134,6 +136,14 @@ export default function Page() {
           the whole story, all free to print.
         </p>
       </section>
+      <PrintableCta
+        {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
+        duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
+        heading="Walk them through Holy Week, day by day"
+        body="Six pages give a child the shape of the week. The episodes give them the story: Palm Sunday through the resurrection, a few minutes each, with a quiz after every one."
+        source="easter-hub"
+      />
+
 
       <section className="blog-bottom-cta no-print">
         <div className="blog-bottom-cta-inner">

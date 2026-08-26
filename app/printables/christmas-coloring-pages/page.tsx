@@ -3,6 +3,8 @@ import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
 import { EmailCaptureCard } from '../../blog/EmailCaptureCard'
 import { COLORING_PAGES, CDN } from '@/lib/coloring-pages'
+import { PrintableCta } from '../PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 
 /**
  * Christmas coloring pages hub.
@@ -130,6 +132,14 @@ export default function Page() {
           the whole story, all free to print.
         </p>
       </section>
+      <PrintableCta
+        {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
+        duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
+        heading="The Christmas story is longer than the stable"
+        body="Six pages cover it in order, from the angel to the wise men. The episodes tell it properly, with a quiz afterwards, and 200 more stories waiting once December is over."
+        source="christmas-hub"
+      />
+
 
       <section className="blog-bottom-cta no-print">
         <div className="blog-bottom-cta-inner">

@@ -1,6 +1,8 @@
 import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import puzzles from '@/lib/word-searches.json'
+import { PrintableCta } from '../PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 
 /**
  * Bible word search hub.
@@ -133,6 +135,14 @@ export default function WordSearchHub() {
           <a href="/bible-trivia">a Bible trivia game</a> you can play in the browser.
         </p>
       </section>
+      <PrintableCta
+        {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
+        duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
+        heading="The puzzle is the warm-up. This is the story."
+        body="A word search teaches twelve words. The episode behind it takes about two minutes, ends with a quiz, and is one of 200 covering the whole Bible in order."
+        source="word-search-hub"
+      />
+
 
       <section className="blog-bottom-cta">
         <div className="blog-bottom-cta-inner">

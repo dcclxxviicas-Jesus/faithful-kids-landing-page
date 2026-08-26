@@ -4,6 +4,8 @@ import { SiteNav, SiteFooter } from '../../../components/SiteChrome'
 import PrintButton from '../../PrintButton'
 import { COLORING_PAGES, getColoringPage, CDN } from '@/lib/coloring-pages'
 import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
+import { PrintableCta } from '../../PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 
 /**
  * One page per coloring scene.
@@ -60,6 +62,8 @@ export default async function ColoringPageDetail(
   if (!page) notFound()
 
   const others = COLORING_PAGES.filter(p => p.slug !== page.slug).slice(0, 8)
+  const vids = printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>
+  const clip = vids[page.slug] ?? vids._default
   const url = `https://faithfulkids.app/printables/bible-coloring-pages/${page.slug}`
 
   const schema = {
@@ -176,10 +180,18 @@ export default async function ColoringPageDetail(
           magnet="coloring-pages"
           source="blog-inline"
           sourcePost={`coloring-${page.slug}`}
-          title="\u{1F58D}\uFE0F Want all 26 pages in one PDF?"
-          subtitle="Print the whole set at once instead of one page at a time \u2014 Creation to the Empty Tomb."
+          title="🖍️ Want all 26 pages in one PDF?"
+          subtitle="Print the whole set at once instead of one page at a time — Creation to the Empty Tomb."
         />
       </section>
+
+      <PrintableCta
+        {...clip}
+        duration={clip.duration ?? undefined}
+        heading={`They colored it. Now let them watch it.`}
+        body={`A coloring page holds a child for ten minutes and tells you nothing about what they understood. ${clip.videoTitle} takes about two minutes and ends with a quiz that does — one of 200 episodes covering the whole Bible in order.`}
+        source="coloring-detail"
+      />
 
       <section className="blog-bottom-cta no-print">
         <div className="blog-bottom-cta-inner">

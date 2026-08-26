@@ -1,5 +1,5 @@
 ---
-title: "Wandering in the Wilderness for Kids: Bible Story Explained Simply"
+title: "Wandering in the Wilderness: Bible Story for Kids"
 slug: "wandering-in-the-wilderness-for-kids"
 series: "Promised Land"
 seriesSlug: "promised-land"

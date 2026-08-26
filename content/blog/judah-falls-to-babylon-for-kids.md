@@ -1,5 +1,5 @@
 ---
-title: "Judah Falls to Babylon for Kids: Bible Story Explained Simply"
+title: "Judah Falls to Babylon: Bible Story for Kids"
 slug: "judah-falls-to-babylon-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

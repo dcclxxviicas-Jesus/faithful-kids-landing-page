@@ -1,5 +1,5 @@
 ---
-title: "Philip and the Ethiopian for Kids: Bible Story Explained Simply"
+title: "Philip and the Ethiopian: Bible Story for Kids"
 slug: "philip-and-the-ethiopian-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

@@ -1,5 +1,5 @@
 ---
-title: "Elijah Taken to Heaven for Kids: Bible Story Explained Simply"
+title: "Elijah Taken to Heaven: Bible Story for Kids"
 slug: "elijah-taken-to-heaven-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

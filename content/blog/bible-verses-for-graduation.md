@@ -1,5 +1,5 @@
 ---
-title: "Bible Verses for Kids Graduation (Preschool Through 8th Grade)"
+title: "Bible Verses for Kids Graduation, Preschool to 8th Grade"
 slug: "bible-verses-for-graduation"
 type: "listicle"
 metaDescription: "15 perfect Bible verses for kids graduation — from preschool to 8th grade. Great for cards, speeches, gifts, and celebrations."

@@ -2,7 +2,7 @@
 title: "12 Bible Stories for 10-12 Year Olds (Deep and Challenging)"
 slug: "bible-stories-for-10-year-olds"
 type: "listicle"
-metaDescription: "12 Bible stories for 10-12 year olds -- full arcs like Joseph, David's fall, and Jonah's anger, with discussion questions that make preteens actually think."
+metaDescription: "12 Bible stories for 10-12 year olds: full arcs like Joseph, David's fall and Jonah's anger, with questions that make preteens think."
 keywords: ["bible stories for 10 year olds", "bible for tweens", "bible stories for preteens", "bible for 12 year olds"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

@@ -2,7 +2,7 @@
 title: "Yippee TV vs Faithful Kids: Entertainment vs Education"
 slug: "yippee-tv-vs-faithful-kids"
 type: "listicle"
-metaDescription: "What is Yippee TV? Phil Vischer's Christian kids streaming service -- shows, subscription pricing, and how Yippee TV compares to Faithful Kids for learning."
+metaDescription: "What is Yippee TV? Phil Vischer's Christian kids streaming service: shows, pricing, and how it compares to Faithful Kids for learning."
 keywords: ["yippee tv", "yippee kids tv", "yippee subscription", "yippee tv vs faithful kids", "christian streaming for kids", "bible education app for kids"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-18"

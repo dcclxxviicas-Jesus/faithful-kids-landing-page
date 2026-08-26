@@ -1,5 +1,5 @@
 ---
-title: "18 Mealtime Prayers for Kids and Easy Family Dinner Blessings"
+title: "18 Mealtime Prayers for Kids and Dinner Blessings"
 slug: "mealtime-prayers-for-kids"
 type: "listicle"
 metaDescription: "18 short mealtime prayers for kids -- classic dinner blessings, rhyming graces for toddlers, thankful prayers, and quick ones for busy nights."

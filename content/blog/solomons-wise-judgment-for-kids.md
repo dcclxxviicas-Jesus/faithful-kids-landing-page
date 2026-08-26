@@ -1,5 +1,5 @@
 ---
-title: "Solomons Wise Judgment for Kids: Bible Story Explained Simply"
+title: "Solomon's Wise Judgment: Bible Story for Kids"
 slug: "solomons-wise-judgment-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

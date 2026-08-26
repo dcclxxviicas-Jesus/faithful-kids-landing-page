@@ -1,5 +1,5 @@
 ---
-title: "Barnabas the Encourager for Kids: Bible Story Explained Simply"
+title: "Barnabas the Encourager: Bible Story for Kids"
 slug: "barnabas-the-encourager-for-kids"
 series: "Early Church"
 seriesSlug: "early-church"

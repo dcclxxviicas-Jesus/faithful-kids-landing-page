@@ -1,5 +1,5 @@
 ---
-title: "The Book of Psalms for Kids: 10 Psalms Every Child Should Know"
+title: "The Book of Psalms for Kids: 10 Key Psalms"
 slug: "book-of-psalms-for-kids"
 type: "listicle"
 metaDescription: "10 Psalms every kid should know, explained in simple language. Psalm 23, 100, 139, and more with kid-friendly meanings parents can use for family devotions."

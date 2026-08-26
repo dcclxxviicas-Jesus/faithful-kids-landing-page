@@ -1,5 +1,5 @@
 ---
-title: "Free Bible Apps for Kids: The 5 Best in 2026 (and Their Limits)"
+title: "Free Bible Apps for Kids: The 5 Best in 2026"
 slug: "free-bible-apps-for-kids"
 type: "listicle"
 metaDescription: "The 5 best free Bible apps for kids in 2026 -- honest reviews of each children's Bible app, from YouVersion to Superbook, plus what free versions miss."

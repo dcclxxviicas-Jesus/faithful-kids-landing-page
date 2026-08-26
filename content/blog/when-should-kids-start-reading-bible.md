@@ -2,7 +2,7 @@
 title: "When Should Kids Start Reading the Bible on Their Own?"
 slug: "when-should-kids-start-reading-bible"
 type: "listicle"
-metaDescription: "A stage-by-stage guide to when kids should start reading the Bible. From picture Bibles at age 3 to independent study at 14, here's what works at every age."
+metaDescription: "A stage-by-stage guide to when kids should start reading the Bible, from picture Bibles at age 3 to independent study at 14."
 keywords: ["when should kids start reading the bible", "kids bible reading age", "teaching kids to read the bible"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

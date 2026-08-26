@@ -1,5 +1,5 @@
 ---
-title: "50 Hard Bible Trivia Questions for Teens (Test Your Knowledge)"
+title: "50 Hard Bible Trivia Questions for Teens"
 slug: "bible-trivia-for-teens"
 type: "listicle"
 metaDescription: "50 hard Bible trivia and Bible questions for teens -- obscure facts, geography, minor characters, deep knowledge. Perfect for youth group games."

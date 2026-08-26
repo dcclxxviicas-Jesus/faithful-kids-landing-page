@@ -1,5 +1,5 @@
 ---
-title: "Noah and the Great Flood for Kids: Bible Story Explained Simply"
+title: "Noah and the Great Flood: Bible Story for Kids"
 slug: "noah-and-the-great-flood-for-kids"
 series: "Genesis"
 seriesSlug: "genesis"

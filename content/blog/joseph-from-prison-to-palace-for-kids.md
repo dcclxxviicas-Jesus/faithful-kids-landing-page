@@ -1,5 +1,5 @@
 ---
-title: "Joseph from Prison to Palace for Kids: Bible Story Explained Simply"
+title: "Joseph from Prison to Palace: Bible Story for Kids"
 slug: "joseph-from-prison-to-palace-for-kids"
 series: "Genesis"
 seriesSlug: "genesis"

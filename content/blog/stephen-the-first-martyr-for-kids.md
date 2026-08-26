@@ -1,5 +1,5 @@
 ---
-title: "Stephen the First Martyr for Kids: Bible Story Explained Simply"
+title: "Stephen the First Martyr: Bible Story for Kids"
 slug: "stephen-the-first-martyr-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

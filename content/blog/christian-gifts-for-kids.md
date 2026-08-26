@@ -1,5 +1,5 @@
 ---
-title: "20 Christian Gifts for Kids They'll Actually Use (2026 Guide)"
+title: "20 Christian Gifts for Kids They'll Actually Use"
 slug: "christian-gifts-for-kids"
 type: "listicle"
 metaDescription: "The best Christian gifts for kids: 20 real ideas by age -- storybook Bibles, worship music, Bible games, devotionals, and subscriptions parents trust."

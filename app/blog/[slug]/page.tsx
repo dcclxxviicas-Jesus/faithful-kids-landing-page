@@ -13,7 +13,6 @@ import {
 import { notFound } from 'next/navigation'
 import { BlogImage } from '../BlogImage'
 import { TriviaGame } from '../TriviaGame'
-import { TriviaVideo } from '../TriviaVideo'
 import { BlogStickyCta } from '../BlogStickyCta'
 import { BlogExitIntent } from '../BlogExitIntent'
 import { EmailCaptureCard } from '../EmailCaptureCard'
@@ -191,6 +190,7 @@ export default async function BlogPostPage({ params }: Props) {
   // Split content to inject mid-article CTA
   const contentParts = splitContentForCTA(post.content)
   const secondParts = splitSecondForImage(contentParts.second)
+  const introParts = splitIntro(contentParts.first)
 
   // Exit-intent popup: context-aware variant (drives which free printable
   // it offers). No video -- the popup's job is one low-friction ask.
@@ -314,10 +314,35 @@ const hasTriviaGame = triviaQuestions.length >= 10
         )}
 
         {/* Body — first half */}
-        <div
-          className="blog-article-body"
-          dangerouslySetInnerHTML={{ __html: contentParts.first }}
-        />
+        {hasTriviaGame ? (
+          <>
+            {/* Intro only, then the game. Someone searching "bible trivia for
+                teens" wants to PLAY trivia -- making them read fifty questions
+                first buried the one interactive thing on the page. */}
+            <div
+              className="blog-article-body"
+              dangerouslySetInnerHTML={{ __html: introParts.intro }}
+            />
+            <TriviaGame
+              questions={triviaQuestions}
+              postSlug={post.slug}
+              postTitle={post.title}
+              label={triviaLabel(post.slug, post.title)}
+              related={getRelatedTrivia(post.slug)}
+              posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+              {...getTriviaVideo(post.slug)}
+            />
+            <div
+              className="blog-article-body"
+              dangerouslySetInnerHTML={{ __html: introParts.rest }}
+            />
+          </>
+        ) : (
+          <div
+            className="blog-article-body"
+            dangerouslySetInnerHTML={{ __html: contentParts.first }}
+          />
+        )}
 
         {/* Inline image 1 — after first content section */}
         <BlogImage
@@ -329,33 +354,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
           style={{ width: '100%', maxWidth: '600px', height: 'auto', borderRadius: '12px', margin: '24px auto', display: 'block' }}
         />
 
-        {/* Interactive trivia game — sits below the opening section so the
-            reader meets the article first, then the game. Only on posts with
-            extractable Q&A. */}
-        {hasTriviaGame && (
-          <TriviaGame
-            questions={triviaQuestions}
-            postSlug={post.slug}
-            postTitle={post.title}
-            label={triviaLabel(post.slug, post.title)}
-            related={getRelatedTrivia(post.slug)}
-            posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
-            {...getTriviaVideo(post.slug)}
-          />
-        )}
 
-        {/* Visible video for trivia pages. The game's end screen already has
-            one, but it sits behind starting the game, finishing ten questions
-            and scrolling past the share buttons -- so hardly anyone saw it.
-            Placed BELOW the questions on purpose: trivia visitors came for
-            questions, and a player above them would fight that. */}
-        {hasTriviaGame && (
-          <TriviaVideo
-            {...getTriviaVideo(post.slug)}
-            posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
-            slug={post.slug}
-          />
-        )}
 
         {/* Mid-article CTA — skipped when the game is present, since the
             game's end screen already makes the same offer with a video.
@@ -528,6 +527,21 @@ function getTriviaVideo(slug: string): { videoSrc: string; videoTitle: string } 
  * and the mid-article CTA is skipped), so they stacked back to back. Two
  * illustrations with no text between them reads as a gallery, not an article.
  */
+/**
+ * Split off the article intro -- everything before the first <h2>.
+ *
+ * Used to place the playable trivia game directly under the intro. It had been
+ * rendering after splitContentForCTA()'s first half, which on question-heavy
+ * pages swallows every question section -- so the game, the single most
+ * engaging thing on the page, sat below fifty questions of plain text where
+ * nobody scrolled to find it.
+ */
+function splitIntro(html: string): { intro: string; rest: string } {
+  const i = html.indexOf('<h2>')
+  if (i === -1) return { intro: html, rest: '' }
+  return { intro: html.slice(0, i), rest: html.slice(i) }
+}
+
 function splitSecondForImage(html: string): { a: string; b: string } {
   const positions: number[] = []
   const re = /<h2>/g

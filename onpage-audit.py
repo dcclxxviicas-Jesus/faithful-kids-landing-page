@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Full on-page SEO audit of a rendered HTML file. Reports PASS/FAIL per check."""
+import html as _html
 import re, sys, json
 from pathlib import Path
 
@@ -16,13 +17,13 @@ def chk(ok, name, detail=""):
 
 # --- Title ---
 m = re.search(r'<title>([^<]*)</title>', h)
-t = m.group(1) if m else ''
+t = _html.unescape(m.group(1)) if m else ''
 chk(bool(t), "title present", t)
 chk(0 < len(t) <= 60, f"title length {len(t)} (<=60)", t)
 
 # --- Meta description ---
 m = re.search(r'<meta name="description" content="([^"]*)"', h)
-d = m.group(1) if m else ''
+d = _html.unescape(m.group(1)) if m else ''
 chk(bool(d), "meta description present")
 chk(50 <= len(d) <= 158, f"meta desc length {len(d)} (50-158)", d[:80])
 

@@ -13,12 +13,12 @@ import { COLORING_PAGES, CDN } from '@/lib/coloring-pages'
 const PAGES = COLORING_PAGES.filter(p => p.season === 'christmas')
 
 export const metadata: Metadata = {
-  title: 'Christian Christmas Coloring Pages — Free Nativity Printables',
+  title: 'Christian Christmas Coloring Pages — Free',
   description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
   keywords: ['nativity coloring pages', 'christian christmas coloring pages', 'christmas coloring pages religious', 'nativity scene coloring pages', 'advent coloring pages', 'wise men coloring page', 'shepherds coloring page'],
   alternates: { canonical: 'https://faithfulkids.app/printables/christmas-coloring-pages' },
   openGraph: {
-    title: 'Christian Christmas Coloring Pages — Free Nativity Printables',
+    title: 'Christian Christmas Coloring Pages — Free',
     description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
     url: 'https://faithfulkids.app/printables/christmas-coloring-pages',
     siteName: 'Faithful Kids',
@@ -31,7 +31,7 @@ export default function Page() {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Christian Christmas Coloring Pages — Free Nativity Printables',
+    name: 'Christian Christmas Coloring Pages — Free',
     description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
     url: 'https://faithfulkids.app/printables/christmas-coloring-pages',
     isFamilyFriendly: true,
@@ -90,6 +90,38 @@ export default function Page() {
       </section>
 
       <section className="cp-outro no-print">
+        <h2>Which page for which week of Advent</h2>
+        <p>
+          In order, these six run from the angel visiting Mary through to the wise men arriving,
+          which is roughly the shape of Advent. One a week through December works well, with the
+          nativity scene saved for the last week because it takes the longest to finish.
+        </p>
+        <p>
+          The wise men page is worth doing last for a second reason: they arrived long after the
+          night in the stable, and coloring them separately is the easiest way a child ever learns
+          that.
+        </p>
+
+        <h2>What children usually get wrong about Christmas</h2>
+        <p>
+          Almost every nativity set puts the wise men beside the manger on the same night, and
+          almost every child therefore believes they were. They arrived considerably later, at a
+          house rather than a stable, which is why they get their own page here instead of being
+          crowded into the scene.
+        </p>
+        <p>
+          The other quiet correction these pages make is the journey. Bethlehem was roughly ninety
+          miles from Nazareth, and a child who colors a long road with a small town at the end of
+          it remembers that the story starts with a hard walk rather than a stable door.
+        </p>
+
+        <h2>Printing these for a class</h2>
+        <p>
+          Print as many copies as you need for Sunday school, a nativity rehearsal, a homeschool
+          group or a church. No licence, no attribution required. Every sheet carries our name in
+          the bottom margin, and nothing else is asked of you.
+        </p>
+
         <h2>Using these through Advent</h2>
         <p>One page a week through Advent works well, taken in the order they appear here. Children who color the journey to Bethlehem before they color the manger tend to remember that it was a long walk, not a short scene, and that small correction sticks for years.</p>
         <p>

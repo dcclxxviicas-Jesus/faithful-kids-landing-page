@@ -14,7 +14,7 @@ import puzzles from '@/lib/word-searches.json'
  */
 
 export const metadata: Metadata = {
-  title: 'Bible Word Search Puzzles — 10 Free Printables',
+  title: 'Bible Word Search — 10 Free Printables',
   description:
     'Ten free printable Bible word search puzzles for kids: Noah, Christmas, Easter, David and Goliath, the armor of God and more. Answer keys included.',
   keywords: [
@@ -24,12 +24,13 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-word-search' },
   openGraph: {
-    title: 'Bible Word Search Puzzles — 10 Free Printables',
+    title: 'Bible Word Search — 10 Free Printables',
     description:
       'Ten free printable Bible word search puzzles for kids, with answer keys. No sign-up.',
     url: 'https://faithfulkids.app/printables/bible-word-search',
     siteName: 'Faithful Kids',
     type: 'website',
+    images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/david-and-goliath.png', width: 1024, height: 1536 }],
   },
 }
 
@@ -94,6 +95,26 @@ export default function WordSearchHub() {
       </div>
 
       <section className="cp-outro">
+        <h2>Which puzzle suits which age</h2>
+        <p>
+          The Noah, Christmas and David and Goliath grids use the shortest words and the most
+          familiar names, so they suit six and seven year olds who are still reading slowly. Books
+          of the Bible and fruit of the Spirit are the hardest, partly because the words are longer
+          and partly because a child has to know them already to spot them quickly.
+        </p>
+        <p>
+          Every grid is the same size, so a class working at different levels can be given
+          different puzzles without anyone noticing they got the easy one.
+        </p>
+
+        <h2>Printing these for a class</h2>
+        <p>
+          Print as many copies as you need for a Sunday school, a homeschool co-op, a camp or a
+          church group. There is no licence to buy and no attribution required. The answer key sits
+          below the puzzle on the page rather than on a separate sheet, so fold it under before you
+          hand it out, or print only the top half.
+        </p>
+
         <h2>How to use a Bible word search well</h2>
         <p>
           A word search is a vocabulary exercise, not a lesson, and it works best either just before

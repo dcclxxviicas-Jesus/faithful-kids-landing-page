@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import { SiteNav, SiteFooter } from '../../../components/SiteChrome'
 import PrintButton from '../../PrintButton'
 import puzzles from '@/lib/word-searches.json'
+import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
 
 type Puzzle = (typeof puzzles)[number]
 
@@ -30,7 +31,10 @@ export async function generateMetadata(
       'free bible word search', 'sunday school word search',
     ],
     alternates: { canonical: url },
-    openGraph: { title, description: desc, url, siteName: 'Faithful Kids', type: 'article' },
+    openGraph: {
+      title, description: desc, url, siteName: 'Faithful Kids', type: 'article',
+      images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/david-and-goliath.png', width: 1024, height: 1536 }],
+    },
   }
 }
 
@@ -83,7 +87,10 @@ export default async function WordSearchPuzzle(
         <ul className="ws-list">
           {p.words.map(w => <li key={w}>{w}</li>)}
         </ul>
-        <p className="ws-credit">FaithfulKids.app</p>
+        <p className="ws-credit">
+          <strong>FaithfulKids.app</strong>
+          <span>Watch the {p.title} story free &middot; faithfulkids.app/bible-stories-for-kids</span>
+        </p>
       </div>
 
       <div className="cpd-actions no-print"><PrintButton /></div>
@@ -121,16 +128,30 @@ export default async function WordSearchPuzzle(
         </div>
       </section>
 
+      <section className="cp-capture no-print">
+        <EmailCaptureCard
+          magnet="coloring-pages"
+          source="blog-inline"
+          sourcePost={`word-search-${p.slug}`}
+          title="\u{1F58D}\uFE0F Free too: all 26 Bible coloring pages"
+          subtitle="One PDF, Creation to the Empty Tomb \u2014 the set that pairs with these puzzles."
+        />
+      </section>
+
       <section className="blog-bottom-cta no-print">
         <div className="blog-bottom-cta-inner">
-          <h2>The story behind the puzzle</h2>
+          <h2>They found the words. Do they know the story?</h2>
           <p>
-            {p.title} is an episode in the Faithful Kids library — a few minutes long, with a quiz
-            afterwards so you can see what your child actually understood.
+            Finding {p.words.length} words is vocabulary, not comprehension. The {p.title} episode
+            takes about two minutes and ends with a quiz that tells you what actually landed — one
+            of 200 episodes covering the whole Bible in order.
           </p>
           <a className="btn-primary" href="/quiz?ref=word-search-detail">
-            Start your child&rsquo;s Bible journey
+            Watch {p.title} free
           </a>
+          <div className="blog-cta-badges">
+            <span>200 stories</span><span>Quiz after every one</span><span>No ads, ever</span>
+          </div>
         </div>
       </section>
 

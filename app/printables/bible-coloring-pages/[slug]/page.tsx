@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import { SiteNav, SiteFooter } from '../../../components/SiteChrome'
 import PrintButton from '../../PrintButton'
 import { COLORING_PAGES, getColoringPage, CDN } from '@/lib/coloring-pages'
+import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
 
 /**
  * One page per coloring scene.
@@ -120,6 +121,19 @@ export default async function ColoringPageDetail(
             with the video lesson and a quiz.
           </p>
         )}
+        <h2>What to talk about while they color</h2>
+        <p>{page.talkAbout}</p>
+        <p>{page.tip}</p>
+
+        <h2>Who this page suits</h2>
+        <p>
+          Drawn for {page.ages.toLowerCase()}, though the age band is a guide rather than a rule.
+          A confident younger child will happily take a page marked older, especially if an adult
+          is coloring alongside them and reading the story aloud. The outlines are deliberately
+          thick and the shapes deliberately large, because the most common reason a child abandons
+          a coloring page is that the spaces are too small for the crayon in their hand.
+        </p>
+
         <h2>How to print this coloring page</h2>
         <p>
           Press the print button above and it prints the sheet alone, without the menus or this
@@ -127,6 +141,24 @@ export default async function ColoringPageDetail(
           whole set as one file from the{' '}
           <a href="/printables/bible-coloring-pages">Bible coloring pages</a> hub.
         </p>
+        <h2>Common questions</h2>
+        <p>
+          <strong>Can I use this in Sunday school or a classroom?</strong> Yes. Print as many
+          copies as you need for a class, a church group, a homeschool co-op or a camp. There is no
+          licence to buy and no attribution required, though the page carries our name in the
+          bottom margin so anyone who asks where it came from can find it.
+        </p>
+        <p>
+          <strong>Do I have to give an email address?</strong> No. Every page on this site prints
+          without a sign-up. The only thing behind an email is the combined PDF of all 26 pages,
+          which exists because printing one file is easier than printing twenty-six.
+        </p>
+        <p>
+          <strong>What paper size does it print on?</strong> It is sized for US Letter and prints
+          cleanly on A4 as well, with slightly wider margins. If your printer crops the edges, set
+          scaling to &ldquo;fit to page&rdquo; rather than 100 percent.
+        </p>
+
         <h2>More Bible coloring pages</h2>
         <div className="cpd-more">
           {others.map(o => (
@@ -139,16 +171,30 @@ export default async function ColoringPageDetail(
         </div>
       </section>
 
+      <section className="cp-capture no-print">
+        <EmailCaptureCard
+          magnet="coloring-pages"
+          source="blog-inline"
+          sourcePost={`coloring-${page.slug}`}
+          title="\u{1F58D}\uFE0F Want all 26 pages in one PDF?"
+          subtitle="Print the whole set at once instead of one page at a time \u2014 Creation to the Empty Tomb."
+        />
+      </section>
+
       <section className="blog-bottom-cta no-print">
         <div className="blog-bottom-cta-inner">
-          <h2>The story behind the page</h2>
+          <h2>Now watch {page.title}</h2>
           <p>
-            Every scene here is an episode in the Faithful Kids library — a few minutes long, with a
-            quiz afterwards so you can see what your child actually understood.
+            Your child colors it in ten minutes. The video tells them what actually happened in
+            about two — then a quiz shows you what they took in, which a coloring page never can.
+            {page.title} is one of 200 episodes, all in order, Genesis to Revelation.
           </p>
           <a className="btn-primary" href="/quiz?ref=coloring-detail">
-            Start your child&rsquo;s Bible journey
+            Watch {page.title} free
           </a>
+          <div className="blog-cta-badges">
+            <span>200 stories</span><span>Quiz after every one</span><span>No ads, ever</span>
+          </div>
         </div>
       </section>
 

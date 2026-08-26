@@ -2741,3 +2741,17 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   .ws-list { grid-template-columns: repeat(3, 1fr); }
   .ws-table td { width: 1.4rem; height: 1.4rem; font-size: .78rem; }
 }
+
+/* Printed sheets must carry the URL — a coloring page or puzzle photocopied for
+   a Sunday school class is a marketing asset only if it says where it came from. */
+.ws-credit {
+  margin-top: 18px;
+  display: flex; flex-direction: column; gap: 2px;
+  font-size: .8rem; color: #8a8a8a;
+}
+.ws-credit strong { font-size: .95rem; font-weight: 800; color: #15803d; letter-spacing: .01em; }
+.ws-credit span { font-size: .74rem; }
+@media print {
+  .ws-credit { color: #555; }
+  .ws-credit strong { color: #111; }
+}

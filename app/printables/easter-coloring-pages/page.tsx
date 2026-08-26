@@ -13,12 +13,12 @@ import { COLORING_PAGES, CDN } from '@/lib/coloring-pages'
 const PAGES = COLORING_PAGES.filter(p => p.season === 'easter')
 
 export const metadata: Metadata = {
-  title: 'Religious Easter Coloring Pages — Free Printables',
+  title: 'Religious Easter Coloring Pages — Free',
   description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
   keywords: ['religious easter coloring pages', 'christian easter coloring pages', 'easter coloring pages religious', 'palm sunday coloring page', 'resurrection coloring page', 'cross coloring page', 'holy week coloring pages'],
   alternates: { canonical: 'https://faithfulkids.app/printables/easter-coloring-pages' },
   openGraph: {
-    title: 'Religious Easter Coloring Pages — Free Printables',
+    title: 'Religious Easter Coloring Pages — Free',
     description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
     url: 'https://faithfulkids.app/printables/easter-coloring-pages',
     siteName: 'Faithful Kids',
@@ -31,7 +31,7 @@ export default function Page() {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Religious Easter Coloring Pages — Free Printables',
+    name: 'Religious Easter Coloring Pages — Free',
     description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
     url: 'https://faithfulkids.app/printables/easter-coloring-pages',
     isFamilyFriendly: true,
@@ -90,6 +90,42 @@ export default function Page() {
       </section>
 
       <section className="cp-outro no-print">
+        <h2>Which page for which day</h2>
+        <p>
+          Taken in order these five pages cover Holy Week: Palm Sunday for the entry into
+          Jerusalem, the Last Supper for Thursday, the cross for Friday, resurrection morning for
+          Sunday, and the road to Emmaus for the week after. One page a day gives a child the shape
+          of the week without a worksheet or a lesson plan.
+        </p>
+        <p>
+          If you only have time for two, use Palm Sunday and resurrection morning. They are the
+          bookends, and a child who colors both understands that something happened in between even
+          before you tell them what.
+        </p>
+
+        <h2>Talking about Holy Week with younger children</h2>
+        <p>
+          The hardest part of Easter for a small child is not the resurrection, which they accept
+          easily, but the days before it. The pages here are drawn so you can go as far as your
+          family is ready to go: the cross page shows an empty cross with a cloth over it rather
+          than the crucifixion, so it can sit in a five-year-old&rsquo;s pile without raising a
+          question you were not planning to answer that afternoon.
+        </p>
+        <p>
+          If a child does ask, the honest short answer is usually enough. He died, and then he was
+          alive again, and the people who loved him were there for both. Children handle that
+          better than most adults expect, and far better than a tidy explanation that stops making
+          sense when they are ten.
+        </p>
+
+        <h2>Printing these for a class</h2>
+        <p>
+          Print as many copies as you need for Sunday school, a homeschool group, a camp or a
+          church. No licence, no attribution required. Each sheet carries our name in the bottom
+          margin so anyone who asks where it came from can find it, but nothing else is required of
+          you.
+        </p>
+
         <h2>Using these through Holy Week</h2>
         <p>If you are working through the week day by day, the order on this page is the order it happened: Palm Sunday, the Last Supper, the cross, resurrection morning, then the road to Emmaus. One page a day from Sunday to Sunday gives a child the shape of the week without a single worksheet.</p>
         <p>

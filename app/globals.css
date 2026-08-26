@@ -2684,3 +2684,60 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 .cp-seasons strong { display: block; font-size: 1.02rem; color: var(--primary-dark); margin-bottom: 4px; }
 .cp-seasons span { font-size: .85rem; color: var(--text-secondary); line-height: 1.5; }
 @media (max-width: 768px) { .cp-seasons { grid-template-columns: 1fr; } }
+
+/* Bible word search (/printables/bible-word-search) */
+.ws-grid {
+  max-width: var(--max-width); margin: 0 auto; padding: 0 24px;
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
+}
+.ws-card {
+  display: block; padding: 20px 22px; text-decoration: none;
+  background: var(--white); border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  transition: border-color .15s ease, transform .15s ease;
+}
+.ws-card:hover { border-color: var(--primary); transform: translateY(-2px); }
+.ws-card strong { display: block; font-size: 1.05rem; color: var(--text); margin-bottom: 4px; }
+.ws-meta { display: block; font-size: .8rem; color: var(--text-muted); margin-bottom: 8px; }
+.ws-words { display: block; font-size: .78rem; color: var(--text-secondary); line-height: 1.5; }
+
+.ws-sheet { max-width: 640px; margin: 8px auto 0; padding: 0 24px; text-align: center; }
+.ws-sheet-title { font-size: 1.3rem; font-weight: 800; margin-bottom: 14px; }
+.ws-table {
+  border-collapse: collapse; margin: 0 auto;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+.ws-table td {
+  width: 1.75rem; height: 1.75rem;
+  text-align: center; vertical-align: middle;
+  font-size: .95rem; font-weight: 600; color: #333;
+  border: 1px solid #e3e3e3;
+}
+.ws-list {
+  list-style: none; padding: 0;
+  margin: 18px auto 0; max-width: 520px;
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px 14px;
+}
+.ws-list li { font-size: .84rem; font-weight: 700; letter-spacing: .04em; color: var(--text-secondary); }
+.ws-credit { margin-top: 16px; font-size: .74rem; color: #b0b0b0; letter-spacing: .03em; }
+.ws-answers { margin-top: 6px; }
+.ws-answers .ws-hit { background: #d9f5e4; color: #14532d; font-weight: 800; }
+.ws-more { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 14px; }
+.ws-more a {
+  display: block; padding: 12px 14px; text-decoration: none;
+  border: 1px solid var(--border); border-radius: 10px;
+}
+.ws-more a:hover { border-color: var(--primary); }
+.ws-more strong { display: block; font-size: .88rem; color: var(--text); }
+.ws-more span { font-size: .76rem; color: var(--text-muted); }
+
+@media print {
+  .ws-sheet { max-width: 100%; padding: 0; }
+  .ws-table td { border-color: #999; }
+}
+@media (max-width: 768px) {
+  .ws-grid { grid-template-columns: 1fr; }
+  .ws-more { grid-template-columns: 1fr; }
+  .ws-list { grid-template-columns: repeat(3, 1fr); }
+  .ws-table td { width: 1.4rem; height: 1.4rem; font-size: .78rem; }
+}

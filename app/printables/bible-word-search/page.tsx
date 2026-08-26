@@ -1,0 +1,132 @@
+import type { Metadata } from 'next'
+import { SiteNav, SiteFooter } from '../../components/SiteChrome'
+import puzzles from '@/lib/word-searches.json'
+
+/**
+ * Bible word search hub.
+ *
+ * Target: "bible word search puzzles" 5,400/mo at keyword difficulty 4
+ * (DataForSEO clickstream), with 41 variants in the same range.
+ *
+ * Grids render as HTML tables rather than images so the letters and the word
+ * lists are real text on the page. A word search shipped as a PNG is invisible
+ * to Google and unusable with a screen reader.
+ */
+
+export const metadata: Metadata = {
+  title: 'Bible Word Search Puzzles — 10 Free Printables',
+  description:
+    'Ten free printable Bible word search puzzles for kids: Noah, Christmas, Easter, David and Goliath, the armor of God and more. Answer keys included.',
+  keywords: [
+    'bible word search', 'bible word search puzzles', 'bible word search printable',
+    'free bible word search', 'bible word search for kids', 'sunday school word search',
+    'printable bible puzzles',
+  ],
+  alternates: { canonical: 'https://faithfulkids.app/printables/bible-word-search' },
+  openGraph: {
+    title: 'Bible Word Search Puzzles — 10 Free Printables',
+    description:
+      'Ten free printable Bible word search puzzles for kids, with answer keys. No sign-up.',
+    url: 'https://faithfulkids.app/printables/bible-word-search',
+    siteName: 'Faithful Kids',
+    type: 'website',
+  },
+}
+
+export default function WordSearchHub() {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Bible Word Search Puzzles',
+    description: `${puzzles.length} free printable Bible word search puzzles for children, with answer keys.`,
+    url: 'https://faithfulkids.app/printables/bible-word-search',
+    isFamilyFriendly: true,
+    inLanguage: 'en',
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: puzzles.length,
+      itemListElement: puzzles.map((p, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: `${p.title} word search`,
+        url: `https://faithfulkids.app/printables/bible-word-search/${p.slug}`,
+      })),
+    },
+  }
+
+  return (
+    <>
+      <script type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+      <SiteNav active="printables" />
+
+      <section className="blog-hero">
+        <span className="section-label">Free · No Sign-Up</span>
+        <h1>Bible Word Search Puzzles</h1>
+        <p className="blog-hero-sub">
+          Ten printable puzzles, each built from one Bible story or theme, with the answer key on
+          the same page. Free to print for class or home.
+        </p>
+      </section>
+
+      <section className="cp-intro">
+        <p>
+          Every puzzle here is a 14&times;14 grid with twelve words hidden in all eight directions,
+          including backwards. That is deliberately harder than the four-direction puzzles aimed at
+          the youngest children, because the age that actually enjoys a word search is seven and up
+          and those puzzles bore them in a minute.
+        </p>
+        <p>
+          The word lists come from the story itself rather than a generic religious vocabulary, so
+          finishing one means a child has read twelve words that belong to a passage — useful before
+          you teach it, and better still as review afterwards.
+        </p>
+      </section>
+
+      <div className="ws-grid">
+        {puzzles.map(p => (
+          <a key={p.slug} className="ws-card" href={`/printables/bible-word-search/${p.slug}`}>
+            <strong>{p.title}</strong>
+            <span className="ws-meta">{p.scripture} · {p.ages}</span>
+            <span className="ws-words">{p.words.slice(0, 6).join(' · ')}…</span>
+          </a>
+        ))}
+      </div>
+
+      <section className="cp-outro">
+        <h2>How to use a Bible word search well</h2>
+        <p>
+          A word search is a vocabulary exercise, not a lesson, and it works best either just before
+          a story or straight after it. Hand it out first and a child meets the names before they
+          hear them, which makes the reading easier. Hand it out after and it is review that does not
+          feel like review.
+        </p>
+        <p>
+          For younger children who find a 14&times;14 grid discouraging, read the word list aloud
+          first and let them find three words rather than twelve. Finishing something small beats
+          abandoning something large.
+        </p>
+        <p>
+          Looking for something to color instead? There are 26 free{' '}
+          <a href="/printables/bible-coloring-pages">Bible coloring pages</a> on our site, and{' '}
+          <a href="/bible-trivia">a Bible trivia game</a> you can play in the browser.
+        </p>
+      </section>
+
+      <section className="blog-bottom-cta">
+        <div className="blog-bottom-cta-inner">
+          <h2>The stories behind the puzzles</h2>
+          <p>
+            Every theme here is an episode in the Faithful Kids library — a few minutes long, with a
+            quiz afterwards so you can see what your child actually understood.
+          </p>
+          <a className="btn-primary" href="/quiz?ref=word-search">
+            Start your child&rsquo;s Bible journey
+          </a>
+        </div>
+      </section>
+
+      <SiteFooter />
+    </>
+  )
+}

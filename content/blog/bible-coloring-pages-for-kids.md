@@ -1,8 +1,8 @@
 ---
-title: "Free Bible Coloring Pages for Kids (Old and New Testament)"
+title: "How to Use Bible Coloring Pages with Kids"
 slug: "bible-coloring-pages-for-kids"
 type: "listicle"
-metaDescription: "20 Bible coloring page themes for kids from creation to Revelation. Learn how coloring reinforces Bible stories and where to find free printable pages."
+metaDescription: "How to use Bible coloring pages so they teach something: when to hand them out, what to ask while children color, and which scenes suit which age."
 keywords: ["bible coloring pages for kids", "free bible coloring pages", "printable bible coloring sheets", "bible coloring pages by story", "bible story coloring pages"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-20"

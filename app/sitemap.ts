@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next'
 import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
 import { COLORING_PAGES } from '@/lib/coloring-pages'
+import wordSearches from '@/lib/word-searches.json'
 import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -77,6 +78,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.9,
     },
+    {
+      // "bible word search puzzles" 5,400/mo KD 4
+      url: `${baseUrl}/printables/bible-word-search`,
+      lastModified: new Date('2026-08-26'),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
+    ...wordSearches.map(w => ({
+      url: `${baseUrl}/printables/bible-word-search/${w.slug}`,
+      lastModified: new Date('2026-08-26'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    })),
     ...COLORING_PAGES.map(c => ({
       url: `${baseUrl}/printables/bible-coloring-pages/${c.slug}`,
       lastModified: new Date('2026-08-26'),

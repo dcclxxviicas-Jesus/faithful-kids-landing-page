@@ -10,6 +10,14 @@ export const metadata: Metadata = {
 
 const PACKS = [
   {
+    href: '/printables/bible-word-search',
+    emoji: '🔍',
+    title: 'Bible Word Search — 10 Puzzles',
+    description:
+      'Ten printable Bible word searches, each built from one story or theme — Noah, Christmas, Easter, David and Goliath, the armor of God. Twelve words hidden in all eight directions, answer key on the page.',
+    details: 'Ages 6+ · Answer keys included · No email, no sign-up',
+  },
+  {
     href: '/printables/bible-coloring-pages',
     emoji: '🖍️',
     title: 'Bible Coloring Pages — 16 Printables',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     other: { 'p:domain_verify': '5f5b1b32e961a0e961786606d549be7e' },
   },
   title: {
-    default: 'Bible App for Kids Ages 5-15 — 400+ Video Lessons, No Ads',
+    default: 'Bible App for Kids — 400+ Bible Stories, Ages 5-15, No Ads',
     template: '%s | Faithful Kids',
   },
   description: 'A Bible app for kids ages 5-15. 400+ short Bible story videos, each with a quiz and reflection, Genesis to Revelation. No ads, no algorithm, no guilt.',
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: 'Faithful Kids',
     type: 'website',
     url: 'https://faithfulkids.app',
-    title: 'Bible App for Kids Ages 5-15 — 400+ Video Lessons, No Ads',
+    title: 'Bible App for Kids — 400+ Bible Stories, Ages 5-15, No Ads',
     description: 'A Bible app for kids ages 5-15. 400+ short Bible story videos, each with a quiz and reflection, Genesis to Revelation. No ads, no algorithm, no guilt.',
     images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp', width: 1792, height: 1024, alt: 'Faithful Kids - Bible Story Videos for Kids' }],
   },

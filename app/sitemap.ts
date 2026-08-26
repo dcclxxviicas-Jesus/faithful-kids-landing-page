@@ -55,6 +55,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      // "bible coloring pages" 5,400/mo at KD 5 -- the lowest-difficulty
+      // high-volume term found in the whole niche scan.
+      url: `${baseUrl}/printables/bible-coloring-pages`,
+      lastModified: new Date('2026-08-26'),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/printables/bible-trivia-pack`,
       lastModified: new Date('2026-08-16'),
       changeFrequency: 'monthly',

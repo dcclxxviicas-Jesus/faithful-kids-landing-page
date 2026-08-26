@@ -10,6 +10,14 @@ export const metadata: Metadata = {
 
 const PACKS = [
   {
+    href: '/printables/bible-coloring-pages',
+    emoji: '🖍️',
+    title: 'Bible Coloring Pages — 16 Printables',
+    description:
+      'Sixteen Bible scenes drawn as clean line art for young children, Creation through the Empty Tomb. Bold simple outlines with room for thick crayons, each with its Scripture reference.',
+    details: 'Print the whole set or one page · No email, no sign-up',
+  },
+  {
     href: '/printables/bible-trivia-pack',
     emoji: '🏆',
     title: 'Bible Trivia Pack — 100 Questions',

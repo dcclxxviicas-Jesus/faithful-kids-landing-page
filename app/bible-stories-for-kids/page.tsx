@@ -269,7 +269,7 @@ export default function BibleStoriesForKidsPage() {
           </p>
           <a className="btn-primary" href="/quiz?ref=stories-hub">Start your free trial</a>
           <div className="blog-cta-badges">
-            <span>400+ video lessons</span>
+            <span>500+ video lessons</span>
             <span>No ads, ever</span>
             <span>Cancel anytime</span>
           </div>

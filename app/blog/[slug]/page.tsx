@@ -16,6 +16,8 @@ import { TriviaGame } from '../TriviaGame'
 import { BlogStickyCta } from '../BlogStickyCta'
 import { BlogExitIntent } from '../BlogExitIntent'
 import { EmailCaptureCard } from '../EmailCaptureCard'
+import { StoryLesson } from '../StoryLesson'
+import storyQuizzes from '@/lib/story-quizzes.json'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -129,6 +131,14 @@ export default async function BlogPostPage({ params }: Props) {
 
   // VideoObject schema — real CDN video URL (verified live for all 200 episode
   // posts), real hero thumbnail, real publish date. No fabricated duration.
+  // Free lesson media. Same CDN paths the VideoObject schema uses — all 200
+  // video and caption URLs HEAD-verified 200 on 2026-08-26.
+  const isStory = Boolean(post.seriesSlug && post.episode)
+  const mediaBase = isStory
+    ? `https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${String(post.episode).padStart(2, '0')}-${post.slug.replace(/-for-kids$/, '')}`
+    : ''
+  const lessonQuestions = (storyQuizzes as Record<string, { q: string; options: string[]; correct: number; why: string }[]>)[post.slug] || []
+
   const videoJsonLd = post.videoUrl && post.seriesSlug && post.episode
     ? {
         '@context': 'https://schema.org',
@@ -281,6 +291,17 @@ const hasTriviaGame = triviaQuestions.length >= 10
           )}
         </header>
 
+        {isStory && (
+          <StoryLesson
+            videoUrl={`${mediaBase}/lesson-video.mp4`}
+            posterUrl={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+            captionsUrl={`${mediaBase}/lesson-captions.vtt`}
+            storyName={post.title.split(':')[0]}
+            questions={lessonQuestions}
+            slug={post.slug}
+          />
+        )}
+
         {/* Body — first half */}
         <div
           className="blog-article-body"
@@ -313,13 +334,17 @@ const hasTriviaGame = triviaQuestions.length >= 10
         )}
 
         {/* Mid-article CTA — skipped when the game is present, since the
-            game's end screen already makes the same offer with a video. */}
-        {!hasTriviaGame && (
+            game's end screen already makes the same offer with a video.
+            Also skipped on story posts: the free lesson above already showed
+            the video and ran the quiz, so repeating "watch this story" here
+            would contradict the page. The lesson's own end screen makes the
+            offer instead. */}
+        {!hasTriviaGame && !isStory && (
           <div className="blog-mid-cta">
             <div className="blog-mid-cta-icon">&#9654;</div>
             <h3>Watch This Story Come Alive</h3>
             <p>
-              See <strong>{post.title.split(':')[0]}</strong> in a 60-second narrated video lesson
+              See <strong>{post.title.split(':')[0]}</strong> in a short narrated video lesson
               your child will love. Followed by a fun quiz to check what they learned.
             </p>
             <a href="/quiz" className="btn-primary" style={{ textDecoration: 'none', display: 'inline-block' }}>

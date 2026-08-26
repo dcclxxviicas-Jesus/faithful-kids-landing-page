@@ -832,6 +832,50 @@ body {
   .sl-q { font-size: 1.1rem; }
 }
 
+/* Single coloring page (/printables/bible-coloring-pages/[slug]) */
+.cpd-head { max-width: 760px; margin: 0 auto; padding: 34px 24px 14px; text-align: center; }
+.cpd-crumb { font-size: .84rem; color: var(--text-muted); margin-bottom: 12px; }
+.cpd-crumb a { color: var(--primary-dark); font-weight: 600; }
+.cpd-crumb span { margin: 0 7px; }
+.cpd-head h1 { font-size: 2rem; font-weight: 800; margin-bottom: 6px; }
+.cpd-meta { font-size: .92rem; color: var(--text-secondary); }
+.cpd-sheet { max-width: 660px; margin: 0 auto; padding: 0 24px; }
+.cpd-sheet img {
+  width: 100%; height: auto; display: block;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+.cpd-actions {
+  display: flex; gap: 12px; justify-content: center; align-items: center;
+  flex-wrap: wrap; margin: 20px auto 0;
+}
+.cpd-download {
+  display: inline-flex; align-items: center;
+  padding: .65rem 1.4rem; border-radius: 9999px;
+  border: 2px solid var(--border);
+  font-size: .95rem; font-weight: 600;
+  color: var(--text-secondary); text-decoration: none;
+}
+.cpd-download:hover { border-color: var(--primary); color: var(--primary-dark); }
+.cpd-body { max-width: 720px; margin: 38px auto 0; padding: 0 24px; }
+.cpd-body p { font-size: 1rem; line-height: 1.75; color: var(--text-secondary); margin-bottom: 16px; }
+.cpd-body a { color: var(--primary-dark); font-weight: 600; }
+.cpd-body h2 { font-size: 1.3rem; font-weight: 800; margin: 28px 0 10px; }
+.cpd-more { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-top: 14px; }
+.cpd-more a { text-decoration: none; }
+.cpd-more img {
+  width: 100%; height: auto; display: block;
+  border: 1px solid var(--border); border-radius: 8px; background: #fff;
+}
+.cpd-more span { display: block; margin-top: 6px; font-size: .8rem; font-weight: 600; color: var(--text-secondary); }
+
+/* Printing a single page prints ONLY the sheet. */
+@media print {
+  .cpd-sheet { max-width: 100%; padding: 0; margin: 0; }
+  .cpd-sheet img { border: 0; border-radius: 0; width: 100%; }
+}
+
 /* Bible coloring pages (/printables/bible-coloring-pages) */
 .cp-intro, .cp-outro {
   max-width: 720px;
@@ -1636,6 +1680,7 @@ body {
   .stories-grid-3,
   .stories-grid-4 { grid-template-columns: 1fr; }
   .cp-grid { grid-template-columns: repeat(2, 1fr); }
+  .cpd-more { grid-template-columns: repeat(2, 1fr); }
   .steps-grid { grid-template-columns: repeat(2, 1fr); }
   .features-grid { grid-template-columns: repeat(2, 1fr); }
 

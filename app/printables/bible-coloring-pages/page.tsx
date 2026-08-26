@@ -114,7 +114,7 @@ export default function BibleColoringPages() {
       <div className="cp-grid">
         {PAGES.map(p => (
           <figure key={p.slug} className="cp-item">
-            <a href={`${CDN}/${p.slug}.png`} target="_blank" rel="noopener noreferrer">
+            <a href={`/printables/bible-coloring-pages/${p.slug}`}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={`${CDN}/${p.slug}.png`}
@@ -126,7 +126,7 @@ export default function BibleColoringPages() {
             </a>
             <figcaption>
               <strong>{p.title}</strong>
-              <span>{p.verse}</span>
+              <span>{p.verse} · Preview &amp; print</span>
             </figcaption>
           </figure>
         ))}

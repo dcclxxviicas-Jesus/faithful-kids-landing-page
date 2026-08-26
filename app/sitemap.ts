@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next'
 import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
+import { COLORING_PAGES } from '@/lib/coloring-pages'
 import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -62,6 +63,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.9,
     },
+    ...COLORING_PAGES.map(c => ({
+      url: `${baseUrl}/printables/bible-coloring-pages/${c.slug}`,
+      lastModified: new Date('2026-08-26'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    })),
     {
       url: `${baseUrl}/printables/bible-trivia-pack`,
       lastModified: new Date('2026-08-16'),

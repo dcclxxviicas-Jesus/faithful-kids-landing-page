@@ -22,7 +22,7 @@ const MAGNET_INFO = {
     name: 'The Bible Coloring Pages Pack',
     shortName: 'Bible Coloring Pack',
     url: 'https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/faithful-kids-bible-coloring-pages.pdf',
-    line: 'All 16 pages in one PDF — Creation to the Empty Tomb, ready to print.',
+    line: 'All 26 pages in one PDF — Creation to the Empty Tomb, ready to print.',
   },
   'trivia-pack': {
     name: 'The Family Bible Trivia Pack',

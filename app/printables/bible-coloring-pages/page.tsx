@@ -16,31 +16,14 @@ import { EmailCaptureCard } from '../../blog/EmailCaptureCard'
  * elsewhere. The intent is "give me pages to print". This gives them pages.
  */
 
-const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/coloring-pages'
+import { COLORING_PAGES, CDN } from '@/lib/coloring-pages'
 
-const PAGES: { slug: string; title: string; verse: string }[] = [
-  { slug: 'creation', title: 'Creation', verse: 'Genesis 1' },
-  { slug: 'adam-and-eve-garden', title: 'Adam and Eve in the Garden', verse: 'Genesis 2' },
-  { slug: 'noahs-ark', title: "Noah's Ark", verse: 'Genesis 6–9' },
-  { slug: 'moses-red-sea', title: 'Moses and the Red Sea', verse: 'Exodus 14' },
-  { slug: 'david-and-goliath', title: 'David and Goliath', verse: '1 Samuel 17' },
-  { slug: 'daniel-lions-den', title: "Daniel in the Lions' Den", verse: 'Daniel 6' },
-  { slug: 'the-fiery-furnace', title: 'The Fiery Furnace', verse: 'Daniel 3' },
-  { slug: 'jonah-and-the-big-fish', title: 'Jonah and the Big Fish', verse: 'Jonah 1–2' },
-  { slug: 'baby-jesus-manger', title: 'Baby Jesus in the Manger', verse: 'Luke 2' },
-  { slug: 'jesus-and-the-children', title: 'Jesus and the Children', verse: 'Mark 10:14' },
-  { slug: 'jesus-calms-the-storm', title: 'Jesus Calms the Storm', verse: 'Mark 4' },
-  { slug: 'the-good-shepherd', title: 'The Good Shepherd', verse: 'John 10' },
-  { slug: 'the-lost-sheep', title: 'The Lost Sheep', verse: 'Luke 15' },
-  { slug: 'the-good-samaritan', title: 'The Good Samaritan', verse: 'Luke 10' },
-  { slug: 'the-empty-tomb', title: 'The Empty Tomb', verse: 'Matthew 28' },
-  { slug: 'armor-of-god', title: 'The Armor of God', verse: 'Ephesians 6' },
-]
+const PAGES = COLORING_PAGES
 
 export const metadata: Metadata = {
-  title: 'Free Bible Coloring Pages — 16 Printables',
+  title: 'Free Bible Coloring Pages — 26 Printables',
   description:
-    'Sixteen free printable Bible coloring pages, from Creation to the Empty Tomb. Bold simple outlines for young children. No sign-up, no email, just print.',
+    '26 free printable Bible coloring pages, from Creation to the Empty Tomb. Bold simple outlines for young children. No sign-up, no email, just print.',
   keywords: [
     'bible coloring pages', 'free bible coloring pages', 'bible coloring pages for kids',
     'printable bible coloring pages', 'bible verse coloring pages',
@@ -49,9 +32,9 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-coloring-pages' },
   openGraph: {
-    title: 'Free Bible Coloring Pages — 16 Printables',
+    title: 'Free Bible Coloring Pages — 26 Printables',
     description:
-      'Sixteen free printable Bible coloring pages, Creation to the Empty Tomb. No sign-up, just print.',
+      '26 free printable Bible coloring pages, Creation to the Empty Tomb. No sign-up, just print.',
     url: 'https://faithfulkids.app/printables/bible-coloring-pages',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -126,7 +109,7 @@ export default function BibleColoringPages() {
             </a>
             <figcaption>
               <strong>{p.title}</strong>
-              <span>{p.verse} · Preview &amp; print</span>
+              <span>{p.scripture} · Preview &amp; print</span>
             </figcaption>
           </figure>
         ))}
@@ -136,7 +119,7 @@ export default function BibleColoringPages() {
           The pages themselves stay free and crawlable -- gating them would
           destroy the only reason this page exists (5,400/mo at KD 5, and
           Google cannot index what it cannot fetch). The PDF is the upgrade:
-          the Sunday school teacher who wants all 16 in one file is the
+          the Sunday school teacher who wants all 26 in one file is the
           higher-intent visitor, and that is worth an address. */}
       <section className="cp-capture no-print">
         <EmailCaptureCard

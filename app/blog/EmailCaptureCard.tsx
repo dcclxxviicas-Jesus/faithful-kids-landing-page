@@ -26,7 +26,7 @@ export function EmailCaptureCard({
 
   const COPY = {
     'coloring-pages': {
-      heading: '🖍️ Free: All 16 Bible Coloring Pages',
+      heading: '🖍️ Free: All 26 Bible Coloring Pages',
       sub: 'One PDF, Creation to the Empty Tomb — print the whole set at once instead of page by page.',
       name: 'Bible Coloring Pack',
     },

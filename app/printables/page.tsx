@@ -10,6 +10,22 @@ export const metadata: Metadata = {
 
 const PACKS = [
   {
+    href: '/printables/christmas-coloring-pages',
+    emoji: '\u2B50',
+    title: 'Christmas & Nativity Coloring Pages',
+    description:
+      'Six nativity pages following the Christmas story in order — the angel and Mary, the journey to Bethlehem, the stable, the shepherds on the hillside, and the wise men who arrived much later than the cards suggest.',
+    details: 'One a week through Advent · No email, no sign-up',
+  },
+  {
+    href: '/printables/easter-coloring-pages',
+    emoji: '\u271D\uFE0F',
+    title: 'Easter & Holy Week Coloring Pages',
+    description:
+      'Five pages walking Holy Week from Palm Sunday to the road to Emmaus. The cross page shows the empty cross rather than the crucifixion, so it works with younger children too.',
+    details: 'One a day, Sunday to Sunday · No email, no sign-up',
+  },
+  {
     href: '/printables/bible-word-search',
     emoji: '🔍',
     title: 'Bible Word Search — 10 Puzzles',
@@ -20,9 +36,9 @@ const PACKS = [
   {
     href: '/printables/bible-coloring-pages',
     emoji: '🖍️',
-    title: 'Bible Coloring Pages — 16 Printables',
+    title: 'Bible Coloring Pages — 26 Printables',
     description:
-      'Sixteen Bible scenes drawn as clean line art for young children, Creation through the Empty Tomb. Bold simple outlines with room for thick crayons, each with its Scripture reference.',
+      '26 Bible scenes drawn as clean line art for young children, Creation through the Empty Tomb, including full Christmas and Easter sets. Bold simple outlines with room for thick crayons, each with its Scripture reference.',
     details: 'Print the whole set or one page · No email, no sign-up',
   },
   {

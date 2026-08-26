@@ -12,7 +12,7 @@ import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
  *  - a raw .png on CloudFront is a dead end. No print button, no context, no
  *    way back into the site, and nothing for Google to rank.
  *  - every scene is its own keyword and every one measured at difficulty 0
- *    (see lib/coloring-pages.ts for the volumes). Sixteen pages at KD 0 beat
+ *    (see lib/coloring-pages.ts for the volumes). 26 pages at KD 0 beat
  *    one page trying to carry all of them.
  */
 

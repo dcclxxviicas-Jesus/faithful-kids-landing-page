@@ -85,7 +85,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.9,
     },
-    ...wordSearches.map(w => ({
+    ...wordSearches.filter(w => w.slug !== 'bible').map(w => ({
       url: `${baseUrl}/printables/bible-word-search/${w.slug}`,
       lastModified: new Date('2026-08-26'),
       changeFrequency: 'monthly' as const,

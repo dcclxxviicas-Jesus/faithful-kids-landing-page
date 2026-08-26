@@ -124,6 +124,8 @@ Discussion carries the lesson, but movement seals it. Follow the questions with 
 
 Running this with a big group? Put our [online Bible trivia](/bible-trivia) on the screen and play as teams.
 
+Sunday school leaders: the [Bible word searches](/printables/bible-word-search) print one to a sheet with the answer key included.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson be?

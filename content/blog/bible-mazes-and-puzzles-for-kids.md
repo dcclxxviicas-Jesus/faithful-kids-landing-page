@@ -123,6 +123,8 @@ One more tip: let kids make puzzles for *you*. A child who encodes a verse into 
 
 We drew a set of [free Bible coloring pages](/printables/bible-coloring-pages) to go with these — 16 scenes from Creation to the empty tomb, no email needed.
 
+Sunday school leaders: the [Bible word searches](/printables/bible-word-search) print one to a sheet with the answer key included.
+
 ## Frequently Asked Questions
 
 ### What age are Bible mazes and puzzles good for?

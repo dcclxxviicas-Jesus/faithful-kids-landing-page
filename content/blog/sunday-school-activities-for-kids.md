@@ -138,6 +138,8 @@ You can also hand over a phone and let kids run our [interactive Bible trivia ga
 
 There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
 
+There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
+
 ## Frequently Asked Questions
 
 ### What are good Sunday school activities for mixed ages?

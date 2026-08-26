@@ -98,6 +98,8 @@ Need more range? Our full [youth group games](/blog/youth-group-games) guide sor
 
 You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
 
+Pair this with a [Bible word search puzzle](/printables/bible-word-search) — Noah, Christmas, Easter, David and Goliath and more.
+
 ## Frequently Asked Questions
 
 ### What is the easiest youth group game with no supplies?

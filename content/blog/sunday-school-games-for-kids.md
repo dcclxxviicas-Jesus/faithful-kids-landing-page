@@ -161,6 +161,8 @@ One more multiplier: games work best when kids already know the story a little. 
 
 Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
 
+There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
+
 ## Frequently Asked Questions
 
 ### What is a good Sunday school game with no preparation?

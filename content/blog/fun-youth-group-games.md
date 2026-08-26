@@ -148,6 +148,8 @@ For more options, the full sorted list lives at [youth group games by group size
 
 If you would rather let a screen keep score, play our [online Bible trivia game](/bible-trivia) -- 100 questions, three levels, no sign-up.
 
+We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
+
 ## Frequently Asked Questions
 
 ### What is the funniest youth group game?

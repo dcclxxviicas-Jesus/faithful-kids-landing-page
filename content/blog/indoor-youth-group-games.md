@@ -136,6 +136,8 @@ More options: the full library sorted by group size is at [youth group games](/b
 
 Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads.
 
+For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
+
 ## Frequently Asked Questions
 
 ### What indoor games work in a small youth room with no gym?

@@ -272,6 +272,8 @@ For deeper Scripture-anchored options, see our [Bible games for youth](/blog/bib
 
 Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten questions at a time, right in the browser.
 
+There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
+
 ## Frequently Asked Questions
 
 ### What are the best youth group games for a small group of 10 or fewer?

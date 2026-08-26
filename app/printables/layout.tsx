@@ -11,10 +11,17 @@
  * sheet, which is what a multi-page printable needs. It is hidden entirely on
  * screen — this is a print artefact, not page furniture.
  */
+import { BlogStickyCta } from '../blog/BlogStickyCta'
+
 export default function PrintablesLayout({ children }: { children: React.ReactNode }) {
   return (
     <>
       {children}
+      {/* Non-interrupting CTA. Deliberately NOT moving the main block above the
+          artifact: someone who searched "bible word search" came for the puzzle,
+          and a sales panel above it raises bounce. The sticky bar keeps a path
+          to /quiz visible the whole way down without taking the page hostage. */}
+      <BlogStickyCta postSlug="printables" />
       <div className="print-mark" aria-hidden="true">
         <strong>FaithfulKids.app</strong>
         <span>Free Bible printables · 200 story videos with quizzes</span>

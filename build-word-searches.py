@@ -19,6 +19,12 @@ from pathlib import Path
 OUT = Path(__file__).resolve().parent / "lib" / "word-searches.json"
 
 PUZZLES = [
+    # The general puzzle. Targets the head term "bible word search" (5,400/mo,
+    # KD 4) with vocabulary spanning the whole Bible rather than one story, so a
+    # visitor who searched the broad term gets the broad puzzle.
+    ("bible", "Bible Word Search", "Genesis to Revelation", "Ages 7+",
+     ["BIBLE", "JESUS", "MOSES", "DAVID", "NOAH", "FAITH", "PRAYER", "ANGEL",
+      "GOSPEL", "PSALM", "DISCIPLE", "KINGDOM"]),
     ("noahs-ark", "Noah's Ark", "Genesis 6-9", "Ages 6+",
      ["NOAH", "ARK", "FLOOD", "RAINBOW", "DOVE", "OLIVE", "ANIMALS", "RAIN", "MOUNTAIN", "PROMISE", "FORTY", "SHEM"]),
     ("christmas", "The Christmas Story", "Luke 2", "Ages 6+",

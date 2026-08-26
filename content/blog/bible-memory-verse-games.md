@@ -136,6 +136,8 @@ For the nights when nobody has energy for a game, our free [Bedtime Bible Kit](/
 
 For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
+We also drew a set of [free Bible word searches](/printables/bible-word-search) — eleven puzzles you can play in the browser or print for a class.
+
 ## Frequently Asked Questions
 
 ### What is the best memory verse game for a large group?

@@ -72,6 +72,8 @@ Pick a fixed night, keep it under an hour, and let kids choose the game -- consi
 
 Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
 
+For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
+
 ## Frequently Asked Questions
 
 ### What is the best Christian board game for families?

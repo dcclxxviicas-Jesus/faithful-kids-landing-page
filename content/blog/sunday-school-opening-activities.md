@@ -115,6 +115,8 @@ When you want zero setup, our [online Bible trivia for kids](/bible-trivia) is o
 
 Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
 
+For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
+
 ## Frequently Asked Questions
 
 ### How long should Sunday school opening activities last?

@@ -107,6 +107,8 @@ Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten
 
 We have 16 [Bible coloring pages to print](/printables/bible-coloring-pages) covering the stories most children meet first.
 
+Sunday school leaders: the [Bible word searches](/printables/bible-word-search) print one to a sheet with the answer key included.
+
 ## Frequently Asked Questions
 
 ### What is a simple advent activity we can start tonight?

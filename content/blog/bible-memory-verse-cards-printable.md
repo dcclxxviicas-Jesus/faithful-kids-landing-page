@@ -162,6 +162,8 @@ For more printable formats beyond cards -- coloring pages, word searches, challe
 
 There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
 
+There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
+
 ## Frequently Asked Questions
 
 ### How many verses should a child memorize at once?

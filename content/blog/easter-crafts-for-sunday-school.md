@@ -184,6 +184,8 @@ The same questions live in our [Bible trivia game](/bible-trivia) if you would r
 
 Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
 
+If you need something with no prep at all, the [Bible word search](/printables/bible-word-search) plays on a phone and prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### What is the easiest Easter craft for a Sunday school class?

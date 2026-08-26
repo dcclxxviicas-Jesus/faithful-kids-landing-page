@@ -132,6 +132,8 @@ Six weeks of David deserve a seventh week of nobody sitting still. Our free [Bib
 
 There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
 
+We also drew a set of [free Bible word searches](/printables/bible-word-search) — eleven puzzles you can play in the browser or print for a class.
+
 ## Frequently Asked Questions
 
 ### What ages is this David series for?

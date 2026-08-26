@@ -120,6 +120,8 @@ That is roughly fifteen minutes a day, most of it attached to meals you were alr
 
 Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
 
+Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with no sign-up.
+
 ## Frequently Asked Questions
 
 ### Where can I find free Bible study printables?

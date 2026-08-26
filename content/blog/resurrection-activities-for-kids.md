@@ -167,6 +167,8 @@ Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) dr
 
 If you want the pages ready-made, our [Bible coloring pages](/printables/bible-coloring-pages) cover 16 stories and print straight from the browser.
 
+Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with no sign-up.
+
 ## Frequently Asked Questions
 
 ### What goes in resurrection eggs?

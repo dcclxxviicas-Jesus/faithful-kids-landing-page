@@ -138,6 +138,8 @@ If younger siblings are in the room -- a common reality in small churches -- [Fa
 
 Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
 
+We also drew a set of [free Bible word searches](/printables/bible-word-search) — eleven puzzles you can play in the browser or print for a class.
+
 ## Frequently Asked Questions
 
 ### What Bible activities work for youth who did not grow up in church?

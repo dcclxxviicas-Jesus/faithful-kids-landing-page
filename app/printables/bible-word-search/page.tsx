@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import puzzles from '@/lib/word-searches.json'
+import { WordSearchGame } from './WordSearchGame'
 import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 
@@ -16,9 +17,9 @@ import printableVideos from '@/lib/printable-videos.json'
  */
 
 export const metadata: Metadata = {
-  title: 'Bible Word Search — 10 Free Printables',
+  title: 'Bible Word Search — 11 Free Puzzles',
   description:
-    'Ten free printable Bible word search puzzles for kids: Noah, Christmas, Easter, David and Goliath, the armor of God and more. Answer keys included.',
+    'Eleven free Bible word search puzzles for kids — play online or print. Noah, Christmas, Easter, David and Goliath, the armor of God and more. Answer keys included.',
   keywords: [
     'bible word search', 'bible word search puzzles', 'bible word search printable',
     'free bible word search', 'bible word search for kids', 'sunday school word search',
@@ -28,15 +29,20 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Bible Word Search — 10 Free Printables',
     description:
-      'Ten free printable Bible word search puzzles for kids, with answer keys. No sign-up.',
+      'Eleven free Bible word search puzzles for kids — play online or print, with answer keys. No sign-up.',
     url: 'https://faithfulkids.app/printables/bible-word-search',
     siteName: 'Faithful Kids',
     type: 'website',
-    images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/david-and-goliath.png', width: 1024, height: 1536 }],
+    images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/bible.png', width: 1536, height: 1024 }],
   },
 }
 
 export default function WordSearchHub() {
+  // The general puzzle lives ONLY here, not on its own detail route, so the hub
+  // and a near-identical child page never compete for "bible word search".
+  const general = puzzles.find(p => p.slug === 'bible')!
+  const themed = puzzles.filter(p => p.slug !== 'bible')
+
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
@@ -48,7 +54,7 @@ export default function WordSearchHub() {
     mainEntity: {
       '@type': 'ItemList',
       numberOfItems: puzzles.length,
-      itemListElement: puzzles.map((p, i) => ({
+      itemListElement: themed.map((p, i) => ({
         '@type': 'ListItem',
         position: i + 1,
         name: `${p.title} word search`,
@@ -67,8 +73,8 @@ export default function WordSearchHub() {
         <span className="section-label">Free · No Sign-Up</span>
         <h1>Bible Word Search Puzzles</h1>
         <p className="blog-hero-sub">
-          Ten printable puzzles, each built from one Bible story or theme, with the answer key on
-          the same page. Free to print for class or home.
+          Eleven puzzles — one covering the whole Bible, playable right here, and ten more built from a
+          single story each. All free to print, with the answer key on every page.
         </p>
       </section>
 
@@ -86,9 +92,41 @@ export default function WordSearchHub() {
         </p>
       </section>
 
+      <section className="ws-play">
+        <h2>Play the Bible word search now</h2>
+        <p className="section-sub">
+          Twelve words from across the whole Bible. Drag across a word or tap its first and last
+          letter — it works on a phone, and nothing needs printing.
+        </p>
+        <WordSearchGame
+          grid={general.grid}
+          words={general.words}
+          answers={general.answers as unknown as Record<string, { row: number; col: number; dr: number; dc: number }>}
+          slug={general.slug}
+          title="Bible"
+        />
+      </section>
+
+      <section className="ws-themed-head">
+        <h2>Word searches by Bible story</h2>
+        <p className="section-sub">
+          Ten more puzzles, each built from one story or theme. Every one plays in the browser and
+          prints on a single sheet with its answer key.
+        </p>
+      </section>
+
       <div className="ws-grid">
-        {puzzles.map(p => (
+        {themed.map(p => (
           <a key={p.slug} className="ws-card" href={`/printables/bible-word-search/${p.slug}`}>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              className="ws-card-img"
+              src={`https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${p.slug}.png`}
+              alt={`${p.title} Bible word search for kids`}
+              loading="lazy"
+              width={1536}
+              height={1024}
+            />
             <strong>{p.title}</strong>
             <span className="ws-meta">{p.scripture} · {p.ages}</span>
             <span className="ws-words">{p.words.slice(0, 6).join(' · ')}…</span>

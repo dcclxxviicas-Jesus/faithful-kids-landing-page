@@ -122,6 +122,8 @@ At the end of each quarter, teach a review week instead of a new story. Our free
 
 There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
 
+Pair this with a [Bible word search puzzle](/printables/bible-word-search) — Noah, Christmas, Easter, David and Goliath and more.
+
 ## Frequently Asked Questions
 
 ### Are these Sunday school lessons for kids really free?

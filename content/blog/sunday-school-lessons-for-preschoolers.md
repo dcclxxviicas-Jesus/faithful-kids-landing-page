@@ -243,6 +243,8 @@ If you're building out a full quarter of teaching, our broader guide to [Bible l
 
 We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three levels, a verse with every answer, no ads.
 
+Our [free Bible word search](/printables/bible-word-search) works the same way: play it on screen, or print it for the table.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson be for preschoolers?

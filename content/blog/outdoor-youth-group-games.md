@@ -119,6 +119,8 @@ Planning the rest of the summer? Our full [youth group games](/blog/youth-group-
 
 Our [Bible trivia app for kids](/bible-trivia) is free in the browser -- no download, no account, no ads.
 
+Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with no sign-up.
+
 ## Frequently Asked Questions
 
 ### What are the best outdoor games for a large youth group?

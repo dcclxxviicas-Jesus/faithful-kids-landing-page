@@ -250,6 +250,8 @@ The one mistake that kills Bible games is making the game a thin wrapper around 
 
 A few more rules keep the energy up. Keep games short -- three quick games beat one long one that loses the room. Mix ages by pairing older kids with younger ones, so the big kids reinforce what they know by teaching it. Celebrate effort, not just winning, so the slowest reader still wants to come back next week -- and for any quiz-style game, switching to [multiple choice Bible trivia](/blog/bible-trivia-multiple-choice) gives shy kids a way to play without risking a blank stare. Screens can pull in the same direction too: [Faithful Kids](https://faithfulkids.app/quiz) pairs short animated Bible story videos with game-style quizzes -- points, streaks, celebrations -- so the "game first, lesson inside" principle keeps working on days you cannot run charades in the living room. Finally, make it a rhythm, not a one-off: a monthly [family Bible trivia night](https://faithfulkids.app/blog/family-bible-trivia-night) gives the games a reason to matter. And when these kids graduate into the teen room, none of it gets thrown out -- our [master list of youth group games](/blog/youth-group-games) picks up right where this one stops.
 
+There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
+
 ## Frequently Asked Questions
 
 ### What are good Bible games for 4 and 5 year olds?

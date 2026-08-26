@@ -98,6 +98,8 @@ For nights when nobody wants to read questions aloud, our [free Bible quiz for k
 
 There is a matching set of [Bible story coloring pages](/printables/bible-coloring-pages) on our site, free to print for class or home.
 
+Sunday school leaders: the [Bible word searches](/printables/bible-word-search) print one to a sheet with the answer key included.
+
 ## Frequently Asked Questions
 
 ### What are the 6 pieces of the armor of God in order?

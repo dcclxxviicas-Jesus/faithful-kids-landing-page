@@ -116,6 +116,8 @@ One last multiplier that costs you nothing: connect with parents. A two-line tex
 
 Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is free and works on a phone.
 
+If you need something with no prep at all, the [Bible word search](/printables/bible-word-search) plays on a phone and prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### What makes a good Sunday school teacher?

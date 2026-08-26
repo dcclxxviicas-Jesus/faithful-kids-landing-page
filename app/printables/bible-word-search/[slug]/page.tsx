@@ -10,10 +10,13 @@ import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
 
 type Puzzle = (typeof puzzles)[number]
 
-const get = (slug: string) => puzzles.find(p => p.slug === slug) as Puzzle | undefined
+const get = (slug: string) =>
+  (slug === 'bible' ? undefined : puzzles.find(p => p.slug === slug)) as Puzzle | undefined
 
 export function generateStaticParams() {
-  return puzzles.map(p => ({ slug: p.slug }))
+  // 'bible' is played on the hub itself; giving it a detail page too would put
+  // two near-identical pages against the same head term.
+  return puzzles.filter(p => p.slug !== 'bible').map(p => ({ slug: p.slug }))
 }
 
 export async function generateMetadata(
@@ -36,7 +39,7 @@ export async function generateMetadata(
     alternates: { canonical: url },
     openGraph: {
       title, description: desc, url, siteName: 'Faithful Kids', type: 'article',
-      images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/david-and-goliath.png', width: 1024, height: 1536 }],
+      images: [{ url: `https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${p.slug}.png`, width: 1536, height: 1024 }],
     },
   }
 }
@@ -48,7 +51,9 @@ export default async function WordSearchPuzzle(
   const p = get(slug)
   if (!p) notFound()
 
-  const others = puzzles.filter(o => o.slug !== p.slug).slice(0, 6)
+  // Exclude 'bible' — it is played on the hub and has no detail route, so
+  // linking to it from here would be a dead link.
+  const others = puzzles.filter(o => o.slug !== p.slug && o.slug !== 'bible').slice(0, 6)
   const vids = printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>
   const clip = vids[p.slug] ?? vids._default
 
@@ -77,6 +82,16 @@ export default async function WordSearchPuzzle(
           {p.scripture} · {p.ages} · {p.words.length} words · Free to print
         </p>
       </section>
+
+      <div className="ws-hero no-print">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={`https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${p.slug}.png`}
+          alt={`${p.title} — Bible word search puzzle for kids, ${p.scripture}`}
+          width={1536}
+          height={1024}
+        />
+      </div>
 
       <div className="ws-sheet">
         <h2 className="ws-sheet-title">{p.title} Word Search</h2>

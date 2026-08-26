@@ -108,3 +108,5 @@ Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-activities)
 
 You can print any of our [free Bible coloring pages](/printables/bible-coloring-pages) without giving an email address.
+
+There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.

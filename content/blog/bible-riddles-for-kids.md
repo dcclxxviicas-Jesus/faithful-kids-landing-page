@@ -355,6 +355,8 @@ Want your kids to know the Bible stories behind every riddle on this list? Faith
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 
+There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
+
 ## Frequently Asked Questions
 
 ### What age group are these Bible riddles best for?

@@ -94,6 +94,8 @@ Hosting a class party and want something on the table? Our free [Bible Trivia Pa
 
 Our [Bible trivia app for kids](/bible-trivia) is free in the browser -- no download, no account, no ads.
 
+For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
+
 ## Frequently Asked Questions
 
 ### What are good Christmas games for a Sunday school class with no prep?

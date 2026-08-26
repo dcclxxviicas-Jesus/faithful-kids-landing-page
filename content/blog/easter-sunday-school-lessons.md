@@ -218,6 +218,8 @@ For the review week after Easter, our free [Bible Trivia Pack](/printables/bible
 
 There is also a [free Bible trivia game](/bible-trivia) on our site that reshuffles every round, so it never plays the same twice.
 
+For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
+
 ## Frequently Asked Questions
 
 ### How do you explain the crucifixion to young children?

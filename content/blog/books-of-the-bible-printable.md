@@ -211,6 +211,8 @@ Don't rush a reluctant 5-year-old, and don't assume a motivated 6-year-old can't
 
 For something to hand over right now, there are 16 [printable Bible coloring pages](/printables/bible-coloring-pages) on our site — free, no sign-up.
 
+For older children who find coloring dull, a [Bible word search](/printables/bible-word-search) holds attention longer.
+
 ## Frequently Asked Questions
 
 ### How many books are in the Bible?

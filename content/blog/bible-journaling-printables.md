@@ -108,6 +108,8 @@ For where journaling fits in the larger printable ecosystem, see our full roundu
 
 If you want the pages ready-made, our [Bible coloring pages](/printables/bible-coloring-pages) cover 16 stories and print straight from the browser.
 
+We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
+
 ## Frequently Asked Questions
 
 ### Where can I find genuinely free Bible journaling printables?

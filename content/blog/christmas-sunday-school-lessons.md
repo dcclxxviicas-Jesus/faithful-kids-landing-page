@@ -198,6 +198,8 @@ Teaching more than one room this December? Our [Sunday school lessons for presch
 
 Kids who like a scoreboard tend to prefer our [Bible trivia game online](/bible-trivia), which tracks the streak for them.
 
+For older children who find coloring dull, a [Bible word search](/printables/bible-word-search) holds attention longer.
+
 ## Frequently Asked Questions
 
 ### How many Christmas lessons do I need for December?

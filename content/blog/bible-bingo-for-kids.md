@@ -125,6 +125,8 @@ If bingo becomes a favorite, rotate it with other paper-and-pencil classics -- [
 
 You can print any of our [free Bible coloring pages](/printables/bible-coloring-pages) without giving an email address.
 
+There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
+
 ## Frequently Asked Questions
 
 ### What ages is Bible bingo good for?

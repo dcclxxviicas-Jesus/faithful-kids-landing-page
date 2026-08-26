@@ -190,6 +190,8 @@ Some Sundays the discussion is not going to happen -- the retreat was yesterday,
 
 If the group is restless, switch to our [Bible trivia game online](/bible-trivia) and let the streak counter do the work.
 
+If you need something with no prep at all, the [Bible word search](/printables/bible-word-search) plays on a phone and prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson for teens be?

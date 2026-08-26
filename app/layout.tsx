@@ -12,17 +12,20 @@ export const metadata: Metadata = {
     default: 'Bible App for Kids Ages 5-15 — 400+ Video Lessons, No Ads',
     template: '%s | Faithful Kids',
   },
-  description: 'A Bible app for kids ages 5-15 — 400+ short Bible story videos, each with a quiz and a reflection. Genesis to Revelation. No ads, no algorithm.',
+  description: 'A Bible app for kids ages 5-15. 400+ short Bible story videos, each with a quiz and reflection, Genesis to Revelation. No ads, no algorithm, no guilt.',
   keywords: ['bible stories for kids', 'bible app for kids', 'christian app for kids', 'bible videos for children', 'sunday school lessons', 'kids bible lessons'],
   openGraph: {
     siteName: 'Faithful Kids',
     type: 'website',
+    url: 'https://faithfulkids.app',
+    title: 'Bible App for Kids Ages 5-15 — 400+ Video Lessons, No Ads',
+    description: 'A Bible app for kids ages 5-15. 400+ short Bible story videos, each with a quiz and reflection, Genesis to Revelation. No ads, no algorithm, no guilt.',
     images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp', width: 1792, height: 1024, alt: 'Faithful Kids - Bible Story Videos for Kids' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Faithful Kids — Bible Story Videos for Kids',
-    description: '400+ Bible story videos for kids ages 5-15. Quizzes, reflections, parent dashboard. Zero ads.',
+    title: 'Bible App for Kids Ages 5-15 — Faithful Kids',
+    description: '400+ short Bible story videos for kids, each with a quiz and reflection. Genesis to Revelation. No ads, no algorithm, no guilt.',
     images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp'],
   },
   icons: {

@@ -12,6 +12,8 @@ interface Traffic {
   events_breakdown: { event: string; count: number; uniques: number }[]
   top_pages: { path: string; visitors: number; views: number }[]
   referrers: { ref: string; visitors: number }[]
+  // Optional: absent in snapshots taken before the AEO segment was added.
+  ai_referrers?: { ref: string; visitors: number }[]
   devices: { device: string; visitors: number }[]
   countries: { country: string; visitors: number }[]
 }
@@ -219,6 +221,17 @@ export default function CasAdmin() {
                   {t.referrers.slice(0, 8).map((r) => (
                     <Bar key={r.ref} label={r.ref === '$direct' ? 'Typed the address / unknown' : r.ref.replace('www.', '')} value={r.visitors} max={t.referrers[0]?.visitors || 1} />
                   ))}
+                  {(t.ai_referrers ?? []).length > 0 && (
+                    <>
+                      {/* Small numbers by design: this is the AEO leading
+                          indicator, shown even when it would never make the
+                          top-8 list above. */}
+                      <h2 style={{ marginTop: 16 }}>Sent by an AI answer</h2>
+                      {(t.ai_referrers ?? []).map((r) => (
+                        <Bar key={r.ref} label={r.ref.replace('www.', '')} value={r.visitors} max={(t.ai_referrers ?? [])[0]?.visitors || 1} />
+                      ))}
+                    </>
+                  )}
                 </section>
                 <section className="panel">
                   <h2>What they read</h2>

@@ -170,6 +170,20 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
     FROM events WHERE event = '$pageview' AND ${W}
     GROUP BY 1 ORDER BY 2 DESC LIMIT 15`)
 
+  // Answer-engine referrals, tracked separately because they never crack the
+  // top-15 referrer list yet are the leading indicator for AEO work (llms.txt,
+  // /about, answer-first comparison posts). chatgpt.com alone sent 37 visitors
+  // in the 60 days before this was added — invisible in the list above.
+  // Bing/DDG excluded here: they are classic search engines; this bucket is
+  // only destinations where an AI wrote the answer.
+  const aiReferrers = await hogql(`
+    SELECT properties.$referring_domain AS d, count(DISTINCT distinct_id)
+    FROM events WHERE event = '$pageview' AND ${W}
+    AND (d ILIKE '%chatgpt%' OR d ILIKE '%openai%' OR d ILIKE '%perplexity%'
+         OR d ILIKE '%copilot%' OR d ILIKE '%gemini%' OR d ILIKE '%claude%'
+         OR d ILIKE '%meta.ai%' OR d ILIKE '%you.com%' OR d ILIKE '%poe.com%')
+    GROUP BY 1 ORDER BY 2 DESC`)
+
   const devices = await hogql(`
     SELECT properties.$device_type, count(DISTINCT distinct_id)
     FROM events WHERE event = '$pageview' AND ${W}
@@ -210,6 +224,7 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
     events_breakdown: (eventsBreakdown as [string, number, number][]).map((r) => ({ event: r[0], count: r[1], uniques: r[2] })),
     top_pages: (topPages as [string, number, number][]).map((r) => ({ path: r[0], visitors: r[1], views: r[2] })),
     referrers: (referrers as [string, number][]).map((r) => ({ ref: r[0] || '$direct', visitors: r[1] })),
+    ai_referrers: (aiReferrers as [string, number][]).map((r) => ({ ref: r[0], visitors: r[1] })),
     devices: (devices as [string, number][]).map((r) => ({ device: r[0] || 'Unknown', visitors: r[1] })),
     countries: (countries as [string, number][]).map((r) => ({ country: r[0] || 'Unknown', visitors: r[1] })),
   }

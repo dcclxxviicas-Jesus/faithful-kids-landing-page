@@ -10,7 +10,7 @@ dateModified: "2026-08-18"
 
 # Bible App for Kids vs Faithful Kids: Free vs Paid Compared
 
-The Bible App for Kids by YouVersion is probably the first Bible app you ever downloaded for your child. It is free, beautifully designed, and trusted by over 60 million families worldwide (we cover it in depth in our [Bible App for Kids review](/blog/bible-app-for-kids-review)). So when parents hear about Faithful Kids, a paid subscription app, the first question is always the same: "Why would I pay when there is a perfectly good free option?"
+The short version: YouVersion's Bible App for Kids is the right choice for ages 3-6 — free, beautifully made, and trusted by tens of millions of families — while Faithful Kids is built for the years after that, ages 7-15, with full Genesis-to-Revelation coverage, comprehension quizzes, and a parent dashboard. Most families outgrow the first and graduate to the second. Here is the honest comparison.
 
 It is a fair question. And the honest answer is: it depends on what your family needs.
 

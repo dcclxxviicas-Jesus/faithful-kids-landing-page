@@ -265,7 +265,7 @@ export function TriviaGame({
           style={{ width: '100%', borderRadius: '14px', background: '#000', marginTop: '18px' }}
         />
         <p style={{ fontSize: '0.85rem', color: '#777', margin: '8px 0 16px' }}>
-          &ldquo;{videoTitle}&rdquo; — one of 200 video lessons in the Faithful Kids Bible course
+          &ldquo;{videoTitle}&rdquo; — one of 300+ video lessons in the Faithful Kids Bible course
         </p>
         <p style={{ color: '#333', margin: '0 auto 18px', fontSize: '1.05rem', fontWeight: 600, maxWidth: '520px' }}>
           If you enjoyed this quiz, we think you&apos;ll really enjoy our Bible course. Take a look!

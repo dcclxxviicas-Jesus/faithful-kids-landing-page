@@ -61,9 +61,9 @@ const FAQS = [
   { q: 'Can I set screen time limits?', a: 'Yes. Set daily limits per child. When time is up, the app gently pauses. No more "just one more video" battles.' },
   { q: 'Which denomination is the content for?', a: 'Our core Bible stories (David & Goliath, Noah, the Good Samaritan, the Nativity) are told faithfully to Scripture and resonate across Christian traditions. We offer content paths for Catholic, Evangelical, and Non-denominational families.' },
   { q: 'Is the content doctrinally accurate?', a: 'Every story is reviewed by practicing Christians with theological training. We take doctrinal accuracy seriously. If something is not right, we fix it or remove it.' },
-  { q: 'What devices does it work on?', a: 'iPhone, iPad, Android phones and tablets. Watch anywhere your family is.' },
+  { q: 'What devices does it work on?', a: 'Any device with a web browser: iPhone, iPad, Android phones and tablets, laptops, and desktops. There is nothing to install — kids sign in at app.faithfulkids.app and watch.' },
   { q: 'What is the refund policy?', a: 'Full 30-day money-back guarantee. If your kids do not love it, we will refund you completely. No questions asked.' },
-  { q: 'How often is new content added?', a: 'New stories are added every week. We currently have 200 video lessons across 20 series, from Genesis to Revelation, with more coming constantly.' },
+  { q: 'How often is new content added?', a: 'The library already covers the whole Bible in order: 300+ video lessons across 30+ series, Genesis to Revelation. New series and deep dives are added regularly on top of that.' },
   { q: 'How are the videos made?', a: 'We use advanced AI video technology to create beautiful, consistent storytelling at a pace no traditional studio could match. Every script is written and reviewed by real Christians for doctrinal accuracy. The technology lets us produce high-quality content fast, which means your kids get new stories every week instead of waiting months between releases.' },
   { q: 'Are there quizzes?', a: 'Yes. Every lesson comes with a short quiz so your child can check what they learned. It is not a test. It is a fun way to make sure the story sticks. Parents can see quiz results in the dashboard.' },
 ]
@@ -425,7 +425,7 @@ export default function Home() {
           <div className="feature-item"><div className="feature-icon">👁️</div><h3>Human Reviewed</h3><p>Every video reviewed by real people before it goes live. No surprises.</p></div>
           <div className="feature-item"><div className="feature-icon">⏱️</div><h3>Screen Time Limits</h3><p>Set daily limits per child. When time is up, the app gently pauses.</p></div>
           <div className="feature-item"><div className="feature-icon">🎂</div><h3>Age-Matched</h3><p>Set your child's age and get stories tailored to their level.</p></div>
-          <div className="feature-item"><div className="feature-icon">📱</div><h3>iOS & Android</h3><p>Available on iPhone and Android phones and tablets.</p></div>
+          <div className="feature-item"><div className="feature-icon">📱</div><h3>Works Everywhere</h3><p>Runs in the browser on iPhone, iPad, Android, and laptops. Nothing to install.</p></div>
           <div className="feature-item"><div className="feature-icon">📊</div><h3>Parent Dashboard</h3><p>See what your child watches, which stories they love, and how much time they spend.</p></div>
         </div>
       </section>

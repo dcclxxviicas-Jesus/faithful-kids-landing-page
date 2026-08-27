@@ -9,23 +9,23 @@ export const metadata: Metadata = {
     other: { 'p:domain_verify': '5f5b1b32e961a0e961786606d549be7e' },
   },
   title: {
-    default: 'Bible App for Kids — 400+ Bible Stories, Ages 5-15, No Ads',
+    default: 'Bible App for Kids — 300+ Bible Stories, Ages 5-15, No Ads',
     template: '%s | Faithful Kids',
   },
-  description: 'A Bible app for kids ages 5-15. 400+ short Bible story videos, each with a quiz and reflection, Genesis to Revelation. No ads, no algorithm, no guilt.',
+  description: 'A Bible app for kids ages 5-15. 300+ short Bible story videos, each with a quiz and reflection, Genesis to Revelation. No ads, no algorithm, no guilt.',
   keywords: ['bible stories for kids', 'bible app for kids', 'christian app for kids', 'bible videos for children', 'sunday school lessons', 'kids bible lessons'],
   openGraph: {
     siteName: 'Faithful Kids',
     type: 'website',
     url: 'https://faithfulkids.app',
-    title: 'Bible App for Kids — 400+ Bible Stories, Ages 5-15, No Ads',
-    description: 'A Bible app for kids ages 5-15. 400+ short Bible story videos, each with a quiz and reflection, Genesis to Revelation. No ads, no algorithm, no guilt.',
+    title: 'Bible App for Kids — 300+ Bible Stories, Ages 5-15, No Ads',
+    description: 'A Bible app for kids ages 5-15. 300+ short Bible story videos, each with a quiz and reflection, Genesis to Revelation. No ads, no algorithm, no guilt.',
     images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp', width: 1792, height: 1024, alt: 'Faithful Kids - Bible Story Videos for Kids' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Bible App for Kids Ages 5-15 — Faithful Kids',
-    description: '400+ short Bible story videos for kids, each with a quiz and reflection. Genesis to Revelation. No ads, no algorithm, no guilt.',
+    description: '300+ short Bible story videos for kids, each with a quiz and reflection. Genesis to Revelation. No ads, no algorithm, no guilt.',
     images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp'],
   },
   icons: {

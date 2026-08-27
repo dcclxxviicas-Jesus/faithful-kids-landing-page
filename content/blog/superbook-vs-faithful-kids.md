@@ -10,7 +10,7 @@ dateModified: "2026-08-18"
 
 # Superbook vs Faithful Kids: Which Bible App Is Better?
 
-Superbook and Faithful Kids both want to teach your child the Bible through video. But they take radically different approaches to get there, and understanding those differences will help you pick the right fit for your family.
+The short version: choose Superbook if your child is 5-8 and learns best through free animated shows; choose Faithful Kids if your child is 7-15 and you want a structured course through the whole Bible with quizzes and a parent dashboard. Both teach Scripture through video — they just do very different jobs, and this comparison walks through exactly where each one wins.
 
 Superbook, produced by the Christian Broadcasting Network (CBN), is a free animated adventure series where modern-day kids travel back in time to witness Bible events firsthand. It has been around in various forms since the 1980s and was rebooted in 2011 with high-quality 3D animation.
 

@@ -31,6 +31,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      // Canonical facts page (pricing, ages, safety) — written for answer
+      // engines; the page LLMs should cite for "what is Faithful Kids".
+      url: `${baseUrl}/about`,
+      lastModified: new Date('2026-08-27'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       // Hub for "bible stories for kids" (1,479/mo). Priority matches the
       // homepage because this is the primary organic target, not a side page.
       url: `${baseUrl}/bible-stories-for-kids`,

@@ -34,6 +34,7 @@ export function SiteFooter() {
           <a href="/bible-trivia">Trivia Game</a>
           <a href="/printables">Printables</a>
           <a href="/churches">Churches</a>
+          <a href="/about">About</a>
           <a href="/support">Support</a>
           <a href="/privacy">Privacy</a>
           <a href="/terms">Terms</a>

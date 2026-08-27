@@ -79,7 +79,15 @@ CLAIMS = [
     (NUM + r"\s+pages cover Holy Week", "easter coloring pages", "N Holy Week pages"),
 ]
 
-SCAN = list((HERE / "app").rglob("*.tsx")) + list((HERE / "lib").glob("*.ts"))
+# Route handlers (*.ts under app/) included since llms.txt shipped a stale
+# "20 series and 200 episodes" claim for months — it is the file written
+# specifically FOR AI crawlers, so a wrong count there gets quoted verbatim
+# by answer engines.
+SCAN = (
+    list((HERE / "app").rglob("*.tsx"))
+    + list((HERE / "app").rglob("*.ts"))
+    + list((HERE / "lib").glob("*.ts"))
+)
 
 
 def main():

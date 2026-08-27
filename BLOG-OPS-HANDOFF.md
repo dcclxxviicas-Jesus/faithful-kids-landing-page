@@ -181,7 +181,17 @@ no AI Overview squatting on it.
 
 ---
 
-## 4. PUBLISH RUNBOOK (any new page or post, end to end)
+## 4. PUBLISH RUNBOOK
+
+**The full pipeline lives in `RANKING-PROCESS.md` — that file is the core
+operating document; read it before building anything.** It covers candidate
+sourcing (GSC striking distance / DFS sweeps / competitor gap / seasonal
+calendar), the demand and SERP gates, query→page mapping, writing for search,
+image SEO, the technical checklist, ship-and-distribute, and the
+monitor/iterate decision tree with timelines. The short version below is a
+reminder, not a substitute.
+
+### Short version (any new page or post, end to end)
 
 1. **Demand check** (DataForSEO clickstream volume) → **SERP check** (who
    holds page 1? Is there an AI Overview? Are they beatable?) → decide

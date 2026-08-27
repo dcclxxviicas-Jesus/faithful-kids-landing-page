@@ -125,10 +125,10 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
     WHERE ${window} AND $session_id IS NOT NULL
     GROUP BY $session_id
     HAVING countIf(properties.$pathname IN ${INTERNAL_PAGES}) > 0
-        OR countIf(properties.internal = true) > 0`
+        OR countIf(toString(properties.internal) = 'true') > 0`
 
   const W = `${window}
-    AND coalesce(properties.internal, false) != true
+    AND toString(coalesce(properties.internal, '')) != 'true'
     AND ($session_id IS NULL OR $session_id NOT IN (${ourSessions}))`
 
   const [summary] = await hogql(`

@@ -589,22 +589,35 @@ function splitSecondForImage(html: string): { a: string; b: string } {
 }
 
 function splitContentForCTA(html: string): { first: string; second: string } {
-  // Find all h2 positions
-  const h2Positions: number[] = []
-  const regex = /<h2>/g
+  // Find all h2 positions, keeping their text
+  const h2s: { index: number; text: string }[] = []
+  const regex = /<h2>(.*?)<\/h2>/g
   let match
   while ((match = regex.exec(html)) !== null) {
-    h2Positions.push(match.index)
+    h2s.push({ index: match.index, text: match[1].replace(/<[^>]+>/g, '') })
   }
 
-  if (h2Positions.length < 3) {
+  if (h2s.length < 3) {
     return { first: html, second: '' }
   }
 
+  // On pages that REVIEW Faithful Kids (comparison/best-of posts), the CTA is
+  // the product demo, so it belongs immediately after our own entry — not at
+  // the arithmetic middle, which on best-bible-app-for-kids put our video
+  // between the Superbook and Yippee reviews. Only an EARLY "Faithful Kids"
+  // h2 counts as a review section: many guides end with a "Watch on Faithful
+  // Kids" outro h2, and splitting there would sink the CTA to the bottom of
+  // 200 pages.
+  const fkIdx = h2s.findIndex(h => /faithful kids/i.test(h.text))
+  if (fkIdx >= 0 && fkIdx < h2s.length / 2 && fkIdx + 1 < h2s.length) {
+    const splitIndex = h2s[fkIdx + 1].index
+    return { first: html.slice(0, splitIndex), second: html.slice(splitIndex) }
+  }
+
   // Split after the 2nd or 3rd h2 (roughly middle of content)
-  const splitIndex = h2Positions.length >= 5
-    ? h2Positions[Math.floor(h2Positions.length / 2)]
-    : h2Positions[2]
+  const splitIndex = h2s.length >= 5
+    ? h2s[Math.floor(h2s.length / 2)].index
+    : h2s[2].index
 
   return {
     first: html.slice(0, splitIndex),

@@ -60,7 +60,11 @@ export function PrintableCta({
             Start your child&rsquo;s Bible journey
           </a>
           <ul className="pc-points">
-            <li>200 stories, Genesis to Revelation, in order</li>
+            {/* "300+" matches the claim in the body copy above it — the card
+                said "200 stories" and "300+" at once, which reads as a site
+                that can't count its own product. 310 public lessons is the
+                real figure; 300+ is the one floor check-counts verifies. */}
+            <li>300+ lessons, Genesis to Revelation, in order</li>
             <li>A quiz after every one, so you see what stuck</li>
             <li>No ads, no algorithm &middot; cancel anytime</li>
           </ul>

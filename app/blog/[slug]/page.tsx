@@ -21,6 +21,7 @@ import storyQuizzes from '@/lib/story-quizzes.json'
 import storyDurations from '@/lib/story-durations.json'
 import triviaVideos from '@/lib/trivia-videos.json'
 import guideVideos from '@/lib/guide-videos.json'
+import samplerVideos from '@/lib/sampler-videos.json'
 import { PrintableCta } from '@/app/printables/PrintableCta'
 
 type Props = {
@@ -195,9 +196,18 @@ export default async function BlogPostPage({ params }: Props) {
 
   // Real-episode match for the mid-article CTA (see the TRUTH RULE comment at
   // the render site). Only guides are ever in this map.
+  type GuideClip = { videoSrc: string; posterSrc: string; videoTitle: string; storySlug: string }
   const guideVideo = !isStory
-    ? (guideVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; storySlug: string }>)[slug]
+    ? (guideVideos as Record<string, GuideClip>)[slug]
     : undefined
+  // Pages with no topically-matching episode still show a REAL lesson: a
+  // flagship episode picked deterministically per slug (stable across builds,
+  // varied across pages). Its copy claims only that it is a real lesson from
+  // the app — never that it matches this page's topic.
+  const samplerPool = samplerVideos as GuideClip[]
+  const samplerVideo = samplerPool[
+    slug.split('').reduce((a, c) => a + c.charCodeAt(0), 0) % samplerPool.length
+  ]
   const introParts = splitIntro(contentParts.first)
 
   // Exit-intent popup: context-aware variant (drives which free printable
@@ -393,18 +403,14 @@ const hasTriviaGame = triviaQuestions.length >= 10
           />
         )}
         {!hasTriviaGame && !isStory && !guideVideo && (
-          <div className="blog-mid-cta">
-            <div className="blog-mid-cta-icon">&#9654;</div>
-            <h3>Bring the Bible to Life</h3>
-            <p>
-              Faithful Kids turns the whole Bible into <strong>300+ short narrated video
-              lessons</strong> kids love, Genesis to Revelation — each followed by a fun quiz to
-              check what they learned.
-            </p>
-            <a href="/quiz" className="btn-primary" style={{ textDecoration: 'none', display: 'inline-block' }}>
-              Start your free trial
-            </a>
-          </div>
+          <PrintableCta
+            videoSrc={samplerVideo.videoSrc}
+            posterSrc={samplerVideo.posterSrc}
+            videoTitle={samplerVideo.videoTitle}
+            heading="Watch a Real Lesson From the App"
+            body={`Press play on ${samplerVideo.videoTitle} — a complete lesson exactly as your child sees it. 300+ episodes cover the whole Bible in order, each ending in a fun quiz to check what they learned.`}
+            source="guide-mid-cta-sampler"
+          />
         )}
 
         {/* Second half, part A — text between the two illustrations so they

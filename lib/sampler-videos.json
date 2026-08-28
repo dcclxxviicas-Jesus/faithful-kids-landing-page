@@ -1,0 +1,38 @@
+[
+ {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/noah-and-the-great-flood-for-kids-hero.webp",
+  "videoTitle": "Noah and the Great Flood",
+  "storySlug": "noah-and-the-great-flood-for-kids"
+ },
+ {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/exile-and-faith-series/06-daniel-in-the-lions-den/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/daniel-in-the-lions-den-for-kids-hero.webp",
+  "videoTitle": "Daniel in the Lions Den",
+  "storySlug": "daniel-in-the-lions-den-for-kids"
+ },
+ {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/miracles-of-jesus-series/03-walking-on-water/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/walking-on-water-for-kids-hero.webp",
+  "videoTitle": "Walking on Water",
+  "storySlug": "walking-on-water-for-kids"
+ },
+ {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/04-the-good-samaritan/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-good-samaritan-for-kids-hero.webp",
+  "videoTitle": "The Good Samaritan",
+  "storySlug": "the-good-samaritan-for-kids"
+ },
+ {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/in-the-beginning-creation-for-kids-hero.webp",
+  "videoTitle": "In the Beginning Creation",
+  "storySlug": "in-the-beginning-creation-for-kids"
+ }
+]

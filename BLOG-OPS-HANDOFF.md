@@ -349,6 +349,29 @@ bullet was also unified to "300+ lessons" (said "200 stories" under a "300+"
 body). Watch `guide-mid-cta` vs `guide-mid-cta-sampler` in PostHog: if matched
 beats sampler, that justifies hand-matching the 104 or making custom videos.
 
+**Aug 28 (later) — plan items 2–4 shipped (commit `96aabcd`):** (a) kids quiz
+post: two bonus rounds (25 questions, animals + numbers → 75 on page; PDF
+stays at its promised 50 — the generator's section regex excludes Bonus
+rounds by design). (b) **/blog/bible-trivia-for-adults** — 50 hard questions
+in warm-up/hard/expert rounds, own free PDF (`printables/bible-trivia-for-adults.pdf`),
+93 in-links via `link-adult-trivia.py`, teacher-intent CTA → /churches
+(priority #4's first live instance). Gates: "bible trivia for adults" cs 204 /
+KD 17, "hard bible trivia questions and answers for adults" cs 102 / KD 0;
+SERP has AIO but weak mid-page incumbents; printable variants carry real
+clickstream. Hero images pre-existed on S3 (an earlier session generated
+them). (c) Two commercial posts: **/blog/minno-vs-superbook-vs-yippee**
+(captures GSC's pageless "yippee vs minno"/"minno vs angel" queries) and
+**/blog/minno-review** (KD 0) — all facts web-verified Aug 28: Minno
+$10.99/mo (raised from $9.99) / $69.99/yr / 7-day trial; Superbook app fully
+free, ministry-funded, ~68 episodes; Yippee $7.99/$49, founded 2019 (NOT
+Phil Vischer), exclusive home of The VeggieTales Show, does NOT carry
+What's in the Bible?/Owlegories. **That correction mattered: two live posts
+(yippee-tv-vs, best-educational-apps) had Yippee misattributed to Vischer
+with Minno's catalog and a wrong $9.99/$99.99 price — all fixed.**
+(d) Infrastructure: `getGuideCategory` + llms.txt now route `*-review` slugs
+to App Reviews/comparisons; pin manifest regenerated (530). All three
+checkers green, deploy READY, live-verified, IndexNow pinged.
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

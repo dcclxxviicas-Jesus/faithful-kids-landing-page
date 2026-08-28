@@ -309,6 +309,24 @@ patterns outright, and checks that "N+" floor claims never overpromise —
 competitor-attributed numbers ("500+ episodes" = Yippee's) are exempted.
 Commit `8653bf9`, deployed READY, live-verified, IndexNow pinged.
 
+**Aug 28 — the false-video-promise fix (owner-flagged):** the mid-article CTA
+had interpolated each guide's title into "See {title} in a short narrated video
+lesson" on 244 pages where no such video existed (the claim that mis-sold a
+real customer). Replaced in two waves: `lib/guide-videos.json` maps **140
+guides to a real, topically-matching episode** (validated against story-post
+frontmatter, every CDN URL HEAD-verified; builder hard-fails on unknown
+slugs — it caught two stale candidates), rendered as a playable PrintableCta.
+The other **104 get a rotating flagship sampler** ("Watch a Real Lesson From
+the App", slug-hash-picked from `lib/sampler-videos.json`, copy never claims
+topical relevance). On review pages (best-of/vs-), `splitContentForCTA` now
+seams the demo immediately after the early "Faithful Kids" h2 instead of the
+arithmetic middle — it had been playing our demo between competitor entries.
+Guard: only an EARLY FK heading triggers this; ~200 guides end with a "Watch
+on Faithful Kids" outro h2 that must not attract the split. The PrintableCta
+bullet was also unified to "300+ lessons" (said "200 stories" under a "300+"
+body). Watch `guide-mid-cta` vs `guide-mid-cta-sampler` in PostHog: if matched
+beats sampler, that justifies hand-matching the 104 or making custom videos.
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

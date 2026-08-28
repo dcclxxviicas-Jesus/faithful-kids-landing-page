@@ -1,16 +1,18 @@
 ---
-title: "Bible Trivia for Kids: 50 Quiz Questions and Answers"
+title: "Bible Trivia for Kids: 50 Quiz Questions and Answers (PDF)"
 slug: "bible-trivia-for-kids"
 type: "listicle"
-metaDescription: "Bible trivia for kids: 50 Bible questions for kids with answers and verse references, in easy, medium, and hard rounds. A ready-made Bible quiz for kids."
-keywords: ["bible questions for kids", "bible quiz for kids with answers", "easy bible questions for kids", "bible questions and answers for kids", "bible trivia for kids with answers", "easy bible trivia questions for kids", "bible quiz questions for children", "sunday school bible trivia questions"]
+metaDescription: "Bible trivia for kids: 50 Bible quiz questions with answers and verse references in easy, medium, and hard rounds — plus a free printable PDF, no sign-up."
+keywords: ["bible questions for kids", "bible quiz for kids with answers", "kids bible quiz questions and answers pdf", "easy bible questions for kids", "bible questions and answers for kids", "bible trivia for kids with answers", "easy bible trivia questions for kids", "bible quiz questions for children", "sunday school bible trivia questions"]
 datePublished: "2026-04-16"
-dateModified: "2026-08-19"
+dateModified: "2026-08-28"
 ---
 
 These 50 Bible questions for kids cover the most important stories, people, and verses in Scripture -- sorted into easy, medium, and hard trivia rounds by age, with every answer in bold and a verse reference right after the question, so the page works as a complete Bible quiz for kids with answers included. The easy round (ages 5-8) sticks to the famous stories every child hears first, the medium round (ages 9-12) digs into the details, and the hard round is tough enough to stump the teens and adults at the table.
 
 Two of these questions trip up almost every family that plays. Question 14 asks what fruit Adam and Eve ate -- and nearly everyone answers wrong, because the "right" answer most people learned is not actually in the Bible. Question 33 asks how many of each animal Noah brought on the ark, and the famous answer of "two" is only part of the story. If your kids get both right on the first try, they know their Bible better than most adults.
+
+**Need this quiz on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf) — all 50 questions as ready-to-copy quiz sheets with write-in lines, plus the full answer key with verse references on separate pages. No sign-up, no email, free to photocopy for your class or family game night.
 
 **Want to play instead of read?** Our [free Bible trivia game](/bible-trivia) puts 100 questions into a scored round you can play right now -- pick easy, medium, or hard, answer ten questions, and see the verse behind every answer. No sign-up, no ads, and free for churches and teachers to embed on their own site.
 

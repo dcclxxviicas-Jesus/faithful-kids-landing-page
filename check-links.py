@@ -105,7 +105,15 @@ def main():
                 continue
             # Exclude backslashes: React's flight payload JSON-escapes quotes, so a
             # naive match swallows the trailing \ and every URL 403s.
-            urls |= set(re.findall(r'https://d3g07v1w0lehiv\.cloudfront\.net/[^\s"\'<>)\\]+', body))
+            found = set(re.findall(r'https://d3g07v1w0lehiv\.cloudfront\.net/[^\s"\'<>)\\]+', body))
+            # The flight payload also splits long strings across serialization
+            # chunks, leaving a truncated URL fragment mid-payload (seen:
+            # ".../bible-memory-verse-strategies-for-kids-" with the real
+            # "...-hero.webp" elsewhere in the same page). A fragment that is a
+            # strict prefix of another URL from the same page is a chunk
+            # artifact, not a reference — drop it.
+            urls |= {u for u in found
+                     if not any(v != u and v.startswith(u) for v in found)}
 
         def head(u):
             try:

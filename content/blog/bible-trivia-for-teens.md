@@ -14,7 +14,7 @@ These 50 questions go way beyond "Who built the ark?" and into the deep cuts —
 
 This list is perfect for youth group competitions, teen Bible study, or any time your teenager thinks they know it all (we love that confidence — let us test it). Grab a pen and paper, keep score, and see who really knows their Bible. If you are planning a whole Wednesday night, trivia works best as one block inside a bigger lineup of [a full night of youth group games](/blog/youth-group-games) rather than the entire hour.
 
-**Want the scorekeeping handled?** Our [free Bible trivia game](/bible-trivia) runs the whole round for you — pick the hard level, get ten questions, and let the streak counter do what a scoreboard does to a room full of teenagers. Youth leaders can embed it on the church site for free.
+**Want the scorekeeping handled?** Our [free Bible trivia game](/bible-trivia) runs the whole round for you — pick the hard level, get ten questions, and let the streak counter do what a scoreboard does to a room full of teenagers. Youth leaders can embed it on the church site for free. Running this on paper instead? Grab the [free printable quiz PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf) — 50 questions as quiz sheets with a separate answer key, no sign-up.
 
 ## How to Play
 

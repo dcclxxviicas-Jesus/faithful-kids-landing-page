@@ -49,6 +49,7 @@ export async function GET() {
     '',
     '- [Bible stories for kids](https://faithfulkids.app/bible-stories-for-kids): All story retellings, Genesis to Revelation, free',
     '- [Bible trivia game](https://faithfulkids.app/bible-trivia): 100-question playable quiz, free, embeddable',
+    '- [Bible quiz questions for kids](https://faithfulkids.app/blog/bible-trivia-for-kids): 50 questions with answers and verse references, plus a free downloadable PDF (quiz sheets + answer key, no sign-up)',
     `- [Bible coloring pages](https://faithfulkids.app/printables/bible-coloring-pages): ${COLORING_PAGES.length} free printable pages`,
     `- [Bible word searches](https://faithfulkids.app/printables/bible-word-search): ${wordSearches.length} puzzles, playable in the browser or printable`,
     '- [All printables](https://faithfulkids.app/printables): Trivia pack, bedtime kit, 30-day family challenge',

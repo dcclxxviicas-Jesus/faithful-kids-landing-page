@@ -102,7 +102,7 @@ ${lead.source === 'quiz-exit' ? quizRecap(lead) : ''}
     : 'Most families tell us the same thing about night one: the kids had more questions than the parents expected.'}</p>
 <p>That's the whole point — and it's exactly what the videos are for. Here's the very first story, free, so you can see what a Faithful Kids lesson feels like:</p>
 ${button(utm(`${SITE_URL}/blog/in-the-beginning-creation-for-kids`, stage), 'Watch "Creation" free →')}
-<p>60 seconds, narrated by Jesus, made for ages 5+. If your kids like it, there are 200 more inside.</p>`),
+<p>A few minutes, narrated by Jesus, made for ages 5+. If your kids like it, there are 300+ more inside.</p>`),
       }
     case 3:
       return {

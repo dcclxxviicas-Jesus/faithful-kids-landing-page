@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import { createPortal } from 'react-dom'
 
 export type NavItem = { href: string; label: string; key?: string }
 
@@ -14,6 +15,9 @@ export type NavItem = { href: string; label: string; key?: string }
  */
 export function MobileMenu({ items, active, ctaHref = '/quiz' }: { items: NavItem[]; active?: string; ctaHref?: string }) {
   const [open, setOpen] = useState(false)
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => setMounted(true), [])
 
   // Lock the page behind the panel, and let Escape out.
   useEffect(() => {
@@ -43,38 +47,41 @@ export function MobileMenu({ items, active, ctaHref = '/quiz' }: { items: NavIte
         </span>
       </button>
 
-      <div
-        id="site-mobile-menu"
-        className={`nav-mobile${open ? ' is-open' : ''}`}
-        hidden={!open}
-      >
-        <button
-          type="button"
-          className="nav-mobile-scrim"
-          aria-label="Close menu"
-          tabIndex={-1}
-          onClick={() => setOpen(false)}
-        />
-        <div className="nav-mobile-panel" role="dialog" aria-modal="true" aria-label="Site menu">
-          <ul className="nav-mobile-list">
-            {items.map(item => (
-              <li key={item.href}>
-                <a
-                  href={item.href}
-                  onClick={() => setOpen(false)}
-                  aria-current={active && item.key === active ? 'page' : undefined}
-                  className={active && item.key === active ? 'is-active' : undefined}
-                >
-                  {item.label}
-                </a>
-              </li>
-            ))}
-          </ul>
-          <a href={ctaHref} className="nav-mobile-cta" onClick={() => setOpen(false)}>
-            Try Free for 3 Days
-          </a>
-        </div>
-      </div>
+      {/* Portalled to <body>. The nav has backdrop-filter, which makes it a
+          containing block for position:fixed descendants -- rendered inside it,
+          the scrim's inset:0 resolved to the 68px nav bar instead of the
+          viewport, so taps below the bar fell through to the page. */}
+      {mounted && open && createPortal(
+        <div id="site-mobile-menu" className="nav-mobile is-open">
+          <button
+            type="button"
+            className="nav-mobile-scrim"
+            aria-label="Close menu"
+            tabIndex={-1}
+            onClick={() => setOpen(false)}
+          />
+          <div className="nav-mobile-panel" role="dialog" aria-modal="true" aria-label="Site menu">
+            <ul className="nav-mobile-list">
+              {items.map(item => (
+                <li key={item.href}>
+                  <a
+                    href={item.href}
+                    onClick={() => setOpen(false)}
+                    aria-current={active && item.key === active ? 'page' : undefined}
+                    className={active && item.key === active ? 'is-active' : undefined}
+                  >
+                    {item.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+            <a href={ctaHref} className="nav-mobile-cta" onClick={() => setOpen(false)}>
+              Try Free for 3 Days
+            </a>
+          </div>
+        </div>,
+        document.body
+      )}
     </>
   )
 }

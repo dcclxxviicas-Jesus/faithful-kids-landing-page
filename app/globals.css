@@ -134,10 +134,11 @@ body {
 .nav-toggle-bars.is-open span:nth-child(2) { opacity: 0; }
 .nav-toggle-bars.is-open span:nth-child(3) { top: 6px; transform: rotate(-45deg); }
 
-.nav-mobile { display: none; }
+.nav-mobile { display: block; }
 .nav-mobile-scrim {
   position: fixed;
   inset: 0;
+  z-index: 180;
   border: none;
   padding: 0;
   background: rgba(15, 23, 42, 0.45);
@@ -147,6 +148,7 @@ body {
   position: fixed;
   left: 0;
   right: 0;
+  z-index: 181;
   background: var(--white);
   border-bottom: 1px solid var(--border);
   padding: 8px 16px 20px;
@@ -194,7 +196,6 @@ body {
 
 @media (max-width: 768px) {
   .nav-toggle { display: inline-flex; }
-  .nav-mobile.is-open { display: block; }
   /* Sits directly under the sticky bar rather than covering it, so the logo
      and Try Free stay reachable with the menu open. */
   .nav-mobile-panel { top: 68px; }

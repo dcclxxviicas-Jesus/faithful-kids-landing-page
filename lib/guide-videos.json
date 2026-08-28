@@ -1,0 +1,380 @@
+{
+ "who-was-abraham-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/06-god-calls-abraham/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/god-calls-abraham-for-kids-hero.webp",
+  "videoTitle": "God Calls Abraham for Kids",
+  "storySlug": "god-calls-abraham-for-kids"
+ },
+ "who-was-daniel-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/exile-and-faith-series/06-daniel-in-the-lions-den/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/daniel-in-the-lions-den-for-kids-hero.webp",
+  "videoTitle": "Daniel in the Lions Den",
+  "storySlug": "daniel-in-the-lions-den-for-kids"
+ },
+ "who-was-david-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/04-god-chooses-david/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/god-chooses-david-for-kids-hero.webp",
+  "videoTitle": "God Chooses David for Kids",
+  "storySlug": "god-chooses-david-for-kids"
+ },
+ "who-was-esther-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/the-return-home-series/09-esther-saves-her-people/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/esther-saves-her-people-for-kids-hero.webp",
+  "videoTitle": "Esther Saves Her People",
+  "storySlug": "esther-saves-her-people-for-kids"
+ },
+ "who-was-jonah-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/exile-and-faith-series/08-jonah-running-from-god/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/jonah-running-from-god-for-kids-hero.webp",
+  "videoTitle": "Jonah Running from God",
+  "storySlug": "jonah-running-from-god-for-kids"
+ },
+ "who-was-joseph-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/09-joseph-the-dreamer/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/joseph-the-dreamer-for-kids-hero.webp",
+  "videoTitle": "Joseph the Dreamer for Kids",
+  "storySlug": "joseph-the-dreamer-for-kids"
+ },
+ "who-was-mary-mother-of-jesus-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp",
+  "videoTitle": "An Angel Visits Mary for Kids",
+  "storySlug": "an-angel-visits-mary-for-kids"
+ },
+ "who-was-moses-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/exodus-series/02-the-burning-bush/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-burning-bush-for-kids-hero.webp",
+  "videoTitle": "The Burning Bush for Kids",
+  "storySlug": "the-burning-bush-for-kids"
+ },
+ "who-was-noah-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/noah-and-the-great-flood-for-kids-hero.webp",
+  "videoTitle": "Noah and the Great Flood",
+  "storySlug": "noah-and-the-great-flood-for-kids"
+ },
+ "who-was-paul-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/pauls-adventures-series/01-pauls-first-journey/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/pauls-first-journey-for-kids-hero.webp",
+  "videoTitle": "Pauls First Journey for Kids",
+  "storySlug": "pauls-first-journey-for-kids"
+ },
+ "who-was-peter-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/jesus-begins-ministry-series/06-the-four-fishermen/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-four-fishermen-for-kids-hero.webp",
+  "videoTitle": "The Four Fishermen for Kids",
+  "storySlug": "the-four-fishermen-for-kids"
+ },
+ "who-was-ruth-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/judges-and-ruth-series/07-ruth-a-story-of-loyalty/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/ruth-a-story-of-loyalty-for-kids-hero.webp",
+  "videoTitle": "Ruth a Story of Loyalty",
+  "storySlug": "ruth-a-story-of-loyalty-for-kids"
+ },
+ "bible-stories-about-patience-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/10-joseph-from-prison-to-palace/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/joseph-from-prison-to-palace-for-kids-hero.webp",
+  "videoTitle": "Joseph from Prison to Palace",
+  "storySlug": "joseph-from-prison-to-palace-for-kids"
+ },
+ "bible-stories-about-courage-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath for Kids",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ "bible-stories-about-kindness-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/04-the-good-samaritan/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-good-samaritan-for-kids-hero.webp",
+  "videoTitle": "The Good Samaritan for Kids",
+  "storySlug": "the-good-samaritan-for-kids"
+ },
+ "bible-stories-about-compassion-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/04-the-good-samaritan/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-good-samaritan-for-kids-hero.webp",
+  "videoTitle": "The Good Samaritan for Kids",
+  "storySlug": "the-good-samaritan-for-kids"
+ },
+ "bible-stories-about-forgiveness-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/he-is-risen-series/06-peter-is-restored/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/peter-is-restored-for-kids-hero.webp",
+  "videoTitle": "Peter is Restored for Kids",
+  "storySlug": "peter-is-restored-for-kids"
+ },
+ "bible-stories-about-honesty-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/king-davids-reign-series/04-davids-big-mistake/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/davids-big-mistake-for-kids-hero.webp",
+  "videoTitle": "Davids Big Mistake for Kids",
+  "storySlug": "davids-big-mistake-for-kids"
+ },
+ "bible-stories-about-obedience-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/exile-and-faith-series/08-jonah-running-from-god/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/jonah-running-from-god-for-kids-hero.webp",
+  "videoTitle": "Jonah Running from God",
+  "storySlug": "jonah-running-from-god-for-kids"
+ },
+ "bible-stories-about-friendship-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/king-davids-reign-series/03-david-and-mephibosheth/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-mephibosheth-for-kids-hero.webp",
+  "videoTitle": "David and Mephibosheth",
+  "storySlug": "david-and-mephibosheth-for-kids"
+ },
+ "bible-stories-about-gratitude-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/king-davids-reign-series/06-songs-of-praise/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/songs-of-praise-for-kids-hero.webp",
+  "videoTitle": "Songs of Praise for Kids",
+  "storySlug": "songs-of-praise-for-kids"
+ },
+ "bible-stories-about-humility-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/02-the-beatitudes/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-beatitudes-for-kids-hero.webp",
+  "videoTitle": "The Beatitudes for Kids",
+  "storySlug": "the-beatitudes-for-kids"
+ },
+ "bible-stories-about-faith-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/miracles-of-jesus-series/03-walking-on-water/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/walking-on-water-for-kids-hero.webp",
+  "videoTitle": "Walking on Water for Kids",
+  "storySlug": "walking-on-water-for-kids"
+ },
+ "bible-stories-about-self-control-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/exile-and-faith-series/02-daniels-resolve/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/daniels-resolve-for-kids-hero.webp",
+  "videoTitle": "Daniels Resolve for Kids",
+  "storySlug": "daniels-resolve-for-kids"
+ },
+ "bible-stories-about-fear-and-anxiety-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/miracles-of-jesus-series/01-calming-the-storm/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/calming-the-storm-for-kids-hero.webp",
+  "videoTitle": "Calming the Storm for Kids",
+  "storySlug": "calming-the-storm-for-kids"
+ },
+ "bible-stories-about-bullying-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath for Kids",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ "bible-stories-about-sickness-and-healing-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/jesus-begins-ministry-series/08-the-paralyzed-man/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-paralyzed-man-for-kids-hero.webp",
+  "videoTitle": "The Paralyzed Man for Kids",
+  "storySlug": "the-paralyzed-man-for-kids"
+ },
+ "book-of-genesis-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/in-the-beginning-creation-for-kids-hero.webp",
+  "videoTitle": "In the Beginning Creation",
+  "storySlug": "in-the-beginning-creation-for-kids"
+ },
+ "book-of-exodus-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/exodus-series/01-a-baby-in-a-basket/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/a-baby-in-a-basket-for-kids-hero.webp",
+  "videoTitle": "A Baby in a Basket for Kids",
+  "storySlug": "a-baby-in-a-basket-for-kids"
+ },
+ "explaining-death-and-heaven-to-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/miracles-of-jesus-series/05-the-raising-of-lazarus/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-raising-of-lazarus-for-kids-hero.webp",
+  "videoTitle": "The Raising of Lazarus",
+  "storySlug": "the-raising-of-lazarus-for-kids"
+ },
+ "lords-prayer-for-kids-explained": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/03-the-lords-prayer/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-lords-prayer-for-kids-hero.webp",
+  "videoTitle": "The Lords Prayer for Kids",
+  "storySlug": "the-lords-prayer-for-kids"
+ },
+ "ten-commandments-for-kids-explained": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/exodus-series/08-the-ten-commandments/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-ten-commandments-for-kids-hero.webp",
+  "videoTitle": "The Ten Commandments for Kids",
+  "storySlug": "the-ten-commandments-for-kids"
+ },
+ "beatitudes-for-kids-explained": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/02-the-beatitudes/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-beatitudes-for-kids-hero.webp",
+  "videoTitle": "The Beatitudes for Kids",
+  "storySlug": "the-beatitudes-for-kids"
+ },
+ "fruit-of-the-spirit-for-kids-bible-stories": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/letters-to-churches-series/06-the-fruit-of-the-spirit/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-fruit-of-the-spirit-for-kids-hero.webp",
+  "videoTitle": "The Fruit of the Spirit",
+  "storySlug": "the-fruit-of-the-spirit-for-kids"
+ },
+ "how-to-explain-easter-to-a-child": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/he-is-risen-series/01-the-empty-tomb/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-empty-tomb-for-kids-hero.webp",
+  "videoTitle": "The Empty Tomb for Kids",
+  "storySlug": "the-empty-tomb-for-kids"
+ },
+ "how-to-explain-christmas-to-a-child": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/04-born-in-a-manger/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/born-in-a-manger-for-kids-hero.webp",
+  "videoTitle": "Born in a Manger for Kids",
+  "storySlug": "born-in-a-manger-for-kids"
+ },
+ "how-to-explain-prayer-to-a-child": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/03-the-lords-prayer/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-lords-prayer-for-kids-hero.webp",
+  "videoTitle": "The Lords Prayer for Kids",
+  "storySlug": "the-lords-prayer-for-kids"
+ },
+ "how-to-explain-forgiveness-to-a-child": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/he-is-risen-series/06-peter-is-restored/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/peter-is-restored-for-kids-hero.webp",
+  "videoTitle": "Peter is Restored for Kids",
+  "storySlug": "peter-is-restored-for-kids"
+ },
+ "sunday-school-lessons-on-david": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/04-god-chooses-david/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/god-chooses-david-for-kids-hero.webp",
+  "videoTitle": "God Chooses David for Kids",
+  "storySlug": "god-chooses-david-for-kids"
+ },
+ "best-bible-stories-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath for Kids",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ "bible-stories-for-toddlers": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/noah-and-the-great-flood-for-kids-hero.webp",
+  "videoTitle": "Noah and the Great Flood",
+  "storySlug": "noah-and-the-great-flood-for-kids"
+ },
+ "bible-stories-for-preschoolers": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/noah-and-the-great-flood-for-kids-hero.webp",
+  "videoTitle": "Noah and the Great Flood",
+  "storySlug": "noah-and-the-great-flood-for-kids"
+ },
+ "bible-stories-for-5-year-olds": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/noah-and-the-great-flood-for-kids-hero.webp",
+  "videoTitle": "Noah and the Great Flood",
+  "storySlug": "noah-and-the-great-flood-for-kids"
+ },
+ "bible-stories-for-8-year-olds": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath for Kids",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ "bible-stories-for-10-year-olds": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath for Kids",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ "bible-stories-for-middle-schoolers": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath for Kids",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ "bible-stories-for-kids-who-hate-reading": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath for Kids",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ "bible-stories-for-kids-with-adhd": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath for Kids",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ "bible-stories-for-bedtime": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/in-the-beginning-creation-for-kids-hero.webp",
+  "videoTitle": "In the Beginning Creation",
+  "storySlug": "in-the-beginning-creation-for-kids"
+ },
+ "bible-stories-for-homeschool": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/04-the-good-samaritan/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-good-samaritan-for-kids-hero.webp",
+  "videoTitle": "The Good Samaritan for Kids",
+  "storySlug": "the-good-samaritan-for-kids"
+ },
+ "bible-stories-for-sunday-school": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/04-the-good-samaritan/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-good-samaritan-for-kids-hero.webp",
+  "videoTitle": "The Good Samaritan for Kids",
+  "storySlug": "the-good-samaritan-for-kids"
+ },
+ "bible-stories-for-vbs": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/noah-and-the-great-flood-for-kids-hero.webp",
+  "videoTitle": "Noah and the Great Flood",
+  "storySlug": "noah-and-the-great-flood-for-kids"
+ },
+ "bible-stories-for-kids-with-pictures": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/noah-and-the-great-flood-for-kids-hero.webp",
+  "videoTitle": "Noah and the Great Flood",
+  "storySlug": "noah-and-the-great-flood-for-kids"
+ },
+ "bible-stories-with-moral-lessons-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/teachings-of-jesus-series/04-the-good-samaritan/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-good-samaritan-for-kids-hero.webp",
+  "videoTitle": "The Good Samaritan for Kids",
+  "storySlug": "the-good-samaritan-for-kids"
+ },
+ "back-to-school-bible-stories-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/rise-of-kings-series/05-david-and-goliath/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp",
+  "videoTitle": "David and Goliath for Kids",
+  "storySlug": "david-and-goliath-for-kids"
+ },
+ "christmas-bible-stories-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/04-born-in-a-manger/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/born-in-a-manger-for-kids-hero.webp",
+  "videoTitle": "Born in a Manger for Kids",
+  "storySlug": "born-in-a-manger-for-kids"
+ },
+ "the-christmas-story-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/04-born-in-a-manger/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/born-in-a-manger-for-kids-hero.webp",
+  "videoTitle": "Born in a Manger for Kids",
+  "storySlug": "born-in-a-manger-for-kids"
+ },
+ "advent-bible-stories-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp",
+  "videoTitle": "An Angel Visits Mary for Kids",
+  "storySlug": "an-angel-visits-mary-for-kids"
+ },
+ "easter-bible-stories-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/he-is-risen-series/01-the-empty-tomb/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-empty-tomb-for-kids-hero.webp",
+  "videoTitle": "The Empty Tomb for Kids",
+  "storySlug": "the-empty-tomb-for-kids"
+ },
+ "easter-story-in-the-bible": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/he-is-risen-series/01-the-empty-tomb/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-empty-tomb-for-kids-hero.webp",
+  "videoTitle": "The Empty Tomb for Kids",
+  "storySlug": "the-empty-tomb-for-kids"
+ },
+ "holy-week-day-by-day-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/he-is-risen-series/01-the-empty-tomb/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-empty-tomb-for-kids-hero.webp",
+  "videoTitle": "The Empty Tomb for Kids",
+  "storySlug": "the-empty-tomb-for-kids"
+ },
+ "resurrection-activities-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/he-is-risen-series/01-the-empty-tomb/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/the-empty-tomb-for-kids-hero.webp",
+  "videoTitle": "The Empty Tomb for Kids",
+  "storySlug": "the-empty-tomb-for-kids"
+ },
+ "thanksgiving-bible-stories-for-kids": {
+  "videoSrc": "https://d3g07v1w0lehiv.cloudfront.net/bible/king-davids-reign-series/06-songs-of-praise/lesson-video.mp4",
+  "posterSrc": "https://d3g07v1w0lehiv.cloudfront.net/blog-images/songs-of-praise-for-kids-hero.webp",
+  "videoTitle": "Songs of Praise for Kids",
+  "storySlug": "songs-of-praise-for-kids"
+ }
+}

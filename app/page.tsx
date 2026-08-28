@@ -214,10 +214,11 @@ export default function Home() {
         }) }}
       />
 
-      {/* NAV — the shared one. This page used to carry its own nav of #anchors
-          that linked to no other page on the site, and on mobile the links were
-          display:none with nothing behind them. */}
-      <SiteNav showPricing ctaHref="/checkout" ctaLabel="Get Started" />
+      {/* NAV — deliberately bare. This is a sales page: one CTA, no exits.
+          The full nav lives on the content pages, where people actually
+          arrive from search and need to explore. Footer still links
+          everything for crawlers and for anyone who goes looking. */}
+      <SiteNav minimal ctaHref="/checkout" ctaLabel="Get Started" />
 
       <main id="main-content">
 

@@ -16,21 +16,27 @@ const NAV_ITEMS: NavItem[] = [
 
 export function SiteNav({
   active,
-  showPricing = false,
+  minimal = false,
   ctaHref = '/quiz',
   ctaLabel = 'Try Free',
 }: {
   active?: NavActive
-  /** Homepage only — keeps the in-page Pricing jump the old nav had. */
-  showPricing?: boolean
+  /**
+   * Conversion mode: logo + one CTA, no links at all.
+   *
+   * For the landing page. Content pages exist to be found and then explored,
+   * so they carry the full nav; the landing page exists to sell one thing, and
+   * every header link there is an exit from that. Owner's call, and correct —
+   * the homepage takes 145 visitors/month against ~2,880 on the blog, so the
+   * discovery nav belongs where people actually arrive.
+   */
+  minimal?: boolean
   /** The homepage nav has always sent to /checkout, not /quiz. Kept as-is
    *  rather than silently rerouting the funnel. */
   ctaHref?: string
   ctaLabel?: string
 }) {
-  const items: NavItem[] = showPricing
-    ? [...NAV_ITEMS, { href: '#pricing', label: 'Pricing' }]
-    : NAV_ITEMS
+  const items: NavItem[] = minimal ? [] : NAV_ITEMS
 
   return (
     <nav className="nav no-print" aria-label="Main navigation">
@@ -39,7 +45,7 @@ export function SiteNav({
           <img src="/logo-sm.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
         </a>
 
-        <div className="nav-links">
+        {!minimal && <div className="nav-links">
           {items.map(item => (
             <a
               key={item.href}
@@ -50,11 +56,11 @@ export function SiteNav({
               {item.label}
             </a>
           ))}
-        </div>
+        </div>}
 
         <div className="nav-actions">
           <a href={ctaHref} className="btn-nav" style={{ textDecoration: 'none' }}>{ctaLabel}</a>
-          <MobileMenu items={items} active={active} ctaHref={ctaHref} />
+          {!minimal && <MobileMenu items={items} active={active} ctaHref={ctaHref} />}
         </div>
       </div>
     </nav>

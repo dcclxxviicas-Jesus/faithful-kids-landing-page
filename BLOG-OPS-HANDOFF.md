@@ -372,6 +372,15 @@ with Minno's catalog and a wrong $9.99/$99.99 price — all fixed.**
 to App Reviews/comparisons; pin manifest regenerated (530). All three
 checkers green, deploy READY, live-verified, IndexNow pinged.
 
+**Aug 29 — /bible-trivia directory (owner request, commit `000fcd3`):** the
+hub now lists every trivia page below the game — by age (incl. the new adults
+page), by format (incl. both PDFs' host pages), by season, and all 66 books
+in canonical order (`app/bible-trivia/trivia-directory.ts`; book slugs
+derived from names, check-links-verified). Hero now states it is the
+whole-Bible general quiz and anchors to the directory. ItemList schema
+added. Hub went ~25 → 91 internal links out. Game stays on top (artifact
+first, browse after — the printables CTA-placement doctrine).
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

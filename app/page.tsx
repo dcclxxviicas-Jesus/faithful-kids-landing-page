@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
-import { SiteFooter } from '@/app/components/SiteChrome'
+import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
 import posthog from 'posthog-js'
 import { useTimer } from './use-timer'
 import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
@@ -214,21 +214,10 @@ export default function Home() {
         }) }}
       />
 
-      {/* NAV */}
-      <nav className="nav" aria-label="Main navigation">
-        <div className="nav-inner">
-          <div className="nav-logo">
-            <img src="/logo-sm.png" alt="Faithful Kids logo" width={40} height={40} className="nav-logo-img" /> Faithful Kids
-          </div>
-          <div className="nav-links">
-            <a href="#how-it-works">How It Works</a>
-            <a href="#features">Features</a>
-            <a href="#pricing">Pricing</a>
-            <a href="#faq">FAQ</a>
-          </div>
-          <button className="btn-nav" onClick={handleCTA}>Get Started</button>
-        </div>
-      </nav>
+      {/* NAV — the shared one. This page used to carry its own nav of #anchors
+          that linked to no other page on the site, and on mobile the links were
+          display:none with nothing behind them. */}
+      <SiteNav showPricing ctaHref="/checkout" ctaLabel="Get Started" />
 
       <main id="main-content">
 

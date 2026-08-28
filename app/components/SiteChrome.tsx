@@ -1,21 +1,61 @@
-// Shared site chrome — matches the nav/footer used on the homepage and blog.
-// Use on every public content page so nothing ships off-brand.
+// Shared site chrome — the ONE nav and footer for every public page.
+// The homepage used to carry its own hardcoded nav of #anchors that linked to
+// no other page; it now uses this, so every page navigates the same way.
 
-export function SiteNav({ active }: { active?: 'blog' | 'stories' | 'trivia' | 'printables' | 'churches' }) {
+import { MobileMenu, type NavItem } from './MobileMenu'
+
+export type NavActive = 'blog' | 'stories' | 'trivia' | 'printables' | 'churches'
+
+const NAV_ITEMS: NavItem[] = [
+  { href: '/bible-stories-for-kids', label: 'Bible Stories', key: 'stories' },
+  { href: '/blog', label: 'Bible Guides', key: 'blog' },
+  { href: '/bible-trivia', label: 'Trivia Game', key: 'trivia' },
+  { href: '/printables', label: 'Printables', key: 'printables' },
+  { href: '/churches', label: 'Churches', key: 'churches' },
+]
+
+export function SiteNav({
+  active,
+  showPricing = false,
+  ctaHref = '/quiz',
+  ctaLabel = 'Try Free',
+}: {
+  active?: NavActive
+  /** Homepage only — keeps the in-page Pricing jump the old nav had. */
+  showPricing?: boolean
+  /** The homepage nav has always sent to /checkout, not /quiz. Kept as-is
+   *  rather than silently rerouting the funnel. */
+  ctaHref?: string
+  ctaLabel?: string
+}) {
+  const items: NavItem[] = showPricing
+    ? [...NAV_ITEMS, { href: '#pricing', label: 'Pricing' }]
+    : NAV_ITEMS
+
   return (
     <nav className="nav no-print" aria-label="Main navigation">
       <div className="nav-inner">
         <a href="/" className="nav-logo" style={{ textDecoration: 'none' }}>
           <img src="/logo-sm.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
         </a>
+
         <div className="nav-links">
-          <a href="/bible-stories-for-kids" style={active === 'stories' ? { color: 'var(--primary)', fontWeight: 700 } : undefined}>Bible Stories</a>
-          <a href="/blog" style={active === 'blog' ? { color: 'var(--primary)', fontWeight: 700 } : undefined}>Guides</a>
-          <a href="/bible-trivia" style={active === 'trivia' ? { color: 'var(--primary)', fontWeight: 700 } : undefined}>Trivia Game</a>
-          <a href="/printables" style={active === 'printables' ? { color: 'var(--primary)', fontWeight: 700 } : undefined}>Printables</a>
-          <a href="/churches" style={active === 'churches' ? { color: 'var(--primary)', fontWeight: 700 } : undefined}>Churches</a>
+          {items.map(item => (
+            <a
+              key={item.href}
+              href={item.href}
+              aria-current={item.key && item.key === active ? 'page' : undefined}
+              style={item.key && item.key === active ? { color: 'var(--primary)', fontWeight: 700 } : undefined}
+            >
+              {item.label}
+            </a>
+          ))}
         </div>
-        <a href="/quiz" className="btn-nav" style={{ textDecoration: 'none' }}>Try Free</a>
+
+        <div className="nav-actions">
+          <a href={ctaHref} className="btn-nav" style={{ textDecoration: 'none' }}>{ctaLabel}</a>
+          <MobileMenu items={items} active={active} ctaHref={ctaHref} />
+        </div>
       </div>
     </nav>
   )
@@ -30,7 +70,7 @@ export function SiteFooter() {
         </div>
         <div className="footer-links">
           <a href="/bible-stories-for-kids">Bible Stories</a>
-          <a href="/blog">Guides</a>
+          <a href="/blog">Bible Guides</a>
           <a href="/bible-trivia">Trivia Game</a>
           <a href="/printables">Printables</a>
           <a href="/churches">Churches</a>

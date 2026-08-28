@@ -92,6 +92,114 @@ body {
 }
 .btn-nav:hover { background: var(--primary-hover); }
 
+/* ===== MOBILE MENU =====
+   The nav links are display:none under 768px; this is what stands in for them.
+   Desktop is untouched — .nav-toggle and .nav-mobile only exist below 768px. */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.nav-toggle {
+  display: none;
+  width: 44px;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 0;
+}
+.nav-toggle-bars {
+  position: relative;
+  width: 20px;
+  height: 14px;
+  display: block;
+}
+.nav-toggle-bars span {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  border-radius: 2px;
+  background: var(--text);
+  transition: transform var(--transition), opacity var(--transition), top var(--transition);
+}
+.nav-toggle-bars span:nth-child(1) { top: 0; }
+.nav-toggle-bars span:nth-child(2) { top: 6px; }
+.nav-toggle-bars span:nth-child(3) { top: 12px; }
+.nav-toggle-bars.is-open span:nth-child(1) { top: 6px; transform: rotate(45deg); }
+.nav-toggle-bars.is-open span:nth-child(2) { opacity: 0; }
+.nav-toggle-bars.is-open span:nth-child(3) { top: 6px; transform: rotate(-45deg); }
+
+.nav-mobile { display: none; }
+.nav-mobile-scrim {
+  position: fixed;
+  inset: 0;
+  border: none;
+  padding: 0;
+  background: rgba(15, 23, 42, 0.45);
+  animation: fk-fade-in 0.18s ease-out;
+}
+.nav-mobile-panel {
+  position: fixed;
+  left: 0;
+  right: 0;
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding: 8px 16px 20px;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.14);
+  animation: fk-menu-down 0.2s ease-out;
+  max-height: calc(100vh - 68px);
+  overflow-y: auto;
+}
+.nav-mobile-list { list-style: none; margin: 0; padding: 0; }
+.nav-mobile-list a {
+  display: flex;
+  align-items: center;
+  min-height: 56px;
+  padding: 0 8px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border);
+}
+.nav-mobile-list li:last-child a { border-bottom: none; }
+.nav-mobile-list a.is-active { color: var(--primary); }
+.nav-mobile-list a:active { background: var(--primary-light); }
+.nav-mobile-cta {
+  display: block;
+  margin-top: 14px;
+  padding: 15px 20px;
+  background: var(--primary);
+  color: var(--white);
+  border-radius: 12px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 1rem;
+  text-decoration: none;
+}
+@keyframes fk-fade-in { from { opacity: 0 } to { opacity: 1 } }
+@keyframes fk-menu-down {
+  from { opacity: 0; transform: translateY(-8px) }
+  to   { opacity: 1; transform: translateY(0) }
+}
+@media (prefers-reduced-motion: reduce) {
+  .nav-mobile-scrim, .nav-mobile-panel { animation: none; }
+  .nav-toggle-bars span { transition: none; }
+}
+
+@media (max-width: 768px) {
+  .nav-toggle { display: inline-flex; }
+  .nav-mobile.is-open { display: block; }
+  /* Sits directly under the sticky bar rather than covering it, so the logo
+     and Try Free stay reachable with the menu open. */
+  .nav-mobile-panel { top: 68px; }
+}
+
 /* ===== HERO ===== */
 .hero {
   max-width: var(--max-width);

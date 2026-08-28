@@ -295,6 +295,20 @@ competitors named honestly); AI-referrer segment added to /cas-admin
 (chatgpt.com sent 37 visitors/60d before we could even see it);
 check-counts extended to route files. Commits `a34bddf`, `e812950`.
 
+**Aug 28 — the count purge the Aug 27 unification missed** (triggered by the
+emails session: /churches was telling outreach clickthroughs "670 episodes"
+while the emails said 300+): 670/"67 series" killed on /churches, /printables,
+/bible-trivia; "400+ Bible story videos ... Every story is 60 seconds"
+boilerplate corrected in ~215 story posts (real: 300+, 2–3.5 min); "500+
+narrated video lessons" in two blog templates and "400+ lessons" in layout.tsx
+→ 300+; ten blog "free 7-day trial" CTAs + three "Start Your Free Week"
+buttons + success-page "7 days" line → 3-day reality. check-counts.py now
+derives the app lesson/series count from bible-kids all-series.ts (310 public
+lessons / 31 public series), scans content/blog/*.md, forbids the stale
+patterns outright, and checks that "N+" floor claims never overpromise —
+competitor-attributed numbers ("500+ episodes" = Yippee's) are exempted.
+Commit `8653bf9`, deployed READY, live-verified, IndexNow pinged.
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

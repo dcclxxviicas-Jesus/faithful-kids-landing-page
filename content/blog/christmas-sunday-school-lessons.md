@@ -200,6 +200,8 @@ Kids who like a scoreboard tend to prefer our [Bible trivia game online](/bible-
 
 For older children who find coloring dull, a [Bible word search](/printables/bible-word-search) holds attention longer.
 
+If your group skews older, the [youth group games list](/blog/youth-group-games) marks which games hold up with high schoolers.
+
 ## Frequently Asked Questions
 
 ### How many Christmas lessons do I need for December?

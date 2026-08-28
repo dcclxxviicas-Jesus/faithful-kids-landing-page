@@ -78,6 +78,8 @@ Two prep tips veterans swear by. First, brief your small-group leaders on the st
 
 If your storytellers are stretched thin, each story above also exists as a short video with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-vbs) -- churches often play the video as the story introduction at assembly, then let live leaders handle the discussion.
 
+We keep one master list of [youth group games](/blog/youth-group-games) with exact rules and prep time, so nothing on this page has to stretch past its natural length.
+
 ## Frequently Asked Questions
 
 ### How many Bible stories should I use for a 5-day VBS?

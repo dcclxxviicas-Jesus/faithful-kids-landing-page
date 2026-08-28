@@ -124,6 +124,8 @@ There is a screen version too: our [free Bible trivia for kids](/bible-trivia) d
 
 Pair this with a [Bible word search puzzle](/printables/bible-word-search) — Noah, Christmas, Easter, David and Goliath and more.
 
+When the lesson lands early and twenty minutes remain, a page of [youth group games by group size](/blog/youth-group-games) is the fastest save.
+
 ## Frequently Asked Questions
 
 ### Are these Sunday school lessons for kids really free?

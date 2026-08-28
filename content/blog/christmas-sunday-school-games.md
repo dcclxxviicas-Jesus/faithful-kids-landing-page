@@ -96,6 +96,8 @@ Our [Bible trivia app for kids](/bible-trivia) is free in the browser -- no down
 
 For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
 
+For the game portion of the night, these [youth group games sorted by group size](/blog/youth-group-games) cover everything from four students to forty.
+
 ## Frequently Asked Questions
 
 ### What are good Christmas games for a Sunday school class with no prep?

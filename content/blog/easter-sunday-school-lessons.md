@@ -222,6 +222,8 @@ For a quieter activity, our [Bible word search puzzles](/printables/bible-word-s
 
 There is a free [Easter word search](/printables/bible-word-search/easter) to go with this, playable on a phone and printable for a class.
 
+For the game portion of the night, these [youth group games sorted by group size](/blog/youth-group-games) cover everything from four students to forty.
+
 ## Frequently Asked Questions
 
 ### How do you explain the crucifixion to young children?

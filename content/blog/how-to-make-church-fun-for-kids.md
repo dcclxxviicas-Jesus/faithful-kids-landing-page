@@ -145,6 +145,8 @@ Supplement your family's church experience with Faithful Kids. Our animated vide
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 
+If your group skews older, the [youth group games list](/blog/youth-group-games) marks which games hold up with high schoolers.
+
 ## Frequently Asked Questions
 
 ### At what age should kids start attending the main church service?

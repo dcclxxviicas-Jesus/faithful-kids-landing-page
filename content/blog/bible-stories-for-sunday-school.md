@@ -126,6 +126,8 @@ Running this with a big group? Put our [online Bible trivia](/bible-trivia) on t
 
 Sunday school leaders: the [Bible word searches](/printables/bible-word-search) print one to a sheet with the answer key included.
 
+For more structured chaos, browse [youth group games that actually work](/blog/youth-group-games) — 55 of them, sized for small, medium, and large groups.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson be?

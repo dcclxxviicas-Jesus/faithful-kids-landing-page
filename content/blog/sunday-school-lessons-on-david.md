@@ -134,6 +134,8 @@ There is a screen version too: our [free Bible trivia for kids](/bible-trivia) d
 
 We also drew a set of [free Bible word searches](/printables/bible-word-search) — eleven puzzles you can play in the browser or print for a class.
 
+If you're planning a whole night, our list of [youth group games](/blog/youth-group-games) sorts 55 of them by group size, with rules, materials, and prep time for each.
+
 ## Frequently Asked Questions
 
 ### What ages is this David series for?

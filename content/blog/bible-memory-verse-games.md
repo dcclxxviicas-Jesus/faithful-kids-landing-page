@@ -138,6 +138,8 @@ For a version that scores itself, try the [Bible trivia game](/bible-trivia) on 
 
 We also drew a set of [free Bible word searches](/printables/bible-word-search) — eleven puzzles you can play in the browser or print for a class.
 
+If you're planning a whole night, our list of [youth group games](/blog/youth-group-games) sorts 55 of them by group size, with rules, materials, and prep time for each.
+
 ## Frequently Asked Questions
 
 ### What is the best memory verse game for a large group?

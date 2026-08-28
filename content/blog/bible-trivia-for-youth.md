@@ -155,6 +155,8 @@ For leaders who would rather not run the night off a phone, our free [printable 
 
 Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads.
 
+Our full list of [youth group games](/blog/youth-group-games) includes the Scripture connection for every game, so the fun still points somewhere.
+
 ## Frequently Asked Questions
 
 ### How many Bible trivia questions do you need for a youth group night?

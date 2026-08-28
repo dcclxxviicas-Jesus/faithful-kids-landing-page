@@ -264,6 +264,8 @@ Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the q
 
 We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
 
+Before the meeting, skim our [youth group games](/blog/youth-group-games) — every entry says what it needs and how long it takes to set up.
+
 ## Frequently Asked Questions
 
 ### How do I handle a wide age range in my Sunday School class?

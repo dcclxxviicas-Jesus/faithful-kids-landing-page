@@ -136,6 +136,8 @@ The short answer: small doses, real moments, zero lectures. What works in actual
 4. **Make it a game.** [Bible trivia for teens](/blog/bible-trivia-for-teens) is a low-pressure way to build familiarity that pays off later.
 5. **Memorize together.** One verse a week as a family. Younger siblings can join in with our [Bible verses about strength for kids](/blog/bible-verses-about-strength-for-kids).
 
+For the game portion of the night, these [youth group games sorted by group size](/blog/youth-group-games) cover everything from four students to forty.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible verse for a teenager?

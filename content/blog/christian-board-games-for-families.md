@@ -74,6 +74,8 @@ Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is
 
 For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
 
+For the game portion of the night, these [youth group games sorted by group size](/blog/youth-group-games) cover everything from four students to forty.
+
 ## Frequently Asked Questions
 
 ### What is the best Christian board game for families?

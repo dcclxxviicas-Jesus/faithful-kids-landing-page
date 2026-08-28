@@ -118,6 +118,8 @@ Rather not print anything? The [Bible trivia quiz](/bible-trivia) on our site is
 
 If you need something with no prep at all, the [Bible word search](/printables/bible-word-search) plays on a phone and prints on one sheet.
 
+Youth leaders: the master list of [youth group games](/blog/youth-group-games) is sorted by how many students you actually have, not by how many the game wants.
+
 ## Frequently Asked Questions
 
 ### What makes a good Sunday school teacher?

@@ -117,6 +117,8 @@ Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work wel
 
 For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
 
+For the game portion of the night, these [youth group games sorted by group size](/blog/youth-group-games) cover everything from four students to forty.
+
 ## Frequently Asked Questions
 
 ### How long should Sunday school opening activities last?

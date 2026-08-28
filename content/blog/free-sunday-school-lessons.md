@@ -192,6 +192,8 @@ If you would rather let a screen keep score, play our [online Bible trivia game]
 
 We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
 
+Before the meeting, skim our [youth group games](/blog/youth-group-games) — every entry says what it needs and how long it takes to set up.
+
 ## Frequently Asked Questions
 
 ### Are free Sunday school lessons actually good enough to use?

@@ -114,6 +114,8 @@ Prepare five things, and only five: the game, two songs, the story with its one 
 
 A sustainable weekly prep rhythm for volunteers: 20 minutes early in the week to read the passage and pick the big idea, 20 minutes later to gather supplies and write review questions, 5 minutes Sunday morning to set the room. Forty-five minutes of prep for forty-five minutes of ministry is a trade most volunteers can sustain for years -- and sustainability, not spectacle, is what builds a children's church kids grow up in.
 
+Our full list of [youth group games](/blog/youth-group-games) includes the Scripture connection for every game, so the fun still points somewhere.
+
 ## Frequently Asked Questions
 
 ### What's the difference between children's church and Sunday school?

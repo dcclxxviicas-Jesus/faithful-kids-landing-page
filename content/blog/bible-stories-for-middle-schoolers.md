@@ -120,6 +120,8 @@ Bible stories provide exactly that — complex characters making real choices wi
 
 Give your middle schooler Bible stories told at their level — engaging, honest, and designed for ages 7-15. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let them explore David, Esther, Daniel, Paul, and more through short video episodes that respect their intelligence and meet them where they are.
 
+When the lesson lands early and twenty minutes remain, a page of [youth group games by group size](/blog/youth-group-games) is the fastest save.
+
 ## Frequently Asked Questions
 
 ### My middle schooler says the Bible is boring. How do I change their mind?

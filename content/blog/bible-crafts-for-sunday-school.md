@@ -194,6 +194,8 @@ Short on prep time? Our [Bible coloring pages](/printables/bible-coloring-pages)
 
 Our [free Bible word search](/printables/bible-word-search) works the same way: play it on screen, or print it for the table.
 
+Our full list of [youth group games](/blog/youth-group-games) includes the Scripture connection for every game, so the fun still points somewhere.
+
 ## Frequently Asked Questions
 
 ### What are the cheapest Bible crafts for a large Sunday school class?

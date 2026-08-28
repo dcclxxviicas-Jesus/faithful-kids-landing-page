@@ -95,6 +95,8 @@ The same questions live in our [Bible trivia game](/bible-trivia) if you would r
 
 If you need something with no prep at all, the [Bible word search](/printables/bible-word-search) plays on a phone and prints on one sheet.
 
+Youth leaders: the master list of [youth group games](/blog/youth-group-games) is sorted by how many students you actually have, not by how many the game wants.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible review game for a small class of 3-5 kids?

@@ -49,7 +49,12 @@ no AI Overview squatting on it.
    Why the mandate exists: intuition was wrong 3× in one session (homepage
    retargeted at a 3×-smaller term; "bible app for kids" turned out to be
    YouVersion's product name with 8/10 SERP slots; a "strong" pitch term had
-   volume 0).
+   volume 0). **Triangulation rule (Aug 28):** neither vendor column is truth —
+   exact-string clickstream is sparse (reads low on mid-tail terms), Ads
+   buckets near-variants together (reads high; an analytics plan overstated
+   "bible quiz questions" 237× by preferring Ads). Treat clickstream as the
+   floor, Ads as the ceiling, and our own GSC impressions at a known live
+   position as the arbiter whenever we already rank.
 2. **Check for an AI Overview before building for a query.** AIO sits on most
    informational/commercial queries here and eats the clicks (our own
    position-5 exact-match page got 0 clicks from 47 impressions). Artifact
@@ -308,6 +313,23 @@ lessons / 31 public series), scans content/blog/*.md, forbids the stale
 patterns outright, and checks that "N+" floor claims never overpromise —
 competitor-attributed numbers ("500+ episodes" = Yippee's) are exempted.
 Commit `8653bf9`, deployed READY, live-verified, IndexNow pinged.
+
+**Aug 28 — quiz PDF + youth-games blitz (first plays from the analytics
+session's plan, volumes re-verified per rule 1's triangulation):** shipped the
+free 50-question quiz PDF (`make-quiz-pdf.py` parses bible-trivia-for-kids.md
+→ quiz sheets + answer key, URL on every page, ungated; CloudFront
+`printables/bible-quiz-questions-for-kids.pdf`), wired into the ranking post
+(retitled "…(PDF)", targets "kids bible quiz questions and answers pdf" —
+**the only quiz SERP with NO AI Overview**, we're #12 organic with thin
+incumbents: scribd, Pinterest, printables aggregators), teens post,
+trivia-pack page, llms.txt. Baseline recorded by analytics: #12, 26 imp/0
+clicks/28d. Youth-group cluster: anchors were already correctly
+differentiated; real gap was volume — `link-youth-games.py` added 22
+contextual in-links to the /blog/youth-group-games hub (12 → 30 linking
+posts). Live head-term truth: fun-youth-group-games at organic #20 (GSC 12.2
+is variant-averaged). Also fixed: check-links --cdn false positive from RSC
+flight-chunk URL fragments; stale "60 seconds/200 more" line in the lead
+drip email. Commits `0c9bc20`, `a1612f0`.
 
 **Aug 28 — the false-video-promise fix (owner-flagged):** the mid-article CTA
 had interpolated each guide's title into "See {title} in a short narrated video

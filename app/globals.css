@@ -137,7 +137,12 @@ body {
 .nav-mobile { display: block; }
 .nav-mobile-scrim {
   position: fixed;
-  inset: 0;
+  /* Starts below the sticky bar so the logo, Try Free and the close button
+     stay lit and tappable while the menu is open. */
+  top: 68px;
+  left: 0;
+  right: 0;
+  bottom: 0;
   z-index: 180;
   border: none;
   padding: 0;

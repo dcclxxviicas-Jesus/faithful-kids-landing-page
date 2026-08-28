@@ -46,6 +46,24 @@ def truth():
         if re.search(r"^seriesSlug:", head, re.M) and re.search(r"^episode:", head, re.M):
             stories += 1
     t["story posts"] = stories
+
+    # App lesson/series counts, derived from the app repo's data file. The
+    # /churches page said "670 Bible video episodes ... across 67 series" for
+    # weeks (670 counted non-Bible content that isn't in the app; real figure
+    # is the public episodes below) and nothing here looked at episode claims.
+    app_data = HERE.parent / "bible-kids" / "src" / "data" / "all-series.ts"
+    if app_data.exists():
+        src = app_data.read_text()
+        pub = series = 0
+        for block in re.split(r"\n  \{\n", src)[1:]:
+            m = re.search(r"episodeCount: (\d+)", block)
+            if not m:
+                continue
+            if "private: true" not in block.split("episodes: [")[0]:
+                pub += int(m.group(1))
+                series += 1
+        t["app lessons"] = pub
+        t["app series"] = series
     return t
 
 

@@ -223,7 +223,7 @@ As the prophet Isaiah wrote, *"The grass withers and the flowers fall, but the w
 
 ## Watch on Faithful Kids
 
-Faithful Kids reinforces Bible memorization naturally by bringing Scripture to life through video lessons, quizzes, and reflections. When kids see the story of David and Goliath, Joshua 1:9 suddenly means something real. Start your free 7-day trial.
+Faithful Kids reinforces Bible memorization naturally by bringing Scripture to life through video lessons, quizzes, and reflections. When kids see the story of David and Goliath, Joshua 1:9 suddenly means something real. Start your free trial.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

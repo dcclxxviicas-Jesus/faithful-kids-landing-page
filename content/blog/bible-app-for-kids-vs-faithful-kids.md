@@ -26,7 +26,7 @@ Here is a detailed, honest comparison to help you decide which app is the best f
 | **Free trial** | N/A | 3-day free trial (annual plan) |
 | **Target ages** | 3-8 | 7-15 |
 | **Content format** | Touch-and-swipe animated stories | short narrated video lessons |
-| **Number of stories** | ~41 stories | 400+ lessons across 31 series |
+| **Number of stories** | ~41 stories | 300+ lessons across 30+ series |
 | **Bible coverage** | Major highlights only | Genesis to Revelation (complete) |
 | **Quizzes after lessons** | No | Yes, after every lesson |
 | **Guided reflections** | No | Yes, after every lesson |
@@ -53,7 +53,7 @@ But the coverage stops at 41 stories. Your child will not encounter Ruth's loyal
 
 ### Faithful Kids
 
-Faithful Kids takes a different approach. It covers the Bible from the very first verse of Genesis through the final chapter of Revelation across 400+ short video lessons organized into 31 series. Each lesson is narrated by a warm, Jesus-like avatar and runs about 60 seconds, which keeps attention without overwhelming young minds.
+Faithful Kids takes a different approach. It covers the Bible from the very first verse of Genesis through the final chapter of Revelation across 300+ short video lessons organized into 30+ series. Each lesson is narrated by a warm, Jesus-like avatar and runs a few minutes, which keeps attention without overwhelming young minds.
 
 After each lesson, your child completes a comprehension quiz (typically 3-5 questions) and a guided reflection prompt. This means they are not just watching passively. They are processing what they learned and connecting it to their own life.
 
@@ -116,7 +116,7 @@ But "free" and "best for my family" are not always the same thing.
 
 Here is how to think about it practically. If your child is under 7 and you want a gentle Bible introduction, the Bible App for Kids is the right choice. It is free, it is age-appropriate, and it is well-made. Start there.
 
-If your child is 7 or older, or if they have already gone through the Bible App for Kids and you want to take their Bible education to the next level, Faithful Kids fills a gap that no free app currently addresses. For less than the cost of a single Sunday School curriculum book, you get 400+ lessons, comprehension quizzes, guided reflections, and a parent dashboard.
+If your child is 7 or older, or if they have already gone through the Bible App for Kids and you want to take their Bible education to the next level, Faithful Kids fills a gap that no free app currently addresses. For less than the cost of a single Sunday School curriculum book, you get 300+ lessons, comprehension quizzes, guided reflections, and a parent dashboard.
 
 Faithful Kids' annual plan includes a 3-day free trial, so you can see the difference before committing a single dollar.
 
@@ -148,7 +148,7 @@ Weighing other platforms too? See how [Minno compares to Faithful Kids](/blog/mi
 
 ## Watch on Faithful Kids
 
-Ready to see the difference for yourself? Faithful Kids offers a [free 3-day trial](https://faithfulkids.app/quiz) on its annual plan, with full access to all 400+ lessons, quizzes, and the parent dashboard. Your child can start learning the Bible in depth today.
+Ready to see the difference for yourself? Faithful Kids offers a [free 3-day trial](https://faithfulkids.app/quiz) on its annual plan, with full access to all 300+ lessons, quizzes, and the parent dashboard. Your child can start learning the Bible in depth today.
 
 [Start Your Free Trial](https://faithfulkids.app/quiz)
 

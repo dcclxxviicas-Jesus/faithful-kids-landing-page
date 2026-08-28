@@ -98,7 +98,7 @@ After the resurrection, Jesus makes breakfast for His friends on the beach. Fish
 
 ## Bedtime Bible Routine (5 minutes)
 
-1. **Watch one story** on Faithful Kids with your child (60 seconds)
+1. **Watch one story** on Faithful Kids with your child (a few minutes)
 2. **Ask one question**: "What was your favorite part?"
 3. **Say one prayer together**: "Thank you God for today. Watch over [child's name] tonight. Amen." (More [bedtime prayers for kids](/blog/bedtime-prayers-for-kids) here.)
 4. **Lights out.** The last thing they heard was Scripture and prayer. You can also tuck in one of these [goodnight Bible verses](/blog/goodnight-bible-verses-for-kids).
@@ -117,7 +117,7 @@ Creation is the best bedtime Bible story because its day-by-day structure has a 
 
 ### How long should a bedtime Bible story be?
 
-Keep it to 1-3 minutes. Your child is already tired. A short video or a short retelling is perfect. Faithful Kids videos are all 60 seconds, designed for exactly this use case.
+Keep it to 1-3 minutes. Your child is already tired. A short video or a short retelling is perfect. Faithful Kids videos are a few minutes each, designed for exactly this use case.
 
 ### Should I read the Bible to my child every night?
 

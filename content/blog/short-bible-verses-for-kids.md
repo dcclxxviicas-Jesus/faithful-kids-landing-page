@@ -192,7 +192,7 @@ As Isaiah 55:11 promises, *"So is my word that goes out from my mouth: It will n
 
 ## Watch on Faithful Kids
 
-Faithful Kids brings Bible stories to life through interactive video lessons, quizzes, and reflections. As your child watches and learns, these short verses come alive in context — they're not just words to memorize, they're truths to live by. Start your free 7-day trial.
+Faithful Kids brings Bible stories to life through interactive video lessons, quizzes, and reflections. As your child watches and learns, these short verses come alive in context — they're not just words to memorize, they're truths to live by. Start your free trial.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

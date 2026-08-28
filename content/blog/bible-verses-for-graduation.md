@@ -158,7 +158,7 @@ As Moses instructed in Deuteronomy 6:6-7, *"These commandments that I give you t
 
 ## Watch on Faithful Kids
 
-Celebrate your graduate's faith journey by continuing their Bible education with Faithful Kids. Interactive video lessons, quizzes, and reflections keep kids ages 7-15 growing in their knowledge of God's Word. Start your free 7-day trial today.
+Celebrate your graduate's faith journey by continuing their Bible education with Faithful Kids. Interactive video lessons, quizzes, and reflections keep kids ages 7-15 growing in their knowledge of God's Word. Start your free trial today.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

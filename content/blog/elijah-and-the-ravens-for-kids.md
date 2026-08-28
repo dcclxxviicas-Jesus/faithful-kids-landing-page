@@ -112,9 +112,9 @@ This story is episode 01 of 10 in the Elijah and Elisha series:
 - [Chariots of Fire for Kids](/blog/chariots-of-fire-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -126,7 +126,7 @@ Elijah and the Ravens is a story from 1 & 2 Kings. ELIJAH AND THE RAVENS Series:
 
 ### What age is the story of Elijah and the Ravens appropriate for?
 
-This retelling of Elijah and the Ravens is designed for children Ages 6+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Elijah and the Ravens is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Elijah and the Ravens found in the Bible?
 

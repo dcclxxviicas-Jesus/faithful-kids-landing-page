@@ -26,7 +26,7 @@ Both are ad-free. Both are made by people who love Scripture. But they serve dif
 | **Free trial** | N/A | 3-day free trial (annual plan) |
 | **Target ages** | 5-12 | 7-15 |
 | **Content format** | 25-min animated episodes | short narrated video lessons |
-| **Number of episodes** | 50+ full episodes | 400+ lessons across 31 series |
+| **Number of episodes** | 50+ full episodes | 300+ lessons across 30+ series |
 | **Bible coverage** | Select stories | Genesis to Revelation (complete) |
 | **Teaching approach** | Entertainment with Bible themes | Structured learning with assessment |
 | **Quizzes** | Simple games (not comprehension) | Yes, after every lesson |
@@ -57,13 +57,13 @@ The limitation is accuracy and completeness. Because each story is filtered thro
 
 ### Faithful Kids: The Learning Approach
 
-Faithful Kids does not wrap Bible stories in fiction. Each lesson presents the biblical narrative directly, narrated by a warm avatar, in about 60 seconds. The goal is not to entertain your child into accidentally learning the Bible. The goal is to teach the Bible explicitly, lesson by lesson, with comprehension verification.
+Faithful Kids does not wrap Bible stories in fiction. Each lesson presents the biblical narrative directly, narrated by a warm avatar, in a few minutes. The goal is not to entertain your child into accidentally learning the Bible. The goal is to teach the Bible explicitly, lesson by lesson, with comprehension verification.
 
 After each lesson, your child answers quiz questions that test whether they understood what happened and why it matters. Then they complete a guided reflection that connects the story to their own life. This three-step process, watch, quiz, reflect, is based on how educational research says children actually learn and retain information.
 
 The video production is simpler than Superbook's Hollywood-level animation. There are no fictional characters, no time travel, no sub-plots. It is the Bible story, told clearly, followed by active learning.
 
-The strength is depth and retention. After 400+ lessons, your child will have a comprehensive understanding of the entire biblical narrative, from Creation through Revelation. They will not just know the famous stories. They will understand how those stories connect.
+The strength is depth and retention. After 300+ lessons, your child will have a comprehensive understanding of the entire biblical narrative, from Creation through Revelation. They will not just know the famous stories. They will understand how those stories connect.
 
 ---
 
@@ -77,7 +77,7 @@ But 50 stories out of a Bible that contains hundreds of narratives means signifi
 
 ### Faithful Kids
 
-Faithful Kids includes 400+ lessons organized into 31 series that systematically cover the Bible. Starting with Genesis and moving through Exodus, the judges, the kings, the prophets, the Gospels, Acts, the Epistles, and Revelation. Your child encounters stories that most kids' apps skip entirely: Balaam's donkey, Deborah leading Israel, Habakkuk's complaint, the armor of God in Ephesians, and the letters to the seven churches in Revelation.
+Faithful Kids includes 300+ lessons organized into 30+ series that systematically cover the Bible. Starting with Genesis and moving through Exodus, the judges, the kings, the prophets, the Gospels, Acts, the Epistles, and Revelation. Your child encounters stories that most kids' apps skip entirely: Balaam's donkey, Deborah leading Israel, Habakkuk's complaint, the armor of God in Ephesians, and the letters to the seven churches in Revelation.
 
 If your goal is for your child to know the Bible, not just the famous parts, coverage matters.
 
@@ -147,7 +147,7 @@ Still comparing? See how Faithful Kids stacks up against other platforms in [Min
 
 ## Watch on Faithful Kids
 
-Want to see the learning approach in action? Faithful Kids offers a [free 3-day trial](https://faithfulkids.app/quiz) on its annual plan, with full access to 400+ lessons, quizzes, reflections, and the parent dashboard. Let your child try it and see the difference between watching and learning.
+Want to see the learning approach in action? Faithful Kids offers a [free 3-day trial](https://faithfulkids.app/quiz) on its annual plan, with full access to 300+ lessons, quizzes, reflections, and the parent dashboard. Let your child try it and see the difference between watching and learning.
 
 [Start Your Free Trial](https://faithfulkids.app/quiz)
 

@@ -104,9 +104,9 @@ This story is episode 03 of 10 in the Ending and Beginning series:
 - [Behold I Am Coming Soon for Kids](/blog/behold-i-am-coming-soon-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -118,7 +118,7 @@ Taming the Tongue is a story from Hebrews/James/Revelation. TITLE: Taming the To
 
 ### What age is the story of Taming the Tongue appropriate for?
 
-This retelling of Taming the Tongue is designed for children Ages 7+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Taming the Tongue is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Taming the Tongue found in the Bible?
 

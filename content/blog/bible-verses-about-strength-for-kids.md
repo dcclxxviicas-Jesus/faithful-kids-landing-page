@@ -124,7 +124,7 @@ Here are 12 Bible verses about strength that your child can hold onto when life 
 
 ## Watch on Faithful Kids
 
-Faithful Kids brings the stories of David, Joshua, Daniel, Esther, and Paul to life through interactive video lessons. Your child won't just hear about courage — they'll see it in action and reflect on how to live it. Start your free 7-day trial today.
+Faithful Kids brings the stories of David, Joshua, Daniel, Esther, and Paul to life through interactive video lessons. Your child won't just hear about courage — they'll see it in action and reflect on how to live it. Start your free trial today.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

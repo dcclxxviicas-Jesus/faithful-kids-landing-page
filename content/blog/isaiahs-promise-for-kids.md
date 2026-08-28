@@ -91,9 +91,9 @@ This story is episode 10 of 10 in the Exile and Faith series:
 - [Jonah the Lesson for Kids](/blog/jonah-the-lesson-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -105,7 +105,7 @@ Isaiahs Promise is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 1
 
 ### What age is the story of Isaiahs Promise appropriate for?
 
-This retelling of Isaiahs Promise is designed for children Ages 6+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Isaiahs Promise is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Isaiahs Promise found in the Bible?
 

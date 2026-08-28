@@ -91,9 +91,9 @@ This story is episode 06 of 10 in the Promised Land series:
 - [Choosing to Serve for Kids](/blog/choosing-to-serve-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -105,7 +105,7 @@ Joshua Takes Command is a story from Joshua 1. Hey there, friend! Have you ever 
 
 ### What age is the story of Joshua Takes Command appropriate for?
 
-This retelling of Joshua Takes Command is designed for children Ages 6+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Joshua Takes Command is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Joshua Takes Command found in the Bible?
 

@@ -100,9 +100,9 @@ This story is episode 10 of 10 in the King Davids Reign series:
 - [Solomon is Chosen for Kids](/blog/solomon-is-chosen-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -114,7 +114,7 @@ Davids Final Words is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISO
 
 ### What age is the story of Davids Final Words appropriate for?
 
-This retelling of Davids Final Words is designed for children Ages 6+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Davids Final Words is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Davids Final Words found in the Bible?
 

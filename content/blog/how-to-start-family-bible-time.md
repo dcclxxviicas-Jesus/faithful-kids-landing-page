@@ -207,7 +207,7 @@ Once you have completed the 7-day plan, you have several options:
 
 1. **Continue through Genesis.** Abraham, Isaac, Jacob, Joseph. These stories are engaging, dramatic, and foundational.
 2. **Jump to the life of Jesus.** Start with the Gospel of Luke, which is written as a narrative and reads like a story.
-3. **Use Faithful Kids.** The app covers Genesis to Revelation in 400+ short video lessons with built-in quizzes and reflections, perfect for family Bible time with zero prep.
+3. **Use Faithful Kids.** The app covers Genesis to Revelation in 300+ short video lessons with built-in quizzes and reflections, perfect for family Bible time with zero prep.
 4. **Follow your child's interests.** If they loved the David story, explore more of David's life. If they connected with Jonah, look at other prophets.
 
 Ready for a bigger goal? Take on the [30-day family Bible challenge](/blog/30-day-family-bible-challenge), or fold in [daily Bible devotions for kids](/blog/bible-devotions-for-kids-daily) to keep the momentum going. The calendar can carry you too: run [an Advent countdown your kids will ask for](/blog/advent-devotions-for-kids) through December, and [a short week of Thanksgiving devotions](/blog/thanksgiving-devotions-for-kids) in November.

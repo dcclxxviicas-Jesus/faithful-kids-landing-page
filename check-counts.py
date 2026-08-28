@@ -97,6 +97,57 @@ CLAIMS = [
     (NUM + r"\s+pages cover Holy Week", "easter coloring pages", "N Holy Week pages"),
 ]
 
+# Claims that are false on their face and must never reappear, whatever the
+# number nearby says. "670 episodes"/"67 series" survived on /churches after
+# the Aug 27 count unification; three "Free Week" CTAs and ten blog "free
+# 7-day trial" CTAs survived the Aug 25 trial-claim sweep (real terms: annual
+# 3-day trial, monthly none); ~220 story posts claimed 60-second lessons
+# (real: 2-3.5 min). Blog markdown legitimately describes COMPETITORS' trials
+# and game timers say "60 seconds" everywhere, so patterns here are either
+# unambiguous anywhere (imperative CTAs, our boilerplate) or anchored to our
+# brand within the same sentence.
+FORBIDDEN_EVERYWHERE = [
+    (r"\b670\s+(?:\w+\s+){0,3}?(?:episodes|lessons|series|videos)", "stale 670 count"),
+    (r"\b67 series\b", "stale 67-series count"),
+    (r"\bfree week\b", "trial is 3 days, not a week"),
+    (r"Start [Yy]our [Ff]ree (?:7[- ][Dd]ay|[Ww]eek)", "trial is 3 days"),
+    (r"trial is active for 7 days", "trial is 3 days, not 7"),
+    (r"Faithful Kids[^\n.]{0,80}\b7[- ]day(?:s)?\s+(?:free\s+)?trial", "trial is 3 days, not 7"),
+    (r"Faithful Kids[^\n.]{0,100}\b60[- ]second", "lessons are 2-3.5 min, not 60s"),
+    (r"\b60[- ]seconds?[^\n.]{0,60}Faithful Kids", "lessons are 2-3.5 min, not 60s"),
+    (r"Every story is 60 seconds", "lessons are 2-3.5 min, not 60s"),
+    (r"the video is 60 seconds long", "lessons are 2-3.5 min, not 60s"),
+]
+# Site code (.ts/.tsx) is always our own voice, so bare trial-length claims
+# there are ours and wrong regardless of brand proximity.
+FORBIDDEN_SITE_ONLY = [
+    (r"\b7[- ]day(?:s)?\s+(?:free\s+)?trial\b", "trial is 3 days, not 7"),
+]
+
+# Floor claims like "300+ video lessons" must not overpromise the app's real
+# public-episode count (understating a floor is a marketing choice, not a
+# bug). In markdown a floor claim counts only when Faithful Kids is named
+# nearby -- comparison posts quote competitors' catalog sizes ("500+
+# episodes" is Yippee TV's real count, not ours).
+FLOOR_CLAIM = re.compile(
+    r"(\d+)\+\s+(?:\w+\s+){0,3}?(?:lessons|episodes|Bible stories)", re.I)
+
+
+COMPETITORS = ("Yippee", "Minno", "Superbook", "YouVersion", "Bible App for Kids")
+
+
+def is_ours(text, m, is_md):
+    if not is_md:
+        return True
+    # A competitor named just before the number owns it ("Yippee TV has more
+    # total content (500+ episodes...") even if we're named later in the
+    # sentence -- comparison posts do that constantly.
+    before = text[max(0, m.start() - 80):m.start()]
+    if any(c in before for c in COMPETITORS):
+        return False
+    lo, hi = max(0, m.start() - 150), m.end() + 150
+    return "Faithful Kids" in text[lo:hi] or "We have" in text[lo:hi]
+
 # Route handlers (*.ts under app/) included since llms.txt shipped a stale
 # "20 series and 200 episodes" claim for months — it is the file written
 # specifically FOR AI crawlers, so a wrong count there gets quoted verbatim
@@ -105,6 +156,10 @@ SCAN = (
     list((HERE / "app").rglob("*.tsx"))
     + list((HERE / "app").rglob("*.ts"))
     + list((HERE / "lib").glob("*.ts"))
+    # Blog markdown included since Aug 28: 215 posts carried a "400+ Bible
+    # story videos ... 60 seconds" boilerplate and 10 posts a "free 7-day
+    # trial" CTA that every earlier sweep missed.
+    + list(BLOG.glob("*.md"))
 )
 
 
@@ -128,6 +183,18 @@ def main():
                     continue          # not a number word at all
                 if claimed != T[key]:
                     problems.append((f.relative_to(HERE), label, claimed, T[key],
+                                     " ".join(m.group(0).split())))
+        is_md = f.suffix == ".md"
+        forbidden = FORBIDDEN_EVERYWHERE + ([] if is_md else FORBIDDEN_SITE_ONLY)
+        for pat, reason in forbidden:
+            for m in re.finditer(pat, text, re.I):
+                problems.append((f.relative_to(HERE), reason, m.group(0), "",
+                                 " ".join(m.group(0).split())))
+        if "app lessons" in T:
+            for m in FLOOR_CLAIM.finditer(text):
+                if int(m.group(1)) > T["app lessons"] and is_ours(text, m, is_md):
+                    problems.append((f.relative_to(HERE), "floor claim overpromises",
+                                     int(m.group(1)), T["app lessons"],
                                      " ".join(m.group(0).split())))
 
     print(f"\nstated counts that do not match: {len(problems)}")

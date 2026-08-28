@@ -100,9 +100,9 @@ This story is episode 03 of 10 in the Rise of Kings series:
 - [David Becomes King for Kids](/blog/david-becomes-king-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -114,7 +114,7 @@ Sauls Disobedience is a story from 1 Samuel. THE RISE OF KINGS — Episode 3: Sa
 
 ### What age is the story of Sauls Disobedience appropriate for?
 
-This retelling of Sauls Disobedience is designed for children Ages 5+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Sauls Disobedience is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Sauls Disobedience found in the Bible?
 

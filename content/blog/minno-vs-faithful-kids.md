@@ -29,7 +29,7 @@ This comparison walks through content, Bible coverage, learning features, pricin
 | **Progress tracking** | Levels, streaks, series completion | Watch history only |
 | **Parent dashboard** | Yes | No |
 | **Built-in session limits** | Yes | No |
-| **Library size** | 400+ lessons across 20 series | Hundreds of episodes across many shows |
+| **Library size** | 300+ lessons across 30+ series | Hundreds of episodes across many shows |
 | **Best for** | Daily Bible learning, ages 7-15 | Family movie night, ages 3-10 |
 | **Price** | $8.88/mo, or $77.77/yr (about $6.48/mo) | $10.99/mo or $69.99/yr (about $5.83/mo) |
 

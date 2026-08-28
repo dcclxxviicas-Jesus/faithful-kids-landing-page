@@ -91,9 +91,9 @@ This story is episode 03 of 10 in the Pauls Adventures series:
 - [Pauls Legacy for Kids](/blog/pauls-legacy-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -105,7 +105,7 @@ Paul and Silas in Prison is a story from Acts. PAUL'S ADVENTURES — EPISODE 3: 
 
 ### What age is the story of Paul and Silas in Prison appropriate for?
 
-This retelling of Paul and Silas in Prison is designed for children Ages 7+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Paul and Silas in Prison is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Paul and Silas in Prison found in the Bible?
 

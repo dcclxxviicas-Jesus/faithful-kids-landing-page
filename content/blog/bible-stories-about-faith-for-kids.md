@@ -60,7 +60,7 @@ I am the Lord's servant.
 
 ## How to Use These Stories
 
-1. **Watch one story together** on Faithful Kids (60 seconds each)
+1. **Watch one story together** on Faithful Kids (a few minutes each)
 2. **Ask:** "Where did you see faith in that story?"
 3. **Connect it to their life:** "When have you needed to show faith?"
 4. **Revisit** the story when a real-life moment calls for faith
@@ -69,7 +69,7 @@ Want to go deeper? The Bible has its own list of faith heroes in Hebrews 11 -- w
 
 ## Watch All 12 Stories on Faithful Kids
 
-Every story on this list is available as a short video lesson with a quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-faith). 400+ total lessons covering the entire Bible. No ads, ever.
+Every story on this list is available as a short video lesson with a quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-faith). 300+ total lessons covering the entire Bible. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-faith)
 
@@ -81,7 +81,7 @@ Noah Building the Ark is the most popular Bible story about faith for children b
 
 ### How do I teach my child about faith using the Bible?
 
-Start with one story from this list. Watch the video together (60 seconds on Faithful Kids), then ask your child what they noticed about faith in the story. Connect it to something in their own life. Repeat with a new story each week.
+Start with one story from this list. Watch the video together (a few minutes on Faithful Kids), then ask your child what they noticed about faith in the story. Connect it to something in their own life. Repeat with a new story each week.
 
 ### What age are these stories appropriate for?
 

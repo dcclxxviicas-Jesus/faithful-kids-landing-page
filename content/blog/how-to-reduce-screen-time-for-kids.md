@@ -77,7 +77,7 @@ Kids mirror parents. If you are scrolling your phone at dinner, they will want t
 
 The goal is zero guilt. When your child's screen time is Bible stories, quizzes, and faith-based content, the guilt disappears. You stop fighting about screens because screens are no longer the enemy. They are a tool for something good. For a fuller framework, see our guide to [building healthy screen-time habits](/blog/healthy-screen-time-for-christian-kids).
 
-[Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-screentime) has 400+ Bible story videos with quizzes, screen time controls, and a parent dashboard so you always know what your child watched and how they did.
+[Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-screentime) has 300+ Bible story videos with quizzes, screen time controls, and a parent dashboard so you always know what your child watched and how they did.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-screentime)
 

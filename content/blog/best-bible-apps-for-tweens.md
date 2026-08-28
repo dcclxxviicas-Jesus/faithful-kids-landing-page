@@ -33,7 +33,7 @@ With that lens, here are the rankings. (For picks across every age from toddler 
 **Cost:** $8.88/month, or $77.77/year (about $6.48/month) with a 3-day free trial
 **Ages:** 7-15
 
-Faithful Kids earns the top spot for one honest reason: it is the only app on this list designed for this exact age group. Everything else here is either a preschool app tweens have outgrown or an adult app they are growing into. [Faithful Kids](https://faithfulkids.app/quiz) sits precisely in the gap, with 400+ short video lessons covering the Bible from Genesis to Revelation, a comprehension quiz after every single lesson, and guided reflection prompts that connect each story to a tween's real life.
+Faithful Kids earns the top spot for one honest reason: it is the only app on this list designed for this exact age group. Everything else here is either a preschool app tweens have outgrown or an adult app they are growing into. [Faithful Kids](https://faithfulkids.app/quiz) sits precisely in the gap, with 300+ short video lessons covering the Bible from Genesis to Revelation, a comprehension quiz after every single lesson, and guided reflection prompts that connect each story to a tween's real life.
 
 The gamification is what makes it land with this age group. Kids earn XP for correct quiz answers, level up from Seedling toward Bible Master, and keep daily streaks alive -- the same mechanics that make Duolingo sticky, pointed at Scripture. Parents get a PIN-protected dashboard showing exactly what each child completed and how they scored, and multi-kid profiles mean a 9-year-old and a 13-year-old can each run their own journey on one subscription.
 

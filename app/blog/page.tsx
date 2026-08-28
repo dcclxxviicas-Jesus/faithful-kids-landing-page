@@ -94,7 +94,7 @@ export default function BlogIndex() {
         <div className="blog-bottom-cta-inner">
           <h2>Want your kids to watch these stories?</h2>
           <p>
-            Every story above has a 60-second video lesson on Faithful Kids — narrated, animated, and followed
+            Every story above has a short video lesson on Faithful Kids — narrated, animated, and followed
             by a comprehension quiz. Your child will actually remember what they learned.
           </p>
           <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>

@@ -91,9 +91,9 @@ This story is episode 01 of 10 in the Genesis series:
 - [Joseph from Prison to Palace for Kids](/blog/joseph-from-prison-to-palace-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -107,7 +107,7 @@ In the Beginning Creation is a story from Genesis 1-2. Hey there! I am so glad y
 
 ### What age is the story of In the Beginning Creation appropriate for?
 
-This retelling of In the Beginning Creation is designed for children Ages 5+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of In the Beginning Creation is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is In the Beginning Creation found in the Bible?
 

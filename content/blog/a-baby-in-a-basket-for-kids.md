@@ -91,9 +91,9 @@ This story is episode 01 of 10 in the Exodus series:
 - [Gods Presence for Kids](/blog/gods-presence-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -105,7 +105,7 @@ A Baby in a Basket is a story from Exodus 1-2. Hey there! Welcome to an incredib
 
 ### What age is the story of A Baby in a Basket appropriate for?
 
-This retelling of A Baby in a Basket is designed for children Ages 5+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of A Baby in a Basket is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is A Baby in a Basket found in the Bible?
 

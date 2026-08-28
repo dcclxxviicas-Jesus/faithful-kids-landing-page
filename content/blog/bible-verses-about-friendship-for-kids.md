@@ -115,7 +115,7 @@ That's a high standard — and no kid (or adult) will be perfect at all of these
 
 ## Watch on Faithful Kids
 
-The Bible is full of incredible friendships — David and Jonathan, Ruth and Naomi, Paul and Timothy, Jesus and His disciples. Faithful Kids brings these stories to life through interactive video lessons, quizzes, and reflections that help kids learn what real friendship looks like. Start your free 7-day trial today.
+The Bible is full of incredible friendships — David and Jonathan, Ruth and Naomi, Paul and Timothy, Jesus and His disciples. Faithful Kids brings these stories to life through interactive video lessons, quizzes, and reflections that help kids learn what real friendship looks like. Start your free trial today.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

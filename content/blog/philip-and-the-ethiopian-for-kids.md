@@ -104,9 +104,9 @@ This story is episode 05 of 10 in the Early Church series:
 - [The Church at Antioch for Kids](/blog/the-church-at-antioch-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -118,7 +118,7 @@ Philip and the Ethiopian is a story from Acts. THE EARLY CHURCH — EPISODE 5: P
 
 ### What age is the story of Philip and the Ethiopian appropriate for?
 
-This retelling of Philip and the Ethiopian is designed for children Ages 7+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Philip and the Ethiopian is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Philip and the Ethiopian found in the Bible?
 

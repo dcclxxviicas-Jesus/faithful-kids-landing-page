@@ -91,9 +91,9 @@ This story is episode 08 of 10 in the Letters to Churches series:
 - [A New Creation for Kids](/blog/a-new-creation-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 7+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -105,7 +105,7 @@ Joy in All Things is a story from Romans/Corinthians/Ephesians. LETTERS TO THE C
 
 ### What age is the story of Joy in All Things appropriate for?
 
-This retelling of Joy in All Things is designed for children Ages 7+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Joy in All Things is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Joy in All Things found in the Bible?
 

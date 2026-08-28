@@ -35,7 +35,7 @@ Yippee TV is a Christian kids TV streaming service designed as a faith-friendly 
 Faithful Kids is a Bible education platform that teaches children the stories, lessons, and wisdom of Scripture through structured video lessons followed by interactive quizzes and reflection activities. Think of it as Duolingo for the Bible.
 
 **What you get:**
-- 200+ video lessons covering Genesis through Revelation
+- 300+ video lessons covering Genesis through Revelation
 - Each episode has a narrated lesson, a quiz, and a reflection activity
 - Progress tracking with levels, XP, and achievements
 - Multi-kid profiles with individual progress
@@ -68,7 +68,7 @@ Consider the analogy: watching a nature documentary is wonderful, but it's not t
 | **Annual cost** | $49/yr | $77.77/yr (about $6.48/mo) |
 | **Free trial** | 7 days | 3 days (annual plan) |
 | **Age range** | 2-12 | 7-15 |
-| **Number of titles** | 500+ episodes | 200+ lessons |
+| **Number of titles** | 500+ episodes | 300+ lessons |
 | **Quizzes** | No | Yes, after every lesson |
 | **Reflection activities** | No | Yes, tappable cards |
 | **Progress tracking** | No | Yes (XP, levels, streaks) |
@@ -156,7 +156,7 @@ A Yippee subscription costs $7.99 per month or $49 per year (about $4.08 per mon
 Faithful Kids provides structured Bible education with lessons, quizzes, and reflections -- similar to what a good Sunday school program offers. While it can supplement or fill in when your family can't attend church, the community aspect of Sunday school (friendships, group discussion, mentorship from teachers) is something no app can fully replace.
 
 ### Which platform has more content?
-Yippee TV has more total content (500+ episodes of various shows), while Faithful Kids has 200+ structured lessons. The difference is that every Faithful Kids lesson is a complete learning unit (video + quiz + reflection), while Yippee episodes are standalone entertainment.
+Yippee TV has more total content (500+ episodes of various shows), while Faithful Kids has 300+ structured lessons. The difference is that every Faithful Kids lesson is a complete learning unit (video + quiz + reflection), while Yippee episodes are standalone entertainment.
 
 ### Are these platforms safe for kids to use unsupervised?
 Both platforms are designed with children in mind. Yippee TV is ad-free with no inappropriate content. Faithful Kids is COPPA compliant with no ads, no social features, and a parent dashboard with controls. Both are safe for independent use, though younger children may benefit from parental guidance during lessons.

@@ -126,7 +126,7 @@ Isaiah 55:11 promises, *"So is my word that goes out from my mouth: It will not 
 
 ## Watch on Faithful Kids
 
-Ready to give your child a structured, engaging Bible education? Faithful Kids meets kids ages 7-15 with video lessons, quizzes, and reflections designed for their developmental stage. Start your free 7-day trial today.
+Ready to give your child a structured, engaging Bible education? Faithful Kids meets kids ages 7-15 with video lessons, quizzes, and reflections designed for their developmental stage. Start your free trial today.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

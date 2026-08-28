@@ -148,7 +148,7 @@ As Paul wrote in Galatians 6:9, *"Let us not become weary in doing good, for at 
 
 ## Watch on Faithful Kids
 
-Faithful Kids teaches kindness through the stories that model it best: the Good Samaritan, Ruth's loyalty to Naomi, Joseph forgiving his brothers, and Jesus healing the sick. Interactive quizzes and reflections help kids connect ancient stories to modern life. Start your free 7-day trial.
+Faithful Kids teaches kindness through the stories that model it best: the Good Samaritan, Ruth's loyalty to Naomi, Joseph forgiving his brothers, and Jesus healing the sick. Interactive quizzes and reflections help kids connect ancient stories to modern life. Start your free trial.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

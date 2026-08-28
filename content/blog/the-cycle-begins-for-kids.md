@@ -91,9 +91,9 @@ This story is episode 01 of 10 in the Judges and Ruth series:
 - [God Calls Samuel for Kids](/blog/god-calls-samuel-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 6+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -105,7 +105,7 @@ The Cycle Begins is a story from Judges 1-3. Hey everyone! Welcome to a brand-ne
 
 ### What age is the story of The Cycle Begins appropriate for?
 
-This retelling of The Cycle Begins is designed for children Ages 6+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of The Cycle Begins is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is The Cycle Begins found in the Bible?
 

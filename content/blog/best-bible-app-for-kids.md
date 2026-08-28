@@ -16,7 +16,7 @@ The best Bible app for kids overall is Faithful Kids ($8.88/month, ages 5-15), f
 
 | App | Price | Ages | Videos | Quizzes | Ad-Free | Best For |
 |-----|-------|------|--------|---------|---------|----------|
-| **Faithful Kids** | $8.88/mo | 5+ | 400+ | Yes | Yes | Complete Bible coverage with accountability |
+| **Faithful Kids** | $8.88/mo | 5+ | 300+ | Yes | Yes | Complete Bible coverage with accountability |
 | Bible App for Kids | Free | 3-8 | 40+ | No | Yes | Young kids, interactive touch stories |
 | Minno | $9.99/mo | 2-12 | 100s | No | Yes | Animated shows, Netflix-like experience |
 | Superbook | Free | 5-12 | 50+ | No | Yes | High-quality animation, adventure style |
@@ -30,12 +30,12 @@ The best Bible app for kids overall is Faithful Kids ($8.88/month, ages 5-15), f
 
 **Price:** $8.88/month, or $77.77/year (about $6.48/month) with a 3-day free trial
 **Ages:** 5+
-**Content:** 400+ video lessons across 20 series, Genesis to Revelation
+**Content:** 300+ video lessons across 30+ series, Genesis to Revelation
 
 Faithful Kids stands out for two reasons: coverage and accountability. It is the only app that covers the entire Bible in short video format, and the only one with a quiz after every single lesson. Your child does not just watch. They learn and prove they understood.
 
 **Pros:**
-- 400+ video lessons covering Genesis to Revelation
+- 300+ video lessons covering Genesis to Revelation
 - Comprehension quiz after every story
 - Screen time controls and parent dashboard
 - Up to 5 child profiles

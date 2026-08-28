@@ -103,7 +103,7 @@ Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten
 
 ---
 
-## Get 400+ Bible Stories with Quizzes
+## Get 300+ Bible Stories with Quizzes
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-activities)
 

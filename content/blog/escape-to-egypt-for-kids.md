@@ -91,9 +91,9 @@ This story is episode 07 of 10 in the Birth of Jesus series:
 - [The Baptism of Jesus for Kids](/blog/the-baptism-of-jesus-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -105,7 +105,7 @@ Escape to Egypt is a story from Matthew 2:13-23. Hey — glad you're back. But I
 
 ### What age is the story of Escape to Egypt appropriate for?
 
-This retelling of Escape to Egypt is designed for children Ages 5+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of Escape to Egypt is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Escape to Egypt found in the Bible?
 

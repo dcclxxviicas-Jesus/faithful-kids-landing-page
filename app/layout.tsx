@@ -70,7 +70,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             name: 'Faithful Kids',
             url: 'https://faithfulkids.app',
             logo: 'https://faithfulkids.app/logo-sm.png',
-            description: 'Bible story videos for kids ages 5-15. 400+ lessons narrated by Jesus with quizzes and reflections.',
+            description: 'Bible story videos for kids ages 5-15. 300+ lessons narrated by Jesus with quizzes and reflections.',
             foundingDate: '2026',
             contactPoint: { '@type': 'ContactPoint', email: 'team@faithfulkids.app', contactType: 'customer service' },
           }) }}

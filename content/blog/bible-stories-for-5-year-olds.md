@@ -134,7 +134,7 @@ Start with Creation. It is the beginning of the Bible, it covers the whole world
 
 ### How long should a Bible story be for a 5-year-old?
 
-Aim for 1-5 minutes. Five-year-olds have short attention spans. Faithful Kids videos are 60 seconds each, which is ideal for this age group.
+Aim for 1-5 minutes. Five-year-olds have short attention spans. Faithful Kids videos are a few minutes each, which is ideal for this age group.
 
 ### Should I skip scary Bible stories for young kids?
 

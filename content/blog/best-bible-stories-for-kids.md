@@ -290,7 +290,7 @@ Once your child knows a handful of these stories, turn review into play with som
 
 ## Watch All 25 Stories (and 175 More) on Faithful Kids
 
-Every story on this list is available as a short video lesson with a quiz on Faithful Kids. We have 400+ Bible story videos covering the entire Bible from Genesis to Revelation. No ads, ever.
+Every story on this list is available as a short video lesson with a quiz on Faithful Kids. We have 300+ Bible story videos covering the entire Bible from Genesis to Revelation. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle)
 
@@ -314,4 +314,4 @@ Yes. Every story on Faithful Kids is retold faithfully to Scripture and reviewed
 
 ### What is the best Bible story app for kids?
 
-Faithful Kids is a Bible story app with 400+ video lessons covering the entire Bible, each with a comprehension quiz. Other popular options include Minno, Superbook, and the Bible App for Kids. Faithful Kids stands out for its breadth (Genesis to Revelation), quiz feature, and zero-ad experience.
+Faithful Kids is a Bible story app with 300+ video lessons covering the entire Bible, each with a comprehension quiz. Other popular options include Minno, Superbook, and the Bible App for Kids. Faithful Kids stands out for its breadth (Genesis to Revelation), quiz feature, and zero-ad experience.

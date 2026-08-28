@@ -164,7 +164,7 @@ export default async function TopicHubPage({ params }: Props) {
           <div className="blog-bottom-cta-inner">
             <h2>Start Your Child&apos;s Bible Journey</h2>
             <p>
-              500+ narrated video lessons with comprehension quizzes after every story.
+              300+ narrated video lessons with comprehension quizzes after every story.
               From Genesis to Revelation — safe, ad-free, and made for kids.
             </p>
             <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>

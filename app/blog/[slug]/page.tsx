@@ -504,7 +504,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
         <div className="blog-bottom-cta-inner">
           <h2>Start Your Child's Bible Journey</h2>
           <p>
-            500+ narrated video lessons. Comprehension quizzes after every story.
+            300+ narrated video lessons. Comprehension quizzes after every story.
             From Genesis to Revelation — safe, ad-free, and made for kids.
           </p>
           <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>

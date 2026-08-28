@@ -128,7 +128,7 @@ As the psalmist wrote, *"Unless the Lord builds the house, the builders labor in
 
 ## Watch on Faithful Kids
 
-Faithful Kids teaches the Bible's most powerful family stories: Abraham and Isaac, Joseph forgiving his brothers, Ruth and Naomi's loyalty, the Prodigal Son's return, and Jesus as part of Mary and Joseph's family. Interactive video lessons, quizzes, and reflections help kids connect these ancient stories to their own family life. Start your free 7-day trial.
+Faithful Kids teaches the Bible's most powerful family stories: Abraham and Isaac, Joseph forgiving his brothers, Ruth and Naomi's loyalty, the Prodigal Son's return, and Jesus as part of Mary and Joseph's family. Interactive video lessons, quizzes, and reflections help kids connect these ancient stories to their own family life. Start your free trial.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

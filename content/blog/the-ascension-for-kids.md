@@ -100,9 +100,9 @@ This story is episode 08 of 10 in the He is Risen series:
 - [The Day of Pentecost for Kids](/blog/the-day-of-pentecost-for-kids)
 
 
-## 400+ Bible Stories for Kids on Faithful Kids
+## 300+ Bible Stories for Kids on Faithful Kids
 
-Faithful Kids has **400+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is 60 seconds, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
+Faithful Kids has **300+ Bible story videos** covering the entire Bible from Genesis to Revelation. Every story is a short video lesson, designed for kids Ages 5+, with a quiz after each lesson. No ads, ever.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
@@ -114,7 +114,7 @@ The Ascension is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 8: The 
 
 ### What age is the story of The Ascension appropriate for?
 
-This retelling of The Ascension is designed for children Ages 5+. The language is simple and age-appropriate, and the video is 60 seconds long, perfect for young attention spans.
+This retelling of The Ascension is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is The Ascension found in the Bible?
 

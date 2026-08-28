@@ -65,14 +65,14 @@ Two religious leaders walk past a hurt man. A foreigner stops to help. Who is th
 
 ## How to Use These Stories with 8-year-olds
 
-1. **Watch the video** (60 seconds on Faithful Kids)
+1. **Watch the video** (a few minutes on Faithful Kids)
 2. **Take the quiz** to check comprehension (or quiz them yourself with these [Bible trivia questions for kids](/blog/bible-trivia-for-kids))
 3. **Discuss:** Ask open-ended questions like "Was that character right or wrong? Why?"
 4. **Challenge:** Give them a real-world scenario and ask what the Bible character would do
 
 ## Watch All These Stories on Faithful Kids
 
-Every story on this list is available on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-age) with a short video and comprehension quiz. 400+ lessons covering the entire Bible.
+Every story on this list is available on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-age) with a short video and comprehension quiz. 300+ lessons covering the entire Bible.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-age)
 

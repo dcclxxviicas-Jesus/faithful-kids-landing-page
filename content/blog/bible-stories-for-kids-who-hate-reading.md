@@ -36,7 +36,7 @@ These stories are selected for maximum engagement: high stakes, clear action, em
 
 ### 1. David and Goliath (1 Samuel 17)
 
-A shepherd boy with a slingshot versus a nine-foot warrior in full armor. The whole army is terrified, but David runs straight at the giant. One stone, one shot, and Goliath falls face-first into the dirt. This is the ultimate underdog story, and every kid loves an underdog. Our kid-friendly [David and Goliath retelling](/blog/david-and-goliath-for-kids) takes 60 seconds.
+A shepherd boy with a slingshot versus a nine-foot warrior in full armor. The whole army is terrified, but David runs straight at the giant. One stone, one shot, and Goliath falls face-first into the dirt. This is the ultimate underdog story, and every kid loves an underdog. Our kid-friendly [David and Goliath retelling](/blog/david-and-goliath-for-kids) takes just a few minutes.
 
 ### 2. Jonah and the Whale (Jonah 1-3)
 
@@ -106,7 +106,7 @@ For kids who resist traditional text but enjoy visual storytelling, graphic nove
 
 ## How Faithful Kids Solves This
 
-Faithful Kids was designed specifically for kids who might not sit down and read a Bible storybook. Each episode is a short video — typically 60 seconds — that tells one complete Bible story with engaging narration and captioning. Kids can:
+Faithful Kids was designed specifically for kids who might not sit down and read a Bible storybook. Each episode is a short video — typically two to three minutes — that tells one complete Bible story with engaging narration and captioning. Kids can:
 
 - Watch a story in about the time it takes to brush their teeth
 - Follow along with captions if they are building reading skills

@@ -121,7 +121,7 @@ TALK. Easy to remember, easy to practice, and it covers all the elements of pray
 
 ## Watch on Faithful Kids
 
-Every Faithful Kids lesson includes a reflection activity where children process what they've learned and connect it to their own life. These reflections naturally teach kids to think about God, talk to God, and listen to God — the foundations of a prayer life. Start your free 7-day trial.
+Every Faithful Kids lesson includes a reflection activity where children process what they've learned and connect it to their own life. These reflections naturally teach kids to think about God, talk to God, and listen to God — the foundations of a prayer life. Start your free trial.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

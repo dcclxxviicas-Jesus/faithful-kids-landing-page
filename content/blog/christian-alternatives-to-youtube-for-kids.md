@@ -32,7 +32,7 @@ If you are wrestling with how much viewing is appropriate in the first place, ou
 
 **Price:** Starting at $9.99/month | **Ages:** 5+ | **Ad-free:** Yes
 
-Faithful Kids has 400+ short Bible story videos (60 seconds each) covering the entire Bible from Genesis to Revelation. Every video is followed by a comprehension quiz so your child actually retains what they watch. The content is narrated in a warm, engaging style that kids genuinely enjoy.
+Faithful Kids has 300+ short Bible story videos (a few minutes each) covering the entire Bible from Genesis to Revelation. Every video is followed by a comprehension quiz so your child actually retains what they watch. The content is narrated in a warm, engaging style that kids genuinely enjoy.
 
 **What sets it apart:** The quiz after every lesson. No other Bible video app tests comprehension. Your child does not just watch passively. They learn and prove they understood the story.
 
@@ -99,7 +99,7 @@ Holy Sprouts is a YouTube channel by a Christian educator that teaches letters, 
 | Quizzes | Yes, every lesson | No | No | No | No |
 | Ad-free | Yes | Yes | Mostly | Yes | Yes |
 | Screen time controls | Yes | No | No | No | No |
-| Number of lessons | 400+ | 100s of episodes | 50+ shows | 50+ episodes | 40+ stories |
+| Number of lessons | 300+ | 100s of episodes | 50+ shows | 50+ episodes | 40+ stories |
 | Parent dashboard | Yes | No | No | No | No |
 
 ## Frequently Asked Questions
@@ -114,7 +114,7 @@ YouTube Kids is safer than regular YouTube, but it still uses an algorithm that 
 
 ### What is the best free Bible app for kids?
 
-The Bible App for Kids by YouVersion is the best free option. We also keep a running list of [free Bible apps for kids](/blog/free-bible-apps-for-kids). For video-based learning with quizzes, Faithful Kids offers a free 7-day trial.
+The Bible App for Kids by YouVersion is the best free option. We also keep a running list of [free Bible apps for kids](/blog/free-bible-apps-for-kids). For video-based learning with quizzes, Faithful Kids offers a free trial.
 
 ### Can I use these apps for Sunday School?
 

@@ -76,6 +76,8 @@ If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-t
 
 For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 John?

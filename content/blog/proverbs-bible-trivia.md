@@ -79,6 +79,8 @@ When your family has this list down, mix in the [Old Testament trivia questions]
 
 Running this with a big group? Put our [online Bible trivia](/bible-trivia) on the screen and play as teams.
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Proverbs?

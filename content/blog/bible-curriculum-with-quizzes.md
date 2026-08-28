@@ -82,6 +82,8 @@ Deuteronomy 6:7 describes exactly this rhythm -- "Impress them on your children.
 
 No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
 
+Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
+
 ## Frequently Asked Questions
 
 ### Do quizzes really help kids remember Bible stories?

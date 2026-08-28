@@ -80,6 +80,8 @@ Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-tri
 
 Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Corinthians?

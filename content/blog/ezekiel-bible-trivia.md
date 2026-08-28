@@ -72,6 +72,8 @@ Want broader material? Try [Old Testament trivia for kids](/blog/old-testament-b
 
 For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
 
+Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ezekiel?

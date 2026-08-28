@@ -75,6 +75,8 @@ You can also mix in questions from our [family-friendly Bible trivia](/blog/bibl
 
 Our [Bible trivia app for kids](/bible-trivia) is free in the browser -- no download, no account, no ads.
 
+For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### Who wrote the Song of Solomon?

@@ -132,6 +132,8 @@ If you want something the kids can play alone, point them at our [Bible trivia q
 
 For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas) — twelve words hidden in the grid, answer key included.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### What are good Christmas Bible trivia questions for adults?

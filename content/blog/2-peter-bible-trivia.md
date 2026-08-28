@@ -84,6 +84,8 @@ Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivi
 
 Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Peter?

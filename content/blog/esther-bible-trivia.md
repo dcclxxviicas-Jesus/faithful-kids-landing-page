@@ -92,6 +92,8 @@ New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bibl
 
 Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally -- pick a level, get ten questions, see the verse behind every answer.
 
+Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Esther?

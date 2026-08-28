@@ -98,6 +98,8 @@ For a version that scores itself, try the [Bible trivia game](/bible-trivia) on 
 
 If your class needs something to do with their hands, there is a [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) here.
 
+For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Jonah?

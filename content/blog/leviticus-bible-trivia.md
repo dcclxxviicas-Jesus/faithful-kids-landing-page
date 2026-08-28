@@ -67,6 +67,8 @@ Round out game night with our [best Bible trivia for kids and families](/blog/bi
 
 There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Leviticus?

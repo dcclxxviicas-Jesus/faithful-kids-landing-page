@@ -155,6 +155,8 @@ Ready to supplement your kids Bible study with engaging video lessons? Faithful 
 
 [Start your free trial at faithfulkids.app/quiz](https://faithfulkids.app/quiz)
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### What age is best to start a kids Bible study group?

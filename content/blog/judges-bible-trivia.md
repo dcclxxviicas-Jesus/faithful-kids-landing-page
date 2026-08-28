@@ -69,6 +69,8 @@ When your family has mastered this book, keep going with our [Old Testament triv
 
 For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
+There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Judges?

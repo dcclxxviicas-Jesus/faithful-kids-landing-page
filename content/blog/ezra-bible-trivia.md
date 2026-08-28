@@ -92,6 +92,8 @@ For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-k
 
 When you want zero setup, our [online Bible trivia for kids](/bible-trivia) is one tap and always ready to go.
 
+Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ezra?

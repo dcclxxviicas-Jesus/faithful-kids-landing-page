@@ -69,6 +69,8 @@ Round out game night with our [best Bible trivia for kids and families](/blog/bi
 
 Our free [Bible quiz game](/bible-trivia) covers the same ground with a streak counter kids genuinely chase.
 
+Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Numbers?

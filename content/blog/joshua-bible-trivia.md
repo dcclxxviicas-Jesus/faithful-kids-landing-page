@@ -68,6 +68,8 @@ If a question uncovers a story your kids haven't met, read it together first: ou
 
 Our free [Bible quiz game](/bible-trivia) covers the same ground with a streak counter kids genuinely chase.
 
+Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Joshua?

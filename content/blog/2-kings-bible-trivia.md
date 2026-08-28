@@ -73,6 +73,8 @@ For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-k
 
 If the group is restless, switch to our [Bible trivia game online](/bible-trivia) and let the streak counter do the work.
 
+For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Kings?

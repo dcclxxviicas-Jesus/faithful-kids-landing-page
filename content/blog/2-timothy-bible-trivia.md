@@ -90,6 +90,8 @@ Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/
 
 Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full round in about five minutes.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### Who wrote 2 Timothy?

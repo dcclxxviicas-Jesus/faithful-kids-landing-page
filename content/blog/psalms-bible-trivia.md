@@ -87,6 +87,8 @@ When you've mastered this list, keep going with our [Old Testament trivia for ki
 
 You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Psalms?

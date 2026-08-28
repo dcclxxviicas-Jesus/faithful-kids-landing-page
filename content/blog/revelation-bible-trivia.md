@@ -112,6 +112,8 @@ For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-k
 
 You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
 
+There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Revelation?

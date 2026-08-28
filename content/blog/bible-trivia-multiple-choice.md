@@ -514,6 +514,8 @@ When a question turns up a story nobody at the table knows, read it together tha
 
 Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten questions at a time, right in the browser.
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### What makes a good multiple-choice Bible trivia question?

@@ -190,6 +190,8 @@ For a version that scores itself, try the [Bible trivia game](/bible-trivia) on 
 
 We built a [Christmas word search](/printables/bible-word-search/christmas) around this story. Free, no sign-up, and it works on screen or on paper.
 
+Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
+
 ## Frequently Asked Questions
 
 ### What are some good Christmas Bible trivia questions for kids?

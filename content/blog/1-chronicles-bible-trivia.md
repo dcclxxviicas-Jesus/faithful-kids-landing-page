@@ -100,6 +100,8 @@ When you've mastered this book, branch out to our [Old Testament trivia for kids
 
 When you want zero setup, our [online Bible trivia for kids](/bible-trivia) is one tap and always ready to go.
 
+For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 1 Chronicles?

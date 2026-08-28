@@ -90,6 +90,8 @@ If your crew wants variety, our [all-ages Bible trivia collection](/blog/bible-t
 
 Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads.
 
+For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Micah?

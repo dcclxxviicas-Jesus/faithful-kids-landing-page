@@ -67,6 +67,8 @@ For the backstory in kid-friendly form, start with [who was Ruth](/blog/who-was-
 
 Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally -- pick a level, get ten questions, see the verse behind every answer.
 
+Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ruth?

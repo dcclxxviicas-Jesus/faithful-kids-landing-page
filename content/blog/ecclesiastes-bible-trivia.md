@@ -75,6 +75,8 @@ You can also mix in questions from our [family-friendly Bible trivia](/blog/bibl
 
 Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
 
+Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
+
 ## Frequently Asked Questions
 
 ### Who wrote Ecclesiastes?

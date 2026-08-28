@@ -67,6 +67,8 @@ Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their ow
 
 For a quieter follow-up, try the [Armor of God word search](/printables/bible-word-search/armor-of-god) — twelve words hidden in the grid, answer key included.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ephesians?

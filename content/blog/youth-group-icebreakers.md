@@ -168,6 +168,8 @@ For more options once the ice is broken, our full [youth group games](/blog/yout
 
 Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
 
+Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
+
 ## Frequently Asked Questions
 
 ### What is a good icebreaker for a youth group first night?

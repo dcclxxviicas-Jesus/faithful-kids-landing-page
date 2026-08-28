@@ -2,7 +2,7 @@
 title: "Yippee TV vs Faithful Kids: Entertainment vs Education"
 slug: "yippee-tv-vs-faithful-kids"
 type: "listicle"
-metaDescription: "What is Yippee TV? Phil Vischer's Christian kids streaming service: shows, pricing, and how it compares to Faithful Kids for learning."
+metaDescription: "What is Yippee TV? The Christian kids streaming service with exclusive VeggieTales shows: pricing, catalog, and how it compares to Faithful Kids."
 keywords: ["yippee tv", "yippee kids tv", "yippee subscription", "yippee tv vs faithful kids", "christian streaming for kids", "bible education app for kids"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-18"
@@ -16,10 +16,10 @@ Understanding the difference will save you from choosing the wrong tool for the 
 
 ## What Is Yippee TV?
 
-Yippee TV is a Christian kids TV streaming service designed as a faith-friendly alternative to Netflix or Disney+. Launched by Phil Vischer (the creator of VeggieTales), Yippee offers a growing library of animated shows, movies, and series that reflect Christian values.
+Yippee TV is a Christian kids TV streaming service designed as a faith-friendly alternative to Netflix or Disney+. Launched in 2019, Yippee is best known as the exclusive streaming home of The VeggieTales Show, alongside a growing library of animated shows, movies, and series that reflect Christian values.
 
 **What you get:**
-- Hundreds of episodes of shows like VeggieTales, What's in the Bible?, The Christ-Centered Show, and Owlegories
+- Hundreds of episodes of shows like The VeggieTales Show (exclusive), classic VeggieTales, Hermie and Friends, Jay Jay the Jet Plane, and Danny Go!
 - Feature-length Christian movies
 - New content added monthly
 - Ad-free streaming
@@ -130,7 +130,7 @@ Yippee TV and Faithful Kids aren't competitors -- they're complements.
 
 If you could only choose one, ask yourself: **Does my child need more wholesome entertainment, or more Bible education?**
 
-If the answer is entertainment, go with Yippee. It's affordable, well-made, and Phil Vischer's track record speaks for itself.
+If the answer is entertainment, go with Yippee. It's affordable, well-made, and home to the largest VeggieTales collection streaming anywhere.
 
 If the answer is education, go with Faithful Kids. The quiz-and-reflection model produces actual Biblical literacy, and the gamification keeps kids coming back.
 
@@ -144,10 +144,12 @@ See the difference active learning makes. Start your 3-day free trial and watch 
 
 ---
 
+Choosing between the streaming platforms themselves? [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) compares all three head-to-head on price, catalog, and ages.
+
 ## Frequently Asked Questions
 
 ### Is Yippee TV the same as VeggieTales?
-Yippee TV was created by Phil Vischer, who also created VeggieTales. Yippee includes VeggieTales episodes alongside many other Christian shows and movies. Think of it as a streaming platform that includes VeggieTales plus much more.
+No, but it is the closest thing to a VeggieTales channel: Yippee TV is the exclusive streaming home of The VeggieTales Show and carries the classic VeggieTales episodes alongside many other Christian shows and movies. VeggieTales itself was created by Phil Vischer; Yippee is a separate streaming company that carries the shows. Think of it as a platform that includes VeggieTales plus much more.
 
 ### How much does a Yippee TV subscription cost?
 A Yippee subscription costs $7.99 per month or $49 per year (about $4.08 per month billed annually), with a 7-day free trial. That makes it one of the most affordable Christian streaming options for kids -- just under Faithful Kids' $8.88 per month, though the two serve different purposes (entertainment vs. Bible education).

@@ -252,6 +252,8 @@ A few more rules keep the energy up. Keep games short -- three quick games beat 
 
 There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### What are good Bible games for 4 and 5 year olds?

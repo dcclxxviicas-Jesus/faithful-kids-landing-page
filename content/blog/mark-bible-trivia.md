@@ -114,6 +114,8 @@ New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bibl
 
 For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Mark?

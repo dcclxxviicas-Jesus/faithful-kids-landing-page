@@ -186,6 +186,8 @@ When your family has mastered this list, keep going with our full [100 Bible tri
 
 Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
 
+There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
+
 ## Frequently Asked Questions
 
 ### What are good Old Testament trivia questions for kids?

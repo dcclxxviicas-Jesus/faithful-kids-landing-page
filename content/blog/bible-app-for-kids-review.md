@@ -67,6 +67,8 @@ At that point, look for a platform built for the next stage: full Bible coverage
 
 The honest bottom line: the Bible App for Kids is the right first app, and it is rarely the right last one.
 
+Looking at paid options beyond YouVersion's free app? Our [Minno review](/blog/minno-review) covers the biggest Christian streaming library, and [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) compares the streaming field head-to-head.
+
 ## Frequently Asked Questions
 
 ### Is the Bible App for Kids really free?

@@ -90,6 +90,8 @@ Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivi
 
 For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
 
+There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Peter?

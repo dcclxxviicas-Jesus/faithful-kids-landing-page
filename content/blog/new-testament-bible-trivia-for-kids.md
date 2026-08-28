@@ -184,6 +184,8 @@ New Testament trivia rewards kids who know the story's sequence, not just its sc
 
 No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
 
+Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
+
 ## Frequently Asked Questions
 
 ### What are good New Testament trivia questions for kids?

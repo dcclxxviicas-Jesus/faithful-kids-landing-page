@@ -118,6 +118,8 @@ You can also mix in questions from our [family-friendly Bible trivia](/blog/bibl
 
 Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Luke?

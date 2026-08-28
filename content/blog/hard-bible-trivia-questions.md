@@ -196,6 +196,8 @@ Want a set you can hand around on paper? Our free [printable Bible Trivia Pack](
 
 Kids who like a scoreboard tend to prefer our [Bible trivia game online](/bible-trivia), which tracks the streak for them.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### What is the hardest Bible trivia question ever?

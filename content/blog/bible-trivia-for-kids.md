@@ -8,7 +8,7 @@ datePublished: "2026-04-16"
 dateModified: "2026-08-28"
 ---
 
-These 50 Bible questions for kids cover the most important stories, people, and verses in Scripture -- sorted into easy, medium, and hard trivia rounds by age, with every answer in bold and a verse reference right after the question, so the page works as a complete Bible quiz for kids with answers included. The easy round (ages 5-8) sticks to the famous stories every child hears first, the medium round (ages 9-12) digs into the details, and the hard round is tough enough to stump the teens and adults at the table.
+These 50 Bible questions for kids cover the most important stories, people, and verses in Scripture -- sorted into easy, medium, and hard trivia rounds by age, with every answer in bold and a verse reference right after the question, so the page works as a complete Bible quiz for kids with answers included. The easy round (ages 5-8) sticks to the famous stories every child hears first, the medium round (ages 9-12) digs into the details, and the hard round is tough enough to stump the teens and adults at the table. Two bonus rounds -- animals of the Bible and numbers in the Bible -- add 25 more questions for a second game night.
 
 Two of these questions trip up almost every family that plays. Question 14 asks what fruit Adam and Eve ate -- and nearly everyone answers wrong, because the "right" answer most people learned is not actually in the Bible. Question 33 asks how many of each animal Noah brought on the ark, and the famous answer of "two" is only part of the story. If your kids get both right on the first try, they know their Bible better than most adults.
 
@@ -81,6 +81,41 @@ Save this round for the end, when the score is close. These questions reach into
 49. On what island was Paul shipwrecked on his voyage to Rome? **Malta** (Acts 28:1)
 50. What does the name Immanuel, given to Jesus, mean? **"God with us"** (Matthew 1:23)
 
+## Bonus Round: Animals of the Bible
+
+When the main 50 run out, these themed rounds keep the game going. Animal questions are a favorite with younger kids because they can picture every answer -- and a few of these still catch the adults.
+
+51. What bird did Noah send out of the ark first? **A raven** (Genesis 8:7)
+52. What bird brought Noah an olive leaf to show the flood was ending? **A dove** (Genesis 8:11)
+53. Which creature tricked Eve into eating the forbidden fruit? **The serpent** (Genesis 3:1)
+54. What birds brought the prophet Elijah bread and meat by the brook? **Ravens** (1 Kings 17:6)
+55. What did John the Baptist eat in the wilderness? **Locusts and wild honey** (Matthew 3:4)
+56. Jesus said it is easier for what animal to go through the eye of a needle than for a rich person to enter God's kingdom? **A camel** (Matthew 19:24)
+57. What animal did Jesus ride into Jerusalem on Palm Sunday? **A donkey's colt** (Matthew 21:7)
+58. What animal did young Samson kill with his bare hands? **A lion** (Judges 14:5-6)
+59. What did Aaron's staff turn into in front of Pharaoh? **A snake** (Exodus 7:10)
+60. The Holy Spirit came down on Jesus at His baptism in the form of what bird? **A dove** (Matthew 3:16)
+61. In the Psalms, the writer's soul thirsts for God the way what animal pants for streams of water? **A deer** (Psalm 42:1)
+62. What creatures hopped out of the Nile and covered Egypt in the second plague? **Frogs** (Exodus 8:6)
+
+## Bonus Round: Numbers in the Bible
+
+Number questions are the great equalizer -- everyone thinks they remember these, and half the table is always off by one.
+
+63. How many days and nights did it rain during the great flood? **Forty** (Genesis 7:12)
+64. How many brothers did Joseph have? **Eleven** (Genesis 42:13)
+65. How many plagues did God send on Egypt? **Ten** (Exodus 7:14-12:30)
+66. How many years did the Israelites wander in the wilderness? **Forty** (Numbers 14:33-34)
+67. How many times did Israel march around Jericho on the seventh day? **Seven** (Joshua 6:15)
+68. How many smooth stones did David pick up before facing Goliath? **Five** (1 Samuel 17:40)
+69. King Nebuchadnezzar threw three men into the fiery furnace -- how many did he see walking in the flames? **Four** (Daniel 3:25)
+70. How many loaves and fish did Jesus use to feed more than five thousand people? **Five loaves and two fish** (Matthew 14:17-21)
+71. How many tribes of Israel came from Jacob's sons? **Twelve** (Genesis 49:28)
+72. When Peter asked if he should forgive someone seven times, what number did Jesus answer with? **Seventy-seven times** (Matthew 18:22)
+73. How many days did Jesus fast in the wilderness before being tempted? **Forty** (Matthew 4:2)
+74. Jesus healed ten men with leprosy -- how many came back to thank Him? **One** (Luke 17:15-17)
+75. How many days and nights was Jonah inside the great fish? **Three** (Jonah 1:17)
+
 ## How Do You Run a Bible Quiz for Kids?
 
 The simplest format is the best one: split into two teams, alternate questions, and give one point per correct answer. Start every player in the easy round so the youngest kids score early, then move up a level each round. If a team misses, let the other team steal for a bonus point. Keep score somewhere everyone can see -- a whiteboard, a big sheet of paper, or the back of a pizza box all work. For shy kids who freeze up when they have to produce an answer from scratch, run the same game as [multiple choice Bible trivia](/blog/bible-trivia-multiple-choice) instead, where picking from four options gets them talking.
@@ -108,7 +143,7 @@ If your child is studying one particular book -- for Sunday school, a homeschool
 - [Acts Bible trivia](https://faithfulkids.app/blog/acts-bible-trivia) -- Peter, Paul, and the early church
 - [Revelation Bible trivia](https://faithfulkids.app/blog/revelation-bible-trivia) -- the Bible's final book
 
-For bigger question banks, try our [Old Testament Bible trivia for kids](https://faithfulkids.app/blog/old-testament-bible-trivia-for-kids) and [New Testament Bible trivia for kids](https://faithfulkids.app/blog/new-testament-bible-trivia-for-kids) collections, or work straight through our master list of [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers), which spans Genesis to Revelation in four difficulty tiers. Older kids who found this page too easy should jump to [Bible trivia for teens](https://faithfulkids.app/blog/bible-trivia-for-teens), and if you want to turn all of this into a repeatable tradition, our [family Bible trivia night](https://faithfulkids.app/blog/family-bible-trivia-night) guide covers formats, scoring systems, and prize ideas.
+For bigger question banks, try our [Old Testament Bible trivia for kids](https://faithfulkids.app/blog/old-testament-bible-trivia-for-kids) and [New Testament Bible trivia for kids](https://faithfulkids.app/blog/new-testament-bible-trivia-for-kids) collections, or work straight through our master list of [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers), which spans Genesis to Revelation in four difficulty tiers. Older kids who found this page too easy should jump to [Bible trivia for teens](https://faithfulkids.app/blog/bible-trivia-for-teens), the grown-ups at the table get their own round of [Bible trivia for adults](/blog/bible-trivia-for-adults) -- with a warm-up round built to humble them -- and if you want to turn all of this into a repeatable tradition, our [family Bible trivia night](https://faithfulkids.app/blog/family-bible-trivia-night) guide covers formats, scoring systems, and prize ideas.
 
 ## Frequently Asked Questions
 
@@ -118,7 +153,7 @@ Kids as young as 4 or 5 can play if the questions stick to the most famous stori
 
 ### How many trivia questions do I need for a family game night?
 
-Plan on about 20-30 questions for a 30-minute game, since each question takes around a minute once you add guessing, scoring, and a quick explanation of the answer. The 50 questions on this page comfortably cover a full hour-long game night with three rounds. If you run out, the per-book trivia pages linked above hold hundreds more.
+Plan on about 20-30 questions for a 30-minute game, since each question takes around a minute once you add guessing, scoring, and a quick explanation of the answer. The 50 core questions on this page comfortably cover a full hour-long game night with three rounds, and the two bonus rounds -- 25 more questions on animals and numbers -- stretch it to a second night. If you run out, the per-book trivia pages linked above hold hundreds more.
 
 ### Are these Bible trivia questions accurate for all denominations?
 

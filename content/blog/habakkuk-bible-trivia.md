@@ -84,6 +84,8 @@ You can also mix in questions from our [family-friendly Bible trivia](/blog/bibl
 
 For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Habakkuk?

@@ -76,6 +76,8 @@ New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bibl
 
 For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 3 John?

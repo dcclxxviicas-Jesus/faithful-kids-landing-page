@@ -157,6 +157,8 @@ Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) dr
 
 Our full list of [youth group games](/blog/youth-group-games) includes the Scripture connection for every game, so the fun still points somewhere.
 
+Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
+
 ## Frequently Asked Questions
 
 ### How many Bible trivia questions do you need for a youth group night?

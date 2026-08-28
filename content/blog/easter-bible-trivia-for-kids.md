@@ -84,6 +84,8 @@ Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the q
 
 For a quieter follow-up, try the [Easter word search](/printables/bible-word-search/easter) — twelve words hidden in the grid, answer key included.
 
+Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
+
 ## Frequently Asked Questions
 
 ### What is the Easter story in the Bible?

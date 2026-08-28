@@ -82,6 +82,8 @@ Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/
 
 For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
 
+Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Philemon?

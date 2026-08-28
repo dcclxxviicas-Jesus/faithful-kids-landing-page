@@ -100,6 +100,8 @@ You can also hand over a phone and let kids run our [interactive Bible trivia ga
 
 Pair this with a [Bible word search puzzle](/printables/bible-word-search) — Noah, Christmas, Easter, David and Goliath and more.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### What is the easiest youth group game with no supplies?

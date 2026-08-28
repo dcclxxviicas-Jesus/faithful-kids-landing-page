@@ -142,6 +142,8 @@ If you would rather hand out paper than pass a phone around, our free [printable
 
 Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### What are some easy Bible trivia questions for kids?

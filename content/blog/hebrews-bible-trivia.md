@@ -110,6 +110,8 @@ New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bibl
 
 Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles a fresh round every time you play.
 
+There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Hebrews?

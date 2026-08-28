@@ -97,6 +97,8 @@ Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/
 
 Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles a fresh round every time you play.
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### Who wrote the Gospel of John?

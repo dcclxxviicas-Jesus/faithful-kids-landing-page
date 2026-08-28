@@ -22,7 +22,7 @@ This guide reviews seven of the best educational apps and platforms for Christia
 
 **What it is:** A gamified video learning platform that teaches kids the Bible through short AI-generated video episodes (a few minutes each), followed by interactive quizzes and reflection activities. Think Duolingo, but for Scripture.
 
-**Content library:** Over 200 episodes across 20+ series covering the entire Bible — from Genesis through Revelation, plus supplemental series on key themes like prayer, miracles, and the parables of Jesus.
+**Content library:** Over 300 episodes across 30+ series covering the entire Bible — from Genesis through Revelation, plus supplemental series on key themes like prayer, miracles, and the parables of Jesus.
 
 **What we love:**
 - The episode structure is brilliant: watch a story, take a quiz, complete a reflection. Each piece reinforces the others, and kids retain far more than passive watching alone.
@@ -67,7 +67,7 @@ This guide reviews seven of the best educational apps and platforms for Christia
 ## 3. Minno (formerly JellyTelly)
 
 **Ages:** 2-12
-**Price:** $9.99/month or $69.99/year. 7-day free trial.
+**Price:** $10.99/month or $69.99/year. 7-day free trial.
 **Platform:** iOS, Android, Roku, Apple TV, Amazon Fire TV, web
 
 **What it is:** A streaming platform for Christian kids' content — essentially a faith-based Netflix for children. Features shows, movies, and specials from multiple Christian content creators.
@@ -115,19 +115,19 @@ This guide reviews seven of the best educational apps and platforms for Christia
 
 **Best for:** Families who want high-quality animated Bible content for longer viewing sessions, especially for kids who enjoy adventure-style animation. We compare the two approaches in [Superbook vs Faithful Kids](/blog/superbook-vs-faithful-kids).
 
-## 5. Yippee (by Phil Vischer)
+## 5. Yippee TV
 
 **Ages:** 3-10
-**Price:** $9.99/month or $99.99/year
+**Price:** $7.99/month or $49/year (about $4.08/month)
 **Platform:** iOS, Android, Roku, Apple TV, Amazon Fire TV, web
 
-**What it is:** A streaming app created by Phil Vischer (creator of VeggieTales) featuring original content including Buck Denver Asks, the Laugh and Grow Bible, and various Christian kids' shows.
+**What it is:** A Christian streaming service best known as the exclusive home of The VeggieTales Show, alongside classic VeggieTales, Hermie and Friends, Jay Jay the Jet Plane, Danny Go!, and the older Superbook series.
 
 **What we love:**
-- Phil Vischer's theological depth and humor are evident throughout.
-- What's in the Bible? is one of the best kids' theology resources ever made — it actually teaches doctrine, not just stories.
-- High-quality originals with real educational substance.
+- The largest VeggieTales collection streaming anywhere, including exclusive new episodes.
+- The cheapest paid option on this list on the annual plan.
 - Ad-free and safe content environment.
+- A deep bench of wholesome non-Bible shows for general screen time.
 
 **What could be better:**
 - Smaller content library than Minno.
@@ -136,7 +136,7 @@ This guide reviews seven of the best educational apps and platforms for Christia
 - The app interface can feel less polished than competitors.
 - No structured learning path or progress tracking.
 
-**Best for:** Families who value theological depth and humor, particularly fans of Phil Vischer's approach to teaching kids about the Bible. Our [Yippee TV vs Faithful Kids](/blog/yippee-tv-vs-faithful-kids) comparison breaks down the differences.
+**Best for:** Families replacing Netflix or YouTube time with values-aligned entertainment, especially VeggieTales fans. Our [Yippee TV vs Faithful Kids](/blog/yippee-tv-vs-faithful-kids) comparison breaks down the differences.
 
 ## 6. Adventure Bible App
 
@@ -194,7 +194,7 @@ This guide reviews seven of the best educational apps and platforms for Christia
 | Feature | Faithful Kids | Bible App for Kids | Minno | Superbook | Yippee | Adventure Bible | RightNow Media |
 |---------|---------------|-------------------|-------|-----------|--------|-----------------|----------------|
 | **Ages** | 7-15 | 4-8 | 2-12 | 5-12 | 3-10 | 6-10 | 2-15 |
-| **Price/mo** | $8.88 | Free | $9.99 | Free/$9.99 | $9.99 | Free/IAP | Via church |
+| **Price/mo** | $8.88 | Free | $10.99 | Free/$9.99 | $9.99 | Free/IAP | Via church |
 | **Video** | Yes | No | Yes | Yes | Yes | No | Yes |
 | **Quizzes** | Yes | No | No | Academy only | No | Games | No |
 | **Gamification** | Yes | Minimal | No | No | No | Yes | No |
@@ -209,7 +209,7 @@ There is no single "best" app — it depends on your family's needs:
 - **For free preschool introduction:** Bible App for Kids is unbeatable at its price point (free) for ages 4-8.
 - **For family streaming nights:** Minno gives you the widest selection of Christian kids' entertainment.
 - **For high-quality animation:** Superbook has the most visually impressive Bible storytelling.
-- **For theological depth:** Yippee and Phil Vischer's content teach doctrine, not just stories.
+- **For theological depth:** Minno's What's in the Bible? teaches doctrine, not just stories.
 - **For church-connected families:** RightNow Media's library is extraordinary if your church provides access.
 
 Many families find that a combination works best — a learning app for daily use and a streaming service for family viewing. If you're still deciding, our guide to the [best Bible apps by age group](/blog/best-bible-apps-by-age) matches each option to your child's stage, and our tips on [healthy screen time for Christian kids](/blog/healthy-screen-time-for-christian-kids) help you set the right boundaries.

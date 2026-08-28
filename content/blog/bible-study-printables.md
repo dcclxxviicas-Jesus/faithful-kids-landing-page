@@ -122,6 +122,8 @@ Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work wel
 
 Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with no sign-up.
 
+Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
+
 ## Frequently Asked Questions
 
 ### Where can I find free Bible study printables?

@@ -69,6 +69,8 @@ Round out game night with our [best Bible trivia for kids and families](/blog/bi
 
 If you want something the kids can play alone, point them at our [Bible trivia quiz for kids](/bible-trivia).
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Deuteronomy?

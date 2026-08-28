@@ -122,6 +122,8 @@ And if the quiz exposed stories your family hasn't read yet, that's the best pos
 
 Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full round in about five minutes.
 
+There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
+
 ## Frequently Asked Questions
 
 ### How do I score this Bible quiz?

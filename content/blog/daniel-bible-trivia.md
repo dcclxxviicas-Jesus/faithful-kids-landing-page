@@ -89,6 +89,8 @@ Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their ow
 
 Print the [Daniel word search](/printables/bible-word-search/daniel) for the table, or let them play it on screen. Either way it is free.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Daniel?

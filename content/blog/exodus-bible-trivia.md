@@ -82,6 +82,8 @@ For a version that scores itself, try the [Bible trivia game](/bible-trivia) on 
 
 Older children who find coloring dull usually take to the [Moses word search](/printables/bible-word-search/moses) instead. It plays in the browser or prints on one sheet.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Exodus?

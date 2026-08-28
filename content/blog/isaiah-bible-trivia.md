@@ -79,6 +79,8 @@ When you've mastered Isaiah, branch out to the full [Old Testament trivia for ki
 
 For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
+Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Isaiah?

@@ -19,7 +19,7 @@ export async function GET() {
   const listicles = posts.filter(p => p.type === 'listicle')
   const stories = posts.filter(p => p.seriesSlug && p.episode)
   const comparisons = listicles.filter(
-    p => p.slug.includes('-vs-') || p.slug.startsWith('best-') || p.slug.startsWith('free-bible-apps'),
+    p => p.slug.includes('-vs-') || p.slug.startsWith('best-') || p.slug.startsWith('free-bible-apps') || p.slug.endsWith('-review'),
   )
   const guides = listicles.filter(p => !comparisons.includes(p))
 

@@ -67,6 +67,8 @@ The hard round is a name game, and it rewards families who know Paul's world -- 
 
 If the group is restless, switch to our [Bible trivia game online](/bible-trivia) and let the streak counter do the work.
 
+Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Colossians?

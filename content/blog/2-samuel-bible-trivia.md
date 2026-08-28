@@ -72,6 +72,8 @@ Round out game night with our [best Bible trivia for kids and families](/blog/bi
 
 Running this with a big group? Put our [online Bible trivia](/bible-trivia) on the screen and play as teams.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Samuel?

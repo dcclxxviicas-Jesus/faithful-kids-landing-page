@@ -140,6 +140,8 @@ Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their ow
 
 We also drew a set of [free Bible word searches](/printables/bible-word-search) — eleven puzzles you can play in the browser or print for a class.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### What Bible activities work for youth who did not grow up in church?

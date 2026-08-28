@@ -63,6 +63,8 @@ The leadership round (19-22) works well for teens -- have them grade the qualifi
 
 For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for you so everyone can just play.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Timothy?

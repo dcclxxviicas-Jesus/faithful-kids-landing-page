@@ -274,6 +274,8 @@ Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten
 
 There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### What are the best youth group games for a small group of 10 or fewer?

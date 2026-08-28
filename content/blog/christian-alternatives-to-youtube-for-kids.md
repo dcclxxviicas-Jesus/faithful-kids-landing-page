@@ -102,6 +102,8 @@ Holy Sprouts is a YouTube channel by a Christian educator that teaches letters, 
 | Number of lessons | 300+ | 100s of episodes | 50+ shows | 50+ episodes | 40+ stories |
 | Parent dashboard | Yes | No | No | No | No |
 
+Torn between the streaming options on this list? [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) compares the three biggest Christian kids' platforms directly.
+
 ## Frequently Asked Questions
 
 ### What is the safest video app for Christian kids?

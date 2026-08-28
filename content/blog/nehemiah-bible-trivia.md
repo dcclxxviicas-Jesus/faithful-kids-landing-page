@@ -88,6 +88,8 @@ When your family has the wall memorized, test the whole sweep of Scripture with 
 
 If you would rather let a screen keep score, play our [online Bible trivia game](/bible-trivia) -- 100 questions, three levels, no sign-up.
 
+Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Nehemiah?

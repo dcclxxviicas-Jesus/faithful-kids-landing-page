@@ -150,6 +150,8 @@ If you would rather let a screen keep score, play our [online Bible trivia game]
 
 We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
 
+For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### What is the funniest youth group game?

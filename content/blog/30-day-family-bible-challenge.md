@@ -222,6 +222,8 @@ Loved this challenge? Take it further with Faithful Kids -- animated Bible video
 
 [Start your free trial at faithfulkids.app/quiz](https://faithfulkids.app/quiz)
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### How long does each day's reading take?

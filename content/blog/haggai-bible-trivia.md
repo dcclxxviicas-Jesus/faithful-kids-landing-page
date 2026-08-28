@@ -84,6 +84,8 @@ Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/
 
 Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
 
+There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Haggai?

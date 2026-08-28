@@ -96,6 +96,8 @@ New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bibl
 
 We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three levels, a verse with every answer, no ads.
 
+Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Zechariah?

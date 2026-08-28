@@ -75,6 +75,8 @@ When you've finished Hosea, keep the streak going with our [Old Testament trivia
 
 There is also a [free Bible trivia game](/bible-trivia) on our site that reshuffles every round, so it never plays the same twice.
 
+Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Hosea?

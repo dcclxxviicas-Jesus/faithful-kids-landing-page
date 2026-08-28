@@ -77,6 +77,8 @@ Teens who breeze through can graduate to our [Bible trivia for teens](/blog/bibl
 
 There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Amos?

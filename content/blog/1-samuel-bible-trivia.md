@@ -77,6 +77,8 @@ Round out game night with our [best Bible trivia for kids and families](/blog/bi
 
 If you want something the kids can play alone, point them at our [Bible trivia quiz for kids](/bible-trivia).
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 1 Samuel?

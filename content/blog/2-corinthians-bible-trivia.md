@@ -75,6 +75,8 @@ Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-tri
 
 There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
 
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+
 ## Frequently Asked Questions
 
 ### Who wrote 2 Corinthians?

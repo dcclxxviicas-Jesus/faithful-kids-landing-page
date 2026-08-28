@@ -57,6 +57,8 @@ The forged-letter angle (questions 16-17) fascinates older kids -- Paul dealing 
 
 Running this with a big group? Put our [online Bible trivia](/bible-trivia) on the screen and play as teams.
 
+Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
+
 ## Frequently Asked Questions
 
 ### Who wrote 2 Thessalonians?

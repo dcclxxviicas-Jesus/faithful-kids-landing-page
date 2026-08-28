@@ -138,6 +138,8 @@ Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) dr
 
 For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
 
+For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### What indoor games work in a small youth room with no gym?

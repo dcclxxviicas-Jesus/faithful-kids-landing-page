@@ -194,6 +194,8 @@ If you need something with no prep at all, the [Bible word search](/printables/b
 
 Youth leaders: the master list of [youth group games](/blog/youth-group-games) is sorted by how many students you actually have, not by how many the game wants.
 
+For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson for teens be?

@@ -86,6 +86,8 @@ Prefer a broader quiz first? Our [Bible trivia questions for the whole family](/
 
 If you would rather let a screen keep score, play our [online Bible trivia game](/bible-trivia) -- 100 questions, three levels, no sign-up.
 
+Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Malachi?

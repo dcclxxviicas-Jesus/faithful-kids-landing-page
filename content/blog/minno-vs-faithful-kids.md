@@ -66,6 +66,8 @@ Framed this way, the combined cost replaces both "curriculum" and "Netflix for t
 
 If budget forces a single choice, choose by age and goal: under 6 and mainly fixing entertainment, Minno; 7 and up with a Bible-learning goal, [start a free 3-day trial of Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-vsminno). For the wider field beyond these two, see our roundups of the [best Bible app for kids](/blog/best-bible-app-for-kids) and [best Bible apps by age](/blog/best-bible-apps-by-age).
 
+Weighing Minno against the other streaming options instead? Our [Minno review](/blog/minno-review) rates the service on its own terms, and [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) compares the three big Christian streaming platforms head-to-head.
+
 ## Frequently Asked Questions
 
 ### Is Minno or Faithful Kids better overall?

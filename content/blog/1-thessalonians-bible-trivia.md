@@ -66,6 +66,8 @@ The Acts 17 questions come alive with backstory: our retellings of [Paul in Athe
 
 Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full round in about five minutes.
 
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Thessalonians?

@@ -127,11 +127,11 @@ export default function Printables() {
       <section className="final-cta-section">
         <h2>Want the stories behind the trivia?</h2>
         <p>
-          Faithful Kids brings every one of these stories to life — 670 short video episodes with
+          Faithful Kids brings every one of these stories to life — 300+ short video episodes with
           quizzes and reflections, Genesis to Revelation.
         </p>
         <a href="/quiz" className="btn-primary btn-hero" style={{ textDecoration: 'none' }}>
-          Start Your Free Week
+          Start Your Free Trial
         </a>
         <div className="final-badges">
           <span>✓ 3-day free trial</span>

@@ -43,7 +43,7 @@ export default function Success() {
             What happens next:
           </p>
           <ul style={{ fontSize: '0.88rem', color: '#4b5563', paddingLeft: 18, lineHeight: 1.8 }}>
-            <li>Your trial is active for 7 days, completely free</li>
+            <li>Your trial is active for 3 days, completely free</li>
             <li>You will not be charged until the trial ends</li>
             <li>Cancel anytime from your account if it is not for you</li>
             <li>We will send setup instructions to your email</li>

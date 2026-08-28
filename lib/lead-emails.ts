@@ -124,7 +124,7 @@ ${button(quizUrl, 'See how it works — free for 3 days')}
 <p style="border-left:3px solid #059669;padding-left:14px;margin:16px 0;">"My boys retell the stories at dinner. I almost cried the first time."<br/><span style="color:#6b7280;font-size:13px;">— James T., dad of 2</span></p>
 <p style="border-left:3px solid #059669;padding-left:14px;margin:16px 0;">"Finally, screen time I don't feel guilty about."<br/><span style="color:#6b7280;font-size:13px;">— Sarah K., mom of 1</span></p>
 <p>Every subscription includes 300+ video lessons, quizzes after every story, up to 5 kid profiles, and a parent dashboard.</p>
-${button(quizUrl, 'Start your free week →')}`),
+${button(quizUrl, 'Start your free trial →')}`),
       }
     case 5:
     default:

@@ -20,6 +20,8 @@ import { StoryLesson } from '../StoryLesson'
 import storyQuizzes from '@/lib/story-quizzes.json'
 import storyDurations from '@/lib/story-durations.json'
 import triviaVideos from '@/lib/trivia-videos.json'
+import guideVideos from '@/lib/guide-videos.json'
+import { PrintableCta } from '@/app/printables/PrintableCta'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -190,6 +192,12 @@ export default async function BlogPostPage({ params }: Props) {
   // Split content to inject mid-article CTA
   const contentParts = splitContentForCTA(post.content)
   const secondParts = splitSecondForImage(contentParts.second)
+
+  // Real-episode match for the mid-article CTA (see the TRUTH RULE comment at
+  // the render site). Only guides are ever in this map.
+  const guideVideo = !isStory
+    ? (guideVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; storySlug: string }>)[slug]
+    : undefined
   const introParts = splitIntro(contentParts.first)
 
   // Exit-intent popup: context-aware variant (drives which free printable
@@ -360,18 +368,41 @@ const hasTriviaGame = triviaQuestions.length >= 10
             game's end screen already makes the same offer with a video.
             Also skipped on story posts: the free lesson above already showed
             the video and ran the quiz, so repeating "watch this story" here
-            would contradict the page. The lesson's own end screen makes the
-            offer instead. */}
-        {!hasTriviaGame && !isStory && (
+            would contradict the page.
+
+            TRUTH RULE (Aug 28, 2026): this block used to interpolate the
+            guide's own title into "See {title} in a short narrated video
+            lesson" on 241 pages where no such video exists — which is exactly
+            how a paying customer bought a video that wasn't there. Now:
+            - If lib/guide-videos.json maps this guide to a REAL episode
+              (every entry validated against the story post and HEAD-verified
+              on the CDN before it shipped), we show that episode by name and
+              PLAY it here, PrintableCta-style.
+            - Otherwise the copy promises only what is true: the app's 300+
+              lessons, no title interpolation. Button says "free trial" with
+              no number (annual-only 3-day trial; the standing no-stale-claim
+              rule). */}
+        {!hasTriviaGame && !isStory && guideVideo && (
+          <PrintableCta
+            videoSrc={guideVideo.videoSrc}
+            posterSrc={guideVideo.posterSrc}
+            videoTitle={guideVideo.videoTitle}
+            heading={`Watch ${guideVideo.videoTitle} Come Alive`}
+            body={`${guideVideo.videoTitle} is one of 300+ short narrated video lessons your child will love. Watch the whole episode right here — in the app, every lesson ends with a fun quiz to check what they learned.`}
+            source="guide-mid-cta"
+          />
+        )}
+        {!hasTriviaGame && !isStory && !guideVideo && (
           <div className="blog-mid-cta">
             <div className="blog-mid-cta-icon">&#9654;</div>
-            <h3>Watch This Story Come Alive</h3>
+            <h3>Bring the Bible to Life</h3>
             <p>
-              See <strong>{post.title.split(':')[0]}</strong> in a short narrated video lesson
-              your child will love. Followed by a fun quiz to check what they learned.
+              Faithful Kids turns the whole Bible into <strong>300+ short narrated video
+              lessons</strong> kids love, Genesis to Revelation — each followed by a fun quiz to
+              check what they learned.
             </p>
             <a href="/quiz" className="btn-primary" style={{ textDecoration: 'none', display: 'inline-block' }}>
-              Watch Free for 3 Days
+              Start your free trial
             </a>
           </div>
         )}

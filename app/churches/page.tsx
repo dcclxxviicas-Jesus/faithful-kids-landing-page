@@ -4,7 +4,7 @@ import { SiteNav, SiteFooter } from '../components/SiteChrome'
 export const metadata: Metadata = {
   title: 'Free for Churches — Kids Bible Video Lessons',
   description:
-    'Free for churches: give your Sunday school or kids ministry full access to 670 Bible video episodes with quizzes, plus printables and a trivia game.',
+    'Free for churches: give your Sunday school or kids ministry full access to 300+ Bible video episodes with quizzes, plus printables and a trivia game.',
   alternates: { canonical: 'https://faithfulkids.app/churches' },
 }
 
@@ -24,7 +24,7 @@ export default function Churches() {
         </h1>
         <p className="blog-hero-sub">
           Give your Sunday school or kids ministry full access to our Bible video learning app —
-          670 story episodes with quizzes and reflections — at no cost. We built this to serve
+          300+ story episodes with quizzes and reflections — at no cost. We built this to serve
           families, and that starts with the church.
         </p>
         <a
@@ -88,8 +88,8 @@ export default function Churches() {
         <div className="features-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))' }}>
           <div className="feature-item">
             <div className="feature-icon">📺</div>
-            <h3>670 Bible video episodes</h3>
-            <p>Short story episodes across 67 series, Genesis to Revelation — each followed by a quiz and reflection.</p>
+            <h3>300+ Bible video episodes</h3>
+            <p>Short story episodes across 30+ series, Genesis to Revelation — each followed by a quiz and reflection.</p>
           </div>
           <div className="feature-item">
             <div className="feature-icon">🏆</div>

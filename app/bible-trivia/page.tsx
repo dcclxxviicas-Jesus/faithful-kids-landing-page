@@ -109,11 +109,11 @@ export default function BibleTriviaPage() {
       <section className="final-cta-section">
         <h2>If your kids love this game, they&apos;ll love Faithful Kids</h2>
         <p>
-          Short Bible story videos with quizzes just like these — 670 episodes from Genesis to
+          Short Bible story videos with quizzes just like these — 300+ episodes from Genesis to
           Revelation, with levels, streaks, and zero ads.
         </p>
         <a href="/quiz" className="btn-primary btn-hero" style={{ textDecoration: 'none' }}>
-          Start Your Free Week
+          Start Your Free Trial
         </a>
         <div className="final-badges">
           <span>✓ 3-day free trial</span>

@@ -10,6 +10,7 @@ interface Traffic {
   funnel: { quiz_visitors: number; quiz_started: number; quiz_answered: number; quiz_completed: number; plan_selected: number; checkout_clicked: number }
   conversion_events: { sign_up: number; trial_started: number; purchase_completed: number; subscription_canceled: number; payment_failed: number }
   events_breakdown: { event: string; count: number; uniques: number }[]
+  cta_experiment?: { variant: string; shown: number; clicked: number; reached_quiz: number; ctr: number; quiz_rate: number }[]
   top_pages: { path: string; visitors: number; views: number }[]
   referrers: { ref: string; visitors: number }[]
   // Optional: absent in snapshots taken before the AEO segment was added.
@@ -263,6 +264,37 @@ export default function CasAdmin() {
                   <p className="note">Google hasn&apos;t reported {range === 'today' ? 'today' : 'this period'} yet — their data runs 2–3 days behind. Switch to &ldquo;Last 7 days&rdquo; or &ldquo;Last 30 days&rdquo; to see it.</p>
                 )}
               </section>
+
+              {t.cta_experiment?.length ? (
+                <section className="panel">
+                  <h2>Verse CTA experiment</h2>
+                  <p className="note">
+                    Three scripture CTAs placed high in blog posts, one shown at random per reader.
+                    &ldquo;Reached quiz&rdquo; only counts a click that actually landed on /quiz.
+                    Treat a winner as real once a variant has ~1,000 impressions.
+                  </p>
+                  <table className="tbl">
+                    <thead><tr><th>Variant</th><th>Shown</th><th>Clicked</th><th>Click rate</th><th>Reached quiz</th><th>Quiz rate</th></tr></thead>
+                    <tbody>
+                      {[...t.cta_experiment].sort((a, b) => b.quiz_rate - a.quiz_rate).map((v, i) => (
+                        <tr key={v.variant}>
+                          <td><strong>{v.variant}</strong>{i === 0 && v.shown >= 1000 ? ' 🏆' : ''}</td>
+                          <td className="num">{fmt(v.shown)}</td>
+                          <td className="num">{fmt(v.clicked)}</td>
+                          <td className="num">{v.ctr}%</td>
+                          <td className="num">{fmt(v.reached_quiz)}</td>
+                          <td className={`num${v.quiz_rate > 0 ? ' good' : ''}`}>{v.quiz_rate}%</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                  <p className="note" style={{ marginTop: 10, marginBottom: 0 }}>
+                    Baseline before this shipped: <strong>5%</strong> of blog readers reached the quiz.
+                    Watch the combined rate first &mdash; that shows within days. The winning variant
+                    takes about three weeks.
+                  </p>
+                </section>
+              ) : null}
 
               <section className="panel">
                 <h2>From visit to payment</h2>

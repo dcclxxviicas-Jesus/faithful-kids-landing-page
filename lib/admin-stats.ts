@@ -194,6 +194,21 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
     FROM events WHERE event = '$pageview' AND ${W}
     GROUP BY 1 ORDER BY 2 DESC LIMIT 15`)
 
+  // Verse-CTA experiment: per-variant funnel. Shown -> clicked -> actually
+  // landed on /quiz, since a click that doesn't arrive is not a conversion.
+  const ctaExperiment = await hogql(`
+    SELECT
+      coalesce(properties.variant, 'unknown') AS variant,
+      count(DISTINCT if(event = 'verse_cta_shown', $session_id, NULL)) AS shown,
+      count(DISTINCT if(event = 'verse_cta_click', $session_id, NULL)) AS clicked,
+      count(DISTINCT if(event = 'verse_cta_click' AND $session_id IN (
+        SELECT $session_id FROM events
+        WHERE event = '$pageview' AND properties.$pathname = '/quiz' AND ${window}
+      ), $session_id, NULL)) AS reached_quiz
+    FROM events
+    WHERE ${W} AND event IN ('verse_cta_shown', 'verse_cta_click')
+    GROUP BY variant ORDER BY shown DESC`)
+
   const eventsBreakdown = await hogql(`
     SELECT event, count(), count(DISTINCT distinct_id)
     FROM events
@@ -222,6 +237,11 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
       subscription_canceled: s[11] || 0, payment_failed: s[12] || 0,
     },
     events_breakdown: (eventsBreakdown as [string, number, number][]).map((r) => ({ event: r[0], count: r[1], uniques: r[2] })),
+    cta_experiment: (ctaExperiment as [string, number, number, number][]).map((r) => ({
+      variant: r[0], shown: r[1], clicked: r[2], reached_quiz: r[3],
+      ctr: r[1] ? Math.round((r[2] / r[1]) * 1000) / 10 : 0,
+      quiz_rate: r[1] ? Math.round((r[3] / r[1]) * 1000) / 10 : 0,
+    })),
     top_pages: (topPages as [string, number, number][]).map((r) => ({ path: r[0], visitors: r[1], views: r[2] })),
     referrers: (referrers as [string, number][]).map((r) => ({ ref: r[0] || '$direct', visitors: r[1] })),
     ai_referrers: (aiReferrers as [string, number][]).map((r) => ({ ref: r[0], visitors: r[1] })),

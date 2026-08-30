@@ -92,6 +92,137 @@ body {
 }
 .btn-nav:hover { background: var(--primary-hover); }
 
+/* ===== HERO PROOF ROW + TRUST STRIP ===== */
+.hero-proof {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin-top: 18px;
+}
+.hero-proof .hero-rating { display: inline-flex; align-items: center; gap: 7px; margin: 0; }
+.hero-proof .rating-text { font-weight: 600; color: var(--text-secondary); font-size: 0.9rem; }
+
+.trust-strip {
+  background: var(--bg-warm);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+.trust-strip-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 18px 24px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px 40px;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+.trust-strip-inner strong { color: var(--text); font-weight: 700; }
+@media (max-width: 700px) {
+  .trust-strip-inner { gap: 8px 22px; font-size: 0.82rem; padding: 14px 16px; }
+}
+
+/* ===== PRICING ===== */
+.pricing-section {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 88px 24px;
+  text-align: center;
+}
+.plan-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  max-width: 780px;
+  margin: 40px auto 0;
+  align-items: start;
+}
+.plan-tile {
+  position: relative;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 32px 28px 28px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.plan-tile.featured {
+  border: 2px solid var(--primary);
+  box-shadow: 0 12px 32px rgba(5, 150, 105, 0.13);
+}
+.plan-flag {
+  position: absolute;
+  top: -13px; left: 28px;
+  background: var(--primary);
+  color: var(--white);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 5px 12px;
+  border-radius: 999px;
+}
+.plan-name {
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 0;
+}
+.plan-price { margin: 6px 0 0; display: flex; align-items: baseline; gap: 4px; }
+.plan-amount { font-size: 2.9rem; font-weight: 800; letter-spacing: -0.02em; color: var(--text); }
+.plan-per { font-size: 1rem; font-weight: 600; color: var(--text-muted); }
+.plan-billed { margin: 2px 0 0; font-size: 0.92rem; color: var(--text-secondary); font-weight: 500; }
+.plan-list-features { list-style: none; padding: 0; margin: 20px 0 24px; display: flex; flex-direction: column; gap: 10px; }
+.plan-list-features li {
+  position: relative;
+  padding-left: 26px;
+  font-size: 0.94rem;
+  color: var(--text-secondary);
+  line-height: 1.45;
+}
+.plan-list-features li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 6px;
+  width: 16px; height: 9px;
+  border-left: 2.5px solid var(--primary);
+  border-bottom: 2.5px solid var(--primary);
+  transform: rotate(-45deg);
+  border-radius: 1px;
+}
+.plan-cta {
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  margin-top: auto;
+}
+.btn-secondary {
+  padding: 14px 24px;
+  background: var(--white);
+  color: var(--text);
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: border-color var(--transition), background var(--transition);
+}
+.btn-secondary:hover { border-color: var(--primary); background: var(--primary-light); }
+.plan-fine { margin: 12px 0 0; font-size: 0.8rem; color: var(--text-muted); text-align: center; }
+.plan-guarantee { margin: 32px auto 0; font-size: 0.92rem; color: var(--text-secondary); max-width: 520px; }
+
+@media (max-width: 700px) {
+  .pricing-section { padding: 60px 16px; }
+  .plan-grid { grid-template-columns: 1fr; gap: 26px; margin-top: 34px; }
+  .plan-amount { font-size: 2.5rem; }
+}
+
 /* ===== MOBILE MENU =====
    The nav links are display:none under 768px; this is what stands in for them.
    Desktop is untouched — .nav-toggle and .nav-mobile only exist below 768px. */

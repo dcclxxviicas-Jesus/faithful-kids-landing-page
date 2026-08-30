@@ -41,17 +41,6 @@ const TESTIMONIALS = [
   },
 ]
 
-const MARQUEE_QUOTES = [
-  '"My kids actually ask for Bible stories now"',
-  '"Screen time guilt = gone"',
-  '"Better than any app we\'ve tried"',
-  '"My 5yo retold the whole story of Noah"',
-  '"Worth every single penny"',
-  '"The ad-free experience is priceless"',
-  '"Both my kids fight over who picks the story"',
-  '"I can\'t believe how much Scripture they know"',
-]
-
 const FAQS = [
   { q: 'What age is this for?', a: 'Our Bible story videos are designed for kids ages 5 and up. Younger kids (5-7) get shorter, simpler retellings with bright visuals. Older kids (8+) get deeper stories with more context and life lessons.' },
   { q: 'Is it really ad-free?', a: 'Yes. Zero ads, ever. No pre-rolls, no banners, no sponsored content. We make money from subscriptions, not from advertising to your children.' },
@@ -233,19 +222,18 @@ export default function Home() {
           <button className="btn-primary btn-hero" onClick={handleCTA}>
             Try Free for 3 Days
           </button>
-          <p className="hero-subtext">No commitment. Cancel anytime. 30-day money-back guarantee.</p>
+          <p className="hero-subtext">No commitment. Cancel anytime.</p>
 
-          <div className="hero-bullets">
-            <span><strong>DOCTRINALLY REVIEWED</strong> by real Christians</span>
-            <span><strong>ZERO ADS</strong> — subscription only</span>
-            <span><strong>30-DAY</strong> money-back guarantee</span>
+          {/* One proof row, not four stacked signals. The three trust bullets
+              moved to the strip below the hero, which also replaced the black
+              scrolling ticker. */}
+          <div className="hero-proof">
+            <span className="hero-rating">
+              <span className="stars">★★★★★</span>
+              <span className="rating-text">4.9/5</span>
+            </span>
+            <LiveCounter />
           </div>
-
-          <div className="hero-rating">
-            <span className="stars">★★★★★</span>
-            <span className="rating-text">4.9/5 from Christian families everywhere</span>
-          </div>
-          <LiveCounter />
         </div>
 
         <div className="hero-visual">
@@ -253,12 +241,16 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SCROLLING BANNER */}
-      <div className="marquee-banner">
-        <div className="marquee-track">
-          {[...MARQUEE_QUOTES, ...MARQUEE_QUOTES].map((q, i) => (
-            <span key={i} className="marquee-item">{q} <span className="marquee-star">★</span></span>
-          ))}
+      {/* TRUST STRIP — replaced a black scrolling ticker of testimonial
+          fragments: unreadable at speed and the harshest element on an
+          otherwise soft page. Absorbs the three bullets that used to crowd
+          the hero. */}
+      <div className="trust-strip">
+        <div className="trust-strip-inner">
+          <span><strong>200</strong> video lessons</span>
+          <span><strong>Genesis to Revelation</strong></span>
+          <span><strong>Doctrinally reviewed</strong> by real Christians</span>
+          <span><strong>Zero ads</strong>, ever</span>
         </div>
       </div>
 
@@ -319,13 +311,9 @@ export default function Home() {
       {/* VIDEO PREVIEW GRID */}
       <section className="preview-section">
         <h2>Preview more stories</h2>
-        <p className="section-sub">Hover to preview. Every video is 60-90 seconds of faithful, age-appropriate Bible storytelling.</p>
+        <p className="section-sub">Every video is 60&ndash;90 seconds of faithful, age-appropriate Bible storytelling.</p>
         <div className="preview-grid">
-          {[
-            { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4', title: 'An Angel Visits Mary', series: 'Birth of Jesus', age: 'Ages 5+' },
-            { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4', title: 'In the Beginning: Creation', series: 'Genesis', age: 'Ages 5+' },
-            { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4', title: 'Noah & the Great Flood', series: 'Genesis', age: 'Ages 5+' },
-          ].map((v) => (
+          {STORIES.map((v) => (
             <PreviewCard key={v.src} {...v} />
           ))}
         </div>
@@ -355,15 +343,6 @@ export default function Home() {
         </div>
         <button className="btn-primary" onClick={handleCTA}>Join These Families</button>
       </section>
-
-      {/* QUOTE MARQUEE */}
-      <div className="marquee-banner gold">
-        <div className="marquee-track">
-          {[...MARQUEE_QUOTES, ...MARQUEE_QUOTES].map((q, i) => (
-            <span key={i} className="marquee-item">{q} <span className="marquee-star">★</span></span>
-          ))}
-        </div>
-      </div>
 
       {/* CURRICULUM */}
       <CurriculumSection />
@@ -421,7 +400,7 @@ export default function Home() {
       </section>
 
       {/* COMPARISON TABLE */}
-      <section className="compare-section" id="pricing">
+      <section className="compare-section">
         <h2>How we compare</h2>
         <p className="section-sub">There's a reason thousands of Christian parents switched.</p>
         <div className="compare-table-wrap">
@@ -455,6 +434,55 @@ export default function Home() {
             </tbody>
           </table>
         </div>
+      </section>
+
+
+      {/* PRICING — the page had no pricing section at all. The only figures a
+          reader could find were $6.48/mo inside a comparison table cell and
+          "$8/month" inside a testimonial: two different numbers, neither
+          anywhere a buyer would look. Figures below are the live Stripe
+          amounts from app/api/checkout/route.ts. */}
+      <section className="pricing-section" id="pricing">
+        <span className="section-label">PRICING</span>
+        <h2>One price. Every story. Every kid in the house.</h2>
+        <p className="section-sub">No per-child fees, no upsells, no ads. Cancel in two taps.</p>
+
+        <div className="plan-grid">
+          <div className="plan-tile featured">
+            <span className="plan-flag">Most families choose this</span>
+            <h3 className="plan-name">Annual</h3>
+            <p className="plan-price"><span className="plan-amount">$6.48</span><span className="plan-per">/month</span></p>
+            <p className="plan-billed">$77.77 billed yearly &middot; save ~$30</p>
+            <ul className="plan-list-features">
+              <li>Start with 3 days free</li>
+              <li>All 200 lessons, Genesis to Revelation</li>
+              <li>Up to 5 kid profiles</li>
+              <li>Quiz and reflection after every story</li>
+            </ul>
+            <a href="/checkout" className="btn-primary plan-cta" onClick={() => handlePricingClick('annual', '77.77')}>
+              Start 3 days free
+            </a>
+            <p className="plan-fine">Then $77.77/year. Cancel anytime.</p>
+          </div>
+
+          <div className="plan-tile">
+            <h3 className="plan-name">Monthly</h3>
+            <p className="plan-price"><span className="plan-amount">$8.88</span><span className="plan-per">/month</span></p>
+            <p className="plan-billed">Billed monthly</p>
+            <ul className="plan-list-features">
+              <li>All 200 lessons, Genesis to Revelation</li>
+              <li>Up to 5 kid profiles</li>
+              <li>Quiz and reflection after every story</li>
+              <li>No trial on monthly</li>
+            </ul>
+            <a href="/checkout" className="btn-secondary plan-cta" onClick={() => handlePricingClick('monthly', '8.88')}>
+              Choose monthly
+            </a>
+            <p className="plan-fine">Cancel anytime.</p>
+          </div>
+        </div>
+
+        <p className="plan-guarantee">30-day money-back guarantee &mdash; if your kids don&apos;t love it, we refund you.</p>
       </section>
 
       {/* MONEY BACK GUARANTEE */}
@@ -561,10 +589,18 @@ export default function Home() {
   )
 }
 
-function PreviewCard({ src, title, series, age }: { src: string; title: string; series: string; age: string }) {
+function PreviewCard({ src, poster, title, series, age }: { src: string; poster: string; title: string; series: string; age: string }) {
   const [playing, setPlaying] = useState(false)
   const [muted, setMuted] = useState(true)
+  const [canHover, setCanHover] = useState(true)
   const vidRef = useRef<HTMLVideoElement>(null)
+
+  // Touch devices have no hover, so "Hover to preview" was an instruction
+  // roughly half the audience could not follow. Decide in an effect, not during
+  // render, so the server and client agree.
+  useEffect(() => {
+    setCanHover(window.matchMedia('(hover: hover)').matches)
+  }, [])
 
   function handlePlay() {
     if (vidRef.current) {
@@ -596,11 +632,30 @@ function PreviewCard({ src, title, series, age }: { src: string; title: string; 
     }
   }
 
+  // On touch, tapping the card is what starts and stops it.
+  function handleTap() {
+    if (canHover) return
+    if (playing) handleStop()
+    else {
+      handlePlay()
+      posthog.capture('preview_tapped', { title })
+    }
+  }
+
   return (
-    <div className="preview-card" onMouseEnter={handlePlay} onMouseLeave={handleStop}>
+    <div
+      className="preview-card"
+      onMouseEnter={canHover ? handlePlay : undefined}
+      onMouseLeave={canHover ? handleStop : undefined}
+      onClick={handleTap}
+    >
       <div className="preview-video-wrap">
-        <video ref={vidRef} src={src} muted loop playsInline preload="none" />
-        {!playing && <div className="preview-play-hint">▶ Hover to preview</div>}
+        <video ref={vidRef} src={src} poster={poster} muted loop playsInline preload="none" />
+        {!playing && (
+          <div className="preview-play-hint">
+            {canHover ? '\u25B6 Hover to preview' : '\u25B6 Tap to play'}
+          </div>
+        )}
         {playing && (
           <button className="preview-mute-btn" onClick={toggleMute} aria-label={muted ? 'Unmute video' : 'Mute video'}>
             {muted ? '🔇' : '🔊'}
@@ -616,11 +671,31 @@ function PreviewCard({ src, title, series, age }: { src: string; title: string; 
   )
 }
 
-const PHONE_VIDEOS = [
-  { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4', title: 'An Angel Visits Mary', badge: 'Birth of Jesus' },
-  { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4', title: 'In the Beginning: Creation', badge: 'Genesis' },
-  { src: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4', title: 'Noah & the Great Flood', badge: 'Genesis' },
+// Posters are real frames pulled from each lesson, chosen for brightness and
+// detail rather than taken at t=0 (Creation opens on darkness, so its first
+// second is a black rectangle). Without these every video on the page painted
+// black until tapped -- and four of them preload="none", so on a phone the
+// preview grid was three black boxes.
+const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
+const STORIES = [
+  {
+    src: `${CDN}/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4`,
+    poster: `${CDN}/video-posters/an-angel-visits-mary.webp`,
+    title: 'An Angel Visits Mary', badge: 'Birth of Jesus', series: 'Birth of Jesus', age: 'Ages 5+',
+  },
+  {
+    src: `${CDN}/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4`,
+    poster: `${CDN}/video-posters/in-the-beginning-creation.webp`,
+    title: 'In the Beginning: Creation', badge: 'Genesis', series: 'Genesis', age: 'Ages 5+',
+  },
+  {
+    src: `${CDN}/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4`,
+    poster: `${CDN}/video-posters/noah-and-the-great-flood.webp`,
+    title: 'Noah & the Great Flood', badge: 'Genesis', series: 'Genesis', age: 'Ages 5+',
+  },
 ]
+
+const PHONE_VIDEOS = STORIES
 
 function PhoneMockup() {
   const [current, setCurrent] = useState(0)
@@ -672,6 +747,7 @@ function PhoneMockup() {
           loop
           playsInline
           preload="metadata"
+          poster={v.poster}
           className="phone-video"
           // @ts-expect-error -- fetchPriority is valid HTML but not in React types yet
           fetchpriority="high"
@@ -759,7 +835,8 @@ function FullStoryPlayer() {
       <div className="fullstory-video-wrap">
         <video
           ref={videoRef}
-          src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
+          src={STORIES[0].src}
+          poster={STORIES[0].poster}
           autoPlay
           muted={muted}
           playsInline
@@ -932,7 +1009,7 @@ function ExitIntent() {
         <h2>Before you go, watch this.</h2>
         <p>60 seconds. One Bible story. See if it is good enough for your kids.</p>
         <div className="exit-video-wrap">
-          <video src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4" controls autoPlay muted playsInline preload="none" className="exit-video" />
+          <video src={STORIES[0].src} poster={STORIES[0].poster} controls autoPlay muted playsInline preload="none" className="exit-video" />
         </div>
         <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/checkout' }}>
           Try Free for 3 Days

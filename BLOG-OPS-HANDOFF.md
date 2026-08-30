@@ -381,6 +381,23 @@ whole-Bible general quiz and anchors to the directory. ItemList schema
 added. Hub went ~25 → 91 internal links out. Game stays on top (artifact
 first, browse after — the printables CTA-placement doctrine).
 
+**Aug 29 — Verse CTA experiment LIVE (commit `d8f39f5`; do not touch the
+variables):** scripture pull-quote CTA on every blog post targeting the
+funnel's 95% blog→/quiz leak (2,511 of 2,633 visitors lost at that step).
+Three NIV verse arms (mark_10_14 / psalm_78_4 / deut_6_6) assigned randomly
+per reader and persisted (`fk_verse_cta_variant`); supporting copy, button
+("Start your kids' Bible journey →" → /quiz), and placement are CONSTANT for
+the life of the test — one variable only. Placement: after the first H2
+section on guides (`splitAfterFirstSection`), directly under the game on
+trivia posts, first-section-of-body on story posts. Events
+`verse_cta_shown` (IntersectionObserver, 50% viewport, once) and
+`verse_cta_click`, properties `{variant, post}` — the /cas-admin "Verse CTA
+experiment" panel (analytics session, commit `56b110a`) reads them.
+Baseline to beat: 5% of blog readers reach /quiz. Per-variant verdict needs
+~1,000 impressions/arm (~3 weeks); analytics session watches and reports.
+Component: `app/blog/VerseCta.tsx` (client-mounted, no SSR — bot pageviews
+never count as impressions).
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

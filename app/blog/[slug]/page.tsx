@@ -17,6 +17,7 @@ import { BlogStickyCta } from '../BlogStickyCta'
 import { BlogExitIntent } from '../BlogExitIntent'
 import { EmailCaptureCard } from '../EmailCaptureCard'
 import { StoryLesson } from '../StoryLesson'
+import { VerseCta } from '../VerseCta'
 import storyQuizzes from '@/lib/story-quizzes.json'
 import storyDurations from '@/lib/story-durations.json'
 import triviaVideos from '@/lib/trivia-videos.json'
@@ -209,6 +210,7 @@ export default async function BlogPostPage({ params }: Props) {
     slug.split('').reduce((a, c) => a + c.charCodeAt(0), 0) % samplerPool.length
   ]
   const introParts = splitIntro(contentParts.first)
+  const firstSplit = splitAfterFirstSection(contentParts.first)
 
   // Exit-intent popup: context-aware variant (drives which free printable
   // it offers). No video -- the popup's job is one low-friction ask.
@@ -350,16 +352,29 @@ const hasTriviaGame = triviaQuestions.length >= 10
               posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
               {...getTriviaVideo(post.slug)}
             />
+            {/* Verse CTA sits right after the game — a full 10-question round
+                is the "value first" for trivia pages. */}
+            <VerseCta postSlug={post.slug} />
             <div
               className="blog-article-body"
               dangerouslySetInnerHTML={{ __html: introParts.rest }}
             />
           </>
         ) : (
-          <div
-            className="blog-article-body"
-            dangerouslySetInnerHTML={{ __html: contentParts.first }}
-          />
+          <>
+            <div
+              className="blog-article-body"
+              dangerouslySetInnerHTML={{ __html: firstSplit.a }}
+            />
+            {/* Verse CTA after the first h2 section — high, but after value. */}
+            <VerseCta postSlug={post.slug} />
+            {firstSplit.b && (
+              <div
+                className="blog-article-body"
+                dangerouslySetInnerHTML={{ __html: firstSplit.b }}
+              />
+            )}
+          </>
         )}
 
         {/* Inline image 1 — after first content section */}
@@ -573,6 +588,21 @@ function getTriviaVideo(slug: string): { videoSrc: string; videoTitle: string } 
  * engaging thing on the page, sat below fifty questions of plain text where
  * nobody scrolled to find it.
  */
+/**
+ * Cut after the first h2 SECTION (at the second h2 marker) for the verse CTA:
+ * high enough that the 81% who never reach the end still see it, but only
+ * after the first section has delivered value. Fewer than two h2s → the CTA
+ * falls after the whole chunk instead.
+ */
+function splitAfterFirstSection(html: string): { a: string; b: string } {
+  const positions: number[] = []
+  const re = /<h2>/g
+  let m
+  while ((m = re.exec(html)) !== null) positions.push(m.index)
+  if (positions.length < 2) return { a: html, b: '' }
+  return { a: html.slice(0, positions[1]), b: html.slice(positions[1]) }
+}
+
 function splitIntro(html: string): { intro: string; rest: string } {
   const i = html.indexOf('<h2>')
   if (i === -1) return { intro: html, rest: '' }

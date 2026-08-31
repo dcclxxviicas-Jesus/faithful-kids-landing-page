@@ -145,7 +145,7 @@ no AI Overview squatting on it.
   AI crawlers — counts derived at build), `/churches`.
 - **Interactive components** (all mirror the app's Duolingo design tokens —
   `--duo-green #16a34a`, 16px radius, `0 4px 0` shadow): `StoryLesson.tsx`
-  (200 story posts: video → 3-question quiz → offer), `TriviaGame.tsx`
+  (200 story posts: video → video-end offer; quiz removed Aug 29), `TriviaGame.tsx`
   (auto-appears on posts with 10+ extractable Q&As, renders directly under
   the intro), `WordSearchGame.tsx` (tap-ends or drag selection),
   `PrintableCta.tsx` (scene-matched episode video via
@@ -397,6 +397,22 @@ Baseline to beat: 5% of blog readers reach /quiz. Per-variant verdict needs
 ~1,000 impressions/arm (~3 weeks); analytics session watches and reports.
 Component: `app/blog/VerseCta.tsx` (client-mounted, no SSR — bot pageviews
 never count as impressions).
+
+**Aug 29 (later) — verse CTA v2 + StoryLesson restructure (owner-approved,
+shipped before any verse_cta events fired, so the experiment baseline is one
+configuration; commit `5185b20`):** verse CTA button → "Start their Bible
+journey", supporting copy halved to one sentence; sticky bar now SUPPRESSES
+while the verse CTA is on screen (CustomEvent `fk-verse-cta-visibility` from
+the verse CTA's observer; suppressed not removed — `blog_sticky_click`
+prices the handoff). StoryLesson: the 3-question quiz is GONE from all ~200
+story posts — and the "27 opened → 5 answered" cliff that prompted it was a
+measurement artifact: the quiz AUTO-OPENED on every video completion, so
+`story_lesson_quiz_start` counted completions, not intent (real engagement
+~5/55; historical quiz_start data = video-completion proxy). Video end now
+renders the offer at peak intent ("Watch more stories like this →" →
+/quiz?ref=story-video-end; events `story_lesson_offer_shown/click`
+{slug, placement}). Copy says "300+ videos" (not the spec's "200") per the
+count-unification rule.
 
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.

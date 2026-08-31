@@ -124,6 +124,36 @@ body {
   .trust-strip-inner { gap: 8px 22px; font-size: 0.82rem; padding: 14px 16px; }
 }
 
+/* Feature list folded into How it works, replacing a standalone 8-item grid. */
+.how-extras {
+  list-style: none;
+  padding: 0;
+  margin: 34px auto 0;
+  max-width: 720px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px 32px;
+  text-align: left;
+}
+.how-extras li {
+  position: relative;
+  padding-left: 24px;
+  font-size: 0.94rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+.how-extras li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 7px;
+  width: 14px; height: 8px;
+  border-left: 2.5px solid var(--primary);
+  border-bottom: 2.5px solid var(--primary);
+  transform: rotate(-45deg);
+}
+.how-extras strong { color: var(--text); font-weight: 700; }
+@media (max-width: 700px) { .how-extras { grid-template-columns: 1fr; gap: 10px; } }
+
 /* ===== PRICING ===== */
 .pricing-section {
   max-width: var(--max-width);

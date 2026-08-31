@@ -300,20 +300,17 @@ export default function Home() {
         </div>
       </section>
 
-      {/* WATCH A FULL STORY */}
+      {/* SEE IT — was two sections ("Watch a full story" + "Preview more
+          stories") making the same argument back to back with two headings and
+          two CTAs. One section, one heading, one CTA. */}
       <section className="fullstory-section">
         <span className="section-label">SEE FOR YOURSELF</span>
         <h2>Watch a full story right now</h2>
         <p className="section-sub">This is exactly what your child will see. No signup needed. Just press play.</p>
         <FullStoryPlayer />
-      </section>
 
-      {/* VIDEO PREVIEW GRID */}
-      <section className="preview-section">
-        <h2>Preview more stories</h2>
-        <p className="section-sub">Every video is 60&ndash;90 seconds of faithful, age-appropriate Bible storytelling.</p>
         <div className="preview-grid">
-          {STORIES.map((v) => (
+          {STORIES.slice(1).map((v) => (
             <PreviewCard key={v.src} {...v} />
           ))}
         </div>
@@ -357,22 +354,17 @@ export default function Home() {
           <div className="step-card"><div className="step-num">3</div><h3>Watch & Learn</h3><p>Kids swipe through short Bible stories. Every video teaches Scripture.</p></div>
           <div className="step-card"><div className="step-num">4</div><h3>Stay in Control</h3><p>Set screen time limits, check what they watched, and lock it all with a password.</p></div>
         </div>
-      </section>
 
-      {/* FEATURES GRID */}
-      <section className="features-section" id="features">
-        <h2>Everything parents need. Everything kids love.</h2>
-        <p className="section-sub">Built from the ground up for Christian families.</p>
-        <div className="features-grid">
-          <div className="feature-item"><div className="feature-icon">📖</div><h3>Faithful to Scripture</h3><p>Every story stays true to the Bible. Reviewed for doctrinal accuracy.</p></div>
-          <div className="feature-item"><div className="feature-icon">🔒</div><h3>COPPA Compliant</h3><p>Fully compliant with children's privacy laws. Your family's data is safe.</p></div>
-          <div className="feature-item"><div className="feature-icon">🚫</div><h3>Zero Ads</h3><p>No banners, no pre-rolls, no sponsored content. Ever.</p></div>
-          <div className="feature-item"><div className="feature-icon">👁️</div><h3>Human Reviewed</h3><p>Every video reviewed by real people before it goes live. No surprises.</p></div>
-          <div className="feature-item"><div className="feature-icon">⏱️</div><h3>Screen Time Limits</h3><p>Set daily limits per child. When time is up, the app gently pauses.</p></div>
-          <div className="feature-item"><div className="feature-icon">🎂</div><h3>Age-Matched</h3><p>Set your child's age and get stories tailored to their level.</p></div>
-          <div className="feature-item"><div className="feature-icon">📱</div><h3>Works Everywhere</h3><p>Runs in the browser on iPhone, iPad, Android, and laptops. Nothing to install.</p></div>
-          <div className="feature-item"><div className="feature-icon">📊</div><h3>Parent Dashboard</h3><p>See what your child watches, which stories they love, and how much time they spend.</p></div>
-        </div>
+        {/* Absorbed from a standalone eight-item features grid. Four of those
+            eight repeated the trust strip or the privacy section below
+            (zero ads, COPPA, doctrinally reviewed, human reviewed); these are
+            the four that said something new. */}
+        <ul className="how-extras">
+          <li><strong>Age-matched</strong> — set your child&rsquo;s age, get stories at their level</li>
+          <li><strong>Screen time limits</strong> — per child, and the app pauses gently</li>
+          <li><strong>Parent dashboard</strong> — what they watched and for how long</li>
+          <li><strong>Works everywhere</strong> — iPhone, iPad, Android, laptop. Nothing to install</li>
+        </ul>
       </section>
 
       {/* PRICING — the page had no pricing section at all. The only figures a
@@ -825,8 +817,8 @@ function CurriculumSection() {
         <span className="section-label">THE FULL CURRICULUM</span>
         <h2>The entire Bible, one story at a time</h2>
         <div className="curr-hero-stat">
-          <span className="curr-hero-num">400+</span>
-          <span className="curr-hero-label">lessons, quizzes, and activities across 31 series</span>
+          <span className="curr-hero-num">300+</span>
+          <span className="curr-hero-label">lessons across 31 series, each with a quiz and a reflection</span>
         </div>
       </div>
 
@@ -849,19 +841,7 @@ function CurriculumSection() {
         ))}
       </div>
 
-      {/* All series ticker */}
-      <div className="curr-all-series">
-        <p className="curr-all-label">All 31 series included:</p>
-        <div className="curr-ticker">
-          <div className="curr-ticker-track">
-            {[...CURRICULUM, ...CURRICULUM].map((s, i) => (
-              <span key={i} className="curr-ticker-item">
-                {s.icon} {s.name}
-              </span>
-            ))}
-          </div>
-        </div>
-      </div>
+      <p className="curr-all-label">All 31 series included, Genesis to Revelation.</p>
     </section>
   )
 }

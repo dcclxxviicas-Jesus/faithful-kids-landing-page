@@ -190,7 +190,7 @@ export default function Home() {
           answer the sceptical parent before they scroll. */}
       <section className="hero hero-center" aria-label="Hero">
         <div className="hero-content">
-          <h1>The <span className="highlight">Bible app for kids</span>.<br />A <span className="highlight">Christian alternative to YouTube</span>.</h1>
+          <h1>The <span className="highlight">Bible app for kids</span>.<br />A Christian alternative to YouTube.</h1>
           <p className="subtitle">
             300+ short Bible story videos. Genesis to Revelation. No ads, ever.
           </p>
@@ -203,7 +203,6 @@ export default function Home() {
           <div className="hero-badges">
             <span className="hero-badge"><i>★</i> 4.9/5 from Christian families</span>
             <span className="hero-badge"><i>✓</i> Doctrinally reviewed</span>
-            <span className="hero-badge"><i>✓</i> COPPA compliant</span>
             <span className="hero-badge"><i>✓</i> Zero ads, ever</span>
           </div>
         </div>

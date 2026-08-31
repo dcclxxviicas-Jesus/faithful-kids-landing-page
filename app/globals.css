@@ -314,7 +314,7 @@ body {
    than a control. This sits bottom-centre, where a player's controls belong. */
 .phone-sound-btn {
   position: absolute;
-  bottom: 14px;
+  bottom: 12px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 4;
@@ -844,10 +844,12 @@ body {
 }
 .phone-overlay {
   position: absolute;
-  bottom: 0;
+  /* Clears the sound button, which sits bottom-centre. Previously the title
+     rendered directly behind it and was unreadable. */
+  bottom: 62px;
   left: 0;
   right: 0;
-  padding: 16px 14px;
+  padding: 16px 14px 0;
   background: linear-gradient(transparent, rgba(0,0,0,0.65));
   color: white;
   display: flex;

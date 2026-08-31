@@ -5,9 +5,14 @@
  *
  * The funnel loses 95% of visitors between reading a post and reaching /quiz;
  * the end-of-post CTAs are invisible to the 81% who bounce first. This sits
- * high (after the first H2 section — value first) and is styled as a
- * pull-quote, not an ad unit, because the posts already format verses this
- * way and content outperforms interruptions.
+ * high, after the first H2 section — value first.
+ *
+ * RESTYLED Aug 31 2026 (owner call). It was originally a pull-quote on the
+ * theory that content outperforms interruptions; in practice it read as part
+ * of the article and people scrolled past it. It is now a distinct card with
+ * its own ground, an eyebrow and a lesson still, so it reads as an offer.
+ * The prior styling had 57 impressions and 2 clicks — far from significance —
+ * so the arm data is not worth preserving. Treat Aug 31 as the new baseline.
  *
  * Experiment contract (the /cas-admin "Verse CTA experiment" panel reads
  * these exactly — do not rename properties or variant keys):
@@ -94,24 +99,33 @@ export function VerseCta({ postSlug }: { postSlug: string }) {
   const v = VARIANTS[variant]
 
   return (
-    <div ref={ref} className="verse-cta" style={{ margin: '40px auto', maxWidth: 640, padding: '4px 0 4px 22px', borderLeft: '4px solid #059669' }}>
-      <p style={{ fontSize: '1.28rem', lineHeight: 1.55, fontStyle: 'italic', color: '#1f2937', margin: 0, fontFamily: 'Georgia, "Times New Roman", serif' }}>
-        &ldquo;{v.text}&rdquo;
-      </p>
-      <p style={{ margin: '10px 0 0', fontWeight: 700, color: '#059669', fontSize: '0.95rem', letterSpacing: '0.02em' }}>
-        — {v.ref}
-      </p>
-      <p style={{ margin: '18px 0 0', color: '#4b5563', fontSize: '1rem', lineHeight: 1.6 }}>
-        Bible time with your kids has never been easier: a three-minute story narrated by Jesus,
-        then a few questions to talk about together.
-      </p>
-      <a
-        href="/quiz"
-        onClick={() => { try { posthog.capture('verse_cta_click', { variant, post: postSlug }) } catch { /* never break the page */ } }}
-        style={{ display: 'inline-block', marginTop: 16, background: '#059669', color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: '0 4px 0 #047857' }}
-      >
-        Start your kids&apos; Bible journey &rarr;
-      </a>
-    </div>
+    <aside ref={ref} className="verse-cta" aria-label="Try Faithful Kids">
+      <div className="verse-cta-body">
+        <span className="verse-cta-eyebrow">From Faithful Kids</span>
+        <p className="verse-cta-verse">&ldquo;{v.text}&rdquo;</p>
+        <p className="verse-cta-ref">&mdash; {v.ref}</p>
+        <p className="verse-cta-pitch">
+          Bible time with your kids, made easy: a two-minute story narrated by Jesus,
+          then a few questions to talk about together.
+        </p>
+        <a
+          href="/quiz"
+          className="verse-cta-btn"
+          onClick={() => { try { posthog.capture('verse_cta_click', { variant, post: postSlug }) } catch { /* never break the page */ } }}
+        >
+          Start your kids&apos; Bible journey &rarr;
+        </a>
+        <span className="verse-cta-fine">3 days free &middot; no ads, ever</span>
+      </div>
+
+      <img
+        className="verse-cta-art"
+        src="https://d3g07v1w0lehiv.cloudfront.net/video-posters/an-angel-visits-mary.webp"
+        alt="A still from the Faithful Kids lesson An Angel Visits Mary"
+        width={720}
+        height={405}
+        loading="lazy"
+      />
+    </aside>
   )
 }

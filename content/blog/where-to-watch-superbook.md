@@ -57,7 +57,7 @@ But if your goal is specifically "my kids should watch Bible stories," Superbook
 
 We would rather be straight about this: if free Bible video is what you want, Superbook is excellent and you should use it.
 
-[Faithful Kids](/) does a different job. It is 300+ **short** lessons — 60–90 seconds each, not 25 minutes — running Genesis to Revelation in order, with a comprehension quiz and a reflection after every one. The point is not more Bible video; it is a structured path with a way of checking what landed.
+[Faithful Kids](/) does a different job. It is 300+ **short** lessons — about two minutes each, not 25 — running Genesis to Revelation in order, with a comprehension quiz and a reflection after every one. The point is not more Bible video; it is a structured path with a way of checking what landed.
 
 That matters most for families using it as teaching rather than watching — homeschoolers especially, which is why we built a [homeschool page](/homeschool) for it. It runs $6.48/month billed yearly with a 3-day trial.
 

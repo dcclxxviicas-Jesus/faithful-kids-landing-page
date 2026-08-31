@@ -108,7 +108,7 @@ export default async function SeriesPage({ params }: Props) {
           {posts.length} episodes &middot; Bible stories explained simply for kids ages 5+
         </p>
         <p className="series-description">
-          Explore every story in the {seriesName} series. Each episode includes a 60-second
+          Explore every story in the {seriesName} series. Each episode includes a roughly two-minute
           narrated video, a comprehension quiz, and discussion questions for families.
         </p>
       </section>
@@ -150,7 +150,7 @@ export default async function SeriesPage({ params }: Props) {
         <div className="blog-bottom-cta-inner">
           <h2>Watch the {seriesName} Series</h2>
           <p>
-            All {posts.length} episodes available as 60-second narrated video lessons with
+            All {posts.length} episodes available as roughly two-minute narrated video lessons with
             comprehension quizzes. Part of {totalPosts}+ Bible stories on Faithful Kids.
           </p>
           <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>

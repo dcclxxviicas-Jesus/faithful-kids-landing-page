@@ -91,7 +91,7 @@ export function buildEmail(lead: Lead, stage: number): { subject: string; html: 
 ${button(magnetUrl, `Open the ${m.shortName} →`)}
 <p style="color:#6b7280;font-size:13px;">Tip: print it — ${lead.magnet === 'bedtime-kit' ? 'paper works better than a glowing screen at bedtime' : 'it works better where everyone can see it'}.</p>
 ${lead.source === 'quiz-exit' ? quizRecap(lead) : ''}
-<p style="margin-top:20px;">P.S. Every story in it exists as a 60-second video lesson narrated by Jesus, with a quiz after — that's what we make. <a href="${quizUrl}" style="color:#059669;font-weight:700;">Try it free for 3 days</a> whenever you're curious.</p>`),
+<p style="margin-top:20px;">P.S. Every story in it exists as a roughly two-minute video lesson narrated by Jesus, with a quiz after — that's what we make. <a href="${quizUrl}" style="color:#059669;font-weight:700;">Try it free for 3 days</a> whenever you're curious.</p>`),
       }
     case 2:
       return {

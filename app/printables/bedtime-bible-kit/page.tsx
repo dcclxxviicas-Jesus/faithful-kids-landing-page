@@ -282,7 +282,7 @@ export default function BedtimeBibleKitPrintable() {
           Night 8 and beyond…
         </h2>
         <p style={{ margin: 0, fontSize: '0.92rem', lineHeight: 1.6, color: '#1f2937' }}>
-          There are 200 more stories — each with a 60-second video narrated by Jesus and a quiz —
+          There are 200 more stories — each with a roughly two-minute video narrated by Jesus and a quiz —
           at <strong style={{ color: EMERALD }}>faithfulkids.app</strong>. Free for 3 days.
         </p>
       </section>

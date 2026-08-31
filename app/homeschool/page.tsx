@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../components/SiteChrome'
+import { LessonSamples } from '../components/LessonSamples'
 
 export const metadata: Metadata = {
   // The root layout appends ' | Faithful Kids' (16 chars), so this has to stay
@@ -33,7 +34,7 @@ const FAQS = [
   },
   {
     q: 'How long does a lesson take?',
-    a: 'Each video runs 60-90 seconds, and the quiz and reflection add a few minutes. A typical sitting is 5-10 minutes for one child, which is why it works as a morning-basket item rather than a whole subject block.',
+    a: 'Each video runs about two minutes, and the quiz and reflection add a few more. A typical sitting is 5-10 minutes for one child, which is why it works as a morning-basket item rather than a whole subject block.',
   },
   {
     q: 'Do I need to prepare anything?',
@@ -167,6 +168,22 @@ export default function Homeschool() {
           </div>
         </section>
 
+        {/* Real lessons, playable. A parent will not buy a video curriculum
+            without watching one. */}
+        <section className="fullstory-section">
+          <span className="section-label">SEE THE LESSONS</span>
+          <h2>Watch three real lessons right now</h2>
+          <p className="section-sub">
+            No signup, no email. This is exactly what your child sees.
+          </p>
+          <LessonSamples />
+          <p className="section-sub library-note">
+            Every lesson in the curriculum looks like this &mdash; 60&ndash;90 seconds,
+            narrated and illustrated, followed by a comprehension quiz and one reflection
+            question. There are 300+ of them, in order.
+          </p>
+        </section>
+
         {/* How a day looks */}
         <section className="how-section">
           <span className="section-label">In Practice</span>
@@ -178,7 +195,7 @@ export default function Homeschool() {
             <div className="step-card">
               <div className="step-num">1</div>
               <h3>Watch</h3>
-              <p>One 60&ndash;90 second story, narrated and illustrated, matched to your child&rsquo;s age.</p>
+              <p>One roughly two-minute story, narrated and illustrated, matched to your child&rsquo;s age.</p>
             </div>
             <div className="step-card">
               <div className="step-num">2</div>

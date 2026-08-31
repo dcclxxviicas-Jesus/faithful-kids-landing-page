@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react'
 import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
+import { STORIES } from '@/app/components/stories'
 import posthog from 'posthog-js'
 import { useTimer } from './use-timer'
 import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
@@ -368,25 +369,6 @@ export default function Home() {
     </>
   )
 }
-
-const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
-const STORIES = [
-  {
-    src: `${CDN}/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4`,
-    poster: `${CDN}/video-posters/an-angel-visits-mary.webp`,
-    title: 'An Angel Visits Mary', badge: 'Birth of Jesus', series: 'Birth of Jesus', age: 'Ages 5+',
-  },
-  {
-    src: `${CDN}/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4`,
-    poster: `${CDN}/video-posters/in-the-beginning-creation.webp`,
-    title: 'In the Beginning: Creation', badge: 'Genesis', series: 'Genesis', age: 'Ages 5+',
-  },
-  {
-    src: `${CDN}/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4`,
-    poster: `${CDN}/video-posters/noah-and-the-great-flood.webp`,
-    title: 'Noah & the Great Flood', badge: 'Genesis', series: 'Genesis', age: 'Ages 5+',
-  },
-]
 
 function PhoneMockup() {
   const [muted, setMuted] = useState(true)

@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect } from 'react'
 import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
 import { STORIES } from '@/app/components/stories'
+import { VideoTile } from '@/app/components/VideoTile'
 import posthog from 'posthog-js'
 import { createPortal } from 'react-dom'
 import { useTimer } from './use-timer'
@@ -375,103 +376,17 @@ export default function Home() {
 }
 
 function PhoneMockup() {
-  const [open, setOpen] = useState(false)
-  const [mounted, setMounted] = useState(false)
-  const videoRef = useRef<HTMLVideoElement>(null)
-
-  // One story, not a carousel. The three videos in STORIES each already
-  // appeared more than once on the page, and dots and arrows invite browsing
-  // at the moment we want a single action.
   const v = STORIES[0]
-
-  useEffect(() => setMounted(true), [])
-
-  // The tile is an ambient, muted preview. Pressing the button is the real
-  // watch: full size, with sound, from the beginning — which is a better
-  // first viewing than unmuting a loop already halfway through.
-  function openPlayer() {
-    videoRef.current?.pause()
-    setOpen(true)
-    posthog.capture('hero_video_unmuted', { title: v.title })
-    posthog.capture('hero_video_expanded', { title: v.title })
-  }
-
-  function closePlayer() {
-    setOpen(false)
-    videoRef.current?.play().catch(() => { /* autoplay policy — fine */ })
-  }
-
-  useEffect(() => {
-    if (!open) return
-    const prev = document.body.style.overflow
-    document.body.style.overflow = 'hidden'
-    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') closePlayer() }
-    window.addEventListener('keydown', onKey)
-    return () => {
-      document.body.style.overflow = prev
-      window.removeEventListener('keydown', onKey)
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [open])
-
   return (
     <div className="phone-mockup">
-      <div className="phone-screen">
-        <video
-          ref={videoRef}
-          src={v.src}
-          autoPlay
-          muted
-          loop
-          playsInline
-          preload="metadata"
-          poster={v.poster}
-          className="phone-video"
-          // @ts-expect-error -- fetchPriority is valid HTML but not in React types yet
-          fetchpriority="high"
-        />
-
-        {/* Top-left, out of the sound button's way. Sitting at the bottom put
-            the title directly behind the control. */}
-        <div className="phone-overlay">
-          <span className="phone-title">{v.title}</span>
-          <span className="phone-badge">{v.badge}</span>
-        </div>
-
-        <button className="phone-sound-btn" onClick={openPlayer}>
-          {'\u{1F50A}'} Unmute and watch
-        </button>
-      </div>
-
-      {mounted && open && createPortal(
-        <div className="vid-modal" role="dialog" aria-modal="true" aria-label={v.title}>
-          <button className="vid-modal-scrim" aria-label="Close video" onClick={closePlayer} />
-          <div className="vid-modal-inner">
-            <button className="vid-modal-close" onClick={closePlayer} aria-label="Close video">&times;</button>
-            <video
-              src={v.src}
-              poster={v.poster}
-              autoPlay
-              controls
-              playsInline
-              className="vid-modal-video"
-            />
-            <div className="vid-modal-meta">
-              <span className="vid-modal-series">{v.series}</span>
-              <strong>{v.title}</strong>
-              <p>{v.blurb}</p>
-              <a
-                href="/checkout"
-                className="btn-primary"
-                onClick={() => posthog.capture('hero_video_cta_click', { title: v.title })}
-              >
-                Start 3 days free
-              </a>
-            </div>
-          </div>
-        </div>,
-        document.body
-      )}
+      <VideoTile
+        src={v.src}
+        poster={v.poster}
+        title={v.title}
+        badge={v.badge}
+        blurb={v.blurb}
+        location="hero"
+      />
     </div>
   )
 }
@@ -504,43 +419,22 @@ function StickyBar({ onCTA }: { onCTA: () => void }) {
 }
 
 function FullStoryPlayer() {
-  const [muted, setMuted] = useState(true)
-  const videoRef = useRef<HTMLVideoElement>(null)
-
-  function toggleMute() {
-    if (videoRef.current) {
-      videoRef.current.muted = !muted
-      setMuted(!muted)
-      if (muted) {
-        videoRef.current.play()
-        posthog.capture('fullstory_unmuted')
-      }
-    }
-  }
-
+  const v = STORIES[0]
   return (
     <div className="fullstory-player">
-      <div className="fullstory-video-wrap">
-        <video
-          ref={videoRef}
-          src={STORIES[0].src}
-          poster={STORIES[0].poster}
-          autoPlay
-          muted={muted}
-          playsInline
-          controls
-          preload="none"
-          className="fullstory-video"
-        />
-        <button className="mute-btn" onClick={toggleMute}>
-          {muted ? '🔇 Tap to hear the story' : '🔊 Playing with sound'}
-        </button>
-      </div>
+      <VideoTile
+        src={v.src}
+        poster={v.poster}
+        title={v.title}
+        badge={v.series}
+        blurb={v.blurb}
+        location="full_story"
+      />
       <div className="fullstory-meta">
-        <span className="fullstory-series">Birth of Jesus Series</span>
-        <h3>An Angel Visits Mary</h3>
-        <p>The angel Gabriel appears to a young woman named Mary with an extraordinary message. Watch how she responds with faith.</p>
-        <span className="fullstory-badge">📝 Quiz included after this lesson</span>
+        <span className="fullstory-series">{v.series} Series</span>
+        <h3>{v.title}</h3>
+        <p>{v.blurb}</p>
+        <span className="fullstory-badge">&#128221; Quiz included after this lesson</span>
       </div>
     </div>
   )

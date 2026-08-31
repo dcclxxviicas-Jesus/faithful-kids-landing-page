@@ -1,34 +1,24 @@
 'use client'
 
-import posthog from 'posthog-js'
 import { STORIES } from './stories'
+import { VideoTile } from './VideoTile'
 
 /**
- * Three real lessons, playable. Nobody buys a video curriculum without seeing
- * one first, so this is the proof rather than a description of the proof.
- *
- * preload="none" plus a poster means a pageview costs no bandwidth until
- * someone presses play — the files are ~30MB.
+ * Three real lessons on /homeschool. Nobody buys a video curriculum without
+ * seeing one, so this is the proof rather than a description of it.
  */
 export function LessonSamples() {
   return (
     <div className="lesson-samples">
       {STORIES.map((s) => (
         <figure key={s.src} className="lesson-sample">
-          <video
+          <VideoTile
             src={s.src}
             poster={s.poster}
-            controls
-            playsInline
-            preload="none"
-            className="lesson-sample-video"
-            onPlay={() => {
-              try {
-                posthog.capture('homeschool_sample_play', { title: s.title })
-              } catch {
-                /* analytics must never break the page */
-              }
-            }}
+            title={s.title}
+            badge={s.series}
+            blurb={s.blurb}
+            location="homeschool"
           />
           <figcaption>
             <span className="lesson-sample-series">{s.series}</span>

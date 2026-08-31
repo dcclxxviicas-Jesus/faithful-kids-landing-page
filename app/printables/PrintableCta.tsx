@@ -1,5 +1,7 @@
 'use client'
 
+import { VideoTile } from '../components/VideoTile'
+
 /**
  * The conversion block for printable pages.
  *
@@ -71,28 +73,12 @@ export function PrintableCta({
         </div>
 
         <div className="pc-video">
-          <div className={`sl-player${playing ? ' sl-playing' : ''}`}>
-            <video
-              ref={ref}
-              className="sl-video"
-              src={videoSrc}
-              poster={posterSrc}
-              preload="none"
-              playsInline
-              controls={playing}
-            />
-            {!playing && (
-              <button className="sl-poster" onClick={start} aria-label={`Play ${videoTitle}`}>
-                <span className="sl-shade" />
-                <span className="sl-play">
-                  <span className="sl-ring" />
-                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.14v13.72L19 12z" /></svg>
-                </span>
-                <span className="sl-play-label">{videoTitle}</span>
-                {duration && <span className="sl-duration">{duration}</span>}
-              </button>
-            )}
-          </div>
+          <VideoTile
+            src={videoSrc}
+            poster={posterSrc}
+            title={videoTitle}
+            location="printables"
+          />
           <p className="pc-caption">A real lesson from the app — watch the whole thing free.</p>
         </div>
       </div>

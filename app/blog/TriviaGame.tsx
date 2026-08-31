@@ -3,6 +3,7 @@
 import { useRef, useState } from 'react'
 import posthog from 'posthog-js'
 import type { TriviaQuestion, TriviaLink } from '@/lib/blog'
+import { VideoTile } from '@/app/components/VideoTile'
 
 function track(event: string, props?: Record<string, unknown>) {
   try {
@@ -253,17 +254,14 @@ export function TriviaGame({
           <p style={{ fontSize: '0.85rem', color: emerald, fontWeight: 700, margin: '4px 0 0' }}>{shareNote}</p>
         )}
 
-        <video
-          src={videoSrc}
-          poster={posterSrc}
-          controls
-          autoPlay
-          muted
-          playsInline
-          preload="none"
-          onPlay={() => track('trivia_game_video_play', { post: postSlug, video: videoTitle })}
-          style={{ width: '100%', borderRadius: '14px', background: '#000', marginTop: '18px' }}
-        />
+        <div style={{ marginTop: '18px' }}>
+          <VideoTile
+            src={videoSrc}
+            poster={posterSrc}
+            title={videoTitle}
+            location="trivia_end"
+          />
+        </div>
         <p style={{ fontSize: '0.85rem', color: '#777', margin: '8px 0 16px' }}>
           &ldquo;{videoTitle}&rdquo; — one of 300+ video lessons in the Faithful Kids Bible course
         </p>

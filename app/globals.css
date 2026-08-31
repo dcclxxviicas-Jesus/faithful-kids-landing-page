@@ -480,6 +480,58 @@ body {
 }
 @media (prefers-reduced-motion: reduce) { .verse-cta-btn { transition: none; } }
 
+/* ===== VIDEO TILE (the one video pattern) ===== */
+.video-tile { width: 100%; }
+.video-tile-screen {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #0b1512;
+  border-radius: 14px;
+  overflow: hidden;
+}
+.video-tile-video { width: 100%; height: 100%; object-fit: cover; display: block; }
+.video-tile-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  padding: 12px 14px 26px;
+  background: linear-gradient(rgba(0,0,0,0.62), transparent);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  pointer-events: none;
+}
+.video-tile-title { font-weight: 700; font-size: 0.95rem; text-shadow: 0 1px 4px rgba(0,0,0,0.45); }
+.video-tile-badge {
+  font-size: 0.7rem; font-weight: 700;
+  background: var(--primary); color: #fff;
+  padding: 3px 10px; border-radius: 10px;
+}
+.video-tile-btn {
+  position: absolute;
+  bottom: 12px; left: 50%;
+  transform: translateX(-50%);
+  z-index: 3;
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 11px 20px;
+  border: none; border-radius: 999px;
+  background: rgba(255,255,255,0.96);
+  color: #1e293b;
+  font-family: inherit; font-size: 0.9rem; font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+  backdrop-filter: blur(6px);
+  transition: transform var(--transition);
+  white-space: nowrap;
+}
+.video-tile-btn:hover { transform: translateX(-50%) translateY(-1px); }
+.video-tile-btn:active { transform: translateX(-50%) translateY(1px); }
+.video-tile-btn:focus-visible { outline: 3px solid var(--primary); outline-offset: 2px; }
+@media (max-width: 520px) { .video-tile-btn { font-size: 0.82rem; padding: 10px 16px; } }
+@media (prefers-reduced-motion: reduce) { .video-tile-btn { transition: none; } }
+
 /* ===== HERO VIDEO LIGHTBOX =====
    The tile is an ambient muted loop; this is the actual watch — full size,
    with sound, from the start. */

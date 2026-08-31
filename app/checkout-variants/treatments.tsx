@@ -19,7 +19,8 @@ function useMath(monthly = MONTHLY, year = ANNUAL_YEAR) {
   const monthlyYear = +(monthly * 12).toFixed(2)
   const saved = +(monthlyYear - year).toFixed(2)
   const pct = Math.round((1 - year / monthlyYear) * 100)
-  const monthsFree = Math.round(12 - year / monthly)
+  const half = Math.round((12 - year / monthly) * 2) / 2
+  const monthsFree = Number.isInteger(half) ? String(half) : `${Math.floor(half)}\u00bd`
   const yearMonth = +(year / 12).toFixed(2)
   return { monthlyYear, saved, pct, monthsFree, yearMonth }
 }

@@ -10,7 +10,9 @@ import { VideoTile } from './VideoTile'
 export function LessonSamples() {
   return (
     <div className="lesson-samples">
-      {STORIES.map((s) => (
+      {/* Three, not four — the grid is three columns and a fourth orphans.
+          These three are deliberately from three different series. */}
+      {STORIES.slice(0, 3).map((s) => (
         <figure key={s.src} className="lesson-sample">
           <VideoTile
             src={s.src}

@@ -423,7 +423,7 @@ function StickyBar({ onCTA }: { onCTA: () => void }) {
 function FullStoryPlayer() {
   // Deliberately NOT STORIES[0] — that is the hero's video, and showing the
   // same lesson twice on one page makes the library look like it has one.
-  const v = STORIES[2]
+  const v = STORIES.find(s => s.title === 'A Baby in a Basket') ?? STORIES[2]
   return (
     <div className="fullstory-player">
       <VideoTile

@@ -375,7 +375,7 @@ export default function ThirtyDayChallengePrintable() {
         {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
         duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
         heading="Thirty days of reading. Two hundred days of watching."
-        body="The challenge walks a family through the big story in a month. The app keeps going: 200 episodes in the same order, a quiz after each, and progress saved for every child."
+        body="The challenge walks a family through the big story in a month. The app keeps going: 300+ episodes in the same order, a quiz after each, and progress saved for every child."
         source="30-day-challenge"
       />
 

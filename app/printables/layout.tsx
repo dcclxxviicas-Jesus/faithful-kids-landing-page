@@ -24,7 +24,7 @@ export default function PrintablesLayout({ children }: { children: React.ReactNo
       <BlogStickyCta postSlug="printables" />
       <div className="print-mark" aria-hidden="true">
         <strong>FaithfulKids.app</strong>
-        <span>Free Bible printables · 200 story videos with quizzes</span>
+        <span>Free Bible printables · 300+ story videos with quizzes</span>
       </div>
     </>
   )

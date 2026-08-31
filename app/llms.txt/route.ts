@@ -9,7 +9,7 @@ export const dynamic = 'force-static'
 //
 // This file is what an LLM reads FIRST about us, so its facts must be exactly
 // right. The previous version claimed "60-second video lessons" (a false claim
-// purged from 430 places on the site — it survived here), "20 series and 200
+// purged from 430 places on the site — it survived here), "31 series and 200
 // episodes" (stale), and named a trial length. Every count below is derived
 // from the data at build time; the hand-written facts state only what is true
 // today. If you edit the prose, check it against check-counts.py's ground truth.

@@ -205,7 +205,7 @@ export default async function ColoringPageDetail(
         {...clip}
         duration={clip.duration ?? undefined}
         heading={`They colored it. Now let them watch it.`}
-        body={`A coloring page holds a child for ten minutes and tells you nothing about what they understood. ${clip.videoTitle} takes about two minutes and ends with a quiz that does — one of 200 episodes covering the whole Bible in order.`}
+        body={`A coloring page holds a child for ten minutes and tells you nothing about what they understood. ${clip.videoTitle} takes about two minutes and ends with a quiz that does — one of 300+ episodes covering the whole Bible in order.`}
         source="coloring-detail"
       />
 
@@ -215,7 +215,7 @@ export default async function ColoringPageDetail(
           <p>
             Your child colors it in ten minutes. The video tells them what actually happened in
             about two — then a quiz shows you what they took in, which a coloring page never can.
-            {page.title} is one of 200 episodes, all in order, Genesis to Revelation.
+            {page.title} is one of 300+ episodes, all in order, Genesis to Revelation.
           </p>
           <a className="btn-primary" href="/quiz?ref=coloring-detail">
             Watch {page.title} free

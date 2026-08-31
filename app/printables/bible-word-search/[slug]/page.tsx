@@ -187,7 +187,7 @@ export default async function WordSearchPuzzle(
         {...clip}
         duration={clip.duration ?? undefined}
         heading="Finding the words is not the same as knowing the story"
-        body={`Twelve words is vocabulary. ${clip.videoTitle} tells the story in about two minutes and ends with a quiz, so you find out what actually landed — one of 200 episodes, Genesis to Revelation.`}
+        body={`Twelve words is vocabulary. ${clip.videoTitle} tells the story in about two minutes and ends with a quiz, so you find out what actually landed — one of 300+ episodes, Genesis to Revelation.`}
         source="word-search-detail"
       />
 
@@ -197,7 +197,7 @@ export default async function WordSearchPuzzle(
           <p>
             Finding {p.words.length} words is vocabulary, not comprehension. The {p.title} episode
             takes about two minutes and ends with a quiz that tells you what actually landed — one
-            of 200 episodes covering the whole Bible in order.
+            of 300+ episodes covering the whole Bible in order.
           </p>
           <a className="btn-primary" href="/quiz?ref=word-search-detail">
             Watch {p.title} free

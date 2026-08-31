@@ -318,7 +318,7 @@ export default function Home() {
           ))}
         </div>
         <div className="preview-more">
-          <p>+ 200 lessons across 20 series, from Genesis to Revelation</p>
+          <p>+ 300+ lessons across 31 series, from Genesis to Revelation</p>
           <button className="btn-primary" onClick={handleCTA}>Start Your Free Trial</button>
         </div>
       </section>
@@ -393,7 +393,7 @@ export default function Home() {
             <p className="plan-billed">$77.77 billed yearly &middot; save ~$30</p>
             <ul className="plan-list-features">
               <li>Start with 3 days free</li>
-              <li>All 200 lessons, Genesis to Revelation</li>
+              <li>All 300+ lessons, Genesis to Revelation</li>
               <li>Up to 5 kid profiles</li>
               <li>Quiz and reflection after every story</li>
             </ul>
@@ -408,7 +408,7 @@ export default function Home() {
             <p className="plan-price"><span className="plan-amount">$8.88</span><span className="plan-per">/month</span></p>
             <p className="plan-billed">Billed monthly</p>
             <ul className="plan-list-features">
-              <li>All 200 lessons, Genesis to Revelation</li>
+              <li>All 300+ lessons, Genesis to Revelation</li>
               <li>Up to 5 kid profiles</li>
               <li>Quiz and reflection after every story</li>
               <li>No trial on monthly</li>
@@ -826,7 +826,7 @@ function CurriculumSection() {
         <h2>The entire Bible, one story at a time</h2>
         <div className="curr-hero-stat">
           <span className="curr-hero-num">400+</span>
-          <span className="curr-hero-label">lessons, quizzes, and activities across 20 series</span>
+          <span className="curr-hero-label">lessons, quizzes, and activities across 31 series</span>
         </div>
       </div>
 
@@ -851,7 +851,7 @@ function CurriculumSection() {
 
       {/* All series ticker */}
       <div className="curr-all-series">
-        <p className="curr-all-label">All 20 series included:</p>
+        <p className="curr-all-label">All 31 series included:</p>
         <div className="curr-ticker">
           <div className="curr-ticker-track">
             {[...CURRICULUM, ...CURRICULUM].map((s, i) => (

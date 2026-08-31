@@ -7,14 +7,13 @@ import posthog from 'posthog-js'
 /**
  * The one video pattern for the whole site.
  *
- * The tile autoplays muted as an ambient preview. Pressing the button opens
- * the lesson full size, with sound, RESTARTED from zero — unmuting a loop
- * already halfway through is a poor first viewing of the product.
+ * By default the tile shows its poster and downloads nothing. Pressing the
+ * button opens the lesson full size, with sound, from zero.
  *
- * BANDWIDTH. These files are ~30MB and this component now renders on 200 story
- * posts. Naive autoplay would pull 30MB on every blog page view, so the src is
- * not attached until the tile is near the viewport, and playback pauses when it
- * leaves. A page view still costs nothing until the tile is actually seen.
+ * The hero passes autoplay — there the tile loops muted as an ambient preview
+ * and the button reads "Unmute and watch". Everywhere else the button reads
+ * "Watch what your kids will see" and no video is fetched until it is pressed.
+ * See the autoplay prop for why that split exists.
  */
 export function VideoTile({
   src,
@@ -25,6 +24,7 @@ export function VideoTile({
   location,
   className = '',
   showLabels = true,
+  autoplay = false,
   captionsUrl,
   ctaHref = '/quiz',
   ctaLabel = 'See more videos like this',
@@ -42,6 +42,19 @@ export function VideoTile({
   className?: string
   /** Hero uses false: the art alone, no caption furniture. */
   showLabels?: boolean
+  /**
+   * Muted ambient loop. ONLY the hero should set this true.
+   *
+   * Measured on a full scroll: the homepage pulled ~82MB, /homeschool ~139MB,
+   * and a single blog post ~44MB. At ~2,880 blog visitors a month that was
+   * ~127GB of video nobody asked for, on the pages that actually rank — plus
+   * a video starting under the eyes of someone who came to read.
+   *
+   * The hero keeps it because there the video IS the pitch, above the fold,
+   * and it is the difference between "here is an app" and "here is what your
+   * child would be watching".
+   */
+  autoplay?: boolean
   captionsUrl?: string
   ctaHref?: string
   ctaLabel?: string
@@ -59,8 +72,10 @@ export function VideoTile({
 
   useEffect(() => setMounted(true), [])
 
-  // Load and play only while the tile is on (or near) screen.
+  // Only autoplaying tiles need to fetch on approach. A poster-first tile
+  // downloads nothing until the button is pressed.
   useEffect(() => {
+    if (!autoplay) return
     const el = wrapRef.current
     if (!el || typeof IntersectionObserver === 'undefined') { setNear(true); return }
     const io = new IntersectionObserver(
@@ -75,10 +90,11 @@ export function VideoTile({
     )
     io.observe(el)
     return () => io.disconnect()
-  }, [])
+  }, [autoplay])
 
   const openPlayer = useCallback(() => {
     tileRef.current?.pause()
+    setNear(true)
     setOpen(true)
     onOpen?.()
     try { posthog.capture('video_expanded', { title, location }) } catch { /* never break playback */ }
@@ -113,13 +129,13 @@ export function VideoTile({
       <div className="video-tile-screen">
         <video
           ref={tileRef}
-          src={near ? src : undefined}
+          src={autoplay && near ? src : undefined}
           poster={poster}
-          autoPlay
+          autoPlay={autoplay}
           muted
-          loop
+          loop={autoplay}
           playsInline
-          preload={near ? 'metadata' : 'none'}
+          preload={autoplay && near ? 'metadata' : 'none'}
           className="video-tile-video"
         />
 
@@ -131,7 +147,7 @@ export function VideoTile({
         )}
 
         <button className="video-tile-btn" onClick={openPlayer}>
-          {'\u{1F50A}'} Unmute and watch
+          {autoplay ? `${'\u{1F50A}'} Unmute and watch` : `${'\u25B6'} Watch what your kids will see`}
         </button>
       </div>
 

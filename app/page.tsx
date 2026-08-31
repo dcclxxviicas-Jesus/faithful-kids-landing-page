@@ -388,6 +388,7 @@ function PhoneMockup() {
         blurb={v.blurb}
         location="hero"
         showLabels={false}
+        autoplay
       />
     </div>
   )

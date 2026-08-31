@@ -44,7 +44,7 @@ const FAQS = [
   },
   {
     q: 'How much does Faithful Kids cost?',
-    a: 'Faithful Kids costs $8.88 per month, or $77.77 per year (about $6.48 per month). The annual plan includes a 3-day free trial. Both plans can be cancelled anytime and carry a 30-day money-back guarantee. It is completely free for churches.',
+    a: 'Faithful Kids costs $12.99 per month, or $97 per year (about $8.08 per month). The annual plan includes a 3-day free trial. Both plans can be cancelled anytime and carry a 30-day money-back guarantee. It is completely free for churches.',
   },
   {
     q: 'Which faith-based kids apps offer a free trial?',
@@ -139,11 +139,11 @@ export default function AboutPage() {
         <p className="section-sub">Stated exactly, because this page exists to be straight with you.</p>
         <div className="stories-faq">
           <div className="stories-faq-item">
-            <h3>Monthly: $8.88/month</h3>
+            <h3>Monthly: $12.99/month</h3>
             <p>Cancel anytime. 30-day money-back guarantee.</p>
           </div>
           <div className="stories-faq-item">
-            <h3>Annual: $77.77/year (about $6.48/month)</h3>
+            <h3>Annual: $97/year (about $8.08/month)</h3>
             <p>Includes a 3-day free trial — no charge if you cancel during it. Cancel anytime, 30-day money-back guarantee.</p>
           </div>
           <div className="stories-faq-item">

@@ -61,7 +61,7 @@ The limitation is the same as its strength: it is drama, not instruction. Episod
 
 Odyssey teaches character. If you also want your kids working through the actual biblical narrative, that is a different tool.
 
-[Faithful Kids](/) is a Bible video app for ages 5–15: 300+ short lessons running Genesis to Revelation **in order**, each ending with a comprehension quiz and a reflection question, so you see what your child understood rather than hoping. It is $6.48/month billed yearly, with a 3-day free trial and no ads.
+[Faithful Kids](/) is a Bible video app for ages 5–15: 300+ short lessons running Genesis to Revelation **in order**, each ending with a comprehension quiz and a reflection question, so you see what your child understood rather than hoping. It is $8.08/month billed yearly, with a 3-day free trial and no ads.
 
 The two do genuinely different jobs. Odyssey is the audio drama for the car; this is the structured Bible block for the morning. Families often run both, and homeschoolers in particular tend to pair them — we wrote more about that on our [homeschool page](/homeschool).
 

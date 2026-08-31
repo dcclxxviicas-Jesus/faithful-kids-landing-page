@@ -58,7 +58,7 @@ The trade-offs: the catalog skews toward general wholesome entertainment rather 
 
 All three platforms share one design: the child watches, and the platform hopes something sticks. There is no comprehension check, no progression, no way to see what a child actually learned. That is not a flaw — they are entertainment products — but it means none of them replaces structured Bible learning.
 
-That is the gap [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-3way) was built for: 300+ short video lessons in strict order from Genesis to Revelation, a comprehension quiz after every single lesson, guided reflections, and Duolingo-style streaks and levels, for ages 7–15 at $8.88/month or $77.77/year (about $6.48/month, with a 3-day free trial on the annual plan). Many families pair one of the streaming platforms above for fun time with a learning tool for Bible time — our roundup of the [best Bible app for kids](/blog/best-bible-app-for-kids) maps the whole field.
+That is the gap [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-3way) was built for: 300+ short video lessons in strict order from Genesis to Revelation, a comprehension quiz after every single lesson, guided reflections, and Duolingo-style streaks and levels, for ages 7–15 at $12.99/month or $97/year (about $8.08/month, with a 3-day free trial on the annual plan). Many families pair one of the streaming platforms above for fun time with a learning tool for Bible time — our roundup of the [best Bible app for kids](/blog/best-bible-app-for-kids) maps the whole field.
 
 **Leading a Sunday school or kids ministry?** Faithful Kids is [free for churches](/churches) — every kid in your class gets the full lesson library at no cost.
 

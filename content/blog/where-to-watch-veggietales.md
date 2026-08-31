@@ -77,7 +77,7 @@ It does mean that a lot of families end up wanting two things: something fun, an
 
 We make the other half. [Faithful Kids](/) is a Bible video app for ages 5–15: 300+ short lessons that run Genesis to Revelation **in order**, each ending with a comprehension quiz and a reflection question, so you can see what your child understood rather than guess.
 
-It is not a replacement for VeggieTales and we would not pretend otherwise — we have no talking vegetables and no Silly Songs. It is what you put on when you want the screen time to teach something specific and you want proof it landed. It runs $6.48/month billed yearly, with a 3-day free trial and no ads ever.
+It is not a replacement for VeggieTales and we would not pretend otherwise — we have no talking vegetables and no Silly Songs. It is what you put on when you want the screen time to teach something specific and you want proof it landed. It runs $8.08/month billed yearly, with a 3-day free trial and no ads ever.
 
 Plenty of families run both: VeggieTales for the fun, something structured for the learning.
 

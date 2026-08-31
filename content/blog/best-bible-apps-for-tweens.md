@@ -30,7 +30,7 @@ With that lens, here are the rankings. (For picks across every age from toddler 
 
 ### 1. Faithful Kids -- Best Overall for Ages 9-13
 
-**Cost:** $8.88/month, or $77.77/year (about $6.48/month) with a 3-day free trial
+**Cost:** $12.99/month, or $97/year (about $8.08/month) with a 3-day free trial
 **Ages:** 7-15
 
 Faithful Kids earns the top spot for one honest reason: it is the only app on this list designed for this exact age group. Everything else here is either a preschool app tweens have outgrown or an adult app they are growing into. [Faithful Kids](https://faithfulkids.app/quiz) sits precisely in the gap, with 300+ short video lessons covering the Bible from Genesis to Revelation, a comprehension quiz after every single lesson, and guided reflection prompts that connect each story to a tween's real life.
@@ -79,7 +79,7 @@ But it holds about 40 tap-and-swipe storybook tales, with no quizzes, no progres
 
 | App | Cost | Best tween fit | Quizzes | Parent visibility |
 |-----|------|---------------|---------|-------------------|
-| Faithful Kids | $6.48-8.88/mo | 9-13 (core audience) | Yes, every lesson | Full dashboard |
+| Faithful Kids | $8.08-12.99/mo | 9-13 (core audience) | Yes, every lesson | Full dashboard |
 | YouVersion Bible App | Free | Mature 11-13 | No | None |
 | Superbook | Free/paid mix | 9-10 | Games only | None |
 | Minno | $10.99/mo | 9-10 (skews younger) | No | None |

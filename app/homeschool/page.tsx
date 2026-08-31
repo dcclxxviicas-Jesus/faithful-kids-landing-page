@@ -50,7 +50,7 @@ const FAQS = [
   },
   {
     q: 'What does it cost?',
-    a: 'The annual plan is $77.77 a year, which works out to $6.48 a month, and starts with a 3-day free trial. Monthly is $8.88 with no trial. Both include everything, and there is a 30-day money-back guarantee.',
+    a: 'The annual plan is $97 a year, which works out to $8.08 a month, and starts with a 3-day free trial. Monthly is $12.99 with no trial. Both include everything, and there is a 30-day money-back guarantee.',
   },
   {
     q: 'Is it doctrinally safe for our family?',
@@ -83,7 +83,7 @@ export default function Homeschool() {
             },
             offers: {
               '@type': 'Offer',
-              price: '77.77',
+              price: '97.00',
               priceCurrency: 'USD',
               category: 'subscription',
               url: 'https://faithfulkids.app/checkout',
@@ -127,7 +127,7 @@ export default function Homeschool() {
             Start 3 days free →
           </a>
           <p className="blog-hero-note">
-            $6.48/month billed yearly. Cancel anytime, 30-day money-back guarantee.
+            $8.08/month billed yearly. Cancel anytime, 30-day money-back guarantee.
           </p>
         </section>
 
@@ -232,8 +232,8 @@ export default function Homeschool() {
             <div className="plan-tile featured">
               <span className="plan-flag">Most families choose this</span>
               <h3 className="plan-name">Annual</h3>
-              <p className="plan-price"><span className="plan-amount">$6.48</span><span className="plan-per">/month</span></p>
-              <p className="plan-billed">$77.77 billed yearly &middot; save ~$30</p>
+              <p className="plan-price"><span className="plan-amount">$8.08</span><span className="plan-per">/month</span></p>
+              <p className="plan-billed">$97 billed yearly &middot; save $58.88</p>
               <ul className="plan-list-features">
                 <li>Start with 3 days free</li>
                 <li>All 300+ lessons, Genesis to Revelation</li>
@@ -241,12 +241,12 @@ export default function Homeschool() {
                 <li>Quiz and reflection after every lesson</li>
               </ul>
               <a href="/checkout" className="btn-primary plan-cta">Start 3 days free</a>
-              <p className="plan-fine">Then $77.77/year. Cancel anytime.</p>
+              <p className="plan-fine">Then $97/year. Cancel anytime.</p>
             </div>
 
             <div className="plan-tile">
               <h3 className="plan-name">Monthly</h3>
-              <p className="plan-price"><span className="plan-amount">$8.88</span><span className="plan-per">/month</span></p>
+              <p className="plan-price"><span className="plan-amount">$12.99</span><span className="plan-per">/month</span></p>
               <p className="plan-billed">Billed monthly</p>
               <ul className="plan-list-features">
                 <li>All 300+ lessons, Genesis to Revelation</li>

@@ -31,7 +31,7 @@ export async function GET() {
     'Key facts (accurate as of this build):',
     `- ${stories.length} free Bible story retellings for kids on the blog, each with scripture reference, discussion questions, and a video lesson`,
     '- The app: over 300 video episodes across 30+ series, Genesis to Revelation; each episode is a short video lesson followed by a 3-question quiz and a reflection',
-    '- Pricing: $8.88/month, or $77.77/year (about $6.48/month); the annual plan includes a free trial; cancel anytime',
+    '- Pricing: $12.99/month, or $97/year (about $8.08/month); the annual plan includes a 3-day free trial; cancel anytime',
     '- Free for churches: real full accounts for children’s ministries, no card required (https://faithfulkids.app/churches)',
     '- Safety: no ads, no social features, no external links in the kids’ experience; COPPA-compliant; parent dashboard with optional PIN',
     '- Works in any web browser on a phone, tablet, or computer',

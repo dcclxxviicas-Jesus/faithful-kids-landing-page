@@ -111,7 +111,7 @@ DLTK is best used as a supplement alongside another Bible teaching tool. Print o
 ## 5. Faithful Kids (3-Day Free Trial)
 
 **Platform:** iOS, Web (app.faithfulkids.app)  
-**Cost:** $8.88/month, or $77.77/year (about $6.48/month) with a free 3-day trial on the annual plan  
+**Cost:** $12.99/month, or $97/year (about $8.08/month) with a free 3-day trial on the annual plan  
 **Best for:** Ages 7-15
 
 Full disclosure -- this is our app, and we built it specifically to address the gaps we saw in free alternatives. Faithful Kids uses AI-generated video lessons narrated by a warm, Jesus-like avatar to walk kids through every major Bible story, followed by interactive quizzes and reflection activities.
@@ -149,7 +149,7 @@ As Proverbs 22:6 says, *"Start children off on the way they should go, and even 
 
 | Feature | Bible App for Kids | Superbook | Adventure Bible | DLTK | Faithful Kids |
 |---------|-------------------|-----------|----------------|------|---------------|
-| Cost | Free | Free/Paid | Free/Paid | Free (ads) | $8.88/mo |
+| Cost | Free | Free/Paid | Free/Paid | Free (ads) | $12.99/mo |
 | Best age | 2-6 | 5-10 | 6-10 | 4-8 | 7-15 |
 | Video lessons | No | Yes (some) | No | No | Yes (200+) |
 | Quizzes | No | Games only | No | No | Yes |

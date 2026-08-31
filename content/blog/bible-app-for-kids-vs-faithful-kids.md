@@ -22,7 +22,7 @@ Here is a detailed, honest comparison to help you decide which app is the best f
 
 | Feature | Bible App for Kids (YouVersion) | Faithful Kids |
 |---------|-------------------------------|---------------|
-| **Price** | Free | $8.88/mo or $77.77/yr (about $6.48/mo) |
+| **Price** | Free | $12.99/mo or $97/yr (about $8.08/mo) |
 | **Free trial** | N/A | 3-day free trial (annual plan) |
 | **Target ages** | 3-8 | 7-15 |
 | **Content format** | Touch-and-swipe animated stories | short narrated video lessons |

@@ -31,7 +31,7 @@ This comparison walks through content, Bible coverage, learning features, pricin
 | **Built-in session limits** | Yes | No |
 | **Library size** | 300+ lessons across 30+ series | Hundreds of episodes across many shows |
 | **Best for** | Daily Bible learning, ages 7-15 | Family movie night, ages 3-10 |
-| **Price** | $8.88/mo, or $77.77/yr (about $6.48/mo) | $10.99/mo or $69.99/yr (about $5.83/mo) |
+| **Price** | $12.99/mo, or $97/yr (about $8.08/mo) | $10.99/mo or $69.99/yr (about $5.83/mo) |
 
 Both offer free trials (Faithful Kids' 3-day trial comes with the annual plan), and both are ad-free -- which is half the reason parents leave YouTube for either of them in the first place.
 
@@ -80,7 +80,7 @@ No. Minno is a streaming service -- kids browse shows and watch, like Netflix. T
 Minno lands best with ages 3-10, since most of its animated library targets younger kids. Faithful Kids is designed for ages 7-15 -- old enough to read quiz questions and follow a structured path. For a 7-to-10-year-old, both fit, which is the age band where families most often run the two together.
 
 ### Which app is cheaper?
-It depends on the plan. Month to month, Faithful Kids is cheaper -- $8.88/mo versus $10.99/mo for Minno. On annual plans, Minno edges ahead -- $69.99/yr (about $5.83/mo) versus $77.77/yr (about $6.48/mo) for Faithful Kids. Comparing prices directly is slightly misleading, though, since one is priced as entertainment and the other as a learning program; the fairer comparison is against what each replaces.
+Minno is cheaper on both plans -- $10.99/mo or $69.99/yr (about $5.83/mo) against $12.99/mo or $97/yr (about $8.08/mo) for Faithful Kids. Comparing the two directly is misleading, though, since one is priced as entertainment and the other as a learning program; the fairer comparison is against what each replaces. Minno replaces a streaming subscription. Faithful Kids replaces a curriculum, and it covers up to five children on one plan.
 
 ### Does either app work for family devotions or homeschool?
 Faithful Kids does -- its lesson-plus-quiz format drops directly into a homeschool Bible block or a nightly devotion slot, and the sequential structure functions as a scope and sequence. Minno can supplement (a What's in the Bible? episode makes a good discussion springboard), but it has no structure to build a devotional habit or curriculum around.

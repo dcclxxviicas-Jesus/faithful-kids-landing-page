@@ -3,8 +3,6 @@ import './variants.css'
 const VARIANTS: { n: number | string; name: string; ref: string; what: string }[] = [
   { n: 1, name: 'Focused Confirm', ref: 'Headspace', what: 'One decision, then pay. No feature list, no reviews, no urgency device. Shortest possible path.' },
   { n: 2, name: 'Side by Side', ref: 'Minno', what: 'Both plans priced per month so the comparison needs no arithmetic. Features below the button.' },
-  { n: '2a', name: 'Side by Side — pushed to yearly', ref: 'monthly stays $8.88', what: 'Refined 2. Struck-through monthly rate, year-vs-year table, and a penalty panel if they pick monthly. Saving: $28.79 (27%).' },
-  { n: '2b', name: 'Side by Side — pushed to yearly', ref: 'monthly raised to $10.88', what: 'Same page, monthly repriced. Saving becomes $52.79 (40%), about 4 months free.' },
   { n: 3, name: 'See It First', ref: 'Netflix / Yippee', what: 'A real lesson playable beside the plans. Checkout is the only page on the site that shows no product.' },
   { n: 4, name: 'Nothing Hidden', ref: 'Duolingo / Calm', what: 'Real dates replace the fake countdown. Answers "when am I charged" before it is asked.' },
 ]
@@ -40,7 +38,7 @@ export default function Index() {
             </a>
           ))}
         </div>
-        <h2 className="cv-inc-title">Better than greying it out &mdash; all at $10.99 monthly</h2>
+        <h2 className="cv-inc-title">Better than greying it out</h2>
         <div className="cv-plans">
           {TREATMENTS.map((t) => (
             <a key={t.slug} href={`/checkout-variants/${t.slug}`} className="cv-plan" style={{ textDecoration: 'none', color: 'inherit' }}>

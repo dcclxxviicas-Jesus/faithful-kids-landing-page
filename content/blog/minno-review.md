@@ -48,7 +48,7 @@ Quality varies show to show — next to the standouts sit older acquisitions wit
 
 Against **Yippee TV** ($7.99/mo, $49/yr): Yippee is cheaper and holds the exclusive rights to The VeggieTales Show, but Minno's library is bigger and meaningfully more Bible-forward. Against **Superbook** (free): Superbook is animated Bible stories only — narrower but unbeatable at its price. We compare all three head-to-head in [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee).
 
-Against **Faithful Kids** — a different category. Minno is entertainment; [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-minnoreview) is a structured Bible course: 300+ short video lessons from Genesis to Revelation in order, a comprehension quiz after every lesson, reflections, and Duolingo-style streaks, for ages 7–15 at $8.88/month or $77.77/year. Our [Minno vs Faithful Kids](/blog/minno-vs-faithful-kids) comparison walks through when each is the right tool — and why plenty of families run one of each.
+Against **Faithful Kids** — a different category. Minno is entertainment; [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-minnoreview) is a structured Bible course: 300+ short video lessons from Genesis to Revelation in order, a comprehension quiz after every lesson, reflections, and Duolingo-style streaks, for ages 7–15 at $12.99/month or $97/year. Our [Minno vs Faithful Kids](/blog/minno-vs-faithful-kids) comparison walks through when each is the right tool — and why plenty of families run one of each.
 
 ## Verdict: Who Should Subscribe
 

@@ -33,7 +33,7 @@ export interface TrialContext {
   kidNames: string[]
   episodesWatched: number
   lastSeriesName: string | null
-  priceLabel: string // e.g. "$77.77/year"
+  priceLabel: string // e.g. "$97/year"
   trialEndsLabel: string // e.g. "Tuesday"
 }
 

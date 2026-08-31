@@ -42,7 +42,7 @@ Faithful Kids is a Bible education platform that teaches children the stories, l
 - Parent dashboard with content controls
 - Captions on all videos
 
-**Cost:** $8.88/month, or $77.77/year (about $6.48/month)
+**Cost:** $12.99/month, or $97/year (about $8.08/month)
 
 **Best for:** Families who want their kids to *learn* the Bible -- not just watch stories about it -- with comprehension checks and spiritual reflection built in.
 
@@ -64,8 +64,8 @@ Consider the analogy: watching a nature documentary is wonderful, but it's not t
 |---------|-----------|---------------|
 | **Primary purpose** | Christian entertainment | Bible education |
 | **Content type** | Shows, movies, series | Video lessons + quizzes + reflections |
-| **Monthly cost** | $7.99/mo | $8.88/mo |
-| **Annual cost** | $49/yr | $77.77/yr (about $6.48/mo) |
+| **Monthly cost** | $7.99/mo | $12.99/mo |
+| **Annual cost** | $49/yr | $97/yr (about $8.08/mo) |
 | **Free trial** | 7 days | 3 days (annual plan) |
 | **Age range** | 2-12 | 7-15 |
 | **Number of titles** | 500+ episodes | 300+ lessons |
@@ -87,7 +87,7 @@ Yippee TV is the right choice when:
 - **Your kids are young (2-6).** Preschoolers aren't ready for quizzes and reflection. They need bright colors, fun characters, and simple stories. VeggieTales and similar shows are perfect for this age.
 - **You need background entertainment.** Sometimes you just need your kids occupied with something safe while you make dinner. Yippee is great for that.
 - **Your family already has a Bible education routine.** If your kids attend Sunday school, Awana, or a church youth group, they may already be getting structured Bible education. Yippee adds wholesome entertainment on top.
-- **Budget is tight.** At $7.99/month ($49/year), Yippee is one of the most affordable options -- slightly less than Faithful Kids' $8.88/month, and meaningfully less on annual plans. If every dollar counts, Yippee keeps Scripture-adjacent content in your home.
+- **Budget is tight.** At $7.99/month ($49/year), Yippee is one of the most affordable options -- well below Faithful Kids' $12.99/month, and less than half the price on annual plans. If every dollar counts, Yippee keeps Scripture-adjacent content in your home.
 - **You want TV-style content.** Yippee has full series with recurring characters, story arcs, and production values that feel like "real TV." Kids who love watching shows will feel right at home.
 
 ## When to Choose Faithful Kids
@@ -152,7 +152,7 @@ Choosing between the streaming platforms themselves? [Minno vs Superbook vs Yipp
 No, but it is the closest thing to a VeggieTales channel: Yippee TV is the exclusive streaming home of The VeggieTales Show and carries the classic VeggieTales episodes alongside many other Christian shows and movies. VeggieTales itself was created by Phil Vischer; Yippee is a separate streaming company that carries the shows. Think of it as a platform that includes VeggieTales plus much more.
 
 ### How much does a Yippee TV subscription cost?
-A Yippee subscription costs $7.99 per month or $49 per year (about $4.08 per month billed annually), with a 7-day free trial. That makes it one of the most affordable Christian streaming options for kids -- just under Faithful Kids' $8.88 per month, though the two serve different purposes (entertainment vs. Bible education).
+A Yippee subscription costs $7.99 per month or $49 per year (about $4.08 per month billed annually), with a 7-day free trial. That makes it one of the most affordable Christian streaming options for kids -- just under Faithful Kids' $12.99 per month, though the two serve different purposes (entertainment vs. Bible education).
 
 ### Can Faithful Kids replace Sunday school?
 Faithful Kids provides structured Bible education with lessons, quizzes, and reflections -- similar to what a good Sunday school program offers. While it can supplement or fill in when your family can't attend church, the community aspect of Sunday school (friendships, group discussion, mentorship from teachers) is something no app can fully replace.

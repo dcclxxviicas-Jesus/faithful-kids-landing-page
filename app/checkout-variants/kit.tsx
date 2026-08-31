@@ -10,15 +10,18 @@ import posthog from 'posthog-js'
    ($6.48/mo) with a 3-day trial, monthly $8.88 with no trial.
 
    Deliberately absent, because none of it is true:
-   - "400+ lessons"            (real figure is 310)
+   - a lesson count inflated by ninety (the real figure is 310)
    - "12,000+ parents"         (8 active non-test subscriptions)
    - "Screen time controls"    (no such feature exists in the app)
    - a countdown to an offer that never expires
 */
 
-export const ANNUAL_YEAR = 77.77
-export const ANNUAL_MONTH = 6.48
-export const MONTHLY = 8.88
+/* Live prices. These MUST match the amounts charged in
+   app/api/checkout/route.ts (9700 and 1299 in cents) — that route is what
+   actually bills the customer, this file is only what they are shown. */
+export const ANNUAL_YEAR = 97
+export const ANNUAL_MONTH = 8.08
+export const MONTHLY = 12.99
 export const TRIAL_DAYS = 3
 /** Full price of 12 monthly payments, for the honest saving figure. */
 export const SAVED = +(MONTHLY * 12 - ANNUAL_YEAR).toFixed(2)

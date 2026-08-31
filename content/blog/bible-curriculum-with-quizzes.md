@@ -60,7 +60,7 @@ AiG's Answers Bible Curriculum walks through the whole Bible chronologically ove
 
 **The honest read:** the review questions are solid but paper-and-discussion based -- there is no instant feedback loop or game layer, so the retrieval practice depends on a parent running it faithfully. And the curriculum is unapologetically young-earth creationist and apologetics-heavy; if that matches your family's convictions it is a strength, and if it does not, this is not your program.
 
-### Faithful Kids ($6.48-8.88/month)
+### Faithful Kids ($8.08-12.99/month)
 
 Faithful Kids is the quiz-native option on this list: the entire platform is built around the watch-quiz-reflect loop rather than adding questions to a video library after the fact. Every one of its 300+ short video lessons (Genesis through Revelation, ages 7-15) is followed by an immediate comprehension quiz with instant feedback, XP for correct answers, levels, and streaks -- retrieval practice dressed up as a game -- plus a parent dashboard showing exactly what each child completed and how they scored. There is a [3-day free trial](https://faithfulkids.app/quiz) on the annual plan to see whether the loop clicks with your child.
 

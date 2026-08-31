@@ -617,8 +617,8 @@ function ResultVideo() {
 }
 
 const PLANS = [
-  { id: 'annual', name: 'Annual', display: '$77.77', unit: '/year', sub: '3-day free trial \u00b7 just $1.50 a week', badge: 'BEST VALUE', save: 'Save ~$30 a year' },
-  { id: 'monthly', name: 'Monthly', display: '$8.88', unit: '/month', sub: 'No trial \u00b7 cancel anytime', badge: null, save: null },
+  { id: 'annual', name: 'Annual', display: '$97', unit: '/year', sub: '3-day free trial \u00b7 just $1.87 a week', badge: 'BEST VALUE', save: 'Save $58.88 a year' },
+  { id: 'monthly', name: 'Monthly', display: '$12.99', unit: '/month', sub: 'No trial \u00b7 cancel anytime', badge: null, save: null },
 ]
 
 const HERO_NAMES: Record<string, string> = {
@@ -747,7 +747,7 @@ function Result({ answers, liveCount, path }: { answers: Record<string, string>;
           </div>
 
           <button className="qz-r-btn" onClick={handleCheckout} disabled={loading}>
-            {loading ? 'Redirecting...' : selectedPlan === 'annual' ? 'Start My Free 3-Day Trial' : 'Subscribe — $8.88/month'}
+            {loading ? 'Redirecting...' : selectedPlan === 'annual' ? 'Start My Free 3-Day Trial' : 'Subscribe — $12.99/month'}
           </button>
 
           <div className="qz-r-trust">

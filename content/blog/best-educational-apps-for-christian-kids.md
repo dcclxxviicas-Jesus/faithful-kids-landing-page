@@ -17,7 +17,7 @@ This guide reviews seven of the best educational apps and platforms for Christia
 ## 1. Faithful Kids
 
 **Ages:** 7-15
-**Price:** $8.88/month, or $77.77/year (about $6.48/month). 3-day free trial on the annual plan.
+**Price:** $12.99/month, or $97/year (about $8.08/month). 3-day free trial on the annual plan.
 **Platform:** iOS app, web browser (app.faithfulkids.app)
 
 **What it is:** A gamified video learning platform that teaches kids the Bible through short AI-generated video episodes (a few minutes each), followed by interactive quizzes and reflection activities. Think Duolingo, but for Scripture.
@@ -194,7 +194,7 @@ This guide reviews seven of the best educational apps and platforms for Christia
 | Feature | Faithful Kids | Bible App for Kids | Minno | Superbook | Yippee | Adventure Bible | RightNow Media |
 |---------|---------------|-------------------|-------|-----------|--------|-----------------|----------------|
 | **Ages** | 7-15 | 4-8 | 2-12 | 5-12 | 3-10 | 6-10 | 2-15 |
-| **Price/mo** | $8.88 | Free | $10.99 | Free/$9.99 | $9.99 | Free/IAP | Via church |
+| **Price/mo** | $12.99 | Free | $10.99 | Free/$9.99 | $9.99 | Free/IAP | Via church |
 | **Video** | Yes | No | Yes | Yes | Yes | No | Yes |
 | **Quizzes** | Yes | No | No | Academy only | No | Games | No |
 | **Gamification** | Yes | Minimal | No | No | No | Yes | No |

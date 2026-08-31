@@ -113,7 +113,7 @@ export default function Home() {
             {
               '@type': 'Offer',
               name: 'Monthly',
-              price: '8.88',
+              price: '12.99',
               priceCurrency: 'USD',
               category: 'subscription',
               url: 'https://faithfulkids.app/checkout',
@@ -121,7 +121,7 @@ export default function Home() {
             {
               '@type': 'Offer',
               name: 'Annual',
-              price: '77.77',
+              price: '97.00',
               priceCurrency: 'USD',
               category: 'subscription',
               url: 'https://faithfulkids.app/checkout',
@@ -286,11 +286,12 @@ export default function Home() {
         </p>
       </section>
 
-      {/* PRICING — the page had no pricing section at all. The only figures a
-          reader could find were $6.48/mo inside a comparison table cell and
-          "$8/month" inside a testimonial: two different numbers, neither
-          anywhere a buyer would look. Figures below are the live Stripe
-          amounts from app/api/checkout/route.ts. */}
+      {/* PRICING — before Aug 30 2026 the page had no pricing section at all:
+          the only figures a reader could find were a per-month number inside a
+          comparison table cell and a different one inside a testimonial,
+          neither anywhere a buyer would look. Figures below are the live
+          Stripe amounts from app/api/checkout/route.ts — keep them in sync
+          with that file, it is the only source of truth for what we charge. */}
       <section className="pricing-section" id="pricing">
         <span className="section-label">PRICING</span>
         <h2>One price. Every story. Every kid in the house.</h2>
@@ -300,23 +301,23 @@ export default function Home() {
           <div className="plan-tile featured">
             <span className="plan-flag">Most families choose this</span>
             <h3 className="plan-name">Annual</h3>
-            <p className="plan-price"><span className="plan-amount">$6.48</span><span className="plan-per">/month</span></p>
-            <p className="plan-billed">$77.77 billed yearly &middot; save ~$30</p>
+            <p className="plan-price"><span className="plan-amount">$8.08</span><span className="plan-per">/month</span></p>
+            <p className="plan-billed">$97 billed yearly &middot; save $58.88</p>
             <ul className="plan-list-features">
               <li>Start with 3 days free</li>
               <li>All 300+ lessons, Genesis to Revelation</li>
               <li>Up to 5 kid profiles</li>
               <li>Quiz and reflection after every story</li>
             </ul>
-            <a href="/checkout" className="btn-primary plan-cta" onClick={() => handlePricingClick('annual', '77.77')}>
+            <a href="/checkout" className="btn-primary plan-cta" onClick={() => handlePricingClick('annual', '97.00')}>
               Start 3 days free
             </a>
-            <p className="plan-fine">Then $77.77/year. Cancel anytime.</p>
+            <p className="plan-fine">Then $97/year. Cancel anytime.</p>
           </div>
 
           <div className="plan-tile">
             <h3 className="plan-name">Monthly</h3>
-            <p className="plan-price"><span className="plan-amount">$8.88</span><span className="plan-per">/month</span></p>
+            <p className="plan-price"><span className="plan-amount">$12.99</span><span className="plan-per">/month</span></p>
             <p className="plan-billed">Billed monthly</p>
             <ul className="plan-list-features">
               <li>All 300+ lessons, Genesis to Revelation</li>
@@ -324,7 +325,7 @@ export default function Home() {
               <li>Quiz and reflection after every story</li>
               <li>No trial on monthly</li>
             </ul>
-            <a href="/checkout" className="btn-secondary plan-cta" onClick={() => handlePricingClick('monthly', '8.88')}>
+            <a href="/checkout" className="btn-secondary plan-cta" onClick={() => handlePricingClick('monthly', '12.99')}>
               Choose monthly
             </a>
             <p className="plan-fine">Cancel anytime.</p>

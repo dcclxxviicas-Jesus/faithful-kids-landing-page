@@ -10,13 +10,13 @@ dateModified: "2026-08-18"
 
 # Best Bible App for Kids in 2026: Top 7 Apps Compared
 
-The best Bible app for kids overall is Faithful Kids ($8.88/month, ages 5-15), for its full Genesis-to-Revelation video course with quizzes; the best free option is YouVersion's Bible App for Kids (ages 2-8); Minno is best for animated shows, Superbook for animation quality, Yippee TV for budget streaming, Dwell Kids for audio, and God for Kids for toddlers. Below we compare all 7 on features, pricing, age range, and content quality.
+The best Bible app for kids overall is Faithful Kids ($12.99/month, ages 5-15), for its full Genesis-to-Revelation video course with quizzes; the best free option is YouVersion's Bible App for Kids (ages 2-8); Minno is best for animated shows, Superbook for animation quality, Yippee TV for budget streaming, Dwell Kids for audio, and God for Kids for toddlers. Below we compare all 7 on features, pricing, age range, and content quality.
 
 ## Quick Comparison
 
 | App | Price | Ages | Videos | Quizzes | Ad-Free | Best For |
 |-----|-------|------|--------|---------|---------|----------|
-| **Faithful Kids** | $8.88/mo | 5+ | 300+ | Yes | Yes | Complete Bible coverage with accountability |
+| **Faithful Kids** | $12.99/mo | 5+ | 300+ | Yes | Yes | Complete Bible coverage with accountability |
 | Bible App for Kids | Free | 3-8 | 40+ | No | Yes | Young kids, interactive touch stories |
 | Minno | $9.99/mo | 2-12 | 100s | No | Yes | Animated shows, Netflix-like experience |
 | Superbook | Free | 5-12 | 50+ | No | Yes | High-quality animation, adventure style |
@@ -28,7 +28,7 @@ The best Bible app for kids overall is Faithful Kids ($8.88/month, ages 5-15), f
 
 ## 1. Faithful Kids — Best Overall
 
-**Price:** $8.88/month, or $77.77/year (about $6.48/month) with a 3-day free trial
+**Price:** $12.99/month, or $97/year (about $8.08/month) with a 3-day free trial
 **Ages:** 5+
 **Content:** 300+ video lessons across 30+ series, Genesis to Revelation
 
@@ -198,4 +198,4 @@ Yes, the Bible App for Kids by YouVersion is completely free with no ads and no 
 
 ### How much does Faithful Kids cost?
 
-Faithful Kids costs $8.88/month, or $77.77/year (which works out to about $6.48/month). The annual plan includes a 3-day free trial.
+Faithful Kids costs $12.99/month, or $97/year (which works out to about $8.08/month). The annual plan includes a 3-day free trial.

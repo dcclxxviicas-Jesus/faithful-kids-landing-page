@@ -62,7 +62,9 @@ export function VerseCta({ postSlug }: { postSlug: string }) {
     setVariant(v)
   }, [])
 
-  // Impression = actually seen, not merely rendered.
+  // Impression = actually seen, not merely rendered. The same observer also
+  // broadcasts visibility so the sticky bar can step aside while this CTA is
+  // on screen (three asks in one viewport was one too many).
   useEffect(() => {
     if (!variant || !ref.current) return
     const fire = () => {
@@ -70,13 +72,22 @@ export function VerseCta({ postSlug }: { postSlug: string }) {
       shownFired.current = true
       try { posthog.capture('verse_cta_shown', { variant, post: postSlug }) } catch { /* never break the page */ }
     }
+    const broadcast = (visible: boolean) => {
+      try { window.dispatchEvent(new CustomEvent('fk-verse-cta-visibility', { detail: { visible } })) } catch { /* never break the page */ }
+    }
     if (typeof IntersectionObserver === 'undefined') { fire(); return }
     const io = new IntersectionObserver(
-      entries => { if (entries.some(e => e.isIntersecting)) { fire(); io.disconnect() } },
-      { threshold: 0.5 },
+      entries => {
+        // Any visible pixel drives the sticky-bar handoff; the impression
+        // keeps its stricter half-on-screen bar.
+        const entry = entries[entries.length - 1]
+        broadcast(entry.isIntersecting)
+        if (entry.isIntersecting && entry.intersectionRatio >= 0.5) fire()
+      },
+      { threshold: [0, 0.5] },
     )
     io.observe(ref.current)
-    return () => io.disconnect()
+    return () => { io.disconnect(); broadcast(false) }
   }, [variant, postSlug])
 
   if (!variant) return null
@@ -91,15 +102,15 @@ export function VerseCta({ postSlug }: { postSlug: string }) {
         — {v.ref}
       </p>
       <p style={{ margin: '18px 0 0', color: '#4b5563', fontSize: '1rem', lineHeight: 1.6 }}>
-        Three minutes at bedtime is enough to start. A story narrated by Jesus, a few questions,
-        and one thing to talk about together.
+        Three minutes at bedtime: a Bible story narrated by Jesus, then a few questions to talk
+        about together.
       </p>
       <a
         href="/quiz"
         onClick={() => { try { posthog.capture('verse_cta_click', { variant, post: postSlug }) } catch { /* never break the page */ } }}
         style={{ display: 'inline-block', marginTop: 16, background: '#059669', color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: '0 4px 0 #047857' }}
       >
-        Start your kids&apos; Bible journey &rarr;
+        Start their Bible journey &rarr;
       </a>
     </div>
   )

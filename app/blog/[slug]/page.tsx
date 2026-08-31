@@ -18,7 +18,6 @@ import { BlogExitIntent } from '../BlogExitIntent'
 import { EmailCaptureCard } from '../EmailCaptureCard'
 import { StoryLesson } from '../StoryLesson'
 import { VerseCta } from '../VerseCta'
-import storyQuizzes from '@/lib/story-quizzes.json'
 import storyDurations from '@/lib/story-durations.json'
 import triviaVideos from '@/lib/trivia-videos.json'
 import guideVideos from '@/lib/guide-videos.json'
@@ -143,7 +142,6 @@ export default async function BlogPostPage({ params }: Props) {
   const mediaBase = isStory
     ? `https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${String(post.episode).padStart(2, '0')}-${post.slug.replace(/-for-kids$/, '')}`
     : ''
-  const lessonQuestions = (storyQuizzes as Record<string, { q: string; options: string[]; correct: number; why: string }[]>)[post.slug] || []
   // Real runtime read from the file with ffprobe (all 200: 1:28-3:37, median
   // 2:07). Never estimated -- the old copy claimed "60-second" and was wrong.
   const durSecs = (storyDurations as Record<string, number>)[post.slug]
@@ -327,7 +325,6 @@ const hasTriviaGame = triviaQuestions.length >= 10
             posterUrl={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
             captionsUrl={`${mediaBase}/lesson-captions.vtt`}
             storyName={post.title.split(':')[0].replace(/ for Kids$/i, '')}
-            questions={lessonQuestions}
             slug={post.slug}
             duration={lessonDuration}
           />

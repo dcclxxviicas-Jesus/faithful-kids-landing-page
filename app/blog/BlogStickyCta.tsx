@@ -22,6 +22,11 @@ const SHOW_AFTER_SCREENS = 0.6
 export function BlogStickyCta({ postSlug }: { postSlug: string }) {
   const [visible, setVisible] = useState(false)
   const [gone, setGone] = useState(false)
+  // Steps aside while the verse CTA is on screen — three asks in one viewport
+  // (header, verse CTA, this bar) said the same thing three ways. Suppressed,
+  // not removed: this is still the best-converting CTA on mobile, and its own
+  // blog_sticky_click event will show whether the handoff costs anything.
+  const [verseCtaOnScreen, setVerseCtaOnScreen] = useState(false)
 
   useEffect(() => {
     try {
@@ -32,15 +37,22 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
     function onScroll() {
       setVisible(window.scrollY > window.innerHeight * SHOW_AFTER_SCREENS)
     }
+    function onVerseVisibility(e: Event) {
+      setVerseCtaOnScreen(Boolean((e as CustomEvent).detail?.visible))
+    }
     onScroll()
     window.addEventListener('scroll', onScroll, { passive: true })
-    return () => window.removeEventListener('scroll', onScroll)
+    window.addEventListener('fk-verse-cta-visibility', onVerseVisibility)
+    return () => {
+      window.removeEventListener('scroll', onScroll)
+      window.removeEventListener('fk-verse-cta-visibility', onVerseVisibility)
+    }
   }, [])
 
   if (gone) return null
 
   return (
-    <div className={`blog-sticky-cta${visible ? '' : ' is-hidden'}`}>
+    <div className={`blog-sticky-cta${visible && !verseCtaOnScreen ? '' : ' is-hidden'}`}>
       <div className="blog-sticky-inner">
         <span className="blog-sticky-text">
           <strong>Start your child&apos;s Bible journey</strong>

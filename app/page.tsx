@@ -214,7 +214,7 @@ export default function Home() {
       {/* HERO */}
       <section className="hero" aria-label="Hero">
         <div className="hero-content">
-          <h1>The <span className="highlight">Bible app for kids</span> who grow to <span className="highlight">love Scripture</span></h1>
+          <h1>The <span className="highlight">Bible app for kids</span> they actually ask to watch</h1>
           <p className="subtitle">
             Short Bible story videos for kids ages 5+. No ads, no algorithm, no guilt. Just Scripture, beautifully told.
           </p>
@@ -347,30 +347,6 @@ export default function Home() {
       {/* CURRICULUM */}
       <CurriculumSection />
 
-      {/* AGE GROUPS */}
-      <section className="age-section">
-        <h2>A Bible app for kids at every age</h2>
-        <p className="section-sub">Age-appropriate Bible stories that grow with your child.</p>
-        <div className="age-grid">
-          <div className="age-card">
-            <span className="age-badge">Ages 4-8</span>
-            <h3>Little Disciples</h3>
-            <p>Simple, joyful retellings that bring Bible stories to life with bright visuals and gentle lessons.</p>
-            <div className="age-tags">
-              <span>Noah's Ark</span><span>Creation</span><span>Baby Moses</span><span>Good Samaritan</span><span>David & Goliath</span><span>Jonah</span>
-            </div>
-          </div>
-          <div className="age-card">
-            <span className="age-badge">Ages 9-12</span>
-            <h3>Young Believers</h3>
-            <p>Deeper dives into Scripture with context, life application, and the bigger picture of God's story.</p>
-            <div className="age-tags">
-              <span>Parables</span><span>Psalms</span><span>Prophets</span><span>Acts</span><span>Proverbs</span><span>Saints</span>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* HOW IT WORKS */}
       <section className="how-section" id="how-it-works">
         <h2>How it works</h2>
@@ -398,44 +374,6 @@ export default function Home() {
           <div className="feature-item"><div className="feature-icon">📊</div><h3>Parent Dashboard</h3><p>See what your child watches, which stories they love, and how much time they spend.</p></div>
         </div>
       </section>
-
-      {/* COMPARISON TABLE */}
-      <section className="compare-section">
-        <h2>How we compare</h2>
-        <p className="section-sub">There's a reason thousands of Christian parents switched.</p>
-        <div className="compare-table-wrap">
-          <table className="compare-table">
-            <thead>
-              <tr>
-                <th>Feature</th>
-                <th className="compare-ours"><strong>Faithful Kids</strong><br/><span>$6.48/mo</span></th>
-                <th>YouTube Kids<br/><span>Free (with ads)</span></th>
-                <th>Others<br/><span>$5-15/mo</span></th>
-              </tr>
-            </thead>
-            <tbody>
-              {[
-                ['Bible-based content', true, false, false],
-                ['Doctrinally reviewed', true, false, false],
-                ['Zero ads', true, false, true],
-                ['Screen time controls', true, false, true],
-                ['Age-appropriate content', true, true, true],
-                ['No algorithm rabbit holes', true, false, false],
-                ['COPPA compliant', true, true, true],
-                ['Denomination-specific paths', true, false, false],
-              ].map(([feature, ours, yt, others], i) => (
-                <tr key={i}>
-                  <td>{feature as string}</td>
-                  <td className="compare-ours"><span aria-label={ours ? 'Yes' : 'No'}>{ours ? '✓' : '✗'}</span></td>
-                  <td><span aria-label={yt ? 'Yes' : 'No'}>{yt ? '✓' : '✗'}</span></td>
-                  <td><span aria-label={others ? 'Yes' : 'No'}>{others ? '✓' : '✗'}</span></td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      </section>
-
 
       {/* PRICING — the page had no pricing section at all. The only figures a
           reader could find were $6.48/mo inside a comparison table cell and
@@ -483,13 +421,6 @@ export default function Home() {
         </div>
 
         <p className="plan-guarantee">30-day money-back guarantee &mdash; if your kids don&apos;t love it, we refund you.</p>
-      </section>
-
-      {/* MONEY BACK GUARANTEE */}
-      <section className="guarantee-section">
-        <h2 className="guarantee-heading">30-Day Money-Back Guarantee</h2>
-        <p>Try it risk-free. If your kids don't love it, or if you're not satisfied for any reason, we'll give you a full refund within 30 days. No questions asked.</p>
-        <button className="btn-primary" onClick={handleCTA}>Start Risk-Free</button>
       </section>
 
       {/* SURVEY (post-signup) */}

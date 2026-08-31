@@ -4,6 +4,7 @@ import { useState, useRef, useEffect } from 'react'
 import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
 import { STORIES } from '@/app/components/stories'
 import posthog from 'posthog-js'
+import { createPortal } from 'react-dom'
 import { useTimer } from './use-timer'
 import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
 
@@ -370,25 +371,44 @@ export default function Home() {
 }
 
 function PhoneMockup() {
-  const [muted, setMuted] = useState(true)
+  const [open, setOpen] = useState(false)
+  const [mounted, setMounted] = useState(false)
   const videoRef = useRef<HTMLVideoElement>(null)
 
-  // One story, not a carousel. The three videos in STORIES were each already
-  // appearing more than once on the page, and the dots and arrows asked the
-  // visitor to browse at the exact moment we want them doing one thing.
+  // One story, not a carousel. The three videos in STORIES each already
+  // appeared more than once on the page, and dots and arrows invite browsing
+  // at the moment we want a single action.
   const v = STORIES[0]
 
-  function toggleMute() {
-    const el = videoRef.current
-    if (!el) return
-    const next = !muted
-    el.muted = next
-    setMuted(next)
-    if (!next) {
-      el.play()
-      posthog.capture('hero_video_unmuted', { title: v.title })
-    }
+  useEffect(() => setMounted(true), [])
+
+  // The tile is an ambient, muted preview. Pressing the button is the real
+  // watch: full size, with sound, from the beginning — which is a better
+  // first viewing than unmuting a loop already halfway through.
+  function openPlayer() {
+    videoRef.current?.pause()
+    setOpen(true)
+    posthog.capture('hero_video_unmuted', { title: v.title })
+    posthog.capture('hero_video_expanded', { title: v.title })
   }
+
+  function closePlayer() {
+    setOpen(false)
+    videoRef.current?.play().catch(() => { /* autoplay policy — fine */ })
+  }
+
+  useEffect(() => {
+    if (!open) return
+    const prev = document.body.style.overflow
+    document.body.style.overflow = 'hidden'
+    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') closePlayer() }
+    window.addEventListener('keydown', onKey)
+    return () => {
+      document.body.style.overflow = prev
+      window.removeEventListener('keydown', onKey)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [open])
 
   return (
     <div className="phone-mockup">
@@ -397,7 +417,7 @@ function PhoneMockup() {
           ref={videoRef}
           src={v.src}
           autoPlay
-          muted={muted}
+          muted
           loop
           playsInline
           preload="metadata"
@@ -406,20 +426,48 @@ function PhoneMockup() {
           // @ts-expect-error -- fetchPriority is valid HTML but not in React types yet
           fetchpriority="high"
         />
+
+        {/* Top-left, out of the sound button's way. Sitting at the bottom put
+            the title directly behind the control. */}
         <div className="phone-overlay">
           <span className="phone-title">{v.title}</span>
           <span className="phone-badge">{v.badge}</span>
         </div>
 
-        {/* Bottom-centre, high contrast, and it says what tapping does. */}
-        <button
-          className={`phone-sound-btn${muted ? '' : ' is-on'}`}
-          onClick={toggleMute}
-          aria-pressed={!muted}
-        >
-          {muted ? '🔊 Tap for sound' : '🔇 Mute'}
+        <button className="phone-sound-btn" onClick={openPlayer}>
+          {'\u{1F50A}'} Unmute and watch
         </button>
       </div>
+
+      {mounted && open && createPortal(
+        <div className="vid-modal" role="dialog" aria-modal="true" aria-label={v.title}>
+          <button className="vid-modal-scrim" aria-label="Close video" onClick={closePlayer} />
+          <div className="vid-modal-inner">
+            <button className="vid-modal-close" onClick={closePlayer} aria-label="Close video">&times;</button>
+            <video
+              src={v.src}
+              poster={v.poster}
+              autoPlay
+              controls
+              playsInline
+              className="vid-modal-video"
+            />
+            <div className="vid-modal-meta">
+              <span className="vid-modal-series">{v.series}</span>
+              <strong>{v.title}</strong>
+              <p>{v.blurb}</p>
+              <a
+                href="/checkout"
+                className="btn-primary"
+                onClick={() => posthog.capture('hero_video_cta_click', { title: v.title })}
+              >
+                Start 3 days free
+              </a>
+            </div>
+          </div>
+        </div>,
+        document.body
+      )}
     </div>
   )
 }

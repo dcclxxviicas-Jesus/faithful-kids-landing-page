@@ -480,6 +480,59 @@ body {
 }
 @media (prefers-reduced-motion: reduce) { .verse-cta-btn { transition: none; } }
 
+/* ===== HERO VIDEO LIGHTBOX =====
+   The tile is an ambient muted loop; this is the actual watch — full size,
+   with sound, from the start. */
+.vid-modal { position: fixed; inset: 0; z-index: 300; display: flex; align-items: center; justify-content: center; padding: 20px; }
+.vid-modal-scrim {
+  position: absolute; inset: 0; border: none; padding: 0;
+  background: rgba(10, 20, 16, 0.78);
+  backdrop-filter: blur(4px);
+  animation: fk-fade-in 0.18s ease-out;
+}
+.vid-modal-inner {
+  position: relative;
+  z-index: 1;
+  width: min(920px, 100%);
+  max-height: 92vh;
+  overflow-y: auto;
+  background: var(--white);
+  border-radius: 18px;
+  box-shadow: 0 30px 80px rgba(0,0,0,0.45);
+  animation: fk-menu-down 0.22s ease-out;
+}
+.vid-modal-close {
+  position: absolute; top: 10px; right: 12px; z-index: 2;
+  width: 40px; height: 40px; border-radius: 50%;
+  border: none; cursor: pointer;
+  background: rgba(255,255,255,0.92);
+  color: #1e293b; font-size: 1.5rem; line-height: 1;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+.vid-modal-video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  display: block;
+  background: #000;
+  border-radius: 18px 18px 0 0;
+}
+.vid-modal-meta { padding: 22px 26px 26px; display: flex; flex-direction: column; gap: 8px; align-items: flex-start; }
+.vid-modal-series {
+  font-size: 0.72rem; font-weight: 800; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--primary);
+}
+.vid-modal-meta strong { font-size: 1.3rem; font-weight: 800; color: var(--text); letter-spacing: -0.02em; }
+.vid-modal-meta p { margin: 0; color: var(--text-secondary); font-size: 0.98rem; line-height: 1.55; }
+.vid-modal-meta .btn-primary { margin-top: 10px; text-decoration: none; display: inline-block; }
+@media (max-width: 700px) {
+  .vid-modal { padding: 12px; }
+  .vid-modal-meta { padding: 18px 18px 22px; }
+  .vid-modal-meta strong { font-size: 1.12rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .vid-modal-scrim, .vid-modal-inner { animation: none; }
+}
+
 /* ===== PRICING ===== */
 .pricing-section {
   max-width: var(--max-width);
@@ -844,13 +897,13 @@ body {
 }
 .phone-overlay {
   position: absolute;
-  /* Clears the sound button, which sits bottom-centre. Previously the title
-     rendered directly behind it and was unreadable. */
-  bottom: 62px;
+  /* Top of the frame. At the bottom it sat behind the sound button; lifting it
+     62px left the title floating in the middle of the picture. */
+  top: 0;
   left: 0;
   right: 0;
-  padding: 16px 14px 0;
-  background: linear-gradient(transparent, rgba(0,0,0,0.65));
+  padding: 14px 14px 26px;
+  background: linear-gradient(rgba(0,0,0,0.62), transparent);
   color: white;
   display: flex;
   flex-direction: column;

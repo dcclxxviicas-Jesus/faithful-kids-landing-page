@@ -222,16 +222,20 @@ export default function Home() {
       <section className="promises-section">
         <div className="promise-grid">
           <div className="promise">
-            <h2>faithful. short. real.</h2>
-            <p>60&ndash;90 seconds a story, reviewed for doctrinal accuracy by real Christians.</p>
+            <h2>Faithful. Short. Real.</h2>
+            {/* "60-90 seconds" was false — ffprobe on all 200 lessons gives
+                1:28-3:37, median 2:07. */}
+            <p>About two minutes a story, reviewed for doctrinal accuracy before it goes live.</p>
           </div>
           <div className="promise">
-            <h2>no ads. ever.</h2>
+            <h2>No Ads. Ever.</h2>
             <p>No algorithm, no comments, no rabbit holes. Subscriptions are our only revenue.</p>
           </div>
           <div className="promise">
-            <h2>they keep going.</h2>
-            <p>Most Bible apps get outgrown by seven. This one runs to fifteen.</p>
+            <h2>They Keep Going.</h2>
+            {/* Was "most Bible apps get outgrown by seven" — an unsourced claim
+                about other products. This says the same thing about ours. */}
+            <p>Built for ages 5 to 15, not just for toddlers.</p>
           </div>
         </div>
       </section>

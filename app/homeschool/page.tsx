@@ -178,7 +178,7 @@ export default function Homeschool() {
           </p>
           <LessonSamples />
           <p className="section-sub library-note">
-            Every lesson in the curriculum looks like this &mdash; 60&ndash;90 seconds,
+            Every lesson in the curriculum looks like this &mdash; about two minutes,
             narrated and illustrated, followed by a comprehension quiz and one reflection
             question. There are 300+ of them, in order.
           </p>

@@ -1,7 +1,17 @@
 import type { Metadata } from 'next'
+import { Nunito } from 'next/font/google'
 import './globals.css'
 import { PostHogProvider } from './providers'
 import { MetaPixel } from './MetaPixel'
+
+// The rounded, heavy face the design was drawn in. Without it the page falls
+// back to the system stack and reads noticeably colder.
+const nunito = Nunito({
+  subsets: ['latin'],
+  weight: ['400', '600', '700', '800', '900'],
+  variable: '--font-nunito',
+  display: 'swap',
+})
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://faithfulkids.app'),
@@ -53,7 +63,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
+    <html lang="en" className={nunito.variable}>
       <head>
         {/* Preload the nav logo for faster FCP */}
         <link rel="preload" href="/logo-sm.png" as="image" />

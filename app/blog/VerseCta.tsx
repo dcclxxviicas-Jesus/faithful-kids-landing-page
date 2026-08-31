@@ -102,8 +102,8 @@ export function VerseCta({ postSlug }: { postSlug: string }) {
         — {v.ref}
       </p>
       <p style={{ margin: '18px 0 0', color: '#4b5563', fontSize: '1rem', lineHeight: 1.6 }}>
-        Three minutes at bedtime: a Bible story narrated by Jesus, then a few questions to talk
-        about together.
+        Bible time with your kids has never been easier: a three-minute story narrated by Jesus,
+        then a few questions to talk about together.
       </p>
       <a
         href="/quiz"

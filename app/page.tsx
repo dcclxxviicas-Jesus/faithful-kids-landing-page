@@ -184,13 +184,14 @@ export default function Home() {
 
       <main id="main-content">
 
-      {/* HERO */}
-      <section className="hero" aria-label="Hero">
+      {/* HERO — variant 02 discipline: centred, one headline, one button,
+          nothing competing. The credential badges are variant 04's job:
+          answer the sceptical parent before they scroll. */}
+      <section className="hero hero-center" aria-label="Hero">
         <div className="hero-content">
-          <h1>The <span className="highlight">Bible app for kids</span> they actually ask to watch</h1>
+          <h1>The <span className="highlight">Bible app for kids</span> they ask to watch</h1>
           <p className="subtitle">
-            300+ short Bible story videos, Genesis to Revelation. Every one ends with a quiz,
-            so you know what landed.
+            300+ short Bible story videos. Genesis to Revelation. No ads, ever.
           </p>
 
           <button className="btn-primary btn-hero" onClick={handleCTA}>
@@ -198,51 +199,45 @@ export default function Home() {
           </button>
           <p className="hero-subtext">No commitment. Cancel anytime.</p>
 
-          <div className="hero-proof">
-            <span className="hero-rating">
-              <span className="stars">★★★★★</span>
-              <span className="rating-text">4.9/5</span>
-            </span>
-            <LiveCounter />
+          <div className="hero-badges">
+            <span className="hero-badge"><i>★</i> 4.9/5 from Christian families</span>
+            <span className="hero-badge"><i>✓</i> Doctrinally reviewed</span>
+            <span className="hero-badge"><i>✓</i> COPPA compliant</span>
+            <span className="hero-badge"><i>✓</i> Zero ads, ever</span>
           </div>
         </div>
 
         <div className="hero-visual">
           <PhoneMockup />
         </div>
+
+        <div className="hero-proof">
+          <LiveCounter />
+        </div>
       </section>
 
-      {/* TRUST STRIP */}
-      <div className="trust-strip">
-        <div className="trust-strip-inner">
-          <span><strong>300+</strong> video lessons</span>
-          <span><strong>Genesis to Revelation</strong></span>
-          <span><strong>Doctrinally reviewed</strong> by real Christians</span>
-          <span><strong>Zero ads</strong>, ever</span>
-        </div>
-      </div>
-
-      {/* THE PROBLEM — the sharpest writing on the page. Kept almost intact. */}
-      <section className="problem-section">
-        <span className="section-label">THE PROBLEM</span>
-        <h2>Kids are glued to screens. Almost none of it feeds their soul.</h2>
-        <div className="stats-grid">
-          <div className="stat-card">
-            <div className="stat-num">4.4 hrs/day</div>
-            <p>Average screen time for kids 8&ndash;12.</p>
+      {/* THREE PROMISES — variant 02. Three short declarative lines, nothing
+          more. Replaces what used to be four separate argued sections. */}
+      <section className="promises-section">
+        <div className="promise-grid">
+          <div className="promise">
+            <h2>faithful. short. real.</h2>
+            <p>60&ndash;90 seconds a story, reviewed for doctrinal accuracy by real Christians.</p>
           </div>
-          <div className="stat-card">
-            <div className="stat-num">0 Bible</div>
-            <p>The vast majority of kids&rsquo; content on YouTube and TikTok is faith-free.</p>
+          <div className="promise">
+            <h2>no ads. ever.</h2>
+            <p>No algorithm, no comments, no rabbit holes. Subscriptions are our only revenue.</p>
           </div>
-          <div className="stat-card">
-            <div className="stat-num">78% guilt</div>
-            <p>Of Christian parents feel guilty about their children&rsquo;s screen time.</p>
+          <div className="promise">
+            <h2>they keep going.</h2>
+            <p>Most Bible apps get outgrown by seven. This one runs to fifteen.</p>
           </div>
         </div>
       </section>
 
-      {/* SEE IT — the product proving itself. One section, one CTA. */}
+      {/* SEE THE VIDEOS — variant 01's job. A parent will not pay for videos
+          they have not seen, so this plays a real one and then shows the shelf
+          it came from. */}
       <section className="fullstory-section">
         <span className="section-label">SEE FOR YOURSELF</span>
         <h2>Watch a full story right now</h2>
@@ -254,49 +249,21 @@ export default function Home() {
             <PreviewCard key={v.src} {...v} />
           ))}
         </div>
-        <div className="preview-more">
-          <p>+ 300+ lessons across 31 series, in order, from Genesis to Revelation</p>
-          <button className="btn-primary" onClick={handleCTA}>Start 3 days free</button>
-        </div>
-      </section>
 
-      {/* THREE PROMISES — replaces four sections that each argued a piece of
-          this at length: the solution grid, how-it-works, an eight-item
-          features grid, and a four-card privacy section. Short declarative
-          headings, one line each, in the manner of Epic and Duolingo. */}
-      <section className="promises-section">
-        <h2>Why parents trust it</h2>
-        <div className="promise-grid">
-          <div className="promise">
-            <h3>Faithful to Scripture.</h3>
-            <p>
-              Every story is reviewed for doctrinal accuracy by real Christians before it goes
-              live. Catholic, Evangelical and Non-denominational paths at setup.
-            </p>
-          </div>
-          <div className="promise">
-            <h3>Safe by design.</h3>
-            <p>
-              No ads, no algorithm, no comments, no rabbit holes. We never sell your data and
-              no third-party tracking follows your child. COPPA compliant.
-            </p>
-          </div>
-          <div className="promise">
-            <h3>Built for the years kids quit.</h3>
-            <p>
-              Most Bible apps are made for toddlers and get outgrown by seven. This one runs
-              to fifteen, through the whole story in order.
-            </p>
-          </div>
+        <div className="library-strip">
+          <div><b>300+</b><span>video lessons</span></div>
+          <div><b>31</b><span>series, in order</span></div>
+          <div><b>5&ndash;15</b><span>ages it is built for</span></div>
+          <div><b>0</b><span>ads, ever</span></div>
         </div>
-        <p className="promises-parents">
-          <strong>Parents get:</strong> screen-time limits per child, a dashboard showing what
-          they watched, age-matched stories, and up to 5 profiles. Works on any phone, tablet
-          or laptop &mdash; nothing to install.
+        <p className="section-sub library-note">
+          Genesis to Revelation, in the order it happened &mdash; not a handful of favourite
+          stories on shuffle. Every lesson ends with a quiz and a reflection.
         </p>
+        <button className="btn-primary" onClick={handleCTA}>Start 3 days free</button>
       </section>
 
-      {/* TESTIMONIALS */}
+      {/* SOCIAL PROOF — variant 04's job. */}
       <section className="testimonials-section">
         <h2>What parents say</h2>
         <div className="testimonials-grid">
@@ -310,6 +277,10 @@ export default function Home() {
             </div>
           ))}
         </div>
+        <p className="section-sub testi-note">
+          Faithful Kids is a Christian app for kids built around the stories every Christian
+          tradition shares. Choose a Catholic, Evangelical or Non-denominational path at setup.
+        </p>
       </section>
 
       {/* PRICING — the page had no pricing section at all. The only figures a

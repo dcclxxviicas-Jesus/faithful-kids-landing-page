@@ -206,6 +206,106 @@ body {
   .promises-section { padding: 60px 16px; }
 }
 
+/* ===== HERO, CENTRED (variant 02) =====
+   The hero was a two-column split with the phone beside the copy. Centring it
+   puts one headline and one button on the axis the eye already follows, and
+   drops everything else below the decision. */
+.hero-center {
+  display: block;
+  text-align: center;
+  max-width: 940px;
+  padding: 72px 24px 52px;
+}
+.hero-center .hero-content { max-width: 700px; margin: 0 auto; }
+.hero-center h1 {
+  font-size: clamp(2.2rem, 5.4vw, 3.6rem);
+  line-height: 1.05;
+  letter-spacing: -0.035em;
+  margin: 0 auto 18px;
+  max-width: 16ch;
+}
+.hero-center .subtitle {
+  font-size: 1.12rem;
+  max-width: 40ch;
+  margin: 0 auto 28px;
+}
+.hero-center .hero-visual {
+  margin: 40px auto 0;
+  max-width: 460px;
+}
+.hero-center .hero-proof { justify-content: center; margin-top: 26px; }
+
+.hero-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  justify-content: center;
+  margin-top: 26px;
+}
+.hero-badge {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 15px;
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+.hero-badge i { font-style: normal; color: var(--primary); font-weight: 800; }
+
+/* Three lowercase promises (variant 02). No section heading -- the lines are
+   the heading. */
+.promises-section { max-width: var(--max-width); margin: 0 auto; padding: 72px 24px; }
+.promise-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 40px; text-align: center; }
+.promise h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  margin: 0 0 10px;
+  color: var(--text);
+}
+.promise p { margin: 0; color: var(--text-secondary); font-size: 0.98rem; line-height: 1.6; max-width: 32ch; margin-inline: auto; }
+
+/* Library stat bar under the videos (variant 01). */
+.library-strip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  max-width: 760px;
+  margin: 44px auto 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  background: var(--white);
+}
+.library-strip div {
+  padding: 22px 12px;
+  text-align: center;
+  border-right: 1px solid var(--border);
+}
+.library-strip div:last-child { border-right: none; }
+.library-strip b {
+  display: block;
+  font-size: 1.7rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--primary);
+}
+.library-strip span { font-size: 0.82rem; color: var(--text-muted); }
+.library-note { max-width: 56ch; margin: 22px auto 26px; }
+.testi-note { max-width: 60ch; margin: 30px auto 0; }
+
+@media (max-width: 860px) {
+  .promise-grid { grid-template-columns: 1fr; gap: 34px; }
+  .library-strip { grid-template-columns: repeat(2, 1fr); }
+  .library-strip div:nth-child(2) { border-right: none; }
+  .library-strip div:nth-child(1), .library-strip div:nth-child(2) { border-bottom: 1px solid var(--border); }
+  .hero-center { padding: 52px 18px 40px; }
+  .promises-section { padding: 52px 18px; }
+}
+
 /* ===== PRICING ===== */
 .pricing-section {
   max-width: var(--max-width);

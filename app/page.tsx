@@ -189,7 +189,7 @@ export default function Home() {
           answer the sceptical parent before they scroll. */}
       <section className="hero hero-center" aria-label="Hero">
         <div className="hero-content">
-          <h1>The <span className="highlight">Bible app for kids</span> they ask to watch</h1>
+          <h1>The <span className="highlight">Bible app for kids</span>.<br />A <span className="highlight">Christian alternative to YouTube</span>.</h1>
           <p className="subtitle">
             300+ short Bible story videos. Genesis to Revelation. No ads, ever.
           </p>
@@ -244,12 +244,6 @@ export default function Home() {
         <p className="section-sub">Exactly what your child sees. No signup. Just press play.</p>
         <FullStoryPlayer />
 
-        <div className="preview-grid">
-          {STORIES.slice(1).map((v) => (
-            <PreviewCard key={v.src} {...v} />
-          ))}
-        </div>
-
         <div className="library-strip">
           <div><b>300+</b><span>video lessons</span></div>
           <div><b>31</b><span>series, in order</span></div>
@@ -266,13 +260,16 @@ export default function Home() {
       {/* SOCIAL PROOF — variant 04's job. */}
       <section className="testimonials-section">
         <h2>What parents say</h2>
-        <div className="testimonials-grid">
+        <div className="testimonial-grid">
           {TESTIMONIALS.slice(0, 3).map((t) => (
             <div key={t.name} className="testimonial-card">
               <p className="testimonial-quote">&ldquo;{t.quote}&rdquo;</p>
-              <div className="testimonial-author">
-                <strong>{t.name}</strong>
-                <span>{t.role}</span>
+              <div className="testimonial-footer">
+                <div className="testimonial-avatar">{t.name[0]}</div>
+                <div>
+                  <p className="testimonial-name">{t.name}</p>
+                  <p className="testimonial-role">{t.role}</p>
+                </div>
               </div>
             </div>
           ))}
@@ -372,93 +369,6 @@ export default function Home() {
   )
 }
 
-function PreviewCard({ src, poster, title, series, age }: { src: string; poster: string; title: string; series: string; age: string }) {
-  const [playing, setPlaying] = useState(false)
-  const [muted, setMuted] = useState(true)
-  const [canHover, setCanHover] = useState(true)
-  const vidRef = useRef<HTMLVideoElement>(null)
-
-  // Touch devices have no hover, so "Hover to preview" was an instruction
-  // roughly half the audience could not follow. Decide in an effect, not during
-  // render, so the server and client agree.
-  useEffect(() => {
-    setCanHover(window.matchMedia('(hover: hover)').matches)
-  }, [])
-
-  function handlePlay() {
-    if (vidRef.current) {
-      vidRef.current.play()
-      setPlaying(true)
-    }
-  }
-
-  function handleStop() {
-    if (vidRef.current) {
-      vidRef.current.pause()
-      vidRef.current.currentTime = 0
-      setPlaying(false)
-      setMuted(true)
-      vidRef.current.muted = true
-    }
-  }
-
-  function toggleMute(e: React.MouseEvent) {
-    e.stopPropagation()
-    if (vidRef.current) {
-      vidRef.current.muted = !muted
-      setMuted(!muted)
-      if (muted) {
-        vidRef.current.play()
-        setPlaying(true)
-        posthog.capture('preview_unmuted', { title })
-      }
-    }
-  }
-
-  // On touch, tapping the card is what starts and stops it.
-  function handleTap() {
-    if (canHover) return
-    if (playing) handleStop()
-    else {
-      handlePlay()
-      posthog.capture('preview_tapped', { title })
-    }
-  }
-
-  return (
-    <div
-      className="preview-card"
-      onMouseEnter={canHover ? handlePlay : undefined}
-      onMouseLeave={canHover ? handleStop : undefined}
-      onClick={handleTap}
-    >
-      <div className="preview-video-wrap">
-        <video ref={vidRef} src={src} poster={poster} muted loop playsInline preload="none" />
-        {!playing && (
-          <div className="preview-play-hint">
-            {canHover ? '\u25B6 Hover to preview' : '\u25B6 Tap to play'}
-          </div>
-        )}
-        {playing && (
-          <button className="preview-mute-btn" onClick={toggleMute} aria-label={muted ? 'Unmute video' : 'Mute video'}>
-            {muted ? '🔇' : '🔊'}
-          </button>
-        )}
-      </div>
-      <div className="preview-info">
-        <span className="preview-series">{series}</span>
-        <p className="preview-title">{title}</p>
-        <span className="preview-age">{age}</span>
-      </div>
-    </div>
-  )
-}
-
-// Posters are real frames pulled from each lesson, chosen for brightness and
-// detail rather than taken at t=0 (Creation opens on darkness, so its first
-// second is a black rectangle). Without these every video on the page painted
-// black until tapped -- and four of them preload="none", so on a phone the
-// preview grid was three black boxes.
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
 const STORIES = [
   {
@@ -478,52 +388,32 @@ const STORIES = [
   },
 ]
 
-const PHONE_VIDEOS = STORIES
-
 function PhoneMockup() {
-  const [current, setCurrent] = useState(0)
-  const [touchStart, setTouchStart] = useState<number | null>(null)
   const [muted, setMuted] = useState(true)
   const videoRef = useRef<HTMLVideoElement>(null)
 
-  function goTo(index: number) {
-    setCurrent(index)
-    setMuted(true)
-    posthog.capture('phone_video_swipe', { index, title: PHONE_VIDEOS[index].title })
-  }
+  // One story, not a carousel. The three videos in STORIES were each already
+  // appearing more than once on the page, and the dots and arrows asked the
+  // visitor to browse at the exact moment we want them doing one thing.
+  const v = STORIES[0]
 
   function toggleMute() {
-    if (videoRef.current) {
-      videoRef.current.muted = !muted
-      setMuted(!muted)
-      if (muted) {
-        videoRef.current.play()
-        posthog.capture('hero_video_unmuted', { title: PHONE_VIDEOS[current].title })
-      }
+    const el = videoRef.current
+    if (!el) return
+    const next = !muted
+    el.muted = next
+    setMuted(next)
+    if (!next) {
+      el.play()
+      posthog.capture('hero_video_unmuted', { title: v.title })
     }
   }
 
-  function next() { if (current < PHONE_VIDEOS.length - 1) goTo(current + 1) }
-  function prev() { if (current > 0) goTo(current - 1) }
-
-  const v = PHONE_VIDEOS[current]
-
   return (
     <div className="phone-mockup">
-      <div
-        className="phone-screen"
-        onTouchStart={(e) => setTouchStart(e.touches[0].clientY)}
-        onTouchEnd={(e) => {
-          if (touchStart === null) return
-          const delta = touchStart - e.changedTouches[0].clientY
-          if (delta > 50) next()
-          else if (delta < -50) prev()
-          setTouchStart(null)
-        }}
-      >
+      <div className="phone-screen">
         <video
           ref={videoRef}
-          key={v.src}
           src={v.src}
           autoPlay
           muted={muted}
@@ -540,32 +430,14 @@ function PhoneMockup() {
           <span className="phone-badge">{v.badge}</span>
         </div>
 
-        {/* Unmute button */}
-        <button className="phone-mute-btn" onClick={toggleMute}>
-          {muted ? '🔇 Tap to listen' : '🔊 Playing'}
+        {/* Bottom-centre, high contrast, and it says what tapping does. */}
+        <button
+          className={`phone-sound-btn${muted ? '' : ' is-on'}`}
+          onClick={toggleMute}
+          aria-pressed={!muted}
+        >
+          {muted ? '🔊 Tap for sound' : '🔇 Mute'}
         </button>
-
-        {/* Scroll dots */}
-        <div className="phone-dots" role="tablist" aria-label="Video selector">
-          {PHONE_VIDEOS.map((vid, i) => (
-            <button
-              key={i}
-              className={`phone-dot ${i === current ? 'active' : ''}`}
-              onClick={() => goTo(i)}
-              aria-label={`Go to video: ${vid.title}`}
-              role="tab"
-              aria-selected={i === current}
-            />
-          ))}
-        </div>
-
-        {/* Arrow buttons */}
-        {current > 0 && (
-          <button className="phone-arrow up" onClick={prev} aria-label="Previous video">&#8249;</button>
-        )}
-        {current < PHONE_VIDEOS.length - 1 && (
-          <button className="phone-arrow down" onClick={next} aria-label="Next video">&#8250;</button>
-        )}
       </div>
     </div>
   )
@@ -777,10 +649,21 @@ function ExitIntent() {
     <div className="exit-overlay" onClick={() => setDismissed(true)} role="dialog" aria-modal="true" aria-label="Watch a story before you go">
       <div className="exit-modal" onClick={(e) => e.stopPropagation()}>
         <button className="exit-close" onClick={() => setDismissed(true)} aria-label="Close dialog">✕</button>
-        <h2>Before you go, watch this.</h2>
-        <p>60 seconds. One Bible story. See if it is good enough for your kids.</p>
+        <h2>Before you go &mdash; watch one.</h2>
+        <p>A full Bible story, free, right here. See if it is right for your kids.</p>
         <div className="exit-video-wrap">
-          <video src={STORIES[0].src} poster={STORIES[0].poster} controls autoPlay muted playsInline preload="none" className="exit-video" />
+          {/* Poster-first, not autoplaying. An auto-started muted clip opened on
+              whatever frame it happened to reach -- often a pillarboxed one --
+              where the poster is a clean, chosen still. The reader presses play. */}
+          <video
+            src={STORIES[0].src}
+            poster={STORIES[0].poster}
+            controls
+            playsInline
+            preload="none"
+            className="exit-video"
+            onPlay={() => posthog.capture('exit_intent_video_play')}
+          />
         </div>
         <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/checkout' }}>
           Try Free for 3 Days

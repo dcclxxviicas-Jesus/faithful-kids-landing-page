@@ -309,6 +309,40 @@ body {
   .promises-section { padding: 52px 18px; }
 }
 
+/* Sound control for the hero video. The old one was a small dark pill in the
+   top-left corner reading "Tap to listen" -- easy to read as a caption rather
+   than a control. This sits bottom-centre, where a player's controls belong. */
+.phone-sound-btn {
+  position: absolute;
+  bottom: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 4;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 11px 20px;
+  border: none;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.96);
+  color: #1e293b;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(6px);
+  transition: transform var(--transition), background var(--transition);
+  white-space: nowrap;
+}
+.phone-sound-btn:hover { transform: translateX(-50%) translateY(-1px); }
+.phone-sound-btn:active { transform: translateX(-50%) translateY(1px); }
+.phone-sound-btn.is-on { background: rgba(255,255,255,0.82); color: #475569; }
+.phone-sound-btn:focus-visible { outline: 3px solid var(--primary); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) {
+  .phone-sound-btn { transition: none; }
+}
+
 /* ===== PRICING ===== */
 .pricing-section {
   max-width: var(--max-width);
@@ -1968,7 +2002,7 @@ body {
 .exit-modal h2 { font-size: 1.6rem; font-weight: 800; margin-bottom: 6px; }
 .exit-modal > p { font-size: 0.95rem; color: var(--text-secondary); margin-bottom: 20px; }
 .exit-video-wrap { margin-bottom: 20px; border-radius: var(--radius); overflow: hidden; }
-.exit-video { width: 100%; display: block; aspect-ratio: 16/9; }
+.exit-video { width: 100%; display: block; aspect-ratio: 16/9; object-fit: cover; background: #000; }
 .exit-sub { font-size: 0.8rem; color: var(--text-muted); margin-top: 10px; }
 
 .preview-more {

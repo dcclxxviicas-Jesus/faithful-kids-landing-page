@@ -23,7 +23,7 @@ export function Refined({ monthly, tag }: { monthly: number; tag: string }) {
   const monthlyYear = +(monthly * 12).toFixed(2)
   const saved = +(monthlyYear - ANNUAL_YEAR).toFixed(2)
   const pct = Math.round((1 - ANNUAL_YEAR / monthlyYear) * 100)
-  const monthsFree = Math.floor(12 - ANNUAL_YEAR / monthly)
+  const monthsFree = Math.round(12 - ANNUAL_YEAR / monthly)
   const annual = plan === 'annual'
 
   return (

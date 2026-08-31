@@ -273,3 +273,139 @@
   .cv-card.cv-card-lesser .cv-card-price { font-size: 1.3rem; }
   .cv-was { font-size: 0.82rem; }
 }
+
+/* ================= Three non-grey ways to favour the yearly plan =================
+   The common idea: yearly wins on how much it has to SAY, not on the monthly
+   option being drained of colour. Every surface below stays white and crisp. */
+
+.cv-dash { color: #cbd5e1; font-weight: 800; flex-shrink: 0; width: 1em; }
+
+/* ---------- A. Segmented toggle, one card ---------- */
+.cv-seg {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 4px;
+  background: #eef0f3; border-radius: 14px; padding: 4px; margin-bottom: 18px;
+}
+.cv-seg-btn {
+  border: none; background: none; cursor: pointer; font-family: inherit;
+  padding: 12px 8px; border-radius: 11px; font-size: 0.95rem; font-weight: 800;
+  color: #6b7280; display: flex; align-items: center; justify-content: center; gap: 7px;
+  transition: background 0.18s, color 0.18s, box-shadow 0.18s;
+}
+.cv-seg-btn.on { background: #fff; color: #1e293b; box-shadow: 0 1px 3px rgba(0,0,0,0.10), 0 3px 8px rgba(0,0,0,0.05); }
+.cv-seg-badge {
+  font-size: 0.68rem; font-weight: 800; letter-spacing: 0.02em;
+  background: #059669; color: #fff; padding: 3px 7px; border-radius: 20px;
+}
+
+.cv-onecard {
+  background: linear-gradient(170deg, #f0fdf7 0%, #ffffff 55%);
+  border: 1.5px solid #a7f3d0; border-radius: 20px;
+  padding: 28px 24px; text-align: center; margin-bottom: 18px;
+}
+.cv-onecard-price { display: flex; align-items: baseline; justify-content: center; gap: 8px; }
+.cv-onecard-was {
+  font-size: 1.15rem; font-weight: 700; color: #9ca3af;
+  text-decoration: line-through; text-decoration-color: #f87171; text-decoration-thickness: 2px;
+}
+.cv-onecard-amt { font-size: 3rem; font-weight: 800; letter-spacing: -0.045em; line-height: 1; }
+.cv-onecard-per { font-size: 1rem; font-weight: 700; color: #6b7280; }
+.cv-onecard-billed { font-size: 0.9rem; color: #4b5563; margin: 10px 0 18px; }
+.cv-onecard-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 9px; text-align: left; max-width: 300px; margin-inline: auto; }
+.cv-onecard-list li { display: flex; gap: 9px; font-size: 0.9rem; color: #374151; align-items: flex-start; }
+
+/* ---------- B. One hero card, the alternative offered in words ---------- */
+.cv-hero-card {
+  position: relative; background: linear-gradient(168deg, #ecfdf5 0%, #ffffff 60%);
+  border: 1.5px solid #6ee7b7; border-radius: 22px;
+  padding: 30px 24px 26px; text-align: center; margin: 14px 0 0;
+  box-shadow: 0 10px 30px rgba(5,150,105,0.10);
+}
+.cv-hero-card.alt {
+  background: #fff; border-color: #e5e7eb; box-shadow: 0 6px 20px rgba(15,23,42,0.06);
+}
+.cv-hero-ribbon {
+  position: absolute; top: -12px; left: 50%; transform: translateX(-50%);
+  background: #059669; color: #fff; font-size: 0.68rem; font-weight: 800;
+  letter-spacing: 0.04em; text-transform: uppercase; padding: 5px 14px;
+  border-radius: 20px; white-space: nowrap; box-shadow: 0 3px 10px rgba(5,150,105,0.35);
+}
+.cv-hero-name {
+  font-size: 0.78rem; font-weight: 800; text-transform: uppercase;
+  letter-spacing: 0.09em; color: #6b7280; margin-bottom: 10px;
+}
+.cv-hero-price { display: flex; align-items: baseline; justify-content: center; gap: 9px; }
+.cv-hero-was {
+  font-size: 1.2rem; font-weight: 700; color: #9ca3af;
+  text-decoration: line-through; text-decoration-color: #f87171; text-decoration-thickness: 2px;
+}
+.cv-hero-amt { font-size: 3.3rem; font-weight: 800; letter-spacing: -0.05em; line-height: 1; }
+.cv-hero-per { font-size: 1.05rem; font-weight: 700; color: #6b7280; }
+.cv-hero-billed { font-size: 0.9rem; color: #4b5563; margin: 12px 0 20px; }
+.cv-hero-rows {
+  display: flex; flex-direction: column; gap: 10px; text-align: left;
+  max-width: 300px; margin-inline: auto;
+  border-top: 1px solid rgba(5,150,105,0.15); padding-top: 18px;
+}
+.cv-hero-card.alt .cv-hero-rows { border-top-color: #eef0f3; }
+.cv-hero-rows div { display: flex; gap: 9px; font-size: 0.9rem; color: #374151; align-items: flex-start; }
+
+.cv-switch {
+  display: block; width: 100%; margin: 16px 0 20px; padding: 13px;
+  background: none; border: 1.5px dashed #cbd5e1; border-radius: 14px;
+  font-family: inherit; font-size: 0.9rem; color: #4b5563; cursor: pointer;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+}
+.cv-switch:hover { border-color: #059669; color: #059669; background: #f0fdf7; }
+.cv-switch strong { font-weight: 800; }
+
+/* ---------- C. Twin cards, both white, differentiated by content ---------- */
+.cv-twins { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 16px 0 18px; align-items: stretch; }
+.cv-twin {
+  position: relative; display: flex; flex-direction: column; align-items: center;
+  background: #fff; border: 1.5px solid #e5e7eb; border-radius: 20px;
+  padding: 26px 14px 20px; cursor: pointer; font-family: inherit; text-align: center;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+}
+.cv-twin:hover { transform: translateY(-2px); }
+.cv-twin.on { border-color: #059669; box-shadow: 0 0 0 3px rgba(5,150,105,0.14); }
+/* The crown is a gradient edge, not a colour drain on the other card. */
+.cv-twin.best::before {
+  content: ''; position: absolute; inset: 0 0 auto 0; height: 5px;
+  border-radius: 20px 20px 0 0;
+  background: linear-gradient(90deg, #34d399, #059669);
+}
+.cv-twin-crown {
+  position: absolute; top: -11px; left: 50%; transform: translateX(-50%);
+  background: #059669; color: #fff; font-size: 0.63rem; font-weight: 800;
+  letter-spacing: 0.05em; text-transform: uppercase; padding: 4px 11px;
+  border-radius: 20px; white-space: nowrap;
+}
+.cv-twin-name {
+  font-size: 0.74rem; font-weight: 800; text-transform: uppercase;
+  letter-spacing: 0.08em; color: #6b7280; margin-bottom: 9px;
+}
+.cv-twin-price { display: flex; align-items: baseline; justify-content: center; gap: 5px; flex-wrap: wrap; }
+.cv-twin-was {
+  font-size: 0.85rem; font-weight: 700; color: #9ca3af; width: 100%;
+  text-decoration: line-through; text-decoration-color: #f87171; text-decoration-thickness: 2px;
+}
+.cv-twin-amt { font-size: 2rem; font-weight: 800; letter-spacing: -0.04em; line-height: 1.05; }
+.cv-twin-per { font-size: 0.8rem; font-weight: 700; color: #6b7280; }
+.cv-twin-billed { font-size: 0.78rem; color: #6b7280; margin-top: 7px; }
+.cv-twin-rows {
+  display: flex; flex-direction: column; gap: 7px; text-align: left;
+  margin-top: 16px; padding-top: 14px; border-top: 1px solid #f1f3f5; width: 100%;
+}
+.cv-twin-rows span { display: flex; gap: 7px; font-size: 0.78rem; color: #374151; align-items: flex-start; line-height: 1.35; }
+
+@media (max-width: 620px) {
+  .cv-onecard-amt { font-size: 2.5rem; }
+  .cv-hero-amt { font-size: 2.7rem; }
+  .cv-twins { gap: 10px; }
+  .cv-twin { padding: 24px 10px 18px; }
+  .cv-twin-amt { font-size: 1.65rem; }
+  .cv-twin-rows span { font-size: 0.72rem; }
+}
+
+/* The green wash reads as "good deal" — it should not follow the monthly tab. */
+.cv-onecard.alt { background: #fff; border-color: #e5e7eb; }

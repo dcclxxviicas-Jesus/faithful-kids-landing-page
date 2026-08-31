@@ -4,9 +4,17 @@ const VARIANTS: { n: number | string; name: string; ref: string; what: string }[
   { n: 1, name: 'Focused Confirm', ref: 'Headspace', what: 'One decision, then pay. No feature list, no reviews, no urgency device. Shortest possible path.' },
   { n: 2, name: 'Side by Side', ref: 'Minno', what: 'Both plans priced per month so the comparison needs no arithmetic. Features below the button.' },
   { n: '2a', name: 'Side by Side — pushed to yearly', ref: 'monthly stays $8.88', what: 'Refined 2. Struck-through monthly rate, year-vs-year table, and a penalty panel if they pick monthly. Saving: $28.79 (27%).' },
-  { n: '2b', name: 'Side by Side — pushed to yearly', ref: 'monthly raised to $10.88', what: 'Same page, monthly repriced. Saving becomes $52.79 (40%), about 4 months free. Stays under Minno\u2019s $10.99.' },
+  { n: '2b', name: 'Side by Side — pushed to yearly', ref: 'monthly raised to $10.88', what: 'Same page, monthly repriced. Saving becomes $52.79 (40%), about 4 months free.' },
   { n: 3, name: 'See It First', ref: 'Netflix / Yippee', what: 'A real lesson playable beside the plans. Checkout is the only page on the site that shows no product.' },
   { n: 4, name: 'Nothing Hidden', ref: 'Duolingo / Calm', what: 'Real dates replace the fake countdown. Answers "when am I charged" before it is asked.' },
+]
+
+// The three below all run monthly at $10.99 and favour yearly WITHOUT greying
+// the monthly option out.
+const TREATMENTS = [
+  { slug: 'toggle', name: 'Segmented toggle', what: 'One card, a switch on top. Neither option is uglier than the other — the card simply says more when yearly is picked.' },
+  { slug: 'hero', name: 'Single hero card', what: 'Only yearly is a card. Monthly is offered as a quiet line of text that swaps it. Nothing to grey out.' },
+  { slug: 'twin', name: 'Twin cards', what: 'Both white and crisp. Yearly wins on a gradient crown and rows of value monthly has nothing to put in.' },
 ]
 
 export default function Index() {
@@ -32,6 +40,19 @@ export default function Index() {
             </a>
           ))}
         </div>
+        <h2 className="cv-inc-title">Better than greying it out &mdash; all at $10.99 monthly</h2>
+        <div className="cv-plans">
+          {TREATMENTS.map((t) => (
+            <a key={t.slug} href={`/checkout-variants/${t.slug}`} className="cv-plan" style={{ textDecoration: 'none', color: 'inherit' }}>
+              <span className="cv-plan-mid">
+                <span className="cv-plan-top"><span className="cv-plan-name">{t.name}</span></span>
+                <span className="cv-plan-note">{t.what}</span>
+              </span>
+              <span className="cv-plan-right"><span className="cv-plan-big">&rarr;</span></span>
+            </a>
+          ))}
+        </div>
+
         <p className="cv-cta-note" style={{ marginTop: 24 }}>
           <a href="/checkout">Compare against the current live page</a>
         </p>

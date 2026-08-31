@@ -211,3 +211,65 @@
   .cv-split { display: flex; flex-direction: column; }
   .cv-video-panel { order: -1; }
 }
+
+/* ---------- V2 refined: making the yearly plan the obvious pick ----------
+   Compound selectors throughout (.cv-card.cv-card-hero, not .cv-card-hero) —
+   the base .cv-card rules sit far above these in the file. */
+
+.cv-cards:has(.cv-card-hero) { grid-template-columns: 1.15fr 0.85fr; align-items: stretch; }
+
+.cv-card.cv-card-hero {
+  /* Prominent but NOT green-bordered until chosen — a full green border here
+     made both cards read as selected once monthly was picked. Elevation and
+     the ribbon carry the emphasis instead. */
+  border-color: #d1fae5; background: #fff;
+  box-shadow: 0 6px 20px rgba(5,150,105,0.13);
+}
+.cv-card.cv-card-hero.on { border-color: #059669; }
+.cv-card.cv-card-hero.on { box-shadow: 0 0 0 3px rgba(5,150,105,0.18), 0 6px 20px rgba(5,150,105,0.15); }
+
+/* Recessive, not sabotaged — it stays fully readable and selectable. */
+.cv-card.cv-card-lesser { background: #f3f4f6; border-color: #e5e7eb; }
+.cv-card.cv-card-lesser .cv-card-price { color: #6b7280; font-size: 1.65rem; }
+.cv-card.cv-card-lesser.on { background: #fff; border-color: #059669; }
+.cv-card.cv-card-lesser.on .cv-card-price { color: #1e293b; }
+
+.cv-was {
+  font-size: 0.95rem; font-weight: 700; color: #9ca3af;
+  text-decoration: line-through; text-decoration-color: #ef4444;
+  text-decoration-thickness: 2px; margin-bottom: 2px;
+}
+
+/* The year-vs-year comparison the live page makes people work out themselves. */
+.cv-compare {
+  background: #fff; border: 1px solid #e5e7eb; border-radius: 14px;
+  padding: 6px 16px; margin-bottom: 18px;
+}
+.cv-compare-row {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 10px 0; font-size: 0.9rem; color: #6b7280;
+  border-bottom: 1px solid #f1f3f5;
+}
+.cv-compare-row:last-child { border-bottom: none; }
+.cv-compare-row.win { color: #1e293b; font-weight: 700; }
+.cv-compare-val { font-variant-numeric: tabular-nums; font-weight: 700; }
+.cv-compare-row.cv-compare-diff { color: #15803d; font-weight: 800; }
+.cv-compare-row.cv-compare-diff .cv-compare-val { font-size: 1.05rem; }
+
+/* Shown only while monthly is selected: the cost of that choice, and a way out. */
+.cv-warn {
+  background: #fffbeb; border: 1px solid #fde68a; border-radius: 14px;
+  padding: 14px 16px; margin-bottom: 20px;
+}
+.cv-warn p { margin: 0 0 10px; font-size: 0.88rem; color: #78350f; line-height: 1.5; }
+.cv-warn-btn {
+  background: none; border: none; padding: 0; cursor: pointer; font-family: inherit;
+  font-size: 0.88rem; font-weight: 800; color: #059669; text-align: left;
+}
+.cv-warn-btn:hover { text-decoration: underline; }
+
+@media (max-width: 620px) {
+  .cv-cards:has(.cv-card-hero) { grid-template-columns: 1fr 1fr; }
+  .cv-card.cv-card-lesser .cv-card-price { font-size: 1.3rem; }
+  .cv-was { font-size: 0.82rem; }
+}

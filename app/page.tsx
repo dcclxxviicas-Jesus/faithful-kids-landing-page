@@ -6,8 +6,6 @@ import posthog from 'posthog-js'
 import { useTimer } from './use-timer'
 import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
 
-const DENOMINATIONS = ['Catholic', 'Evangelical', 'Non-denominational', 'Other']
-
 const TESTIMONIALS = [
   {
     name: 'Maria S.',
@@ -58,27 +56,7 @@ const FAQS = [
 ]
 
 export default function Home() {
-  const [email, setEmail] = useState('')
-  const [denomination, setDenomination] = useState('')
-  const [submitted, setSubmitted] = useState(false)
-  const [submitting, setSubmitting] = useState(false)
   const [openFaq, setOpenFaq] = useState<number | null>(null)
-  const [surveyDone, setSurveyDone] = useState(false)
-  const formRef = useRef<HTMLFormElement>(null)
-
-  function handleSubmit(e: React.FormEvent) {
-    e.preventDefault()
-    if (!email || !denomination) return
-    setSubmitting(true)
-    posthog.identify(email)
-    posthog.capture('signup', { email, denomination })
-    setSubmitted(true)
-    setSubmitting(false)
-  }
-
-  function scrollToForm() {
-    formRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' })
-  }
 
   function handleCTA() {
     posthog.capture('cta_click', { location: 'various' })
@@ -87,11 +65,6 @@ export default function Home() {
 
   function handlePricingClick(tier: string, price: string) {
     posthog.capture('pricing_click', { tier, price })
-  }
-
-  function handleSurvey(wouldPay: boolean) {
-    posthog.capture('survey_response', { would_pay: wouldPay })
-    setSurveyDone(true)
   }
 
   return (
@@ -216,17 +189,15 @@ export default function Home() {
         <div className="hero-content">
           <h1>The <span className="highlight">Bible app for kids</span> they actually ask to watch</h1>
           <p className="subtitle">
-            Short Bible story videos for kids ages 5+. No ads, no algorithm, no guilt. Just Scripture, beautifully told.
+            300+ short Bible story videos, Genesis to Revelation. Every one ends with a quiz,
+            so you know what landed.
           </p>
 
           <button className="btn-primary btn-hero" onClick={handleCTA}>
-            Try Free for 3 Days
+            Start 3 days free
           </button>
           <p className="hero-subtext">No commitment. Cancel anytime.</p>
 
-          {/* One proof row, not four stacked signals. The three trust bullets
-              moved to the strip below the hero, which also replaced the black
-              scrolling ticker. */}
           <div className="hero-proof">
             <span className="hero-rating">
               <span className="stars">★★★★★</span>
@@ -241,72 +212,41 @@ export default function Home() {
         </div>
       </section>
 
-      {/* TRUST STRIP — replaced a black scrolling ticker of testimonial
-          fragments: unreadable at speed and the harshest element on an
-          otherwise soft page. Absorbs the three bullets that used to crowd
-          the hero. */}
+      {/* TRUST STRIP */}
       <div className="trust-strip">
         <div className="trust-strip-inner">
-          <span><strong>200</strong> video lessons</span>
+          <span><strong>300+</strong> video lessons</span>
           <span><strong>Genesis to Revelation</strong></span>
           <span><strong>Doctrinally reviewed</strong> by real Christians</span>
           <span><strong>Zero ads</strong>, ever</span>
         </div>
       </div>
 
-      {/* THE PROBLEM */}
+      {/* THE PROBLEM — the sharpest writing on the page. Kept almost intact. */}
       <section className="problem-section">
         <span className="section-label">THE PROBLEM</span>
         <h2>Kids are glued to screens. Almost none of it feeds their soul.</h2>
-        <p className="section-sub">Kids love short videos. That is not going away. The problem is what they are watching.</p>
         <div className="stats-grid">
           <div className="stat-card">
             <div className="stat-num">4.4 hrs/day</div>
-            <p>Average screen time for kids 8-12. Almost none of it has any spiritual or educational value.</p>
+            <p>Average screen time for kids 8&ndash;12.</p>
           </div>
           <div className="stat-card">
             <div className="stat-num">0 Bible</div>
-            <p>The vast majority of kids content on YouTube and TikTok has zero faith-based content whatsoever.</p>
+            <p>The vast majority of kids&rsquo; content on YouTube and TikTok is faith-free.</p>
           </div>
           <div className="stat-card">
             <div className="stat-num">78% guilt</div>
-            <p>Of Christian parents feel guilty about their children's screen time and want better alternatives.</p>
-          </div>
-        </div>
-        <button className="btn-primary" onClick={handleCTA}>Make Screen Time Count</button>
-      </section>
-
-      {/* THE SOLUTION */}
-      <section className="solution-section">
-        <span className="section-label">THE SOLUTION</span>
-        <h2>Bible stories they actually want to watch</h2>
-        <p className="section-sub">Short videos designed by people of faith, loved by kids, and trusted by parents.</p>
-        <div className="solution-grid">
-          <div className="solution-card">
-            <div className="solution-icon">📖</div>
-            <h3>Doctrinally Reviewed</h3>
-            <p>Every story is reviewed by practicing Christians for accuracy. Real Scripture, told faithfully.</p>
-          </div>
-          <div className="solution-card">
-            <div className="solution-icon">🛡️</div>
-            <h3>Safe & Ad-Free</h3>
-            <p>No ads, no comments, no algorithm rabbit holes. Just a safe space of faith-based content.</p>
-          </div>
-          <div className="solution-card">
-            <div className="solution-icon">🎯</div>
-            <h3>Age-Appropriate</h3>
-            <p>Content matched to your child's age. Simple stories for little ones, deeper lessons for older kids.</p>
+            <p>Of Christian parents feel guilty about their children&rsquo;s screen time.</p>
           </div>
         </div>
       </section>
 
-      {/* SEE IT — was two sections ("Watch a full story" + "Preview more
-          stories") making the same argument back to back with two headings and
-          two CTAs. One section, one heading, one CTA. */}
+      {/* SEE IT — the product proving itself. One section, one CTA. */}
       <section className="fullstory-section">
         <span className="section-label">SEE FOR YOURSELF</span>
         <h2>Watch a full story right now</h2>
-        <p className="section-sub">This is exactly what your child will see. No signup needed. Just press play.</p>
+        <p className="section-sub">Exactly what your child sees. No signup. Just press play.</p>
         <FullStoryPlayer />
 
         <div className="preview-grid">
@@ -315,56 +255,61 @@ export default function Home() {
           ))}
         </div>
         <div className="preview-more">
-          <p>+ 300+ lessons across 31 series, from Genesis to Revelation</p>
-          <button className="btn-primary" onClick={handleCTA}>Start Your Free Trial</button>
+          <p>+ 300+ lessons across 31 series, in order, from Genesis to Revelation</p>
+          <button className="btn-primary" onClick={handleCTA}>Start 3 days free</button>
         </div>
+      </section>
+
+      {/* THREE PROMISES — replaces four sections that each argued a piece of
+          this at length: the solution grid, how-it-works, an eight-item
+          features grid, and a four-card privacy section. Short declarative
+          headings, one line each, in the manner of Epic and Duolingo. */}
+      <section className="promises-section">
+        <h2>Why parents trust it</h2>
+        <div className="promise-grid">
+          <div className="promise">
+            <h3>Faithful to Scripture.</h3>
+            <p>
+              Every story is reviewed for doctrinal accuracy by real Christians before it goes
+              live. Catholic, Evangelical and Non-denominational paths at setup.
+            </p>
+          </div>
+          <div className="promise">
+            <h3>Safe by design.</h3>
+            <p>
+              No ads, no algorithm, no comments, no rabbit holes. We never sell your data and
+              no third-party tracking follows your child. COPPA compliant.
+            </p>
+          </div>
+          <div className="promise">
+            <h3>Built for the years kids quit.</h3>
+            <p>
+              Most Bible apps are made for toddlers and get outgrown by seven. This one runs
+              to fifteen, through the whole story in order.
+            </p>
+          </div>
+        </div>
+        <p className="promises-parents">
+          <strong>Parents get:</strong> screen-time limits per child, a dashboard showing what
+          they watched, age-matched stories, and up to 5 profiles. Works on any phone, tablet
+          or laptop &mdash; nothing to install.
+        </p>
       </section>
 
       {/* TESTIMONIALS */}
       <section className="testimonials-section">
-        <h2>"My kids ask for Bible stories instead of YouTube now"</h2>
-        <p className="section-sub">Join thousands of Christian families who made screen time faith time.</p>
-        <div className="testimonial-grid">
-          {TESTIMONIALS.map((t) => (
+        <h2>What parents say</h2>
+        <div className="testimonials-grid">
+          {TESTIMONIALS.slice(0, 3).map((t) => (
             <div key={t.name} className="testimonial-card">
-              <p className="testimonial-quote">"{t.quote}"</p>
-              <div className="testimonial-footer">
-                <div className="testimonial-avatar">{t.name[0]}</div>
-                <div>
-                  <p className="testimonial-name">{t.name}</p>
-                  <p className="testimonial-role">{t.role}</p>
-                </div>
+              <p className="testimonial-quote">&ldquo;{t.quote}&rdquo;</p>
+              <div className="testimonial-author">
+                <strong>{t.name}</strong>
+                <span>{t.role}</span>
               </div>
             </div>
           ))}
         </div>
-        <button className="btn-primary" onClick={handleCTA}>Join These Families</button>
-      </section>
-
-      {/* CURRICULUM */}
-      <CurriculumSection />
-
-      {/* HOW IT WORKS */}
-      <section className="how-section" id="how-it-works">
-        <h2>How it works</h2>
-        <p className="section-sub">Get started in minutes. Your kids will be watching Bible stories before bedtime.</p>
-        <div className="steps-grid">
-          <div className="step-card"><div className="step-num">1</div><h3>Sign Up</h3><p>Create a parent account and pick your denomination.</p></div>
-          <div className="step-card"><div className="step-num">2</div><h3>Set Up Profiles</h3><p>Add your children's ages. Content is matched automatically.</p></div>
-          <div className="step-card"><div className="step-num">3</div><h3>Watch & Learn</h3><p>Kids swipe through short Bible stories. Every video teaches Scripture.</p></div>
-          <div className="step-card"><div className="step-num">4</div><h3>Stay in Control</h3><p>Set screen time limits, check what they watched, and lock it all with a password.</p></div>
-        </div>
-
-        {/* Absorbed from a standalone eight-item features grid. Four of those
-            eight repeated the trust strip or the privacy section below
-            (zero ads, COPPA, doctrinally reviewed, human reviewed); these are
-            the four that said something new. */}
-        <ul className="how-extras">
-          <li><strong>Age-matched</strong> — set your child&rsquo;s age, get stories at their level</li>
-          <li><strong>Screen time limits</strong> — per child, and the app pauses gently</li>
-          <li><strong>Parent dashboard</strong> — what they watched and for how long</li>
-          <li><strong>Works everywhere</strong> — iPhone, iPad, Android, laptop. Nothing to install</li>
-        </ul>
       </section>
 
       {/* PRICING — the page had no pricing section at all. The only figures a
@@ -415,60 +360,6 @@ export default function Home() {
         <p className="plan-guarantee">30-day money-back guarantee &mdash; if your kids don&apos;t love it, we refund you.</p>
       </section>
 
-      {/* SURVEY (post-signup) */}
-      {submitted && (
-        <section className="survey-section">
-          <div className="survey-card">
-            {!surveyDone ? (
-              <>
-                <h3>Quick question</h3>
-                <p>Would you pay $6.48/month for daily Bible story videos for your kids?</p>
-                <div className="survey-buttons">
-                  <button className="survey-btn yes" onClick={() => handleSurvey(true)}>Yes, I would</button>
-                  <button className="survey-btn" onClick={() => handleSurvey(false)}>Probably not</button>
-                </div>
-              </>
-            ) : (
-              <p className="survey-thanks">Thank you for your feedback!</p>
-            )}
-          </div>
-        </section>
-      )}
-
-      {/* TRUST / PRIVACY
-          Every competitor studied (Khan Academy Kids especially) surfaces data
-          and safety promises on the homepage rather than burying them in a
-          policy page. Ours were only in /privacy.
-          EVERY claim below is lifted from our own privacy policy -- do not add
-          anything here that the policy does not already commit to. */}
-      <section className="trust-section">
-        <h2>What we will never do with your child&rsquo;s data</h2>
-        <p className="section-sub">
-          The whole point of a walled garden is that someone actually guards the wall.
-        </p>
-        <div className="trust-grid">
-          <div className="trust-card">
-            <h3>We never sell your data</h3>
-            <p>We do not sell or share personal data with third parties. Not to advertisers, not to anyone.</p>
-          </div>
-          <div className="trust-card">
-            <h3>No third-party tracking</h3>
-            <p>No advertising cookies and no third-party tracking cookies follow your child around the internet.</p>
-          </div>
-          <div className="trust-card">
-            <h3>COPPA compliant</h3>
-            <p>We require verifiable parental consent before collecting anything, as the Children&rsquo;s Online Privacy Protection Act requires.</p>
-          </div>
-          <div className="trust-card">
-            <h3>No ads, and no one paying for placement</h3>
-            <p>Subscriptions are our only revenue. Nothing your child sees was bought by a brand.</p>
-          </div>
-        </div>
-        <p className="trust-footnote">
-          Read the full <a href="/privacy">privacy policy</a> — it is written in plain English, not lawyer.
-        </p>
-      </section>
-
       {/* FAQ */}
       <section className="faq-section" id="faq">
         <h2>Frequently asked questions</h2>
@@ -484,17 +375,15 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </section>
 
-      {/* FINAL CTA */}
-      <section className="final-cta-section">
-        <h2>Turn screen time into the most faithful part of your child's day</h2>
-        <p>Join thousands of Christian parents who stopped fighting screen time and started using it for Scripture.</p>
-        <button className="btn-primary btn-lg" onClick={handleCTA}>Start Watching Free</button>
-        <div className="final-badges">
-          <span>30-day money-back guarantee</span>
-          <span>Cancel anytime</span>
-          <span>No ads ever</span>
+        <div className="faq-close">
+          <h2>Turn screen time into the best part of their day</h2>
+          <button className="btn-primary btn-lg" onClick={handleCTA}>Start 3 days free</button>
+          <div className="final-badges">
+            <span>30-day money-back guarantee</span>
+            <span>Cancel anytime</span>
+            <span>No ads ever</span>
+          </div>
         </div>
       </section>
 

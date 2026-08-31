@@ -154,6 +154,58 @@ body {
 .how-extras strong { color: var(--text); font-weight: 700; }
 @media (max-width: 700px) { .how-extras { grid-template-columns: 1fr; gap: 10px; } }
 
+/* ===== PROMISES (three declarative benefits) ===== */
+.promises-section {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 88px 24px;
+  text-align: center;
+}
+.promise-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 40px;
+  margin-top: 44px;
+  text-align: left;
+}
+.promise h3 {
+  font-size: 1.28rem;
+  font-weight: 800;
+  letter-spacing: -0.015em;
+  color: var(--text);
+  margin: 0 0 10px;
+}
+.promise p {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.promises-parents {
+  max-width: 700px;
+  margin: 48px auto 0;
+  padding-top: 26px;
+  border-top: 1px solid var(--border);
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.65;
+}
+.promises-parents strong { color: var(--text); }
+
+/* FAQ now closes with the final ask instead of a separate section. */
+.faq-close {
+  margin-top: 56px;
+  padding-top: 44px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+.faq-close h2 { margin-bottom: 22px; }
+
+@media (max-width: 860px) {
+  .promise-grid { grid-template-columns: 1fr; gap: 30px; }
+  .promises-section { padding: 60px 16px; }
+}
+
 /* ===== PRICING ===== */
 .pricing-section {
   max-width: var(--max-width);

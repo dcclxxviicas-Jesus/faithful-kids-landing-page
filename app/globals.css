@@ -218,11 +218,12 @@ body {
 }
 .hero.hero-center .hero-content { max-width: 700px; margin: 0 auto; }
 .hero.hero-center h1 {
-  font-size: clamp(2.2rem, 5.4vw, 3.6rem);
-  line-height: 1.05;
+  font-size: clamp(2.1rem, 5vw, 3.4rem);
+  line-height: 1.08;
   letter-spacing: -0.035em;
   margin: 0 auto 18px;
-  max-width: 16ch;
+  max-width: 22ch;
+  text-wrap: balance;
 }
 .hero.hero-center .subtitle {
   font-size: 1.12rem;
@@ -241,6 +242,8 @@ body {
   gap: 9px;
   justify-content: center;
   margin-top: 26px;
+  max-width: 620px;
+  margin-inline: auto;
 }
 .hero-badge {
   background: var(--white);

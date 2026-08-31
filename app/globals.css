@@ -297,7 +297,7 @@ body {
   color: var(--primary);
 }
 .library-strip span { font-size: 0.82rem; color: var(--text-muted); }
-.library-note { max-width: 56ch; margin: 22px auto 26px; }
+.library-note { max-width: 56ch; margin: 40px auto 30px; }
 .testi-note { max-width: 60ch; margin: 30px auto 0; }
 
 @media (max-width: 860px) {
@@ -2245,7 +2245,7 @@ body {
 .exit-close:hover { color: var(--text); }
 .exit-modal h2 { font-size: 1.6rem; font-weight: 800; margin-bottom: 6px; }
 .exit-modal > p { font-size: 0.95rem; color: var(--text-secondary); margin-bottom: 20px; }
-.exit-video-wrap { margin-bottom: 20px; border-radius: var(--radius); overflow: hidden; }
+.exit-video-wrap { margin-bottom: 20px; }
 .exit-video { width: 100%; display: block; aspect-ratio: 16/9; object-fit: cover; background: #000; }
 .exit-sub { font-size: 0.8rem; color: var(--text-muted); margin-top: 10px; }
 

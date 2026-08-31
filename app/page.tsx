@@ -510,6 +510,7 @@ function CurriculumSection() {
 }
 
 function ExitIntent() {
+  const creationStory = STORIES.find(s => s.title.includes('Creation')) ?? STORIES[1]
   const [show, setShow] = useState(false)
   const [dismissed, setDismissed] = useState(false)
   const triggered = useRef(false)
@@ -583,17 +584,17 @@ function ExitIntent() {
         <h2>Before you go &mdash; watch one.</h2>
         <p>A full Bible story, free, right here. See if it is right for your kids.</p>
         <div className="exit-video-wrap">
-          {/* Poster-first, not autoplaying. An auto-started muted clip opened on
-              whatever frame it happened to reach -- often a pillarboxed one --
-              where the poster is a clean, chosen still. The reader presses play. */}
-          <video
-            src={STORIES[0].src}
-            poster={STORIES[0].poster}
-            controls
-            playsInline
-            preload="none"
-            className="exit-video"
-            onPlay={() => posthog.capture('exit_intent_video_play')}
+          {/* Same tile as everywhere else: it plays on its own, muted, and the
+              button opens it full size with sound. A poster-with-a-play-button
+              asked for a click before anything happened at all. Creation, not
+              the hero's lesson — this popup should show something new. */}
+          <VideoTile
+            src={creationStory.src}
+            poster={creationStory.poster}
+            title={creationStory.title}
+            badge={creationStory.series}
+            blurb={creationStory.blurb}
+            location="exit_intent"
           />
         </div>
         <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/checkout' }}>

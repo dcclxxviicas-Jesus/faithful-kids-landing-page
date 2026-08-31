@@ -297,8 +297,8 @@ body {
   color: var(--primary);
 }
 .library-strip span { font-size: 0.82rem; color: var(--text-muted); }
-.library-note { max-width: 56ch; margin: 40px auto 30px; }
-.testi-note { max-width: 60ch; margin: 30px auto 0; }
+.section-sub.library-note { max-width: 56ch; margin: 40px auto 30px; }
+.section-sub.testi-note { max-width: 60ch; margin: 34px auto 0; }
 
 @media (max-width: 860px) {
   .promise-grid { grid-template-columns: 1fr; gap: 34px; }

@@ -23,6 +23,7 @@
  */
 
 import { useRef, useState } from 'react'
+import { VideoTile } from '@/app/components/VideoTile'
 import posthog from 'posthog-js'
 
 function track(event: string, props?: Record<string, unknown>) {
@@ -34,76 +35,47 @@ function track(event: string, props?: Record<string, unknown>) {
 }
 
 export function StoryLesson({
-  videoUrl, posterUrl, captionsUrl, storyName, slug, duration,
+  videoUrl, posterUrl, captionsUrl, storyName, slug,
 }: {
   videoUrl: string
   posterUrl: string
   captionsUrl?: string
   storyName: string
   slug: string
-  /** Real runtime, e.g. "2:07" — read from the file with ffprobe, never guessed. */
-  duration?: string
 }) {
-  const videoRef = useRef<HTMLVideoElement>(null)
-  const [playing, setPlaying] = useState(false)
   const [watched, setWatched] = useState(false)
-  const [halfway, setHalfway] = useState(false)
+  const halfFired = useRef(false)
   const offerShownFired = useRef(false)
-
-  // Real click = a user gesture, so this plays with sound. Never muted.
-  function start() {
-    const v = videoRef.current
-    if (!v) return
-    setPlaying(true)
-    v.muted = false
-    v.volume = 1
-    v.play().catch(() => {/* user can still use native controls */})
-    track('story_lesson_video_play', { slug })
-  }
 
   return (
     <div className="sl-wrap">
-      {/* ---------------- video ---------------- */}
-      <div className={`sl-player${playing ? ' sl-playing' : ''}`}>
-        <video
-          ref={videoRef}
-          className="sl-video"
-          src={videoUrl}
-          poster={posterUrl}
-          preload="none"
-          playsInline
-          controls={playing}
-          onTimeUpdate={e => {
-            const v = e.currentTarget
-            if (!halfway && v.duration && v.currentTime / v.duration >= 0.5) {
-              setHalfway(true)
-              track('story_lesson_video_half', { slug })
-            }
-          }}
-          onEnded={() => {
-            setWatched(true)
-            track('story_lesson_video_complete', { slug })
-            if (!offerShownFired.current) {
-              offerShownFired.current = true
-              track('story_lesson_offer_shown', { slug, placement: 'video_end' })
-            }
-          }}
-        >
-          {captionsUrl && <track kind="captions" src={captionsUrl} srcLang="en" label="English" default />}
-        </video>
-
-        {!playing && (
-          <button className="sl-poster" onClick={start} aria-label={`Play ${storyName}`}>
-            <span className="sl-shade" />
-            <span className="sl-play">
-              <span className="sl-ring" />
-              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.14v13.72L19 12z" /></svg>
-            </span>
-            <span className="sl-play-label">Watch {storyName}</span>
-            {duration && <span className="sl-duration">{duration}</span>}
-          </button>
-        )}
-      </div>
+      {/* Same tile and lightbox as the rest of the site: muted preview, then
+          the full lesson with sound from the start. The tracking that used to
+          hang off a bespoke player is passed through as callbacks so the
+          funnel data stays continuous. */}
+      <VideoTile
+        src={videoUrl}
+        poster={posterUrl}
+        captionsUrl={captionsUrl}
+        title={storyName}
+        location="story_post"
+        ctaHref="/quiz?ref=story-video-end"
+        ctaLabel="Watch more stories like this &rarr;"
+        onOpen={() => track('story_lesson_video_play', { slug })}
+        onHalfway={() => {
+          if (halfFired.current) return
+          halfFired.current = true
+          track('story_lesson_video_half', { slug })
+        }}
+        onEnded={() => {
+          setWatched(true)
+          track('story_lesson_video_complete', { slug })
+          if (!offerShownFired.current) {
+            offerShownFired.current = true
+            track('story_lesson_offer_shown', { slug, placement: 'video_end' })
+          }
+        }}
+      />
 
       {/* ---------------- video-end offer ----------------
           Peak intent: a parent who just watched a full Bible story with their
@@ -114,7 +86,7 @@ export function StoryLesson({
             <strong>That&rsquo;s one of 300+ videos.</strong>
           </p>
           <p className="sl-pitch" style={{ marginTop: 6 }}>
-            Every story works like this one: three minutes, and progress you can actually see.
+            Every story works like this one: about two minutes, and progress you can actually see.
           </p>
           <a
             className="sl-btn sl-btn-green sl-cta"

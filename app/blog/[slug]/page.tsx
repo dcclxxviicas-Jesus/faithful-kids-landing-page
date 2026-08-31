@@ -326,7 +326,6 @@ const hasTriviaGame = triviaQuestions.length >= 10
             captionsUrl={`${mediaBase}/lesson-captions.vtt`}
             storyName={post.title.split(':')[0].replace(/ for Kids$/i, '')}
             slug={post.slug}
-            duration={lessonDuration}
           />
         )}
 

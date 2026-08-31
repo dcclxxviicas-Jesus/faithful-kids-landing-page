@@ -379,13 +379,15 @@ function PhoneMockup() {
   const v = STORIES[0]
   return (
     <div className="phone-mockup">
+      {/* No caption furniture in the hero — the owner wants the picture to
+          carry it. Title still passed for the modal heading and aria label. */}
       <VideoTile
         src={v.src}
         poster={v.poster}
         title={v.title}
-        badge={v.badge}
         blurb={v.blurb}
         location="hero"
+        showLabels={false}
       />
     </div>
   )
@@ -419,7 +421,9 @@ function StickyBar({ onCTA }: { onCTA: () => void }) {
 }
 
 function FullStoryPlayer() {
-  const v = STORIES[0]
+  // Deliberately NOT STORIES[0] — that is the hero's video, and showing the
+  // same lesson twice on one page makes the library look like it has one.
+  const v = STORIES[2]
   return (
     <div className="fullstory-player">
       <VideoTile

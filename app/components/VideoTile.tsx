@@ -1,19 +1,20 @@
 'use client'
 
-import { useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
 import posthog from 'posthog-js'
 
 /**
  * The one video pattern for the whole site.
  *
- * The tile autoplays muted as an ambient preview — cheap, no permission
- * prompt, and it shows the art immediately. Pressing the button opens the
- * lesson full size, with sound, RESTARTED from zero: unmuting a loop already
- * halfway through is a poor first viewing of the product.
+ * The tile autoplays muted as an ambient preview. Pressing the button opens
+ * the lesson full size, with sound, RESTARTED from zero — unmuting a loop
+ * already halfway through is a poor first viewing of the product.
  *
- * Every video on the site routes through here so the behaviour, the poster
- * handling and the analytics stay identical wherever a lesson appears.
+ * BANDWIDTH. These files are ~30MB and this component now renders on 200 story
+ * posts. Naive autoplay would pull 30MB on every blog page view, so the src is
+ * not attached until the tile is near the viewport, and playback pauses when it
+ * leaves. A page view still costs nothing until the tile is actually seen.
  */
 export function VideoTile({
   src,
@@ -23,8 +24,13 @@ export function VideoTile({
   blurb,
   location,
   className = '',
+  showLabels = true,
+  captionsUrl,
   ctaHref = '/quiz',
   ctaLabel = 'See more videos like this',
+  onHalfway,
+  onEnded,
+  onOpen,
 }: {
   src: string
   poster?: string
@@ -34,28 +40,54 @@ export function VideoTile({
   /** Where on the site this tile lives — goes into every event. */
   location: string
   className?: string
+  /** Hero uses false: the art alone, no caption furniture. */
+  showLabels?: boolean
+  captionsUrl?: string
   ctaHref?: string
   ctaLabel?: string
+  onHalfway?: () => void
+  onEnded?: () => void
+  onOpen?: () => void
 }) {
   const [open, setOpen] = useState(false)
   const [mounted, setMounted] = useState(false)
+  const [near, setNear] = useState(false)
+  const wrapRef = useRef<HTMLDivElement>(null)
   const tileRef = useRef<HTMLVideoElement>(null)
   const modalRef = useRef<HTMLVideoElement>(null)
+  const halfFired = useRef(false)
 
   useEffect(() => setMounted(true), [])
 
-  function openPlayer() {
+  // Load and play only while the tile is on (or near) screen.
+  useEffect(() => {
+    const el = wrapRef.current
+    if (!el || typeof IntersectionObserver === 'undefined') { setNear(true); return }
+    const io = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) setNear(true)
+        const v = tileRef.current
+        if (!v) return
+        if (entry.isIntersecting) v.play().catch(() => { /* autoplay policy */ })
+        else v.pause()
+      },
+      { rootMargin: '300px' },
+    )
+    io.observe(el)
+    return () => io.disconnect()
+  }, [])
+
+  const openPlayer = useCallback(() => {
     tileRef.current?.pause()
     setOpen(true)
-    try {
-      posthog.capture('video_expanded', { title, location })
-    } catch { /* analytics must never break playback */ }
-  }
+    onOpen?.()
+    try { posthog.capture('video_expanded', { title, location }) } catch { /* never break playback */ }
+  }, [title, location, onOpen])
 
-  function closePlayer() {
+  const closePlayer = useCallback(() => {
     setOpen(false)
-    tileRef.current?.play().catch(() => { /* autoplay policy — fine */ })
-  }
+    tileRef.current?.play().catch(() => { /* autoplay policy */ })
+  }, [])
 
   // Always from the beginning, always with sound.
   useEffect(() => {
@@ -74,25 +106,24 @@ export function VideoTile({
       document.body.style.overflow = prev
       window.removeEventListener('keydown', onKey)
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [open])
+  }, [open, closePlayer])
 
   return (
-    <div className={`video-tile ${className}`.trim()}>
+    <div ref={wrapRef} className={`video-tile ${className}`.trim()}>
       <div className="video-tile-screen">
         <video
           ref={tileRef}
-          src={src}
+          src={near ? src : undefined}
           poster={poster}
           autoPlay
           muted
           loop
           playsInline
-          preload="metadata"
+          preload={near ? 'metadata' : 'none'}
           className="video-tile-video"
         />
 
-        {(title || badge) && (
+        {showLabels && (title || badge) && (
           <div className="video-tile-overlay">
             <span className="video-tile-title">{title}</span>
             {badge && <span className="video-tile-badge">{badge}</span>}
@@ -116,7 +147,19 @@ export function VideoTile({
               controls
               playsInline
               className="vid-modal-video"
-            />
+              onTimeUpdate={e => {
+                const v = e.currentTarget
+                if (!halfFired.current && v.duration && v.currentTime / v.duration >= 0.5) {
+                  halfFired.current = true
+                  onHalfway?.()
+                }
+              }}
+              onEnded={() => onEnded?.()}
+            >
+              {captionsUrl && (
+                <track kind="captions" src={captionsUrl} srcLang="en" label="English" default />
+              )}
+            </video>
             <div className="vid-modal-meta">
               {badge && <span className="vid-modal-series">{badge}</span>}
               <strong>{title}</strong>
@@ -125,9 +168,7 @@ export function VideoTile({
                 href={ctaHref}
                 className="btn-primary"
                 onClick={() => {
-                  try {
-                    posthog.capture('video_cta_click', { title, location })
-                  } catch { /* never break the page */ }
+                  try { posthog.capture('video_cta_click', { title, location }) } catch { /* never break */ }
                 }}
               >
                 {ctaLabel}

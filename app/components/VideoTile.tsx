@@ -17,6 +17,7 @@ import posthog from 'posthog-js'
  */
 export function VideoTile({
   src,
+  loopSrc,
   poster,
   title,
   badge,
@@ -33,6 +34,7 @@ export function VideoTile({
   onOpen,
 }: {
   src: string
+  loopSrc?: string
   poster?: string
   title: string
   badge?: string
@@ -129,7 +131,7 @@ export function VideoTile({
       <div className="video-tile-screen">
         <video
           ref={tileRef}
-          src={autoplay && near ? src : undefined}
+          src={autoplay && near ? (loopSrc || src) : undefined}
           poster={poster}
           autoPlay={autoplay}
           muted

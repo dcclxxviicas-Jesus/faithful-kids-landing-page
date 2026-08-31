@@ -383,6 +383,7 @@ function PhoneMockup() {
           carry it. Title still passed for the modal heading and aria label. */}
       <VideoTile
         src={v.src}
+        loopSrc={v.loopSrc}
         poster={v.poster}
         title={v.title}
         blurb={v.blurb}

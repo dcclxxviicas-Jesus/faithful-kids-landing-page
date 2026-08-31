@@ -9,6 +9,7 @@ export const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
 
 export type Story = {
   src: string
+  loopSrc?: string
   poster: string
   title: string
   badge: string
@@ -20,6 +21,10 @@ export type Story = {
 export const STORIES: Story[] = [
   {
     src: `${CDN}/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4`,
+    // A 10s, 371KB muted clip for the autoplaying hero. The full lesson is
+    // 28.5MB; streaming it as a decorative background loop was 91% of the
+    // homepage's weight and cost ~25 Lighthouse points on mobile.
+    loopSrc: `${CDN}/hero-loops/an-angel-visits-mary-loop.mp4`,
     poster: `${CDN}/video-posters/an-angel-visits-mary.webp`,
     title: 'An Angel Visits Mary',
     badge: 'Birth of Jesus',

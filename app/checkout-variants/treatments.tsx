@@ -15,17 +15,19 @@ import {
 
 export const MONTHLY = 10.99
 
-function useMath() {
-  const monthlyYear = +(MONTHLY * 12).toFixed(2)
-  const saved = +(monthlyYear - ANNUAL_YEAR).toFixed(2)
-  const pct = Math.round((1 - ANNUAL_YEAR / monthlyYear) * 100)
-  const monthsFree = Math.round(12 - ANNUAL_YEAR / MONTHLY)
-  return { monthlyYear, saved, pct, monthsFree }
+function useMath(monthly = MONTHLY, year = ANNUAL_YEAR) {
+  const monthlyYear = +(monthly * 12).toFixed(2)
+  const saved = +(monthlyYear - year).toFixed(2)
+  const pct = Math.round((1 - year / monthlyYear) * 100)
+  const monthsFree = Math.round(12 - year / monthly)
+  const yearMonth = +(year / 12).toFixed(2)
+  return { monthlyYear, saved, pct, monthsFree, yearMonth }
 }
 
-function Shell({ children, plan, loading, go, ctaLabel, saved }: {
+function Shell({ children, plan, loading, go, ctaLabel, saved, monthly = MONTHLY, year = ANNUAL_YEAR }: {
   children: React.ReactNode; plan: string; loading: boolean
   go: () => void; ctaLabel: string; saved: number
+  monthly?: number; year?: number
 }) {
   const annual = plan === 'annual'
   return (
@@ -41,9 +43,9 @@ function Shell({ children, plan, loading, go, ctaLabel, saved }: {
       <Faq />
       <div className="cv-sticky">
         <div className="cv-sticky-info">
-          <span className="cv-sticky-price">{annual ? '$0.00 today' : `$${MONTHLY} today`}</span>
+          <span className="cv-sticky-price">{annual ? '$0.00 today' : `$${monthly.toFixed(2)} today`}</span>
           <span className="cv-sticky-sub">
-            {annual ? `Then $${ANNUAL_YEAR}/yr · save $${saved}` : `$${saved} more than yearly`}
+            {annual ? `Then $${year}/yr · save $${saved}` : `$${saved} more than yearly`}
           </span>
         </div>
         <button className="cv-cta" onClick={go} disabled={loading}>
@@ -59,9 +61,11 @@ function Shell({ children, plan, loading, go, ctaLabel, saved }: {
    other — they are the same beautiful card — but yearly is preselected and
    carries the badge. The card's contents change beneath the switch.
    This is the Linear / Framer / Notion pricing pattern. */
-export function ToggleTreatment() {
+export function ToggleTreatment({
+  monthly = MONTHLY, year = ANNUAL_YEAR, tag = 'toggle',
+}: { monthly?: number; year?: number; tag?: string } = {}) {
   const { plan, setPlan, loading, go, ctaLabel } = useCheckout()
-  const { saved, pct, monthsFree } = useMath()
+  const { saved, pct, monthsFree, yearMonth } = useMath(monthly, year)
   const annual = plan === 'annual'
 
   return (
@@ -71,26 +75,26 @@ export function ToggleTreatment() {
         <h1 className="cv-h1">Choose your plan</h1>
         <p className="cv-sub">Everything is included on both. Switch whenever you like.</p>
 
-        <Shell plan={plan} loading={loading} go={() => go('toggle')} ctaLabel={ctaLabel} saved={saved}>
+        <Shell plan={plan} loading={loading} go={() => go(tag)} ctaLabel={ctaLabel} saved={saved} monthly={monthly} year={year}>
           <div className="cv-seg">
-            <button className={`cv-seg-btn ${annual ? 'on' : ''}`} onClick={() => setPlan('annual', 'toggle')}>
+            <button className={`cv-seg-btn ${annual ? 'on' : ''}`} onClick={() => setPlan('annual', tag)}>
               Yearly <span className="cv-seg-badge">&minus;{pct}%</span>
             </button>
-            <button className={`cv-seg-btn ${!annual ? 'on' : ''}`} onClick={() => setPlan('monthly', 'toggle')}>
+            <button className={`cv-seg-btn ${!annual ? 'on' : ''}`} onClick={() => setPlan('monthly', tag)}>
               Monthly
             </button>
           </div>
 
           <div className={`cv-onecard ${annual ? '' : 'alt'}`}>
             <div className="cv-onecard-price">
-              {annual && <span className="cv-onecard-was">${MONTHLY}</span>}
-              <span className="cv-onecard-amt">${annual ? ANNUAL_MONTH : MONTHLY}</span>
+              {annual && <span className="cv-onecard-was">${monthly.toFixed(2)}</span>}
+              <span className="cv-onecard-amt">${annual ? yearMonth : monthly.toFixed(2)}</span>
               <span className="cv-onecard-per">/month</span>
             </div>
             <p className="cv-onecard-billed">
               {annual
-                ? <>Billed <strong>${ANNUAL_YEAR}</strong> once a year</>
-                : <>Billed <strong>${MONTHLY}</strong> every month</>}
+                ? <>Billed <strong>${year}</strong> once a year</>
+                : <>Billed <strong>${monthly.toFixed(2)}</strong> every month</>}
             </p>
             <ul className="cv-onecard-list">
               {annual ? (
@@ -111,8 +115,8 @@ export function ToggleTreatment() {
 
           <p className="cv-terms">
             {annual
-              ? <>Free until <strong>{trialEndDate()}</strong>, then ${ANNUAL_YEAR} for the year unless you cancel.</>
-              : <><strong>${MONTHLY} today</strong>, then every month until you cancel.</>}
+              ? <>Free until <strong>{trialEndDate()}</strong>, then ${year} for the year unless you cancel.</>
+              : <><strong>${monthly.toFixed(2)} today</strong>, then every month until you cancel.</>}
           </p>
         </Shell>
       </div>

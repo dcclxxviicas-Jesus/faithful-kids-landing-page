@@ -110,7 +110,7 @@ export function VerseCta({ postSlug }: { postSlug: string }) {
         onClick={() => { try { posthog.capture('verse_cta_click', { variant, post: postSlug }) } catch { /* never break the page */ } }}
         style={{ display: 'inline-block', marginTop: 16, background: '#059669', color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: '0 4px 0 #047857' }}
       >
-        Start their Bible journey &rarr;
+        Start your kids&apos; Bible journey &rarr;
       </a>
     </div>
   )

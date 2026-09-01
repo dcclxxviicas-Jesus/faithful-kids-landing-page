@@ -10,10 +10,14 @@ import posthog from 'posthog-js'
  * By default the tile shows its poster and downloads nothing. Pressing the
  * button opens the lesson full size, with sound, from zero.
  *
- * The hero passes autoplay — there the tile loops muted as an ambient preview
- * and the button reads "Unmute and watch". Everywhere else the button reads
- * "Watch what your kids will see" and no video is fetched until it is pressed.
- * See the autoplay prop for why that split exists.
+ * The hero passes autoplay — there the tile loops muted as an ambient preview.
+ * Everywhere else no video is fetched until the button is pressed. See the
+ * autoplay prop for why that split exists.
+ *
+ * The button reads "Watch what your kids will see" in every case. It used to
+ * say "Unmute and watch" on the hero, which described the mechanism rather
+ * than the offer, and meant the same control was named two different things
+ * on one page.
  */
 export function VideoTile({
   src,
@@ -149,7 +153,7 @@ export function VideoTile({
         )}
 
         <button className="video-tile-btn" onClick={openPlayer}>
-          {autoplay ? `${'\u{1F50A}'} Unmute and watch` : `${'\u25B6'} Watch what your kids will see`}
+          {`${'\u25B6'} Watch what your kids will see`}
         </button>
       </div>
 

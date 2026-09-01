@@ -2,6 +2,7 @@
 
 import {
   useBuy, PriceBlock, TrustRow, StickyBuy, useStickyAfter, GETS, LESSON, VideoTile,
+  LiveCount, ReservedTimer, Stats, Testimonials, PainPoint,
   ANNUAL, SAVED, type Answers,
 } from './shared'
 
@@ -155,6 +156,8 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
           summary && <p className="qv-summary">{summary}</p>
         )}
 
+        <LiveCount />
+        <ReservedTimer />
         <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} ctaRef={ctaRef} />
         <TrustRow />
 
@@ -170,6 +173,10 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
             </div>
           ))}
         </div>
+
+        <Stats />
+        {!isKid && <PainPoint pain={answers.pain} />}
+        <Testimonials />
 
         <p className="qv-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
       </div>

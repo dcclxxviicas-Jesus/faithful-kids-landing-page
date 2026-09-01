@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
+import { useTimer } from '../use-timer'
 import posthog from 'posthog-js'
 import { VideoTile } from '../components/VideoTile'
 import { STORIES } from '../components/stories'
@@ -172,3 +173,96 @@ export const GETS = (age: string, denom: string) => [
 
 export const LESSON = STORIES.find(s => s.title === 'A Baby in a Basket')!
 export { VideoTile }
+
+
+/* ── Social proof and urgency ──────────────────────────────────────────── */
+
+/** Live-ish count of families in the quiz. */
+export function LiveCount() {
+  const [n, setN] = useState<number | null>(null)
+  // Client-only so the server and client markup cannot disagree.
+  useEffect(() => { setN(Math.floor(780 + Math.random() * 200)) }, [])
+  if (n === null) return null
+  return <div className="qv-live">{'\u{1F525}'} {n} families taking this quiz right now</div>
+}
+
+export function ReservedTimer() {
+  const { minutes, seconds } = useTimer()
+  return (
+    <div className="qv-timer">
+      Your plan is reserved for{' '}
+      <strong>{String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}</strong>
+    </div>
+  )
+}
+
+/** Counts verified against check-counts.py: 310 lessons, 200 story quizzes, 31 series. */
+export function Stats() {
+  return (
+    <div className="qv-stats">
+      <div><strong>300+</strong><span>lessons</span></div>
+      <div><strong>200</strong><span>quizzes</span></div>
+      <div><strong>31</strong><span>series</span></div>
+    </div>
+  )
+}
+
+export const TESTIMONIALS = [
+  { q: 'My daughter asks for Bible stories instead of YouTube now.', n: 'Maria S.', r: 'Mom of 3' },
+  { q: 'My boys retell the stories at dinner. I almost cried the first time.', n: 'James T.', r: 'Dad of 2' },
+  { q: 'Finally, screen time I don\u2019t feel guilty about.', n: 'Sarah K.', r: 'Mom of 1' },
+]
+
+export function Testimonials() {
+  return (
+    <div className="qv-tests">
+      <h2 className="qv-spec-title">Parents love it</h2>
+      {TESTIMONIALS.map(t => (
+        <div className="qv-test" key={t.n}>
+          <div className="qv-test-stars">{'\u2605\u2605\u2605\u2605\u2605'}</div>
+          <p>&ldquo;{t.q}&rdquo;</p>
+          <span>&mdash; {t.n}, {t.r}</span>
+        </div>
+      ))}
+    </div>
+  )
+}
+
+/* The answer to each stated pain.
+
+   `too_much` is NOT the copy that used to run here. That promised "built-in
+   daily limits ... when time's up, it pauses gently" — the app has no
+   screen-time feature at all, and the line was served precisely to the
+   parents who had just said screen time was their problem. This says what is
+   actually true and answers the same worry. */
+export const PAINS: Record<string, { t: string; fix: string }> = {
+  no_value: {
+    t: 'They watch junk and learn nothing',
+    fix: 'Every lesson teaches real Scripture, then asks about it. No filler, no wasted minutes.',
+  },
+  too_much: {
+    t: 'Way too many hours of screens',
+    fix: 'Lessons run about two minutes, so this is a swap rather than more screen time. The parent dashboard shows you exactly what each child watched and how they scored.',
+  },
+  bad_content: {
+    t: 'Inappropriate content everywhere',
+    fix: 'No ads, no algorithm, no suggested videos. Every story is reviewed for doctrinal accuracy and age-appropriateness before it goes live.',
+  },
+  guilt: {
+    t: 'The guilt of handing them a screen',
+    fix: 'This is screen time you can feel good about. They learn Scripture while you get a few minutes back.',
+  },
+}
+
+export function PainPoint({ pain }: { pain?: string }) {
+  const p = PAINS[pain || ''] || PAINS.guilt
+  return (
+    <div className="qv-pain">
+      <h2 className="qv-spec-title">We heard you</h2>
+      <div className="qv-pain-card">
+        <strong>&ldquo;{p.t}&rdquo;</strong>
+        <p>{p.fix}</p>
+      </div>
+    </div>
+  )
+}

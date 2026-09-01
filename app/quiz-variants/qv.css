@@ -122,3 +122,44 @@
 /* Slides away while the real button is still on screen. */
 .qv-sticky { transition: transform 0.25s ease; }
 .qv-sticky.is-hidden { transform: translateY(115%); }
+
+/* ── Social proof / urgency ─────────────────────────────────────────────── */
+.qv-live {
+  background: #fff7ed; border: 1px solid #fed7aa; color: #9a3412;
+  font-size: 0.85rem; font-weight: 700; text-align: center;
+  padding: 9px 12px; border-radius: 12px; margin-bottom: 10px;
+}
+.qv-timer {
+  background: #ecfdf5; border: 1px solid #a7f3d0; color: #065f46;
+  font-size: 0.85rem; text-align: center; padding: 9px 12px;
+  border-radius: 12px; margin-bottom: 18px;
+}
+.qv-timer strong { font-variant-numeric: tabular-nums; font-weight: 800; }
+
+.qv-stats {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;
+  margin: 30px 0 4px; text-align: center;
+}
+.qv-stats div {
+  background: #fff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 16px 6px;
+}
+.qv-stats strong {
+  display: block; font-size: 1.5rem; font-weight: 800; color: #059669;
+  letter-spacing: -0.03em; line-height: 1;
+}
+.qv-stats span { display: block; font-size: 0.78rem; color: #6b7280; margin-top: 4px; }
+
+.qv-pain-card {
+  background: #fff; border: 1px solid #e5e7eb; border-left: 4px solid #059669;
+  border-radius: 14px; padding: 16px;
+}
+.qv-pain-card strong { display: block; font-size: 0.98rem; font-weight: 800; margin-bottom: 7px; }
+.qv-pain-card p { margin: 0; font-size: 0.89rem; color: #4b5563; line-height: 1.6; }
+
+.qv-test {
+  background: #fff; border: 1px solid #e5e7eb; border-radius: 14px;
+  padding: 15px 16px; margin-bottom: 10px;
+}
+.qv-test-stars { color: #f59e0b; font-size: 0.85rem; letter-spacing: 2px; margin-bottom: 6px; }
+.qv-test p { margin: 0 0 8px; font-size: 0.9rem; color: #374151; line-height: 1.55; font-style: italic; }
+.qv-test span { font-size: 0.8rem; color: #6b7280; font-weight: 600; }

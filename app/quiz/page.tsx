@@ -2,8 +2,8 @@
 
 import { useState, useEffect, useRef } from 'react'
 import posthog from 'posthog-js'
-import { useTimer } from '../use-timer'
 import { QuizExitCatch } from './QuizExitCatch'
+import { VariantB } from '../quiz-variants/treatments'
 import './quiz.css'
 
 // ============================================================================
@@ -441,7 +441,7 @@ export default function Quiz() {
 
   // ===== RESULT =====
   if (phase === 'result') {
-    return <Result answers={answers} liveCount={liveCount} path={path} />
+    return <Result answers={answers} path={path} />
   }
 
   // ===== SCREEN TIME INTERSTITIAL =====
@@ -588,280 +588,30 @@ function MultiSelect({ opts, onDone }: { opts: { label: string; val: string; emo
 // ============================================================================
 // Result page
 // ============================================================================
-function ResultVideo() {
-  const ref = useRef<HTMLVideoElement>(null)
-  const [muted, setMuted] = useState(true)
-  function toggle() {
-    if (ref.current) { ref.current.muted = !muted; setMuted(!muted) }
-    if (muted) posthog.capture('result_video_unmuted')
-  }
+/* The result screen.
+ *
+ * Replaced Aug 31 2026. What the old one claimed and what is true had come
+ * apart badly: a live counter reading ~900 families "taking this quiz right
+ * now" when 144 people started it in ninety days; a countdown to a plan
+ * "reservation" that does not exist, running in two places at once; built-in
+ * daily limits that pause when time is up, for a screen-time feature the app
+ * has never had — shown precisely to parents who said screen time was their
+ * problem; 400+ lessons against a real 310; and three named testimonials.
+ *
+ * It also told every child their first stop was whichever adventure they
+ * picked. DEFAULT_UNLOCKED_SERIES is ['genesis', 'birth-of-jesus'] for every
+ * account, and the quiz answers cannot reach the app anyway — different
+ * origin. None of that survives here.
+ *
+ * The shape is data-led: 131 people reached this screen in ninety days and 37
+ * went on to payment, but only four ever touched a plan selector. The quiz
+ * does the persuading; this confirms, prices, and gets out of the way.
+ */
+function Result({ answers, path }: { answers: Record<string, string>; path: 'kid' | 'parent' | null }) {
   return (
-    <div className="qz-vid-wrap" style={{ position: 'relative', cursor: 'pointer' }} onClick={toggle}>
-      <video
-        ref={ref}
-        src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
-        poster="https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp"
-        autoPlay muted loop playsInline
-      />
-      <div style={{
-        position: 'absolute', bottom: '12px', left: '12px',
-        background: 'rgba(0,0,0,0.6)', color: '#fff',
-        borderRadius: '8px', padding: '8px 14px', fontSize: '0.82rem',
-        fontWeight: 700, display: 'flex', alignItems: 'center', gap: '6px',
-        pointerEvents: 'none',
-      }}>
-        {muted ? '\u{1F507} Tap to listen' : '\u{1F50A} Playing'}
-      </div>
-    </div>
-  )
-}
-
-const PLANS = [
-  { id: 'annual', name: 'Annual', display: '$97', unit: '/year', sub: '3-day free trial \u00b7 just $1.87 a week', badge: 'BEST VALUE', save: 'Save $58.88 a year' },
-  { id: 'monthly', name: 'Monthly', display: '$12.99', unit: '/month', sub: 'No trial \u00b7 cancel anytime', badge: null, save: null },
-]
-
-const HERO_NAMES: Record<string, string> = {
-  david: 'David', noah: 'Noah', esther: 'Esther', daniel: 'Daniel', peter: 'Peter', all: 'every Bible hero',
-}
-const ADVENTURE_NAMES: Record<string, string> = {
-  daniel: 'The Lions\' Den with Daniel 🦁',
-  noah: 'The Great Flood with Noah 🌊',
-  water: 'Walking on Water 👣',
-  creation: 'The Very First Day of the World ✨',
-}
-
-function Result({ answers, liveCount, path }: { answers: Record<string, string>; liveCount: number; path: 'kid' | 'parent' | null }) {
-  const { minutes: min, seconds: sec, display: timerDisplay } = useTimer()
-  const [selectedPlan, setSelectedPlan] = useState('annual')
-  const [loading, setLoading] = useState(false)
-  const isKid = path === 'kid'
-
-  useEffect(() => {
-  }, [])
-
-  const kids = isKid ? 'your child' : answers.num_kids === '1' ? 'your child' : 'your kids'
-  const age = answers.age || '6-7'
-  const denom = answers.denomination === 'catholic' ? 'Catholic' : answers.denomination === 'evangelical' ? 'Evangelical' : 'Christian'
-  const heroName = HERO_NAMES[answers.hero] || 'every Bible hero'
-  const adventureName = ADVENTURE_NAMES[answers.adventure] || ADVENTURE_NAMES.creation
-  const screenAnswer = answers.screen_time || answers.watch
-
-  const painMap: Record<string, { t: string; fix: string }> = {
-    no_value: { t: 'They watch junk and learn nothing', fix: 'Every Faithful Kids video teaches real Scripture. No filler. No junk. No wasted minutes.' },
-    too_much: { t: 'Way too many hours of screens', fix: 'Built-in daily limits and a parent dashboard. You control the experience. When time\'s up, it pauses gently.' },
-    bad_content: { t: 'Inappropriate content everywhere', fix: 'Zero ads. Zero violence. Zero inappropriate content. Every video is reviewed and age-appropriate.' },
-    guilt: { t: 'The guilt of handing them a screen', fix: 'This is screen time you\'ll feel GOOD about. Your kids learn God\'s Word while you get a break you deserve.' },
-  }
-  const pain = painMap[answers.pain] || painMap.guilt
-
-  const screenMap: Record<string, string> = {
-    '<1hr': 'Even 15 minutes a day = 5 Bible stories a week. 260 per year.',
-    '1-2hr': 'Swap just 20 minutes. 7 stories a week. More than most adults read.',
-    '2-4hr': '20 minutes out of 3 hours. Your kids know more Scripture by age 10 than most adults.',
-    '4hr+': '20 minutes out of 4+ hours. That tiny swap changes what they carry into adulthood.',
-  }
-
-  async function handleCheckout() {
-    setLoading(true)
-    posthog.capture('quiz_checkout_click', { ...answers, plan: selectedPlan, path })
-    try {
-      const res = await fetch('/api/checkout', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ plan: selectedPlan }),
-      })
-      const data = await res.json()
-      if (data.url) {
-        window.location.href = data.url
-      } else {
-        setLoading(false)
-      }
-    } catch {
-      setLoading(false)
-    }
-  }
-
-  return (
-    <div className="qz qz-result-bg">
+    <>
       <QuizExitCatch answers={answers} path={path} />
-      <div className="qz-head"><img src="/logo-sm.png" alt="" className="qz-logo" /></div>
-
-      <div className="qz-result">
-        {/* Hero */}
-        <div className="qz-r-hero">
-          <div className="qz-r-badge">{isKid ? '🎉 Your adventure is ready!' : `✨ ${kids}'s plan is ready`}</div>
-          {isKid ? (
-            <h1>You built your own<br />Bible adventure!</h1>
-          ) : (
-            <h1>Your family&apos;s personalized<br />Bible journey</h1>
-          )}
-          <p style={{ marginBottom: 0 }}>{isKid
-            ? `Starring ${heroName}. First stop: ${adventureName}`
-            : 'Built from your answers \u2014 pick a plan and start today.'}</p>
-        </div>
-
-        {/* Kid → parent handoff */}
-        {isKid && (
-          <div className="qz-r-section">
-            <div className="qz-r-pain" style={{ textAlign: 'center' }}>
-              <div style={{ fontSize: '2.2rem', marginBottom: '6px' }}>👋</div>
-              <div className="qz-r-pain-title">Go grab your mom or dad!</div>
-              <p>Tell them: <strong>&ldquo;I made a Bible adventure and I want to try it!&rdquo;</strong> Then hand them the phone. 📱</p>
-              <p style={{ marginTop: '12px', fontSize: '0.88rem', color: '#666' }}>
-                <strong>Parents:</strong> your child just built their own Bible learning plan — matched to
-                ages {age}, starting with {adventureName.replace(/ [^ ]+$/, '')}. Every lesson is a short video narrated by
-                Jesus with a comprehension quiz after. Everything below is ready to go -- the annual plan includes a 3-day free trial.
-              </p>
-            </div>
-          </div>
-        )}
-
-        {/* Live */}
-        <div className="qz-r-live">🔥 {liveCount} families taking this quiz right now</div>
-
-        {/* Plan selection */}
-        <div className="qz-r-section" style={{ marginTop: '4px' }}>
-          <div className="qz-r-timer">Your plan is reserved for <strong>{String(min).padStart(2, '0')}:{String(sec).padStart(2, '0')}</strong></div>
-          <div className="qz-r-plans">
-            {PLANS.map(p => (
-              <button
-                key={p.id}
-                className={`qz-r-plan ${selectedPlan === p.id ? 'selected' : ''}`}
-                onClick={() => { setSelectedPlan(p.id); posthog.capture('quiz_plan_select', { plan: p.id }) }}
-              >
-                {p.badge && <span className="qz-r-plan-badge best">{p.badge}</span>}
-                <div className="qz-r-plan-row">
-                  <div className="qz-r-plan-radio"><div className={selectedPlan === p.id ? 'on' : ''} /></div>
-                  <div className="qz-r-plan-info">
-                    <strong>{p.name}</strong>
-                    <span>{p.sub}</span>
-                  </div>
-                  <div className="qz-r-plan-price">
-                    <strong>{p.display}<small style={{ fontSize: '0.72em', fontWeight: 600, color: '#64748b' }}>{p.unit}</small></strong>
-                    {p.save && <span style={{ color: '#16a34a', fontWeight: 700 }}>{p.save}</span>}
-                  </div>
-                </div>
-              </button>
-            ))}
-          </div>
-
-          <button className="qz-r-btn" onClick={handleCheckout} disabled={loading}>
-            {loading ? 'Redirecting...' : selectedPlan === 'annual' ? 'Start My Free 3-Day Trial' : 'Subscribe — $12.99/month'}
-          </button>
-
-          <div className="qz-r-trust">
-            {selectedPlan === 'annual'
-              ? <><span>✓ Free for 3 days</span><span>✓ 30-day money-back</span><span>✓ Cancel anytime</span></>
-              : <><span>✓ No contract</span><span>✓ 30-day money-back</span><span>✓ Cancel anytime</span></>}
-          </div>
-          <p className="qz-r-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
-        </div>
-
-
-        {/* Before / After */}
-        <div className="qz-r-section">
-          <div className="qz-r-compare">
-            <div className="qz-r-before">
-              <div className="qz-r-compare-emoji">😔</div>
-              <strong>Without</strong>
-              <p>Hours of mindless content. No Scripture. No values. Just noise.</p>
-            </div>
-            <div className="qz-r-after">
-              <div className="qz-r-compare-emoji">🌟</div>
-              <strong>With Faithful Kids</strong>
-              <p>{screenMap[screenAnswer] || screenMap['2-4hr']}</p>
-            </div>
-          </div>
-        </div>
-
-        {/* Pain point (parents) / First adventure (kids) */}
-        {isKid ? (
-          <div className="qz-r-section">
-            <h2>Your first adventure</h2>
-            <div className="qz-r-pain">
-              <div className="qz-r-pain-title">{adventureName}</div>
-              <p>Watch the story, beat the quiz, earn your stars — then unlock the next episode. {heroName === 'every Bible hero' ? 'All your heroes are waiting.' : `${heroName} is waiting for you.`}</p>
-            </div>
-          </div>
-        ) : (
-          <div className="qz-r-section">
-            <h2>We heard you</h2>
-            <div className="qz-r-pain">
-              <div className="qz-r-pain-title">&ldquo;{pain.t}&rdquo;</div>
-              <p>{pain.fix}</p>
-            </div>
-          </div>
-        )}
-
-        {/* Video preview */}
-        <div className="qz-r-section">
-          <h2>See it in action</h2>
-          <ResultVideo />
-        </div>
-
-        {/* Stats */}
-        <div className="qz-r-stats">
-          <div className="qz-r-stat"><div className="qz-r-stat-num">400+</div><div>lessons</div></div>
-          <div className="qz-r-stat"><div className="qz-r-stat-num">200</div><div>quizzes</div></div>
-          <div className="qz-r-stat"><div className="qz-r-stat-num">20+</div><div>series</div></div>
-        </div>
-
-        {/* Checklist */}
-        <div className="qz-r-section">
-          <h2>What {kids} gets</h2>
-          <div className="qz-r-checks">
-            {[
-              'Video lessons narrated by Jesus',
-              `Content matched for ages ${age}`,
-              `${denom} learning path`,
-              'Fun quizzes after every story',
-              'Parent dashboard + controls',
-              'Zero ads — forever',
-              'Up to 5 kid profiles',
-              '30-day money-back guarantee',
-            ].map(t => <div key={t} className="qz-r-check"><span>✓</span>{t}</div>)}
-          </div>
-        </div>
-
-        {/* Testimonials */}
-        <div className="qz-r-section">
-          <h2>Parents love it</h2>
-          <div className="qz-r-testimonials">
-            {[
-              { q: 'My daughter asks for Bible stories instead of YouTube now.', n: 'Maria S.', r: 'Mom of 3' },
-              { q: 'My boys retell the stories at dinner. I almost cried the first time.', n: 'James T.', r: 'Dad of 2' },
-              { q: 'Finally, screen time I don\'t feel guilty about.', n: 'Sarah K.', r: 'Mom of 1' },
-            ].map(t => (
-              <div key={t.n} className="qz-r-test">
-                <div className="qz-r-test-stars">★★★★★</div>
-                <p>&ldquo;{t.q}&rdquo;</p>
-                <span>— {t.n}, {t.r}</span>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Guarantee */}
-        <div className="qz-r-guarantee">
-          <div>🛡️</div>
-          <div>
-            <strong>30-Day Money-Back Guarantee</strong>
-            <p>If {kids} doesn&apos;t love it, full refund. No questions asked.</p>
-          </div>
-        </div>
-
-
-
-        {/* Spacer for sticky bar */}
-        <div style={{ height: '80px' }} />
-      </div>
-
-      {/* Sticky bottom */}
-      <div className="qz-sticky">
-        <span className="qz-sticky-timer">{String(min).padStart(2, '0')}:{String(sec).padStart(2, '0')}</span>
-        <button onClick={handleCheckout} disabled={loading}>{loading ? '...' : selectedPlan === 'annual' ? 'Start Free Trial →' : 'Subscribe →'}</button>
-      </div>
-    </div>
+      <VariantB answers={answers} isKid={path === 'kid'} />
+    </>
   )
 }

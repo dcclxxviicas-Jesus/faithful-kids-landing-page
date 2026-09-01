@@ -87,7 +87,7 @@ const IS_UNLOCKED_AT_START = (a?: string) => a === 'creation'
 type Row = { k: string; v: string; d: string }
 
 export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?: boolean }) {
-  const { plan, choose, loading, buy } = useBuy(isKid ? 'quiz-b-kid' : 'quiz-b')
+  const { plan, choose, loading, buy } = useBuy(isKid ? 'quiz-b-kid' : 'quiz-b', { path: isKid ? 'kid' : 'parent' })
   const { ref: ctaRef, past } = useStickyAfter<HTMLButtonElement>()
 
   const age = answers.age

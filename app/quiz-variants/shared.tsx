@@ -33,16 +33,16 @@ export const PCT = Math.round((1 - ANNUAL / (MONTHLY * 12)) * 100)
 
 export type Answers = Record<string, string>
 
-export function useBuy(variant: string) {
+export function useBuy(variant: string, extra: Record<string, unknown> = {}) {
   const [plan, setPlan] = useState<'annual' | 'monthly'>('annual')
   const [loading, setLoading] = useState(false)
   function choose(p: 'annual' | 'monthly') {
     setPlan(p)
-    try { posthog.capture('quiz_plan_select', { plan: p, variant }) } catch { /* never block */ }
+    try { posthog.capture('quiz_plan_select', { plan: p, variant, ...extra }) } catch { /* never block */ }
   }
   async function buy(answers: Answers) {
     setLoading(true)
-    try { posthog.capture('quiz_checkout_click', { ...answers, plan, variant }) } catch { /* ignore */ }
+    try { posthog.capture('quiz_checkout_click', { ...answers, plan, variant, ...extra }) } catch { /* ignore */ }
     try {
       const r = await fetch('/api/checkout', {
         method: 'POST', headers: { 'Content-Type': 'application/json' },

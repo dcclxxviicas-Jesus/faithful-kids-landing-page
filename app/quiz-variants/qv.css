@@ -1,0 +1,87 @@
+/* Post-quiz checkout variants. qv- prefixed; the price block borrows the
+   approved cv- classes from checkout-variants/variants.css on purpose, so the
+   quiz funnel and /checkout read as one product. */
+
+.qv { min-height: 100vh; background: #f8f6f2; color: #1e293b; }
+
+.qv-head {
+  display: flex; align-items: center; justify-content: center; gap: 8px;
+  padding: 14px; background: #fff; border-bottom: 1px solid #e5e7eb;
+  font-weight: 800; font-size: 1.02rem;
+}
+.qv-head img { height: 28px; width: auto; }
+
+.qv-wrap { max-width: 540px; margin: 0 auto; padding: 26px 20px 130px; }
+
+.qv-badge {
+  display: inline-block; background: #ecfdf5; color: #065f46;
+  font-size: 0.78rem; font-weight: 800; padding: 6px 13px; border-radius: 20px;
+  margin-bottom: 14px;
+}
+.qv h1 {
+  font-size: 1.72rem; font-weight: 800; letter-spacing: -0.025em;
+  line-height: 1.2; margin: 0 0 10px;
+}
+.qv-green { color: #059669; }
+.qv-sub { font-size: 0.98rem; color: #4b5563; line-height: 1.55; margin: 0 0 24px; }
+
+.qv-fine { font-size: 0.8rem; color: #6b7280; text-align: center; margin: 12px 0 0; line-height: 1.5; }
+
+.qv-trust {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 16px;
+  margin-top: 20px; padding-top: 16px; border-top: 1px solid #e5e7eb;
+}
+.qv-trust span { font-size: 0.81rem; color: #4b5563; font-weight: 600; }
+
+/* B: the spec table */
+.qv-spec { background: #fff; border: 1px solid #e5e7eb; border-radius: 16px; padding: 4px 16px; margin-bottom: 22px; }
+.qv-spec-row { display: flex; gap: 14px; padding: 13px 0; border-bottom: 1px solid #f1f3f5; }
+.qv-spec-row:last-child { border-bottom: none; }
+.qv-spec-k {
+  flex: 0 0 84px; font-size: 0.72rem; font-weight: 800; text-transform: uppercase;
+  letter-spacing: 0.05em; color: #9ca3af; padding-top: 3px;
+}
+.qv-spec-body { flex: 1; min-width: 0; }
+.qv-spec-body strong { display: block; font-size: 0.95rem; font-weight: 800; }
+.qv-spec-body span { display: block; font-size: 0.82rem; color: #6b7280; line-height: 1.45; margin-top: 2px; }
+
+/* C: note under the lesson */
+.qv-vidnote { font-size: 0.85rem; color: #6b7280; text-align: center; line-height: 1.55; margin: 14px 0 26px; }
+
+/* Collapsed detail — present without costing a scroll */
+.qv-more { margin-top: 24px; border-top: 1px solid #e5e7eb; }
+.qv-more summary {
+  cursor: pointer; list-style: none; padding: 15px 0; font-size: 0.92rem; font-weight: 700;
+  position: relative;
+}
+.qv-more summary::-webkit-details-marker { display: none; }
+.qv-more summary::after {
+  content: '+'; position: absolute; right: 2px; top: 50%; transform: translateY(-50%);
+  font-size: 1.2rem; color: #9ca3af; font-weight: 700;
+}
+.qv-more[open] summary::after { content: '\2212'; }
+.qv-more ul { list-style: none; margin: 0 0 18px; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.qv-more li { display: flex; gap: 9px; font-size: 0.89rem; color: #374151; line-height: 1.45; }
+
+.qv-signin { text-align: center; font-size: 0.84rem; color: #6b7280; margin: 22px 0 0; }
+.qv-signin a { color: #059669; font-weight: 700; text-decoration: none; }
+
+/* Sticky buy bar — right padding reserves the chat bubble's corner */
+.qv-sticky {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 50;
+  background: rgba(255,255,255,0.97); border-top: 1px solid #e5e7eb;
+  padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+  display: none; align-items: center; gap: 12px;
+  box-shadow: 0 -4px 20px rgba(0,0,0,0.06);
+}
+.qv-sticky > div { flex: 1; min-width: 0; line-height: 1.25; }
+.qv-sticky strong { display: block; font-size: 0.95rem; font-weight: 800; }
+.qv-sticky span { display: block; font-size: 0.74rem; color: #6b7280; }
+.qv-sticky .cv-cta { width: auto; padding: 14px 22px; font-size: 0.95rem; border-radius: 14px; flex-shrink: 0; }
+
+@media (max-width: 620px) {
+  .qv-wrap { padding: 22px 16px 130px; }
+  .qv h1 { font-size: 1.45rem; }
+  .qv-sticky { display: flex; padding-right: 84px; }
+  .qv-spec-k { flex-basis: 72px; }
+}

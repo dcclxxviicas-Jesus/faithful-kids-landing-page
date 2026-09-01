@@ -3695,3 +3695,9 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 @media (max-width: 620px) {
   .blog-sticky-cta { padding-right: 84px; }
 }
+
+/* The quiz result's sticky bar needs the same chat-bubble clearance as the
+   others — missed on the first pass. See the note in the blog-sticky rule. */
+@media (max-width: 620px) {
+  .qz-sticky { padding-right: 84px; }
+}

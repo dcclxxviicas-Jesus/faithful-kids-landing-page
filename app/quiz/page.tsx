@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react'
 import posthog from 'posthog-js'
 import { QuizExitCatch } from './QuizExitCatch'
+import { markQuizDone } from '../components/useCtaHref'
 import { VariantB } from '../quiz-variants/treatments'
 import './quiz.css'
 
@@ -356,6 +357,7 @@ export default function Quiz() {
     setPhase('build')
     posthog.capture('quiz_completed', { ...a, path })
     try { sessionStorage.setItem('fk_quiz_state', JSON.stringify({ phase: 'result', answers: a, path })) } catch { /* private mode */ }
+    markQuizDone()
     const steps = path === 'kid' ? KID_BUILD_STEPS : BUILD_STEPS
     let i = 0, pct = 0
     function tick() {

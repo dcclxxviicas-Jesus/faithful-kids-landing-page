@@ -3,6 +3,12 @@
 import { useState } from 'react'
 import posthog from 'posthog-js'
 
+/** The id PostHog is using for this browser, so Stripe can carry it through. */
+function distinctIdSafe(): string | undefined {
+  try { return posthog.get_distinct_id() } catch { return undefined }
+}
+
+
 /* Shared pieces for the checkout variants.
 
    Every fact here is verified against ground truth (see CLAUDE.md):
@@ -57,7 +63,7 @@ export function useCheckout() {
       const res = await fetch('/api/checkout', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ plan }),
+        body: JSON.stringify({ plan, distinctId: distinctIdSafe() }),
       })
       const data = await res.json()
       if (data.url) { window.location.href = data.url; return }

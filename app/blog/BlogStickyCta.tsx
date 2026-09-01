@@ -1,5 +1,7 @@
 'use client'
 
+import { useCtaHref } from '../components/useCtaHref'
+
 import { useEffect, useState } from 'react'
 import posthog from 'posthog-js'
 
@@ -20,6 +22,7 @@ const SHOW_AFTER_SCREENS = 0.6
  * dismissals are still honoured so nobody who hid it gets it forced back.
  */
 export function BlogStickyCta({ postSlug }: { postSlug: string }) {
+  const ctaHref = useCtaHref()
   const [visible, setVisible] = useState(false)
   const [gone, setGone] = useState(false)
   // Steps aside while the verse CTA is on screen — three asks in one viewport
@@ -59,7 +62,7 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
           <span className="blog-sticky-long"> &mdash; 3 days free</span>
         </span>
         <a
-          href="/quiz"
+          href={ctaHref}
           className="btn-primary blog-sticky-btn"
           onClick={() => {
             try { posthog.capture('blog_sticky_click', { post: postSlug }) } catch { /* never break the page */ }

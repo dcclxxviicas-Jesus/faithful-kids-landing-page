@@ -12,7 +12,7 @@ const PLANS: Record<string, { name: string; amount: number; interval: 'month' | 
 }
 
 export async function POST(req: NextRequest) {
-  const { plan } = await req.json()
+  const { plan, distinctId } = await req.json()
   const planConfig = PLANS[plan]
 
   if (!planConfig) {
@@ -23,6 +23,12 @@ export async function POST(req: NextRequest) {
 
   const session = await stripe.checkout.sessions.create({
     mode: 'subscription',
+    /* Carries the browser's PostHog distinct_id through Stripe so the purchase
+       lands on the same person who browsed. Without it money events arrive as
+       stripe:cus_XXX, which never joins the anonymous id used on the site, and
+       "which funnel produced this sale" has to be answered by matching
+       timestamps by hand. */
+    ...(typeof distinctId === 'string' && distinctId ? { client_reference_id: distinctId.slice(0, 200) } : {}),
     payment_method_types: ['card'],
     allow_promotion_codes: true,
     phone_number_collection: { enabled: true },

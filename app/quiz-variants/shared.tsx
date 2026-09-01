@@ -8,6 +8,12 @@ import { STORIES } from '../components/stories'
 import '../checkout-variants/variants.css'
 import './qv.css'
 
+/** The id PostHog is using for this browser, so Stripe can carry it through. */
+function distinctIdSafe(): string | undefined {
+  try { return posthog.get_distinct_id() } catch { return undefined }
+}
+
+
 /* Post-quiz checkout, three treatments.
 
    What the data says this page has to do: 131 people reached it in 90 days
@@ -47,7 +53,7 @@ export function useBuy(variant: string, extra: Record<string, unknown> = {}) {
     try {
       const r = await fetch('/api/checkout', {
         method: 'POST', headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ plan }),
+        body: JSON.stringify({ plan, distinctId: distinctIdSafe() }),
       })
       const d = await r.json()
       if (d.url) { window.location.href = d.url; return }

@@ -3,6 +3,7 @@
 // no other page; it now uses this, so every page navigates the same way.
 
 import { MobileMenu, type NavItem } from './MobileMenu'
+import { NavCta } from './NavCta'
 
 export type NavActive = 'blog' | 'stories' | 'trivia' | 'printables' | 'churches'
 
@@ -17,7 +18,7 @@ const NAV_ITEMS: NavItem[] = [
 export function SiteNav({
   active,
   minimal = false,
-  ctaHref = '/quiz',
+  ctaHref,
   ctaLabel = 'Try Free',
 }: {
   active?: NavActive
@@ -33,6 +34,7 @@ export function SiteNav({
   minimal?: boolean
   /** The homepage nav has always sent to /checkout, not /quiz. Kept as-is
    *  rather than silently rerouting the funnel. */
+  /** Overrides the automatic quiz/checkout routing. */
   ctaHref?: string
   ctaLabel?: string
 }) {
@@ -59,7 +61,11 @@ export function SiteNav({
         </div>}
 
         <div className="nav-actions">
-          <a href={ctaHref} className="btn-nav" style={{ textDecoration: 'none' }}>{ctaLabel}</a>
+          {/* Content pages send first-timers to the quiz and returning
+              quiz-takers straight to checkout. An explicit ctaHref — which the
+              homepage passes — always wins, because homepage traffic has
+              already read the pitch. */}
+          <NavCta href={ctaHref} label={ctaLabel} />
           {!minimal && <MobileMenu items={items} active={active} ctaHref={ctaHref} />}
         </div>
       </div>

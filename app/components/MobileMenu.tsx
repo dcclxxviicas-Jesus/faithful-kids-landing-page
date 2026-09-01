@@ -1,5 +1,7 @@
 'use client'
 
+import { useCtaHref } from './useCtaHref'
+
 import { useEffect, useState } from 'react'
 import { createPortal } from 'react-dom'
 
@@ -13,7 +15,10 @@ export type NavItem = { href: string; label: string; key?: string }
  * ~45% of blog traffic (1,294 visitors in 30 days) with no route to the trivia
  * game, printables, stories or guides.
  */
-export function MobileMenu({ items, active, ctaHref = '/quiz' }: { items: NavItem[]; active?: string; ctaHref?: string }) {
+export function MobileMenu({ items, active, ctaHref }: { items: NavItem[]; active?: string; ctaHref?: string }) {
+  // Same routing as the desktop CTA: quiz first time, checkout once done.
+  const autoCta = useCtaHref()
+  const resolvedCta = ctaHref ?? autoCta
   const [open, setOpen] = useState(false)
   const [mounted, setMounted] = useState(false)
 
@@ -75,7 +80,7 @@ export function MobileMenu({ items, active, ctaHref = '/quiz' }: { items: NavIte
                 </li>
               ))}
             </ul>
-            <a href={ctaHref} className="nav-mobile-cta" onClick={() => setOpen(false)}>
+            <a href={resolvedCta} className="nav-mobile-cta" onClick={() => setOpen(false)}>
               Try Free for 3 Days
             </a>
           </div>

@@ -17,8 +17,11 @@ import { useEffect, useState } from 'react'
  * client paint agree.
  */
 export const QUIZ_DONE_KEY = 'fk_quiz_done'
-/** A completion counts for this long; after that the quiz is worth retaking. */
-const REMEMBER_DAYS = 60
+/** A completion counts for this long; after that they take the quiz again.
+    Short on purpose — a stale answer set is worse than no answer set, and
+    someone returning a week later is a different visitor than the one who
+    finished the quiz. */
+const REMEMBER_DAYS = 3
 
 export function useCtaHref(fallback = '/quiz') {
   const [href, setHref] = useState(fallback)

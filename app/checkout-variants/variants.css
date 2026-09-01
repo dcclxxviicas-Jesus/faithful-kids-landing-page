@@ -409,3 +409,8 @@
 
 /* The green wash reads as "good deal" — it should not follow the monthly tab. */
 .cv-onecard.alt { background: #fff; border-color: #e5e7eb; }
+
+/* Same reservation for the checkout sticky bar — see globals.css. */
+@media (max-width: 620px) {
+  .cv-sticky { padding-right: 84px; }
+}

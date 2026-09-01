@@ -3685,3 +3685,13 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 .ws-play { padding: 8px 24px 40px; text-align: center; }
 .ws-play h2, .ws-themed-head h2 { font-size: 1.7rem; font-weight: 800; margin-bottom: 8px; }
 .ws-themed-head { padding: 28px 24px 6px; text-align: center; }
+
+/* Clearance for the Trainly chat bubble.
+   It renders in a shadow root at bottom-right, reads only data-agent-id, and
+   takes its position from the Trainly dashboard — so it cannot be moved from
+   here. Without this it sits on top of the sticky CTA button, which is the
+   best-converting element on mobile. Reserve the corner instead.
+   If the bubble is ever moved to bottom-left in Trainly, delete this. */
+@media (max-width: 620px) {
+  .blog-sticky-cta { padding-right: 84px; }
+}

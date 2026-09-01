@@ -118,6 +118,7 @@ export default function Privacy() {
           <li><strong>Resend</strong> — email delivery</li>
           <li><strong>Stripe</strong> — payment processing</li>
           <li><strong>PostHog</strong> — anonymous product analytics</li>
+          <li><strong>Trainly</strong> &mdash; support chat on our website</li>
           <li><strong>Google / Apple</strong> — OAuth sign-in (if used)</li>
         </ul>
 

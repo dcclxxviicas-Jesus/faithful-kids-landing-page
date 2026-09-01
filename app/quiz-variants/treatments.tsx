@@ -1,7 +1,7 @@
 'use client'
 
 import {
-  useBuy, PriceBlock, TrustRow, StickyBuy, GETS, LESSON, VideoTile,
+  useBuy, PriceBlock, TrustRow, StickyBuy, useStickyAfter, GETS, LESSON, VideoTile,
   ANNUAL, SAVED, type Answers,
 } from './shared'
 
@@ -19,6 +19,7 @@ function Head({ kids }: { kids: string }) {
    gets out of the way. Everything else is one tap away, not one scroll. */
 export function VariantA({ answers }: { answers: Answers }) {
   const { plan, choose, loading, buy } = useBuy('quiz-a')
+  const { ref: ctaRef, past } = useStickyAfter<HTMLButtonElement>()
   const kids = answers.num_kids === '1' ? 'your child' : 'your kids'
   const age = answers.age || '6-7'
   const denom = answers.denomination === 'catholic' ? 'Catholic' : answers.denomination === 'evangelical' ? 'Evangelical' : 'Christian'
@@ -34,7 +35,7 @@ export function VariantA({ answers }: { answers: Answers }) {
           lessons in order from Genesis to Revelation.
         </p>
 
-        <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} />
+        <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} ctaRef={ctaRef} />
         <TrustRow />
 
         <details className="qv-more">
@@ -44,7 +45,7 @@ export function VariantA({ answers }: { answers: Answers }) {
 
         <p className="qv-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
       </div>
-      <StickyBuy plan={plan} loading={loading} onBuy={() => buy(answers)} />
+      <StickyBuy plan={plan} loading={loading} onBuy={() => buy(answers)} show={past} />
     </div>
   )
 }
@@ -87,6 +88,7 @@ type Row = { k: string; v: string; d: string }
 
 export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?: boolean }) {
   const { plan, choose, loading, buy } = useBuy(isKid ? 'quiz-b-kid' : 'quiz-b')
+  const { ref: ctaRef, past } = useStickyAfter<HTMLButtonElement>()
 
   const age = answers.age
   const denom = answers.denomination === 'catholic' ? 'Catholic'
@@ -153,7 +155,7 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
           summary && <p className="qv-summary">{summary}</p>
         )}
 
-        <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} />
+        <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} ctaRef={ctaRef} />
         <TrustRow />
 
         <h2 className="qv-spec-title">{isKid ? 'What you built' : 'Built from your answers'}</h2>
@@ -171,7 +173,7 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
 
         <p className="qv-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
       </div>
-      <StickyBuy plan={plan} loading={loading} onBuy={() => buy(answers)} />
+      <StickyBuy plan={plan} loading={loading} onBuy={() => buy(answers)} show={past} />
     </div>
   )
 }
@@ -182,6 +184,7 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
    the button is pressed. */
 export function VariantC({ answers }: { answers: Answers }) {
   const { plan, choose, loading, buy } = useBuy('quiz-c')
+  const { ref: ctaRef, past } = useStickyAfter<HTMLButtonElement>()
   const kids = answers.num_kids === '1' ? 'your child' : 'your kids'
   const age = answers.age || '6-7'
   const denom = answers.denomination === 'catholic' ? 'Catholic' : answers.denomination === 'evangelical' ? 'Evangelical' : 'Christian'
@@ -210,7 +213,7 @@ export function VariantC({ answers }: { answers: Answers }) {
         </p>
 
         <div id="plan" />
-        <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} />
+        <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} ctaRef={ctaRef} />
         <TrustRow />
 
         <details className="qv-more">
@@ -220,7 +223,7 @@ export function VariantC({ answers }: { answers: Answers }) {
 
         <p className="qv-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
       </div>
-      <StickyBuy plan={plan} loading={loading} onBuy={() => buy(answers)} />
+      <StickyBuy plan={plan} loading={loading} onBuy={() => buy(answers)} show={past} />
     </div>
   )
 }

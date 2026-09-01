@@ -118,3 +118,7 @@
 .qv-spec-title {
   font-size: 1rem; font-weight: 800; margin: 30px 0 12px;
 }
+
+/* Slides away while the real button is still on screen. */
+.qv-sticky { transition: transform 0.25s ease; }
+.qv-sticky.is-hidden { transform: translateY(115%); }

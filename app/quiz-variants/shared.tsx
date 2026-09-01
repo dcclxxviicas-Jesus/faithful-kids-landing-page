@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import posthog from 'posthog-js'
 import { VideoTile } from '../components/VideoTile'
 import { STORIES } from '../components/stories'
@@ -57,11 +57,12 @@ export function useBuy(variant: string) {
 }
 
 /** The approved /checkout price block, reused so the two pages feel like one product. */
-export function PriceBlock({ plan, choose, loading, onBuy }: {
+export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
   plan: 'annual' | 'monthly'
   choose: (p: 'annual' | 'monthly') => void
   loading: boolean
   onBuy: () => void
+  ctaRef?: React.Ref<HTMLButtonElement>
 }) {
   const annual = plan === 'annual'
   return (
@@ -99,7 +100,7 @@ export function PriceBlock({ plan, choose, loading, onBuy }: {
         </ul>
       </div>
 
-      <button className="cv-cta" onClick={onBuy} disabled={loading}>
+      <button ref={ctaRef} className="cv-cta" onClick={onBuy} disabled={loading}>
         {loading ? 'Taking you to payment…' : annual ? 'Start my 3 free days' : 'Continue to payment'}
       </button>
       <p className="qv-fine">
@@ -121,9 +122,32 @@ export function TrustRow() {
   )
 }
 
-export function StickyBuy({ plan, loading, onBuy }: { plan: string; loading: boolean; onBuy: () => void }) {
+/* Show the bar only once the real button has scrolled away.
+
+   It used to be display:flex from first paint. That was fine when the price
+   sat below the fold, but the reorder put the primary CTA at ~549px — so a
+   visitor at scroll 0 saw "Start my 3 free days" and a sticky "Start free" at
+   the same time: two buttons for one action, one of them covering the page.
+   Same behaviour the blog sticky bar already has. */
+export function useStickyAfter<T extends HTMLElement>() {
+  const ref = useRef<T>(null)
+  const [past, setPast] = useState(false)
+  useEffect(() => {
+    const el = ref.current
+    if (!el || typeof IntersectionObserver === 'undefined') return
+    const io = new IntersectionObserver(
+      ([e]) => setPast(!e.isIntersecting && e.boundingClientRect.top < 0),
+      { threshold: 0 },
+    )
+    io.observe(el)
+    return () => io.disconnect()
+  }, [])
+  return { ref, past }
+}
+
+export function StickyBuy({ plan, loading, onBuy, show = true }: { plan: string; loading: boolean; onBuy: () => void; show?: boolean }) {
   return (
-    <div className="qv-sticky">
+    <div className={`qv-sticky ${show ? '' : 'is-hidden'}`}>
       <div>
         <strong>{plan === 'annual' ? '$0.00 today' : `$${MONTHLY} today`}</strong>
         <span>{plan === 'annual' ? `Then $${ANNUAL} for the year` : `$${SAVED} more than yearly`}</span>

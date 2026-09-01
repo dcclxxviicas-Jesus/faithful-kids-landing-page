@@ -85,3 +85,25 @@
   .qv-sticky { display: flex; padding-right: 84px; }
   .qv-spec-k { flex-basis: 72px; }
 }
+
+/* Kid path: the handover. The child picked the stories, but only an adult can
+   pay — so make the switch of audience obvious instead of sliding a price
+   under a seven-year-old. */
+.qv-handoff {
+  background: #fffbeb; border: 2px dashed #fcd34d; border-radius: 18px;
+  padding: 22px 18px; text-align: center; margin: 22px 0 18px;
+}
+.qv-handoff-emoji { font-size: 2.2rem; line-height: 1; margin-bottom: 8px; }
+.qv-handoff strong { display: block; font-size: 1.15rem; font-weight: 800; color: #78350f; margin-bottom: 6px; }
+.qv-handoff p { margin: 0; font-size: 0.92rem; color: #92400e; line-height: 1.55; }
+.qv-handoff em { font-style: normal; font-weight: 700; }
+
+.qv-parent-note {
+  font-size: 0.88rem; color: #4b5563; line-height: 1.6;
+  background: #fff; border: 1px solid #e5e7eb; border-radius: 14px;
+  padding: 14px 16px; margin: 0 0 22px;
+}
+.qv-parent-note strong { color: #1e293b; font-weight: 800; }
+
+/* The saving line wraps to two lines; keep the tick aligned to the first. */
+.cv-onecard-list li > span:last-child { display: block; }

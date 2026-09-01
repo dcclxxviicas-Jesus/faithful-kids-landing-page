@@ -50,30 +50,58 @@ export function VariantA({ answers }: { answers: Answers }) {
 }
 
 /* ─────────────────────────── B. The Plan ────────────────────────────────
-   Reads back their own answers as a spec. The quiz asked eight questions;
-   showing that the answers actually shaped something is what makes the
-   personalisation feel real rather than decorative. */
-export function VariantB({ answers }: { answers: Answers }) {
-  const { plan, choose, loading, buy } = useBuy('quiz-b')
-  const kids = answers.num_kids === '1' ? 'your child' : 'your kids'
-  const age = answers.age || '6-7'
-  const denom = answers.denomination === 'catholic' ? 'Catholic' : answers.denomination === 'evangelical' ? 'Evangelical' : 'Christian'
-  const nKids = answers.num_kids === '1' ? '1 profile' : `${answers.num_kids || '2'} profiles`
+   Reads their own answers back as a spec.
 
-  const rows = [
-    { k: 'Ages', v: age, d: 'Stories and quiz wording matched to this level' },
-    { k: 'Path', v: denom, d: 'Chosen at setup, changeable any time' },
-    { k: 'Profiles', v: nKids, d: 'Separate progress for each child, up to five' },
-    { k: 'Each lesson', v: 'About 2 min', d: 'Then a comprehension quiz and one reflection question' },
-    { k: 'The library', v: '300+ lessons', d: '31 series, Genesis to Revelation, in order' },
-  ]
+   The two quiz paths share exactly ONE question (age). A parent is asked
+   num_kids and denomination; a kid is asked hero and adventure and neither of
+   the other two. So every row is conditional on the answer existing — the
+   live page defaults a kid's family to "your kids" on a "Christian" path,
+   which is inventing an answer to a question nobody was asked.
+
+   The kid path also has to hand over to a parent partway down: the child
+   picked the stories, but only an adult can pay. */
+
+const HEROES: Record<string, string> = {
+  david: 'David', noah: 'Noah', esther: 'Esther', daniel: 'Daniel', peter: 'Peter',
+}
+const ADVENTURES: Record<string, string> = {
+  daniel: 'The Lions\u2019 Den with Daniel',
+  noah: 'The Great Flood with Noah',
+  water: 'Walking on Water',
+  creation: 'The Very First Day of the World',
+}
+
+type Row = { k: string; v: string; d: string }
+
+export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?: boolean }) {
+  const { plan, choose, loading, buy } = useBuy(isKid ? 'quiz-b-kid' : 'quiz-b')
+
+  const age = answers.age
+  const denom = answers.denomination === 'catholic' ? 'Catholic'
+    : answers.denomination === 'evangelical' ? 'Evangelical'
+    : answers.denomination ? 'Non-denominational' : null
+  const nKids = answers.num_kids
+  const hero = HEROES[answers.hero]
+  const adventure = ADVENTURES[answers.adventure]
+
+  /* Only rows we actually have an answer for. Nothing is defaulted. */
+  const rows: Row[] = []
+  if (age) rows.push({ k: 'Ages', v: age, d: 'Stories and quiz wording matched to this level' })
+  if (hero) rows.push({ k: 'Hero', v: hero, d: 'Their stories come first in the lineup' })
+  if (adventure) rows.push({ k: 'First story', v: adventure, d: 'Watch it, take the quiz, unlock the next one' })
+  if (denom) rows.push({ k: 'Path', v: denom, d: 'Chosen at setup, changeable any time' })
+  if (nKids) rows.push({ k: 'Profiles', v: nKids === '1' ? '1 profile' : `${nKids} profiles`, d: 'Separate progress for each child, up to five' })
+  rows.push({ k: 'Each lesson', v: 'About 2 min', d: 'Then a comprehension quiz and one reflection question' })
+  rows.push({ k: 'The library', v: '300+ lessons', d: '31 series, Genesis to Revelation, in order' })
+
+  const who = nKids ? (nKids === '1' ? 'Your child\u2019s' : 'Your family\u2019s') : 'Your'
 
   return (
     <div className="qv qv-b">
-      <Head kids={kids} />
+      <Head kids="" />
       <div className="qv-wrap">
-        <div className="qv-badge">{'✨'} Built from your answers</div>
-        <h1>{kids === 'your child' ? 'Your child’s' : 'Your family’s'} Bible plan</h1>
+        <div className="qv-badge">{isKid ? '\u{1F389} You built it!' : '\u2728 Built from your answers'}</div>
+        <h1>{isKid ? 'Your Bible adventure' : `${who} Bible plan`}</h1>
 
         <div className="qv-spec">
           {rows.map(r => (
@@ -86,6 +114,24 @@ export function VariantB({ answers }: { answers: Answers }) {
             </div>
           ))}
         </div>
+
+        {/* The child chose the stories; only an adult can buy. Make the
+            handover explicit rather than sliding a price under a kid. */}
+        {isKid && (
+          <div className="qv-handoff">
+            <div className="qv-handoff-emoji">{'\u{1F44B}'}</div>
+            <strong>Now go grab a grown-up!</strong>
+            <p>Tell them: <em>&ldquo;I built a Bible adventure and I want to try it.&rdquo;</em> Then hand them the phone.</p>
+          </div>
+        )}
+
+        {isKid && (
+          <p className="qv-parent-note">
+            <strong>For the grown-up:</strong> your child just built this themselves.
+            Every lesson is a short narrated video with a comprehension quiz after it, so you
+            can see what they understood. {adventure ? `They start with ${adventure}.` : ''}
+          </p>
+        )}
 
         <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} />
         <TrustRow />
@@ -145,7 +191,12 @@ export function VariantC({ answers }: { answers: Answers }) {
   )
 }
 
+/* Real answer shapes: a parent is never asked hero/adventure, a kid is never
+   asked num_kids/denomination. */
 export const SAMPLE: Answers = {
   num_kids: '2', age: '6-7', screen_time: '2-4hr', pain: 'too_much',
-  denomination: 'evangelical', hero: 'david', adventure: 'daniel',
+  denomination: 'evangelical', faith: 'weekly', goal: 'knowledge',
+}
+export const SAMPLE_KID: Answers = {
+  age: '6-7', hero: 'daniel', adventure: 'daniel', fun: 'quiz', watch: '2-4hr', excited: 'yes',
 }

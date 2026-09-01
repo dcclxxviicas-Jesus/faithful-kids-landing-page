@@ -88,7 +88,7 @@ export function PriceBlock({ plan, choose, loading, onBuy }: {
           {annual ? (
             <>
               <li><span className="cv-tick">{'✓'}</span>Free for 3 days &mdash; $0.00 today</li>
-              <li><span className="cv-tick">{'✓'}</span>You keep <strong>${SAVED}</strong> versus monthly</li>
+              <li><span className="cv-tick">{'✓'}</span><span><strong>${SAVED} cheaper</strong> than 12 monthly payments (${(MONTHLY * 12).toFixed(2)})</span></li>
             </>
           ) : (
             <>
@@ -126,7 +126,7 @@ export function StickyBuy({ plan, loading, onBuy }: { plan: string; loading: boo
     <div className="qv-sticky">
       <div>
         <strong>{plan === 'annual' ? '$0.00 today' : `$${MONTHLY} today`}</strong>
-        <span>{plan === 'annual' ? `Then $${ANNUAL}/yr · save $${SAVED}` : `$${SAVED} more than yearly`}</span>
+        <span>{plan === 'annual' ? `Then $${ANNUAL} for the year` : `$${SAVED} more than yearly`}</span>
       </div>
       <button className="cv-cta" onClick={onBuy} disabled={loading}>
         {loading ? '…' : plan === 'annual' ? 'Start free' : 'Continue'}

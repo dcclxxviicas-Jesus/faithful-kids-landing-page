@@ -71,6 +71,18 @@ const ADVENTURES: Record<string, string> = {
   creation: 'The Very First Day of the World',
 }
 
+/* Every new account unlocks the same two series — DEFAULT_UNLOCKED_SERIES in
+   bible-kids/src/types/index.ts is ['genesis', 'birth-of-jesus']. Nothing the
+   quiz collects changes that, and it could not: the quiz runs on
+   faithfulkids.app and the app on app.faithfulkids.app, so its answers never
+   cross the origin. They reach PostHog and stop there.
+
+   So a chosen hero does not reorder anything and a chosen adventure is not
+   where anyone begins. Say what is actually true instead: you start at
+   Genesis, and the story they picked is in there waiting. */
+const START_SERIES = 'Genesis — In the Beginning'
+const IS_UNLOCKED_AT_START = (a?: string) => a === 'creation' 
+
 type Row = { k: string; v: string; d: string }
 
 export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?: boolean }) {
@@ -86,10 +98,16 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
 
   /* Only rows we actually have an answer for. Nothing is defaulted. */
   const rows: Row[] = []
-  if (age) rows.push({ k: 'Ages', v: age, d: 'Stories and quiz wording matched to this level' })
-  if (hero) rows.push({ k: 'Hero', v: hero, d: 'Their stories come first in the lineup' })
-  if (adventure) rows.push({ k: 'First story', v: adventure, d: 'Watch it, take the quiz, unlock the next one' })
-  if (denom) rows.push({ k: 'Path', v: denom, d: 'Chosen at setup, changeable any time' })
+  if (age) rows.push({ k: 'Ages', v: age, d: 'You set each child\u2019s age at setup and the stories match it' })
+  if (isKid) rows.push({ k: 'Starts at', v: START_SERIES, d: 'Everyone begins at the beginning, then unlocks the next series' })
+  if (adventure) rows.push({
+    k: 'Picked', v: adventure,
+    d: IS_UNLOCKED_AT_START(answers.adventure)
+      ? 'Unlocked from day one \u2014 it is in the first series'
+      : 'Waiting in the library \u2014 unlocked as they work through the story',
+  })
+  if (hero) rows.push({ k: 'Favourite', v: hero, d: `${hero}\u2019s stories are in the library` })
+  if (denom) rows.push({ k: 'Path', v: denom, d: 'You pick this at setup and can change it any time' })
   if (nKids) rows.push({ k: 'Profiles', v: nKids === '1' ? '1 profile' : `${nKids} profiles`, d: 'Separate progress for each child, up to five' })
   rows.push({ k: 'Each lesson', v: 'About 2 min', d: 'Then a comprehension quiz and one reflection question' })
   rows.push({ k: 'The library', v: '300+ lessons', d: '31 series, Genesis to Revelation, in order' })
@@ -129,7 +147,7 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
           <p className="qv-parent-note">
             <strong>For the grown-up:</strong> your child just built this themselves.
             Every lesson is a short narrated video with a comprehension quiz after it, so you
-            can see what they understood. {adventure ? `They start with ${adventure}.` : ''}
+            can see what they understood. They begin at Genesis{adventure ? `, and ${adventure} is in there waiting` : ''}.
           </p>
         )}
 

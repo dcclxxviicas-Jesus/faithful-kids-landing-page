@@ -114,13 +114,49 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
 
   const who = nKids ? (nKids === '1' ? 'Your child\u2019s' : 'Your family\u2019s') : 'Your'
 
+  /* A one-liner of what they built, so the personalisation lands before the
+     price without spending five rows and the whole fold on it. */
+  const summary = [
+    age ? `ages ${age}` : null,
+    denom ? `${denom} path` : null,
+    nKids ? (nKids === '1' ? '1 profile' : `${nKids} profiles`) : null,
+    hero ? `${hero}\u2019s stories` : null,
+  ].filter(Boolean).join(' \u00b7 ')
+
   return (
     <div className="qv qv-b">
       <Head kids="" />
       <div className="qv-wrap">
-        <div className="qv-badge">{isKid ? '\u{1F389} You built it!' : '\u2728 Built from your answers'}</div>
+        <div className="qv-badge">{isKid ? '\u{1F389} You built it!' : '\u2728 Your plan is ready'}</div>
         <h1>{isKid ? 'Your Bible adventure' : `${who} Bible plan`}</h1>
 
+        {/* Price first. Only four people in ninety days ever touched a plan
+            selector while thirty-seven tapped the CTA — the spec is
+            reassurance, not the decision, so it must not own the fold.
+
+            The kid path is the exception: its first reader is a child, and
+            the handover has to happen before any price appears. */}
+        {isKid ? (
+          <>
+            <div className="qv-handoff">
+              <div className="qv-handoff-emoji">{'\u{1F44B}'}</div>
+              <strong>Now go grab a grown-up!</strong>
+              <p>Tell them: <em>&ldquo;I built a Bible adventure and I want to try it.&rdquo;</em> Then hand them the phone.</p>
+            </div>
+            <p className="qv-parent-note">
+              <strong>For the grown-up:</strong> your child just built this themselves.
+              Every lesson is a short narrated video with a comprehension quiz after it, so you
+              can see what they understood. They begin at Genesis{adventure ? `, and ${adventure} is in there waiting` : ''}.
+            </p>
+          </>
+        ) : (
+          summary && <p className="qv-summary">{summary}</p>
+        )}
+
+        <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} />
+        <TrustRow />
+
+        <h2 className="qv-spec-title">{isKid ? 'What you built' : 'Built from your answers'}</h2>
         <div className="qv-spec">
           {rows.map(r => (
             <div className="qv-spec-row" key={r.k}>
@@ -133,26 +169,6 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
           ))}
         </div>
 
-        {/* The child chose the stories; only an adult can buy. Make the
-            handover explicit rather than sliding a price under a kid. */}
-        {isKid && (
-          <div className="qv-handoff">
-            <div className="qv-handoff-emoji">{'\u{1F44B}'}</div>
-            <strong>Now go grab a grown-up!</strong>
-            <p>Tell them: <em>&ldquo;I built a Bible adventure and I want to try it.&rdquo;</em> Then hand them the phone.</p>
-          </div>
-        )}
-
-        {isKid && (
-          <p className="qv-parent-note">
-            <strong>For the grown-up:</strong> your child just built this themselves.
-            Every lesson is a short narrated video with a comprehension quiz after it, so you
-            can see what they understood. They begin at Genesis{adventure ? `, and ${adventure} is in there waiting` : ''}.
-          </p>
-        )}
-
-        <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} />
-        <TrustRow />
         <p className="qv-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
       </div>
       <StickyBuy plan={plan} loading={loading} onBuy={() => buy(answers)} />

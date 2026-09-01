@@ -107,3 +107,14 @@
 
 /* The saving line wraps to two lines; keep the tick aligned to the first. */
 .cv-onecard-list li > span:last-child { display: block; }
+
+/* Price-first ordering: a one-line summary carries the personalisation at the
+   top, the full spec becomes reassurance underneath. */
+.qv-summary {
+  font-size: 0.93rem; color: #4b5563; margin: 0 0 22px;
+  padding: 11px 14px; background: #fff; border: 1px solid #e5e7eb;
+  border-radius: 12px; line-height: 1.5;
+}
+.qv-spec-title {
+  font-size: 1rem; font-weight: 800; margin: 30px 0 12px;
+}

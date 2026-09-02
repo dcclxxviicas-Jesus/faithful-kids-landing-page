@@ -129,8 +129,13 @@ FORBIDDEN_SITE_ONLY = [
 # bug). In markdown a floor claim counts only when Faithful Kids is named
 # nearby -- comparison posts quote competitors' catalog sizes ("500+
 # episodes" is Yippee TV's real count, not ours).
+# Terminal nouns deliberately broad: "400+ short Bible story videos" lived
+# unflagged in the homepage SoftwareApplication JSON-LD because the first
+# version only matched lessons/episodes/"Bible stories" — and schema is the
+# worst place for a stale count, since answer engines read it while no human
+# ever sees it on the page (caught by the AEO session, Sep 2).
 FLOOR_CLAIM = re.compile(
-    r"(\d+)\+\s+(?:\w+\s+){0,3}?(?:lessons|episodes|Bible stories)", re.I)
+    r"(\d+)\+\s+(?:\w+\s+){0,3}?(?:lessons?|episodes?|videos?|stories|Bible stories)\b", re.I)
 
 
 COMPETITORS = ("Yippee", "Minno", "Superbook", "YouVersion", "Bible App for Kids")

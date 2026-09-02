@@ -117,6 +117,16 @@ FORBIDDEN_EVERYWHERE = [
     (r"\b60[- ]seconds?[^\n.]{0,60}Faithful Kids", "lessons are 2-3.5 min, not 60s"),
     (r"Every story is 60 seconds", "lessons are 2-3.5 min, not 60s"),
     (r"the video is 60 seconds long", "lessons are 2-3.5 min, not 60s"),
+    # Dead prices. Repriced Aug 18, 2026 to $8.88/$77.77, then again Aug 31 to
+    # $12.99/$97. These three figures were only ever OURS -- no competitor in any
+    # comparison post uses them -- so a bare match is unambiguous and safe.
+    # They are listed because the Aug 31 reprice left the old numbers asserted as
+    # "correct" in CLAUDE.md, BLOG-OPS-HANDOFF.md and four checkout-variant
+    # comments, any one of which would have taught the next session to restore
+    # them. Ground truth is unit_amount in app/api/checkout/route.ts.
+    (r"\$8\.88\b", "dead price -- monthly is $12.99 since Aug 31, 2026"),
+    (r"\$77\.77\b", "dead price -- annual is $97 since Aug 31, 2026"),
+    (r"\$6\.48\b", "dead price -- annual works out at $8.08/mo since Aug 31, 2026"),
 ]
 # Site code (.ts/.tsx) is always our own voice, so bare trial-length claims
 # there are ours and wrong regardless of brand proximity.

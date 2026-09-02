@@ -11,9 +11,15 @@ function distinctIdSafe(): string | undefined {
 
 /* Shared pieces for the checkout variants.
 
-   Every fact here is verified against ground truth (see CLAUDE.md):
-   310 lessons -> "300+", 31 series, ~2 min per lesson, annual $77.77/yr
-   ($6.48/mo) with a 3-day trial, monthly $8.88 with no trial.
+   Every fact here is verified against ground truth, which is the checkout
+   route (`app/api/checkout/route.ts`), NOT this comment and NOT CLAUDE.md:
+   310 lessons -> "300+", 31 series, ~2 min per lesson, annual $97/yr
+   ($8.08/mo) with a 3-day trial, monthly $12.99 with no trial.
+   (Repriced Aug 31, 2026 — these variants were authored against the previous,
+   lower numbers, so re-read the route before trusting any figure rendered
+   below. The old figures are deliberately not repeated here: check-counts.py
+   now fails the build on them, because leaving them in prose is how they got
+   restored as "correct" last time.)
 
    Deliberately absent, because none of it is true:
    - a lesson count inflated by ninety (the real figure is 310)

@@ -8,14 +8,18 @@ import {
 
 /* V2 refined — every element exists to make the yearly plan the obvious pick.
 
-   The live page today shows "$77.77/year" beside "$8.88/month" and leaves the
+   NOTE (Sep 2, 2026): written under the previous, lower prices; they are now
+   $97/yr and $12.99/mo. The behavioural finding below still stands, the old
+   figures do not and are not repeated (check-counts.py fails on them).
+   The live page then showed a yearly price beside a monthly one and left the
    parent to divide. That is almost certainly why plan_select fires 20x on
    monthly against 13x on annual while 9 of 13 continues are annual: they are
    toggling back and forth doing the arithmetic in their heads.
 
-   Nothing here is an invented anchor. $6.48 is the real annual rate per month
-   and the struck-through figure is our real monthly price, so the comparison
-   is between two prices a customer can actually pay. */
+   Nothing here is an invented anchor: the per-month figure is the real annual
+   rate divided by twelve ($8.08 at today's $97) and the struck-through figure
+   is our real monthly price, so the comparison is between two prices a
+   customer can actually pay. */
 
 export function Refined({ monthly, tag }: { monthly: number; tag: string }) {
   const { plan, setPlan, loading, go, ctaLabel } = useCheckout()

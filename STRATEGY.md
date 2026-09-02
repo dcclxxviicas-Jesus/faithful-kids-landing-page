@@ -31,10 +31,12 @@ for Kids" (141M installs of a toddler app with no graduation path).
 5. **Bedtime audio wedge** — Hallow's most viral content; Abide's whole business
    (podcast on Spotify as permanent free funnel). We can extract audio from
    existing videos at zero cost; free bedtime section/podcast, library paywalled.
-6. **Pricing** — REPRICED Aug 18, 2026: Monthly $8.88 (no trial), Annual
-   $77.77 ($6.48/mo, 3-day trial). Now cheaper than Minno monthly ($10.99)
-   and near Hallow/Minno annual ($69.99). Comparison pages updated; watch
-   conversion + trial-to-paid in PostHog. Family-plan tier still an option.
+6. **Pricing** — REPRICED AGAIN Aug 31, 2026: Monthly $12.99 (no trial),
+   Annual $97 ($8.08/mo, 3-day trial). This moved us ABOVE Minno monthly
+   ($10.99) and above Hallow/Minno annual ($69.99) — we are now the premium
+   option in the comparison set, which is a positioning change, not just a
+   number. Watch conversion + trial-to-paid in PostHog against the Aug 18-31
+   baseline at $8.88/$77.77. Family-plan tier still an option.
 7. **Trust signals** — Statement of Faith page, "doctrinally reviewed by"
    credit, pastor endorsements. Cheap, and unblocks the church channel. The AI
    Jesus avatar needs this cover most of all.

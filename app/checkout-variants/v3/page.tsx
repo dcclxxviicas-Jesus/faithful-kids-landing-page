@@ -10,7 +10,7 @@ import {
 
 /* VARIANT 3 — "See it before you pay"
    Every other page on the site now shows a real lesson. Checkout — the one
-   place a parent is about to commit $77.77 — shows nothing at all. Plenty of
+   place a parent is about to commit ($97 today) — shows nothing at all. Plenty of
    people reach /checkout straight from a pricing link or a search result and
    have never watched a single lesson.
    Uses the site's one video pattern, so it downloads nothing until pressed. */

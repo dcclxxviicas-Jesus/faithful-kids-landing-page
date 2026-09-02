@@ -8,7 +8,7 @@ import {
 
 /* VARIANT 2 — "Side by Side" (the Minno pattern)
    Both plans priced in the SAME unit so the comparison needs no arithmetic.
-   Today the live page shows "$77.77/year" against "$8.88/month" and leaves the
+   When this was written the live page showed the previous, lower yearly price against the previous monthly one (repriced Aug 31, 2026 to $97/yr and $12.99/mo) and leaves the
    visitor to divide — which is likely why plan_select fires 20 times on monthly
    but only 13 on annual, while 9 of 13 continues are annual: they are toggling
    back and forth working it out. */

@@ -83,9 +83,12 @@ no AI Overview squatting on it.
    today), no trial-length numbers in CTAs ("Start your free trial" — the
    7-day claim went stale once across 212 CTAs).
 8. **Never bulk-replace prices in blog content.** $9.99/$69.99/$10.99/$7.99
-   etc. are COMPETITORS' prices in comparison posts. Ours: $8.88/mo,
-   $77.77/yr (~$6.48/mo), annual has 3-day trial. Key on context, never bare
-   numbers.
+   etc. are COMPETITORS' prices in comparison posts. **Ours are $12.99/mo and
+   $97/yr (~$8.08/mo) since the Aug 31, 2026 reprice, annual has a 3-day
+   trial — but read them from `app/api/checkout/route.ts` (`1299` / `9700`),
+   never from this line, which is exactly the kind of text that goes stale.**
+   Key on context, never bare numbers. `$8.88 / $77.77 / $6.48` are our OLD
+   prices and are now forbidden strings enforced by `check-counts.py`.
 9. **HTML-entity-decode before measuring title/meta length** (`html.unescape`)
    — `&#x27;` is 6 chars and produced 21 false "too long" failures across
    three separate scripts before the lesson stuck. Metas < 158 chars.

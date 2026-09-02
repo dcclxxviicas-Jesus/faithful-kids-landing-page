@@ -386,7 +386,7 @@ export default function Quiz() {
             {/* Lead with the outcome, not the admin question. The fork still
                 has to be asked, but it is the subtitle now. */}
             <div className="qz-emoji">📖</div>
-            <h1 className="qz-q">We&apos;ll build the perfect Bible plan for your kids</h1>
+            <h1 className="qz-q">Building the perfect Bible plan for your kids</h1>
             <p className="qz-sub">Who&apos;s taking the quiz today?</p>
             <div className="qz-opts">
               <button className="qz-opt" onClick={() => choosePath('parent')}>

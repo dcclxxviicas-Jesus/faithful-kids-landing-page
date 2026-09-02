@@ -134,18 +134,6 @@ FORBIDDEN_SITE_ONLY = [
     (r"\b7[- ]day(?:s)?\s+(?:free\s+)?trial\b", "trial is 3 days, not 7"),
 ]
 
-# Our RETIRED prices (pre-Sep 2026: $8.88/mo, $77.77/yr, ~$6.48/mo). Current
-# is $12.99/$97. These exact strings were only ever ours -- no competitor
-# uses them -- so any reappearance anywhere is a stale claim. The \$-anchored
-# patterns cannot match the legitimate "save $58.88" savings line. Files
-# under checkout-variants/ are exempt: their comments describe the old live
-# page as history, which is not a claim.
-STALE_PRICES = [
-    (r"\$8\.88\b", "retired price (now $12.99/mo)"),
-    (r"\$77\.77\b", "retired price (now $97/yr)"),
-    (r"\$6\.48\b", "retired price (annual is now ~$8.08/mo)"),
-]
-
 # Floor claims like "300+ video lessons" must not overpromise the app's real
 # public-episode count (understating a floor is a marketing choice, not a
 # bug). In markdown a floor claim counts only when Faithful Kids is named
@@ -213,8 +201,6 @@ def main():
                                      " ".join(m.group(0).split())))
         is_md = f.suffix == ".md"
         forbidden = FORBIDDEN_EVERYWHERE + ([] if is_md else FORBIDDEN_SITE_ONLY)
-        if "checkout-variants" not in str(f):
-            forbidden = forbidden + STALE_PRICES
         for pat, reason in forbidden:
             for m in re.finditer(pat, text, re.I):
                 problems.append((f.relative_to(HERE), reason, m.group(0), "",

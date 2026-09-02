@@ -96,7 +96,19 @@ export default async function BlogPostPage({ params }: Props) {
     headline: post.title,
     description: post.metaDescription,
     image: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
-    author: { '@type': 'Person', name: 'Faithful Kids Team' },
+    // Authored by the ORGANISATION, deliberately. These posts were not
+    // hand-written by one person, and a fabricated personal byline across a
+    // 500+ post library is a documented spam pattern. The founder's Person
+    // entity lives once, on /about/christian-alexander, and the Organization
+    // references it as `founder` — that connects brand -> person -> his
+    // Christian Post byline without claiming he wrote each post.
+    // The previous value was `Person: "Faithful Kids Team"`, an invalid node
+    // (a Person whose name is not a person). Do not restore it.
+    author: {
+      '@type': 'Organization',
+      name: 'Faithful Kids',
+      url: 'https://faithfulkids.app',
+    },
     publisher: {
       '@type': 'Organization',
       name: 'Faithful Kids',

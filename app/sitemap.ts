@@ -39,6 +39,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      // Founder / author entity page. Carries the one canonical Person node
+      // (sameAs -> his Christian Post author archive) that the Organization
+      // references as `founder`. Linked from /about so it is not orphaned.
+      url: `${baseUrl}/about/christian-alexander`,
+      lastModified: new Date('2026-09-02'),
+      changeFrequency: 'yearly',
+      priority: 0.5,
+    },
+    {
       // Hub for "bible stories for kids" (1,479/mo). Priority matches the
       // homepage because this is the primary organic target, not a side page.
       url: `${baseUrl}/bible-stories-for-kids`,

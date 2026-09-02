@@ -98,6 +98,15 @@ export default function AboutPage() {
       email: 'team@faithfulkids.app',
       description:
         'Bible video learning app for kids ages 5-15: short video lessons, quizzes, and reflections covering the whole Bible from Genesis to Revelation.',
+      // Connects the brand to the one canonical Person node, which carries
+      // sameAs to his Christian Post author archive. Defined on
+      // /about/christian-alexander — keep the @id in sync with that page.
+      founder: {
+        '@type': 'Person',
+        '@id': 'https://faithfulkids.app/about/christian-alexander#person',
+        name: 'Christian Alexander',
+        url: 'https://faithfulkids.app/about/christian-alexander',
+      },
     },
   }
 
@@ -129,8 +138,9 @@ export default function AboutPage() {
         </p>
         <p>
           The reason it exists: kids are fluent in a hundred apps and strangers to Scripture. The
-          founder, a Christian dad, built it for his own children as an alternative to the
-          autoplay feed — a screen where every video ends in a question instead of another video.
+          founder, <a href="/about/christian-alexander">Christian Alexander</a>, built it for his
+          own children as an alternative to the autoplay feed — a screen where every video ends in
+          a question instead of another video.
         </p>
       </section>
 

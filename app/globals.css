@@ -3805,3 +3805,13 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   .footer-social { margin: 2px 0 8px; }
   .footer-copy { font-size: 0.75rem; }
 }
+
+/* Landing page nav: logo alone, centred.
+   With no CTA on the right, space-between pins the logo left and leaves a void
+   beside it that reads as a failed load rather than restraint. Nothing has
+   earned that corner — a second CTA duplicates the hero, a menu is a drawer of
+   exits, and sign-in serves ~8 subscribers against ~145 monthly visitors — so
+   centre the logo and let the emptiness be deliberate.
+   Compound selector: .nav-inner sets justify-content ~800 lines above. */
+.nav-inner.nav-inner-solo { justify-content: center; }
+.nav-inner.nav-inner-solo .nav-actions { display: none; }

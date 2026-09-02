@@ -45,7 +45,7 @@ export function SiteNav({
 
   return (
     <nav className="nav no-print" aria-label="Main navigation">
-      <div className="nav-inner">
+      <div className={`nav-inner${minimal && hideCta ? ' nav-inner-solo' : ''}`}>
         <a href="/" className="nav-logo" style={{ textDecoration: 'none' }}>
           <img src="/logo-sm.png" alt="Faithful Kids" className="nav-logo-img" /> Faithful Kids
         </a>
@@ -93,6 +93,7 @@ export function SiteFooter() {
           <a href="/support">Support</a>
           <a href="/privacy">Privacy</a>
           <a href="/terms">Terms</a>
+          <a href="https://app.faithfulkids.app/login">Sign in</a>
           <a href="mailto:team@faithfulkids.app">Contact</a>
         </div>
         {/* The channel publishes lesson videos daily and already sends real

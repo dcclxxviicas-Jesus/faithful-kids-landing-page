@@ -3694,10 +3694,41 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
    If the bubble is ever moved to bottom-left in Trainly, delete this. */
 @media (max-width: 620px) {
   .blog-sticky-cta { padding-right: 84px; }
+  /* The App Store variant is a narrow, centred group (~176px), so it never
+     reaches the chat bubble's corner and does not want the 84px reservation —
+     that padding shrinks the centring box and pushes the badge ~30px left of
+     true centre, which is exactly what it looked like. */
+  .blog-sticky-cta.is-app { padding-left: 16px; padding-right: 16px; }
 }
 
 /* The quiz result's sticky bar needs the same chat-bubble clearance as the
    others — missed on the first pass. See the note in the blog-sticky rule. */
 @media (max-width: 620px) {
   .qz-sticky { padding-right: 84px; }
+}
+
+/* App Store badge in the sticky bar (iPhone only — see AppStore.tsx).
+
+   The headline is dropped in this variant. With 84px reserved for the chat
+   bubble there are ~306px to work with, and "Try free:" plus the badge is
+   176px of it — squeezing a wrapping headline in beside them made all three
+   fight. Centred, nothing wraps and the badge is the thing you see. */
+.blog-sticky-cta.is-app .blog-sticky-text { display: none; }
+.blog-sticky-cta.is-app .blog-sticky-inner { justify-content: center; gap: 12px; }
+
+.blog-sticky-app { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+.blog-sticky-app-label {
+  font-size: 1rem; font-weight: 800; color: var(--text);
+  white-space: nowrap; letter-spacing: -0.01em;
+}
+.appstore-badge {
+  display: inline-flex; line-height: 0; text-decoration: none;
+  border-radius: 8px; transition: transform 0.12s ease, opacity 0.12s ease;
+}
+.appstore-badge:active { transform: scale(0.96); opacity: 0.85; }
+.appstore-badge img { display: block; height: 40px; width: auto; }
+
+@media (max-width: 360px) {
+  .blog-sticky-app-label { font-size: 0.9rem; }
+  .appstore-badge img { height: 36px; }
 }

@@ -1,6 +1,6 @@
 'use client'
 
-import { AppStoreBadge, useIsIPhone } from '../components/AppStore'
+import { AppStoreBadge, useIsAppleTouch } from '../components/AppStore'
 
 import { useEffect, useState } from 'react'
 import posthog from 'posthog-js'
@@ -23,7 +23,7 @@ const SHOW_AFTER_SCREENS = 0.6
  */
 export function BlogStickyCta({ postSlug }: { postSlug: string }) {
   const ctaHref = '/quiz'
-  const isIPhone = useIsIPhone()
+  const isAppleTouch = useIsAppleTouch()
   const [visible, setVisible] = useState(false)
   const [gone, setGone] = useState(false)
   // Steps aside while the verse CTA is on screen — three asks in one viewport
@@ -63,7 +63,7 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
   if (gone) return null
 
   return (
-    <div className={`blog-sticky-cta${isIPhone ? ' is-app' : ''}${visible && !verseCtaOnScreen && !inlineCtaOnScreen ? '' : ' is-hidden'}`}>
+    <div className={`blog-sticky-cta${isAppleTouch ? ' is-app' : ''}${visible && !verseCtaOnScreen && !inlineCtaOnScreen ? '' : ' is-hidden'}`}>
       <div className="blog-sticky-inner">
         <span className="blog-sticky-text">
           <strong>Start your child&apos;s Bible journey</strong>
@@ -73,7 +73,7 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
             real either way — the app carries its own subscribe flow with the
             same 3 free days (ENABLE_NATIVE_PURCHASE is on). Everywhere else
             keeps the web CTA. */}
-        {isIPhone ? (
+        {isAppleTouch ? (
           <span className="blog-sticky-app">
             <span className="blog-sticky-app-label">Start your kids&apos; Bible journey!</span>
             <AppStoreBadge location={`blog-sticky:${postSlug}`} height={36} />

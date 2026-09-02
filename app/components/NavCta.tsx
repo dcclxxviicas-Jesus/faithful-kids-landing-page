@@ -1,6 +1,6 @@
 'use client'
 
-import { AppStoreBadge, useIsIPhone } from './AppStore'
+import { AppStoreBadge, useIsAppleTouch } from './AppStore'
 
 /* Just the nav's call to action.
  *
@@ -12,12 +12,12 @@ export function NavCta({ href, label, className = 'btn-nav' }: {
   label: string
   className?: string
 }) {
-  const isIPhone = useIsIPhone()
+  const isAppleTouch = useIsAppleTouch()
 
   /* On an iPhone the nav's ask is the App Store badge instead of a text
      button — installing is the lower-friction path there, and the badge says
      what it is without needing a label. Everywhere else keeps the text CTA. */
-  if (isIPhone) return <AppStoreBadge location="nav" height={30} />
+  if (isAppleTouch) return <AppStoreBadge location="nav" height={30} />
 
   return (
     <a href={href ?? '/quiz'} className={className} style={{ textDecoration: 'none' }}>

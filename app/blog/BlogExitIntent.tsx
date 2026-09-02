@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react'
 import posthog from 'posthog-js'
-import { APP_STORE_URL, useIsIPhone } from '../components/AppStore'
+import { APP_STORE_URL, useIsAppleTouch } from '../components/AppStore'
 import { EmailCaptureCard } from './EmailCaptureCard'
 
 const SHOWN_KEY = 'fk_exit_shown_at'
@@ -69,7 +69,7 @@ export function BlogExitIntent({
 }) {
   const [show, setShow] = useState(false)
   const [isMobile, setIsMobile] = useState(false)
-  const isIPhone = useIsIPhone()
+  const isAppleTouch = useIsAppleTouch()
   const triggered = useRef(false)
   const mountedAt = useRef(0)
   const deepScrolled = useRef(false)
@@ -211,14 +211,14 @@ export function BlogExitIntent({
         {/* On an iPhone the app itself is the lower-friction way in, and it
             carries the same 3 free days. Everyone else keeps the web path. */}
         <a
-          href={isIPhone ? APP_STORE_URL : '/quiz'}
+          href={isAppleTouch ? APP_STORE_URL : '/quiz'}
           onClick={() => posthog.capture('exit_intent_cta', {
             post: postSlug, variant, surface: 'blog',
-            destination: isIPhone ? 'app_store' : 'quiz',
+            destination: isAppleTouch ? 'app_store' : 'quiz',
           })}
           style={{ color: emerald, fontWeight: 700, fontSize: '0.88rem', textDecoration: 'none' }}
         >
-          {isIPhone ? 'Get our app \u2192' : 'See the full app \u2192'}
+          {isAppleTouch ? 'Get our app \u2192' : 'See the full app \u2192'}
         </a>
       </div>
     </div>

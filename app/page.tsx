@@ -279,8 +279,15 @@ export default function Home() {
           ))}
         </div>
         <p className="section-sub testi-note">
-          Faithful Kids is a Christian app for kids built around the stories every Christian
-          tradition shares. Choose a Catholic, Evangelical or Non-denominational path at setup.
+          {/* "christian shows for kids" is 255/mo and the one term where a
+              homepage competes — Minno ranks #1 for it and Yippee #8, both
+              with their homepages. The denominations stay because "catholic
+              bible for kids" is 153/mo and it is the fact an answer engine
+              cites for "is there a Bible app for Catholic kids?". The
+              doctrinal-review clause went: it is already a hero badge. */}
+          Christian shows for kids that teach, not just entertain. 300+ short Bible videos,
+          Genesis to Revelation, each ending in a quiz. Catholic, Evangelical or
+          Non-denominational &mdash; you choose the path at setup.
         </p>
       </section>
 

@@ -3779,8 +3779,10 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 .blog-sticky-app { flex-direction: column; gap: 6px; }
 .blog-sticky-app-label { font-size: 0.85rem; line-height: 1.2; }
 .blog-sticky-cta.is-app .blog-sticky-inner { padding: 2px 0; }
-/* Nav badge is smaller than the sticky one so it sits inside the bar. */
-.nav-actions .appstore-badge img { height: 30px; }
+/* Matches the 44px hamburger square beside it, so the two controls in the
+   nav are the same height. Apple's badge is ~3:1, so 44px tall is ~132px
+   wide — verified to fit alongside the logo at 390px. */
+.nav-actions .appstore-badge img { height: 44px; }
 
 /* Mobile footer: ten links wrapping at 390px with a 44px tap target each
    sprawled over half a screen. A two-column grid keeps the tap targets while

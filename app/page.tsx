@@ -6,7 +6,6 @@ import { STORIES } from '@/app/components/stories'
 import { VideoTile } from '@/app/components/VideoTile'
 import posthog from 'posthog-js'
 import { createPortal } from 'react-dom'
-import { useTimer } from './use-timer'
 import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
 
 const TESTIMONIALS = [
@@ -369,7 +368,6 @@ export default function Home() {
       <ExitIntent />
 
       {/* STICKY BOTTOM BAR */}
-      <StickyBar onCTA={handleCTA} />
     </>
   )
 }
@@ -390,35 +388,6 @@ function PhoneMockup() {
         showLabels={false}
         autoplay
       />
-    </div>
-  )
-}
-
-function StickyBar({ onCTA }: { onCTA: () => void }) {
-  const [dismissed, setDismissed] = useState(false)
-  const [visible, setVisible] = useState(false)
-  const { minutes, seconds } = useTimer()
-
-  useEffect(() => {
-    const handleScroll = () => setVisible(window.scrollY > 600)
-    window.addEventListener('scroll', handleScroll)
-    return () => window.removeEventListener('scroll', handleScroll)
-  }, [])
-
-  if (dismissed || !visible) return null
-
-  return (
-    <div className="sticky-bar">
-      <div className="sticky-inner">
-        {/* "up to 75% off" was not true of anything — the real yearly saving
-            is $58.88, or 38%. And no CTA says "free"/"trial" any more. */}
-        <span className="sticky-text">
-          <strong>Save $58.88</strong> on the yearly plan.
-          Ends in <span className="sticky-timer">{String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}</span>
-        </span>
-        <button className="sticky-cta" onClick={onCTA}>Get started</button>
-        <button className="sticky-dismiss" onClick={() => setDismissed(true)} aria-label="Dismiss promotion bar">✕</button>
-      </div>
     </div>
   )
 }

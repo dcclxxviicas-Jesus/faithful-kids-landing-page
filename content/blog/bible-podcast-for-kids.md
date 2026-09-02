@@ -53,6 +53,8 @@ But with hundreds of options available, how do you find the right one? We review
 
 **Best for:** Families with kids who respond to humor and games. Great for kids who say "the Bible is boring" and need a different entry point.
 
+Pair this with our free [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep) — one sheet, ready for the kitchen table or the classroom.
+
 ## 4. Bible Belles
 
 **Format:** Story-driven podcast focusing on women of the Bible

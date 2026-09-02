@@ -92,6 +92,8 @@ Instead of (or alongside) a candy advent calendar, use one that tells a piece of
 ### 6. The Gift of the Wise Men
 Talk about what the wise men's gifts meant. Gold for a king, frankincense for God, myrrh (a burial spice) pointing to His death. Then ask: "If you could give Jesus a gift, what would it be?" Help your child think about giving Jesus their heart, their obedience, or their kindness to others.
 
+For quiet time afterwards, print the free [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) and let them color while you talk it through.
+
 ## Addressing the Santa Question
 
 This is the question every parent faces. Here are some approaches:

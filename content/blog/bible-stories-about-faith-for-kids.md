@@ -73,6 +73,8 @@ Every story on this list is available as a short video lesson with a quiz on [Fa
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-faith)
 
+A related freebie: our [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace), drawn as clean line art for crayons and markers.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story about faith for kids?

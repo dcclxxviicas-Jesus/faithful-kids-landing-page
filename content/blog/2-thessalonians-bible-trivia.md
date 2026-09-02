@@ -38,6 +38,8 @@ Paul answers on two fronts. First, the day of the Lord has not arrived -- certai
 13. How did Paul model hard work while he was with them? **He worked night and day so he would not be a burden, and never ate anyone's food without paying for it** (2 Thessalonians 3:7-8)
 14. What were the believers told to stand firm and hold fast to? **The teachings passed on to them, whether by word of mouth or by letter** (2 Thessalonians 2:15)
 
+For a quieter follow-up, try the free [Daniel word search](/printables/bible-word-search/daniel) — twelve hidden words, answer key included.
+
 ## Hard 2 Thessalonians Trivia Questions (Teens and Adults)
 
 15. What did Paul ask the church to pray for his team? **That the message of the Lord may spread rapidly and be honored, and that they be delivered from wicked and evil people** (2 Thessalonians 3:1-2)

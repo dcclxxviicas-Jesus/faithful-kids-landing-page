@@ -54,6 +54,8 @@ The whole book follows the outline Jesus gives in Acts 1:8: "You will be my witn
 29. What did the terrified Philippian jailer ask Paul and Silas? **"What must I do to be saved?"** (Acts 16:30)
 30. The people of which town "examined the Scriptures every day" to test Paul's message? **Berea** (Acts 17:11)
 
+There is a free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) to go with this, playable on a phone and printable for a class.
+
 ## Hard Acts Trivia Questions (Teens and Adults)
 
 31. What altar inscription did Paul quote when preaching in Athens? **"TO AN UNKNOWN GOD"** (Acts 17:23)

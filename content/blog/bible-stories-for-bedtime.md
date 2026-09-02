@@ -109,6 +109,8 @@ Faithful Kids has a dedicated bedtime mode that dims the screen, plays one story
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-bedtime)
 
+We drew a printable [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story for bedtime?

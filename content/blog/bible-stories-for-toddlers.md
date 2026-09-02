@@ -76,6 +76,8 @@ Faithful Kids has 300+ Bible story videos designed for kids ages 5+. For toddler
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-toddlers)
 
+Toddlers who love this story can color it too — the free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) prints on one sheet.
+
 ## Frequently Asked Questions
 
 ### When should I start reading the Bible to my toddler?

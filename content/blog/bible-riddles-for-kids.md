@@ -303,6 +303,8 @@ Answer: **The widow with two coins** (Mark 12:41-44). Wealthy people dropped lar
 
 Answer: **The empty tomb** (Matthew 28:1-6; John 20:1-9). On Sunday morning, the women who came to Jesus' tomb found the stone moved and the tomb empty. The resurrection is the center of the whole Bible.
 
+We drew a printable [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Tricky Riddles for Bible Champions
 
 ### Riddle #42

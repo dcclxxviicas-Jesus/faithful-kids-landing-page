@@ -48,6 +48,8 @@ The best family-wide Christian podcasts are ones parents genuinely enjoy too -- 
 
 **12. BibleProject** -- For your 12-and-ups: Tim Mackie and Jon Collins have deep, curious conversations about how the Bible actually works as literature. It's made for adults, which is exactly why young teens feel respected listening to it. Pair episodes with their animated videos -- more on those in our list of [Christian YouTube channels for kids](/blog/christian-youtube-channels-for-kids).
 
+If small hands need something to do while you read, the free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) is made for exactly that.
+
 ## Which Christian Podcast Fits Which Age?
 
 Match the show's length and format to your child's attention span, not their reading level -- kids can comprehend audio two to three grade levels above what they can read. Here's the whole list at a glance:

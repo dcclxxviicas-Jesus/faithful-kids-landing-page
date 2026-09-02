@@ -82,6 +82,8 @@ Luke is the longest of the four gospels by word count, and it's volume one of a 
 
 30. What was Luke's profession, according to Paul? **He was a doctor -- "our dear friend Luke, the physician"** (Colossians 4:14)
 
+A related freebie: our [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep), drawn as clean line art for crayons and markers.
+
 ## Hard Luke Trivia Questions (Teens and Adults)
 
 31. What second New Testament book did Luke write as a sequel to his gospel? **Acts** (Acts 1:1)

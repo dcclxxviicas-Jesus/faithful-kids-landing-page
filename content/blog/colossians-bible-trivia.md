@@ -46,6 +46,8 @@ Now the letter's big argument: Christ is completely enough, so dress your life a
 17. What are fathers warned not to do, and why? **Do not embitter your children, or they will become discouraged** (Colossians 3:21)
 18. What should believers devote themselves to, "being watchful and thankful"? **Prayer** (Colossians 4:2)
 
+There is a free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) to go with this, playable on a phone and printable for a class.
+
 ## Hard Colossians Trivia Questions (Teens and Adults)
 
 The closing greetings of Colossians are a who's who of the early church -- a runaway slave, a Gospel writer, and a restored quitter all in one chapter.

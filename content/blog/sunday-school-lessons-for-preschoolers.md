@@ -45,6 +45,8 @@ Keep these rules taped inside your supply cabinet:
 
 **Verse:** "I have set my rainbow in the clouds." -- Genesis 9:13
 
+A related freebie: our [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden), drawn as clean line art for crayons and markers.
+
 ## Lesson 3: God Took Care of Baby Moses
 
 **Story summary:** Baby Moses's mother hid him in a basket and floated it on the river to keep him safe. A princess found the basket and took care of him. God watched over Moses the whole time -- and God watches over us too. (Exodus 2:1-10)

@@ -40,6 +40,8 @@ Here are 12 Bible verses about strength that your child can hold onto when life 
 
 **When to remember it:** When your child faces something new or scary — a move, a new school, meeting new people, or any situation where they feel alone. For school nerves specifically, try these [Bible verses for the first day of school](/blog/bible-verses-for-first-day-of-school).
 
+There is a free [the cross coloring page](/printables/bible-coloring-pages/the-cross) on our site too, printable on one sheet with no sign-up.
+
 ## 4. Psalm 46:1
 
 *"God is our refuge and strength, an ever-present help in trouble."*

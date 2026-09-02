@@ -40,6 +40,8 @@ The chapter-4 details make it feel like a real goodbye. Paul asks Timothy to hur
 
 7. Complete Paul's famous sentence: "I have fought the good fight, I have finished the ___." **Race** (2 Timothy 4:7)
 
+Older kids who find coloring dull usually take to the free [Moses word search](/printables/bible-word-search/moses) instead — it plays in the browser or prints on one sheet.
+
 ## Medium 2 Timothy Trivia Questions (Ages 9-12)
 
 8. Paul said everyone in the province of Asia deserted him -- which two men did he name? **Phygelus and Hermogenes** (2 Timothy 1:15)

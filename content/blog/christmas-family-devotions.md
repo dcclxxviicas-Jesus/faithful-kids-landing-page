@@ -100,6 +100,8 @@ Keep it short, keep it at the same time each night, and let kids do some of the 
 
 **Prayer:** Glory to You, God, in the highest! Thank You for sending peace to earth. Help our family's December be full of singing, not just stress. Amen.
 
+Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+
 ## Weeks 3-4: The Birth (Devotions 9-12)
 
 ### Devotion 9: No Room

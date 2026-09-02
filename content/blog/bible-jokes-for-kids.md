@@ -161,6 +161,8 @@ Humor also reduces anxiety around unfamiliar material. Some kids feel intimidate
 
 Most importantly, laughing together as a family creates memories. Years from now, your kids will not just remember the jokes. They will remember the kitchen table, the car ride, the sound of everyone laughing, and the warmth of a family that made God's Word a part of their everyday life.
 
+A related freebie: our [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd), drawn as clean line art for crayons and markers.
+
 ## A Note About Reverence and Fun
 
 Some parents wonder if it is respectful to joke about the Bible. Here is the thing: these jokes do not mock Scripture. They celebrate it. They require kids to know Bible stories in order to understand the punchlines. A child who gets the Boaz joke has learned who Boaz and Ruth are. A child who laughs at the Nehemiah joke has heard that name and will recognize it later.

@@ -40,6 +40,8 @@ For kids: "When we drink from the cup during communion, we are remembering that 
 
 Most churches use grape juice for children (and many for everyone). Your child might be relieved to know they are not actually drinking blood — it is a symbol, a way of remembering.
 
+We drew a printable [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Why Do We Keep Doing It?
 
 Jesus said, "Do this in remembrance of me." That is the heart of communion — **remembering.**

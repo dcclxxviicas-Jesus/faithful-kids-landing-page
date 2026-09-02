@@ -40,6 +40,8 @@ Here are 12 Bible verses about family that every child should hear, understand, 
 
 **For your family:** When your child resists Bible time or prayer, remember this verse. You're planting seeds that will bear fruit for decades, even if you can't see the growth right now.
 
+For quiet time afterwards, print the free [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) and let them color while you talk it through.
+
 ## 4. Colossians 3:20
 
 *"Children, obey your parents in everything, for this pleases the Lord."*

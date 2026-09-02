@@ -74,6 +74,8 @@ Match the show to your kid's age and you'll get a lot less pushback. Here's the 
 | 7-10 | Superbook, Bibleman, LarryBoy, Micah's Super Vlog, Theo | Action and real Bible text |
 | 9-12 | Friends and Heroes, What's in the Bible?, Adventures in Odyssey, The Greatest Adventure | Deeper stories, big-picture teaching |
 
+There is a free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) on our site too, printable on one sheet with no sign-up.
+
 ## Do Cartoons Actually Teach Kids the Bible?
 
 Cartoons introduce Bible stories brilliantly, but kids retain far more when watching is paired with conversation or questions. That's the honest limitation of every show on this list: it's one-directional. Your kid watches Superbook's David and Goliath episode, enjoys it, and moves on -- unless someone asks them about it.

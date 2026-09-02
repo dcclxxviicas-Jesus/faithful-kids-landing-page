@@ -60,6 +60,8 @@ Jonathan later died in battle alongside his father. David mourned deeply and sai
 
 **Key lesson for kids:** True friendship means being loyal even when it's hard. Jonathan gave up his chance to be king because he knew God had chosen David. Real friends put others before themselves. (Read more in [David and Jonathan for kids](/blog/david-and-jonathan-for-kids).)
 
+We built a [David and Goliath word search](/printables/bible-word-search/david-and-goliath) around this story — free, no sign-up, on screen or on paper.
+
 ## David Becomes King (2 Samuel 2-5)
 
 After years of running from Saul, hiding in caves, and living as a fugitive, David finally became king. First he was king of Judah (the southern part of Israel) for seven and a half years, and then he became king over all of Israel.

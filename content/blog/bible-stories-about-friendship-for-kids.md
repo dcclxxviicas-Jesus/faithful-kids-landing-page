@@ -88,6 +88,8 @@ When the ex-persecutor Saul tried to join the Christians in Jerusalem, everyone 
 
 If your kids learn best by watching, every story on this list is available as a short animated video lesson with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-friendship).
 
+Pair this with our free [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) — one sheet, ready for the kitchen table or the classroom.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story about friendship for kids?

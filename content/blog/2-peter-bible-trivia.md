@@ -40,6 +40,8 @@ Peter also gives one of the Bible's clearest pictures of what we're waiting for:
 
 7. What does Peter tell believers to grow in, in the letter's last verse? **The grace and knowledge of our Lord and Savior Jesus Christ** (2 Peter 3:18)
 
+There is a free [Daniel word search](/printables/bible-word-search/daniel) to go with this, playable on a phone and printable for a class.
+
 ## Medium 2 Peter Trivia Questions (Ages 9-12)
 
 8. Peter builds a ladder of eight qualities -- what is the first rung everything else is added to? **Faith** (2 Peter 1:5)

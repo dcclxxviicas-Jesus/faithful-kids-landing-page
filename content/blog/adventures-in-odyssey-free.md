@@ -43,6 +43,8 @@ Official Adventures in Odyssey podcast content is distributed through the usual 
 
 The catalog available this way is a fraction of the 1,000+ episodes in the Club, and it is not the full run in order. But for families who just want Odyssey playing during the school commute, it does the job at no cost.
 
+There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
+
 ## What you're actually buying if you pay
 
 The Club is $8.99/month billed annually ($107.88/year). For that you get the complete archive, the devotional library, and Club-only content that never airs.

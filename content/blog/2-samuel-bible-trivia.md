@@ -46,6 +46,8 @@ The hinge of the whole book is God's covenant in chapter 7: David wants to build
 21. Which son rebelled against David and "stole the hearts" of Israel? **Absalom** (2 Samuel 15:1-6)
 22. How did Absalom get stuck during the battle in the forest? **His head caught in the branches of a great oak while his mule kept going, leaving him hanging in midair** (2 Samuel 18:9)
 
+Older kids who find coloring dull usually take to the free [Daniel word search](/printables/bible-word-search/daniel) instead — it plays in the browser or prints on one sheet.
+
 ## Hard 2 Samuel Trivia Questions (Teens and Adults)
 
 23. Who killed Absalom as he hung in the tree, and with what? **Joab, who plunged three javelins into him** (2 Samuel 18:14)

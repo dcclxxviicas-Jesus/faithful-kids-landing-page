@@ -86,6 +86,8 @@ You stay close and watch my sleep.
 You are bigger than my fear,
 I am safe when You are near. Amen.
 
+For quiet time afterwards, print the free [Creation coloring page](/printables/bible-coloring-pages/creation) and let them color while you talk it through.
+
 ## Bedtime Prayers of Thanks
 
 A thankfulness prayer at bedtime trains kids to end the day counting what went right instead of replaying what went wrong. These work especially well as call-and-response, where your child fills in the blanks.

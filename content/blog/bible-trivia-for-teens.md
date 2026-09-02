@@ -141,6 +141,8 @@ Answer: Lois (2 Timothy 1:5)
 **35. What dream did Nebuchadnezzar have that Daniel interpreted about the rise and fall of kingdoms?**
 Answer: A statue with a head of gold, chest of silver, belly of bronze, legs of iron, feet of iron and clay — struck by a rock (Daniel 2:31-35)
 
+For a quieter challenge between rounds, the [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) plays in the browser or prints for the table.
+
 ## Questions 36-50: Bible Scholar Level
 
 **36. What is the only sin Jesus said will not be forgiven?**

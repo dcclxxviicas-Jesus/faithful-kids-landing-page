@@ -44,6 +44,8 @@ Look for a curriculum where the quiz is built into every lesson, checks understa
 4. **Low stakes, high frequency.** Quizzes should feel like a game, not an exam. Points, streaks, and levels turn retrieval practice into something kids ask to do.
 5. **Visibility for parents.** If nobody can see the results, you are back to hoping the material stuck. A record of what your child got right and wrong tells you what to talk about at dinner.
 
+For homeschool families, our [free homeschool Bible curriculum page](/homeschool) covers what a day looks like and what it costs.
+
 ## Which Bible Curricula Actually Include Quizzes?
 
 Surprisingly few. Most children's Bible resources are stories plus crafts, with comprehension left to chance. Here are the honest standouts, from free to paid. (For the full landscape including non-quiz programs like Apologia and Sonlight, see our [homeschool Bible curriculum comparison](/blog/homeschool-bible-curriculum-comparison).)

@@ -104,6 +104,8 @@ At Mount Sinai the people heard God's commandments and promised together: "Every
 
 If your kids learn best by watching, every story on this list is available as a short animated video lesson with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-obedience).
 
+We drew a printable [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story about obedience for kids?

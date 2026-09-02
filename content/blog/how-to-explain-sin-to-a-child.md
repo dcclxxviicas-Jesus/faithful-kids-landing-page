@@ -43,6 +43,8 @@ For your child: "Here is something really important — everyone sins. Mom and D
 
 This is crucial because children can easily slip into shame. Shame says, "I am bad." But that is not what the Bible teaches. The Bible says we are made in the image of God (Genesis 1:27), deeply loved, and valuable — AND we make wrong choices. Both things are true at the same time.
 
+A related freebie: our [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden), drawn as clean line art for crayons and markers.
+
 ## The Difference Between Shame and Conviction
 
 Help your child understand the difference between healthy guilt and toxic shame:

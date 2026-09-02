@@ -60,6 +60,8 @@ A homeschool Bible lesson does not need to be long -- it needs to be daily. Fift
 
 The order matters: story first, questions second, activity last. Kids engage with the discussion far better when the story is seconds old, not minutes.
 
+Homeschooling? Our [free homeschool Bible curriculum page](/homeschool) shows how families use the video lessons as an open-and-go Bible block.
+
 ## How Do You Adapt Bible Lessons by Age?
 
 **Ages 4-6 (pre-K and kindergarten):** Keep it to ten minutes. Focus on what happened, not what it means -- narrative before theology. Let them narrate the story back to you in their own words, then color. Our library of [Bible coloring pages for kids](/blog/bible-coloring-pages-for-kids) pairs well with almost every story in the 40-week plan.

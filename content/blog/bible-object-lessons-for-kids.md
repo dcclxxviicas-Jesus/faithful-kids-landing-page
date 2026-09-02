@@ -104,6 +104,8 @@ These four put Jesus' own metaphors in kids' hands. They pair well with our [Bib
 
 Teaching kids that God guides them leads straight into teaching them to talk to Him, so our [object lessons on prayer](/blog/object-lessons-on-prayer) are the natural follow-up to this one.
 
+If small hands need something to do while you read, the free [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep) is made for exactly that.
+
 ## Lessons Kids Wear, Build, or Keep
 
 These three are the most physical -- great for wiggly kids and [Sunday school lesson plans](/blog/bible-lesson-plans-for-sunday-school).

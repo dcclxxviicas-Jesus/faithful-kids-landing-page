@@ -34,6 +34,8 @@ Here are 15 of the most beautiful Bible verses about love, each with a simple ex
 
 **What it means for kids:** God doesn't just feel love or show love — God actually *is* love. It's who He is at His core. That means every time you experience real love — from your parents, your friends, or a kind stranger — you're experiencing a little bit of God Himself.
 
+We drew a printable [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## 4. Romans 8:38-39
 
 *"For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."*

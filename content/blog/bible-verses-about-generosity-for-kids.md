@@ -89,6 +89,8 @@ God grades gifts on willingness, not size. This frees the child who can only giv
 
 Jesus loves secret generosity. Kids find this thrilling: plan a stealth kindness together -- an anonymous treat for a neighbor -- and let the secret be the reward.
 
+We drew a printable [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Which Verses Teach Kids to Help People in Need?
 
 Generosity toward the poor gets special attention in Scripture -- God takes it personally.

@@ -201,6 +201,8 @@ Use this plan to begin tonight. Each day includes a story, a key verse, three di
 
 ---
 
+Homeschooling? Our [free homeschool Bible curriculum page](/homeschool) shows how families use the video lessons as an open-and-go Bible block.
+
 ## What Comes After the First Week
 
 Once you have completed the 7-day plan, you have several options:

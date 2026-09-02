@@ -115,6 +115,8 @@ We rounded up free printable [Bible coloring pages for kids](/blog/bible-colorin
 ### The Best Approach: Combine Formats
 The most effective visual Bible learning combines multiple formats. Watch an animated video of David and Goliath, then color a coloring page of the scene, then read the story in an illustrated Bible before bed. Each format reinforces the same story through a different sensory channel, building a multi-layered memory that lasts.
 
+For quiet time afterwards, print the free [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) and let them color while you talk it through.
+
 ## How to Choose the Right Visual Bible Tools
 
 **Consider your child's age.** Toddlers and preschoolers need simple, large illustrations with minimal text. Elementary-age kids thrive with animated videos and detailed picture books. Pre-teens may prefer graphic novels and discussion-based video content.

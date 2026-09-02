@@ -75,6 +75,8 @@ Animated video lessons can help kids visualize the Easter story in a way that st
 ### 6. Serve Others
 "Because Jesus gave everything for us, we can give to others." Volunteer as a family, deliver meals, or make Easter cards for people who are alone. Show your child that the love of Easter is meant to overflow into action.
 
+There is also a free set of [Easter coloring pages](/printables/easter-coloring-pages) on our site, drawn for crayons and ready to print.
+
 ## Common Kid Questions About Easter
 
 **"Did it hurt when Jesus died on the cross?"**

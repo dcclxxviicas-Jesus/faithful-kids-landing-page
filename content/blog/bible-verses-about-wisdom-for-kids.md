@@ -84,6 +84,8 @@ Paul warns that even a good kid gets bent by the wrong crowd -- "do not be misle
 
 Good friends sharpen each other. Flip the friendship question around: "Whom are you sharpening?" -- kids need to hear they're an influence, not just influenced.
 
+If small hands need something to do while you read, the free [the cross coloring page](/printables/bible-coloring-pages/the-cross) is made for exactly that.
+
 ## What Do Wise Words Sound Like?
 
 Wisdom shows up first in the mouth -- Proverbs has more to say about kids' words than almost anything else.

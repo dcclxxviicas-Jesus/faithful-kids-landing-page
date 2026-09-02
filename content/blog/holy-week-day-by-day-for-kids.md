@@ -65,6 +65,8 @@ Jesus also told the Parable of the Ten Virgins (Matthew 25:1-13), teaching that 
 
 **Family activity:** Each family member writes down one gift or talent God has given them. Share them at dinner and talk about how you can use those gifts to serve others this week.
 
+For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages) — print as many as your class needs.
+
 ## Wednesday: The Silent Day / Judas Plots
 
 **Read:** Matthew 26:14-16, Luke 22:1-6

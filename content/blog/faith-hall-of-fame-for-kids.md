@@ -47,6 +47,8 @@ The story of Faith Hall of Fame teaches children important lessons about faith, 
 
 > *"Now faith is confidence in what we hope for and assurance about what we do not see."* — Hebrews 11:1
 
+There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) on our site too, printable on one sheet with no sign-up.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

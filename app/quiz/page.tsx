@@ -598,7 +598,7 @@ function MultiSelect({ opts, onDone }: { opts: { label: string; val: string; emo
  * "reservation" that does not exist, running in two places at once; built-in
  * daily limits that pause when time is up, for a screen-time feature the app
  * has never had — shown precisely to parents who said screen time was their
- * problem; 400+ lessons against a real 310; and three named testimonials.
+ * problem; an inflated lesson count against a real 310; and three named testimonials.
  *
  * It also told every child their first stop was whichever adventure they
  * picked. DEFAULT_UNLOCKED_SERIES is ['genesis', 'birth-of-jesus'] for every

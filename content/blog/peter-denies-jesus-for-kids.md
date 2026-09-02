@@ -47,6 +47,8 @@ The story of Peter Denies Jesus teaches children important lessons about sacrifi
 
 > *"Before the rooster crows today, you will disown me three times."* — Luke 22:34
 
+Older kids who find coloring dull usually take to the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) instead — it plays in the browser or prints on one sheet.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

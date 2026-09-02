@@ -45,6 +45,8 @@ The story of Daniel in the Lions Den teaches children important lessons about co
 
 > *"My God sent his angel, and he shut the mouths of the lions."* — Daniel 6:22
 
+Pair this with our free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) — one sheet, ready for the kitchen table or the classroom.
+
 ## Parent's Guide: Why This Story Matters
 
 Daniel in the Lions' Den is about courage under pressure. Your child will inevitably face moments where doing the right thing is hard because everyone else is doing something different. Daniel chose to pray when it was literally illegal. This story gives kids a framework for standing firm. When your child tells you about pressure at school or among friends, you can ask: what would Daniel do?

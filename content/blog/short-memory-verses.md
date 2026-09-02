@@ -142,6 +142,8 @@ All 40 verses below pass all three. Quotations are from the NIV unless noted, an
 
 **What it means:** If it isn't patient and kind, it isn't really love.
 
+Older kids who find coloring dull usually take to the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) instead — it plays in the browser or prints on one sheet.
+
 ## Short Memory Verses About Courage (10)
 
 ### 21. Joshua 1:9

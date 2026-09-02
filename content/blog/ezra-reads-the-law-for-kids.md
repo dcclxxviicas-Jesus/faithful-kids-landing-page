@@ -47,6 +47,8 @@ The story of Ezra Reads the Law teaches children important lessons about rebuild
 
 > *"The hand of the Lord my God was on me."* — Ezra 7:28
 
+For quiet time afterwards, print the free [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) and let them color while you talk it through.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

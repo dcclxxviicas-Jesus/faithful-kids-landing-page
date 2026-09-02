@@ -47,6 +47,8 @@ The book splits neatly in half: chapters 1-3 explain what God has done (chosen, 
 22. What are fathers told not to do to their children? **Do not exasperate them -- instead bring them up in the training and instruction of the Lord** (Ephesians 6:4)
 23. We should speak the truth in what? **Love** (Ephesians 4:15)
 
+For quiet time afterwards, print the free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) and let them color while you talk it through.
+
 ## Hard Ephesians Trivia Questions (Teens and Adults)
 
 24. What "mystery" does Paul say was revealed to him? **That through the gospel the Gentiles are heirs together with Israel, members together of one body** (Ephesians 3:6)

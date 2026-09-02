@@ -59,6 +59,8 @@ The rhythm for every plan: **Hook (5 min) → Story (10 min) → Discussion (10 
 
 **Memory verse:** "Forgive as the Lord forgave you." -- Colossians 3:13
 
+Homeschooling? Our [free homeschool Bible curriculum page](/homeschool) shows how families use the video lessons as an open-and-go Bible block.
+
 ## Lesson 4: God Is With Us in Scary Places (Daniel)
 
 **Objective:** Kids will name a fear and connect it to the truth that God is present in it.

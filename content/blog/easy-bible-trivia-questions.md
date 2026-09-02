@@ -79,6 +79,8 @@ Easy is the point here. Nothing below requires knowing an obscure name, an exact
 57. In what river was Jesus baptized? **The Jordan River** (Matthew 3:13)
 58. What came down from heaven like a dove at Jesus' baptism? **The Spirit of God** (Matthew 3:16)
 
+For a quieter follow-up, try the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) — twelve hidden words, answer key included.
+
 ## The Life and Miracles of Jesus (Questions 59-78)
 
 59. How many days was Jesus tempted in the wilderness? **Forty** (Matthew 4:2)

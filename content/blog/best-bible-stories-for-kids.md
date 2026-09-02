@@ -276,6 +276,8 @@ The apostle Paul is sailing to Rome as a prisoner when a massive storm destroys 
 
 ---
 
+There is a free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) on our site too, printable on one sheet with no sign-up.
+
 ## How to Use These Stories with Your Kids
 
 The best way to share Bible stories with children is to watch or read one together, then talk about it. Here are a few tips:

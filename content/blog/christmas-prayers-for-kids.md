@@ -60,6 +60,8 @@ Should you pray before opening presents? Yes -- but keep it to twenty seconds, b
 (Because it happens, and it's better prayed about than shamed.)
 "Dear God, sometimes Christmas doesn't feel the way I hoped. Thank You for loving me on my excited days and my disappointed days. Help me be thankful for what I have and remember that Your love is the gift that never gets returned. Amen."
 
+Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+
 ## Thank-You-for-Jesus Prayers Kids Can Say On Their Own
 
 These are short enough for a child to memorize and pray solo -- at bedtime, at the nativity scene, or in the car. For year-round versions, see our collection of [bedtime prayers for kids](/blog/bedtime-prayers-for-kids).

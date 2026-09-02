@@ -54,6 +54,8 @@ The king was astonished. He fell on his face before Daniel and said, "Surely you
 
 **Key lesson for kids:** When we face impossible situations, the first thing to do is pray. Daniel didn't try to figure it out alone. He gathered his friends and asked God for help. And God answered.
 
+For quiet time afterwards, print the free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) and let them color while you talk it through.
+
 ## The Fiery Furnace (Daniel 3)
 
 This chapter focuses on Daniel's three friends. King Nebuchadnezzar built a massive gold statue (90 feet tall) and ordered everyone to bow down and worship it when music played. Anyone who refused would be thrown into a blazing furnace.

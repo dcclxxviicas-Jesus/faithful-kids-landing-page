@@ -44,6 +44,8 @@ Joseph could have wallowed in self-pity. He'd been betrayed by his own brothers,
 
 **Key lesson for kids:** Your attitude matters even when your situation is bad. Joseph didn't let his circumstances define his character. He worked hard and trusted God wherever he was. That's a powerful example for kids who might be going through something difficult.
 
+A related freebie: our [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem), drawn as clean line art for crayons and markers.
+
 ## Falsely Accused and Thrown in Prison (Genesis 39:7-23)
 
 Things seemed to be looking up for Joseph, but then trouble struck again. Potiphar's wife tried to seduce Joseph. He refused, saying, "How then could I do such a wicked thing and sin against God?" (Genesis 39:9). She was furious and falsely accused him of attacking her.

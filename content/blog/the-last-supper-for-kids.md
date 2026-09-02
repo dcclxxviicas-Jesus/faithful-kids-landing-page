@@ -47,6 +47,8 @@ The story of The Last Supper teaches children important lessons about sacrifice,
 
 > *"Do this in remembrance of me."* — Luke 22:19
 
+Our free [Easter coloring pages](/printables/easter-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

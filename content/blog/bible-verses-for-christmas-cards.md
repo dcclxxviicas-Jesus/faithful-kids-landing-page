@@ -54,6 +54,8 @@ These fit friends in exhausting seasons -- new parents, caregivers, people in de
 **10. Philippians 4:7 -- "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."**
 *Message:* "After the year you've had, we're praying this verse over your family all December long. Merry Christmas, friends."
 
+There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
+
 ## Hopeful Verses (For New Seasons and Fresh Starts)
 
 These fit graduates, new households, career changers, families who moved, and anyone standing at the edge of something new -- including cards you send around New Year's.

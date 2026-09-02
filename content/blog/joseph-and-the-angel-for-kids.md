@@ -45,6 +45,8 @@ The story of Joseph and the Angel teaches children important lessons about hope,
 
 > *"You intended to harm me, but God intended it for good."* — Genesis 50:20
 
+If small hands need something to do while you read, the free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) is made for exactly that.
+
 ## Parent's Guide: Why This Story Matters
 
 The birth of Jesus is the story your child will hear every Christmas for the rest of their life. Giving them the real version now, not just the cultural one, matters. Jesus was not born in a palace. He was born in the humblest place imaginable, to an ordinary young woman, announced first to shepherds (the lowest status people in society). Every detail of this story says: God is for everyone, especially the overlooked.

@@ -114,6 +114,8 @@ This verse is especially important for children facing extended illness, hospita
 
 **For parents:** When your child's health is uncertain, it can feel like the ground is giving way beneath you. This verse says: even if everything falls apart, God is your refuge and strength. He is an ever-present help — not an occasional help, not a help-when-He-feels-like-it, but an ever-present, always-available, always-powerful help.
 
+For a quiet bedside activity, our free [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) pairs gently with these verses — one sheet, ready to print.
+
 ## How to Pray for Your Sick Child
 
 Prayer during illness doesn't require eloquence. If praying aloud together is new for your family, this guide on [how to pray with kids](/blog/how-to-pray-with-kids) is a gentle place to start. Here's a simple framework:

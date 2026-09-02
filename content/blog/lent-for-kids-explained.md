@@ -143,6 +143,8 @@ One of the hardest concepts for kids during Lent is sacrifice -- why Jesus had t
 
 Don't rush through the hard parts of Lent to get to Easter. The joy of resurrection is deepest when you've felt the weight of the cross.
 
+For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages) — print as many as your class needs.
+
 ## Making Lent a Family Tradition
 
 Lent works best when it's consistent and communal:

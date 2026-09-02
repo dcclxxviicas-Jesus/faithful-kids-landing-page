@@ -45,6 +45,8 @@ The story of Calming the Storm teaches children important lessons about faith, G
 
 > *"Quiet! Be still!"* — Mark 4:39
 
+Pair this with our free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) — one sheet, ready for the kitchen table or the classroom.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

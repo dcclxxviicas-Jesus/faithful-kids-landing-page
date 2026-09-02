@@ -78,6 +78,8 @@ A birthday is the crown of a child's year. This verse thanks God for the twelve 
 **18. Philippians 1:6** -- "He who began a good work in you will carry it on to completion."
 The perfect blessing over a growing child: God started something good in you, and he finishes what he starts.
 
+Pair this with our free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) — one sheet, ready for the kitchen table or the classroom.
+
 ## What Verses Fit Milestone Birthdays?
 
 For milestone birthdays, choose a verse about growing -- Luke 2:52 for any age, 1 Timothy 4:12 for the teen years. These five map neatly onto the big ones.

@@ -38,6 +38,8 @@ Both readings are old, and both make sense of the letter -- so it's a great one 
 
 6. John says he doesn't want to use two writing supplies -- what are they? **Paper and ink** (2 John 12)
 
+There is a free [Daniel word search](/printables/bible-word-search/daniel) to go with this, playable on a phone and printable for a class.
+
 ## Medium 2 John Trivia Questions (Ages 9-12)
 
 7. According to verse 6, what is love? **Walking in obedience to God's commands** (2 John 6)

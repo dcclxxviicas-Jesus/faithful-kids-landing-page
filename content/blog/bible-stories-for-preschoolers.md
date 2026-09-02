@@ -44,6 +44,8 @@ Here are ten Bible stories perfectly suited for preschoolers, each with a one-se
 
 **Simple activity:** Float a small basket or plastic container in a bathtub or large bowl. Put a small doll inside. Let your child be Miriam watching from the "bushes" (a towel). Talk about how God kept baby Moses safe.
 
+If small hands need something to do while you read, the free [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) is made for exactly that.
+
 ## 4. David and Goliath (1 Samuel 17)
 
 **The story:** A very, very big man named Goliath was being mean and scaring everyone. A boy named David was too small to wear armor, but he trusted God. He picked up five smooth stones, used his slingshot, and Goliath fell down. David won — not because he was big, but because God was with him.

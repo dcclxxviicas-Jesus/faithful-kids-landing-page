@@ -202,6 +202,8 @@ Beaten and chained in a dungeon, Paul and Silas sing hymns at midnight. An earth
 
 **One question:** What are you most looking forward to about heaven?
 
+For homeschool families, our [free homeschool Bible curriculum page](/homeschool) covers what a day looks like and what it costs.
+
 ## You Did It. Now What?
 
 Thirty days. Thirty stories. One connected narrative from Creation to the New Creation.

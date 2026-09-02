@@ -68,6 +68,8 @@ For reviewing a whole quarter: split into teams of 2-3, run short head-to-head q
 
 Rewatch the story, then quiz on it. Play a short animated version of the lesson's story and run the questions immediately after -- the second exposure plus instant retrieval is a memory one-two punch. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) come with a built-in quiz after every story, so this station runs itself: a volunteer presses play, kids answer as a team, and you get a ready-made review round with zero question-writing.
 
+If small hands need something to do while you read, the free [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) is made for exactly that.
+
 ## How Do You Write Good Review Questions?
 
 Write questions at three levels -- recall, understanding, and application -- and use all three in every game. A question list with only recall ("Who fought Goliath?") reviews names; adding the other two levels reviews meaning:

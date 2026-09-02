@@ -39,6 +39,8 @@ His core demand is the book's famous line: "Let justice roll on like a river, ri
 14. Amos 8:11 warns of a strange kind of famine. A famine of what? **Of hearing the words of the LORD** (Amos 8:11)
 15. What unflattering nickname does Amos give the wealthy women of Samaria? **"Cows of Bashan"** (Amos 4:1)
 
+For a quieter follow-up, try the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) — twelve hidden words, answer key included.
+
 ## Hard Amos Trivia Questions (Teens and Adults)
 
 16. Amos prayed and God relented after which two judgment visions? **The locust swarm and the fire** (Amos 7:1-6)

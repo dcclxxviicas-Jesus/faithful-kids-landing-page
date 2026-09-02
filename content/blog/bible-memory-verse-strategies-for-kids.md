@@ -34,6 +34,8 @@ Visual learners absorb information through images. When a child draws a picture 
 
 **How to do it:** Give your child a blank piece of paper and the verse. Ask them to draw what the verse means to them. It does not need to be artistic — stick figures work. For "Be strong and courageous" (Joshua 1:9), they might draw a child standing tall on a mountain. Hang the drawings on the refrigerator and review them. For children who freeze at a blank page, [coloring pages built around a single verse](/blog/bible-verse-coloring-pages) give them the words already outlined and let them focus on the meaning.
 
+Pair this with our free [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) — one sheet, ready for the kitchen table or the classroom.
+
 ## 4. The Erase-a-Word Game
 
 This is a classic for a reason. It works because it gradually removes visual support while maintaining repetition, teaching the brain to fill in gaps from memory.

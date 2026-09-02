@@ -62,6 +62,8 @@ Joseph woke up and did what the angel commanded. He took Mary as his wife. He pr
 
 **Key lesson for kids:** Mary wasn't alone in her faith. Joseph also had to trust God with something he didn't understand. Their story shows that sometimes God asks us to believe things that don't make sense to the world around us, and that takes courage from everyone involved.
 
+A related freebie: our [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary), drawn as clean line art for crayons and markers.
+
 ## The Journey to Bethlehem and the Birth of Jesus (Luke 2:1-7)
 
 Around the time Mary was due to give birth, the Roman emperor Caesar Augustus issued a decree that a census should be taken of the entire Roman world. Everyone had to travel to their ancestral hometown to register. For Joseph, that meant traveling from Nazareth to Bethlehem -- a journey of about 80 miles, which would have taken several days on foot or by donkey.

@@ -50,6 +50,8 @@ Year after year, Noah kept building. Year after year, people kept mocking. And y
 
 **Key lesson for kids:** Sometimes doing the right thing means doing something nobody else understands. That takes incredible courage and patience. Noah didn't stop building just because people made fun of him. He kept going because he trusted God, not people's opinions. (For more heroes who obeyed against the odds, see our [Bible stories about obedience for kids](/blog/bible-stories-about-obedience-for-kids).)
 
+Pair this with our free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) — one sheet, ready for the kitchen table or the classroom.
+
 ## The Animals Come (Genesis 7:1-16)
 
 When the ark was finished, God told Noah it was time. The animals came to the ark -- two by two, just as God had said. The Bible says "they came to Noah and entered the ark" (Genesis 7:9). Noah didn't have to chase them down or round them up. God brought them.

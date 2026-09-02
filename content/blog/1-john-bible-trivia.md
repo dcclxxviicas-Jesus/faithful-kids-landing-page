@@ -42,6 +42,8 @@ For kids, this makes 1 John the most practical book in the Bible about how to tr
 
 8. How many chapters does 1 John have? **Five**
 
+There is a free [Noah's Ark word search](/printables/bible-word-search/noahs-ark) to go with this, playable on a phone and printable for a class.
+
 ## Medium 1 John Trivia Questions (Ages 9-12)
 
 9. What did John say he had heard, seen with his eyes, and touched with his hands? **The Word of life -- Jesus** (1 John 1:1)

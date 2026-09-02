@@ -30,6 +30,8 @@ Just as Abraham is about to sacrifice Isaac, God stops him -- and there in a thi
 
 **Fun fact:** Rams' horns became instruments -- the shofar, a trumpet made from a ram's horn, was blown as the Israelites marched around Jericho (Joshua 6:4).
 
+Pair this with our free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) — one sheet, ready for the kitchen table or the classroom.
+
 ## 4. The Frogs -- The Plague That Hopped Into Everything
 
 When Pharaoh refuses to free the Israelites, God sends frogs -- everywhere: "the frogs came up and covered the land" (Exodus 8:6). In beds, in ovens, in mixing bowls. Kids find this plague hilarious, which is fine, because it was meant to make Egypt's false gods look ridiculous.

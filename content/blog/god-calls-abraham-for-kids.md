@@ -45,6 +45,8 @@ The story of God Calls Abraham teaches children important lessons about creation
 
 > *"I will make you into a great nation, and I will bless you."* — Genesis 12:2
 
+A related freebie: our [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning), drawn as clean line art for crayons and markers.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

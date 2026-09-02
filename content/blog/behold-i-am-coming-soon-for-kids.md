@@ -45,6 +45,8 @@ The story of Behold I Am Coming Soon teaches children important lessons about fa
 
 > *"Behold, I am coming soon!"* — Revelation 22:12
 
+There is a free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) on our site too, printable on one sheet with no sign-up.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

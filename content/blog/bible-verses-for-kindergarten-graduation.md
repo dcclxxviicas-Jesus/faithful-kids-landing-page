@@ -108,6 +108,8 @@ A five-year-old's graduation is not really about academic accomplishment. It is 
 
 **Card message:** "You did hard things this year, [name]. God gave you the strength, and He is not finished yet."
 
+Pair this with our free [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) — one sheet, ready for the kitchen table or the classroom.
+
 ## Verses for a Blessing or Certificate
 
 ### 16. Numbers 6:24-26

@@ -109,6 +109,8 @@ Teenagers need to be making more of their own digital decisions — within a fra
 - "Are there apps or habits that you feel are controlling you rather than the other way around? What would it look like to take that control back?"
 - "How could you use your platform, your creativity, or your voice online to be a force for good?"
 
+We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## The Family Tech Contract
 
 A tech contract is not about control — it is about clarity. When expectations are written down and agreed upon, there are fewer arguments and more accountability. (For a full set of sample house rules, see [screen time rules for Christian families](/blog/screen-time-rules-christian-families).) Here is a framework you can adapt:

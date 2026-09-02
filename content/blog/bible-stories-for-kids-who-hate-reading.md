@@ -104,6 +104,8 @@ Family Bible time does not have to involve a book at all. Tell the story out lou
 
 For kids who resist traditional text but enjoy visual storytelling, graphic novel Bibles present the stories with illustrations that carry the narrative. The combination of image and text reduces the reading load while maintaining the story.
 
+Pair this with our free [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) — one sheet, ready for the kitchen table or the classroom.
+
 ## How Faithful Kids Solves This
 
 Faithful Kids was designed specifically for kids who might not sit down and read a Bible storybook. Each episode is a short video — typically two to three minutes — that tells one complete Bible story with engaging narration and captioning. Kids can:

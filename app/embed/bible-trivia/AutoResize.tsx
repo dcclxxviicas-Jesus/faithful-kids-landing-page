@@ -4,36 +4,41 @@ import { useEffect } from 'react'
 
 /* Tells the host page how tall this iframe needs to be.
  *
- * The three game screens are genuinely different heights — start ~390px,
- * question ~600px, results ~700px — so no fixed height is right. The snippet
- * shipped with height="780", which meant ~400px of blank white under the start
- * screen on every host page. It read as broken.
+ * Measures the CONTENT wrapper, not documentElement. The wrapper now fills
+ * whatever height the frame gives it (see page.tsx), so documentElement's
+ * height is the host's frame height — broadcasting that would just echo the
+ * host's own number back at it and the frame could never shrink.
  *
- * We post the document height on mount and on every change; the snippet's
- * listener resizes the iframe. If the host strips the script the iframe keeps
- * its hardcoded height and nothing is worse than before.
+ * This is the better outcome for hosts using our published snippet. It is no
+ * longer the primary fix: most hosts size their own frames and will not add a
+ * listener for one game, so the CSS has to stand on its own.
  */
 const MSG = 'fk-trivia-height'
+export const CONTENT_ID = 'fk-embed-content'
 
 export function AutoResize() {
   useEffect(() => {
     if (window.parent === window) return   // not framed — nothing to tell
 
+    const el = document.getElementById(CONTENT_ID)
+    if (!el) return
+
     let last = 0
     const send = () => {
-      const h = Math.ceil(document.documentElement.getBoundingClientRect().height)
+      // Content height plus the page's own vertical padding.
+      const style = getComputedStyle(document.body)
+      const pad = parseFloat(style.paddingTop || '0') + parseFloat(style.paddingBottom || '0')
+      const h = Math.ceil(el.getBoundingClientRect().height + pad) + 16
       if (!h || Math.abs(h - last) < 2) return
       last = h
       try { window.parent.postMessage({ type: MSG, height: h }, '*') } catch { /* cross-origin refusal */ }
     }
 
     send()
-    // Screen changes are React state, not layout events, so observe the DOM.
     const ro = typeof ResizeObserver !== 'undefined' ? new ResizeObserver(send) : null
-    ro?.observe(document.documentElement)
+    ro?.observe(el)
     const mo = new MutationObserver(send)
-    mo.observe(document.body, { childList: true, subtree: true, characterData: true })
-    // Belt and braces for late-loading fonts/images.
+    mo.observe(el, { childList: true, subtree: true, characterData: true })
     const t = window.setInterval(send, 1000)
     window.addEventListener('load', send)
 

@@ -140,6 +140,8 @@ The King of the universe was born in the humblest possible place.
 
 **Activity:** Set up your nativity scene (or draw one). Talk about why God chose a manger instead of a palace. Younger kids can color along with our [printable nativity coloring pages](/blog/nativity-coloring-pages).
 
+There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
+
 ## Week 4: The Celebration
 
 ### Day 20 — Angels Appear to Shepherds

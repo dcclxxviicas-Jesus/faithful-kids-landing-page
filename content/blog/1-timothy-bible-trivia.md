@@ -42,6 +42,8 @@ Timothy was young, timid by reputation, and often sick (1 Timothy 5:23), yet Pau
 17. What were the names of Timothy's believing mother and grandmother? **Eunice and Lois** (2 Timothy 1:5)
 18. What must an overseer manage well before leading the church? **His own family** (1 Timothy 3:4-5)
 
+Older kids who find coloring dull usually take to the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) instead — it plays in the browser or prints on one sheet.
+
 ## Hard 1 Timothy Trivia Questions (Teens and Adults)
 
 19. Name three qualifications for an overseer from 1 Timothy 3. **Above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, not given to drunkenness, gentle, not quarrelsome, not a lover of money** (1 Timothy 3:2-3)

@@ -66,6 +66,8 @@ Freedom in the Bible is never freedom to do whatever you want. It is freedom to 
 ### 3. God's Power
 From the burning bush to the plagues to the parting of the sea, Exodus puts God's power on full display. No king, no army, and no obstacle can stand against God. For kids who sometimes feel small and powerless, Exodus is a reminder that the God who parted the Red Sea is the same God who is with them today.
 
+For quiet time afterwards, print the free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) and let them color while you talk it through.
+
 ## How to Teach Exodus to Kids
 
 **Make it dramatic.** Exodus is a story that begs to be acted out. Let your kids play Moses holding up his staff, or Pharaoh stubbornly saying "No!" Act out the plagues with sound effects. March around the living room like the Israelites leaving Egypt. Physical engagement helps kids remember.

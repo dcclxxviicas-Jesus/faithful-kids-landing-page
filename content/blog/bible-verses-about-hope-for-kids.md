@@ -104,6 +104,8 @@ God watches hoping people the way a parent watches a kid on the high dive -- att
 
 Hoping in God actually delights him. Tell your child plainly: when you keep trusting God on a bad day, God smiles -- that's what this verse says.
 
+There is a free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) on our site too, printable on one sheet with no sign-up.
+
 ## Which Verses Point Kids to God's Plans and Promises?
 
 Hope for the future rests on God's stated plans -- these are the promise verses kids should know by heart.

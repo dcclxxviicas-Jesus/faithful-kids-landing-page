@@ -76,6 +76,8 @@ One honest tip before the list: don't feel guilty about chocolate calendars. A s
 
 **Setup:** With your kids, list 24 people: grandparents, teachers, pastors, neighbors, a missionary family, kids who won't get presents, people who are sick. Write one name per numbered slip and put them in a jar or mini stocking garland. Each night at dinner or bedtime, draw the name and pray a short prayer together. If your kids freeze up when praying aloud, our [Christmas prayers for kids](/blog/christmas-prayers-for-kids) has simple ones they can read or echo.
 
+There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
+
 ## Classic Countdown Calendars (Upgraded)
 
 ### 10. Paper Chain Countdown

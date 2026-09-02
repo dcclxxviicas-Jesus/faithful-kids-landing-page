@@ -62,6 +62,8 @@ After three days and three nights, the Lord commanded the fish, and it vomited J
 
 **Key lesson for kids:** Even when we run from God, He doesn't abandon us. The fish wasn't a punishment -- it was a rescue. God could have let Jonah drown. Instead, He provided a way to bring Jonah back. God is always willing to give us a second chance when we turn back to Him. Also, Jesus later compared His own three days in the tomb to Jonah's three days in the fish (Matthew 12:40), making this story even more significant.
 
+Pair this with our free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) — one sheet, ready for the kitchen table or the classroom.
+
 ## Jonah Goes to Nineveh (Jonah 3)
 
 God came to Jonah a second time: "Go to the great city of Nineveh and proclaim to it the message I give you" (Jonah 3:2).

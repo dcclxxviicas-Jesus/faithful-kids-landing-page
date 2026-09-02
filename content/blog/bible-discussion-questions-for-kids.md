@@ -47,6 +47,8 @@ A few ground rules before you dive in:
 9. What would you bring on the ark if you were Noah?
 10. God kept His promise to Noah. What is a promise God has made to you?
 
+A related freebie: our [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd), drawn as clean line art for crayons and markers.
+
 ## 3. Abraham and Isaac (Genesis 22:1-19)
 
 1. Why do you think God asked Abraham to do something so hard?

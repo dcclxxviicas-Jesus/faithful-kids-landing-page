@@ -118,6 +118,8 @@ Samuel arrived just as he finished. "You have done a foolish thing," he said. "Y
 
 **Teens:** Samson and Gethsemane. Samson reads like a warning label for the teenage years -- huge gifts, no walls -- while Gethsemane reframes self-control as the strongest thing a person can do, not the weakest.
 
+We drew a printable [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Frequently Asked Questions
 
 ### What does the Bible say about self-control for kids?

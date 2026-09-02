@@ -60,6 +60,8 @@ A quick note on scheduling: December usually gives you four Sundays before Chris
 - **Elementary (6-10):** Teach as written.
 - **Preteen and teen (11-16):** Lead with Mary's age and social risk: she was likely 13 to 15, engaged, in a village where an unexplained pregnancy carried real danger. Teens take Mary far more seriously once they realize she was roughly their age. Use the journal-entry option instead of the megaphone.
 
+If small hands need something to do while you read, the free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) is made for exactly that.
+
 ## Lesson 3: The Journey to Bethlehem (Mary and Joseph Travel)
 
 **Scripture:** Luke 2:1-7

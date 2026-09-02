@@ -40,6 +40,8 @@ Here are 15 Bible verses about kindness that your child can learn, memorize, and
 
 **Real-life application:** Think about the kindest person you know. Do people like being around them? Now think about the meanest. See the pattern?
 
+A related freebie: our [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan), drawn as clean line art for crayons and markers.
+
 ## 4. Luke 6:31
 
 *"Do to others as you would have them do to you."*

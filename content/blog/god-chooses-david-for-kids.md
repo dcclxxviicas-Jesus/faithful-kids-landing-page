@@ -47,6 +47,8 @@ The story of God Chooses David teaches children important lessons about courage,
 
 > *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
 
+If small hands need something to do while you read, the free [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) is made for exactly that.
+
 ## Parent's Guide: Why This Story Matters
 
 David and Goliath is the ultimate underdog story, and kids instinctively connect with it. Your child is small in a big world, and this story tells them that size does not determine who wins. God does. This is a powerful story to revisit when your child faces something that feels too big: a hard test, a bully, a new school. The lesson is not that they can do it alone, but that God is with them.

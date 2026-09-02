@@ -45,6 +45,8 @@ The story of The Baptism of Jesus teaches children important lessons about hope,
 
 > *"This is my Son, whom I love; with him I am well pleased."* — Matthew 3:17
 
+Older kids who find coloring dull usually take to the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) instead — it plays in the browser or prints on one sheet.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

@@ -44,6 +44,8 @@ This story speaks powerfully to kids who are bullied for being different — for
 
 **What your child needs to hear:** "Being different is not something to be ashamed of. Daniel was targeted because he was faithful. The things that make you stand out are often the things God is most proud of."
 
+We drew a printable [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## 4. Jesus Mocked and Rejected (Matthew 27:27-31; Luke 23:34)
 
 If your child needs to know that someone truly understands what it feels like to be bullied, point them to Jesus. He was mocked by soldiers who put a fake crown on His head and a robe on His back and bowed down in sarcasm (Matthew 27:28-29). He was spit on. He was slapped. His closest friends abandoned Him.

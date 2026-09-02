@@ -42,6 +42,8 @@ Here are 12 Bible verses about fear that can anchor your child's heart when worr
 
 **When to use it:** In the moment of fear — before a scary medical appointment, during a thunderstorm, when anxiety strikes at bedtime. It's short enough for a child to whisper to themselves.
 
+There is a free [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) on our site too, printable on one sheet with no sign-up.
+
 ## 4. 2 Timothy 1:7
 
 *"For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."*

@@ -52,6 +52,8 @@ The book falls into two halves. Chapters 1-18 are the rescue: Moses' birth, the 
 27. How much manna were the Israelites told to gather on the sixth day? **Twice as much, so they could rest on the Sabbath** (Exodus 16:22-26)
 28. Who held up Moses' tired arms during the battle against the Amalekites? **Aaron and Hur** (Exodus 17:12)
 
+There is a free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) on our site too, printable on one sheet with no sign-up.
+
 ## Hard Exodus Trivia Questions (Teens and Adults)
 
 29. Which two Hebrew midwives bravely disobeyed Pharaoh's order to kill baby boys? **Shiphrah and Puah** (Exodus 1:15-17)

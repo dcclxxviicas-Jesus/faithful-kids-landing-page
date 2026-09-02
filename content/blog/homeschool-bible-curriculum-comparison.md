@@ -181,6 +181,8 @@ Sometimes the simplest approach is the best. Read one chapter of the Bible toget
 
 **Cost:** You already own a Bible. Free.
 
+For homeschool families, our [free homeschool Bible curriculum page](/homeschool) covers what a day looks like and what it costs.
+
 ## Video-Based Bible Curriculum
 
 ### 11. Faithful Kids

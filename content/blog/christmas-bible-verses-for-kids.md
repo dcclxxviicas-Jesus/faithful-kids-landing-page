@@ -69,6 +69,8 @@ An angel brings the news to Mary, and then to Joseph. If your kids want the full
 **13. Matthew 1:23** -- "They will call him Immanuel (which means 'God with us')."
 *For kids: Christmas in three words: God with us. Not far away -- right here.*
 
+Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+
 ## Part 3: The Birth -- Bethlehem Verses
 
 The journey, the full guest rooms, and the manger. For a read-aloud version of this whole section, see [the Christmas story for kids](/blog/the-christmas-story-for-kids).

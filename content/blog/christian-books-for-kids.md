@@ -64,6 +64,8 @@ One hundred devotions about God and science: space, animals, weather, the human 
 ### 11. The Berenstain Bears Living Lights series -- Jan and Mike Berenstain
 Familiar characters, gentle faith lessons on kindness, forgiveness, and prayer. These aren't deep, but they're a friendly on-ramp for kids who already love the Bears -- and early readers can handle them solo. Ages 4-7.
 
+There is a free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) on our site too, printable on one sheet with no sign-up.
+
 ## Best Christian Books for Tweens (Ages 8-12)
 
 The sweet spot for this age is adventure first, faith woven through -- these are the books tweens actually finish.

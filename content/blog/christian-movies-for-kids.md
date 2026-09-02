@@ -96,6 +96,8 @@ A basketball coach reluctantly trains a cross-country runner with asthma, and bo
 Cecil B. DeMille's four-hour epic with Charlton Heston as Moses is a rite of passage -- the parting of the Red Sea still lands. Watch it in two sittings and treat the Hollywood additions as a fun spot-the-difference exercise against Exodus. Ages 10+.
 **Talk about it:** What did the movie add that isn't in the Bible? Read Exodus 14 together and compare.
 
+For quiet time afterwards, print the free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) and let them color while you talk it through.
+
 ## How Do You Turn a Movie Into a Real Conversation?
 
 Ask one open question, then let silence do the work. Kids shut down under quizzing, but they'll talk if you ask what surprised them and genuinely wait. Three habits that help: ask your question over food rather than the moment the movie ends; share your own answer first sometimes; and connect the film back to the actual Bible story where there is one -- our guide to [Bible stories with moral lessons for kids](/blog/bible-stories-with-moral-lessons-for-kids) pairs well here.

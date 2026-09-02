@@ -104,6 +104,8 @@ Holy Sprouts is a YouTube channel by a Christian educator that teaches letters, 
 
 Torn between the streaming options on this list? [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) compares the three biggest Christian kids' platforms directly.
 
+Pair this with our free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) — one sheet, ready for the kitchen table or the classroom.
+
 ## Frequently Asked Questions
 
 ### What is the safest video app for Christian kids?

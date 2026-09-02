@@ -50,6 +50,8 @@ Cost: $1-4 each. Age fit: noted per item. Keep these small and keep them few -- 
 21. **Glow sticks or a mini flashlight** (ages 3+). Pair with Isaiah 9:2 about light in the darkness.
 22. **A small ornament they hang themselves** (all ages). By Christmas Eve the tree is theirs.
 
+We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Acts of Kindness (23-34)
 
 Cost: free. Age fit: 4+, with the best results at 6-11. The rule that makes these work: the act has to be finished before bedtime, and you debrief at dinner. "How did it go? What did they say?"

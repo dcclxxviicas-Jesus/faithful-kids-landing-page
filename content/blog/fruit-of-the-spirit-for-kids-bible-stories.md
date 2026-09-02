@@ -56,6 +56,8 @@ The best way to teach these qualities to children is not through definitions. It
 
 ---
 
+We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## 4. Patience — Abraham Waits for Isaac (Genesis 15-21)
 
 **Kid-friendly definition:** Patience is waiting without complaining, trusting that God's timing is better than yours even when the wait feels really long.

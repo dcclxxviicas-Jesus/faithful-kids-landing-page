@@ -135,6 +135,8 @@ Faithful Kids covers all of these stories in short video lessons with comprehens
 
 ---
 
+A related freebie: our [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus), drawn as clean line art for crayons and markers.
+
 ## Frequently Asked Questions
 
 ### At what age should I start teaching honesty?

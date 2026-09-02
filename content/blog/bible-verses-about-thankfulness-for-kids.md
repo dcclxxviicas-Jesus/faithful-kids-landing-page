@@ -40,6 +40,8 @@ Paul ends this verse with three simple words: "And be thankful." It's almost lik
 
 **How to talk about it with kids:** When your child is feeling anxious or upset, try asking them to name five things they're thankful for. It's amazing how gratitude can calm a worried mind. For more help with worry, see these [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids).
 
+For quiet time afterwards, print the free [the cross coloring page](/printables/bible-coloring-pages/the-cross) and let them color while you talk it through.
+
 ## 4. Psalm 107:1
 
 **"Give thanks to the Lord, for he is good; his love endures forever."**

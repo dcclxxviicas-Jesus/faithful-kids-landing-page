@@ -48,6 +48,8 @@ The letter's heartbeat is chapter 13 -- the "love chapter" read at countless wed
 23. Finish the warning: "Bad company corrupts good ___" **Character** (1 Corinthians 15:33)
 24. If Christ has not been raised, what does Paul say about our faith? **It is futile -- useless** (1 Corinthians 15:17)
 
+There is a free [Noah's Ark word search](/printables/bible-word-search/noahs-ark) to go with this, playable on a phone and printable for a class.
+
 ## Hard 1 Corinthians Trivia Questions (Teens and Adults)
 
 25. Who is named alongside Paul as a sender of the letter? **Sosthenes** (1 Corinthians 1:1)

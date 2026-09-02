@@ -78,6 +78,8 @@ Each child opens exactly one gift on Christmas Eve: a box containing new pajamas
 
 **How to start:** Assemble one box per kid: pajamas, a book, cocoa packet, maybe a candy cane. Open after dinner, change into the pajamas, make the cocoa, and roll straight into the Luke 2 reading (#6). The box becomes the on-ramp to the most sacred night of the tradition calendar.
 
+For the season, we keep a set of free [Christmas coloring pages](/printables/christmas-coloring-pages) — print as many as your class needs.
+
 ## Giving Traditions
 
 ### 13. The Giving Tree Gift

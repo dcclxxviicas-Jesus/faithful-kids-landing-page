@@ -102,6 +102,8 @@ If your kids fall in love with the story and want more, go deeper on individual 
 
 Pair the story with our free [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) — one sheet, ready to print.
 
+For quiet time afterwards, print the free [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) and let them color while you talk it through.
+
 ## Frequently Asked Questions
 
 ### What is the Christmas story in simple words?

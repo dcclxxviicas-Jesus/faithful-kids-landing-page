@@ -78,6 +78,8 @@ Records, one-verse characters, and the corners of Scripture that only get visite
 49. What was Queen Esther's Hebrew name? **Hadassah** (Esther 2:7)
 50. What are Jesus' first recorded words, spoken at age twelve in the temple? **"Why were you searching for me? Didn't you know I had to be in my Father's house?"** (Luke 2:49)
 
+For a quieter follow-up, try the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) — twelve hidden words, answer key included.
+
 ## How to Run Bible Trivia for a Group of Adults
 
 The format that works for adult groups is rounds with rising stakes: everyone plays the warm-up individually on paper (that round is designed to produce wrong answers and laughter in equal measure), then combine into teams of three or four for the hard and expert rounds, with the expert round worth double. Reading the verse reference aloud after each answer is not optional filler — with adults, the "wait, it really says that?" moment after a warm-up miss is the whole point of the evening, and it is what turns a quiz into a Bible study without anyone announcing that it has.

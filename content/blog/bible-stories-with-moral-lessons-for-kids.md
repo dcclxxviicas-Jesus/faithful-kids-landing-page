@@ -36,6 +36,8 @@ Here are 20 Bible stories, each paired with a clear moral lesson and a simple wa
 
 **Talk about it:** "Is it hard to forgive someone who hurt you? How does it feel when someone forgives you?"
 
+We drew a printable [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## 4. Noah and the Ark — Obedience
 
 **The Story:** God told Noah to build an enormous boat because a flood was coming. Nobody else believed Noah. They laughed at him. Building the ark took years. But Noah obeyed God, even when it made no sense to anyone else. When the flood came, Noah and his family were saved. (Genesis 6-9)

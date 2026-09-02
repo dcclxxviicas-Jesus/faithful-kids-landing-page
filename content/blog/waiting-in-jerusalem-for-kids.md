@@ -47,6 +47,8 @@ The story of Waiting in Jerusalem teaches children important lessons about resur
 
 > *"Trust in the Lord with all your heart."* — Proverbs 3:5
 
+Pair this with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) — one sheet, ready for the kitchen table or the classroom.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

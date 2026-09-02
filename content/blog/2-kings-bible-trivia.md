@@ -47,6 +47,8 @@ The first half belongs to the prophet Elisha, who asked for a double portion of 
 22. Who hid baby Joash so wicked Queen Athaliah couldn't kill him? **Jehosheba, who kept him hidden in the temple for six years** (2 Kings 11:2-3)
 23. Which wicked queen was thrown down from a window, fulfilling Elijah's prophecy? **Jezebel** (2 Kings 9:33-36)
 
+Add five quiet minutes with the free [Daniel word search](/printables/bible-word-search/daniel); it prints one to a sheet with the key on the page.
+
 ## Hard 2 Kings Trivia Questions (Teens and Adults)
 
 24. Which king was famous for driving his chariot "like a maniac"? **Jehu** (2 Kings 9:20)

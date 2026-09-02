@@ -94,6 +94,8 @@ Joseph said this to the brothers who sold him into slavery. When your child says
 
 Jesus prayed this from the cross, for the people hurting him. When forgiving feels too big, kids can borrow Jesus' words as their own prayer: "God, help me forgive them."
 
+If small hands need something to do while you read, the free [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) is made for exactly that.
+
 ## What Verses Show Kids How God Forgives Us?
 
 God's forgiveness is complete, fast, and permanent -- and kids who mess up need to hear that most.

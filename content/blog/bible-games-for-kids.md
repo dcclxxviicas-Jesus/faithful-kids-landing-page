@@ -136,6 +136,8 @@ Write each book of the Bible on its own index card, shuffle the deck, and race t
 
 Where Sword Drill tests book order under pressure, this game teaches it hands-on -- kids physically hold Habakkuk and decide where it goes, which is how the order finally sticks. Prep is 15 minutes of card-writing once, and the deck lasts forever. Ages 8+, solo or in teams.
 
+In spring, add a quiet station with our free [Easter coloring pages](/printables/easter-coloring-pages) — five printable scenes walking Holy Week.
+
 ## What Bible Games Work in Sunday School or Groups?
 
 Group settings need games that scale to a dozen kids and survive a wide age spread. (For a classroom-specific list, see our [Sunday school games for kids](/blog/sunday-school-games-for-kids).)

@@ -70,6 +70,8 @@ Chapters 1-9 cover Solomon: his prayer for wisdom, the seven-year temple build, 
 
 24. Which prophetess did Josiah's officials consult about the Book of the Law? **Huldah** (2 Chronicles 34:22)
 
+Older kids who find coloring dull usually take to the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) instead — it plays in the browser or prints on one sheet.
+
 ## Hard 2 Chronicles Trivia Questions (Teens and Adults)
 
 25. How many talents of gold did Solomon receive yearly -- a number famous for other reasons? **666 talents** (2 Chronicles 9:13)

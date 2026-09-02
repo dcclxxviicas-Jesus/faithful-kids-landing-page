@@ -108,6 +108,8 @@ Teach the story to the 7-year-olds, aim discussion questions in tiers, and give 
 
 For the game segments, keep a rotation going so formats stay fresh -- our list of [Sunday school games for kids](/blog/sunday-school-games-for-kids) covers openers, and [Bible review games](/blog/bible-review-games-for-sunday-school) covers the closing segment. And if your deeper problem is kids who don't want to be there at all, start with [how to make church fun for kids](/blog/how-to-make-church-fun-for-kids) -- structure can't fix what tone causes.
 
+A related freebie: our [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children), drawn as clean line art for crayons and markers.
+
 ## What Should You Prepare Each Week?
 
 Prepare five things, and only five: the game, two songs, the story with its one big idea, the response activity, and 5 review questions. Written on one index card, that's your whole service. Rotate a different [memory verse game](/blog/bible-memory-verse-games) into the review slot each week and even that fifth item stops needing fresh thought. Leaders burn out from over-preparing decorations and under-preparing the story -- reverse that ratio. A plain room with a well-told story beats a themed room with a mumbled one, every single week.

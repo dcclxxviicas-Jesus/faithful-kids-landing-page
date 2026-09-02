@@ -44,6 +44,8 @@ This is a great verse for teaching kids that joy is a choice. We don't have to w
 
 **How to talk about it with kids:** Tell your child, "Paul wrote this verse while he was in jail. He still chose to be joyful. Why do you think he could do that?" Let them think about it and discuss what makes joy different from happiness.
 
+Pair this with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) — one sheet, ready for the kitchen table or the classroom.
+
 ## 4. John 15:11
 
 **"I have told you this so that my joy may be in you and your joy may be complete."**

@@ -95,6 +95,8 @@ Keep these verses accessible. Write them on index cards, put them on the fridge,
 
 ---
 
+For quiet time afterwards, print the free [the cross coloring page](/printables/bible-coloring-pages/the-cross) and let them color while you talk it through.
+
 ## What NOT to Say
 
 ### Do not use fear as the primary motivator.

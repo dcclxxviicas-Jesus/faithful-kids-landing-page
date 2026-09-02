@@ -61,6 +61,8 @@ You need at least two adults per group (never one adult alone with children -- t
 
 As Proverbs 22:6 reminds us: "Train up a child in the way he should go; even when he is old he will not depart from it." Your volunteers are part of that sacred work.
 
+If small hands need something to do while you read, the free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) is made for exactly that.
+
 ## Step 4: Structure Your Sessions
 
 A typical kids Bible study session runs 45-60 minutes. Here's a structure that works across all age groups:

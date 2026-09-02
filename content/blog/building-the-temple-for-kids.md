@@ -47,6 +47,8 @@ The story of Building the Temple teaches children important lessons about wisdom
 
 > *"My house shall be called a house of prayer."* — Isaiah 56:7
 
+If small hands need something to do while you read, the free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) is made for exactly that.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

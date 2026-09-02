@@ -48,6 +48,8 @@ Mark 2:5 says, "When Jesus saw their faith, he said to the paralyzed man, 'Son, 
 
 This story is powerful for kids who feel helpless when someone else is sick. They cannot heal their friend or family member. But they can pray, they can show up, and they can carry people to Jesus through their prayers and presence.
 
+We drew a printable [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## 4. The Woman Who Touched Jesus' Cloak (Mark 5:25-34)
 
 A woman had been bleeding for twelve years. She had spent everything she had on doctors, but nothing helped — she only got worse (Mark 5:26). In that culture, her condition made her "unclean," meaning people avoided her. She was sick, broke, and isolated.

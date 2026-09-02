@@ -78,6 +78,8 @@ The book of Psalms alone has 150 songs, but there are also songs scattered throu
 ### 20. Jesus Asked Over 300 Questions in the Gospels
 Jesus was not just a teacher who gave answers — He was a master questioner. He asked questions like "Who do you say I am?" (Matthew 16:15), "Do you want to get well?" (John 5:6), and "Why are you so afraid?" (Mark 4:40). His questions made people think deeply about their lives and their faith.
 
+Pair this with our free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) — one sheet, ready for the kitchen table or the classroom.
+
 ## The Mind-Blowing Facts
 
 ### 21. The Bible Was Written on Three Continents

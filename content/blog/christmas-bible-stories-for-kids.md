@@ -66,6 +66,8 @@ All 10 episodes of the Birth of Jesus series are available with short videos and
 
 If your class needs something to do with their hands, there is a [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) here.
 
+There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
+
 ## Frequently Asked Questions
 
 ### When should I teach my child the Christmas story?

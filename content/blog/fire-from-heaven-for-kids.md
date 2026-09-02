@@ -47,6 +47,8 @@ The story of Fire from Heaven teaches children important lessons about faith, mi
 
 > *"The Lord, He is God!"* — 1 Kings 18:39
 
+A related freebie: our [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace), drawn as clean line art for crayons and markers.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

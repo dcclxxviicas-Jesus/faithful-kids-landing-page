@@ -47,6 +47,8 @@ The story of The Shepherds Song teaches children important lessons about worship
 
 > *"Do not be afraid. I bring you good news that will cause great joy for all people."* — Luke 2:10
 
+We drew a printable [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Parent's Guide: Why This Story Matters
 
 The birth of Jesus is the story your child will hear every Christmas for the rest of their life. Giving them the real version now, not just the cultural one, matters. Jesus was not born in a palace. He was born in the humblest place imaginable, to an ordinary young woman, announced first to shepherds (the lowest status people in society). Every detail of this story says: God is for everyone, especially the overlooked.

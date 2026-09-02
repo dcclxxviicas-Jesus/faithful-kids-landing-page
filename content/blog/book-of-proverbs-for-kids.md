@@ -144,6 +144,8 @@ Help your kids discover the wisdom of Proverbs through engaging animated videos 
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 
+For quiet time afterwards, print the free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) and let them color while you talk it through.
+
 ## Frequently Asked Questions
 
 ### How old should kids be to start learning Proverbs?

@@ -112,6 +112,8 @@ The Bible, when taught with these principles, becomes one of the most ADHD-frien
 
 **Celebrate engagement, not perfection.** If your child listened for three minutes and remembers one thing, that is a win. Do not measure their spiritual growth by neurotypical standards.
 
+There is a free [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) on our site too, printable on one sheet with no sign-up.
+
 ## How 60-Second Video Formats Help
 
 Many parents of ADHD children report that short-form video Bible stories have been transformative. Here is why: the short format naturally matches the ADHD attention window. There is no time for the mind to wander because the story moves quickly, the visuals change constantly, and the resolution arrives before attention fades.

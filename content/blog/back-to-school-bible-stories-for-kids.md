@@ -46,6 +46,8 @@ The result? After ten days, Daniel and his friends looked healthier and stronger
 
 **Talk about it:** What pressures do you feel to fit in at school? Is there something everyone else does that you know isn't right? What gave Daniel the courage to be different?
 
+If small hands need something to do while you read, the free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) is made for exactly that.
+
 ## 4. Esther Speaks Up — Using Your Voice for Good
 
 **Read:** Esther 4:1-17

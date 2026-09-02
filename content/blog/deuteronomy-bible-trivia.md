@@ -45,6 +45,8 @@ The name means "second law" (from the Greek), because Moses restates the covenan
 20. What were the Israelites told to remember about their time in Egypt? **That they were slaves there, and the LORD brought them out** (Deuteronomy 5:15)
 21. If a farmer forgot a sheaf of grain in the field, who was it left for? **The foreigner, the fatherless, and the widow** (Deuteronomy 24:19)
 
+Older kids who find coloring dull usually take to the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) instead — it plays in the browser or prints on one sheet.
+
 ## Hard Deuteronomy Trivia Questions (Teens and Adults)
 
 22. How many chapters does Deuteronomy have? **Thirty-four**

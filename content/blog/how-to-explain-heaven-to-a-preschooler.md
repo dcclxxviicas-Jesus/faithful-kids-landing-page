@@ -84,6 +84,8 @@ Avoid saying things like "they went to sleep" (this can make children afraid to 
 ### Reassure Them About Their Own Safety
 Children often worry: "Am I going to die? Are you going to die?" Be honest: "Everyone dies someday, but most people live for a very, very long time. I plan to be here for a long, long time. And no matter what, God is always taking care of us."
 
+For quiet time afterwards, print the free [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) and let them color while you talk it through.
+
 ## When a Child Is Grieving
 
 If your preschooler is dealing with the loss of someone close, here are extra tips:

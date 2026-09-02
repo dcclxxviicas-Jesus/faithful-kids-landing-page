@@ -45,6 +45,8 @@ A few tips from experience:
 
 Keep it one-handed and crumb-friendly -- popcorn, grapes, and cookies beat anything requiring a fork. If you want to lean into the theme without much work: "loaves and fishes" (goldfish crackers and dinner rolls), "manna mix" (any white-ish trail mix), honeycomb cereal or honey sticks ("sweeter than honey," Psalm 119:103), and grape juice in fancy cups for the wedding at Cana. Kids remember themed snacks longer than they remember the score.
 
+If you homeschool, the [free homeschool Bible curriculum page](/homeschool) lays out how the lessons work as a daily Bible block, in order.
+
 ## Round 1: Kids Round (10 Questions)
 
 Easy questions for the youngest players. Adults may whisper hints, but a child must give the answer.

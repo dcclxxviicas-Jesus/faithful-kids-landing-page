@@ -45,6 +45,8 @@ The story of Young Jesus in the Temple teaches children important lessons about 
 
 > *"My house shall be called a house of prayer."* — Isaiah 56:7
 
+We drew a printable [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

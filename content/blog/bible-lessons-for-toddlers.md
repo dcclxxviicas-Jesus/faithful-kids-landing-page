@@ -121,6 +121,8 @@ Repeat the same lesson two or three weeks in a row before moving on. Toddlers do
 
 If your child is closer to four, you can stretch these into longer sessions with crafts and fuller stories -- our collections of [Bible stories for preschoolers](/blog/bible-stories-for-preschoolers) and [Bible crafts with lessons](/blog/bible-crafts-for-kids-with-lessons) pick up right where this list ends. Teachers building out a classroom hour for that age will also find full plans in our [Sunday school lessons for preschoolers](/blog/sunday-school-lessons-for-preschoolers). And if you have older siblings in the mix, the video lessons at [Faithful Kids](https://faithfulkids.app/quiz) keep the 7-and-up crowd learning their own stories while you do sensory bins with the little one.
 
+For quiet time afterwards, print the free [Creation coloring page](/printables/bible-coloring-pages/creation) and let them color while you talk it through.
+
 ## What Should You NOT Expect From Toddlers?
 
 Don't expect sitting still, retelling, taking turns smoothly, or visible reverence -- none of those are developmentally available yet. A toddler worshiping looks like dumping the creation bin twice, singing one word of the song loudly and off-beat, and randomly hugging you during prayer. Success at this age is measured in three things only: they felt safe, they felt loved, and they heard the truth sentence enough times to start echoing it. Everything else -- including the theology of [heaven, which even preschoolers ask about](/blog/how-to-explain-heaven-to-a-preschooler) sooner than you'd think -- gets built on that foundation later.

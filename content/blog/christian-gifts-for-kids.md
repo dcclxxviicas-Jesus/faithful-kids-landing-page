@@ -57,6 +57,8 @@ For ages 5-7, the best gifts combine early reading with music and hands-on activ
 
 **10. Tiny Theologians ABCs of God's Attributes Card Set** -- A beautifully designed deck that walks through one attribute of God per letter of the alphabet. It pairs with their kids' podcast and works at breakfast, in the car, or as a bedtime question.
 
+A related freebie: our [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god), drawn as clean line art for crayons and markers.
+
 ## What Are the Best Christian Gifts for Ages 8-10?
 
 For ages 8-10, the best gifts are real Bibles they can read themselves, devotionals, and story-driven media -- this is the golden window when kids are proud to own "big kid" faith stuff. Aim for gifts that respect their growing independence.

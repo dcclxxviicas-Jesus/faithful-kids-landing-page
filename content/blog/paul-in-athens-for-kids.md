@@ -45,6 +45,8 @@ The story of Paul in Athens teaches children important lessons about adventure, 
 
 > *"For I am not ashamed of the gospel."* — Romans 1:16
 
+Add five quiet minutes with the free [Armor of God word search](/printables/bible-word-search/armor-of-god); it prints one to a sheet with the key on the page.
+
 ## Parent's Guide: Why This Story Matters
 
 Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, snakebites. Kids love this because it is exciting. But underneath the adventure is a lesson about perseverance. Paul never gave up, no matter what happened. When your child faces setbacks, frustration, or the temptation to quit something hard, Paul's story is the one to revisit. God does not promise an easy road, but He promises to be on the road with you.

@@ -81,6 +81,8 @@ Save this round for the end, when the score is close. These questions reach into
 49. On what island was Paul shipwrecked on his voyage to Rome? **Malta** (Acts 28:1)
 50. What does the name Immanuel, given to Jesus, mean? **"God with us"** (Matthew 1:23)
 
+Around the holidays, pair a trivia round with our free [Christmas coloring pages](/printables/christmas-coloring-pages) — six nativity scenes to print while you play.
+
 ## Bonus Round: Animals of the Bible
 
 When the main 50 run out, these themed rounds keep the game going. Animal questions are a favorite with younger kids because they can picture every answer -- and a few of these still catch the adults.

@@ -45,6 +45,8 @@ The story of An Angel Visits Mary teaches children important lessons about hope,
 
 > *"Do not be afraid, Mary; you have found favor with God."* — Luke 1:30
 
+If small hands need something to do while you read, the free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) is made for exactly that.
+
 ## Parent's Guide: Why This Story Matters
 
 The birth of Jesus is the story your child will hear every Christmas for the rest of their life. Giving them the real version now, not just the cultural one, matters. Jesus was not born in a palace. He was born in the humblest place imaginable, to an ordinary young woman, announced first to shepherds (the lowest status people in society). Every detail of this story says: God is for everyone, especially the overlooked.

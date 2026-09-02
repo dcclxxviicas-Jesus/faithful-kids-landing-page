@@ -41,6 +41,8 @@ One caution before you start: never use these lessons to pressure a child into f
 **The aha moment:** Scrubbing harder made it worse. The stain came out only when something else did the work.
 **Takeaway line:** *We can't scrub it out -- God can.*
 
+For quiet time afterwards, print the free [the cross coloring page](/printables/bible-coloring-pages/the-cross) and let them color while you talk it through.
+
 ## 4. The Torn Paper Heart
 
 **Story:** Joseph forgives his brothers (Genesis 37, 45, 50)

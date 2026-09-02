@@ -50,6 +50,8 @@ Three practical tips: let kids do jobs (one lights hand-over-hand, one reads, on
 
 The five devotions below are written to be read aloud exactly as-is. Each takes 5-7 minutes. For more read-aloud material to go deeper any week, our roundup of [Advent Bible stories for kids](/blog/advent-bible-stories-for-kids) pairs stories with each theme.
 
+There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
+
 ## Week 1 Devotion: Hope (Light One Purple Candle)
 
 **Read:** Isaiah 9:2, 6

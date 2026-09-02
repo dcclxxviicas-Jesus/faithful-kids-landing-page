@@ -54,6 +54,8 @@ The storyline moves in two halves. Chapters 1-11 cover the big universal events:
 29. What did young Joseph dream that made his brothers so angry? **Their sheaves of grain -- and later the sun, moon, and eleven stars -- bowed down to him** (Genesis 37:5-9)
 30. Who bought Joseph as a slave in Egypt? **Potiphar, the captain of Pharaoh's guard** (Genesis 39:1)
 
+Pair this with our free [Creation coloring page](/printables/bible-coloring-pages/creation) — one sheet, ready for the kitchen table or the classroom.
+
 ## Hard Genesis Trivia Questions (Teens and Adults)
 
 31. What were the measurements of Noah's ark? **300 cubits long, 50 cubits wide, and 30 cubits high** (Genesis 6:15)

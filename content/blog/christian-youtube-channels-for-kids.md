@@ -81,6 +81,8 @@ No -- the channels above are trustworthy, but YouTube itself is not a kids' plat
 
 Practical setup that takes ten minutes: use YouTube Kids (not regular YouTube) for children under 8 with an approved-channels-only setting where possible; disable autoplay; keep viewing in shared spaces, not bedrooms; and spot-check watch history weekly. Some families skip the algorithm entirely -- our roundup of [Christian alternatives to YouTube for kids](/blog/christian-alternatives-to-youtube-for-kids) covers walled-garden options, and it's why we built [Faithful Kids](https://faithfulkids.app/quiz) as a closed library where every video ends in a quiz instead of a recommendation.
 
+A related freebie: our [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb), drawn as clean line art for crayons and markers.
+
 ## How Do You Make Christian Videos Actually Count?
 
 Watch with your kids when you can, and ask one question afterward -- that single habit doubles what a video teaches. Passive watching washes over kids; a 30-second conversation ("Why do you think David wasn't scared?") turns the same video into a memory. Three easy habits: pick the video *before* handing over the device, so kids watch something instead of browsing for something; connect what they watched to real life at dinner or bedtime; and let a video be the springboard into the actual Bible story ("Want to hear what happens next? It's in here."). A five-minute Saddleback Kids video plus a two-minute chat beats an hour of unattended autoplay by a mile -- for the video *and* for the relationship.

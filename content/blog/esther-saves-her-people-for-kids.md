@@ -47,6 +47,8 @@ The story of Esther Saves Her People teaches children important lessons about re
 
 > *"Who knows whether you have come to the kingdom for such a time as this?"* — Esther 4:14
 
+We drew a printable [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

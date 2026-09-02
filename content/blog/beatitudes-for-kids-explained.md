@@ -42,6 +42,8 @@ Here are all eight Beatitudes explained in kid-friendly language, with real-life
 
 **Real-life example:** A bigger kid shoves your child on the playground. Your child could shove back harder, but instead they walk away and tell a teacher. That takes more courage than fighting. That is meekness: choosing self-control when you have every reason to lose it. (These [Bible stories about self-control](/blog/bible-stories-about-self-control-for-kids) pair well with this beatitude.)
 
+Pair this with our free [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) — one sheet, ready for the kitchen table or the classroom.
+
 ## Beatitude #4: "Blessed Are Those Who Hunger and Thirst for Righteousness, for They Will Be Filled" (Matthew 5:6)
 
 **In kid language:** If you really, really want to do the right thing, God will help you do it.

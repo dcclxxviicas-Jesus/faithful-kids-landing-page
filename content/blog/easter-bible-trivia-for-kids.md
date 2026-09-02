@@ -67,6 +67,8 @@ These questions reward kids who really know the text -- prophecies, exact words,
 39. What were Jesus' final words on the cross in the Gospel of John? **"It is finished"** (John 19:30)
 40. For how many days did Jesus appear to His followers after the resurrection before ascending to heaven? **Forty days** (Acts 1:3)
 
+For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages) — print as many as your class needs.
+
 ## How Do You Run an Easter Trivia Game for Kids?
 
 Match the tier to the kid, keep score loosely, and let wrong answers become mini-conversations -- that's the whole method. A few formats that work:

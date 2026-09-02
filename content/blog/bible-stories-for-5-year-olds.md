@@ -126,6 +126,8 @@ Women come to visit Jesus' tomb and find it open and empty. An angel says: He is
 
 Every story on this list is available as a short video lesson with a quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-5yo). No ads. No algorithm. Just Scripture, beautifully told.
 
+A related freebie: our [Creation coloring page](/printables/bible-coloring-pages/creation), drawn as clean line art for crayons and markers.
+
 ## Frequently Asked Questions
 
 ### What is the best first Bible story for a 5-year-old?

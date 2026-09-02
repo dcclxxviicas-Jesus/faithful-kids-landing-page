@@ -1,0 +1,25 @@
+/* The embed has never actually been transparent. page.tsx set
+   background:'transparent' on <main>, but globals.css sets an opaque
+   `body { background: var(--bg) }` (#fff) underneath it, and an iframe only
+   shows through when BOTH html and body are transparent. So every host has
+   been getting a white panel — invisible on a light page, wrong on a dark one.
+   This route's CSS is loaded only for this route, so scoping it here cannot
+   reach the rest of the site. */
+html:has(.fk-embed), body:has(.fk-embed) { background: transparent !important; }
+
+/* Embed shell. Kept out of globals.css so nothing here can reach the main
+   site, and so the embed carries no styles it does not need. */
+.fk-embed {
+  min-height: 100vh;
+  min-height: 100dvh;          /* the iframe's own viewport, not the host's */
+  display: flex;
+  flex-direction: column;
+  padding: 10px 8px 6px;
+  box-sizing: border-box;
+  background: transparent;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+/* `margin: auto` centres without ever clipping: unlike justify-content it
+   cannot go negative, so a card taller than the frame still scrolls to its
+   top instead of losing it. */
+.fk-embed-content { margin: auto 0; width: 100%; }

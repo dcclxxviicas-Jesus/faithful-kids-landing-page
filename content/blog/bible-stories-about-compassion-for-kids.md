@@ -38,6 +38,8 @@ Ruth gave up her homeland, her comfort, and her future plans to stay with a grie
 
 **Talk about it:** "Ruth could have gone home where life was easier. Why do you think she stayed?" This is a wonderful opportunity to talk about loyalty and sacrificial love.
 
+A related freebie: our [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep), drawn as clean line art for crayons and markers.
+
 ## 4. David and Mephibosheth (2 Samuel 9:1-13)
 
 After King Saul died, David could have ignored or even harmed Saul's remaining family. Instead, he asked, "Is there anyone still left of the house of Saul to whom I can show kindness for Jonathan's sake?" (2 Samuel 9:1).

@@ -42,6 +42,8 @@ The letter's big idea is that God's power shows up best in human weakness -- "wh
 17. Paul calls our troubles "light and momentary" -- what are they achieving for us? **An eternal glory that far outweighs them all** (2 Corinthians 4:17)
 18. If our earthly "tent" is destroyed, what does God have for us? **An eternal house in heaven, not built by human hands** (2 Corinthians 5:1)
 
+For a quieter follow-up, try the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) — twelve hidden words, answer key included.
+
 ## Hard 2 Corinthians Trivia Questions (Teens and Adults)
 
 19. Paul describes being "caught up" in a vision -- to where? **The third heaven, also called paradise** (2 Corinthians 12:2-4)

@@ -70,6 +70,8 @@ Proverbs 22:6 says, *"Start children off on the way they should go, and even whe
 
 This is the critical window. Psalm 119:105 says, *"Your word is a lamp for my feet, a light on my path."* At 8-10, children are learning to hold that lamp themselves.
 
+If small hands need something to do while you read, the free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) is made for exactly that.
+
 ## Ages 11-13: Standard Translations With Guidance
 
 **What to use:** NIV (New International Version), NLT (New Living Translation), ESV (English Standard Version), along with a study Bible or devotional guide

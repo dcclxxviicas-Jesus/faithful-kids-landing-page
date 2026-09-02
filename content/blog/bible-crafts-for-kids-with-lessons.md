@@ -78,6 +78,8 @@ The wise men followed a star across hundreds of miles to find Jesus. They brough
 
 **Discussion while crafting:** "The wise men traveled a very long way just to see Jesus. What would you travel far for? What does it mean to 'seek' Jesus in your daily life?"
 
+For quiet time afterwards, print the free [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) and let them color while you talk it through.
+
 ## 4. Easter Cross — The Crucifixion and Resurrection
 
 **Bible Story:** Matthew 27:32-28:10

@@ -40,6 +40,8 @@ Here are 10 Psalms every child should know, explained in simple language your fa
 
 **When to share it:** When your child feels invisible, misunderstood, or different from their peers. Psalm 139 reminds them that God made them on purpose, with purpose, and He is proud of what He made.
 
+We drew a printable [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## 4. Psalm 119:105 — "Your Word Is a Lamp"
 
 **The verse:** "Your word is a lamp for my feet, a light on my path." (Psalm 119:105, NIV)

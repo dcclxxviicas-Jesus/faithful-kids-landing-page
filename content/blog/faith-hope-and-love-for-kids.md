@@ -47,6 +47,8 @@ The story of Faith Hope and Love teaches children important lessons about love, 
 
 > *"And now these three remain: faith, hope and love. But the greatest of these is love."* — 1 Corinthians 13:13
 
+There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) on our site too, printable on one sheet with no sign-up.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

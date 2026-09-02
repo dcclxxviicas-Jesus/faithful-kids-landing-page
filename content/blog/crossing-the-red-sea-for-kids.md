@@ -45,6 +45,8 @@ The story of Crossing the Red Sea teaches children important lessons about freed
 
 > *"The Lord will fight for you; you need only to be still."* — Exodus 14:14
 
+We drew a printable [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Parent's Guide: Why This Story Matters
 
 The crucifixion is the most important and most difficult story in the Bible to share with kids. Younger children (5-7) may need a gentler framing focused on Jesus's love and sacrifice. Older children (8+) can handle more of the weight. The key message for all ages: Jesus chose this because He loves us that much. This story is best paired with the Resurrection so your child sees the full picture: Friday was dark, but Sunday was coming.

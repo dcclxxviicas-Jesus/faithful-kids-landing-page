@@ -130,6 +130,8 @@ Faithful Kids covers all nine of these stories in short video lessons with compr
 
 ---
 
+A related freebie: our [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus), drawn as clean line art for crayons and markers.
+
 ## Frequently Asked Questions
 
 ### How do I teach humility in a culture that celebrates self-promotion?

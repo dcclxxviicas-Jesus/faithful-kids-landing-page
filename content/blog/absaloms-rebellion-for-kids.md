@@ -47,6 +47,8 @@ The story of Absaloms Rebellion teaches children important lessons about worship
 
 > *"Trust in the Lord with all your heart."* — Proverbs 3:5
 
+A related freebie: our [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark), drawn as clean line art for crayons and markers.
+
 ## Parent's Guide: Why This Story Matters
 
 Daniel in the Lions' Den is about courage under pressure. Your child will inevitably face moments where doing the right thing is hard because everyone else is doing something different. Daniel chose to pray when it was literally illegal. This story gives kids a framework for standing firm. When your child tells you about pressure at school or among friends, you can ask: what would Daniel do?

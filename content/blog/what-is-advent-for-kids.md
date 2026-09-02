@@ -38,6 +38,8 @@ An easy way to explain it to kids: "Find Christmas on the calendar, then count b
 
 Because Advent is measured in Sundays, most family traditions center on Sunday evenings -- lighting a candle, reading a Bible story, singing a carol. But plenty of families add something daily too, like an Advent calendar. If you want daily ideas, we've collected 15 of them in our guide to [Advent calendar ideas for kids](/blog/advent-calendar-ideas-for-kids).
 
+There is a free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) on our site too, printable on one sheet with no sign-up.
+
 ## What Do the Advent Wreath and Candles Mean?
 
 The Advent wreath is a circle of evergreen branches holding four candles -- one for each week of Advent -- plus often a fifth white candle in the center for Christmas. Every part of it is a picture kids can understand:

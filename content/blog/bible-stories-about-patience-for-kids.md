@@ -32,6 +32,8 @@ After God rescued the Israelites from slavery in Egypt, they did not walk straig
 
 **Talk about it:** "Even when things are hard, God is teaching us something. What has a hard time taught you?"
 
+A related freebie: our [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus), drawn as clean line art for crayons and markers.
+
 ## 4. Hannah Prays for Samuel (1 Samuel 1)
 
 Hannah wanted a child more than anything, but year after year, her prayers seemed to go unanswered. Other people even made fun of her for not having children. But [Hannah kept praying](/blog/hannahs-prayer-for-kids). She poured her heart out to God in the temple with such emotion that the priest thought she was unwell. God heard her prayer, and she gave birth to Samuel, who became one of the greatest prophets in Israel's history.

@@ -58,6 +58,8 @@ These need a bit more Bible knowledge -- two-part performances help.
 23. Lazarus (lie dead, then walk out wrapped like a mummy)
 24. Nehemiah (inspect a broken wall, stack bricks fast)
 
+A related freebie: our [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm), drawn as clean line art for crayons and markers.
+
 ## Hard Bible Characters (Ages 12+)
 
 These reward real Bible knowledge -- great for tweens, teens, and youth groups.

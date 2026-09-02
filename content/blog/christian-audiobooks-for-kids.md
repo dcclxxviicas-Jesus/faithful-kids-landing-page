@@ -48,6 +48,8 @@ For ages 10-14, the best Christian audio is rich fiction that respects their int
 
 **12. Lamplighter Theatre** -- Lamplighter Ministries takes character-building classics -- many over a century old -- and produces them as lavish full-cast audio dramas with the stated goal of building Christlike character one story at a time. Titles like The Hedge of Thorns and Charlie's Choice suit ages 6 and up, with meatier dramas for tweens. Sold at lamplighter.net, with episodes airing free via their radio program.
 
+If small hands need something to do while you read, the free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) is made for exactly that.
+
 ## Where Can You Get Christian Audiobooks for Free or Cheap?
 
 Your library card is the biggest bargain in Christian audio -- the Libby and Hoopla apps carry Narnia, The Wingfeather Saga, The Green Ember, and the Jesus Storybook Bible audio at zero cost. Check there before you buy anything.

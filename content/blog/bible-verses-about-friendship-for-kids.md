@@ -40,6 +40,8 @@ Here are 10 Bible verses about friendship that every child should know, along wi
 
 **How to apply it:** If you see someone who's alone — at lunch, at recess, at church — be the one who helps them up. Invite them to sit with you. Include them. You might be the answer to someone's prayer for a friend.
 
+Pair this with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) — one sheet, ready for the kitchen table or the classroom.
+
 ## 4. John 15:13
 
 *"Greater love has no one than this: to lay down one's life for one's friends."*

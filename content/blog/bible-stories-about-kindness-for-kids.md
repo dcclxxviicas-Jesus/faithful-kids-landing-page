@@ -104,6 +104,8 @@ Foot-washing was the lowest servant's job. At the last supper, with no servant p
 
 If your kids engage better with video, every story on this list is available as a short animated lesson with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-kindness).
 
+A related freebie: our [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan), drawn as clean line art for crayons and markers.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story about kindness for kids?

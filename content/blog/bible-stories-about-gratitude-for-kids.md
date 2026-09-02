@@ -38,6 +38,8 @@ What makes [Hannah's prayer](/blog/hannahs-prayer-for-kids) so remarkable is tha
 
 **Talk about it:** "Hannah thanked God by giving back her most precious gift. What is the most generous way you could say thank you to God?"
 
+We drew a printable [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## 4. Jonah's Prayer from Inside the Fish (Jonah 2)
 
 Jonah is famous for running away from God, getting swallowed by a great fish, and eventually going to Nineveh. But tucked inside the story is a prayer of gratitude that most people skip over. While Jonah was inside the fish -- in the dark, in the deep, at the lowest point of his life -- he prayed: "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good. I will say, salvation comes from the Lord" (Jonah 2:9).

@@ -106,6 +106,8 @@ Keep it small and repeatable: one story a week, five minutes, same questions eac
 
 If your kids engage better with video than reading, every story on this list is available as a short animated lesson with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-courage).
 
+A related freebie: our [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath), drawn as clean line art for crayons and markers.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story about courage for kids?

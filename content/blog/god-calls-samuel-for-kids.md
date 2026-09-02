@@ -45,6 +45,8 @@ The story of God Calls Samuel teaches children important lessons about bravery, 
 
 > *"Speak, Lord, for your servant is listening."* — 1 Samuel 3:9
 
+If small hands need something to do while you read, the free [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) is made for exactly that.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

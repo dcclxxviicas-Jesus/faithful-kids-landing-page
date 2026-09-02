@@ -128,6 +128,8 @@ Sunday school leaders: the [Bible word searches](/printables/bible-word-search) 
 
 For more structured chaos, browse [youth group games that actually work](/blog/youth-group-games) — 55 of them, sized for small, medium, and large groups.
 
+A related freebie: our [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper), drawn as clean line art for crayons and markers.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson be?

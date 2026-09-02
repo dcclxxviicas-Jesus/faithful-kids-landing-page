@@ -104,6 +104,8 @@ God stays awake all night so your child doesn't have to. For kids afraid of the 
 
 Have your child picture the scene as they drift off -- grass, stream, shepherd nearby. Psalm 23 doubles as a first long memory passage; verses 1-2 are the gentle start.
 
+A related freebie: our [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm), drawn as clean line art for crayons and markers.
+
 ## What Verses Teach Kids to Make Peace With Others?
 
 Kids aren't just called to feel peace -- they're called to make it, starting with the sibling across the hall.

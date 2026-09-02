@@ -68,6 +68,8 @@ All 10 episodes of the Road to the Cross and He Is Risen series are available on
 
 We built a [Easter word search](/printables/bible-word-search/easter) around this story. Free, no sign-up, and it works on screen or on paper.
 
+Our free [Easter coloring pages](/printables/easter-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+
 ## Frequently Asked Questions
 
 ### How do I explain the Crucifixion to kids?

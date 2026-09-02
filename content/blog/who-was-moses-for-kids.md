@@ -48,6 +48,8 @@ Moses was scared. He gave God excuse after excuse. "Who am I to do this?" "What 
 
 **Key lesson for kids:** God doesn't call people who are perfect or confident. He calls people who are willing. Moses was afraid and full of doubts, but God equipped him for everything He asked him to do. (There's more in [The Burning Bush for kids](/blog/the-burning-bush-for-kids).)
 
+There is a free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) on our site too, printable on one sheet with no sign-up.
+
 ## The Ten Plagues (Exodus 7-12)
 
 Moses went to Pharaoh and delivered God's message: "Let my people go." But Pharaoh refused. His heart was hard, and he didn't believe in Moses's God. So God sent ten plagues on Egypt to show His power and convince Pharaoh to free the Israelites.

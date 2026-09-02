@@ -46,6 +46,8 @@ This round adds the backstory from Acts 17 -- a church born in a riot and checke
 17. What three ambitions does Paul give in chapter 4? **Lead a quiet life, mind your own business, and work with your hands** (1 Thessalonians 4:11)
 18. After the dead in Christ rise, what happens to believers who are still alive? **They will be caught up together with them in the clouds to meet the Lord in the air** (1 Thessalonians 4:17)
 
+Older kids who find coloring dull usually take to the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) instead — it plays in the browser or prints on one sheet.
+
 ## Hard 1 Thessalonians Trivia Questions (Teens and Adults)
 
 The expert round -- watch for question 24, a pattern hiding in plain sight that most lifelong readers have never noticed.

@@ -42,6 +42,8 @@ Here is each commandment explained in kid-friendly language, with a modern examp
 
 **Modern example:** When something surprises you and you blurt out "Oh my God" without thinking, that is using His name carelessly. Try replacing it with "Oh my goodness" or "Wow." It is a small change that shows big respect.
 
+Add five quiet minutes with the free [Moses word search](/printables/bible-word-search/moses); it prints one to a sheet with the key on the page.
+
 ## Commandment #4: Keep the Sabbath
 
 **"Remember the Sabbath day by keeping it holy. Six days you shall labor and do all your work, but the seventh day is a sabbath to the Lord your God."** (Exodus 20:8-10)

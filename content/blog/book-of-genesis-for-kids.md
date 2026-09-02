@@ -67,6 +67,8 @@ From the Garden of Eden to Joseph's brothers, Genesis is honest about human fail
 ### 3. God Promises
 The golden thread running through Genesis is God's covenant. He promises Noah He will never flood the earth again. He promises Abraham a great nation. He promises Jacob His presence. He promises Joseph that suffering has purpose. God makes promises, and God keeps them. This is the foundation of everything else in the Bible.
 
+A related freebie: our [Creation coloring page](/printables/bible-coloring-pages/creation), drawn as clean line art for crayons and markers.
+
 ## How to Teach Genesis to Kids
 
 **Start with the stories, not the theology.** Kids think in stories, not concepts. Tell them about the animals marching onto the ark, the colorful coat Joseph wore, the rainbow after the storm. The theology will come naturally from the narratives.

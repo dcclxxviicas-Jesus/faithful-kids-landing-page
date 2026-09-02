@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'Find Your Child’s Bible Learning Plan',
   description:
-    'Answer a few quick questions and get a personalized Bible video learning plan for your child. 400+ narrated stories, quizzes, and a 3-day free trial.',
+    'Answer a few quick questions and get a personalized Bible video learning plan for your child. 300+ narrated stories, quizzes, and a 3-day free trial.',
   alternates: {
     canonical: 'https://faithfulkids.app/quiz',
   },

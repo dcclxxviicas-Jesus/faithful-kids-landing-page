@@ -34,6 +34,8 @@ For each verse, there is a kid-friendly explanation you can share directly with 
 
 **Tell your child:** "God is saying, 'Do not be scared, because I am right here. I will make you strong. I will help you. I am holding you up with My own hand.' Imagine the strongest hand in the universe holding you. That is what this verse is about."
 
+There is a free [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) on our site too, printable on one sheet with no sign-up.
+
 ## 4. Joshua 1:9
 
 *"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."*

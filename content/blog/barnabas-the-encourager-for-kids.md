@@ -45,6 +45,8 @@ The story of Barnabas the Encourager teaches children important lessons about co
 
 > *"He was a good man, full of the Holy Spirit and faith."* — Acts 11:24
 
+We drew a printable [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) to go with this story — free, and the printed sheet includes the answer to where it came from.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

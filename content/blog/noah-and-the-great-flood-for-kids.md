@@ -45,6 +45,8 @@ The story of Noah and the Great Flood teaches children important lessons about c
 
 > *"Noah did everything just as God commanded him."* — Genesis 6:22
 
+There is a free [Noah's Ark word search](/printables/bible-word-search/noahs-ark) to go with this, playable on a phone and printable for a class.
+
 ## Parent's Guide: Why This Story Matters
 
 Noah's Ark is one of the most beloved Bible stories for kids, and for good reason. It combines animals (which kids love), a boat (adventure), and a rainbow (hope). But underneath the fun is a serious lesson: doing the right thing when everyone around you is doing the wrong thing. This story is especially relevant when your child faces peer pressure. Ask them: would you build the ark if your friends laughed at you?

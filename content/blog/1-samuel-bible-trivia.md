@@ -49,6 +49,8 @@ The story runs from about 1100 to 1010 BC, ending with Saul's death at Mount Gil
 24. What song did the women sing that made Saul furious with jealousy? **"Saul has slain his thousands, and David his tens of thousands"** (1 Samuel 18:7)
 25. What did Saul hurl at David while David played music for him? **A spear** (1 Samuel 18:10-11)
 
+For quiet time afterwards, print the free [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath) and let them color while you talk it through.
+
 ## Hard 1 Samuel Trivia Questions (Teens and Adults)
 
 26. Finish God's words to Samuel: "People look at the outward appearance, but the LORD looks at..." **"the heart"** (1 Samuel 16:7)

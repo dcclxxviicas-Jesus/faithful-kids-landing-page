@@ -45,6 +45,8 @@ The story of A New Creation teaches children important lessons about love, faith
 
 > *"In the beginning, God created the heavens and the earth."* — Genesis 1:1
 
+For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages) — print as many as your class needs.
+
 ## Parent's Guide: Why This Story Matters
 
 The story of Creation is often a child's first encounter with the Bible. It sets the foundation for everything that follows: God is powerful, God is good, and God made us on purpose. When your child asks 'Who made the trees?' or 'Who made me?', this is the story that answers them. It is also a natural starting point for conversations about gratitude and taking care of the world God made.

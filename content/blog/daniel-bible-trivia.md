@@ -47,6 +47,8 @@ The book's big idea is that God rules over every empire, and ordinary faithfulne
 22. How long did Daniel's vegetable-and-water test last? **Ten days** (Daniel 1:12-14)
 23. What happened to the men who had accused Daniel? **They were thrown into the lions' den themselves** (Daniel 6:24)
 
+Pair this with our free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) — one sheet, ready for the kitchen table or the classroom.
+
 ## Hard Daniel Trivia Questions (Teens and Adults)
 
 24. What does the name Daniel mean in Hebrew? **"God is my judge"**

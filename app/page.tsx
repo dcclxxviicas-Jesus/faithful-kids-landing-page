@@ -576,10 +576,9 @@ function ExitIntent() {
             location="exit_intent"
           />
         </div>
-        <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/checkout' }}>
+        <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/quiz' }}>
           Get started
         </button>
-        <p className="exit-sub">30-day money-back guarantee. Cancel anytime.</p>
       </div>
     </div>
   )

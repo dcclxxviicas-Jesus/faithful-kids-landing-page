@@ -154,7 +154,7 @@ export default async function SeriesPage({ params }: Props) {
             comprehension quizzes. Part of {totalPosts}+ Bible stories on Faithful Kids.
           </p>
           <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
-            Try Faithful Kids Free for 3 Days
+            Get started
           </a>
           <div className="blog-cta-badges">
             <span>No ads, ever</span>

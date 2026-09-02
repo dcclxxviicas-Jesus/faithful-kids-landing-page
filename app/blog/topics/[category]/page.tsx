@@ -168,7 +168,7 @@ export default async function TopicHubPage({ params }: Props) {
               From Genesis to Revelation — safe, ad-free, and made for kids.
             </p>
             <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
-              Try Faithful Kids Free for 3 Days
+              Get started
             </a>
           </div>
         </section>

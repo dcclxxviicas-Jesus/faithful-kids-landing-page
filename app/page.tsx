@@ -63,7 +63,7 @@ export default function Home() {
 
   function handleCTA() {
     posthog.capture('cta_click', { location: 'various' })
-    window.location.href = '/checkout'
+    window.location.href = '/quiz'
   }
 
   function handlePricingClick(tier: string, price: string) {
@@ -183,7 +183,7 @@ export default function Home() {
           The full nav lives on the content pages, where people actually
           arrive from search and need to explore. Footer still links
           everything for crawlers and for anyone who goes looking. */}
-      <SiteNav minimal ctaHref="/checkout" ctaLabel="Get Started" />
+      <SiteNav minimal hideCta />
 
       <main id="main-content">
 
@@ -194,18 +194,17 @@ export default function Home() {
         <div className="hero-content">
           <h1>The <span className="highlight">Bible app for kids</span>.<br />A Christian alternative to YouTube.</h1>
           <p className="subtitle">
-            300+ short Bible story videos. Genesis to Revelation. No ads, ever.
+            300+ short Bible story videos. Genesis to Revelation.
           </p>
 
           <button className="btn-primary btn-hero" onClick={handleCTA}>
-            Start 3 days free
+            Get started
           </button>
           <p className="hero-subtext">No commitment. Cancel anytime.</p>
 
           <div className="hero-badges">
             <span className="hero-badge"><i>★</i> 4.9/5 from Christian families</span>
             <span className="hero-badge"><i>✓</i> Doctrinally reviewed</span>
-            <span className="hero-badge"><i>✓</i> Zero ads, ever</span>
           </div>
         </div>
 
@@ -260,7 +259,7 @@ export default function Home() {
           Genesis to Revelation, in the order it happened &mdash; not a handful of favourite
           stories on shuffle. Every lesson ends with a quiz and a reflection.
         </p>
-        <button className="btn-primary" onClick={handleCTA}>Start 3 days free</button>
+        <button className="btn-primary" onClick={handleCTA}>Get started</button>
       </section>
 
       {/* SOCIAL PROOF — variant 04's job. */}
@@ -310,7 +309,7 @@ export default function Home() {
               <li>Quiz and reflection after every story</li>
             </ul>
             <a href="/checkout" className="btn-primary plan-cta" onClick={() => handlePricingClick('annual', '97.00')}>
-              Start 3 days free
+              Choose annual
             </a>
             <p className="plan-fine">Then $97/year. Cancel anytime.</p>
           </div>
@@ -353,11 +352,10 @@ export default function Home() {
 
         <div className="faq-close">
           <h2>Turn screen time into the best part of their day</h2>
-          <button className="btn-primary btn-lg" onClick={handleCTA}>Start 3 days free</button>
+          <button className="btn-primary btn-lg" onClick={handleCTA}>Get started</button>
           <div className="final-badges">
             <span>30-day money-back guarantee</span>
             <span>Cancel anytime</span>
-            <span>No ads ever</span>
           </div>
         </div>
       </section>
@@ -601,7 +599,7 @@ function ExitIntent() {
           />
         </div>
         <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/checkout' }}>
-          Try Free for 3 Days
+          Get started
         </button>
         <p className="exit-sub">30-day money-back guarantee. Cancel anytime.</p>
       </div>

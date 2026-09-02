@@ -196,7 +196,7 @@ export default function AboutPage() {
           <p>
             The quiz takes two minutes and shows you how it works before you pay anything.
           </p>
-          <a className="btn-primary" href="/quiz?ref=about">Start your free trial</a>
+          <a className="btn-primary" href="/quiz?ref=about">Get started</a>
           <div className="blog-cta-badges">
             <span>No ads, ever</span>
             <span>COPPA-compliant</span>

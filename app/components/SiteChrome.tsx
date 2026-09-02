@@ -19,7 +19,8 @@ export function SiteNav({
   active,
   minimal = false,
   ctaHref,
-  ctaLabel = 'Try Free',
+  ctaLabel = 'Get started',
+  hideCta = false,
 }: {
   active?: NavActive
   /**
@@ -36,6 +37,8 @@ export function SiteNav({
    *  rather than silently rerouting the funnel. */
   /** Overrides the automatic quiz/checkout routing. */
   ctaHref?: string
+  /** Drop the nav CTA entirely — the landing page has its own, in the hero. */
+  hideCta?: boolean
   ctaLabel?: string
 }) {
   const items: NavItem[] = minimal ? [] : NAV_ITEMS
@@ -65,7 +68,7 @@ export function SiteNav({
               quiz-takers straight to checkout. An explicit ctaHref — which the
               homepage passes — always wins, because homepage traffic has
               already read the pitch. */}
-          <NavCta href={ctaHref} label={ctaLabel} />
+          {!hideCta && <NavCta href={ctaHref} label={ctaLabel} />}
           {!minimal && <MobileMenu items={items} active={active} ctaHref={ctaHref} />}
         </div>
       </div>

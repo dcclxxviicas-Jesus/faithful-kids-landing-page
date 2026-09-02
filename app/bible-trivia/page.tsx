@@ -214,7 +214,7 @@ export default function BibleTriviaPage() {
           Revelation, with levels, streaks, and zero ads.
         </p>
         <a href="/quiz" className="btn-primary btn-hero" style={{ textDecoration: 'none' }}>
-          Start Your Free Trial
+          Get started
         </a>
         <div className="final-badges">
           <span>✓ 3-day free trial</span>

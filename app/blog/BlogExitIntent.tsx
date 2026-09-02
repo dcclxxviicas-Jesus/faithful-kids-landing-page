@@ -218,7 +218,7 @@ export function BlogExitIntent({
           })}
           style={{ color: emerald, fontWeight: 700, fontSize: '0.88rem', textDecoration: 'none' }}
         >
-          {isIPhone ? 'Try our app for free \u2192' : 'Or see the full app \u2014 free for 3 days \u2192'}
+          {isIPhone ? 'Get our app \u2192' : 'See the full app \u2192'}
         </a>
       </div>
     </div>

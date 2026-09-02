@@ -131,7 +131,7 @@ export default function Printables() {
           quizzes and reflections, Genesis to Revelation.
         </p>
         <a href="/quiz" className="btn-primary btn-hero" style={{ textDecoration: 'none' }}>
-          Start Your Free Trial
+          Get started
         </a>
         <div className="final-badges">
           <span>✓ 3-day free trial</span>

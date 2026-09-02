@@ -267,7 +267,7 @@ export default function BibleStoriesForKidsPage() {
             Every story here also exists as a short video lesson with a quiz afterwards, so you can
             see what your child actually understood rather than guessing.
           </p>
-          <a className="btn-primary" href="/quiz?ref=stories-hub">Start your free trial</a>
+          <a className="btn-primary" href="/quiz?ref=stories-hub">Get started</a>
           <div className="blog-cta-badges">
             <span>300+ video lessons</span>
             <span>No ads, ever</span>

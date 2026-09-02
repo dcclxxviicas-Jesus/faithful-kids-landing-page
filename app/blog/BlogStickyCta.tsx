@@ -1,6 +1,5 @@
 'use client'
 
-import { useCtaHref } from '../components/useCtaHref'
 import { AppStoreBadge, useIsIPhone } from '../components/AppStore'
 
 import { useEffect, useState } from 'react'
@@ -23,7 +22,7 @@ const SHOW_AFTER_SCREENS = 0.6
  * dismissals are still honoured so nobody who hid it gets it forced back.
  */
 export function BlogStickyCta({ postSlug }: { postSlug: string }) {
-  const ctaHref = useCtaHref()
+  const ctaHref = '/quiz'
   const isIPhone = useIsIPhone()
   const [visible, setVisible] = useState(false)
   const [gone, setGone] = useState(false)
@@ -68,7 +67,6 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
       <div className="blog-sticky-inner">
         <span className="blog-sticky-text">
           <strong>Start your child&apos;s Bible journey</strong>
-          <span className="blog-sticky-long"> &mdash; 3 days free</span>
         </span>
         {/* On an iPhone, installing is genuinely the lower-friction path:
             Face ID beats typing card details into mobile Safari. The trial is
@@ -77,7 +75,7 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
             keeps the web CTA. */}
         {isIPhone ? (
           <span className="blog-sticky-app">
-            <span className="blog-sticky-app-label">Try free:</span>
+            <span className="blog-sticky-app-label">Get our app:</span>
             <AppStoreBadge location={`blog-sticky:${postSlug}`} height={36} />
           </span>
         ) : (
@@ -88,7 +86,7 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
               try { posthog.capture('blog_sticky_click', { post: postSlug }) } catch { /* never break the page */ }
             }}
           >
-            Try Free
+            Get started
           </a>
         )}
       </div>

@@ -115,7 +115,7 @@ export function VerseCta({ postSlug }: { postSlug: string }) {
         >
           Start your kids&apos; Bible journey &rarr;
         </a>
-        <span className="verse-cta-fine">3 days free &middot; no ads, ever</span>
+        <span className="verse-cta-fine">Cancel anytime &middot; no ads, ever</span>
       </div>
 
       <img

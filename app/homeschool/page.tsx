@@ -120,11 +120,11 @@ export default function Homeschool() {
             instead of hoping. No prep, no printing, no teacher guide.
           </p>
           <a
-            href="/checkout"
+            href="/quiz"
             className="btn-primary btn-hero"
             style={{ textDecoration: 'none', maxWidth: '100%' }}
           >
-            Start 3 days free →
+            Get started →
           </a>
           <p className="blog-hero-note">
             $8.08/month billed yearly. Cancel anytime, 30-day money-back guarantee.
@@ -240,7 +240,7 @@ export default function Homeschool() {
                 <li>Up to 5 kid profiles</li>
                 <li>Quiz and reflection after every lesson</li>
               </ul>
-              <a href="/checkout" className="btn-primary plan-cta">Start 3 days free</a>
+              <a href="/checkout" className="btn-primary plan-cta">Choose annual</a>
               <p className="plan-fine">Then $97/year. Cancel anytime.</p>
             </div>
 
@@ -278,8 +278,8 @@ export default function Homeschool() {
 
           <div className="faq-close">
             <h2>Try it with your family for three days</h2>
-            <a href="/checkout" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
-              Start 3 days free
+            <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
+              Get started
             </a>
             <div className="final-badges">
               <span>30-day money-back guarantee</span>

@@ -75,7 +75,7 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
             keeps the web CTA. */}
         {isIPhone ? (
           <span className="blog-sticky-app">
-            <span className="blog-sticky-app-label">Get our app:</span>
+            <span className="blog-sticky-app-label">Start your kids&apos; Bible journey!</span>
             <AppStoreBadge location={`blog-sticky:${postSlug}`} height={36} />
           </span>
         ) : (

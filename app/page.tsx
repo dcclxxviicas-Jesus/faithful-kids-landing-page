@@ -410,11 +410,13 @@ function StickyBar({ onCTA }: { onCTA: () => void }) {
   return (
     <div className="sticky-bar">
       <div className="sticky-inner">
+        {/* "up to 75% off" was not true of anything — the real yearly saving
+            is $58.88, or 38%. And no CTA says "free"/"trial" any more. */}
         <span className="sticky-text">
-          <strong>3-day free trial</strong> — then up to 75% off.
+          <strong>Save $58.88</strong> on the yearly plan.
           Ends in <span className="sticky-timer">{String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}</span>
         </span>
-        <button className="sticky-cta" onClick={onCTA}>Claim your free trial</button>
+        <button className="sticky-cta" onClick={onCTA}>Get started</button>
         <button className="sticky-dismiss" onClick={() => setDismissed(true)} aria-label="Dismiss promotion bar">✕</button>
       </div>
     </div>

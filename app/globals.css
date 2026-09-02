@@ -3772,3 +3772,12 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 }
 .footer-social a:hover { color: #ef4444; border-color: #fecaca; background: #fef2f2; }
 .footer-social svg { flex-shrink: 0; }
+
+/* Sticky-bar App Store block stacks now that the label is a full sentence —
+   "Start your kids' Bible journey!" plus a 108px badge does not fit on one
+   row inside 390px. */
+.blog-sticky-app { flex-direction: column; gap: 6px; }
+.blog-sticky-app-label { font-size: 0.85rem; line-height: 1.2; }
+.blog-sticky-cta.is-app .blog-sticky-inner { padding: 2px 0; }
+/* Nav badge is smaller than the sticky one so it sits inside the bar. */
+.nav-actions .appstore-badge img { height: 30px; }

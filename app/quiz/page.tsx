@@ -383,9 +383,12 @@ export default function Quiz() {
         <div className="qz-bar"><div className="qz-bar-fill" style={{ width: '4%' }} /></div>
         <div className="qz-body">
           <div className="qz-card enter">
-            <div className="qz-emoji">👋</div>
-            <h1 className="qz-q">Who&apos;s taking this quiz today?</h1>
-            <p className="qz-sub">We&apos;ll make it perfect for you</p>
+            {/* Lead with the outcome, not the admin question. The fork still
+                has to be asked, but it is the subtitle now — and the question
+                count sets the commitment honestly (both paths are 8). */}
+            <div className="qz-emoji">📖</div>
+            <h1 className="qz-q">We&apos;ll build the perfect Bible plan for your kids</h1>
+            <p className="qz-sub">8 quick questions. Who&apos;s taking the quiz today?</p>
             <div className="qz-opts">
               <button className="qz-opt" onClick={() => choosePath('parent')}>
                 <span className="qz-opt-emoji">👨‍👩‍👧</span>

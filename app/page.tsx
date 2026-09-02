@@ -91,7 +91,7 @@ export default function Home() {
           url: 'https://faithfulkids.app',
           installUrl: 'https://faithfulkids.app/quiz',
           description:
-            'A Bible app for kids ages 5-15. 400+ short Bible story videos from Genesis to Revelation, each followed by a quiz and a reflection, with a parent dashboard and multiple kid profiles. No ads.',
+            'A Bible app for kids ages 5-15. 300+ short Bible story videos from Genesis to Revelation, each followed by a quiz and a reflection, with a parent dashboard and multiple kid profiles. No ads.',
           inLanguage: 'en',
           isFamilyFriendly: true,
           audience: {
@@ -101,7 +101,7 @@ export default function Home() {
             suggestedMaxAge: 15,
           },
           featureList: [
-            '400+ Bible story videos',
+            '300+ Bible story videos',
             'Quiz after every episode',
             'Reflection prompts',
             'Multiple kid profiles',

@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
 import { TriviaQuizGame } from '../../bible-trivia/TriviaQuizGame'
+import { AutoResize } from './AutoResize'
+import { EmbedInvite } from './EmbedInvite'
 
 // The iframe-embeddable version of the trivia game. Noindex: it's a utility
 // duplicate of /bible-trivia, which is the page we want ranking (embedders'
@@ -18,19 +20,9 @@ export default function BibleTriviaEmbed() {
         background: 'transparent',
       }}
     >
+      <AutoResize />
       <TriviaQuizGame embed />
-      <p style={{ textAlign: 'center', fontSize: '0.78rem', color: '#9ca3af', margin: '10px 0 0' }}>
-        Made with 💚 by{' '}
-        <a
-          href="https://faithfulkids.app/bible-trivia"
-          target="_blank"
-          rel="noopener"
-          style={{ color: '#059669', fontWeight: 700 }}
-        >
-          Faithful Kids
-        </a>{' '}
-        — free Bible learning for kids
-      </p>
+      <EmbedInvite />
     </main>
   )
 }

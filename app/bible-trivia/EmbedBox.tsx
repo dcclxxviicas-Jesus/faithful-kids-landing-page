@@ -3,7 +3,8 @@
 import { useState } from 'react'
 import posthog from 'posthog-js'
 
-const EMBED_CODE = `<iframe src="https://faithfulkids.app/embed/bible-trivia" width="100%" height="780" style="border:0;border-radius:16px;max-width:640px" title="Bible Trivia for Kids" loading="lazy"></iframe>
+const EMBED_CODE = `<iframe id="fk-bible-trivia" src="https://faithfulkids.app/embed/bible-trivia" width="100%" height="780" style="border:0;border-radius:16px;max-width:640px" title="Bible Trivia for Kids" loading="lazy"></iframe>
+<script>window.addEventListener("message",function(e){if(e.origin!=="https://faithfulkids.app")return;var d=e.data;if(!d||d.type!=="fk-trivia-height")return;var f=document.getElementById("fk-bible-trivia");if(f)f.height=d.height;});</script>
 <p style="font-size:14px"><a href="https://faithfulkids.app/bible-trivia">Free Bible Trivia game by Faithful Kids</a></p>`
 
 export function EmbedBox() {

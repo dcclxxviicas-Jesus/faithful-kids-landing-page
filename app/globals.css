@@ -3732,3 +3732,31 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   .blog-sticky-app-label { font-size: 0.9rem; }
   .appstore-badge img { height: 36px; }
 }
+
+/* ── Trivia embed: conversion path ──────────────────────────────────────── */
+
+/* The results screen's Faithful Kids CTA. It was styled identically to
+   "Play again" and sat below it; the whole screen produced one click ever. */
+.tg-cta-primary {
+  margin-top: 20px; padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.tg-btn.tg-btn-cta {
+  padding: 16px 34px; font-size: 1.05rem;
+  box-shadow: 0 4px 0 #15803d;
+}
+.tg-btn.tg-btn-cta:active { transform: translateY(3px); box-shadow: 0 1px 0 #15803d; }
+
+/* The credit line, which is the only exit the 79% who never finish will see.
+   A tappable card, not a grey attribution footer. */
+.tg-embed-invite {
+  display: flex; flex-direction: column; align-items: center; gap: 2px;
+  margin: 14px auto 4px; max-width: 420px; padding: 12px 16px;
+  background: #f0fdf7; border: 1.5px solid #a7f3d0; border-radius: 14px;
+  text-decoration: none; text-align: center;
+  transition: background 0.15s, border-color 0.15s, transform 0.1s;
+}
+.tg-embed-invite:hover { background: #dcfce7; border-color: #6ee7b7; }
+.tg-embed-invite:active { transform: scale(0.99); }
+.tg-embed-invite-main { font-size: 0.95rem; font-weight: 800; color: #065f46; }
+.tg-embed-invite-sub { font-size: 0.8rem; color: #059669; font-weight: 600; }

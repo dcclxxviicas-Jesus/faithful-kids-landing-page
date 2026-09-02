@@ -1,6 +1,7 @@
 'use client'
 
 import Script from 'next/script'
+import { usePathname } from 'next/navigation'
 
 /* Trainly support chat widget.
  *
@@ -12,8 +13,15 @@ import Script from 'next/script'
  * Landing site only. It is NOT loaded in bible-kids, which is used directly by
  * children — a third-party script collecting anything there is a COPPA
  * question, not a product one.
+ *
+ * Nor on /embed/*. Those routes render inside an iframe on somebody else's
+ * website; our support bubble appearing over their page is not ours to put
+ * there, and it added 230KB to every embed load.
  */
 export function SupportChat() {
+  const pathname = usePathname()
+  if (pathname?.startsWith('/embed')) return null
+
   return (
     <Script
       src="https://gotrainly.com/widget.js"

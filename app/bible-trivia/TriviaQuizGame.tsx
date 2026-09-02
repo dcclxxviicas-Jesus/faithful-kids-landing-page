@@ -64,6 +64,11 @@ function rankFor(score: number): { title: string; emoji: string; line: string } 
 
 const CONFETTI_COLORS = ['#059669', '#34d399', '#fbbf24', '#f472b6', '#60a5fa', '#a78bfa']
 
+/* The embed runs in a third-party iframe, so its storage is partitioned from
+   the main site and PostHog hands a click-through a brand new distinct_id.
+   These UTMs are the only way that traffic is attributable at all. */
+export const EMBED_UTM = '?utm_source=embed&utm_medium=iframe&utm_campaign=bible-trivia'
+
 export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
   const [round, setRound] = useState<Dealt[] | null>(null)
   const [difficulty, setDifficulty] = useState<Difficulty>('mixed')
@@ -79,6 +84,8 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
   const [shared, setShared] = useState(false)
 
   const linkTarget = embed ? '_blank' : undefined
+  // On-page links stay clean; only the embed surface is tagged.
+  const utm = embed ? EMBED_UTM : ''
   const base = (e: string) => track(e, { surface: embed ? 'embed' : 'page' })
 
   const start = (d: Difficulty) => {
@@ -226,35 +233,27 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
             </div>
           ))}
         </div>
-        <div style={{ display: 'flex', gap: 10, justifyContent: 'center', flexWrap: 'wrap', marginBottom: 14 }}>
-          <button className="tg-btn" onClick={() => start(difficulty)}>Play again ↻</button>
-          <button className="tg-btn-ghost" onClick={share}>
-            {shared ? 'Copied! ✓' : 'Challenge a friend 📣'}
-          </button>
-        </div>
-        {difficulty !== 'hard' && score >= 8 && (
-          <button className="tg-btn-text" onClick={() => start(difficulty === 'easy' ? 'medium' : 'hard')}>
-            That looked easy — try {difficulty === 'easy' ? 'Medium' : 'Hard'} →
-          </button>
-        )}
-        <div className="tg-cta-divider">
+        {/* Primary action. This used to sit under a divider below "Play again",
+            styled identically to it — the whole results screen produced one
+            click in its lifetime. Play again is now the secondary action. */}
+        <div className="tg-cta-primary">
           <p style={{ fontSize: '0.92rem', margin: '0 0 12px' }} className="tg-sub">
             Love Bible trivia? Your kids will love <strong style={{ color: 'var(--text)' }}>Faithful Kids</strong> —
             short Bible story videos with quizzes just like this one.
           </p>
           <a
-            href="https://faithfulkids.app/quiz"
+            href={`https://faithfulkids.app/quiz${utm}`}
             target={linkTarget}
             rel={embed ? 'noopener' : undefined}
-            className="tg-btn"
+            className="tg-btn tg-btn-cta"
             style={{ textDecoration: 'none', display: 'inline-block' }}
             onClick={() => base('trivia_page_cta_click')}
           >
-            Get started
+            Get started &rarr;
           </a>
           <p style={{ margin: '12px 0 0' }}>
             <a
-              href="https://faithfulkids.app/printables/bible-trivia-pack"
+              href={`https://faithfulkids.app/printables/bible-trivia-pack${utm}`}
               target={linkTarget}
               rel={embed ? 'noopener' : undefined}
               style={{ color: 'var(--primary)', fontWeight: 700, fontSize: '0.85rem', textDecoration: 'none' }}
@@ -264,6 +263,18 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
             </a>
           </p>
         </div>
+
+        <div style={{ display: 'flex', gap: 10, justifyContent: 'center', flexWrap: 'wrap', marginTop: 16 }}>
+          <button className="tg-btn-ghost" onClick={() => start(difficulty)}>Play again ↻</button>
+          <button className="tg-btn-ghost" onClick={share}>
+            {shared ? 'Copied! ✓' : 'Challenge a friend 📣'}
+          </button>
+        </div>
+        {difficulty !== 'hard' && score >= 8 && (
+          <button className="tg-btn-text" onClick={() => start(difficulty === 'easy' ? 'medium' : 'hard')}>
+            That looked easy — try {difficulty === 'easy' ? 'Medium' : 'Hard'} →
+          </button>
+        )}
       </div>
     )
   }

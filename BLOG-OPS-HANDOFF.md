@@ -428,6 +428,30 @@ the Bible" (his own YouTube tagline) + proof-point subtitle. Title tag left
 unchanged (keyword-bearing, no churn). Watch signup rate as with any hero
 change.
 
+**Sep 3 — the September seasonal sprint (owner: "go"):** three Advent/Christmas
+artifacts, all gated (demand + live SERP) before building. (1) **Christmas
+Bible trivia PDF** — christmas-bible-trivia.md retitled "(PDF)", 80 questions
+(three got their missing refs), new make-quiz-pdf config, file live at CDN
+`printables/christmas-bible-trivia.pdf`; SERP has NO AIO and weak incumbents.
+(2) **/printables/jesse-tree** — "jesse tree" 3,060/mo cs (KD 19 head with
+AIO/knowledge-graph, but the ARTIFACT SERP "jesse tree ornaments printable"
+KD 7 has no AIO and small-blog incumbents = the door). 25-day data in
+`lib/jesse-tree.json` (single source for page, PDF, and check-counts truth),
+25 line-art ornaments + 2 watercolor heroes generated to CDN `jesse-tree/`
+(`generate-jesse-tree-ornaments.py`, S3-diff-verified), readings as an HTML
+table, FAQPage schema, kit PDF via `make-jesse-pdf.py`. (3)
+**/printables/advent-bible-calendar** — 25 readings prophecy→nativity in
+`lib/advent-readings.json`, one-sheet PDF, targets the KD-0 "bible advent
+calendar"/"advent reading plan" free-printable intent. Both pages: sitemap
+entries WITH image lists, llms.txt lines, printables-hub grid cards, and 18
+inbound links at birth (`link-advent-pages.py`; watch: "adventures-in-odyssey"
+matched an unanchored "advent" prefix — excluded). check-counts gained
+derived truths for both sets; first pass of its new claim patterns produced
+9 false positives on OTHER products' correct counts (bedtime kit's seven
+readings, 30-day challenge's thirty) — patterns are now anchored to our
+artifacts' exact phrasing. Seasonal deadline: linked and recrawled well
+before mid-October.
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

@@ -62,6 +62,8 @@ Should you pray before opening presents? Yes -- but keep it to twenty seconds, b
 
 Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season — no email wall, no sign-up.
 
+Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day — free, no sign-up.
+
 ## Thank-You-for-Jesus Prayers Kids Can Say On Their Own
 
 These are short enough for a child to memorize and pray solo -- at bedtime, at the nativity scene, or in the car. For year-round versions, see our collection of [bedtime prayers for kids](/blog/bedtime-prayers-for-kids).

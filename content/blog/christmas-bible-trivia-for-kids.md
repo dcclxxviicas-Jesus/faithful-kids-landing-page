@@ -14,6 +14,8 @@ Fair warning: a few of these will stump the adults too. Most of us picture three
 
 If your kids are new to the story itself, start with our walkthrough of [Christmas Bible stories for kids](/blog/christmas-bible-stories-for-kids) first, then come back and quiz them.
 
+**Want the all-ages version on paper?** The [free Christmas Bible trivia PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf) has 80 questions as quiz sheets with a separate answer key — no sign-up, free to photocopy.
+
 ## How Should You Use These Questions?
 
 Use them anywhere you have five spare minutes in December -- no supplies needed. Some favorites from our own house:
@@ -130,6 +132,8 @@ Answer: **"God with us"** (Matthew 1:23)
 Answer: **Because he would save his people from their sins** (Matthew 1:21)
 
 Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+
+Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar) — 25 short readings from the first promise to the manger, one a night.
 
 ## Hard Christmas Trivia (Ages 12+)
 

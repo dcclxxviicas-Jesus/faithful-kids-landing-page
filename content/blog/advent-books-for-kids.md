@@ -83,6 +83,8 @@ Bedtime is where most of these books end up being read, which is exactly why bed
 
 There is a free [Christmas word search](/printables/bible-word-search/christmas) to go with this, playable on a phone and printable for a class.
 
+Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree) — hang one a day and walk the whole Bible story to the manger.
+
 ## Frequently Asked Questions
 
 ### What is the best Advent book for kids overall?

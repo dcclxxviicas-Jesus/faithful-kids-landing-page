@@ -80,6 +80,8 @@ Each child opens exactly one gift on Christmas Eve: a box containing new pajamas
 
 For the season, we keep a set of free [Christmas coloring pages](/printables/christmas-coloring-pages) — print as many as your class needs.
 
+Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar) — 25 short readings from the first promise to the manger, one a night.
+
 ## Giving Traditions
 
 ### 13. The Giving Tree Gift

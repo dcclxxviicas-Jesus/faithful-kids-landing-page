@@ -122,6 +122,8 @@ A craft teaches when it's tied to one specific scene and one specific truth -- n
 
 **Talk about it:** Date it and save it. A drawer of handprint nativities from age 3 to age 10 becomes a family treasure -- and a record of telling this story every single year.
 
+For the season's readings, print the free [Advent Bible calendar](/printables/advent-bible-calendar): 25 days of Scripture, prophecy to nativity, on one sheet.
+
 ## Crafts 11-15: The Response
 
 ### 11. Shepherd's Staff Candy Cane Craft

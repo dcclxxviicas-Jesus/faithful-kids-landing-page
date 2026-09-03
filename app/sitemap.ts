@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next'
 import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
 import { COLORING_PAGES } from '@/lib/coloring-pages'
 import wordSearches from '@/lib/word-searches.json'
+import jesseTree from '@/lib/jesse-tree.json'
 import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -126,6 +127,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
       images: [`https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/${c.slug}.png`],
     })),
+    {
+      // "jesse tree" 3,060/mo clickstream; artifact SERP (ornaments printable) has no AIO
+      url: `${baseUrl}/printables/jesse-tree`,
+      lastModified: new Date('2026-09-03'),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+      images: [
+        'https://d3g07v1w0lehiv.cloudfront.net/jesse-tree/hero.png',
+        ...jesseTree.map(d => `https://d3g07v1w0lehiv.cloudfront.net/jesse-tree/${d.slug}.png`),
+      ],
+    },
+    {
+      url: `${baseUrl}/printables/advent-bible-calendar`,
+      lastModified: new Date('2026-09-03'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+      images: ['https://d3g07v1w0lehiv.cloudfront.net/jesse-tree/advent-hero.png'],
+    },
     {
       url: `${baseUrl}/printables/bible-trivia-pack`,
       lastModified: new Date('2026-08-16'),

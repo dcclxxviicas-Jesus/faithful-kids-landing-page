@@ -102,6 +102,8 @@ Keep it short, keep it at the same time each night, and let kids do some of the 
 
 Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season — no email wall, no sign-up.
 
+Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar) — 25 short readings from the first promise to the manger, one a night.
+
 ## Weeks 3-4: The Birth (Devotions 9-12)
 
 ### Devotion 9: No Room

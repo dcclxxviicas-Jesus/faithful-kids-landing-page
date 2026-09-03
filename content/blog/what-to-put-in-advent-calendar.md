@@ -52,6 +52,8 @@ Cost: $1-4 each. Age fit: noted per item. Keep these small and keep them few -- 
 
 We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+There is a free [Jesse Tree set](/printables/jesse-tree) on our site too: 25 printable ornaments plus the daily readings, no sign-up.
+
 ## Acts of Kindness (23-34)
 
 Cost: free. Age fit: 4+, with the best results at 6-11. The rule that makes these work: the act has to be finished before bedtime, and you debrief at dinner. "How did it go? What did they say?"

@@ -40,6 +40,8 @@ Because Advent is measured in Sundays, most family traditions center on Sunday e
 
 There is a free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) on our site too, printable on one sheet with no sign-up.
 
+Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree) — hang one a day and walk the whole Bible story to the manger.
+
 ## What Do the Advent Wreath and Candles Mean?
 
 The Advent wreath is a circle of evergreen branches holding four candles -- one for each week of Advent -- plus often a fifth white candle in the center for Christmas. Every part of it is a picture kids can understand:

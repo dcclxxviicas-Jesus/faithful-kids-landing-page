@@ -216,6 +216,8 @@ Now the silence breaks. These nine days follow the angels, Mary, Elizabeth, and 
 
 **Prayer:** Immanuel, be with our family tonight and every night. Amen.
 
+Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree) — hang one a day and walk the whole Bible story to the manger.
+
 ## Days 20-25: The Birth
 
 The last six days walk from the road to Bethlehem to Christmas morning. The theme: the King arrived in the humblest way possible, and the news went to the least important people first.

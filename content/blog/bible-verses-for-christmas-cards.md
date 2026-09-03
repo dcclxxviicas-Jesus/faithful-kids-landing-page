@@ -56,6 +56,8 @@ These fit friends in exhausting seasons -- new parents, caregivers, people in de
 
 There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
 
+For a daily Advent tradition, our free [Jesse Tree printable set](/printables/jesse-tree) pairs 25 color-in ornaments with the Bible reading each symbol stands for.
+
 ## Hopeful Verses (For New Seasons and Fresh Starts)
 
 These fit graduates, new households, career changers, families who moved, and anyone standing at the edge of something new -- including cards you send around New Year's.

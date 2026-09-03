@@ -52,6 +52,8 @@ The five devotions below are written to be read aloud exactly as-is. Each takes 
 
 There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
 
+Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree) — hang one a day and walk the whole Bible story to the manger.
+
 ## Week 1 Devotion: Hope (Light One Purple Candle)
 
 **Read:** Isaiah 9:2, 6

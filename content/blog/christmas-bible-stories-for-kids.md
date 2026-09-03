@@ -77,3 +77,5 @@ Start in late November as Advent begins. Watch one episode per day during the 10
 ### What is the real Christmas story in the Bible?
 
 The birth of Jesus is told in Matthew 1-2 and Luke 1-2. It includes the angel visiting Mary, the journey to Bethlehem, Jesus born in a manger, shepherds, wise men, and the escape to Egypt.
+
+For the season's readings, print the free [Advent Bible calendar](/printables/advent-bible-calendar): 25 days of Scripture, prophecy to nativity, on one sheet.

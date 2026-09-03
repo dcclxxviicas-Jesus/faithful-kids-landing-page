@@ -1,0 +1,202 @@
+[
+ {
+  "day": 1,
+  "slug": "creation",
+  "title": "Light of Creation",
+  "symbol": "a sun with rays and a crescent moon and stars",
+  "scripture": "Genesis 1:1-5",
+  "summary": "God creates light and the world begins \u2014 the story that ends at Bethlehem starts here."
+ },
+ {
+  "day": 2,
+  "slug": "adam-and-eve",
+  "title": "The Tree and the Fall",
+  "symbol": "a fruit tree with a serpent coiled around the trunk",
+  "scripture": "Genesis 3:1-15",
+  "summary": "Adam and Eve disobey, and God makes the first promise that a Rescuer will come."
+ },
+ {
+  "day": 3,
+  "slug": "noahs-ark",
+  "title": "Noah's Ark",
+  "symbol": "an ark on waves with a rainbow above it",
+  "scripture": "Genesis 6:11-22; 9:8-17",
+  "summary": "God saves Noah's family and hangs a rainbow as a promise of mercy."
+ },
+ {
+  "day": 4,
+  "slug": "abraham",
+  "title": "Abraham's Stars",
+  "symbol": "a night sky full of stars over a small tent",
+  "scripture": "Genesis 12:1-3; 15:1-6",
+  "summary": "God promises Abraham a family as countless as the stars \u2014 and that through it the whole world will be blessed."
+ },
+ {
+  "day": 5,
+  "slug": "isaac",
+  "title": "The Ram for Isaac",
+  "symbol": "a ram with curled horns standing by a thorn bush",
+  "scripture": "Genesis 22:1-14",
+  "summary": "God provides a ram in Isaac's place \u2014 a picture of the substitute God will one day provide."
+ },
+ {
+  "day": 6,
+  "slug": "jacobs-ladder",
+  "title": "Jacob's Ladder",
+  "symbol": "a ladder reaching up into clouds with a star above",
+  "scripture": "Genesis 28:10-17",
+  "summary": "Jacob dreams of a stairway between heaven and earth; Jesus will BE that bridge."
+ },
+ {
+  "day": 7,
+  "slug": "josephs-coat",
+  "title": "Joseph's Coat",
+  "symbol": "a patterned long-sleeved coat with stripes",
+  "scripture": "Genesis 37:3-4; 50:15-21",
+  "summary": "Joseph is betrayed and sold, yet God uses it to save many \u2014 evil turned to rescue."
+ },
+ {
+  "day": 8,
+  "slug": "burning-bush",
+  "title": "The Burning Bush",
+  "symbol": "a bush with flames rising from it, unburned",
+  "scripture": "Exodus 3:1-10",
+  "summary": "God calls Moses from the burning bush to lead His people out of slavery."
+ },
+ {
+  "day": 9,
+  "slug": "passover-lamb",
+  "title": "The Passover Lamb",
+  "symbol": "a lamb standing before a doorframe",
+  "scripture": "Exodus 12:1-13",
+  "summary": "The lamb's blood on the doorframe saves Israel \u2014 the sign John will echo: 'Behold, the Lamb of God.'"
+ },
+ {
+  "day": 10,
+  "slug": "ten-commandments",
+  "title": "The Ten Commandments",
+  "symbol": "two stone tablets with Roman numerals I to X",
+  "scripture": "Exodus 19:16-20:17",
+  "summary": "God gives His law at Sinai and makes Israel His covenant people."
+ },
+ {
+  "day": 11,
+  "slug": "jericho-trumpet",
+  "title": "The Trumpet at Jericho",
+  "symbol": "a curved ram's horn trumpet (shofar)",
+  "scripture": "Joshua 6:1-20",
+  "summary": "God brings the walls down \u2014 He wins battles His own way."
+ },
+ {
+  "day": 12,
+  "slug": "ruth",
+  "title": "Ruth's Wheat",
+  "symbol": "a tied bundle of wheat stalks",
+  "scripture": "Ruth 1:15-18; 4:13-17",
+  "summary": "Ruth's loyalty is woven into the family line of David \u2014 and of Jesus."
+ },
+ {
+  "day": 13,
+  "slug": "samuel",
+  "title": "Samuel's Lamp",
+  "symbol": "a small oil lamp with a flame",
+  "scripture": "1 Samuel 3:1-10",
+  "summary": "The boy Samuel hears God's voice in the night: 'Speak, for your servant is listening.'"
+ },
+ {
+  "day": 14,
+  "slug": "jesse-stump",
+  "title": "The Stump of Jesse",
+  "symbol": "a tree stump with one green shoot growing from it",
+  "scripture": "Isaiah 11:1-5",
+  "summary": "The prophecy that names the tree: from Jesse's stump, a Branch will bear fruit."
+ },
+ {
+  "day": 15,
+  "slug": "davids-harp",
+  "title": "David's Harp",
+  "symbol": "a small wooden harp (lyre)",
+  "scripture": "1 Samuel 16:1-13",
+  "summary": "God chooses the shepherd-singer David \u2014 the king whose greater Son is coming."
+ },
+ {
+  "day": 16,
+  "slug": "solomons-temple",
+  "title": "Solomon's Temple",
+  "symbol": "a temple with pillars and steps",
+  "scripture": "1 Kings 6:11-14; 8:27-30",
+  "summary": "Solomon builds God a house; one day God will come to dwell with us Himself."
+ },
+ {
+  "day": 17,
+  "slug": "elijahs-altar",
+  "title": "Elijah's Altar",
+  "symbol": "an altar of stacked stones with fire falling on it",
+  "scripture": "1 Kings 18:30-39",
+  "summary": "Fire falls on Carmel and the people cry: 'The LORD \u2014 he is God!'"
+ },
+ {
+  "day": 18,
+  "slug": "isaiah-prophecy",
+  "title": "Isaiah's Promise",
+  "symbol": "a scroll unrolled with a single bright star above it",
+  "scripture": "Isaiah 9:2-7",
+  "summary": "'For to us a child is born' \u2014 seven hundred years early, the birth announcement is written."
+ },
+ {
+  "day": 19,
+  "slug": "jeremiah",
+  "title": "The New Covenant",
+  "symbol": "a heart with a small scroll inside it",
+  "scripture": "Jeremiah 31:31-34",
+  "summary": "God promises a new covenant \u2014 His law written on hearts, sins remembered no more."
+ },
+ {
+  "day": 20,
+  "slug": "daniel-lion",
+  "title": "Daniel and the Lion",
+  "symbol": "a friendly lion sitting with closed mouth",
+  "scripture": "Daniel 6:16-23",
+  "summary": "God shuts the lions' mouths \u2014 faithful trust in a foreign land."
+ },
+ {
+  "day": 21,
+  "slug": "jonah-fish",
+  "title": "Jonah's Great Fish",
+  "symbol": "a great fish with its mouth open on waves",
+  "scripture": "Jonah 1:15-2:10",
+  "summary": "Three days inside the fish, then out alive \u2014 the sign Jesus claimed for Himself."
+ },
+ {
+  "day": 22,
+  "slug": "john-the-baptist",
+  "title": "The Voice in the Desert",
+  "symbol": "a scallop shell with three drops of water",
+  "scripture": "Mark 1:1-8",
+  "summary": "John prepares the way: 'After me comes one more powerful than I.'"
+ },
+ {
+  "day": 23,
+  "slug": "mary",
+  "title": "Mary's Lily",
+  "symbol": "a lily flower with a small radiant star",
+  "scripture": "Luke 1:26-38",
+  "summary": "Mary says yes: 'I am the Lord's servant. May your word to me be fulfilled.'"
+ },
+ {
+  "day": 24,
+  "slug": "bethlehem-star",
+  "title": "The Star of Bethlehem",
+  "symbol": "a large eight-pointed star shining over a tiny town silhouette",
+  "scripture": "Micah 5:2; Matthew 2:1-2",
+  "summary": "The star rises over the little town the prophet named seven centuries before."
+ },
+ {
+  "day": 25,
+  "slug": "manger",
+  "title": "The Manger",
+  "symbol": "a manger with swaddled baby and a star above",
+  "scripture": "Luke 2:1-20",
+  "summary": "The Branch from Jesse's stump arrives: Christ the Lord, asleep on the hay."
+ }
+]

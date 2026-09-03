@@ -60,6 +60,20 @@ CONFIGS = [
         "round_names": [],
         "expect": 50,
     },
+    {
+        "src": "christmas-bible-trivia.md",
+        "out": "christmas-bible-trivia.pdf",
+        "title": "80 Christmas Bible Trivia Questions",
+        "subtitle": ("Four rounds — easy, medium, hard, and expert — covering the real "
+                     "Christmas story from Matthew, Luke, and the prophets, with the full "
+                     "answer key and verse references at the back. Free to print and copy."),
+        "doc_title": "80 Christmas Bible Trivia Questions and Answers",
+        "header": "Christmas Bible Trivia",
+        "url": "FaithfulKids.app/blog/christmas-bible-trivia",
+        "section_re": r"^## (Easy|Medium|Hard|Expert)(.*)",
+        "round_names": [],
+        "expect": 80,
+    },
 ]
 
 

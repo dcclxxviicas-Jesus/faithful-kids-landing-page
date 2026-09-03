@@ -33,6 +33,8 @@ def truth():
     t["christmas coloring pages"] = src.count("season: 'christmas'")
 
     t["word searches"] = len(json.loads((HERE / "lib" / "word-searches.json").read_text()))
+    t["jesse tree days"] = len(json.loads((HERE / "lib" / "jesse-tree.json").read_text()))
+    t["advent readings"] = len(json.loads((HERE / "lib" / "advent-readings.json").read_text()))
 
     quizzes = json.loads((HERE / "lib" / "story-quizzes.json").read_text())
     t["story quizzes"] = len(quizzes)
@@ -92,6 +94,15 @@ CLAIMS = [
     (r"(\d+) scenes covering", "coloring pages", "N scenes covering"),
     (r"(\d+)\s+(?:free\s+)?printable Bible word search", "word searches", "word search puzzles"),
     (NUM + r"\s+printable puzzles", "word searches", "N printable puzzles"),
+    # Anchored to OUR artifacts' phrasing: bare "N ornaments"/"N readings"
+    # matched the bedtime kit's seven readings, the 30-day challenge's thirty,
+    # and a craft post's 24 paper ornaments — all correct counts for OTHER
+    # things (9 false positives on first run).
+    (NUM + r"\s+ornaments to color", "jesse tree days", "N ornaments to color"),
+    (NUM + r"\s+Ornaments & Readings", "jesse tree days", "N Ornaments & Readings"),
+    (NUM + r"\s+printable ornaments", "jesse tree days", "N printable ornaments"),
+    (NUM + r"\s+(?:short\s+)?daily readings from", "advent readings", "N daily readings from"),
+    (NUM + r"\s+short Bible readings", "advent readings", "N short Bible readings"),
     (NUM + r"\s+nativity pages", "christmas coloring pages", "N nativity pages"),
     (NUM + r"\s+pages walking Holy Week", "easter coloring pages", "N Holy Week pages"),
     (NUM + r"\s+pages cover Holy Week", "easter coloring pages", "N Holy Week pages"),

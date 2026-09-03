@@ -12,6 +12,22 @@ export const metadata: Metadata = {
 
 const PACKS = [
   {
+    href: '/printables/jesse-tree',
+    emoji: '\u{1F384}',
+    title: 'Jesse Tree — 25 Ornaments & Readings',
+    description:
+      'The whole Bible story from Creation to the manger, one ornament a day through Advent. Twenty-five printable ornaments drawn for coloring, each with its daily Scripture reading and a one-line summary to start the conversation.',
+    details: 'December 1-25 \u00b7 Free PDF \u00b7 No email, no sign-up',
+  },
+  {
+    href: '/printables/advent-bible-calendar',
+    emoji: '\u{1F4C5}',
+    title: 'Advent Bible Reading Calendar',
+    description:
+      'Twenty-five short readings from the first promise in the garden to the Word made flesh -- ten days of prophecy, then the Christmas story itself, a few minutes a night from December 1 to Christmas Day.',
+    details: 'One sheet to print and check off \u00b7 Free PDF',
+  },
+  {
     href: '/printables/christmas-coloring-pages',
     emoji: '\u2B50',
     title: 'Christmas & Nativity Coloring Pages',

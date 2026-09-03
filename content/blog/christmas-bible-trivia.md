@@ -1,8 +1,8 @@
 ---
-title: "80 Christmas Bible Trivia Questions and Answers"
+title: "80 Christmas Bible Trivia Questions and Answers (PDF)"
 slug: "christmas-bible-trivia"
 type: "listicle"
-metaDescription: "80 Christmas Bible trivia questions with answers and verse references, in four rounds from easy to expert -- for families, parties, and church."
+metaDescription: "80 Christmas Bible trivia questions with answers and verse references in four rounds, easy to expert -- plus a free printable PDF for parties and church."
 keywords: ["bible trivia for christmas", "christmas bible trivia", "christmas bible trivia questions and answers", "christmas trivia questions bible", "nativity trivia questions and answers", "christmas quiz questions and answers bible"]
 datePublished: "2026-08-19"
 dateModified: "2026-08-19"
@@ -13,6 +13,8 @@ Here are 80 Christmas Bible trivia questions with answers and Scripture referenc
 Fair warning about the expert round: it is designed to stump the most Bible-literate person at your table. The Christmas story most of us carry in our heads is about one-third Christmas card and two-thirds Scripture, and rounds three and four are where those get sorted out.
 
 **Playing with little ones?** Start with our [Christmas Bible trivia for kids](/blog/christmas-bible-trivia-for-kids) instead -- 45 questions tiered for ages 5-12, with gentler wording and no expert round. This page is the all-ages version for family gatherings, adult small groups, church parties, and youth nights.
+
+**Need this on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf) -- all 80 questions as ready-to-copy quiz sheets, with the full answer key and verse references on separate pages. No sign-up, free to photocopy for your party or class.
 
 ## How to Run the Game
 
@@ -41,7 +43,7 @@ Warm-up territory -- the parts of the story everyone knows from nativity scenes 
 17. Which jealous king wanted to find the child? **King Herod** (Matthew 2:3)
 18. To what country did the family flee to escape Herod? **Egypt** (Matthew 2:13-14)
 19. In what town did Jesus grow up? **Nazareth** (Matthew 2:23)
-20. What do we celebrate at Christmas? **The birth of Jesus**
+20. What do we celebrate at Christmas? **The birth of Jesus** (Luke 2:10-11)
 
 ## Medium Round (Questions 21-40)
 
@@ -68,6 +70,8 @@ Names, places, and reasons -- solid ground for teens and anyone who grew up in c
 39. Which two people recognized the infant Jesus as the Messiah at the temple? **Simeon and Anna** (Luke 2:25-38)
 40. What happened to Zechariah when he doubted the angel's message? **He was unable to speak until his son John was born** (Luke 1:20)
 
+Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day — free, no sign-up.
+
 ## Hard Round (Questions 41-60)
 
 This is where the Bible starts correcting the Christmas card. Have the verses ready.
@@ -90,7 +94,7 @@ This is where the Bible starts correcting the Christmas card. Have the verses re
 56. What sobering thing did Simeon tell Mary? **"A sword will pierce your own soul too"** (Luke 2:35)
 57. About how long did Mary stay with Elizabeth? **About three months** (Luke 1:56)
 58. What was Zechariah's occupation? **A priest, belonging to the division of Abijah** (Luke 1:5)
-59. Does the Bible say Jesus was born on December 25? **No -- Scripture never gives a date; the church chose it centuries later**
+59. Does the Bible say Jesus was born on December 25? **No -- Scripture never gives a date; the church chose it centuries later** (cf. Luke 2:8)
 60. John the Baptist would go before the Lord "in the spirit and power of" whom? **Elijah** (Luke 1:17)
 
 ## Expert Round (Questions 61-80)
@@ -113,7 +117,7 @@ Reserve this round for the pastors, the seminary grads, and the relative who has
 74. Matthew arranges Jesus' genealogy into three sets of how many generations? **Fourteen** (Matthew 1:17)
 75. Name two of the women Matthew includes in Jesus' genealogy. **Tamar, Rahab, Ruth, "Uriah's wife" (Bathsheba), and Mary** (Matthew 1:3-16)
 76. Matthew's genealogy begins with Abraham -- how far back does Luke's go? **All the way to Adam** (Matthew 1:1-2; Luke 3:38)
-77. What does the name "Bethlehem" mean in Hebrew? **"House of bread"**
+77. What does the name "Bethlehem" mean in Hebrew? **"House of bread"** (cf. John 6:35)
 78. On what day was Jesus circumcised and officially named? **The eighth day** (Luke 2:21)
 79. How many dreams guided Joseph in Matthew's account of Jesus' early years? **Four -- marry Mary, flee to Egypt, return to Israel, withdraw to Galilee** (Matthew 1:20; 2:13, 19, 22)
 80. How does John's Gospel tell the Christmas story? **In one line of theology: "The Word became flesh and made his dwelling among us"** (John 1:14)

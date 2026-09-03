@@ -142,6 +142,8 @@ The King of the universe was born in the humblest possible place.
 
 There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
 
+New this year: our free [printable Jesse Tree](/printables/jesse-tree) — 25 ornaments to color, one for each day of Advent, each with its daily Scripture reading.
+
 ## Week 4: The Celebration
 
 ### Day 20 — Angels Appear to Shepherds

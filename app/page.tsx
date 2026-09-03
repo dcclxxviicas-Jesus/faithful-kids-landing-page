@@ -191,10 +191,9 @@ export default function Home() {
           answer the sceptical parent before they scroll. */}
       <section className="hero hero-center" aria-label="Hero">
         <div className="hero-content">
-          <h1>Where kids <span className="highlight">fall in love</span> with the Bible</h1>
+          <h1>Where kids <span className="highlight" style={{ whiteSpace: 'nowrap' }}>fall in love</span> with the Bible</h1>
           <p className="subtitle">
-            300+ video lessons from Genesis to Revelation &mdash; each one a few minutes long, with a
-            quiz after every story. No ads, no algorithm.
+            Short Bible story videos &middot; Genesis to Revelation
           </p>
 
           <button className="btn-primary btn-hero" onClick={handleCTA}>

@@ -203,7 +203,6 @@ export default function Home() {
 
           <div className="hero-badges">
             <span className="hero-badge"><i>★</i> 4.9/5 from Christian families</span>
-            <span className="hero-badge"><i>✓</i> Doctrinally reviewed</span>
           </div>
         </div>
 

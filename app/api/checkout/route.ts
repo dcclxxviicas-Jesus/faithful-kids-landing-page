@@ -38,7 +38,7 @@ export async function POST(req: NextRequest) {
           currency: 'usd',
           product_data: {
             name: planConfig.name,
-            description: 'Bible story videos for kids ages 5+. Zero ads. Doctrinally reviewed.',
+            description: 'Bible story videos for kids ages 5+. Zero ads.',
           },
           unit_amount: planConfig.amount,
           recurring: {

@@ -135,7 +135,17 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
     HAVING countIf(properties.$pathname IN ${INTERNAL_PAGES}) > 0
         OR countIf(toString(properties.internal) = 'true') > 0`
 
+  /* This dashboard measures the MARKETING site. app.faithfulkids.app is the
+     product — logged-in customers watching lessons — and it reported into the
+     same window until 2026-09-03, inflating "visitors" by 1-6% a day and
+     putting /episode/*, /login and /onboarding into the top-pages list. The
+     same clause drops a dev server (172.20.10.2:3180) and a Google-Translate
+     proxy of the app.
+     Events with NO host are allowed through on purpose: sign_up, trial_started
+     and purchase_completed are captured server-side from the Stripe webhook
+     and carry no $host, so excluding them would zero the revenue rows. */
   const W = `${window}
+    AND (${MARKETING} OR coalesce(properties.$host, '') = '')
     AND toString(coalesce(properties.internal, '')) != 'true'
     AND ($session_id IS NULL OR $session_id NOT IN (${ourSessions}))`
 

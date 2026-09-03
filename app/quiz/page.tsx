@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react'
 import posthog from 'posthog-js'
 import { QuizExitCatch } from './QuizExitCatch'
+import { STORIES } from '../components/stories'
 import { VariantB } from '../quiz-variants/treatments'
 import './quiz.css'
 
@@ -262,6 +263,69 @@ const KID_QUESTIONS: Question[] = [
 // Component
 // ============================================================================
 
+/* The welcome screen — the gate in front of the path fork.
+ *
+ * Posters are resolved by TITLE, never by array index: CLAUDE.md records an
+ * incident where inserting A Baby in a Basket shifted indices and silently
+ * repointed a whole section. Served from video-posters/sm/ at 640x360 — the
+ * full-size files are 224KB for four, which is a lot to put above the fold on
+ * the entry screen of the paid funnel. The small set is 88KB.
+ *
+ * Counts are ground truth from check-counts.py: 310 lessons, 31 series,
+ * median runtime 2:07. Never "400+".
+ */
+const WELCOME_TITLES = [
+  'In the Beginning: Creation',
+  'A Baby in a Basket',
+  'Noah & the Great Flood',
+  'An Angel Visits Mary',
+]
+const WELCOME_POSTERS = WELCOME_TITLES.map(t => {
+  const story = STORIES.find(s => s.title === t)
+  return {
+    title: t,
+    // same filename, smaller rendition
+    src: (story?.poster || '').replace('/video-posters/', '/video-posters/sm/'),
+  }
+})
+
+function Welcome({ onBegin }: { onBegin: () => void }) {
+  return (
+    <div className="qz qz-welcome">
+      <div className="qz-head">
+        <img src="/logo-sm.png" alt="" className="qz-logo" />
+      </div>
+      {/* No progress bar here. The old one rendered at 4% before the visitor
+          had agreed to anything, which is part of what this screen fixes. */}
+      <div className="qz-w-body">
+        <div className="qz-w-shelf">
+          {WELCOME_POSTERS.map(p => (
+            <img
+              key={p.title}
+              src={p.src}
+              alt={p.title}
+              width={640}
+              height={360}
+              loading="eager"
+              className="qz-w-poster"
+            />
+          ))}
+        </div>
+
+        <div className="qz-w-copy">
+          <h1 className="qz-w-h1">300+ Bible stories, Genesis to Revelation</h1>
+          <p className="qz-w-sub">31 series. About two minutes each. No ads, ever.</p>
+          <button className="qz-w-btn" onClick={onBegin}>Begin</button>
+          <p className="qz-w-meta">9 questions &middot; about a minute</p>
+          <p className="qz-r-signin">
+            Already have an account? <a href="https://app.faithfulkids.app/login">Sign in</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default function Quiz() {
   const [path, setPath] = useState<'kid' | 'parent' | null>(null)
   const [step, setStep] = useState(0)
@@ -274,7 +338,16 @@ export default function Quiz() {
   const [buildPct, setBuildPct] = useState(0)
   const [liveCount] = useState(Math.floor(780 + Math.random() * 200))
 
-  useEffect(() => { posthog.capture('quiz_started') }, [])
+  // Gate + restore state. `restoreChecked` exists so the welcome screen never
+  // flashes in front of someone returning from Stripe: the restore below runs
+  // in an effect, so on the very first paint phase is still 'quiz'.
+  const [begun, setBegun] = useState(false)
+  const [restoreChecked, setRestoreChecked] = useState(false)
+
+  /* quiz_started used to fire here, on mount. That made it identical to a
+     /quiz pageview every single day (28/28, 13/13, 15/15) — a bounce and a
+     real abandon were indistinguishable, and it produced a reported
+     completion collapse that had not happened. It now fires on Begin. */
 
   // Restore a completed quiz after returning from Stripe (browser back/swipe)
   useEffect(() => {
@@ -286,10 +359,17 @@ export default function Quiz() {
           setPath(s.path)
           setAnswers(s.answers)
           setPhase('result')
+          setBegun(true)          // returning from Stripe — never re-gate them
         }
       }
     } catch { /* private mode */ }
+    setRestoreChecked(true)
   }, [])
+
+  function begin() {
+    setBegun(true)
+    posthog.capture('quiz_started', { surface: 'welcome' })
+  }
 
   const QUESTIONS = path === 'kid' ? KID_QUESTIONS : PARENT_QUESTIONS
   const total = QUESTIONS.length
@@ -372,6 +452,15 @@ export default function Quiz() {
     }
     tick()
   }
+
+
+  /* Welcome gate.
+     Hold the first paint until the Stripe-restore effect has run: it sets
+     phase='result' asynchronously, so rendering before that check would flash
+     the welcome screen at someone coming back from checkout. One blank frame
+     beats the wrong screen. */
+  if (!restoreChecked) return <div className="qz" />
+  if (!begun && phase !== 'result') return <Welcome onBegin={begin} />
 
   // ===== PATH FORK =====
   if (!path) {

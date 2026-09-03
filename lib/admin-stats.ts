@@ -113,6 +113,14 @@ async function hogql(query: string): Promise<unknown[][]> {
 // interlinking work exists to push pages-per-session UP, so filtering on it
 // would hide the very improvement we are measuring. Likewise /privacy and
 // /terms are exactly what a careful parent checks before subscribing.
+// The signup funnel lives on faithfulkids.app. The APP fired a 'quiz_completed'
+// of its own until 2026-09-03 (a kid finishing the 3 questions after a lesson),
+// and both report into one PostHog project — so an unfiltered count added
+// children finishing lessons to parents finishing the signup quiz. The app
+// event is now 'episode_quiz_completed'; this guard keeps the HISTORY correct
+// too, which a rename alone cannot do.
+const MARKETING = "properties.$host = 'faithfulkids.app'"
+
 const INTERNAL_PAGES = "('/cas-admin','/admin-dashboard')"
 
 async function collectTraffic(startUTC: Date, endUTC: Date) {
@@ -136,9 +144,9 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
       count(DISTINCT distinct_id),
       countIf(event = '$pageview'),
       count(DISTINCT if(event = '$pageview' AND properties.$pathname = '/quiz', distinct_id, NULL)),
-      count(DISTINCT if(event = 'quiz_started', distinct_id, NULL)),
-      count(DISTINCT if(event = 'quiz_answer', distinct_id, NULL)),
-      count(DISTINCT if(event = 'quiz_completed', distinct_id, NULL)),
+      count(DISTINCT if(event = 'quiz_started' AND ${MARKETING}, distinct_id, NULL)),
+      count(DISTINCT if(event = 'quiz_answer' AND ${MARKETING}, distinct_id, NULL)),
+      count(DISTINCT if(event = 'quiz_completed' AND ${MARKETING}, distinct_id, NULL)),
       count(DISTINCT if(event IN ('plan_select','quiz_plan_select'), distinct_id, NULL)),
       count(DISTINCT if(event IN ('checkout_continue','quiz_checkout_click'), distinct_id, NULL)),
       countIf(event = 'sign_up'), countIf(event = 'trial_started'),

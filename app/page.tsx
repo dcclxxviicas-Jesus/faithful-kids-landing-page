@@ -356,7 +356,7 @@ export default function Home() {
         </div>
 
         <div className="faq-close">
-          <h2>Turn screen time into the best part of their day</h2>
+          <h2>Make screen time the best part of their day</h2>
           <button className="btn-primary btn-lg" onClick={handleCTA}>Get started</button>
           <div className="final-badges">
             <span>30-day money-back guarantee</span>

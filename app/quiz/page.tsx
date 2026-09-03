@@ -318,7 +318,15 @@ function Welcome({ onBegin }: { onBegin: () => void }) {
             are evidence for the line above them rather than decoration. */}
         <div className="qz-w-head">
           <h1 className="qz-w-h1">The whole Bible in two-minute episodes</h1>
-          <p className="qz-w-sub">Screen time you can feel good about.</p>
+          {/* Twemoji, self-hosted, rather than the emoji character: the
+              platform glyph for U+1F64F looks wildly different on Apple,
+              Google and Windows. Apple's own artwork ships with their OS
+              fonts and is not licensed for a website, so this is the CC-BY
+              Twemoji set that Twitter and Discord use. */}
+          <p className="qz-w-sub">
+            Screen time you can feel good about.
+            <img src="/emoji-pray.svg" alt="" className="qz-w-emoji" width={22} height={22} />
+          </p>
         </div>
         <button className="qz-w-btn" onClick={onBegin}>Begin</button>
       </div>

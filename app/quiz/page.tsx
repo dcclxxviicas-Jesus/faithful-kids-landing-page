@@ -319,13 +319,13 @@ function Welcome({ onBegin }: { onBegin: () => void }) {
         <div className="qz-w-head">
           <h1 className="qz-w-h1">The whole Bible in two minute episodes</h1>
           {/* Twemoji, self-hosted, rather than the emoji character: the
-              platform glyph for U+1F64F looks wildly different on Apple,
+              platform glyph looks wildly different on Apple,
               Google and Windows. Apple's own artwork ships with their OS
               fonts and is not licensed for a website, so this is the CC-BY
               Twemoji set that Twitter and Discord use. */}
           <p className="qz-w-sub">
-            Screen time you can feel good about.
-            <img src="/emoji-pray.svg" alt="" className="qz-w-emoji" width={22} height={22} />
+            Screen time you can feel good about
+            <img src="/emoji-heart.svg" alt="" className="qz-w-emoji" width={22} height={22} />
           </p>
         </div>
         <button className="qz-w-btn" onClick={onBegin}>Begin</button>
@@ -377,7 +377,30 @@ export default function Quiz() {
   function begin() {
     setBegun(true)
     posthog.capture('quiz_started', { surface: 'welcome' })
+    arm()
   }
+
+  /* Browser back used to leave /quiz entirely from any question — nine
+     answers thrown away by one swipe. The quiz is a single route with
+     internal state, so it has to keep a history entry to spend.
+     `arm()` pushes one; popstate spends it, steps back, and re-arms. At the
+     welcome screen there is nothing left to spend and back leaves normally,
+     which is what someone at the front door expects. */
+  function arm() {
+    try { history.pushState({ fk: 'quiz' }, '') } catch { /* older Safari */ }
+  }
+
+  useEffect(() => {
+    function onPop() {
+      if (phase === 'result' || inter) { setInter(null); setPhase('quiz'); arm(); return }
+      if (step > 0) { setStep(s => s - 1); setAnim('enter'); arm(); return }
+      if (path) { setPath(null); arm(); return }
+      if (begun) { setBegun(false); arm(); return }
+      // welcome screen: let the browser leave
+    }
+    window.addEventListener('popstate', onPop)
+    return () => window.removeEventListener('popstate', onPop)
+  }, [step, path, begun, phase, inter])
 
   const QUESTIONS = path === 'kid' ? KID_QUESTIONS : PARENT_QUESTIONS
   const total = QUESTIONS.length
@@ -385,6 +408,7 @@ export default function Quiz() {
   const pct = ((step + 1) / total) * 100
 
   function choosePath(p: 'kid' | 'parent') {
+    arm()
     try { sessionStorage.removeItem('fk_quiz_state') } catch { /* private mode */ }
     setPath(p)
     posthog.capture('quiz_answer', { question: 'path', answer: p, step: -1 })
@@ -429,6 +453,7 @@ export default function Quiz() {
   function advance(a: Record<string, string>) {
     if (step < total - 1) {
       setAnim('exit')
+      arm()
       setTimeout(() => { setStep(s => s + 1); setAnim('enter') }, 280)
     } else {
       startBuild(a)

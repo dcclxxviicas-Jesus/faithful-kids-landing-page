@@ -1,6 +1,7 @@
 'use client'
 
 import posthog from 'posthog-js'
+import { startCtaTracking } from '@/lib/cta-anchor'
 
 // Init at module scope (import time) so it runs before any component's
 // useEffect — the previous 3s-deferred init silently dropped every capture
@@ -26,6 +27,10 @@ if (typeof window !== 'undefined' && !posthog.__loaded) {
     }
   }
 }
+
+// One listener for the whole site: remembers where the pointer was on the
+// last CTA press so the quiz welcome screen can put Begin under it.
+startCtaTracking()
 
 export function PostHogProvider({ children }: { children: React.ReactNode }) {
   return <>{children}</>

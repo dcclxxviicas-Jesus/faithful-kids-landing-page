@@ -193,13 +193,12 @@ export default function Home() {
         <div className="hero-content">
           <h1>The <span className="highlight">Bible app for kids</span>.<br />A Christian alternative to YouTube.</h1>
           <p className="subtitle">
-            300+ short Bible story videos. Genesis to Revelation.
+            Short Bible story videos &middot; Genesis to Revelation
           </p>
 
           <button className="btn-primary btn-hero" onClick={handleCTA}>
             Get started
           </button>
-          <p className="hero-subtext">No commitment. Cancel anytime.</p>
 
           <div className="hero-badges">
             <span className="hero-badge"><i>★</i> 4.9/5 from Christian families</span>

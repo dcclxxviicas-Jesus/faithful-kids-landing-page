@@ -382,3 +382,67 @@
   display: inline-block; width: 1em; height: 1em;
   margin-left: 0.35em; vertical-align: -0.12em;
 }
+
+/* ===== Quiz screens on desktop =====
+   .qz-card was 480px at every width, so the fork, the questions, the stat
+   interstitial and the video preview all sat as a phone-sized column in the
+   middle of a 1440px screen — the same problem the welcome shelf had. All
+   four screens share .qz-card, so scaling it here scales the funnel evenly.
+
+   Appended at the end deliberately: the base rules live 300-800 lines above
+   and this file's equal-specificity rules are won by whichever comes last. */
+@media (min-width: 820px) {
+  .qz-body { padding: 32px 24px; }
+  .qz-card { max-width: 620px; }
+  .qz-emoji { font-size: 3.2rem; margin-bottom: 14px; }
+  .qz-q { font-size: 2rem; margin-bottom: 8px; }
+  .qz-sub { font-size: 1.02rem; margin-bottom: 30px; }
+
+  .qz-opts { gap: 12px; }
+  .qz-opt { padding: 20px 22px; min-height: 68px; gap: 16px; border-radius: 16px; }
+  .qz-opt-emoji { font-size: 1.75rem; width: 40px; }
+  .qz-opt-text strong { font-size: 1.12rem; }
+  .qz-opt-text small { font-size: 0.9rem; }
+
+  .qz-multi { gap: 12px; }
+  .qz-multi-item { font-size: 0.95rem; padding: 22px 10px; border-radius: 16px; }
+  .qz-multi-item span:first-child { font-size: 2rem; }
+
+  .qz-btn { font-size: 1.12rem; padding: 19px; border-radius: 16px; }
+  .qz-back { font-size: 0.95rem; }
+
+  /* Interstitials scale with the card they sit in. */
+  .qz-eyebrow { font-size: 1rem; margin-bottom: 18px; }
+  .qz-stat-label { font-size: 1.05rem; }
+  .qz-reframe { padding: 26px; }
+  .qz-reframe-q { font-size: 1.18rem; }
+  .qz-vid-wrap { border-radius: 18px; }
+
+  /* The build screen. The ring's width/height are attributes on the SVG, so
+     CSS has to override both or it stays 130px. */
+  .qz-ring svg { width: 168px; height: 168px; }
+  .qz-ring-num { font-size: 2.3rem; }
+  .qz-build h2 { font-size: 1.75rem; }
+  .qz-build-sub { font-size: 1rem; margin-bottom: 34px; }
+  .qz-build-list { max-width: 380px; gap: 13px; }
+  .qz-build-row { font-size: 1rem; gap: 13px; }
+  .qz-build-icon { width: 26px; font-size: 1.05rem; }
+}
+
+@media (min-width: 1200px) {
+  .qz-card { max-width: 720px; }
+  .qz-emoji { font-size: 3.6rem; }
+  .qz-q { font-size: 2.3rem; }
+  .qz-sub { font-size: 1.1rem; }
+  .qz-opt { padding: 22px 26px; min-height: 76px; }
+  .qz-opt-emoji { font-size: 1.9rem; width: 44px; }
+  .qz-opt-text strong { font-size: 1.2rem; }
+  .qz-opt-text small { font-size: 0.95rem; }
+  .qz-multi-item { font-size: 1rem; padding: 26px 12px; }
+  .qz-multi-item span:first-child { font-size: 2.2rem; }
+  .qz-btn { font-size: 1.18rem; padding: 21px; }
+  .qz-stat-big { font-size: 5.4rem; }
+  .qz-ring svg { width: 188px; height: 188px; }
+  .qz-ring-num { font-size: 2.6rem; }
+  .qz-build h2 { font-size: 2rem; }
+}

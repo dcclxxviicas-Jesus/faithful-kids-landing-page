@@ -1,6 +1,7 @@
 'use client'
 
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useLayoutEffect } from 'react'
+import { recentCtaY } from '@/lib/cta-anchor'
 import posthog from 'posthog-js'
 import { QuizExitCatch } from './QuizExitCatch'
 import { STORIES } from '../components/stories'
@@ -290,6 +291,43 @@ const WELCOME_POSTERS = WELCOME_TITLES.map(t => {
 })
 
 function Welcome({ onBegin }: { onBegin: () => void }) {
+  const bodyRef = useRef<HTMLDivElement>(null)
+  const btnRef = useRef<HTMLButtonElement>(null)
+
+  /* Put Begin under the pointer that just pressed "Get started".
+   *
+   * Runs in a LAYOUT effect so the adjusted position is painted the first
+   * time — a useEffect would show the centred layout for a frame and then
+   * jump, which is worse than the problem.
+   *
+   * Two passes on purpose: top-align first, measure where Begin actually
+   * lands, then pad by the difference. Computing it from font sizes would
+   * break the moment the headline wraps to a different number of lines.
+   */
+  useLayoutEffect(() => {
+    const body = bodyRef.current
+    const btn = btnRef.current
+    if (!body || !btn) return
+    const targetY = recentCtaY()
+    if (targetY == null) return   // direct visit — the centred layout is right
+
+    const basePad = parseFloat(getComputedStyle(body).paddingTop) || 0
+    body.style.justifyContent = 'flex-start'
+    body.style.paddingTop = `${basePad}px`
+
+    const r = btn.getBoundingClientRect()
+    const atTop = r.top + r.height / 2
+    // Push down toward the pointer, never past the fold — a button placed
+    // off-screen is a worse bug than one placed low. When the pointer was
+    // ABOVE where the block naturally starts (the phone case: the shelf and
+    // headline are taller than the hero CTA's offset) we keep the
+    // top-aligned layout, which is as close as we can get without clipping
+    // the posters. Reverting to centred there would throw away the gain.
+    const room = window.innerHeight - (r.bottom + 16)
+    const shift = Math.max(0, Math.min(targetY - atTop, room))
+    body.style.paddingTop = `${basePad + shift}px`
+  }, [])
+
   return (
     <div className="qz qz-welcome">
       <div className="qz-head">
@@ -297,7 +335,7 @@ function Welcome({ onBegin }: { onBegin: () => void }) {
       </div>
       {/* No progress bar here. The old one rendered at 4% before the visitor
           had agreed to anything, which is part of what this screen fixes. */}
-      <div className="qz-w-body">
+      <div className="qz-w-body" ref={bodyRef}>
         <div className="qz-w-shelf">
           {WELCOME_POSTERS.map(p => (
             <img
@@ -328,7 +366,7 @@ function Welcome({ onBegin }: { onBegin: () => void }) {
             <img src="/emoji-heart.svg" alt="" className="qz-w-emoji" width={22} height={22} />
           </p>
         </div>
-        <button className="qz-w-btn" onClick={onBegin}>Begin</button>
+        <button className="qz-w-btn" ref={btnRef} onClick={onBegin}>Begin</button>
       </div>
     </div>
   )

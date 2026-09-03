@@ -129,7 +129,7 @@ const sections = [
 
 const allQuestions: Trivia[] = [...easy, ...medium, ...hard];
 
-const EMERALD = '#059669';
+const EMERALD = '#16a34a';
 
 export default function BibleTriviaPackPage() {
   return (

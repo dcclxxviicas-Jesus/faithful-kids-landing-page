@@ -14,7 +14,7 @@
 .qv-wrap { max-width: 540px; margin: 0 auto; padding: 26px 20px 130px; }
 
 .qv-badge {
-  display: inline-block; background: #ecfdf5; color: #065f46;
+  display: inline-block; background: #f0fdf4; color: #166534;
   font-size: 0.78rem; font-weight: 800; padding: 6px 13px; border-radius: 20px;
   margin-bottom: 14px;
 }
@@ -22,7 +22,7 @@
   font-size: 1.72rem; font-weight: 800; letter-spacing: -0.025em;
   line-height: 1.2; margin: 0 0 10px;
 }
-.qv-green { color: #059669; }
+.qv-green { color: #16a34a; }
 .qv-sub { font-size: 0.98rem; color: #4b5563; line-height: 1.55; margin: 0 0 24px; }
 
 .qv-fine { font-size: 0.8rem; color: #6b7280; text-align: center; margin: 12px 0 0; line-height: 1.5; }
@@ -64,7 +64,7 @@
 .qv-more li { display: flex; gap: 9px; font-size: 0.89rem; color: #374151; line-height: 1.45; }
 
 .qv-signin { text-align: center; font-size: 0.84rem; color: #6b7280; margin: 22px 0 0; }
-.qv-signin a { color: #059669; font-weight: 700; text-decoration: none; }
+.qv-signin a { color: #16a34a; font-weight: 700; text-decoration: none; }
 
 /* Sticky buy bar — right padding reserves the chat bubble's corner */
 .qv-sticky {
@@ -130,7 +130,7 @@
   padding: 9px 12px; border-radius: 12px; margin-bottom: 10px;
 }
 .qv-timer {
-  background: #ecfdf5; border: 1px solid #a7f3d0; color: #065f46;
+  background: #f0fdf4; border: 1px solid #bbf7d0; color: #166534;
   font-size: 0.85rem; text-align: center; padding: 9px 12px;
   border-radius: 12px; margin-bottom: 18px;
 }
@@ -144,13 +144,13 @@
   background: #fff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 16px 6px;
 }
 .qv-stats strong {
-  display: block; font-size: 1.5rem; font-weight: 800; color: #059669;
+  display: block; font-size: 1.5rem; font-weight: 800; color: #16a34a;
   letter-spacing: -0.03em; line-height: 1;
 }
 .qv-stats span { display: block; font-size: 0.78rem; color: #6b7280; margin-top: 4px; }
 
 .qv-pain-card {
-  background: #fff; border: 1px solid #e5e7eb; border-left: 4px solid #059669;
+  background: #fff; border: 1px solid #e5e7eb; border-left: 4px solid #16a34a;
   border-radius: 14px; padding: 16px;
 }
 .qv-pain-card strong { display: block; font-size: 0.98rem; font-weight: 800; margin-bottom: 7px; }

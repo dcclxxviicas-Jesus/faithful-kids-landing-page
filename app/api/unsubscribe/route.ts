@@ -24,7 +24,7 @@ async function unsubscribe(req: Request): Promise<Response> {
 <div style="background:#fff;border-radius:16px;padding:40px;max-width:420px;text-align:center;">
 <div style="font-size:2rem;">👋</div>
 <h1 style="font-size:1.3rem;">You're unsubscribed</h1>
-<p style="color:#555;">No more emails from this series. The printable is still yours to keep — and you're always welcome back at <a href="https://faithfulkids.app" style="color:#059669;font-weight:700;">faithfulkids.app</a>.</p>
+<p style="color:#555;">No more emails from this series. The printable is still yours to keep — and you're always welcome back at <a href="https://faithfulkids.app" style="color:#16a34a;font-weight:700;">faithfulkids.app</a>.</p>
 </div></body></html>`,
     { headers: { 'Content-Type': 'text/html; charset=utf-8' } }
   )

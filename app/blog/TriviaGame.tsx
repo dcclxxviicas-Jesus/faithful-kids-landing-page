@@ -144,15 +144,15 @@ export function TriviaGame({
     }
   }
 
-  const emerald = '#059669'
+  const emerald = '#16a34a'
   const card: React.CSSProperties = {
     background: '#ffffff',
-    border: '2px solid #d1fae5',
+    border: '2px solid #dcfce7',
     borderRadius: '20px',
     padding: '28px 24px',
     margin: '32px auto',
     maxWidth: '760px',
-    boxShadow: '0 4px 20px rgba(5, 150, 105, 0.08)',
+    boxShadow: '0 4px 20px rgba(22, 163, 74, 0.08)',
     textAlign: 'center',
   }
   const btn: React.CSSProperties = {
@@ -169,7 +169,7 @@ export function TriviaGame({
   // The card is edge-to-edge inside, so the banner has to pull back out
   // over the card padding to reach the corners.
   const banner: React.CSSProperties = {
-    background: 'linear-gradient(135deg, #059669 0%, #047857 100%)',
+    background: 'linear-gradient(135deg, #16a34a 0%, #15803d 100%)',
     color: '#fff',
     margin: '-28px -24px 20px',
     padding: '18px 24px 16px',
@@ -288,12 +288,12 @@ export function TriviaGame({
             style={{
               display: 'block',
               background: '#f0fdf4',
-              border: '2px solid #d1fae5',
+              border: '2px solid #dcfce7',
               borderRadius: '16px',
               padding: '16px',
               margin: '18px 0 16px',
               textDecoration: 'none',
-              color: '#065f46',
+              color: '#166534',
             }}
           >
             <span style={{ display: 'block', fontWeight: 800, fontSize: '1rem' }}>
@@ -352,11 +352,11 @@ export function TriviaGame({
                   style={{
                     display: 'block',
                     background: '#f0fdf4',
-                    border: '2px solid #d1fae5',
+                    border: '2px solid #dcfce7',
                     borderRadius: '14px',
                     padding: '13px 12px',
                     textDecoration: 'none',
-                    color: '#065f46',
+                    color: '#166534',
                     fontWeight: 700,
                     fontSize: '0.95rem',
                     textAlign: 'center',
@@ -410,7 +410,7 @@ export function TriviaGame({
           fontSize: '0.92rem',
           fontWeight: 700,
           color: feedback.good ? emerald : '#b45309',
-          background: feedback.good ? '#ecfdf5' : '#fffbeb',
+          background: feedback.good ? '#f0fdf4' : '#fffbeb',
           borderRadius: '10px',
           padding: '8px 12px',
           margin: '0 0 14px',
@@ -422,7 +422,7 @@ export function TriviaGame({
       {!revealed ? (
         <>
           <button
-            style={{ ...btn, fontSize: fresh ? '1.05rem' : '1rem', padding: fresh ? '15px 34px' : '13px 30px', boxShadow: '0 6px 18px rgba(5,150,105,0.28)' }}
+            style={{ ...btn, fontSize: fresh ? '1.05rem' : '1rem', padding: fresh ? '15px 34px' : '13px 30px', boxShadow: '0 6px 18px rgba(22, 163, 74,0.28)' }}
             onClick={() => { markStarted(); setRevealed(true) }}
           >
             {fresh ? 'Reveal the Answer' : 'Reveal Answer'}
@@ -435,7 +435,7 @@ export function TriviaGame({
         </>
       ) : (
         <>
-          <div style={{ background: '#ecfdf5', borderRadius: '14px', padding: '16px', margin: '0 0 18px' }}>
+          <div style={{ background: '#f0fdf4', borderRadius: '14px', padding: '16px', margin: '0 0 18px' }}>
             <p style={{ fontSize: '1.1rem', fontWeight: 800, color: emerald, margin: 0 }}>{q.answer}</p>
             {q.citation && <p style={{ fontSize: '0.85rem', color: '#666', margin: '6px 0 0' }}>{q.citation}</p>}
           </div>

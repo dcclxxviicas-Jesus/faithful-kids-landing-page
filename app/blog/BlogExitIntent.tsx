@@ -149,7 +149,7 @@ export function BlogExitIntent({
   if (!show) return null
 
   const copy = COPY[variant]
-  const emerald = '#059669'
+  const emerald = '#16a34a'
 
   const overlay: React.CSSProperties = {
     position: 'fixed', inset: 0, zIndex: 1000,

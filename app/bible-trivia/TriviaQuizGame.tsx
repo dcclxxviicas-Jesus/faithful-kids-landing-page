@@ -62,7 +62,7 @@ function rankFor(score: number): { title: string; emoji: string; line: string } 
   return { title: 'Brave Beginner', emoji: '💪', line: 'Great start — every question is a story to discover!' }
 }
 
-const CONFETTI_COLORS = ['#059669', '#34d399', '#fbbf24', '#f472b6', '#60a5fa', '#a78bfa']
+const CONFETTI_COLORS = ['#16a34a', '#4ade80', '#fbbf24', '#f472b6', '#60a5fa', '#a78bfa']
 
 /* The embed runs in a third-party iframe, so its storage is partitioned from
    the main site and PostHog hands a click-through a brand new distinct_id.

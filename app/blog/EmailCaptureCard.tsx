@@ -67,11 +67,11 @@ export function EmailCaptureCard({
     }
   }
 
-  const emerald = '#059669'
+  const emerald = '#16a34a'
 
   if (state === 'done') {
     return (
-      <div style={{ background: '#ecfdf5', border: '2px solid #a7f3d0', borderRadius: '16px', padding: '24px', textAlign: 'center', margin: '32px 0' }}>
+      <div style={{ background: '#f0fdf4', border: '2px solid #bbf7d0', borderRadius: '16px', padding: '24px', textAlign: 'center', margin: '32px 0' }}>
         <div style={{ fontSize: '1.8rem' }}>🎉</div>
         <p style={{ fontWeight: 800, fontSize: '1.05rem', margin: '6px 0 4px' }}>Check your inbox!</p>
         <p style={{ color: '#555', fontSize: '0.92rem', margin: 0 }}>
@@ -82,7 +82,7 @@ export function EmailCaptureCard({
   }
 
   return (
-    <div style={{ background: '#f0fdf4', border: '2px solid #d1fae5', borderRadius: '16px', padding: compact ? '14px' : '24px', textAlign: 'center', margin: compact ? '14px 0 10px' : '32px 0' }}>
+    <div style={{ background: '#f0fdf4', border: '2px solid #dcfce7', borderRadius: '16px', padding: compact ? '14px' : '24px', textAlign: 'center', margin: compact ? '14px 0 10px' : '32px 0' }}>
       {heading && <p style={{ fontWeight: 800, fontSize: '1.1rem', margin: '0 0 6px' }}>{heading}</p>}
       {sub && <p style={{ color: '#555', fontSize: '0.92rem', margin: '0 0 16px' }}>{sub}</p>}
       <form onSubmit={submit} style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
@@ -99,7 +99,7 @@ export function EmailCaptureCard({
           aria-label="Email address"
           style={{
             flex: '1 1 220px', maxWidth: '280px', padding: '12px 16px',
-            borderRadius: '999px', border: '2px solid #d1fae5', fontSize: '0.95rem', outline: 'none',
+            borderRadius: '999px', border: '2px solid #dcfce7', fontSize: '0.95rem', outline: 'none',
           }}
         />
         <button

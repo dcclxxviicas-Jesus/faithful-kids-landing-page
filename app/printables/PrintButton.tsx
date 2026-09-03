@@ -10,7 +10,7 @@ export default function PrintButton() {
         display: 'inline-flex',
         alignItems: 'center',
         gap: '0.5rem',
-        backgroundColor: '#059669',
+        backgroundColor: '#16a34a',
         color: '#ffffff',
         border: 'none',
         borderRadius: '9999px',

@@ -56,7 +56,7 @@ ${bodyHtml}
 }
 
 function button(href: string, label: string): string {
-  return `<table role="presentation" cellpadding="0" cellspacing="0" style="margin:22px auto;"><tr><td style="background:#059669;border-radius:999px;">
+  return `<table role="presentation" cellpadding="0" cellspacing="0" style="margin:22px auto;"><tr><td style="background:#16a34a;border-radius:999px;">
   <a href="${href}" style="display:inline-block;padding:13px 30px;color:#ffffff;font-weight:700;text-decoration:none;font-size:15px;">${label}</a>
 </td></tr></table>`
 }
@@ -180,7 +180,7 @@ ${button(appLink, 'Play Creation →')}
         html: wrap(ctx.email, `
 <p>${hi(ctx)}</p>
 <p>Where ${kids} ${plural ? 'have' : 'has'} got to:</p>
-<p style="font-size:20px;font-weight:800;margin:14px 0;color:#059669;">${ctx.episodesWatched} ${ctx.episodesWatched === 1 ? 'episode' : 'episodes'} finished</p>
+<p style="font-size:20px;font-weight:800;margin:14px 0;color:#16a34a;">${ctx.episodesWatched} ${ctx.episodesWatched === 1 ? 'episode' : 'episodes'} finished</p>
 <p>Every one was a full story, a quiz, and a reflection. Not a video playing in the background. That's the part that sticks.</p>
 <p>${ctx.lastSeriesName ? `<strong>${ctx.lastSeriesName}</strong> picks up` : 'The next episode picks up'} where you left off, and finishing a series unlocks the next one.</p>
 ${button(appLink, 'Keep going →')}`),

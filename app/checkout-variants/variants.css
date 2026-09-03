@@ -29,7 +29,7 @@
   line-height: 1.2; margin: 0 0 8px;
 }
 .cv-sub { font-size: 1rem; color: #4b5563; margin: 0 0 26px; line-height: 1.5; }
-.cv-green { color: #059669; }
+.cv-green { color: #16a34a; }
 
 /* ---------- Plan rows (stacked) ---------- */
 .cv-plans { display: flex; flex-direction: column; gap: 12px; margin-bottom: 16px; }
@@ -43,23 +43,23 @@
 }
 .cv-plan:hover { border-color: #a7d8c4; }
 .cv-plan.on {
-  border-color: #059669; background: #f0fdf7;
-  box-shadow: 0 0 0 3px rgba(5,150,105,0.12);
+  border-color: #16a34a; background: #f0fdf7;
+  box-shadow: 0 0 0 3px rgba(22, 163, 74,0.12);
 }
 .cv-radio {
   flex-shrink: 0; width: 22px; height: 22px; border-radius: 50%;
   border: 2px solid #cbd5e1; position: relative; background: #fff;
 }
-.cv-plan.on .cv-radio { border-color: #059669; }
+.cv-plan.on .cv-radio { border-color: #16a34a; }
 .cv-plan.on .cv-radio::after {
-  content: ''; position: absolute; inset: 3px; background: #059669; border-radius: 50%;
+  content: ''; position: absolute; inset: 3px; background: #16a34a; border-radius: 50%;
 }
 .cv-plan-mid { flex: 1; min-width: 0; }
 .cv-plan-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 3px; }
 .cv-plan-name { font-weight: 800; font-size: 1rem; }
 .cv-flag {
   font-size: 0.62rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase;
-  background: #059669; color: #fff; padding: 3px 7px; border-radius: 5px;
+  background: #16a34a; color: #fff; padding: 3px 7px; border-radius: 5px;
 }
 .cv-flag-save { background: #e6f4ea; color: #15803d; }
 .cv-plan-note { font-size: 0.84rem; color: #6b7280; line-height: 1.35; }
@@ -87,7 +87,7 @@
 .cv-cta:active { transform: translateY(3px); box-shadow: 0 1px 0 #15803d; }
 .cv-cta:disabled { opacity: 0.6; cursor: not-allowed; transform: none; }
 .cv-cta-note { text-align: center; font-size: 0.82rem; color: #6b7280; margin: 12px 0 0; }
-.cv-cta-note a { color: #059669; font-weight: 700; text-decoration: none; }
+.cv-cta-note a { color: #16a34a; font-weight: 700; text-decoration: none; }
 
 /* ---------- Trust row ---------- */
 .cv-trust {
@@ -100,7 +100,7 @@
 .cv-inc-title { font-size: 0.95rem; font-weight: 800; margin: 30px 0 12px; }
 .cv-inc { display: grid; grid-template-columns: 1fr 1fr; gap: 9px 20px; }
 .cv-inc span { font-size: 0.88rem; color: #374151; display: flex; gap: 7px; align-items: flex-start; line-height: 1.4; }
-.cv-tick { color: #059669; font-weight: 800; flex-shrink: 0; }
+.cv-tick { color: #16a34a; font-weight: 800; flex-shrink: 0; }
 
 /* ---------- FAQ ---------- */
 .cv-faq { margin-top: 32px; }
@@ -139,10 +139,10 @@
   transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
 }
 .cv-card:hover { border-color: #a7d8c4; }
-.cv-card.on { border-color: #059669; box-shadow: 0 0 0 3px rgba(5,150,105,0.12); }
+.cv-card.on { border-color: #16a34a; box-shadow: 0 0 0 3px rgba(22, 163, 74,0.12); }
 .cv-card-ribbon {
   position: absolute; top: -11px; left: 50%; transform: translateX(-50%);
-  background: #059669; color: #fff; font-size: 0.65rem; font-weight: 800;
+  background: #16a34a; color: #fff; font-size: 0.65rem; font-weight: 800;
   letter-spacing: 0.05em; text-transform: uppercase; padding: 4px 12px; border-radius: 20px;
   white-space: nowrap;
 }
@@ -150,7 +150,7 @@
 .cv-card-price { font-size: 2.1rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1; }
 .cv-card-price small { font-size: 0.36em; font-weight: 700; color: #6b7280; letter-spacing: 0; }
 .cv-card-billed { font-size: 0.8rem; color: #6b7280; margin-top: 8px; line-height: 1.4; }
-.cv-card-trial { font-size: 0.8rem; font-weight: 700; color: #059669; margin-top: 8px; }
+.cv-card-trial { font-size: 0.8rem; font-weight: 700; color: #16a34a; margin-top: 8px; }
 .cv-card-trial.none { color: #9ca3af; font-weight: 600; }
 
 /* ---------- V3: video split ---------- */
@@ -175,8 +175,8 @@
 .cv-tl-dot {
   flex-shrink: 0; width: 28px; height: 28px; border-radius: 50%;
   display: flex; align-items: center; justify-content: center;
-  font-size: 0.8rem; font-weight: 800; background: #ecfdf5; color: #059669;
-  border: 2px solid #a7f3d0; position: relative; z-index: 1;
+  font-size: 0.8rem; font-weight: 800; background: #f0fdf4; color: #16a34a;
+  border: 2px solid #bbf7d0; position: relative; z-index: 1;
 }
 .cv-tl-dot.charge { background: #fff7ed; border-color: #fed7aa; color: #c2410c; }
 .cv-tl-body { flex: 1; padding-top: 2px; }
@@ -222,16 +222,16 @@
   /* Prominent but NOT green-bordered until chosen — a full green border here
      made both cards read as selected once monthly was picked. Elevation and
      the ribbon carry the emphasis instead. */
-  border-color: #d1fae5; background: #fff;
-  box-shadow: 0 6px 20px rgba(5,150,105,0.13);
+  border-color: #dcfce7; background: #fff;
+  box-shadow: 0 6px 20px rgba(22, 163, 74,0.13);
 }
-.cv-card.cv-card-hero.on { border-color: #059669; }
-.cv-card.cv-card-hero.on { box-shadow: 0 0 0 3px rgba(5,150,105,0.18), 0 6px 20px rgba(5,150,105,0.15); }
+.cv-card.cv-card-hero.on { border-color: #16a34a; }
+.cv-card.cv-card-hero.on { box-shadow: 0 0 0 3px rgba(22, 163, 74,0.18), 0 6px 20px rgba(22, 163, 74,0.15); }
 
 /* Recessive, not sabotaged — it stays fully readable and selectable. */
 .cv-card.cv-card-lesser { background: #f3f4f6; border-color: #e5e7eb; }
 .cv-card.cv-card-lesser .cv-card-price { color: #6b7280; font-size: 1.65rem; }
-.cv-card.cv-card-lesser.on { background: #fff; border-color: #059669; }
+.cv-card.cv-card-lesser.on { background: #fff; border-color: #16a34a; }
 .cv-card.cv-card-lesser.on .cv-card-price { color: #1e293b; }
 
 .cv-was {
@@ -264,7 +264,7 @@
 .cv-warn p { margin: 0 0 10px; font-size: 0.88rem; color: #78350f; line-height: 1.5; }
 .cv-warn-btn {
   background: none; border: none; padding: 0; cursor: pointer; font-family: inherit;
-  font-size: 0.88rem; font-weight: 800; color: #059669; text-align: left;
+  font-size: 0.88rem; font-weight: 800; color: #16a34a; text-align: left;
 }
 .cv-warn-btn:hover { text-decoration: underline; }
 
@@ -294,12 +294,12 @@
 .cv-seg-btn.on { background: #fff; color: #1e293b; box-shadow: 0 1px 3px rgba(0,0,0,0.10), 0 3px 8px rgba(0,0,0,0.05); }
 .cv-seg-badge {
   font-size: 0.68rem; font-weight: 800; letter-spacing: 0.02em;
-  background: #059669; color: #fff; padding: 3px 7px; border-radius: 20px;
+  background: #16a34a; color: #fff; padding: 3px 7px; border-radius: 20px;
 }
 
 .cv-onecard {
   background: linear-gradient(170deg, #f0fdf7 0%, #ffffff 55%);
-  border: 1.5px solid #a7f3d0; border-radius: 20px;
+  border: 1.5px solid #bbf7d0; border-radius: 20px;
   padding: 28px 24px; text-align: center; margin-bottom: 18px;
 }
 .cv-onecard-price { display: flex; align-items: baseline; justify-content: center; gap: 8px; }
@@ -315,19 +315,19 @@
 
 /* ---------- B. One hero card, the alternative offered in words ---------- */
 .cv-hero-card {
-  position: relative; background: linear-gradient(168deg, #ecfdf5 0%, #ffffff 60%);
-  border: 1.5px solid #6ee7b7; border-radius: 22px;
+  position: relative; background: linear-gradient(168deg, #f0fdf4 0%, #ffffff 60%);
+  border: 1.5px solid #86efac; border-radius: 22px;
   padding: 30px 24px 26px; text-align: center; margin: 14px 0 0;
-  box-shadow: 0 10px 30px rgba(5,150,105,0.10);
+  box-shadow: 0 10px 30px rgba(22, 163, 74,0.10);
 }
 .cv-hero-card.alt {
   background: #fff; border-color: #e5e7eb; box-shadow: 0 6px 20px rgba(15,23,42,0.06);
 }
 .cv-hero-ribbon {
   position: absolute; top: -12px; left: 50%; transform: translateX(-50%);
-  background: #059669; color: #fff; font-size: 0.68rem; font-weight: 800;
+  background: #16a34a; color: #fff; font-size: 0.68rem; font-weight: 800;
   letter-spacing: 0.04em; text-transform: uppercase; padding: 5px 14px;
-  border-radius: 20px; white-space: nowrap; box-shadow: 0 3px 10px rgba(5,150,105,0.35);
+  border-radius: 20px; white-space: nowrap; box-shadow: 0 3px 10px rgba(22, 163, 74,0.35);
 }
 .cv-hero-name {
   font-size: 0.78rem; font-weight: 800; text-transform: uppercase;
@@ -344,7 +344,7 @@
 .cv-hero-rows {
   display: flex; flex-direction: column; gap: 10px; text-align: left;
   max-width: 300px; margin-inline: auto;
-  border-top: 1px solid rgba(5,150,105,0.15); padding-top: 18px;
+  border-top: 1px solid rgba(22, 163, 74,0.15); padding-top: 18px;
 }
 .cv-hero-card.alt .cv-hero-rows { border-top-color: #eef0f3; }
 .cv-hero-rows div { display: flex; gap: 9px; font-size: 0.9rem; color: #374151; align-items: flex-start; }
@@ -355,7 +355,7 @@
   font-family: inherit; font-size: 0.9rem; color: #4b5563; cursor: pointer;
   transition: border-color 0.15s, color 0.15s, background 0.15s;
 }
-.cv-switch:hover { border-color: #059669; color: #059669; background: #f0fdf7; }
+.cv-switch:hover { border-color: #16a34a; color: #16a34a; background: #f0fdf7; }
 .cv-switch strong { font-weight: 800; }
 
 /* ---------- C. Twin cards, both white, differentiated by content ---------- */
@@ -367,16 +367,16 @@
   transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
 }
 .cv-twin:hover { transform: translateY(-2px); }
-.cv-twin.on { border-color: #059669; box-shadow: 0 0 0 3px rgba(5,150,105,0.14); }
+.cv-twin.on { border-color: #16a34a; box-shadow: 0 0 0 3px rgba(22, 163, 74,0.14); }
 /* The crown is a gradient edge, not a colour drain on the other card. */
 .cv-twin.best::before {
   content: ''; position: absolute; inset: 0 0 auto 0; height: 5px;
   border-radius: 20px 20px 0 0;
-  background: linear-gradient(90deg, #34d399, #059669);
+  background: linear-gradient(90deg, #4ade80, #16a34a);
 }
 .cv-twin-crown {
   position: absolute; top: -11px; left: 50%; transform: translateX(-50%);
-  background: #059669; color: #fff; font-size: 0.63rem; font-weight: 800;
+  background: #16a34a; color: #fff; font-size: 0.63rem; font-weight: 800;
   letter-spacing: 0.05em; text-transform: uppercase; padding: 4px 11px;
   border-radius: 20px; white-space: nowrap;
 }

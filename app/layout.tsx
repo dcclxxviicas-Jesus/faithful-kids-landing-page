@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   other: {
-    'theme-color': '#059669',
+    'theme-color': '#16a34a',
   },
   robots: {
     index: true,

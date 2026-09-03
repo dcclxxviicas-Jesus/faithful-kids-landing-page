@@ -60,7 +60,7 @@ ${bodyHtml}
 }
 
 function button(href: string, label: string): string {
-  return `<table role="presentation" cellpadding="0" cellspacing="0" style="margin:22px auto;"><tr><td style="background:#059669;border-radius:999px;">
+  return `<table role="presentation" cellpadding="0" cellspacing="0" style="margin:22px auto;"><tr><td style="background:#16a34a;border-radius:999px;">
   <a href="${href}" style="display:inline-block;padding:13px 30px;color:#ffffff;font-weight:700;text-decoration:none;font-size:15px;">${label}</a>
 </td></tr></table>`
 }
@@ -91,7 +91,7 @@ export function buildEmail(lead: Lead, stage: number): { subject: string; html: 
 ${button(magnetUrl, `Open the ${m.shortName} →`)}
 <p style="color:#6b7280;font-size:13px;">Tip: print it — ${lead.magnet === 'bedtime-kit' ? 'paper works better than a glowing screen at bedtime' : 'it works better where everyone can see it'}.</p>
 ${lead.source === 'quiz-exit' ? quizRecap(lead) : ''}
-<p style="margin-top:20px;">P.S. Every story in it exists as a roughly two-minute video lesson narrated by Jesus, with a quiz after — that's what we make. <a href="${quizUrl}" style="color:#059669;font-weight:700;">Try it free for 3 days</a> whenever you're curious.</p>`),
+<p style="margin-top:20px;">P.S. Every story in it exists as a roughly two-minute video lesson narrated by Jesus, with a quiz after — that's what we make. <a href="${quizUrl}" style="color:#16a34a;font-weight:700;">Try it free for 3 days</a> whenever you're curious.</p>`),
       }
     case 2:
       return {
@@ -109,7 +109,7 @@ ${button(utm(`${SITE_URL}/blog/in-the-beginning-creation-for-kids`, stage), 'Wat
         subject: 'The 1,095-hour question',
         html: wrap(lead.email, `
 <p>Here's a number that stopped us cold when we became parents:</p>
-<p style="font-size:22px;font-weight:800;margin:14px 0;color:#059669;">1,095 hours</p>
+<p style="font-size:22px;font-weight:800;margin:14px 0;color:#16a34a;">1,095 hours</p>
 <p>That's what "about 3 hours of screens a day" adds up to in a year. Nobody plans it. It just happens.</p>
 <p>Now the hopeful part: <strong>if just 5% of that became Scripture</strong>, your child would walk through the entire Bible — twice — this year. Twenty minutes a day. That's the whole idea behind Faithful Kids.</p>
 ${button(quizUrl, 'See how it works — free for 3 days')}
@@ -120,9 +120,9 @@ ${button(quizUrl, 'See how it works — free for 3 days')}
         subject: 'What other parents say (we almost cried at #2)',
         html: wrap(lead.email, `
 <p>Three notes from Faithful Kids parents:</p>
-<p style="border-left:3px solid #059669;padding-left:14px;margin:16px 0;">"My daughter asks for Bible stories instead of YouTube now."<br/><span style="color:#6b7280;font-size:13px;">— Maria S., mom of 3</span></p>
-<p style="border-left:3px solid #059669;padding-left:14px;margin:16px 0;">"My boys retell the stories at dinner. I almost cried the first time."<br/><span style="color:#6b7280;font-size:13px;">— James T., dad of 2</span></p>
-<p style="border-left:3px solid #059669;padding-left:14px;margin:16px 0;">"Finally, screen time I don't feel guilty about."<br/><span style="color:#6b7280;font-size:13px;">— Sarah K., mom of 1</span></p>
+<p style="border-left:3px solid #16a34a;padding-left:14px;margin:16px 0;">"My daughter asks for Bible stories instead of YouTube now."<br/><span style="color:#6b7280;font-size:13px;">— Maria S., mom of 3</span></p>
+<p style="border-left:3px solid #16a34a;padding-left:14px;margin:16px 0;">"My boys retell the stories at dinner. I almost cried the first time."<br/><span style="color:#6b7280;font-size:13px;">— James T., dad of 2</span></p>
+<p style="border-left:3px solid #16a34a;padding-left:14px;margin:16px 0;">"Finally, screen time I don't feel guilty about."<br/><span style="color:#6b7280;font-size:13px;">— Sarah K., mom of 1</span></p>
 <p>Every subscription includes 300+ video lessons, quizzes after every story, up to 5 kid profiles, and a parent dashboard.</p>
 ${button(quizUrl, 'Start your free trial →')}`),
       }

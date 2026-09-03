@@ -418,14 +418,14 @@ const CSS = `
 .root h2 { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-size: 19px; margin: 0 0 4px; }
 .gate { max-width: 300px; margin: 20vh auto 0; display: grid; gap: 10px; padding: 0 20px; text-align: center; }
 .gate input { padding: 11px 12px; border: 1px solid #d5dbd7; border-radius: 9px; font-size: 16px; text-align: center; }
-.gate button { padding: 11px; border: 0; border-radius: 9px; background: #059669; color: #fff; font-size: 15px; font-weight: 600; cursor: pointer; }
+.gate button { padding: 11px; border: 0; border-radius: 9px; background: #16a34a; color: #fff; font-size: 15px; font-weight: 600; cursor: pointer; }
 .err { color: #b91c1c; }
 .head { display: flex; justify-content: space-between; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 8px; }
 .tabs { display: flex; gap: 4px; flex-wrap: wrap; background: #eef1ef; border-radius: 999px; padding: 3px; }
 .tabs button { padding: 7px 13px; border: 0; border-radius: 999px; background: transparent; font-size: 13.5px; cursor: pointer; color: #4d5b54; }
 .tabs button.on { background: #fff; color: #14201b; font-weight: 600; box-shadow: 0 1px 2px rgba(0,0,0,0.08); }
 .verdict { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-size: 21px; line-height: 1.35; margin: 18px 0 22px; max-width: 42em; }
-.loadbar { height: 3px; border-radius: 2px; background: linear-gradient(90deg, #059669 30%, #d1e9df 30%); background-size: 200% 100%; animation: slide 1s linear infinite; margin: 8px 0; }
+.loadbar { height: 3px; border-radius: 2px; background: linear-gradient(90deg, #16a34a 30%, #d1e9df 30%); background-size: 200% 100%; animation: slide 1s linear infinite; margin: 8px 0; }
 @keyframes slide { from { background-position: 0 0 } to { background-position: -200% 0 } }
 .faded { opacity: 0.99; }
 .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin-bottom: 14px; }
@@ -434,7 +434,7 @@ const CSS = `
 .t-value { font-size: 30px; font-weight: 700; margin-top: 2px; letter-spacing: -0.02em; }
 .t-sub { font-size: 12.5px; color: #8a958f; margin-top: 3px; }
 .delta { font-size: 12px; font-weight: 700; padding: 1px 7px; border-radius: 999px; }
-.delta.up { color: #047857; background: #e6f4ee; }
+.delta.up { color: #15803d; background: #e6f4ee; }
 .delta.down { color: #b91c1c; background: #fbeaea; }
 .delta.flat { color: #6b7a73; background: #eef1ef; }
 .panel { background: #fff; border: 1px solid #e5e9e6; border-radius: 12px; padding: 18px 20px; margin: 12px 0; }
@@ -448,10 +448,10 @@ const CSS = `
 .bar-val { font-weight: 650; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .bar-val em { font-style: normal; font-weight: 400; color: #8a958f; font-size: 12px; }
 .bar-track { height: 8px; background: #eef1ef; border-radius: 4px; overflow: hidden; }
-.bar-fill { height: 100%; background: #059669; border-radius: 4px; }
+.bar-fill { height: 100%; background: #16a34a; border-radius: 4px; }
 .trend { display: flex; align-items: flex-end; gap: 2px; height: 120px; }
 .trend-col { flex: 1; display: flex; align-items: flex-end; height: 100%; }
-.trend-bar { width: 100%; background: #059669; border-radius: 3px 3px 0 0; min-height: 0; }
+.trend-bar { width: 100%; background: #16a34a; border-radius: 3px 3px 0 0; min-height: 0; }
 .trend-x { display: flex; justify-content: space-between; font-size: 11.5px; color: #8a958f; margin-top: 6px; }
 .statline { font-size: 15px; margin: 4px 0 14px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .tbl { width: 100%; border-collapse: collapse; font-size: 13.5px; }
@@ -459,7 +459,7 @@ const CSS = `
 .tbl td { padding: 6px 10px 6px 0; border-bottom: 1px solid #f0f3f1; }
 .tbl tr:last-child td { border-bottom: 0; }
 .num { text-align: right !important; font-variant-numeric: tabular-nums; white-space: nowrap; }
-.num.good { color: #047857; font-weight: 700; }
+.num.good { color: #15803d; font-weight: 700; }
 .dim { color: #8a958f; }
 .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 8px 20px; font-size: 14.5px; }
 .facts strong { font-size: 17px; }
@@ -469,5 +469,5 @@ const CSS = `
 .scroll { overflow-x: auto; }
 .log th, .log td { padding-right: 14px; }
 .foot { font-size: 12.5px; color: #8a958f; margin-top: 18px; }
-.linky { border: 0; background: none; color: #059669; cursor: pointer; font-size: 12.5px; padding: 0; text-decoration: underline; }
+.linky { border: 0; background: none; color: #16a34a; cursor: pointer; font-size: 12.5px; padding: 0; text-decoration: underline; }
 `

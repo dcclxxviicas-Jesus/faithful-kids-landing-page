@@ -19,10 +19,11 @@ import { EmailCaptureCard } from '../EmailCaptureCard'
 import { StoryLesson } from '../StoryLesson'
 import { VerseCta } from '../VerseCta'
 import storyDurations from '@/lib/story-durations.json'
-import triviaVideos from '@/lib/trivia-videos.json'
 import guideVideos from '@/lib/guide-videos.json'
 import samplerVideos from '@/lib/sampler-videos.json'
 import { PrintableCta } from '@/app/printables/PrintableCta'
+import { getTriviaVideo } from '@/lib/trivia-video'
+import { EmbedNote } from '../EmbedNote'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -365,6 +366,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
               posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
               {...getTriviaVideo(post.slug)}
             />
+            <EmbedNote slug={post.slug} label={triviaLabel(post.slug, post.title)} />
             {/* Verse CTA sits right after the game — a full 10-question round
                 is the "value first" for trivia pages. */}
             <VerseCta postSlug={post.slug} />
@@ -563,23 +565,6 @@ const hasTriviaGame = triviaQuestions.length >= 10
   )
 }
 
-/**
- * Pick the course-preview video for the trivia game end screen.
- * Old Testament book trivia gets the Creation lesson; everything else gets
- * the flagship "An Angel Visits Mary" lesson (same videos as the homepage).
- */
-function getTriviaVideo(slug: string): { videoSrc: string; videoTitle: string } {
-  // Matched per-post in build-trivia-videos.py, from the book the trivia is
-  // actually about. This used to return one of only TWO videos for all 81
-  // trivia pages, so Ruth trivia showed a Creation video. Now 38 distinct
-  // videos; run that script after adding trivia posts.
-  const hit = (triviaVideos as Record<string, { videoSrc: string; videoTitle: string }>)[slug]
-  if (hit) return hit
-  return {
-    videoSrc: 'https://d3g07v1w0lehiv.cloudfront.net/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4',
-    videoTitle: 'In the Beginning: Creation',
-  }
-}
 
 /**
  * Split content roughly in half at a heading boundary to insert a CTA in the middle.

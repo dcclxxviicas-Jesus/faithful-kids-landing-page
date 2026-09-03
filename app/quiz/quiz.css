@@ -364,6 +364,18 @@
   .qz-w-btn { width: auto; min-width: 260px; margin: 0 auto; padding: 17px 44px; }
 }
 
+/* Large desktop. At 1000px the shelf sat as a narrow band in the middle of a
+   1440px screen with the posters too small to read as scenes — which is the
+   one job they have here. Must come AFTER the 820px block: equal specificity,
+   both match, last one wins. */
+@media (min-width: 1200px) {
+  .qz-w-body { max-width: 1240px; gap: 30px; padding-left: 32px; padding-right: 32px; }
+  .qz-w-shelf { gap: 20px; }
+  .qz-w-h1 { font-size: 3rem; }
+  .qz-w-sub { font-size: 1.55rem; }
+  .qz-w-btn { font-size: 1.2rem; min-width: 300px; padding: 20px 54px; }
+}
+
 /* Emoji rendered as an image so it is identical on every device. Sized in em
    so it tracks the sub line at both breakpoints. */
 .qz-w-emoji {

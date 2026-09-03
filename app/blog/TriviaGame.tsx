@@ -46,6 +46,7 @@ export function TriviaGame({
   videoSrc,
   videoTitle,
   posterSrc,
+  embed = false,
 }: {
   questions: TriviaQuestion[]
   postSlug: string
@@ -57,7 +58,27 @@ export function TriviaGame({
   videoSrc: string
   videoTitle: string
   posterSrc?: string
+  /**
+   * Rendered inside a third-party iframe at /embed/trivia/<slug>.
+   *
+   * Two things change and both are load-bearing. Every link becomes ABSOLUTE:
+   * a relative href inside someone else's frame resolves against THEIR origin,
+   * so `/quiz` would send their reader to a 404 on their own site. And the
+   * end-screen video is swapped for a link back to the post, because the
+   * player portals a fixed-position modal into the document body — which here
+   * is a frame that may be 500px tall on a stranger's page.
+   */
+  embed?: boolean
 }) {
+  // Embed traffic lands with a fresh distinct_id (partitioned iframe storage),
+  // so the UTM is the only thing that makes it attributable at all. Campaign
+  // carries the slug: this is a per-post embed, and we want to know which
+  // game someone's site is actually running.
+  const site = embed ? 'https://faithfulkids.app' : ''
+  const utm = embed ? `?utm_source=embed&utm_medium=iframe&utm_campaign=trivia-${postSlug}` : ''
+  const out = embed ? { target: '_blank', rel: 'noopener' } : {}
+  const surface = embed ? 'embed' : 'post'
+
   // The opening round is NOT shuffled: it has to render identically on the
   // server and the client, and Math.random() would blow up hydration. Replays
   // shuffle, so repeat players still get variety.
@@ -83,7 +104,7 @@ export function TriviaGame({
     started.current = true
     try { sessionStorage.setItem('fk_trivia_started', '1') } catch { /* private mode */ }
     track('trivia_game_start', {
-      post: postSlug, round_size: round.length, pool_size: questions.length,
+      post: postSlug, surface, round_size: round.length, pool_size: questions.length,
     })
   }
 
@@ -97,7 +118,7 @@ export function TriviaGame({
     setFeedback(null)
     setFinished(false)
     setShareNote(null)
-    track('trivia_game_replay', { post: postSlug, round_size: count })
+    track('trivia_game_replay', { post: postSlug, surface, round_size: count })
   }
 
   const answer = (gotIt: boolean) => {
@@ -115,7 +136,7 @@ export function TriviaGame({
     if (index + 1 >= round.length) {
       setFinished(true)
       track('trivia_game_complete', {
-        post: postSlug, score: score + (gotIt ? 1 : 0), total: round.length,
+        post: postSlug, surface, score: score + (gotIt ? 1 : 0), total: round.length,
       })
     } else {
       setIndex(i => i + 1)
@@ -254,26 +275,59 @@ export function TriviaGame({
           <p style={{ fontSize: '0.85rem', color: emerald, fontWeight: 700, margin: '4px 0 0' }}>{shareNote}</p>
         )}
 
-        <div style={{ marginTop: '18px' }}>
-          <VideoTile
-            src={videoSrc}
-            poster={posterSrc}
-            title={videoTitle}
-            location="trivia_end"
-          />
-        </div>
-        <p style={{ fontSize: '0.85rem', color: '#777', margin: '8px 0 16px' }}>
-          &ldquo;{videoTitle}&rdquo; — one of 300+ video lessons in the Faithful Kids Bible course
-        </p>
+        {embed ? (
+          /* No player in the frame. The modal is position:fixed against the
+             iframe's viewport, which is whatever height the host chose — on a
+             short frame the video would open clipped. Send them to the post
+             instead, where the same lesson plays full size. That link is also
+             the point of the embed: a credit backlink to this exact page. */
+          <a
+            href={`${site}/blog/${postSlug}${utm}`}
+            {...out}
+            onClick={() => track('trivia_embed_video_click', { post: postSlug, surface })}
+            style={{
+              display: 'block',
+              background: '#f0fdf4',
+              border: '2px solid #d1fae5',
+              borderRadius: '16px',
+              padding: '16px',
+              margin: '18px 0 16px',
+              textDecoration: 'none',
+              color: '#065f46',
+            }}
+          >
+            <span style={{ display: 'block', fontWeight: 800, fontSize: '1rem' }}>
+              {'\u25B6'} Watch &ldquo;{videoTitle}&rdquo;
+            </span>
+            <span style={{ display: 'block', fontSize: '0.85rem', color: '#4b5563', marginTop: '3px' }}>
+              One of 300+ video Bible lessons for kids &mdash; free to watch
+            </span>
+          </a>
+        ) : (
+          <>
+            <div style={{ marginTop: '18px' }}>
+              <VideoTile
+                src={videoSrc}
+                poster={posterSrc}
+                title={videoTitle}
+                location="trivia_end"
+              />
+            </div>
+            <p style={{ fontSize: '0.85rem', color: '#777', margin: '8px 0 16px' }}>
+              &ldquo;{videoTitle}&rdquo; — one of 300+ video lessons in the Faithful Kids Bible course
+            </p>
+          </>
+        )}
         <p style={{ color: '#333', margin: '0 auto 18px', fontSize: '1.05rem', fontWeight: 600, maxWidth: '520px' }}>
           If you enjoyed this quiz, we think you&apos;ll really enjoy our Bible course. Take a look!
         </p>
         <a
-          href="/quiz"
+          href={`${site}/quiz${utm}`}
+          {...out}
           style={{ ...btn, textDecoration: 'none' }}
-          onClick={() => track('trivia_game_cta_click', { post: postSlug, score, total: round.length })}
+          onClick={() => track('trivia_game_cta_click', { post: postSlug, surface, score, total: round.length })}
         >
-          Take a Look — Free for 3 Days
+          Take a look
         </a>
 
         {related.length > 0 && (
@@ -292,8 +346,9 @@ export function TriviaGame({
               {related.map(r => (
                 <a
                   key={r.slug}
-                  href={`/blog/${r.slug}`}
-                  onClick={() => track('trivia_game_next_click', { from: postSlug, to: r.slug })}
+                  href={`${site}/blog/${r.slug}${utm}`}
+                  {...out}
+                  onClick={() => track('trivia_game_next_click', { from: postSlug, to: r.slug, surface })}
                   style={{
                     display: 'block',
                     background: '#f0fdf4',

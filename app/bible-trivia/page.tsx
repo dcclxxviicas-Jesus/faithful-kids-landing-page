@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { TriviaQuizGame } from './TriviaQuizGame'
 import { EmbedBox } from './EmbedBox'
+import { getPlayableTrivia } from '@/lib/blog'
 import { SiteNav, SiteFooter } from '../components/SiteChrome'
 import { EASY, MEDIUM, HARD } from '@/lib/trivia-game-questions'
 import { BY_AGE, BY_FORMAT, SEASONAL, OT_TRIVIA, NT_TRIVIA, ALL_TRIVIA_LINKS } from './trivia-directory'
@@ -42,6 +43,9 @@ const quizSchema = {
 }
 
 export default function BibleTriviaPage() {
+  // Ground truth, never a hardcoded number: this is the same list
+  // generateStaticParams() builds /embed/trivia/<slug> from.
+  const embeddableCount = getPlayableTrivia().length
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(quizSchema) }} />
@@ -115,6 +119,16 @@ export default function BibleTriviaPage() {
           Wix, or plain HTML. Your visitors play right on your page.
         </p>
         <EmbedBox />
+        {/* Every trivia post is now separately embeddable. A children's
+            ministry writing about Exodus wants an Exodus game, not a mixed
+            one — and each placement links back to that post rather than every
+            embed on the internet pointing at this single page. */}
+        <p style={{ fontSize: '0.95rem', color: 'var(--text-secondary)', marginTop: 20, fontWeight: 600 }}>
+          Want a game on one book or theme instead? Every trivia page below has
+          its own embed &mdash; {embeddableCount} of them, from Genesis to Revelation. Open any
+          one and click <em>Put this game on your site</em>.{' '}
+          <a href="#all-trivia" style={{ color: 'var(--primary)', fontWeight: 700 }}>Browse them all &darr;</a>
+        </p>
         <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginTop: 16 }}>
           Questions, or want a custom version with your church&apos;s name on it? Email{' '}
           <a href="mailto:team@faithfulkids.app" style={{ color: 'var(--primary)', fontWeight: 700 }}>

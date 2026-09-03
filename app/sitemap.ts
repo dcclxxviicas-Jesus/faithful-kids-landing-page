@@ -86,6 +86,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date('2026-08-26'),
       changeFrequency: 'monthly',
       priority: 0.9,
+      images: COLORING_PAGES.map(c => `https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/${c.slug}.png`),
     },
     {
       // "religious easter coloring pages" 1,900/mo KD 0
@@ -93,6 +94,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date('2026-08-26'),
       changeFrequency: 'monthly',
       priority: 0.9,
+      images: COLORING_PAGES.filter(c => c.season === 'easter').map(c => `https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/${c.slug}.png`),
     },
     {
       // "nativity coloring pages" 1,632/mo KD 0
@@ -100,6 +102,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date('2026-08-26'),
       changeFrequency: 'monthly',
       priority: 0.9,
+      images: COLORING_PAGES.filter(c => c.season === 'christmas').map(c => `https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/${c.slug}.png`),
     },
     {
       // "bible word search puzzles" 5,400/mo KD 4
@@ -107,18 +110,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date('2026-08-26'),
       changeFrequency: 'monthly',
       priority: 0.9,
+      images: wordSearches.map(w => `https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${w.slug}.png`),
     },
     ...wordSearches.filter(w => w.slug !== 'bible').map(w => ({
       url: `${baseUrl}/printables/bible-word-search/${w.slug}`,
       lastModified: new Date('2026-08-26'),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
+      images: [`https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${w.slug}.png`],
     })),
     ...COLORING_PAGES.map(c => ({
       url: `${baseUrl}/printables/bible-coloring-pages/${c.slug}`,
       lastModified: new Date('2026-08-26'),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
+      images: [`https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/${c.slug}.png`],
     })),
     {
       url: `${baseUrl}/printables/bible-trivia-pack`,
@@ -170,6 +176,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(post.dateModified + 'T00:00:00Z'),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
+    images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`],
   }))
 
   // Topic hub pages — only categories that actually contain guide posts

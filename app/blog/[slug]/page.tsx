@@ -170,6 +170,11 @@ export default async function BlogPostPage({ params }: Props) {
         thumbnailUrl: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
         uploadDate: post.datePublished,
         contentUrl: `https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${String(post.episode).padStart(2, '0')}-${post.slug.replace(/-for-kids$/, '')}/lesson-video.mp4`,
+        // ISO 8601 duration makes the video eligible for video-search results.
+        // Guarded: durSecs comes from ffprobe-measured story-durations.json
+        // (200 entries); an unguarded template would emit PTNaNMNaNS on any
+        // post without a measured runtime.
+        ...(durSecs ? { duration: `PT${Math.floor(durSecs / 60)}M${durSecs % 60}S` } : {}),
         publisher: { '@type': 'Organization', name: 'Faithful Kids' },
         educationalLevel: 'beginner',
         inLanguage: 'en',

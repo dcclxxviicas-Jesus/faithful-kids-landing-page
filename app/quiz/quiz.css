@@ -349,8 +349,6 @@
 }
 .qz-w-btn:hover { background: #15803d; }
 .qz-w-btn:active { transform: translateY(3px); box-shadow: 0 1px 0 #15803d; }
-.qz-w-meta { font-size: 0.84rem; color: var(--text-muted); margin: 12px 0 0; }
-.qz-welcome .qz-r-signin { margin-top: 10px; }
 
 /* Desktop: one 4-across row. The path screen sits ~85% empty at 1280px and a
    centred mobile column here would repeat that. */

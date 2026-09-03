@@ -314,12 +314,8 @@ function Welcome({ onBegin }: { onBegin: () => void }) {
 
         <div className="qz-w-copy">
           <h1 className="qz-w-h1">300+ Bible stories, Genesis to Revelation</h1>
-          <p className="qz-w-sub">31 series. About two minutes each. No ads, ever.</p>
+          <p className="qz-w-sub">31 series. About two minutes each.</p>
           <button className="qz-w-btn" onClick={onBegin}>Begin</button>
-          <p className="qz-w-meta">9 questions &middot; about a minute</p>
-          <p className="qz-r-signin">
-            Already have an account? <a href="https://app.faithfulkids.app/login">Sign in</a>
-          </p>
         </div>
       </div>
     </div>

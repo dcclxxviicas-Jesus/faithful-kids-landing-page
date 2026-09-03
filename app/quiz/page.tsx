@@ -312,11 +312,15 @@ function Welcome({ onBegin }: { onBegin: () => void }) {
           ))}
         </div>
 
-        <div className="qz-w-copy">
-          <h1 className="qz-w-h1">300+ Bible stories, Genesis to Revelation</h1>
-          <p className="qz-w-sub">31 series. About two minutes each.</p>
-          <button className="qz-w-btn" onClick={onBegin}>Begin</button>
+        {/* Head and button are separate children so desktop can slot the
+            shelf between them (headline -> posters -> Begin) while mobile
+            keeps posters first. Both orders read as one block; the posters
+            are evidence for the line above them rather than decoration. */}
+        <div className="qz-w-head">
+          <h1 className="qz-w-h1">The whole Bible in two-minute episodes</h1>
+          <p className="qz-w-sub">Screen time you can feel good about.</p>
         </div>
+        <button className="qz-w-btn" onClick={onBegin}>Begin</button>
       </div>
     </div>
   )

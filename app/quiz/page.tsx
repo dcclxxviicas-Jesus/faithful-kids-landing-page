@@ -317,7 +317,7 @@ function Welcome({ onBegin }: { onBegin: () => void }) {
             keeps posters first. Both orders read as one block; the posters
             are evidence for the line above them rather than decoration. */}
         <div className="qz-w-head">
-          <h1 className="qz-w-h1">The whole Bible in two-minute episodes</h1>
+          <h1 className="qz-w-h1">The whole Bible in two minute episodes</h1>
           {/* Twemoji, self-hosted, rather than the emoji character: the
               platform glyph for U+1F64F looks wildly different on Apple,
               Google and Windows. Apple's own artwork ships with their OS

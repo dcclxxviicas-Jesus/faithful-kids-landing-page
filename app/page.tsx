@@ -17,7 +17,7 @@ const TESTIMONIALS = [
   {
     name: 'James K.',
     role: 'Dad of 2 (ages 5 & 8)',
-    quote: "Best $8/month I spend. Both kids love it. My son watched David & Goliath four times in a row and then acted it out in the backyard. That's the kind of screen time I can get behind.",
+    quote: "Best $13/month I spend. Both kids love it. My son watched David & Goliath four times in a row and then acted it out in the backyard. That's the kind of screen time I can get behind.",
   },
   {
     name: 'Sarah R.',
@@ -46,9 +46,9 @@ const FAQS = [
   { q: 'Is it really ad-free?', a: 'Yes. Zero ads, ever. No pre-rolls, no banners, no sponsored content. We make money from subscriptions, not from advertising to your children.' },
   { q: 'How is this different from YouTube Kids?', a: 'YouTube Kids uses an algorithm that serves whatever keeps kids watching. We hand-pick every story and review it for doctrinal accuracy. No rabbit holes, no surprises, no junk content.' },
   { q: 'What makes this different from other Bible apps for kids?', a: 'Most Bible apps for kids are built for the youngest readers, so children tend to outgrow them somewhere around age 7 or 8 and quietly stop opening them. Faithful Kids is made for the years after that. It works through the whole story of Scripture in order rather than a handful of favorite stories, and every lesson ends with a quiz, so you can see what your child actually understood instead of guessing.' },
-  { q: 'Is Faithful Kids a Christian app for kids of any denomination?', a: 'Yes. It is a Christian app for kids built around the stories all Christian traditions share, told faithfully to Scripture. Families can choose a Catholic, Evangelical, or Non-denominational content path during setup.' },
+  { q: 'Is Faithful Kids a Christian app for kids of any denomination?', a: 'Yes. It is a Christian app for kids built around the stories all Christian traditions share, told faithfully to Scripture. The stories are the ones Catholic, Evangelical, and Non-denominational families all teach.' },
   { q: 'Can I set screen time limits?', a: 'Yes. Set daily limits per child. When time is up, the app gently pauses. No more "just one more video" battles.' },
-  { q: 'Which denomination is the content for?', a: 'Our core Bible stories (David & Goliath, Noah, the Good Samaritan, the Nativity) are told faithfully to Scripture and resonate across Christian traditions. We offer content paths for Catholic, Evangelical, and Non-denominational families.' },
+  { q: 'Which denomination is the content for?', a: 'Our core Bible stories (David & Goliath, Noah, the Good Samaritan, the Nativity) are told faithfully to Scripture and resonate across Christian traditions. Catholic, Evangelical, and Non-denominational families all use it.' },
   { q: 'Is the content doctrinally accurate?', a: 'Every story is reviewed by practicing Christians with theological training. We take doctrinal accuracy seriously. If something is not right, we fix it or remove it.' },
   { q: 'What devices does it work on?', a: 'Any device with a web browser: iPhone, iPad, Android phones and tablets, laptops, and desktops. There is nothing to install — kids sign in at app.faithfulkids.app and watch.' },
   { q: 'What is the refund policy?', a: 'Full 30-day money-back guarantee. If your kids do not love it, we will refund you completely. No questions asked.' },
@@ -279,14 +279,11 @@ export default function Home() {
         </div>
         <p className="section-sub testi-note">
           {/* "christian shows for kids" is 255/mo and the one term where a
-              homepage competes — Minno ranks #1 for it and Yippee #8, both
-              with their homepages. The denominations stay because "catholic
-              bible for kids" is 153/mo and it is the fact an answer engine
-              cites for "is there a Bible app for Catholic kids?". The
-              doctrinal-review clause went: it is already a hero badge. */}
-          Christian shows for kids that teach, not just entertain. 300+ short Bible videos,
-          Genesis to Revelation, each ending in a quiz. Catholic, Evangelical or
-          Non-denominational &mdash; you choose the path at setup.
+              homepage competes — that keyword line stays. Shortened Sep 3
+              (owner): the 300+/quiz sentence duplicated the new hero, and the
+              "choose the path at setup" claim was removed because no
+              denominational content path exists in the product. */}
+          Christian shows for kids that teach, not just entertain.
         </p>
       </section>
 

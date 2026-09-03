@@ -417,6 +417,17 @@ renders the offer at peak intent ("Watch more stories like this →" →
 {slug, placement}). Copy says "300+ videos" (not the spec's "200") per the
 count-unification rule.
 
+**Sep 3 — homepage hero: owner's pick.** After live-SERP checks killed every
+head-term candidate ("bible for kids" = retail+YouVersion at KD 54; "christian
+alternative to youtube" = GodTube/Yippee under an AIO, our POST at #6-9 and
+the homepage absent; "christian app for kids" = Minno at #1/#2/#4), the
+conclusion was recorded: no head keyword is winnable by the homepage at
+current authority — hubs carry keywords, the homepage carries brand and
+conversion. Cas chose the brand-led hero: H1 "Where kids fall in love with
+the Bible" (his own YouTube tagline) + proof-point subtitle. Title tag left
+unchanged (keyword-bearing, no churn). Watch signup rate as with any hero
+change.
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

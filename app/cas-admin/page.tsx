@@ -1,6 +1,7 @@
 'use client'
 
 import { useCallback, useEffect, useState } from 'react'
+import posthog from 'posthog-js'
 
 // ---- types mirroring lib/admin-stats.ts RangeStats ----
 interface Traffic {
@@ -100,8 +101,12 @@ export default function CasAdmin() {
       // flagged and can be filtered out of the numbers. Survives navigation
       // and IP changes, which matters because our IPs rotate on mobile.
       try {
-        const ph = (window as unknown as { posthog?: { register?: (p: Record<string, unknown>) => void } }).posthog
-        ph?.register?.({ internal: true })
+        // Use the imported client, NOT window.posthog. posthog-js is bundled as
+        // an ES module here and does not reliably attach itself to window, so
+        // the old `window.posthog?.register?.()` optional-chained into nothing
+        // and silently did nothing — 3,207 of our own events went untagged
+        // between 2026-08-26 and 2026-09-04 because of this one line.
+        posthog.register({ internal: true })
         localStorage.setItem('fk_internal', '1')
       } catch {
         // never let analytics tagging break the dashboard

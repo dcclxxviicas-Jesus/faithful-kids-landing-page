@@ -21,6 +21,14 @@ if (typeof window !== 'undefined' && !posthog.__loaded) {
     // PostHog's own storage, which a cache clear or a different profile can
     // drop while our marker survives.
     try {
+      // ?internal=1 on ANY page tags this browser for good. That is the only
+      // way to cover a phone, a private window or a second profile, none of
+      // which ever visit the dashboard — and opening the dashboard was
+      // previously the only way to get tagged at all.
+      // ?internal=0 removes it again, so a test device can be handed back.
+      const flag = new URLSearchParams(window.location.search).get('internal')
+      if (flag === '1') localStorage.setItem('fk_internal', '1')
+      if (flag === '0') localStorage.removeItem('fk_internal')
       if (localStorage.getItem('fk_internal') === '1') posthog.register({ internal: true })
     } catch {
       // ignore

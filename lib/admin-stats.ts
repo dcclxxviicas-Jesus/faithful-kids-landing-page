@@ -3,6 +3,8 @@
 // single day (cron snapshot) or an arbitrary range (live dashboard views).
 // All "days" are America/New_York calendar days.
 
+import { NOT_INTERNAL_IDS } from './internal-traffic'
+
 const POSTHOG_PROJECT = '368526'
 const GSC_SITE = 'sc-domain:faithfulkids.app'
 const SUPABASE_URL = process.env.SUPABASE_URL
@@ -147,6 +149,7 @@ async function collectTraffic(startUTC: Date, endUTC: Date) {
   const W = `${window}
     AND (${MARKETING} OR coalesce(properties.$host, '') = '')
     AND toString(coalesce(properties.internal, '')) != 'true'
+    AND ${NOT_INTERNAL_IDS}
     AND ($session_id IS NULL OR $session_id NOT IN (${ourSessions}))`
 
   const [summary] = await hogql(`

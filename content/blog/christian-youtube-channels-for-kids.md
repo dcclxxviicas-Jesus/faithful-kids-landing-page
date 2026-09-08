@@ -1,14 +1,14 @@
 ---
-title: "14 Best Christian YouTube Channels for Kids (By Age)"
+title: "15 Best Christian YouTube Channels for Kids (By Age)"
 slug: "christian-youtube-channels-for-kids"
 type: "listicle"
 metaDescription: "The best Christian YouTube channels for kids: Saddleback Kids, Crossroads Kids' Club, Douglas Talks, Superbook, and more -- with age fits and safety tips."
 keywords: ["christian youtube channels for kids", "bible youtube channels for children", "christian kids videos youtube", "christian youtubers for kids", "bible videos for kids", "safe christian youtube"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-09-08"
 ---
 
-The best Christian YouTube channels for kids are Saddleback Kids and Crossroads Kids' Club for animated Bible stories, Douglas Talks for preschool character lessons, Superbook for full-episode adventures, and BibleProject for tweens and teens. Below are 14 real channels organized by age, plus the honest part most lists skip: what parents need to know about YouTube itself, because even great channels live next to an autoplay algorithm that doesn't share your values.
+The best Christian YouTube channels for kids are Saddleback Kids and Crossroads Kids' Club for animated Bible stories, Douglas Talks for preschool character lessons, Superbook for full-episode adventures, and BibleProject for tweens and teens. Below are 15 real channels organized by age, plus the honest part most lists skip: what parents need to know about YouTube itself, because even great channels live next to an autoplay algorithm that doesn't share your values.
 
 ## Which Christian YouTube Channels Are Best for Kids?
 
@@ -53,7 +53,10 @@ Kids' worship and Scripture songs with bright, simple animation -- a good modern
 ### 13. Yancy Ministries
 Yancy makes high-energy worship music for kids -- her "Little Praise Party" songs for preschoolers and elementary worship sets are used in kids' ministries across the country. Best for getting wiggles out with a purpose. Ages 2-9.
 
-### 14. BibleProject
+### 14. Little Voices for God
+A small Ottawa-based channel of gentle worship and prayer songs for young children, with the lyrics on screen so little ones can sing along. Songs are short, scripture-tagged (Psalm 4:8 for bedtime, Philippians 4:6 for worry), and deliberately calm — closer to a lullaby than a praise party. The library is still small, but what's there is lovely, and it's growing. Ages 2-8.
+
+### 15. BibleProject
 Not a kids channel, but the best Bible-explainer channel on YouTube for ages 10 and up: gorgeous whiteboard-style animations unpacking books of the Bible, biblical themes, and words like *shalom* and *covenant*. Watch together -- parents consistently learn as much as tweens do. Ages 10+.
 
 ## What Age Fits Which Channel?
@@ -62,7 +65,7 @@ Preschoolers do best with slow, gentle channels; tweens need substance -- here's
 
 | Age | Best channels |
 |-----|---------------|
-| 2-5 | Douglas Talks, The Beginner's Bible, Cedarmont Kids, Listener Kids, LifeKids (Bible Adventure) |
+| 2-5 | Douglas Talks, The Beginner's Bible, Cedarmont Kids, Listener Kids, Little Voices for God, LifeKids (Bible Adventure) |
 | 5-9 | Saddleback Kids, Crossroads Kids' Club, VeggieTales, Superbook, Minno, Sharefaith Kids, Yancy |
 | 9-12 | Superbook, What's in the Bible?, BibleProject (together) |
 | 12+ | BibleProject |

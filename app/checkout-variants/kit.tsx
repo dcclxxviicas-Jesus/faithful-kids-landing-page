@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect, useLayoutEffect } from 'react'
 import posthog from 'posthog-js'
 
 /** The id PostHog is using for this browser, so Stripe can carry it through. */
@@ -53,9 +53,31 @@ export const INCLUDED = [
   'No ads, ever',
 ]
 
+/* React logs a warning for useLayoutEffect during SSR, and this page is
+   prerendered. */
+const useIsoLayoutEffect = typeof window !== 'undefined' ? useLayoutEffect : useEffect
+
 export function useCheckout() {
-  const [plan, setPlan] = useState<PlanId>('annual')
+  /* Monthly is the default (Sep 8, 2026), matching the post-quiz screen.
+     Leaving /checkout annual-first meant the two halves of the product
+     disagreed: a quiz-finisher saw monthly pre-selected and a homepage
+     visitor saw annual, on the same prices. */
+  const [plan, setPlan] = useState<PlanId>('monthly')
   const [loading, setLoading] = useState(false)
+
+  /* Honour ?plan= from the pricing links. Someone who clicked "Choose
+     monthly" used to land here pre-set to annual, because the href carried
+     no plan at all — an explicit choice silently overridden.
+
+     Read in a LAYOUT effect, not a useState initializer: the server
+     prerenders this page, so deriving the initial value from window would
+     be a hydration mismatch. A plain useEffect would paint $12.99 and then
+     swap it, and a price that visibly changes on a checkout page is worse
+     than either. */
+  useIsoLayoutEffect(() => {
+    const p = new URLSearchParams(window.location.search).get('plan')
+    if (p === 'annual' || p === 'monthly') setPlan(p)
+  }, [])
 
   function select(id: PlanId, variant: string) {
     setPlan(id)

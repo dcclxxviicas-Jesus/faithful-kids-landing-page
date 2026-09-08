@@ -77,16 +77,29 @@ export function ToggleTreatment({
         <p className="cv-sub">Everything is included on both. Switch whenever you like.</p>
 
         <Shell plan={plan} loading={loading} go={() => go(tag)} ctaLabel={ctaLabel} saved={saved} monthly={monthly} year={year}>
+          {/* Monthly first, matching the post-quiz screen — it is the default
+              now, and a segmented control whose lit pill sits on the right
+              reads as "you have changed something". pct stays derived. */}
           <div className="cv-seg">
-            <button className={`cv-seg-btn ${annual ? 'on' : ''}`} onClick={() => setPlan('annual', tag)}>
-              Yearly <span className="cv-seg-badge">&minus;{pct}%</span>
-            </button>
             <button className={`cv-seg-btn ${!annual ? 'on' : ''}`} onClick={() => setPlan('monthly', tag)}>
               Monthly
             </button>
+            <button className={`cv-seg-btn ${annual ? 'on' : ''}`} onClick={() => setPlan('annual', tag)}>
+              Yearly <span className="cv-seg-badge">&minus;{pct}%</span>
+            </button>
           </div>
 
-          <div className={`cv-onecard ${annual ? '' : 'alt'}`}>
+          {!annual && (
+            <button className="cv-seg-nudge" onClick={() => setPlan('annual', tag)}>
+              Yearly works out at <strong>${yearMonth}/month</strong> &mdash; you keep{' '}
+              <strong>${saved}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
+            </button>
+          )}
+
+          {/* No .alt variant: the card shows the plan you have picked, so it
+              should read as a good choice either way. Yearly keeps its own
+              signals — the badge, the trial line and the savings. */}
+          <div className="cv-onecard">
             <div className="cv-onecard-price">
               {annual && <span className="cv-onecard-was">${monthly.toFixed(2)}</span>}
               <span className="cv-onecard-amt">${annual ? yearMonth : monthly.toFixed(2)}</span>
@@ -105,10 +118,18 @@ export function ToggleTreatment({
                   <li><span className="cv-tick">{'✓'}</span>That is about <strong>{monthsFree} months free</strong></li>
                 </>
               ) : (
+                /* Same three lines as the post-quiz screen, for the same
+                   reason: monthly is the default here too now, so these are
+                   the first things most people read about the product and
+                   they should say what it IS. Every figure is ground truth —
+                   check-counts.py validates "300+" (310 real; 400+ is
+                   retired and fails), and "about two minutes" is ffprobe
+                   across all 200 videos (1:28-3:37, median 2:07).
+                   The recurring-billing disclosure below still stands. */
                 <>
-                  <li><span className="cv-tick">{'✓'}</span>Cancel any time</li>
-                  <li><span className="cv-dash">&ndash;</span>No free trial on monthly</li>
-                  <li><span className="cv-dash">&ndash;</span>${saved} more over a year</li>
+                  <li><span className="cv-tick">{'✓'}</span>300+ Bible story lessons, Genesis to Revelation</li>
+                  <li><span className="cv-tick">{'✓'}</span>Every lesson about two minutes, with a quiz and a reflection</li>
+                  <li><span className="cv-tick">{'✓'}</span>No ads, no algorithm, ever</li>
                 </>
               )}
             </ul>

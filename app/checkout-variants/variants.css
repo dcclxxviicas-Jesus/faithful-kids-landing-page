@@ -292,6 +292,29 @@
   transition: background 0.18s, color 0.18s, box-shadow 0.18s;
 }
 .cv-seg-btn.on { background: #fff; color: #1e293b; box-shadow: 0 1px 3px rgba(0,0,0,0.10), 0 3px 8px rgba(0,0,0,0.05); }
+/* The annual saving, shown only while Monthly is selected.
+   With monthly as the default, the -38% badge on the Yearly pill was the
+   ONLY discount signal anyone saw unless they tapped the toggle — and 18 of
+   27 people never tapped it. This says the actual monthly-equivalent price
+   and the actual saving, at the point where the plan is chosen, and it is
+   itself the switch. Numbers derived from ANNUAL/MONTHLY so a reprice
+   cannot leave a stale figure here. */
+.cv-seg-nudge {
+  display: block; width: 100%; margin: -8px 0 16px; padding: 10px 12px;
+  background: #f0fdf4; border: 1px solid #dcfce7; cursor: pointer;
+  font-family: inherit;
+  font-size: 0.88rem; font-weight: 700; color: #15803d;
+  border-radius: 12px; text-align: center; line-height: 1.4;
+  transition: background 0.15s, border-color 0.15s;
+}
+/* Tinted by default rather than on hover: it exists precisely because 18 of
+   27 people never engaged with the toggle at all, and an invisible-until-
+   hovered nudge would reach exactly the people who were already going to
+   look. Touch has no hover state either. */
+.cv-seg-nudge:hover { background: #dcfce7; border-color: #86efac; }
+.cv-seg-nudge strong { font-weight: 800; }
+.cv-seg-nudge .cv-seg-nudge-go { white-space: nowrap; }
+
 .cv-seg-badge {
   font-size: 0.68rem; font-weight: 800; letter-spacing: 0.02em;
   background: #16a34a; color: #fff; padding: 3px 7px; border-radius: 20px;

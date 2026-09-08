@@ -240,7 +240,7 @@ export default function Homeschool() {
                 <li>Up to 5 kid profiles</li>
                 <li>Quiz and reflection after every lesson</li>
               </ul>
-              <a href="/checkout" className="btn-primary plan-cta">Choose annual</a>
+              <a href="/checkout?plan=annual" className="btn-primary plan-cta">Choose annual</a>
               <p className="plan-fine">Then $97/year. Cancel anytime.</p>
             </div>
 
@@ -254,7 +254,7 @@ export default function Homeschool() {
                 <li>Quiz and reflection after every lesson</li>
                 <li>No trial on monthly</li>
               </ul>
-              <a href="/checkout" className="btn-secondary plan-cta">Choose monthly</a>
+              <a href="/checkout?plan=monthly" className="btn-secondary plan-cta">Choose monthly</a>
               <p className="plan-fine">Cancel anytime.</p>
             </div>
           </div>

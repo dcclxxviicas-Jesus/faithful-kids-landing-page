@@ -1,7 +1,6 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
-import { useTimer } from '../use-timer'
 import posthog from 'posthog-js'
 import { VideoTile } from '../components/VideoTile'
 import { STORIES } from '../components/stories'
@@ -23,8 +22,11 @@ function distinctIdSafe(): string | undefined {
    be believable, and get the tap.
 
    Removed from all three, because none of it is true:
-   - "908 families taking this quiz right now" (144 people started it in 90 days)
-   - "Your plan is reserved for 09:57" — nothing is reserved, and it ran twice
+   - "780-980 families taking this quiz right now" — the figure was
+     Math.random(); 144 people started the quiz in 90 days. Deleted Sep 8 2026
+     (it had survived the first pass and was still rendering).
+   - "Your plan is reserved for 09:57" — nothing is reserved and the countdown
+     restarts on reload. Deleted Sep 8 2026, same pass.
    - "Built-in daily limits ... when time's up, it pauses gently" — there is no
      screen-time feature in the app, and this was shown precisely to parents
      who said too much screen time was their problem
@@ -96,7 +98,18 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
         </button>
       </div>
 
-      <div className={`cv-onecard ${annual ? '' : 'alt'}`}>
+      {!annual && (
+        <button className="cv-seg-nudge" onClick={() => choose('annual')}>
+          Yearly works out at <strong>${ANNUAL_MO}/month</strong> &mdash; you keep{' '}
+          <strong>${SAVED}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
+        </button>
+      )}
+
+      {/* No .alt variant: with monthly as the default, the plain white card
+          made the option almost everyone lands on look like the lesser one.
+          The card shows the plan you have picked; Yearly keeps the badge,
+          the trial line and the savings to do the upselling. */}
+      <div className="cv-onecard">
         <div className="cv-onecard-price">
           {annual && <span className="cv-onecard-was">${MONTHLY}</span>}
           <span className="cv-onecard-amt">${annual ? ANNUAL_MO : MONTHLY}</span>
@@ -209,24 +222,6 @@ export { VideoTile }
 /* ── Social proof and urgency ──────────────────────────────────────────── */
 
 /** Live-ish count of families in the quiz. */
-export function LiveCount() {
-  const [n, setN] = useState<number | null>(null)
-  // Client-only so the server and client markup cannot disagree.
-  useEffect(() => { setN(Math.floor(780 + Math.random() * 200)) }, [])
-  if (n === null) return null
-  return <div className="qv-live">{'\u{1F525}'} {n} families taking this quiz right now</div>
-}
-
-export function ReservedTimer() {
-  const { minutes, seconds } = useTimer()
-  return (
-    <div className="qv-timer">
-      Your plan is reserved for{' '}
-      <strong>{String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}</strong>
-    </div>
-  )
-}
-
 /** Counts verified against check-counts.py: 310 lessons, 200 story quizzes, 31 series. */
 export function Stats() {
   return (

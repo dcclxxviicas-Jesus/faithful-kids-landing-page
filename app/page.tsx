@@ -309,7 +309,7 @@ export default function Home() {
               <li>Up to 5 kid profiles</li>
               <li>Quiz and reflection after every story</li>
             </ul>
-            <a href="/checkout" className="btn-primary plan-cta" onClick={() => handlePricingClick('annual', '97.00')}>
+            <a href="/checkout?plan=annual" className="btn-primary plan-cta" onClick={() => handlePricingClick('annual', '97.00')}>
               Choose annual
             </a>
             <p className="plan-fine">Then $97/year. Cancel anytime.</p>
@@ -325,7 +325,7 @@ export default function Home() {
               <li>Quiz and reflection after every story</li>
               <li>No trial on monthly</li>
             </ul>
-            <a href="/checkout" className="btn-secondary plan-cta" onClick={() => handlePricingClick('monthly', '12.99')}>
+            <a href="/checkout?plan=monthly" className="btn-secondary plan-cta" onClick={() => handlePricingClick('monthly', '12.99')}>
               Choose monthly
             </a>
             <p className="plan-fine">Cancel anytime.</p>

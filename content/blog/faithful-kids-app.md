@@ -9,7 +9,7 @@ datePublished: "2026-09-08"
 
 The Faithful Kids app is a Bible video learning app for kids ages 5-15, now on the App Store for iPhone and iPad. It holds 300+ short Bible story videos in order from Genesis to Revelation, each followed by a comprehension quiz and a reflection — so kids don't just watch the Bible, they actually learn it. It carries Apple's **Made for Kids** badge, shows no ads ever, and starts with a free 3-day trial.
 
-**[Download Faithful Kids on the App Store →](https://apps.apple.com/app/id6761875106)**
+<a href="https://apps.apple.com/app/id6761875106" class="appstore-badge" aria-label="Download Faithful Kids on the App Store"><img src="/app-store-badge.svg" alt="Download on the App Store" height="52" /></a>
 
 ## What's Inside the App
 
@@ -53,7 +53,7 @@ Not sure yet? You can feel exactly what the app is like without installing anyth
 
 Then, when you're ready:
 
-**[Download Faithful Kids on the App Store →](https://apps.apple.com/app/id6761875106)**
+<a href="https://apps.apple.com/app/id6761875106" class="appstore-badge" aria-label="Download Faithful Kids on the App Store"><img src="/app-store-badge.svg" alt="Download on the App Store" height="52" /></a>
 
 ## Frequently Asked Questions
 

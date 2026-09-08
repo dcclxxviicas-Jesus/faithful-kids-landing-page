@@ -41,7 +41,15 @@ export const PCT = Math.round((1 - ANNUAL / (MONTHLY * 12)) * 100)
 export type Answers = Record<string, string>
 
 export function useBuy(variant: string, extra: Record<string, unknown> = {}) {
-  const [plan, setPlan] = useState<'annual' | 'monthly'>('annual')
+  /* Monthly is the default (Sep 8, 2026, owner's call from the numbers).
+     Of 27 people who reached this screen, 18 never touched the toggle — they
+     took whatever was pre-selected. Of the 9 who did engage, the final pick
+     was monthly 9 to 4. So when anyone expresses a preference it is monthly
+     better than 2:1, while two thirds were being routed silently into a $97
+     up-front ask. Five checkout sessions opened in eight days, all annual,
+     zero sales; both `too_expensive` cancellations were annual, one of them
+     from a family whose child had watched 17 episodes in three days. */
+  const [plan, setPlan] = useState<'annual' | 'monthly'>('monthly')
   const [loading, setLoading] = useState(false)
   function choose(p: 'annual' | 'monthly') {
     setPlan(p)
@@ -74,12 +82,17 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
   const annual = plan === 'annual'
   return (
     <>
+      {/* Monthly first because it is now the default, and a segmented control
+          whose selected pill sits on the right reads as "you have changed
+          something". The discount badge stays on Yearly — it is the reason to
+          switch, and PCT stays derived from the two prices so a reprice
+          cannot leave a stale number on screen. */}
       <div className="cv-seg">
-        <button className={`cv-seg-btn ${annual ? 'on' : ''}`} onClick={() => choose('annual')}>
-          Yearly <span className="cv-seg-badge">&minus;{PCT}%</span>
-        </button>
         <button className={`cv-seg-btn ${!annual ? 'on' : ''}`} onClick={() => choose('monthly')}>
           Monthly
+        </button>
+        <button className={`cv-seg-btn ${annual ? 'on' : ''}`} onClick={() => choose('annual')}>
+          Yearly <span className="cv-seg-badge">&minus;{PCT}%</span>
         </button>
       </div>
 
@@ -99,9 +112,21 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
               <li><span className="cv-tick">{'✓'}</span><span><strong>${SAVED} cheaper</strong> than 12 monthly payments (${(MONTHLY * 12).toFixed(2)})</span></li>
             </>
           ) : (
+            /* Monthly is the default now, so these are the first three lines
+               most people read about the product — they say what it IS rather
+               than what it lacks. Every figure is ground truth: check-counts.py
+               reports 310 lessons and picks "300+" up from this file the same
+               way it does the homepage's (400+ is retired and fails the
+               check), and "about two minutes" is ffprobe across all 200
+               videos — 1:28 to 3:37, median 2:07. "60 seconds", "90 seconds"
+               and "three minutes" were all live at once and all wrong.
+               Dropping "Cancel any time" is safe ONLY because the fine print
+               under the CTA still carries the recurring-billing disclosure;
+               do not tidy that away too. */
             <>
-              <li><span className="cv-tick">{'✓'}</span>Cancel any time</li>
-              <li><span className="cv-dash">&ndash;</span>No free trial on monthly</li>
+              <li><span className="cv-tick">{'✓'}</span>300+ Bible story lessons, Genesis to Revelation</li>
+              <li><span className="cv-tick">{'✓'}</span>Every lesson about two minutes, with a quiz and a reflection</li>
+              <li><span className="cv-tick">{'✓'}</span>No ads, no algorithm, ever</li>
             </>
           )}
         </ul>

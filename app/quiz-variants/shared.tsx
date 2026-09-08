@@ -53,9 +53,14 @@ export function useBuy(variant: string, extra: Record<string, unknown> = {}) {
      from a family whose child had watched 17 episodes in three days. */
   const [plan, setPlan] = useState<'annual' | 'monthly'>('monthly')
   const [loading, setLoading] = useState(false)
-  function choose(p: 'annual' | 'monthly') {
+  /* `source` separates a pill tap from the nudge under the toggle. Without
+     it the two are indistinguishable, and that is precisely the distinction
+     that decides whether the nudge earns its place: annual share rising
+     after monthly became the default could be the nudge working OR the
+     default failing, and one event cannot tell those apart. */
+  function choose(p: 'annual' | 'monthly', source: 'pill' | 'nudge' = 'pill') {
     setPlan(p)
-    try { posthog.capture('quiz_plan_select', { plan: p, variant, ...extra }) } catch { /* never block */ }
+    try { posthog.capture('quiz_plan_select', { plan: p, source, variant, ...extra }) } catch { /* never block */ }
   }
   async function buy(answers: Answers) {
     setLoading(true)
@@ -76,7 +81,7 @@ export function useBuy(variant: string, extra: Record<string, unknown> = {}) {
 /** The approved /checkout price block, reused so the two pages feel like one product. */
 export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
   plan: 'annual' | 'monthly'
-  choose: (p: 'annual' | 'monthly') => void
+  choose: (p: 'annual' | 'monthly', source?: 'pill' | 'nudge') => void
   loading: boolean
   onBuy: () => void
   ctaRef?: React.Ref<HTMLButtonElement>
@@ -99,7 +104,7 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
       </div>
 
       {!annual && (
-        <button className="cv-seg-nudge" onClick={() => choose('annual')}>
+        <button className="cv-seg-nudge" onClick={() => choose('annual', 'nudge')}>
           Yearly works out at <strong>${ANNUAL_MO}/month</strong> &mdash; you keep{' '}
           <strong>${SAVED}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
         </button>

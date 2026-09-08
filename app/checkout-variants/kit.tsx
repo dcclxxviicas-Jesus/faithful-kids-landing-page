@@ -79,9 +79,12 @@ export function useCheckout() {
     if (p === 'annual' || p === 'monthly') setPlan(p)
   }, [])
 
-  function select(id: PlanId, variant: string) {
+  /* `source` separates a pill tap from the nudge under the toggle — see the
+     matching note in quiz-variants/shared.tsx. Defaulted, so the seven
+     variant pages that call select(id, variant) keep working unchanged. */
+  function select(id: PlanId, variant: string, source: 'pill' | 'nudge' = 'pill') {
     setPlan(id)
-    try { posthog.capture('plan_select', { plan: id, variant }) } catch { /* never block the UI */ }
+    try { posthog.capture('plan_select', { plan: id, source, variant }) } catch { /* never block the UI */ }
   }
 
   async function go(variant: string) {

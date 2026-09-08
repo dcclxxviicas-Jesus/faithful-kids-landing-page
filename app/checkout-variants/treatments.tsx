@@ -90,7 +90,7 @@ export function ToggleTreatment({
           </div>
 
           {!annual && (
-            <button className="cv-seg-nudge" onClick={() => setPlan('annual', tag)}>
+            <button className="cv-seg-nudge" onClick={() => setPlan('annual', tag, 'nudge')}>
               Yearly works out at <strong>${yearMonth}/month</strong> &mdash; you keep{' '}
               <strong>${saved}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
             </button>

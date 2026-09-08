@@ -103,13 +103,6 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
         </button>
       </div>
 
-      {!annual && (
-        <button className="cv-seg-nudge" onClick={() => choose('annual', 'nudge')}>
-          Yearly works out at <strong>${ANNUAL_MO}/month</strong> &mdash; you keep{' '}
-          <strong>${SAVED}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
-        </button>
-      )}
-
       {/* No .alt variant: with monthly as the default, the plain white card
           made the option almost everyone lands on look like the lesser one.
           The card shows the plan you have picked; Yearly keeps the badge,
@@ -150,14 +143,29 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
         </ul>
       </div>
 
-      <button ref={ctaRef} className="cv-cta" onClick={onBuy} disabled={loading}>
-        {loading ? 'Taking you to payment…' : annual ? 'Start my 3 free days' : 'Continue to payment'}
-      </button>
+      {/* Billing terms sit ABOVE the CTA so they are read before the tap,
+          not after it. */}
       <p className="qv-fine">
         {annual
           ? <>$0.00 today. Cancel any time in the first three days and you are charged nothing.</>
           : <>${MONTHLY} today, then every month until you cancel.</>}
       </p>
+
+      {/* The yearly saving, last thing before the button. Moved here from
+          under the toggle: someone reading "$12.99 today, then every month"
+          is at the exact moment the annual maths is worth knowing, and it is
+          the final chance to switch before they commit. Monthly state only,
+          and tapping it IS the switch. */}
+      {!annual && (
+        <button className="cv-seg-nudge" onClick={() => choose('annual', 'nudge')}>
+          Yearly works out at <strong>${ANNUAL_MO}/month</strong> &mdash; you keep{' '}
+          <strong>${SAVED}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
+        </button>
+      )}
+
+      <button ref={ctaRef} className="cv-cta" onClick={onBuy} disabled={loading}>
+        {loading ? 'Taking you to payment…' : annual ? 'Start my 3 free days' : 'Continue to payment'}
+      </button>
     </>
   )
 }

@@ -89,13 +89,6 @@ export function ToggleTreatment({
             </button>
           </div>
 
-          {!annual && (
-            <button className="cv-seg-nudge" onClick={() => setPlan('annual', tag, 'nudge')}>
-              Yearly works out at <strong>${yearMonth}/month</strong> &mdash; you keep{' '}
-              <strong>${saved}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
-            </button>
-          )}
-
           {/* No .alt variant: the card shows the plan you have picked, so it
               should read as a good choice either way. Yearly keeps its own
               signals — the badge, the trial line and the savings. */}
@@ -140,6 +133,16 @@ export function ToggleTreatment({
               ? <>Free until <strong>{trialEndDate()}</strong>, then ${year} for the year unless you cancel.</>
               : <><strong>${monthly.toFixed(2)} today</strong>, then every month until you cancel.</>}
           </p>
+
+          {/* Last thing before the CTA (Shell renders the button straight
+              after children) — see the matching note in
+              quiz-variants/shared.tsx. */}
+          {!annual && (
+            <button className="cv-seg-nudge" onClick={() => setPlan('annual', tag, 'nudge')}>
+              Yearly works out at <strong>${yearMonth}/month</strong> &mdash; you keep{' '}
+              <strong>${saved}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
+            </button>
+          )}
         </Shell>
       </div>
     </div>

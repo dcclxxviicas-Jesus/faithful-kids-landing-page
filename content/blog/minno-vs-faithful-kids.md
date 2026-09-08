@@ -68,6 +68,8 @@ If budget forces a single choice, choose by age and goal: under 6 and mainly fix
 
 Weighing Minno against the other streaming options instead? Our [Minno review](/blog/minno-review) rates the service on its own terms, and [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) compares the three big Christian streaming platforms head-to-head.
 
+Both apps live on the App Store — for ours, the [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside and how the free trial works.
+
 ## Frequently Asked Questions
 
 ### Is Minno or Faithful Kids better overall?

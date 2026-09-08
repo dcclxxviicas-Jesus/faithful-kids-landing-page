@@ -79,8 +79,10 @@ no AI Overview squatting on it.
    run it before every deploy; never hardcode a count it can't verify.
 7. **Never add `aggregateRating` schema from the hero's "4.9/5"** — that's
    marketing copy, not collected ratings; fake review markup draws manual
-   actions. Also: no App Store / Android / native-app claims (browser-only
-   today), no trial-length numbers in CTAs ("Start your free trial" — the
+   actions. Also: **the iOS app IS live** (App Store, Aug 28, 2026, Made for Kids,
+   in-app $8.99/mo / $79.99/yr + 3-day trial — DIFFERENT from web pricing) —
+   iPhone/iPad claims are now true; still NO Android-app claims (web only).
+   No trial-length numbers in CTAs ("Start your free trial" — the
    7-day claim went stale once across 212 CTAs).
 8. **Never bulk-replace prices in blog content.** $9.99/$69.99/$10.99/$7.99
    etc. are COMPETITORS' prices in comparison posts. **Ours are $12.99/mo and
@@ -451,6 +453,20 @@ derived truths for both sets; first pass of its new claim patterns produced
 readings, 30-day challenge's thirty) — patterns are now anchored to our
 artifacts' exact phrasing. Seasonal deadline: linked and recrawled well
 before mid-October.
+
+**Sep 8 — /blog/faithful-kids-app (owner request):** the app's product page.
+iOS app facts verified from the launch record: App Store Aug 28
+(apps.apple.com/app/id6761875106), Made for Kids, IAP $8.99/mo / $79.99/yr +
+3-day trial (app pricing ≠ web pricing — quote each only in its own context).
+Download-intent keywords measured ≈ zero volume, so the page's jobs are the
+brand SERP, AEO (llms.txt Product section now lists the App Store link + the
+page), and conversion — CTA is the App Store download, and the template now
+suppresses the verse CTA + sticky bar on this slug only (isAppPage — the
+experiment's arms are untouched; a /quiz push under a download CTA was two
+asks). Routed to App Reviews hub, 8 inbound links from the app-cluster
+posts, topic-specific hero (first generic-fallback hero had gibberish screen
+text — regenerated with a no-text-on-screen scene before any CDN request
+cached it). Rule 7 updated: iPhone/iPad claims now TRUE; Android still web-only.
 
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.

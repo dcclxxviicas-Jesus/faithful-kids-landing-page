@@ -96,6 +96,8 @@ Choose based on what your tween actually needs right now: structured learning, f
 
 Whatever you pick, the transition away from toddler apps is worth doing deliberately rather than letting Bible time quietly evaporate -- our guide to [Bible App for Kids for older kids](/blog/bible-app-for-kids-for-older-kids) walks through the signs it's time and how to make the switch stick.
 
+Faithful Kids is available for iPhone and iPad — see the [Faithful Kids app](/blog/faithful-kids-app) page for what is inside and how the trial works.
+
 ## Frequently Asked Questions
 
 ### What is the best free Bible app for a tween?

@@ -106,6 +106,8 @@ Torn between the streaming options on this list? [Minno vs Superbook vs Yippee T
 
 Pair this with our free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) — one sheet, ready for the kitchen table or the classroom.
 
+Faithful Kids is on the App Store for iPhone and iPad — the [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside, safety, and pricing.
+
 ## Frequently Asked Questions
 
 ### What is the safest video app for Christian kids?

@@ -225,6 +225,9 @@ export default async function BlogPostPage({ params }: Props) {
   const samplerVideo = samplerPool[
     slug.split('').reduce((a, c) => a + c.charCodeAt(0), 0) % samplerPool.length
   ]
+  // Product pages whose CTA is an external store keep the article clean of
+  // /quiz-pushing chrome (verse CTA + sticky). Arm assignment is untouched.
+  const isAppPage = slug === 'faithful-kids-app'
   const introParts = splitIntro(contentParts.first)
   const firstSplit = splitAfterFirstSection(contentParts.first)
 
@@ -369,7 +372,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
             <EmbedNote slug={post.slug} label={triviaLabel(post.slug, post.title)} />
             {/* Verse CTA sits right after the game — a full 10-question round
                 is the "value first" for trivia pages. */}
-            <VerseCta postSlug={post.slug} />
+            {!isAppPage && <VerseCta postSlug={post.slug} />}
             <div
               className="blog-article-body"
               dangerouslySetInnerHTML={{ __html: introParts.rest }}
@@ -382,7 +385,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
               dangerouslySetInnerHTML={{ __html: firstSplit.a }}
             />
             {/* Verse CTA after the first h2 section — high, but after value. */}
-            <VerseCta postSlug={post.slug} />
+            {!isAppPage && <VerseCta postSlug={post.slug} />}
             {firstSplit.b && (
               <div
                 className="blog-article-body"
@@ -555,7 +558,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
       </section>
 
       {/* STICKY BOTTOM CTA */}
-      <BlogStickyCta postSlug={post.slug} />
+      {!isAppPage && <BlogStickyCta postSlug={post.slug} />}
 
       </main>
 

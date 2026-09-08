@@ -137,6 +137,8 @@ Whether your child is 7 or 15, Faithful Kids meets them where they are. Start yo
 
 For the streaming side of the decision, our [Minno review](/blog/minno-review) and [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) comparison cover the entertainment platforms in depth.
 
+For the full details on our own iOS app — features, pricing, ages — see the [Faithful Kids app](/blog/faithful-kids-app) page.
+
 ## Frequently Asked Questions
 
 ### My child is 6 -- is Faithful Kids too advanced?

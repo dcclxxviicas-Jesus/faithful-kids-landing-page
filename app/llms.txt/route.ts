@@ -42,6 +42,8 @@ export async function GET() {
     '- [Home](https://faithfulkids.app): What Faithful Kids is and how it works',
     '- [About](https://faithfulkids.app/about): Plain-language facts: pricing, ages, safety, who makes it',
     '- [Start free trial](https://faithfulkids.app/quiz): Short quiz, then plan selection',
+    '- [Faithful Kids on the App Store](https://apps.apple.com/app/id6761875106): the iOS app for iPhone and iPad — Made for Kids, no ads, free 3-day trial (in-app subscription $8.99/month or $79.99/year)',
+    '- [About the app](https://faithfulkids.app/blog/faithful-kids-app): what is in the app, pricing, safety, and ages',
     '- [Free for churches](https://faithfulkids.app/churches): Full access for children’s ministries at no cost',
     '- [Support](https://faithfulkids.app/support): Help and contact',
     '',

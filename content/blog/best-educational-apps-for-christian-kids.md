@@ -218,6 +218,8 @@ Many families find that a combination works best — a learning app for daily us
 
 Ready to try the app built specifically for daily Bible learning? [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and see why families love the watch-quiz-reflect format that turns screen time into soul time.
 
+Faithful Kids is on the App Store — see the [Faithful Kids app page](/blog/faithful-kids-app) for the download link, pricing, and Made for Kids details.
+
 ## Frequently Asked Questions
 
 ### Are Christian apps safe for kids in terms of data privacy?

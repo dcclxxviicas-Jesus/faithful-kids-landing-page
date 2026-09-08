@@ -174,6 +174,8 @@ Ready to see the difference between watching and *learning*? Start your free 3-d
 
 ---
 
+Our own [Faithful Kids app](/blog/faithful-kids-app) is a paid subscription with a free 3-day trial — the app page lays out exactly what is inside before you download.
+
 ## Frequently Asked Questions
 
 ### Are free Bible apps safe for kids?

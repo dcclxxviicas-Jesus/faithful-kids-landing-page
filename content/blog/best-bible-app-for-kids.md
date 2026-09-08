@@ -182,6 +182,8 @@ God for Kids is a simple app designed for very young children. It has basic Bibl
 
 For deeper dives on the individual platforms, see our [Minno review](/blog/minno-review) and the three-way [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) comparison.
 
+Faithful Kids itself is now on the App Store — our [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside, pricing, and the Made for Kids safety details.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible app for a 5-year-old?

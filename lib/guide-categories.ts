@@ -180,7 +180,7 @@ export function getGuideCategory(slug: string): string {
   // reviews, not the generic Guides catch-all. FIRST MATCH WINS, so this sits
   // immediately above the -vs- / -review rule it belongs with.
   if (slug.startsWith('where-to-watch') || slug.includes('streaming') || slug.includes('adventures-in-odyssey')) return 'App Reviews'
-  if (slug.includes('-vs-') || slug.includes('best-bible-app') || slug.includes('free-bible-apps') || slug.includes('best-educational') || slug.includes('best-bible-apps') || slug.endsWith('-review')) return 'App Reviews'
+  if (slug === 'faithful-kids-app' || slug.includes('-vs-') || slug.includes('best-bible-app') || slug.includes('free-bible-apps') || slug.includes('best-educational') || slug.includes('best-bible-apps') || slug.endsWith('-review')) return 'App Reviews'
   if (slug.includes('sunday-school') || slug.includes('homeschool') || slug.includes('lesson-plan') || slug.includes('object-lesson') || slug.includes('memory-verse') || slug.includes('bible-study-group') || slug.includes('discussion-questions') || slug.includes('curriculum') || slug.includes('childrens-church') || slug.includes('teaching-the-bible') || slug.includes('teacher-tips')) return 'Teaching'
   if (slug.includes('holy-week') || slug.includes('advent') || slug.includes('thanksgiving') || slug.includes('christmas') || slug.includes('easter') || slug.includes('lent') || slug.includes('new-year') || slug.includes('back-to-school') || slug.includes('summer')) return 'Seasonal'
   if (slug.includes('printable') || slug.includes('coloring')) return 'Printables'

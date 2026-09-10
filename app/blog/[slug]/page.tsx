@@ -39,12 +39,30 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = getPostBySlug(slug)
   if (!post) return { title: 'Not Found' }
 
+  // SERP title. Two deliberate choices, both measured on 2026-09-10 GSC:
+  //
+  // 1. `absolute` drops the root layout's "%s | Faithful Kids" template. That
+  //    suffix costs 16 characters on every one of 533 posts, and Google
+  //    truncates the displayed title near 60 — so 25 of the top 34 pages were
+  //    losing their ending. Google appends the site name itself when it wants
+  //    to, so the suffix was buying little and cutting the hook.
+  // 2. `metaTitle` wins when set, so a post can show short hook-forward words
+  //    in the SERP while keeping a longer <h1> for the reader who clicked.
+  //
+  // The clearest evidence: /blog/bible-trivia-for-kids ranked at position 8.6
+  // for four "...pdf" queries with a 74-char title whose "(PDF)" was cut off,
+  // and converted at 2.6% — while its sibling bible-trivia-for-teens, at a
+  // similar position under the same AI Overview with a 56-char title, ran at
+  // 4.7%. Keep new titles under 60 characters.
+  const serpTitle = post.metaTitle || post.title
+
   return {
-    title: post.title,
+    title: { absolute: serpTitle },
     description: post.metaDescription,
     keywords: post.keywords,
     openGraph: {
-      title: post.title,
+      // Social cards follow the SERP title so the two never disagree.
+      title: serpTitle,
       description: post.metaDescription,
       url: `https://faithfulkids.app/blog/${post.slug}`,
       siteName: 'Faithful Kids',
@@ -58,7 +76,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: 'summary_large_image',
-      title: post.title,
+      title: serpTitle,
       description: post.metaDescription,
       images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`],
     },

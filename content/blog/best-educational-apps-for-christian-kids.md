@@ -1,5 +1,6 @@
 ---
 title: "Best Educational Apps for Christian Kids in 2026"
+metaTitle: "Best Educational Apps for Christian Kids"
 slug: "best-educational-apps-for-christian-kids"
 type: "listicle"
 metaDescription: "Compare the 7 best educational apps for Christian kids in 2026. Features, pricing, age ranges and honest reviews of Faithful Kids, Minno and more."

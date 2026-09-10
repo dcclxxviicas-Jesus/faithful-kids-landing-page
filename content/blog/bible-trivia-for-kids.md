@@ -1,5 +1,6 @@
 ---
 title: "Bible Trivia for Kids: 50 Quiz Questions and Answers (PDF)"
+metaTitle: "Bible Trivia for Kids: 50 Questions & Answers (PDF)"
 slug: "bible-trivia-for-kids"
 type: "listicle"
 metaDescription: "Bible trivia for kids: 50 Bible quiz questions with answers and verse references in easy, medium, and hard rounds — plus a free printable PDF, no sign-up."

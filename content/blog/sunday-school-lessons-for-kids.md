@@ -1,5 +1,6 @@
 ---
 title: "Sunday School Lessons for Kids: 52 Free Lesson Outlines"
+metaTitle: "52 Free Sunday School Lesson Outlines for Kids"
 slug: "sunday-school-lessons-for-kids"
 type: "listicle"
 metaDescription: "A full year of Sunday school lessons for kids -- 52 free weekly outlines from Genesis to Revelation, each with an objective, scripture, and story summary."

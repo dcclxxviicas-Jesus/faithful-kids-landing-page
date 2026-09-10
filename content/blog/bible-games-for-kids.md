@@ -1,5 +1,6 @@
 ---
 title: "Bible Games for Kids: 29 Games by Age (How to Play Each One)"
+metaTitle: "29 Bible Games for Kids, Sorted by Age"
 slug: "bible-games-for-kids"
 type: "listicle"
 metaDescription: "Bible games for kids sorted by age and setting -- 29 Christian games for ages 4-12, Sunday school, outdoor youth groups, and zero-prep nights, with how-tos."

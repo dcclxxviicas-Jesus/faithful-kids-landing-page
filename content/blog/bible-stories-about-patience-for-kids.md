@@ -1,5 +1,6 @@
 ---
 title: "11 Bible Stories About Patience for Kids (Waiting on God)"
+metaTitle: "11 Bible Stories About Patience for Kids"
 slug: "bible-stories-about-patience-for-kids"
 type: "listicle"
 metaDescription: "11 Bible stories about patience for kids. From Abraham waiting for Isaac to Joseph in prison, teach your child to wait on God."

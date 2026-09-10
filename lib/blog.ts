@@ -3,6 +3,13 @@ import path from 'path'
 
 export interface BlogPost {
   title: string
+  // Optional SERP-only title. `title` also renders as the on-page <h1>, and
+  // several H1s are good BECAUSE they are long ("15 Sunday School Lessons
+  // Teens Won't Roll Their Eyes At"). Decoupling lets the <title> be short
+  // and hook-forward for the search result without flattening the page copy.
+  // Set it only where the SERP wants different words from the reader who has
+  // already clicked. Empty string = use `title`.
+  metaTitle: string
   slug: string
   type: string
   series: string
@@ -266,6 +273,7 @@ function readPost(filename: string): BlogPost | null {
 
   return {
     title: (data.title as string) || '',
+    metaTitle: (data.metaTitle as string) || '',
     slug: (data.slug as string) || '',
     type: (data.type as string) || 'episode',
     series: (data.series as string) || '',

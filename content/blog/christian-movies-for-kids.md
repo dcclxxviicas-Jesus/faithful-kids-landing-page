@@ -1,5 +1,6 @@
 ---
 title: "18 Christian Movies for Kids (Family Movie Night Guide)"
+metaTitle: "18 Christian Movies for Kids: Movie Night Guide"
 slug: "christian-movies-for-kids"
 type: "listicle"
 metaDescription: "18 Christian movies for kids by age -- from The Prince of Egypt to Narnia -- with age guidance and a discussion question for after the credits."

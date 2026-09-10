@@ -1,5 +1,6 @@
 ---
 title: "15 Christian Cartoons for Kids Worth Watching in 2026"
+metaTitle: "15 Christian Cartoons for Kids Worth Watching"
 slug: "christian-cartoons-for-kids"
 type: "listicle"
 metaDescription: "The 15 best Christian cartoons for kids -- VeggieTales, Superbook, Owlegories and more -- with age fit and where to watch each one."

@@ -511,7 +511,12 @@ Compounding ~2.4×/month with zero ad spend.
    teacher-intent traffic (trivia/youth-group/sunday-school pages) toward the
    free-for-churches offer instead of only the family trial.
 5. **Pinterest**: keep the 3-step new-post pin flow; fold into growth-engine.
-6. **Don't**: resurrect the CTR/title sprint; write informational posts
+6. **Don't**: resurrect the CTR/title sprint **on the zero-click dead tail —
+   that verdict was about position illusion and stands. It does NOT bind the
+   Sep 10 metaTitle pass (seo_audit): top-26 pages, real impressions, a
+   truncation mechanism (titles >60 chars cutting the exact query token,
+   e.g. "(PDF)"), decoupled via optional `metaTitle` frontmatter so H1s stay
+   untouched**; write informational posts
    without the §2.1–2.3 gates; touch competitor prices; add ratings schema.
 
 ---

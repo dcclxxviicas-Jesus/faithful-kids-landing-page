@@ -27,14 +27,24 @@ export async function generateMetadata(
   const { slug } = await params
   const p = get(slug)
   if (!p) return {}
-  const title = `${p.title} Word Search — Free Printable`
+  // Two puzzles carry "Word Search" in their own title ("Bible Word Search",
+  // "Thanksgiving Word Search"), which produced the live nonsense
+  // "Thanksgiving Word Search Word Search — Free Printable". Strip a trailing
+  // occurrence before appending rather than renaming the puzzles, since
+  // p.title is also the on-page heading where "Bible Word Search" is correct.
+  const base = p.title.replace(/\s*word search\s*$/i, '')
+  const title = `${base} Word Search — Free Printable`
   const desc = `A free printable ${p.title} Bible word search for kids (${p.scripture}). ${p.words.length} words, ${p.size}×${p.size} grid, answer key included. No sign-up.`
   const url = `https://faithfulkids.app/printables/bible-word-search/${p.slug}`
   return {
-    title,
+    // absolute: the root layout appends " | Faithful Kids", 16 of the ~60
+    // characters Google displays. With the suffix, 11 of 12 puzzle titles
+    // were truncated — including the Thanksgiving one, whose term peaks at
+    // 135,000 searches in November.
+    title: { absolute: title },
     description: desc,
     keywords: [
-      `${p.title.toLowerCase()} word search`,
+      `${base.toLowerCase()} word search`,
       'bible word search', 'bible word search printable',
       'free bible word search', 'sunday school word search',
     ],

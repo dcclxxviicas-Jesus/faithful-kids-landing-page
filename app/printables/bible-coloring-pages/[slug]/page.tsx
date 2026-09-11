@@ -34,7 +34,10 @@ export async function generateMetadata(
   const desc = `A free printable ${page.title} coloring page for kids (${page.scripture}). Bold simple outlines, ${page.ages.toLowerCase()}. Print it straight from the page — no sign-up.`
   const url = `https://faithfulkids.app/printables/bible-coloring-pages/${page.slug}`
   return {
-    title,
+    // absolute: the root layout appends " | Faithful Kids", 16 of the ~60
+    // characters Google displays. With the suffix, 22 of the 26 coloring
+    // titles were truncated — every one of them fits without it.
+    title: { absolute: title },
     description: desc,
     keywords: [
       page.keyword,

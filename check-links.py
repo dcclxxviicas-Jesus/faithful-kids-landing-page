@@ -166,6 +166,25 @@ def main():
         for st, u in cdn_broken[:20]:
             print(f"  {st if st else 'NET'}  {u}")
 
+    # Was the build still writing while we scanned? If so, every "broken"
+    # href above is suspect: a page that had not been emitted yet looks
+    # exactly like a page that does not exist.
+    #
+    # This bit twice on 2026-09-11. Three runs during an active rebuild
+    # reported 651, 767 and 792 routes with 3, 15 and 14 "broken" links —
+    # every one of which returned 200 in production. The existing note about
+    # concurrent builds removing files mid-scan was right but only defended
+    # the read; it never questioned the result.
+    routes_after = built_routes()
+    unstable = routes_after != routes
+    if unstable:
+        print(f"\n*** BUILD WAS RUNNING DURING THIS SCAN ***")
+        print(f"    routes went {len(routes)} -> {len(routes_after)} while checking.")
+        print(f"    Every href finding above is unreliable — a page that had not")
+        print(f"    been emitted yet is indistinguishable from one that does not")
+        print(f"    exist. Wait for `npm run build` to finish, then re-run.")
+        sys.exit(2)
+
     total = len(broken) + len(md_broken) + len(cdn_broken)
     print(f"\n{'CLEAN — every link resolves' if total == 0 else f'{total} PROBLEMS'}")
     sys.exit(1 if total else 0)

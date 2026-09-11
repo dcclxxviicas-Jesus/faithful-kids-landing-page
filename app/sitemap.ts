@@ -4,6 +4,7 @@ import { COLORING_PAGES } from '@/lib/coloring-pages'
 import wordSearches from '@/lib/word-searches.json'
 import jesseTree from '@/lib/jesse-tree.json'
 import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
+import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://faithfulkids.app'
@@ -209,5 +210,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  return [...staticPages, ...seriesPages, ...topicPages, ...blogPages]
+  // Seasonal hubs. Only those with real content — an empty hub is thin
+  // content, and MIN_POSTS is enforced in the route too, so a hub omitted
+  // here would 404 if it were listed.
+  const liveHolidays = HOLIDAYS.filter(
+    h => posts.filter(p => h.match.test(p.slug)).length >= MIN_POSTS
+  )
+  const holidayPages: MetadataRoute.Sitemap = [
+    {
+      url: `${baseUrl}/holidays`,
+      lastModified: new Date('2026-09-11'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
+    ...liveHolidays.map(h => ({
+      url: `${baseUrl}/holidays/${h.slug}`,
+      lastModified: new Date('2026-09-11'),
+      changeFrequency: 'monthly' as const,
+      // Seasonal demand is enormous but concentrated: "christmas word search"
+      // runs 14,800/mo on average and 165,000 in December.
+      priority: 0.8,
+    })),
+  ]
+
+  return [...staticPages, ...holidayPages, ...seriesPages, ...topicPages, ...blogPages]
 }

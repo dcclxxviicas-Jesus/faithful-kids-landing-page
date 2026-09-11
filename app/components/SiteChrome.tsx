@@ -88,6 +88,7 @@ export function SiteFooter() {
           <a href="/blog">Bible Guides</a>
           <a href="/bible-trivia">Trivia Game</a>
           <a href="/printables">Printables</a>
+          <a href="/holidays">Holidays</a>
           <a href="/churches">Churches</a>
           <a href="/about">About</a>
           <a href="/support">Support</a>

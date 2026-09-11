@@ -19,6 +19,7 @@ import glob
 import os
 import re
 import sys
+import time
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -115,21 +116,55 @@ def main():
             urls |= {u for u in found
                      if not any(v != u and v.startswith(u) for v in found)}
 
+        # A network failure and a real 404 are NOT the same finding, and this
+        # script used to report both as status 0. This machine has documented
+        # transient DNS failures (see CLAUDE.md), and 24 threads against
+        # CloudFront reliably produced a handful: two consecutive runs on
+        # 2026-09-11 reported 22 then 19 "broken" assets that all returned 200
+        # to a direct curl. A checker that cries wolf gets ignored, and this
+        # project's rule is to trust the checkers over memory — so it has to
+        # earn that. Anything unreachable is retried serially before it counts.
         def head(u):
             try:
                 r = urllib.request.Request(u, method="HEAD")
                 with urllib.request.urlopen(r, timeout=25) as x:
                     return u, x.status
             except Exception as e:
+                # An HTTPError carries a real status; anything else is network.
                 return u, getattr(e, "code", 0)
 
-        with ThreadPoolExecutor(24) as ex:
+        results = {}
+        with ThreadPoolExecutor(16) as ex:
             for u, st in ex.map(head, sorted(urls)):
-                if st != 200:
-                    cdn_broken.append((st, u))
+                results[u] = st
+
+        unreachable = [u for u, st in results.items() if st == 0]
+        if unreachable:
+            print(f"  {len(unreachable)} unreachable on first pass — retrying serially")
+            for attempt in range(3):
+                still = []
+                for u in unreachable:
+                    time.sleep(0.15)
+                    _, st = head(u)
+                    results[u] = st
+                    if st == 0:
+                        still.append(u)
+                unreachable = still
+                if not unreachable:
+                    break
+
+        for u in sorted(urls):
+            if results[u] != 200:
+                cdn_broken.append((results[u], u))
+
+        net = sum(1 for st, _ in cdn_broken if st == 0)
+        http = len(cdn_broken) - net
         print(f"\nCDN assets referenced: {len(urls)}   not returning 200: {len(cdn_broken)}")
+        if net:
+            print(f"  ({http} real HTTP errors, {net} still unreachable after 3 retries —"
+                  f" unreachable is usually this machine's DNS, verify with curl before believing it)")
         for st, u in cdn_broken[:20]:
-            print(f"  {st}  {u}")
+            print(f"  {st if st else 'NET'}  {u}")
 
     total = len(broken) + len(md_broken) + len(cdn_broken)
     print(f"\n{'CLEAN — every link resolves' if total == 0 else f'{total} PROBLEMS'}")

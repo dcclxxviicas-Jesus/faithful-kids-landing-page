@@ -44,6 +44,8 @@ David's psalm covers everything: God's faithfulness to Abraham, the miracles in 
 
 **Talk about it:** What are three things God did for your family this year? What about over your whole lifetime? Make a list together.
 
+More for the season: the [Thanksgiving Bible activities hub](/holidays/thanksgiving) collects everything we have on gratitude and giving thanks.
+
 ## 4. Elijah and the Widow's Flour (1 Kings 17:7-16)
 
 **The Story:** During a severe famine, God sent the prophet Elijah to a widow in Zarephath. She had almost nothing -- just a handful of flour and a little olive oil, enough for one last meal for her and her son. Elijah asked her to make him bread first, promising that God would make sure her flour and oil never ran out.

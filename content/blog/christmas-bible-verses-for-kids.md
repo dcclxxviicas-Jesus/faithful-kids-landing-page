@@ -73,6 +73,8 @@ Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are re
 
 Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day — free, no sign-up.
 
+Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+
 ## Part 3: The Birth -- Bethlehem Verses
 
 The journey, the full guest rooms, and the manger. For a read-aloud version of this whole section, see [the Christmas story for kids](/blog/the-christmas-story-for-kids).

@@ -38,6 +38,8 @@ The single best move is to answer the question yourself before your kids do, and
 
 **Prayer:** God, we come in through the thank-You door. We're glad You're there. Amen.
 
+More for the season: the [Thanksgiving Bible activities hub](/holidays/thanksgiving) collects everything we have on gratitude and giving thanks.
+
 ## Devotion 3: The One Who Came Back
 
 **Verse:** "One of them, when he saw he was healed, came back, praising God in a loud voice." (Luke 17:15)

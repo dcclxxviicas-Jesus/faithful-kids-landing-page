@@ -82,6 +82,8 @@ For the season, we keep a set of free [Christmas coloring pages](/printables/chr
 
 Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar) — 25 short readings from the first promise to the manger, one a night.
 
+For the rest of the season, our [Christmas hub](/holidays/christmas) collects every Advent and nativity resource in one place.
+
 ## Giving Traditions
 
 ### 13. The Giving Tree Gift

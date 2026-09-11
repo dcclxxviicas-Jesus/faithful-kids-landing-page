@@ -54,6 +54,8 @@ There is also a free set of [Christmas coloring pages](/printables/christmas-col
 
 Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree) — hang one a day and walk the whole Bible story to the manger.
 
+Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
+
 ## Week 1 Devotion: Hope (Light One Purple Candle)
 
 **Read:** Isaiah 9:2, 6

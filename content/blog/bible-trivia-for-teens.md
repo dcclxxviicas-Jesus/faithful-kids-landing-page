@@ -143,6 +143,8 @@ Answer: A statue with a head of gold, chest of silver, belly of bronze, legs of 
 
 For a quieter challenge between rounds, the [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) plays in the browser or prints for the table.
 
+Running a holiday youth night? The [Thanksgiving](/holidays/thanksgiving) and [Christmas](/holidays/christmas) hubs collect all our seasonal trivia, verses, and activities.
+
 ## Questions 36-50: Bible Scholar Level
 
 **36. What is the only sin Jesus said will not be forgiven?**

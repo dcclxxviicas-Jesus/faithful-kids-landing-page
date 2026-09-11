@@ -59,6 +59,8 @@ That's what makes this trivia set work in November: every question doubles as a 
 34. What harvest festival, also called the Feast of Weeks, celebrated the firstfruits of the wheat harvest? **Pentecost** (Exodus 34:22)
 35. Ruth fed herself and Naomi by gathering leftover grain in whose field? **Boaz's** (Ruth 2:3)
 
+For the whole season's worth, our [Thanksgiving hub](/holidays/thanksgiving) gathers every gratitude verse list, devotion, and activity in one place.
+
 ## Hard Thanksgiving Bible Trivia (Teens and Adults)
 
 36. What phrase repeats in every single one of Psalm 136's twenty-six verses? **"His love endures forever"** (Psalm 136)

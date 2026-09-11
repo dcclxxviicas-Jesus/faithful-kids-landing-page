@@ -468,6 +468,23 @@ posts, topic-specific hero (first generic-fallback hero had gibberish screen
 text — regenerated with a no-text-on-screen scene before any CDN request
 cached it). Rule 7 updated: iPhone/iPad claims now TRUE; Android still web-only.
 
+**Sep 11 — seasonal hubs linked (seo_audit built them, commit `8118b01`; the
+link treatment is this lane's):** 36 contextual links via `link-holiday-hubs.py`
+— all 6 Thanksgiving posts → /holidays/thanksgiving, 27 Christmas/Advent
+posts → /holidays/christmas, plus hand-written seasonal links from the three
+top-authority posts to both hubs. Calendar order (Nov peak first); Easter/
+back-to-school/halloween hubs run later by extending TARGETS. **Doctrine
+correction, recorded in lib/holidays.ts and echoed here: the "don't chase
+generic holiday demand" rule came from a COLORING-terms scan and is still
+right for coloring — but the faith-specific seasonal demand lives in BIBLE
+VERSES, which that scan never covered ("bible verses about thankfulness"
+peaks 110k in Nov; "thanksgiving bible verses" 165k). Seasonal hubs anchored
+on scripture content are in-bounds; turkey/heart/shamrock angles stay out.**
+Named content gap (seo_audit's find, February deadline): Valentine's /
+Mother's Day / Father's Day verse clusters peak at 301k / 135k / 110k at
+KD 0-ish with 2 / 1 / 0 posts on the site — hubs are MIN_POSTS-gated until
+that content exists; gate-check then build before February.
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

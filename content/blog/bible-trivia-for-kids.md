@@ -84,6 +84,8 @@ Save this round for the end, when the score is close. These questions reach into
 
 Around the holidays, pair a trivia round with our free [Christmas coloring pages](/printables/christmas-coloring-pages) — six nativity scenes to print while you play.
 
+In the holiday season, our [Thanksgiving](/holidays/thanksgiving) and [Christmas](/holidays/christmas) hubs gather every seasonal verse list, devotion, trivia round, and printable in one place.
+
 ## Bonus Round: Animals of the Bible
 
 When the main 50 run out, these themed rounds keep the game going. Animal questions are a favorite with younger kids because they can picture every answer -- and a few of these still catch the adults.

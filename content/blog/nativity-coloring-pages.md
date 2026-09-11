@@ -57,6 +57,8 @@ The central scene: a wooden feeding trough lined with straw, the baby wrapped in
 **9. The Stable Animals (traditional)**
 An ox, a donkey, sheep, and doves in the rafters, all looking toward the manger. This is tradition rather than text, and it's the page toddlers love most. Say so cheerfully and let them color it anyway.
 
+More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
+
 ## The Shepherds (Pages 10-13)
 
 Four pages that work beautifully as a single strip, because the shepherds' scene moves: field, angel, host, town.

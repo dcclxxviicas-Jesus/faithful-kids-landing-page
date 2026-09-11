@@ -94,6 +94,8 @@ Talk about what the wise men's gifts meant. Gold for a king, frankincense for Go
 
 For quiet time afterwards, print the free [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) and let them color while you talk it through.
 
+Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
+
 ## Addressing the Santa Question
 
 This is the question every parent faces. Here are some approaches:

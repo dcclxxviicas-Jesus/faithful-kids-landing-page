@@ -64,6 +64,8 @@ Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are re
 
 Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day — free, no sign-up.
 
+Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+
 ## Thank-You-for-Jesus Prayers Kids Can Say On Their Own
 
 These are short enough for a child to memorize and pray solo -- at bedtime, at the nativity scene, or in the car. For year-round versions, see our collection of [bedtime prayers for kids](/blog/bedtime-prayers-for-kids).

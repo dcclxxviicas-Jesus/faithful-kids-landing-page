@@ -104,6 +104,8 @@ Pair the story with our free [baby Jesus in the manger coloring page](/printable
 
 For quiet time afterwards, print the free [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) and let them color while you talk it through.
 
+Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
+
 ## Frequently Asked Questions
 
 ### What is the Christmas story in simple words?

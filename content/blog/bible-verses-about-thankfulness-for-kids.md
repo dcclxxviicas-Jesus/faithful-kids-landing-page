@@ -42,6 +42,8 @@ Paul ends this verse with three simple words: "And be thankful." It's almost lik
 
 For quiet time afterwards, print the free [the cross coloring page](/printables/bible-coloring-pages/the-cross) and let them color while you talk it through.
 
+For the whole season's worth, our [Thanksgiving hub](/holidays/thanksgiving) gathers every gratitude verse list, devotion, and activity in one place.
+
 ## 4. Psalm 107:1
 
 **"Give thanks to the Lord, for he is good; his love endures forever."**

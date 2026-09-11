@@ -58,6 +58,8 @@ There is also a free set of [Christmas coloring pages](/printables/christmas-col
 
 For a daily Advent tradition, our free [Jesse Tree printable set](/printables/jesse-tree) pairs 25 color-in ornaments with the Bible reading each symbol stands for.
 
+Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
+
 ## Hopeful Verses (For New Seasons and Fresh Starts)
 
 These fit graduates, new households, career changers, families who moved, and anyone standing at the edge of something new -- including cards you send around New Year's.

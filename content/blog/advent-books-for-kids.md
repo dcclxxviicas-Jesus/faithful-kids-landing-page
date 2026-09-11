@@ -85,6 +85,8 @@ There is a free [Christmas word search](/printables/bible-word-search/christmas)
 
 Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree) — hang one a day and walk the whole Bible story to the manger.
 
+Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+
 ## Frequently Asked Questions
 
 ### What is the best Advent book for kids overall?

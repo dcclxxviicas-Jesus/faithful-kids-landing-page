@@ -62,6 +62,8 @@ A quick note on scheduling: December usually gives you four Sundays before Chris
 
 If small hands need something to do while you read, the free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) is made for exactly that.
 
+Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
+
 ## Lesson 3: The Journey to Bethlehem (Mary and Joseph Travel)
 
 **Scripture:** Luke 2:1-7

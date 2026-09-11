@@ -144,6 +144,8 @@ There is also a free set of [Christmas coloring pages](/printables/christmas-col
 
 New this year: our free [printable Jesse Tree](/printables/jesse-tree) — 25 ornaments to color, one for each day of Advent, each with its daily Scripture reading.
 
+More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
+
 ## Week 4: The Celebration
 
 ### Day 20 — Angels Appear to Shepherds

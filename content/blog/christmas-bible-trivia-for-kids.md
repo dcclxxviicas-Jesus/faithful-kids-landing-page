@@ -135,6 +135,8 @@ Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are re
 
 Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar) — 25 short readings from the first promise to the manger, one a night.
 
+Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
+
 ## Hard Christmas Trivia (Ages 12+)
 
 This is the round where the Bible corrects the Christmas card. Read the verses -- several answers surprise almost everyone.

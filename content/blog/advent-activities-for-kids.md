@@ -72,6 +72,8 @@ Take the magi out of your nativity set and start them across the house; move the
 ### 16. Bake Birthday Preparations (45 minutes, weekend)
 Bake and freeze a birthday cake for Jesus now, to be frosted and served Christmas Day. While baking, talk about how everything in December is really party prep for the world's most important birthday.
 
+Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+
 ## Week 4 (Love): The Birth, the Shepherds, and the Gift
 
 The final stretch: the birth itself, shepherds running, angels singing. Theme: Jesus is God's love in person -- "For God so loved the world that he gave his one and only Son" (John 3:16).

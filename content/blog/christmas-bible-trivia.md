@@ -72,6 +72,8 @@ Names, places, and reasons -- solid ground for teens and anyone who grew up in c
 
 Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day — free, no sign-up.
 
+Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
+
 ## Hard Round (Questions 41-60)
 
 This is where the Bible starts correcting the Christmas card. Have the verses ready.

@@ -54,6 +54,8 @@ We drew a printable [nativity coloring page](/printables/bible-coloring-pages/na
 
 There is a free [Jesse Tree set](/printables/jesse-tree) on our site too: 25 printable ornaments plus the daily readings, no sign-up.
 
+Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+
 ## Acts of Kindness (23-34)
 
 Cost: free. Age fit: 4+, with the best results at 6-11. The rule that makes these work: the act has to be finished before bedtime, and you debrief at dinner. "How did it go? What did they say?"

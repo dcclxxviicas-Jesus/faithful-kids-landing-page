@@ -69,6 +69,8 @@ These go a level deeper than "thanks for the food." Use one after the meal, duri
 ### 14. A Grateful-in-Everything Prayer
 "Father, Your Word says, 'Give thanks in all circumstances' (1 Thessalonians 5:18) -- not just the comfortable ones. Teach our family to be thankful on ordinary Tuesdays, in waiting rooms, and in traffic, not only at Thanksgiving tables. Make gratitude our habit, not our holiday. Amen."
 
+For the whole season's worth, our [Thanksgiving hub](/holidays/thanksgiving) gathers every gratitude verse list, devotion, and activity in one place.
+
 ## Prayers for Hard Years
 
 Some years, Thanksgiving arrives with an empty chair, a lost job, a scary diagnosis, or a family fracture. Pretending everything is fine isn't faith -- the Psalms are full of honest prayers, and yours can be too. These prayers name the hard thing without losing hold of hope. Kids, by the way, are relieved when adults pray this way. It teaches them that God can handle the truth.

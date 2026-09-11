@@ -124,6 +124,8 @@ A craft teaches when it's tied to one specific scene and one specific truth -- n
 
 For the season's readings, print the free [Advent Bible calendar](/printables/advent-bible-calendar): 25 days of Scripture, prophecy to nativity, on one sheet.
 
+More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
+
 ## Crafts 11-15: The Response
 
 ### 11. Shepherd's Staff Candy Cane Craft

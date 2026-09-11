@@ -101,6 +101,8 @@ Use three fixed zones and never move set pieces mid-show: manger scene at center
 
 If small hands need something to do while you read, the free [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) is made for exactly that.
 
+More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
+
 ## A Complete 15-Minute Pageant Outline (Two-Rehearsal Version)
 
 Here is a full script outline you can adapt freely. It needs 4 narrators (reading, not memorizing), 6-10 costumed actors, and any number of angels and sheep. Total run time: about 15 minutes.

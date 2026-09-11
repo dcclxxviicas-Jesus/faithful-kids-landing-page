@@ -45,6 +45,8 @@ The story of The Wise Men teaches children important lessons about hope, faith, 
 
 > *"We saw his star when it rose and have come to worship him."* — Matthew 2:2
 
+Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+
 ## Parent's Guide: Why This Story Matters
 
 The birth of Jesus is the story your child will hear every Christmas for the rest of their life. Giving them the real version now, not just the cultural one, matters. Jesus was not born in a palace. He was born in the humblest place imaginable, to an ordinary young woman, announced first to shepherds (the lowest status people in society). Every detail of this story says: God is for everyone, especially the overlooked.

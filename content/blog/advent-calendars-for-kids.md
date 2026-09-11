@@ -99,6 +99,8 @@ Four things separate the calendars families finish from the ones abandoned by De
 
 For a daily Advent tradition, our free [Jesse Tree printable set](/printables/jesse-tree) pairs 25 color-in ornaments with the Bible reading each symbol stands for.
 
+Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
+
 ## Do You Need a Christian Advent Calendar to Have a Christian Advent?
 
 No. A $6 chocolate calendar plus one verse read aloud is a completely legitimate Advent tradition, and it beats an elaborate devotional calendar that stops on December 9.

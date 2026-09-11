@@ -84,6 +84,8 @@ Yes -- and they usually land better than a white elephant swap, because they tur
 ### 20. Gift for Jesus Box
 **Ages 4-11. Materials: a wrapped box with a slot, paper strips. Prep: 10 minutes.** Each kid writes or draws one thing they will give Jesus this year -- patience with a sibling, a shared toy, a kind word -- and posts it in the box. Read a handful aloud anonymously. **Lesson tie-in:** Romans 12:1, offering ourselves as a gift. This is the quiet game that ends a loud party well.
 
+Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+
 ## How Do You Run a Christmas Class That Isn't Chaos?
 
 Anchor the morning with one story, one game, and one thing kids take home. December Sundays run short and loud, so pick a single nativity scene, play one game that acts it out, and send home something physical -- a craft, a blessing bag, a card. Our [Christmas Sunday school lessons](/blog/christmas-sunday-school-lessons) give you the teaching half in six ready plans, and the [Christmas crafts for kids](/blog/christmas-crafts-for-kids-bible) list covers the take-home. If your class is a mixed bag of visitors, start with the story itself: our [Christmas Bible stories for kids](/blog/christmas-bible-stories-for-kids) versions are short enough to read aloud before a game.

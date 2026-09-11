@@ -104,6 +104,8 @@ Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are re
 
 Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar) — 25 short readings from the first promise to the manger, one a night.
 
+Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+
 ## Weeks 3-4: The Birth (Devotions 9-12)
 
 ### Devotion 9: No Room

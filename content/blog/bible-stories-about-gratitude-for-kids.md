@@ -30,6 +30,8 @@ Psalm 136 repeats the phrase "His love endures forever" 26 times. David was not 
 
 **Talk about it:** "David wrote songs to thank God. What is one thing you could thank God for right now?"
 
+Pair a story with the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving) — gratitude vocabulary from Psalm 100, printable on one sheet.
+
 ## 3. Hannah's Prayer of Thanks (1 Samuel 2:1-10)
 
 Hannah had prayed for years to have a child. When God finally answered her prayer and she gave birth to Samuel, she did not keep the blessing to herself. She dedicated Samuel to God's service at the temple, and she prayed one of the most joyful prayers in the Bible: "My heart rejoices in the Lord; in the Lord my horn is lifted high" (1 Samuel 2:1).

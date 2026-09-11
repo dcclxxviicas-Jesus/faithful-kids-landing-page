@@ -19,7 +19,7 @@ import printableVideos from '@/lib/printable-videos.json'
 export const metadata: Metadata = {
   title: 'Bible Word Search — 11 Free Puzzles',
   description:
-    'Eleven free Bible word search puzzles for kids — play online or print. Noah, Christmas, Easter, David and Goliath, the armor of God and more. Answer keys included.',
+    'Twelve free Bible word search puzzles for kids — play online or print. Noah, Christmas, Thanksgiving, Easter, David and Goliath and more. Answer keys included.',
   keywords: [
     'bible word search', 'bible word search puzzles', 'bible word search printable',
     'free bible word search', 'bible word search for kids', 'sunday school word search',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Bible Word Search — 10 Free Printables',
     description:
-      'Eleven free Bible word search puzzles for kids — play online or print, with answer keys. No sign-up.',
+      'Twelve free Bible word search puzzles for kids — play online or print, with answer keys. No sign-up.',
     url: 'https://faithfulkids.app/printables/bible-word-search',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -73,7 +73,7 @@ export default function WordSearchHub() {
         <span className="section-label">Free · No Sign-Up</span>
         <h1>Bible Word Search Puzzles</h1>
         <p className="blog-hero-sub">
-          Eleven puzzles — one covering the whole Bible, playable right here, and ten more built from a
+          Twelve puzzles — one covering the whole Bible, playable right here, and eleven more built from a
           single story each. All free to print, with the answer key on every page.
         </p>
       </section>

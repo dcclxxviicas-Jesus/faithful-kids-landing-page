@@ -78,7 +78,9 @@ export const HOLIDAYS: Holiday[] = [
     intro:
       'Thanksgiving is the easiest holiday of the year to point back at scripture, because gratitude is already the whole subject. These are the Bible verses, stories, prayers and trivia we use for it — written for children, free, and short enough to actually get through at a table full of relatives.',
     match: /thanksgiving|thankful|gratitude|grateful/,
-    printables: [],
+    printables: [
+      { href: '/printables/bible-word-search/thanksgiving', label: 'Thanksgiving word search (Psalm 100 vocabulary)' },
+    ],
   },
   {
     slug: 'easter',

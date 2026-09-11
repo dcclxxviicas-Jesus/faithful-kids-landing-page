@@ -46,9 +46,9 @@ const PACKS = [
   {
     href: '/printables/bible-word-search',
     emoji: '🔍',
-    title: 'Bible Word Search — 10 Puzzles',
+    title: 'Bible Word Search — 12 Puzzles',
     description:
-      'Ten printable Bible word searches, each built from one story or theme — Noah, Christmas, Easter, David and Goliath, the armor of God. Twelve words hidden in all eight directions, answer key on the page.',
+      'Twelve printable Bible word searches — the whole-Bible classic plus story and season puzzles: Noah, Christmas, Thanksgiving, Easter, David and Goliath, the armor of God. Answer keys on the page.',
     details: 'Ages 6+ · Answer keys included · No email, no sign-up',
   },
   {

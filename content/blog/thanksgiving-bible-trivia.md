@@ -36,6 +36,8 @@ That's what makes this trivia set work in November: every question doubles as a 
 14. What did the shepherds do on their way home after seeing baby Jesus? **They returned glorifying and praising God** (Luke 2:20)
 15. At which feast did the Israelites camp out in little shelters for a week to remember how God took care of them? **The Feast of Tabernacles, or Booths** (Leviticus 23:42-43)
 
+For a quieter round, print the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving) — twelve Psalm-100 gratitude words, answer key included.
+
 ## Medium Thanksgiving Bible Trivia (Ages 9-12)
 
 16. The one leper who came back to thank Jesus was a foreigner. Where was he from? **Samaria -- he was a Samaritan** (Luke 17:16)

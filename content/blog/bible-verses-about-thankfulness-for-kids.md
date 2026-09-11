@@ -32,6 +32,8 @@ This verse paints a picture of coming to God with a thankful heart. Imagine walk
 
 **How to talk about it with kids:** Before prayer time, encourage your kids to start by saying "thank you" to God before asking for anything. This simple habit builds a grateful heart over time.
 
+Turn the theme into an activity with the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving) — twelve gratitude words hidden in the grid.
+
 ## 3. Colossians 3:15
 
 **"Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful."**

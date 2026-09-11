@@ -43,6 +43,13 @@ PUZZLES = [
      ["WATER", "WINE", "BLIND", "LAZARUS", "STORM", "LOAVES", "FISHES", "HEALED", "WALKED", "FAITH", "LEPER", "MIRACLE"]),
     ("daniel", "Daniel in the Lions' Den", "Daniel 6", "Ages 6+",
      ["DANIEL", "LIONS", "DEN", "PRAYER", "DARIUS", "ANGEL", "WINDOW", "THREE", "TRUST", "STONE", "KING", "SAFE"]),
+    # Thanksgiving: the TERM is generic (135,000 searches in November, KD 0)
+    # but the puzzle is gratitude-and-harvest SCRIPTURE vocabulary — same
+    # pattern that makes the Christmas puzzle legal under the no-generic-
+    # holiday rule (nativity vocab under a generic term). No turkeys.
+    ("thanksgiving", "Thanksgiving Word Search", "Psalm 100", "Ages 7+",
+     ["THANKS", "PRAISE", "HARVEST", "BLESSING", "GRATEFUL", "PSALM",
+      "REJOICE", "GOODNESS", "MERCY", "FAITHFUL", "GLORY", "JOYFUL"]),
     ("armor-of-god", "The Armor of God", "Ephesians 6:10-18", "Ages 7+",
      ["HELMET", "SHIELD", "SWORD", "BELT", "TRUTH", "FAITH", "SPIRIT", "PEACE", "ARMOR", "STAND", "STRONG", "PRAYER"]),
 ]

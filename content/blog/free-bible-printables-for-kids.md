@@ -99,7 +99,7 @@ Printables also pair naturally with screen-based learning instead of competing w
 
 Short on prep time? Our [Bible coloring pages](/printables/bible-coloring-pages) are one click from the page to the printer.
 
-We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
+We have twelve [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
 
 ## Frequently Asked Questions
 

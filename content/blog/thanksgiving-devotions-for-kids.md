@@ -28,6 +28,8 @@ The single best move is to answer the question yourself before your kids do, and
 
 **Prayer:** God, teach us to say thank You even on the days that aren't easy. Amen.
 
+Add five quiet minutes with the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving) — gratitude and harvest words straight from Scripture.
+
 ## Devotion 2: The Door Into God's Presence
 
 **Verse:** "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name." (Psalm 100:4)

@@ -53,6 +53,8 @@ Can a young child lead the Thanksgiving prayer? Absolutely -- and letting them d
 ### 10. The One-Word Prayer
 Go around the table and have every person -- kids first -- say one word they're thankful for. Then a parent closes: "God, You heard every word. Thank You for all of it. Amen." This one works even with toddlers.
 
+While dinner finishes, the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving) keeps little hands busy with Psalm-100 vocabulary.
+
 ## Gratitude Prayers for Thanksgiving
 
 These go a level deeper than "thanks for the food." Use one after the meal, during dessert, or at a quieter moment in the day.

@@ -31,7 +31,6 @@ export async function POST(req: NextRequest) {
     ...(typeof distinctId === 'string' && distinctId ? { client_reference_id: distinctId.slice(0, 200) } : {}),
     payment_method_types: ['card'],
     allow_promotion_codes: true,
-    phone_number_collection: { enabled: true },
     line_items: [
       {
         price_data: {

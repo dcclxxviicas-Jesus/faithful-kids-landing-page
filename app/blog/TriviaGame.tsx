@@ -122,7 +122,9 @@ export function TriviaGame({
   }
 
   const answer = (gotIt: boolean) => {
-    track('trivia_game_answer', { post: postSlug, index, got_it: gotIt })
+    // `question` added 15 Sep 2026 — see TriviaQuizGame for why index alone
+    // cannot identify a question (replay rounds are shuffled).
+    track('trivia_game_answer', { post: postSlug, index, got_it: gotIt, question: round[index]?.question.slice(0, 160) })
     const newStreak = gotIt ? streak + 1 : 0
     setStreak(newStreak)
     if (newStreak > bestStreak) setBestStreak(newStreak)

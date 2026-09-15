@@ -127,6 +127,11 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
       difficulty,
       index,
       correct,
+      // Question identity, so "which questions do people get wrong most" can
+      // be computed. Before 15 Sep 2026 only the position-in-round was logged,
+      // and rounds are shuffled, so those events cannot identify the question.
+      question: q.q.slice(0, 160),
+      ref: q.ref,
     })
     if (index + 1 >= round.length) {
       // Delay the end screen slightly so the answer feedback lands first

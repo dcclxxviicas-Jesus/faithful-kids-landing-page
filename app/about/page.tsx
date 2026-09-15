@@ -44,7 +44,7 @@ const FAQS = [
   },
   {
     q: 'How much does Faithful Kids cost?',
-    a: 'Faithful Kids costs $12.99 per month, or $97 per year (about $8.08 per month). The annual plan includes a 3-day free trial. Both plans can be cancelled anytime and carry a 30-day money-back guarantee. It is completely free for churches.',
+    a: 'On the web, Faithful Kids costs $12.99 per month, or $97 per year (about $8.08 per month). In the iOS app, the subscription is bought through Apple at $8.99 per month or $79.99 per year. The difference is the platform you buy on, not your region. The annual plan includes a 3-day free trial on both. Both plans can be cancelled anytime and carry a 30-day money-back guarantee. It is completely free for churches.',
   },
   {
     q: 'Which faith-based kids apps offer a free trial?',
@@ -64,7 +64,7 @@ const FAQS = [
   },
   {
     q: 'What devices does Faithful Kids work on?',
-    a: 'Faithful Kids runs in any modern web browser on a phone, tablet, or computer at app.faithfulkids.app. There is nothing to install.',
+    a: 'Faithful Kids runs in any modern web browser on a phone, tablet, or computer at app.faithfulkids.app, and as a native iOS app for iPhone and iPad on the App Store (released August 2026). There is no Android app yet; Android families use the web version.',
   },
   {
     q: 'Who makes Faithful Kids?',

@@ -44,16 +44,16 @@ const TESTIMONIALS = [
 const FAQS = [
   { q: 'What age is this for?', a: 'Our Bible story videos are designed for kids ages 5 and up. Younger kids (5-7) get shorter, simpler retellings with bright visuals. Older kids (8+) get deeper stories with more context and life lessons.' },
   { q: 'Is it really ad-free?', a: 'Yes. Zero ads, ever. No pre-rolls, no banners, no sponsored content. We make money from subscriptions, not from advertising to your children.' },
-  { q: 'How is this different from YouTube Kids?', a: 'YouTube Kids uses an algorithm that serves whatever keeps kids watching. We hand-pick every story and review it for doctrinal accuracy. No rabbit holes, no surprises, no junk content.' },
+  { q: 'How is this different from YouTube Kids?', a: 'YouTube Kids uses an algorithm that serves whatever keeps kids watching. Every story is retold from the Bible text itself, with the scripture reference shown. No rabbit holes, no surprises, no junk content.' },
   { q: 'What makes this different from other Bible apps for kids?', a: 'Most Bible apps for kids are built for the youngest readers, so children tend to outgrow them somewhere around age 7 or 8 and quietly stop opening them. Faithful Kids is made for the years after that. It works through the whole story of Scripture in order rather than a handful of favorite stories, and every lesson ends with a quiz, so you can see what your child actually understood instead of guessing.' },
   { q: 'Is Faithful Kids a Christian app for kids of any denomination?', a: 'Yes. It is a Christian app for kids built around the stories all Christian traditions share, told faithfully to Scripture. The stories are the ones Catholic, Evangelical, and Non-denominational families all teach.' },
   { q: 'Can I set screen time limits?', a: 'Yes. Set daily limits per child. When time is up, the app gently pauses. No more "just one more video" battles.' },
   { q: 'Which denomination is the content for?', a: 'Our core Bible stories (David & Goliath, Noah, the Good Samaritan, the Nativity) are told faithfully to Scripture and resonate across Christian traditions. Catholic, Evangelical, and Non-denominational families all use it.' },
-  { q: 'Is the content doctrinally accurate?', a: 'Every story is reviewed by practicing Christians with theological training. We take doctrinal accuracy seriously. If something is not right, we fix it or remove it.' },
+  { q: 'Is the content doctrinally accurate?', a: 'Every story is retold from the Bible text itself, with the scripture reference on screen so you can check it against the original. We simplify the language for children without changing the meaning, and we stay on the narrative all Christian traditions share. If you find something that is not right, email christian@faithfulkids.app and we fix it.' },
   { q: 'What devices does it work on?', a: 'Any device with a web browser: iPhone, iPad, Android phones and tablets, laptops, and desktops. There is nothing to install — kids sign in at app.faithfulkids.app and watch.' },
   { q: 'What is the refund policy?', a: 'Full 30-day money-back guarantee. If your kids do not love it, we will refund you completely. No questions asked.' },
   { q: 'How often is new content added?', a: 'The library already covers the whole Bible in order: 300+ video lessons across 30+ series, Genesis to Revelation. New series and deep dives are added regularly on top of that.' },
-  { q: 'How are the videos made?', a: 'We use advanced AI video technology to create beautiful, consistent storytelling at a pace no traditional studio could match. Every script is written and reviewed by real Christians for doctrinal accuracy. The technology lets us produce high-quality content fast, which means your kids get new stories every week instead of waiting months between releases.' },
+  { q: 'How are the videos made?', a: 'We use advanced AI video technology to create beautiful, consistent storytelling at a pace no traditional studio could match. Every script is written from the Bible text with its scripture reference, and reviewed by a real person before it goes live. The technology lets us produce high-quality content fast, which means your kids get new stories every week instead of waiting months between releases.' },
   { q: 'Are there quizzes?', a: 'Yes. Every lesson comes with a short quiz so your child can check what they learned. It is not a test. It is a fun way to make sure the story sticks. Parents can see quiz results in the dashboard.' },
 ]
 
@@ -89,7 +89,9 @@ export default function Home() {
           applicationSubCategory: 'Bible study app for children',
           operatingSystem: 'iOS, Web',
           url: 'https://faithfulkids.app',
-          installUrl: 'https://faithfulkids.app/quiz',
+          // installUrl deliberately omitted: /quiz is a funnel, not an install, and
+          // pointing at the App Store is a channel decision (iOS is the lower-margin
+          // tier). The App Store is already linked via Organization.sameAs.
           description:
             'A Bible app for kids ages 5-15. 300+ short Bible story videos from Genesis to Revelation, each followed by a quiz and a reflection, with a parent dashboard and multiple kid profiles. No ads.',
           inLanguage: 'en',
@@ -222,7 +224,7 @@ export default function Home() {
             <h2>Faithful. Short. Real.</h2>
             {/* "60-90 seconds" was false — ffprobe on all 200 lessons gives
                 1:28-3:37, median 2:07. */}
-            <p>About two minutes a story, reviewed for doctrinal accuracy before it goes live.</p>
+            <p>About two minutes a story, retold from Scripture with the reference on screen.</p>
           </div>
           <div className="promise">
             <h2>No Ads. Ever.</h2>

@@ -54,7 +54,7 @@ const FAQS = [
   },
   {
     q: 'Is it doctrinally safe for our family?',
-    a: 'Every story is reviewed for doctrinal accuracy by real people before it goes live, and it is built around the narrative all Christian traditions share. You choose a Catholic, Evangelical or Non-denominational path at setup.',
+    a: 'Every story is retold from the Bible text with the scripture reference shown, and it stays on the narrative all Christian traditions share rather than taking denominational positions. The stories are the same for every family; there is no separate Catholic or Protestant edition.',
   },
 ]
 

@@ -91,7 +91,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             sameAs: [
               'https://apps.apple.com/app/id6761875106',
               'https://www.youtube.com/@FaithfulKidsApp',
+              'https://www.pinterest.com/faithfulkidsapp/',
             ],
+            // Catterfly LLC is the holding company Christian Alexander owns to
+            // publish the app on the App Store (confirmed by him, 15 Sep 2026).
+            // Naming it ties Apple's developer record to this site.
+            parentOrganization: { '@type': 'Organization', name: 'Catterfly LLC' },
             description: 'Bible story videos for kids ages 5-15. 300+ lessons narrated by Jesus with quizzes and reflections.',
             foundingDate: '2026',
             contactPoint: { '@type': 'ContactPoint', email: 'team@faithfulkids.app', contactType: 'customer service' },

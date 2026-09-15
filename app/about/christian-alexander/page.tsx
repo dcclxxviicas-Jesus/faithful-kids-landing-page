@@ -31,7 +31,7 @@ import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 const PERSON_ID = 'https://faithfulkids.app/about/christian-alexander#person'
 
 const BIO =
-  'Christian Alexander writes about faith formation and screens in family life. He is the founder of Faithful Kids, a Bible video app for kids ages 5 to 15 built for the 10-minute version of family devotions: one short story from Genesis to Revelation, one quiz, and one reflection question written to start a conversation at the table rather than end one on a screen.'
+  'Christian Alexander is the founder of Faithful Kids, a Bible video app for children ages 5 to 15. A Christian father, he built it for his own kids: more than 300 short lessons running in order from Genesis to Revelation, each followed by a quiz and a reflection question. He writes about faith formation and screens in family life for The Christian Post, and answers the support email himself at christian@faithfulkids.app. Faithful Kids is published by Catterfly LLC, the company he owns.'
 
 export const metadata: Metadata = {
   title: 'Christian Alexander — Founder of Faithful Kids',
@@ -60,8 +60,12 @@ export default function AuthorPage() {
       url: 'https://faithfulkids.app/about/christian-alexander',
       jobTitle: 'Founder',
       description: BIO,
+      email: 'christian@faithfulkids.app',
+      // Same @id as the site-wide Organization node, so this resolves to the
+      // one Faithful Kids entity rather than a second copy of it.
       worksFor: {
         '@type': 'Organization',
+        '@id': 'https://faithfulkids.app/#organization',
         name: 'Faithful Kids',
         url: 'https://faithfulkids.app',
       },

@@ -175,4 +175,4 @@ Repetition, rhythm, and fun are your best tools. Write the verse on a card and r
 
 ### How is Faithful Kids different from other Bible apps for children?
 
-Faithful Kids uses short, animated video lessons narrated by a friendly Jesus character, followed by interactive quizzes and reflection activities. It's designed for kids ages 7 to 15 and covers the entire Bible in a way that's fun, engaging, and theologically sound. Parents can track progress and manage multiple kid profiles from one account.
+Faithful Kids uses short, narrated video lessons, followed by interactive quizzes and reflection activities. It's designed for kids ages 5 to 15 and covers the entire Bible from Genesis to Revelation, with the scripture reference shown on every story. Parents can track progress and manage multiple kid profiles from one account.

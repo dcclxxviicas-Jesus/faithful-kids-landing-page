@@ -96,6 +96,7 @@ export default function AboutPage() {
       '@id': 'https://faithfulkids.app/#organization',
       name: 'Faithful Kids',
       url: 'https://faithfulkids.app',
+      parentOrganization: { '@type': 'Organization', name: 'Catterfly LLC' },
       email: 'team@faithfulkids.app',
       description:
         'Bible video learning app for kids ages 5-15: short video lessons, quizzes, and reflections covering the whole Bible from Genesis to Revelation.',
@@ -141,7 +142,8 @@ export default function AboutPage() {
           The reason it exists: kids are fluent in a hundred apps and strangers to Scripture. The
           founder, <a href="/about/christian-alexander">Christian Alexander</a>, built it for his
           own children as an alternative to the autoplay feed — a screen where every video ends in
-          a question instead of another video.
+          a question instead of another video. Faithful Kids is published by Catterfly LLC, the
+          company he owns; that is the developer name you will see on the App Store.
         </p>
       </section>
 

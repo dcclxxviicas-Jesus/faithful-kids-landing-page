@@ -312,7 +312,7 @@ There is no set number. The most important thing is depth over breadth. It is be
 
 ### Are these stories told accurately to the Bible?
 
-Yes. Every story on Faithful Kids is retold faithfully to Scripture and reviewed for doctrinal accuracy. We simplify the language for children but never change the meaning or message.
+Yes. Every story on Faithful Kids is retold from the Bible text itself, with the scripture reference shown so you can read the original alongside it. We simplify the language for children but never change the meaning or message.
 
 ### What is the best Bible story app for kids?
 

@@ -295,6 +295,76 @@ function readPost(filename: string): BlogPost | null {
   }
 }
 
+/**
+ * Faithful Markdown version of a post, for /blog/<slug>.md.
+ *
+ * Generated from the SAME source file as the HTML page, in the same build —
+ * never a separately-maintained "story for bots". Substantive text, links,
+ * tables and dates are preserved; navigation, CTAs and interactive furniture
+ * (games, popups, sticky bars) are simply absent because they were never in
+ * the Markdown to begin with. Relative links are made absolute so the
+ * document is self-contained when read away from the site.
+ */
+export function getPostMarkdown(slug: string): string | null {
+  const post = getPostBySlug(slug)
+  if (!post) return null
+  const filePath = path.join(BLOG_DIR, `${slug}.md`)
+  if (!fs.existsSync(filePath)) return null
+  const { body } = parseFrontmatter(fs.readFileSync(filePath, 'utf-8'))
+  // Same leading-H1 rule as the HTML render: the title is emitted once, below.
+  const bodyText = body
+    .replace(/^\s*# [^\n]*\n+/, '')
+    // /blog/x and /printables/x -> absolute. Leave http(s), mailto, anchors.
+    .replace(/\]\((\/[^)\s]*)\)/g, '](https://faithfulkids.app$1)')
+    .trim()
+
+  const meta: string[] = []
+  if (post.scripture) meta.push(`**Scripture:** ${post.scripture}`)
+  if (post.series) meta.push(`**Series:** ${post.series}${post.episode ? ` (episode ${post.episode})` : ''}`)
+  if (post.age) meta.push(`**Ages:** ${post.age}`)
+  meta.push(`**Published:** ${post.datePublished}`)
+  meta.push(`**Updated:** ${post.dateModified}`)
+  meta.push(`**Canonical:** https://faithfulkids.app/blog/${post.slug}`)
+  // Same CDN path the VideoObject schema uses (all 200 HEAD-verified), not the
+  // legacy relative videoUrl in frontmatter, which is not a fetchable URL.
+  if (post.seriesSlug && post.episode) {
+    const ep = String(post.episode).padStart(2, '0')
+    meta.push(`**Video lesson:** https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${ep}-${post.slug.replace(/-for-kids$/, '')}/lesson-video.mp4`)
+  }
+
+  return [
+    `# ${post.title}`,
+    '',
+    `> ${post.metaDescription}`,
+    '',
+    meta.join('  \n'),
+    '',
+    '---',
+    '',
+    bodyText,
+    '',
+    '---',
+    '',
+    '*Faithful Kids (https://faithfulkids.app) — Bible video lessons for kids ages 5-15. This is the Markdown edition of the page above; the HTML page is canonical.*',
+    '',
+  ].join('\n')
+}
+
+const TRANSCRIPT_DIR = path.join(process.cwd(), 'content', 'transcripts')
+
+/**
+ * Spoken transcript of a story post's lesson video, or null if none exists.
+ * Files are generated into content/transcripts/ by build-transcripts.py from
+ * the production scripts (header stripped, prose only) — the scripts
+ * themselves live outside this repo and are not available on Vercel.
+ */
+export function getTranscript(slug: string): string | null {
+  const f = path.join(TRANSCRIPT_DIR, `${slug}.txt`)
+  if (!fs.existsSync(f)) return null
+  const t = fs.readFileSync(f, 'utf-8').trim()
+  return t.length > 0 ? t : null
+}
+
 let cachedPosts: BlogPost[] | null = null
 
 export function getAllPosts(): BlogPost[] {

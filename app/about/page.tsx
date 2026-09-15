@@ -93,6 +93,7 @@ export default function AboutPage() {
     url: 'https://faithfulkids.app/about',
     mainEntity: {
       '@type': 'Organization',
+      '@id': 'https://faithfulkids.app/#organization',
       name: 'Faithful Kids',
       url: 'https://faithfulkids.app',
       email: 'team@faithfulkids.app',

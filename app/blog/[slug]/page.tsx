@@ -9,7 +9,7 @@ import {
   extractTriviaQuestions,
   getReadingTime,
   getHeroStoryLinks,
-  getRelatedGuides, triviaLabel, getRelatedTrivia } from '@/lib/blog'
+  getRelatedGuides, triviaLabel, getRelatedTrivia, getTranscript } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 import { BlogImage } from '../BlogImage'
 import { TriviaGame } from '../TriviaGame'
@@ -82,6 +82,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     alternates: {
       canonical: `https://faithfulkids.app/blog/${post.slug}`,
+      // Advertises the Markdown edition (served by app/blog-md/[slug]/route.ts
+      // through a rewrite) so a client that prefers text/markdown can find it.
+      types: { 'text/markdown': `https://faithfulkids.app/blog/${post.slug}.md` },
     },
   }
 }
@@ -170,6 +173,11 @@ export default async function BlogPostPage({ params }: Props) {
   // Free lesson media. Same CDN paths the VideoObject schema uses — all 200
   // video and caption URLs HEAD-verified 200 on 2026-08-26.
   const isStory = Boolean(post.seriesSlug && post.episode)
+  // Spoken transcript of the lesson (200 story posts). Published because a
+  // watch page should be understandable without the player: it is the
+  // largest body of unique text we own, and it was invisible to every
+  // retrieval system until now.
+  const transcript = isStory ? getTranscript(post.slug) : null
   const mediaBase = isStory
     ? `https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${String(post.episode).padStart(2, '0')}-${post.slug.replace(/-for-kids$/, '')}`
     : ''
@@ -197,6 +205,8 @@ export default async function BlogPostPage({ params }: Props) {
         publisher: { '@type': 'Organization', name: 'Faithful Kids' },
         educationalLevel: 'beginner',
         inLanguage: 'en',
+        // Real spoken words, rendered on the page too — never schema-only.
+        ...(transcript ? { transcript } : {}),
       }
     : null
 
@@ -366,6 +376,17 @@ const hasTriviaGame = triviaQuestions.length >= 10
             storyName={post.title.split(':')[0].replace(/ for Kids$/i, '')}
             slug={post.slug}
           />
+        )}
+
+        {isStory && transcript && (
+          <details className="lesson-transcript">
+            <summary>Read the lesson transcript</summary>
+            <div className="lesson-transcript-body">
+              {transcript.split(/\n{2,}/).map((para, i) => (
+                <p key={i}>{para}</p>
+              ))}
+            </div>
+          </details>
         )}
 
         {/* Body — first half */}

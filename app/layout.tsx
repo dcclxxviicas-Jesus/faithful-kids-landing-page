@@ -78,9 +78,20 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           dangerouslySetInnerHTML={{ __html: JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'Organization',
+            // Stable identifier so every Organization node on the site (here,
+            // /about, article publisher) resolves to ONE entity in the graph.
+            '@id': 'https://faithfulkids.app/#organization',
             name: 'Faithful Kids',
             url: 'https://faithfulkids.app',
             logo: 'https://faithfulkids.app/logo-sm.png',
+            // Only profiles that genuinely belong to the brand. The App Store
+            // listing and the YouTube channel are both verified live. Pinterest
+            // is deliberately absent until its URL is confirmed — a wrong sameAs
+            // is worse than none.
+            sameAs: [
+              'https://apps.apple.com/app/id6761875106',
+              'https://www.youtube.com/@FaithfulKidsApp',
+            ],
             description: 'Bible story videos for kids ages 5-15. 300+ lessons narrated by Jesus with quizzes and reflections.',
             foundingDate: '2026',
             contactPoint: { '@type': 'ContactPoint', email: 'team@faithfulkids.app', contactType: 'customer service' },

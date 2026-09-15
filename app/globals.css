@@ -3862,3 +3862,27 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   line-height: 1.6;
   margin: 0 0 12px;
 }
+
+
+/* Lesson transcript — the spoken words of the video, behind a disclosure so
+   the page stays scannable. Same pill language as .ws-key. Stays in print:
+   a parent printing the story for a class wants the words. */
+.lesson-transcript { margin: 6px 0 26px; }
+.lesson-transcript summary {
+  cursor: pointer; list-style: none;
+  display: inline-flex; align-items: center; gap: 7px;
+  font-size: .92rem; font-weight: 700; color: var(--primary-dark);
+  padding: 9px 16px; border: 1px solid var(--border); border-radius: 999px;
+}
+.lesson-transcript summary::-webkit-details-marker { display: none; }
+.lesson-transcript summary::before { content: "▸"; transition: transform .15s ease; display: inline-block; }
+.lesson-transcript[open] summary::before { transform: rotate(90deg); }
+.lesson-transcript summary:hover { border-color: var(--primary); background: #f6fdf9; }
+.lesson-transcript-body {
+  margin-top: 14px; padding: 18px 22px;
+  border-left: 3px solid var(--primary); background: #f6fdf9; border-radius: 0 10px 10px 0;
+  font-size: 1rem; line-height: 1.7; color: var(--text);
+}
+.lesson-transcript-body p { margin: 0 0 1em; }
+.lesson-transcript-body p:last-child { margin-bottom: 0; }
+@media print { .lesson-transcript[open] .lesson-transcript-body { border-left-color: #999; background: none; } }

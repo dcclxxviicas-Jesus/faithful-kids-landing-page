@@ -24,6 +24,11 @@ export interface BlogPost {
   keywords: string[]
   content: string
   videoUrl: string
+  // Optional per-post byline. ONLY set in frontmatter on posts a named person
+  // genuinely wrote or substantively edited (op-eds, data studies, the
+  // founder's own pieces). Absent = authored by the Organization. Never bulk-
+  // add it: a byline the person didn't earn is a false claim.
+  author: string
   quizAvailable: boolean
   datePublished: string
   dateModified: string
@@ -288,6 +293,7 @@ function readPost(filename: string): BlogPost | null {
     keywords: (data.keywords as string[]) || [],
     content: markdownToHtml(bodyWithoutLeadingH1),
     videoUrl: (data.videoUrl as string) || '',
+    author: (data.author as string) || '',
     quizAvailable: (data.quizAvailable as boolean) || false,
     // Posts written before dates were tracked keep the original launch dates
     datePublished: (data.datePublished as string) || '2026-04-01',

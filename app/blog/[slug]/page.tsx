@@ -126,11 +126,21 @@ export default async function BlogPostPage({ params }: Props) {
     // Christian Post byline without claiming he wrote each post.
     // The previous value was `Person: "Faithful Kids Team"`, an invalid node
     // (a Person whose name is not a person). Do not restore it.
-    author: {
-      '@type': 'Organization',
-      name: 'Faithful Kids',
-      url: 'https://faithfulkids.app',
-    },
+    author: post.author === 'Christian Alexander'
+      ? {
+          // Real byline: references the ONE canonical Person node rather than
+          // redefining him here. Only posts with `author:` in frontmatter.
+          '@type': 'Person',
+          '@id': 'https://faithfulkids.app/about/christian-alexander#person',
+          name: 'Christian Alexander',
+          url: 'https://faithfulkids.app/about/christian-alexander',
+        }
+      : {
+          '@type': 'Organization',
+          '@id': 'https://faithfulkids.app/#organization',
+          name: 'Faithful Kids',
+          url: 'https://faithfulkids.app',
+        },
     publisher: {
       '@type': 'Organization',
       name: 'Faithful Kids',
@@ -358,6 +368,9 @@ const hasTriviaGame = triviaQuestions.length >= 10
             <span>By Faithful Kids Team</span>
             <span>&middot;</span>
             <span>Updated {new Date(post.dateModified + 'T00:00:00').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+            {post.author === 'Christian Alexander' && (
+              <span>By <a href="/about/christian-alexander">Christian Alexander</a></span>
+            )}
           </div>
           {post.themes && (
             <div className="blog-article-themes">

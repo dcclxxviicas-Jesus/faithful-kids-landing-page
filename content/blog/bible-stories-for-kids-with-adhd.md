@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "The best Bible stories for kids with ADHD — action-packed, short, and easy to remember. Plus tips for engaging ADHD learners with Scripture."
 keywords: ["bible stories for kids with adhd", "adhd bible study kids", "short bible stories for kids"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-09-16"
 ---
 
 If your child has ADHD, you already know that traditional Bible study methods — sitting still, reading long passages, filling out worksheets — can feel like torture. Not because your child does not care about God. Not because they are being defiant. But because their brain is wired differently, and it needs movement, novelty, and engagement to absorb information.
@@ -114,9 +114,9 @@ The Bible, when taught with these principles, becomes one of the most ADHD-frien
 
 There is a free [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) on our site too, printable on one sheet with no sign-up.
 
-## How 60-Second Video Formats Help
+## Why Two-to-Three-Minute Lessons Fit the ADHD Attention Window
 
-Many parents of ADHD children report that short-form video Bible stories have been transformative. Here is why: the short format naturally matches the ADHD attention window. There is no time for the mind to wander because the story moves quickly, the visuals change constantly, and the resolution arrives before attention fades.
+Many parents of ADHD children report that short-form video Bible stories have been transformative, and the length matters precisely: every Faithful Kids lesson runs between 1:28 and 3:37, with a median of 2:07 — measured from the actual video files, not estimated. That window is short enough that the resolution arrives before attention fades, and the quiz lands *immediately* after the story, while the material is still in working memory — the moment ADHD learners most need the retrieval to happen.
 
 This is not "dumbing down" the Bible. It is delivering the same truth in a format that the child's brain can actually absorb. A child who watches a short video of Daniel in the lions' den and remembers it is learning more than a child who sits through a 30-minute lesson they cannot focus on.
 

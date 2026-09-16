@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "A 15-minute family devotion plan that survives real kids: a 5 read / 5 talk / 5 pray structure, a full 4-week schedule, and what to do when it falls apart."
 keywords: ["15 minute family devotions", "daily family devotions", "family devotion plan", "family devotions for kids", "short family devotions", "weekly family devotional plan"]
 datePublished: "2026-08-19"
-dateModified: "2026-08-19"
+dateModified: "2026-09-16"
 ---
 
 A 15-minute family devotion breaks into three five-minute pieces: five minutes reading a passage out loud, five minutes talking about one question, and five minutes praying. That structure is the whole method -- it never changes, which is exactly why it survives a school night. Below is the format in detail, a full four-week plan with specific passages and questions, and an honest section on what to do when it collapses.
@@ -135,6 +135,10 @@ It will. Here is what each failure actually means and what to do about it.
 If your family does better with conversation than with reading, the 52 prompts in our [family dinner Bible questions](/blog/family-dinner-bible-questions) list can carry the talk block for a full year. And on the nights when nobody has fifteen minutes, a short animated Bible lesson on [Faithful Kids](https://faithfulkids.app/quiz) covers the story with a built-in reflection question so the streak doesn't break.
 
 For the wind-down nights specifically, our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven short readings, a question, and a goodnight prayer already formatted -- print it once and it covers the week you would otherwise skip.
+
+## The App Route: Devotions With the Prep Done for You
+
+Some seasons of life have no margin for planning even a 15-minute structure — and a devotional app is the honest fallback, not a failure. The shape to look for is the one this whole guide teaches: a short anchor in Scripture, then talk, then prayer. Faithful Kids compresses that into about ten minutes with the prep done for you: one Bible story video, one three-question quiz, one reflection question to talk about — then you close in prayer. For audio-first families, Keys for Kids publishes a free daily audio devotional that works well in the car. Whatever tool you use, keep the talking part human: the app can carry the story, but the conversation is the devotion.
 
 ## Frequently Asked Questions
 

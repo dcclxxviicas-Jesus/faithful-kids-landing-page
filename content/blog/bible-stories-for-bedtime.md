@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "The 10 best Bible stories for bedtime. Calming, gentle stories that help kids wind down, feel safe, and fall asleep with Scripture on their hearts."
 keywords: ["bible stories for bedtime", "bedtime bible stories kids", "calming bible stories children", "bible stories before bed"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-16"
+dateModified: "2026-09-16"
 ---
 
 # 10 Best Bible Stories for Bedtime
@@ -103,9 +103,9 @@ After the resurrection, Jesus makes breakfast for His friends on the beach. Fish
 3. **Say one prayer together**: "Thank you God for today. Watch over [child's name] tonight. Amen." (More [bedtime prayers for kids](/blog/bedtime-prayers-for-kids) here.)
 4. **Lights out.** The last thing they heard was Scripture and prayer. You can also tuck in one of these [goodnight Bible verses](/blog/goodnight-bible-verses-for-kids).
 
-## Faithful Kids Bedtime Mode
+## Using Faithful Kids at Bedtime
 
-Faithful Kids has a dedicated bedtime mode that dims the screen, plays one story, follows it with a gentle prayer, and fades to silence. No autoplay. No bright screens. Just sleep.
+Faithful Kids is a lesson, not a lullaby — and used right, that is exactly what bedtime needs. Pick one story, watch it together, and let the reflection question be the wind-down conversation; there is no autoplay and no feed, so when the story ends, it ends. For a child who needs pure audio to fall asleep to, a sleep-first app like Abide is built for that final stage — a good pairing is one Faithful Kids story before lights-out, then audio after.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-bedtime)
 

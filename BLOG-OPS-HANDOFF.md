@@ -485,6 +485,25 @@ Mother's Day / Father's Day verse clusters peak at 301k / 135k / 110k at
 KD 0-ish with 2 / 1 / 0 posts on the site — hubs are MIN_POSTS-gated until
 that content exists; gate-check then build before February.
 
+**Sep 16 — the eight need-page extensions (aeo's spec, gated on
+COMPETITOR-FACTS.md):** every comparison cell now traces to a vendor-cited,
+dated fact-sheet row. N18: best-bible-app-for-kids carries the master
+verified table (8 apps, checked-on line) and **the false "only app with a
+quiz after every lesson" claim is gone** — BibleBuddy Kids also quizzes per
+story; our honest edge is scope (310 lessons / ages 5-15 / web+iOS vs their
+82 / 6-8 / iOS). N9: alternatives table had OUR OWN PRICE WRONG ($9.99 → the
+real $12.99 web) plus stale Minno/Yippee cells — replaced verified, plus the
+retrieval sentence "not a feed — every video ends in a question." N12:
+**removed an invented "dedicated bedtime mode"** (dims screen / fades to
+silence — no such feature exists); honest framing + sleep-first-app pairing
+instead. N13: the ADHD post's stale "60-Second Formats" section now states
+the measured truth (lessons 1:28-3:37, median 2:07, from ffprobe). N8/N19:
+literal "ages 8 to 12" / "ages 7 to 10" surfaces + hard-questions section.
+N10/N11: open-and-go homeschool section; devotions apps section. Dwell's
+unverifiable $3.99 neutralized. dateModified bumped on all eight.
+Measurement: these serve AI retrieval — judge by the monthly
+discovery-mention rate (baseline 8%), NOT GSC impressions.
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

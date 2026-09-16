@@ -5,24 +5,27 @@ type: "listicle"
 metaDescription: "Comparing the 7 best Bible apps for kids in 2026. Features, pricing, age ranges, and which app is best for your family. Includes free and paid options."
 keywords: ["best bible app for kids", "bible app for kids", "kids bible app", "bible app for children 2026"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-18"
+dateModified: "2026-09-16"
 ---
 
 # Best Bible App for Kids in 2026: Top 7 Apps Compared
 
-The best Bible app for kids overall is Faithful Kids ($12.99/month, ages 5-15), for its full Genesis-to-Revelation video course with quizzes; the best free option is YouVersion's Bible App for Kids (ages 2-8); Minno is best for animated shows, Superbook for animation quality, Yippee TV for budget streaming, Dwell Kids for audio, and God for Kids for toddlers. Below we compare all 7 on features, pricing, age range, and content quality.
+The best Bible app for kids overall is Faithful Kids ($12.99/month, ages 5-15), for its full Genesis-to-Revelation video course with quizzes; the best free option is YouVersion's Bible App for Kids (ages 2-8); Minno is best for animated shows, Superbook for animation quality, Yippee TV for budget streaming, Dwell Kids for audio, and God for Kids for toddlers. Below we compare the field on features, pricing, age range, and content quality — every table fact verified on the vendor's own site.
 
 ## Quick Comparison
 
-| App | Price | Ages | Videos | Quizzes | Ad-Free | Best For |
-|-----|-------|------|--------|---------|---------|----------|
-| **Faithful Kids** | $12.99/mo | 5+ | 300+ | Yes | Yes | Complete Bible coverage with accountability |
-| Bible App for Kids | Free | 3-8 | 40+ | No | Yes | Young kids, interactive touch stories |
-| Minno | $9.99/mo | 2-12 | 100s | No | Yes | Animated shows, Netflix-like experience |
-| Superbook | Free | 5-12 | 50+ | No | Yes | High-quality animation, adventure style |
-| Yippee TV | Free/Premium | 2-12 | 50+ | No | Mostly | Budget-friendly, classic shows |
-| Dwell Kids | $3.99/mo | 4-10 | Audio | No | Yes | Audio Bible stories and playlists |
-| God for Kids | Free | 3-7 | 20+ | No | Yes | Very young children, simple |
+Every cell below was checked against the vendor's own site or App Store listing on September 16, 2026. A dash means the vendor doesn't state it.
+
+| App | Price | Free trial | Ages (vendor) | Ads | Quiz after every story | Parent dashboard | Platforms | Whole Bible in order |
+|---|---|---|---|---|---|---|---|---|
+| **Faithful Kids** | $12.99/mo · $97/yr (web); $8.99/mo · $79.99/yr (iOS) | 7 days web / 3 days Apple | 5-15 | No ads | **Yes** | **Yes** (PIN) | Web, iPhone/iPad | **Yes** — 310 lessons |
+| Bible App for Kids (YouVersion) | Free | — | 4-8 | Free, no in-app purchases | No (games) | No | iOS, Android, Kindle | No — 41 stories |
+| Superbook Kids | Free | — | 5-12 | — (no purchases listed) | No (games) | Controls, no dashboard | iOS, Android, web | No |
+| Minno | $10.99/mo · $69.99/yr | 7 days | 2-10 | "100% Ad-Free" | No | — | iOS, Android, TVs, web | No |
+| BibleBuddy Kids | $4.99/mo · $39.99/yr | 14 days | 6-8 | "No ads" | **Yes** | **Yes** | iOS only | Yes — 82 stories |
+| Yippee TV | $7.99/mo · $48.99/yr | 7 days | — | "no ads" | No | — | iOS, Apple TV | No |
+| Guardians of Ancora | Free | — | 8-11 | "no advertisements or in-app purchases" | No | No | iOS, Android, Fire | ~30 stories |
+| TruPlay | $12.99/mo · $69.99/yr | Yes | 4+ | "no ads" | No | — | iOS | No |
 
 ---
 
@@ -32,7 +35,7 @@ The best Bible app for kids overall is Faithful Kids ($12.99/month, ages 5-15), 
 **Ages:** 5+
 **Content:** 300+ video lessons across 30+ series, Genesis to Revelation
 
-Faithful Kids stands out for two reasons: coverage and accountability. It is the only app that covers the entire Bible in short video format, and the only one with a quiz after every single lesson. Your child does not just watch. They learn and prove they understood.
+Faithful Kids stands out for two reasons: coverage and accountability. Only two apps on this list quiz a child after every single story — Faithful Kids and BibleBuddy Kids — and only Faithful Kids does it across the whole Bible for the whole childhood: 310 lessons from Genesis to Revelation, ages 5-15, on the web and iPhone/iPad (BibleBuddy covers 82 stories for ages 6-8, iOS only). Your child does not just watch. They learn and prove they understood.
 
 **Pros:**
 - 300+ video lessons covering Genesis to Revelation
@@ -70,7 +73,7 @@ The Bible App for Kids is made by the same team behind the YouVersion Bible app 
 
 ## 3. Minno — Best for Animated Shows
 
-**Price:** $9.99/month
+**Price:** $10.99/month
 **Ages:** 2-12
 
 Minno is the largest Christian kids streaming service. Think of it as the Christian Netflix for kids. It has hundreds of episodes of animated shows including VeggieTales, What's in the Bible, and original productions. Every show is screened for biblical truth. See how it stacks up in [Minno vs Faithful Kids](/blog/minno-vs-faithful-kids).
@@ -84,7 +87,7 @@ Minno is the largest Christian kids streaming service. Think of it as the Christ
 **Cons:**
 - Does not cover the full Bible systematically
 - No quizzes or learning accountability
-- $9.99/month
+- $10.99/month
 - Entertainment-focused rather than education-focused
 
 ## 4. Superbook — Best Animation Quality
@@ -125,7 +128,7 @@ Yippee TV offers a mix of Christian shows including some classic content. The fr
 
 ## 6. Dwell Kids — Best Audio Experience
 
-**Price:** $3.99/month
+**Price:** a small monthly subscription (see their site for current pricing)
 **Ages:** 4-10
 
 Dwell Kids focuses on audio Bible content: stories, playlists, and audiobooks. It is designed for listening rather than watching, which makes it perfect for car rides, bedtime, and screen-free time.

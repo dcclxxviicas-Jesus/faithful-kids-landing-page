@@ -306,7 +306,7 @@ export default function Home() {
             <p className="plan-price"><span className="plan-amount">$8.08</span><span className="plan-per">/month</span></p>
             <p className="plan-billed">$97 billed yearly &middot; save $58.88</p>
             <ul className="plan-list-features">
-              <li>Start with 3 days free</li>
+              <li>Start with 7 days free</li>
               <li>All 300+ lessons, Genesis to Revelation</li>
               <li>Up to 5 kid profiles</li>
               <li>Quiz and reflection after every story</li>

@@ -44,11 +44,11 @@ const FAQS = [
   },
   {
     q: 'How much does Faithful Kids cost?',
-    a: 'On the web, Faithful Kids costs $12.99 per month, or $97 per year (about $8.08 per month). In the iOS app, the subscription is bought through Apple at $8.99 per month or $79.99 per year. The difference is the platform you buy on, not your region. The annual plan includes a 3-day free trial on both. Both plans can be cancelled anytime and carry a 30-day money-back guarantee. It is completely free for churches.',
+    a: 'On the web, Faithful Kids costs $12.99 per month, or $97 per year (about $8.08 per month). In the iOS app, the subscription is bought through Apple at $8.99 per month or $79.99 per year. The difference is the platform you buy on, not your region. The annual plan includes a free trial on both: 7 days on the web, 3 days through Apple. Both plans can be cancelled anytime and carry a 30-day money-back guarantee. It is completely free for churches.',
   },
   {
     q: 'Which faith-based kids apps offer a free trial?',
-    a: 'Faithful Kids offers a 3-day free trial on its annual plan, with no charge if you cancel during the trial. Beyond the app, the site offers a large free library with no sign-up at all: 200 Bible story retellings, printable coloring pages and word searches, and a 100-question Bible trivia game.',
+    a: 'Faithful Kids offers a free trial on its annual plan — 7 days when you subscribe on the web, 3 days through the iOS app — with no charge if you cancel during it. Beyond the app, the site offers a large free library with no sign-up at all: 200 Bible story retellings, printable coloring pages and word searches, and a 100-question Bible trivia game.',
   },
   {
     q: 'Is Faithful Kids safe for kids?',
@@ -157,7 +157,7 @@ export default function AboutPage() {
           </div>
           <div className="stories-faq-item">
             <h3>Annual: $97/year (about $8.08/month)</h3>
-            <p>Includes a 3-day free trial — no charge if you cancel during it. Cancel anytime, 30-day money-back guarantee.</p>
+            <p>Includes a 7-day free trial — no charge if you cancel during it. Cancel anytime, 30-day money-back guarantee.</p>
           </div>
           <div className="stories-faq-item">
             <h3>Churches: free</h3>

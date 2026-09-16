@@ -14,7 +14,7 @@ function distinctIdSafe(): string | undefined {
    Every fact here is verified against ground truth, which is the checkout
    route (`app/api/checkout/route.ts`), NOT this comment and NOT CLAUDE.md:
    310 lessons -> "300+", 31 series, ~2 min per lesson, annual $97/yr
-   ($8.08/mo) with a 3-day trial, monthly $12.99 with no trial.
+   ($8.08/mo) with a 7-day trial, monthly $12.99 with no trial.
    (Repriced Aug 31, 2026 — these variants were authored against the previous,
    lower numbers, so re-read the route before trusting any figure rendered
    below. The old figures are deliberately not repeated here: check-counts.py
@@ -105,7 +105,7 @@ export function useCheckout() {
 
   const ctaLabel = loading
     ? 'Taking you to payment…'
-    : plan === 'annual' ? 'Start my 3 free days' : 'Continue to payment'
+    : plan === 'annual' ? 'Start my 7 free days' : 'Continue to payment'
 
   return { plan, setPlan: select, loading, go, ctaLabel }
 }
@@ -175,7 +175,7 @@ export function StickyBar({ plan, loading, onGo }: { plan: PlanId; loading: bool
 
 export const FAQS = [
   {
-    q: 'What happens when the 3 days are up?',
+    q: 'What happens when the 7 days are up?',
     a: `Your first year bills at $${ANNUAL_YEAR} unless you cancel before then. The confirmation email we send the moment you sign up states the exact date, the amount, and how to cancel — so it is written down before the trial even starts.`,
   },
   {

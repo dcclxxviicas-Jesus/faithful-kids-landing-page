@@ -475,7 +475,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
               PLAY it here, PrintableCta-style.
             - Otherwise the copy promises only what is true: the app's 300+
               lessons, no title interpolation. Button says "free trial" with
-              no number (annual-only 3-day trial; the standing no-stale-claim
+              no number (annual-only 7-day trial; the standing no-stale-claim
               rule). */}
         {!hasTriviaGame && !isStory && guideVideo && (
           <PrintableCta

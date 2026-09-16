@@ -47,7 +47,7 @@ export function Refined({ monthly, tag }: { monthly: number; tag: string }) {
             <div className="cv-was">${monthly.toFixed(2)}</div>
             <div className="cv-card-price">${ANNUAL_MONTH}<small>/mo</small></div>
             <div className="cv-card-billed">Billed ${ANNUAL_YEAR} once a year</div>
-            <div className="cv-card-trial">3 days free</div>
+            <div className="cv-card-trial">7 days free</div>
           </button>
 
           <button className={`cv-card cv-card-lesser ${!annual ? 'on' : ''}`} onClick={() => setPlan('monthly', tag)}>

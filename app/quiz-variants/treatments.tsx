@@ -210,7 +210,7 @@ export function VariantC({ answers }: { answers: Answers }) {
           blurb={LESSON.blurb}
           location="quiz-result-c"
           ctaHref="#plan"
-          ctaLabel="Start my 3 free days"
+          ctaLabel="Start my 7 free days"
         />
         <p className="qv-vidnote">
           One of <strong>310</strong>, matched to ages {age} on the {denom} path. Every one ends

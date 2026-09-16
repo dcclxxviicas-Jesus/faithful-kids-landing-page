@@ -138,7 +138,7 @@ If you can swing both, your child gets the best of both worlds: deep learning *a
 
 ## Watch on Faithful Kids
 
-See the difference active learning makes. Start your 3-day free trial and watch your child go from passively watching Bible stories to actively understanding and reflecting on Scripture.
+See the difference active learning makes. Start your 7-day free trial and watch your child go from passively watching Bible stories to actively understanding and reflecting on Scripture.
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 

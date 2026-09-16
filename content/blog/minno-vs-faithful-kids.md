@@ -33,7 +33,7 @@ This comparison walks through content, Bible coverage, learning features, pricin
 | **Best for** | Daily Bible learning, ages 7-15 | Family movie night, ages 3-10 |
 | **Price** | $12.99/mo, or $97/yr (about $8.08/mo) | $10.99/mo or $69.99/yr (about $5.83/mo) |
 
-Both offer free trials (Faithful Kids' 3-day trial comes with the annual plan), and both are ad-free -- which is half the reason parents leave YouTube for either of them in the first place.
+Both offer free trials (Faithful Kids' 7-day trial comes with the annual plan), and both are ad-free -- which is half the reason parents leave YouTube for either of them in the first place.
 
 ## When Should You Choose Faithful Kids?
 
@@ -64,7 +64,7 @@ Yes, and this is often the best answer. The apps occupy different slots in a fam
 
 Framed this way, the combined cost replaces both "curriculum" and "Netflix for the kids" line items. Families who try to make one app do both jobs usually end up disappointed in the direction they stretched it -- Minno will not produce Bible literacy on its own, and Faithful Kids will not carry a movie night.
 
-If budget forces a single choice, choose by age and goal: under 6 and mainly fixing entertainment, Minno; 7 and up with a Bible-learning goal, [start a free 3-day trial of Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-vsminno). For the wider field beyond these two, see our roundups of the [best Bible app for kids](/blog/best-bible-app-for-kids) and [best Bible apps by age](/blog/best-bible-apps-by-age).
+If budget forces a single choice, choose by age and goal: under 6 and mainly fixing entertainment, Minno; 7 and up with a Bible-learning goal, [start a free 7-day trial of Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-vsminno). For the wider field beyond these two, see our roundups of the [best Bible app for kids](/blog/best-bible-app-for-kids) and [best Bible apps by age](/blog/best-bible-apps-by-age).
 
 Weighing Minno against the other streaming options instead? Our [Minno review](/blog/minno-review) rates the service on its own terms, and [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) compares the three big Christian streaming platforms head-to-head.
 

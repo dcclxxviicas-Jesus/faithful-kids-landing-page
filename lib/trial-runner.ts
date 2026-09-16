@@ -104,6 +104,12 @@ async function findCandidates(): Promise<Candidate[]> {
 
     const trialEndMs = (sub.trial_end || 0) * 1000
     const ageDays = (now - sub.created * 1000) / 86400_000
+    /* Time the later email off the BILLING DATE, not the signup date. The
+       sequence was written when the trial was three days long, and back then
+       "two days old" and "one day before charge" were the same moment. The web trial became 7 days on
+       2026-09-16 and those two are now five days apart. Anchoring to
+       trial_end means this keeps working at any length. */
+    const daysUntilBilling = trialEndMs ? (trialEndMs - now) / 86400_000 : Infinity
 
     // Which email does this subscription's state call for?
     let type: TrialEmailType | null = null
@@ -114,9 +120,9 @@ async function findCandidates(): Promise<Candidate[]> {
     } else if (sub.status === 'trialing' && ageDays >= 1 && ageDays < 2) {
       type = 'trial_day1'
       reason = 'day 1 of trial'
-    } else if (sub.status === 'trialing' && ageDays >= 2 && now < trialEndMs) {
+    } else if (sub.status === 'trialing' && now < trialEndMs && daysUntilBilling <= 2) {
       type = 'trial_day2'
-      reason = 'day 2 — trial ends soon'
+      reason = 'trial ends within 2 days'
     } else if (sub.status === 'active' && trialEndMs && now > trialEndMs && now - trialEndMs < 3 * 86400_000) {
       type = 'trial_converted'
       reason = 'trial converted to paid'

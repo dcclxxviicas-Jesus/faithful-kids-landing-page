@@ -1,10 +1,14 @@
 import { SITE_URL, unsubscribeUrl } from './leads'
 
-// Trial lifecycle emails. The annual plan carries a 3-DAY free trial, so the
-// whole sequence is three touches, not the usual week-long drip:
-//   T+1d  trial_day1     get them to press play (varies by setup state)
-//   T+2d  trial_day2     momentum only, never billing (see below)
-//   end   trial_converted / trial_canceled
+// Trial lifecycle emails. The annual plan carries a free trial — seven days
+// on the web since 2026-09-16, three through Apple — so the sequence is three
+// touches rather than a week-long drip:
+//   T+1d        trial_day1  get them to press play (varies by setup state)
+//   T-2d        trial_day2  momentum only, never billing (see below)
+//   after       trial_converted / trial_canceled
+// Note the second one is timed off the BILLING date, not signup: when the
+// trial was three days those were the same moment, and they are not now.
+// trial-runner.ts owns that timing.
 // Plus trial_canceling, fired the moment someone sets cancel_at_period_end
 // during the trial (the case that lost us a customer in August).
 //
@@ -149,9 +153,16 @@ ${button(appLink, 'Continue watching →')}
       }
     }
 
-    // ---------- Day 2: momentum, never billing ----------
-    // No charge reminder by design: for trials under 7 days the card networks
-    // want the terms in the enrollment confirmation, which is where they live.
+    // ---------- The later trial email: momentum, never billing ----------
+    // Fires ~2 days before the charge (see trial-runner), not on day 2 — the
+    // web trial is 7 days as of 2026-09-16, so signup age and billing date are
+    // no longer the same moment.
+    //
+    // Still NO charge reminder, re-confirmed by the owner when the trial was
+    // lengthened. The terms live in the enrollment confirmation, which carries
+    // free-days count, exact end date, renewal price and how to cancel, pulled
+    // live from the subscription. Do not add a "your trial ends tomorrow"
+    // email here without asking.
     case 'trial_day2': {
       if (state === 'no_kids') {
         return {

@@ -119,7 +119,7 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
         <ul className="cv-onecard-list">
           {annual ? (
             <>
-              <li><span className="cv-tick">{'✓'}</span>Free for 3 days &mdash; $0.00 today</li>
+              <li><span className="cv-tick">{'✓'}</span>Free for 7 days &mdash; $0.00 today</li>
               <li><span className="cv-tick">{'✓'}</span><span><strong>${SAVED} cheaper</strong> than 12 monthly payments (${(MONTHLY * 12).toFixed(2)})</span></li>
             </>
           ) : (
@@ -147,7 +147,7 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
           not after it. */}
       <p className="qv-fine">
         {annual
-          ? <>$0.00 today. Cancel any time in the first three days and you are charged nothing.</>
+          ? <>$0.00 today. Cancel any time in the first seven days and you are charged nothing.</>
           : <>${MONTHLY} today, then every month until you cancel.</>}
       </p>
 
@@ -164,7 +164,7 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
       )}
 
       <button ref={ctaRef} className="cv-cta" onClick={onBuy} disabled={loading}>
-        {loading ? 'Taking you to payment…' : annual ? 'Start my 3 free days' : 'Continue to payment'}
+        {loading ? 'Taking you to payment…' : annual ? 'Start my 7 free days' : 'Continue to payment'}
       </button>
     </>
   )
@@ -184,7 +184,7 @@ export function TrustRow() {
 
    It used to be display:flex from first paint. That was fine when the price
    sat below the fold, but the reorder put the primary CTA at ~549px — so a
-   visitor at scroll 0 saw "Start my 3 free days" and a sticky "Start free" at
+   visitor at scroll 0 saw "Start my 7 free days" and a sticky "Start free" at
    the same time: two buttons for one action, one of them covering the page.
    Same behaviour the blog sticky bar already has. */
 export function useStickyAfter<T extends HTMLElement>() {

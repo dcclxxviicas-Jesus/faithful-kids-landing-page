@@ -50,7 +50,7 @@ const FAQS = [
   },
   {
     q: 'What does it cost?',
-    a: 'The annual plan is $97 a year, which works out to $8.08 a month, and starts with a 3-day free trial. Monthly is $12.99 with no trial. Both include everything, and there is a 30-day money-back guarantee.',
+    a: 'The annual plan is $97 a year, which works out to $8.08 a month, and starts with a 7-day free trial. Monthly is $12.99 with no trial. Both include everything, and there is a 30-day money-back guarantee.',
   },
   {
     q: 'Is it doctrinally safe for our family?',
@@ -235,7 +235,7 @@ export default function Homeschool() {
               <p className="plan-price"><span className="plan-amount">$8.08</span><span className="plan-per">/month</span></p>
               <p className="plan-billed">$97 billed yearly &middot; save $58.88</p>
               <ul className="plan-list-features">
-                <li>Start with 3 days free</li>
+                <li>Start with 7 days free</li>
                 <li>All 300+ lessons, Genesis to Revelation</li>
                 <li>Up to 5 kid profiles</li>
                 <li>Quiz and reflection after every lesson</li>

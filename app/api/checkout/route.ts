@@ -48,8 +48,18 @@ export async function POST(req: NextRequest) {
         quantity: 1,
       },
     ],
-    // Annual gets a 3-day free trial; monthly has no trial (charged immediately)
-    ...(plan === 'annual' ? { subscription_data: { trial_period_days: 3 } } : {}),
+    /* Annual gets a 7-day free trial; monthly has no trial (charged
+       immediately). Raised from 3 to 7 on 2026-09-16.
+
+       STRIPE ONLY. The Apple IAP trial is configured in App Store Connect and
+       deliberately stays at 3 days, the same way the iOS prices deliberately
+       differ from web. Do not "align" them.
+
+       Deliberately NO pre-billing reminder email, owner's call when this
+       changed: the enrollment confirmation already carries free-days count,
+       exact end date, renewal price and how to cancel, pulled live from the
+       subscription. See sendPurchaseConfirmationEmail. */
+    ...(plan === 'annual' ? { subscription_data: { trial_period_days: 7 } } : {}),
     success_url: `https://app.faithfulkids.app/activate?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/checkout`,
   })

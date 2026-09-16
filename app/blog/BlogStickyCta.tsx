@@ -71,7 +71,7 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
         {/* On an iPhone, installing is genuinely the lower-friction path:
             Face ID beats typing card details into mobile Safari. The trial is
             real either way — the app carries its own subscribe flow with the
-            same 3 free days (ENABLE_NATIVE_PURCHASE is on). Everywhere else
+            same 7 free days (ENABLE_NATIVE_PURCHASE is on). Everywhere else
             keeps the web CTA. */}
         {isAppleTouch ? (
           <span className="blog-sticky-app">

@@ -29,7 +29,7 @@ export default function V2() {
             <div className="cv-card-name">Yearly</div>
             <div className="cv-card-price">${ANNUAL_MONTH}<small>/mo</small></div>
             <div className="cv-card-billed">Billed ${ANNUAL_YEAR} once a year</div>
-            <div className="cv-card-trial">3 days free</div>
+            <div className="cv-card-trial">7 days free</div>
           </button>
 
           <button className={`cv-card ${plan === 'monthly' ? 'on' : ''}`} onClick={() => setPlan('monthly', 'v2')}>

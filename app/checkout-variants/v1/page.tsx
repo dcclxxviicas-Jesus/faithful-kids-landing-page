@@ -30,7 +30,7 @@ export default function V1() {
             <span className="cv-plan-mid">
               <span className="cv-plan-top">
                 <span className="cv-plan-name">Yearly</span>
-                <span className="cv-flag">3 days free</span>
+                <span className="cv-flag">7 days free</span>
               </span>
               <span className="cv-plan-note">Billed ${ANNUAL_YEAR} a year &middot; save ${SAVED}</span>
             </span>

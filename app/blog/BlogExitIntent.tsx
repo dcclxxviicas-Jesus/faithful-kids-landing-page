@@ -209,7 +209,7 @@ export function BlogExitIntent({
         />
 
         {/* On an iPhone the app itself is the lower-friction way in, and it
-            carries the same 3 free days. Everyone else keeps the web path. */}
+            carries the same 7 free days. Everyone else keeps the web path. */}
         <a
           href={isAppleTouch ? APP_STORE_URL : '/quiz'}
           onClick={() => posthog.capture('exit_intent_cta', {

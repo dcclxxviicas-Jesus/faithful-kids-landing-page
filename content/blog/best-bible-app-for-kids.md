@@ -28,7 +28,7 @@ The best Bible app for kids overall is Faithful Kids ($12.99/month, ages 5-15), 
 
 ## 1. Faithful Kids — Best Overall
 
-**Price:** $12.99/month, or $97/year (about $8.08/month) with a 3-day free trial
+**Price:** $12.99/month, or $97/year (about $8.08/month) with a 7-day free trial
 **Ages:** 5+
 **Content:** 300+ video lessons across 30+ series, Genesis to Revelation
 
@@ -43,11 +43,11 @@ Faithful Kids stands out for two reasons: coverage and accountability. It is the
 - New stories added weekly
 
 **Cons:**
-- Not free (though the annual plan includes a 3-day free trial)
+- Not free (though the annual plan includes a 7-day free trial)
 - Video only, no interactive touch elements for younger kids
 - Best for ages 5+, younger children may need a simpler app
 
-[Try Faithful Kids with a 3-day free trial](https://faithfulkids.app/quiz?ref=listicle-bestapp)
+[Try Faithful Kids with a 7-day free trial](https://faithfulkids.app/quiz?ref=listicle-bestapp)
 
 ## 2. Bible App for Kids (YouVersion) — Best Free App
 
@@ -178,7 +178,7 @@ God for Kids is a simple app designed for very young children. It has basic Bibl
 
 **Our recommendation:** Start with Faithful Kids for daily Bible learning (the quiz feature makes the difference), and supplement with Minno or Superbook for entertainment-focused viewing.
 
-[**Try Faithful Kids with a 3-day free trial**](https://faithfulkids.app/quiz?ref=listicle-bestapp)
+[**Try Faithful Kids with a 7-day free trial**](https://faithfulkids.app/quiz?ref=listicle-bestapp)
 
 For deeper dives on the individual platforms, see our [Minno review](/blog/minno-review) and the three-way [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) comparison.
 
@@ -200,4 +200,4 @@ Yes, the Bible App for Kids by YouVersion is completely free with no ads and no 
 
 ### How much does Faithful Kids cost?
 
-Faithful Kids costs $12.99/month, or $97/year (which works out to about $8.08/month). The annual plan includes a 3-day free trial.
+Faithful Kids costs $12.99/month, or $97/year (which works out to about $8.08/month). The annual plan includes a 7-day free trial.

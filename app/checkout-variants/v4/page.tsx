@@ -12,7 +12,7 @@ import {
    charged and will I notice in time" — and the current page answers it nowhere.
 
    Note the middle step says the confirmation email carries the terms. It does
-   NOT promise a reminder before billing: the 3-day trial deliberately has no
+   NOT promise a reminder before billing: the 7-day trial deliberately has no
    pre-billing reminder email (see CLAUDE.md), so claiming one would be false. */
 
 function dayLabel(offset: number) {
@@ -34,7 +34,7 @@ export default function V4() {
 
         {annual ? (
           <div className="cv-timeline">
-            <div className="cv-tl-title">Your next three days</div>
+            <div className="cv-tl-title">Your next seven days</div>
 
             <div className="cv-tl-row">
               <div className="cv-tl-dot">{'✓'}</div>
@@ -106,7 +106,7 @@ export default function V4() {
             <span className="cv-plan-mid">
               <span className="cv-plan-top">
                 <span className="cv-plan-name">Yearly</span>
-                <span className="cv-flag">3 days free</span>
+                <span className="cv-flag">7 days free</span>
               </span>
               <span className="cv-plan-note">Billed ${ANNUAL_YEAR} a year &middot; save ${SAVED}</span>
             </span>

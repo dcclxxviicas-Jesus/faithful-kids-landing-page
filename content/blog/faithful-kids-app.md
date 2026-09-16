@@ -41,7 +41,7 @@ The app is **free to download**, and every new family gets a **3-day free trial*
 
 ## iPhone Today, Everywhere Else via the Web
 
-The App Store app is for **iPhone and iPad**. On Android, a laptop, or a smart display's browser, the full experience runs at [app.faithfulkids.app](https://app.faithfulkids.app) — same library, same quizzes, same profiles, and your child's progress syncs across all of them because it lives in one account.
+The App Store app is for **iPhone and iPad**. On Android, a laptop, or a smart display's browser, the full experience runs at [app.faithfulkids.app](https://app.faithfulkids.app) — same library, same quizzes, same profiles, and your child's progress syncs across all of them because it lives in one account. Subscribing on the web is priced separately ($12.99/month or $97/year) and comes with a longer 7-day free trial.
 
 ## Try Before You Download
 

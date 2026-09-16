@@ -106,7 +106,7 @@ export function ToggleTreatment({
             <ul className="cv-onecard-list">
               {annual ? (
                 <>
-                  <li><span className="cv-tick">{'✓'}</span>Free for 3 days &mdash; $0.00 today</li>
+                  <li><span className="cv-tick">{'✓'}</span>Free for 7 days &mdash; $0.00 today</li>
                   <li><span className="cv-tick">{'✓'}</span>You keep <strong>${saved}</strong> versus monthly</li>
                   <li><span className="cv-tick">{'✓'}</span>That is about <strong>{monthsFree} months free</strong></li>
                 </>
@@ -183,7 +183,7 @@ export function HeroTreatment() {
             <div className="cv-hero-rows">
               {annual ? (
                 <>
-                  <div><span className="cv-tick">{'✓'}</span>3 days free, then ${ANNUAL_YEAR}</div>
+                  <div><span className="cv-tick">{'✓'}</span>7 days free, then ${ANNUAL_YEAR}</div>
                   <div><span className="cv-tick">{'✓'}</span>Keeps <strong>${saved}</strong> in your pocket</div>
                   <div><span className="cv-tick">{'✓'}</span>About <strong>{monthsFree} months free</strong></div>
                 </>
@@ -236,7 +236,7 @@ export function TwinTreatment() {
               </span>
               <span className="cv-twin-billed">${ANNUAL_YEAR} once a year</span>
               <span className="cv-twin-rows">
-                <span><span className="cv-tick">{'✓'}</span>3 days free</span>
+                <span><span className="cv-tick">{'✓'}</span>7 days free</span>
                 <span><span className="cv-tick">{'✓'}</span>Save ${saved}</span>
                 <span><span className="cv-tick">{'✓'}</span>~{monthsFree} months free</span>
               </span>

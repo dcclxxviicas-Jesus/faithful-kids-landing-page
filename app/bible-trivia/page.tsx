@@ -119,6 +119,13 @@ export default function BibleTriviaPage() {
           Wix, or plain HTML. Your visitors play right on your page.
         </p>
         <EmbedBox />
+        <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', marginTop: 14 }}>
+          Need platform-specific steps?{' '}
+          <a href="/blog/bible-trivia-embed-for-church-website" style={{ color: 'var(--primary)', fontWeight: 700 }}>
+            The embed guide
+          </a>{' '}
+          covers WordPress, Squarespace, Wix, and plain HTML — one line, no plugin.
+        </p>
         {/* Every trivia post is now separately embeddable. A children's
             ministry writing about Exodus wants an Exodus game, not a mixed
             one — and each placement links back to that post rather than every

@@ -11,7 +11,7 @@ These 50 Bible trivia questions for adults run from deceptively easy to genuinel
 
 **Need this on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-trivia-for-adults.pdf) — all 50 questions as ready-to-copy quiz sheets, with the full answer key and verse references on separate pages. No sign-up, no email, free to photocopy for your class or group.
 
-**Want it scored for you?** Our [free Bible trivia game](/bible-trivia) runs a ten-question round on the hard setting with streaks and a scoreboard — no setup, and church groups can embed it on their own site for free.
+**Want it scored for you?** Our [free Bible trivia game](/bible-trivia) runs a ten-question round on the hard setting with streaks and a scoreboard — no setup, and church groups can [embed it on their own site](/blog/bible-trivia-embed-for-church-website) for free.
 
 ## Warm-Up Round: Deceptively Easy
 

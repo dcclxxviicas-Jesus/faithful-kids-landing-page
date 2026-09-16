@@ -84,7 +84,7 @@ The book also opens great conversations: Peter's ladder in 1:5-7 makes a fun mem
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
-Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost — [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 

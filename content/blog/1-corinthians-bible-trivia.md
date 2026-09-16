@@ -80,7 +80,7 @@ For the backstory, read [who was Paul](/blog/who-was-paul-for-kids), and for the
 
 Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
-Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost — [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
 
 Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
 

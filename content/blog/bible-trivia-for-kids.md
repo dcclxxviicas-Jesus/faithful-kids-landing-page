@@ -15,7 +15,7 @@ Two of these questions trip up almost every family that plays. Question 14 asks 
 
 **Need this quiz on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf) — all 50 questions as ready-to-copy quiz sheets with write-in lines, plus the full answer key with verse references on separate pages. No sign-up, no email, free to photocopy for your class or family game night.
 
-**Want to play instead of read?** Our [free Bible trivia game](/bible-trivia) puts 100 questions into a scored round you can play right now -- pick easy, medium, or hard, answer ten questions, and see the verse behind every answer. No sign-up, no ads, and free for churches and teachers to embed on their own site.
+**Want to play instead of read?** Our [free Bible trivia game](/bible-trivia) puts 100 questions into a scored round you can play right now -- pick easy, medium, or hard, answer ten questions, and see the verse behind every answer. No sign-up, no ads, and free for churches and teachers to [embed on their own site](/blog/bible-trivia-embed-for-church-website).
 
 ## Easy Bible Questions for Kids (Ages 5-8)
 

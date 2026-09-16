@@ -108,7 +108,7 @@ export default function Churches() {
             <div className="feature-icon">🧩</div>
             <h3>Embeddable trivia game</h3>
             <p>
-              Put our <a href="/bible-trivia#embed" style={{ color: 'var(--primary)', fontWeight: 700 }}>free Bible trivia game</a> directly on
+              Put our <a href="/bible-trivia#embed" style={{ color: 'var(--primary)', fontWeight: 700 }}>free Bible trivia game</a> (<a href="/blog/bible-trivia-embed-for-church-website" style={{ color: 'var(--primary)', fontWeight: 700 }}>setup guide</a>) directly on
               your church website — kids play right on your page.
             </p>
           </div>

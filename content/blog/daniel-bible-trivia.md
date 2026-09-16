@@ -87,7 +87,7 @@ If a story is fuzzy, catch up fast with our kid-friendly retellings of [Daniel i
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
-Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost — [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
 
 Print the [Daniel word search](/printables/bible-word-search/daniel) for the table, or let them play it on screen. Either way it is free.
 

@@ -65,7 +65,7 @@ Ephesians plays best in two rounds that match the book itself: run questions on 
 
 The hard round leans on the book of Acts, because the church in Ephesus has one of the best origin stories in the New Testament -- our retelling of [the riot in Ephesus](/blog/the-riot-in-ephesus-for-kids) covers it, and [who was Paul?](/blog/who-was-paul-for-kids) fills in the author. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each Bible story with a short quiz, which makes a great warm-up. When your family is ready for a bigger board, move on to our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids) or the all-ages [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
-Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost.
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost — [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
 
 For a quieter follow-up, try the [Armor of God word search](/printables/bible-word-search/armor-of-god) — twelve words hidden in the grid, answer key included.
 

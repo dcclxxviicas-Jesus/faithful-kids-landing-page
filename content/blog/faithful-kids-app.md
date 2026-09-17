@@ -55,6 +55,8 @@ Then, when you're ready:
 
 <a href="https://apps.apple.com/app/id6761875106" class="appstore-badge" aria-label="Download Faithful Kids on the App Store"><img src="/app-store-badge.svg" alt="Download on the App Store" height="52" /></a>
 
+Comparing us against the field? See the app-by-app checks: [no ads](/blog/bible-apps-for-kids-no-ads), [quiz after every story](/blog/bible-apps-with-quiz-after-every-lesson), [parent dashboard](/blog/bible-apps-with-parent-dashboard).
+
 ## Frequently Asked Questions
 
 ### Is the Faithful Kids app free?

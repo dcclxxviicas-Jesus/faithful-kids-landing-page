@@ -143,6 +143,8 @@ For the streaming side of the decision, our [Minno review](/blog/minno-review) a
 
 For the full details on our own iOS app — features, pricing, ages — see the [Faithful Kids app](/blog/faithful-kids-app) page.
 
+If you'd rather not switch apps at every age band, see [Christian apps that grow with your child from 5 to 15](/blog/christian-apps-that-grow-with-your-child); for coverage, [apps that take kids through the whole Bible in order](/blog/bible-apps-whole-bible-in-order-for-kids).
+
 ## Frequently Asked Questions
 
 ### My child is 6 -- is Faithful Kids too advanced?

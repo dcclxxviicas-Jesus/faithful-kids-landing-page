@@ -146,6 +146,8 @@ See the difference active learning makes. Start your 7-day free trial and watch 
 
 Choosing between the streaming platforms themselves? [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) compares all three head-to-head on price, catalog, and ages.
 
+For coverage-focused families, our comparison of [apps that take kids through the whole Bible in order](/blog/bible-apps-whole-bible-in-order-for-kids) shows which apps are built as a Genesis-to-Revelation path.
+
 ## Frequently Asked Questions
 
 ### Is Yippee TV the same as VeggieTales?

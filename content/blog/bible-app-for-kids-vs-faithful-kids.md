@@ -156,6 +156,8 @@ Ready to see the difference for yourself? Faithful Kids offers a [free 7-day tri
 
 Faithful Kids is now on the App Store for iPhone and iPad — the [Faithful Kids app page](/blog/faithful-kids-app) covers the download, pricing, and Made for Kids details.
 
+If the outgrowing problem is your real question, our comparison of [Christian apps that grow with your child](/blog/christian-apps-that-grow-with-your-child) covers which apps span 5 to 15.
+
 ## Frequently Asked Questions
 
 ### Can I use both Bible App for Kids and Faithful Kids at the same time?

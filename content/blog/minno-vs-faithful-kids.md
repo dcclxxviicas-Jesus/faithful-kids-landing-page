@@ -70,6 +70,8 @@ Weighing Minno against the other streaming options instead? Our [Minno review](/
 
 Both apps live on the App Store — for ours, the [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside and how the free trial works.
 
+Deciding on a single feature? See the app-by-app checks for [no ads](/blog/bible-apps-for-kids-no-ads) and [a parent dashboard](/blog/bible-apps-with-parent-dashboard).
+
 ## Frequently Asked Questions
 
 ### Is Minno or Faithful Kids better overall?

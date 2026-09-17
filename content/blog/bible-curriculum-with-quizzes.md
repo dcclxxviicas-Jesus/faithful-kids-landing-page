@@ -86,6 +86,8 @@ No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs o
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 
+For the app side of this question, our comparison of [Bible apps with a quiz after every lesson](/blog/bible-apps-with-quiz-after-every-lesson) checks which apps actually verify comprehension.
+
 ## Frequently Asked Questions
 
 ### Do quizzes really help kids remember Bible stories?

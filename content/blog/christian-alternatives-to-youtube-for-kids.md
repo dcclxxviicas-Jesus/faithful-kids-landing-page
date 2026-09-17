@@ -112,6 +112,8 @@ Pair this with our free [wise men coloring page](/printables/bible-coloring-page
 
 Faithful Kids is on the App Store for iPhone and iPad — the [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside, safety, and pricing.
 
+If ad-safety is the deciding factor, our app-by-app check of [Bible apps with no ads and nothing a child can buy](/blog/bible-apps-for-kids-no-ads) verifies each vendor's own claim.
+
 ## Frequently Asked Questions
 
 ### What is the safest video app for Christian kids?

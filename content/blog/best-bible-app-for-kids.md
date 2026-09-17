@@ -27,6 +27,8 @@ Every cell below was checked against the vendor's own site or App Store listing 
 | Guardians of Ancora | Free | — | 8-11 | "no advertisements or in-app purchases" | No | No | iOS, Android, Fire | ~30 stories |
 | TruPlay | $12.99/mo · $69.99/yr | Yes | 4+ | "no ads" | No | — | iOS | No |
 
+**Compare by the thing you actually care about:** [no ads and nothing a child can buy](/blog/bible-apps-for-kids-no-ads) · [a quiz after every story](/blog/bible-apps-with-quiz-after-every-lesson) · [a parent dashboard](/blog/bible-apps-with-parent-dashboard) · [one app that grows with them from 5 to 15](/blog/christian-apps-that-grow-with-your-child) · [the whole Bible in order](/blog/bible-apps-whole-bible-in-order-for-kids)
+
 ---
 
 ## 1. Faithful Kids — Best Overall

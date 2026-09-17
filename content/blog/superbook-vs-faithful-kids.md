@@ -155,6 +155,8 @@ Want to see the learning approach in action? Faithful Kids offers a [free 7-day 
 
 Comparing Superbook to the streaming platforms instead? [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) puts the three side by side, free option included.
 
+The quiz difference generalizes: our comparison of [Bible apps with a quiz after every lesson](/blog/bible-apps-with-quiz-after-every-lesson) covers the whole field.
+
 ## Frequently Asked Questions
 
 ### Is Superbook doctrinally accurate?

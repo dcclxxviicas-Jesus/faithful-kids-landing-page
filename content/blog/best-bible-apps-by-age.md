@@ -145,6 +145,8 @@ For the full details on our own iOS app — features, pricing, ages — see the 
 
 If you'd rather not switch apps at every age band, see [Christian apps that grow with your child from 5 to 15](/blog/christian-apps-that-grow-with-your-child); for coverage, [apps that take kids through the whole Bible in order](/blog/bible-apps-whole-bible-in-order-for-kids).
 
+For the teen years specifically, the dedicated [Bible apps for teens](/blog/bible-apps-for-teens) guide covers 13-16 including graduation to adult apps.
+
 ## Frequently Asked Questions
 
 ### My child is 6 -- is Faithful Kids too advanced?

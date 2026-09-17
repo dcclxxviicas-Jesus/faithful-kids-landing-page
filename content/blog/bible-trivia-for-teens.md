@@ -218,6 +218,8 @@ The best way to get better at Bible trivia is to actually read the Bible. Here a
 
 Think Bible learning is just for little kids? Think again. Faithful Kids offers video lessons, quizzes, and reflections that make Scripture engaging for ages 7-15. Each episode covers a different Bible story with the kind of detail that would help you crush any trivia competition. [Start your free trial today](https://faithfulkids.app/quiz) and level up your Bible knowledge.
 
+If the phone is where your teen lives anyway, our honest guide to [Bible apps for teens](/blog/bible-apps-for-teens) covers what fits 13-15 and what to graduate to at 16.
+
 ## Frequently Asked Questions
 
 ### Where can I find more challenging Bible trivia questions?

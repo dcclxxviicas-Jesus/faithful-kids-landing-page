@@ -268,6 +268,8 @@ We have eleven [Bible word search puzzles for kids](/printables/bible-word-searc
 
 Before the meeting, skim our [youth group games](/blog/youth-group-games) — every entry says what it needs and how long it takes to set up.
 
+If the budget is zero, start with our verified list of [free Bible curriculum for kids ministry](/blog/free-bible-curriculum-for-kids-ministry).
+
 ## Frequently Asked Questions
 
 ### How do I handle a wide age range in my Sunday School class?

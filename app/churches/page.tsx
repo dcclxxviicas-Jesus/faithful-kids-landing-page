@@ -109,7 +109,8 @@ export default function Churches() {
             <h3>Embeddable trivia game</h3>
             <p>
               Put our <a href="/bible-trivia#embed" style={{ color: 'var(--primary)', fontWeight: 700 }}>free Bible trivia game</a> (<a href="/blog/bible-trivia-embed-for-church-website" style={{ color: 'var(--primary)', fontWeight: 700 }}>setup guide</a>) directly on
-              your church website — kids play right on your page.
+              your church website — kids play right on your page. Budgeting the whole ministry year?{' '}
+              <a href="/blog/free-bible-curriculum-for-kids-ministry" style={{ color: 'var(--primary)', fontWeight: 700 }}>Here's everything that's actually free</a>.
             </p>
           </div>
           <div className="feature-item">

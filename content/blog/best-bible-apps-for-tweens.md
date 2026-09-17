@@ -106,6 +106,8 @@ Faithful Kids is available for iPhone and iPad — see the [Faithful Kids app](/
 
 Two related comparisons for this age: [apps that grow with your child from 5 to 15](/blog/christian-apps-that-grow-with-your-child) and [apps with a parent dashboard](/blog/bible-apps-with-parent-dashboard).
 
+And for the next stage after tweens: [Bible apps for teens (13-16)](/blog/bible-apps-for-teens), including when to graduate to adult apps.
+
 ## Frequently Asked Questions
 
 ### What is the best free Bible app for a tween?

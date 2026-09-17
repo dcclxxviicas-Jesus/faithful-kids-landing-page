@@ -196,6 +196,8 @@ Youth leaders: the master list of [youth group games](/blog/youth-group-games) i
 
 For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
 
+For between-Sundays, our guide to [Bible apps for teens](/blog/bible-apps-for-teens) covers the apps that don't feel babyish at 14.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson for teens be?

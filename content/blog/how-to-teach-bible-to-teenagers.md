@@ -143,6 +143,8 @@ Plant the seeds. Water them with patience, honesty, and love. And trust the God 
 
 Short, engaging Bible videos designed for kids ages 7-15 can be a powerful supplementary tool for teens who prefer visual content. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and give your teenager a way to engage with Scripture that respects their intelligence and meets them in a format they actually enjoy.
 
+For the tools side, see our guide to [Bible apps for teens who've outgrown the kids' apps](/blog/bible-apps-for-teens) — including the free adult apps worth graduating to.
+
 ## Frequently Asked Questions
 
 ### My teenager refuses to do any Bible study. Should I force them?

@@ -127,6 +127,8 @@ Pair this with a [Bible word search puzzle](/printables/bible-word-search) — N
 
 When the lesson lands early and twenty minutes remain, a page of [youth group games by group size](/blog/youth-group-games) is the fastest save.
 
+Planning a whole year on no budget? Our roundup of [free Bible curriculum for kids ministry](/blog/free-bible-curriculum-for-kids-ministry) lists the genuinely free programs, vendor-verified.
+
 ## Frequently Asked Questions
 
 ### Are these Sunday school lessons for kids really free?

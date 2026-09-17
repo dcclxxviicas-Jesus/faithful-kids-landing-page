@@ -122,6 +122,8 @@ Youth leaders: the master list of [youth group games](/blog/youth-group-games) i
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 
+Budget tip: our roundup of [free Bible curriculum for kids ministry](/blog/free-bible-curriculum-for-kids-ministry) covers what's actually free, including full per-child app accounts for churches.
+
 ## Frequently Asked Questions
 
 ### What makes a good Sunday school teacher?

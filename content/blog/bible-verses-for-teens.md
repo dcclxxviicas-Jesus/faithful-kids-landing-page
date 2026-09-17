@@ -138,6 +138,8 @@ The short answer: small doses, real moments, zero lectures. What works in actual
 
 For the game portion of the night, these [youth group games sorted by group size](/blog/youth-group-games) cover everything from four students to forty.
 
+To build a daily habit around these verses, see the honest roundup of [Bible apps for teens](/blog/bible-apps-for-teens).
+
 ## Frequently Asked Questions
 
 ### What is the best Bible verse for a teenager?

@@ -504,6 +504,20 @@ unverifiable $3.99 neutralized. dateModified bumped on all eight.
 Measurement: these serve AI retrieval — judge by the monthly
 discovery-mention rate (baseline 8%), NOT GSC impressions.
 
+**Sep 16 (later) — the need-page program is COMPLETE (all 19 items):** aeo's
+five new comparison pages got their birth kit (15 need-matched in-links incl.
+a "compare by the thing you care about" nav block under the master table;
+llms.txt comparisons filter now includes bible-apps-*/christian-apps-*), and
+the two orphan items shipped from this lane: **/blog/bible-apps-for-teens**
+(the one need with human volume — 50/mo cs, KD 6; honest 13-15 vs 16+ split,
+names YouVersion/BiOY Youth/Streetlights for older teens) and
+**/blog/free-bible-curriculum-for-kids-ministry** (vendor-verified: Orange
+252 $525-2,859/yr, Gospel Project tiered-with-no-number-published,
+pursueGOD/Max7/Life.Church Open genuinely free; leads with the free list
+incl. our church program — this is the teacher-intent → /churches funnel
+page, and /churches links it). Measurement for the whole program: monthly
+AI discovery-mention rate vs the 8% baseline, NOT GSC.
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

@@ -518,6 +518,25 @@ incl. our church program — this is the teacher-intent → /churches funnel
 page, and /churches links it). Measurement for the whole program: monthly
 AI discovery-mention rate vs the 8% baseline, NOT GSC.
 
+**Sep 17 — GSC "Video indexing" report: DECIDED, DO NOT RE-LITIGATE.** The
+report shows 229 videos detected / 0 indexed, reason: **"Video isn't on a
+watch page."** That reason is STRUCTURAL, not technical: since Google's 2024
+policy change, video-results indexing requires a dedicated watch page where
+the video is the page's primary content — article-with-video pages (our 200
+story posts) are categorically excluded, and NO schema fixes it. The Sep 17
+schema weld (VideoObject @id + mainEntityOfPage + Article.video, commit
+746558f) stays — it is truthful metadata, costs nothing, and keeps us
+eligible if policy loosens — but it cannot cure this reason. The fix that
+exists (build ~229 dedicated /watch pages) was REJECTED: thin-content risk
+at scale, cannibalization against both the story posts and our own YouTube
+uploads, and the video-results job is already done by the YouTube channel,
+which IS a watch-page platform and ranks there. Do not press "Validate fix"
+in GSC (it would simply fail and reset the clock). This report affects video
+results ONLY — the story posts' normal web rankings are untouched. Revisit
+only if (a) Google's watch-page policy changes, or (b) we someday build
+public watch pages for a product reason, in which case video indexing comes
+free.
+
 **Measured trend across this period (28-day windows):** clicks 118 → 318 →
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.

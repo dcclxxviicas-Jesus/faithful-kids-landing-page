@@ -159,6 +159,11 @@ export default async function BlogPostPage({ params }: Props) {
     educationalLevel: 'beginner',
     audience: { '@type': 'EducationalAudience', educationalRole: 'parent' },
     ...(post.series ? { isPartOf: { '@type': 'CreativeWorkSeries', name: `${post.series} - Faithful Kids Bible Series` } } : {}),
+    // Story posts: the article's video property points at the VideoObject by
+    // @id, welding the two nodes into one entity for video indexing.
+    ...(post.videoUrl && post.seriesSlug && post.episode
+      ? { video: { '@id': `https://faithfulkids.app/blog/${post.slug}#video` } }
+      : {}),
     about: { '@type': 'Thing', name: `${titleWithoutForKids} Bible Story` },
   }
 
@@ -202,6 +207,12 @@ export default async function BlogPostPage({ params }: Props) {
     ? {
         '@context': 'https://schema.org',
         '@type': 'VideoObject',
+        '@id': `https://faithfulkids.app/blog/${post.slug}#video`,
+        // The video IS the main media of a story post — say so explicitly.
+        // GSC's video-indexing report (Sep 2026) showed 229 pages with
+        // detected videos and zero indexed; the join below plus this flag is
+        // the schema-side cure for "video isn't the main content".
+        mainEntityOfPage: `https://faithfulkids.app/blog/${post.slug}`,
         name: `${post.title} — Bible Story Video`,
         description: post.metaDescription,
         thumbnailUrl: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,

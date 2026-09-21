@@ -68,6 +68,7 @@ Match the show's length and format to your child's attention span, not their rea
 | Adventures in Odyssey | 8-12 | Audio drama | ~25 min |
 | Brinkman Adventures | 8-14 | Missionary drama | ~25 min |
 | BibleProject | 12+ | Discussion | 45-60 min |
+| [Faithful Kids](/blog/faithful-kids-app) (app, not a podcast) | 5-15 | Video Bible lesson + quiz | 2-3 min |
 
 Don't treat the bands as walls -- younger siblings ride along on older kids' shows constantly, and that's fine. The bigger mistake is starting too old: a bored 5-year-old during a Brinkman episode just needs Kids Bible Stories for another year or two.
 

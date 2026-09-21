@@ -66,6 +66,8 @@ Frame the change as a promotion, not a replacement -- kids at this age are motiv
 4. **Do the first week together.** Sit in on the first few lessons, ask what they got right on the quizzes, and let them teach you something. Independence can come in week two.
 5. **Expect a dip.** The toddler app was frictionless; anything with real learning has friction. A short novelty dip is normal and passes -- quitting during the dip is how families end up with no Bible app at all.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### What age is the Bible App for Kids actually for?

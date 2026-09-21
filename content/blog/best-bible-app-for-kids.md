@@ -189,6 +189,8 @@ For deeper dives on the individual platforms, see our [Minno review](/blog/minno
 
 Faithful Kids itself is now on the App Store — our [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside, pricing, and the Made for Kids safety details.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### What is the best Bible app for a 5-year-old?

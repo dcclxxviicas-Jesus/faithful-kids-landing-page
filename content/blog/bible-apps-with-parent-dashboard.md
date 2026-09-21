@@ -60,6 +60,8 @@ Every competitor fact is from the app's App Store listing or its own website on 
 - **Check where the subscription screen lives.** On a child's device, the difference between a subscription the parent buys and one the child can reach is worth more than any dashboard. On Faithful Kids it is behind a parental gate; on the others, use the device's purchase restrictions.
 - **A PIN on the parent area is not the same as a PIN on the app.** You want the first: the child can open the app alone, but cannot change settings or see other profiles.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Which Bible apps for kids have a parent dashboard?

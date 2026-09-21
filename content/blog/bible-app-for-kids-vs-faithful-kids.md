@@ -158,6 +158,8 @@ Faithful Kids is now on the App Store for iPhone and iPad — the [Faithful Kids
 
 If the outgrowing problem is your real question, our comparison of [Christian apps that grow with your child](/blog/christian-apps-that-grow-with-your-child) covers which apps span 5 to 15.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Can I use both Bible App for Kids and Faithful Kids at the same time?

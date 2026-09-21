@@ -60,6 +60,8 @@ Every fact about another app is from its App Store listing or its own website on
 - **You want shows on the TV, not lessons:** Minno.
 - **You want free, and a game rather than a quiz:** Superbook or SunScool.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Which Bible apps for kids have a quiz after every story?

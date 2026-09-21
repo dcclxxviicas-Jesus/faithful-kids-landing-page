@@ -59,6 +59,9 @@ A small Ottawa-based channel of gentle worship and prayer songs for young childr
 ### 15. BibleProject
 Not a kids channel, but the best Bible-explainer channel on YouTube for ages 10 and up: gorgeous whiteboard-style animations unpacking books of the Bible, biblical themes, and words like *shalom* and *covenant*. Watch together -- parents consistently learn as much as tweens do. Ages 10+.
 
+### 16. Faithful Kids (not a YouTube channel — for when the video should end)
+Our own app, listed here honestly because parents ask: it's what the families on this list's channels often graduate to. 300+ short Bible story videos in order from Genesis to Revelation, each followed by a quiz — and when the video ends, nothing autoplays next. There's a [free YouTube channel](https://www.youtube.com/@faithfulkidsapp) with lesson samples, and the app itself is subscription-based with a free trial. Ages 5-15.
+
 ## What Age Fits Which Channel?
 
 Preschoolers do best with slow, gentle channels; tweens need substance -- here's the quick match-up.
@@ -66,8 +69,8 @@ Preschoolers do best with slow, gentle channels; tweens need substance -- here's
 | Age | Best channels |
 |-----|---------------|
 | 2-5 | Douglas Talks, The Beginner's Bible, Cedarmont Kids, Listener Kids, Little Voices for God, LifeKids (Bible Adventure) |
-| 5-9 | Saddleback Kids, Crossroads Kids' Club, VeggieTales, Superbook, Minno, Sharefaith Kids, Yancy |
-| 9-12 | Superbook, What's in the Bible?, BibleProject (together) |
+| 5-9 | Saddleback Kids, Crossroads Kids' Club, VeggieTales, Superbook, Minno, Sharefaith Kids, Yancy, Faithful Kids (app) |
+| 9-12 | Superbook, What's in the Bible?, BibleProject (together), Faithful Kids (app) |
 | 12+ | BibleProject |
 
 ## Is YouTube Actually Safe for Kids, Even on Christian Channels?

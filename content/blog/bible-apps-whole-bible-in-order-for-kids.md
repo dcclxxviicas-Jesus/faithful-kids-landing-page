@@ -55,6 +55,8 @@ Competitor facts are from each app's App Store listing or website on the date ab
 
 **Minno** — shows. What a child learns about the Old Testament depends on which show they picked.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Which Bible apps for kids go through the whole Bible in order?

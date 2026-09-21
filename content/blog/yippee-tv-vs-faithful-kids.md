@@ -148,6 +148,8 @@ Choosing between the streaming platforms themselves? [Minno vs Superbook vs Yipp
 
 For coverage-focused families, our comparison of [apps that take kids through the whole Bible in order](/blog/bible-apps-whole-bible-in-order-for-kids) shows which apps are built as a Genesis-to-Revelation path.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Is Yippee TV the same as VeggieTales?

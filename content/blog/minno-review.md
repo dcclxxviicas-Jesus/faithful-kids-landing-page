@@ -56,6 +56,8 @@ Against **Faithful Kids** — a different category. Minno is entertainment; [Fai
 
 **Look elsewhere if** your kids are past 10 (the catalog skews young), your budget says free (Superbook), VeggieTales exclusives are the draw (Yippee), or your actual goal is Bible learning with visible progress — that is a [learning tool's](/blog/best-bible-app-for-kids) job, not a streaming library's.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### How much does Minno cost?

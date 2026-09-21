@@ -62,6 +62,8 @@ An app grows with a child when three things are true at once, and most apps mana
 - **Ages 8 to 12:** Superbook if you want free and animated; Faithful Kids if you want the whole Bible in order with a quiz and a dashboard.
 - **Ages 12 to 15:** Faithful Kids is the only app on this list that states this range. Past fifteen, a teen is ready for an adult Bible app — YouVersion, or a reading plan.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Which Christian apps are for kids and teens, not just little kids?

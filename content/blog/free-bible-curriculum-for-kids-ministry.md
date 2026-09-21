@@ -23,6 +23,18 @@ Each of these is free by mission, not as a teaser. The differences are format an
 
 ## What the Big Paid Curricula Cost
 
+The complete cost picture, one table (checked on the vendors' own sites, September 16, 2026):
+
+| Program | Format | Cost per year |
+|---|---|---|
+| Faithful Kids for Churches | Per-child app accounts, 300+ video lessons + quizzes | **Free for churches** |
+| pursueGOD Kids | Video lessons + printables | Free |
+| Life.Church Open (Bible Adventure) | Full downloadable curriculum | Free |
+| Max7 | Curriculum, videos, training (multilingual) | Free |
+| Ministry-to-Children | Printable lessons and games | Free |
+| Orange 252 Kids | Full curriculum + media packages | $525-$2,859 |
+| Gospel Project for Kids (Lifeway) | Three-year Christ-centered arc | Tiered by class size (see Lifeway) |
+
 For comparison, the two names most ministries price first:
 
 - **Orange 252 Kids** — annual license from **$525 to $2,859** depending on package and ministry size, with monthly bundle plans and a free trial month. Polished, large-church-grade, priced like it.

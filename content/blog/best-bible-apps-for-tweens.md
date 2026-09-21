@@ -108,6 +108,8 @@ Two related comparisons for this age: [apps that grow with your child from 5 to 
 
 And for the next stage after tweens: [Bible apps for teens (13-16)](/blog/bible-apps-for-teens), including when to graduate to adult apps.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### What is the best free Bible app for a tween?

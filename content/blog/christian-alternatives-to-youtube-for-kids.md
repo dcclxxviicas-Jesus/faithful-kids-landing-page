@@ -114,6 +114,8 @@ Faithful Kids is on the App Store for iPhone and iPad — the [Faithful Kids app
 
 If ad-safety is the deciding factor, our app-by-app check of [Bible apps with no ads and nothing a child can buy](/blog/bible-apps-for-kids-no-ads) verifies each vendor's own claim.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### What is the safest video app for Christian kids?

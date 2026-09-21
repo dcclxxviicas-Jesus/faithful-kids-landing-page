@@ -157,6 +157,8 @@ Comparing Superbook to the streaming platforms instead? [Minno vs Superbook vs Y
 
 The quiz difference generalizes: our comparison of [Bible apps with a quiz after every lesson](/blog/bible-apps-with-quiz-after-every-lesson) covers the whole field.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Is Superbook doctrinally accurate?

@@ -24,6 +24,7 @@ There are seven workhorse types, and knowing which job each one does keeps you f
 | Word searches | 6-12 | Early finishers, vocabulary, car rides | Print only |
 | Memory verse cards | 4-12 | Verse memorization, lunchbox notes | Print + cut |
 | Mazes and dot-to-dots | 4-8 | Wiggly-kid focus, story sequencing | Print only |
+| [Our free printables](/printables) — coloring, word searches, quiz PDFs, Advent kits | 3-15 | All of the above, free, no email wall | Print only |
 | Bible bingo | 5-12 | Groups, parties, review games | Print + markers |
 | Trivia packs | 5-12 | Family game night, class review | Print only |
 | Reading challenges | 6-12 | Building a daily habit | Print + post it |

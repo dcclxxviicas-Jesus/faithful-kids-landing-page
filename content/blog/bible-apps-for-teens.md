@@ -31,6 +31,8 @@ The right move at 16 isn't a better kids' app — it's an adult tool plus a habi
 
 The apps drawn for early childhood — YouVersion's Bible App for Kids (ages 4-8), Superbook (produced for roughly 5-12), and the animated streaming libraries — are excellent for the ages on their labels and quietly insulting past them. Our [Christian apps that grow with your child](/blog/christian-apps-that-grow-with-your-child) comparison covers which apps span ages instead of stopping at eight.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### What is the best free Bible app for a teenager?

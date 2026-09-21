@@ -68,6 +68,8 @@ Every paid app on this list is ad-free; that is the baseline you are paying for.
 3. Scroll to the **privacy label** (App Store) or **Data safety** (Play).
 4. On the app's own website, look for the same claim in its own words. If the site and the listing disagree, believe the listing; it is the one the platform reviews.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Is the Bible App for Kids really free with no ads?

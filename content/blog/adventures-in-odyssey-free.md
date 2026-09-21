@@ -86,3 +86,5 @@ Yes, through the Club app — which is what makes the 14-day trial genuinely use
 
 ### Is Adventures in Odyssey good for young kids?
 It suits roughly ages 6 and up. Younger children sometimes struggle with audio-only drama with no pictures to anchor them, while older kids tend to stay with it longer than they do with most children's video.
+
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).

@@ -57,6 +57,8 @@ Then, when you're ready:
 
 Comparing us against the field? See the app-by-app checks: [no ads](/blog/bible-apps-for-kids-no-ads), [quiz after every story](/blog/bible-apps-with-quiz-after-every-lesson), [parent dashboard](/blog/bible-apps-with-parent-dashboard).
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Is the Faithful Kids app free?

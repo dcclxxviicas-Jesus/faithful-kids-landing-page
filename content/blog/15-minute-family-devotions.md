@@ -138,7 +138,7 @@ For the wind-down nights specifically, our free [Bedtime Bible Kit](/printables/
 
 ## The App Route: Devotions With the Prep Done for You
 
-Some seasons of life have no margin for planning even a 15-minute structure — and a devotional app is the honest fallback, not a failure. The shape to look for is the one this whole guide teaches: a short anchor in Scripture, then talk, then prayer. Faithful Kids compresses that into about ten minutes with the prep done for you: one Bible story video, one three-question quiz, one reflection question to talk about — then you close in prayer. For audio-first families, Keys for Kids publishes a free daily audio devotional that works well in the car. Whatever tool you use, keep the talking part human: the app can carry the story, but the conversation is the devotion.
+Some seasons of life have no margin for planning even a 15-minute structure — and a devotional app is the honest fallback, not a failure. The shape to look for is the one this whole guide teaches: a short anchor in Scripture, then talk, then prayer. Faithful Kids compresses that into about ten minutes with the prep done for you: one Bible story video, one short quiz (three to five questions on most lessons), one reflection question to talk about — then you close in prayer. For audio-first families, Keys for Kids publishes a free daily audio devotional that works well in the car. Whatever tool you use, keep the talking part human: the app can carry the story, but the conversation is the devotion.
 
 ## Frequently Asked Questions
 

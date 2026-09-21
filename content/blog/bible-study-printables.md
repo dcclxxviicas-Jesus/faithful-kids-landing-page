@@ -105,6 +105,8 @@ Sermon notes have a second use worth knowing: they work identically for video le
 
 For the rest of the printable landscape -- coloring pages, word searches, bingo, mazes -- see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). Sunday school teachers building lessons around these sheets should also look at our [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school).
 
+All five printables on this page are ours, free, with no email wall — and they pair with the rest of the [Faithful Kids free printables](/printables): coloring pages, word searches, and quiz PDFs with answer keys.
+
 ## How Do You Fit All Five Into One Week?
 
 You do not use all five at once. A realistic week for a family with elementary-age kids:

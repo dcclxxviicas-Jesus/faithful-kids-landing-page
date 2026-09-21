@@ -221,6 +221,8 @@ Ready to try the app built specifically for daily Bible learning? [Start your fr
 
 Faithful Kids is on the App Store — see the [Faithful Kids app page](/blog/faithful-kids-app) for the download link, pricing, and Made for Kids details.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Are Christian apps safe for kids in terms of data privacy?

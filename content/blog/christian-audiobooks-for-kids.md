@@ -60,6 +60,7 @@ Your library card is the biggest bargain in Christian audio -- the Libby and Hoo
 | Podcast apps | Paws & Tales, Brinkman episodes | Free |
 | Audible / Libro.fm | Owning unabridged audiobooks | ~$8-15/title |
 | christianaudio.com | Christian titles, frequent sales | Varies |
+| [Faithful Kids](/blog/faithful-kids-app) (video, not audio) | Bible lessons with captions, for when screens are okay | $12.99/mo, free trial |
 | Focus on the Family store | Radio Theatre, Odyssey albums | ~$5-35 |
 | Ministry sites (Lamplighter, Brinkman) | Their own dramas | Varies |
 
@@ -70,6 +71,8 @@ Two more money-savers: christianaudio runs deep sales (their free monthly downlo
 Audiobooks work best as the "everywhere else" layer of a simple rhythm: read Scripture together at the table, listen to story audio in the car and at bedtime, and use interactive tools for focused learning. Jesus taught in stories for a reason -- narrative slips past defenses that lectures trigger, and "Faith comes from hearing" (Romans 10:17) was audio-first from the start.
 
 Many families in our community pair car-ride audio with the video lessons at [Faithful Kids](https://faithfulkids.app/quiz), where each Bible story comes with a quiz and reflection -- the audiobook feeds imagination, the quiz confirms understanding. And when a young listener falls in love with a story world, hand them the print edition next; audio-to-print is the most reliable pipeline for building readers, as we cover in our list of [Christian books for kids](/blog/christian-books-for-kids).
+
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
 
 ## Frequently Asked Questions
 

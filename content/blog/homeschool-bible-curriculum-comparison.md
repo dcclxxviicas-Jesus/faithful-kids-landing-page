@@ -263,6 +263,8 @@ Looking for a Bible curriculum your kids will actually ask to do? Faithful Kids 
 
 Two app comparisons that matter for homeschool: [whole Bible in order](/blog/bible-apps-whole-bible-in-order-for-kids) and [a quiz after every lesson](/blog/bible-apps-with-quiz-after-every-lesson).
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### What is the best free Bible curriculum for homeschool?

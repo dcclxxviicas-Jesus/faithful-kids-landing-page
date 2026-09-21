@@ -62,6 +62,8 @@ That is the gap [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-3way)
 
 **Leading a Sunday school or kids ministry?** Faithful Kids is [free for churches](/churches) — every kid in your class gets the full lesson library at no cost.
 
+Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
+
 ## Frequently Asked Questions
 
 ### Is Superbook really completely free?

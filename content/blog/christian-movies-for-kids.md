@@ -105,6 +105,11 @@ Ask one open question, then let silence do the work. Kids shut down under quizzi
 
 If your kids love the movie versions of these stories, that interest is a door. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through the same Bible narratives -- Moses, Joseph, Jonah, David -- in short episodes with a quiz after each one, so the stories stick long after movie night. And for the everyday screen-time rhythm between movie nights, see our [screen time rules for Christian families](/blog/screen-time-rules-christian-families), the shorter-form picks in [Christian cartoons for kids](/blog/christian-cartoons-for-kids), and our full guide to [Christian alternatives to YouTube for kids](/blog/christian-alternatives-to-youtube-for-kids).
 
+### 19. Faithful Kids (not a movie — for between movie nights)
+Listed honestly as ours: not a film, but what fills the gap between them. 300+ short Bible story videos, a few minutes each, in order from Genesis to Revelation with a quiz after every story — the nights you don't have 90 minutes, you still have three. Subscription with a free trial. Ages 5-15.
+**Talk about it:** After any movie on this list, ask which parts were in the Bible and which were added — then watch the real story's short lesson together.
+
+
 ## Frequently Asked Questions
 
 ### What is the best Christian movie for family movie night?

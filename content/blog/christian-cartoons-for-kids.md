@@ -17,7 +17,7 @@ Every show on this list is one we'd let play in our own living rooms. Streaming 
 
 A good Christian cartoon teaches something true about God while being entertaining enough that your kid asks for it by name. That second part matters more than parents like to admit. A show with perfect theology that bores your seven-year-old will lose every time to whatever the algorithm serves up next. The shows below clear both bars: solid content and genuine kid appeal. If you're trying to replace autoplay entirely, our guide to [Christian alternatives to YouTube for kids](/blog/christian-alternatives-to-youtube-for-kids) covers the full landscape of apps and platforms.
 
-## The 15 Best Christian Cartoons for Kids
+## The 15 Best Christian Cartoons for Kids (Plus One That Isn't a Cartoon)
 
 ### 1. VeggieTales
 **Ages 3-10.** The gold standard for a reason. Bob the Tomato and Larry the Cucumber retell Bible stories and teach values with humor that genuinely lands for parents too -- the Silly Songs alone have carried three decades of family car rides. Classic episodes stream on Yippee TV and are widely available on DVD; the newer Netflix-era spinoffs (VeggieTales in the House) are lighter on Bible content than the originals.
@@ -64,6 +64,9 @@ A good Christian cartoon teaches something true about God while being entertaini
 ### 15. Theo Presents
 **Ages 5-10.** A gentle British teacher named Theo and two mice explain core theology -- grace, forgiveness, salvation -- in short, beautifully animated episodes. This is the show to reach for when you want actual doctrine taught simply, not just morals. Available on DVD and select streaming platforms.
 
+### 16. Faithful Kids (not a cartoon -- for kids who have outgrown them)
+**Ages 5-15.** We make this one, so weigh it accordingly. It is not animated: a narrator tells each Bible story in a two-to-three-minute video, then the child answers a short quiz and a reflection question, and the parent sees the score. 310 lessons run in order from Genesis to Revelation across 31 series. It belongs on this list for the child who finds cartoons babyish at nine or ten but is not ready for an adult Bible app -- the age where most of the shows above stop. Web and iOS, no ads, free for churches; $12.99 a month or $97 a year on the web (7-day trial on annual), $8.99 or $79.99 through Apple (3-day trial). [Details and pricing](/pricing).
+
 ## Which Christian Cartoon Fits Which Age?
 
 Match the show to your kid's age and you'll get a lot less pushback. Here's the quick reference:
@@ -74,6 +77,7 @@ Match the show to your kid's age and you'll get a lot less pushback. Here's the 
 | 4-7 | VeggieTales, Owlegories, 3-2-1 Penguins!, Davey and Goliath | Humor + one clear lesson per episode |
 | 7-10 | Superbook, Bibleman, LarryBoy, Micah's Super Vlog, Theo | Action and real Bible text |
 | 9-12 | Friends and Heroes, What's in the Bible?, Adventures in Odyssey, The Greatest Adventure | Deeper stories, big-picture teaching |
+| 9-15 | Faithful Kids (narrated, not animated) | Whole Bible in order, a quiz after every story, for kids past cartoons |
 
 There is a free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) on our site too, printable on one sheet with no sign-up.
 

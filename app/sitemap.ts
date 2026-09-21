@@ -36,7 +36,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       // Canonical facts page (pricing, ages, safety) — written for answer
       // engines; the page LLMs should cite for "what is Faithful Kids".
       url: `${baseUrl}/about`,
-      lastModified: new Date('2026-08-27'),
+      lastModified: new Date('2026-09-21'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      // Every price and trial length, both platforms, with Offer schema. Exists
+      // because engines invented prices when there was no page to retrieve.
+      url: `${baseUrl}/pricing`,
+      lastModified: new Date('2026-09-21'),
       changeFrequency: 'monthly',
       priority: 0.7,
     },

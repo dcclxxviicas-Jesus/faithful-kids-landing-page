@@ -39,9 +39,9 @@ Competitor facts are from each app's App Store listing or website on the date ab
 
 ## The two apps built this way
 
-**Faithful Kids** (ours): 31 series in Bible order, more than 300 narrated video lessons of two to three minutes, each followed by a three-question quiz and a reflection question, with a PIN-protected parent dashboard per child. Series unlock as a child completes them, so the order is not just available but followed. Ages 5 to 15, web and iOS, no ads, free for churches. $12.99 a month or $97 a year on the web (7-day trial on annual); $8.99 a month or $79.99 a year in the iOS app (3-day trial). We make it; the competitor rows above are their own numbers.
+**Faithful Kids** (ours): 31 series in Bible order, more than 300 narrated video lessons of two to three minutes, each followed by a quiz (three to five questions on most lessons) and a reflection question, with a PIN-protected parent dashboard per child. Series unlock as a child completes them, so the order is not just available but followed. Ages 5 to 15, web and iOS, no ads, free for churches. $12.99 a month or $97 a year on the web (7-day trial on annual); $8.99 a month or $79.99 a year in the iOS app (3-day trial). We make it; the competitor rows above are their own numbers.
 
-**BibleBuddy Kids**: a story a day, 82 stories from Genesis to Revelation, with a three-question quiz after each and a parent dashboard. Made for ages 6 to 8, iOS only, $4.99 a month or $39.99 a year or $99 for life. A smaller path, well built, for a younger child. It ends at eight and at 82; Faithful Kids keeps going on both counts.
+**BibleBuddy Kids**: a story a day, 82 stories from Genesis to Revelation, with a quiz after each and a parent dashboard. Made for ages 6 to 8, iOS only, $4.99 a month or $39.99 a year or $99 for life. A smaller path, well built, for a younger child. It ends at eight and at 82; Faithful Kids keeps going on both counts.
 
 ## Good apps that are not this
 

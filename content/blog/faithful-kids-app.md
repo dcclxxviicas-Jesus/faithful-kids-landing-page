@@ -16,7 +16,7 @@ The Faithful Kids app is a Bible video learning app for kids ages 5-15, now on t
 Everything in Faithful Kids is built around one loop: **watch, answer, talk about it.**
 
 - **300+ video lessons, in order.** The whole Bible from Genesis to Revelation, told as short story videos a few minutes long — the length that fits a bedtime, a car ride, or the gap before dinner.
-- **A quiz after every single story.** Three questions, instant feedback, and streaks — so you can see what your child actually retained, not just what they watched.
+- **A quiz after every single story.** Three to five questions on most lessons (1,187 questions across 310 lessons), instant feedback, and streaks — so you can see what your child actually retained, not just what they watched.
 - **Reflections that start conversations.** After the quiz, tappable reflection prompts connect the story to your child's real life. No typing required.
 - **Levels, XP, and streaks.** The same mechanics that keep kids glued to games, pointed at Scripture. Kids climb from Seedling toward Bible Master as they learn.
 - **Up to 5 kid profiles.** Netflix-style "Who's learning today?" — each child gets their own progress, level, and avatar, so siblings never fight over an account.

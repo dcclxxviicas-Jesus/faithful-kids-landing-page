@@ -151,7 +151,7 @@ export default function AboutPage() {
         <h2>Faithful Kids by the numbers</h2>
         <p className="section-sub">Exact figures, counted from the app's own data. Updated when the data changes.</p>
         <div className="stories-faq">
-          <div className="stories-faq-item"><h3>31 series, 310 video lessons</h3><p>In Bible order, Genesis to Revelation. The first ten series are Old Testament. Each lesson is about two to three minutes (measured 1:28 to 3:37, median 2:07).</p></div>
+          <div className="stories-faq-item"><h3>31 series, 310 video lessons</h3><p>In Bible order, Genesis to Revelation. The first ten series are Old Testament. Each lesson is about two to three minutes (measured 1:28 to 3:37, median 2:07). The <a href="/blog/faithful-kids-scope-and-sequence">complete scope and sequence</a> lists every lesson.</p></div>
           <div className="stories-faq-item"><h3>1,187 quiz questions</h3><p>A quiz after every lesson: one to eight questions, three to five on most, median four. 250 of the 310 lessons have three or more.</p></div>
           <div className="stories-faq-item"><h3>A reflection question after 305 lessons</h3><p>Answered by tapping response cards, no typing. The answer is shown to the parent.</p></div>
           <div className="stories-faq-item"><h3>Up to 5 kid profiles per family</h3><p>Each with its own progress, unlocks, streak and level.</p></div>

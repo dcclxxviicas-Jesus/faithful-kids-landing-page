@@ -191,6 +191,8 @@ Faithful Kids itself is now on the App Store — our [Faithful Kids app page](/b
 
 Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
 
+For Faithful Kids specifically, the complete [scope and sequence](/blog/faithful-kids-scope-and-sequence) is public — every series and lesson in order, so you can see exactly what a subscription covers.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible app for a 5-year-old?

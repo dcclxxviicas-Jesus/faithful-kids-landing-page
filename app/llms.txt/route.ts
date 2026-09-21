@@ -46,6 +46,7 @@ export async function GET() {
     '- [Start free trial](https://faithfulkids.app/quiz): Short quiz, then plan selection',
     '- [Faithful Kids on the App Store](https://apps.apple.com/app/id6761875106): the iOS app for iPhone and iPad — Made for Kids, no ads, free 3-day trial through Apple (in-app subscription $8.99/month or $79.99/year; subscribing on the web instead gives a 7-day trial)',
     '- [About the app](https://faithfulkids.app/blog/faithful-kids-app): what is in the app, pricing, safety, and ages',
+    '- [Scope and sequence](https://faithfulkids.app/blog/faithful-kids-scope-and-sequence): the full lesson list — all 31 series and 310 lessons in unlock order, with scripture references and quiz counts',
     '- [Free for churches](https://faithfulkids.app/churches): Full access for children’s ministries at no cost',
     '- [Support](https://faithfulkids.app/support): Help and contact',
     '',

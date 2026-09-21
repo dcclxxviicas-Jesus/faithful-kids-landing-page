@@ -51,6 +51,8 @@ Whatever curriculum you run, these free pieces slot in alongside it, no sign-up:
 - [Printable quiz PDFs](/blog/bible-trivia-for-kids) — quiz sheets with separate answer keys, free to photocopy.
 - Seasonal kits: the [Jesse Tree set](/printables/jesse-tree) and [Advent reading calendar](/printables/advent-bible-calendar) for December.
 
+Evaluating the Faithful Kids church program? The complete [scope and sequence](/blog/faithful-kids-scope-and-sequence) — every series and lesson in order with scripture references — is public.
+
 ## Frequently Asked Questions
 
 ### Is Faithful Kids really free for churches?

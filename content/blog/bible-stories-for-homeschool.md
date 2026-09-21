@@ -90,6 +90,8 @@ If you want the comprehension checking done for you, this is where a tool earns 
 
 And remember that the goal of all this tracking is a habit, not a transcript. If the wheels come off in February, do not restart the plan -- just pick up at the next story. A family that finishes 150 of the 200 stories has still walked through more of the Bible than most adults ever have. For help protecting the daily slot itself, see our guide on [how to start family Bible time](/blog/how-to-start-family-bible-time).
 
+For the lesson-level detail behind this plan, the full [scope and sequence](/blog/faithful-kids-scope-and-sequence) lists all 310 lessons in unlock order with scripture references.
+
 ## Frequently Asked Questions
 
 ### Can Bible stories count as a homeschool subject?

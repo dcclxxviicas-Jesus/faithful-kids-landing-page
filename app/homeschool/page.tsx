@@ -186,6 +186,13 @@ export default function Homeschool() {
 
         {/* How a day looks */}
         <section className="how-section">
+          <p style={{ textAlign: 'center', margin: '0 24px 40px', color: '#4b5563' }}>
+            The complete curriculum map is public:{' '}
+            <a href="/blog/faithful-kids-scope-and-sequence" style={{ color: '#059669', fontWeight: 700 }}>
+              see the full scope and sequence
+            </a>{' '}
+            — all 31 series, 310 lessons, in order.
+          </p>
           <span className="section-label">In Practice</span>
           <h2>What a day looks like</h2>
           <p className="section-sub">

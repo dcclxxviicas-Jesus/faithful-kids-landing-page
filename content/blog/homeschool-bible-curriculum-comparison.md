@@ -265,6 +265,8 @@ Two app comparisons that matter for homeschool: [whole Bible in order](/blog/bib
 
 Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
 
+Want to see exactly what a year covers before committing? The full [Faithful Kids scope and sequence](/blog/faithful-kids-scope-and-sequence) lists all 31 series and 310 lessons in order, with scripture references.
+
 ## Frequently Asked Questions
 
 ### What is the best free Bible curriculum for homeschool?

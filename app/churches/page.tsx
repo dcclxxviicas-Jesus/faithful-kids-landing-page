@@ -109,7 +109,7 @@ export default function Churches() {
             <h3>Embeddable trivia game</h3>
             <p>
               Put our <a href="/bible-trivia#embed" style={{ color: 'var(--primary)', fontWeight: 700 }}>free Bible trivia game</a> (<a href="/blog/bible-trivia-embed-for-church-website" style={{ color: 'var(--primary)', fontWeight: 700 }}>setup guide</a>) directly on
-              your church website — kids play right on your page. Budgeting the whole ministry year?{' '}
+              your church website — kids play right on your page. Curious exactly what the kids get? The full <a href="/blog/faithful-kids-scope-and-sequence" style={{ color: 'var(--primary)', fontWeight: 700 }}>scope and sequence</a> is public. Family pricing lives on our <a href="/pricing" style={{ color: 'var(--primary)', fontWeight: 700 }}>pricing page</a>; for churches it is simply free. Budgeting the whole ministry year?{' '}
               <a href="/blog/free-bible-curriculum-for-kids-ministry" style={{ color: 'var(--primary)', fontWeight: 700 }}>Here's everything that's actually free</a>.
             </p>
           </div>

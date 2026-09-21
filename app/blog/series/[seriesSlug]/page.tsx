@@ -146,6 +146,14 @@ export default async function SeriesPage({ params }: Props) {
       </section>
 
       {/* CTA */}
+      <p style={{ textAlign: 'center', margin: '32px 24px', color: '#4b5563' }}>
+        Where does this series fall in the whole journey?{' '}
+        <a href="/blog/faithful-kids-scope-and-sequence" style={{ color: '#059669', fontWeight: 700 }}>
+          See the full scope and sequence
+        </a>{' '}
+        — all 31 series in unlock order, Genesis to Revelation.
+      </p>
+
       <section className="blog-bottom-cta">
         <div className="blog-bottom-cta-inner">
           <h2>Watch the {seriesName} Series</h2>

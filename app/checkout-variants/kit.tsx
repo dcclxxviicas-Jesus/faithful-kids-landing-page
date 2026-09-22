@@ -49,7 +49,7 @@ export const INCLUDED = [
   'Up to 5 child profiles',
   'Parent dashboard with each child’s progress',
   'Reviewed for doctrinal accuracy',
-  'Catholic, Evangelical or Non-denominational',
+  'Used by Catholic, Evangelical and Non-denominational families',
   'No ads, ever',
 ]
 

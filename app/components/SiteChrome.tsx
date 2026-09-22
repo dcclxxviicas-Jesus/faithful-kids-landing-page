@@ -92,6 +92,7 @@ export function SiteFooter() {
           <a href="/pricing">Pricing</a>
           <a href="/churches">Churches</a>
           <a href="/about">About</a>
+          <a href="/beliefs">What We Believe</a>
           <a href="/support">Support</a>
           <a href="/privacy">Privacy</a>
           <a href="/terms">Terms</a>

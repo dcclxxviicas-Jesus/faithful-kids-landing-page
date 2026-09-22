@@ -41,6 +41,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      // Statement of faith. Homeschool-group leaders ask for this before
+      // recommending us, so it has to be findable rather than emailed on
+      // request. /what-we-believe and /statement-of-faith redirect here.
+      url: `${baseUrl}/beliefs`,
+      lastModified: new Date(),
+      changeFrequency: 'yearly' as const,
+      priority: 0.6,
+    },
+    {
       // Every price and trial length, both platforms, with Offer schema. Exists
       // because engines invented prices when there was no page to retrieve.
       url: `${baseUrl}/pricing`,

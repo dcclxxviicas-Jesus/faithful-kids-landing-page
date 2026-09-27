@@ -3968,3 +3968,25 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 }
 .fk-takeover-benefits span { font-size: 0.95rem; color: var(--text-secondary); line-height: 1.45; }
 .fk-takeover-benefits b { color: var(--text); font-weight: 700; }
+
+/* Exit takeover, treatment A refinements (Sep 27, 2026).
+   The plain version put the headline biggest and the QUESTION smallest —
+   the one thing we want acted on was the least visible thing on screen.
+   .fk-takeover-q-hero makes the question the headline. */
+.fk-takeover-q-hero {
+  font-size: 1.6rem; font-weight: 800; letter-spacing: -0.02em;
+  line-height: 1.2; color: var(--text); margin: 0 0 8px;
+}
+.fk-takeover-lead {
+  font-size: 0.98rem; color: var(--text-secondary);
+  line-height: 1.5; margin: 0 0 24px;
+}
+.fk-takeover-reassure {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 14px;
+  margin: 18px 0 0; font-size: 0.82rem; color: var(--text-muted, #9ca3af);
+}
+.fk-takeover-reassure span { white-space: nowrap; }
+@media (min-width: 768px) {
+  .fk-takeover-q-hero { font-size: 2rem; }
+  .fk-takeover-lead { font-size: 1.05rem; }
+}

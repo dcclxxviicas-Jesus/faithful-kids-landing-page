@@ -4,6 +4,7 @@ import { useState, useRef, useEffect } from 'react'
 import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
 import { STORIES } from '@/app/components/stories'
 import { VideoTile } from '@/app/components/VideoTile'
+import { ExitTakeover } from '@/app/components/ExitTakeover'
 import posthog from 'posthog-js'
 import { createPortal } from 'react-dom'
 import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
@@ -486,7 +487,6 @@ function CurriculumSection() {
 }
 
 function ExitIntent() {
-  const creationStory = STORIES.find(s => s.title.includes('Creation')) ?? STORIES[1]
   const [show, setShow] = useState(false)
   const [dismissed, setDismissed] = useState(false)
   const triggered = useRef(false)
@@ -553,32 +553,7 @@ function ExitIntent() {
 
   if (!show || dismissed) return null
 
-  return (
-    <div className="exit-overlay" onClick={() => setDismissed(true)} role="dialog" aria-modal="true" aria-label="Watch a story before you go">
-      <div className="exit-modal" onClick={(e) => e.stopPropagation()}>
-        <button className="exit-close" onClick={() => setDismissed(true)} aria-label="Close dialog">✕</button>
-        <h2>Before you go &mdash; watch one.</h2>
-        <p>A full Bible story, free, right here. See if it is right for your kids.</p>
-        <div className="exit-video-wrap">
-          {/* Same tile as everywhere else: it plays on its own, muted, and the
-              button opens it full size with sound. A poster-with-a-play-button
-              asked for a click before anything happened at all. Creation, not
-              the hero's lesson — this popup should show something new. */}
-          <VideoTile
-            src={creationStory.src}
-            poster={creationStory.poster}
-            title={creationStory.title}
-            badge={creationStory.series}
-            blurb={creationStory.blurb}
-            location="exit_intent"
-          />
-        </div>
-        <button className="btn-primary btn-lg" onClick={() => { posthog.capture('exit_intent_cta'); window.location.href = '/quiz' }}>
-          Get started
-        </button>
-      </div>
-    </div>
-  )
+  return <ExitTakeover surface="homepage" onDismiss={() => setDismissed(true)} />
 }
 
 // Seeded from the calendar date so every visitor on a given day sees the same

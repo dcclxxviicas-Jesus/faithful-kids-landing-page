@@ -25,19 +25,19 @@ const OPTIONS = [
   { label: '4 or more', val: '4+', emoji: '4️⃣' },
 ]
 
-type V = 'A' | 'B' | 'C' | 'D'
+type V = 'A' | 'A1' | 'A2' | 'A3'
 
 const NAMES: Record<V, string> = {
-  A: 'A · Plain (live)',
-  B: 'B · The shelf',
-  C: 'C · Already started',
-  D: 'D · One scene',
+  A: 'A · Plain (original)',
+  A1: 'A1 · Question is the headline',
+  A2: 'A2 · Promise, then ask',
+  A3: 'A3 · Name the reward',
 }
 const WHY: Record<V, string> = {
-  A: 'Calm and fast. Nothing competes with the question. Lightest to load, and the least like an ad — but it shows nothing of the product.',
-  B: 'Opens with four real lessons, the same shelf the quiz welcome uses. They see what they would be getting before they answer. Costs ~88KB of posters.',
-  C: 'Frames the question as step 1 of 8 with the bar already moving. The endowed-progress effect: a task you have already started is far harder to abandon than one you have not.',
-  D: 'Leads with the outcome and one big scene, then asks. The most like a landing page — strongest promise, but the slowest to reach the tap.',
+  A: 'The original. The headline is the biggest thing and the question is the smallest — so the one thing we want acted on is the least visible thing on screen.',
+  A1: 'LIVE. The question IS the headline. Shortest path from seeing the screen to understanding what to do. Reassurances sit under the options where they answer "what does this cost me" without competing for attention.',
+  A2: 'Makes the promise first, then asks. Slightly slower to the ask than A1, but nobody taps without knowing what they get. Best if the worry is that a bare question feels like a form.',
+  A3: 'Names the reward as the headline and treats the question as the price of it. The most curiosity-driven — "see the plan" is the pull, the question is just the toll.',
 }
 
 function Options() {
@@ -53,6 +53,16 @@ function Options() {
   )
 }
 
+function Reassure() {
+  return (
+    <div className="fk-takeover-reassure">
+      <span>{'\u2713'} About a minute</span>
+      <span>{'\u2713'} No sign-up</span>
+      <span>{'\u2713'} Free to see</span>
+    </div>
+  )
+}
+
 function Skip() {
   return <button className="fk-takeover-skip">No thanks, keep reading</button>
 }
@@ -64,7 +74,7 @@ export default function ExitVariants() {
     <div className="xv-stage">
       <div className="xv-bar">
         <strong>Exit takeover</strong>
-        {(['A', 'B', 'C', 'D'] as V[]).map(k => (
+        {(['A', 'A1', 'A2', 'A3'] as V[]).map(k => (
           <button key={k} className={v === k ? 'on' : ''} onClick={() => setV(k)}>{NAMES[k]}</button>
         ))}
         <span className="xv-note">{WHY[v]}</span>
@@ -86,45 +96,44 @@ export default function ExitVariants() {
             </>
           )}
 
-          {v === 'B' && (
-            <>
-              <div className="xv-shelf">
-                {POSTERS.map(p => <img key={p.alt} src={p.src} alt={p.alt} width={640} height={360} />)}
-              </div>
-              <h2 className="fk-takeover-h">Build your kids&rsquo; Bible plan</h2>
-              <p className="fk-takeover-sub">The whole Bible, in two minute episodes.</p>
-              <p className="fk-takeover-q">{QUESTION}</p>
-              <Options />
-              <Skip />
-            </>
-          )}
-
-          {v === 'C' && (
+          {v === 'A1' && (
             <>
               <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
-              <h2 className="fk-takeover-h">You&rsquo;re a minute from your plan</h2>
-              <p className="fk-takeover-sub">Eight quick questions. No sign-up.</p>
-              <div className="xv-prog-wrap">
-                <div className="xv-prog-label"><span>Question 1 of 8</span><span>1 min left</span></div>
-                <div className="xv-prog"><div className="xv-prog-fill" /></div>
-              </div>
-              <p className="fk-takeover-q">{QUESTION}</p>
+              <p className="fk-takeover-eyebrow">One quick question</p>
+              <h2 className="fk-takeover-q-hero">{QUESTION}</h2>
+              <p className="fk-takeover-lead">
+                We&rsquo;ll build a Bible plan around them &mdash; Genesis to Revelation,
+                matched to their ages.
+              </p>
               <Options />
+              <Reassure />
               <Skip />
             </>
           )}
 
-          {v === 'D' && (
+          {v === 'A2' && (
             <>
-              <img src={POSTERS[1].src} alt="" className="xv-hero" width={640} height={360} />
+              <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
               <h2 className="fk-takeover-h">A Bible plan built around your kids</h2>
-              <div className="xv-benefit">
-                <span>{'✓'} <b>Matched to their ages</b>, so nobody is bored or lost</span>
-                <span>{'✓'} <b>Genesis to Revelation</b>, in order, two minutes each</span>
-                <span>{'✓'} <b>No ads, no algorithm</b>, ever</span>
-              </div>
+              <p className="fk-takeover-lead">
+                Genesis to Revelation, in order, two minutes an episode &mdash; matched to
+                their ages. Free to see.
+              </p>
               <p className="fk-takeover-q">{QUESTION}</p>
               <Options />
+              <Reassure />
+              <Skip />
+            </>
+          )}
+
+          {v === 'A3' && (
+            <>
+              <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
+              <p className="fk-takeover-eyebrow">Takes one minute</p>
+              <h2 className="fk-takeover-h">See your kids&rsquo; Bible plan</h2>
+              <p className="fk-takeover-q-hero" style={{ marginTop: 22 }}>{QUESTION}</p>
+              <Options />
+              <Reassure />
               <Skip />
             </>
           )}

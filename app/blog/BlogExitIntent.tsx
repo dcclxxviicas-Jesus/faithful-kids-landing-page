@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react'
 import posthog from 'posthog-js'
+import { ExitTakeover } from '@/app/components/ExitTakeover'
 
 /**
  * Exit takeover — a full screen that opens with question one of the quiz.
@@ -31,8 +32,6 @@ import posthog from 'posthog-js'
  * the drip keeps its sources.
  */
 
-const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
-
 const SHOWN_KEY = 'fk_exit_shown_at'
 const SESSION_KEY = 'fk_exit_session'
 const QUIZ_CLICK_KEY = 'fk_quiz_cta_clicked'
@@ -44,17 +43,6 @@ const MIN_SCROLL = 0.20
 const MIN_SCROLL_SCREENS = 1.5
 
 type Variant = 'trivia' | 'story' | 'guide'
-
-/* Question one of the PARENT path, quoted from app/quiz/page.tsx. If that
-   question changes, change it here too — the seed below claims the reader
-   answered it, so the two must stay the same question. */
-const QUESTION = 'How many kids are in your family?'
-const OPTIONS: { label: string; val: string; emoji: string }[] = [
-  { label: '1 child', val: '1', emoji: '1️⃣' },
-  { label: '2 children', val: '2', emoji: '2️⃣' },
-  { label: '3 children', val: '3', emoji: '3️⃣' },
-  { label: '4 or more', val: '4+', emoji: '4️⃣' },
-]
 
 function safeGet(store: Storage, key: string): string | null {
   try { return store.getItem(key) } catch { return null }
@@ -71,7 +59,6 @@ export function BlogExitIntent({
   variant: Variant
 }) {
   const [show, setShow] = useState(false)
-  const [isMobile, setIsMobile] = useState(false)
   const triggered = useRef(false)
   const mountedAt = useRef(0)
   const deepScrolled = useRef(false)
@@ -103,25 +90,9 @@ export function BlogExitIntent({
     posthog.capture('exit_intent_dismissed', { post: postSlug, variant, surface: 'blog', format: 'takeover' })
   }
 
-  /* Hand off to the quiz mid-flow. `seed` marks this as a handoff so the
-     quiz's restore can tell it apart from a Stripe return, which uses the
-     same key. */
-  function answer(val: string, label: string) {
-    posthog.capture('exit_intent_answer', { post: postSlug, variant, surface: 'blog', question: 'num_kids', answer: val })
-    try {
-      sessionStorage.setItem('fk_quiz_state', JSON.stringify({
-        seed: true, phase: 'quiz', path: 'parent',
-        answers: { num_kids: val }, step: 1,
-      }))
-    } catch { /* private mode — the quiz just starts from the top */ }
-    window.location.href = '/quiz?ref=blog-exit'
-    void label
-  }
-
   useEffect(() => {
     mountedAt.current = Date.now()
     const mobile = window.innerWidth < 768
-    setIsMobile(mobile)
 
     /* Arm a history entry to spend on the back press. Only once the guards
        would actually pass — otherwise we would be interfering with back for
@@ -180,60 +151,7 @@ export function BlogExitIntent({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
-  // Lock the page behind the takeover so it cannot be scrolled underneath.
-  useEffect(() => {
-    if (!show) return
-    const prev = document.body.style.overflow
-    document.body.style.overflow = 'hidden'
-    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') dismiss() }
-    window.addEventListener('keydown', onKey)
-    return () => {
-      document.body.style.overflow = prev
-      window.removeEventListener('keydown', onKey)
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [show])
-
   if (!show) return null
 
-  return (
-    <div className="fk-takeover" role="dialog" aria-modal="true" aria-label="Build your kids' Bible plan">
-      <button className="fk-takeover-close" onClick={dismiss} aria-label="Close">✕</button>
-
-      <div className="fk-takeover-inner">
-        {/* Treatment D, chosen from /exit-variants: outcome and proof first,
-            then the question. `height: auto` is not optional here — the
-            height attribute is a presentational hint that beats aspect-ratio
-            and renders this as a tall crop that pushes the question off the
-            fold on a phone. */}
-        <img
-          src={`${CDN}/video-posters/sm/a-baby-in-a-basket.webp`}
-          alt=""
-          className="fk-takeover-hero"
-          width={640}
-          height={360}
-        />
-        <h2 className="fk-takeover-h">A Bible plan built around your kids</h2>
-        <div className="fk-takeover-benefits">
-          <span>{'\u2713'} <b>Matched to their ages</b>, so nobody is bored or lost</span>
-          <span>{'\u2713'} <b>Genesis to Revelation</b>, in order, two minutes each</span>
-          <span>{'\u2713'} <b>No ads, no algorithm</b>, ever</span>
-        </div>
-
-        <p className="fk-takeover-q">{QUESTION}</p>
-        <div className="fk-takeover-opts">
-          {OPTIONS.map(o => (
-            <button key={o.val} className="fk-takeover-opt" onClick={() => answer(o.val, o.label)}>
-              <span className="fk-takeover-opt-emoji">{o.emoji}</span>
-              <span>{o.label}</span>
-            </button>
-          ))}
-        </div>
-
-        <button className="fk-takeover-skip" onClick={dismiss}>
-          {isMobile ? 'No thanks' : 'No thanks, keep reading'}
-        </button>
-      </div>
-    </div>
-  )
+  return <ExitTakeover surface="blog" postSlug={postSlug} onDismiss={dismiss} />
 }

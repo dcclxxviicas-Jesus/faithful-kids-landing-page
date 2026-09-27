@@ -3956,3 +3956,15 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   .fk-takeover-sub { font-size: 1.08rem; }
   .fk-takeover-q { font-size: 1.15rem; }
 }
+
+/* Treatment D additions to the exit takeover (chosen Sep 27, 2026). */
+.fk-takeover-hero {
+  width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover;
+  border-radius: 16px; display: block; margin: 0 0 18px; background: #e8eaed;
+}
+.fk-takeover-benefits {
+  display: flex; flex-direction: column; gap: 7px;
+  margin: 0 0 20px; text-align: left;
+}
+.fk-takeover-benefits span { font-size: 0.95rem; color: var(--text-secondary); line-height: 1.45; }
+.fk-takeover-benefits b { color: var(--text); font-weight: 700; }

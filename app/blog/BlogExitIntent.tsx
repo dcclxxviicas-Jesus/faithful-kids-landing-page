@@ -31,6 +31,8 @@ import posthog from 'posthog-js'
  * the drip keeps its sources.
  */
 
+const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
+
 const SHOWN_KEY = 'fk_exit_shown_at'
 const SESSION_KEY = 'fk_exit_session'
 const QUIZ_CLICK_KEY = 'fk_quiz_cta_clicked'
@@ -199,10 +201,24 @@ export function BlogExitIntent({
       <button className="fk-takeover-close" onClick={dismiss} aria-label="Close">✕</button>
 
       <div className="fk-takeover-inner">
-        <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
-        <p className="fk-takeover-eyebrow">Before you go</p>
-        <h2 className="fk-takeover-h">Build your kids&rsquo; Bible plan</h2>
-        <p className="fk-takeover-sub">About a minute. No sign-up.</p>
+        {/* Treatment D, chosen from /exit-variants: outcome and proof first,
+            then the question. `height: auto` is not optional here — the
+            height attribute is a presentational hint that beats aspect-ratio
+            and renders this as a tall crop that pushes the question off the
+            fold on a phone. */}
+        <img
+          src={`${CDN}/video-posters/sm/a-baby-in-a-basket.webp`}
+          alt=""
+          className="fk-takeover-hero"
+          width={640}
+          height={360}
+        />
+        <h2 className="fk-takeover-h">A Bible plan built around your kids</h2>
+        <div className="fk-takeover-benefits">
+          <span>{'\u2713'} <b>Matched to their ages</b>, so nobody is bored or lost</span>
+          <span>{'\u2713'} <b>Genesis to Revelation</b>, in order, two minutes each</span>
+          <span>{'\u2713'} <b>No ads, no algorithm</b>, ever</span>
+        </div>
 
         <p className="fk-takeover-q">{QUESTION}</p>
         <div className="fk-takeover-opts">

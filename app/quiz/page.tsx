@@ -406,6 +406,20 @@ export default function Quiz() {
           setAnswers(s.answers)
           setPhase('result')
           setBegun(true)          // returning from Stripe — never re-gate them
+        } else if (s.seed && s.path && s.answers) {
+          /* Handoff from the blog exit takeover, which asked question one
+             itself. Resume at question two: showing the welcome gate here
+             would make them start over and the whole point of answering in
+             the overlay was that it is ONE flow, not two.
+             `seed` distinguishes it from the Stripe return above, which uses
+             the same storage key. One-shot — cleared so a later direct visit
+             starts clean. */
+          setPath(s.path)
+          setAnswers(s.answers)
+          setStep(Number(s.step) || 0)
+          setBegun(true)
+          posthog.capture('quiz_started', { surface: 'blog-exit-takeover' })
+          try { sessionStorage.removeItem('fk_quiz_state') } catch { /* private mode */ }
         }
       }
     } catch { /* private mode */ }

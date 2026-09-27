@@ -1,0 +1,58 @@
+/* Demo-only chrome + the treatment-specific bits. Imported by this route
+   alone, so nothing here can reach the live site. The shared takeover
+   classes (.fk-takeover*) live in globals.css and are what actually ships. */
+
+.xv-bar {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 3000;
+  background: #111827; color: #fff;
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  padding: 10px 14px; font-size: 0.85rem;
+}
+.xv-bar strong { font-weight: 800; margin-right: 6px; }
+.xv-bar button {
+  background: rgba(255,255,255,0.12); color: #fff; border: none;
+  border-radius: 999px; padding: 7px 14px; cursor: pointer;
+  font-family: inherit; font-size: 0.85rem; font-weight: 700;
+}
+.xv-bar button.on { background: #16a34a; }
+.xv-note { color: #9ca3af; font-size: 0.78rem; width: 100%; }
+
+/* the takeover sits under the demo bar rather than over it */
+.xv-stage .fk-takeover { top: 84px; animation: none; }
+@media (min-width: 700px) { .xv-stage .fk-takeover { top: 56px; } }
+
+/* ---- B: the shelf ---- */
+.xv-shelf { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 0 0 20px; }
+.xv-shelf img {
+  width: 100%; height: auto; aspect-ratio: 16/9; object-fit: cover;
+  border-radius: 12px; display: block; background: #e8eaed;
+}
+@media (min-width: 700px) {
+  .xv-shelf { grid-template-columns: repeat(4, 1fr); gap: 10px; }
+}
+
+/* ---- C: endowed progress ---- */
+.xv-prog-wrap { margin: 0 0 18px; }
+.xv-prog-label {
+  display: flex; justify-content: space-between;
+  font-size: 0.78rem; font-weight: 700; color: var(--text-muted, #9ca3af);
+  margin-bottom: 6px;
+}
+.xv-prog { height: 8px; background: #e8f7f0; border-radius: 4px; overflow: hidden; }
+.xv-prog-fill {
+  height: 100%; width: 12.5%;
+  background: linear-gradient(90deg, #16a34a, #86efac);
+  border-radius: 4px;
+}
+
+/* ---- D: one big scene ---- */
+.xv-hero {
+  width: 100%; height: auto; aspect-ratio: 16/9; object-fit: cover;
+  border-radius: 16px; display: block; margin: 0 0 18px; background: #e8eaed;
+}
+.xv-benefit {
+  display: flex; flex-direction: column; gap: 7px;
+  margin: 0 0 20px; text-align: left;
+}
+.xv-benefit span { font-size: 0.95rem; color: var(--text-secondary); }
+.xv-benefit b { color: var(--text); font-weight: 700; }

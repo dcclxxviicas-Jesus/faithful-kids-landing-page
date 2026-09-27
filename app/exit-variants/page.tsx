@@ -25,19 +25,21 @@ const OPTIONS = [
   { label: '4 or more', val: '4+', emoji: '4️⃣' },
 ]
 
-type V = 'A' | 'A1' | 'A2' | 'A3'
+type V = 'A1' | 'G1' | 'G2' | 'G3' | 'G4'
 
 const NAMES: Record<V, string> = {
-  A: 'A · Plain (original)',
-  A1: 'A1 · Question is the headline',
-  A2: 'A2 · Promise, then ask',
-  A3: 'A3 · Name the reward',
+  A1: 'A1 · Live',
+  G1: 'G1 · They\u2019ll watch something',
+  G2: 'G2 · 900 Sundays',
+  G3: 'G3 · You\u2019ve been meaning to',
+  G4: 'G4 · 900 Sundays + shamed exit',
 }
 const WHY: Record<V, string> = {
-  A: 'The original. The headline is the biggest thing and the question is the smallest — so the one thing we want acted on is the least visible thing on screen.',
-  A1: 'LIVE. The question IS the headline. Shortest path from seeing the screen to understanding what to do. Reassurances sit under the options where they answer "what does this cost me" without competing for attention.',
-  A2: 'Makes the promise first, then asks. Slightly slower to the ask than A1, but nobody taps without knowing what they get. Best if the worry is that a bare question feels like a form.',
-  A3: 'Names the reward as the headline and treats the question as the price of it. The most curiosity-driven — "see the plan" is the pull, the question is just the toll.',
+  A1: 'What is live. Neutral: the question is the headline and nothing pushes.',
+  G1: 'Mildest of the four. States a fact the parent already knows and cannot argue with — their kid WILL watch something today. No accusation, no claim we cannot back. The pressure comes from the parent finishing the sentence themselves.',
+  G2: 'The strongest of the four, and the one I would ship. "About 900 Sundays" is real (17-18 years is 887-939 weeks) and it lands because it is true, not because it accuses. Grief about time passing, not shame about parenting.',
+  G3: 'Names the procrastination out loud. Sharper and more personal — it works on someone who already feels the gap, and reads as presumptuous to someone who does not. Highest variance of the four.',
+  G4: 'G2 with a shamed exit: the decline button admits neglect on their behalf. This is confirm-shaming, a recognised dark pattern, and here it shames a parent about their child\u2019s faith on the way out. It will lift clicks. Read my note before shipping it.',
 }
 
 function Options() {
@@ -63,38 +65,31 @@ function Reassure() {
   )
 }
 
-function Skip() {
-  return <button className="fk-takeover-skip">No thanks, keep reading</button>
+function Skip({ label }: { label?: string }) {
+  return (
+    <button
+      className="fk-takeover-skip"
+      dangerouslySetInnerHTML={{ __html: label || 'No thanks, keep reading' }}
+    />
+  )
 }
 
 export default function ExitVariants() {
-  const [v, setV] = useState<V>('A')
+  const [v, setV] = useState<V>('A1')
 
   return (
     <div className="xv-stage">
       <div className="xv-bar">
         <strong>Exit takeover</strong>
-        {(['A', 'A1', 'A2', 'A3'] as V[]).map(k => (
+        {(['A1', 'G1', 'G2', 'G3', 'G4'] as V[]).map(k => (
           <button key={k} className={v === k ? 'on' : ''} onClick={() => setV(k)}>{NAMES[k]}</button>
         ))}
         <span className="xv-note">{WHY[v]}</span>
       </div>
 
-      <div className="fk-takeover" style={{ position: 'fixed' }}>
+      <div className="fk-takeover">
         <button className="fk-takeover-close" aria-label="Close">{'✕'}</button>
         <div className="fk-takeover-inner">
-
-          {v === 'A' && (
-            <>
-              <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
-              <p className="fk-takeover-eyebrow">Before you go</p>
-              <h2 className="fk-takeover-h">Build your kids&rsquo; Bible plan</h2>
-              <p className="fk-takeover-sub">About a minute. No sign-up.</p>
-              <p className="fk-takeover-q">{QUESTION}</p>
-              <Options />
-              <Skip />
-            </>
-          )}
 
           {v === 'A1' && (
             <>
@@ -111,13 +106,13 @@ export default function ExitVariants() {
             </>
           )}
 
-          {v === 'A2' && (
+          {v === 'G1' && (
             <>
               <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
-              <h2 className="fk-takeover-h">A Bible plan built around your kids</h2>
+              <h2 className="fk-takeover-h">They&rsquo;ll watch something today.</h2>
               <p className="fk-takeover-lead">
-                Genesis to Revelation, in order, two minutes an episode &mdash; matched to
-                their ages. Free to see.
+                The only question is what. Take one minute and we&rsquo;ll build them a
+                Bible plan instead &mdash; Genesis to Revelation, matched to their ages.
               </p>
               <p className="fk-takeover-q">{QUESTION}</p>
               <Options />
@@ -126,15 +121,49 @@ export default function ExitVariants() {
             </>
           )}
 
-          {v === 'A3' && (
+          {v === 'G2' && (
             <>
               <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
-              <p className="fk-takeover-eyebrow">Takes one minute</p>
-              <h2 className="fk-takeover-h">See your kids&rsquo; Bible plan</h2>
-              <p className="fk-takeover-q-hero" style={{ marginTop: 22 }}>{QUESTION}</p>
+              <h2 className="fk-takeover-h">You get about 900 Sundays with them.</h2>
+              <p className="fk-takeover-lead">
+                Then they&rsquo;re grown, and what they know about God is mostly what you
+                gave them. One minute, and their Bible plan is ready tonight.
+              </p>
+              <p className="fk-takeover-q">{QUESTION}</p>
               <Options />
               <Reassure />
               <Skip />
+            </>
+          )}
+
+          {v === 'G3' && (
+            <>
+              <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
+              <p className="fk-takeover-eyebrow">Honest question</p>
+              <h2 className="fk-takeover-h">You&rsquo;ve been meaning to do this, haven&rsquo;t you?</h2>
+              <p className="fk-takeover-lead">
+                Teaching them the Bible at home. It keeps sliding to next week. This is
+                the version that takes a minute and then runs itself.
+              </p>
+              <p className="fk-takeover-q">{QUESTION}</p>
+              <Options />
+              <Reassure />
+              <Skip />
+            </>
+          )}
+
+          {v === 'G4' && (
+            <>
+              <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
+              <h2 className="fk-takeover-h">You get about 900 Sundays with them.</h2>
+              <p className="fk-takeover-lead">
+                Then they&rsquo;re grown, and what they know about God is mostly what you
+                gave them. One minute, and their Bible plan is ready tonight.
+              </p>
+              <p className="fk-takeover-q">{QUESTION}</p>
+              <Options />
+              <Reassure />
+              <Skip label="No thanks &mdash; we&rsquo;ll get to it eventually" />
             </>
           )}
 

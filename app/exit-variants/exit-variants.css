@@ -3,7 +3,7 @@
    classes (.fk-takeover*) live in globals.css and are what actually ships. */
 
 .xv-bar {
-  position: fixed; top: 0; left: 0; right: 0; z-index: 3000;
+  position: sticky; top: 0; z-index: 3000;
   background: #111827; color: #fff;
   display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
   padding: 10px 14px; font-size: 0.85rem;
@@ -17,9 +17,11 @@
 .xv-bar button.on { background: #16a34a; }
 .xv-note { color: #9ca3af; font-size: 0.78rem; width: 100%; }
 
-/* the takeover sits under the demo bar rather than over it */
-.xv-stage .fk-takeover { top: 84px; animation: none; }
-@media (min-width: 700px) { .xv-stage .fk-takeover { top: 56px; } }
+/* The takeover FLOWS below the bar instead of being positioned under a
+   guessed offset — the bar's height changes with the number of variants. */
+.xv-stage .fk-takeover {
+  position: relative; inset: auto; min-height: 100vh; animation: none;
+}
 
 /* ---- B: the shelf ---- */
 .xv-shelf { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 0 0 20px; }

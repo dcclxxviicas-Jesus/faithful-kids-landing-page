@@ -76,20 +76,25 @@ export function ExitTakeover({
       <button className="fk-takeover-close" onClick={onDismiss} aria-label="Close">{'✕'}</button>
 
       <div className="fk-takeover-inner">
-        {/* Treatment A, refined. The plain version led with a headline and put
-            the question in small text underneath — the one thing we want acted
-            on was the least visible thing on the screen. The QUESTION is now
-            the headline; everything else is support. No hero image: this
-            treatment's whole argument is that nothing should compete with the
-            ask, and it is also the only version that costs no bandwidth. */}
+        {/* Treatment G4, owner's pick from /exit-variants.
+            "About 900 Sundays" is real and checkable — 17-18 years is 887-939
+            weeks — which is the only reason a figure is allowed on screen
+            here. No screen-time statistic: there is no sourced one in this
+            repo, and the quiz's own interstitial already does that honestly a
+            few screens later by deriving the number from the reader's own
+            answer rather than quoting a study nobody checked.
+
+            The decline button is confirm-shaming, chosen deliberately after
+            the trade was put to the owner. If it is ever reverted, the neutral
+            line is "No thanks, keep reading". */}
         <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
-        <p className="fk-takeover-eyebrow">One quick question</p>
-        <h2 className="fk-takeover-q-hero">{QUESTION}</h2>
+        <h2 className="fk-takeover-h">You get about 900 Sundays with them.</h2>
         <p className="fk-takeover-lead">
-          We&rsquo;ll build a Bible plan around them &mdash; Genesis to Revelation,
-          matched to their ages.
+          Then they&rsquo;re grown, and what they know about God is mostly what you
+          gave them. One minute, and their Bible plan is ready tonight.
         </p>
 
+        <p className="fk-takeover-q">{QUESTION}</p>
         <div className="fk-takeover-opts">
           {OPTIONS.map(o => (
             <button key={o.val} className="fk-takeover-opt" onClick={() => answer(o.val)}>
@@ -106,7 +111,7 @@ export function ExitTakeover({
         </div>
 
         <button className="fk-takeover-skip" onClick={onDismiss}>
-          {surface === 'blog' ? 'No thanks, keep reading' : 'No thanks'}
+          No thanks &mdash; we&rsquo;ll get to it eventually
         </button>
       </div>
     </div>

@@ -28,18 +28,18 @@ const OPTIONS = [
 type V = 'A1' | 'G1' | 'G2' | 'G3' | 'G4'
 
 const NAMES: Record<V, string> = {
-  A1: 'A1 · Live',
+  A1: 'A1 · Neutral',
   G1: 'G1 · They\u2019ll watch something',
   G2: 'G2 · 900 Sundays',
   G3: 'G3 · You\u2019ve been meaning to',
-  G4: 'G4 · 900 Sundays + shamed exit',
+  G4: 'G4 · 900 Sundays + shamed exit (LIVE)',
 }
 const WHY: Record<V, string> = {
-  A1: 'What is live. Neutral: the question is the headline and nothing pushes.',
+  A1: 'The neutral option: the question is the headline and nothing pushes. Kept as the revert target.',
   G1: 'Mildest of the four. States a fact the parent already knows and cannot argue with — their kid WILL watch something today. No accusation, no claim we cannot back. The pressure comes from the parent finishing the sentence themselves.',
   G2: 'The strongest of the four, and the one I would ship. "About 900 Sundays" is real (17-18 years is 887-939 weeks) and it lands because it is true, not because it accuses. Grief about time passing, not shame about parenting.',
   G3: 'Names the procrastination out loud. Sharper and more personal — it works on someone who already feels the gap, and reads as presumptuous to someone who does not. Highest variance of the four.',
-  G4: 'G2 with a shamed exit: the decline button admits neglect on their behalf. This is confirm-shaming, a recognised dark pattern, and here it shames a parent about their child\u2019s faith on the way out. It will lift clicks. Read my note before shipping it.',
+  G4: 'G2 with a shamed exit: the decline button admits neglect on their behalf. This is confirm-shaming, a recognised dark pattern, and here it shames a parent about their child\u2019s faith on the way out. It will lift clicks. LIVE as of Sep 27, 2026 — owner\u2019s call with the trade understood.',
 }
 
 function Options() {

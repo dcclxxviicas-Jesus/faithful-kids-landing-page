@@ -106,6 +106,8 @@ For quiet time afterwards, print the free [shepherds and angels coloring page](/
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
+Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
+
 ## Frequently Asked Questions
 
 ### What is the Christmas story in simple words?

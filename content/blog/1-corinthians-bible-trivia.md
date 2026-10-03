@@ -84,6 +84,8 @@ Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their ow
 
 Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
 
+When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Corinthians?

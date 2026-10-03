@@ -82,6 +82,8 @@ Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles
 
 There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
 
+Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Zephaniah?

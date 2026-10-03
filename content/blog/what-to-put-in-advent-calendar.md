@@ -122,6 +122,8 @@ On age fit, the honest guide is this: under 5, the physical act of opening is th
 
 If your evenings need a ready-made anchor once the calendar door is closed, our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) is seven short readings built for the wind-down slot -- print it once and use it all December. Families who'd rather have the daily story handled on screen can pair the calendar with a short Bible video; the nativity series at [Faithful Kids](https://faithfulkids.app/quiz) adds a quiz and a reflection question to each one.
 
+When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
+
 ## Frequently Asked Questions
 
 ### What can I put in an Advent calendar besides candy?

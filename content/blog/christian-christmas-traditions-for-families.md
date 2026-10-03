@@ -114,6 +114,8 @@ A realistic starter set by stage: toddlers -- birthday cake for Jesus (#10) and 
 
 There is a free [Christmas word search](/printables/bible-word-search/christmas) to go with this, playable on a phone and printable for a class.
 
+For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
+
 ## Frequently Asked Questions
 
 ### What is the easiest Christian Christmas tradition to start this year?

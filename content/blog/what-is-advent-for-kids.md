@@ -115,6 +115,8 @@ A shelf of [read-aloud Advent books](/blog/advent-books-for-kids) makes those rh
 
 If you're looking for more ways to build Christ-centered December habits, our guide to [Christian Christmas traditions for families](/blog/christian-christmas-traditions-for-families) pairs well with everything here.
 
+For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
+
 ## Frequently Asked Questions
 
 ### What is Advent in simple words for a child?

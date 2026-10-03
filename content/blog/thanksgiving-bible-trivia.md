@@ -97,6 +97,8 @@ Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the q
 
 Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
 
+Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
+
 ## Frequently Asked Questions
 
 ### Is Thanksgiving actually in the Bible?

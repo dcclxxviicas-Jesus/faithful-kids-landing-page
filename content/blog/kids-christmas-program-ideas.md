@@ -129,6 +129,8 @@ Narrators keep their scripts on Christmas Eve -- printed on card stock, it looks
 
 Kids perform the story better when they know the story -- not just their line. Spend five minutes of each rehearsal on the actual narrative: what happened, in order, and why it matters. A simple retelling like [the Christmas story for kids](/blog/the-christmas-story-for-kids) works well read aloud at the start of rehearsal. Families can reinforce it at home during December with short readings -- our [Christmas family devotions](/blog/christmas-family-devotions) follow the same scenes as the pageant, and many families use video lessons like the nativity series at [Faithful Kids](https://faithfulkids.app/quiz) so kids see the story before they act it. A kid who understands why the shepherds ran to Bethlehem delivers "Let's go and see!" like they mean it. After the program, keep the momentum going at home with simple [Advent activities](/blog/advent-activities-for-kids) through Christmas Day.
 
+Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
+
 ## Frequently Asked Questions
 
 ### How long should a kids Christmas program be?

@@ -81,6 +81,8 @@ For a version that scores itself, try the [Bible trivia game](/bible-trivia) on 
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 
+The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Isaiah?

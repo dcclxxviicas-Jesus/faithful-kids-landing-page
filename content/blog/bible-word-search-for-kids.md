@@ -176,6 +176,8 @@ Take your child's Bible vocabulary from the word search grid to living, breathin
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 
+A quieter option for the same shelf: free [Bible crossword puzzles](/printables/bible-crossword), from Noah's Ark to the miracles of Jesus, printable on one sheet each.
+
 ## Frequently Asked Questions
 
 ### At what age can kids start doing Bible word searches?

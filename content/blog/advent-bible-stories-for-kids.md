@@ -214,6 +214,8 @@ Want to make this Advent even more engaging? Faithful Kids offers animated video
 
 Print the [Christmas word search](/printables/bible-word-search/christmas) for the table, or let them play it on screen. Either way it is free.
 
+When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
+
 ## Frequently Asked Questions
 
 ### What age is this Advent devotional designed for?

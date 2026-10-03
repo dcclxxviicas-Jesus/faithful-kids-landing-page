@@ -102,6 +102,8 @@ Short on prep time? Our [Bible coloring pages](/printables/bible-coloring-pages)
 
 We have twelve [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
 
+Our [free Bible crosswords](/printables/bible-crossword) cover Christmas, Easter, Noah, Moses, and David and Goliath -- each plays in the browser and prints with its clues.
+
 ## Frequently Asked Questions
 
 ### Where can I find genuinely free Bible printables?

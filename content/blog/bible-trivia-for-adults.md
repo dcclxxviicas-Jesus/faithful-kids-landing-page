@@ -88,6 +88,12 @@ For a shorter session — a Sunday school opener or the first ten minutes of a s
 
 **Leading a class or ministry?** Faithful Kids is [free for churches](/churches) — every kid in your Sunday school gets the full video library, with a comprehension quiz after every lesson, at no cost. The trivia on this page is how adults enjoy Scripture; the app is the same idea built for the kids in your care.
 
+Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
+
+The same bank runs our [play-along Bible quiz](/bible-quiz) -- pick easy, medium, or hard and chase the streak.
+
+Add a few [funny Christian jokes](/blog/christian-jokes) between rounds -- the church-sign section alone can carry a youth-group night.
+
 ## Frequently Asked Questions
 
 ### What are some fun Bible trivia questions for adults?

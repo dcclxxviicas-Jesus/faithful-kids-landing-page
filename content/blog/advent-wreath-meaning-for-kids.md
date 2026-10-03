@@ -142,6 +142,8 @@ Then let the youngest kid blow out the candles -- or better, leave them burning 
 
 Print the [Christmas word search](/printables/bible-word-search/christmas) for the table, or let them play it on screen. Either way it is free.
 
+The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
+
 ## Frequently Asked Questions
 
 ### What do the 4 Advent candles stand for?

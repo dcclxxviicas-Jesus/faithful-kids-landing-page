@@ -77,6 +77,8 @@ If the group is restless, switch to our [Bible trivia game online](/bible-trivia
 
 For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
 
+The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Kings?

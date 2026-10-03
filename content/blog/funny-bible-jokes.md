@@ -14,6 +14,8 @@ If you're mostly telling jokes to little ones, start with our [30 clean Bible jo
 
 One ground rule before we start: these jokes are playful about Bible stories, never mocking of them. You have to actually know who Lot, Jehu, and Zacchaeus are to get the punchlines -- which is exactly why they're secretly the best Bible review tool ever invented.
 
+**Need these on paper?** [Download the free joke cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf) -- 100 fold-over cards (every joke on this page plus the kids' list), punchline hidden under the fold. One in a lunchbox per day is the classic move. No sign-up, free to photocopy.
+
 ## Bible Puns That Actually Land
 
 1. Which Bible character had no parents? **Joshua -- son of Nun.**
@@ -117,6 +119,8 @@ The line we held: no jokes about the cross, no jokes that make God the punchline
 The best audience for a Bible joke is a kid who knows the story cold -- they laugh first and loudest. [Faithful Kids](https://faithfulkids.app/quiz) teaches every major Bible story through short videos, quizzes, and reflections for ages 7-15, so your kids will get all 70 of these -- and start writing their own.
 
 Jokes pair well with a game -- our free [printable Bible Trivia Pack](/printables/bible-trivia-pack) has 100 questions with an answer key, so you can alternate a joke and a question around the table.
+
+Pair it with our [Christian jokes](/blog/christian-jokes) -- 75 clean ones about church life, from the choir's favorite soda to what kids pray at bedtime.
 
 ## Frequently Asked Questions
 

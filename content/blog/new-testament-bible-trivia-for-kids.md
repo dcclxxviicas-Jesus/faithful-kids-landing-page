@@ -186,6 +186,12 @@ No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs o
 
 Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
 
+The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
+
+If the group skews older, start from the [all-ages Bible quiz](/bible-quiz) rather than the kids' game.
+
+For the grown-ups, the [Christian jokes list](/blog/christian-jokes) leans on church culture -- the thermostat ministry, the seventeen-goodbye fellowship dinner, and other documented phenomena.
+
 ## Frequently Asked Questions
 
 ### What are good New Testament trivia questions for kids?

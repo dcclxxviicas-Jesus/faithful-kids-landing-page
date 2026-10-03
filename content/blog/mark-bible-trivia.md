@@ -116,6 +116,8 @@ For a version that scores itself, try the [Bible trivia game](/bible-trivia) on 
 
 Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
 
+If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Mark?

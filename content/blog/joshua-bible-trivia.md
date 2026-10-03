@@ -70,6 +70,8 @@ Our free [Bible quiz game](/bible-trivia) covers the same ground with a streak c
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
+Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Joshua?

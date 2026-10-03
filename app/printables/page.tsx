@@ -52,6 +52,14 @@ const PACKS = [
     details: 'Ages 6+ · Answer keys included · No email, no sign-up',
   },
   {
+    href: '/printables/bible-crossword',
+    emoji: '✏️',
+    title: 'Bible Crossword Puzzles — 7 Puzzles',
+    description:
+      'Seven interlocking crosswords with clues drawn from the stories themselves — the whole-Bible puzzle plus Christmas, Noah, Moses, David and Goliath, Easter, and the miracles of Jesus. Playable in the browser, printable with answer keys.',
+    details: 'Ages 6+ · Answer keys included · No email, no sign-up',
+  },
+  {
     href: '/printables/bible-coloring-pages',
     emoji: '🖍️',
     title: 'Bible Coloring Pages — 26 Printables',

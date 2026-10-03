@@ -100,6 +100,8 @@ If your class needs something to do with their hands, there is a [Jonah coloring
 
 For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
 
+The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Jonah?

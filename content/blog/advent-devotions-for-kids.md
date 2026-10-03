@@ -18,6 +18,8 @@ Read it at the same time every day -- dinner or bedtime, whichever your family a
 
 Two things make it stick. Light a candle before you start, so kids feel that this is different from regular time. And let the question breathe -- the reflection is the setup, but the conversation is the point. For ages 3-5, read the verse, summarize the reflection in two sentences, and keep the prayer. For ages 10+, hand them the reading.
 
+Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
+
 ## Days 1-10: The Promise
 
 These ten days cover the centuries of waiting -- God promising a Rescuer long before Bethlehem. The theme kids should catch: God keeps His promises, even slowly.

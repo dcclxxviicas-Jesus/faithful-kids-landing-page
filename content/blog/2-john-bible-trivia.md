@@ -80,6 +80,8 @@ For nights when nobody wants to read questions aloud, our [free Bible quiz for k
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 John?

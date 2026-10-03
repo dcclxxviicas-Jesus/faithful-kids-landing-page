@@ -81,6 +81,8 @@ There is a screen version too: our [free Bible trivia for kids](/bible-trivia) d
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 
+Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Amos?

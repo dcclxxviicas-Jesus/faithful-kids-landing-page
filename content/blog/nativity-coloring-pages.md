@@ -24,6 +24,8 @@ Three ways families run it:
 
 For the story text to read alongside each page, our retelling of [the Christmas story for kids](/blog/the-christmas-story-for-kids) tracks these same scenes, and [Christmas Bible stories for kids](/blog/christmas-bible-stories-for-kids) widens it to the full season.
 
+If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
+
 ## Before the Birth (Pages 1-5)
 
 The setup scenes almost every coloring set skips, which is a shame -- they're where the story's suspense lives.

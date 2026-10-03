@@ -14,6 +14,8 @@ These 45 Bible riddles are perfect for car rides, dinner table fun, Sunday schoo
 
 They are sorted into four sections: 20 classic riddles to start with, a batch of Old Testament riddles, a batch of New Testament riddles, and four tricky ones saved for the kid who already knows every Bible story cold.
 
+**Need this on paper?** [Download the free riddle sheets PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-riddles.pdf) -- all 45 riddles as read-aloud sheets with the answer key on its own pages, so nobody can peek over a shoulder. No sign-up, free to photocopy.
+
 Ready? See how many your family can solve.
 
 ## The Classic 20 Riddles
@@ -344,6 +346,10 @@ Answer: **The day the sun stood still** (Joshua 10:12-14). Joshua prayed for mor
 **Game nights.** Combine these riddles with a board game, or mix them into one of these [Bible games for kids](/blog/bible-games-for-kids). Every time someone lands on a certain space, they have to answer a Bible riddle to advance.
 
 **Bedtime.** Read one riddle as a bedtime brain teaser. If your child gets it right, they choose the bedtime story. If not, you look up the Bible passage together and read the real story.
+
+For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword) -- free to print, answer keys included.
+
+And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
 
 ## Why Riddles Help Kids Learn the Bible
 

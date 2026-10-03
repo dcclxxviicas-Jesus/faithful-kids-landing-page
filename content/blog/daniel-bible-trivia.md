@@ -93,6 +93,8 @@ Print the [Daniel word search](/printables/bible-word-search/daniel) for the tab
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 
+When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Daniel?

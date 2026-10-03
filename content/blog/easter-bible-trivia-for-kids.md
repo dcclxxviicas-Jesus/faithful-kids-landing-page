@@ -88,6 +88,12 @@ For a quieter follow-up, try the [Easter word search](/printables/bible-word-sea
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
+For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
+
+Our [Bible quiz with answers](/bible-quiz) shows fifteen starters right on the page before you ever press play.
+
+Pair it with our [Christian jokes](/blog/christian-jokes) -- 75 clean ones about church life, from the choir's favorite soda to what kids pray at bedtime.
+
 ## Frequently Asked Questions
 
 ### What is the Easter story in the Bible?

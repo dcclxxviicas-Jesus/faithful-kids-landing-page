@@ -70,6 +70,8 @@ Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full ro
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 
+There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Thessalonians?

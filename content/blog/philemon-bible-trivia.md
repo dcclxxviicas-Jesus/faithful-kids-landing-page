@@ -84,6 +84,8 @@ For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 
+For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Philemon?

@@ -156,6 +156,8 @@ And if January 1 arrives and your kids ask "are we still doing the candle thing?
 
 There is a free [Christmas word search](/printables/bible-word-search/christmas) to go with this, playable on a phone and printable for a class.
 
+There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
+
 ## Frequently Asked Questions
 
 ### How long should a Christmas family devotion take?

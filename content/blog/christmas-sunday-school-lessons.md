@@ -206,6 +206,8 @@ For older children who find coloring dull, a [Bible word search](/printables/bib
 
 If your group skews older, the [youth group games list](/blog/youth-group-games) marks which games hold up with high schoolers.
 
+Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
+
 ## Frequently Asked Questions
 
 ### How many Christmas lessons do I need for December?

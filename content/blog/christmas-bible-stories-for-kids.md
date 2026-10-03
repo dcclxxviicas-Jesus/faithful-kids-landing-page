@@ -68,6 +68,8 @@ If your class needs something to do with their hands, there is a [shepherds and 
 
 There is also a free set of [Christmas coloring pages](/printables/christmas-coloring-pages) on our site, drawn for crayons and ready to print.
 
+When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
+
 ## Frequently Asked Questions
 
 ### When should I teach my child the Christmas story?

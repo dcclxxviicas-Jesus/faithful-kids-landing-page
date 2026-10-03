@@ -88,6 +88,8 @@ Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their ow
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 
+If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Peter?

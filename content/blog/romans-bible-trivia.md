@@ -91,6 +91,8 @@ We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three
 
 Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
 
+Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Romans?

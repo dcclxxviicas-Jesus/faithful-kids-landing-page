@@ -69,6 +69,8 @@ There is a screen version too: our [free Bible trivia for kids](/bible-trivia) d
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Leviticus?

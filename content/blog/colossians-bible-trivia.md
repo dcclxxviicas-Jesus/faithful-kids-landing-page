@@ -71,6 +71,8 @@ If the group is restless, switch to our [Bible trivia game online](/bible-trivia
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
+For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Colossians?

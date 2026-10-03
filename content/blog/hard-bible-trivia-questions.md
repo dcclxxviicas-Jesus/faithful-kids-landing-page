@@ -198,6 +198,10 @@ Kids who like a scoreboard tend to prefer our [Bible trivia game online](/bible-
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
+
+For an all-ages night, the [Bible quiz hub](/bible-quiz) collects every graded set in one place, with a printable PDF.
+
 ## Frequently Asked Questions
 
 ### What is the hardest Bible trivia question ever?

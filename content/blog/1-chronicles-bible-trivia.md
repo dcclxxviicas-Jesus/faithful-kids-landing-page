@@ -104,6 +104,8 @@ When you want zero setup, our [online Bible trivia for kids](/bible-trivia) is o
 
 For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
 
+For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 1 Chronicles?

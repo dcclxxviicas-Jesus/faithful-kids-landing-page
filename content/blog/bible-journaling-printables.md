@@ -110,6 +110,8 @@ If you want the pages ready-made, our [Bible coloring pages](/printables/bible-c
 
 We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
 
+There are also seven free [printable Bible crosswords](/printables/bible-crossword) -- each built from one story's own details, playable online or on paper.
+
 ## Frequently Asked Questions
 
 ### Where can I find genuinely free Bible journaling printables?

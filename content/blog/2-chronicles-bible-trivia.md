@@ -106,6 +106,8 @@ Our free [Bible quiz game](/bible-trivia) covers the same ground with a streak c
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
+For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Chronicles?

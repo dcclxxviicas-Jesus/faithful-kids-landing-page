@@ -196,6 +196,8 @@ Our [free Bible word search](/printables/bible-word-search) works the same way: 
 
 Our full list of [youth group games](/blog/youth-group-games) includes the Scripture connection for every game, so the fun still points somewhere.
 
+There are also seven free [printable Bible crosswords](/printables/bible-crossword) -- each built from one story's own details, playable online or on paper.
+
 ## Frequently Asked Questions
 
 ### What are the cheapest Bible crafts for a large Sunday school class?

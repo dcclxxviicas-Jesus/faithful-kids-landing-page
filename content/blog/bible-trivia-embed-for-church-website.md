@@ -96,6 +96,8 @@ Browse the full list of trivia sets, one per Bible book and holiday, on our [Bib
 
 If you want paper rather than a screen, the same questions are available as a [free Bible trivia PDF](/blog/bible-trivia-for-kids) with answer keys, and there are [printable Bible word searches](/printables/bible-word-search) for younger kids. No sign-up for any of them.
 
+For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
+
 ## Frequently Asked Questions
 
 ### Is there a Bible trivia WordPress plugin?

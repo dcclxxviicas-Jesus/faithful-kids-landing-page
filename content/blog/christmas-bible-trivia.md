@@ -1,18 +1,19 @@
 ---
 title: "80 Christmas Bible Trivia Questions and Answers (PDF)"
 slug: "christmas-bible-trivia"
+metaTitle: "Christmas Trivia Questions and Answers: 80 Bible Q&As (PDF)"
 type: "listicle"
 metaDescription: "80 Christmas Bible trivia questions with answers and verse references in four rounds, easy to expert -- plus a free printable PDF for parties and church."
-keywords: ["bible trivia for christmas", "christmas bible trivia", "christmas bible trivia questions and answers", "christmas trivia questions bible", "nativity trivia questions and answers", "christmas quiz questions and answers bible"]
+keywords: ["bible trivia for christmas", "christmas bible trivia", "christmas bible trivia questions and answers", "christmas trivia questions bible", "nativity trivia questions and answers", "christmas quiz questions and answers bible", "christmas trivia questions", "christmas trivia questions and answers"]
 datePublished: "2026-08-19"
-dateModified: "2026-08-19"
+dateModified: "2026-10-03"
 ---
 
 Here are 80 Christmas Bible trivia questions with answers and Scripture references, sorted into four rounds -- easy, medium, hard, and expert -- so one game can cover everyone from the six-year-old to the grandmother who has taught Sunday school for thirty years. Every answer comes straight from Matthew 1-2, Luke 1-2, and the prophets they quote, with the verse printed right there so you can settle disputes on the spot.
 
 Fair warning about the expert round: it is designed to stump the most Bible-literate person at your table. The Christmas story most of us carry in our heads is about one-third Christmas card and two-thirds Scripture, and rounds three and four are where those get sorted out.
 
-**Playing with little ones?** Start with our [Christmas Bible trivia for kids](/blog/christmas-bible-trivia-for-kids) instead -- 45 questions tiered for ages 5-12, with gentler wording and no expert round. This page is the all-ages version for family gatherings, adult small groups, church parties, and youth nights.
+**Playing with little ones?** Start with our [Christmas Bible trivia for kids](/blog/christmas-bible-trivia-for-kids) instead -- 45 questions tiered for ages 5-12, with gentler wording and no expert round. This page is the all-ages version for family gatherings, adult small groups, church parties, and youth nights -- and if you want general Christmas trivia questions on top of the Scripture rounds, the bonus carol round at the end covers the songs.
 
 **Need this on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf) -- all 80 questions as ready-to-copy quiz sheets, with the full answer key and verse references on separate pages. No sign-up, free to photocopy for your party or class.
 
@@ -123,6 +124,21 @@ Reserve this round for the pastors, the seminary grads, and the relative who has
 78. On what day was Jesus circumcised and officially named? **The eighth day** (Luke 2:21)
 79. How many dreams guided Joseph in Matthew's account of Jesus' early years? **Four -- marry Mary, flee to Egypt, return to Israel, withdraw to Galilee** (Matthew 1:20; 2:13, 19, 22)
 80. How does John's Gospel tell the Christmas story? **In one line of theology: "The Word became flesh and made his dwelling among us"** (John 1:14)
+
+## Bonus Round: Name That Carol (Web Only)
+
+Ten classic carols, identified from a single line. These are general Christmas trivia questions rather than Scripture questions, so they are not in the printable PDF -- use them as a palate cleanser between Bible rounds, or as a sudden-death tiebreaker. Every one of these carols is itself a retelling of the story above, which makes this the rare "fun round" that still points back to Luke 2.
+
+1. "Glory to the newborn King" **Hark! The Herald Angels Sing**
+2. "Let every heart prepare Him room" **Joy to the World**
+3. "The stars in the sky looked down where He lay" **Away in a Manger**
+4. "Fall on your knees, O hear the angel voices" **O Holy Night**
+5. "Come and behold Him, born the King of angels" **O Come, All Ye Faithful**
+6. "Sleep in heavenly peace" **Silent Night**
+7. "Born is the King of Israel" **The First Noel**
+8. "Gloria in excelsis Deo" **Angels We Have Heard on High**
+9. "To save us all from Satan's power when we were gone astray" **God Rest Ye Merry, Gentlemen**
+10. "How silently, how silently, the wondrous gift is given" **O Little Town of Bethlehem**
 
 ## Keep the Story Going After the Game
 

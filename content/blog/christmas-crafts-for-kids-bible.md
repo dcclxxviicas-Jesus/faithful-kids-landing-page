@@ -197,6 +197,10 @@ There is a matching set of [Bible story coloring pages](/printables/bible-colori
 
 For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas) — twelve words hidden in the grid, answer key included.
 
+We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
+
+For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword) -- free to print, answer keys included.
+
 ## Frequently Asked Questions
 
 ### What is the easiest nativity craft for toddlers?

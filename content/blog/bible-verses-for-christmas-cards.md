@@ -119,6 +119,8 @@ If your kids sign the cards, let them pick the verse for each family -- it's a s
 
 Older children who find coloring dull usually take to the [Christmas word search](/printables/bible-word-search/christmas) instead. It plays in the browser or prints on one sheet.
 
+Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
+
 ## Frequently Asked Questions
 
 ### What is the most popular Bible verse for Christmas cards?

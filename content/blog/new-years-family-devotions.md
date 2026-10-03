@@ -110,6 +110,8 @@ If family devotions are new territory for you, our guide on [how to start family
 
 The goal of all of it is the Psalm 1 picture: a family planted by the water, growing at tree speed. Slow is fine. Rooted is the win.
 
+The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
+
 ## Frequently Asked Questions
 
 ### When should we do New Year's family devotions -- New Year's Eve or New Year's Day?

@@ -170,6 +170,8 @@ Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the q
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 
+Our [75 Christian jokes](/blog/christian-jokes) are the church-life set -- sermon-length jokes, potluck jokes, and what kids actually say in the pew.
+
 ## Frequently Asked Questions
 
 ### What is a good icebreaker for a youth group first night?

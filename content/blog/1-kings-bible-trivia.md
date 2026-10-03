@@ -77,6 +77,8 @@ We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
+The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 1 Kings?

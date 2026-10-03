@@ -112,6 +112,8 @@ Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles
 
 There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
 
+There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Hebrews?

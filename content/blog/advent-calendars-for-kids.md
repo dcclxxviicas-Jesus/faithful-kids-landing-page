@@ -122,6 +122,8 @@ Want a ready-made evening rhythm that doesn't stop when December does? Our free 
 
 For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas) — twelve words hidden in the grid, answer key included.
 
+For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
+
 ## Frequently Asked Questions
 
 ### When should I buy an Advent calendar?

@@ -142,6 +142,14 @@ We also drew a set of [free Bible word searches](/printables/bible-word-search) 
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
+
+For an all-ages night, the [Bible quiz hub](/bible-quiz) collects every graded set in one place, with a printable PDF.
+
+If your kids like puzzles, the [Bible crossword puzzles](/printables/bible-crossword) ask what happened in the story, not just how the names are spelled -- free, with answer keys.
+
+There's a companion list of [clean Christian jokes](/blog/christian-jokes) too: church-life humor, kids-in-church classics, and the best church signs ever posted.
+
 ## Frequently Asked Questions
 
 ### What Bible activities work for youth who did not grow up in church?

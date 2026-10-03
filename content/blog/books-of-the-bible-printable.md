@@ -215,6 +215,8 @@ For older children who find coloring dull, a [Bible word search](/printables/bib
 
 We built a [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) around this story. Free, no sign-up, and it works on screen or on paper.
 
+For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword) -- free to print, answer keys included.
+
 ## Frequently Asked Questions
 
 ### How many books are in the Bible?

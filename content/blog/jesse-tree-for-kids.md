@@ -96,6 +96,8 @@ A Jesse Tree gives kids the one thing chocolate calendars can't: the plot. Most 
 
 It also pairs happily with other traditions rather than replacing them. Plenty of families run a chocolate calendar in the morning and the Jesse Tree at night, alongside the traditions in our guide to [Christian Christmas traditions for families](/blog/christian-christmas-traditions-for-families). And if you're looking to swap out a tradition that's run its course, a Jesse Tree is the most-loved of the [Christian Elf on the Shelf alternatives](/blog/elf-on-the-shelf-christian-alternatives) -- same daily excitement, entirely different center of gravity. For a reading-focused version without ornaments, our [Christmas family devotions](/blog/christmas-family-devotions) cover the December 18-25 stretch in more depth. And if the season itself is new territory for your kids, our explainer on [what Advent is for kids](/blog/what-is-advent-for-kids) is the natural place to start before the first ornament goes up.
 
+Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
+
 ## Frequently Asked Questions
 
 ### What ages is a Jesse Tree best for?

@@ -124,6 +124,8 @@ Planning the whole month? The [Christmas hub](/holidays/christmas) lists every A
 
 Older children who find coloring dull usually take to the [Christmas word search](/printables/bible-word-search/christmas) instead. It plays in the browser or prints on one sheet.
 
+Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
+
 ## Frequently Asked Questions
 
 ### When should an Advent calendar start?

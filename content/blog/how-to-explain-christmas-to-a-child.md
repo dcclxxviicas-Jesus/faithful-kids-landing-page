@@ -122,6 +122,8 @@ Whatever you decide, the goal is the same: make sure your child knows that Chris
 
 Bring the Christmas story to life for your kids with animated video lessons, quizzes, and reflections. Faithful Kids covers the birth of Jesus, the shepherds, the wise men, and so much more — designed for ages 7-15. [Start your free trial today](https://faithfulkids.app/quiz) and give your child the gift of understanding the real meaning of Christmas.
 
+Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
+
 ## Frequently Asked Questions
 
 ### At what age should I start teaching my child the real Christmas story?

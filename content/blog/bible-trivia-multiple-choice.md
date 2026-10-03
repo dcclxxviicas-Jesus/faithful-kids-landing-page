@@ -516,6 +516,8 @@ Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten
 
 Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
 
+There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
+
 ## Frequently Asked Questions
 
 ### What makes a good multiple-choice Bible trivia question?

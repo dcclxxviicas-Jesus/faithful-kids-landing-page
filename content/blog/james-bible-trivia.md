@@ -94,6 +94,8 @@ We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three
 
 Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
 
+For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of James?

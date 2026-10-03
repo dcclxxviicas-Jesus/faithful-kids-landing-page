@@ -81,6 +81,8 @@ Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full ro
 
 There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
 
+When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Galatians?

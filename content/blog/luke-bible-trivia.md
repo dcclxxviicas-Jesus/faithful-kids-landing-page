@@ -122,6 +122,8 @@ Want these same questions without reading them all aloud? Play the [Bible trivia
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Luke?

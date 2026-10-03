@@ -164,6 +164,8 @@ There is a matching set of [Bible story coloring pages](/printables/bible-colori
 
 There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
 
+If your kids like puzzles, the [Bible crossword puzzles](/printables/bible-crossword) ask what happened in the story, not just how the names are spelled -- free, with answer keys.
+
 ## Frequently Asked Questions
 
 ### How many verses should a child memorize at once?

@@ -79,6 +79,8 @@ There is a screen version too: our [free Bible trivia for kids](/bible-trivia) d
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
+
 ## Frequently Asked Questions
 
 ### Who wrote 2 Corinthians?

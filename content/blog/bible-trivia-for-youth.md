@@ -161,6 +161,12 @@ Our full list of [youth group games](/blog/youth-group-games) includes the Scrip
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 
+Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
+
+Test yourself first on the [interactive Bible quiz](/bible-quiz), then come back for the full list.
+
+Our [75 Christian jokes](/blog/christian-jokes) are the church-life set -- sermon-length jokes, potluck jokes, and what kids actually say in the pew.
+
 ## Frequently Asked Questions
 
 ### How many Bible trivia questions do you need for a youth group night?

@@ -190,6 +190,8 @@ We built a [Easter word search](/printables/bible-word-search/easter) around thi
 
 Youth leaders: the master list of [youth group games](/blog/youth-group-games) is sorted by how many students you actually have, not by how many the game wants.
 
+And when the room needs to get quiet, hand out a [Bible crossword](/printables/bible-crossword) -- seven free story-based puzzles, no sign-up.
+
 ## Frequently Asked Questions
 
 ### What is the easiest Easter craft for a Sunday school class?

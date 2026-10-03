@@ -146,6 +146,10 @@ Want these same questions without reading them all aloud? Play the [Bible trivia
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
+
+For an all-ages night, the [Bible quiz hub](/bible-quiz) collects every graded set in one place, with a printable PDF.
+
 ## Frequently Asked Questions
 
 ### What are some easy Bible trivia questions for kids?

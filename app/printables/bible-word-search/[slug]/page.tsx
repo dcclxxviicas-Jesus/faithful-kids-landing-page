@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import { SiteNav, SiteFooter } from '../../../components/SiteChrome'
 import PrintButton from '../../PrintButton'
 import puzzles from '@/lib/word-searches.json'
+import crosswords from '@/lib/crosswords.json'
 import { WordSearchGame } from '../WordSearchGame'
 import { PrintableCta } from '../../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
@@ -148,6 +149,13 @@ export default async function WordSearchPuzzle(
               the {pairedCp.title} coloring page
             </a>{' '}
             covers the same story and prints on one sheet.
+          </p>
+        )}
+        {crosswords.some(c => c.slug === p.slug) && (
+          <p>
+            Found all the words too fast? The{' '}
+            <a href={`/printables/bible-crossword/${p.slug}`}>{p.title} crossword</a> asks what
+            happened in the story, not just how the names are spelled.
           </p>
         )}
 

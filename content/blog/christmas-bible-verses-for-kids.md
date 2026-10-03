@@ -140,6 +140,8 @@ Once your kids know a handful of these, quiz the whole family with our [Christma
 
 There is a free [Christmas word search](/printables/bible-word-search/christmas) to go with this, playable on a phone and printable for a class.
 
+There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
+
 ## Frequently Asked Questions
 
 ### What is the most famous Christmas Bible verse?

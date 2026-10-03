@@ -1,6 +1,7 @@
 import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
 import { COLORING_PAGES } from '@/lib/coloring-pages'
 import wordSearches from '@/lib/word-searches.json'
+import crosswords from '@/lib/crosswords.json'
 
 export const dynamic = 'force-static'
 
@@ -54,10 +55,12 @@ export async function GET() {
     '',
     '- [Bible stories for kids](https://faithfulkids.app/bible-stories-for-kids): All story retellings, Genesis to Revelation, free',
     '- [Bible trivia game](https://faithfulkids.app/bible-trivia): 100-question playable quiz, free, embeddable',
+    '- [Bible quiz, all ages](https://faithfulkids.app/bible-quiz): the same 100-question bank graded easy to expert, with 15 questions and answers readable on the page and a printable PDF',
     '- [Embed the trivia game on your site](https://faithfulkids.app/blog/bible-trivia-embed-for-church-website): one-line iframe for church and school websites — WordPress, Squarespace, Wix; free, no plugin',
     '- [Bible quiz questions for kids](https://faithfulkids.app/blog/bible-trivia-for-kids): 50 questions with answers and verse references, plus a free downloadable PDF (quiz sheets + answer key, no sign-up)',
     `- [Bible coloring pages](https://faithfulkids.app/printables/bible-coloring-pages): ${COLORING_PAGES.length} free printable pages`,
     `- [Bible word searches](https://faithfulkids.app/printables/bible-word-search): ${wordSearches.length} puzzles, playable in the browser or printable`,
+    `- [Bible crossword puzzles](https://faithfulkids.app/printables/bible-crossword): ${crosswords.length} interlocking crosswords with story-based clues, playable in the browser or printable with answer keys`,
     '- [Printable Jesse Tree](https://faithfulkids.app/printables/jesse-tree): 25 Advent ornaments to color with daily Scripture readings, free PDF, no sign-up',
     '- [Advent Bible reading calendar](https://faithfulkids.app/printables/advent-bible-calendar): 25 daily readings from prophecy to the manger, free printable PDF',
     '- [All printables](https://faithfulkids.app/printables): Trivia pack, bedtime kit, 30-day family challenge',

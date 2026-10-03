@@ -24,6 +24,8 @@ Print this out. Stick it on the fridge. And watch what happens when your family 
 - **Follow the threads.** If a question sparks a tangent that matters, follow it. The schedule is a guide, not a prison.
 - **Start with the question, not the verse.** Ask the question first. After everyone answers, read the verse together. This keeps kids thinking before they hear the "right" answer.
 
+For an all-ages night, the [Bible quiz hub](/bible-quiz) collects every graded set in one place, with a printable PDF.
+
 ## Weeks 1-8: Love
 
 **Week 1:** What is the most loving thing anyone has ever done for you?

@@ -90,6 +90,8 @@ If you would rather let a screen keep score, play our [online Bible trivia game]
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 
+Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Nehemiah?

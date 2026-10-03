@@ -100,6 +100,14 @@ For a quieter activity, our [Bible word search puzzles](/printables/bible-word-s
 
 For the game portion of the night, these [youth group games sorted by group size](/blog/youth-group-games) cover everything from four students to forty.
 
+For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
+
+You can also play this as a game: our [online Bible quiz](/bible-quiz) grades itself, easy to expert, no sign-up.
+
+There are also seven free [printable Bible crosswords](/printables/bible-crossword) -- each built from one story's own details, playable online or on paper.
+
+If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs -- all clean.
+
 ## Frequently Asked Questions
 
 ### What are good Christmas games for a Sunday school class with no prep?

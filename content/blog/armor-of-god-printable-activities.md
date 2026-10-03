@@ -102,6 +102,8 @@ Sunday school leaders: the [Bible word searches](/printables/bible-word-search) 
 
 There is a free [Armor of God word search](/printables/bible-word-search/armor-of-god) to go with this, playable on a phone and printable for a class.
 
+For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword) -- free to print, answer keys included.
+
 ## Frequently Asked Questions
 
 ### What are the 6 pieces of the armor of God in order?

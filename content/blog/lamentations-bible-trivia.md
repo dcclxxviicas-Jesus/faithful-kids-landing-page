@@ -77,6 +77,8 @@ Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally --
 
 For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
 
+Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Lamentations?

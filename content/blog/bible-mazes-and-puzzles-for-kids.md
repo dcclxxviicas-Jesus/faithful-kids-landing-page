@@ -125,6 +125,8 @@ We drew a set of [free Bible coloring pages](/printables/bible-coloring-pages) t
 
 Sunday school leaders: the [Bible word searches](/printables/bible-word-search) print one to a sheet with the answer key included.
 
+For pencil-and-paper review, our [Bible crossword puzzles](/printables/bible-crossword) interlock clues from the stories themselves -- seven free printables with answer keys.
+
 ## Frequently Asked Questions
 
 ### What age are Bible mazes and puzzles good for?

@@ -150,6 +150,12 @@ If your child is studying one particular book -- for Sunday school, a homeschool
 
 For bigger question banks, try our [Old Testament Bible trivia for kids](https://faithfulkids.app/blog/old-testament-bible-trivia-for-kids) and [New Testament Bible trivia for kids](https://faithfulkids.app/blog/new-testament-bible-trivia-for-kids) collections, or work straight through our master list of [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers), which spans Genesis to Revelation in four difficulty tiers. Older kids who found this page too easy should jump to [Bible trivia for teens](https://faithfulkids.app/blog/bible-trivia-for-teens), the grown-ups at the table get their own round of [Bible trivia for adults](/blog/bible-trivia-for-adults) -- with a warm-up round built to humble them -- and if you want to turn all of this into a repeatable tradition, our [family Bible trivia night](https://faithfulkids.app/blog/family-bible-trivia-night) guide covers formats, scoring systems, and prize ideas.
 
+If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
+
+There is a screen version: the [Bible quiz online](/bible-quiz) keeps score so you can just read and referee.
+
+And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
+
 ## Frequently Asked Questions
 
 ### What age is Bible trivia appropriate for?

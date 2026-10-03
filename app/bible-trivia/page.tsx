@@ -136,7 +136,9 @@ export default function BibleTriviaPage() {
           one and click <em>Put this game on your site</em>.{' '}
           <a href="#all-trivia" style={{ color: 'var(--primary)', fontWeight: 700 }}>Browse them all &darr;</a>
         </p>
-        <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginTop: 16 }}>
+        <p style={{ fontSize: '1.05rem', color: 'var(--text-secondary)', maxWidth: 640 }}>
+          Playing with teens or adults too? The <a href="/bible-quiz" style={{ color: 'var(--primary)', fontWeight: 700 }}>all-ages Bible quiz</a> uses the same question bank with a test-yourself framing and answers on the page.
+        </p>        <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginTop: 16 }}>
           Questions, or want a custom version with your church&apos;s name on it? Email{' '}
           <a href="mailto:team@faithfulkids.app" style={{ color: 'var(--primary)', fontWeight: 700 }}>
             team@faithfulkids.app

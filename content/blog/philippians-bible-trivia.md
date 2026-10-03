@@ -71,6 +71,8 @@ For a screen-based round, our [Bible trivia game](/bible-trivia) keeps score for
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 
+We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Philippians?

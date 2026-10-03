@@ -12,6 +12,8 @@ Bible charades is played exactly like regular charades -- one player silently ac
 
 It's the single best Bible game for wiggly kids, because the "distraction" (moving, performing, being silly) *is* the game. If your crew has energy to burn, this beats any worksheet ever printed.
 
+**Need this on paper?** [Download the free charades cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-charades.pdf) -- 60 prompts as ready-to-cut cards in easy, medium, and hard decks, cut lines marked. No sign-up, free to photocopy for family night or class.
+
 ## How Do You Play Bible Charades?
 
 One player draws a prompt and acts it out with no words or sounds while their team guesses within a time limit -- usually 60 seconds. Full rules for family play:
@@ -137,6 +139,10 @@ Three variations cover every group size and energy level -- rotate them so the g
 **Story chain.** For stories (35-52), each teammate acts one scene in sequence -- builder one does the ark, builder two the animals, builder three the rain -- and the other team guesses the full story. It quietly teaches narrative order, which is half of Bible literacy.
 
 For a full game night, run charades as one rotation alongside a trivia round -- our [family Bible trivia night](/blog/family-bible-trivia-night) format slots together with this perfectly, and [Bible riddles](/blog/bible-riddles-for-kids) make a good cool-down round. Charades also works best as *review*: kids act out stories they know, so if a prompt draws blank stares, that's tomorrow's story time -- families using [Faithful Kids](https://faithfulkids.app/quiz) often pull charades prompts straight from whichever video series their kids just finished. For more low-prep options, see our full list of [Bible games for kids](/blog/bible-games-for-kids).
+
+For pencil-and-paper review, our [Bible crossword puzzles](/printables/bible-crossword) interlock clues from the stories themselves -- seven free printables with answer keys.
+
+For humor about church life itself -- pastors, potlucks, and the kids' row -- see our [75 clean Christian jokes](/blog/christian-jokes).
 
 ## Frequently Asked Questions
 

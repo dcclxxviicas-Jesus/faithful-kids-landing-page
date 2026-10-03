@@ -140,6 +140,8 @@ For a quieter activity, our [Bible word search puzzles](/printables/bible-word-s
 
 For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
 
+If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs -- all clean.
+
 ## Frequently Asked Questions
 
 ### What indoor games work in a small youth room with no gym?

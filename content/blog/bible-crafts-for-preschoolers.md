@@ -241,6 +241,8 @@ Our free [Bible Trivia Pack](/printables/bible-trivia-pack) is the easiest backs
 
 Short on prep time? Our [Bible coloring pages](/printables/bible-coloring-pages) are one click from the page to the printer.
 
+Our [free Bible crosswords](/printables/bible-crossword) cover Christmas, Easter, Noah, Moses, and David and Goliath -- each plays in the browser and prints with its clues.
+
 ## Frequently Asked Questions
 
 ### What Bible crafts work best for 3-year-olds?

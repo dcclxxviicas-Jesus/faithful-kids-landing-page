@@ -118,6 +118,8 @@ Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work wel
 
 If you need something with no prep at all, the [Bible word search](/printables/bible-word-search) plays on a phone and prints on one sheet.
 
+A quieter option for the same shelf: free [Bible crossword puzzles](/printables/bible-crossword), from Noah's Ark to the miracles of Jesus, printable on one sheet each.
+
 ## Frequently Asked Questions
 
 ### What Bible verses work best as printable wall art?

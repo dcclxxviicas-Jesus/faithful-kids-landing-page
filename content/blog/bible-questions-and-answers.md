@@ -272,6 +272,8 @@ If your kids like learning this way, that's exactly how [Faithful Kids](https://
 
 Many of these questions come up at bedtime, right when the lights go out. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short stories, a question to whisper about, and a goodnight prayer for exactly those moments.
 
+The same bank runs our [play-along Bible quiz](/bible-quiz) -- pick easy, medium, or hard and chase the streak.
+
 ## Frequently Asked Questions
 
 ### What age are these Bible questions and answers for?

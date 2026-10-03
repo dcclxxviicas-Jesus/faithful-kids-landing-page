@@ -257,6 +257,14 @@ There are eleven [printable Bible word searches](/printables/bible-word-search) 
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 
+We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
+
+There is a screen version: the [Bible quiz online](/bible-quiz) keeps score so you can just read and referee.
+
+For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword) -- free to print, answer keys included.
+
+And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
+
 ## Frequently Asked Questions
 
 ### What are good Bible games for 4 and 5 year olds?

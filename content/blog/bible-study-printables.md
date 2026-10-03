@@ -126,6 +126,8 @@ Twelve words from a single story: try our [Bible word search puzzles](/printable
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
+And when the room needs to get quiet, hand out a [Bible crossword](/printables/bible-crossword) -- seven free story-based puzzles, no sign-up.
+
 ## Frequently Asked Questions
 
 ### Where can I find free Bible study printables?

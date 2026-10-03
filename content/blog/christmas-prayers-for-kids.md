@@ -103,6 +103,8 @@ A rhythm that works for many families: one prayer moment per day in December (th
 
 Around age 3, kids can repeat echo prayers; by 5 or 6, most can say a memorized two-line prayer alone; by 7 or 8, many can pray in their own words. The progression matters less than the pattern -- a child who hears a parent pray simply and honestly every December will eventually do the same. Start with the echo prayer (#7), graduate to the Happy Birthday Prayer (#13), and by the time they're big enough to read the Christmas story aloud on Christmas Eve, they'll be big enough to close it in prayer.
 
+For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
+
 ## Frequently Asked Questions
 
 ### What is a simple Christmas prayer a child can memorize?

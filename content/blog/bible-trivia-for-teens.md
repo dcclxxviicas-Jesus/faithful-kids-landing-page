@@ -220,6 +220,12 @@ Think Bible learning is just for little kids? Think again. Faithful Kids offers 
 
 If the phone is where your teen lives anyway, our honest guide to [Bible apps for teens](/blog/bible-apps-for-teens) covers what fits 13-15 and what to graduate to at 16.
 
+The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
+
+You can also play this as a game: our [online Bible quiz](/bible-quiz) grades itself, easy to expert, no sign-up.
+
+If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs -- all clean.
+
 ## Frequently Asked Questions
 
 ### Where can I find more challenging Bible trivia questions?

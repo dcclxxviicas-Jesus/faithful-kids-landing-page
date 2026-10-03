@@ -99,6 +99,8 @@ Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles
 
 Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
 
+There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
+
 ## Frequently Asked Questions
 
 ### Who wrote the Gospel of John?

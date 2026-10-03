@@ -102,6 +102,8 @@ Pair this with a [Bible word search puzzle](/printables/bible-word-search) — N
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 
+And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
+
 ## Frequently Asked Questions
 
 ### What is the easiest youth group game with no supplies?

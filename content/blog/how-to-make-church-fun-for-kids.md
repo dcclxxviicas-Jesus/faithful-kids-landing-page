@@ -147,6 +147,8 @@ Supplement your family's church experience with Faithful Kids. Our animated vide
 
 If your group skews older, the [youth group games list](/blog/youth-group-games) marks which games hold up with high schoolers.
 
+And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
+
 ## Frequently Asked Questions
 
 ### At what age should kids start attending the main church service?

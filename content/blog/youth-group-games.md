@@ -276,6 +276,8 @@ There are eleven [printable Bible word searches](/printables/bible-word-search) 
 
 Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
 
+For humor about church life itself -- pastors, potlucks, and the kids' row -- see our [75 clean Christian jokes](/blog/christian-jokes).
+
 ## Frequently Asked Questions
 
 ### What are the best youth group games for a small group of 10 or fewer?

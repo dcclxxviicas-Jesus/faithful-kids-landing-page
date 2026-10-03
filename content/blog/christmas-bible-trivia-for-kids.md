@@ -200,6 +200,10 @@ We built a [Christmas word search](/printables/bible-word-search/christmas) arou
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 
+Test yourself first on the [interactive Bible quiz](/bible-quiz), then come back for the full list.
+
+Our [75 Christian jokes](/blog/christian-jokes) are the church-life set -- sermon-length jokes, potluck jokes, and what kids actually say in the pew.
+
 ## Frequently Asked Questions
 
 ### What are some good Christmas Bible trivia questions for kids?

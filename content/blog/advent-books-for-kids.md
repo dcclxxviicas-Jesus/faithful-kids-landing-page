@@ -87,6 +87,8 @@ Families building an Advent rhythm love the [printable Jesse Tree ornaments](/pr
 
 Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
 
+There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
+
 ## Frequently Asked Questions
 
 ### What is the best Advent book for kids overall?

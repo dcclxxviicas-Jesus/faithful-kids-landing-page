@@ -148,6 +148,10 @@ Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally --
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
+For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
+
+Our [Bible quiz with answers](/bible-quiz) shows fifteen starters right on the page before you ever press play.
+
 ## Frequently Asked Questions
 
 ### What are good Bible trivia questions for beginners?

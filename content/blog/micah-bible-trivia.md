@@ -92,6 +92,8 @@ Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) dr
 
 For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
 
+Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Micah?

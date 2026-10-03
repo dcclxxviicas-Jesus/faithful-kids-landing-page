@@ -76,6 +76,8 @@ Running this with a big group? Put our [online Bible trivia](/bible-trivia) on t
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Samuel?

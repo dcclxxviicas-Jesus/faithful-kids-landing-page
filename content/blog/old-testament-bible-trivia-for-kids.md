@@ -188,6 +188,12 @@ Want these same questions without reading them all aloud? Play the [Bible trivia
 
 There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-adults), with hard and expert rounds and a printable quiz-sheet PDF for small groups.
 
+If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
+
+The same bank runs our [play-along Bible quiz](/bible-quiz) -- pick easy, medium, or hard and chase the streak.
+
+Add a few [funny Christian jokes](/blog/christian-jokes) between rounds -- the church-sign section alone can carry a youth-group night.
+
 ## Frequently Asked Questions
 
 ### What are good Old Testament trivia questions for kids?

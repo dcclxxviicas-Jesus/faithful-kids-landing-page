@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next'
 import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
 import { COLORING_PAGES } from '@/lib/coloring-pages'
 import wordSearches from '@/lib/word-searches.json'
+import crosswords from '@/lib/crosswords.json'
 import jesseTree from '@/lib/jesse-tree.json'
 import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
@@ -75,6 +76,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/bible-quiz`,
+      lastModified: new Date('2026-10-03'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/bible-trivia`,
       lastModified: new Date('2026-08-16'),
       changeFrequency: 'monthly',
@@ -134,6 +141,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...wordSearches.filter(w => w.slug !== 'bible').map(w => ({
       url: `${baseUrl}/printables/bible-word-search/${w.slug}`,
       lastModified: new Date('2026-08-26'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+      images: [`https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${w.slug}.png`],
+    })),
+    {
+      // "bible crossword puzzles" 2,400/mo KD 10
+      url: `${baseUrl}/printables/bible-crossword`,
+      lastModified: new Date('2026-10-03'),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+      images: crosswords.map(w => `https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${w.slug}.png`),
+    },
+    ...crosswords.filter(w => w.slug !== 'bible').map(w => ({
+      url: `${baseUrl}/printables/bible-crossword/${w.slug}`,
+      lastModified: new Date('2026-10-03'),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
       images: [`https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${w.slug}.png`],

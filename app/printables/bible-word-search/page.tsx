@@ -168,6 +168,12 @@ export default function WordSearchHub() {
           abandoning something large.
         </p>
         <p>
+          Ready for a step up? Our{' '}
+          <a href="/printables/bible-crossword">Bible crossword puzzles</a> use the same stories
+          but ask what happened rather than how it&rsquo;s spelled — the natural next puzzle once
+          word searches get easy.
+        </p>
+        <p>
           Looking for something to color instead? There are 26 free{' '}
           <a href="/printables/bible-coloring-pages">Bible coloring pages</a> on our site, and{' '}
           <a href="/bible-trivia">a Bible trivia game</a> you can play in the browser.

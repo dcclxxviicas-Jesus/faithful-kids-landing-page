@@ -163,6 +163,12 @@ Want these same questions without reading them all aloud? Play the [Bible trivia
 
 There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
 
+The same bank runs our [play-along Bible quiz](/bible-quiz) -- pick easy, medium, or hard and chase the streak.
+
+Pair it with a [printable Bible crossword](/printables/bible-crossword) -- the clues come from the story itself, so finishing one is a comprehension check in disguise.
+
+Add a few [funny Christian jokes](/blog/christian-jokes) between rounds -- the church-sign section alone can carry a youth-group night.
+
 ## Frequently Asked Questions
 
 ### What is a good Sunday school game with no preparation?

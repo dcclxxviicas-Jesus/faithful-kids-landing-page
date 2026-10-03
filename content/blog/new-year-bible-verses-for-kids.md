@@ -135,6 +135,8 @@ These 15 Bible verses about new beginnings, trust, goals, and hope are perfect f
 
 **As lunch box notes:** Write one verse per day on a slip of paper and tuck it into your child's lunch box or backpack. It's a 15-second investment that speaks into their whole day.
 
+When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
+
 ## A New Year Prayer for Families
 
 Close this devotional with a prayer together:

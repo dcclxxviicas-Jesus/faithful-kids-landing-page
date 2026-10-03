@@ -86,6 +86,8 @@ Older children who find coloring dull usually take to the [Moses word search](/p
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Exodus?

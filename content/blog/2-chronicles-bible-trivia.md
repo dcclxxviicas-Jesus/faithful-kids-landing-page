@@ -108,6 +108,8 @@ Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same 
 
 For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Chronicles?

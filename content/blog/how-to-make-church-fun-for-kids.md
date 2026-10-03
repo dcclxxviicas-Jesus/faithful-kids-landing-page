@@ -149,6 +149,10 @@ If your group skews older, the [youth group games list](/blog/youth-group-games)
 
 And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
 
+There's also a printable [Bible scavenger hunt](/blog/bible-scavenger-hunt) -- three complete hunts, from around-the-house for preschoolers to a photo hunt for teens.
+
+In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games) -- 25 ideas that survive forty kids arriving at once.
+
 ## Frequently Asked Questions
 
 ### At what age should kids start attending the main church service?

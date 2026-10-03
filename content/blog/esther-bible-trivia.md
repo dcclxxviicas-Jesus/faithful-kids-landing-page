@@ -96,6 +96,8 @@ Leaders who want a round for themselves should try our [hard Bible trivia for ad
 
 For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Esther?

@@ -116,6 +116,8 @@ Help your kids experience Abraham's incredible story through animated video less
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+
 ## Frequently Asked Questions
 
 ### Why did God ask Abraham to sacrifice Isaac?

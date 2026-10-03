@@ -112,6 +112,8 @@ The goal of all of it is the Psalm 1 picture: a family planted by the water, gro
 
 The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
 
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+
 ## Frequently Asked Questions
 
 ### When should we do New Year's family devotions -- New Year's Eve or New Year's Day?

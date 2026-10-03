@@ -124,6 +124,8 @@ Bring the Christmas story to life for your kids with animated video lessons, qui
 
 Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
 
+Add the [kids' nativity play script](/blog/nativity-play-script-for-kids) -- free, ten minutes, scales from 8 kids to 40 -- and the evening plans itself.
+
 ## Frequently Asked Questions
 
 ### At what age should I start teaching my child the real Christmas story?

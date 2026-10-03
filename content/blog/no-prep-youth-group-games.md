@@ -104,6 +104,10 @@ If the adults keep stealing the kids' questions, point them at [Bible trivia for
 
 And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
 
+For a game that gets everyone moving, our [Bible scavenger hunt](/blog/bible-scavenger-hunt) has three ready-to-play hunts -- verse hunt, object hunt, and a church photo hunt -- with a free printable.
+
+In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games) -- 25 ideas that survive forty kids arriving at once.
+
 ## Frequently Asked Questions
 
 ### What is the easiest youth group game with no supplies?

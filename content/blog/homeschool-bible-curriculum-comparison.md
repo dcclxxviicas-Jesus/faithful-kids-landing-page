@@ -267,6 +267,8 @@ Prices change; the always-current numbers for web and iOS are on our [pricing pa
 
 Want to see exactly what a year covers before committing? The full [Faithful Kids scope and sequence](/blog/faithful-kids-scope-and-sequence) lists all 31 series and 310 lessons in order, with scripture references.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### What is the best free Bible curriculum for homeschool?

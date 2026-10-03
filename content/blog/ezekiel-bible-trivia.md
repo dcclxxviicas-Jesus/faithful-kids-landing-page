@@ -76,6 +76,8 @@ Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same 
 
 For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ezekiel?

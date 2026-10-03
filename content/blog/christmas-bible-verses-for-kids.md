@@ -142,6 +142,8 @@ There is a free [Christmas word search](/printables/bible-word-search/christmas)
 
 There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
 
+For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids) -- free to perform and photocopy, with director's notes.
+
 ## Frequently Asked Questions
 
 ### What is the most famous Christmas Bible verse?

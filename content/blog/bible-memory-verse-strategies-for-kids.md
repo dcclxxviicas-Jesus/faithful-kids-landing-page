@@ -156,6 +156,8 @@ For kids who are visual and digital-native, watching a short video connected to 
 
 Pair your memory verse practice with the stories behind the verses. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let your child watch the Bible stories that give context to the verses they are memorizing — making God's word come alive in both their minds and their hearts.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### At what age should kids start memorizing Bible verses?

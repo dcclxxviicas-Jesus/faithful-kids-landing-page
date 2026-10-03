@@ -172,6 +172,10 @@ Leaders who want a round for themselves should try our [hard Bible trivia for ad
 
 Our [75 Christian jokes](/blog/christian-jokes) are the church-life set -- sermon-length jokes, potluck jokes, and what kids actually say in the pew.
 
+For a game that gets everyone moving, our [Bible scavenger hunt](/blog/bible-scavenger-hunt) has three ready-to-play hunts -- verse hunt, object hunt, and a church photo hunt -- with a free printable.
+
+In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games) -- 25 ideas that survive forty kids arriving at once.
+
 ## Frequently Asked Questions
 
 ### What is a good icebreaker for a youth group first night?

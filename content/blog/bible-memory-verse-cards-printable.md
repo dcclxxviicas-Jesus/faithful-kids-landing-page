@@ -166,6 +166,8 @@ There are eleven [printable Bible word searches](/printables/bible-word-search) 
 
 If your kids like puzzles, the [Bible crossword puzzles](/printables/bible-crossword) ask what happened in the story, not just how the names are spelled -- free, with answer keys.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Frequently Asked Questions
 
 ### How many verses should a child memorize at once?

@@ -113,6 +113,8 @@ A workable starter set for a family with elementary-age kids looks like this: on
 
 For the principles underneath all of this -- what Scripture actually asks of parents, apart from any product -- start with our guide to [Christian parenting and biblical principles](/blog/christian-parenting-101-biblical-principles).
 
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+
 ## Frequently Asked Questions
 
 ### What is the single most useful Christian parenting resource?

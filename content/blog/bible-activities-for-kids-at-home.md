@@ -112,3 +112,5 @@ You can print any of our [free Bible coloring pages](/printables/bible-coloring-
 There are eleven [printable Bible word searches](/printables/bible-word-search) on our site, each with its answer key on the page.
 
 For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword) -- free to print, answer keys included.
+
+There's also a printable [Bible scavenger hunt](/blog/bible-scavenger-hunt) -- three complete hunts, from around-the-house for preschoolers to a photo hunt for teens.

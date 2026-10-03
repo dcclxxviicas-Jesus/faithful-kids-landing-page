@@ -2,15 +2,18 @@
 title: "Books of the Bible Printable Guide for Kids (All 66 Books)"
 slug: "books-of-the-bible-printable"
 type: "listicle"
+metaTitle: "Books of the Bible in Order — Free Printable Chart & List"
 metaDescription: "A printable-ready list of all 66 books of the Bible with kid-friendly descriptions, plus wall charts, bookmarks, songs, and games to help kids memorize them."
-keywords: ["books of the bible printable", "books of the bible printables", "books of the bible list for kids", "66 books of the bible", "books of the bible chart", "books of the bible bookmark", "memorize books of the bible"]
+keywords: ["books of the bible in order", "books of the bible printable", "books of the bible list", "66 books of the bible", "books of the bible chart", "books of the bible flashcards", "books of the bible bookmark", "memorize books of the bible"]
 datePublished: "2026-08-16"
-dateModified: "2026-08-19"
+dateModified: "2026-10-03"
 ---
 
 The Bible has 66 books -- 39 in the Old Testament and 27 in the New Testament -- and this guide gives you the full list in order with a one-line, kid-friendly description of each. Print it, tape it inside your child's Bible cover, and use the memorization strategies below to help them learn all 66 in a few weeks.
 
 Knowing the books in order isn't a party trick. A kid who knows where Habakkuk lives can actually find it during a sermon or a [sword drill](/blog/sunday-school-games-for-kids), and that small confidence makes the whole Bible feel like home.
+
+**Want it ready to print?** [Download the free Books of the Bible PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/books-of-the-bible.pdf) -- a one-page wall chart of all 66 books in order, 66 cut-out flashcards, and three bookmarks (Old Testament, New Testament, and the ten "shelves"). No sign-up, free to photocopy for home, class, or church.
 
 ## What Are the 66 Books of the Bible in Order?
 
@@ -108,7 +111,7 @@ The 66 books run from Genesis to Revelation, and they're easiest to learn in gro
 
 ## What Books of the Bible Printables Should You Make?
 
-There are three formats worth printing, and each does a different job: a **list** for reference, a **wall chart** for daily exposure, and a **bookmark** for use inside an actual Bible. Most families need all three, and all three come from the same source material -- the list above. Build them once and reprint as they wear out.
+There are three formats worth printing, and each does a different job: a **chart** for daily exposure, **flashcards** for games and drills, and a **bookmark** for use inside an actual Bible. All three are in [our free PDF above](https://d3g07v1w0lehiv.cloudfront.net/printables/books-of-the-bible.pdf), ready to photocopy. If you'd rather make your own -- laminated, color-coded to your curriculum, or sized for a classroom wall -- here is how each format earns its keep.
 
 ### Format 1: The One-Page List
 

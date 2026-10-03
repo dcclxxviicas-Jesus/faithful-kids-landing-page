@@ -26,6 +26,8 @@ For the story text to read alongside each page, our retelling of [the Christmas 
 
 If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
 
+If the kids are putting on the story this year, our [free nativity play script](/blog/nativity-play-script-for-kids) runs ten minutes with a cast of 8 to 40 -- nobody memorizes more than two lines.
+
 ## Before the Birth (Pages 1-5)
 
 The setup scenes almost every coloring set skips, which is a shame -- they're where the story's suspense lives.

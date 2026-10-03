@@ -112,6 +112,8 @@ If reading isn't your format, most of these authors -- Sissy Goff, David Thomas,
 
 Books shape parents; rhythms shape kids. Most families find the reading only sticks once it turns into something the kids experience -- a Bible story at bedtime, a question at dinner, a video lesson after school. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short readings, one question, and a goodnight prayer, so the theory you're reading about turns into a habit by the end of the week.
 
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+
 ## Frequently Asked Questions
 
 ### What is the best Christian parenting book overall?

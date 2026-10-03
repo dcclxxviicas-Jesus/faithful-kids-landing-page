@@ -114,6 +114,8 @@ There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-
 
 There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
 
+Kids learning to find books fast? The [books of the Bible printable](/blog/books-of-the-bible-printable) has a wall chart, 66 flashcards, and bookmarks, free to copy.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Hebrews?

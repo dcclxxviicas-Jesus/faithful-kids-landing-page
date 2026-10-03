@@ -126,6 +126,8 @@ Older children who find coloring dull usually take to the [Christmas word search
 
 Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
 
+For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids) -- free to perform and photocopy, with director's notes.
+
 ## Frequently Asked Questions
 
 ### When should an Advent calendar start?

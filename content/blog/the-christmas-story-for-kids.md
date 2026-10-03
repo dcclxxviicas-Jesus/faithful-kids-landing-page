@@ -108,6 +108,8 @@ Planning the whole month? The [Christmas hub](/holidays/christmas) lists every A
 
 Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
 
+Add the [kids' nativity play script](/blog/nativity-play-script-for-kids) -- free, ten minutes, scales from 8 kids to 40 -- and the evening plans itself.
+
 ## Frequently Asked Questions
 
 ### What is the Christmas story in simple words?

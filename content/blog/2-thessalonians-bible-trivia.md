@@ -63,6 +63,8 @@ Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-t
 
 There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote 2 Thessalonians?

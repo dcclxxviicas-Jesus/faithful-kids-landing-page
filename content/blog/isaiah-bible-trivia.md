@@ -83,6 +83,8 @@ Leaders who want a round for themselves should try our [hard Bible trivia for ad
 
 The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Isaiah?

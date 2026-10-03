@@ -140,6 +140,8 @@ We also drew a set of [free Bible word searches](/printables/bible-word-search) 
 
 If you're planning a whole night, our list of [youth group games](/blog/youth-group-games) sorts 55 of them by group size, with rules, materials, and prep time for each.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### What is the best memory verse game for a large group?

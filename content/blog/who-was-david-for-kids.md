@@ -121,6 +121,8 @@ Bring King David's story to life for your kids with animated video lessons on Fa
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
+There's a whole guide to [biblical names](/blog/biblical-names) too -- what they mean, how they work, and lists for [boys](/blog/biblical-boy-names) and [girls](/blog/biblical-girl-names).
+
 ## Frequently Asked Questions
 
 ### Was David a real historical person?

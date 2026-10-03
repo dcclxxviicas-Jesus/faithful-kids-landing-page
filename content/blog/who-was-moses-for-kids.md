@@ -131,6 +131,8 @@ Want your kids to experience the story of Moses through animated videos they'll 
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+
 ## Frequently Asked Questions
 
 ### How old was Moses when God called him at the burning bush?

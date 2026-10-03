@@ -90,3 +90,5 @@ It suits roughly ages 6 and up. Younger children sometimes struggle with audio-o
 Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
 
 Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
+
+For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids) -- free to perform and photocopy, with director's notes.

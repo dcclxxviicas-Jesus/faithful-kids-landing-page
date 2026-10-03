@@ -142,6 +142,10 @@ For the adults in the room, our [Bible trivia questions for adults](/blog/bible-
 
 If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs -- all clean.
 
+There's also a printable [Bible scavenger hunt](/blog/bible-scavenger-hunt) -- three complete hunts, from around-the-house for preschoolers to a photo hunt for teens.
+
+For harvest season, see the [25 fall festival games for church](/blog/church-fall-festival-games) -- volunteer-proof booths, trunk or treat games, and printable quiet stations.
+
 ## Frequently Asked Questions
 
 ### What indoor games work in a small youth room with no gym?

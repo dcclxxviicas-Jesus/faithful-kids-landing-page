@@ -144,6 +144,8 @@ Print the [Christmas word search](/printables/bible-word-search/christmas) for t
 
 The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
 
+Add the [kids' nativity play script](/blog/nativity-play-script-for-kids) -- free, ten minutes, scales from 8 kids to 40 -- and the evening plans itself.
+
 ## Frequently Asked Questions
 
 ### What do the 4 Advent candles stand for?

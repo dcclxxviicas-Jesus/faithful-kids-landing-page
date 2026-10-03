@@ -116,6 +116,8 @@ There is a free [Christmas word search](/printables/bible-word-search/christmas)
 
 For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
 
+Add the [kids' nativity play script](/blog/nativity-play-script-for-kids) -- free, ten minutes, scales from 8 kids to 40 -- and the evening plans itself.
+
 ## Frequently Asked Questions
 
 ### What is the easiest Christian Christmas tradition to start this year?

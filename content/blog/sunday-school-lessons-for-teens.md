@@ -198,6 +198,8 @@ For the adults in the room, our [Bible trivia questions for adults](/blog/bible-
 
 For between-Sundays, our guide to [Bible apps for teens](/blog/bible-apps-for-teens) covers the apps that don't feel babyish at 14.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson for teens be?

@@ -73,6 +73,8 @@ If the adults keep stealing the kids' questions, point them at [Bible trivia for
 
 We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
 
+Kids learning to find books fast? The [books of the Bible printable](/blog/books-of-the-bible-printable) has a wall chart, 66 flashcards, and bookmarks, free to copy.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Philippians?

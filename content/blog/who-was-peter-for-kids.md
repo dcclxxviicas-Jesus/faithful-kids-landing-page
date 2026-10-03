@@ -143,6 +143,8 @@ Watch Peter's incredible story come to life through animated video lessons on Fa
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+
 ## Frequently Asked Questions
 
 ### Was Peter really the first pope?

@@ -150,6 +150,10 @@ If your kids like puzzles, the [Bible crossword puzzles](/printables/bible-cross
 
 There's a companion list of [clean Christian jokes](/blog/christian-jokes) too: church-life humor, kids-in-church classics, and the best church signs ever posted.
 
+There's also a printable [Bible scavenger hunt](/blog/bible-scavenger-hunt) -- three complete hunts, from around-the-house for preschoolers to a photo hunt for teens.
+
+In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games) -- 25 ideas that survive forty kids arriving at once.
+
 ## Frequently Asked Questions
 
 ### What Bible activities work for youth who did not grow up in church?

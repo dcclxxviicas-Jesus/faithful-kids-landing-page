@@ -91,6 +91,8 @@ Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-t
 
 If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Psalms?

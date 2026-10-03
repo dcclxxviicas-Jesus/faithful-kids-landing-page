@@ -78,6 +78,8 @@ Faithful Kids has 300+ Bible story videos designed for kids ages 5+. For toddler
 
 Toddlers who love this story can color it too — the free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) prints on one sheet.
 
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+
 ## Frequently Asked Questions
 
 ### When should I start reading the Bible to my toddler?

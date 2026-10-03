@@ -157,6 +157,8 @@ Start tonight. Keep it simple. Keep it real. God will meet you right where you a
 
 Faithful Kids helps children build daily spiritual habits through animated Bible story videos, quizzes, and guided reflections. Each episode ends with a reflection moment that naturally leads into prayer. It is the perfect companion to your family prayer time. [Start your free trial today.](https://faithfulkids.app/quiz)
 
+There's a whole guide to [biblical names](/blog/biblical-names) too -- what they mean, how they work, and lists for [boys](/blog/biblical-boy-names) and [girls](/blog/biblical-girl-names).
+
 ## Frequently Asked Questions
 
 ### What if my child does not want to pray?

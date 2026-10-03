@@ -96,6 +96,8 @@ Small groups and Bible studies get their own set in our [Bible trivia for adults
 
 Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ezra?

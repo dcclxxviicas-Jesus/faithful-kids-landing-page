@@ -81,6 +81,8 @@ When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blo
 
 We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote 2 Corinthians?

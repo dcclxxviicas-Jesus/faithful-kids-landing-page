@@ -102,6 +102,8 @@ For the adults in the room, our [Bible trivia questions for adults](/blog/bible-
 
 The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Jonah?

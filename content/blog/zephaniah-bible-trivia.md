@@ -84,6 +84,8 @@ There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-
 
 Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Zephaniah?

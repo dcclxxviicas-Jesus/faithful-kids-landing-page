@@ -94,6 +94,8 @@ For the adults in the room, our [Bible trivia questions for adults](/blog/bible-
 
 Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
 
+Kids learning to find books fast? The [books of the Bible printable](/blog/books-of-the-bible-printable) has a wall chart, 66 flashcards, and bookmarks, free to copy.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Micah?

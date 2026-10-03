@@ -73,6 +73,8 @@ If the adults keep stealing the kids' questions, point them at [Bible trivia for
 
 We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Ephesians?

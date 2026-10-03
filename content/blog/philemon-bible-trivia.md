@@ -86,6 +86,8 @@ Leaders who want a round for themselves should try our [hard Bible trivia for ad
 
 For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Philemon?

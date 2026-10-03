@@ -121,6 +121,8 @@ Older children who find coloring dull usually take to the [Christmas word search
 
 Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
 
+Our [free printable nativity script](/blog/nativity-play-script-for-kids) covers the performance side: ten minutes, bathrobe shepherds, carols built in.
+
 ## Frequently Asked Questions
 
 ### What is the most popular Bible verse for Christmas cards?

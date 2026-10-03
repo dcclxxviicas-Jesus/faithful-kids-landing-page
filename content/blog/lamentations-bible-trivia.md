@@ -79,6 +79,8 @@ For the adults in the room, our [Bible trivia questions for adults](/blog/bible-
 
 Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Lamentations?

@@ -131,6 +131,8 @@ Kids perform the story better when they know the story -- not just their line. S
 
 Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
 
+Our [free printable nativity script](/blog/nativity-play-script-for-kids) covers the performance side: ten minutes, bathrobe shepherds, carols built in.
+
 ## Frequently Asked Questions
 
 ### How long should a kids Christmas program be?

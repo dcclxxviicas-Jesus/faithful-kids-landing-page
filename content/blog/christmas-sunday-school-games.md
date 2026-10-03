@@ -108,6 +108,12 @@ There are also seven free [printable Bible crosswords](/printables/bible-crosswo
 
 If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs -- all clean.
 
+If the group needs to burn energy first, the [Bible scavenger hunt](/blog/bible-scavenger-hunt) (free printable, answer key included) does it in twenty minutes flat.
+
+In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games) -- 25 ideas that survive forty kids arriving at once.
+
+Our [free printable nativity script](/blog/nativity-play-script-for-kids) covers the performance side: ten minutes, bathrobe shepherds, carols built in.
+
 ## Frequently Asked Questions
 
 ### What are good Christmas games for a Sunday school class with no prep?

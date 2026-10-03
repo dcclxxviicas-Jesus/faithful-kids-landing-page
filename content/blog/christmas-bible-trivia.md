@@ -21,6 +21,8 @@ Fair warning about the expert round: it is designed to stump the most Bible-lite
 
 The four rounds map cleanly onto team play: give kids the easy round, teens the medium round, adults the hard round, and make anyone who claims to know the Bible well answer from the expert round. Two points per correct answer, one point for a near miss, and when an answer surprises the room -- read the verse out loud before moving on. That thirty-second habit is what turns a party game into the best Bible study your family does all year.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Easy Round (Questions 1-20)
 
 Warm-up territory -- the parts of the story everyone knows from nativity scenes and pageants.

@@ -126,6 +126,8 @@ Bring Daniel's thrilling story to life for your kids with animated video lessons
 
 Older children who find coloring dull usually take to the [Daniel word search](/printables/bible-word-search/daniel) instead. It plays in the browser or prints on one sheet.
 
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+
 ## Frequently Asked Questions
 
 ### How old was Daniel when he was taken to Babylon?

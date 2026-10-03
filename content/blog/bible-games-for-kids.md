@@ -265,6 +265,10 @@ For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzl
 
 And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
 
+For a game that gets everyone moving, our [Bible scavenger hunt](/blog/bible-scavenger-hunt) has three ready-to-play hunts -- verse hunt, object hunt, and a church photo hunt -- with a free printable.
+
+Planning an October event? Our [church fall festival games](/blog/church-fall-festival-games) list has 25 booth, trunk-or-treat, and big-group games with supply notes.
+
 ## Frequently Asked Questions
 
 ### What are good Bible games for 4 and 5 year olds?

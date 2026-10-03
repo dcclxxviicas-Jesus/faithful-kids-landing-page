@@ -88,6 +88,8 @@ If the adults keep stealing the kids' questions, point them at [Bible trivia for
 
 There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Habakkuk?

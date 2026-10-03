@@ -126,6 +126,8 @@ Help your kids discover Mary's incredible story through animated video lessons o
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+
 ## Frequently Asked Questions
 
 ### How old was Mary when the angel appeared to her?

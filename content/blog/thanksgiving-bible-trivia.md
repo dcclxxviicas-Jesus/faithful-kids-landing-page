@@ -99,6 +99,8 @@ Small groups and Bible studies get their own set in our [Bible trivia for adults
 
 Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### Is Thanksgiving actually in the Bible?

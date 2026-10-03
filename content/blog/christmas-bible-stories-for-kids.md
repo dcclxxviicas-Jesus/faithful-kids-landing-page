@@ -70,6 +70,8 @@ There is also a free set of [Christmas coloring pages](/printables/christmas-col
 
 When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
 
+Add the [kids' nativity play script](/blog/nativity-play-script-for-kids) -- free, ten minutes, scales from 8 kids to 40 -- and the evening plans itself.
+
 ## Frequently Asked Questions
 
 ### When should I teach my child the Christmas story?

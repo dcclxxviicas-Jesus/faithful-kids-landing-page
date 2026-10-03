@@ -93,6 +93,8 @@ Small groups and Bible studies get their own set in our [Bible trivia for adults
 
 Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Romans?

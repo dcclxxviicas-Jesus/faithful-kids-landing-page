@@ -83,6 +83,8 @@ Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-t
 
 There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Jeremiah?

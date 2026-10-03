@@ -86,6 +86,8 @@ One more thing worth naming: podcasts change the parent, not the kid. The other 
 
 The fastest way to turn a podcast idea into something your kids feel is to give it a nightly slot. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) is seven nights of short readings, one question, and a goodnight prayer -- print it, and the advice you heard on Tuesday's drive is running in your house by Wednesday.
 
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+
 ## Frequently Asked Questions
 
 ### What is the best Christian parenting podcast overall?

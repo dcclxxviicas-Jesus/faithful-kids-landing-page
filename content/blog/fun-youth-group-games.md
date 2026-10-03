@@ -154,6 +154,10 @@ For the adults in the room, our [Bible trivia questions for adults](/blog/bible-
 
 If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs -- all clean.
 
+For a game that gets everyone moving, our [Bible scavenger hunt](/blog/bible-scavenger-hunt) has three ready-to-play hunts -- verse hunt, object hunt, and a church photo hunt -- with a free printable.
+
+In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games) -- 25 ideas that survive forty kids arriving at once.
+
 ## Frequently Asked Questions
 
 ### What is the funniest youth group game?

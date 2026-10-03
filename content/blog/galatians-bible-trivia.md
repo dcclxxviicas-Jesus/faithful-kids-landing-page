@@ -83,6 +83,8 @@ There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-
 
 When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Galatians?

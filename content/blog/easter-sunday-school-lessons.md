@@ -224,6 +224,8 @@ There is a free [Easter word search](/printables/bible-word-search/easter) to go
 
 For the game portion of the night, these [youth group games sorted by group size](/blog/youth-group-games) cover everything from four students to forty.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### How do you explain the crucifixion to young children?

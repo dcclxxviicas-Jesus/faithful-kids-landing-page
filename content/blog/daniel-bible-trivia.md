@@ -95,6 +95,8 @@ If the adults keep stealing the kids' questions, point them at [Bible trivia for
 
 When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
 
+Kids learning to find books fast? The [books of the Bible printable](/blog/books-of-the-bible-printable) has a wall chart, 66 flashcards, and bookmarks, free to copy.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Daniel?

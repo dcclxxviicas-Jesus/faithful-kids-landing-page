@@ -106,6 +106,8 @@ There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-
 
 Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Job?

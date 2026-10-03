@@ -247,6 +247,8 @@ We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three
 
 Our [free Bible word search](/printables/bible-word-search) works the same way: play it on screen, or print it for the table.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson be for preschoolers?

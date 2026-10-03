@@ -86,6 +86,8 @@ Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-t
 
 When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Frequently Asked Questions
 
 ### Who wrote 1 Corinthians?

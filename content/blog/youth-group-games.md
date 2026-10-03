@@ -278,6 +278,10 @@ Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-t
 
 For humor about church life itself -- pastors, potlucks, and the kids' row -- see our [75 clean Christian jokes](/blog/christian-jokes).
 
+If the group needs to burn energy first, the [Bible scavenger hunt](/blog/bible-scavenger-hunt) (free printable, answer key included) does it in twenty minutes flat.
+
+Planning an October event? Our [church fall festival games](/blog/church-fall-festival-games) list has 25 booth, trunk-or-treat, and big-group games with supply notes.
+
 ## Frequently Asked Questions
 
 ### What are the best youth group games for a small group of 10 or fewer?

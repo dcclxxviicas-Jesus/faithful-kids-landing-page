@@ -20,6 +20,8 @@ Two things make it stick. Light a candle before you start, so kids feel that thi
 
 Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
 
+For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids) -- free to perform and photocopy, with director's notes.
+
 ## Days 1-10: The Promise
 
 These ten days cover the centuries of waiting -- God promising a Rescuer long before Bethlehem. The theme kids should catch: God keeps His promises, even slowly.

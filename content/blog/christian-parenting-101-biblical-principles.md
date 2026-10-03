@@ -134,6 +134,8 @@ Faithful Kids teaches the Bible stories behind these principles in short, engagi
 
 ---
 
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+
 ## Frequently Asked Questions
 
 ### What is the most important thing I can do as a Christian parent?

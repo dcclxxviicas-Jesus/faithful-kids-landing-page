@@ -201,6 +201,8 @@ We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-triv
 
 For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword) -- free to print, answer keys included.
 
+For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids) -- free to perform and photocopy, with director's notes.
+
 ## Frequently Asked Questions
 
 ### What is the easiest nativity craft for toddlers?

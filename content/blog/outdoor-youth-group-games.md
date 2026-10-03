@@ -125,6 +125,10 @@ Leaders who want a round for themselves should try our [hard Bible trivia for ad
 
 Our [75 Christian jokes](/blog/christian-jokes) are the church-life set -- sermon-length jokes, potluck jokes, and what kids actually say in the pew.
 
+If the group needs to burn energy first, the [Bible scavenger hunt](/blog/bible-scavenger-hunt) (free printable, answer key included) does it in twenty minutes flat.
+
+For harvest season, see the [25 fall festival games for church](/blog/church-fall-festival-games) -- volunteer-proof booths, trunk or treat games, and printable quiet stations.
+
 ## Frequently Asked Questions
 
 ### What are the best outdoor games for a large youth group?

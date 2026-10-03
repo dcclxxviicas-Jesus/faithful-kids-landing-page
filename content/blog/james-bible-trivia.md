@@ -96,6 +96,8 @@ Small groups and Bible studies get their own set in our [Bible trivia for adults
 
 For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of James?

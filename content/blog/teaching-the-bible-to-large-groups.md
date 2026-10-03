@@ -94,6 +94,8 @@ Two structural helps: start the hour with a strong hands-on hook -- an [object l
 
 The goal of all this structure isn't control for its own sake. It's that a well-run room of 30 kids is a room where a 7-year-old can actually hear that God knows her name -- and nobody is too busy putting out fires to tell her.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Frequently Asked Questions
 
 ### How many adults do I need for a large group of kids?

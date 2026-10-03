@@ -136,6 +136,8 @@ We also drew a set of [free Bible word searches](/printables/bible-word-search) 
 
 If you're planning a whole night, our list of [youth group games](/blog/youth-group-games) sorts 55 of them by group size, with rules, materials, and prep time for each.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### What ages is this David series for?

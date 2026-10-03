@@ -73,6 +73,8 @@ Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same 
 
 For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
 
+Kids learning to find books fast? The [books of the Bible printable](/blog/books-of-the-bible-printable) has a wall chart, 66 flashcards, and bookmarks, free to copy.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Colossians?

@@ -129,6 +129,8 @@ When the lesson lands early and twenty minutes remain, a page of [youth group ga
 
 Planning a whole year on no budget? Our roundup of [free Bible curriculum for kids ministry](/blog/free-bible-curriculum-for-kids-ministry) lists the genuinely free programs, vendor-verified.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Frequently Asked Questions
 
 ### Are these Sunday school lessons for kids really free?

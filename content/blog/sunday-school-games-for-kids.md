@@ -169,6 +169,10 @@ Pair it with a [printable Bible crossword](/printables/bible-crossword) -- the c
 
 Add a few [funny Christian jokes](/blog/christian-jokes) between rounds -- the church-sign section alone can carry a youth-group night.
 
+Add our [Bible scavenger hunt](/blog/bible-scavenger-hunt) to the rotation: a verse hunt for readers, an object hunt for littles, and a photo hunt built for youth groups.
+
+In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games) -- 25 ideas that survive forty kids arriving at once.
+
 ## Frequently Asked Questions
 
 ### What is a good Sunday school game with no preparation?

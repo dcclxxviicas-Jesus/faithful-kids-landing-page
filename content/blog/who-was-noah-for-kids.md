@@ -120,6 +120,8 @@ Bring Noah's adventure to life for your kids with animated video lessons on Fait
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+
 ## Frequently Asked Questions
 
 ### How big was Noah's Ark?

@@ -196,6 +196,8 @@ Before the meeting, skim our [youth group games](/blog/youth-group-games) — ev
 
 Zooming out from single lessons to whole programs: our verified roundup of [free Bible curriculum for kids ministry](/blog/free-bible-curriculum-for-kids-ministry) lists what's genuinely free, and what the paid options really cost.
 
+Kids learning to find books fast? The [books of the Bible printable](/blog/books-of-the-bible-printable) has a wall chart, 66 flashcards, and bookmarks, free to copy.
+
 ## Frequently Asked Questions
 
 ### Are free Sunday school lessons actually good enough to use?

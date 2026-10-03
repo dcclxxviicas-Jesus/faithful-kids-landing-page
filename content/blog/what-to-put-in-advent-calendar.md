@@ -124,6 +124,8 @@ If your evenings need a ready-made anchor once the calendar door is closed, our 
 
 When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
 
+If the kids are putting on the story this year, our [free nativity play script](/blog/nativity-play-script-for-kids) runs ten minutes with a cast of 8 to 40 -- nobody memorizes more than two lines.
+
 ## Frequently Asked Questions
 
 ### What can I put in an Advent calendar besides candy?

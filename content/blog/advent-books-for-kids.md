@@ -89,6 +89,8 @@ Everything we have for the season — Advent devotions, the nativity story, triv
 
 There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
 
+For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids) -- free to perform and photocopy, with director's notes.
+
 ## Frequently Asked Questions
 
 ### What is the best Advent book for kids overall?

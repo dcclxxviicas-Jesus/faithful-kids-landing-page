@@ -53,6 +53,8 @@ Whatever curriculum you run, these free pieces slot in alongside it, no sign-up:
 
 Evaluating the Faithful Kids church program? The complete [scope and sequence](/blog/faithful-kids-scope-and-sequence) — every series and lesson in order with scripture references — is public.
 
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+
 ## Frequently Asked Questions
 
 ### Is Faithful Kids really free for churches?

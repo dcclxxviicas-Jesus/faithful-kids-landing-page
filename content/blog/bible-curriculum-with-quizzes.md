@@ -90,6 +90,8 @@ For the app side of this question, our comparison of [Bible apps with a quiz aft
 
 Running this at church rather than home? The [free kids ministry curriculum guide](/blog/free-bible-curriculum-for-kids-ministry) covers what churches get free — including Faithful Kids itself.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Frequently Asked Questions
 
 ### Do quizzes really help kids remember Bible stories?

@@ -117,6 +117,8 @@ If you're looking for more ways to build Christ-centered December habits, our gu
 
 For the gathering itself, these [Christmas trivia questions and answers](/blog/christmas-bible-trivia) cover every age at the table, verse references included.
 
+For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids) -- free to perform and photocopy, with director's notes.
+
 ## Frequently Asked Questions
 
 ### What is Advent in simple words for a child?

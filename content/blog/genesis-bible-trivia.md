@@ -92,6 +92,8 @@ If the adults keep stealing the kids' questions, point them at [Bible trivia for
 
 If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
 
+Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
+
 ## Frequently Asked Questions
 
 ### Who wrote the book of Genesis?

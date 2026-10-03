@@ -286,6 +286,8 @@ The stories behind these verses matter too. Short animated Bible lessons on [Fai
 
 Most of these verses land best at bedtime, when kids are calm and talkative. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short readings and a goodnight prayer built for exactly that window -- print it once and it pairs with any verse on this page.
 
+Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
+
 ## Frequently Asked Questions
 
 ### What is the easiest Bible verse for a preschooler to memorize?

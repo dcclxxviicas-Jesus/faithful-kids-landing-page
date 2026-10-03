@@ -158,6 +158,10 @@ There is a free [Christmas word search](/printables/bible-word-search/christmas)
 
 There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
 
+Expecting or know someone who is? Our [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) lists pair every name's meaning with the story behind it.
+
+Add the [kids' nativity play script](/blog/nativity-play-script-for-kids) -- free, ten minutes, scales from 8 kids to 40 -- and the evening plans itself.
+
 ## Frequently Asked Questions
 
 ### How long should a Christmas family devotion take?

@@ -98,6 +98,8 @@ It also pairs happily with other traditions rather than replacing them. Plenty o
 
 Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia) -- four graded rounds plus a carol round, free to print for church or home.
 
+Our [free printable nativity script](/blog/nativity-play-script-for-kids) covers the performance side: ten minutes, bathrobe shepherds, carols built in.
+
 ## Frequently Asked Questions
 
 ### What ages is a Jesse Tree best for?

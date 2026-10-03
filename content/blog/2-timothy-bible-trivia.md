@@ -96,6 +96,8 @@ When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blo
 
 If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
 
+Kids learning to find books fast? The [books of the Bible printable](/blog/books-of-the-bible-printable) has a wall chart, 66 flashcards, and bookmarks, free to copy.
+
 ## Frequently Asked Questions
 
 ### Who wrote 2 Timothy?

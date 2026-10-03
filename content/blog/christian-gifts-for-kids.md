@@ -93,6 +93,8 @@ Sometimes, yes -- a shared experience often outlasts a physical gift. A "coupon"
 
 The best pattern many families land on: one physical gift plus one experience. The toy gets opened Christmas morning; the experience gets talked about all year. If the gift is for Christmas specifically, our list of smaller [Christian stocking stuffers for kids](/blog/christian-stocking-stuffers-for-kids) covers the under-$15 tier so the big gift can stay the star.
 
+Expecting or know someone who is? Our [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) lists pair every name's meaning with the story behind it.
+
 ## Frequently Asked Questions
 
 ### What is the best Christian gift for a child overall?

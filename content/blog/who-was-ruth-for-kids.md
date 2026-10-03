@@ -102,6 +102,8 @@ Help your kids experience Ruth's beautiful story of loyalty and faith through an
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+
 ## Frequently Asked Questions
 
 ### Who were the Moabites and why does it matter that Ruth was one?

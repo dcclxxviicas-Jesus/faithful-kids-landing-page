@@ -124,6 +124,8 @@ For a quieter follow-up, try the [Christmas word search](/printables/bible-word-
 
 For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
 
+Add the [kids' nativity play script](/blog/nativity-play-script-for-kids) -- free, ten minutes, scales from 8 kids to 40 -- and the evening plans itself.
+
 ## Frequently Asked Questions
 
 ### When should I buy an Advent calendar?

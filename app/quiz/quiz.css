@@ -446,3 +446,20 @@
   .qz-ring-num { font-size: 2.6rem; }
   .qz-build h2 { font-size: 2rem; }
 }
+
+/* ── The one typed answer (child's first name). Appended at end: later rules
+      win at equal specificity. ── */
+.qz-text {
+  width: 100%; max-width: 320px; margin: 4px auto 14px; display: block;
+  padding: 14px 16px; font-size: 1.05rem; font-weight: 600; color: #1f2937;
+  border: 2px solid #e5e7eb; border-radius: 14px; outline: none;
+  text-align: center; background: #fff;
+}
+.qz-text:focus { border-color: #16a34a; }
+.qz-text::placeholder { color: #c3c9d1; font-weight: 500; }
+.qz-skip {
+  display: block; margin: 10px auto 0; background: none; border: none;
+  color: #9ca3af; font-size: 0.85rem; font-weight: 600; cursor: pointer;
+  text-decoration: underline; text-underline-offset: 3px;
+}
+.qz-skip:hover { color: #6b7280; }

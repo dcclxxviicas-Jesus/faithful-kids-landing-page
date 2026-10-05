@@ -34,29 +34,52 @@ const KID_PROOF = [
   'Last one — you\'ve got this!',
 ]
 
-const BUILD_STEPS = [
-  { text: 'Analyzing your answers', icon: '🔍', ms: 900 },
-  { text: 'Matching content to age group', icon: '👶', ms: 1000 },
-  { text: 'Selecting denomination path', icon: '⛪', ms: 800 },
-  { text: 'Building personalized series order', icon: '📚', ms: 1100 },
-  { text: 'Adding quizzes and reflections', icon: '📝', ms: 700 },
-  { text: 'Calculating starting point', icon: '🧭', ms: 900 },
-  { text: 'Finalizing your plan', icon: '✨', ms: 600 },
-]
+/* Build steps consume the user's REAL answers — Noom's lesson: processing
+   feels believable when the interruptions visibly use what you typed.
 
-const KID_BUILD_STEPS = [
-  { text: 'Loading your hero adventures', icon: '🗡️', ms: 900 },
-  { text: 'Picking stories for your age', icon: '🎂', ms: 1000 },
-  { text: 'Adding quizzes to beat', icon: '🏆', ms: 800 },
-  { text: 'Setting up your levels', icon: '⭐', ms: 1000 },
-  { text: 'Unlocking your first series', icon: '🔓', ms: 900 },
-  { text: 'Drawing your adventure map', icon: '🗺️', ms: 800 },
-]
+   The old list had a "Selecting denomination path" line. There is no
+   per-denomination content path in the app (CLAUDE.md; the same false claim
+   was scrubbed from /beliefs and the checkout page), so the theater here is
+   only allowed to name things the reveal actually shows: the week it picked,
+   the ages it labeled, the pace it set. */
+const GOAL_LABEL: Record<string, string> = {
+  christmas: 'a habit by Christmas',
+  'school-year': 'a habit this school year',
+  '30-days': 'a habit in 30 days',
+  whenever: 'a habit at your pace',
+}
 
-// Questions — all single-tap, no typing
+function buildSteps(a: Record<string, string>, path: 'kid' | 'parent' | null) {
+  const name = a.child_name
+  if (path === 'kid') {
+    return [
+      { text: name ? `Writing ${name} on the adventure map` : 'Loading your hero adventures', icon: '🗺️', ms: 900 },
+      { text: 'Picking stories for your age', icon: '🎂', ms: 1000 },
+      { text: 'Adding quizzes to beat', icon: '🏆', ms: 800 },
+      { text: 'Setting up your levels', icon: '⭐', ms: 1000 },
+      { text: 'Unlocking your first series', icon: '🔓', ms: 900 },
+      { text: 'Finishing the map', icon: '✨', ms: 800 },
+    ]
+  }
+  const profiles = a.num_kids
+    ? (a.num_kids === '1' ? 'their profile' : `${a.num_kids} profiles`)
+    : 'the family profile'
+  return [
+    { text: 'Reading your answers', icon: '🔍', ms: 900 },
+    { text: a.age ? `Matching lessons to ages ${a.age}` : 'Matching lessons to their age', icon: '🎂', ms: 1000 },
+    { text: `Setting up ${profiles}`, icon: '👨‍👩‍👧', ms: 800 },
+    { text: name ? `Picking ${name}’s first week` : 'Picking the first week of stories', icon: '📚', ms: 1100 },
+    { text: 'Adding quizzes and reflections', icon: '📝', ms: 700 },
+    { text: a.goal_date ? `Pacing it to be ${GOAL_LABEL[a.goal_date] || 'a habit'}` : 'Setting the pace', icon: '🗓️', ms: 900 },
+    { text: 'Finalizing the plan', icon: '✨', ms: 600 },
+  ]
+}
+
+// Questions — single-tap, except the one 'text' question (the child's name,
+// optional and skippable; the strongest personalization token there is)
 type Question = {
   id: string; emoji: string; q: string; sub: string
-  type: 'single' | 'multi' | 'slider' | 'scale' | 'trivia'
+  type: 'single' | 'multi' | 'slider' | 'scale' | 'trivia' | 'text'
   opts?: { label: string; val: string; emoji: string; sub?: string }[]
   correct?: string
   correctMsg?: string
@@ -87,6 +110,14 @@ const PARENT_QUESTIONS: Question[] = [
       { label: '10-12', val: '10-12', emoji: '⭐', sub: 'Young Scholar' },
       { label: '13+', val: '13+', emoji: '🎓', sub: 'Teen' },
     ],
+  },
+  {
+    /* The name never reaches PostHog or Stripe — it stays in this browser
+       (state + fk_quiz_state) and personalizes the build + plan screens.
+       Analytics only ever see 'provided' or 'skipped'. */
+    id: 'child_name', emoji: '✏️', type: 'text',
+    q: 'What’s their first name?',
+    sub: 'We’ll build the plan around them — or skip this',
   },
   {
     id: 'screen_time', emoji: '📱', type: 'single',
@@ -150,7 +181,7 @@ const PARENT_QUESTIONS: Question[] = [
   {
     id: 'goal', emoji: '🎯', type: 'single',
     q: 'What does success look like?',
-    sub: 'Last one!',
+    sub: 'Almost there',
     opts: [
       { label: 'My kid knows the Bible', val: 'knowledge', emoji: '📖' },
       { label: 'Replace junk screen time', val: 'replace', emoji: '🔄' },
@@ -158,9 +189,27 @@ const PARENT_QUESTIONS: Question[] = [
       { label: 'All of the above', val: 'all', emoji: '🌟' },
     ],
   },
+  {
+    /* Noom's lesson: a plan with a date on it reads as a plan, not a pitch.
+       The reveal screen echoes this back as "ready to be a habit by X". */
+    id: 'goal_date', emoji: '🗓️', type: 'single',
+    q: 'When should this be a habit by?',
+    sub: 'Last one! A plan with a date gets done',
+    opts: [
+      { label: 'By Christmas', val: 'christmas', emoji: '🎄' },
+      { label: 'This school year', val: 'school-year', emoji: '🎒' },
+      { label: 'In the next 30 days', val: '30-days', emoji: '🚀' },
+      { label: 'No rush — when it sticks', val: 'whenever', emoji: '🌱' },
+    ],
+  },
 ]
 
 const KID_QUESTIONS: Question[] = [
+  {
+    id: 'child_name', emoji: '👋', type: 'text',
+    q: 'What’s your name, hero?',
+    sub: 'So we can put it on your adventure — or skip it',
+  },
   {
     id: 'age', emoji: '🎂', type: 'single',
     q: 'How old are you?',
@@ -495,6 +544,20 @@ export default function Quiz() {
     setTimeout(() => advance(next), wait)
   }
 
+  function pickText(val: string) {
+    // Letters, spaces, hyphens, apostrophes only; capped. Empty = skipped.
+    const name = val.trim().replace(/[^\p{L} '’-]/gu, '').slice(0, 20)
+    const next = { ...answers, [q.id]: name }
+    setAnswers(next)
+    // The real name stays in the browser — analytics only learn which branch.
+    posthog.capture('quiz_answer', { question: q.id, answer: name ? 'provided' : 'skipped', step, path })
+    if (name) {
+      setProof(path === 'kid' ? `Hi, ${name}! 👋` : `Building it for ${name} 💚`)
+      setTimeout(() => setProof(null), 1400)
+    }
+    setTimeout(() => advance(next), name ? 800 : 250)
+  }
+
   function pickMulti(val: string) {
     const next = { ...answers, [q.id]: val }
     setAnswers(next)
@@ -519,9 +582,11 @@ export default function Quiz() {
 
   function startBuild(a: Record<string, string>) {
     setPhase('build')
-    posthog.capture('quiz_completed', { ...a, path })
+    // The child's name never leaves the browser: analytics get provided/skipped.
+    const { child_name, ...safe } = a
+    posthog.capture('quiz_completed', { ...safe, child_name: child_name ? 'provided' : 'skipped', path })
     try { sessionStorage.setItem('fk_quiz_state', JSON.stringify({ phase: 'result', answers: a, path })) } catch { /* private mode */ }
-    const steps = path === 'kid' ? KID_BUILD_STEPS : BUILD_STEPS
+    const steps = buildSteps(a, path)
     let i = 0, pct = 0
     function tick() {
       if (i >= steps.length) { setTimeout(() => setPhase('result'), 500); return }
@@ -586,7 +651,8 @@ export default function Quiz() {
 
   // ===== BUILD =====
   if (phase === 'build') {
-    const steps = path === 'kid' ? KID_BUILD_STEPS : BUILD_STEPS
+    const steps = buildSteps(answers, path)
+    const buildName = answers.child_name
     return (
       <div className="qz">
         <div className="qz-build">
@@ -600,7 +666,9 @@ export default function Quiz() {
             </svg>
             <span className="qz-ring-num">{buildPct}%</span>
           </div>
-          <h2>{path === 'kid' ? 'Building your adventure map' : 'Building your family’s plan'}</h2>
+          <h2>{path === 'kid'
+            ? (buildName ? `Building ${buildName}’s adventure map` : 'Building your adventure map')
+            : (buildName ? `Building ${buildName}’s plan` : 'Building your family’s plan')}</h2>
           <p className="qz-build-sub">{path === 'kid' ? 'Hang tight, hero — almost ready...' : 'Hang tight — personalizing for your answers...'}</p>
           <div className="qz-build-list">
             {steps.map((s, i) => (
@@ -687,6 +755,10 @@ export default function Quiz() {
             <MultiSelect opts={q.opts} onDone={pickMulti} />
           )}
 
+          {q.type === 'text' && (
+            <NameInput kid={path === 'kid'} onDone={pickText} />
+          )}
+
           {step > 0 && <button className="qz-back" onClick={() => { setAnim('exit'); setTimeout(() => { setStep(s => s - 1); setAnim('enter') }, 280) }}>← Back</button>}
         </div>
       </div>
@@ -739,6 +811,31 @@ function VideoInterstitial({ pct, liveCount, onDismiss, path }: { pct: number; l
         </div>
       </div>
     </div>
+  )
+}
+
+/* The one typed answer in the quiz. No autoFocus on purpose: popping the
+   keyboard unasked on mobile shoves the whole card up before the question is
+   even read. Skip is a quiet link, not a peer button — skipping should be
+   easy but not advertised. */
+function NameInput({ kid, onDone }: { kid: boolean; onDone: (v: string) => void }) {
+  const [v, setV] = useState('')
+  return (
+    <>
+      <input
+        className="qz-text"
+        value={v}
+        maxLength={20}
+        placeholder={kid ? 'Type your name' : 'First name'}
+        autoComplete="off"
+        autoCapitalize="words"
+        enterKeyHint="go"
+        onChange={e => setV(e.target.value)}
+        onKeyDown={e => { if (e.key === 'Enter' && v.trim()) onDone(v) }}
+      />
+      <button className="qz-btn" disabled={!v.trim()} onClick={() => onDone(v)}>Continue</button>
+      <button className="qz-skip" onClick={() => onDone('')}>Skip this</button>
+    </>
   )
 }
 

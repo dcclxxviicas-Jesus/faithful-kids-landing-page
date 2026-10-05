@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from 'react'
 import posthog from 'posthog-js'
 import { VideoTile } from '../components/VideoTile'
 import { STORIES } from '../components/stories'
+import { arrivedViaTrialCta } from '@/lib/cta-anchor'
 import '../checkout-variants/variants.css'
 import './qv.css'
 
@@ -50,8 +51,19 @@ export function useBuy(variant: string, extra: Record<string, unknown> = {}) {
      better than 2:1, while two thirds were being routed silently into a $97
      up-front ask. Five checkout sessions opened in eight days, all annual,
      zero sales; both `too_expensive` cancellations were annual, one of them
-     from a family whose child had watched 17 episodes in three days. */
-  const [plan, setPlan] = useState<'annual' | 'monthly'>('monthly')
+     from a family whose child had watched 17 episodes in three days.
+
+     ONE exception (Oct 5, 2026): a visitor whose click here PROMISED a free
+     trial ("Start your free trial" — 311 CTAs say it) lands on annual, the
+     only plan that has one. Monthly-first for them contradicts the promise
+     at the exact moment of decision. Everyone else keeps monthly-first.
+     Safe to read sessionStorage in the initializer: this hook only renders
+     on the result screen, which is reached after hydration (quiz interaction
+     or the restore effect), never during SSR. The default is tagged on
+     quiz_checkout_click so the split is measurable. */
+  const [plan, setPlan] = useState<'annual' | 'monthly'>(() =>
+    arrivedViaTrialCta() ? 'annual' : 'monthly')
+  const [defaultPlan] = useState(plan)
   const [loading, setLoading] = useState(false)
   /* `source` separates a pill tap from the nudge under the toggle. Without
      it the two are indistinguishable, and that is precisely the distinction
@@ -64,7 +76,14 @@ export function useBuy(variant: string, extra: Record<string, unknown> = {}) {
   }
   async function buy(answers: Answers) {
     setLoading(true)
-    try { posthog.capture('quiz_checkout_click', { ...answers, plan, variant, ...extra }) } catch { /* ignore */ }
+    try {
+      // The child's name never reaches analytics — provided/skipped only.
+      const { child_name, ...safe } = answers
+      posthog.capture('quiz_checkout_click', {
+        ...safe, child_name: child_name ? 'provided' : 'skipped',
+        plan, default_plan: defaultPlan, variant, ...extra,
+      })
+    } catch { /* ignore */ }
     try {
       const r = await fetch('/api/checkout', {
         method: 'POST', headers: { 'Content-Type': 'application/json' },
@@ -217,11 +236,14 @@ export function StickyBuy({ plan, loading, onBuy, show = true }: { plan: string;
   )
 }
 
-/** Verified facts only — checked against check-counts.py and the app source. */
-export const GETS = (age: string, denom: string) => [
+/** Verified facts only — checked against check-counts.py and the app source.
+    No "learning path" per denomination: that feature does not exist (same
+    false claim scrubbed from /beliefs and the checkout page). The true
+    denominations fact is the usage line. */
+export const GETS = (age: string, _denom: string) => [
   '300+ video lessons narrated by Jesus',
   `Stories matched to ages ${age}`,
-  `${denom} learning path`,
+  'Used by Catholic, Evangelical and Non-denominational families',
   'A quiz and reflection after every story',
   'Parent dashboard with each child’s progress',
   'Up to 5 kid profiles',

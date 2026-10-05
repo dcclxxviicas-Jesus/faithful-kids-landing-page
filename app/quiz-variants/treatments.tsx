@@ -1,5 +1,8 @@
 'use client'
 
+import { useEffect } from 'react'
+import posthog from 'posthog-js'
+import { STORIES } from '../components/stories'
 import {
   useBuy, PriceBlock, TrustRow, StickyBuy, useStickyAfter, GETS, LESSON, VideoTile,
   Stats, Testimonials, PainPoint,
@@ -83,63 +86,105 @@ const ADVENTURES: Record<string, string> = {
    where anyone begins. Say what is actually true instead: you start at
    Genesis, and the story they picked is in there waiting. */
 const START_SERIES = 'Genesis — In the Beginning'
-const IS_UNLOCKED_AT_START = (a?: string) => a === 'creation' 
+const IS_UNLOCKED_AT_START = (a?: string) => a === 'creation'
+
+/* Week one: the first five episodes of the Genesis series, which IS where
+   every new account starts (DEFAULT_UNLOCKED_SERIES). Titles and slugs come
+   from bible-kids/src/data/all-series.ts; every poster was HEAD-verified on
+   the CDN before this shipped (eps 2, 3 and 5 had none — they were extracted
+   from the lesson videos, frame-scored on brightness + detail, never t=0).
+   Day 1 is PLAYABLE — the one thing no quiz-funnel benchmark can copy: the
+   product is a two-minute video, so the plan can prove itself on the spot. */
+const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
+const WEEK_ONE = [
+  { day: 1, title: 'In the Beginning: Creation', slug: 'in-the-beginning-creation' },
+  { day: 2, title: 'The Garden and the Fall', slug: 'the-garden-and-the-fall' },
+  { day: 3, title: 'Cain and Abel', slug: 'cain-and-abel' },
+  { day: 4, title: 'Noah and the Great Flood', slug: 'noah-and-the-great-flood' },
+  { day: 5, title: 'The Tower of Babel', slug: 'the-tower-of-babel' },
+]
+
+/* The Creation lesson, playable. Resolved by TITLE from stories.ts — never
+   by index (CLAUDE.md records the incident). */
+const DAY_ONE = { ...WEEK_ONE[0], videoTitle: 'In the Beginning: Creation' }
+
+const GOAL_ECHO: Record<string, string> = {
+  christmas: 'ready to be a habit by Christmas',
+  'school-year': 'ready to be a habit this school year',
+  '30-days': 'ready to be a habit in 30 days',
+  whenever: 'paced to stick, no pressure',
+}
+
+/* Swap math from their own screen-time answer — same hour mapping the
+   mid-quiz interstitial uses, so the two screens never disagree. */
+const HOURS: Record<string, number> = { '<1hr': 1, '1-2hr': 1.5, '2-4hr': 3, '4hr+': 5 }
 
 type Row = { k: string; v: string; d: string }
 
+/* VariantB, rebuilt Oct 5 2026 as the PLAN REVEAL.
+
+   The old shape was price-first: a one-line summary, then the plan selector.
+   That decision was made against a spec TABLE — and under it, 140 quiz
+   completions in 14 days produced 6 checkout clicks (4%) and 2 sales.
+   Noom/Cal AI convert 10-25% of completers by making the screen the DELIVERY
+   of the thing the quiz built. So: the week-one plan first (with Day 1
+   actually playable), the price after it, framed as starting that plan. */
 export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?: boolean }) {
   const { plan, choose, loading, buy } = useBuy(isKid ? 'quiz-b-kid' : 'quiz-b', { path: isKid ? 'kid' : 'parent' })
   const { ref: ctaRef, past } = useStickyAfter<HTMLButtonElement>()
 
+  const name = answers.child_name || ''
   const age = answers.age
-  const denom = answers.denomination === 'catholic' ? 'Catholic'
-    : answers.denomination === 'evangelical' ? 'Evangelical'
-    : answers.denomination ? 'Non-denominational' : null
   const nKids = answers.num_kids
   const hero = HEROES[answers.hero]
   const adventure = ADVENTURES[answers.adventure]
+  const goalEcho = GOAL_ECHO[answers.goal_date]
+  const hrs = HOURS[answers.screen_time || answers.watch]
 
-  /* Only rows we actually have an answer for. Nothing is defaulted. */
+  useEffect(() => {
+    try {
+      posthog.capture('plan_revealed', {
+        path: isKid ? 'kid' : 'parent',
+        child_name: name ? 'provided' : 'skipped',
+        goal_date: answers.goal_date || null,
+        variant: 'reveal',
+      })
+    } catch { /* never block */ }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  /* Only rows we actually have an answer for. Nothing is defaulted.
+     The old "Path: Catholic — you pick this at setup" row is GONE: there is
+     no denomination setting in the app, so that was a false feature claim
+     (same one scrubbed from /beliefs and the checkout page). The honest
+     denominations fact is the Families row. */
   const rows: Row[] = []
-  if (age) rows.push({ k: 'Ages', v: age, d: 'You set each child\u2019s age at setup and the stories match it' })
+  if (age) rows.push({ k: 'Ages', v: age, d: 'You set each child’s age at setup and the stories match it' })
   if (isKid) rows.push({ k: 'Starts at', v: START_SERIES, d: 'Everyone begins at the beginning, then unlocks the next series' })
   if (adventure) rows.push({
     k: 'Picked', v: adventure,
     d: IS_UNLOCKED_AT_START(answers.adventure)
-      ? 'Unlocked from day one \u2014 it is in the first series'
-      : 'Waiting in the library \u2014 unlocked as they work through the story',
+      ? 'Unlocked from day one — it is in the first series'
+      : 'Waiting in the library — unlocked as they work through the story',
   })
-  if (hero) rows.push({ k: 'Favourite', v: hero, d: `${hero}\u2019s stories are in the library` })
-  if (denom) rows.push({ k: 'Path', v: denom, d: 'You pick this at setup and can change it any time' })
+  if (hero) rows.push({ k: 'Favourite', v: hero, d: `${hero}’s stories are in the library` })
   if (nKids) rows.push({ k: 'Profiles', v: nKids === '1' ? '1 profile' : `${nKids} profiles`, d: 'Separate progress for each child, up to five' })
+  rows.push({ k: 'Families', v: 'All traditions', d: 'Used by Catholic, Evangelical and Non-denominational families' })
   rows.push({ k: 'Each lesson', v: 'About 2 min', d: 'Then a comprehension quiz and one reflection question' })
   rows.push({ k: 'The library', v: '300+ lessons', d: '31 series, Genesis to Revelation, in order' })
 
-  const who = nKids ? (nKids === '1' ? 'Your child\u2019s' : 'Your family\u2019s') : 'Your'
-
-  /* A one-liner of what they built, so the personalisation lands before the
-     price without spending five rows and the whole fold on it. */
-  const summary = [
-    age ? `ages ${age}` : null,
-    denom ? `${denom} path` : null,
-    nKids ? (nKids === '1' ? '1 profile' : `${nKids} profiles`) : null,
-    hero ? `${hero}\u2019s stories` : null,
-  ].filter(Boolean).join(' \u00b7 ')
+  const possessive = name ? `${name}’s` : (nKids && nKids !== '1' ? 'Your family’s' : 'Your child’s')
 
   return (
     <div className="qv qv-b">
       <Head kids="" />
       <div className="qv-wrap">
-        <div className="qv-badge">{isKid ? '\u{1F389} You built it!' : '\u2728 Your plan is ready'}</div>
-        <h1>{isKid ? 'Your Bible adventure' : `${who} Bible plan`}</h1>
+        <div className="qv-badge">{isKid ? '\u{1F389} You built it!' : `✨ ${possessive} plan is ready`}</div>
+        <h1>{isKid ? `${name ? `${name}’s` : 'Your'} Bible adventure` : `${possessive} Bible plan`}</h1>
+        {goalEcho && <p className="qv-goal">{goalEcho.charAt(0).toUpperCase() + goalEcho.slice(1)}</p>}
 
-        {/* Price first. Only four people in ninety days ever touched a plan
-            selector while thirty-seven tapped the CTA — the spec is
-            reassurance, not the decision, so it must not own the fold.
-
-            The kid path is the exception: its first reader is a child, and
-            the handover has to happen before any price appears. */}
-        {isKid ? (
+        {/* The kid path hands over to a parent BEFORE anything priced. */}
+        {isKid && (
           <>
             <div className="qv-handoff">
               <div className="qv-handoff-emoji">{'\u{1F44B}'}</div>
@@ -152,10 +197,13 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
               can see what they understood. They begin at Genesis{adventure ? `, and ${adventure} is in there waiting` : ''}.
             </p>
           </>
-        ) : (
-          summary && <p className="qv-summary">{summary}</p>
         )}
 
+        <WeekOne name={name} isKid={isKid} />
+        <SwapMath hrs={hrs} name={name} />
+        <Milestones name={name} />
+
+        <h2 className="qv-spec-title" id="plan">{name ? `Start ${name}’s plan` : 'Start the plan'}</h2>
         <PriceBlock plan={plan} choose={choose} loading={loading} onBuy={() => buy(answers)} ctaRef={ctaRef} />
         <TrustRow />
 
@@ -179,6 +227,69 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
         <p className="qv-signin">Already a member? <a href="https://app.faithfulkids.app/login">Sign in</a></p>
       </div>
       <StickyBuy plan={plan} loading={loading} onBuy={() => buy(answers)} show={past} />
+    </div>
+  )
+}
+
+/* ── The week-one strip: five real episodes, Day 1 playable ─────────────── */
+function WeekOne({ name, isKid }: { name: string; isKid: boolean }) {
+  const creation = STORIES.find(s => s.title === DAY_ONE.videoTitle)
+  return (
+    <div className="qv-week">
+      <h2 className="qv-spec-title">{name ? `${name}’s first week` : 'The first week'}</h2>
+      <p className="qv-week-sub">
+        Five episodes, about two minutes each, every one ending in a quiz.
+        {isKid ? ' Day one is ready right now:' : ' Day one is ready to watch right now:'}
+      </p>
+
+      {creation && (
+        <VideoTile
+          src={creation.src}
+          poster={creation.poster}
+          title={creation.title}
+          badge={'Day 1 · Watch free now'}
+          blurb={'The very first episode of the plan — start to finish, no email, no signup.'}
+          location="quiz-plan-day1"
+          ctaHref="#plan"
+          ctaLabel={'See the full plan ↓'}
+        />
+      )}
+
+      <div className="qv-week-grid">
+        {WEEK_ONE.slice(1).map(e => (
+          <div className="qv-week-card" key={e.slug}>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src={`${CDN}/video-posters/sm/${e.slug}.webp`} alt={e.title} loading="lazy" width={640} height={360} />
+            <span className="qv-week-day">Day {e.day}</span>
+            <strong>{e.title}</strong>
+            <small>2 min + quiz</small>
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+function SwapMath({ hrs, name }: { hrs?: number; name: string }) {
+  if (!hrs) return null
+  return (
+    <p className="qv-swap">
+      You said about <strong>{hrs === 1 ? 'an hour' : `${hrs} hours`}</strong> of screens a day.
+      This plan doesn&rsquo;t add more &mdash; it swaps the <strong>first few minutes</strong> for
+      a story{name ? ` ${name} will retell at dinner` : ' they’ll retell at dinner'}.
+    </p>
+  )
+}
+
+/* Milestones — every figure checks out: Genesis is 10 episodes, finishing a
+   series unlocks the next (the app’s series-locking), and five episodes a
+   week is 20+ stories by day 30. */
+function Milestones({ name }: { name: string }) {
+  return (
+    <div className="qv-miles">
+      <div className="qv-mile"><span className="qv-mile-day">Day 7</span><span>A week of stories done &mdash; 5 episodes, 5 quizzes passed</span></div>
+      <div className="qv-mile"><span className="qv-mile-day">Day 14</span><span>Genesis complete (10 episodes) &mdash; the next series unlocks</span></div>
+      <div className="qv-mile"><span className="qv-mile-day">Day 30</span><span>20+ stories in{name ? ` — ${name} is` : ' — they’re'} asking for the next one</span></div>
     </div>
   )
 }

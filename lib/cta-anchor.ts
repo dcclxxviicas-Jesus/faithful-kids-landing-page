@@ -21,6 +21,22 @@
 const KEY = 'fk_cta_y'
 const FRESH_MS = 5000
 
+/* Which PROMISE the CTA made, captured in the same capture-phase listener.
+ *
+ * 311 CTAs across the site say "Start your free trial" — but only the annual
+ * plan has a trial (7 days, web). Someone who clicked a free-trial CTA and
+ * then lands on a plan screen pre-selected to monthly ($12.99, no trial) has
+ * been quietly contradicted at the moment of decision. This flag lets the
+ * result screen pre-select the plan that keeps the promise, while everyone
+ * else keeps the monthly-first default (owner's Sep 8 call from the numbers).
+ *
+ * Longer freshness than the pointer anchor on purpose: the pointer matters
+ * for the very next paint, but the promise holds across the whole quiz
+ * (~2-4 minutes of answering between the click and the plan screen). */
+const TRIAL_KEY = 'fk_cta_trial'
+const TRIAL_FRESH_MS = 30 * 60 * 1000
+const TRIAL_RE = /free\s+(trial|week|days?)/i
+
 export function startCtaTracking() {
   if (typeof document === 'undefined') return
   const w = window as unknown as { __fkCtaTracking?: boolean }
@@ -36,6 +52,12 @@ export function startCtaTracking() {
       // clientY is viewport-relative, which is exactly the frame the next
       // page paints in. A keyboard-activated click reports 0 — skip it,
       // there is no pointer to match.
+      const el = t.closest('a[href], button') as Element
+      try {
+        if (TRIAL_RE.test(el.textContent || '')) {
+          sessionStorage.setItem(TRIAL_KEY, JSON.stringify({ t: Date.now() }))
+        }
+      } catch { /* private mode */ }
       const y = (e as MouseEvent).clientY
       if (!y) return
       try {
@@ -46,6 +68,18 @@ export function startCtaTracking() {
     },
     true,
   )
+}
+
+/** True if the click that brought them here promised a free trial. */
+export function arrivedViaTrialCta(): boolean {
+  try {
+    const raw = sessionStorage.getItem(TRIAL_KEY)
+    if (!raw) return false
+    const { t } = JSON.parse(raw)
+    return typeof t === 'number' && Date.now() - t < TRIAL_FRESH_MS
+  } catch {
+    return false
+  }
 }
 
 /** Viewport y of the click that brought them here, or null. */

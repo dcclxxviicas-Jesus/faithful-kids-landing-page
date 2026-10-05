@@ -465,7 +465,9 @@ export default function Quiz() {
     try {
       const rp = new URLSearchParams(window.location.search).get('rp')
       if (rp) {
-        const s = JSON.parse(atob(rp.replace(/-/g, '+').replace(/_/g, '/')))
+        // base64url from the server is unpadded; atob wants padding.
+        const b = rp.replace(/-/g, '+').replace(/_/g, '/')
+        const s = JSON.parse(atob(b + '='.repeat((4 - (b.length % 4)) % 4)))
         if (s && s.a && typeof s.a === 'object') {
           const p = s.p === 'kid' ? 'kid' : 'parent'
           setPath(p)

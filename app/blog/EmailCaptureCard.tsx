@@ -12,7 +12,7 @@ export function EmailCaptureCard({
   subtitle,
   compact = false,
 }: {
-  magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit' | 'coloring-pages'
+  magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit' | 'coloring-pages' | 'quiz-plan'
   source: 'blog-inline' | 'blog-exit' | 'quiz-exit'
   sourcePost: string
   quizAnswers?: Record<string, string>
@@ -40,6 +40,11 @@ export function EmailCaptureCard({
       sub: 'Seven nights of five-minute stories — a story, a prayer, and one question to whisper about.',
       name: 'Bedtime Bible Kit',
     },
+    'quiz-plan': {
+      heading: '\u{1F4EC} Email me my plan',
+      sub: 'A link that brings the whole plan back \u2014 day one stays free.',
+      name: 'Bible plan',
+    },
     challenge: {
       heading: '📬 Free: The 30-Day Family Bible Challenge',
       sub: 'One story a night, printable for the fridge. Read it, talk about it, check it off.',
@@ -61,6 +66,9 @@ export function EmailCaptureCard({
       })
       if (!res.ok) throw new Error(String(res.status))
       setState('done')
+      /* First join between the anonymous browsing id and a real identity —
+         this is what makes a later purchase attributable to a funnel. */
+      try { posthog.identify(email.trim().toLowerCase()) } catch { /* fine */ }
       posthog.capture('email_capture_submitted', { magnet, source, post: sourcePost })
     } catch {
       setState('error')

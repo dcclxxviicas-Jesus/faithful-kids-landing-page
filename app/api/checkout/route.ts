@@ -11,13 +11,38 @@ const PLANS: Record<string, { name: string; amount: number; interval: 'month' | 
   annual: { name: 'Faithful Kids Annual', amount: 9700, interval: 'year', intervalCount: 1 },
 }
 
+/* The decline-offer coupon: 20% off the FIRST payment only (duration: once),
+   shown one time to people leaving the plan screen without buying (owner's
+   call, Oct 5 2026 — the Cal AI pattern). Created lazily so no dashboard
+   step is needed; a fixed id makes creation idempotent. */
+const DECLINE_COUPON_ID = 'FKPLAN20'
+let couponReady = false
+async function ensureDeclineCoupon() {
+  if (couponReady) return
+  try {
+    await stripe.coupons.create({
+      id: DECLINE_COUPON_ID,
+      percent_off: 20,
+      duration: 'once',
+      name: 'One-time 20% off',
+    })
+  } catch (e) {
+    const code = (e as { code?: string }).code
+    if (code !== 'resource_already_exists') throw e
+  }
+  couponReady = true
+}
+
 export async function POST(req: NextRequest) {
-  const { plan, distinctId } = await req.json()
+  const { plan, distinctId, discount } = await req.json()
   const planConfig = PLANS[plan]
 
   if (!planConfig) {
     return NextResponse.json({ error: 'Invalid plan' }, { status: 400 })
   }
+
+  const useDiscount = discount === true
+  if (useDiscount) await ensureDeclineCoupon()
 
   const origin = req.headers.get('origin') || 'https://faithfulkids.app'
 
@@ -30,7 +55,11 @@ export async function POST(req: NextRequest) {
        timestamps by hand. */
     ...(typeof distinctId === 'string' && distinctId ? { client_reference_id: distinctId.slice(0, 200) } : {}),
     payment_method_types: ['card'],
-    allow_promotion_codes: true,
+    /* Stripe forbids allow_promotion_codes together with discounts, so the
+       decline offer swaps one for the other. */
+    ...(useDiscount
+      ? { discounts: [{ coupon: DECLINE_COUPON_ID }] }
+      : { allow_promotion_codes: true }),
     line_items: [
       {
         price_data: {

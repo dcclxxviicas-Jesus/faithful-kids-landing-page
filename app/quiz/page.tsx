@@ -179,6 +179,18 @@ const PARENT_QUESTIONS: Question[] = [
     ],
   },
   {
+    /* Micro-commitment (Cal AI pattern): answering yes to a tiny ask makes
+       the big ask downstream consistent with something they already said.
+       Both options are yes on purpose. */
+    id: 'commit', emoji: '🤝', type: 'single',
+    q: 'Could you find 15 minutes a week for this?',
+    sub: 'That’s five episodes — one short sitting',
+    opts: [
+      { label: 'Yes', val: 'yes', emoji: '👍' },
+      { label: 'Absolutely', val: 'absolutely', emoji: '💪' },
+    ],
+  },
+  {
     id: 'goal', emoji: '🎯', type: 'single',
     q: 'What does success look like?',
     sub: 'Almost there',
@@ -428,7 +440,7 @@ export default function Quiz() {
   const [anim, setAnim] = useState<'enter' | 'exit'>('enter')
   const [proof, setProof] = useState<string | null>(null)
   const [inter, setInter] = useState<'screen_time' | 'video' | null>(null)
-  const [phase, setPhase] = useState<'quiz' | 'build' | 'result'>('quiz')
+  const [phase, setPhase] = useState<'quiz' | 'build' | 'email' | 'result'>('quiz')
   const [buildIdx, setBuildIdx] = useState(0)
   const [buildPct, setBuildPct] = useState(0)
   const [liveCount] = useState(Math.floor(780 + Math.random() * 200))
@@ -446,6 +458,27 @@ export default function Quiz() {
 
   // Restore a completed quiz after returning from Stripe (browser back/swipe)
   useEffect(() => {
+    /* Recovery-email link: /quiz?rp=<base64url {a: answers, p: path}> jumps
+       straight back to the reveal. Takes priority over stored state — the
+       person clicked a link that promises THEIR plan. The payload never
+       contains the child's name (stripped before it was ever mailed). */
+    try {
+      const rp = new URLSearchParams(window.location.search).get('rp')
+      if (rp) {
+        const s = JSON.parse(atob(rp.replace(/-/g, '+').replace(/_/g, '/')))
+        if (s && s.a && typeof s.a === 'object') {
+          const p = s.p === 'kid' ? 'kid' : 'parent'
+          setPath(p)
+          setAnswers(s.a)
+          setPhase('result')
+          setBegun(true)
+          posthog.capture('quiz_restored', { source: 'email-link', path: p })
+          try { sessionStorage.setItem('fk_quiz_state', JSON.stringify({ phase: 'result', answers: s.a, path: p })) } catch { /* private mode */ }
+          setRestoreChecked(true)
+          return
+        }
+      }
+    } catch { /* malformed link — fall through to normal restore */ }
     try {
       const raw = sessionStorage.getItem('fk_quiz_state')
       if (raw) {
@@ -493,7 +526,7 @@ export default function Quiz() {
 
   useEffect(() => {
     function onPop() {
-      if (phase === 'result' || inter) { setInter(null); setPhase('quiz'); arm(); return }
+      if (phase === 'result' || phase === 'email' || inter) { setInter(null); setPhase('quiz'); arm(); return }
       if (step > 0) { setStep(s => s - 1); setAnim('enter'); arm(); return }
       if (path) { setPath(null); arm(); return }
       if (begun) { setBegun(false); arm(); return }
@@ -587,9 +620,13 @@ export default function Quiz() {
     posthog.capture('quiz_completed', { ...safe, child_name: child_name ? 'provided' : 'skipped', path })
     try { sessionStorage.setItem('fk_quiz_state', JSON.stringify({ phase: 'result', answers: a, path })) } catch { /* private mode */ }
     const steps = buildSteps(a, path)
+    /* Parent path stops at the email gate before the reveal — peak-curiosity
+       capture (the documented optimal point), feeding the recovery drip.
+       Kids are NEVER asked for an email; their path goes straight through. */
+    const after: 'email' | 'result' = path === 'kid' ? 'result' : 'email'
     let i = 0, pct = 0
     function tick() {
-      if (i >= steps.length) { setTimeout(() => setPhase('result'), 500); return }
+      if (i >= steps.length) { setTimeout(() => setPhase(after), 500); return }
       setBuildIdx(i)
       const target = Math.round(((i + 1) / steps.length) * 100)
       const interval = setInterval(() => {
@@ -681,6 +718,11 @@ export default function Quiz() {
         </div>
       </div>
     )
+  }
+
+  // ===== EMAIL GATE (parent path only) =====
+  if (phase === 'email') {
+    return <EmailGate answers={answers} onDone={() => setPhase('result')} />
   }
 
   // ===== RESULT =====
@@ -808,6 +850,77 @@ function VideoInterstitial({ pct, liveCount, onDismiss, path }: { pct: number; l
           <p className="qz-vid-cap">{isKid ? 'Every story is a movie like this — with a quiz to beat after!' : 'Real lesson from Faithful Kids. Jesus narrates every story.'}</p>
           <div className="qz-live-pill">{'\u{1F441}\uFE0F'} {liveCount} families watching right now</div>
           <button className="qz-btn" onClick={onDismiss}>{isKid ? 'Cool! Keep going →' : 'Almost done — 2 left'}</button>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+/* The email gate between the build and the reveal — the documented
+   peak-curiosity capture point (after full investment, before the payoff).
+   NEVER a hard gate: the skip link always shows the plan, a failed POST
+   still shows the plan, and the kid path never reaches this screen at all.
+   On submit: posthog.identify(email) — the first join between browsing ids
+   and a real identity, which is what finally makes purchases attributable. */
+function EmailGate({ answers, onDone }: { answers: Record<string, string>; onDone: () => void }) {
+  const [email, setEmail] = useState('')
+  const [busy, setBusy] = useState(false)
+  const name = answers.child_name
+  const shown = useRef(false)
+  useEffect(() => {
+    if (shown.current) return
+    shown.current = true
+    posthog.capture('email_capture_shown', { source: 'quiz-gate' })
+  }, [])
+
+  async function submit() {
+    const e = email.trim().toLowerCase()
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(e)) return
+    setBusy(true)
+    try { posthog.identify(e) } catch { /* never block */ }
+    posthog.capture('email_capture_submitted', { source: 'quiz-gate' })
+    try {
+      const { child_name: _cn, ...safe } = answers
+      await fetch('/api/subscribe', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: e, magnet: 'quiz-plan', source: 'quiz-gate', quizAnswers: safe }),
+      })
+    } catch { /* offline — the plan still shows */ }
+    onDone()
+  }
+
+  function skip() {
+    posthog.capture('email_capture_skipped', { source: 'quiz-gate' })
+    onDone()
+  }
+
+  return (
+    <div className="qz">
+      <div className="qz-head">
+        <img src="/logo-sm.png" alt="" className="qz-logo" />
+      </div>
+      <div className="qz-bar"><div className="qz-bar-fill" style={{ width: '100%' }} /></div>
+      <div className="qz-body">
+        <div className="qz-card enter">
+          <div className="qz-emoji">💌</div>
+          <h1 className="qz-q">{name ? `${name}’s plan is ready` : 'The plan is ready'}</h1>
+          <p className="qz-sub">Where should we send your copy? The link brings the whole plan back any time.</p>
+          <input
+            className="qz-text"
+            type="email"
+            inputMode="email"
+            value={email}
+            placeholder="you@example.com"
+            autoComplete="email"
+            autoCapitalize="off"
+            enterKeyHint="go"
+            onChange={e => setEmail(e.target.value)}
+            onKeyDown={e => { if (e.key === 'Enter') submit() }}
+          />
+          <button className="qz-btn" disabled={busy} onClick={submit}>
+            {busy ? 'Saving…' : 'Send it + show me the plan'}
+          </button>
+          <button className="qz-skip" onClick={skip}>Skip — just show the plan</button>
         </div>
       </div>
     </div>

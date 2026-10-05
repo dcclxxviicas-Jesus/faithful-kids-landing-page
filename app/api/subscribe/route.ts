@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server'
 import { upsertLead, getLeadByEmail, updateLead, sendLeadEmail } from '@/lib/leads'
-import { buildEmail, DRIP_SCHEDULE } from '@/lib/lead-emails'
+import { buildEmail, nextDripDays } from '@/lib/lead-emails'
 
 // Basic per-IP rate limiting (per serverless instance — good enough to stop
 // casual abuse; the honeypot catches the dumb bots).
@@ -16,8 +16,8 @@ function rateLimited(ip: string): boolean {
   return h.n > 10
 }
 
-const VALID_MAGNETS = new Set(['challenge', 'trivia-pack', 'bedtime-kit'])
-const VALID_SOURCES = new Set(['blog-inline', 'blog-exit', 'quiz-exit'])
+const VALID_MAGNETS = new Set(['challenge', 'trivia-pack', 'bedtime-kit', 'quiz-plan'])
+const VALID_SOURCES = new Set(['blog-inline', 'blog-exit', 'quiz-exit', 'quiz-gate'])
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/
 
 export async function POST(req: Request) {
@@ -42,9 +42,12 @@ export async function POST(req: Request) {
   const source = VALID_SOURCES.has(String(body.source)) ? String(body.source) : 'blog-inline'
   const sourcePost = String(body.sourcePost || '').slice(0, 200) || null
   const quizAnswers =
-    source === 'quiz-exit' && body.quizAnswers && typeof body.quizAnswers === 'object'
+    (source === 'quiz-exit' || source === 'quiz-gate') && body.quizAnswers && typeof body.quizAnswers === 'object'
       ? (body.quizAnswers as Record<string, string>)
       : null
+  // Belt and braces: the client already strips the child's name, but a lead
+  // row must never hold it regardless of what was posted.
+  if (quizAnswers) delete quizAnswers.child_name
 
   try {
     const { created } = await upsertLead({ email, magnet, source, source_post: sourcePost, quiz_answers: quizAnswers })
@@ -55,7 +58,8 @@ export async function POST(req: Request) {
         const { subject, html } = buildEmail(lead, 1)
         const sent = await sendLeadEmail(email, subject, html)
         if (sent) {
-          const next = new Date(Date.now() + DRIP_SCHEDULE[1] * 86400_000).toISOString()
+          const days = nextDripDays(magnet, 1)
+          const next = days ? new Date(Date.now() + days * 86400_000).toISOString() : null
           await updateLead(email, { sequence_stage: 1, next_send_at: next })
         }
       }

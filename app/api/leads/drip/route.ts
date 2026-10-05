@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server'
 import { getDueLeads, updateLead, sendLeadEmail } from '@/lib/leads'
-import { buildEmail, DRIP_SCHEDULE } from '@/lib/lead-emails'
+import { buildEmail, nextDripDays } from '@/lib/lead-emails'
 import { runTrialEmails } from '@/lib/trial-runner'
 
 // Drip engine — hit daily by cron-job.org:
@@ -32,7 +32,7 @@ export async function GET(req: Request) {
         failed++
         continue
       }
-      const daysToNext = DRIP_SCHEDULE[stage]
+      const daysToNext = nextDripDays(lead.magnet, stage)
       await updateLead(lead.email, {
         sequence_stage: stage,
         next_send_at: daysToNext ? new Date(Date.now() + daysToNext * 86400_000).toISOString() : null,

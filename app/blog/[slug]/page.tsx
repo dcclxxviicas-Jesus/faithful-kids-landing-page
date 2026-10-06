@@ -23,6 +23,7 @@ import guideVideos from '@/lib/guide-videos.json'
 import samplerVideos from '@/lib/sampler-videos.json'
 import { PrintableCta } from '@/app/printables/PrintableCta'
 import { getTriviaVideo } from '@/lib/trivia-video'
+import { attachChoices, playableCount } from '@/lib/trivia-choices'
 import { EmbedNote } from '../EmbedNote'
 
 type Props = {
@@ -282,7 +283,9 @@ export default async function BlogPostPage({ params }: Props) {
 
   // Exit-intent popup: context-aware variant (drives which free printable
   // it offers). No video -- the popup's job is one low-friction ask.
-const hasTriviaGame = triviaQuestions.length >= 10
+// Counts MULTIPLE-CHOICE-ready questions, not raw ones: a question with no
+// distractors is dropped from the round, so raw length would overstate it.
+const hasTriviaGame = playableCount(triviaQuestions) >= 10
   const exitVariant: 'trivia' | 'story' | 'guide' =
     post.slug.includes('trivia') ? 'trivia' : post.type !== 'listicle' ? 'story' : 'guide'
 
@@ -424,7 +427,7 @@ const hasTriviaGame = triviaQuestions.length >= 10
               dangerouslySetInnerHTML={{ __html: introParts.intro }}
             />
             <TriviaGame
-              questions={triviaQuestions}
+              questions={attachChoices(triviaQuestions)}
               postSlug={post.slug}
               postTitle={post.title}
               label={triviaLabel(post.slug, post.title)}

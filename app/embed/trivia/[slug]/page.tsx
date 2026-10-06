@@ -8,6 +8,7 @@ import {
   getRelatedTrivia,
 } from '@/lib/blog'
 import { getTriviaVideo } from '@/lib/trivia-video'
+import { attachChoices, playableCount } from '@/lib/trivia-choices'
 import { TriviaGame } from '@/app/blog/TriviaGame'
 import { AutoResize, CONTENT_ID } from '../../bible-trivia/AutoResize'
 import { EmbedFooter } from '../EmbedFooter'
@@ -52,7 +53,9 @@ export default async function TriviaEmbed({ params }: Props) {
   if (!post) notFound()
 
   const questions = extractTriviaQuestions(post.content)
-  if (questions.length < 10) notFound()
+  // Playable means multiple-choice-ready. A post with ten questions but no
+  // distractors would render an empty game.
+  if (playableCount(questions) < 10) notFound()
 
   return (
     /* Fills whatever height the host gives it and centres the card, rather
@@ -65,7 +68,7 @@ export default async function TriviaEmbed({ params }: Props) {
       <div id={CONTENT_ID} className="fk-embed-content">
         <TriviaGame
           embed
-          questions={questions}
+          questions={attachChoices(questions)}
           postSlug={post.slug}
           postTitle={post.title}
           label={triviaLabel(post.slug, post.title)}

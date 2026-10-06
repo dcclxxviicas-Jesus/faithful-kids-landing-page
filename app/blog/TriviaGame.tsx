@@ -1,8 +1,9 @@
 'use client'
 
-import { useRef, useState } from 'react'
+import { useMemo, useRef, useState } from 'react'
 import posthog from 'posthog-js'
-import type { TriviaQuestion, TriviaLink } from '@/lib/blog'
+import type { TriviaLink } from '@/lib/blog'
+import type { TriviaChoiceQuestion } from '@/lib/trivia-choices'
 import { VideoTile } from '@/app/components/VideoTile'
 
 function track(event: string, props?: Record<string, unknown>) {
@@ -37,6 +38,19 @@ const ENCOURAGE = [
 
 const DEFAULT_ROUND = 10
 
+/** A question with its options already laid out and the right one recorded. */
+type Dealt = TriviaChoiceQuestion & { options: string[]; correct: number }
+
+/* `seed` keeps the first render deterministic across server and client.
+   Passing undefined (replays) shuffles for real. */
+function deal(q: TriviaChoiceQuestion, seed?: number): Dealt {
+  const opts = [q.answer, ...(q.wrong || [])]
+  const order = seed === undefined
+    ? shuffle(opts)
+    : opts.map((_, i) => opts[(i + seed) % opts.length])
+  return { ...q, options: order, correct: order.indexOf(q.answer) }
+}
+
 export function TriviaGame({
   questions,
   postSlug,
@@ -48,7 +62,7 @@ export function TriviaGame({
   posterSrc,
   embed = false,
 }: {
-  questions: TriviaQuestion[]
+  questions: TriviaChoiceQuestion[]
   postSlug: string
   postTitle: string
   /** Short game name, e.g. "Exodus" */
@@ -82,11 +96,21 @@ export function TriviaGame({
   // The opening round is NOT shuffled: it has to render identically on the
   // server and the client, and Math.random() would blow up hydration. Replays
   // shuffle, so repeat players still get variety.
-  const [round, setRound] = useState<TriviaQuestion[]>(
-    () => questions.slice(0, Math.min(DEFAULT_ROUND, questions.length))
+  /* Only questions that carry three distractors are playable. A question
+     without them would render an option list of one, so it is dropped rather
+     than shown — every post clears ten even so. */
+  const pool = useMemo(() => questions.filter(q => q.wrong?.length === 3), [questions])
+
+  /* The opening round is NOT shuffled and its options are dealt from a fixed
+     rotation: this renders on the server and again on the client, and
+     Math.random() in either place blows up hydration. Replays shuffle, so
+     repeat players still get variety. */
+  const [round, setRound] = useState<Dealt[]>(
+    () => pool.slice(0, Math.min(DEFAULT_ROUND, pool.length)).map((q, i) => deal(q, i))
   )
   const [index, setIndex] = useState(0)
   const [revealed, setRevealed] = useState(false)
+  const [chosen, setChosen] = useState<number | null>(null)
   const [score, setScore] = useState(0)
   const [streak, setStreak] = useState(0)
   const [bestStreak, setBestStreak] = useState(0)
@@ -95,7 +119,7 @@ export function TriviaGame({
   const [shareNote, setShareNote] = useState<string | null>(null)
   const started = useRef(false)
 
-  const lengthChoices = [5, 10, 20].filter(n => n <= questions.length)
+  const lengthChoices = [5, 10, 20].filter(n => n <= pool.length)
 
   // Fires on the first real interaction, not on mount -- otherwise every
   // pageview would count as a game start and suppress the exit popup.
@@ -104,14 +128,15 @@ export function TriviaGame({
     started.current = true
     try { sessionStorage.setItem('fk_trivia_started', '1') } catch { /* private mode */ }
     track('trivia_game_start', {
-      post: postSlug, surface, round_size: round.length, pool_size: questions.length,
+      post: postSlug, surface, round_size: round.length, pool_size: pool.length,
     })
   }
 
   const replay = (count: number) => {
-    setRound(shuffle(questions).slice(0, count))
+    setRound(shuffle(pool).slice(0, count).map(q => deal(q)))
     setIndex(0)
     setRevealed(false)
+    setChosen(null)
     setScore(0)
     setStreak(0)
     setBestStreak(0)
@@ -135,15 +160,23 @@ export function TriviaGame({
       text: gotIt && newStreak >= 3 ? `🔥 ${newStreak} in a row! ${base}` : base,
       good: gotIt,
     })
+    /* Does NOT advance. Under the old self-graded flow the reader pressed
+       "Got it" AFTER seeing the answer, so moving straight on was fine. Now
+       the answer appears the moment they choose, and auto-advancing would
+       flash the correct option and its verse past a child who got it wrong —
+       exactly the person who needs to read it. `next` is theirs to press. */
+  }
+
+  const next = () => {
     if (index + 1 >= round.length) {
       setFinished(true)
-      track('trivia_game_complete', {
-        post: postSlug, surface, score: score + (gotIt ? 1 : 0), total: round.length,
-      })
-    } else {
-      setIndex(i => i + 1)
-      setRevealed(false)
+      track('trivia_game_complete', { post: postSlug, surface, score, total: round.length })
+      return
     }
+    setIndex(i => i + 1)
+    setRevealed(false)
+    setChosen(null)
+    setFeedback(null)
   }
 
   const emerald = '#16a34a'
@@ -387,8 +420,38 @@ export function TriviaGame({
   }
 
   // ---- Question screen (this is what a reader lands on -- no start gate) ----
+  // Nothing playable: render nothing rather than crash the page. The two
+  // callers both gate on playableCount, so this should be unreachable.
+  if (!round.length) return null
   const q = round[index]
   const fresh = index === 0 && !revealed && !feedback
+  const picked = revealed ? chosen : null
+
+  function choose(i: number) {
+    if (revealed) return
+    markStarted()
+    setChosen(i)
+    setRevealed(true)
+    answer(i === q.correct)
+  }
+
+  /* Option colours after the reveal: the chosen wrong one is marked, the
+     right one is always shown. Someone who got it wrong should leave the
+     question knowing the answer, not just that they missed. */
+  function optStyle(i: number): React.CSSProperties {
+    const base: React.CSSProperties = {
+      display: 'flex', alignItems: 'center', gap: '12px', width: '100%',
+      padding: '15px 16px', marginBottom: '10px', borderRadius: '14px',
+      border: '2px solid #e5e7eb', background: '#fff', cursor: revealed ? 'default' : 'pointer',
+      font: 'inherit', fontSize: '1rem', fontWeight: 600, color: '#1f2937',
+      textAlign: 'left', lineHeight: 1.35, transition: 'border-color .12s, background .12s',
+    }
+    if (!revealed) return base
+    if (i === q.correct) return { ...base, borderColor: emerald, background: '#f0fdf4', color: '#14532d' }
+    if (i === picked) return { ...base, borderColor: '#fca5a5', background: '#fef2f2', color: '#7f1d1d' }
+    return { ...base, opacity: 0.55 }
+  }
+
   return (
     <div style={card}>
       {/* Banner: the reader has to know at a glance this is a live game they
@@ -402,55 +465,62 @@ export function TriviaGame({
       </div>
       <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.85rem', color: '#777', marginBottom: '10px' }}>
         <span>Question {index + 1} of {round.length}</span>
-        <span>{streak > 1 ? `🔥 ${streak} streak` : `Score: ${score}`}</span>
+        <span>{streak > 1 ? `\u{1F525} ${streak} streak` : `Score: ${score}`}</span>
       </div>
       <div style={{ height: '6px', background: '#e8f7f0', borderRadius: '3px', marginBottom: '14px' }}>
         <div style={{ height: '6px', width: `${((index + (revealed ? 1 : 0.5)) / round.length) * 100}%`, background: emerald, borderRadius: '3px', transition: 'width 0.3s' }} />
       </div>
-      {feedback && !revealed && (
-        <p style={{
-          fontSize: '0.92rem',
-          fontWeight: 700,
-          color: feedback.good ? emerald : '#b45309',
-          background: feedback.good ? '#f0fdf4' : '#fffbeb',
-          borderRadius: '10px',
-          padding: '8px 12px',
-          margin: '0 0 14px',
-        }}>
-          {feedback.text}
-        </p>
-      )}
-      <p style={{ fontSize: fresh ? '1.3rem' : '1.15rem', fontWeight: 700, margin: '0 0 20px', minHeight: '56px', lineHeight: 1.35 }}>{q.question}</p>
-      {!revealed ? (
-        <>
-          <button
-            style={{ ...btn, fontSize: fresh ? '1.05rem' : '1rem', padding: fresh ? '15px 34px' : '13px 30px', boxShadow: '0 6px 18px rgba(22, 163, 74,0.28)' }}
-            onClick={() => { markStarted(); setRevealed(true) }}
-          >
-            {fresh ? 'Reveal the Answer' : 'Reveal Answer'}
+
+      <p style={{ fontSize: fresh ? '1.22rem' : '1.12rem', fontWeight: 700, margin: '0 0 18px', lineHeight: 1.35 }}>{q.question}</p>
+
+      <div>
+        {q.options.map((opt, i) => (
+          <button key={i} style={optStyle(i)} onClick={() => choose(i)} disabled={revealed}>
+            <span style={{
+              flexShrink: 0, width: '26px', height: '26px', borderRadius: '50%',
+              background: revealed && i === q.correct ? emerald
+                : revealed && i === picked ? '#ef4444' : '#f1f5f9',
+              color: revealed && (i === q.correct || i === picked) ? '#fff' : '#64748b',
+              fontSize: '0.8rem', fontWeight: 800,
+              display: 'flex', alignItems: 'center', justifyContent: 'center',
+            }}>
+              {revealed && i === q.correct ? '\u2713' : revealed && i === picked ? '\u2715' : 'ABCD'[i]}
+            </span>
+            <span>{opt}</span>
           </button>
-          {fresh && (
-            <p style={{ fontSize: '0.82rem', color: '#888', margin: '12px 0 0' }}>
-              Guess out loud first &mdash; then see if you got it.
-            </p>
+        ))}
+      </div>
+
+      {revealed && (
+        <div style={{
+          background: feedback?.good ? '#f0fdf4' : '#fffbeb',
+          borderRadius: '12px', padding: '13px 15px', margin: '14px 0 0', textAlign: 'left',
+        }}>
+          <p style={{
+            fontSize: '0.95rem', fontWeight: 800, margin: 0,
+            color: feedback?.good ? emerald : '#b45309',
+          }}>
+            {feedback?.text}
+          </p>
+          {q.citation && (
+            <p style={{ fontSize: '0.85rem', color: '#666', margin: '5px 0 0' }}>{q.citation}</p>
           )}
-        </>
-      ) : (
-        <>
-          <div style={{ background: '#f0fdf4', borderRadius: '14px', padding: '16px', margin: '0 0 18px' }}>
-            <p style={{ fontSize: '1.1rem', fontWeight: 800, color: emerald, margin: 0 }}>{q.answer}</p>
-            {q.citation && <p style={{ fontSize: '0.85rem', color: '#666', margin: '6px 0 0' }}>{q.citation}</p>}
-          </div>
-          <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
-            <button style={btn} onClick={() => answer(true)}>Got it! ✓</button>
-            <button
-              style={{ ...btn, background: '#fff', color: '#555', border: '2px solid #ddd' }}
-              onClick={() => answer(false)}
-            >
-              Missed it
-            </button>
-          </div>
-        </>
+        </div>
+      )}
+
+      {revealed && (
+        <button
+          style={{ ...btn, marginTop: '14px', width: '100%', maxWidth: '320px' }}
+          onClick={next}
+        >
+          {index + 1 >= round.length ? 'See my score \u2192' : 'Next question \u2192'}
+        </button>
+      )}
+
+      {fresh && !revealed && (
+        <p style={{ fontSize: '0.82rem', color: '#888', margin: '12px 0 0' }}>
+          Tap your answer &mdash; no sign-up, nothing to lose.
+        </p>
       )}
     </div>
   )

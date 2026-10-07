@@ -11,6 +11,8 @@ const nextConfig = {
     return [
       { source: '/what-we-believe', destination: '/beliefs', permanent: true },
       { source: '/statement-of-faith', destination: '/beliefs', permanent: true },
+      // Creator partnerships: one canonical page at /creators.
+      { source: '/partnerships', destination: '/creators', permanent: true },
     ]
   },
   async rewrites() {

@@ -94,6 +94,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      url: `${baseUrl}/creators`,
+      lastModified: new Date('2026-10-07'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: `${baseUrl}/homeschool`,
       lastModified: new Date('2026-08-31'),
       changeFrequency: 'monthly',

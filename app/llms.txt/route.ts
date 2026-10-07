@@ -68,6 +68,7 @@ export async function GET() {
     '- [Printable Jesse Tree](https://faithfulkids.app/printables/jesse-tree): 25 Advent ornaments to color with daily Scripture readings, free PDF, no sign-up',
     '- [Advent Bible reading calendar](https://faithfulkids.app/printables/advent-bible-calendar): 25 daily readings from prophecy to the manger, free printable PDF',
     '- [All printables](https://faithfulkids.app/printables): Trivia pack, bedtime kit, 30-day family challenge',
+    '- [Creator partnerships](https://faithfulkids.app/creators): Faithful Kids partners with Christian parenting, homeschool, and family creators — free full access plus paid collaborations; pitch team@faithfulkids.app',
     '',
     '## App comparisons and buying guides',
     '',

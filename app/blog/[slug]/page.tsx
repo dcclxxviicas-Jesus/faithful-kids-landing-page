@@ -416,6 +416,20 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
           </details>
         )}
 
+        {/* One template line = 200 contextual inbound links to the stories
+            hub. The hub had THREE body links from 560 posts (Oct 7, 2026) —
+            the /bible-trivia condition before its 114-link pass. Template-
+            level so it cannot rot as stories are added, and story posts only:
+            guides belong to /blog and the topic hubs, and keeping the two
+            lanes separate is what stops the hubs cannibalizing. */}
+        {isStory && (
+          <p className="story-hub-link">
+            This retelling is one of our{' '}
+            <a href="/bible-stories-for-kids">200 Bible stories for kids</a> — the whole
+            Bible, free, from Genesis to Revelation.
+          </p>
+        )}
+
         {/* Body — first half */}
         {hasTriviaGame ? (
           <>

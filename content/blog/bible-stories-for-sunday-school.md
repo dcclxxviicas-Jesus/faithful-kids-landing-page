@@ -130,6 +130,8 @@ For more structured chaos, browse [youth group games that actually work](/blog/y
 
 A related freebie: our [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper), drawn as clean line art for crayons and markers.
 
+The complete collection lives at our [Bible stories for kids](/bible-stories-for-kids) hub -- 200 simple retellings, free, in Bible order.
+
 ## Frequently Asked Questions
 
 ### How long should a Sunday school lesson be?

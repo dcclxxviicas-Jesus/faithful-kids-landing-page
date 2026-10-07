@@ -128,6 +128,8 @@ We drew a printable [Jesus calms the storm coloring page](/printables/bible-colo
 
 ---
 
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+
 ## Watch on Faithful Kids
 
 All eight of these stories are available as short video lessons on Faithful Kids, complete with comprehension quizzes and guided reflections. Your child can watch [David and Goliath](/blog/david-and-goliath-for-kids), [Daniel in the Lions' Den](/blog/daniel-in-the-lions-den-for-kids), [Jesus Calms the Storm](/blog/calming-the-storm-for-kids), and more at their own pace.

@@ -162,6 +162,8 @@ Expecting or know someone who is? Our [biblical boy names](/blog/biblical-boy-na
 
 Add the [kids' nativity play script](/blog/nativity-play-script-for-kids) -- free, ten minutes, scales from 8 kids to 40 -- and the evening plans itself.
 
+The complete collection lives at our [Bible stories for kids](/bible-stories-for-kids) hub -- 200 simple retellings, free, in Bible order.
+
 ## Frequently Asked Questions
 
 ### How long should a Christmas family devotion take?

@@ -132,6 +132,8 @@ If small hands need something to do while you read, the free [Adam and Eve color
 
 Give your preschooler the gift of Bible stories told beautifully in short, age-appropriate video episodes. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let your little one meet Noah, David, Jonah, and Jesus through stories they will ask to watch again and again.
 
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+
 ## Frequently Asked Questions
 
 ### What is the best first Bible story for a preschooler?

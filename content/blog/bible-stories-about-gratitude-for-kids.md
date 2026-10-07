@@ -98,6 +98,8 @@ As 1 Thessalonians 5:18 says, "Give thanks in all circumstances; for this is God
 
 Want your kids to see these stories come alive? Faithful Kids uses animated videos, interactive quizzes, and guided reflections to help children ages 7-15 build a thankful heart rooted in Scripture. [Start your free trial today.](https://faithfulkids.app/quiz)
 
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+
 ## Frequently Asked Questions
 
 ### How do I teach my child to be grateful to God?

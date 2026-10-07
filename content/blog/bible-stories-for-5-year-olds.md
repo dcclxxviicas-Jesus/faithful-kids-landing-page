@@ -128,6 +128,8 @@ Every story on this list is available as a short video lesson with a quiz on [Fa
 
 A related freebie: our [Creation coloring page](/printables/bible-coloring-pages/creation), drawn as clean line art for crayons and markers.
 
+Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids) -- every retelling is free and runs from Genesis to Revelation in order.
+
 ## Frequently Asked Questions
 
 ### What is the best first Bible story for a 5-year-old?

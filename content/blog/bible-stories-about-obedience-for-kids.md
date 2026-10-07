@@ -106,6 +106,8 @@ If your kids learn best by watching, every story on this list is available as a 
 
 We drew a printable [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+For the stories themselves, our [Bible stories for kids](/bible-stories-for-kids) library retells all 200 of them simply, with the video lesson beside each one.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story about obedience for kids?

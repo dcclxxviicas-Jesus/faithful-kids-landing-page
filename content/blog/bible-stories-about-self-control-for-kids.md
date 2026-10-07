@@ -120,6 +120,8 @@ Samuel arrived just as he finished. "You have done a foolish thing," he said. "Y
 
 We drew a printable [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+For the stories themselves, our [Bible stories for kids](/bible-stories-for-kids) library retells all 200 of them simply, with the video lesson beside each one.
+
 ## Frequently Asked Questions
 
 ### What does the Bible say about self-control for kids?

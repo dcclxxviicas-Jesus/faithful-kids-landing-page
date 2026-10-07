@@ -70,6 +70,8 @@ Two religious leaders walk past a hurt man. A foreigner stops to help. Who is th
 3. **Discuss:** Ask open-ended questions like "Was that character right or wrong? Why?"
 4. **Challenge:** Give them a real-world scenario and ask what the Bible character would do
 
+For the stories themselves, our [Bible stories for kids](/bible-stories-for-kids) library retells all 200 of them simply, with the video lesson beside each one.
+
 ## Watch All These Stories on Faithful Kids
 
 Every story on this list is available on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-age) with a short video and comprehension quiz. 300+ lessons covering the entire Bible.

@@ -95,6 +95,8 @@ The next time your child is struggling to wait, pick one of these stories and re
 
 Want your kids to experience these stories through animated videos, quizzes, and reflections? Faithful Kids brings Bible stories to life in a way that holds their attention and plants seeds of faith. [Start your free trial today.](https://faithfulkids.app/quiz)
 
+For the stories themselves, our [Bible stories for kids](/bible-stories-for-kids) library retells all 200 of them simply, with the video lesson beside each one.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible verse about patience to teach kids?

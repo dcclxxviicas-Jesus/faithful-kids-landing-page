@@ -104,6 +104,8 @@ Research consistently shows that children who have a strong "narrative identity"
 
 Help your child see themselves in these stories of courage and faithfulness. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let your kids watch David face Goliath, Daniel stand firm in the lions' den, and Esther find her voice — all in short, engaging episodes designed for ages 7-15.
 
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+
 ## Frequently Asked Questions
 
 ### What does the Bible say about how to respond to bullies?

@@ -52,13 +52,25 @@ export default function BlogIndex() {
       {/* NAV */}
       <SiteNav active="blog" />
 
-      {/* HERO */}
+      {/* HERO — retitled Oct 7 2026 to match this page's own title tag
+          ("Bible Guides for Parents"). The old H1 said "Bible Stories for
+          Kids", which is /bible-stories-for-kids' identity: two hubs were
+          claiming one head term, and this page had earned ZERO search clicks
+          in 90 days, so the guides framing costs nothing and ends the
+          in-house rivalry. The stories hub is linked below for the people
+          who actually wanted stories. */}
       <section className="blog-hero">
-        <span className="section-label">Free Bible Story Guides</span>
-        <h1>Bible Stories for Kids</h1>
+        <span className="section-label">Free Resources Library</span>
+        <h1>Bible Guides for Parents &amp; Teachers</h1>
         <p className="blog-hero-sub">
-          {posts.length}+ free Bible story guides for parents. Simple retellings, discussion
-          questions, key verses, and video lessons — from Genesis to Revelation.
+          {posts.length}+ free guides: Bible trivia, printables, lesson ideas, devotions,
+          and discussion questions for every age — plus simple retellings of every story.
+        </p>
+        <p className="blog-hero-sub" style={{ marginTop: 8 }}>
+          Just want the stories? They have their own home:{' '}
+          <a href="/bible-stories-for-kids" style={{ color: '#16a34a', fontWeight: 700 }}>
+            200 Bible stories for kids
+          </a>.
         </p>
         <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
           Watch the Video Lessons Free
@@ -70,10 +82,10 @@ export default function BlogIndex() {
       <div className="blog-stats-bar">
         <div className="blog-stats-inner">
           <div className="blog-stat-item">
-            <strong>{posts.length}+</strong> Story Guides
+            <strong>{posts.length}+</strong> Free Guides
           </div>
           <div className="blog-stat-item">
-            <strong>{seriesList.length}</strong> Series
+            <strong>{seriesList.length}</strong> Story Series
           </div>
           <div className="blog-stat-item">
             <strong>Genesis–Revelation</strong> Complete

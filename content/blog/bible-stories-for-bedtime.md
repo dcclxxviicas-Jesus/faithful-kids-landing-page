@@ -111,6 +111,8 @@ Faithful Kids is a lesson, not a lullaby — and used right, that is exactly wha
 
 We drew a printable [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+All of these come from our free [Bible stories for kids](/bible-stories-for-kids) collection -- the whole Bible as simple retellings, each with discussion questions.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story for bedtime?

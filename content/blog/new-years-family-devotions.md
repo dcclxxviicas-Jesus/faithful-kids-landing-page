@@ -114,6 +114,8 @@ The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal r
 
 Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
 
+For the stories themselves, our [Bible stories for kids](/bible-stories-for-kids) library retells all 200 of them simply, with the video lesson beside each one.
+
 ## Frequently Asked Questions
 
 ### When should we do New Year's family devotions -- New Year's Eve or New Year's Day?

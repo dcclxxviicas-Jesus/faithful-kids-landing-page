@@ -90,6 +90,8 @@ If your kids learn best by watching, every story on this list is available as a 
 
 Pair this with our free [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) — one sheet, ready for the kitchen table or the classroom.
 
+The complete collection lives at our [Bible stories for kids](/bible-stories-for-kids) hub -- 200 simple retellings, free, in Bible order.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story about friendship for kids?

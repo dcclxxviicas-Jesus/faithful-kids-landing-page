@@ -226,6 +226,8 @@ If you want to take family Bible time to the next level without adding preparati
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+
 ## Frequently Asked Questions
 
 ### What if my spouse is not interested in participating?

@@ -178,6 +178,8 @@ We drew a printable [Last Supper coloring page](/printables/bible-coloring-pages
 
 Every one of these stories comes to life in Faithful Kids through animated video lessons, interactive quizzes, and reflections that help kids connect the story to their own lives. Faithful Kids is designed for ages 7-15 and turns screen time into character-building time. [Start your free trial today](https://faithfulkids.app/quiz) and give your child the moral foundation that will shape the rest of their life.
 
+All of these come from our free [Bible stories for kids](/bible-stories-for-kids) collection -- the whole Bible as simple retellings, each with discussion questions.
+
 ## Frequently Asked Questions
 
 ### How do I choose which stories to start with for my child?

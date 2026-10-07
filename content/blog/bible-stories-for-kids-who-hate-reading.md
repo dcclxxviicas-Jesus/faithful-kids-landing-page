@@ -134,6 +134,8 @@ The result is that kids who "hate reading" end up knowing dozens of Bible storie
 
 Your child does not have to love reading to love the Bible. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and give them 200+ Bible stories in short, engaging video format — complete with quizzes, reflections, and a level-up system that makes learning Scripture feel like a game, not a chore.
 
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+
 ## Frequently Asked Questions
 
 ### Will watching Bible videos instead of reading make my child's reading worse?

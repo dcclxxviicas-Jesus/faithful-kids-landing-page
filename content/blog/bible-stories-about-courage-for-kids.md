@@ -108,6 +108,8 @@ If your kids engage better with video than reading, every story on this list is 
 
 A related freebie: our [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath), drawn as clean line art for crayons and markers.
 
+When you want the next story, the whole library is at [Bible stories for kids](/bible-stories-for-kids) -- 200 free retellings from Genesis to Revelation.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story about courage for kids?

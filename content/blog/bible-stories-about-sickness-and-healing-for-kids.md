@@ -104,6 +104,8 @@ Not every story ends in miraculous healing — in the Bible or in life. If your 
 
 Let your child experience these powerful healing stories through short, beautifully told video episodes. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and watch Jesus heal the blind, raise Jairus' daughter, and show that God is always near — especially when we are hurting.
 
+Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids) -- every retelling is free and runs from Genesis to Revelation in order.
+
 ## Frequently Asked Questions
 
 ### How do I explain to my child why God does not always heal?

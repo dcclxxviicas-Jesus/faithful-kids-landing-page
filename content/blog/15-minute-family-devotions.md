@@ -142,6 +142,8 @@ Some seasons of life have no margin for planning even a 15-minute structure — 
 
 Expecting or know someone who is? Our [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) lists pair every name's meaning with the story behind it.
 
+All of these come from our free [Bible stories for kids](/bible-stories-for-kids) collection -- the whole Bible as simple retellings, each with discussion questions.
+
 ## Frequently Asked Questions
 
 ### How long should family devotions be?

@@ -67,6 +67,8 @@ I am the Lord's servant.
 
 Want to go deeper? The Bible has its own list of faith heroes in Hebrews 11 -- we walk through it in [the Faith Hall of Fame for kids](/blog/faith-hall-of-fame-for-kids).
 
+When you want the next story, the whole library is at [Bible stories for kids](/bible-stories-for-kids) -- 200 free retellings from Genesis to Revelation.
+
 ## Watch All 12 Stories on Faithful Kids
 
 Every story on this list is available as a short video lesson with a quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-faith). 300+ total lessons covering the entire Bible. No ads, ever.

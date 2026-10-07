@@ -133,6 +133,8 @@ Faithful Kids combines the power of animated video with interactive quizzes and 
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 
+For the stories themselves, our [Bible stories for kids](/bible-stories-for-kids) library retells all 200 of them simply, with the video lesson beside each one.
+
 ## Frequently Asked Questions
 
 ### What age should kids start seeing Bible stories with pictures?

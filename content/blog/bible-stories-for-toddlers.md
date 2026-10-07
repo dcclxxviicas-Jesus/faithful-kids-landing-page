@@ -80,6 +80,8 @@ Toddlers who love this story can color it too — the free [Noah's Ark coloring 
 
 If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
 
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+
 ## Frequently Asked Questions
 
 ### When should I start reading the Bible to my toddler?

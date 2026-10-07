@@ -120,6 +120,8 @@ Betrayal by a friend for silver, an all-night illegal trial, a crowd choosing a 
 
 If your preteen prefers screens to pages, every story on this list is available as a short video lesson with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-age).
 
+All of these come from our free [Bible stories for kids](/bible-stories-for-kids) collection -- the whole Bible as simple retellings, each with discussion questions.
+
 ## Frequently Asked Questions
 
 ### What Bible stories are best for 10-12 year olds?

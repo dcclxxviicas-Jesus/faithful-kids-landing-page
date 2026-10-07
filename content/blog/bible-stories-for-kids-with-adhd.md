@@ -124,6 +124,8 @@ This is not "dumbing down" the Bible. It is delivering the same truth in a forma
 
 Faithful Kids was built for exactly this kind of learner. Each episode is a short, visually engaging Bible story that gets to the point quickly and sticks in your child's memory. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and give your ADHD child Bible stories in the format their brain was built for.
 
+All of these come from our free [Bible stories for kids](/bible-stories-for-kids) collection -- the whole Bible as simple retellings, each with discussion questions.
+
 ## Frequently Asked Questions
 
 ### Is ADHD a spiritual problem?

@@ -104,6 +104,8 @@ Bible stories are uniquely powerful tools for building compassion because they d
 
 Want your kids to experience these compassion stories through beautifully animated, age-appropriate videos? [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and watch stories like the Good Samaritan, Ruth and Naomi, and the feeding of the 5,000 come alive in short episodes your kids will want to watch again and again.
 
+Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids) -- every retelling is free and runs from Genesis to Revelation in order.
+
 ## Frequently Asked Questions
 
 ### At what age can kids understand compassion?

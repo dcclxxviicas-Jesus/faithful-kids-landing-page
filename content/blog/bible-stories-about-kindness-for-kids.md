@@ -106,6 +106,8 @@ If your kids engage better with video, every story on this list is available as 
 
 A related freebie: our [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan), drawn as clean line art for crayons and markers.
 
+The complete collection lives at our [Bible stories for kids](/bible-stories-for-kids) hub -- 200 simple retellings, free, in Bible order.
+
 ## Frequently Asked Questions
 
 ### What is the best Bible story about kindness for kids?

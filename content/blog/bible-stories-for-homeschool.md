@@ -92,6 +92,8 @@ And remember that the goal of all this tracking is a habit, not a transcript. If
 
 For the lesson-level detail behind this plan, the full [scope and sequence](/blog/faithful-kids-scope-and-sequence) lists all 310 lessons in unlock order with scripture references.
 
+Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids) -- every retelling is free and runs from Genesis to Revelation in order.
+
 ## Frequently Asked Questions
 
 ### Can Bible stories count as a homeschool subject?

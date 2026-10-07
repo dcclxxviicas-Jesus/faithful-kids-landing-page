@@ -80,6 +80,8 @@ If your storytellers are stretched thin, each story above also exists as a short
 
 We keep one master list of [youth group games](/blog/youth-group-games) with exact rules and prep time, so nothing on this page has to stretch past its natural length.
 
+When you want the next story, the whole library is at [Bible stories for kids](/bible-stories-for-kids) -- 200 free retellings from Genesis to Revelation.
+
 ## Frequently Asked Questions
 
 ### How many Bible stories should I use for a 5-day VBS?

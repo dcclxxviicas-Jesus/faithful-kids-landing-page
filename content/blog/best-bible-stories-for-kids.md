@@ -290,6 +290,8 @@ The best way to share Bible stories with children is to watch or read one togeth
 
 Once your child knows a handful of these stories, turn review into play with some [Bible trivia questions](/blog/bible-trivia-for-kids) or a few [Bible games for kids](/blog/bible-games-for-kids).
 
+When you want the next story, the whole library is at [Bible stories for kids](/bible-stories-for-kids) -- 200 free retellings from Genesis to Revelation.
+
 ## Watch All 25 Stories (and 175 More) on Faithful Kids
 
 Every story on this list is available as a short video lesson with a quiz on Faithful Kids. We have 300+ Bible story videos covering the entire Bible from Genesis to Revelation. No ads, ever.

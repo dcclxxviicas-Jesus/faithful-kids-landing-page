@@ -40,8 +40,14 @@ export const metadata: Metadata = {
   },
 }
 
+/* christian@ on purpose (owner's call, Oct 7 2026): creator pitches invite a
+   reply, and per the sender split that is the monitored, personal inbox —
+   team@ is the no-reply-expected cold-nurture sender. The address itself IS
+   the CTA; a visible human email outperforms a generic button for this
+   audience. */
+const PITCH_EMAIL = 'christian@faithfulkids.app'
 const PITCH_MAILTO =
-  'mailto:team@faithfulkids.app?subject=' +
+  `mailto:${PITCH_EMAIL}?subject=` +
   encodeURIComponent('Creator collaboration — Faithful Kids') +
   '&body=' +
   encodeURIComponent(
@@ -65,7 +71,12 @@ export default function CreatorsPage() {
           their audience like real people. Free full access to try it with your own kids,
           and paid collaborations when it&rsquo;s a genuine fit.
         </p>
-        <a className="btn-primary" href={PITCH_MAILTO}>Pitch us a collaboration &rarr;</a>
+        <div className="creator-mail-wrap">
+          <span className="creator-mail-label">Reach out to:</span>
+          <a className="creator-mail" href={PITCH_MAILTO}>
+            <span aria-hidden="true">✉️</span> {PITCH_EMAIL}
+          </a>
+        </div>
       </section>
 
       <section className="cp-intro">
@@ -120,9 +131,12 @@ export default function CreatorsPage() {
             and the content idea you&rsquo;d actually want to make. A real person reads every
             pitch and replies either way.
           </p>
-          <a className="btn-primary" href={PITCH_MAILTO}>
-            Email team@faithfulkids.app &rarr;
-          </a>
+          <div className="creator-mail-wrap">
+            <span className="creator-mail-label">Reach out to:</span>
+            <a className="creator-mail creator-mail-big" href={PITCH_MAILTO}>
+              <span aria-hidden="true">✉️</span> {PITCH_EMAIL}
+            </a>
+          </div>
         </div>
       </section>
 

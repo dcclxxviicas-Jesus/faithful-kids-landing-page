@@ -124,7 +124,7 @@ export default function ExitVariants() {
           {v === 'G2' && (
             <>
               <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
-              <h2 className="fk-takeover-h">You get about 900 Sundays with them.</h2>
+              <h2 className="fk-takeover-h">You get about 900 Sundays with your little kids.</h2>
               <p className="fk-takeover-lead">
                 Then they&rsquo;re grown, and what they know about God is mostly what you
                 gave them. One minute, and their Bible plan is ready tonight.
@@ -155,7 +155,7 @@ export default function ExitVariants() {
           {v === 'G4' && (
             <>
               <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
-              <h2 className="fk-takeover-h">You get about 900 Sundays with them.</h2>
+              <h2 className="fk-takeover-h">You get about 900 Sundays with your little kids.</h2>
               <p className="fk-takeover-lead">
                 Then they&rsquo;re grown, and what they know about God is mostly what you
                 gave them. One minute, and their Bible plan is ready tonight.

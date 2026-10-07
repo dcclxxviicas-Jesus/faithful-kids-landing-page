@@ -88,7 +88,7 @@ export function ExitTakeover({
             the trade was put to the owner. If it is ever reverted, the neutral
             line is "No thanks, keep reading". */}
         <img src="/logo-sm.png" alt="" className="fk-takeover-logo" width={44} height={44} />
-        <h2 className="fk-takeover-h">You get about 900 Sundays with them.</h2>
+        <h2 className="fk-takeover-h">You get about 900 Sundays with your little kids.</h2>
         <p className="fk-takeover-lead">
           Then they&rsquo;re grown, and what they know about God is mostly what you
           gave them. One minute, and their Bible plan is ready tonight.

@@ -27,7 +27,7 @@ Hey there! I am so glad you're here. My name is Jesus, and I've got an incredibl
 
 Close your eyes for a second and picture... nothing. No light. No sound. No ground beneath your feet. No sky above your head. Just total, complete darkness. Kind of scary, right?
 
-Now imagine a voice cutting through that darkness like thunder — my Father's voice — and He says three words: "Let there be light."
+Now imagine a voice cutting through that darkness like thunder — my Father's voice — and He says four words: "Let there be light."
 
 BOOM. Light explodes everywhere. The very first sunrise that ever existed. No one was there to see it except God Himself. And that? That was just Day One.
 

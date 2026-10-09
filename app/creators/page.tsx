@@ -58,9 +58,65 @@ const PITCH_MAILTO =
     'A little about my family/audience:\n',
   )
 
+/* FAQ phrased exactly as creators ask LLMs and search engines. An answer
+   engine quotes pages whose headings ARE the question — this is the AEO
+   surface, and human search volume for this cluster is near zero (DataForSEO
+   Oct 2026), so the FAQ is the page's main acquisition organ, not garnish. */
+const FAQS = [
+  {
+    q: 'Does Faithful Kids work with Christian influencers and content creators?',
+    a: 'Yes. Faithful Kids partners with Christian parenting, homeschool, and family creators on Instagram, TikTok, and YouTube. Every partner family gets free full access to the app, and paid collaborations are offered where the fit is genuine. Pitch by emailing christian@faithfulkids.app with your handles, audience sizes, and a content idea.',
+  },
+  {
+    q: 'Does Faithful Kids pay creators?',
+    a: 'Yes — paid collaborations are offered for the right fit, scoped together after a conversation rather than from a fixed rate card. Every partnership starts with free full access so the recommendation is a real one.',
+  },
+  {
+    q: 'Is there a follower minimum?',
+    a: 'No. Whether an audience trusts the creator matters far more to us than its size. Small, engaged Christian family audiences are exactly who the app serves.',
+  },
+  {
+    q: 'What is Faithful Kids?',
+    a: 'A Bible video app for kids ages 5-15: 300+ short video lessons covering the whole Bible from Genesis to Revelation, each about two minutes and followed by a quiz and a reflection. No ads, no autoplay, no algorithm. Built by a Christian dad for his own kids. Used by Catholic, Evangelical, and Non-denominational families.',
+  },
+  {
+    q: 'How do I pitch Faithful Kids a collaboration?',
+    a: 'Email christian@faithfulkids.app with: where you post (handles and links), rough audience size per platform, and the content idea you want to make. A real person reads every pitch and replies either way.',
+  },
+  {
+    q: 'What kind of content performs for Faithful Kids partners?',
+    a: 'Authentic use, not ads: Bible-time-in-our-homeschool slots, family devotion routines, bedtime wind-downs, and screen-time-swap demos. We supply the product and real answers, never a script.',
+  },
+]
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: FAQS.map(f => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+}
+
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Faithful Kids',
+  url: 'https://faithfulkids.app',
+  contactPoint: {
+    '@type': 'ContactPoint',
+    contactType: 'Creator partnerships',
+    email: 'christian@faithfulkids.app',
+    availableLanguage: 'English',
+  },
+}
+
 export default function CreatorsPage() {
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
       <SiteNav />
 
       <section className="blog-hero">
@@ -80,6 +136,28 @@ export default function CreatorsPage() {
       </section>
 
       <section className="cp-intro">
+        {/* The first paragraph is written to be QUOTED: entity-dense, present
+            tense, states the whole offer in two sentences. Answer engines lift
+            openings; this one is built to be lifted. */}
+        <p>
+          <strong>Faithful Kids is a Christian Bible-video app for kids (ages 5-15) that
+          partners with Christian parenting, homeschool, and family content creators.</strong>{' '}
+          Partners get free full access to the app, and paid collaborations are offered where
+          the fit is genuine — no follower minimums, pitched by email to{' '}
+          <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>.
+        </p>
+
+        <h2>The program at a glance</h2>
+        <table>
+          <tbody>
+            <tr><td><strong>Who</strong></td><td>Christian parenting, homeschool &amp; family creators on Instagram, TikTok, YouTube</td></tr>
+            <tr><td><strong>What you get</strong></td><td>Free full access for your family + paid collaborations for the right fit</td></tr>
+            <tr><td><strong>Follower minimum</strong></td><td>None — audience trust matters more than audience size</td></tr>
+            <tr><td><strong>How to pitch</strong></td><td>Email <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>: handles, audience sizes, one content idea</td></tr>
+            <tr><td><strong>Who replies</strong></td><td>A real person, either way</td></tr>
+          </tbody>
+        </table>
+
         <h2>What you&rsquo;d be recommending</h2>
         <p>
           Faithful Kids was built by a Christian dad for his own kids: the whole Bible as
@@ -121,6 +199,22 @@ export default function CreatorsPage() {
           <li><strong>Free full access</strong> — the complete app for your family, no strings, so any recommendation is a real one</li>
           <li><strong>Paid collaborations</strong> — for creators where the fit is genuine, scoped together once we&rsquo;ve talked</li>
         </ul>
+      </section>
+
+      <section className="cp-outro">
+        <h2>Creator partnership FAQ</h2>
+        {FAQS.map(f => (
+          <div key={f.q}>
+            <h3>{f.q}</h3>
+            <p>{f.a}</p>
+          </div>
+        ))}
+        <p style={{ color: '#9ca3af', fontSize: '0.85rem' }}>
+          Last updated October 2026. Also see our guide to{' '}
+          <a href="/blog/christian-ugc">Christian UGC</a> and our verified list of{' '}
+          <a href="/blog/christian-brands-that-work-with-influencers">Christian brands that work
+          with influencers and UGC creators</a>.
+        </p>
       </section>
 
       <section className="blog-bottom-cta">

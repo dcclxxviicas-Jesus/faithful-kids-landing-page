@@ -5,6 +5,7 @@ import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
 import { STORIES } from '@/app/components/stories'
 import { VideoTile } from '@/app/components/VideoTile'
 import { ExitTakeover } from '@/app/components/ExitTakeover'
+import { takeoverSuppressed, markTakeoverShown } from '@/lib/exit-intent'
 import posthog from 'posthog-js'
 import { createPortal } from 'react-dom'
 import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
@@ -490,65 +491,42 @@ function ExitIntent() {
   const [show, setShow] = useState(false)
   const [dismissed, setDismissed] = useState(false)
   const triggered = useRef(false)
-  const lastScrollY = useRef(0)
 
   function trigger(source: string) {
     if (triggered.current || dismissed) return
+    if (takeoverSuppressed()) return
     triggered.current = true
+    markTakeoverShown()
     setShow(true)
-    posthog.capture('exit_intent_shown', { source })
+    posthog.capture('exit_intent_shown', { source, surface: 'homepage', format: 'takeover' })
   }
 
-  // Desktop: mouse leaves viewport
+  /* The ONLY trigger: the pointer leaves through the TOP of the viewport,
+     heading for the tab's X or the address bar. That is real exit intent.
+
+     Scroll-up (300px of cumulative upward scroll) and a 45-second timer used
+     to fire this as well. Both were removed on Oct 9 2026 — the owner's words
+     were "it comes too often ... feels a little too strict", and they were
+     right twice over:
+
+      - the scroll handler was commented "Mobile", but `scroll` fires on
+        desktop too, so flicking back up the page threw a full-screen takeover
+        at someone who was still reading;
+      - the timer fired at 45s regardless of whether anyone was leaving.
+
+     The blog dropped scroll-up for this exact reason (see the header of
+     BlogExitIntent) and the homepage simply never got the same fix.
+
+     DELIBERATE CONSEQUENCE: touch devices have no mouseleave, so the homepage
+     takeover is now DESKTOP ONLY. If mobile coverage is wanted back, copy the
+     blog's back-button approach (arm a history entry and spend it) — never
+     scroll-up, which is what was just taken out. */
   useEffect(() => {
     function handleMouseLeave(e: MouseEvent) {
       if (e.clientY < 10) trigger('mouse_leave')
     }
     document.addEventListener('mouseleave', handleMouseLeave)
     return () => document.removeEventListener('mouseleave', handleMouseLeave)
-  }, [dismissed])
-
-  // Mobile: fast scroll-up from below the fold
-  useEffect(() => {
-    let scrollUpDistance = 0
-
-    function handleScroll() {
-      const currentY = window.scrollY
-      const viewportHeight = window.innerHeight
-
-      if (currentY < lastScrollY.current && currentY > viewportHeight) {
-        scrollUpDistance += lastScrollY.current - currentY
-        if (scrollUpDistance > 300) {
-          trigger('scroll_up')
-        }
-      } else {
-        scrollUpDistance = 0
-      }
-      lastScrollY.current = currentY
-    }
-
-    window.addEventListener('scroll', handleScroll, { passive: true })
-    return () => window.removeEventListener('scroll', handleScroll)
-  }, [dismissed])
-
-  // Mobile: timed delay (45 seconds, reset +60s on any video play)
-  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
-
-  function resetTimer() {
-    if (timerRef.current) clearTimeout(timerRef.current)
-    timerRef.current = setTimeout(() => trigger('timed_delay'), 60000)
-  }
-
-  useEffect(() => {
-    timerRef.current = setTimeout(() => trigger('timed_delay'), 45000)
-
-    function handlePlay() { resetTimer() }
-    document.addEventListener('play', handlePlay, true)
-
-    return () => {
-      if (timerRef.current) clearTimeout(timerRef.current)
-      document.removeEventListener('play', handlePlay, true)
-    }
   }, [dismissed])
 
   if (!show || dismissed) return null

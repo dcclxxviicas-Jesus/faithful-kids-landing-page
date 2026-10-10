@@ -3,6 +3,12 @@
 import { useEffect, useRef, useState } from 'react'
 import posthog from 'posthog-js'
 import { ExitTakeover } from '@/app/components/ExitTakeover'
+import {
+  QUIZ_CLICK_KEY,
+  safeSet,
+  takeoverSuppressed,
+  markTakeoverShown,
+} from '@/lib/exit-intent'
 
 /**
  * Exit takeover — a full screen that opens with question one of the quiz.
@@ -32,24 +38,11 @@ import { ExitTakeover } from '@/app/components/ExitTakeover'
  * the drip keeps its sources.
  */
 
-const SHOWN_KEY = 'fk_exit_shown_at'
-const SESSION_KEY = 'fk_exit_session'
-const QUIZ_CLICK_KEY = 'fk_quiz_cta_clicked'
-const TRIVIA_KEY = 'fk_trivia_started'
-const SUPPRESS_DAYS = 1
-
 const MIN_TIME_MS = 8_000
 const MIN_SCROLL = 0.20
 const MIN_SCROLL_SCREENS = 1.5
 
 type Variant = 'trivia' | 'story' | 'guide'
-
-function safeGet(store: Storage, key: string): string | null {
-  try { return store.getItem(key) } catch { return null }
-}
-function safeSet(store: Storage, key: string, val: string) {
-  try { store.setItem(key, val) } catch { /* private mode */ }
-}
 
 export function BlogExitIntent({
   postSlug,
@@ -68,19 +61,17 @@ export function BlogExitIntent({
     if (triggered.current) return true
     if (Date.now() - mountedAt.current < MIN_TIME_MS) return true
     if (!deepScrolled.current) return true
-    if (safeGet(sessionStorage, SESSION_KEY)) return true
-    if (safeGet(sessionStorage, TRIVIA_KEY)) return true
-    if (safeGet(sessionStorage, QUIZ_CLICK_KEY)) return true
-    const last = Number(safeGet(localStorage, SHOWN_KEY) || 0)
-    if (last && Date.now() - last < SUPPRESS_DAYS * 86_400_000) return true
+    /* session cap, day cap and quiz/trivia engagement now live in
+       lib/exit-intent.ts, shared with the homepage so the two surfaces
+       cannot show the same full screen to one person twice in a day. */
+    if (takeoverSuppressed()) return true
     return false
   }
 
   function trigger(source: string) {
     if (blocked()) return
     triggered.current = true
-    safeSet(sessionStorage, SESSION_KEY, '1')
-    safeSet(localStorage, SHOWN_KEY, String(Date.now()))
+    markTakeoverShown()
     setShow(true)
     posthog.capture('exit_intent_shown', { source, post: postSlug, variant, surface: 'blog', format: 'takeover' })
   }

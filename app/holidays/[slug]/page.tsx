@@ -97,9 +97,11 @@ export default async function HolidayHubPage({ params }: Props) {
           <span className="blog-breadcrumb-current">{h.name}</span>
         </div>
 
-        <header className="blog-article-header" style={{ maxWidth: '900px', margin: '0 auto', padding: '0 20px' }}>
+        {/* 1100 so the left edge lines up with the card grid below; the
+            paragraph keeps its own readable measure. */}
+        <header className="blog-article-header" style={{ maxWidth: '1100px', margin: '0 auto 32px', padding: '8px 20px 28px' }}>
           <h1 className="blog-article-title">{h.title}</h1>
-          <p style={{ color: '#555', fontSize: '1.05rem', lineHeight: 1.6, margin: '12px 0 8px' }}>
+          <p style={{ color: '#555', fontSize: '1.05rem', lineHeight: 1.6, margin: '12px 0 8px', maxWidth: '68ch' }}>
             {h.intro}
           </p>
           <p className="blog-result-count">
@@ -111,7 +113,7 @@ export default async function HolidayHubPage({ params }: Props) {
             seasonal searcher actually wants, and these are the pages with
             the lowest competition in the whole niche. */}
         {h.printables.length > 0 && (
-          <section style={{ maxWidth: '900px', margin: '8px auto 0', padding: '0 20px' }}>
+          <section style={{ maxWidth: '1100px', margin: '8px auto 0', padding: '0 20px' }}>
             <h2 style={{ fontSize: '1.2rem', marginBottom: '12px' }}>Free printables</h2>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
               {h.printables.map(p => (
@@ -148,7 +150,7 @@ export default async function HolidayHubPage({ params }: Props) {
         </div>
 
         {others.length > 0 && (
-          <section style={{ maxWidth: '900px', margin: '48px auto 0', padding: '0 20px' }}>
+          <section style={{ maxWidth: '1100px', margin: '48px auto 0', padding: '0 20px' }}>
             <h2 style={{ fontSize: '1.2rem', marginBottom: '12px' }}>Other seasons</h2>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
               {others.map(o => (

@@ -44,6 +44,11 @@ export interface Holiday {
   peak: string
   peakMonth: number
   intro: string
+  /** Post whose hero image represents this season on the /holidays index.
+   *  Must be a real post with a hero on the CDN -- a 404 here renders a
+   *  broken image on the hub. Check:
+   *  d3g07v1w0lehiv.cloudfront.net/blog-images/<heroSlug>-hero.webp */
+  heroSlug: string
   /** Slug patterns for posts that belong to this season. */
   match: RegExp
   /** Existing printables worth featuring. Only list routes that exist. */
@@ -61,6 +66,7 @@ export const HOLIDAYS: Holiday[] = [
     peakMonth: 12,
     intro:
       'Everything we have for the Christmas season in one place — the nativity story retold for children, Advent devotions and calendars, Christmas trivia, and free printables you can hand a child in about ten seconds. All of it is free and none of it asks for an email address.',
+    heroSlug: 'the-christmas-story-for-kids',
     match: /christmas|advent|nativity|bethlehem|wise-men|manger/,
     printables: [
       { href: '/printables/christmas-coloring-pages', label: 'Nativity coloring pages' },
@@ -77,6 +83,7 @@ export const HOLIDAYS: Holiday[] = [
     peakMonth: 11,
     intro:
       'Thanksgiving is the easiest holiday of the year to point back at scripture, because gratitude is already the whole subject. These are the Bible verses, stories, prayers and trivia we use for it — written for children, free, and short enough to actually get through at a table full of relatives.',
+    heroSlug: 'thanksgiving-bible-stories-for-kids',
     match: /thanksgiving|thankful|gratitude|grateful/,
     printables: [
       { href: '/printables/bible-word-search/thanksgiving', label: 'Thanksgiving word search (Psalm 100 vocabulary)' },
@@ -92,6 +99,7 @@ export const HOLIDAYS: Holiday[] = [
     peakMonth: 4,
     intro:
       'The Easter story told for children, plus Holy Week explained day by day, Easter trivia, Sunday school lessons and free printables. Easter is the hardest part of the Bible to explain to a young child, so these lean on plain language rather than softening what happened.',
+    heroSlug: 'easter-story-in-the-bible',
     match: /easter|resurrection|palm-sunday|good-friday|lent|empty-tomb|last-supper|gethsemane/,
     printables: [
       { href: '/printables/easter-coloring-pages', label: 'Easter coloring pages' },
@@ -108,6 +116,7 @@ export const HOLIDAYS: Holiday[] = [
     peakMonth: 8,
     intro:
       'The start of a school year is when children are most likely to say out loud that they are frightened. These are the verses, prayers and stories we point parents at for it — for first days, new schools, and the ordinary dread of a Monday morning.',
+    heroSlug: 'back-to-school-bible-stories-for-kids',
     match: /back-to-school|first-day-of-school|morning-prayers|about-courage|for-anxious-kids/,
     printables: [],
   },
@@ -121,6 +130,7 @@ export const HOLIDAYS: Holiday[] = [
     peakMonth: 10,
     intro:
       'Families land in very different places on Halloween, and this page does not argue for one of them. It gathers what we have: alternatives for families who skip it, and verses and stories about fear for any child who finds late October more frightening than fun.',
+    heroSlug: 'halloween-alternatives-for-christian-families',
     match: /halloween|all-saints|about-fear|fear-and-anxiety/,
     printables: [],
   },

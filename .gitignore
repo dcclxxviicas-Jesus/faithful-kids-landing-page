@@ -10,3 +10,5 @@ next-env.d.ts
 *.mp4
 *.mov
 .gstack/
+church-kit/*.pdf
+!church-kit/_generic.pdf

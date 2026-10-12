@@ -3,6 +3,7 @@
 import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
 import { STORIES } from '@/app/components/stories'
 import { VideoTile } from '@/app/components/VideoTile'
+import { BackgroundSwitcher, useHeroBackground } from './BackgroundSwitcher'
 
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
 
@@ -19,6 +20,8 @@ const ANNUAL = 97
 const PER_MONTH = (ANNUAL / 12).toFixed(2)
 
 export default function HomeV2() {
+  const { bg, choose } = useHeroBackground()
+
   return (
     <>
       <div className="hv-testbar">
@@ -31,8 +34,9 @@ export default function HomeV2() {
       <section className="hv-hero">
         <img
           className="hv-hero-art"
-          src={`${CDN}/home-v2/hero-jesus-kids.webp`}
-          alt="Jesus sitting under a tree reading a storybook to a group of happy children"
+          src={`${CDN}/home-v2/${bg.file}`}
+          alt=""
+          key={bg.file}
           width={1536}
           height={1024}
           fetchPriority="high"
@@ -182,6 +186,8 @@ export default function HomeV2() {
           Start watching free
         </a>
       </section>
+
+      <BackgroundSwitcher current={bg} onChoose={choose} cdn={CDN} />
 
       <SiteFooter />
     </>

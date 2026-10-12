@@ -3,21 +3,63 @@
 import { useEffect } from 'react'
 import { useSearchParams } from 'next/navigation'
 import posthog from 'posthog-js'
+import { CDN } from '@/app/components/stories'
+
+/* Four real lesson illustrations, not stock art and not an icon set. A parent
+   scanning a QR in a church foyer should see what their kids would see within
+   a second of landing. These are the same heroes the story posts use, so they
+   are already on the CDN and already warm in cache for anyone who has read
+   one. Slugs verified live (200) before shipping — a 403 here would render as
+   four grey rectangles at the top of the page. */
+const STRIP = [
+  { slug: 'in-the-beginning-creation-for-kids', alt: 'Illustration of the creation of the world' },
+  { slug: 'noah-and-the-great-flood-for-kids', alt: 'Illustration of Noah and the ark' },
+  { slug: 'a-baby-in-a-basket-for-kids', alt: 'Illustration of baby Moses in a basket' },
+  { slug: 'an-angel-visits-mary-for-kids', alt: 'Illustration of the angel visiting Mary' },
+]
 
 /* Static markup, usable as the Suspense fallback (no hooks). */
 export function GiftHeroShell({ name }: { name: string }) {
   return (
-    <section className="blog-hero">
-      <span className="section-label">A gift for your family</span>
-      <h1>Free Bible stories your kids will actually ask for</h1>
-      <p className="blog-hero-sub">
-        {name
-          ? <>With love from <strong>{name}</strong> — 200 Bible stories retold for kids, plus
-              printable games and coloring pages. All free. No signup, no email, no catch.</>
-          : <>With love from your church family — 200 Bible stories retold for kids, plus
-              printable games and coloring pages. All free. No signup, no email, no catch.</>}
-      </p>
-      <a className="btn-primary" href="/bible-stories-for-kids">Open the stories &rarr;</a>
+    <section className="gift-hero">
+      <div className="gift-hero-inner">
+        <span className="gift-ribbon">
+          {name ? <>A gift from {name}</> : <>A gift from your church</>}
+        </span>
+        <h1 className="gift-hero-h1">
+          Free Bible stories your kids
+          <br />
+          will actually ask for
+        </h1>
+        <p className="gift-hero-sub">
+          200 stories retold for children, each with a short video. Printable coloring pages,
+          puzzles and games. A trivia game that plays in the browser.{' '}
+          <strong>All free, and none of it asks you to sign up.</strong>
+        </p>
+
+        {/* Images, not a video: the hero must paint instantly on a phone over
+            church wifi. The playable lessons start one section down, where a
+            press is a deliberate choice rather than an ambush. */}
+        <div className="gift-hero-strip" aria-hidden="false">
+          {STRIP.map(s => (
+            <img
+              key={s.slug}
+              className="gift-hero-art"
+              src={`${CDN}/blog-images/${s.slug}-hero.webp`}
+              alt={s.alt}
+              width={320}
+              height={213}
+              loading="eager"
+              decoding="async"
+            />
+          ))}
+        </div>
+
+        <a className="btn-primary btn-hero" href="#start">
+          Start watching &mdash; it&rsquo;s free
+        </a>
+        <p className="gift-hero-note">No account. No email. Nothing to cancel.</p>
+      </div>
     </section>
   )
 }

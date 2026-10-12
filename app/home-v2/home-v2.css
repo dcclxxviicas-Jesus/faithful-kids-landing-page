@@ -1,0 +1,234 @@
+/* Visual-test styles. Scoped under .hv2 so nothing here can leak into the
+   live site — globals.css is ~2,900 lines and appending to it is how three
+   separate cascade regressions happened. */
+
+.hv2 {
+  --hv-ink: #16314f;
+  --hv-ink-soft: #3f5a77;
+  --hv-green: #16a34a;
+  --hv-green-dark: #15803d;
+  --hv-cream: #fdf8ef;
+  --hv-sky: #eaf6ff;
+  --hv-sun: #fbbf24;
+  --hv-coral: #f87171;
+  --hv-grape: #a78bfa;
+  font-family: var(--font-nunito), system-ui, sans-serif;
+  color: var(--hv-ink);
+  background: #fff;
+}
+.hv2 h1, .hv2 h2, .hv2 h3, .hv2 .hv-display {
+  font-family: var(--font-display), var(--font-nunito), system-ui, sans-serif;
+  letter-spacing: -0.01em;
+}
+
+/* ---------- hero ---------- */
+.hv-hero {
+  position: relative;
+  min-height: 720px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: center;
+  padding: 52px 20px 200px;
+  overflow: hidden;
+  background: #bfe3f7;
+}
+.hv-hero-art {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+/* The headline sits over sky. This keeps it readable without washing the
+   painting out — a flat white panel killed the whole point of the art. */
+.hv-hero::after {
+  content: '';
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 74%;
+  background: linear-gradient(180deg, rgba(255,255,255,0.95) 0%, rgba(255,255,255,0.9) 38%, rgba(255,255,255,0.72) 62%, rgba(255,255,255,0) 100%);
+  pointer-events: none;
+}
+.hv-hero-inner { position: relative; z-index: 2; max-width: 760px; }
+
+.hv-eyebrow {
+  font-family: var(--font-display), sans-serif;
+  font-weight: 800;
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--hv-green-dark);
+  margin: 0 0 10px;
+}
+.hv-h1 {
+  font-size: clamp(2.3rem, 6.4vw, 4rem);
+  line-height: 1.04;
+  font-weight: 800;
+  margin: 0 0 16px;
+  text-wrap: balance;
+}
+.hv-love { white-space: nowrap; }
+.hv-h1 .l { display: inline-block; }
+.hv-h1 .l1 { color: #ef4444 }
+.hv-h1 .l2 { color: #f59e0b }
+.hv-h1 .l3 { color: var(--hv-green) }
+.hv-h1 .l4 { color: #3b82f6 }
+
+.hv-sub {
+  font-size: clamp(1.02rem, 2.2vw, 1.2rem);
+  line-height: 1.6;
+  color: var(--hv-ink-soft);
+  margin: 0 auto 26px;
+  max-width: 34em;
+  font-weight: 600;
+}
+.hv-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  font-family: var(--font-display), sans-serif;
+  font-size: clamp(1.1rem, 2.6vw, 1.35rem);
+  font-weight: 800;
+  color: #fff;
+  background: var(--hv-green);
+  border: 0;
+  border-radius: 999px;
+  padding: 17px 38px;
+  cursor: pointer;
+  text-decoration: none;
+  box-shadow: 0 5px 0 var(--hv-green-dark), 0 14px 28px rgba(22,163,74,0.3);
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.hv-cta:hover { transform: translateY(-1px); box-shadow: 0 6px 0 var(--hv-green-dark), 0 18px 34px rgba(22,163,74,.34) }
+.hv-cta:active { transform: translateY(4px); box-shadow: 0 1px 0 var(--hv-green-dark), 0 6px 14px rgba(22,163,74,.3) }
+.hv-cta-play {
+  width: 26px; height: 26px; border-radius: 50%;
+  background: rgba(255,255,255,.22);
+  display: grid; place-items: center; font-size: .78rem;
+}
+.hv-fine {
+  font-size: .92rem; font-weight: 700;
+  color: var(--hv-ink);
+  display: block;
+  width: fit-content;
+  margin: 16px auto 0;
+  background: rgba(255,255,255,.82);
+  padding: 7px 16px; border-radius: 999px;
+  backdrop-filter: blur(2px);
+}
+
+/* ---------- the overlapping white card ---------- */
+.hv-shelf-wrap { margin-top: -150px; position: relative; z-index: 3; padding: 0 20px 56px }
+.hv-shelf {
+  max-width: 1040px; margin: 0 auto;
+  background: #fff;
+  border-radius: 28px;
+  box-shadow: 0 18px 50px rgba(22,49,79,.14);
+  padding: 32px 28px 30px;
+  text-align: center;
+}
+.hv-shelf h2 { font-size: clamp(1.5rem, 3.6vw, 2.05rem); margin: 0 0 6px; font-weight: 800 }
+.hv-shelf-sub { color: var(--hv-ink-soft); font-weight: 600; margin: 0 0 22px }
+.hv-tiles {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.hv-note { margin: 20px 0 0; font-size: .95rem; color: var(--hv-ink-soft); font-weight: 600 }
+
+/* ---------- how it works ---------- */
+.hv-how { background: var(--hv-cream); padding: 62px 20px 70px; text-align: center }
+.hv-how-head { max-width: 760px; margin: 0 auto 44px }
+.hv-how h2 { font-size: clamp(1.7rem, 4.4vw, 2.5rem); margin: 0 0 10px; font-weight: 800 }
+.hv-swash { display: block; margin: 6px auto 0; max-width: 300px }
+.hv-steps {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px;
+  max-width: 1040px; margin: 0 auto; position: relative;
+}
+.hv-step { background: #fff; border-radius: 20px; padding: 56px 18px 22px; position: relative; box-shadow: 0 6px 18px rgba(22,49,79,.07) }
+.hv-step-ico {
+  position: absolute; top: -30px; left: 50%; transform: translateX(-50%);
+  width: 62px; height: 62px; border-radius: 50%;
+  display: grid; place-items: center; font-size: 1.6rem;
+  box-shadow: 0 6px 14px rgba(22,49,79,.12);
+}
+.hv-step:nth-child(1) .hv-step-ico { background: #dbeafe }
+.hv-step:nth-child(2) .hv-step-ico { background: #dcfce7 }
+.hv-step:nth-child(3) .hv-step-ico { background: #fef3c7 }
+.hv-step:nth-child(4) .hv-step-ico { background: #fce7f3 }
+.hv-step h3 { font-size: 1.1rem; margin: 0 0 7px; font-weight: 800 }
+.hv-step p { margin: 0; font-size: .95rem; line-height: 1.55; color: var(--hv-ink-soft); font-weight: 600 }
+
+/* ---------- parents ---------- */
+.hv-parents { padding: 64px 20px 10px; text-align: center }
+.hv-parents h2 { font-size: clamp(1.7rem, 4.4vw, 2.4rem); margin: 0 0 30px; font-weight: 800 }
+.hv-quotes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; max-width: 1040px; margin: 0 auto }
+.hv-quote { background: var(--hv-sky); border-radius: 22px; padding: 24px 22px; text-align: left }
+.hv-quote:nth-child(2) { background: #f0fdf4 }
+.hv-quote:nth-child(3) { background: #fffbeb }
+.hv-quote p { margin: 0 0 14px; line-height: 1.6; font-weight: 600 }
+.hv-quote cite { font-style: normal; font-weight: 800; font-size: .92rem }
+.hv-quote span { display: block; font-size: .85rem; color: var(--hv-ink-soft); font-weight: 600 }
+
+/* ---------- pricing ---------- */
+.hv-pricing { padding: 64px 20px 72px; text-align: center }
+.hv-pricing h2 { font-size: clamp(1.7rem, 4.4vw, 2.4rem); margin: 0 0 8px; font-weight: 800 }
+.hv-pricing > p { color: var(--hv-ink-soft); font-weight: 600; margin: 0 0 28px }
+.hv-plans { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 18px; max-width: 760px; margin: 0 auto }
+.hv-plan { border: 3px solid #e6eef6; border-radius: 24px; padding: 26px 22px; text-align: left; background: #fff }
+.hv-plan.is-best { border-color: var(--hv-green); background: #f7fdf9 }
+.hv-plan-name { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.15rem; margin: 0 0 4px }
+.hv-price { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 2.1rem; margin: 0 }
+.hv-price small { font-size: .95rem; font-weight: 700; color: var(--hv-ink-soft) }
+.hv-plan ul { list-style: none; padding: 0; margin: 14px 0 20px }
+.hv-plan li { position: relative; padding-left: 26px; margin-bottom: 8px; font-weight: 600; font-size: .95rem; line-height: 1.5 }
+.hv-plan li::before { content: '✓'; position: absolute; left: 0; color: var(--hv-green); font-weight: 800 }
+.hv-tag { display: inline-block; background: var(--hv-green); color: #fff; font-weight: 800; font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; padding: 5px 11px; border-radius: 999px; margin-bottom: 10px }
+.hv-plan-cta { display: block; text-align: center; text-decoration: none; font-family: var(--font-display), sans-serif; font-weight: 800; border-radius: 999px; padding: 13px 20px; background: var(--hv-green); color: #fff; box-shadow: 0 4px 0 var(--hv-green-dark) }
+.hv-plan:not(.is-best) .hv-plan-cta { background: #fff; color: var(--hv-green-dark); border: 2px solid var(--hv-green); box-shadow: none }
+
+/* ---------- close ---------- */
+.hv-close { background: var(--hv-cream); padding: 60px 20px 76px; text-align: center }
+.hv-blob {
+  display: inline-block;
+  font-family: var(--font-display), sans-serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  color: #7c4a03;
+  background: #fde68a;
+  max-width: 290px;
+  padding: 24px 34px;
+  border-radius: 48% 52% 55% 45% / 56% 48% 52% 44%;
+  transform: rotate(-2deg);
+  margin-bottom: 26px;
+}
+.hv-close h2 { font-size: clamp(1.7rem, 4.6vw, 2.5rem); margin: 0 0 22px; font-weight: 800 }
+.hv-testbar {
+  background: #16314f; color: #fff; text-align: center;
+  padding: 10px 16px; font-size: .86rem; font-weight: 700;
+}
+.hv-testbar a { color: #9ae6b4 }
+
+/* ---------- responsive ---------- */
+@media (max-width: 900px) {
+  .hv-tiles { grid-template-columns: repeat(2, 1fr); max-width: 680px }
+  .hv-steps { grid-template-columns: repeat(2, 1fr); row-gap: 48px }
+  .hv-quotes { grid-template-columns: 1fr; max-width: 520px }
+}
+@media (max-width: 560px) {
+  .hv-hero { min-height: 560px; padding: 26px 18px 165px }
+  .hv-hero::after { height: 76%; background: linear-gradient(180deg, rgba(255,255,255,.95) 0%, rgba(255,255,255,.82) 52%, rgba(255,255,255,0) 100%) }
+  .hv-shelf-wrap { margin-top: -140px }
+  .hv-shelf { padding: 24px 16px }
+  .hv-tiles { grid-template-columns: 1fr; max-width: 420px; gap: 14px }
+  .hv-plans { grid-template-columns: 1fr; max-width: 420px }
+}
+
+/* "fall in love" is four coloured letters; a line break mid-word turned it
+   into "fall in l / ove". Keep the phrase atomic. */
+.hv-nb { white-space: nowrap; }

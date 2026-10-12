@@ -1,0 +1,118 @@
+/* Additions for the stories hub test. The base (.hv2 tokens, display font,
+   buttons, hero scrim, play-disc tiles) comes from home-v2.css. */
+
+/* ---------- hero ---------- */
+.sv-hero { min-height: 480px; padding: 50px 20px 120px; }
+.sv-jump { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 22px; }
+.sv-jump a {
+  background: rgba(255,255,255,.9);
+  color: var(--hv-ink);
+  font-weight: 800; font-size: .92rem;
+  text-decoration: none;
+  padding: 10px 18px; border-radius: 999px;
+  border: 2px solid rgba(22,163,74,.25);
+  transition: transform .12s ease, border-color .12s ease;
+}
+.sv-jump a:hover { transform: translateY(-2px); border-color: var(--hv-green); }
+
+/* ---------- intro ---------- */
+.sv-intro {
+  max-width: 760px; margin: -80px auto 0; position: relative; z-index: 3;
+  background: #fff; border-radius: 26px; padding: 30px 32px;
+  box-shadow: 0 16px 44px rgba(22,49,79,.14);
+}
+.sv-intro p { margin: 0 0 14px; line-height: 1.7; font-weight: 600; color: var(--hv-ink-soft); }
+.sv-intro p:last-child { margin-bottom: 0; }
+
+/* ---------- section shells ---------- */
+.sv-section { padding: 64px 20px 10px; max-width: 1160px; margin: 0 auto; }
+.sv-section.is-alt { background: var(--hv-cream); max-width: none; padding-bottom: 64px; }
+.sv-section.is-alt > * { max-width: 1160px; margin-left: auto; margin-right: auto; }
+.sv-head { text-align: center; margin-bottom: 34px; }
+.sv-head h2 { font-size: clamp(1.6rem, 4vw, 2.3rem); margin: 0 0 8px; font-weight: 800; }
+.sv-head p { margin: 0; color: var(--hv-ink-soft); font-weight: 600; }
+
+/* ---------- series cards: the big change ----------
+   The live page renders a bordered white box with a numbered list of plain
+   links. Every story already has a hero illustration on the CDN, so each
+   series now leads with its first episode's art. */
+.sv-series-grid { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 22px; }
+.sv-series {
+  background: #fff; border-radius: 22px; overflow: hidden;
+  box-shadow: 0 8px 24px rgba(22,49,79,.1);
+  display: flex; flex-direction: column;
+  transition: transform .16s ease, box-shadow .16s ease;
+}
+.sv-series:hover { transform: translateY(-3px); box-shadow: 0 16px 36px rgba(22,49,79,.17); }
+.sv-series-art { position: relative; aspect-ratio: 16/6; overflow: hidden; background: #dbeafe; }
+.sv-series-art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.sv-series-art::after {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,.42) 0%, rgba(0,0,0,0) 55%);
+}
+.sv-series-name {
+  position: absolute; left: 18px; top: 14px; z-index: 2;
+  color: #fff; font-family: var(--font-display), sans-serif;
+  font-weight: 800; font-size: 1.22rem; text-shadow: 0 2px 8px rgba(0,0,0,.55);
+  text-decoration: none;
+}
+.sv-series-name:hover { text-decoration: underline; }
+.sv-series-ref {
+  position: absolute; left: 18px; bottom: 12px; z-index: 2;
+  color: #fff; font-size: .8rem; font-weight: 700;
+  background: rgba(22,163,74,.92); padding: 4px 11px; border-radius: 999px;
+}
+.sv-series-body { padding: 16px 20px 20px; }
+.sv-list { list-style: none; counter-reset: s; padding: 0; margin: 0;
+  display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 2px 18px; }
+.sv-list li { counter-increment: s; }
+.sv-list a {
+  display: flex; gap: 9px; align-items: baseline;
+  padding: 6px 8px; border-radius: 9px;
+  color: var(--hv-ink); text-decoration: none;
+  font-weight: 600; font-size: .93rem; line-height: 1.4;
+}
+.sv-list a::before {
+  content: counter(s); flex: 0 0 auto;
+  font-size: .76rem; font-weight: 800; color: var(--hv-green);
+  min-width: 15px;
+}
+.sv-list a:hover { background: #f0fdf4; color: var(--hv-green-dark); }
+
+/* ---------- age + theme ---------- */
+.sv-cards { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 18px; }
+.sv-cards.is-4 { grid-template-columns: repeat(4, minmax(0,1fr)); }
+.sv-card { border-radius: 20px; padding: 22px 20px; }
+.sv-card:nth-child(4n+1) { background: #eff6ff; }
+.sv-card:nth-child(4n+2) { background: #f0fdf4; }
+.sv-card:nth-child(4n+3) { background: #fffbeb; }
+.sv-card:nth-child(4n+4) { background: #fdf2f8; }
+.sv-card h3 {
+  margin: 0 0 4px; font-size: 1.1rem; font-weight: 800;
+  text-transform: capitalize;
+}
+.sv-card-count { margin: 0 0 12px; font-size: .84rem; font-weight: 700; color: var(--hv-ink-soft); }
+.sv-card ul { list-style: none; padding: 0; margin: 0; }
+.sv-card li { margin-bottom: 5px; }
+.sv-card a {
+  color: var(--hv-ink); text-decoration: none; font-weight: 600; font-size: .92rem;
+  line-height: 1.45; display: block; padding: 3px 0;
+}
+.sv-card a:hover { color: var(--hv-green-dark); text-decoration: underline; }
+
+/* ---------- faq ---------- */
+.sv-faq { display: grid; gap: 14px; max-width: 840px; margin: 0 auto; }
+.sv-faq-item { background: #fff; border-radius: 18px; padding: 22px 24px; box-shadow: 0 6px 18px rgba(22,49,79,.08); }
+.sv-faq-item h3 { margin: 0 0 8px; font-size: 1.05rem; font-weight: 800; }
+.sv-faq-item p { margin: 0; line-height: 1.65; color: var(--hv-ink-soft); font-weight: 600; font-size: .96rem; }
+
+@media (max-width: 1000px) {
+  .sv-series-grid { grid-template-columns: 1fr; }
+  .sv-cards, .sv-cards.is-4 { grid-template-columns: repeat(2, minmax(0,1fr)); }
+}
+@media (max-width: 620px) {
+  .sv-hero { min-height: 420px; padding: 30px 18px 110px; }
+  .sv-intro { margin-top: -70px; padding: 24px 20px; }
+  .sv-list { grid-template-columns: 1fr; }
+  .sv-cards, .sv-cards.is-4 { grid-template-columns: 1fr; }
+}

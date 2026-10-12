@@ -1,9 +1,6 @@
-'use client'
-
 import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
 import { STORIES } from '@/app/components/stories'
 import { VideoTile } from '@/app/components/VideoTile'
-import { BackgroundSwitcher, useHeroBackground } from './BackgroundSwitcher'
 
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
 
@@ -20,23 +17,16 @@ const ANNUAL = 97
 const PER_MONTH = (ANNUAL / 12).toFixed(2)
 
 export default function HomeV2() {
-  const { bg, choose } = useHeroBackground()
-
   return (
     <>
-      <div className="hv-testbar">
-        Visual test — not linked from the site and not indexed. The live homepage is unchanged at{' '}
-        <a href="/">faithfulkids.app</a>.
-      </div>
 
       <SiteNav />
 
       <section className="hv-hero">
         <img
           className="hv-hero-art"
-          src={`${CDN}/home-v2/${bg.file}`}
+          src={`${CDN}/home-v2/bg2-meadow.webp`}
           alt=""
-          key={bg.file}
           width={1536}
           height={1024}
           fetchPriority="high"
@@ -62,9 +52,6 @@ export default function HomeV2() {
             <span className="hv-cta-play">&#9654;</span>
             Start watching free
           </a>
-          <p className="hv-fine">
-            Yearly plan starts with a 7-day free trial &middot; cancel any time
-          </p>
         </div>
       </section>
 
@@ -179,15 +166,17 @@ export default function HomeV2() {
       </section>
 
       <section className="hv-close">
-        <p className="hv-blob">Learn &middot; Have fun &middot; Grow in faith</p>
+        <ul className="hv-chips">
+          <li><span aria-hidden="true">📖</span>Learn</li>
+          <li><span aria-hidden="true">✨</span>Have fun</li>
+          <li><span aria-hidden="true">🌱</span>Grow in faith</li>
+        </ul>
         <h2>Make screen time the best part of their day</h2>
         <a className="hv-cta" href="/quiz">
           <span className="hv-cta-play">&#9654;</span>
           Start watching free
         </a>
       </section>
-
-      <BackgroundSwitcher current={bg} onChoose={choose} cdn={CDN} />
 
       <SiteFooter />
     </>

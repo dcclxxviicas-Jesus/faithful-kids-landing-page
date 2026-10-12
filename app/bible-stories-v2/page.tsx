@@ -220,7 +220,11 @@ export default function BibleStoriesV2() {
       </section>
 
       <section className="hv-close">
-        <p className="hv-blob">Read it &middot; Watch it &middot; Talk about it</p>
+        <ul className="hv-chips">
+          <li><span aria-hidden="true">📖</span>Read it</li>
+          <li><span aria-hidden="true">▶️</span>Watch it</li>
+          <li><span aria-hidden="true">💬</span>Talk about it</li>
+        </ul>
         <h2>Every story has a two-minute video too</h2>
         <a className="hv-cta" href="/quiz">
           <span className="hv-cta-play">&#9654;</span>

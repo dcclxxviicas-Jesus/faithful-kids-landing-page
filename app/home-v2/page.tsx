@@ -58,8 +58,11 @@ export default function HomeV2() {
       <div className="hv-shelf-wrap">
         <div className="hv-shelf">
           <h2>Watch one right now</h2>
+          {/* "Watch one right now" invites the suspicion that these are
+              trailers, so the subhead answers that directly — and it is true:
+              the tiles open s.src, the full lesson-video.mp4, not loopSrc. */}
           <p className="hv-shelf-sub">
-            Real lessons, free to play here. Nothing to sign up for.
+            See exactly what your kids will watch &mdash; full lessons, not clips.
           </p>
           <div className="hv-tiles">
             {SHELF.map(s => (

@@ -71,10 +71,11 @@ export function VideoTile({
    */
   autoplay?: boolean
   /**
-   * The big centred play disc with "Watch the video" under it, instead of
-   * the pill button along the bottom edge. The homepage shelf shipped this
-   * first (Oct 12, 2026) and the owner asked for the same control on every
-   * story post the next day. Styles: `.video-tile--disc` in globals.css.
+   * The big centred green play disc with a "Watch the video" pill under it,
+   * instead of the pill button along the bottom edge. Used by the story
+   * posts (StoryLesson). The homepage shelf deliberately does NOT use it:
+   * it keeps its own white-disc look via .hv2 overrides in home.css
+   * (owner's call, Oct 13 2026). Styles: `.video-tile--disc` in globals.css.
    */
   playDisc?: boolean
   captionsUrl?: string

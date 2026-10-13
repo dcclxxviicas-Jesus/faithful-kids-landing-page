@@ -595,22 +595,8 @@ body {
   box-shadow: 0 0 0 4px rgba(255,255,255,.92), 0 12px 30px rgba(0,0,0,.4);
   transition: transform .16s ease;
 }
-/* A slow ring that breathes out of the disc. It is the one thing on a still
-   poster that moves, which is what makes a parent's eye land on it. */
-.video-tile-disc::after {
-  content: '';
-  position: absolute;
-  inset: -4px;
-  border-radius: 50%;
-  border: 3px solid rgba(255,255,255,.85);
-  animation: vt-pulse 2.4s ease-out infinite;
-  pointer-events: none;
-}
-@keyframes vt-pulse {
-  0%   { transform: scale(1);    opacity: .9; }
-  70%  { transform: scale(1.45); opacity: 0; }
-  100% { transform: scale(1.45); opacity: 0; }
-}
+/* No pulse ring: it shipped with one for a day and the owner asked for it
+   to go (Oct 13, 2026). */
 .video-tile-disc-label {
   background: rgba(255,255,255,.97);
   color: #14532d;
@@ -638,7 +624,6 @@ body {
 }
 @media (prefers-reduced-motion: reduce) {
   .video-tile--disc .video-tile-btn, .video-tile-disc { transition: none; }
-  .video-tile-disc::after { animation: none; display: none; }
 }
 
 /* ===== HERO VIDEO LIGHTBOX =====

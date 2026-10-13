@@ -494,6 +494,7 @@ body {
 .video-tile-screen {
   position: relative;
   width: 100%;
+  container-type: inline-size;   /* lets the play disc size itself to the tile */
   aspect-ratio: 16 / 9;
   background: #0b1512;
   border-radius: 14px;
@@ -542,54 +543,103 @@ body {
 @media (prefers-reduced-motion: reduce) { .video-tile-btn { transition: none; } }
 
 /* ----- .video-tile--disc: the big play disc (VideoTile playDisc prop) -----
-   The whole tile is the button, with a 76px white disc in the middle and a
-   short label at the bottom. Lived in home.css as .hv2 overrides first; moved
-   here Oct 13, 2026 so the story posts get the identical control and the two
-   cannot drift. The triangle is an SVG, not the \25B6 glyph: a glyph carries
-   the font's own side bearings, so "centred" meant centred-ish. This path's
-   CENTROID - not its bounding box - sits at 12,12 of the viewBox, which is
-   what the eye reads as the middle of a triangle. One disc size at every
-   width; the phone used to get a smaller one. */
+   The whole poster is the button. A soft scrim darkens the art just enough
+   for the control to read, a brand-green disc with a white triangle sits at
+   the TRUE centre (flex column - the first version was a grid that gave the
+   hidden label its own row and centred the disc in the top half), and a white
+   "Watch the video" pill hangs directly under it so the two read as one
+   control. A white disc on pastel watercolour art was invisible; green on a
+   dimmed poster is not.
+
+   Sizes scale with the tile: clamp() against the tile's own width, so a
+   730px story-post player gets a 104px disc and a 320px homepage shelf tile
+   or a 358px phone player gets 72px. One rule, no breakpoints to drift.
+
+   The triangle is an SVG, not the \25B6 glyph: a glyph carries the font's
+   own side bearings, so "centred" meant centred-ish. This path's CENTROID -
+   not its bounding box - sits at 12,12 of the viewBox, which is what the eye
+   reads as the middle of a triangle. */
 .video-tile--disc .video-tile-btn {
   inset: 0;
   left: 0; bottom: auto;
   width: 100%; height: 100%;
   transform: none;
-  padding: 0;
+  padding: 10px 0 0;       /* a touch below centre so the stack clears the title */
   border-radius: inherit;
-  background: transparent;
+  background: rgba(0,0,0,.2);
   box-shadow: none;
   backdrop-filter: none;
-  display: grid;
-  place-items: center;
-  /* nudge the disc below dead-centre so it clears the title at the top-left */
-  padding-top: 16px;
-  font-size: 0;            /* hides the hardcoded label; ::after replaces it */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  font-size: 1rem;
   white-space: normal;
+  color: #fff;
+  transition: background .16s ease;
 }
 .video-tile--disc .video-tile-btn:hover,
 .video-tile--disc .video-tile-btn:active { transform: none; }
-.video-tile--disc .video-tile-btn::before {
-  content: '';
-  width: 76px; height: 76px;
+@media (hover: hover) {
+  .video-tile--disc .video-tile-btn:hover { background: rgba(0,0,0,.32); }
+  .video-tile--disc .video-tile-btn:hover .video-tile-disc { transform: scale(1.07); }
+}
+.video-tile--disc .video-tile-btn:active .video-tile-disc { transform: scale(.96); }
+.video-tile-disc {
+  position: relative;
+  width: clamp(72px, 14.5%, 104px);
+  aspect-ratio: 1 / 1;
   border-radius: 50%;
-  background: rgba(255,255,255,.96) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M8 5 L20 12 L8 19 Z' fill='%2315803d'/%3E%3C/svg%3E") no-repeat center / 30px 30px;
-  box-shadow: 0 10px 26px rgba(0,0,0,.34);
+  background: var(--primary) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M8 5 L20 12 L8 19 Z' fill='%23ffffff'/%3E%3C/svg%3E") no-repeat center / 44% 44%;
+  box-shadow: 0 0 0 4px rgba(255,255,255,.92), 0 12px 30px rgba(0,0,0,.4);
   transition: transform .16s ease;
 }
-.video-tile--disc .video-tile-btn::after {
-  content: 'Play this story';
+/* A slow ring that breathes out of the disc. It is the one thing on a still
+   poster that moves, which is what makes a parent's eye land on it. */
+.video-tile-disc::after {
+  content: '';
   position: absolute;
-  left: 50%; bottom: 14px;
-  transform: translateX(-50%);
-  font-size: .95rem; font-weight: 800; color: #fff;
-  text-shadow: 0 2px 8px rgba(0,0,0,.75);
+  inset: -4px;
+  border-radius: 50%;
+  border: 3px solid rgba(255,255,255,.85);
+  animation: vt-pulse 2.4s ease-out infinite;
+  pointer-events: none;
+}
+@keyframes vt-pulse {
+  0%   { transform: scale(1);    opacity: .9; }
+  70%  { transform: scale(1.45); opacity: 0; }
+  100% { transform: scale(1.45); opacity: 0; }
+}
+.video-tile-disc-label {
+  background: rgba(255,255,255,.97);
+  color: #14532d;
+  font-weight: 800;
+  font-size: clamp(.9rem, 1.5vw, 1.05rem);
+  line-height: 1;
+  padding: 11px 20px;
+  border-radius: 999px;
+  box-shadow: 0 4px 14px rgba(0,0,0,.3);
   white-space: nowrap;
 }
-.video-tile--disc .video-tile-btn:hover::before { transform: scale(1.09); }
 .video-tile--disc .video-tile-btn:focus-visible { outline: 4px solid var(--primary); outline-offset: 3px; }
-@media (max-width: 520px) { .video-tile--disc .video-tile-btn { font-size: 0; padding: 0; padding-top: 16px; } }
-@media (prefers-reduced-motion: reduce) { .video-tile--disc .video-tile-btn::before { transition: none; } }
+@media (max-width: 520px) {
+  .video-tile--disc .video-tile-btn { padding: 8px 0 0; gap: 10px; font-size: 1rem; }
+  .video-tile-disc-label { padding: 10px 16px; }
+}
+/* Small tiles (the homepage shelf at ~316px, a story player on a narrow
+   phone) get a compact stack, or the disc and pill crowd the title. Measured
+   against the TILE, not the viewport: three shelf tiles on a 1280px desktop
+   are each narrower than one story player on a 390px phone. */
+@container (max-width: 340px) {
+  .video-tile--disc .video-tile-btn { gap: 8px; padding-top: 14px; }
+  .video-tile-disc { width: 60px; }
+  .video-tile-disc-label { font-size: .85rem; padding: 8px 14px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .video-tile--disc .video-tile-btn, .video-tile-disc { transition: none; }
+  .video-tile-disc::after { animation: none; display: none; }
+}
 
 /* ===== HERO VIDEO LIGHTBOX =====
    The tile is an ambient muted loop; this is the actual watch — full size,

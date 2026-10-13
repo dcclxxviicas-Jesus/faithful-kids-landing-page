@@ -71,7 +71,7 @@ export function VideoTile({
    */
   autoplay?: boolean
   /**
-   * The big centred play disc with "Play this story" under it, instead of
+   * The big centred play disc with "Watch the video" under it, instead of
    * the pill button along the bottom edge. The homepage shelf shipped this
    * first (Oct 12, 2026) and the owner asked for the same control on every
    * story post the next day. Styles: `.video-tile--disc` in globals.css.
@@ -168,19 +168,36 @@ export function VideoTile({
           </div>
         )}
 
-        {/* Three tiles side by side otherwise all announce "Watch what your
-            kids will see", which tells a screen reader user nothing about
-            which story they are opening. The label KEEPS the visible text and
-            appends the title: an accessible name that drops the words on the
-            button breaks voice control, and axe flags it
-            (label-content-name-mismatch). */}
-        <button
-          className="video-tile-btn"
-          onClick={openPlayer}
-          aria-label={title ? `${'\u25B6'} Watch what your kids will see: ${title}` : undefined}
-        >
-          {`${'\u25B6'} Watch what your kids will see`}
-        </button>
+        {playDisc ? (
+          /* The disc, the label and a soft scrim are real elements, not
+             pseudo-elements over hidden text. The first version used
+             display:grid with the old label text still in the DOM at
+             font-size:0 - grid gave that invisible text its own row, split
+             the height between the two rows, and the disc centred in the
+             TOP half (about 38% down on every tile). Owner saw it at once. */
+          <button
+            className="video-tile-btn"
+            onClick={openPlayer}
+            aria-label={title ? `Watch the video: ${title}` : 'Watch the video'}
+          >
+            <span className="video-tile-disc" aria-hidden="true" />
+            <span className="video-tile-disc-label">Watch the video</span>
+          </button>
+        ) : (
+          /* Three tiles side by side otherwise all announce "Watch what your
+             kids will see", which tells a screen reader user nothing about
+             which story they are opening. The label KEEPS the visible text
+             and appends the title: an accessible name that drops the words
+             on the button breaks voice control, and axe flags it
+             (label-content-name-mismatch). */
+          <button
+            className="video-tile-btn"
+            onClick={openPlayer}
+            aria-label={title ? `${'\u25B6'} Watch what your kids will see: ${title}` : undefined}
+          >
+            {`${'\u25B6'} Watch what your kids will see`}
+          </button>
+        )}
       </div>
 
       {mounted && open && createPortal(

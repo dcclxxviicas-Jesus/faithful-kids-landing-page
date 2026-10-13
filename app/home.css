@@ -260,7 +260,7 @@
   transform: translateY(-4px);
   box-shadow: 0 16px 34px rgba(22,49,79,.24);
 }
-/* The play disc itself (76px white disc, SVG triangle, "Play this story")
+/* The play disc itself (green disc, SVG triangle, "Watch the video" pill)
    is the shared .video-tile--disc variant in globals.css, switched on with
    VideoTile's playDisc prop. It moved there Oct 13, 2026 so the story posts
    use the identical control. */

@@ -102,7 +102,7 @@ This story is episode 07 of 10 in the Road to the Cross series:
 - [The Betrayal for Kids](/blog/the-betrayal-for-kids)
 - [The Trial for Kids](/blog/the-trial-for-kids)
 - [The Cross for Kids](/blog/the-cross-for-kids)
-- [It is Finished for Kids](/blog/it-is-finished-for-kids)
+- [It Is Finished for Kids](/blog/it-is-finished-for-kids)
 - [The Burial for Kids](/blog/the-burial-for-kids)
 
 

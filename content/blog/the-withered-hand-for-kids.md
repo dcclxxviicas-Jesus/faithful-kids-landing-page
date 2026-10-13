@@ -95,7 +95,7 @@ This story is episode 09 of 10 in the Miracles of Jesus series:
 - [The Raising of Lazarus for Kids](/blog/the-raising-of-lazarus-for-kids)
 - [Ten Lepers Healed for Kids](/blog/ten-lepers-healed-for-kids)
 - [The Demon Possessed Man for Kids](/blog/the-demon-possessed-man-for-kids)
-- [Jairus Daughter for Kids](/blog/jairus-daughter-for-kids)
+- [Jairus' Daughter for Kids](/blog/jairus-daughter-for-kids)
 - [The Great Catch of Fish for Kids](/blog/the-great-catch-of-fish-for-kids)
 
 

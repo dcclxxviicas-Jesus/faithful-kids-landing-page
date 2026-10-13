@@ -1,5 +1,5 @@
 ---
-title: "The Widows Oil for Kids: Bible Story Explained Simply"
+title: "The Widow's Oil for Kids: Bible Story Explained Simply"
 slug: "the-widows-oil-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -11,19 +11,19 @@ testament: "Old Testament"
 book: "1 & 2 Kings"
 age: "Ages 6+"
 themes: "faith, miracles, trusting God, prayer"
-metaDescription: "Learn the story of The Widows Oil explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, discussion questions, quiz."
+metaDescription: "Learn the story of The Widow's Oil explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, discussion questions, quiz."
 keywords: ["the widows oil for kids", "the widows oil bible story", "the widows oil for children", "the widows oil explained for kids", "the widows oil story for kids", "bible stories for kids", "elijah and elisha for kids", "kids bible", "1 & 2 kings for kids"]
 videoUrl: "/videos/elijah-and-elisha/the-widows-oil/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# The Widows Oil for Kids: The Bible Story Explained Simply
+# The Widow's Oil for Kids: The Bible Story Explained Simply
 
 **Series:** Elijah and Elisha (Episode 02 of 10) | **Scripture:** 1 & 2 Kings | **Ages 6+**
 
-The Widows Oil is a Bible story from 1 & 2 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+The Widow's Oil is a Bible story from 1 & 2 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of The Widows Oil for Kids?
+## What Is the Story of The Widow's Oil for Kids?
 
 THE WIDOW'S OIL Series: Elijah & Elisha | Episode 2 Scripture: 1 Kings 17:8-24
 
@@ -35,9 +35,9 @@ So Elijah arrives at Zarephath and finds this woman gathering sticks. He calls o
 
 This story comes from 1 & 2 Kings and is part of the Old Testament.
 
-## What Does the Story of The Widows Oil Teach Children?
+## What Does the Story of The Widow's Oil Teach Children?
 
-The story of The Widows Oil teaches children important lessons about faith, miracles, trusting God, prayer:
+The story of The Widow's Oil teaches children important lessons about faith, miracles, trusting God, prayer:
 
 - **This story teaches children about faith in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -91,7 +91,7 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of The Widows Oil?
+1. What was your favorite part of the story of The Widow's Oil?
 2. What do you think God was teaching us through this story?
 3. How can we be more like The in our own lives?
 4. If you were in this story, what would you have done differently?
@@ -104,7 +104,7 @@ This story is episode 02 of 10 in the Elijah and Elisha series:
 - [Elijah and the Ravens for Kids](/blog/elijah-and-the-ravens-for-kids)
 - [Fire from Heaven for Kids](/blog/fire-from-heaven-for-kids)
 - [The Still Small Voice for Kids](/blog/the-still-small-voice-for-kids)
-- [Naboths Vineyard for Kids](/blog/naboths-vineyard-for-kids)
+- [Naboth's Vineyard for Kids](/blog/naboths-vineyard-for-kids)
 - [Elijah Taken to Heaven for Kids](/blog/elijah-taken-to-heaven-for-kids)
 - [Elisha Double Portion for Kids](/blog/elisha-double-portion-for-kids)
 - [The Room on the Roof for Kids](/blog/the-room-on-the-roof-for-kids)
@@ -120,26 +120,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of The Widows Oil about for kids?
+### What is the story of The Widow's Oil about for kids?
 
-The Widows Oil is a story from 1 & 2 Kings. THE WIDOW'S OIL Series: Elijah & Elisha | Episode 2 Scripture: 1 Kings 17:8-24
+The Widow's Oil is a story from 1 & 2 Kings. THE WIDOW'S OIL Series: Elijah & Elisha | Episode 2 Scripture: 1 Kings 17:8-24
 
-### What age is the story of The Widows Oil appropriate for?
+### What age is the story of The Widow's Oil appropriate for?
 
-This retelling of The Widows Oil is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of The Widow's Oil is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is The Widows Oil found in the Bible?
+### Where is The Widow's Oil found in the Bible?
 
-The Widows Oil is found in 1 & 2 Kings in the Old Testament. It is part of the Elijah and Elisha series on Faithful Kids.
+The Widow's Oil is found in 1 & 2 Kings in the Old Testament. It is part of the Elijah and Elisha series on Faithful Kids.
 
-### Is there a video of The Widows Oil for kids?
+### Is there a video of The Widow's Oil for kids?
 
-Yes. Faithful Kids has a short video retelling of The Widows Oil designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of The Widow's Oil designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use The Widows Oil for Sunday School or homeschool?
+### How can I use The Widow's Oil for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does The Widows Oil teach kids?
+### What does The Widow's Oil teach kids?
 
-The story of The Widows Oil teaches children about faith, miracles, trusting God, prayer. This story teaches children about faith in a way they can understand.
+The story of The Widow's Oil teaches children about faith, miracles, trusting God, prayer. This story teaches children about faith in a way they can understand.

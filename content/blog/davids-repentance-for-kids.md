@@ -1,9 +1,9 @@
 ---
-title: "Davids Repentance for Kids: Bible Story Explained Simply"
+title: "David's Repentance for Kids: Bible Story Explained Simply"
 slug: "davids-repentance-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
-series: "King Davids Reign"
+series: "King David's Reign"
 seriesSlug: "king-davids-reign"
 episode: 08
 scripture: ""
@@ -11,19 +11,19 @@ testament: "Old Testament"
 book: "2 Samuel/Psalms"
 age: "Ages 6+"
 themes: "worship, repentance, God's promises, honesty"
-metaDescription: "Learn the story of Davids Repentance explained for kids ages 5+. Simple retelling from 2 Samuel/Psalms, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of David's Repentance explained for kids ages 5+. Simple retelling from 2 Samuel/Psalms, with key lessons, a quiz, and a free video."
 keywords: ["davids repentance for kids", "davids repentance bible story", "davids repentance for children", "davids repentance explained for kids", "davids repentance story for kids", "bible stories for kids", "king davids reign for kids", "kids bible", "2 samuel/psalms for kids"]
 videoUrl: "/videos/king-davids-reign/davids-repentance/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Davids Repentance for Kids: The Bible Story Explained Simply
+# David's Repentance for Kids: The Bible Story Explained Simply
 
-**Series:** King Davids Reign (Episode 08 of 10) | **Scripture:** 2 Samuel/Psalms | **Ages 6+**
+**Series:** King David's Reign (Episode 08 of 10) | **Scripture:** 2 Samuel/Psalms | **Ages 6+**
 
-Davids Repentance is a Bible story from 2 Samuel/Psalms in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+David's Repentance is a Bible story from 2 Samuel/Psalms in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Davids Repentance for Kids?
+## What Is the Story of David's Repentance for Kids?
 
 KING DAVID'S REIGN — EPISODE 8: DAVID'S REPENTANCE — PSALM 51 Scripture: Psalm 51
 
@@ -35,9 +35,9 @@ That's when David wrote Psalm 51. And here's what makes it so remarkable — Dav
 
 This story comes from 2 Samuel/Psalms and is part of the Old Testament.
 
-## What Does the Story of Davids Repentance Teach Children?
+## What Does the Story of David's Repentance Teach Children?
 
-The story of Davids Repentance teaches children important lessons about worship, repentance, God's promises, honesty:
+The story of David's Repentance teaches children important lessons about worship, repentance, God's promises, honesty:
 
 - **God does not look at size or strength but at the heart**
 - **With God on your side, no problem is too big**
@@ -81,25 +81,25 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Davids Repentance?
+1. What was your favorite part of the story of David's Repentance?
 2. What do you think God was teaching us through this story?
-3. How can we be more like Davids in our own lives?
+3. How can we be more like David's in our own lives?
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## More Episodes in the King Davids Reign Series
+## More Episodes in the King David's Reign Series
 
-This story is episode 08 of 10 in the King Davids Reign series:
+This story is episode 08 of 10 in the King David's Reign series:
 
 - [Dancing Before the Lord for Kids](/blog/dancing-before-the-lord-for-kids)
-- [Gods Promise to David for Kids](/blog/gods-promise-to-david-for-kids)
+- [God's Promise to David for Kids](/blog/gods-promise-to-david-for-kids)
 - [David and Mephibosheth for Kids](/blog/david-and-mephibosheth-for-kids)
-- [Davids Big Mistake for Kids](/blog/davids-big-mistake-for-kids)
-- [The Shepherds Song for Kids](/blog/the-shepherds-song-for-kids)
+- [David's Big Mistake for Kids](/blog/davids-big-mistake-for-kids)
+- [The Shepherd's Song for Kids](/blog/the-shepherds-song-for-kids)
 - [Songs of Praise for Kids](/blog/songs-of-praise-for-kids)
-- [Absaloms Rebellion for Kids](/blog/absaloms-rebellion-for-kids)
-- [Solomon is Chosen for Kids](/blog/solomon-is-chosen-for-kids)
-- [Davids Final Words for Kids](/blog/davids-final-words-for-kids)
+- [Absalom's Rebellion for Kids](/blog/absaloms-rebellion-for-kids)
+- [Solomon Is Chosen for Kids](/blog/solomon-is-chosen-for-kids)
+- [David's Final Words for Kids](/blog/davids-final-words-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids
@@ -110,26 +110,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Davids Repentance about for kids?
+### What is the story of David's Repentance about for kids?
 
-Davids Repentance is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 8: DAVID'S REPENTANCE — PSALM 51 Scripture: Psalm 51
+David's Repentance is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 8: DAVID'S REPENTANCE — PSALM 51 Scripture: Psalm 51
 
-### What age is the story of Davids Repentance appropriate for?
+### What age is the story of David's Repentance appropriate for?
 
-This retelling of Davids Repentance is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of David's Repentance is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Davids Repentance found in the Bible?
+### Where is David's Repentance found in the Bible?
 
-Davids Repentance is found in 2 Samuel/Psalms in the Old Testament. It is part of the King Davids Reign series on Faithful Kids.
+David's Repentance is found in 2 Samuel/Psalms in the Old Testament. It is part of the King David's Reign series on Faithful Kids.
 
-### Is there a video of Davids Repentance for kids?
+### Is there a video of David's Repentance for kids?
 
-Yes. Faithful Kids has a short video retelling of Davids Repentance designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of David's Repentance designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Davids Repentance for Sunday School or homeschool?
+### How can I use David's Repentance for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Davids Repentance teach kids?
+### What does David's Repentance teach kids?
 
-The story of Davids Repentance teaches children about worship, repentance, God's promises, honesty. God does not look at size or strength but at the heart.
+The story of David's Repentance teaches children about worship, repentance, God's promises, honesty. God does not look at size or strength but at the heart.

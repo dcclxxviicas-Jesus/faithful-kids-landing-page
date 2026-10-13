@@ -22,7 +22,7 @@ The letter's heartbeat is chapter 13 -- the "love chapter" read at countless wed
 
 1. Who wrote 1 Corinthians? **The apostle Paul** (1 Corinthians 1:1)
 2. Corinth was a big port city in which land? **Greece** (Acts 18:1)
-3. Finish the famous verse: "Love is patient, love is ___" **Kind** (1 Corinthians 13:4)
+3. Finish the famous verse: "Love Is patient, love is ___" **Kind** (1 Corinthians 13:4)
 4. Three things remain -- faith, hope, and love. Which is the greatest? **Love** (1 Corinthians 13:13)
 5. Your body is a temple of whom? **The Holy Spirit** (1 Corinthians 6:19)
 6. What special meal did Jesus begin that Paul explains, saying "do this in remembrance of me"? **The Lord's Supper** (1 Corinthians 11:23-25)
@@ -70,7 +70,7 @@ There is a free [Noah's Ark word search](/printables/bible-word-search/noahs-ark
 
 Because Corinth itself was -- and knowing the city unlocks the whole letter. Corinth was a rich, rebuilt Roman port sitting on a narrow land bridge between two seas, famous for its markets, its temples, and its anything-goes reputation. New believers walked into church carrying all of it: status games (chapter 1), lawsuits (chapter 6), meat from idol temples (chapters 8-10), and rich members feasting at the Lord's Supper while poor members went hungry (chapter 11).
 
-That context turns chapter 13 from a greeting card into a thunderclap. "Love is patient, love is kind... it is not proud... it is not self-seeking" (1 Corinthians 13:4-5) is a point-by-point reversal of how the Corinthians were treating each other. A great dinner-table exercise for older kids: read 1 Corinthians 13:4-7 and replace the word "love" with your own name -- then talk about which line stings the most. Paul knew Corinth's games from his own eighteen months there; the story of how the church began is told in [Paul in Corinth](/blog/paul-in-corinth-for-kids).
+That context turns chapter 13 from a greeting card into a thunderclap. "Love Is patient, love is kind... it is not proud... it is not self-seeking" (1 Corinthians 13:4-5) is a point-by-point reversal of how the Corinthians were treating each other. A great dinner-table exercise for older kids: read 1 Corinthians 13:4-7 and replace the word "love" with your own name -- then talk about which line stings the most. Paul knew Corinth's games from his own eighteen months there; the story of how the church began is told in [Paul in Corinth](/blog/paul-in-corinth-for-kids).
 
 ## How to Use These Questions
 

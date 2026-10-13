@@ -3,7 +3,7 @@ title: "The Empty Tomb for Kids: Bible Story Explained Simply"
 slug: "the-empty-tomb-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
-series: "He is Risen"
+series: "He Is Risen"
 seriesSlug: "he-is-risen"
 episode: 01
 scripture: ""
@@ -19,7 +19,7 @@ quizAvailable: true
 
 # The Empty Tomb for Kids: The Bible Story Explained Simply
 
-**Series:** He is Risen (Episode 01 of 10) | **Scripture:** Matthew/Luke/Acts | **Ages 5+**
+**Series:** He Is Risen (Episode 01 of 10) | **Scripture:** Matthew/Luke/Acts | **Ages 5+**
 
 The Empty Tomb is a Bible story from Matthew/Luke/Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
@@ -87,15 +87,15 @@ Use these questions at the dinner table or during bedtime:
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## More Episodes in the He is Risen Series
+## More Episodes in the He Is Risen Series
 
-This story is episode 01 of 10 in the He is Risen series:
+This story is episode 01 of 10 in the He Is Risen series:
 
 - [Mary Sees Jesus for Kids](/blog/mary-sees-jesus-for-kids)
 - [The Road to Emmaus for Kids](/blog/the-road-to-emmaus-for-kids)
 - [Doubting Thomas for Kids](/blog/doubting-thomas-for-kids)
 - [Breakfast on the Beach for Kids](/blog/breakfast-on-the-beach-for-kids)
-- [Peter is Restored for Kids](/blog/peter-is-restored-for-kids)
+- [Peter Is Restored for Kids](/blog/peter-is-restored-for-kids)
 - [The Great Commission for Kids](/blog/the-great-commission-for-kids)
 - [The Ascension for Kids](/blog/the-ascension-for-kids)
 - [Waiting in Jerusalem for Kids](/blog/waiting-in-jerusalem-for-kids)
@@ -122,7 +122,7 @@ This retelling of The Empty Tomb is designed for children Ages 5+. The language 
 
 ### Where is The Empty Tomb found in the Bible?
 
-The Empty Tomb is found in Matthew/Luke/Acts in the New Testament. It is part of the He is Risen series on Faithful Kids.
+The Empty Tomb is found in Matthew/Luke/Acts in the New Testament. It is part of the He Is Risen series on Faithful Kids.
 
 ### Is there a video of The Empty Tomb for kids?
 

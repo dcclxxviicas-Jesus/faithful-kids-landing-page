@@ -84,7 +84,7 @@ The 66 books run from Genesis to Revelation, and they're easiest to learn in gro
 ### Paul's Letters (13 books)
 
 45. **Romans** -- The gospel explained from start to finish.
-46. **1 Corinthians** -- Love is patient, love is kind -- a messy church gets help.
+46. **1 Corinthians** -- Love Is patient, love is kind -- a messy church gets help.
 47. **2 Corinthians** -- God's power shows up best in our weakness.
 48. **Galatians** -- You're saved by faith, not by following rules.
 49. **Ephesians** -- Who you are in Christ -- plus the armor of God.

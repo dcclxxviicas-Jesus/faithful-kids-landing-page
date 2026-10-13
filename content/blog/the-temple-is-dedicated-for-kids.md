@@ -1,5 +1,5 @@
 ---
-title: "The Temple is Dedicated: Bible Story for Kids"
+title: "The Temple Is Dedicated: Bible Story for Kids"
 slug: "the-temple-is-dedicated-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -11,19 +11,19 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of The Temple is Dedicated explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of The Temple Is Dedicated explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, a quiz, and a free video."
 keywords: ["the temple is dedicated for kids", "the temple is dedicated bible story", "the temple is dedicated for children", "the temple is dedicated explained for kids", "the temple is dedicated story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/the-temple-is-dedicated/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# The Temple is Dedicated for Kids: The Bible Story Explained Simply
+# The Temple Is Dedicated for Kids: The Bible Story Explained Simply
 
 **Series:** Solomon and the Kingdom (Episode 04 of 10) | **Scripture:** 1 Kings | **Ages 7+**
 
-The Temple is Dedicated is a Bible story from 1 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+The Temple Is Dedicated is a Bible story from 1 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of The Temple is Dedicated for Kids?
+## What Is the Story of The Temple Is Dedicated for Kids?
 
 SOLOMON & THE KINGDOM — Episode 4: The Temple Is Dedicated Bible Reference: 1 Kings 8 Series: Solomon & the Kingdom
 
@@ -35,9 +35,9 @@ Solomon gathered ALL of Israel. The elders. The tribal leaders. Every head of ev
 
 This story comes from 1 Kings and is part of the Old Testament.
 
-## What Does the Story of The Temple is Dedicated Teach Children?
+## What Does the Story of The Temple Is Dedicated Teach Children?
 
-The story of The Temple is Dedicated teaches children important lessons about wisdom, worship, consequences, choices:
+The story of The Temple Is Dedicated teaches children important lessons about wisdom, worship, consequences, choices:
 
 - **This story teaches children about wisdom in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -79,7 +79,7 @@ The glory cloud proved that God's presence is not a metaphor — it's real and p
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of The Temple is Dedicated?
+1. What was your favorite part of the story of The Temple Is Dedicated?
 2. What do you think God was teaching us through this story?
 3. How can we be more like The in our own lives?
 4. If you were in this story, what would you have done differently?
@@ -90,10 +90,10 @@ Use these questions at the dinner table or during bedtime:
 This story is episode 04 of 10 in the Solomon and the Kingdom series:
 
 - [Solomon Asks for Wisdom for Kids](/blog/solomon-asks-for-wisdom-for-kids)
-- [Solomons Wise Judgment for Kids](/blog/solomons-wise-judgment-for-kids)
+- [Solomon's Wise Judgment for Kids](/blog/solomons-wise-judgment-for-kids)
 - [Building the Temple for Kids](/blog/building-the-temple-for-kids)
 - [The Queen of Sheba for Kids](/blog/the-queen-of-sheba-for-kids)
-- [Solomons Proverbs for Kids](/blog/solomons-proverbs-for-kids)
+- [Solomon's Proverbs for Kids](/blog/solomons-proverbs-for-kids)
 - [Solomon Turns Away for Kids](/blog/solomon-turns-away-for-kids)
 - [The Kingdom Splits for Kids](/blog/the-kingdom-splits-for-kids)
 - [Good Kings and Bad Kings for Kids](/blog/good-kings-and-bad-kings-for-kids)
@@ -108,26 +108,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of The Temple is Dedicated about for kids?
+### What is the story of The Temple Is Dedicated about for kids?
 
-The Temple is Dedicated is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 4: The Temple Is Dedicated Bible Reference: 1 Kings 8 Series: Solomon & the Kingdom
+The Temple Is Dedicated is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 4: The Temple Is Dedicated Bible Reference: 1 Kings 8 Series: Solomon & the Kingdom
 
-### What age is the story of The Temple is Dedicated appropriate for?
+### What age is the story of The Temple Is Dedicated appropriate for?
 
-This retelling of The Temple is Dedicated is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of The Temple Is Dedicated is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is The Temple is Dedicated found in the Bible?
+### Where is The Temple Is Dedicated found in the Bible?
 
-The Temple is Dedicated is found in 1 Kings in the Old Testament. It is part of the Solomon and the Kingdom series on Faithful Kids.
+The Temple Is Dedicated is found in 1 Kings in the Old Testament. It is part of the Solomon and the Kingdom series on Faithful Kids.
 
-### Is there a video of The Temple is Dedicated for kids?
+### Is there a video of The Temple Is Dedicated for kids?
 
-Yes. Faithful Kids has a short video retelling of The Temple is Dedicated designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of The Temple Is Dedicated designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use The Temple is Dedicated for Sunday School or homeschool?
+### How can I use The Temple Is Dedicated for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does The Temple is Dedicated teach kids?
+### What does The Temple Is Dedicated teach kids?
 
-The story of The Temple is Dedicated teaches children about wisdom, worship, consequences, choices. This story teaches children about wisdom in a way they can understand.
+The story of The Temple Is Dedicated teaches children about wisdom, worship, consequences, choices. This story teaches children about wisdom in a way they can understand.

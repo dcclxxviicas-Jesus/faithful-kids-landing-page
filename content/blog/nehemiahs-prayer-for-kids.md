@@ -1,5 +1,5 @@
 ---
-title: "Nehemiahs Prayer for Kids: Bible Story Explained Simply"
+title: "Nehemiah's Prayer for Kids: Bible Story Explained Simply"
 slug: "nehemiahs-prayer-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -11,19 +11,19 @@ testament: "Old Testament"
 book: "Ezra/Nehemiah/Esther"
 age: "Ages 7+"
 themes: "rebuilding, courage, God's faithfulness, prayer"
-metaDescription: "Learn the story of Nehemiahs Prayer explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of Nehemiah's Prayer explained for kids ages 5+. Simple retelling from Ezra/Nehemiah/Esther, with key lessons, a quiz, and a free video."
 keywords: ["nehemiahs prayer for kids", "nehemiahs prayer bible story", "nehemiahs prayer for children", "nehemiahs prayer explained for kids", "nehemiahs prayer story for kids", "bible stories for kids", "the return home for kids", "kids bible", "ezra/nehemiah/esther for kids"]
 videoUrl: "/videos/the-return-home/nehemiahs-prayer/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Nehemiahs Prayer for Kids: The Bible Story Explained Simply
+# Nehemiah's Prayer for Kids: The Bible Story Explained Simply
 
 **Series:** The Return Home (Episode 04 of 10) | **Scripture:** Ezra/Nehemiah/Esther | **Ages 7+**
 
-Nehemiahs Prayer is a Bible story from Ezra/Nehemiah/Esther in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Nehemiah's Prayer is a Bible story from Ezra/Nehemiah/Esther in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Nehemiahs Prayer for Kids?
+## What Is the Story of Nehemiah's Prayer for Kids?
 
 TITLE: Nehemiah's Prayer SERIES: The Return Home — Episode 4 SCRIPTURE: Nehemiah 1–2
 
@@ -35,9 +35,9 @@ Here's the setup. Nehemiah was living in Persia, working as the personal cupbear
 
 This story comes from Ezra/Nehemiah/Esther and is part of the Old Testament.
 
-## What Does the Story of Nehemiahs Prayer Teach Children?
+## What Does the Story of Nehemiah's Prayer Teach Children?
 
-The story of Nehemiahs Prayer teaches children important lessons about rebuilding, courage, God's faithfulness, prayer:
+The story of Nehemiah's Prayer teaches children important lessons about rebuilding, courage, God's faithfulness, prayer:
 
 - **This story teaches children about rebuilding in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -79,9 +79,9 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Nehemiahs Prayer?
+1. What was your favorite part of the story of Nehemiah's Prayer?
 2. What do you think God was teaching us through this story?
-3. How can we be more like Nehemiahs in our own lives?
+3. How can we be more like Nehemiah's in our own lives?
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
@@ -93,7 +93,7 @@ This story is episode 04 of 10 in the The Return Home series:
 - [Rebuilding the Temple for Kids](/blog/rebuilding-the-temple-for-kids)
 - [Ezra Reads the Law for Kids](/blog/ezra-reads-the-law-for-kids)
 - [Rebuilding the Walls for Kids](/blog/rebuilding-the-walls-for-kids)
-- [The Wall is Finished for Kids](/blog/the-wall-is-finished-for-kids)
+- [The Wall Is Finished for Kids](/blog/the-wall-is-finished-for-kids)
 - [Esther Becomes Queen for Kids](/blog/esther-becomes-queen-for-kids)
 - [Hamans Evil Plot for Kids](/blog/hamans-evil-plot-for-kids)
 - [Esther Saves Her People for Kids](/blog/esther-saves-her-people-for-kids)
@@ -108,26 +108,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Nehemiahs Prayer about for kids?
+### What is the story of Nehemiah's Prayer about for kids?
 
-Nehemiahs Prayer is a story from Ezra/Nehemiah/Esther. TITLE: Nehemiah's Prayer SERIES: The Return Home — Episode 4 SCRIPTURE: Nehemiah 1–2
+Nehemiah's Prayer is a story from Ezra/Nehemiah/Esther. TITLE: Nehemiah's Prayer SERIES: The Return Home — Episode 4 SCRIPTURE: Nehemiah 1–2
 
-### What age is the story of Nehemiahs Prayer appropriate for?
+### What age is the story of Nehemiah's Prayer appropriate for?
 
-This retelling of Nehemiahs Prayer is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Nehemiah's Prayer is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Nehemiahs Prayer found in the Bible?
+### Where is Nehemiah's Prayer found in the Bible?
 
-Nehemiahs Prayer is found in Ezra/Nehemiah/Esther in the Old Testament. It is part of the The Return Home series on Faithful Kids.
+Nehemiah's Prayer is found in Ezra/Nehemiah/Esther in the Old Testament. It is part of the The Return Home series on Faithful Kids.
 
-### Is there a video of Nehemiahs Prayer for kids?
+### Is there a video of Nehemiah's Prayer for kids?
 
-Yes. Faithful Kids has a short video retelling of Nehemiahs Prayer designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Nehemiah's Prayer designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Nehemiahs Prayer for Sunday School or homeschool?
+### How can I use Nehemiah's Prayer for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Nehemiahs Prayer teach kids?
+### What does Nehemiah's Prayer teach kids?
 
-The story of Nehemiahs Prayer teaches children about rebuilding, courage, God's faithfulness, prayer. This story teaches children about rebuilding in a way they can understand.
+The story of Nehemiah's Prayer teaches children about rebuilding, courage, God's faithfulness, prayer. This story teaches children about rebuilding in a way they can understand.

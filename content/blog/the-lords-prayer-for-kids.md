@@ -1,5 +1,5 @@
 ---
-title: "The Lords Prayer for Kids: Bible Story Explained Simply"
+title: "The Lord's Prayer for Kids: Bible Story Explained Simply"
 slug: "the-lords-prayer-for-kids"
 series: "Teachings of Jesus"
 seriesSlug: "teachings-of-jesus"
@@ -9,19 +9,19 @@ testament: "New Testament"
 book: "Matthew/Luke"
 age: "Ages 5+"
 themes: "love, kindness, forgiveness, prayer, wisdom"
-metaDescription: "Learn the story of The Lords Prayer explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of The Lord's Prayer explained for kids ages 5+. Simple retelling from Matthew/Luke, with key lessons, a quiz, and a free video."
 keywords: ["the lords prayer for kids", "the lords prayer bible story", "the lords prayer for children", "the lords prayer explained for kids", "the lords prayer story for kids", "bible stories for kids", "teachings of jesus for kids", "kids bible", "matthew/luke for kids"]
 videoUrl: "/videos/teachings-of-jesus/the-lords-prayer/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# The Lords Prayer for Kids: The Bible Story Explained Simply
+# The Lord's Prayer for Kids: The Bible Story Explained Simply
 
 **Series:** Teachings of Jesus (Episode 03 of 10) | **Scripture:** Matthew/Luke | **Ages 5+**
 
-The Lords Prayer is a Bible story from Matthew/Luke in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+The Lord's Prayer is a Bible story from Matthew/Luke in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of The Lords Prayer for Kids?
+## What Is the Story of The Lord's Prayer for Kids?
 
 THE TEACHINGS OF JESUS — Episode 3 "The Lord's Prayer" Based on Matthew 6:9-13
 
@@ -33,9 +33,9 @@ So I gave them a prayer. But here's what I need you to understand — I didn't g
 
 This story comes from Matthew/Luke and is part of the New Testament.
 
-## What Does the Story of The Lords Prayer Teach Children?
+## What Does the Story of The Lord's Prayer Teach Children?
 
-The story of The Lords Prayer teaches children important lessons about love, kindness, forgiveness, prayer, wisdom:
+The story of The Lord's Prayer teaches children important lessons about love, kindness, forgiveness, prayer, wisdom:
 
 - **This story teaches children about love in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -78,7 +78,7 @@ Jesus tied these together on purpose. When you ask God to forgive you, you're al
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of The Lords Prayer?
+1. What was your favorite part of the story of The Lord's Prayer?
 2. What do you think God was teaching us through this story?
 3. How can we be more like The in our own lives?
 4. If you were in this story, what would you have done differently?
@@ -107,26 +107,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of The Lords Prayer about for kids?
+### What is the story of The Lord's Prayer about for kids?
 
-The Lords Prayer is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 3 "The Lord's Prayer" Based on Matthew 6:9-13
+The Lord's Prayer is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 3 "The Lord's Prayer" Based on Matthew 6:9-13
 
-### What age is the story of The Lords Prayer appropriate for?
+### What age is the story of The Lord's Prayer appropriate for?
 
-This retelling of The Lords Prayer is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of The Lord's Prayer is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is The Lords Prayer found in the Bible?
+### Where is The Lord's Prayer found in the Bible?
 
-The Lords Prayer is found in Matthew/Luke in the New Testament. It is part of the Teachings of Jesus series on Faithful Kids.
+The Lord's Prayer is found in Matthew/Luke in the New Testament. It is part of the Teachings of Jesus series on Faithful Kids.
 
-### Is there a video of The Lords Prayer for kids?
+### Is there a video of The Lord's Prayer for kids?
 
-Yes. Faithful Kids has a short video retelling of The Lords Prayer designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of The Lord's Prayer designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use The Lords Prayer for Sunday School or homeschool?
+### How can I use The Lord's Prayer for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does The Lords Prayer teach kids?
+### What does The Lord's Prayer teach kids?
 
-The story of The Lords Prayer teaches children about love, kindness, forgiveness, prayer, wisdom. This story teaches children about love in a way they can understand.
+The story of The Lord's Prayer teaches children about love, kindness, forgiveness, prayer, wisdom. This story teaches children about love in a way they can understand.

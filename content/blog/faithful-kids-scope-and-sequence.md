@@ -100,7 +100,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 7 | [Manna From Heaven](/blog/manna-from-heaven-for-kids) | Exodus 1-40 | 3 |
 | 8 | [The Ten Commandments](/blog/the-ten-commandments-for-kids) | Exodus 1-40 | 3 |
 | 9 | [The Golden Calf](/blog/the-golden-calf-for-kids) | Exodus 1-40 | 3 |
-| 10 | [Gods Presence](/blog/gods-presence-for-kids) | Exodus 1-40 | 3 |
+| 10 | [God's Presence](/blog/gods-presence-for-kids) | Exodus 1-40 | 3 |
 
 ### The Promised Land
 *Joshua 1-24* — 10 lessons
@@ -126,12 +126,12 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 1 | [The Cycle Begins](/blog/the-cycle-begins-for-kids) | Judges & Ruth | 3 |
 | 2 | [Deborah a Brave Leader](/blog/deborah-a-brave-leader-for-kids) | Judges & Ruth | 3 |
 | 3 | [Gideon the Unlikely Hero](/blog/gideon-the-unlikely-hero-for-kids) | Judges & Ruth | 3 |
-| 4 | [Gideons 300](/blog/gideons-300-for-kids) | Judges & Ruth | 3 |
+| 4 | [Gideon's 300](/blog/gideons-300-for-kids) | Judges & Ruth | 3 |
 | 5 | [Samson Strongest Man Alive](/blog/samson-strongest-man-alive-for-kids) | Judges & Ruth | 3 |
-| 6 | [Samsons Fall and Final Stand](/blog/samsons-fall-and-final-stand-for-kids) | Judges & Ruth | 3 |
+| 6 | [Samson's Fall and Final Stand](/blog/samsons-fall-and-final-stand-for-kids) | Judges & Ruth | 3 |
 | 7 | [Ruth a Story of Loyalty](/blog/ruth-a-story-of-loyalty-for-kids) | Judges & Ruth | 3 |
 | 8 | [Ruth and Boaz](/blog/ruth-and-boaz-for-kids) | Judges & Ruth | 3 |
-| 9 | [Hannahs Prayer](/blog/hannahs-prayer-for-kids) | Judges & Ruth | 3 |
+| 9 | [Hannah's Prayer](/blog/hannahs-prayer-for-kids) | Judges & Ruth | 3 |
 | 10 | [God Calls Samuel](/blog/god-calls-samuel-for-kids) | Judges & Ruth | 3 |
 
 ### Rise of Kings
@@ -141,7 +141,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 |---|---|---|---|
 | 1 | [Israel Wants a King](/blog/israel-wants-a-king-for-kids) | 1 Samuel | 5 |
 | 2 | [Saul the First King](/blog/saul-the-first-king-for-kids) | 1 Samuel | 5 |
-| 3 | [Sauls Disobedience](/blog/sauls-disobedience-for-kids) | 1 Samuel | 5 |
+| 3 | [Saul's Disobedience](/blog/sauls-disobedience-for-kids) | 1 Samuel | 5 |
 | 4 | [God Chooses David](/blog/god-chooses-david-for-kids) | 1 Samuel | 5 |
 | 5 | [David and Goliath](/blog/david-and-goliath-for-kids) | 1 Samuel | 5 |
 | 6 | [David and Jonathan](/blog/david-and-jonathan-for-kids) | 1 Samuel | 5 |
@@ -156,15 +156,15 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
 | 1 | [Dancing Before the Lord](/blog/dancing-before-the-lord-for-kids) | 2 Samuel & 1 Chronicles | 7 |
-| 2 | [Gods Promise to David](/blog/gods-promise-to-david-for-kids) | 2 Samuel & 1 Chronicles | 7 |
+| 2 | [God's Promise to David](/blog/gods-promise-to-david-for-kids) | 2 Samuel & 1 Chronicles | 7 |
 | 3 | [David and Mephibosheth](/blog/david-and-mephibosheth-for-kids) | 2 Samuel & 1 Chronicles | 7 |
-| 4 | [Davids Big Mistake](/blog/davids-big-mistake-for-kids) | 2 Samuel & 1 Chronicles | 7 |
-| 5 | [The Shepherds Song](/blog/the-shepherds-song-for-kids) | 2 Samuel & 1 Chronicles | 7 |
+| 4 | [David's Big Mistake](/blog/davids-big-mistake-for-kids) | 2 Samuel & 1 Chronicles | 7 |
+| 5 | [The Shepherd's Song](/blog/the-shepherds-song-for-kids) | 2 Samuel & 1 Chronicles | 7 |
 | 6 | [Songs of Praise](/blog/songs-of-praise-for-kids) | 2 Samuel & 1 Chronicles | 5 |
-| 7 | [Absaloms Rebellion](/blog/absaloms-rebellion-for-kids) | 2 Samuel & 1 Chronicles | 5 |
-| 8 | [Davids Repentance](/blog/davids-repentance-for-kids) | 2 Samuel & 1 Chronicles | 5 |
-| 9 | [Solomon is Chosen](/blog/solomon-is-chosen-for-kids) | 2 Samuel & 1 Chronicles | 5 |
-| 10 | [Davids Final Words](/blog/davids-final-words-for-kids) | 2 Samuel & 1 Chronicles | 5 |
+| 7 | [Absalom's Rebellion](/blog/absaloms-rebellion-for-kids) | 2 Samuel & 1 Chronicles | 5 |
+| 8 | [David's Repentance](/blog/davids-repentance-for-kids) | 2 Samuel & 1 Chronicles | 5 |
+| 9 | [Solomon Is Chosen](/blog/solomon-is-chosen-for-kids) | 2 Samuel & 1 Chronicles | 5 |
+| 10 | [David's Final Words](/blog/davids-final-words-for-kids) | 2 Samuel & 1 Chronicles | 5 |
 
 ### Solomon and the Kingdom
 *1 Kings 1-12* — 10 lessons
@@ -172,11 +172,11 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
 | 1 | [Solomon Asks for Wisdom](/blog/solomon-asks-for-wisdom-for-kids) | 1 Kings 1-12 | 1 |
-| 2 | [Solomons Wise Judgment](/blog/solomons-wise-judgment-for-kids) | 1 Kings 1-12 | 1 |
+| 2 | [Solomon's Wise Judgment](/blog/solomons-wise-judgment-for-kids) | 1 Kings 1-12 | 1 |
 | 3 | [Building the Temple](/blog/building-the-temple-for-kids) | 1 Kings 1-12 | 1 |
-| 4 | [The Temple is Dedicated](/blog/the-temple-is-dedicated-for-kids) | 1 Kings 1-12 | 1 |
+| 4 | [The Temple Is Dedicated](/blog/the-temple-is-dedicated-for-kids) | 1 Kings 1-12 | 1 |
 | 5 | [The Queen of Sheba](/blog/the-queen-of-sheba-for-kids) | 1 Kings 1-12 | 1 |
-| 6 | [Solomons Proverbs](/blog/solomons-proverbs-for-kids) | 1 Kings 1-12 | 3 |
+| 6 | [Solomon's Proverbs](/blog/solomons-proverbs-for-kids) | 1 Kings 1-12 | 3 |
 | 7 | [Solomon Turns Away](/blog/solomon-turns-away-for-kids) | 1 Kings 1-12 | 3 |
 | 8 | [The Kingdom Splits](/blog/the-kingdom-splits-for-kids) | 1 Kings 1-12 | 3 |
 | 9 | [Good Kings and Bad Kings](/blog/good-kings-and-bad-kings-for-kids) | 1 Kings 1-12 | 3 |
@@ -188,10 +188,10 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
 | 1 | [Elijah and the Ravens](/blog/elijah-and-the-ravens-for-kids) | 1 Kings 17 - 2 Kings 13 | 8 |
-| 2 | [The Widows Oil](/blog/the-widows-oil-for-kids) | 1 Kings 17 - 2 Kings 13 | 8 |
+| 2 | [The Widow's Oil](/blog/the-widows-oil-for-kids) | 1 Kings 17 - 2 Kings 13 | 8 |
 | 3 | [Fire From Heaven](/blog/fire-from-heaven-for-kids) | 1 Kings 17 - 2 Kings 13 | 8 |
 | 4 | [The Still Small Voice](/blog/the-still-small-voice-for-kids) | 1 Kings 17 - 2 Kings 13 | 8 |
-| 5 | [Naboths Vineyard](/blog/naboths-vineyard-for-kids) | 1 Kings 17 - 2 Kings 13 | 8 |
+| 5 | [Naboth's Vineyard](/blog/naboths-vineyard-for-kids) | 1 Kings 17 - 2 Kings 13 | 8 |
 | 6 | [Elijah Taken to Heaven](/blog/elijah-taken-to-heaven-for-kids) | 1 Kings 17 - 2 Kings 13 | 1 |
 | 7 | [Elisha Double Portion](/blog/elisha-double-portion-for-kids) | 1 Kings 17 - 2 Kings 13 | 1 |
 | 8 | [The Room on the Roof](/blog/the-room-on-the-roof-for-kids) | 1 Kings 17 - 2 Kings 13 | 1 |
@@ -204,15 +204,15 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
 | 1 | [Judah Falls to Babylon](/blog/judah-falls-to-babylon-for-kids) | Daniel, Esther & Ezekiel | 5 |
-| 2 | [Daniels Resolve](/blog/daniels-resolve-for-kids) | Daniel, Esther & Ezekiel | 5 |
-| 3 | [Nebuchadnezzars Dream](/blog/nebuchadnezzars-dream-for-kids) | Daniel, Esther & Ezekiel | 5 |
+| 2 | [Daniel's Resolve](/blog/daniels-resolve-for-kids) | Daniel, Esther & Ezekiel | 5 |
+| 3 | [Nebuchadnezzar's Dream](/blog/nebuchadnezzars-dream-for-kids) | Daniel, Esther & Ezekiel | 5 |
 | 4 | [The Fiery Furnace](/blog/the-fiery-furnace-for-kids) | Daniel, Esther & Ezekiel | 5 |
 | 5 | [The Writing on the Wall](/blog/the-writing-on-the-wall-for-kids) | Daniel, Esther & Ezekiel | 5 |
-| 6 | [Daniel in the Lions Den](/blog/daniel-in-the-lions-den-for-kids) | Daniel, Esther & Ezekiel | 3 |
+| 6 | [Daniel in the Lions' Den](/blog/daniel-in-the-lions-den-for-kids) | Daniel, Esther & Ezekiel | 3 |
 | 7 | [Valley of Dry Bones](/blog/valley-of-dry-bones-for-kids) | Daniel, Esther & Ezekiel | 3 |
 | 8 | [Jonah Running From God](/blog/jonah-running-from-god-for-kids) | Daniel, Esther & Ezekiel | 3 |
 | 9 | [Jonah the Lesson](/blog/jonah-the-lesson-for-kids) | Daniel, Esther & Ezekiel | 3 |
-| 10 | [Isaiahs Promise](/blog/isaiahs-promise-for-kids) | Daniel, Esther & Ezekiel | 3 |
+| 10 | [Isaiah's Promise](/blog/isaiahs-promise-for-kids) | Daniel, Esther & Ezekiel | 3 |
 
 ### The Return Home
 *Ezra, Nehemiah & Malachi* — 10 lessons
@@ -222,9 +222,9 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 1 | [Cyrus Sets Them Free](/blog/cyrus-sets-them-free-for-kids) | Ezra, Nehemiah & Malachi | 5 |
 | 2 | [Rebuilding the Temple](/blog/rebuilding-the-temple-for-kids) | Ezra, Nehemiah & Malachi | 5 |
 | 3 | [Ezra Reads the Law](/blog/ezra-reads-the-law-for-kids) | Ezra, Nehemiah & Malachi | 5 |
-| 4 | [Nehemiahs Prayer](/blog/nehemiahs-prayer-for-kids) | Ezra, Nehemiah & Malachi | 5 |
+| 4 | [Nehemiah's Prayer](/blog/nehemiahs-prayer-for-kids) | Ezra, Nehemiah & Malachi | 5 |
 | 5 | [Rebuilding the Walls](/blog/rebuilding-the-walls-for-kids) | Ezra, Nehemiah & Malachi | 5 |
-| 6 | [The Wall is Finished](/blog/the-wall-is-finished-for-kids) | Ezra, Nehemiah & Malachi | 5 |
+| 6 | [The Wall Is Finished](/blog/the-wall-is-finished-for-kids) | Ezra, Nehemiah & Malachi | 5 |
 | 7 | [Esther Becomes Queen](/blog/esther-becomes-queen-for-kids) | Ezra, Nehemiah & Malachi | 5 |
 | 8 | [Hamans Evil Plot](/blog/hamans-evil-plot-for-kids) | Ezra, Nehemiah & Malachi | 5 |
 | 9 | [Esther Saves Her People](/blog/esther-saves-her-people-for-kids) | Ezra, Nehemiah & Malachi | 5 |
@@ -271,7 +271,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 |---|---|---|---|
 | 1 | [The Sermon on the Mount](/blog/the-sermon-on-the-mount-for-kids) | The Gospels | 5 |
 | 2 | [The Beatitudes](/blog/the-beatitudes-for-kids) | The Gospels | 5 |
-| 3 | [The Lords Prayer](/blog/the-lords-prayer-for-kids) | The Gospels | 5 |
+| 3 | [The Lord's Prayer](/blog/the-lords-prayer-for-kids) | The Gospels | 5 |
 | 4 | [The Good Samaritan](/blog/the-good-samaritan-for-kids) | The Gospels | 5 |
 | 5 | [The Prodigal Son](/blog/the-prodigal-son-for-kids) | The Gospels | 5 |
 | 6 | [The Sower and the Seeds](/blog/the-sower-and-the-seeds-for-kids) | The Gospels | 3 |
@@ -292,7 +292,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 5 | [The Raising of Lazarus](/blog/the-raising-of-lazarus-for-kids) | The Gospels | 5 |
 | 6 | [Ten Lepers Healed](/blog/ten-lepers-healed-for-kids) | The Gospels | 5 |
 | 7 | [The Demon Possessed Man](/blog/the-demon-possessed-man-for-kids) | The Gospels | 5 |
-| 8 | [Jairus Daughter](/blog/jairus-daughter-for-kids) | The Gospels | 5 |
+| 8 | [Jairus' Daughter](/blog/jairus-daughter-for-kids) | The Gospels | 5 |
 | 9 | [The Withered Hand](/blog/the-withered-hand-for-kids) | The Gospels | 5 |
 | 10 | [The Great Catch of Fish](/blog/the-great-catch-of-fish-for-kids) | The Gospels | 5 |
 
@@ -309,7 +309,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 6 | [The Trial](/blog/the-trial-for-kids) | Matthew 21-27, Mark 11-15, Luke 19-23, John 12-19 | 6 |
 | 7 | [Peter Denies Jesus](/blog/peter-denies-jesus-for-kids) | Matthew 21-27, Mark 11-15, Luke 19-23, John 12-19 | 6 |
 | 8 | [The Cross](/blog/the-cross-for-kids) | Matthew 21-27, Mark 11-15, Luke 19-23, John 12-19 | 6 |
-| 9 | [It is Finished](/blog/it-is-finished-for-kids) | Matthew 21-27, Mark 11-15, Luke 19-23, John 12-19 | 6 |
+| 9 | [It Is Finished](/blog/it-is-finished-for-kids) | Matthew 21-27, Mark 11-15, Luke 19-23, John 12-19 | 6 |
 | 10 | [The Burial](/blog/the-burial-for-kids) | Matthew 21-27, Mark 11-15, Luke 19-23, John 12-19 | 6 |
 
 ### He Is Risen!
@@ -322,7 +322,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 3 | [The Road to Emmaus](/blog/the-road-to-emmaus-for-kids) | Matthew 28, Mark 16, Luke 24, John 20-21 | 1 |
 | 4 | [Doubting Thomas](/blog/doubting-thomas-for-kids) | Matthew 28, Mark 16, Luke 24, John 20-21 | 1 |
 | 5 | [Breakfast on the Beach](/blog/breakfast-on-the-beach-for-kids) | Matthew 28, Mark 16, Luke 24, John 20-21 | 1 |
-| 6 | [Peter is Restored](/blog/peter-is-restored-for-kids) | Matthew 28, Mark 16, Luke 24, John 20-21 | 1 |
+| 6 | [Peter Is Restored](/blog/peter-is-restored-for-kids) | Matthew 28, Mark 16, Luke 24, John 20-21 | 1 |
 | 7 | [The Great Commission](/blog/the-great-commission-for-kids) | Matthew 28, Mark 16, Luke 24, John 20-21 | 1 |
 | 8 | [The Ascension](/blog/the-ascension-for-kids) | Matthew 28, Mark 16, Luke 24, John 20-21 | 1 |
 | 9 | [Waiting in Jerusalem](/blog/waiting-in-jerusalem-for-kids) | Matthew 28, Mark 16, Luke 24, John 20-21 | 1 |
@@ -333,7 +333,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
-| 1 | [The Church is Born](/blog/the-church-is-born-for-kids) | Acts 1-12 | 6 |
+| 1 | [The Church Is Born](/blog/the-church-is-born-for-kids) | Acts 1-12 | 6 |
 | 2 | [Peter Heals the Lame Man](/blog/peter-heals-the-lame-man-for-kids) | Acts 1-12 | 6 |
 | 3 | [Ananias and Sapphira](/blog/ananias-and-sapphira-for-kids) | Acts 1-12 | 6 |
 | 4 | [Stephen the First Martyr](/blog/stephen-the-first-martyr-for-kids) | Acts 1-12 | 6 |
@@ -349,16 +349,16 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
-| 1 | [Pauls First Journey](/blog/pauls-first-journey-for-kids) | Acts 13-28 | 3 |
+| 1 | [Paul's First Journey](/blog/pauls-first-journey-for-kids) | Acts 13-28 | 3 |
 | 2 | [Paul and Barnabas Split](/blog/paul-and-barnabas-split-for-kids) | Acts 13-28 | 3 |
 | 3 | [Paul and Silas in Prison](/blog/paul-and-silas-in-prison-for-kids) | Acts 13-28 | 3 |
 | 4 | [Paul in Athens](/blog/paul-in-athens-for-kids) | Acts 13-28 | 3 |
 | 5 | [Paul in Corinth](/blog/paul-in-corinth-for-kids) | Acts 13-28 | 3 |
 | 6 | [The Riot in Ephesus](/blog/the-riot-in-ephesus-for-kids) | Acts 13-28 | 6 |
-| 7 | [Pauls Farewell](/blog/pauls-farewell-for-kids) | Acts 13-28 | 6 |
+| 7 | [Paul's Farewell](/blog/pauls-farewell-for-kids) | Acts 13-28 | 6 |
 | 8 | [Shipwrecked](/blog/shipwrecked-for-kids) | Acts 13-28 | 6 |
 | 9 | [Paul in Rome](/blog/paul-in-rome-for-kids) | Acts 13-28 | 6 |
-| 10 | [Pauls Legacy](/blog/pauls-legacy-for-kids) | Acts 13-28 | 6 |
+| 10 | [Paul's Legacy](/blog/pauls-legacy-for-kids) | Acts 13-28 | 6 |
 
 ### Letters to Churches
 *Romans - Jude* — 10 lessons
@@ -368,7 +368,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 1 | [The Gospel Explained](/blog/the-gospel-explained-for-kids) | Romans - Jude | 5 |
 | 2 | [More Than Conquerors](/blog/more-than-conquerors-for-kids) | Romans - Jude | 5 |
 | 3 | [The Armor of God](/blog/the-armor-of-god-for-kids) | Romans - Jude | 5 |
-| 4 | [Love is](/blog/love-is-for-kids) | Romans - Jude | 5 |
+| 4 | [Love Is](/blog/love-is-for-kids) | Romans - Jude | 5 |
 | 5 | [Faith Hope and Love](/blog/faith-hope-and-love-for-kids) | Romans - Jude | 5 |
 | 6 | [The Fruit of the Spirit](/blog/the-fruit-of-the-spirit-for-kids) | Romans - Jude | 3 |
 | 7 | [Running the Race](/blog/running-the-race-for-kids) | Romans - Jude | 3 |

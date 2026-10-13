@@ -80,7 +80,7 @@ Use these questions at the dinner table or during bedtime:
 
 This story is episode 08 of 10 in the Early Church series:
 
-- [The Church is Born for Kids](/blog/the-church-is-born-for-kids)
+- [The Church Is Born for Kids](/blog/the-church-is-born-for-kids)
 - [Peter Heals the Lame Man for Kids](/blog/peter-heals-the-lame-man-for-kids)
 - [Ananias and Sapphira for Kids](/blog/ananias-and-sapphira-for-kids)
 - [Stephen the First Martyr for Kids](/blog/stephen-the-first-martyr-for-kids)

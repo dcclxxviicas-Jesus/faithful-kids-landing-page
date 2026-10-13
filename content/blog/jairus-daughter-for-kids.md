@@ -1,5 +1,5 @@
 ---
-title: "Jairus Daughter for Kids: Bible Story Explained Simply"
+title: "Jairus' Daughter for Kids: Bible Story Explained Simply"
 slug: "jairus-daughter-for-kids"
 series: "Miracles of Jesus"
 seriesSlug: "miracles-of-jesus"
@@ -9,19 +9,19 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 5+"
 themes: "faith, God's power, compassion, trust"
-metaDescription: "Learn the story of Jairus Daughter explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of Jairus' Daughter explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["jairus daughter for kids", "jairus daughter bible story", "jairus daughter for children", "jairus daughter explained for kids", "jairus daughter story for kids", "bible stories for kids", "miracles of jesus for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/miracles-of-jesus/jairus-daughter/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Jairus Daughter for Kids: The Bible Story Explained Simply
+# Jairus' Daughter for Kids: The Bible Story Explained Simply
 
 **Series:** Miracles of Jesus (Episode 08 of 10) | **Scripture:** Matthew/Mark/Luke/John | **Ages 5+**
 
-Jairus Daughter is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Jairus' Daughter is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Jairus Daughter for Kids?
+## What Is the Story of Jairus' Daughter for Kids?
 
 MIRACLES OF JESUS — Episode 8: Jairus's Daughter Based on Mark 5:21-43
 
@@ -33,9 +33,9 @@ A man named Jairus pushed through a massive crowd to get to me. And this wasn't 
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
-## What Does the Story of Jairus Daughter Teach Children?
+## What Does the Story of Jairus' Daughter Teach Children?
 
-The story of Jairus Daughter teaches children important lessons about faith, God's power, compassion, trust:
+The story of Jairus' Daughter teaches children important lessons about faith, God's power, compassion, trust:
 
 - **This story teaches children about faith in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -78,7 +78,7 @@ Jesus took her hand and said "Talitha koum," which means "Little girl, I say to 
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Jairus Daughter?
+1. What was your favorite part of the story of Jairus' Daughter?
 2. What do you think God was teaching us through this story?
 3. How can we be more like Jairus in our own lives?
 4. If you were in this story, what would you have done differently?
@@ -107,26 +107,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Jairus Daughter about for kids?
+### What is the story of Jairus' Daughter about for kids?
 
-Jairus Daughter is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 8: Jairus's Daughter Based on Mark 5:21-43
+Jairus' Daughter is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 8: Jairus's Daughter Based on Mark 5:21-43
 
-### What age is the story of Jairus Daughter appropriate for?
+### What age is the story of Jairus' Daughter appropriate for?
 
-This retelling of Jairus Daughter is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Jairus' Daughter is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Jairus Daughter found in the Bible?
+### Where is Jairus' Daughter found in the Bible?
 
-Jairus Daughter is found in Matthew/Mark/Luke/John in the New Testament. It is part of the Miracles of Jesus series on Faithful Kids.
+Jairus' Daughter is found in Matthew/Mark/Luke/John in the New Testament. It is part of the Miracles of Jesus series on Faithful Kids.
 
-### Is there a video of Jairus Daughter for kids?
+### Is there a video of Jairus' Daughter for kids?
 
-Yes. Faithful Kids has a short video retelling of Jairus Daughter designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Jairus' Daughter designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Jairus Daughter for Sunday School or homeschool?
+### How can I use Jairus' Daughter for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Jairus Daughter teach kids?
+### What does Jairus' Daughter teach kids?
 
-The story of Jairus Daughter teaches children about faith, God's power, compassion, trust. This story teaches children about faith in a way they can understand.
+The story of Jairus' Daughter teaches children about faith, God's power, compassion, trust. This story teaches children about faith in a way they can understand.

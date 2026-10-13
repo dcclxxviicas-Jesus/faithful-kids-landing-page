@@ -21,7 +21,7 @@ quizAvailable: true
 
 **Series:** Letters to Churches (Episode 05 of 10) | **Scripture:** Romans/Corinthians/Ephesians | **Ages 7+**
 
-Faith Hope and Love is a Bible story from Romans/Corinthians/Ephesians in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Faith Hope and Love Is a Bible story from Romans/Corinthians/Ephesians in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
 ## What Is the Story of Faith Hope and Love for Kids?
 
@@ -94,7 +94,7 @@ This story is episode 05 of 10 in the Letters to Churches series:
 - [The Gospel Explained for Kids](/blog/the-gospel-explained-for-kids)
 - [More Than Conquerors for Kids](/blog/more-than-conquerors-for-kids)
 - [The Armor of God for Kids](/blog/the-armor-of-god-for-kids)
-- [Love is for Kids](/blog/love-is-for-kids)
+- [Love Is for Kids](/blog/love-is-for-kids)
 - [The Fruit of the Spirit for Kids](/blog/the-fruit-of-the-spirit-for-kids)
 - [Running the Race for Kids](/blog/running-the-race-for-kids)
 - [Joy in All Things for Kids](/blog/joy-in-all-things-for-kids)
@@ -112,15 +112,15 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Faith Hope and Love about for kids?
 
-Faith Hope and Love is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 5 "Faith, Hope, and Love" Based on 1 Corinthians 13:13 and Hebrews 11:1 Jesus Narrates
+Faith Hope and Love Is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 5 "Faith, Hope, and Love" Based on 1 Corinthians 13:13 and Hebrews 11:1 Jesus Narrates
 
 ### What age is the story of Faith Hope and Love appropriate for?
 
-This retelling of Faith Hope and Love is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Faith Hope and Love Is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
 ### Where is Faith Hope and Love found in the Bible?
 
-Faith Hope and Love is found in Romans/Corinthians/Ephesians in the New Testament. It is part of the Letters to Churches series on Faithful Kids.
+Faith Hope and Love Is found in Romans/Corinthians/Ephesians in the New Testament. It is part of the Letters to Churches series on Faithful Kids.
 
 ### Is there a video of Faith Hope and Love for kids?
 

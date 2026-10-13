@@ -3,7 +3,7 @@ title: "The Riot in Ephesus for Kids: Bible Story Explained Simply"
 slug: "the-riot-in-ephesus-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
-series: "Pauls Adventures"
+series: "Paul's Adventures"
 seriesSlug: "pauls-adventures"
 episode: 06
 scripture: ""
@@ -19,7 +19,7 @@ quizAvailable: true
 
 # The Riot in Ephesus for Kids: The Bible Story Explained Simply
 
-**Series:** Pauls Adventures (Episode 06 of 10) | **Scripture:** Acts | **Ages 7+**
+**Series:** Paul's Adventures (Episode 06 of 10) | **Scripture:** Acts | **Ages 7+**
 
 The Riot in Ephesus is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
@@ -89,19 +89,19 @@ Use these questions at the dinner table or during bedtime:
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## More Episodes in the Pauls Adventures Series
+## More Episodes in the Paul's Adventures Series
 
-This story is episode 06 of 10 in the Pauls Adventures series:
+This story is episode 06 of 10 in the Paul's Adventures series:
 
-- [Pauls First Journey for Kids](/blog/pauls-first-journey-for-kids)
+- [Paul's First Journey for Kids](/blog/pauls-first-journey-for-kids)
 - [Paul and Barnabas Split for Kids](/blog/paul-and-barnabas-split-for-kids)
 - [Paul and Silas in Prison for Kids](/blog/paul-and-silas-in-prison-for-kids)
 - [Paul in Athens for Kids](/blog/paul-in-athens-for-kids)
 - [Paul in Corinth for Kids](/blog/paul-in-corinth-for-kids)
-- [Pauls Farewell for Kids](/blog/pauls-farewell-for-kids)
+- [Paul's Farewell for Kids](/blog/pauls-farewell-for-kids)
 - [Shipwrecked for Kids](/blog/shipwrecked-for-kids)
 - [Paul in Rome for Kids](/blog/paul-in-rome-for-kids)
-- [Pauls Legacy for Kids](/blog/pauls-legacy-for-kids)
+- [Paul's Legacy for Kids](/blog/pauls-legacy-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids
@@ -122,7 +122,7 @@ This retelling of The Riot in Ephesus is designed for children Ages 7+. The lang
 
 ### Where is The Riot in Ephesus found in the Bible?
 
-The Riot in Ephesus is found in Acts in the New Testament. It is part of the Pauls Adventures series on Faithful Kids.
+The Riot in Ephesus is found in Acts in the New Testament. It is part of the Paul's Adventures series on Faithful Kids.
 
 ### Is there a video of The Riot in Ephesus for kids?
 

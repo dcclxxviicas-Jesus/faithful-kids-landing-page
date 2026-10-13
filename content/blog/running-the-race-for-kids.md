@@ -83,7 +83,7 @@ This story is episode 07 of 10 in the Letters to Churches series:
 - [The Gospel Explained for Kids](/blog/the-gospel-explained-for-kids)
 - [More Than Conquerors for Kids](/blog/more-than-conquerors-for-kids)
 - [The Armor of God for Kids](/blog/the-armor-of-god-for-kids)
-- [Love is for Kids](/blog/love-is-for-kids)
+- [Love Is for Kids](/blog/love-is-for-kids)
 - [Faith Hope and Love for Kids](/blog/faith-hope-and-love-for-kids)
 - [The Fruit of the Spirit for Kids](/blog/the-fruit-of-the-spirit-for-kids)
 - [Joy in All Things for Kids](/blog/joy-in-all-things-for-kids)

@@ -1,5 +1,5 @@
 ---
-title: "Naboths Vineyard for Kids: Bible Story Explained Simply"
+title: "Naboth's Vineyard for Kids: Bible Story Explained Simply"
 slug: "naboths-vineyard-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -11,19 +11,19 @@ testament: "Old Testament"
 book: "1 & 2 Kings"
 age: "Ages 6+"
 themes: "faith, miracles, trusting God, prayer"
-metaDescription: "Learn the story of Naboths Vineyard explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of Naboth's Vineyard explained for kids ages 5+. Simple retelling from 1 & 2 Kings, with key lessons, a quiz, and a free video."
 keywords: ["naboths vineyard for kids", "naboths vineyard bible story", "naboths vineyard for children", "naboths vineyard explained for kids", "naboths vineyard story for kids", "bible stories for kids", "elijah and elisha for kids", "kids bible", "1 & 2 kings for kids"]
 videoUrl: "/videos/elijah-and-elisha/naboths-vineyard/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Naboths Vineyard for Kids: The Bible Story Explained Simply
+# Naboth's Vineyard for Kids: The Bible Story Explained Simply
 
 **Series:** Elijah and Elisha (Episode 05 of 10) | **Scripture:** 1 & 2 Kings | **Ages 6+**
 
-Naboths Vineyard is a Bible story from 1 & 2 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Naboth's Vineyard is a Bible story from 1 & 2 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Naboths Vineyard for Kids?
+## What Is the Story of Naboth's Vineyard for Kids?
 
 NABOTH'S VINEYARD Series: Elijah & Elisha | Episode 5 Scripture: 1 Kings 21
 
@@ -35,9 +35,9 @@ Now guess who lived right next door? King Ahab. And Ahab looked over at Naboth's
 
 This story comes from 1 & 2 Kings and is part of the Old Testament.
 
-## What Does the Story of Naboths Vineyard Teach Children?
+## What Does the Story of Naboth's Vineyard Teach Children?
 
-The story of Naboths Vineyard teaches children important lessons about faith, miracles, trusting God, prayer:
+The story of Naboth's Vineyard teaches children important lessons about faith, miracles, trusting God, prayer:
 
 - **This story teaches children about faith in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -91,9 +91,9 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Naboths Vineyard?
+1. What was your favorite part of the story of Naboth's Vineyard?
 2. What do you think God was teaching us through this story?
-3. How can we be more like Naboths in our own lives?
+3. How can we be more like Naboth's in our own lives?
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
@@ -102,7 +102,7 @@ Use these questions at the dinner table or during bedtime:
 This story is episode 05 of 10 in the Elijah and Elisha series:
 
 - [Elijah and the Ravens for Kids](/blog/elijah-and-the-ravens-for-kids)
-- [The Widows Oil for Kids](/blog/the-widows-oil-for-kids)
+- [The Widow's Oil for Kids](/blog/the-widows-oil-for-kids)
 - [Fire from Heaven for Kids](/blog/fire-from-heaven-for-kids)
 - [The Still Small Voice for Kids](/blog/the-still-small-voice-for-kids)
 - [Elijah Taken to Heaven for Kids](/blog/elijah-taken-to-heaven-for-kids)
@@ -120,26 +120,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Naboths Vineyard about for kids?
+### What is the story of Naboth's Vineyard about for kids?
 
-Naboths Vineyard is a story from 1 & 2 Kings. NABOTH'S VINEYARD Series: Elijah & Elisha | Episode 5 Scripture: 1 Kings 21
+Naboth's Vineyard is a story from 1 & 2 Kings. NABOTH'S VINEYARD Series: Elijah & Elisha | Episode 5 Scripture: 1 Kings 21
 
-### What age is the story of Naboths Vineyard appropriate for?
+### What age is the story of Naboth's Vineyard appropriate for?
 
-This retelling of Naboths Vineyard is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Naboth's Vineyard is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Naboths Vineyard found in the Bible?
+### Where is Naboth's Vineyard found in the Bible?
 
-Naboths Vineyard is found in 1 & 2 Kings in the Old Testament. It is part of the Elijah and Elisha series on Faithful Kids.
+Naboth's Vineyard is found in 1 & 2 Kings in the Old Testament. It is part of the Elijah and Elisha series on Faithful Kids.
 
-### Is there a video of Naboths Vineyard for kids?
+### Is there a video of Naboth's Vineyard for kids?
 
-Yes. Faithful Kids has a short video retelling of Naboths Vineyard designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Naboth's Vineyard designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Naboths Vineyard for Sunday School or homeschool?
+### How can I use Naboth's Vineyard for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Naboths Vineyard teach kids?
+### What does Naboth's Vineyard teach kids?
 
-The story of Naboths Vineyard teaches children about faith, miracles, trusting God, prayer. This story teaches children about faith in a way they can understand.
+The story of Naboth's Vineyard teaches children about faith, miracles, trusting God, prayer. This story teaches children about faith in a way they can understand.

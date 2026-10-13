@@ -101,7 +101,7 @@ This story is episode 10 of 10 in the Road to the Cross series:
 - [The Trial for Kids](/blog/the-trial-for-kids)
 - [Peter Denies Jesus for Kids](/blog/peter-denies-jesus-for-kids)
 - [The Cross for Kids](/blog/the-cross-for-kids)
-- [It is Finished for Kids](/blog/it-is-finished-for-kids)
+- [It Is Finished for Kids](/blog/it-is-finished-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids

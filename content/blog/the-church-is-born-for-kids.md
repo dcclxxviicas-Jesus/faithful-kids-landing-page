@@ -1,5 +1,5 @@
 ---
-title: "The Church is Born for Kids: Bible Story Explained Simply"
+title: "The Church Is Born for Kids: Bible Story Explained Simply"
 slug: "the-church-is-born-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -11,19 +11,19 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "community, courage, sharing faith, miracles"
-metaDescription: "Learn the story of The Church is Born explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of The Church Is Born explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
 keywords: ["the church is born for kids", "the church is born bible story", "the church is born for children", "the church is born explained for kids", "the church is born story for kids", "bible stories for kids", "early church for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/early-church/the-church-is-born/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# The Church is Born for Kids: The Bible Story Explained Simply
+# The Church Is Born for Kids: The Bible Story Explained Simply
 
 **Series:** Early Church (Episode 01 of 10) | **Scripture:** Acts | **Ages 7+**
 
-The Church is Born is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+The Church Is Born is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of The Church is Born for Kids?
+## What Is the Story of The Church Is Born for Kids?
 
 THE EARLY CHURCH — EPISODE 1: THE CHURCH IS BORN Based on Acts 2:42-47 Series: The Early Church | Episode 1 of 5 Target audience: Kids ages 7-15
 
@@ -35,9 +35,9 @@ Those three thousand new believers didn't just say "cool experience" and go home
 
 This story comes from Acts and is part of the New Testament.
 
-## What Does the Story of The Church is Born Teach Children?
+## What Does the Story of The Church Is Born Teach Children?
 
-The story of The Church is Born teaches children important lessons about community, courage, sharing faith, miracles:
+The story of The Church Is Born teaches children important lessons about community, courage, sharing faith, miracles:
 
 - **God chose an ordinary young woman for the most extraordinary job in history**
 - **Saying yes to God can change the whole world**
@@ -83,7 +83,7 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of The Church is Born?
+1. What was your favorite part of the story of The Church Is Born?
 2. What do you think God was teaching us through this story?
 3. How can we be more like The in our own lives?
 4. If you were in this story, what would you have done differently?
@@ -112,26 +112,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of The Church is Born about for kids?
+### What is the story of The Church Is Born about for kids?
 
-The Church is Born is a story from Acts. THE EARLY CHURCH — EPISODE 1: THE CHURCH IS BORN Based on Acts 2:42-47 Series: The Early Church | Episode 1 of 5 Target audience: Kids ages 7-15
+The Church Is Born is a story from Acts. THE EARLY CHURCH — EPISODE 1: THE CHURCH IS BORN Based on Acts 2:42-47 Series: The Early Church | Episode 1 of 5 Target audience: Kids ages 7-15
 
-### What age is the story of The Church is Born appropriate for?
+### What age is the story of The Church Is Born appropriate for?
 
-This retelling of The Church is Born is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of The Church Is Born is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is The Church is Born found in the Bible?
+### Where is The Church Is Born found in the Bible?
 
-The Church is Born is found in Acts in the New Testament. It is part of the Early Church series on Faithful Kids.
+The Church Is Born is found in Acts in the New Testament. It is part of the Early Church series on Faithful Kids.
 
-### Is there a video of The Church is Born for kids?
+### Is there a video of The Church Is Born for kids?
 
-Yes. Faithful Kids has a short video retelling of The Church is Born designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of The Church Is Born designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use The Church is Born for Sunday School or homeschool?
+### How can I use The Church Is Born for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does The Church is Born teach kids?
+### What does The Church Is Born teach kids?
 
-The story of The Church is Born teaches children about community, courage, sharing faith, miracles. God chose an ordinary young woman for the most extraordinary job in history.
+The story of The Church Is Born teaches children about community, courage, sharing faith, miracles. God chose an ordinary young woman for the most extraordinary job in history.

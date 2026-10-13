@@ -31,7 +31,7 @@ Of all My disciples, John was the one who understood this best. He was the young
 
 "This is how we know what love is," John wrote. "Jesus Christ laid down His life for us."
 
-That's the definition. Not flowers. Not feelings. Not a heart emoji. Love is sacrifice. Love is laying down your life for someone else. That's what I did on the cross — and that's the standard.
+That's the definition. Not flowers. Not feelings. Not a heart emoji. Love Is sacrifice. Love Is laying down your life for someone else. That's what I did on the cross — and that's the standard.
 
 This story comes from Hebrews/James/Revelation and is part of the New Testament.
 
@@ -39,7 +39,7 @@ This story comes from Hebrews/James/Revelation and is part of the New Testament.
 
 The story of Love One Another teaches children important lessons about faith, hope, heaven, God's promises, eternity:
 
-- **Love is patient and kind, not jealous or boastful**
+- **Love Is patient and kind, not jealous or boastful**
 - **Real love is shown through actions, not just words**
 - **God's love for us is the model for how we should love others**
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How does John define what love is?
 
-**Jesus Christ laid down His life for us.** John's definition of love is the cross. Love is sacrifice — laying down your life for others. That's the standard Jesus set.
+**Jesus Christ laid down His life for us.** John's definition of love is the cross. Love Is sacrifice — laying down your life for others. That's the standard Jesus set.
 
 ### John says we should love "not with words or speech but with ___ and in ___."
 
@@ -65,7 +65,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What does John say God IS?
 
-**God is love.** "God is love." Not that God has love or shows love sometimes. Love is His very identity. Everything He does flows from it.
+**God is love.** "God is love." Not that God has love or shows love sometimes. Love Is His very identity. Everything He does flows from it.
 
 ### According to John, what does perfect love drive out?
 
@@ -134,4 +134,4 @@ Play the short Faithful Kids video as an introduction, then use the discussion q
 
 ### What does Love One Another teach kids?
 
-The story of Love One Another teaches children about faith, hope, heaven, God's promises, eternity. Love is patient and kind, not jealous or boastful.
+The story of Love One Another teaches children about faith, hope, heaven, God's promises, eternity. Love Is patient and kind, not jealous or boastful.

@@ -3,7 +3,7 @@ title: "Dancing Before the Lord: Bible Story for Kids"
 slug: "dancing-before-the-lord-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
-series: "King Davids Reign"
+series: "King David's Reign"
 seriesSlug: "king-davids-reign"
 episode: 01
 scripture: ""
@@ -19,7 +19,7 @@ quizAvailable: true
 
 # Dancing Before the Lord for Kids: The Bible Story Explained Simply
 
-**Series:** King Davids Reign (Episode 01 of 10) | **Scripture:** 2 Samuel/Psalms | **Ages 6+**
+**Series:** King David's Reign (Episode 01 of 10) | **Scripture:** 2 Samuel/Psalms | **Ages 6+**
 
 Dancing Before the Lord is a Bible story from 2 Samuel/Psalms in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
@@ -95,19 +95,19 @@ Use these questions at the dinner table or during bedtime:
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## More Episodes in the King Davids Reign Series
+## More Episodes in the King David's Reign Series
 
-This story is episode 01 of 10 in the King Davids Reign series:
+This story is episode 01 of 10 in the King David's Reign series:
 
-- [Gods Promise to David for Kids](/blog/gods-promise-to-david-for-kids)
+- [God's Promise to David for Kids](/blog/gods-promise-to-david-for-kids)
 - [David and Mephibosheth for Kids](/blog/david-and-mephibosheth-for-kids)
-- [Davids Big Mistake for Kids](/blog/davids-big-mistake-for-kids)
-- [The Shepherds Song for Kids](/blog/the-shepherds-song-for-kids)
+- [David's Big Mistake for Kids](/blog/davids-big-mistake-for-kids)
+- [The Shepherd's Song for Kids](/blog/the-shepherds-song-for-kids)
 - [Songs of Praise for Kids](/blog/songs-of-praise-for-kids)
-- [Absaloms Rebellion for Kids](/blog/absaloms-rebellion-for-kids)
-- [Davids Repentance for Kids](/blog/davids-repentance-for-kids)
-- [Solomon is Chosen for Kids](/blog/solomon-is-chosen-for-kids)
-- [Davids Final Words for Kids](/blog/davids-final-words-for-kids)
+- [Absalom's Rebellion for Kids](/blog/absaloms-rebellion-for-kids)
+- [David's Repentance for Kids](/blog/davids-repentance-for-kids)
+- [Solomon Is Chosen for Kids](/blog/solomon-is-chosen-for-kids)
+- [David's Final Words for Kids](/blog/davids-final-words-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids
@@ -128,7 +128,7 @@ This retelling of Dancing Before the Lord is designed for children Ages 6+. The 
 
 ### Where is Dancing Before the Lord found in the Bible?
 
-Dancing Before the Lord is found in 2 Samuel/Psalms in the Old Testament. It is part of the King Davids Reign series on Faithful Kids.
+Dancing Before the Lord is found in 2 Samuel/Psalms in the Old Testament. It is part of the King David's Reign series on Faithful Kids.
 
 ### Is there a video of Dancing Before the Lord for kids?
 

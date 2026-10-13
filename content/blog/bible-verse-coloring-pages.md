@@ -80,7 +80,7 @@ These are the pages that end up as gifts. Leave a small blank corner on each so 
 
 **24. 1 John 4:19** -- "We love because he first loved us." *Motif:* a chain of hearts looping around the page like a paper garland.
 
-**25. 1 Corinthians 13:4** -- "Love is patient and kind." *Motif:* the verse in tall thin letters down the center, with a repeating flower border. Older kids can letter the rest of the chapter's list in the margins.
+**25. 1 Corinthians 13:4** -- "Love Is patient and kind." *Motif:* the verse in tall thin letters down the center, with a repeating flower border. Older kids can letter the rest of the chapter's list in the margins.
 
 **26. John 13:34** -- "A new commandment I give to you, that you love one another." *Motif:* a circle of linked paper-doll figures holding hands around the lettered verse.
 

@@ -51,7 +51,7 @@ It's set among the vineyards, gardens, and hills of ancient Israel, full of spri
 
 ## Why Is a Love Poem in the Bible?
 
-Because the Bible treats love and marriage as God's good idea, worth celebrating in its own book. The Song's centerpiece says it plainly: "Love is as strong as death... it burns like blazing fire. Many waters cannot quench love" (Song of Songs 8:6-7). For kids, the honest takeaway is simple -- the same Bible that gives us laws and battles also gives us poetry, because God cares about hearts as much as history.
+Because the Bible treats love and marriage as God's good idea, worth celebrating in its own book. The Song's centerpiece says it plainly: "Love Is as strong as death... it burns like blazing fire. Many waters cannot quench love" (Song of Songs 8:6-7). For kids, the honest takeaway is simple -- the same Bible that gives us laws and battles also gives us poetry, because God cares about hearts as much as history.
 
 There's also a second layer that readers have seen for over two thousand years. Jewish tradition read the Song as a picture of God's love for Israel (which is why it's read at Passover), and many Christians have read it as a picture of Christ's love for the church. You don't have to choose -- a plain love poem and a portrait of covenant love aren't rivals, and both readings have deep roots. For more kid-friendly verses on the theme, see our [Bible verses about love for kids](/blog/bible-verses-about-love-for-kids).
 
@@ -101,7 +101,7 @@ In most translations, God is never named directly -- a distinction the Song shar
 
 ### What is the most famous verse in the Song of Solomon?
 
-Song of Songs 8:6-7 -- "Love is as strong as death... Many waters cannot quench love; rivers cannot sweep it away." Close behind are "I am my beloved's and my beloved is mine" (6:3) and "the little foxes that ruin the vineyards" (2:15).
+Song of Songs 8:6-7 -- "Love Is as strong as death... Many waters cannot quench love; rivers cannot sweep it away." Close behind are "I am my beloved's and my beloved is mine" (6:3) and "the little foxes that ruin the vineyards" (2:15).
 
 ### Is the Song of Solomon appropriate for kids?
 

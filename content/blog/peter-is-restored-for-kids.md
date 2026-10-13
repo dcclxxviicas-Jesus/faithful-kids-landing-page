@@ -1,9 +1,9 @@
 ---
-title: "Peter is Restored for Kids: Bible Story Explained Simply"
+title: "Peter Is Restored for Kids: Bible Story Explained Simply"
 slug: "peter-is-restored-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
-series: "He is Risen"
+series: "He Is Risen"
 seriesSlug: "he-is-risen"
 episode: 06
 scripture: ""
@@ -11,19 +11,19 @@ testament: "New Testament"
 book: "Matthew/Luke/Acts"
 age: "Ages 5+"
 themes: "resurrection, hope, faith, new life, Easter"
-metaDescription: "Learn the story of Peter is Restored explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of Peter Is Restored explained for kids ages 5+. Simple retelling from Matthew/Luke/Acts, with key lessons, a quiz, and a free video."
 keywords: ["peter is restored for kids", "peter is restored bible story", "peter is restored for children", "peter is restored explained for kids", "peter is restored story for kids", "bible stories for kids", "he is risen for kids", "kids bible", "matthew/luke/acts for kids"]
 videoUrl: "/videos/he-is-risen/peter-is-restored/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Peter is Restored for Kids: The Bible Story Explained Simply
+# Peter Is Restored for Kids: The Bible Story Explained Simply
 
-**Series:** He is Risen (Episode 06 of 10) | **Scripture:** Matthew/Luke/Acts | **Ages 5+**
+**Series:** He Is Risen (Episode 06 of 10) | **Scripture:** Matthew/Luke/Acts | **Ages 5+**
 
-Peter is Restored is a Bible story from Matthew/Luke/Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Peter Is Restored is a Bible story from Matthew/Luke/Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Peter is Restored for Kids?
+## What Is the Story of Peter Is Restored for Kids?
 
 HE IS RISEN — Episode 6: Peter Is Restored Based on John 21:15-19 Series: He Is Risen | Target Age: 7-15
 
@@ -35,9 +35,9 @@ Now here we are, days after I rose from the dead. We just had breakfast together
 
 This story comes from Matthew/Luke/Acts and is part of the New Testament.
 
-## What Does the Story of Peter is Restored Teach Children?
+## What Does the Story of Peter Is Restored Teach Children?
 
-The story of Peter is Restored teaches children important lessons about resurrection, hope, faith, new life, Easter:
+The story of Peter Is Restored teaches children important lessons about resurrection, hope, faith, new life, Easter:
 
 - **This story teaches children about resurrection in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -79,15 +79,15 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Peter is Restored?
+1. What was your favorite part of the story of Peter Is Restored?
 2. What do you think God was teaching us through this story?
 3. How can we be more like Peter in our own lives?
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## More Episodes in the He is Risen Series
+## More Episodes in the He Is Risen Series
 
-This story is episode 06 of 10 in the He is Risen series:
+This story is episode 06 of 10 in the He Is Risen series:
 
 - [The Empty Tomb for Kids](/blog/the-empty-tomb-for-kids)
 - [Mary Sees Jesus for Kids](/blog/mary-sees-jesus-for-kids)
@@ -108,26 +108,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Peter is Restored about for kids?
+### What is the story of Peter Is Restored about for kids?
 
-Peter is Restored is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 6: Peter Is Restored Based on John 21:15-19 Series: He Is Risen | Target Age: 7-15
+Peter Is Restored is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 6: Peter Is Restored Based on John 21:15-19 Series: He Is Risen | Target Age: 7-15
 
-### What age is the story of Peter is Restored appropriate for?
+### What age is the story of Peter Is Restored appropriate for?
 
-This retelling of Peter is Restored is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Peter Is Restored is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Peter is Restored found in the Bible?
+### Where is Peter Is Restored found in the Bible?
 
-Peter is Restored is found in Matthew/Luke/Acts in the New Testament. It is part of the He is Risen series on Faithful Kids.
+Peter Is Restored is found in Matthew/Luke/Acts in the New Testament. It is part of the He Is Risen series on Faithful Kids.
 
-### Is there a video of Peter is Restored for kids?
+### Is there a video of Peter Is Restored for kids?
 
-Yes. Faithful Kids has a short video retelling of Peter is Restored designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Peter Is Restored designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Peter is Restored for Sunday School or homeschool?
+### How can I use Peter Is Restored for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Peter is Restored teach kids?
+### What does Peter Is Restored teach kids?
 
-The story of Peter is Restored teaches children about resurrection, hope, faith, new life, Easter. This story teaches children about resurrection in a way they can understand.
+The story of Peter Is Restored teaches children about resurrection, hope, faith, new life, Easter. This story teaches children about resurrection in a way they can understand.

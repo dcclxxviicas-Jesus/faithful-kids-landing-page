@@ -18,7 +18,7 @@ Mix the ages -- every team gets at least one kid and one adult, and never split 
 
 Two other team rules that save the evening:
 
-- **Team names are mandatory.** "The Mighty Davids" versus "Team Burning Bush" is instantly more fun than Team 1 versus Team 2. Give a bonus point for the best name.
+- **Team names are mandatory.** "The Mighty David's" versus "Team Burning Bush" is instantly more fun than Team 1 versus Team 2. Give a bonus point for the best name.
 - **The youngest player answers first.** On kids-round questions, the child gives the team's answer -- adults may whisper hints but can't answer. This one rule keeps little kids engaged all night.
 
 If it's just your own household, skip teams entirely: everyone plays solo, but each person only answers questions from their own bracket.

@@ -91,7 +91,7 @@ This story is episode 09 of 10 in the Rise of Kings series:
 
 - [Israel Wants a King for Kids](/blog/israel-wants-a-king-for-kids)
 - [Saul the First King for Kids](/blog/saul-the-first-king-for-kids)
-- [Sauls Disobedience for Kids](/blog/sauls-disobedience-for-kids)
+- [Saul's Disobedience for Kids](/blog/sauls-disobedience-for-kids)
 - [God Chooses David for Kids](/blog/god-chooses-david-for-kids)
 - [David and Goliath for Kids](/blog/david-and-goliath-for-kids)
 - [David and Jonathan for Kids](/blog/david-and-jonathan-for-kids)

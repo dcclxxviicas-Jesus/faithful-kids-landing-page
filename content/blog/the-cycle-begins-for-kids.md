@@ -82,12 +82,12 @@ This story is episode 01 of 10 in the Judges and Ruth series:
 
 - [Deborah a Brave Leader for Kids](/blog/deborah-a-brave-leader-for-kids)
 - [Gideon the Unlikely Hero for Kids](/blog/gideon-the-unlikely-hero-for-kids)
-- [Gideons 300 for Kids](/blog/gideons-300-for-kids)
+- [Gideon's 300 for Kids](/blog/gideons-300-for-kids)
 - [Samson Strongest Man Alive for Kids](/blog/samson-strongest-man-alive-for-kids)
-- [Samsons Fall and Final Stand for Kids](/blog/samsons-fall-and-final-stand-for-kids)
+- [Samson's Fall and Final Stand for Kids](/blog/samsons-fall-and-final-stand-for-kids)
 - [Ruth a Story of Loyalty for Kids](/blog/ruth-a-story-of-loyalty-for-kids)
 - [Ruth and Boaz for Kids](/blog/ruth-and-boaz-for-kids)
-- [Hannahs Prayer for Kids](/blog/hannahs-prayer-for-kids)
+- [Hannah's Prayer for Kids](/blog/hannahs-prayer-for-kids)
 - [God Calls Samuel for Kids](/blog/god-calls-samuel-for-kids)
 
 

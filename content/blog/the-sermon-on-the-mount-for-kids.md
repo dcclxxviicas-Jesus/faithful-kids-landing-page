@@ -85,7 +85,7 @@ Use these questions at the dinner table or during bedtime:
 This story is episode 01 of 10 in the Teachings of Jesus series:
 
 - [The Beatitudes for Kids](/blog/the-beatitudes-for-kids)
-- [The Lords Prayer for Kids](/blog/the-lords-prayer-for-kids)
+- [The Lord's Prayer for Kids](/blog/the-lords-prayer-for-kids)
 - [The Good Samaritan for Kids](/blog/the-good-samaritan-for-kids)
 - [The Prodigal Son for Kids](/blog/the-prodigal-son-for-kids)
 - [The Sower and the Seeds for Kids](/blog/the-sower-and-the-seeds-for-kids)

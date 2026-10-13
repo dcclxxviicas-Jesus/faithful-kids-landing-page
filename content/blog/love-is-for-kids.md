@@ -1,5 +1,5 @@
 ---
-title: "Love is for Kids: Bible Story Explained Simply"
+title: "Love Is for Kids: Bible Story Explained Simply"
 slug: "love-is-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -11,19 +11,19 @@ testament: "New Testament"
 book: "Romans/Corinthians/Ephesians"
 age: "Ages 7+"
 themes: "love, faith, hope, character, spiritual growth"
-metaDescription: "Learn the story of Love is explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of Love Is explained for kids ages 5+. Simple retelling from Romans/Corinthians/Ephesians, with key lessons, a quiz, and a free video."
 keywords: ["love is for kids", "love is bible story", "love is for children", "love is explained for kids", "love is story for kids", "bible stories for kids", "letters to churches for kids", "kids bible", "romans/corinthians/ephesians for kids"]
 videoUrl: "/videos/letters-to-churches/love-is/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Love is for Kids: The Bible Story Explained Simply
+# Love Is for Kids: The Bible Story Explained Simply
 
 **Series:** Letters to Churches (Episode 04 of 10) | **Scripture:** Romans/Corinthians/Ephesians | **Ages 7+**
 
-Love is is a Bible story from Romans/Corinthians/Ephesians in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Love Is is a Bible story from Romans/Corinthians/Ephesians in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Love is for Kids?
+## What Is the Story of Love Is for Kids?
 
 LETTERS TO THE CHURCHES — EPISODE 4 "Love Is" Based on 1 Corinthians 13 Jesus Narrates
 
@@ -31,21 +31,21 @@ Paul wrote a lot of letters. But right in the middle of one — his letter to th
 
 And here's a secret: when Paul described love, he was describing me.
 
-"Love is patient." That means love doesn't rush. It waits. When your little brother asks the same question for the tenth time — patience. When your friend is slow to understand — patience. I've been patient with you a million times. Love waits without getting angry.
+"Love Is patient." That means love doesn't rush. It waits. When your little brother asks the same question for the tenth time — patience. When your friend is slow to understand — patience. I've been patient with you a million times. Love waits without getting angry.
 
 This story comes from Romans/Corinthians/Ephesians and is part of the New Testament.
 
-## What Does the Story of Love is Teach Children?
+## What Does the Story of Love Is Teach Children?
 
-The story of Love is teaches children important lessons about love, faith, hope, character, spiritual growth:
+The story of Love Is teaches children important lessons about love, faith, hope, character, spiritual growth:
 
-- **Love is patient and kind, not jealous or boastful**
+- **Love Is patient and kind, not jealous or boastful**
 - **Real love is shown through actions, not just words**
 - **God's love for us is the model for how we should love others**
 
 ## Key Bible Verse
 
-> *"Love is patient, love is kind."* — 1 Corinthians 13:4
+> *"Love Is patient, love is kind."* — 1 Corinthians 13:4
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What are the first two things Paul says love IS?
 
-**Patient and kind.** "Love is patient, love is kind." (1 Corinthians 13:4)
+**Patient and kind.** "Love Is patient, love is kind." (1 Corinthians 13:4)
 
 ### What does it mean that love "keeps no record of wrongs"?
 
@@ -79,7 +79,7 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Love is?
+1. What was your favorite part of the story of Love Is?
 2. What do you think God was teaching us through this story?
 3. How can we be more like Love in our own lives?
 4. If you were in this story, what would you have done differently?
@@ -108,26 +108,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Love is about for kids?
+### What is the story of Love Is about for kids?
 
-Love is is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 4 "Love Is" Based on 1 Corinthians 13 Jesus Narrates
+Love Is is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 4 "Love Is" Based on 1 Corinthians 13 Jesus Narrates
 
-### What age is the story of Love is appropriate for?
+### What age is the story of Love Is appropriate for?
 
-This retelling of Love is is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Love Is is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Love is found in the Bible?
+### Where is Love Is found in the Bible?
 
-Love is is found in Romans/Corinthians/Ephesians in the New Testament. It is part of the Letters to Churches series on Faithful Kids.
+Love Is is found in Romans/Corinthians/Ephesians in the New Testament. It is part of the Letters to Churches series on Faithful Kids.
 
-### Is there a video of Love is for kids?
+### Is there a video of Love Is for kids?
 
-Yes. Faithful Kids has a short video retelling of Love is designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Love Is designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Love is for Sunday School or homeschool?
+### How can I use Love Is for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Love is teach kids?
+### What does Love Is teach kids?
 
-The story of Love is teaches children about love, faith, hope, character, spiritual growth. Love is patient and kind, not jealous or boastful.
+The story of Love Is teaches children about love, faith, hope, character, spiritual growth. Love Is patient and kind, not jealous or boastful.

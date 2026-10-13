@@ -65,3 +65,30 @@ const LABELS: Record<string, string> = {
 export function seriesLabel(seriesSlug: string, fallback: string): string {
   return LABELS[seriesSlug] ?? fallback
 }
+
+/**
+ * Take `limit` items, round-robin across series, instead of the first `limit`
+ * in order.
+ *
+ * Once posts sort in curriculum order, "the first six stories about courage"
+ * are all from Exodus and "the first six about faith" are all from Genesis, so
+ * every theme card reads as one series under a different name. A parent
+ * picking a story for tonight wants range, not the first six of one book.
+ */
+export function spreadBySeries<T extends { seriesSlug?: string }>(items: T[], limit: number): T[] {
+  const queues = new Map<string, T[]>()
+  for (const it of items) {
+    const k = it.seriesSlug ?? ''
+    if (!queues.has(k)) queues.set(k, [])
+    queues.get(k)!.push(it)
+  }
+  const lanes = Array.from(queues.values())
+  const out: T[] = []
+  let i = 0
+  while (out.length < limit && lanes.some(q => q.length > 0)) {
+    const lane = lanes[i % lanes.length]
+    if (lane.length > 0) out.push(lane.shift() as T)
+    i++
+  }
+  return out
+}

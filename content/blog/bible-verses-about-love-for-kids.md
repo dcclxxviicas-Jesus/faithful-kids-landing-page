@@ -10,7 +10,7 @@ dateModified: "2026-08-16"
 
 # 15 Bible Verses About Love for Kids (With Simple Explanations)
 
-Love is the central message of the Bible. From the first chapter of Genesis to the last chapter of Revelation, God's love runs through every story, every law, every promise, and every sacrifice.
+Love Is the central message of the Bible. From the first chapter of Genesis to the last chapter of Revelation, God's love runs through every story, every law, every promise, and every sacrifice.
 
 Teaching kids about God's love through Scripture gives them a foundation that lasts a lifetime. But many Bible verses about love are written in language that children find confusing. "What does 'love is not self-seeking' mean?" a 9-year-old might ask. Fair question.
 
@@ -24,7 +24,7 @@ Here are 15 of the most beautiful Bible verses about love, each with a simple ex
 
 ## 2. 1 Corinthians 13:4-7
 
-*"Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres."*
+*"Love Is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres."*
 
 **What it means for kids:** This verse is like a checklist for what real love looks like. Love means being patient when your little sister is slow. It means being kind even when you're tired. It means not keeping score of who did what wrong. Real love isn't a feeling that comes and goes — it's something you choose to do, every day. These [Bible verses about kindness for kids](/blog/bible-verses-about-kindness-for-kids) unpack that daily choice further.
 

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { getAllPosts } from '@/lib/blog'
+import { spreadBySeries } from '@/lib/series-order'
 
 /**
  * Hub page for "bible stories for kids" — 1,479 searches/month (DataForSEO
@@ -95,8 +96,14 @@ export default function BibleStoriesForKidsPage() {
   }
 
   // Age bands come from post frontmatter, not invented.
+  // Spread across series: the first ten "Ages 5+" stories in curriculum order
+  // are all Genesis, which makes the card look like one book rather than a
+  // reading level.
   const ages = ['Ages 5+', 'Ages 6+', 'Ages 7+']
-    .map(a => ({ label: a, items: stories.filter(p => p.age === a) }))
+    .map(a => {
+      const all = stories.filter(p => p.age === a)
+      return { label: a, items: spreadBySeries(all, 10), total: all.length }
+    })
     .filter(a => a.items.length > 0)
 
   /* Each story is claimed by the FIRST theme that wants it, rather than every
@@ -109,13 +116,14 @@ export default function BibleStoriesForKidsPage() {
   const claimed = new Set<string>()
   const themes = themeKeys
     .map(t => {
-      const items = stories
-        .filter(p => !claimed.has(p.slug) && (p.themes || '').toLowerCase().includes(t))
-        // Six, not eight. "forgiveness" and "kindness" are tagged on almost
-        // the same ten stories, so at eight the first one took nearly all of
-        // them and kindness fell below the cut entirely. Six leaves all eight
-        // themes standing with distinct lists.
-        .slice(0, 6)
+      // Six, not eight: "forgiveness" and "kindness" are tagged on almost the
+      // same ten stories, so at eight the first took nearly all of them and
+      // kindness fell below the cut. Spread across series so a theme card is
+      // not six consecutive episodes of one book.
+      const items = spreadBySeries(
+        stories.filter(p => !claimed.has(p.slug) && (p.themes || '').toLowerCase().includes(t)),
+        6,
+      )
       items.forEach(p => claimed.add(p.slug))
       return { label: t, items }
     })
@@ -238,7 +246,7 @@ export default function BibleStoriesForKidsPage() {
           {ages.map(a => (
             <div key={a.label} className="stories-card">
               <h3>{a.label}</h3>
-              <p className="stories-scripture">{a.items.length} stories</p>
+              <p className="stories-scripture">{a.total} stories</p>
               <ul className="stories-list">
                 {a.items.slice(0, 8).map(p => (
                   <li key={p.slug}>

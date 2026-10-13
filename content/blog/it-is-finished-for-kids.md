@@ -1,5 +1,5 @@
 ---
-title: "It is Finished for Kids: Bible Story Explained Simply"
+title: "It Is Finished for Kids: Bible Story Explained Simply"
 slug: "it-is-finished-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -11,19 +11,19 @@ testament: "New Testament"
 book: "Matthew/Mark/Luke/John"
 age: "Ages 6+"
 themes: "sacrifice, love, courage, Easter"
-metaDescription: "Learn the story of It is Finished explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of It Is Finished explained for kids ages 5+. Simple retelling from Matthew/Mark/Luke/John, with key lessons, a quiz, and a free video."
 keywords: ["it is finished for kids", "it is finished bible story", "it is finished for children", "it is finished explained for kids", "it is finished story for kids", "bible stories for kids", "road to the cross for kids", "kids bible", "matthew/mark/luke/john for kids"]
 videoUrl: "/videos/road-to-the-cross/it-is-finished/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# It is Finished for Kids: The Bible Story Explained Simply
+# It Is Finished for Kids: The Bible Story Explained Simply
 
 **Series:** Road to the Cross (Episode 09 of 10) | **Scripture:** Matthew/Mark/Luke/John | **Ages 6+**
 
-It is Finished is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+It Is Finished is a Bible story from Matthew/Mark/Luke/John in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of It is Finished for Kids?
+## What Is the Story of It Is Finished for Kids?
 
 THE ROAD TO THE CROSS — Episode 9: It Is Finished Based on Matthew 27:45-56 and John 19:28-37 Series: The Road to the Cross | Target audience: Ages 7-15
 
@@ -35,9 +35,9 @@ And for the first and only time in all of eternity, I felt something I had never
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
-## What Does the Story of It is Finished Teach Children?
+## What Does the Story of It Is Finished Teach Children?
 
-The story of It is Finished teaches children important lessons about sacrifice, love, courage, Easter:
+The story of It Is Finished teaches children important lessons about sacrifice, love, courage, Easter:
 
 - **Jesus gave His life because He loves every person that much**
 - **The hardest moments can have the greatest purpose**
@@ -83,7 +83,7 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of It is Finished?
+1. What was your favorite part of the story of It Is Finished?
 2. What do you think God was teaching us through this story?
 3. How can we be more like It in our own lives?
 4. If you were in this story, what would you have done differently?
@@ -112,26 +112,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of It is Finished about for kids?
+### What is the story of It Is Finished about for kids?
 
-It is Finished is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 9: It Is Finished Based on Matthew 27:45-56 and John 19:28-37 Series: The Road to the Cross | Target audience: Ages 7-15
+It Is Finished is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 9: It Is Finished Based on Matthew 27:45-56 and John 19:28-37 Series: The Road to the Cross | Target audience: Ages 7-15
 
-### What age is the story of It is Finished appropriate for?
+### What age is the story of It Is Finished appropriate for?
 
-This retelling of It is Finished is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of It Is Finished is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is It is Finished found in the Bible?
+### Where is It Is Finished found in the Bible?
 
-It is Finished is found in Matthew/Mark/Luke/John in the New Testament. It is part of the Road to the Cross series on Faithful Kids.
+It Is Finished is found in Matthew/Mark/Luke/John in the New Testament. It is part of the Road to the Cross series on Faithful Kids.
 
-### Is there a video of It is Finished for kids?
+### Is there a video of It Is Finished for kids?
 
-Yes. Faithful Kids has a short video retelling of It is Finished designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of It Is Finished designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use It is Finished for Sunday School or homeschool?
+### How can I use It Is Finished for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does It is Finished teach kids?
+### What does It Is Finished teach kids?
 
-The story of It is Finished teaches children about sacrifice, love, courage, Easter. Jesus gave His life because He loves every person that much.
+The story of It Is Finished teaches children about sacrifice, love, courage, Easter. Jesus gave His life because He loves every person that much.

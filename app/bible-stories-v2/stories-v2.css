@@ -1,118 +1,214 @@
-/* Additions for the stories hub test. The base (.hv2 tokens, display font,
-   buttons, hero scrim, play-disc tiles) comes from home.css (the homepage). */
+/* /bible-stories-v2 only. Everything shared with the homepage (type, colour,
+   buttons, hero scrim, chips, FAQ) comes from home.css; this file is just the
+   pieces that are specific to a 200-story index. Scoped under .hv2 like the
+   rest, so none of it can reach the live site. */
 
-/* ---------- hero ---------- */
-.sv-hero { min-height: 480px; padding: 50px 20px 120px; }
-.sv-jump { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 22px; }
-.sv-jump a {
-  background: rgba(255,255,255,.9);
-  color: var(--hv-ink);
-  font-weight: 800; font-size: .92rem;
+/* ---------- hero ----------
+   Shorter than the homepage's. The homepage hero has a button to reach; this
+   one is a title card and the content below it is the point. */
+.hv2 .sv-hero { min-height: 560px; padding: 48px 20px 170px; }
+.hv2 .sv-hero .hv-hero-art { object-position: center 38%; }
+/* The painting stops in a hard line either side of the card below it. This
+   melts it into the page instead. ::after is already the top scrim that keeps
+   the headline readable, so the bottom fade goes on ::before. */
+.hv2 .sv-hero::before {
+  content: '';
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 34%;
+  z-index: 1;
+  pointer-events: none;
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,.55) 52%, rgba(255,255,255,.95) 86%, #fff 100%);
+}
+@media (max-width: 560px) {
+  .hv2 .sv-hero { min-height: 460px; padding: 24px 18px 150px; }
+}
+
+/* ---------- the card that overlaps the art ---------- */
+.hv2 .sv-cardwrap { margin-top: -130px; position: relative; z-index: 3; padding: 0 20px 10px; }
+.hv2 .sv-card-top {
+  max-width: 940px; margin: 0 auto;
+  background: #fff;
+  border-radius: 28px;
+  box-shadow: 0 18px 50px rgba(22,49,79,.14);
+  padding: 26px 30px 30px;
+}
+@media (max-width: 560px) {
+  .hv2 .sv-cardwrap { margin-top: -120px; }
+  .hv2 .sv-card-top { padding: 20px 18px 24px; border-radius: 22px; }
+}
+
+/* Jump links, styled as the homepage's chips so the two pages rhyme. */
+.hv2 .sv-jump {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;
+  margin-bottom: 22px;
+}
+.hv2 .sv-jump a {
+  display: inline-flex; align-items: center; gap: 8px;
+  font-family: var(--font-display), sans-serif;
+  font-weight: 800; font-size: .95rem;
   text-decoration: none;
-  padding: 10px 18px; border-radius: 999px;
-  border: 2px solid rgba(22,163,74,.25);
-  transition: transform .12s ease, border-color .12s ease;
+  color: var(--hv-ink);
+  background: #f3f8fb;
+  padding: 10px 18px 10px 14px;
+  border-radius: 999px;
+  box-shadow: 0 2px 0 rgba(22,49,79,.06);
+  transition: transform .12s ease, background .12s ease;
 }
-.sv-jump a:hover { transform: translateY(-2px); border-color: var(--hv-green); }
+.hv2 .sv-jump a:hover { background: #e8f3ef; transform: translateY(-1px); }
+.hv2 .sv-jump a span { font-size: 1.05rem; line-height: 1; }
 
-/* ---------- intro ---------- */
-.sv-intro {
-  max-width: 760px; margin: -80px auto 0; position: relative; z-index: 3;
-  background: #fff; border-radius: 26px; padding: 30px 32px;
-  box-shadow: 0 16px 44px rgba(22,49,79,.14);
+.hv2 .sv-intro p {
+  font-size: 1.02rem; line-height: 1.75;
+  color: var(--hv-ink-soft); font-weight: 600;
+  margin: 0 0 14px;
 }
-.sv-intro p { margin: 0 0 14px; line-height: 1.7; font-weight: 600; color: var(--hv-ink-soft); }
-.sv-intro p:last-child { margin-bottom: 0; }
+.hv2 .sv-signpost {
+  margin: 18px 0 0;
+  background: #f7fdf9;
+  border-left: 4px solid var(--hv-green);
+  border-radius: 0 14px 14px 0;
+  padding: 14px 18px;
+  font-weight: 700; line-height: 1.6;
+  color: var(--hv-ink);
+}
+.hv2 .sv-signpost a { color: var(--hv-green-dark); font-weight: 800; }
 
-/* ---------- section shells ---------- */
-.sv-section { padding: 64px 20px 10px; max-width: 1160px; margin: 0 auto; }
-.sv-section.is-alt { background: var(--hv-cream); max-width: none; padding-bottom: 64px; }
-.sv-section.is-alt > * { max-width: 1160px; margin-left: auto; margin-right: auto; }
-.sv-head { text-align: center; margin-bottom: 34px; }
-.sv-head h2 { font-size: clamp(1.6rem, 4vw, 2.3rem); margin: 0 0 8px; font-weight: 800; }
-.sv-head p { margin: 0; color: var(--hv-ink-soft); font-weight: 600; }
+/* ---------- section furniture ---------- */
+.hv2 .sv-section { padding: 58px 20px 64px; }
+.hv2 .sv-section.is-alt { background: var(--hv-cream); }
+.hv2 .sv-head { max-width: 760px; margin: 0 auto 36px; text-align: center; }
+.hv2 .sv-head h2 { font-size: clamp(1.6rem, 4vw, 2.3rem); margin: 0 0 8px; font-weight: 800; }
+.hv2 .sv-head-sub { margin: 0; color: var(--hv-ink-soft); font-weight: 600; }
 
-/* ---------- series cards: the big change ----------
-   The live page renders a bordered white box with a numbered list of plain
-   links. Every story already has a hero illustration on the CDN, so each
-   series now leads with its first episode's art. */
-.sv-series-grid { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 22px; }
-.sv-series {
-  background: #fff; border-radius: 22px; overflow: hidden;
-  box-shadow: 0 8px 24px rgba(22,49,79,.1);
+/* ---------- series cards ---------- */
+.hv2 .sv-series-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 22px;
+  max-width: 1180px; margin: 0 auto;
+}
+.hv2 .sv-series {
+  background: #fff;
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(22,49,79,.08);
   display: flex; flex-direction: column;
   transition: transform .16s ease, box-shadow .16s ease;
 }
-.sv-series:hover { transform: translateY(-3px); box-shadow: 0 16px 36px rgba(22,49,79,.17); }
-.sv-series-art { position: relative; aspect-ratio: 16/6; overflow: hidden; background: #dbeafe; }
-.sv-series-art img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.sv-series-art::after {
-  content: ''; position: absolute; inset: 0;
-  background: linear-gradient(180deg, rgba(0,0,0,.42) 0%, rgba(0,0,0,0) 55%);
-}
-.sv-series-name {
-  position: absolute; left: 18px; top: 14px; z-index: 2;
-  color: #fff; font-family: var(--font-display), sans-serif;
-  font-weight: 800; font-size: 1.22rem; text-shadow: 0 2px 8px rgba(0,0,0,.55);
-  text-decoration: none;
-}
-.sv-series-name:hover { text-decoration: underline; }
-.sv-series-ref {
-  position: absolute; left: 18px; bottom: 12px; z-index: 2;
-  color: #fff; font-size: .8rem; font-weight: 700;
-  background: rgba(22,163,74,.92); padding: 4px 11px; border-radius: 999px;
-}
-.sv-series-body { padding: 16px 20px 20px; }
-.sv-list { list-style: none; counter-reset: s; padding: 0; margin: 0;
-  display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 2px 18px; }
-.sv-list li { counter-increment: s; }
-.sv-list a {
-  display: flex; gap: 9px; align-items: baseline;
-  padding: 6px 8px; border-radius: 9px;
-  color: var(--hv-ink); text-decoration: none;
-  font-weight: 600; font-size: .93rem; line-height: 1.4;
-}
-.sv-list a::before {
-  content: counter(s); flex: 0 0 auto;
-  font-size: .76rem; font-weight: 800; color: var(--hv-green);
-  min-width: 15px;
-}
-.sv-list a:hover { background: #f0fdf4; color: var(--hv-green-dark); }
+.hv2 .sv-series:hover { transform: translateY(-3px); box-shadow: 0 16px 34px rgba(22,49,79,.16); }
 
-/* ---------- age + theme ---------- */
-.sv-cards { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 18px; }
-.sv-cards.is-4 { grid-template-columns: repeat(4, minmax(0,1fr)); }
-.sv-card { border-radius: 20px; padding: 22px 20px; }
-.sv-card:nth-child(4n+1) { background: #eff6ff; }
-.sv-card:nth-child(4n+2) { background: #f0fdf4; }
-.sv-card:nth-child(4n+3) { background: #fffbeb; }
-.sv-card:nth-child(4n+4) { background: #fdf2f8; }
-.sv-card h3 {
-  margin: 0 0 4px; font-size: 1.1rem; font-weight: 800;
+.hv2 .sv-series-art {
+  position: relative; display: block;
+  aspect-ratio: 16 / 9;
+  text-decoration: none;
+  background: #dbeafe;
+}
+.hv2 .sv-series-art img {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  /* The paintings carry a pale matte border; nudging the crop in hides it. */
+  transform: scale(1.04);
+}
+/* The series name sits on the picture, so it needs its own ground to stand on
+   rather than relying on whatever happens to be under it. */
+.hv2 .sv-series-art::after {
+  content: '';
+  position: absolute; inset: auto 0 0 0; height: 68%;
+  background: linear-gradient(180deg, rgba(10,25,40,0) 0%, rgba(10,25,40,.52) 46%, rgba(10,25,40,.86) 100%);
+}
+.hv2 .sv-series-part {
+  position: absolute; top: 12px; left: 12px; z-index: 2;
+  font-family: var(--font-display), sans-serif;
+  font-size: .72rem; font-weight: 800;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: var(--hv-green-dark);
+  background: rgba(255,255,255,.94);
+  padding: 5px 11px; border-radius: 999px;
+}
+.hv2 .sv-series-meta {
+  position: absolute; left: 16px; right: 16px; bottom: 13px; z-index: 2;
+  display: flex; flex-direction: column; gap: 2px;
+}
+.hv2 .sv-series-meta strong {
+  font-family: var(--font-display), sans-serif;
+  font-size: 1.22rem; font-weight: 800; line-height: 1.2;
+  color: #fff;
+  text-shadow: 0 2px 10px rgba(0,0,0,.5);
+}
+.hv2 .sv-series-meta em {
+  font-style: normal; font-size: .82rem; font-weight: 700;
+  color: rgba(255,255,255,.88);
+  text-shadow: 0 1px 6px rgba(0,0,0,.5);
+}
+.hv2 .sv-series-art:focus-visible { outline: 4px solid var(--hv-green); outline-offset: 2px; }
+
+.hv2 .sv-list {
+  margin: 0; padding: 16px 20px 20px 38px;
+  counter-reset: ep;
+  list-style: none;
+}
+.hv2 .sv-list li {
+  counter-increment: ep;
+  position: relative;
+  margin-bottom: 7px;
+  line-height: 1.45;
+}
+.hv2 .sv-list li::before {
+  content: counter(ep);
+  position: absolute; left: -24px; top: 1px;
+  width: 18px; text-align: right;
+  font-size: .78rem; font-weight: 800;
+  color: #9fb3c6;
+}
+.hv2 .sv-list a {
+  color: var(--hv-ink); text-decoration: none;
+  font-weight: 600; font-size: .95rem;
+  border-bottom: 2px solid transparent;
+}
+.hv2 .sv-list a:hover { color: var(--hv-green-dark); border-bottom-color: #bbf7d0; }
+
+/* ---------- age + theme cards ---------- */
+.hv2 .sv-cards {
+  display: grid; gap: 18px;
+  max-width: 1180px; margin: 0 auto;
+}
+.hv2 .sv-cards.is-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); max-width: 1000px; }
+.hv2 .sv-cards.is-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.hv2 .sv-card { border-radius: 22px; padding: 22px 22px 24px; }
+.hv2 .sv-card h3 {
+  margin: 0 0 2px; font-size: 1.18rem; font-weight: 800;
   text-transform: capitalize;
 }
-.sv-card-count { margin: 0 0 12px; font-size: .84rem; font-weight: 700; color: var(--hv-ink-soft); }
-.sv-card ul { list-style: none; padding: 0; margin: 0; }
-.sv-card li { margin-bottom: 5px; }
-.sv-card a {
-  color: var(--hv-ink); text-decoration: none; font-weight: 600; font-size: .92rem;
-  line-height: 1.45; display: block; padding: 3px 0;
+.hv2 .sv-card-count { margin: 0 0 12px; font-size: .85rem; font-weight: 700; color: var(--hv-ink-soft); }
+.hv2 .sv-card ul { list-style: none; margin: 0; padding: 0; }
+.hv2 .sv-card li { margin-bottom: 7px; line-height: 1.45; }
+.hv2 .sv-card a {
+  color: var(--hv-ink); text-decoration: none;
+  font-weight: 600; font-size: .93rem;
+  border-bottom: 2px solid transparent;
 }
-.sv-card a:hover { color: var(--hv-green-dark); text-decoration: underline; }
+.hv2 .sv-card a:hover { border-bottom-color: rgba(22,49,79,.25); }
+.hv2 .sv-theme { padding-top: 56px; position: relative; }
+.hv2 .sv-theme-icon {
+  position: absolute; top: 18px; left: 20px;
+  width: 36px; height: 36px; border-radius: 50%;
+  background: rgba(255,255,255,.75);
+  display: grid; place-items: center; font-size: 1.1rem;
+}
 
-/* ---------- faq ---------- */
-.sv-faq { display: grid; gap: 14px; max-width: 840px; margin: 0 auto; }
-.sv-faq-item { background: #fff; border-radius: 18px; padding: 22px 24px; box-shadow: 0 6px 18px rgba(22,49,79,.08); }
-.sv-faq-item h3 { margin: 0 0 8px; font-size: 1.05rem; font-weight: 800; }
-.sv-faq-item p { margin: 0; line-height: 1.65; color: var(--hv-ink-soft); font-weight: 600; font-size: .96rem; }
+/* ---------- FAQ ---------- */
+.hv2 .sv-faq { max-width: 780px; margin: 0 auto; }
 
+/* ---------- responsive ---------- */
 @media (max-width: 1000px) {
-  .sv-series-grid { grid-template-columns: 1fr; }
-  .sv-cards, .sv-cards.is-4 { grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .hv2 .sv-cards.is-4 { grid-template-columns: repeat(2, 1fr); }
+  .hv2 .sv-cards.is-3 { grid-template-columns: repeat(2, 1fr); max-width: 680px; }
 }
 @media (max-width: 620px) {
-  .sv-hero { min-height: 420px; padding: 30px 18px 110px; }
-  .sv-intro { margin-top: -70px; padding: 24px 20px; }
-  .sv-list { grid-template-columns: 1fr; }
-  .sv-cards, .sv-cards.is-4 { grid-template-columns: 1fr; }
+  .hv2 .sv-series-grid { grid-template-columns: 1fr; max-width: 440px; }
+  .hv2 .sv-cards.is-4,
+  .hv2 .sv-cards.is-3 { grid-template-columns: 1fr; max-width: 440px; }
+  .hv2 .sv-section { padding: 44px 18px 48px; }
 }

@@ -90,7 +90,7 @@ This story is episode 06 of 10 in the Exodus series:
 - [Manna from Heaven for Kids](/blog/manna-from-heaven-for-kids)
 - [The Ten Commandments for Kids](/blog/the-ten-commandments-for-kids)
 - [The Golden Calf for Kids](/blog/the-golden-calf-for-kids)
-- [Gods Presence for Kids](/blog/gods-presence-for-kids)
+- [God's Presence for Kids](/blog/gods-presence-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids

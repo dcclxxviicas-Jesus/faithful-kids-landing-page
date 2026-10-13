@@ -1,5 +1,5 @@
 ---
-title: "Daniels Resolve for Kids: Bible Story Explained Simply"
+title: "Daniel's Resolve for Kids: Bible Story Explained Simply"
 slug: "daniels-resolve-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -11,19 +11,19 @@ testament: "Old Testament"
 book: "Daniel/Jonah/Isaiah"
 age: "Ages 6+"
 themes: "courage, faith under pressure, obedience, hope"
-metaDescription: "Learn the story of Daniels Resolve explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of Daniel's Resolve explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, a quiz, and a free video."
 keywords: ["daniels resolve for kids", "daniels resolve bible story", "daniels resolve for children", "daniels resolve explained for kids", "daniels resolve story for kids", "bible stories for kids", "exile and faith for kids", "kids bible", "daniel/jonah/isaiah for kids"]
 videoUrl: "/videos/exile-and-faith/daniels-resolve/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Daniels Resolve for Kids: The Bible Story Explained Simply
+# Daniel's Resolve for Kids: The Bible Story Explained Simply
 
 **Series:** Exile and Faith (Episode 02 of 10) | **Scripture:** Daniel/Jonah/Isaiah | **Ages 6+**
 
-Daniels Resolve is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Daniel's Resolve is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Daniels Resolve for Kids?
+## What Is the Story of Daniel's Resolve for Kids?
 
 EXILE & FAITH — EPISODE 2: DANIEL'S RESOLVE Based on Daniel 1 | Narrated by Jesus
 
@@ -35,9 +35,9 @@ Sounds like a pretty good deal for a prisoner of war, right? New clothes. New ed
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
-## What Does the Story of Daniels Resolve Teach Children?
+## What Does the Story of Daniel's Resolve Teach Children?
 
-The story of Daniels Resolve teaches children important lessons about courage, faith under pressure, obedience, hope:
+The story of Daniel's Resolve teaches children important lessons about courage, faith under pressure, obedience, hope:
 
 - **Standing up for your faith might feel scary, but God protects those who trust Him**
 - **Prayer is powerful and worth doing even when others disagree**
@@ -81,9 +81,9 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Daniels Resolve?
+1. What was your favorite part of the story of Daniel's Resolve?
 2. What do you think God was teaching us through this story?
-3. How can we be more like Daniels in our own lives?
+3. How can we be more like Daniel's in our own lives?
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
@@ -92,14 +92,14 @@ Use these questions at the dinner table or during bedtime:
 This story is episode 02 of 10 in the Exile and Faith series:
 
 - [Judah Falls to Babylon for Kids](/blog/judah-falls-to-babylon-for-kids)
-- [Nebuchadnezzars Dream for Kids](/blog/nebuchadnezzars-dream-for-kids)
+- [Nebuchadnezzar's Dream for Kids](/blog/nebuchadnezzars-dream-for-kids)
 - [The Fiery Furnace for Kids](/blog/the-fiery-furnace-for-kids)
 - [The Writing on the Wall for Kids](/blog/the-writing-on-the-wall-for-kids)
-- [Daniel in the Lions Den for Kids](/blog/daniel-in-the-lions-den-for-kids)
+- [Daniel in the Lions' Den for Kids](/blog/daniel-in-the-lions-den-for-kids)
 - [Valley of Dry Bones for Kids](/blog/valley-of-dry-bones-for-kids)
 - [Jonah Running from God for Kids](/blog/jonah-running-from-god-for-kids)
 - [Jonah the Lesson for Kids](/blog/jonah-the-lesson-for-kids)
-- [Isaiahs Promise for Kids](/blog/isaiahs-promise-for-kids)
+- [Isaiah's Promise for Kids](/blog/isaiahs-promise-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids
@@ -112,26 +112,26 @@ Print the [Daniel word search](/printables/bible-word-search/daniel) for the tab
 
 ## Frequently Asked Questions
 
-### What is the story of Daniels Resolve about for kids?
+### What is the story of Daniel's Resolve about for kids?
 
-Daniels Resolve is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 2: DANIEL'S RESOLVE Based on Daniel 1 | Narrated by Jesus
+Daniel's Resolve is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 2: DANIEL'S RESOLVE Based on Daniel 1 | Narrated by Jesus
 
-### What age is the story of Daniels Resolve appropriate for?
+### What age is the story of Daniel's Resolve appropriate for?
 
-This retelling of Daniels Resolve is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Daniel's Resolve is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Daniels Resolve found in the Bible?
+### Where is Daniel's Resolve found in the Bible?
 
-Daniels Resolve is found in Daniel/Jonah/Isaiah in the Old Testament. It is part of the Exile and Faith series on Faithful Kids.
+Daniel's Resolve is found in Daniel/Jonah/Isaiah in the Old Testament. It is part of the Exile and Faith series on Faithful Kids.
 
-### Is there a video of Daniels Resolve for kids?
+### Is there a video of Daniel's Resolve for kids?
 
-Yes. Faithful Kids has a short video retelling of Daniels Resolve designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Daniel's Resolve designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Daniels Resolve for Sunday School or homeschool?
+### How can I use Daniel's Resolve for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Daniels Resolve teach kids?
+### What does Daniel's Resolve teach kids?
 
-The story of Daniels Resolve teaches children about courage, faith under pressure, obedience, hope. Standing up for your faith might feel scary, but God protects those who trust Him.
+The story of Daniel's Resolve teaches children about courage, faith under pressure, obedience, hope. Standing up for your faith might feel scary, but God protects those who trust Him.

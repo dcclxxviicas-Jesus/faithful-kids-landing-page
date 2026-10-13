@@ -22,7 +22,7 @@ The Bible calls patience a fruit of the Spirit -- something God grows in us, not
 The NIV's word "forbearance" simply means patience -- most translations say "patience" outright. Teach kids the fruit picture: you don't yell at a tree to grow apples; you water it. Prayer and practice are the watering. Our post on the [fruit of the Spirit for kids](/blog/fruit-of-the-spirit-for-kids-bible-stories) pairs each fruit with a story.
 
 ### 2. 1 Corinthians 13:4
-*"Love is patient, love is kind."*
+*"Love Is patient, love is kind."*
 
 The Bible's very first definition of love is patience. When your child is patient with a slow little sibling, name it: "That was love, right there."
 

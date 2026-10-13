@@ -1,7 +1,7 @@
 ---
 title: "Paul and Barnabas Split: Bible Story for Kids"
 slug: "paul-and-barnabas-split-for-kids"
-series: "Pauls Adventures"
+series: "Paul's Adventures"
 seriesSlug: "pauls-adventures"
 episode: 02
 scripture: ""
@@ -17,7 +17,7 @@ quizAvailable: true
 
 # Paul and Barnabas Split for Kids: The Bible Story Explained Simply
 
-**Series:** Pauls Adventures (Episode 02 of 10) | **Scripture:** Acts | **Ages 7+**
+**Series:** Paul's Adventures (Episode 02 of 10) | **Scripture:** Acts | **Ages 7+**
 
 Paul and Barnabas Split is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
@@ -78,19 +78,19 @@ Use these questions at the dinner table or during bedtime:
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## More Episodes in the Pauls Adventures Series
+## More Episodes in the Paul's Adventures Series
 
-This story is episode 02 of 10 in the Pauls Adventures series:
+This story is episode 02 of 10 in the Paul's Adventures series:
 
-- [Pauls First Journey for Kids](/blog/pauls-first-journey-for-kids)
+- [Paul's First Journey for Kids](/blog/pauls-first-journey-for-kids)
 - [Paul and Silas in Prison for Kids](/blog/paul-and-silas-in-prison-for-kids)
 - [Paul in Athens for Kids](/blog/paul-in-athens-for-kids)
 - [Paul in Corinth for Kids](/blog/paul-in-corinth-for-kids)
 - [The Riot in Ephesus for Kids](/blog/the-riot-in-ephesus-for-kids)
-- [Pauls Farewell for Kids](/blog/pauls-farewell-for-kids)
+- [Paul's Farewell for Kids](/blog/pauls-farewell-for-kids)
 - [Shipwrecked for Kids](/blog/shipwrecked-for-kids)
 - [Paul in Rome for Kids](/blog/paul-in-rome-for-kids)
-- [Pauls Legacy for Kids](/blog/pauls-legacy-for-kids)
+- [Paul's Legacy for Kids](/blog/pauls-legacy-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids
@@ -111,7 +111,7 @@ This retelling of Paul and Barnabas Split is designed for children Ages 7+. The 
 
 ### Where is Paul and Barnabas Split found in the Bible?
 
-Paul and Barnabas Split is found in Acts in the New Testament. It is part of the Pauls Adventures series on Faithful Kids.
+Paul and Barnabas Split is found in Acts in the New Testament. It is part of the Paul's Adventures series on Faithful Kids.
 
 ### Is there a video of Paul and Barnabas Split for kids?
 

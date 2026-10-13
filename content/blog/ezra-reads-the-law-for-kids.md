@@ -93,9 +93,9 @@ This story is episode 03 of 10 in the The Return Home series:
 
 - [Cyrus Sets Them Free for Kids](/blog/cyrus-sets-them-free-for-kids)
 - [Rebuilding the Temple for Kids](/blog/rebuilding-the-temple-for-kids)
-- [Nehemiahs Prayer for Kids](/blog/nehemiahs-prayer-for-kids)
+- [Nehemiah's Prayer for Kids](/blog/nehemiahs-prayer-for-kids)
 - [Rebuilding the Walls for Kids](/blog/rebuilding-the-walls-for-kids)
-- [The Wall is Finished for Kids](/blog/the-wall-is-finished-for-kids)
+- [The Wall Is Finished for Kids](/blog/the-wall-is-finished-for-kids)
 - [Esther Becomes Queen for Kids](/blog/esther-becomes-queen-for-kids)
 - [Hamans Evil Plot for Kids](/blog/hamans-evil-plot-for-kids)
 - [Esther Saves Her People for Kids](/blog/esther-saves-her-people-for-kids)

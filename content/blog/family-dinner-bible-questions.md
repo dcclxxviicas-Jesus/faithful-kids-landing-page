@@ -41,7 +41,7 @@ For an all-ages night, the [Bible quiz hub](/bible-quiz) collects every graded s
 *Verse: Matthew 5:44 -- "But I tell you, love your enemies and pray for those who persecute you."*
 
 **Week 5:** What's the difference between the world's definition of love and God's definition?
-*Verse: 1 Corinthians 13:4-7 -- "Love is patient, love is kind. It does not envy, it does not boast..."*
+*Verse: 1 Corinthians 13:4-7 -- "Love Is patient, love is kind. It does not envy, it does not boast..."*
 
 **Week 6:** How does our family show love to each other? What's one way we could do better?
 *Verse: Colossians 3:14 -- "And over all these virtues put on love, which binds them all together in perfect unity."*

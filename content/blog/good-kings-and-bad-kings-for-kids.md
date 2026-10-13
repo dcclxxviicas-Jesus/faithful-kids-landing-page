@@ -83,11 +83,11 @@ Use these questions at the dinner table or during bedtime:
 This story is episode 09 of 10 in the Solomon and the Kingdom series:
 
 - [Solomon Asks for Wisdom for Kids](/blog/solomon-asks-for-wisdom-for-kids)
-- [Solomons Wise Judgment for Kids](/blog/solomons-wise-judgment-for-kids)
+- [Solomon's Wise Judgment for Kids](/blog/solomons-wise-judgment-for-kids)
 - [Building the Temple for Kids](/blog/building-the-temple-for-kids)
-- [The Temple is Dedicated for Kids](/blog/the-temple-is-dedicated-for-kids)
+- [The Temple Is Dedicated for Kids](/blog/the-temple-is-dedicated-for-kids)
 - [The Queen of Sheba for Kids](/blog/the-queen-of-sheba-for-kids)
-- [Solomons Proverbs for Kids](/blog/solomons-proverbs-for-kids)
+- [Solomon's Proverbs for Kids](/blog/solomons-proverbs-for-kids)
 - [Solomon Turns Away for Kids](/blog/solomon-turns-away-for-kids)
 - [The Kingdom Splits for Kids](/blog/the-kingdom-splits-for-kids)
 - [The Northern Kingdom Falls for Kids](/blog/the-northern-kingdom-falls-for-kids)

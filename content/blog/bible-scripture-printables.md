@@ -58,7 +58,7 @@ These go where a kid is about to do something difficult: the back of a bedroom d
 
 These go in shared spaces: the kitchen, the hallway, the bathroom mirror, the spot where siblings argue.
 
-13. **"Love is patient, love is kind."** (1 Corinthians 13:4) Layout: 8x10, the two phrases stacked and centered, huge. The most reprinted verse in the English-speaking world and still a good printable.
+13. **"Love Is patient, love is kind."** (1 Corinthians 13:4) Layout: 8x10, the two phrases stacked and centered, huge. The most reprinted verse in the English-speaking world and still a good printable.
 
 14. **"Be kind and compassionate to one another."** (Ephesians 4:32) Layout: 5x7 landscape for a kitchen wall or the back of a bathroom door. Consider printing it twice and putting one in each kid's room.
 

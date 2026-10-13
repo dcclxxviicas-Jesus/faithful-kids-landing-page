@@ -94,7 +94,7 @@ This story is episode 05 of 10 in the Miracles of Jesus series:
 - [Healing the Blind Man for Kids](/blog/healing-the-blind-man-for-kids)
 - [Ten Lepers Healed for Kids](/blog/ten-lepers-healed-for-kids)
 - [The Demon Possessed Man for Kids](/blog/the-demon-possessed-man-for-kids)
-- [Jairus Daughter for Kids](/blog/jairus-daughter-for-kids)
+- [Jairus' Daughter for Kids](/blog/jairus-daughter-for-kids)
 - [The Withered Hand for Kids](/blog/the-withered-hand-for-kids)
 - [The Great Catch of Fish for Kids](/blog/the-great-catch-of-fish-for-kids)
 

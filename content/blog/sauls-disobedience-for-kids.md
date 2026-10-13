@@ -1,5 +1,5 @@
 ---
-title: "Sauls Disobedience for Kids: Bible Story Explained Simply"
+title: "Saul's Disobedience for Kids: Bible Story Explained Simply"
 slug: "sauls-disobedience-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -11,19 +11,19 @@ testament: "Old Testament"
 book: "1 Samuel"
 age: "Ages 5+"
 themes: "courage, faith, God choosing the unlikely"
-metaDescription: "Learn the story of Sauls Disobedience explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of Saul's Disobedience explained for kids ages 5+. Simple retelling from 1 Samuel, with key lessons, a quiz, and a free video."
 keywords: ["sauls disobedience for kids", "sauls disobedience bible story", "sauls disobedience for children", "sauls disobedience explained for kids", "sauls disobedience story for kids", "bible stories for kids", "rise of kings for kids", "kids bible", "1 samuel for kids"]
 videoUrl: "/videos/rise-of-kings/sauls-disobedience/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Sauls Disobedience for Kids: The Bible Story Explained Simply
+# Saul's Disobedience for Kids: The Bible Story Explained Simply
 
 **Series:** Rise of Kings (Episode 03 of 10) | **Scripture:** 1 Samuel | **Ages 5+**
 
-Sauls Disobedience is a Bible story from 1 Samuel in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Saul's Disobedience is a Bible story from 1 Samuel in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Sauls Disobedience for Kids?
+## What Is the Story of Saul's Disobedience for Kids?
 
 THE RISE OF KINGS — Episode 3: Saul's Disobedience Based on 1 Samuel 13, 15 | Narrated by Jesus
 
@@ -35,9 +35,9 @@ Day one passed. Day two. Day three. Soldiers were deserting left and right. By d
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
-## What Does the Story of Sauls Disobedience Teach Children?
+## What Does the Story of Saul's Disobedience Teach Children?
 
-The story of Sauls Disobedience teaches children important lessons about courage, faith, God choosing the unlikely:
+The story of Saul's Disobedience teaches children important lessons about courage, faith, God choosing the unlikely:
 
 - **This story teaches children about courage in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -79,9 +79,9 @@ After watching the video, see if your child can answer these questions:
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Sauls Disobedience?
+1. What was your favorite part of the story of Saul's Disobedience?
 2. What do you think God was teaching us through this story?
-3. How can we be more like Sauls in our own lives?
+3. How can we be more like Saul's in our own lives?
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
@@ -108,26 +108,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Sauls Disobedience about for kids?
+### What is the story of Saul's Disobedience about for kids?
 
-Sauls Disobedience is a story from 1 Samuel. THE RISE OF KINGS — Episode 3: Saul's Disobedience Based on 1 Samuel 13, 15 | Narrated by Jesus
+Saul's Disobedience is a story from 1 Samuel. THE RISE OF KINGS — Episode 3: Saul's Disobedience Based on 1 Samuel 13, 15 | Narrated by Jesus
 
-### What age is the story of Sauls Disobedience appropriate for?
+### What age is the story of Saul's Disobedience appropriate for?
 
-This retelling of Sauls Disobedience is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Saul's Disobedience is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Sauls Disobedience found in the Bible?
+### Where is Saul's Disobedience found in the Bible?
 
-Sauls Disobedience is found in 1 Samuel in the Old Testament. It is part of the Rise of Kings series on Faithful Kids.
+Saul's Disobedience is found in 1 Samuel in the Old Testament. It is part of the Rise of Kings series on Faithful Kids.
 
-### Is there a video of Sauls Disobedience for kids?
+### Is there a video of Saul's Disobedience for kids?
 
-Yes. Faithful Kids has a short video retelling of Sauls Disobedience designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Saul's Disobedience designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Sauls Disobedience for Sunday School or homeschool?
+### How can I use Saul's Disobedience for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Sauls Disobedience teach kids?
+### What does Saul's Disobedience teach kids?
 
-The story of Sauls Disobedience teaches children about courage, faith, God choosing the unlikely. This story teaches children about courage in a way they can understand.
+The story of Saul's Disobedience teaches children about courage, faith, God choosing the unlikely. This story teaches children about courage in a way they can understand.

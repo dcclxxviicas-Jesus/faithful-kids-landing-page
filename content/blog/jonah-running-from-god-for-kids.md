@@ -81,14 +81,14 @@ Use these questions at the dinner table or during bedtime:
 This story is episode 08 of 10 in the Exile and Faith series:
 
 - [Judah Falls to Babylon for Kids](/blog/judah-falls-to-babylon-for-kids)
-- [Daniels Resolve for Kids](/blog/daniels-resolve-for-kids)
-- [Nebuchadnezzars Dream for Kids](/blog/nebuchadnezzars-dream-for-kids)
+- [Daniel's Resolve for Kids](/blog/daniels-resolve-for-kids)
+- [Nebuchadnezzar's Dream for Kids](/blog/nebuchadnezzars-dream-for-kids)
 - [The Fiery Furnace for Kids](/blog/the-fiery-furnace-for-kids)
 - [The Writing on the Wall for Kids](/blog/the-writing-on-the-wall-for-kids)
-- [Daniel in the Lions Den for Kids](/blog/daniel-in-the-lions-den-for-kids)
+- [Daniel in the Lions' Den for Kids](/blog/daniel-in-the-lions-den-for-kids)
 - [Valley of Dry Bones for Kids](/blog/valley-of-dry-bones-for-kids)
 - [Jonah the Lesson for Kids](/blog/jonah-the-lesson-for-kids)
-- [Isaiahs Promise for Kids](/blog/isaiahs-promise-for-kids)
+- [Isaiah's Promise for Kids](/blog/isaiahs-promise-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids

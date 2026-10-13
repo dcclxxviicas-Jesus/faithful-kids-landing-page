@@ -1,5 +1,5 @@
 ---
-title: "Gideons 300 for Kids: Bible Story Explained Simply"
+title: "Gideon's 300 for Kids: Bible Story Explained Simply"
 slug: "gideons-300-for-kids"
 series: "Judges and Ruth"
 seriesSlug: "judges-and-ruth"
@@ -9,19 +9,19 @@ testament: "Old Testament"
 book: "Judges/Ruth"
 age: "Ages 6+"
 themes: "bravery, loyalty, faith, God's plan"
-metaDescription: "Learn the story of Gideons 300 explained for kids ages 5+. Simple retelling from Judges 7-8, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Gideon's 300 explained for kids ages 5+. Simple retelling from Judges 7-8, with key lessons, discussion questions, quiz, and a free video."
 keywords: ["gideons 300 for kids", "gideons 300 bible story", "gideons 300 for children", "gideons 300 explained for kids", "gideons 300 story for kids", "bible stories for kids", "judges and ruth for kids", "kids bible", "judges/ruth for kids"]
 videoUrl: "/videos/judges-and-ruth/gideons-300/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Gideons 300 for Kids: The Bible Story Explained Simply
+# Gideon's 300 for Kids: The Bible Story Explained Simply
 
 **Series:** Judges and Ruth (Episode 04 of 10) | **Scripture:** Judges 7-8 | **Ages 6+**
 
-Gideons 300 is a Bible story from Judges 7-8 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Gideon's 300 is a Bible story from Judges 7-8 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Gideons 300 for Kids?
+## What Is the Story of Gideon's 300 for Kids?
 
 Hey, welcome back! Last time we met Gideon — the scared guy hiding in a winepress who God called a mighty warrior. Well, today? Today is when things get absolutely WILD. Because Gideon is about to fight the biggest battle of his life with the most ridiculous battle plan you've ever heard.
 
@@ -33,9 +33,9 @@ Too many?! They're already outnumbered! But here's what I was doing. I wanted ev
 
 This story comes from Judges 7-8 and is part of the Old Testament.
 
-## What Does the Story of Gideons 300 Teach Children?
+## What Does the Story of Gideon's 300 Teach Children?
 
-The story of Gideons 300 teaches children important lessons about bravery, loyalty, faith, God's plan:
+The story of Gideon's 300 teaches children important lessons about bravery, loyalty, faith, God's plan:
 
 - **This story teaches children about bravery in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -72,9 +72,9 @@ Instead of traditional weapons, each of the 300 men carried a trumpet, a clay ja
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Gideons 300?
+1. What was your favorite part of the story of Gideon's 300?
 2. What do you think God was teaching us through this story?
-3. How can we be more like Gideons in our own lives?
+3. How can we be more like Gideon's in our own lives?
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
@@ -86,10 +86,10 @@ This story is episode 04 of 10 in the Judges and Ruth series:
 - [Deborah a Brave Leader for Kids](/blog/deborah-a-brave-leader-for-kids)
 - [Gideon the Unlikely Hero for Kids](/blog/gideon-the-unlikely-hero-for-kids)
 - [Samson Strongest Man Alive for Kids](/blog/samson-strongest-man-alive-for-kids)
-- [Samsons Fall and Final Stand for Kids](/blog/samsons-fall-and-final-stand-for-kids)
+- [Samson's Fall and Final Stand for Kids](/blog/samsons-fall-and-final-stand-for-kids)
 - [Ruth a Story of Loyalty for Kids](/blog/ruth-a-story-of-loyalty-for-kids)
 - [Ruth and Boaz for Kids](/blog/ruth-and-boaz-for-kids)
-- [Hannahs Prayer for Kids](/blog/hannahs-prayer-for-kids)
+- [Hannah's Prayer for Kids](/blog/hannahs-prayer-for-kids)
 - [God Calls Samuel for Kids](/blog/god-calls-samuel-for-kids)
 
 
@@ -101,26 +101,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Gideons 300 about for kids?
+### What is the story of Gideon's 300 about for kids?
 
-Gideons 300 is a story from Judges 7-8. Hey, welcome back! Last time we met Gideon — the scared guy hiding in a winepress who God called a mighty warrior. Well, today? Today is when things get absolutely WILD. Because Gideon is about to ...
+Gideon's 300 is a story from Judges 7-8. Hey, welcome back! Last time we met Gideon — the scared guy hiding in a winepress who God called a mighty warrior. Well, today? Today is when things get absolutely WILD. Because Gideon is about to ...
 
-### What age is the story of Gideons 300 appropriate for?
+### What age is the story of Gideon's 300 appropriate for?
 
-This retelling of Gideons 300 is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Gideon's 300 is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Gideons 300 found in the Bible?
+### Where is Gideon's 300 found in the Bible?
 
-Gideons 300 is found in Judges 7-8 in the Old Testament. It is part of the Judges and Ruth series on Faithful Kids.
+Gideon's 300 is found in Judges 7-8 in the Old Testament. It is part of the Judges and Ruth series on Faithful Kids.
 
-### Is there a video of Gideons 300 for kids?
+### Is there a video of Gideon's 300 for kids?
 
-Yes. Faithful Kids has a short video retelling of Gideons 300 designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Gideon's 300 designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Gideons 300 for Sunday School or homeschool?
+### How can I use Gideon's 300 for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Gideons 300 teach kids?
+### What does Gideon's 300 teach kids?
 
-The story of Gideons 300 teaches children about bravery, loyalty, faith, God's plan. This story teaches children about bravery in a way they can understand.
+The story of Gideon's 300 teaches children about bravery, loyalty, faith, God's plan. This story teaches children about bravery in a way they can understand.

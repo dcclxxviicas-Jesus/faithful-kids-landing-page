@@ -91,7 +91,7 @@ Many of the most quoted Bible verses come from Paul's letters:
 
 - "I can do all this through him who gives me strength" (Philippians 4:13)
 - "For I am convinced that neither death nor life... will be able to separate us from the love of God" (Romans 8:38-39)
-- "Love is patient, love is kind..." (1 Corinthians 13:4)
+- "Love Is patient, love is kind..." (1 Corinthians 13:4)
 - "For it is by grace you have been saved, through faith" (Ephesians 2:8)
 
 **Key lesson for kids:** Your circumstances don't determine your impact. Paul was in chains, but his words have changed billions of lives over two thousand years. A prison cell didn't stop him from serving God. Nothing can stop God's work through a willing heart.

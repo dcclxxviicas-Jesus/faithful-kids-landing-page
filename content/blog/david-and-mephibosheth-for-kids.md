@@ -3,7 +3,7 @@ title: "David and Mephibosheth: Bible Story for Kids"
 slug: "david-and-mephibosheth-for-kids"
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
-series: "King Davids Reign"
+series: "King David's Reign"
 seriesSlug: "king-davids-reign"
 episode: 03
 scripture: ""
@@ -19,7 +19,7 @@ quizAvailable: true
 
 # David and Mephibosheth for Kids: The Bible Story Explained Simply
 
-**Series:** King Davids Reign (Episode 03 of 10) | **Scripture:** 2 Samuel/Psalms | **Ages 6+**
+**Series:** King David's Reign (Episode 03 of 10) | **Scripture:** 2 Samuel/Psalms | **Ages 6+**
 
 David and Mephibosheth is a Bible story from 2 Samuel/Psalms in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
@@ -95,19 +95,19 @@ Use these questions at the dinner table or during bedtime:
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## More Episodes in the King Davids Reign Series
+## More Episodes in the King David's Reign Series
 
-This story is episode 03 of 10 in the King Davids Reign series:
+This story is episode 03 of 10 in the King David's Reign series:
 
 - [Dancing Before the Lord for Kids](/blog/dancing-before-the-lord-for-kids)
-- [Gods Promise to David for Kids](/blog/gods-promise-to-david-for-kids)
-- [Davids Big Mistake for Kids](/blog/davids-big-mistake-for-kids)
-- [The Shepherds Song for Kids](/blog/the-shepherds-song-for-kids)
+- [God's Promise to David for Kids](/blog/gods-promise-to-david-for-kids)
+- [David's Big Mistake for Kids](/blog/davids-big-mistake-for-kids)
+- [The Shepherd's Song for Kids](/blog/the-shepherds-song-for-kids)
 - [Songs of Praise for Kids](/blog/songs-of-praise-for-kids)
-- [Absaloms Rebellion for Kids](/blog/absaloms-rebellion-for-kids)
-- [Davids Repentance for Kids](/blog/davids-repentance-for-kids)
-- [Solomon is Chosen for Kids](/blog/solomon-is-chosen-for-kids)
-- [Davids Final Words for Kids](/blog/davids-final-words-for-kids)
+- [Absalom's Rebellion for Kids](/blog/absaloms-rebellion-for-kids)
+- [David's Repentance for Kids](/blog/davids-repentance-for-kids)
+- [Solomon Is Chosen for Kids](/blog/solomon-is-chosen-for-kids)
+- [David's Final Words for Kids](/blog/davids-final-words-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids
@@ -130,7 +130,7 @@ This retelling of David and Mephibosheth is designed for children Ages 6+. The l
 
 ### Where is David and Mephibosheth found in the Bible?
 
-David and Mephibosheth is found in 2 Samuel/Psalms in the Old Testament. It is part of the King Davids Reign series on Faithful Kids.
+David and Mephibosheth is found in 2 Samuel/Psalms in the Old Testament. It is part of the King David's Reign series on Faithful Kids.
 
 ### Is there a video of David and Mephibosheth for kids?
 

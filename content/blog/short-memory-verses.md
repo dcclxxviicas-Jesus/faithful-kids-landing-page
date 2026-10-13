@@ -30,7 +30,7 @@ All 40 verses below pass all three. Quotations are from the NIV unless noted, an
 
 *"God is love."*
 
-**What it means:** Love is not just something God does -- it is who He is.
+**What it means:** Love Is not just something God does -- it is who He is.
 
 ### 3. Psalm 23:1
 
@@ -138,7 +138,7 @@ All 40 verses below pass all three. Quotations are from the NIV unless noted, an
 
 ### 20. 1 Corinthians 13:4
 
-*"Love is patient, love is kind."*
+*"Love Is patient, love is kind."*
 
 **What it means:** If it isn't patient and kind, it isn't really love.
 

@@ -82,7 +82,7 @@ This story is episode 06 of 10 in the Teachings of Jesus series:
 
 - [The Sermon on the Mount for Kids](/blog/the-sermon-on-the-mount-for-kids)
 - [The Beatitudes for Kids](/blog/the-beatitudes-for-kids)
-- [The Lords Prayer for Kids](/blog/the-lords-prayer-for-kids)
+- [The Lord's Prayer for Kids](/blog/the-lords-prayer-for-kids)
 - [The Good Samaritan for Kids](/blog/the-good-samaritan-for-kids)
 - [The Prodigal Son for Kids](/blog/the-prodigal-son-for-kids)
 - [The Mustard Seed for Kids](/blog/the-mustard-seed-for-kids)

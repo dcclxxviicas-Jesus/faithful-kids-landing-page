@@ -104,10 +104,10 @@ Use these questions at the dinner table or during bedtime:
 This story is episode 06 of 10 in the Elijah and Elisha series:
 
 - [Elijah and the Ravens for Kids](/blog/elijah-and-the-ravens-for-kids)
-- [The Widows Oil for Kids](/blog/the-widows-oil-for-kids)
+- [The Widow's Oil for Kids](/blog/the-widows-oil-for-kids)
 - [Fire from Heaven for Kids](/blog/fire-from-heaven-for-kids)
 - [The Still Small Voice for Kids](/blog/the-still-small-voice-for-kids)
-- [Naboths Vineyard for Kids](/blog/naboths-vineyard-for-kids)
+- [Naboth's Vineyard for Kids](/blog/naboths-vineyard-for-kids)
 - [Elisha Double Portion for Kids](/blog/elisha-double-portion-for-kids)
 - [The Room on the Roof for Kids](/blog/the-room-on-the-roof-for-kids)
 - [Naaman the Leper for Kids](/blog/naaman-the-leper-for-kids)

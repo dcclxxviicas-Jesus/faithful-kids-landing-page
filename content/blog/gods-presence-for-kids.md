@@ -1,5 +1,5 @@
 ---
-title: "Gods Presence for Kids: Bible Story Explained Simply"
+title: "God's Presence for Kids: Bible Story Explained Simply"
 slug: "gods-presence-for-kids"
 series: "Exodus"
 seriesSlug: "exodus"
@@ -9,19 +9,19 @@ testament: "Old Testament"
 book: "Exodus"
 age: "Ages 5+"
 themes: "freedom, courage, God's power, obedience"
-metaDescription: "Learn the story of Gods Presence explained for kids ages 5+. Simple retelling from Exodus 33-40, with key lessons, discussion questions, quiz."
+metaDescription: "Learn the story of God's Presence explained for kids ages 5+. Simple retelling from Exodus 33-40, with key lessons, discussion questions, quiz."
 keywords: ["gods presence for kids", "gods presence bible story", "gods presence for children", "gods presence explained for kids", "gods presence story for kids", "bible stories for kids", "exodus for kids", "kids bible", "exodus for kids"]
 videoUrl: "/videos/exodus/gods-presence/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Gods Presence for Kids: The Bible Story Explained Simply
+# God's Presence for Kids: The Bible Story Explained Simply
 
 **Series:** Exodus (Episode 10 of 10) | **Scripture:** Exodus 33-40 | **Ages 5+**
 
-Gods Presence is a Bible story from Exodus 33-40 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+God's Presence is a Bible story from Exodus 33-40 in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Gods Presence for Kids?
+## What Is the Story of God's Presence for Kids?
 
 Hey, friends! Welcome to the final episode of our Exodus journey. We've saved the best for last. Everything — the plagues, the Passover, the Red Sea, the manna, the commandments, even the golden calf — it all leads to this moment.
 
@@ -33,9 +33,9 @@ God gave Moses new stone tablets to replace the shattered ones. A fresh start. T
 
 This story comes from Exodus 33-40 and is part of the Old Testament.
 
-## What Does the Story of Gods Presence Teach Children?
+## What Does the Story of God's Presence Teach Children?
 
-The story of Gods Presence teaches children important lessons about freedom, courage, God's power, obedience:
+The story of God's Presence teaches children important lessons about freedom, courage, God's power, obedience:
 
 - **This story teaches children about freedom in a way they can understand**
 - **God's love and faithfulness are visible throughout this story**
@@ -72,7 +72,7 @@ The whole story of Exodus is about God rescuing His people from slavery and then
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Gods Presence?
+1. What was your favorite part of the story of God's Presence?
 2. What do you think God was teaching us through this story?
 3. How can we be more like Gods in our own lives?
 4. If you were in this story, what would you have done differently?
@@ -101,26 +101,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Gods Presence about for kids?
+### What is the story of God's Presence about for kids?
 
-Gods Presence is a story from Exodus 33-40. Hey, friends! Welcome to the final episode of our Exodus journey. We've saved the best for last. Everything — the plagues, the Passover, the Red Sea, the manna, the commandments, even the golden ca...
+God's Presence is a story from Exodus 33-40. Hey, friends! Welcome to the final episode of our Exodus journey. We've saved the best for last. Everything — the plagues, the Passover, the Red Sea, the manna, the commandments, even the golden ca...
 
-### What age is the story of Gods Presence appropriate for?
+### What age is the story of God's Presence appropriate for?
 
-This retelling of Gods Presence is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of God's Presence is designed for children Ages 5+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Gods Presence found in the Bible?
+### Where is God's Presence found in the Bible?
 
-Gods Presence is found in Exodus 33-40 in the Old Testament. It is part of the Exodus series on Faithful Kids.
+God's Presence is found in Exodus 33-40 in the Old Testament. It is part of the Exodus series on Faithful Kids.
 
-### Is there a video of Gods Presence for kids?
+### Is there a video of God's Presence for kids?
 
-Yes. Faithful Kids has a short video retelling of Gods Presence designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of God's Presence designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Gods Presence for Sunday School or homeschool?
+### How can I use God's Presence for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Gods Presence teach kids?
+### What does God's Presence teach kids?
 
-The story of Gods Presence teaches children about freedom, courage, God's power, obedience. This story teaches children about freedom in a way they can understand.
+The story of God's Presence teaches children about freedom, courage, God's power, obedience. This story teaches children about freedom in a way they can understand.

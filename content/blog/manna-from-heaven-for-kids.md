@@ -88,7 +88,7 @@ This story is episode 07 of 10 in the Exodus series:
 - [Crossing the Red Sea for Kids](/blog/crossing-the-red-sea-for-kids)
 - [The Ten Commandments for Kids](/blog/the-ten-commandments-for-kids)
 - [The Golden Calf for Kids](/blog/the-golden-calf-for-kids)
-- [Gods Presence for Kids](/blog/gods-presence-for-kids)
+- [God's Presence for Kids](/blog/gods-presence-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids

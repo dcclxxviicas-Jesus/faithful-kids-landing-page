@@ -1,7 +1,7 @@
 ---
-title: "Pauls First Journey for Kids: Bible Story Explained Simply"
+title: "Paul's First Journey for Kids: Bible Story Explained Simply"
 slug: "pauls-first-journey-for-kids"
-series: "Pauls Adventures"
+series: "Paul's Adventures"
 seriesSlug: "pauls-adventures"
 episode: 01
 scripture: ""
@@ -9,19 +9,19 @@ testament: "New Testament"
 book: "Acts"
 age: "Ages 7+"
 themes: "adventure, perseverance, sharing faith, courage"
-metaDescription: "Learn the story of Pauls First Journey explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
+metaDescription: "Learn the story of Paul's First Journey explained for kids ages 5+. Simple retelling from Acts, with key lessons, discussion questions, quiz, and a free video."
 keywords: ["pauls first journey for kids", "pauls first journey bible story", "pauls first journey for children", "pauls first journey explained for kids", "pauls first journey story for kids", "bible stories for kids", "pauls adventures for kids", "kids bible", "acts for kids"]
 videoUrl: "/videos/pauls-adventures/pauls-first-journey/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Pauls First Journey for Kids: The Bible Story Explained Simply
+# Paul's First Journey for Kids: The Bible Story Explained Simply
 
-**Series:** Pauls Adventures (Episode 01 of 10) | **Scripture:** Acts | **Ages 7+**
+**Series:** Paul's Adventures (Episode 01 of 10) | **Scripture:** Acts | **Ages 7+**
 
-Pauls First Journey is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Paul's First Journey is a Bible story from Acts in the New Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Pauls First Journey for Kids?
+## What Is the Story of Paul's First Journey for Kids?
 
 PAUL'S ADVENTURES — EPISODE 1: PAUL'S FIRST JOURNEY Based on Acts 13-14 Series: Paul's Adventures | Episode 1 of 10 Target audience: Kids ages 7-15
 
@@ -33,9 +33,9 @@ First stop — the island of Cyprus. They're preaching in synagogues when they r
 
 This story comes from Acts and is part of the New Testament.
 
-## What Does the Story of Pauls First Journey Teach Children?
+## What Does the Story of Paul's First Journey Teach Children?
 
-The story of Pauls First Journey teaches children important lessons about adventure, perseverance, sharing faith, courage:
+The story of Paul's First Journey teaches children important lessons about adventure, perseverance, sharing faith, courage:
 
 - **Worshiping God in hard times shows real faith**
 - **God can work miracles even in the darkest situations**
@@ -70,25 +70,25 @@ Paul got back up, walked right back into the city, and traveled to the next town
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Pauls First Journey?
+1. What was your favorite part of the story of Paul's First Journey?
 2. What do you think God was teaching us through this story?
-3. How can we be more like Pauls in our own lives?
+3. How can we be more like Paul's in our own lives?
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
-## More Episodes in the Pauls Adventures Series
+## More Episodes in the Paul's Adventures Series
 
-This story is episode 01 of 10 in the Pauls Adventures series:
+This story is episode 01 of 10 in the Paul's Adventures series:
 
 - [Paul and Barnabas Split for Kids](/blog/paul-and-barnabas-split-for-kids)
 - [Paul and Silas in Prison for Kids](/blog/paul-and-silas-in-prison-for-kids)
 - [Paul in Athens for Kids](/blog/paul-in-athens-for-kids)
 - [Paul in Corinth for Kids](/blog/paul-in-corinth-for-kids)
 - [The Riot in Ephesus for Kids](/blog/the-riot-in-ephesus-for-kids)
-- [Pauls Farewell for Kids](/blog/pauls-farewell-for-kids)
+- [Paul's Farewell for Kids](/blog/pauls-farewell-for-kids)
 - [Shipwrecked for Kids](/blog/shipwrecked-for-kids)
 - [Paul in Rome for Kids](/blog/paul-in-rome-for-kids)
-- [Pauls Legacy for Kids](/blog/pauls-legacy-for-kids)
+- [Paul's Legacy for Kids](/blog/pauls-legacy-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids
@@ -99,26 +99,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Pauls First Journey about for kids?
+### What is the story of Paul's First Journey about for kids?
 
-Pauls First Journey is a story from Acts. PAUL'S ADVENTURES — EPISODE 1: PAUL'S FIRST JOURNEY Based on Acts 13-14 Series: Paul's Adventures | Episode 1 of 10 Target audience: Kids ages 7-15
+Paul's First Journey is a story from Acts. PAUL'S ADVENTURES — EPISODE 1: PAUL'S FIRST JOURNEY Based on Acts 13-14 Series: Paul's Adventures | Episode 1 of 10 Target audience: Kids ages 7-15
 
-### What age is the story of Pauls First Journey appropriate for?
+### What age is the story of Paul's First Journey appropriate for?
 
-This retelling of Pauls First Journey is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Paul's First Journey is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Pauls First Journey found in the Bible?
+### Where is Paul's First Journey found in the Bible?
 
-Pauls First Journey is found in Acts in the New Testament. It is part of the Pauls Adventures series on Faithful Kids.
+Paul's First Journey is found in Acts in the New Testament. It is part of the Paul's Adventures series on Faithful Kids.
 
-### Is there a video of Pauls First Journey for kids?
+### Is there a video of Paul's First Journey for kids?
 
-Yes. Faithful Kids has a short video retelling of Pauls First Journey designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Paul's First Journey designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Pauls First Journey for Sunday School or homeschool?
+### How can I use Paul's First Journey for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Pauls First Journey teach kids?
+### What does Paul's First Journey teach kids?
 
-The story of Pauls First Journey teaches children about adventure, perseverance, sharing faith, courage. Worshiping God in hard times shows real faith.
+The story of Paul's First Journey teaches children about adventure, perseverance, sharing faith, courage. Worshiping God in hard times shows real faith.

@@ -11,19 +11,19 @@ testament: "Old Testament"
 book: "1 Kings"
 age: "Ages 7+"
 themes: "wisdom, worship, consequences, choices"
-metaDescription: "Learn the story of Solomons Wise Judgment explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of Solomon's Wise Judgment explained for kids ages 5+. Simple retelling from 1 Kings, with key lessons, a quiz, and a free video."
 keywords: ["solomons wise judgment for kids", "solomons wise judgment bible story", "solomons wise judgment for children", "solomons wise judgment explained for kids", "solomons wise judgment story for kids", "bible stories for kids", "solomon and the kingdom for kids", "kids bible", "1 kings for kids"]
 videoUrl: "/videos/solomon-and-the-kingdom/solomons-wise-judgment/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Solomons Wise Judgment for Kids: The Bible Story Explained Simply
+# Solomon's Wise Judgment for Kids: The Bible Story Explained Simply
 
 **Series:** Solomon and the Kingdom (Episode 02 of 10) | **Scripture:** 1 Kings | **Ages 7+**
 
-Solomons Wise Judgment is a Bible story from 1 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Solomon's Wise Judgment is a Bible story from 1 Kings in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Solomons Wise Judgment for Kids?
+## What Is the Story of Solomon's Wise Judgment for Kids?
 
 SOLOMON & THE KINGDOM — Episode 2: Solomon's Wise Judgment Bible Reference: 1 Kings 3:16-28 Series: Solomon & the Kingdom
 
@@ -35,9 +35,9 @@ When morning came, the second woman woke up to nurse her baby — and realized t
 
 This story comes from 1 Kings and is part of the Old Testament.
 
-## What Does the Story of Solomons Wise Judgment Teach Children?
+## What Does the Story of Solomon's Wise Judgment Teach Children?
 
-The story of Solomons Wise Judgment teaches children important lessons about wisdom, worship, consequences, choices:
+The story of Solomon's Wise Judgment teaches children important lessons about wisdom, worship, consequences, choices:
 
 - **Wisdom is more valuable than money or power**
 - **Asking God for help shows strength, not weakness**
@@ -79,9 +79,9 @@ All Israel heard about the verdict and held the king in awe. They recognized thi
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Solomons Wise Judgment?
+1. What was your favorite part of the story of Solomon's Wise Judgment?
 2. What do you think God was teaching us through this story?
-3. How can we be more like Solomons in our own lives?
+3. How can we be more like Solomon's in our own lives?
 4. If you were in this story, what would you have done differently?
 5. What does this story teach us about trusting God?
 
@@ -91,9 +91,9 @@ This story is episode 02 of 10 in the Solomon and the Kingdom series:
 
 - [Solomon Asks for Wisdom for Kids](/blog/solomon-asks-for-wisdom-for-kids)
 - [Building the Temple for Kids](/blog/building-the-temple-for-kids)
-- [The Temple is Dedicated for Kids](/blog/the-temple-is-dedicated-for-kids)
+- [The Temple Is Dedicated for Kids](/blog/the-temple-is-dedicated-for-kids)
 - [The Queen of Sheba for Kids](/blog/the-queen-of-sheba-for-kids)
-- [Solomons Proverbs for Kids](/blog/solomons-proverbs-for-kids)
+- [Solomon's Proverbs for Kids](/blog/solomons-proverbs-for-kids)
 - [Solomon Turns Away for Kids](/blog/solomon-turns-away-for-kids)
 - [The Kingdom Splits for Kids](/blog/the-kingdom-splits-for-kids)
 - [Good Kings and Bad Kings for Kids](/blog/good-kings-and-bad-kings-for-kids)
@@ -108,26 +108,26 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ## Frequently Asked Questions
 
-### What is the story of Solomons Wise Judgment about for kids?
+### What is the story of Solomon's Wise Judgment about for kids?
 
-Solomons Wise Judgment is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 2: Solomon's Wise Judgment Bible Reference: 1 Kings 3:16-28 Series: Solomon & the Kingdom
+Solomon's Wise Judgment is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 2: Solomon's Wise Judgment Bible Reference: 1 Kings 3:16-28 Series: Solomon & the Kingdom
 
-### What age is the story of Solomons Wise Judgment appropriate for?
+### What age is the story of Solomon's Wise Judgment appropriate for?
 
-This retelling of Solomons Wise Judgment is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Solomon's Wise Judgment is designed for children Ages 7+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Solomons Wise Judgment found in the Bible?
+### Where is Solomon's Wise Judgment found in the Bible?
 
-Solomons Wise Judgment is found in 1 Kings in the Old Testament. It is part of the Solomon and the Kingdom series on Faithful Kids.
+Solomon's Wise Judgment is found in 1 Kings in the Old Testament. It is part of the Solomon and the Kingdom series on Faithful Kids.
 
-### Is there a video of Solomons Wise Judgment for kids?
+### Is there a video of Solomon's Wise Judgment for kids?
 
-Yes. Faithful Kids has a short video retelling of Solomons Wise Judgment designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Solomon's Wise Judgment designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Solomons Wise Judgment for Sunday School or homeschool?
+### How can I use Solomon's Wise Judgment for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Solomons Wise Judgment teach kids?
+### What does Solomon's Wise Judgment teach kids?
 
-The story of Solomons Wise Judgment teaches children about wisdom, worship, consequences, choices. Wisdom is more valuable than money or power.
+The story of Solomon's Wise Judgment teaches children about wisdom, worship, consequences, choices. Wisdom is more valuable than money or power.

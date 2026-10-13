@@ -1,5 +1,5 @@
 ---
-title: "Daniel in the Lions Den: Bible Story for Kids"
+title: "Daniel in the Lions' Den: Bible Story for Kids"
 slug: "daniel-in-the-lions-den-for-kids"
 series: "Exile and Faith"
 seriesSlug: "exile-and-faith"
@@ -9,19 +9,19 @@ testament: "Old Testament"
 book: "Daniel/Jonah/Isaiah"
 age: "Ages 6+"
 themes: "courage, faith under pressure, obedience, hope"
-metaDescription: "Learn the story of Daniel in the Lions Den explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, a quiz, and a free video."
+metaDescription: "Learn the story of Daniel in the Lions' Den explained for kids ages 5+. Simple retelling from Daniel/Jonah/Isaiah, with key lessons, a quiz, and a free video."
 keywords: ["daniel in the lions den for kids", "daniel in the lions den bible story", "daniel in the lions den for children", "daniel in the lions den explained for kids", "daniel in the lions den story for kids", "bible stories for kids", "exile and faith for kids", "kids bible", "daniel/jonah/isaiah for kids"]
 videoUrl: "/videos/exile-and-faith/daniel-in-the-lions-den/lesson-video.mp4"
 quizAvailable: true
 ---
 
-# Daniel in the Lions Den for Kids: The Bible Story Explained Simply
+# Daniel in the Lions' Den for Kids: The Bible Story Explained Simply
 
 **Series:** Exile and Faith (Episode 06 of 10) | **Scripture:** Daniel/Jonah/Isaiah | **Ages 6+**
 
-Daniel in the Lions Den is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
+Daniel in the Lions' Den is a Bible story from Daniel/Jonah/Isaiah in the Old Testament. This retelling is designed for kids ages 5 and up, using simple language they can understand and lessons they will remember.
 
-## What Is the Story of Daniel in the Lions Den for Kids?
+## What Is the Story of Daniel in the Lions' Den for Kids?
 
 EXILE & FAITH — EPISODE 6: DANIEL IN THE LIONS' DEN Based on Daniel 6 | Narrated by Jesus
 
@@ -33,9 +33,9 @@ The other officials are furious. They start digging into Daniel's record, lookin
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
-## What Does the Story of Daniel in the Lions Den Teach Children?
+## What Does the Story of Daniel in the Lions' Den Teach Children?
 
-The story of Daniel in the Lions Den teaches children important lessons about courage, faith under pressure, obedience, hope:
+The story of Daniel in the Lions' Den teaches children important lessons about courage, faith under pressure, obedience, hope:
 
 - **Standing up for your faith might feel scary, but God protects those who trust Him**
 - **Prayer is powerful and worth doing even when others disagree**
@@ -72,7 +72,7 @@ Daniel told King Darius, "My God sent His angel and shut the lions' mouths." Dan
 
 Use these questions at the dinner table or during bedtime:
 
-1. What was your favorite part of the story of Daniel in the Lions Den?
+1. What was your favorite part of the story of Daniel in the Lions' Den?
 2. What do you think God was teaching us through this story?
 3. How can we be more like Daniel in our own lives?
 4. If you were in this story, what would you have done differently?
@@ -83,14 +83,14 @@ Use these questions at the dinner table or during bedtime:
 This story is episode 06 of 10 in the Exile and Faith series:
 
 - [Judah Falls to Babylon for Kids](/blog/judah-falls-to-babylon-for-kids)
-- [Daniels Resolve for Kids](/blog/daniels-resolve-for-kids)
-- [Nebuchadnezzars Dream for Kids](/blog/nebuchadnezzars-dream-for-kids)
+- [Daniel's Resolve for Kids](/blog/daniels-resolve-for-kids)
+- [Nebuchadnezzar's Dream for Kids](/blog/nebuchadnezzars-dream-for-kids)
 - [The Fiery Furnace for Kids](/blog/the-fiery-furnace-for-kids)
 - [The Writing on the Wall for Kids](/blog/the-writing-on-the-wall-for-kids)
 - [Valley of Dry Bones for Kids](/blog/valley-of-dry-bones-for-kids)
 - [Jonah Running from God for Kids](/blog/jonah-running-from-god-for-kids)
 - [Jonah the Lesson for Kids](/blog/jonah-the-lesson-for-kids)
-- [Isaiahs Promise for Kids](/blog/isaiahs-promise-for-kids)
+- [Isaiah's Promise for Kids](/blog/isaiahs-promise-for-kids)
 
 
 ## 300+ Bible Stories for Kids on Faithful Kids
@@ -103,26 +103,26 @@ There is a free [Daniel in the lions' den coloring page](/printables/bible-color
 
 ## Frequently Asked Questions
 
-### What is the story of Daniel in the Lions Den about for kids?
+### What is the story of Daniel in the Lions' Den about for kids?
 
-Daniel in the Lions Den is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 6: DANIEL IN THE LIONS' DEN Based on Daniel 6 | Narrated by Jesus
+Daniel in the Lions' Den is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 6: DANIEL IN THE LIONS' DEN Based on Daniel 6 | Narrated by Jesus
 
-### What age is the story of Daniel in the Lions Den appropriate for?
+### What age is the story of Daniel in the Lions' Den appropriate for?
 
-This retelling of Daniel in the Lions Den is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
+This retelling of Daniel in the Lions' Den is designed for children Ages 6+. The language is simple and age-appropriate, and the video is just a few minutes long, perfect for young attention spans.
 
-### Where is Daniel in the Lions Den found in the Bible?
+### Where is Daniel in the Lions' Den found in the Bible?
 
-Daniel in the Lions Den is found in Daniel/Jonah/Isaiah in the Old Testament. It is part of the Exile and Faith series on Faithful Kids.
+Daniel in the Lions' Den is found in Daniel/Jonah/Isaiah in the Old Testament. It is part of the Exile and Faith series on Faithful Kids.
 
-### Is there a video of Daniel in the Lions Den for kids?
+### Is there a video of Daniel in the Lions' Den for kids?
 
-Yes. Faithful Kids has a short video retelling of Daniel in the Lions Den designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
+Yes. Faithful Kids has a short video retelling of Daniel in the Lions' Den designed for children, with narration, visuals, and a comprehension quiz. [Watch it here](https://faithfulkids.app/quiz?ref=blog).
 
-### How can I use Daniel in the Lions Den for Sunday School or homeschool?
+### How can I use Daniel in the Lions' Den for Sunday School or homeschool?
 
 Play the short Faithful Kids video as an introduction, then use the discussion questions above for group conversation. The built-in quiz checks comprehension. Many Sunday school teachers and homeschool parents use Faithful Kids as weekly curriculum.
 
-### What does Daniel in the Lions Den teach kids?
+### What does Daniel in the Lions' Den teach kids?
 
-The story of Daniel in the Lions Den teaches children about courage, faith under pressure, obedience, hope. Standing up for your faith might feel scary, but God protects those who trust Him.
+The story of Daniel in the Lions' Den teaches children about courage, faith under pressure, obedience, hope. Standing up for your faith might feel scary, but God protects those who trust Him.

@@ -99,11 +99,26 @@ export default function BibleStoriesForKidsPage() {
     .map(a => ({ label: a, items: stories.filter(p => p.age === a) }))
     .filter(a => a.items.length > 0)
 
-  const themes = ['courage', 'faith', 'forgiveness', 'kindness', 'hope', 'prayer', 'obedience', 'love']
-    .map(t => ({
-      label: t,
-      items: stories.filter(p => (p.themes || '').toLowerCase().includes(t)).slice(0, 8),
-    }))
+  /* Each story is claimed by the FIRST theme that wants it, rather than every
+     theme taking its own first eight matches. Most stories are tagged with
+     several themes, so the old version rendered "forgiveness" and "kindness"
+     as the same eight cards, and 14 of 41 stories appeared in more than one
+     list. A reader scanning eight theme cards should see eight different
+     sets. */
+  const themeKeys = ['courage', 'faith', 'forgiveness', 'kindness', 'hope', 'prayer', 'obedience', 'love']
+  const claimed = new Set<string>()
+  const themes = themeKeys
+    .map(t => {
+      const items = stories
+        .filter(p => !claimed.has(p.slug) && (p.themes || '').toLowerCase().includes(t))
+        // Six, not eight. "forgiveness" and "kindness" are tagged on almost
+        // the same ten stories, so at eight the first one took nearly all of
+        // them and kindness fell below the cut entirely. Six leaves all eight
+        // themes standing with distinct lists.
+        .slice(0, 6)
+      items.forEach(p => claimed.add(p.slug))
+      return { label: t, items }
+    })
     .filter(t => t.items.length >= 3)
 
   const itemListSchema = {

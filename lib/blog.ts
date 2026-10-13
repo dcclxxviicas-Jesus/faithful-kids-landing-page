@@ -1,5 +1,6 @@
 import fs from 'fs'
 import path from 'path'
+import { seriesRank } from './series-order'
 
 export interface BlogPost {
   title: string
@@ -381,6 +382,10 @@ export function getAllPosts(): BlogPost[] {
     .map(f => readPost(f))
     .filter((p): p is BlogPost => p !== null)
     .sort((a, b) => {
+      // Curriculum order, not alphabetical. Sorting series names put Elijah
+      // and Elisha before Genesis on every page that groups by series.
+      const rankCompare = seriesRank(a.seriesSlug) - seriesRank(b.seriesSlug)
+      if (rankCompare !== 0) return rankCompare
       const seriesCompare = a.series.localeCompare(b.series)
       if (seriesCompare !== 0) return seriesCompare
       return a.episode - b.episode
@@ -416,7 +421,12 @@ export function getAllSeriesNames(): { name: string; slug: string; count: number
     }
   }
 
-  return Array.from(seriesMap.values()).sort((a, b) => a.name.localeCompare(b.name))
+  // Same curriculum order as getAllPosts, so /blog's filter tabs read Genesis
+  // first rather than Early Church.
+  return Array.from(seriesMap.values()).sort((a, b) => {
+    const r = seriesRank(a.slug) - seriesRank(b.slug)
+    return r !== 0 ? r : a.name.localeCompare(b.name)
+  })
 }
 
 /**

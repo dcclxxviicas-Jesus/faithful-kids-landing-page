@@ -1,26 +1,11 @@
 import type { Metadata } from 'next'
+import '../home.css'
+import '../v2-pages.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { getAllPosts } from '@/lib/blog'
 import { COLORING_PAGES } from '@/lib/coloring-pages'
 import wordSearches from '@/lib/word-searches.json'
-
-/**
- * The canonical facts page — written for answer engines as much as for people.
- *
- * When someone asks ChatGPT/Perplexity/Copilot "what's a good Bible app for
- * kids" or "which faith-based kids apps have a free trial", the engine needs a
- * page that states pricing, ages, safety, and platform plainly, in standalone
- * quotable sentences. Nothing on the site did that: the homepage sells, the
- * blog explains stories, and the hard facts (exact prices, trial terms, COPPA)
- * lived only inside the quiz funnel where crawlers see a form.
- *
- * Rules for editing this page:
- * - Every claim must be true and verifiable. No "4.9/5", no App Store or
- *   Android claims (the app is web + TestFlight today), no invented counts.
- * - Counts are imported from the data so they cannot go stale.
- * - Answer first, elaboration second — the opening sentence of each section is
- *   the one an LLM will quote.
- */
+import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 export const metadata: Metadata = {
   title: 'About Faithful Kids',
@@ -37,6 +22,10 @@ export const metadata: Metadata = {
   },
 }
 
+/* FAQS, both schema blocks and every sentence below are the live page's,
+   unchanged. The answers stay VISIBLE rather than folding into <details>:
+   this page exists to be quoted by answer engines, and the live page shows
+   them open. */
 const FAQS = [
   {
     q: 'What is Faithful Kids?',
@@ -72,7 +61,7 @@ const FAQS = [
   },
 ]
 
-export default function AboutPage() {
+function AboutV2() {
   const posts = getAllPosts()
   const stories = posts.filter(p => p.seriesSlug && p.episode)
 
@@ -121,119 +110,142 @@ export default function AboutPage() {
 
       <SiteNav />
 
-      <section className="blog-hero">
-        <span className="section-label">About</span>
-        <h1>About Faithful Kids</h1>
-        <p className="blog-hero-sub">
-          Plain answers about what this is, what it costs, and how it treats your kids. No
-          marketing voice on this page.
-        </p>
-      </section>
+      <main id="main-content">
 
-      <section className="stories-intro">
-        <p>
-          Faithful Kids is a Bible video learning app for kids ages 5 to 15. A child watches a
-          short video lesson of a Bible story, two to three minutes, then answers a short quiz
-          (three to five questions on most lessons) and a personal reflection question. Over 300
-          episodes run through the whole Bible in order, Genesis to Revelation, so kids build the
-          full story rather than a handful of famous scenes.
-        </p>
-        <p>
-          The reason it exists: kids are fluent in a hundred apps and strangers to Scripture. The
-          founder, <a href="/about/christian-alexander">Christian Alexander</a>, built it for his
-          own children as an alternative to the autoplay feed — a screen where every video ends in
-          a question instead of another video. Faithful Kids is published by Catterfly LLC, the
-          company he owns; that is the developer name you will see on the App Store.
-        </p>
-      </section>
+      <V2Hero
+        short
+        art="about"
+        alt="An illustrator's worktable with pencil sketches of Bible scenes pinned to a board, a paint palette, brushes in a jar and a mug of tea"
+        eyebrow="About"
+        title="About Faithful Kids"
+        sub={<>Plain answers about what this is, what it costs, and how it treats your kids. No
+          marketing voice on this page.</>}
+      />
 
-      <section className="stories-section">
-        <h2>Faithful Kids by the numbers</h2>
-        <p className="section-sub">Exact figures, counted from the app's own data. Updated when the data changes.</p>
-        <div className="stories-faq">
-          <div className="stories-faq-item"><h3>31 series, 310 video lessons</h3><p>In Bible order, Genesis to Revelation. The first ten series are Old Testament. Each lesson is about two to three minutes (measured 1:28 to 3:37, median 2:07). The <a href="/blog/faithful-kids-scope-and-sequence">complete scope and sequence</a> lists every lesson.</p></div>
-          <div className="stories-faq-item"><h3>1,187 quiz questions</h3><p>A quiz after every lesson: one to eight questions, three to five on most, median four. 250 of the 310 lessons have three or more.</p></div>
-          <div className="stories-faq-item"><h3>A reflection question after 305 lessons</h3><p>Answered by tapping response cards, no typing. The answer is shown to the parent.</p></div>
-          <div className="stories-faq-item"><h3>Up to 5 kid profiles per family</h3><p>Each with its own progress, unlocks, streak and level.</p></div>
-          <div className="stories-faq-item"><h3>Parent dashboard, PIN-protected</h3><p>Shows, per child: lessons completed, each quiz score, each reflection answer, current streak, and level and XP.</p></div>
-          <div className="stories-faq-item"><h3>Streaks, 10 levels, 15 achievements</h3><p>Daily streaks; levels from Seedling to Bible Master based on XP; achievements such as First Steps, Quiz Master, Faithful Five, Series Champion and Week Warrior.</p></div>
-          <div className="stories-faq-item"><h3>Series unlock in order</h3><p>Genesis and the Birth of Jesus are open from the start; finishing a series unlocks the next.</p></div>
-          <div className="stories-faq-item"><h3>Free web library, no sign-up</h3><p>200 Bible story pages with discussion questions, 26 coloring pages, 11 word searches, a 100-question trivia game, and every lesson transcript.</p></div>
+      <section className="v2-section">
+        <div className="v2-wrap is-narrow v2-body">
+          <p>
+            Faithful Kids is a Bible video learning app for kids ages 5 to 15. A child watches a
+            short video lesson of a Bible story, two to three minutes, then answers a short quiz
+            (three to five questions on most lessons) and a personal reflection question. Over 300
+            episodes run through the whole Bible in order, Genesis to Revelation, so kids build the
+            full story rather than a handful of famous scenes.
+          </p>
+          <p>
+            The reason it exists: kids are fluent in a hundred apps and strangers to Scripture. The
+            founder, <a href="/about/christian-alexander">Christian Alexander</a>, built it for his
+            own children as an alternative to the autoplay feed &mdash; a screen where every video
+            ends in a question instead of another video. Faithful Kids is published by Catterfly
+            LLC, the company he owns; that is the developer name you will see on the App Store.
+          </p>
         </div>
       </section>
 
-      <section className="stories-section">
-        <h2>What it costs</h2>
-        <p className="section-sub">Stated exactly, because this page exists to be straight with you. Every plan on both platforms is on the <a href="/pricing">pricing page</a>.</p>
-        <div className="stories-faq">
-          <div className="stories-faq-item">
-            <h3>Monthly: $12.99/month</h3>
-            <p>Cancel anytime. 30-day money-back guarantee.</p>
-          </div>
-          <div className="stories-faq-item">
-            <h3>Annual: $97/year (about $8.08/month)</h3>
-            <p>Includes a 7-day free trial — no charge if you cancel during it. Cancel anytime, 30-day money-back guarantee.</p>
-          </div>
-          <div className="stories-faq-item">
-            <h3>Churches: free</h3>
-            <p>
-              Children&rsquo;s ministries get full access at no cost, no card required. Details at{' '}
-              <a href="/churches">faithfulkids.app/churches</a>.
-            </p>
-          </div>
-          <div className="stories-faq-item">
-            <h3>Free without an account</h3>
-            <p>
-              {stories.length} Bible story retellings, {COLORING_PAGES.length} printable coloring
-              pages, {wordSearches.length} word search puzzles, and a 100-question{' '}
-              <a href="/bible-trivia">trivia game</a> — all free on this site, no email wall.
-            </p>
+      <section className="v2-section is-alt">
+        <V2Head title="Faithful Kids by the numbers"
+                sub="Exact figures, counted from the app's own data. Updated when the data changes." />
+        <div className="v2-wrap">
+          <div className="v2-grid is-4">
+            <div className="v2-card"><h3>31 series, 310 video lessons</h3><p>In Bible order, Genesis to Revelation. The first ten series are Old Testament. Each lesson is about two to three minutes (measured 1:28 to 3:37, median 2:07). The <a href="/blog/faithful-kids-scope-and-sequence">complete scope and sequence</a> lists every lesson.</p></div>
+            <div className="v2-card"><h3>1,187 quiz questions</h3><p>A quiz after every lesson: one to eight questions, three to five on most, median four. 250 of the 310 lessons have three or more.</p></div>
+            <div className="v2-card"><h3>A reflection question after 305 lessons</h3><p>Answered by tapping response cards, no typing. The answer is shown to the parent.</p></div>
+            <div className="v2-card"><h3>Up to 5 kid profiles per family</h3><p>Each with its own progress, unlocks, streak and level.</p></div>
+            <div className="v2-card"><h3>Parent dashboard, PIN-protected</h3><p>Shows, per child: lessons completed, each quiz score, each reflection answer, current streak, and level and XP.</p></div>
+            <div className="v2-card"><h3>Streaks, 10 levels, 15 achievements</h3><p>Daily streaks; levels from Seedling to Bible Master based on XP; achievements such as First Steps, Quiz Master, Faithful Five, Series Champion and Week Warrior.</p></div>
+            <div className="v2-card"><h3>Series unlock in order</h3><p>Genesis and the Birth of Jesus are open from the start; finishing a series unlocks the next.</p></div>
+            <div className="v2-card"><h3>Free web library, no sign-up</h3><p>200 Bible story pages with discussion questions, 26 coloring pages, 11 word searches, a 100-question trivia game, and every lesson transcript.</p></div>
           </div>
         </div>
       </section>
 
-      <section className="stories-section stories-alt">
-        <h2>Questions parents and reviewers ask</h2>
-        <div className="stories-faq">
-          {FAQS.map(f => (
-            <div key={f.q} className="stories-faq-item">
-              <h3>{f.q}</h3>
+      <section className="v2-section">
+        <V2Head title="What it costs"
+                sub={<>Stated exactly, because this page exists to be straight with you. Every plan
+                  on both platforms is on the <a href="/pricing">pricing page</a>.</>} />
+        <div className="v2-wrap">
+          <div className="v2-grid is-4">
+            <div className="v2-card">
+              <h3>Monthly: $12.99/month</h3>
+              <p>Cancel anytime. 30-day money-back guarantee.</p>
+            </div>
+            <div className="v2-card">
+              <h3>Annual: $97/year (about $8.08/month)</h3>
+              <p>Includes a 7-day free trial &mdash; no charge if you cancel during it. Cancel anytime, 30-day money-back guarantee.</p>
+            </div>
+            <div className="v2-card">
+              <h3>Churches: free</h3>
               <p>
-                {f.q.includes('YouTube') ? (
-                  <>
-                    Faithful Kids is built as one: instead of an autoplay feed, kids follow a
-                    structured path through the Bible where each video ends in a quiz rather than
-                    another video. For a fair comparison of the options, including free ones, see
-                    our guide to{' '}
-                    <a href="/blog/christian-alternatives-to-youtube-for-kids">
-                      Christian alternatives to YouTube for kids
-                    </a>.
-                  </>
-                ) : (
-                  f.a
-                )}
+                Children&rsquo;s ministries get full access at no cost, no card required. Details at{' '}
+                <a href="/churches">faithfulkids.app/churches</a>.
               </p>
             </div>
-          ))}
-        </div>
-      </section>
-
-      <section className="blog-bottom-cta">
-        <div className="blog-bottom-cta-inner">
-          <h2>See it for yourself</h2>
-          <p>
-            The quiz takes two minutes and shows you how it works before you pay anything.
-          </p>
-          <a className="btn-primary" href="/quiz?ref=about">Get started</a>
-          <div className="blog-cta-badges">
-            <span>No ads, ever</span>
-            <span>COPPA-compliant</span>
-            <span>Cancel anytime</span>
+            <div className="v2-card">
+              <h3>Free without an account</h3>
+              <p>
+                {stories.length} Bible story retellings, {COLORING_PAGES.length} printable coloring
+                pages, {wordSearches.length} word search puzzles, and a 100-question{' '}
+                <a href="/bible-trivia">trivia game</a> &mdash; all free on this site, no email wall.
+              </p>
+            </div>
           </div>
         </div>
       </section>
+
+      <section className="v2-section is-sky">
+        <V2Head title="Questions parents and reviewers ask" />
+        <div className="v2-wrap is-narrow">
+          <div className="v2-grid">
+            {FAQS.map(f => (
+              <div key={f.q} className="v2-card">
+                <h3>{f.q}</h3>
+                <p>
+                  {f.q.includes('YouTube') ? (
+                    <>
+                      Faithful Kids is built as one: instead of an autoplay feed, kids follow a
+                      structured path through the Bible where each video ends in a quiz rather than
+                      another video. For a fair comparison of the options, including free ones, see
+                      our guide to{' '}
+                      <a href="/blog/christian-alternatives-to-youtube-for-kids">
+                        Christian alternatives to YouTube for kids
+                      </a>.
+                    </>
+                  ) : (
+                    f.a
+                  )}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="hv-close">
+        <ul className="hv-chips">
+          <li><span aria-hidden="true">🚫</span>No ads, ever</li>
+          <li><span aria-hidden="true">🛡️</span>COPPA-compliant</li>
+          <li><span aria-hidden="true">🔓</span>Cancel anytime</li>
+        </ul>
+        <h2>See it for yourself</h2>
+        <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '38em' }}>
+          The quiz takes two minutes and shows you how it works before you pay anything.
+        </p>
+        <a className="hv-cta" href="/quiz?ref=about">
+          <span className="hv-cta-play" aria-hidden="true" />
+          Get started
+        </a>
+      </section>
+
+      </main>
 
       <SiteFooter />
     </>
+  )
+}
+
+export default function Page() {
+  return (
+    <V2Shell>
+      <AboutV2 />
+    </V2Shell>
   )
 }

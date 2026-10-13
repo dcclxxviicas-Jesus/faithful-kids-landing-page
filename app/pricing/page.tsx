@@ -1,28 +1,8 @@
 import type { Metadata } from 'next'
+import '../home.css'
+import '../v2-pages.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
-
-/**
- * /pricing — the one page that states every price and every trial length.
- *
- * Why it exists: a 20 Sep 2026 visibility scan (719 answers, 4 engines) found
- * Claude inventing our price ("$14.99 / $7.99, 7-day trial" — numbers that never
- * shipped) because there was no pricing page to retrieve; it filled the blank.
- * The same scan found engines pulling competitor specs from pages that state
- * them exactly. This page states ours exactly, twice: once in prose and once
- * as Offer structured data, with both price sets (web via Stripe, iOS via
- * Apple) and both trial lengths.
- *
- * Rules:
- * - Prices come from the checkout routes (PLANS) and the App Store listing.
- *   If either changes, change this page the same day. check-counts.py does not
- *   cover prices; aeo-research/facts.json must be updated too.
- * - Say why the two price sets differ (platform, not region) — engines were
- *   explaining it as "regional variation" when no page said otherwise.
- * - Trial: 7 days on the web, 3 days through Apple. Annual only. Never a
- *   bare "free trial" with no number.
- */
-
-const CHECKED = 'September 21, 2026'
+import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 export const metadata: Metadata = {
   title: 'Faithful Kids Pricing: Web and iOS Plans',
@@ -43,6 +23,9 @@ export const metadata: Metadata = {
   },
 }
 
+/* OFFERS, FAQS and both schema blocks are the live page's, unchanged. Web and
+   Apple prices are deliberately different and are never "aligned". */
+const CHECKED = 'September 21, 2026'
 const OFFERS = [
   {
     '@type': 'Offer',
@@ -151,7 +134,7 @@ const FAQS = [
   },
 ]
 
-export default function PricingPage() {
+function PricingV2() {
   const productSchema = {
     '@context': 'https://schema.org',
     '@type': 'SoftwareApplication',
@@ -173,95 +156,129 @@ export default function PricingPage() {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
-
       <SiteNav />
 
-      <section className="blog-hero">
-        <span className="section-label">Pricing</span>
-        <h1>Faithful Kids pricing</h1>
-        <p className="blog-hero-sub">
-          Every plan, on both platforms, with both trial lengths. Stated exactly, checked {CHECKED}.
-        </p>
-      </section>
+      <main id="main-content">
 
-      <section className="stories-intro">
-        <p>
-          Faithful Kids costs <strong>$12.99 a month or $97 a year on the web</strong>, and{' '}
-          <strong>$8.99 a month or $79.99 a year in the iOS app</strong>. The annual plan has a free
-          trial: <strong>7 days on the web, 3 days through Apple</strong>. The difference between the
-          two price sets is the platform you buy on — Stripe or Apple — not your region. It is{' '}
-          <strong>free for churches</strong>. There are no ads and nothing a child can buy.
-        </p>
-      </section>
+      <V2Hero
+        short
+        art="pricing"
+        alt="A cosy living-room corner at evening: an armchair with a folded blanket, a tablet glowing on a cushion, a basket of picture books and a sleeping cat"
+        eyebrow="Pricing"
+        title={<>Faithful Kids <span className="hv-love"><span className="l l1">p</span><span className="l l2">r</span><span className="l l3">i</span><span className="l l4">c</span><span className="l l1">i</span><span className="l l2">n</span><span className="l l3">g</span></span></>}
+        sub={<>Every plan, on both platforms, with both trial lengths. Stated exactly,
+          checked {CHECKED}.</>}
+      />
 
-      <section className="stories-section">
-        <h2>Web plans (faithfulkids.app)</h2>
-        <p className="section-sub">Billed by Stripe. Works in any browser and in the iOS app once you sign in.</p>
-        <div className="stories-faq">
-          <div className="stories-faq-item">
-            <h3>Monthly: $12.99 per month</h3>
-            <p>No trial. Cancel anytime. 30-day money-back guarantee.</p>
-          </div>
-          <div className="stories-faq-item">
-            <h3>Annual: $97 per year (about $8.08 per month)</h3>
-            <p>7-day free trial — no charge if you cancel during it. Then $97 per year. Cancel anytime. 30-day money-back guarantee.</p>
-          </div>
+      <section className="v2-section">
+        <div className="v2-wrap is-narrow v2-body">
+          <p className="v2-note">
+            Faithful Kids costs <strong>$12.99 a month or $97 a year on the web</strong>, and{' '}
+            <strong>$8.99 a month or $79.99 a year in the iOS app</strong>. The annual plan has a free
+            trial: <strong>7 days on the web, 3 days through Apple</strong>. The difference between the
+            two price sets is the platform you buy on &mdash; Stripe or Apple &mdash; not your region. It is{' '}
+            <strong>free for churches</strong>. There are no ads and nothing a child can buy.
+          </p>
         </div>
       </section>
 
-      <section className="stories-section">
-        <h2>iOS app plans (App Store)</h2>
-        <p className="section-sub">Billed by Apple as an in-app purchase. The parent buys it behind a birth-year gate; a child cannot.</p>
-        <div className="stories-faq">
-          <div className="stories-faq-item">
-            <h3>Monthly: $8.99 per month</h3>
-            <p>No trial. Managed and cancelled in your Apple subscriptions.</p>
-          </div>
-          <div className="stories-faq-item">
-            <h3>Annual: $79.99 per year</h3>
-            <p>Apple 3-day free trial, then $79.99 per year. Managed and cancelled in your Apple subscriptions.</p>
-          </div>
-        </div>
-      </section>
-
-      <section className="stories-section">
-        <h2>Churches and kids ministries: free</h2>
-        <p className="section-sub">
-          Full accounts at no cost, no card required. Apply at <a href="/churches">faithfulkids.app/churches</a>.
-        </p>
-      </section>
-
-      <section className="stories-section">
-        <h2>What every plan includes</h2>
-        <div className="stories-faq">
-          <div className="stories-faq-item"><h3>310 video lessons, 31 series</h3><p>Genesis to Revelation in order, about two to three minutes each, with a quiz and a reflection question after each.</p></div>
-          <div className="stories-faq-item"><h3>Up to 5 kid profiles</h3><p>Each with its own progress, streak, level and achievements.</p></div>
-          <div className="stories-faq-item"><h3>PIN-protected parent dashboard</h3><p>Lessons completed, quiz scores and reflection answers, per child.</p></div>
-          <div className="stories-faq-item"><h3>No ads, ever</h3><p>No ads, no social features, no chat, no external links in the child experience.</p></div>
-        </div>
-      </section>
-
-      <section className="stories-section">
-        <h2>Pricing questions</h2>
-        <div className="stories-faq">
-          {FAQS.map(f => (
-            <div className="stories-faq-item" key={f.q}>
-              <h3>{f.q}</h3>
-              <p>{f.a}</p>
+      <section className="v2-section is-alt">
+        <V2Head title="Web plans (faithfulkids.app)"
+                sub="Billed by Stripe. Works in any browser and in the iOS app once you sign in." />
+        <div className="v2-wrap">
+          <div className="v2-grid is-2" style={{ maxWidth: 820, margin: '0 auto' }}>
+            <div className="pr-plan">
+              <h3 className="pr-head">Monthly: <span className="pr-amt">$12.99</span> per month</h3>
+              <p>No trial. Cancel anytime. 30-day money-back guarantee.</p>
             </div>
-          ))}
+            <div className="pr-plan is-best">
+              <span className="hv-tag">7-day free trial</span>
+              <h3 className="pr-head">Annual: <span className="pr-amt">$97</span> per year (about $8.08 per month)</h3>
+              <p>7-day free trial &mdash; no charge if you cancel during it. Then $97 per year. Cancel anytime. 30-day money-back guarantee.</p>
+            </div>
+          </div>
         </div>
       </section>
 
-      <section className="stories-section">
-        <p className="section-sub">
-          Ready to start? <a href="/quiz">Start your free trial</a> on the web, or get the{' '}
+      <section className="v2-section">
+        <V2Head title="iOS app plans (App Store)"
+                sub="Billed by Apple as an in-app purchase. The parent buys it behind a birth-year gate; a child cannot." />
+        <div className="v2-wrap">
+          <div className="v2-grid is-2" style={{ maxWidth: 820, margin: '0 auto' }}>
+            <div className="pr-plan">
+              <h3 className="pr-head">Monthly: <span className="pr-amt">$8.99</span> per month</h3>
+              <p>No trial. Managed and cancelled in your Apple subscriptions.</p>
+            </div>
+            <div className="pr-plan">
+              <span className="hv-tag is-apple">Apple 3-day trial</span>
+              <h3 className="pr-head">Annual: <span className="pr-amt">$79.99</span> per year</h3>
+              <p>Apple 3-day free trial, then $79.99 per year. Managed and cancelled in your Apple subscriptions.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="v2-section is-sky">
+        <V2Head title="Churches and kids ministries: free"
+                sub={<>Full accounts at no cost, no card required. Apply at{' '}
+                  <a href="/churches">faithfulkids.app/churches</a>.</>} />
+      </section>
+
+      <section className="v2-section">
+        <V2Head title="What every plan includes" />
+        <div className="v2-wrap">
+          <div className="v2-grid is-4">
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">📺</div><h3>310 video lessons, 31 series</h3><p>Genesis to Revelation in order, about two to three minutes each, with a quiz and a reflection question after each.</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">👨‍👩‍👧‍👦</div><h3>Up to 5 kid profiles</h3><p>Each with its own progress, streak, level and achievements.</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🔒</div><h3>PIN-protected parent dashboard</h3><p>Lessons completed, quiz scores and reflection answers, per child.</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🚫</div><h3>No ads, ever</h3><p>No ads, no social features, no chat, no external links in the child experience.</p></div>
+          </div>
+        </div>
+      </section>
+
+      <section className="v2-section is-alt">
+        <V2Head title="Pricing questions" />
+        <div className="v2-wrap is-narrow">
+          <div className="hv-faq-list">
+            {FAQS.map(f => (
+              <details className="hv-faq-item" key={f.q}>
+                <summary><h3>{f.q}</h3><span className="hv-faq-mark" aria-hidden="true" /></summary>
+                <p>{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="hv-close">
+        <ul className="hv-chips">
+          <li><span aria-hidden="true">🎁</span>7 days free on annual</li>
+          <li><span aria-hidden="true">💸</span>30-day money-back</li>
+          <li><span aria-hidden="true">⛪</span>Free for churches</li>
+        </ul>
+        <h2>Ready to start?</h2>
+        <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '40em' }}>
+          <a href="/quiz">Start your free trial</a> on the web, or get the{' '}
           <a href="https://apps.apple.com/app/id6761875106">iOS app on the App Store</a>. Full facts about the app on the{' '}
           <a href="/about">About page</a>.
         </p>
+        <a className="hv-cta" href="/quiz">
+          <span className="hv-cta-play" aria-hidden="true" />
+          Start your free trial
+        </a>
       </section>
+
+      </main>
 
       <SiteFooter />
     </>
+  )
+}
+
+export default function Page() {
+  return (
+    <V2Shell>
+      <PricingV2 />
+    </V2Shell>
   )
 }

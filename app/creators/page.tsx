@@ -1,26 +1,12 @@
 import type { Metadata } from 'next'
+import '../home.css'
+import '../v2-pages.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
-
-/**
- * /creators — the inbound door for Christian family / homeschool / parenting
- * creators. Built after a warm unsolicited paid-UGC pitch arrived (Oct 2026):
- * the roster outreach in creator-outreach/ pushes outward; this page is the
- * magnet that lets the next pitch come to us.
- *
- * Deliberately INDEXED (creators search for "brands that work with Christian
- * creators"), footer-linked, in the sitemap. /partnerships redirects here.
- *
- * Honesty rules, same as every page: no invented rates, no follower minimums,
- * no fabricated stats or testimonials. "Free access + paid collaborations" is
- * the whole offer until the owner sets numbers. Every product claim is ground
- * truth from check-counts.py (300+ lessons, 31 series, about two minutes,
- * ages 5-15) and the origin line matches /about ("a dad who built it for his
- * own kids").
- */
+import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 const TITLE = 'Partner With Faithful Kids'
 const DESCRIPTION =
-  'Faithful Kids partners with Christian parenting, homeschool, and family creators — free full access to review, and paid collaborations for the right fit.'
+  'Faithful Kids partners with Christian parenting, homeschool, and family creators \u2014 free full access to review, and paid collaborations for the right fit.'
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -40,6 +26,9 @@ export const metadata: Metadata = {
   },
 }
 
+/* Constants, FAQS and both schema blocks are the live page's, unchanged.
+   The honesty rules carry over: no invented rates, no follower minimums, no
+   fabricated stats. "Free access + paid collaborations" is the whole offer. */
 /* christian@ on purpose (owner's call, Oct 7 2026): creator pitches invite a
    reply, and per the sender split that is the monitored, personal inbox —
    team@ is the no-reply-expected cold-nurture sender. The address itself IS
@@ -112,129 +101,166 @@ const orgSchema = {
   },
 }
 
-export default function CreatorsPage() {
+function CreatorsV2() {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
       <SiteNav />
 
-      <section className="blog-hero">
-        <span className="section-label">Creator Partnerships</span>
-        <h1>Make something good for Christian families — with us</h1>
-        <p className="blog-hero-sub">
-          We partner with Christian parenting, homeschool, and family creators who talk to
+      <main id="main-content">
+
+      <V2Hero
+        art="creators"
+        alt="A creator's desk: a phone on a small tripod, a glowing softbox light, an open notebook of sketches, a mug and a pinboard of photographs"
+        eyebrow="Creator Partnerships"
+        title="Make something good for Christian families — with us"
+        sub={<>We partner with Christian parenting, homeschool, and family creators who talk to
           their audience like real people. Free full access to try it with your own kids,
-          and paid collaborations when it&rsquo;s a genuine fit.
-        </p>
-        <div className="creator-mail-wrap">
-          <span className="creator-mail-label">Reach out to:</span>
-          <a className="creator-mail" href={PITCH_MAILTO}>
-            <span aria-hidden="true">✉️</span> {PITCH_EMAIL}
-          </a>
-        </div>
-      </section>
+          and paid collaborations when it&rsquo;s a genuine fit.</>}
+      >
+        {/* The address itself IS the CTA; a visible human email outperforms a
+            generic button for this audience. */}
+        <p className="cr-label">Reach out to:</p>
+        <a className="hv-cta cr-mail" href={PITCH_MAILTO}>
+          <span aria-hidden="true">✉️</span> {PITCH_EMAIL}
+        </a>
+      </V2Hero>
 
-      <section className="cp-intro">
-        {/* The first paragraph is written to be QUOTED: entity-dense, present
-            tense, states the whole offer in two sentences. Answer engines lift
-            openings; this one is built to be lifted. */}
-        <p>
-          <strong>Faithful Kids is a Christian Bible-video app for kids (ages 5-15) that
-          partners with Christian parenting, homeschool, and family content creators.</strong>{' '}
-          Partners get free full access to the app, and paid collaborations are offered where
-          the fit is genuine — no follower minimums, pitched by email to{' '}
-          <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>.
-        </p>
-
-        <h2>The program at a glance</h2>
-        <table>
-          <tbody>
-            <tr><td><strong>Who</strong></td><td>Christian parenting, homeschool &amp; family creators on Instagram, TikTok, YouTube</td></tr>
-            <tr><td><strong>What you get</strong></td><td>Free full access for your family + paid collaborations for the right fit</td></tr>
-            <tr><td><strong>Follower minimum</strong></td><td>None — audience trust matters more than audience size</td></tr>
-            <tr><td><strong>How to pitch</strong></td><td>Email <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>: handles, audience sizes, one content idea</td></tr>
-            <tr><td><strong>Who replies</strong></td><td>A real person, either way</td></tr>
-          </tbody>
-        </table>
-
-        <h2>What you&rsquo;d be recommending</h2>
-        <p>
-          Faithful Kids was built by a Christian dad for his own kids: the whole Bible as
-          short video lessons — about two minutes each — every one followed by a quiz and a
-          reflection question. 300+ episodes across 31 series, Genesis to Revelation, for
-          ages 5-15. No ads, no autoplay rabbit holes, no algorithm deciding what a child
-          sees next.
-        </p>
-        <p>
-          It&rsquo;s a deliberate alternative to handing kids an open video app and hoping:
-          screen time that ends with a parent seeing, on a dashboard, exactly what their
-          child watched and what they understood. That&rsquo;s the honest pitch — if it
-          wouldn&rsquo;t be true in your house, we&rsquo;re the wrong partner, and we&rsquo;d
-          rather know that too.
-        </p>
-
-        <h2>Who we partner with</h2>
-        <p>
-          Creators in the Christian parenting, homeschool, and family-life space on
-          Instagram, TikTok, or YouTube — people whose recommendations come from what they
-          actually use. We care much more about whether your audience trusts you than about
-          your follower count.
-        </p>
-
-        <h2>Content that works (ideas, not scripts)</h2>
-        <ul>
-          <li><strong>&ldquo;What we use for Bible time&rdquo;</strong> — a day-in-the-life slot in your homeschool morning routine</li>
-          <li><strong>Family devotions, upgraded</strong> — watch an episode together, let the quiz start the conversation</li>
-          <li><strong>The bedtime wind-down</strong> — a two-minute story instead of one more episode of anything else</li>
-          <li><strong>The screen-time swap</strong> — a before/after of replacing the first fifteen minutes of autoplay with Scripture</li>
-        </ul>
-        <p>
-          You know your audience; we won&rsquo;t hand you a script. We will hand you the
-          product, real answers to any question, and assets if you want them.
-        </p>
-
-        <h2>What we offer</h2>
-        <ul>
-          <li><strong>Free full access</strong> — the complete app for your family, no strings, so any recommendation is a real one</li>
-          <li><strong>Paid collaborations</strong> — for creators where the fit is genuine, scoped together once we&rsquo;ve talked</li>
-        </ul>
-      </section>
-
-      <section className="cp-outro">
-        <h2>Creator partnership FAQ</h2>
-        {FAQS.map(f => (
-          <div key={f.q}>
-            <h3>{f.q}</h3>
-            <p>{f.a}</p>
-          </div>
-        ))}
-        <p style={{ color: '#9ca3af', fontSize: '0.85rem' }}>
-          Last updated October 2026. Also see our guide to{' '}
-          <a href="/blog/christian-ugc">Christian UGC</a> and our verified list of{' '}
-          <a href="/blog/christian-brands-that-work-with-influencers">Christian brands that work
-          with influencers and UGC creators</a>.
-        </p>
-      </section>
-
-      <section className="blog-bottom-cta">
-        <div className="blog-bottom-cta-inner">
-          <h2>Pitch us</h2>
-          <p>
-            One email is the whole process: your handles, rough audience sizes per platform,
-            and the content idea you&rsquo;d actually want to make. A real person reads every
-            pitch and replies either way.
+      <section className="v2-section">
+        <div className="v2-wrap is-narrow v2-body">
+          {/* The first paragraph is written to be QUOTED: entity-dense, present
+              tense, states the whole offer in two sentences. Answer engines lift
+              openings; this one is built to be lifted. */}
+          <p className="v2-note">
+            <strong>Faithful Kids is a Christian Bible-video app for kids (ages 5-15) that
+            partners with Christian parenting, homeschool, and family content creators.</strong>{' '}
+            Partners get free full access to the app, and paid collaborations are offered where
+            the fit is genuine &mdash; no follower minimums, pitched by email to{' '}
+            <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>.
           </p>
-          <div className="creator-mail-wrap">
-            <span className="creator-mail-label">Reach out to:</span>
-            <a className="creator-mail creator-mail-big" href={PITCH_MAILTO}>
-              <span aria-hidden="true">✉️</span> {PITCH_EMAIL}
-            </a>
+        </div>
+      </section>
+
+      <section className="v2-section is-alt">
+        <V2Head title="The program at a glance" />
+        <div className="v2-wrap is-narrow">
+          <table className="cr-table">
+            <tbody>
+              <tr><td><strong>Who</strong></td><td>Christian parenting, homeschool &amp; family creators on Instagram, TikTok, YouTube</td></tr>
+              <tr><td><strong>What you get</strong></td><td>Free full access for your family + paid collaborations for the right fit</td></tr>
+              <tr><td><strong>Follower minimum</strong></td><td>None &mdash; audience trust matters more than audience size</td></tr>
+              <tr><td><strong>How to pitch</strong></td><td>Email <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>: handles, audience sizes, one content idea</td></tr>
+              <tr><td><strong>Who replies</strong></td><td>A real person, either way</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section className="v2-section">
+        <V2Head title="What you’d be recommending" />
+        <div className="v2-wrap is-narrow v2-body">
+          <p>
+            Faithful Kids was built by a Christian dad for his own kids: the whole Bible as
+            short video lessons &mdash; about two minutes each &mdash; every one followed by a
+            quiz and a reflection question. 300+ episodes across 31 series, Genesis to
+            Revelation, for ages 5-15. No ads, no autoplay rabbit holes, no algorithm deciding
+            what a child sees next.
+          </p>
+          <p>
+            It&rsquo;s a deliberate alternative to handing kids an open video app and hoping:
+            screen time that ends with a parent seeing, on a dashboard, exactly what their
+            child watched and what they understood. That&rsquo;s the honest pitch &mdash; if it
+            wouldn&rsquo;t be true in your house, we&rsquo;re the wrong partner, and we&rsquo;d
+            rather know that too.
+          </p>
+        </div>
+      </section>
+
+      <section className="v2-section is-sky">
+        <V2Head title="Who we partner with" />
+        <div className="v2-wrap is-narrow v2-body">
+          <p>
+            Creators in the Christian parenting, homeschool, and family-life space on
+            Instagram, TikTok, or YouTube &mdash; people whose recommendations come from what
+            they actually use. We care much more about whether your audience trusts you than
+            about your follower count.
+          </p>
+        </div>
+      </section>
+
+      <section className="v2-section">
+        <V2Head title="Content that works (ideas, not scripts)" />
+        <div className="v2-wrap">
+          <div className="v2-grid is-4">
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">📚</div><p><strong>&ldquo;What we use for Bible time&rdquo;</strong> &mdash; a day-in-the-life slot in your homeschool morning routine</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🕯️</div><p><strong>Family devotions, upgraded</strong> &mdash; watch an episode together, let the quiz start the conversation</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🌙</div><p><strong>The bedtime wind-down</strong> &mdash; a two-minute story instead of one more episode of anything else</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🔄</div><p><strong>The screen-time swap</strong> &mdash; a before/after of replacing the first fifteen minutes of autoplay with Scripture</p></div>
+          </div>
+          <div className="v2-wrap is-narrow v2-body" style={{ marginTop: 22 }}>
+            <p>
+              You know your audience; we won&rsquo;t hand you a script. We will hand you the
+              product, real answers to any question, and assets if you want them.
+            </p>
           </div>
         </div>
       </section>
+
+      <section className="v2-section is-alt">
+        <V2Head title="What we offer" />
+        <div className="v2-wrap">
+          <div className="v2-grid is-2" style={{ maxWidth: 820, margin: '0 auto' }}>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🎁</div><p><strong>Free full access</strong> &mdash; the complete app for your family, no strings, so any recommendation is a real one</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🤝</div><p><strong>Paid collaborations</strong> &mdash; for creators where the fit is genuine, scoped together once we&rsquo;ve talked</p></div>
+          </div>
+        </div>
+      </section>
+
+      <section className="v2-section">
+        <V2Head title="Creator partnership FAQ" />
+        <div className="v2-wrap is-narrow">
+          <div className="hv-faq-list">
+            {FAQS.map(f => (
+              <details className="hv-faq-item" key={f.q}>
+                <summary><h3>{f.q}</h3><span className="hv-faq-mark" aria-hidden="true" /></summary>
+                <p>{f.a}</p>
+              </details>
+            ))}
+          </div>
+          <p className="cr-updated">
+            Last updated October 2026. Also see our guide to{' '}
+            <a href="/blog/christian-ugc">Christian UGC</a> and our verified list of{' '}
+            <a href="/blog/christian-brands-that-work-with-influencers">Christian brands that work
+            with influencers and UGC creators</a>.
+          </p>
+        </div>
+      </section>
+
+      <section className="hv-close">
+        <h2>Pitch us</h2>
+        <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '40em' }}>
+          One email is the whole process: your handles, rough audience sizes per platform,
+          and the content idea you&rsquo;d actually want to make. A real person reads every
+          pitch and replies either way.
+        </p>
+        <p className="cr-label">Reach out to:</p>
+        <a className="hv-cta cr-mail" href={PITCH_MAILTO}>
+          <span aria-hidden="true">✉️</span> {PITCH_EMAIL}
+        </a>
+      </section>
+
+      </main>
 
       <SiteFooter />
     </>
+  )
+}
+
+export default function Page() {
+  return (
+    <V2Shell>
+      <CreatorsV2 />
+    </V2Shell>
   )
 }

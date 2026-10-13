@@ -1,32 +1,12 @@
 import type { Metadata } from 'next'
+import '../home.css'
+import '../v2-pages.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
-
-/**
- * Statement of faith.
- *
- * Built because homeschool-group leaders keep asking for one before they will
- * recommend us to their families — four separate requests in a week. A group
- * leader cannot vouch for a Bible product to their members without knowing
- * what it teaches, and until this page existed the honest answer was a page
- * that did not exist.
- *
- * Rules for editing this page:
- * - The doctrinal wording is the OWNER'S, not marketing copy. Do not reword,
- *   tighten, or "improve" it without his explicit approval. It is a statement
- *   made under his name to other Christians.
- * - Deliberately CREEDAL, not denominational. We serve Baptist, Wesleyan,
- *   Reformed and Catholic families, and have reached out to Catholic groups
- *   directly. Anything that takes a side on baptism, church government,
- *   eschatology or the sacraments excludes families we are actively serving —
- *   and would make this page useless for the very leaders who asked for it.
- * - Plain voice, like /about. No selling. Someone arrives here to check us
- *   out, not to be pitched; a CTA in the middle of a statement of faith reads
- *   as insincere.
- */
+import { V2Shell, V2Hero } from '@/app/v2-shell'
 
 const TITLE = 'What We Believe'
 const DESCRIPTION =
-  'The statement of faith behind Faithful Kids: the Bible as God’s Word, the Trinity, and salvation in Jesus Christ. Creedal common ground for Christian families across traditions.'
+  'The statement of faith behind Faithful Kids: the Bible as God\u2019s Word, the Trinity, and salvation in Jesus Christ. Creedal common ground for Christian families across traditions.'
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -40,6 +20,23 @@ export const metadata: Metadata = {
     type: 'website',
   },
 }
+
+/**
+ * VISUAL TEST of /beliefs. Presentation only.
+ *
+ * The rules from the live page carry over unchanged and are not negotiable
+ * here either:
+ *  - the doctrinal wording is the OWNER'S. Not one word is reworded, tightened
+ *    or "improved". "The Bible is the inspired, true Word of God" does NOT get
+ *    "and our final authority" (sola scriptura), and "by grace through faith"
+ *    does NOT get "alone" (sola fide). Both would exclude families we serve.
+ *  - deliberately creedal, not denominational.
+ *  - NO CALL TO ACTION. Someone arrives here to check our integrity, not to be
+ *    sold to, and a Get-started button in the middle of a statement of faith
+ *    reads as insincere. Every other page in this redesign ends with one; this
+ *    one deliberately does not.
+ *  - the five articles stay <h2>, numbered, so a group leader can cite one.
+ */
 
 /* Numbered so a group leader can cite one in an email to their members. */
 const BELIEFS: { heading: string; body: string }[] = [
@@ -76,35 +73,43 @@ const BELIEFS: { heading: string; body: string }[] = [
   },
 ]
 
-export default function Beliefs() {
+function BeliefsV2() {
   return (
     <>
       <SiteNav />
 
       <main id="main-content">
-        <section className="blog-hero">
-          <span className="section-label">Statement of Faith</span>
-          <h1>{TITLE}</h1>
-          <p className="blog-hero-sub">
-            Parents and group leaders ask what we teach before they hand this to their
-            children. That is the right question, and this is the plain answer.
-          </p>
-        </section>
 
-        <section className="stories-section">
-          <div className="stories-faq">
+      <V2Hero
+        short
+        art="beliefs"
+        alt="A wooden table by a window in soft morning light with a large open Bible, an unlit candle, a glass of water and a sprig of olive leaves"
+        eyebrow="Statement of Faith"
+        title="What We Believe"
+        sub={<>Parents and group leaders ask what we teach before they hand this to their
+          children. That is the right question, and this is the plain answer.</>}
+      />
+
+      <section className="v2-section">
+        <div className="v2-wrap is-narrow">
+          <ol className="be-list">
             {BELIEFS.map((b, i) => (
-              <div key={b.heading} className="stories-faq-item">
-                <h2>{i + 1}. {b.heading}</h2>
+              <li key={b.heading} className="be-item">
+                {/* The number is part of the heading TEXT, because the live
+                    page has it there and a group leader cites "point 3". A
+                    separate badge would have rendered "1. 1. The Bible". */}
+                <h2><span className="be-n">{i + 1}.</span> {b.heading}</h2>
                 <p>{b.body}</p>
-              </div>
+              </li>
             ))}
-          </div>
-        </section>
+          </ol>
+        </div>
+      </section>
 
-        <section className="stories-section stories-alt">
-          <h2>Why this is creedal rather than denominational</h2>
-          <p className="section-sub">
+      <section className="v2-section is-alt">
+        <div className="v2-wrap is-narrow v2-body">
+          <h2 className="be-h2">Why this is creedal rather than denominational</h2>
+          <p>
             Faithful Kids is built for Christian families across traditions &mdash;
             Baptist, Wesleyan, Reformed, Anglican, non-denominational, Catholic and
             Orthodox alike. We deliberately stand on the ground those traditions share
@@ -115,35 +120,46 @@ export default function Beliefs() {
           </p>
           {/* Deliberately does NOT claim a per-denomination content path. The
               quiz asks the question, but the answer is never stored and never
-              changes a single lesson — verified in bible-kids: `denomination`
-              appears only in the quiz's own result copy. Claiming it here, on
-              the one page whose entire job is being trustworthy to people
-              checking our integrity, would be the worst possible place for a
-              feature that does not exist. */}
-          <p className="section-sub">
+              changes a single lesson. Claiming it here, on the one page whose
+              entire job is being trustworthy to people checking our integrity,
+              would be the worst possible place for a feature that does not
+              exist. */}
+          <p>
             Every story is reviewed for doctrinal accuracy by practising Christians before
             it goes live.
           </p>
-        </section>
+        </div>
+      </section>
 
-        <section className="stories-section">
-          <h2>Questions, or something we got wrong</h2>
-          <p className="section-sub">
+      <section className="v2-section">
+        <div className="v2-wrap is-narrow v2-body">
+          <h2 className="be-h2">Questions, or something we got wrong</h2>
+          <p>
             If you lead a homeschool group, a co-op or a childrens&rsquo; ministry and need
             something more specific before recommending us, email{' '}
             <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a> and a real
             person will answer. If you think a lesson departs from this statement, tell us
             which one &mdash; we would rather fix it than defend it.
           </p>
-          <p className="section-sub">
+          <p>
             More about the company, pricing and safety is on the{' '}
             <a href="/about">about page</a>. Faithful Kids is{' '}
             <a href="/churches">free for churches</a>.
           </p>
-        </section>
+        </div>
+      </section>
+
       </main>
 
       <SiteFooter />
     </>
+  )
+}
+
+export default function Page() {
+  return (
+    <V2Shell>
+      <BeliefsV2 />
+    </V2Shell>
   )
 }

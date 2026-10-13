@@ -31,6 +31,7 @@ export function VideoTile({
   className = '',
   showLabels = true,
   autoplay = false,
+  playDisc = false,
   captionsUrl,
   ctaHref = '/quiz',
   ctaLabel = 'See more videos like this',
@@ -69,6 +70,13 @@ export function VideoTile({
    * child would be watching".
    */
   autoplay?: boolean
+  /**
+   * The big centred play disc with "Play this story" under it, instead of
+   * the pill button along the bottom edge. The homepage shelf shipped this
+   * first (Oct 12, 2026) and the owner asked for the same control on every
+   * story post the next day. Styles: `.video-tile--disc` in globals.css.
+   */
+  playDisc?: boolean
   captionsUrl?: string
   ctaHref?: string
   ctaLabel?: string
@@ -139,7 +147,7 @@ export function VideoTile({
   }, [open, closePlayer])
 
   return (
-    <div ref={wrapRef} className={`video-tile ${className}`.trim()}>
+    <div ref={wrapRef} className={`video-tile ${playDisc ? 'video-tile--disc' : ''} ${className}`.replace(/\s+/g, ' ').trim()}>
       <div className="video-tile-screen">
         <video
           ref={tileRef}

@@ -245,14 +245,12 @@
 .hv-nb { white-space: nowrap; }
 
 
-/* ---------- video tiles: make the whole poster one big target ----------
-   VideoTile ships a small pill low on the poster reading "Watch what your
-   kids will see" — the label is hardcoded in the shared component, so these
-   overrides are scoped to .hv2 and the live site is untouched.
-
-   The pill was a ~210x40 target inside a ~320x180 card and did not read as
-   clickable. Now the button fills the card, so the whole tile is the target,
-   with a big play disc in the middle and a short label at the bottom. */
+/* ---------- video tiles: the shelf's card treatment ----------
+   VideoTile's default is a small pill low on the poster. That pill was a
+   ~210x40 target inside a ~320x180 card and did not read as clickable, so
+   the shelf tiles pass playDisc: the whole card is the button, with a big
+   play disc in the middle and a short label at the bottom. Only the card
+   radius and hover lift are homepage-specific and live here. */
 .hv2 .video-tile-screen {
   border-radius: 20px;
   box-shadow: 0 8px 22px rgba(22,49,79,.16);
@@ -262,51 +260,13 @@
   transform: translateY(-4px);
   box-shadow: 0 16px 34px rgba(22,49,79,.24);
 }
-.hv2 .video-tile-btn {
-  inset: 0;
-  left: 0; bottom: auto;
-  width: 100%; height: 100%;
-  transform: none;
-  padding: 0;
-  border-radius: 20px;
-  background: transparent;
-  box-shadow: none;
-  backdrop-filter: none;
-  display: grid;
-  place-items: center;
-  /* nudge the disc below dead-centre so it clears the title at the top-left */
-  padding-top: 16px;
-  font-size: 0;            /* hides the hardcoded label; ::after replaces it */
-  white-space: normal;
-}
-.hv2 .video-tile-btn:hover,
-.hv2 .video-tile-btn:active { transform: none; }
-/* Same SVG triangle as the hero button, same reason: the old version was the
-   glyph nudged 6px right with padding, which is a guess, not a measurement. */
-.hv2 .video-tile-btn::before {
-  content: '';
-  width: 76px; height: 76px;
-  border-radius: 50%;
-  background: rgba(255,255,255,.96) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M8 5 L20 12 L8 19 Z' fill='%2315803d'/%3E%3C/svg%3E") no-repeat center / 30px 30px;
-  box-shadow: 0 10px 26px rgba(0,0,0,.34);
-  transition: transform .16s ease;
-}
-.hv2 .video-tile-btn::after {
-  content: 'Play this story';
-  position: absolute;
-  left: 50%; bottom: 14px;
-  transform: translateX(-50%);
-  font-size: .95rem; font-weight: 800; color: #fff;
-  text-shadow: 0 2px 8px rgba(0,0,0,.75);
-  white-space: nowrap;
-}
-.hv2 .video-tile-btn:hover::before { transform: scale(1.09); }
-.hv2 .video-tile-btn:focus-visible { outline: 4px solid var(--hv-green); outline-offset: 3px; }
+/* The play disc itself (76px white disc, SVG triangle, "Play this story")
+   is the shared .video-tile--disc variant in globals.css, switched on with
+   VideoTile's playDisc prop. It moved there Oct 13, 2026 so the story posts
+   use the identical control. */
 @media (prefers-reduced-motion: reduce) {
-  .hv2 .video-tile-screen,
-  .hv2 .video-tile-btn::before { transition: none; }
+  .hv2 .video-tile-screen { transition: none; }
 }
-/* One play button at every width - the phone used to get a smaller disc. */
 
 
 /* ---------- the keyword line under the testimonials ---------- */

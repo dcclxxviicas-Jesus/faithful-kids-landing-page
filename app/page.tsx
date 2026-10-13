@@ -300,6 +300,7 @@ export default function Home() {
                 badge={s.badge}
                 location="home-shelf"
                 showLabels
+                playDisc
               />
             ))}
           </div>

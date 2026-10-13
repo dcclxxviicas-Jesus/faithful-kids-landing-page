@@ -59,6 +59,7 @@ export function StoryLesson({
         captionsUrl={captionsUrl}
         title={storyName}
         location="story_post"
+        playDisc
         ctaHref="/quiz?ref=story-video-end"
         ctaLabel="Watch more stories like this &rarr;"
         onOpen={() => track('story_lesson_video_play', { slug })}

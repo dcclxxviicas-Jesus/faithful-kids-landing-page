@@ -541,6 +541,56 @@ body {
 @media (max-width: 520px) { .video-tile-btn { font-size: 0.82rem; padding: 10px 16px; } }
 @media (prefers-reduced-motion: reduce) { .video-tile-btn { transition: none; } }
 
+/* ----- .video-tile--disc: the big play disc (VideoTile playDisc prop) -----
+   The whole tile is the button, with a 76px white disc in the middle and a
+   short label at the bottom. Lived in home.css as .hv2 overrides first; moved
+   here Oct 13, 2026 so the story posts get the identical control and the two
+   cannot drift. The triangle is an SVG, not the \25B6 glyph: a glyph carries
+   the font's own side bearings, so "centred" meant centred-ish. This path's
+   CENTROID - not its bounding box - sits at 12,12 of the viewBox, which is
+   what the eye reads as the middle of a triangle. One disc size at every
+   width; the phone used to get a smaller one. */
+.video-tile--disc .video-tile-btn {
+  inset: 0;
+  left: 0; bottom: auto;
+  width: 100%; height: 100%;
+  transform: none;
+  padding: 0;
+  border-radius: inherit;
+  background: transparent;
+  box-shadow: none;
+  backdrop-filter: none;
+  display: grid;
+  place-items: center;
+  /* nudge the disc below dead-centre so it clears the title at the top-left */
+  padding-top: 16px;
+  font-size: 0;            /* hides the hardcoded label; ::after replaces it */
+  white-space: normal;
+}
+.video-tile--disc .video-tile-btn:hover,
+.video-tile--disc .video-tile-btn:active { transform: none; }
+.video-tile--disc .video-tile-btn::before {
+  content: '';
+  width: 76px; height: 76px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.96) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M8 5 L20 12 L8 19 Z' fill='%2315803d'/%3E%3C/svg%3E") no-repeat center / 30px 30px;
+  box-shadow: 0 10px 26px rgba(0,0,0,.34);
+  transition: transform .16s ease;
+}
+.video-tile--disc .video-tile-btn::after {
+  content: 'Play this story';
+  position: absolute;
+  left: 50%; bottom: 14px;
+  transform: translateX(-50%);
+  font-size: .95rem; font-weight: 800; color: #fff;
+  text-shadow: 0 2px 8px rgba(0,0,0,.75);
+  white-space: nowrap;
+}
+.video-tile--disc .video-tile-btn:hover::before { transform: scale(1.09); }
+.video-tile--disc .video-tile-btn:focus-visible { outline: 4px solid var(--primary); outline-offset: 3px; }
+@media (max-width: 520px) { .video-tile--disc .video-tile-btn { font-size: 0; padding: 0; padding-top: 16px; } }
+@media (prefers-reduced-motion: reduce) { .video-tile--disc .video-tile-btn::before { transition: none; } }
+
 /* ===== HERO VIDEO LIGHTBOX =====
    The tile is an ambient muted loop; this is the actual watch — full size,
    with sound, from the start. */

@@ -3697,33 +3697,13 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 .ws-play h2, .ws-themed-head h2 { font-size: 1.7rem; font-weight: 800; margin-bottom: 8px; }
 .ws-themed-head { padding: 28px 24px 6px; text-align: center; }
 
-/* Clearance for the Trainly chat bubble.
-   It renders in a shadow root at bottom-right, reads only data-agent-id, and
-   takes its position from the Trainly dashboard — so it cannot be moved from
-   here. Without this it sits on top of the sticky CTA button, which is the
-   best-converting element on mobile. Reserve the corner instead.
-   If the bubble is ever moved to bottom-left in Trainly, delete this. */
-@media (max-width: 620px) {
-  .blog-sticky-cta { padding-right: 84px; }
-  /* The App Store variant is a narrow, centred group (~176px), so it never
-     reaches the chat bubble's corner and does not want the 84px reservation —
-     that padding shrinks the centring box and pushes the badge ~30px left of
-     true centre, which is exactly what it looked like. */
-  .blog-sticky-cta.is-app { padding-left: 16px; padding-right: 16px; }
-}
-
-/* The quiz result's sticky bar needs the same chat-bubble clearance as the
-   others — missed on the first pass. See the note in the blog-sticky rule. */
-@media (max-width: 620px) {
-  .qz-sticky { padding-right: 84px; }
-}
-
 /* App Store badge in the sticky bar (iPhone only — see AppStore.tsx).
 
-   The headline is dropped in this variant. With 84px reserved for the chat
-   bubble there are ~306px to work with, and "Try free:" plus the badge is
-   176px of it — squeezing a wrapping headline in beside them made all three
-   fight. Centred, nothing wraps and the badge is the thing you see. */
+   The headline is dropped in this variant: "Try free:" plus the badge is 176px
+   of a ~390px bar, and squeezing a wrapping headline in beside them made all
+   three fight. Centred, nothing wraps and the badge is the thing you see.
+   (It was tighter still until Oct 2026, when 84px of the bar was reserved for
+   a chat bubble that has since been removed.) */
 .blog-sticky-cta.is-app .blog-sticky-text { display: none; }
 .blog-sticky-cta.is-app .blog-sticky-inner { justify-content: center; gap: 12px; }
 

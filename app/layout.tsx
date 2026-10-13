@@ -3,7 +3,6 @@ import { Nunito } from 'next/font/google'
 import './globals.css'
 import { PostHogProvider } from './providers'
 import { MetaPixel } from './MetaPixel'
-import { SupportChat } from './SupportChat'
 
 // The rounded, heavy face the design was drawn in. Without it the page falls
 // back to the system stack and reads noticeably colder.
@@ -114,7 +113,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
         <PostHogProvider>{children}</PostHogProvider>
         <MetaPixel />
-        <SupportChat />
       </body>
     </html>
   )

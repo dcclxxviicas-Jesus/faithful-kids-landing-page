@@ -70,6 +70,8 @@ Rewatch the story, then quiz on it. Play a short animated version of the lesson'
 
 If small hands need something to do while you read, the free [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) is made for exactly that.
 
+When you just need the group laughing, these [fun and funny youth group games](/blog/fun-youth-group-games) come with exact rules and the materials you already own.
+
 ## How Do You Write Good Review Questions?
 
 Write questions at three levels -- recall, understanding, and application -- and use all three in every game. A question list with only recall ("Who fought Goliath?") reviews names; adding the other two levels reviews meaning:

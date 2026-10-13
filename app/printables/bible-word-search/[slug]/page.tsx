@@ -35,7 +35,9 @@ export async function generateMetadata(
   // p.title is also the on-page heading where "Bible Word Search" is correct.
   const base = p.title.replace(/\s*word search\s*$/i, '')
   const title = `${base} Word Search — Free Printable`
-  const desc = `A free printable ${p.title} Bible word search for kids (${p.scripture}). ${p.words.length} words, ${p.size}×${p.size} grid, answer key included. No sign-up.`
+  // base, not p.title: with p.title the holiday puzzles rendered doubled
+  // nonsense ("A free printable Thanksgiving Word Search Bible word search").
+  const desc = `A free printable ${base} Bible word search for kids (${p.scripture}). ${p.words.length} words, ${p.size}×${p.size} grid, answer key included. No sign-up.`
   const url = `https://faithfulkids.app/printables/bible-word-search/${p.slug}`
   return {
     // absolute: the root layout appends " | Faithful Kids", 16 of the ~60
@@ -63,6 +65,14 @@ export default async function WordSearchPuzzle(
   const { slug } = await params
   const p = get(slug)
   if (!p) notFound()
+
+  // Same strip as generateMetadata: two puzzles carry "Word Search" in their
+  // own titles, which rendered a doubled H1 ("Christmas Word Search Word
+  // Search") and story copy like "Watch the Thanksgiving Word Search story".
+  const base = p.title.replace(/\s*word search\s*$/i, '')
+  // For "watch the X story" phrasings, where the sentence supplies its own
+  // "the" ("The Armor of God" would double it).
+  const topic = base.replace(/^the\s+/i, '')
 
   // Exclude 'bible' — it is played on the hub and has no detail route, so
   // linking to it from here would be a dead link.
@@ -94,7 +104,7 @@ export default async function WordSearchPuzzle(
           <span>›</span>
           <a href="/printables/bible-word-search">Bible Word Search</a>
         </nav>
-        <h1>{p.title} Word Search</h1>
+        <h1>{base} Word Search</h1>
         <p className="cpd-meta">
           {p.scripture} · {p.ages} · {p.words.length} words · Free to print
         </p>
@@ -104,14 +114,14 @@ export default async function WordSearchPuzzle(
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={`https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${p.slug}.png`}
-          alt={`${p.title} — Bible word search puzzle for kids, ${p.scripture}`}
+          alt={`${base} Word Search — Bible word search puzzle for kids, ${p.scripture}`}
           width={1536}
           height={1024}
         />
       </div>
 
       <div className="ws-sheet">
-        <h2 className="ws-sheet-title">{p.title} Word Search</h2>
+        <h2 className="ws-sheet-title">{base} Word Search</h2>
         <WordSearchGame
           grid={p.grid}
           words={p.words}
@@ -121,7 +131,7 @@ export default async function WordSearchPuzzle(
         />
         <p className="ws-credit">
           <strong>FaithfulKids.app</strong>
-          <span>Watch the {p.title} story free &middot; faithfulkids.app/bible-stories-for-kids</span>
+          <span>{storySlug ? `Watch the ${topic} story free` : 'Free Bible story videos'} &middot; faithfulkids.app/bible-stories-for-kids</span>
         </p>
       </div>
 
@@ -138,7 +148,7 @@ export default async function WordSearchPuzzle(
         {storySlug && (
           <p>
             The words mean more once they know the story:{' '}
-            <a href={`/blog/${storySlug}`}>{p.title} retold for kids</a> — a short version with the
+            <a href={`/blog/${storySlug}`}>{base} retold for kids</a> — a short version with the
             video lesson and a quiz.
           </p>
         )}
@@ -154,7 +164,7 @@ export default async function WordSearchPuzzle(
         {crosswords.some(c => c.slug === p.slug) && (
           <p>
             Found all the words too fast? The{' '}
-            <a href={`/printables/bible-crossword/${p.slug}`}>{p.title} crossword</a> asks what
+            <a href={`/printables/bible-crossword/${p.slug}`}>{base} crossword</a> asks what
             happened in the story, not just how the names are spelled.
           </p>
         )}
@@ -213,12 +223,12 @@ export default async function WordSearchPuzzle(
         <div className="blog-bottom-cta-inner">
           <h2>They found the words. Do they know the story?</h2>
           <p>
-            Finding {p.words.length} words is vocabulary, not comprehension. The {p.title} episode
-            takes about two minutes and ends with a quiz that tells you what actually landed — one
-            of 300+ episodes covering the whole Bible in order.
+            Finding {p.words.length} words is vocabulary, not comprehension. The {clip.videoTitle}{' '}
+            episode takes about two minutes and ends with a quiz that tells you what actually
+            landed — one of 300+ episodes covering the whole Bible in order.
           </p>
           <a className="btn-primary" href="/quiz?ref=word-search-detail">
-            Watch {p.title} free
+            Watch {clip.videoTitle} free
           </a>
           <div className="blog-cta-badges">
             <span>200 stories</span><span>Quiz after every one</span><span>No ads, ever</span>

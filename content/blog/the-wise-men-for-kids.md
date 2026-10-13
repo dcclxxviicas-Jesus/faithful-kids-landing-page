@@ -47,6 +47,8 @@ The story of The Wise Men teaches children important lessons about hope, faith, 
 
 Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
 
+There is also a free [Christmas word search printable](/printables/bible-word-search/christmas) built on the Luke 2 vocabulary, ready to print for a class or play online.
+
 ## Parent's Guide: Why This Story Matters
 
 The birth of Jesus is the story your child will hear every Christmas for the rest of their life. Giving them the real version now, not just the cultural one, matters. Jesus was not born in a palace. He was born in the humblest place imaginable, to an ordinary young woman, announced first to shepherds (the lowest status people in society). Every detail of this story says: God is for everyone, especially the overlooked.

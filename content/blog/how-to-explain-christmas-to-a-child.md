@@ -96,6 +96,8 @@ For quiet time afterwards, print the free [baby Jesus in the manger coloring pag
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
+If you need a handout too, the free printable [Christmas word search](/printables/bible-word-search/christmas) covers the Luke 2 story — Mary, the shepherds, Bethlehem and the manger — with an answer key.
+
 ## Addressing the Santa Question
 
 This is the question every parent faces. Here are some approaches:

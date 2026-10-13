@@ -85,3 +85,5 @@ The birth of Jesus is told in Matthew 1-2 and Luke 1-2. It includes the angel vi
 For the season's readings, print the free [Advent Bible calendar](/printables/advent-bible-calendar): 25 days of Scripture, prophecy to nativity, on one sheet.
 
 More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
+
+Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser, no sign-up.

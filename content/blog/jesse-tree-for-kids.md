@@ -77,6 +77,8 @@ A hybrid works too: buy or print a finished set this year and let kids make repl
 
 There is a free [Jesse Tree set](/printables/jesse-tree) on our site too: 25 printable ornaments plus the daily readings, no sign-up.
 
+If you need a handout too, the free printable [Christmas word search](/printables/bible-word-search/christmas) covers the Luke 2 story — Mary, the shepherds, Bethlehem and the manger — with an answer key.
+
 ## What's a Realistic Jesse Tree Reading Plan?
 
 Attach the reading to an anchor you already have -- dinner or bedtime -- and keep it under ten minutes. The nightly liturgy:

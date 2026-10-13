@@ -27,7 +27,12 @@ PUZZLES = [
       "GOSPEL", "PSALM", "DISCIPLE", "KINGDOM"]),
     ("noahs-ark", "Noah's Ark", "Genesis 6-9", "Ages 6+",
      ["NOAH", "ARK", "FLOOD", "RAINBOW", "DOVE", "OLIVE", "ANIMALS", "RAIN", "MOUNTAIN", "PROMISE", "FORTY", "SHEM"]),
-    ("christmas", "The Christmas Story", "Luke 2", "Ages 6+",
+    # Titled like the Thanksgiving puzzle so the rendered meta title is the
+    # exact phrase "Christmas Word Search" (14,800/mo, KD 0) — as "The
+    # Christmas Story" it rendered "The Christmas Story Word Search" and the
+    # page sat outside the top 30 while every page-1 result led with the
+    # exact phrase (checked on the live SERP, Oct 13, 2026).
+    ("christmas", "Christmas Word Search", "Luke 2", "Ages 6+",
      ["MARY", "JOSEPH", "JESUS", "MANGER", "SHEPHERDS", "ANGEL", "STAR", "BETHLEHEM", "WISEMEN", "GIFTS", "STABLE", "GABRIEL"]),
     ("easter", "The Easter Story", "Matthew 26-28", "Ages 7+",
      ["EASTER", "TOMB", "STONE", "RISEN", "CROSS", "PALM", "SUPPER", "GARDEN", "ANGEL", "MARY", "PETER", "ALIVE"]),

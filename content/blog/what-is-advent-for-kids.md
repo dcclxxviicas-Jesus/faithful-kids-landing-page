@@ -44,6 +44,8 @@ Families building an Advent rhythm love the [printable Jesse Tree ornaments](/pr
 
 For the rest of the season, our [Christmas hub](/holidays/christmas) collects every Advent and nativity resource in one place.
 
+Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser, no sign-up.
+
 ## What Do the Advent Wreath and Candles Mean?
 
 The Advent wreath is a circle of evergreen branches holding four candles -- one for each week of Advent -- plus often a fifth white candle in the center for Christmas. Every part of it is a picture kids can understand:

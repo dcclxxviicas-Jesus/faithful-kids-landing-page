@@ -84,6 +84,8 @@ If nothing above fits, scan the room for five categories of object and a game ex
 ### 20. Minefield
 **Object: a jacket or scarf for a blindfold, plus junk to scatter. Group: 8-30. Space: open floor. Prep: 3 minutes.** Scatter chairs, backpacks, and water bottles across the floor. One blindfolded teen crosses while their partner shouts directions from the far side. Touch an object and you restart. With four pairs going at once, the competing voices are the game. It is the best trust-and-communication game that costs nothing.
 
+When you just need the group laughing, these [fun and funny youth group games](/blog/fun-youth-group-games) come with exact rules and the materials you already own.
+
 ## How Do You Run a Last-Minute Game Night Without It Falling Apart?
 
 Pick three games in this order -- one loud, one clever, one team-based -- and explain each in under 45 seconds by demonstrating rather than describing. A no-prep night falls apart for exactly two reasons: rules that take longer than the game, and a game that leaves most of the room watching. Choose games where everyone is doing something at the same time and you can survive with zero planning.

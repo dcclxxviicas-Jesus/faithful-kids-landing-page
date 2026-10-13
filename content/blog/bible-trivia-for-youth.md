@@ -110,6 +110,8 @@ This is the sweet spot for most youth groups. Students who have been around chur
 
 Add five quiet minutes with the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit); it prints one to a sheet with the key on the page.
 
+For pure energy-burners, see these [30 fun youth group games](/blog/fun-youth-group-games), sorted by how much laughter they produce.
+
 ## Hard Youth Bible Trivia Questions (71-100)
 
 Save these for the tiebreaker round, the "double or nothing" cards, or the student who has been correcting you all night. Most groups get four or five of these on a good night.

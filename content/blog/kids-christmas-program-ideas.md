@@ -103,6 +103,8 @@ If small hands need something to do while you read, the free [baby Jesus in the 
 
 More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
 
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+
 ## A Complete 15-Minute Pageant Outline (Two-Rehearsal Version)
 
 Here is a full script outline you can adapt freely. It needs 4 narrators (reading, not memorizing), 6-10 costumed actors, and any number of angels and sheep. Total run time: about 15 minutes.

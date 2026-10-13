@@ -86,6 +86,8 @@ Yes -- and they usually land better than a white elephant swap, because they tur
 
 Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
 
+Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser, no sign-up.
+
 ## How Do You Run a Christmas Class That Isn't Chaos?
 
 Anchor the morning with one story, one game, and one thing kids take home. December Sundays run short and loud, so pick a single nativity scene, play one game that acts it out, and send home something physical -- a craft, a blessing bag, a card. Our [Christmas Sunday school lessons](/blog/christmas-sunday-school-lessons) give you the teaching half in six ready plans, and the [Christmas crafts for kids](/blog/christmas-crafts-for-kids-bible) list covers the take-home. If your class is a mixed bag of visitors, start with the story itself: our [Christmas Bible stories for kids](/blog/christmas-bible-stories-for-kids) versions are short enough to read aloud before a game.

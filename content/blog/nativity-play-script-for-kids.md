@@ -125,6 +125,8 @@ Here is a complete nativity play script for kids -- **"The Night of Nights"** --
 
 > 🎵 **Finale carol:** "Hark! The Herald Angels Sing," verse 1 -- full cast and congregation. Bows during the final line. House lights up.
 
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+
 ## Director's Notes (From People Who Have Survived This)
 
 - **Three rehearsals is enough.** One: read-through in a circle, assign spots. Two: walk it with props, and practice the shepherd panic until it's funny. Three: dress rehearsal straight through -- no stopping, whatever happens.

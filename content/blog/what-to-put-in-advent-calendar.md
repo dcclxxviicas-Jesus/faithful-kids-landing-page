@@ -56,6 +56,8 @@ There is a free [Jesse Tree set](/printables/jesse-tree) on our site too: 25 pri
 
 Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
 
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+
 ## Acts of Kindness (23-34)
 
 Cost: free. Age fit: 4+, with the best results at 6-11. The rule that makes these work: the act has to be finished before bedtime, and you debrief at dinner. "How did it go? What did they say?"

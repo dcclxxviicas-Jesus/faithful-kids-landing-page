@@ -66,6 +66,8 @@ Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you
 
 Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
 
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+
 ## Thank-You-for-Jesus Prayers Kids Can Say On Their Own
 
 These are short enough for a child to memorize and pray solo -- at bedtime, at the nativity scene, or in the car. For year-round versions, see our collection of [bedtime prayers for kids](/blog/bedtime-prayers-for-kids).

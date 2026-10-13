@@ -110,6 +110,8 @@ Pair it with our [Christmas Bible trivia questions](/blog/christmas-bible-trivia
 
 Add the [kids' nativity play script](/blog/nativity-play-script-for-kids) -- free, ten minutes, scales from 8 kids to 40 -- and the evening plans itself.
 
+Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser, no sign-up.
+
 ## Frequently Asked Questions
 
 ### What is the Christmas story in simple words?

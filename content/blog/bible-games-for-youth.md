@@ -62,6 +62,8 @@ Debate formats work because they hand students a position instead of asking for 
 ### 12. Ethics Ladder
 **Prep: 10 minutes.** Give six modern scenarios and have teams rank them from most to least wrong, then defend the ranking with Scripture. The arguments over positions three and four are where the real thinking happens.
 
+For pure energy-burners, see these [30 fun youth group games](/blog/fun-youth-group-games), sorted by how much laughter they produce.
+
 ## Escape-Room Style Bible Challenges (Games 13-18)
 
 Escape-room formats deliver the best energy per dollar in youth ministry, and every puzzle answer can be a verse reference. Budget 45 minutes and two combination locks.

@@ -67,6 +67,10 @@ Elementary kids can finally handle rules, teams, and a scoreboard, which opens u
 ### 13. Bible Verse Basketball
 **Ages 6-11. Needs: scrap paper and a trash can.** Ask a review question. Answer correctly and you earn a shot: one point from the close line, two from the far one. Missed shots keep the answer point, so nobody gets punished twice. **Lesson tie-in:** any review; it's the fastest way to make a worksheet's worth of questions feel like recess.
 
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+
+For pure energy-burners, see these [30 fun youth group games](/blog/fun-youth-group-games), sorted by how much laughter they produce.
+
 ## What Sunday School Games Work for Preteens (Ages 11-13)?
 
 Preteens need competition, choice, or an opinion to defend -- otherwise they will sit out on purpose. Anything that feels babyish gets rejected in about eight seconds, so raise the difficulty rather than the silliness.

@@ -63,6 +63,8 @@ An ox, a donkey, sheep, and doves in the rafters, all looking toward the manger.
 
 More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
 
+Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser, no sign-up.
+
 ## The Shepherds (Pages 10-13)
 
 Four pages that work beautifully as a single strip, because the shepherds' scene moves: field, angel, host, town.

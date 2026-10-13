@@ -64,6 +64,8 @@ If small hands need something to do while you read, the free [empty tomb colorin
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+
 ## Lesson 3: The Journey to Bethlehem (Mary and Joseph Travel)
 
 **Scripture:** Luke 2:1-7

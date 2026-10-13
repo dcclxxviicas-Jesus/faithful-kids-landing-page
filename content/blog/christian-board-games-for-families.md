@@ -68,6 +68,8 @@ Assign each suit a category: hearts = name a Bible character, diamonds = name a 
 
 A related freebie: our [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god), drawn as clean line art for crayons and markers.
 
+When you just need the group laughing, these [fun and funny youth group games](/blog/fun-youth-group-games) come with exact rules and the materials you already own.
+
 ## How Do You Make Bible Game Night Actually Happen?
 
 Pick a fixed night, keep it under an hour, and let kids choose the game -- consistency beats ambition. Families that succeed treat it like pizza night, not church: snacks out, phones away, one game, done while everyone still wants more. If a game sparks a question ("Wait, who was Nebuchadnezzar?"), chase it for two minutes, then get back to playing -- many families use the quizzes in our [Faithful Kids](https://faithfulkids.app/quiz) video lessons during the week so game night answers come easier. And on nights when a board game feels like too much setup, swap in quick [Bible activities you can do at home](/blog/bible-activities-for-kids-at-home) with zero pieces to lose.

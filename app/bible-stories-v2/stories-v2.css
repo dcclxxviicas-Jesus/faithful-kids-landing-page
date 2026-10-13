@@ -7,7 +7,14 @@
    Shorter than the homepage's. The homepage hero has a button to reach; this
    one is a title card and the content below it is the point. */
 .hv2 .sv-hero { min-height: 560px; padding: 48px 20px 170px; }
-.hv2 .sv-hero .hv-hero-art { object-position: center 38%; }
+.hv2 .sv-hero .hv-hero-art { object-position: center 46%; }
+/* The shared scrim is tuned for the homepage's meadow, where the headline sits
+   over green. Here it sits over pale sunrise sky and 95% white washed the whole
+   painting out. Lighter, and the ark and the town come back. */
+.hv2 .sv-hero::after {
+  background: linear-gradient(180deg, rgba(255,255,255,.88) 0%, rgba(255,255,255,.7) 42%, rgba(255,255,255,.34) 70%, rgba(255,255,255,0) 100%);
+}
+
 /* The painting stops in a hard line either side of the card below it. This
    melts it into the page instead. ::after is already the top scrim that keeps
    the headline readable, so the bottom fade goes on ::before. */

@@ -19,11 +19,18 @@ import { seriesLabel, seriesRank, spreadBySeries } from '@/lib/series-order'
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
 const SITE = 'https://faithfulkids.app'
 
-/* The storytime painting, not the homepage's meadow: four children round an
-   open book. It is the only hero on the site that depicts what the page is
-   about, which is also why it gets real alt text and the meadow does not. */
-const HERO = `${CDN}/home/hero-storytime-1536.webp`
-const HERO_SET = [768, 1152, 1536].map(w => `${CDN}/home/hero-storytime-${w}.webp ${w}w`).join(', ')
+/* Painted for this crop. The storytime version put four children's faces in the
+   lower middle, exactly where the white card covers them, so on desktop you saw
+   the tops of four heads. This one keeps the top third as quiet sunrise sky for
+   the headline, puts every point of interest in the middle band that stays
+   visible, and leaves the bottom quarter as plain ground for the card to sit
+   on. It is also a better fit for the page: one landscape holding scenes from
+   across the whole Bible, which is what the 200 stories below it are. */
+const HERO = `${CDN}/home/hero-valley-1536.webp`
+const HERO_SET = [512, 768, 1152, 1536].map(w => `${CDN}/home/hero-valley-${w}.webp ${w}w`).join(', ')
+const HERO_ALT = 'A storybook valley at sunrise with scenes from the Bible across it: '
+  + "Noah's ark resting on a far hill, a shepherd leading sheep, a small boat on a lake, "
+  + 'a stone well and a walled town'
 
 /* Card-sized copies of the twenty series illustrations. The originals are
    1536px and 150-450KB each; twenty of those is 7MB for cards that render
@@ -163,7 +170,7 @@ export default function BibleStoriesV2() {
       <section className="hv-hero sv-hero">
         <img className="hv-hero-art"
              src={HERO} srcSet={HERO_SET} sizes="100vw"
-             alt="Four children sitting in a meadow at sunset around a large open Bible, laughing"
+             alt={HERO_ALT}
              width={1536} height={1024} fetchPriority="high" />
         <div className="hv-hero-inner">
           <p className="hv-eyebrow">Free &middot; no sign-up &middot; no email wall</p>

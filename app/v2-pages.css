@@ -1,0 +1,185 @@
+/* Shared layer for the redesigned inner pages (/blog-v2, /bible-trivia-v2,
+   /printables-v2, /churches-v2). The type, colour, buttons, chips, plan cards
+   and FAQ all come from home.css; this is only the furniture those four need
+   and the homepage does not. Everything is scoped under .hv2. */
+
+/* ---------- hero ----------
+   Shorter than the homepage's: these pages are read, not sold, and the content
+   should be close to the top. */
+.hv2 .v2-hero { min-height: 440px; padding: 50px 20px 60px; align-items: center; }
+.hv2 .v2-hero.is-short { min-height: 380px; padding: 44px 20px 52px; }
+.hv2 .v2-hero .hv-hero-art { object-position: center 48%; }
+/* These four paintings are busier and warmer than the homepage's meadow, and a
+   full-width white scrim strong enough to make the sub-heading legible over a
+   lamp or a pile of crayons also flattened the painting into fog. So the scrim
+   drops right back and the text gets its own frosted panel instead: the words
+   always sit on their own ground, and the art stays an actual picture. */
+.hv2 .v2-hero::after {
+  background: linear-gradient(180deg, rgba(255,255,255,.55) 0%, rgba(255,255,255,.3) 52%, rgba(255,255,255,0) 100%);
+}
+.hv2 .v2-hero .hv-hero-inner {
+  background: rgba(255,255,255,.88);
+  backdrop-filter: blur(7px) saturate(1.04);
+  -webkit-backdrop-filter: blur(7px) saturate(1.04);
+  border-radius: 28px;
+  padding: 26px 32px 30px;
+  box-shadow: 0 12px 40px rgba(22,49,79,.14);
+  max-width: 740px;
+}
+/* backdrop-filter is unsupported in a handful of browsers; without it .88 white
+   is still legible, but push it opaque so nobody gets grey text on a painting. */
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .hv2 .v2-hero .hv-hero-inner { background: rgba(255,255,255,.96); }
+}
+@media (max-width: 560px) {
+  .hv2 .v2-hero .hv-hero-inner { padding: 20px 18px 24px; border-radius: 22px; }
+}
+.hv2 .v2-hero .hv-h1 { font-size: clamp(2rem, 5.2vw, 3.1rem); }
+.hv2 .v2-hero .hv-sub { margin-bottom: 20px; }
+@media (max-width: 560px) {
+  .hv2 .v2-hero, .hv2 .v2-hero.is-short { min-height: 340px; padding: 28px 18px 40px; }
+}
+
+/* ---------- sections ---------- */
+.hv2 .v2-section { padding: 58px 20px 62px; }
+.hv2 .v2-section.is-alt { background: var(--hv-cream); }
+.hv2 .v2-section.is-sky { background: var(--hv-sky); }
+.hv2 .v2-head { max-width: 760px; margin: 0 auto 34px; text-align: center; }
+.hv2 .v2-head h2 { font-size: clamp(1.6rem, 4vw, 2.3rem); margin: 0 0 8px; font-weight: 800; }
+.hv2 .v2-head-sub { margin: 0; color: var(--hv-ink-soft); font-weight: 600; line-height: 1.65; }
+.hv2 .v2-head-sub a, .hv2 .v2-body a { color: var(--hv-green-dark); font-weight: 800; }
+.hv2 .v2-wrap { max-width: 1120px; margin: 0 auto; }
+.hv2 .v2-wrap.is-narrow { max-width: 780px; }
+
+/* ---------- feature cards ---------- */
+.hv2 .v2-grid { display: grid; gap: 18px; }
+.hv2 .v2-grid.is-2 { grid-template-columns: repeat(2, minmax(0,1fr)); }
+.hv2 .v2-grid.is-3 { grid-template-columns: repeat(3, minmax(0,1fr)); }
+.hv2 .v2-grid.is-4 { grid-template-columns: repeat(4, minmax(0,1fr)); }
+.hv2 .v2-card {
+  background: #fff;
+  border-radius: 20px;
+  padding: 24px 22px 26px;
+  box-shadow: 0 6px 18px rgba(22,49,79,.07);
+}
+.hv2 .is-alt .v2-card, .hv2 .is-sky .v2-card { box-shadow: 0 6px 18px rgba(22,49,79,.06); }
+.hv2 .v2-card h3 { font-size: 1.1rem; margin: 0 0 7px; font-weight: 800; }
+.hv2 .v2-card p { margin: 0; font-size: .95rem; line-height: 1.6; color: var(--hv-ink-soft); font-weight: 600; }
+.hv2 .v2-card p + p { margin-top: 10px; }
+.hv2 .v2-ico {
+  width: 52px; height: 52px; border-radius: 16px;
+  display: grid; place-items: center; font-size: 1.45rem;
+  margin-bottom: 14px;
+}
+/* A rotating pastel so a grid of cards is not a grid of identical boxes. */
+.hv2 .v2-grid > *:nth-child(6n+1) .v2-ico { background: #dbeafe }
+.hv2 .v2-grid > *:nth-child(6n+2) .v2-ico { background: #dcfce7 }
+.hv2 .v2-grid > *:nth-child(6n+3) .v2-ico { background: #fef3c7 }
+.hv2 .v2-grid > *:nth-child(6n+4) .v2-ico { background: #fce7f3 }
+.hv2 .v2-grid > *:nth-child(6n+5) .v2-ico { background: #e0e7ff }
+.hv2 .v2-grid > *:nth-child(6n+6) .v2-ico { background: #ffe4e6 }
+
+/* ---------- numbered steps ---------- */
+.hv2 .v2-steps { counter-reset: st; display: grid; gap: 18px; grid-template-columns: repeat(3, minmax(0,1fr)); }
+.hv2 .v2-step {
+  background: #fff; border-radius: 20px; padding: 46px 22px 24px;
+  position: relative; box-shadow: 0 6px 18px rgba(22,49,79,.07);
+}
+.hv2 .v2-step::before {
+  counter-increment: st; content: counter(st);
+  position: absolute; top: -22px; left: 22px;
+  width: 46px; height: 46px; border-radius: 50%;
+  background: var(--hv-green); color: #fff;
+  font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.25rem;
+  display: grid; place-items: center;
+  box-shadow: 0 5px 14px rgba(22,163,74,.35);
+}
+.hv2 .v2-step h3 { font-size: 1.08rem; margin: 0 0 7px; font-weight: 800; }
+.hv2 .v2-step p { margin: 0; font-size: .95rem; line-height: 1.6; color: var(--hv-ink-soft); font-weight: 600; }
+
+/* ---------- link/asset cards ---------- */
+.hv2 .v2-asset {
+  display: flex; flex-direction: column;
+  background: #fff; border: 2px solid #eaf1f6; border-radius: 20px;
+  padding: 24px 22px 22px; text-decoration: none; color: inherit;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.hv2 .v2-asset:hover { transform: translateY(-3px); border-color: #cfe8d9; box-shadow: 0 14px 30px rgba(22,49,79,.12); }
+.hv2 .v2-asset h3 { font-size: 1.08rem; margin: 0 0 8px; font-weight: 800; line-height: 1.35; }
+.hv2 .v2-asset p { margin: 0 0 14px; font-size: .93rem; line-height: 1.6; color: var(--hv-ink-soft); font-weight: 600; }
+.hv2 .v2-asset-meta { margin-top: auto; font-size: .82rem; font-weight: 700; color: var(--hv-ink-soft); }
+.hv2 .v2-asset-go { margin-top: 10px; font-family: var(--font-display), sans-serif; font-weight: 800; color: var(--hv-green-dark); }
+
+/* ---------- small link cards + chips (the trivia directory) ---------- */
+.hv2 .v2-mini {
+  display: block; background: #fff; border: 2px solid #eaf1f6; border-radius: 16px;
+  padding: 14px 16px; text-decoration: none; transition: border-color .14s, transform .14s;
+}
+.hv2 .v2-mini:hover { border-color: var(--hv-green); transform: translateY(-2px); }
+.hv2 .v2-mini strong { display: block; color: var(--hv-green-dark); font-weight: 800; margin-bottom: 3px; font-size: .98rem; }
+.hv2 .v2-mini span { color: var(--hv-ink-soft); font-size: .86rem; line-height: 1.45; font-weight: 600; }
+.hv2 .v2-chips { display: flex; flex-wrap: wrap; gap: 9px; }
+.hv2 .v2-chip {
+  display: inline-block; background: #fff; border: 2px solid #eaf1f6;
+  border-radius: 999px; padding: 7px 15px;
+  font-size: .9rem; font-weight: 700; color: var(--hv-green-dark); text-decoration: none;
+  transition: border-color .14s;
+}
+.hv2 .v2-chip:hover { border-color: var(--hv-green); }
+.hv2 .v2-subhead { font-size: 1.12rem; font-weight: 800; margin: 0 0 14px; font-family: var(--font-display), sans-serif; }
+.hv2 .v2-group { margin-bottom: 34px; }
+.hv2 .v2-group:last-child { margin-bottom: 0; }
+
+/* ---------- prose ---------- */
+.hv2 .v2-body p { font-size: 1.02rem; line-height: 1.75; color: var(--hv-ink-soft); font-weight: 600; margin: 0 0 16px; }
+.hv2 .v2-note {
+  background: #f7fdf9; border-left: 4px solid var(--hv-green);
+  border-radius: 0 14px 14px 0; padding: 14px 18px;
+  font-weight: 700; line-height: 1.6; color: var(--hv-ink);
+}
+
+/* ---------- a secondary (outline) button ---------- */
+.hv2 .hv-cta.is-ghost {
+  background: #fff; color: var(--hv-green-dark);
+  box-shadow: 0 4px 0 #cfe8d9, 0 10px 22px rgba(22,49,79,.1);
+}
+.hv2 .hv-cta.is-ghost:hover { box-shadow: 0 5px 0 #cfe8d9, 0 14px 28px rgba(22,49,79,.14); }
+.hv2 .v2-ctarow { display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; }
+
+/* ---------- responsive ---------- */
+@media (max-width: 1000px) {
+  .hv2 .v2-grid.is-4 { grid-template-columns: repeat(2, 1fr); }
+  .hv2 .v2-grid.is-3 { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 760px) {
+  .hv2 .v2-steps { grid-template-columns: 1fr; row-gap: 34px; }
+}
+@media (max-width: 620px) {
+  .hv2 .v2-grid.is-2, .hv2 .v2-grid.is-3, .hv2 .v2-grid.is-4 { grid-template-columns: 1fr; }
+  .hv2 .v2-section { padding: 44px 18px 48px; }
+}
+
+/* ---------- the stat bar under /blog-v2's hero ---------- */
+.hv2 .bv-stats { background: var(--hv-cream); padding: 22px 20px; }
+.hv2 .bv-stats-inner {
+  max-width: 900px; margin: 0 auto;
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; text-align: center;
+}
+.hv2 .bv-stats-inner b {
+  display: block;
+  font-family: var(--font-display), sans-serif;
+  font-size: clamp(1.3rem, 3.4vw, 1.8rem); font-weight: 800;
+  color: var(--hv-green-dark); line-height: 1.1;
+}
+.hv2 .bv-stats-inner span { font-size: .85rem; font-weight: 700; color: var(--hv-ink-soft); }
+@media (max-width: 560px) {
+  .hv2 .bv-stats-inner { grid-template-columns: repeat(2, 1fr); row-gap: 18px; }
+}
+
+
+/* A long CTA label (the churches page puts an email address in its button)
+   wrapped to three lines with the arrow stranded on the last one. */
+.hv2 .v2-hero .hv-cta { text-align: center; line-height: 1.3; }
+@media (max-width: 420px) {
+  .hv2 .v2-hero .hv-cta { font-size: 1.05rem; padding: 15px 24px; }
+}

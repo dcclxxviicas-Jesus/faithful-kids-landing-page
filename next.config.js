@@ -1,5 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  /* The contract templates are read at REQUEST time by the admin route, not
+     at build time like the blog's Markdown, so Next's tracer never sees the
+     read and would ship a lambda with no contracts/ directory in it. Without
+     this the admin page 500s in production and works perfectly in dev. */
+  outputFileTracingIncludes: {
+    '/api/contracts/admin': ['./contracts/**/*'],
+  },
   // PostHog reverse proxy — routes analytics through our domain so ad
   // blockers don't drop events (PostHog "Set up reverse proxy" health check)
   skipTrailingSlashRedirect: true,

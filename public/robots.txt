@@ -3,6 +3,8 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /checkout
+Disallow: /sign/
+Disallow: /cas-admin
 
 # AI / answer-engine crawlers — explicitly welcome
 User-agent: GPTBot

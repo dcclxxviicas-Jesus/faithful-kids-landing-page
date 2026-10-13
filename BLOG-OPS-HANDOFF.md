@@ -541,6 +541,33 @@ free.
 **759**; impressions 3,047 → 9,780 → **22,556**; avg position 21.9 → 13.3.
 Compounding ~2.4×/month with zero ad spend.
 
+**Oct 13 — strategy review + pre-season fixes (commit 8319804).** 28-day
+totals now **7,292 clicks / 203,602 impressions** — the portfolio is far
+broader than trivia (youth games ~450 clicks, Sunday-school ~300, devotions,
+jokes, verse pages; bible-verses-for-sick-kids is the **#4 page at 157
+clicks, proving verse pages survive AIO for us**). Shipped: (1) Christmas
+word search renamed "The Christmas Story"→"Christmas Word Search" so the
+rendered title is the exact phrase (we were NOT in the top 30 on a
+14,800/mo KD-0 pure-artifact SERP four weeks out; grid unchanged, verified
+by diff) + 14 in-links via `link-christmas-push.py`; the detail template's
+doubled-H1 / "Thanksgiving Word Search episode" copy bugs fixed (copy now
+derives from stripped `base`, bottom CTA names `clip.videoTitle`), and the
+Christmas page now plays Born in a Manger (new `christmas` key in
+printable-videos.json) instead of the David-and-Goliath fallback. (2) +6
+in-links to fun-youth-group-games — Google shows it 5× more than the
+by-size post on "youth group games" (488i @ 11.7 vs 90i @ 9.4) but it had
+7 in-links vs 34; feed the horse that's running. (3) bible-trivia-for-kids
+metaTitle gains "Quiz"+"Free" (top query by impressions is "50 bible QUIZ
+questions and answers", 5,552i @ 1.5% CTR). **February verse cluster
+verified as the next gold mine**: Mother's Day 12,100 ads/mo, Father's
+8,100, Valentine's 4,400 (annualized — Feb peak much higher), ALL KD 0,
+soft SERPs (Facebook group at #3 on Mother's Day), AIO present on all —
+and the winning page-1 shape on the kids variant is **printable verse
+cards** (notconsumed #1, rachelwojo #2, ministry-to-children #5), not
+articles. Build window: late Oct–Nov. Christmas-bible-trivia head term
+absent top-30 but long-tails rank (pos 2.5–4.8) and it has 115 in-links —
+watch, don't touch.
+
 ---
 
 ## 6. CURRENT MEASURED STATE (Aug 27; re-verify monthly with gsc-query.py)

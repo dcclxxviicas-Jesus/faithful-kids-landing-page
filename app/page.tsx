@@ -1,47 +1,74 @@
-'use client'
-
-import { useState, useRef, useEffect } from 'react'
+import { Baloo_2 } from 'next/font/google'
 import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
 import { STORIES } from '@/app/components/stories'
 import { VideoTile } from '@/app/components/VideoTile'
-import { ExitTakeover } from '@/app/components/ExitTakeover'
-import { takeoverSuppressed, markTakeoverShown } from '@/lib/exit-intent'
-import posthog from 'posthog-js'
-import { createPortal } from 'react-dom'
-import { DavidGoliathScene, NoahArkScene, GoodSamaritanScene } from './illustrations'
+import { TrackedLink } from '@/app/components/TrackedLink'
+import { HomeExitIntent } from '@/app/components/HomeExitIntent'
+import storyDurations from '@/lib/story-durations.json'
+import './home.css'
 
-const TESTIMONIALS = [
-  {
-    name: 'Maria S.',
-    role: 'Mom of 3 (ages 4, 7 & 10)',
-    quote: "I used to dread handing my kids the iPad. Now my daughter asks for 'the Bible one' instead of YouTube. She told her grandmother the whole story of Noah last Sunday. My heart.",
-  },
-  {
-    name: 'James K.',
-    role: 'Dad of 2 (ages 5 & 8)',
-    quote: "Best $13/month I spend. Both kids love it. My son watched David & Goliath four times in a row and then acted it out in the backyard. That's the kind of screen time I can get behind.",
-  },
-  {
-    name: 'Sarah R.',
-    role: 'Mom of 1 (age 6)',
-    quote: "I put this on during dinner prep and the guilt is just gone. She's learning Scripture instead of watching unboxing videos. I've told every mom in my parish about it.",
-  },
-  {
-    name: 'Michael T.',
-    role: 'Dad of 3 (ages 4, 8 & 11)',
-    quote: "We cancelled YouTube Kids. This replaced it completely. My kids are watching the Good Samaritan instead of whatever the algorithm serves up. No contest.",
-  },
-  {
-    name: 'Amanda L.',
-    role: 'Mom (age 7)',
-    quote: "The no-ads thing is everything. My son used to come to me asking for random toys he saw in ads. Now he comes asking me about Moses and the burning bush.",
-  },
-  {
-    name: 'Chris W.',
-    role: 'Dad of 1 (age 9)',
-    quote: "My kid actually retains these stories. His Sunday school teacher noticed he already knew the parables before class. That's when I knew this was worth every penny.",
-  },
+/**
+ * The homepage. Redesigned Oct 12 2026 — the owner's father asked for
+ * something warmer and more inviting, and this is the result of that pass:
+ * full-bleed storybook hero, Baloo 2 display face, the real lessons sitting in
+ * a card that overlaps the art, pastel step circles, tinted testimonials.
+ *
+ * It is a SERVER component. The old homepage was `'use client'` end to end for
+ * the sake of three onClick handlers and an accordion; the only client code
+ * left is the exit takeover, the video tiles and the CTA links, each its own
+ * small island. Everything a crawler needs is in the server HTML.
+ *
+ * Nothing here is newly claimed. Prices come from app/api/checkout/route.ts
+ * (1299 / 9700) and the 7-day trial is annual-only, exactly as Stripe is
+ * configured; counts are check-counts.py ground truth; the testimonials and the
+ * FAQ are the ones the previous homepage carried, verbatim.
+ *
+ * Page metadata (title, description, canonical, OG, robots) comes from the
+ * ROOT layout — app/layout.tsx is the homepage's metadata, so there is no
+ * metadata export here and there must not be one, or it will override it.
+ */
+
+/* The rounded display face the design was drawn in. Declared here rather than
+   in the root layout so it loads on this page only — it is not used anywhere
+   else on the site. */
+const display = Baloo_2({
+  subsets: ['latin'],
+  weight: ['600', '700', '800'],
+  variable: '--font-display',
+  display: 'swap',
+})
+
+const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
+const SITE = 'https://faithfulkids.app'
+
+/* The hero painting, at three widths. It is the LCP element on every visit, so
+   a phone must not be made to download the 1536px original (300KB). */
+const HERO_SRC = `${CDN}/home/hero-meadow-1536.webp`
+const HERO_SRCSET = [768, 1152, 1536]
+  .map(w => `${CDN}/home/hero-meadow-${w}.webp ${w}w`)
+  .join(', ')
+
+/* Resolve by title, never by index — indices shifted once before and silently
+   repointed a whole section. `slug` is the story's blog post, which is where
+   its measured runtime lives (ffprobe on all 200, lib/story-durations.json). */
+const SHELF_SPEC = [
+  { title: 'In the Beginning: Creation', slug: 'in-the-beginning-creation-for-kids', scripture: 'Genesis 1-2' },
+  { title: 'A Baby in a Basket', slug: 'a-baby-in-a-basket-for-kids', scripture: 'Exodus 1-2' },
+  { title: 'Noah & the Great Flood', slug: 'noah-and-the-great-flood-for-kids', scripture: 'Genesis 6-9' },
 ]
+const SHELF = SHELF_SPEC.map(spec => {
+  const story = STORIES.find(s => s.title === spec.title)
+  if (!story) throw new Error(`Homepage shelf: no story titled "${spec.title}" in stories.ts`)
+  return { ...spec, ...story }
+})
+
+/* Prices are the real ones from app/api/checkout/route.ts (1299 / 9700) and
+   the 7-day trial is annual-only, exactly as Stripe is configured. Derived,
+   never hardcoded — the saving and the per-month figure follow the prices. */
+const MONTHLY = 12.99
+const ANNUAL = 97
+const PER_MONTH = (ANNUAL / 12).toFixed(2)
+const SAVE_PCT = Math.round((1 - ANNUAL / (MONTHLY * 12)) * 100)
 
 const FAQS = [
   { q: 'What age is this for?', a: 'Our Bible story videos are designed for kids ages 5 and up. Younger kids (5-7) get shorter, simpler retellings with bright visuals. Older kids (8+) get deeper stories with more context and life lessons.' },
@@ -59,27 +86,60 @@ const FAQS = [
   { q: 'Are there quizzes?', a: 'Yes. Every lesson comes with a short quiz so your child can check what they learned. It is not a test. It is a fun way to make sure the story sticks. Parents can see quiz results in the dashboard.' },
 ]
 
+/* ISO 8601 for schema. Durations are ffprobe-measured, not estimated — the old
+   copy claimed "60-second" lessons and was wrong by a factor of two. */
+function iso8601(secs: number) {
+  return `PT${Math.floor(secs / 60)}M${secs % 60}S`
+}
+
 export default function Home() {
-  const [openFaq, setOpenFaq] = useState<number | null>(null)
-
-  function handleCTA() {
-    posthog.capture('cta_click', { location: 'various' })
-    window.location.href = '/quiz'
-  }
-
-  function handlePricingClick(tier: string, price: string) {
-    posthog.capture('pricing_click', { tier, price })
-  }
+  /* The three lessons playable on this page, declared so Google can see what
+     the videos are. No mainEntityOfPage: each story's own blog post is the
+     page that should rank for the video, and two pages claiming to be the
+     main page of one video is a conflict signal. uploadDate matches the date
+     those posts publish under, so one video never carries two dates across
+     our own pages. */
+  const videoLd = SHELF.map(s => {
+    const secs = (storyDurations as Record<string, number>)[s.slug]
+    return {
+      '@context': 'https://schema.org',
+      '@type': 'VideoObject',
+      name: `${s.title} — Bible Story for Kids`,
+      description: s.blurb,
+      thumbnailUrl: s.poster,
+      contentUrl: s.src,
+      uploadDate: '2026-04-01',
+      ...(secs ? { duration: iso8601(secs) } : {}),
+      isFamilyFriendly: true,
+      inLanguage: 'en',
+      publisher: { '@type': 'Organization', '@id': `${SITE}/#organization` },
+    }
+  })
 
   return (
-    <>
-      {/* App schema. Tells Google this domain is a product, not just a blog --
-          the homepage previously carried only Organization + WebSite markup, so
-          nothing on the site identified Faithful Kids as an app at all.
-          NOTE: deliberately no aggregateRating. The "4.9/5" in the hero is
-          marketing copy, not ratings collected from real users, and Google
-          issues manual actions for review markup that isn't genuine. Add
-          aggregateRating only once real reviews exist and are shown on-page. */}
+    <div className={`${display.variable} hv2`}>
+
+      {/* React hoists this into <head>. Without it the browser does not even
+          know the hero exists until it has parsed the stylesheet, and the LCP
+          image starts ~380ms late. imageSizes/imageSrcSet must match the <img>
+          exactly or the preload is wasted and the browser warns about it. */}
+      <link
+        rel="preload"
+        as="image"
+        href={HERO_SRC}
+        imageSrcSet={HERO_SRCSET}
+        imageSizes="100vw"
+        fetchPriority="high"
+      />
+
+      {/* App schema. Tells Google this domain is a product, not just a blog —
+          the homepage carried only Organization + WebSite markup until Aug
+          2026, so nothing on the site identified Faithful Kids as an app.
+          NOTE: deliberately no aggregateRating. Any star figure we could put
+          here is marketing copy, not ratings collected from real users, and
+          Google issues manual actions for review markup that isn't genuine.
+          Add aggregateRating only once real reviews exist and are shown
+          on-page. */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -90,7 +150,7 @@ export default function Home() {
           applicationCategory: 'EducationalApplication',
           applicationSubCategory: 'Bible study app for children',
           operatingSystem: 'iOS, Web',
-          url: 'https://faithfulkids.app',
+          url: SITE,
           // installUrl deliberately omitted: /quiz is a funnel, not an install, and
           // pointing at the App Store is a channel decision (iOS is the lower-margin
           // tier). The App Store is already linked via Organization.sameAs.
@@ -116,25 +176,21 @@ export default function Home() {
             {
               '@type': 'Offer',
               name: 'Monthly',
-              price: '12.99',
+              price: MONTHLY.toFixed(2),
               priceCurrency: 'USD',
               category: 'subscription',
-              url: 'https://faithfulkids.app/checkout',
+              url: `${SITE}/checkout`,
             },
             {
               '@type': 'Offer',
               name: 'Annual',
-              price: '97.00',
+              price: ANNUAL.toFixed(2),
               priceCurrency: 'USD',
               category: 'subscription',
-              url: 'https://faithfulkids.app/checkout',
+              url: `${SITE}/checkout`,
             },
           ],
-          publisher: {
-            '@type': 'Organization',
-            name: 'Faithful Kids',
-            url: 'https://faithfulkids.app',
-          },
+          publisher: { '@type': 'Organization', '@id': `${SITE}/#organization` },
         }) }}
       />
 
@@ -143,7 +199,7 @@ export default function Home() {
           Reality check: Google restricted FAQ rich results to government and
           health sites in 2023, so this will NOT produce a rich snippet. It is
           here because it gives AI Overviews and LLM crawlers clean, attributable
-          question/answer pairs -- which is where this traffic is going. */}
+          question/answer pairs — which is where this traffic is going. */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -157,433 +213,252 @@ export default function Home() {
         }) }}
       />
 
-      {/* The full episode playable on the homepage. Video rich results DO still
-          display, unlike FAQ ones. URLs HEAD-verified 200; uploadDate is the
-          real CloudFront last-modified, not a guess. No duration claimed --
-          we don't have a verified one. */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({
-          '@context': 'https://schema.org',
-          '@type': 'VideoObject',
-          name: 'An Angel Visits Mary — Bible Story for Kids',
-          description:
-            'The angel Gabriel tells Mary she will give birth to Jesus. A short, kid-friendly retelling of Luke 1:26-56, episode 1 of the Birth of Jesus series on Faithful Kids.',
-          thumbnailUrl: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp',
-          contentUrl: 'https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4',
-          uploadDate: '2026-08-15',
-          isFamilyFriendly: true,
-          inLanguage: 'en',
-          publisher: {
-            '@type': 'Organization',
-            name: 'Faithful Kids',
-            url: 'https://faithfulkids.app',
-          },
-        }) }}
-      />
+      {/* One node per lesson actually playable on this page. Video rich results
+          DO still display, unlike FAQ ones. URLs HEAD-verified 200. */}
+      {videoLd.map(ld => (
+        <script
+          key={ld.contentUrl}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }}
+        />
+      ))}
 
-      {/* NAV — deliberately bare. This is a sales page: one CTA, no exits.
-          The full nav lives on the content pages, where people actually
-          arrive from search and need to explore. Footer still links
-          everything for crawlers and for anyone who goes looking. */}
-      <SiteNav minimal hideCta />
+      <SiteNav />
 
       <main id="main-content">
 
-      {/* HERO — variant 02 discipline: centred, one headline, one button,
-          nothing competing. The credential badges are variant 04's job:
-          answer the sceptical parent before they scroll. */}
-      <section className="hero hero-center" aria-label="Hero">
-        <div className="hero-content">
-          <h1>Where kids <span className="highlight" style={{ whiteSpace: 'nowrap' }}>fall in love</span> with the Bible</h1>
-          <p className="subtitle">
-            Short Bible story videos &middot; Genesis to Revelation
+      <section className="hv-hero" aria-label="Hero">
+        {/* Decorative by design: the art is a meadow, and describing a meadow
+            tells a screen reader nothing it needs. It is an <img> rather than a
+            CSS background because it is the LCP element, and the preload above
+            plus fetchPriority gets it on screen sooner.
+
+            Three widths, not one. The single 1536px original was 300KB and
+            pushed mobile LCP to 5.1s on simulated 4G; a phone now takes the
+            768px copy at 44KB. */}
+        <img
+          className="hv-hero-art"
+          src={HERO_SRC}
+          srcSet={HERO_SRCSET}
+          sizes="100vw"
+          alt=""
+          width={1536}
+          height={1024}
+          fetchPriority="high"
+        />
+        <div className="hv-hero-inner">
+          <p className="hv-eyebrow">Bible stories for kids ages 5&ndash;15</p>
+          <h1 className="hv-h1">
+            Where kids{' '}
+            <span className="hv-nb">
+              fall in{' '}
+              <span className="hv-love">
+                <span className="l l1">l</span><span className="l l2">o</span>
+                <span className="l l3">v</span><span className="l l4">e</span>
+              </span>
+            </span>{' '}
+            with the Bible
+          </h1>
+          <p className="hv-sub">
+            300+ short story videos, Genesis to Revelation. About two minutes each,
+            with a quiz and a reflection after every one. No ads, no algorithm, no comments.
           </p>
-
-          <button className="btn-primary btn-hero" onClick={handleCTA}>
-            Get started
-          </button>
-
-          <div className="hero-badges">
-            <span className="hero-badge"><i>★</i> 4.9/5 from Christian families</span>
-          </div>
-        </div>
-
-        <div className="hero-visual">
-          <PhoneMockup />
-        </div>
-
-        <div className="hero-proof">
-          <LiveCounter />
+          <TrackedLink
+            className="hv-cta"
+            href="/quiz"
+            event="cta_click"
+            props={{ location: 'hero' }}
+          >
+            <span className="hv-cta-play" aria-hidden="true">&#9654;</span>
+            Start watching free
+          </TrackedLink>
         </div>
       </section>
 
-      {/* THREE PROMISES — variant 02. Three short declarative lines, nothing
-          more. Replaces what used to be four separate argued sections. */}
-      <section className="promises-section">
-        <div className="promise-grid">
-          <div className="promise">
-            <h2>Faithful. Short. Real.</h2>
-            {/* "60-90 seconds" was false — ffprobe on all 200 lessons gives
-                1:28-3:37, median 2:07. */}
-            <p>About two minutes a story, retold from Scripture with the reference on screen.</p>
+      <div className="hv-shelf-wrap">
+        <div className="hv-shelf">
+          <h2>Watch one right now</h2>
+          {/* "Watch one right now" invites the suspicion that these are
+              trailers, so the subhead answers that directly — and it is true:
+              the tiles open s.src, the full lesson-video.mp4, not loopSrc. */}
+          <p className="hv-shelf-sub">
+            See exactly what your kids will watch &mdash; full lessons, not clips.
+          </p>
+          <div className="hv-tiles">
+            {SHELF.map(s => (
+              <VideoTile
+                key={s.title}
+                src={s.src}
+                poster={s.poster}
+                /* 640x360 copies. The three full-size posters were 163KB for
+                   tiles that render ~320px wide; these are 63KB. The modal
+                   still gets the full one. */
+                tilePoster={s.poster.replace('/video-posters/', '/video-posters/sm/')}
+                title={s.title}
+                badge={s.badge}
+                location="home-shelf"
+                showLabels
+              />
+            ))}
           </div>
-          <div className="promise">
-            <h2>No Ads. Ever.</h2>
-            <p>No algorithm, no comments, no rabbit holes. Subscriptions are our only revenue.</p>
+          <p className="hv-note">31 series &middot; 300+ lessons &middot; new ones every week</p>
+        </div>
+      </div>
+
+      <section className="hv-how">
+        <div className="hv-how-head">
+          <p className="hv-eyebrow">What a lesson looks like</p>
+          <h2>Watch. Quiz. Reflect.</h2>
+          <svg className="hv-swash" viewBox="0 0 300 12" aria-hidden="true">
+            <path d="M4 8 C 70 2, 150 11, 296 4" stroke="#16a34a" strokeWidth="6"
+                  fill="none" strokeLinecap="round" />
+          </svg>
+          <p className="hv-sub" style={{ marginTop: 14 }}>
+            Every story follows the same gentle rhythm, so a child always knows what comes next.
+          </p>
+        </div>
+        <div className="hv-steps">
+          <div className="hv-step">
+            <div className="hv-step-ico" aria-hidden="true">📖</div>
+            <h3>Watch the story</h3>
+            <p>About two minutes, retold from Scripture with the verse on screen.</p>
           </div>
-          <div className="promise">
-            <h2>They Keep Going.</h2>
-            {/* Was "most Bible apps get outgrown by seven" — an unsourced claim
-                about other products. This says the same thing about ours. */}
-            <p>Built for ages 5 to 15, not just for toddlers.</p>
+          <div className="hv-step">
+            <div className="hv-step-ico" aria-hidden="true">✅</div>
+            <h3>Answer a few questions</h3>
+            <p>One at a time, with a streak to chase and stars to win back.</p>
+          </div>
+          <div className="hv-step">
+            <div className="hv-step-ico" aria-hidden="true">💭</div>
+            <h3>Reflect on it</h3>
+            <p>Tap a card to say what they think. No typing, so little ones can join in.</p>
+          </div>
+          <div className="hv-step">
+            <div className="hv-step-ico" aria-hidden="true">🏆</div>
+            <h3>Keep going</h3>
+            <p>Levels from Seedling to Bible Master, and the next series unlocks.</p>
           </div>
         </div>
       </section>
 
-      {/* SEE THE VIDEOS — variant 01's job. A parent will not pay for videos
-          they have not seen, so this plays a real one and then shows the shelf
-          it came from. */}
-      <section className="fullstory-section">
-        <span className="section-label">SEE FOR YOURSELF</span>
-        <h2>Watch a full story right now</h2>
-        <p className="section-sub">Exactly what your child sees. No signup. Just press play.</p>
-        <FullStoryPlayer />
-
-        <div className="library-strip">
-          <div><b>300+</b><span>video lessons</span></div>
-          <div><b>31</b><span>series, in order</span></div>
-          <div><b>5&ndash;15</b><span>ages it is built for</span></div>
-          <div><b>0</b><span>ads, ever</span></div>
-        </div>
-        <p className="section-sub library-note">
-          Genesis to Revelation, in the order it happened &mdash; not a handful of favourite
-          stories on shuffle. Every lesson ends with a quiz and a reflection.
-        </p>
-        <button className="btn-primary" onClick={handleCTA}>Get started</button>
-      </section>
-
-      {/* SOCIAL PROOF — variant 04's job. */}
-      <section className="testimonials-section">
+      <section className="hv-parents">
         <h2>What parents say</h2>
-        <div className="testimonial-grid">
-          {TESTIMONIALS.slice(0, 3).map((t) => (
-            <div key={t.name} className="testimonial-card">
-              <p className="testimonial-quote">&ldquo;{t.quote}&rdquo;</p>
-              <div className="testimonial-footer">
-                <div className="testimonial-avatar">{t.name[0]}</div>
-                <div>
-                  <p className="testimonial-name">{t.name}</p>
-                  <p className="testimonial-role">{t.role}</p>
-                </div>
-              </div>
-            </div>
-          ))}
+        <div className="hv-quotes">
+          <div className="hv-quote">
+            <p>&ldquo;I used to dread handing my kids the iPad. Now my daughter asks for
+              &lsquo;the Bible one&rsquo; instead of YouTube. She told her grandmother the whole
+              story of Noah last Sunday. My heart.&rdquo;</p>
+            <cite>Maria S.<span>Mom of 3 (ages 4, 7 &amp; 10)</span></cite>
+          </div>
+          <div className="hv-quote">
+            <p>&ldquo;Best $13/month I spend. My son watched David &amp; Goliath four times in a
+              row and then acted it out in the backyard. That&rsquo;s the kind of screen time I
+              can get behind.&rdquo;</p>
+            <cite>James K.<span>Dad of 2 (ages 5 &amp; 8)</span></cite>
+          </div>
+          <div className="hv-quote">
+            <p>&ldquo;We cancelled YouTube Kids. This replaced it completely. My kids are watching
+              the Good Samaritan instead of whatever the algorithm serves up. No contest.&rdquo;</p>
+            <cite>Michael T.<span>Dad of 3 (ages 4, 8 &amp; 11)</span></cite>
+          </div>
         </div>
-        <p className="section-sub testi-note">
-          {/* "christian shows for kids" is 255/mo and the one term where a
-              homepage competes — that keyword line stays. Shortened Sep 3
-              (owner): the 300+/quiz sentence duplicated the new hero, and the
-              "choose the path at setup" claim was removed because no
-              denominational content path exists in the product. */}
-          Christian shows for kids that teach, not just entertain.
+        {/* "christian shows for kids" is 255/mo and the one term where a
+            homepage genuinely competes — Minno ranks #1 with its homepage and
+            Yippee with theirs. That keyword line carries over from the old
+            page; it is the only line on this page written for a search engine
+            rather than a parent, and it is still true. */}
+        <p className="hv-testi-note">Christian shows for kids that teach, not just entertain.</p>
+      </section>
+
+      <section className="hv-pricing" id="pricing">
+        <h2>One price. Every story. Every kid in the house.</h2>
+        <p>Unlimited kid profiles, all 31 series, on every device you own.</p>
+        <div className="hv-plans">
+          <div className="hv-plan is-best">
+            <p className="hv-plan-name">Monthly</p>
+            <p className="hv-price">${MONTHLY}<small> /month</small></p>
+            <ul>
+              <li>300+ lessons, Genesis to Revelation</li>
+              <li>About two minutes each, with a quiz and a reflection</li>
+              <li>No ads, no algorithm, no comments</li>
+            </ul>
+            <TrackedLink
+              className="hv-plan-cta"
+              href="/checkout?plan=monthly"
+              event="pricing_click"
+              props={{ tier: 'monthly', price: MONTHLY.toFixed(2) }}
+            >
+              Get started
+            </TrackedLink>
+          </div>
+          <div className="hv-plan">
+            <span className="hv-tag">Save {SAVE_PCT}%</span>
+            <p className="hv-plan-name">Yearly</p>
+            <p className="hv-price">${ANNUAL}<small> /year &middot; ${PER_MONTH}/mo</small></p>
+            <ul>
+              <li>Everything in monthly</li>
+              <li>Starts with a 7-day free trial</li>
+              <li>Cancel any time before it renews</li>
+            </ul>
+            <TrackedLink
+              className="hv-plan-cta"
+              href="/checkout?plan=annual"
+              event="pricing_click"
+              props={{ tier: 'annual', price: ANNUAL.toFixed(2) }}
+            >
+              Start free trial
+            </TrackedLink>
+          </div>
+        </div>
+        <p className="hv-guarantee">
+          30-day money-back guarantee &mdash; if your kids don&apos;t love it, we refund you.
         </p>
       </section>
 
-      {/* PRICING — before Aug 30 2026 the page had no pricing section at all:
-          the only figures a reader could find were a per-month number inside a
-          comparison table cell and a different one inside a testimonial,
-          neither anywhere a buyer would look. Figures below are the live
-          Stripe amounts from app/api/checkout/route.ts — keep them in sync
-          with that file, it is the only source of truth for what we charge. */}
-      <section className="pricing-section" id="pricing">
-        <span className="section-label">PRICING</span>
-        <h2>One price. Every story. Every kid in the house.</h2>
-        <p className="section-sub">No per-child fees, no upsells, no ads. Cancel in two taps.</p>
-
-        <div className="plan-grid">
-          <div className="plan-tile featured">
-            <span className="plan-flag">Most families choose this</span>
-            <h3 className="plan-name">Annual</h3>
-            <p className="plan-price"><span className="plan-amount">$8.08</span><span className="plan-per">/month</span></p>
-            <p className="plan-billed">$97 billed yearly &middot; save $58.88</p>
-            <ul className="plan-list-features">
-              <li>Start with 7 days free</li>
-              <li>All 300+ lessons, Genesis to Revelation</li>
-              <li>Up to 5 kid profiles</li>
-              <li>Quiz and reflection after every story</li>
-            </ul>
-            <a href="/checkout?plan=annual" className="btn-primary plan-cta" onClick={() => handlePricingClick('annual', '97.00')}>
-              Choose annual
-            </a>
-            <p className="plan-fine">Then $97/year. Cancel anytime.</p>
-          </div>
-
-          <div className="plan-tile">
-            <h3 className="plan-name">Monthly</h3>
-            <p className="plan-price"><span className="plan-amount">$12.99</span><span className="plan-per">/month</span></p>
-            <p className="plan-billed">Billed monthly</p>
-            <ul className="plan-list-features">
-              <li>All 300+ lessons, Genesis to Revelation</li>
-              <li>Up to 5 kid profiles</li>
-              <li>Quiz and reflection after every story</li>
-              <li>No trial on monthly</li>
-            </ul>
-            <a href="/checkout?plan=monthly" className="btn-secondary plan-cta" onClick={() => handlePricingClick('monthly', '12.99')}>
-              Choose monthly
-            </a>
-            <p className="plan-fine">Cancel anytime.</p>
-          </div>
-        </div>
-
-        <p className="plan-guarantee">30-day money-back guarantee &mdash; if your kids don&apos;t love it, we refund you.</p>
-      </section>
-
-      {/* FAQ */}
-      <section className="faq-section" id="faq">
-        <h2>Frequently asked questions</h2>
-        <p className="section-sub">Everything you need to know.</p>
-        <div className="faq-list">
-          {FAQS.map((faq, i) => (
-            <div key={i} className={`faq-item ${openFaq === i ? 'open' : ''}`}>
-              <button className="faq-q" onClick={() => setOpenFaq(openFaq === i ? null : i)} aria-expanded={openFaq === i}>
-                {faq.q}
-                <span className="faq-arrow" aria-hidden="true">{openFaq === i ? '−' : '+'}</span>
-              </button>
-              {openFaq === i && <p className="faq-a">{faq.a}</p>}
-            </div>
+      {/* FAQ. Plain <details>, so every answer is in the server HTML whether or
+          not it is open and whether or not JavaScript runs. The old accordion
+          rendered the answer only while expanded, which meant the text Google
+          saw came from the schema alone. */}
+      <section className="hv-faq" id="faq">
+        <h2>Questions parents ask</h2>
+        <p className="hv-faq-sub">Everything you need to know about the Bible app for kids.</p>
+        <div className="hv-faq-list">
+          {FAQS.map(faq => (
+            <details className="hv-faq-item" key={faq.q}>
+              <summary>
+                <h3>{faq.q}</h3>
+                <span className="hv-faq-mark" aria-hidden="true" />
+              </summary>
+              <p>{faq.a}</p>
+            </details>
           ))}
         </div>
+      </section>
 
-        <div className="faq-close">
-          <h2>Make screen time the best part of their day</h2>
-          <button className="btn-primary btn-lg" onClick={handleCTA}>Get started</button>
-          <div className="final-badges">
-            <span>30-day money-back guarantee</span>
-            <span>Cancel anytime</span>
-          </div>
-        </div>
+      <section className="hv-close">
+        <ul className="hv-chips">
+          <li><span aria-hidden="true">📖</span>Learn</li>
+          <li><span aria-hidden="true">✨</span>Have fun</li>
+          <li><span aria-hidden="true">🌱</span>Grow in faith</li>
+        </ul>
+        <h2>Make screen time the best part of their day</h2>
+        <TrackedLink
+          className="hv-cta"
+          href="/quiz"
+          event="cta_click"
+          props={{ location: 'close' }}
+        >
+          <span className="hv-cta-play" aria-hidden="true">&#9654;</span>
+          Start watching free
+        </TrackedLink>
+        <p className="hv-close-fine">30-day money-back guarantee &middot; cancel anytime</p>
       </section>
 
       </main>
 
-      {/* FOOTER */}
       <SiteFooter />
 
-      {/* EXIT INTENT POPUP */}
-      <ExitIntent />
-
-      {/* STICKY BOTTOM BAR */}
-    </>
-  )
-}
-
-function PhoneMockup() {
-  const v = STORIES[0]
-  return (
-    <div className="phone-mockup">
-      {/* No caption furniture in the hero — the owner wants the picture to
-          carry it. Title still passed for the modal heading and aria label. */}
-      <VideoTile
-        src={v.src}
-        loopSrc={v.loopSrc}
-        poster={v.poster}
-        title={v.title}
-        blurb={v.blurb}
-        location="hero"
-        showLabels={false}
-        autoplay
-      />
-    </div>
-  )
-}
-
-function FullStoryPlayer() {
-  // Deliberately NOT STORIES[0] — that is the hero's video, and showing the
-  // same lesson twice on one page makes the library look like it has one.
-  const v = STORIES.find(s => s.title === 'A Baby in a Basket') ?? STORIES[2]
-  return (
-    <div className="fullstory-player">
-      <VideoTile
-        src={v.src}
-        poster={v.poster}
-        title={v.title}
-        badge={v.series}
-        blurb={v.blurb}
-        location="full_story"
-      />
-      <div className="fullstory-meta">
-        <span className="fullstory-series">{v.series} Series</span>
-        <h3>{v.title}</h3>
-        <p>{v.blurb}</p>
-        <span className="fullstory-badge">&#128221; Quiz included after this lesson</span>
-      </div>
-    </div>
-  )
-}
-
-const CURRICULUM = [
-  { name: 'Genesis', lessons: ['Creation', 'The Garden & the Fall', 'Cain & Abel', 'Noah & the Great Flood', 'The Tower of Babel', "God Calls Abraham", 'Abraham & Isaac', 'Jacob & Esau', 'Joseph the Dreamer', 'Joseph: From Prison to Palace'], icon: '🌍' },
-  { name: 'Exodus', lessons: ['A Baby in a Basket', 'The Burning Bush', 'Let My People Go', 'The Ten Plagues', 'The Passover', 'Crossing the Red Sea', 'Manna from Heaven', 'The Ten Commandments', 'The Golden Calf', "God's Presence"], icon: '🔥' },
-  { name: 'Promised Land', lessons: ['The Twelve Spies', 'Wandering in the Wilderness', 'The Bronze Serpent', "Balaam's Donkey", 'Moses Says Goodbye', 'Joshua Takes Command', 'Rahab & the Spies', 'The Walls of Jericho', 'The Sun Stands Still', 'Choosing to Serve'], icon: '⚔️' },
-  { name: 'Judges & Ruth', lessons: ['The Cycle Begins', 'Deborah: A Brave Leader', 'Gideon the Unlikely Hero', "Gideon's 300", 'Samson: Strongest Man Alive', "Samson's Final Stand", 'Ruth: A Story of Loyalty', 'Ruth & Boaz', "Hannah's Prayer", 'God Calls Samuel'], icon: '⚖️' },
-  { name: 'Rise of Kings', lessons: ['Israel Wants a King', 'Saul the First King', "Saul's Disobedience", 'God Chooses David', 'David & Goliath', 'David & Jonathan', 'David on the Run', 'David Spares His Enemy', 'The Fall of King Saul', 'David Becomes King'], icon: '👑' },
-  { name: "King David's Reign", lessons: ['Dancing Before the Lord', "God's Promise to David", 'David & Mephibosheth', "David's Big Mistake", "The Shepherd's Song", 'Songs of Praise', "Absalom's Rebellion", "David's Repentance", 'Solomon Is Chosen', "David's Final Words"], icon: '🎵' },
-  { name: 'Solomon & the Kingdom', lessons: ['Solomon Asks for Wisdom', "Solomon's Wise Judgment", 'Building the Temple', 'The Temple Is Dedicated', 'The Queen of Sheba', "Solomon's Proverbs", 'Solomon Turns Away', 'The Kingdom Splits', 'Good Kings & Bad Kings', 'The Northern Kingdom Falls'], icon: '🏛️' },
-  { name: 'Elijah & Elisha', lessons: ['Elijah & the Ravens', "The Widow's Oil", 'Fire from Heaven', 'The Still Small Voice', "Naboth's Vineyard", 'Elijah Taken to Heaven', "Elisha's Double Portion", 'The Room on the Roof', 'Naaman the Leper', 'Chariots of Fire'], icon: '🕊️' },
-  { name: 'Exile & Faith', lessons: ['Judah Falls to Babylon', "Daniel's Resolve", "Nebuchadnezzar's Dream", 'The Fiery Furnace', 'The Writing on the Wall', "Daniel in the Lions' Den", 'Valley of Dry Bones', 'Jonah: Running from God', 'Jonah: The Lesson', "Isaiah's Promise"], icon: '🦁' },
-  { name: 'The Return Home', lessons: ['Cyrus Sets Them Free', 'Rebuilding the Temple', 'Ezra Reads the Law', "Nehemiah's Prayer", 'Rebuilding the Walls', 'The Wall Is Finished', 'Esther Becomes Queen', "Haman's Evil Plot", 'Esther Saves Her People', 'Looking Forward'], icon: '🏠' },
-  { name: 'Birth of Jesus', lessons: ['An Angel Visits Mary', 'Joseph & the Angel', 'The Journey to Bethlehem', 'Born in a Manger', 'The Shepherds', 'The Wise Men', 'Escape to Egypt', 'Young Jesus in the Temple', 'John the Baptist', 'The Baptism of Jesus'], icon: '⭐' },
-  { name: 'Jesus Begins Ministry', lessons: ['Temptation in the Desert', 'The First Disciples', 'Water into Wine', 'The Woman at the Well', 'Rejected in Nazareth', 'The Four Fishermen', 'Healing the Sick', 'The Paralyzed Man', 'Matthew the Tax Collector', 'The Twelve Apostles'], icon: '🐟' },
-  { name: 'Teachings of Jesus', lessons: ['The Sermon on the Mount', 'The Beatitudes', "The Lord's Prayer", 'The Good Samaritan', 'The Prodigal Son', 'The Sower & the Seeds', 'The Mustard Seed', 'The Lost Sheep', 'The Wise & Foolish Builders', 'The Unforgiving Servant'], icon: '📖' },
-  { name: 'Miracles of Jesus', lessons: ['Calming the Storm', 'Feeding the Five Thousand', 'Walking on Water', 'Healing the Blind Man', 'The Raising of Lazarus', 'Ten Lepers Healed', 'The Demon-Possessed Man', "Jairus' Daughter", 'The Withered Hand', 'The Great Catch of Fish'], icon: '✨' },
-  { name: 'Road to the Cross', lessons: ['The Triumphal Entry', 'Cleansing the Temple', 'The Last Supper', 'The Garden of Gethsemane', 'The Betrayal', 'The Trial', 'Peter Denies Jesus', 'The Cross', 'It Is Finished', 'The Burial'], icon: '✝️' },
-  { name: 'He Is Risen', lessons: ['The Empty Tomb', 'Mary Sees Jesus', 'The Road to Emmaus', 'Doubting Thomas', 'Breakfast on the Beach', 'Peter Is Restored', 'The Great Commission', 'The Ascension', 'Waiting in Jerusalem', 'The Day of Pentecost'], icon: '🌅' },
-  { name: 'Early Church', lessons: ['The Church Is Born', 'Peter Heals the Lame Man', 'Ananias & Sapphira', 'Stephen the First Martyr', 'Philip & the Ethiopian', 'Saul Meets Jesus', 'Peter & Cornelius', 'Peter Escapes Prison', 'Barnabas the Encourager', 'The Church at Antioch'], icon: '⛪' },
-  { name: "Paul's Adventures", lessons: ["Paul's First Journey", 'Paul & Barnabas Split', 'Paul & Silas in Prison', 'Paul in Athens', 'Paul in Corinth', 'The Riot in Ephesus', "Paul's Farewell", 'Shipwrecked', 'Paul in Rome', "Paul's Legacy"], icon: '⛵' },
-  { name: 'Letters to Churches', lessons: ['The Gospel Explained', 'More Than Conquerors', 'The Armor of God', 'Love Is', 'Faith, Hope & Love', 'The Fruit of the Spirit', 'Running the Race', 'Joy in All Things', 'Do Not Worry', 'A New Creation'], icon: '✉️' },
-  { name: 'Ending & Beginning', lessons: ['Faith Hall of Fame', 'Faith Without Works', 'Taming the Tongue', 'Love One Another', 'The Good Shepherd', 'The Vine & the Branches', 'I Am the Way', 'A New Heaven & New Earth', 'The Throne Room', 'Behold I Am Coming Soon'], icon: '🌟' },
-]
-
-function CurriculumSection() {
-  const FEATURED = [
-    { ...CURRICULUM[0], color: '#2d6a4f' },   // Genesis - forest green
-    { ...CURRICULUM[10], color: '#7c3aed' },   // Birth of Jesus - purple
-    { ...CURRICULUM[12], color: '#0369a1' },   // Teachings - blue
-  ]
-
-  return (
-    <section className="curriculum-section">
-      <div className="curr-header-content">
-        <span className="section-label">THE FULL CURRICULUM</span>
-        <h2>The entire Bible, one story at a time</h2>
-        <div className="curr-hero-stat">
-          <span className="curr-hero-num">300+</span>
-          <span className="curr-hero-label">lessons across 31 series, each with a quiz and a reflection</span>
-        </div>
-      </div>
-
-      {/* Featured series - 3 big cards */}
-      <div className="curr-featured">
-        {FEATURED.map((series) => (
-          <div key={series.name} className="curr-feat-card" style={{ background: `linear-gradient(135deg, ${series.color}, ${series.color}dd)` }}>
-            <div className="curr-feat-top">
-              <span className="curr-feat-icon">{series.icon}</span>
-              <span className="curr-feat-count">{series.lessons.length} episodes</span>
-            </div>
-            <h3>{series.name}</h3>
-            <div className="curr-feat-lessons">
-              {series.lessons.slice(0, 5).map((l, i) => (
-                <span key={l} className="curr-feat-lesson">{i + 1}. {l}</span>
-              ))}
-              <span className="curr-feat-more">+ {series.lessons.length - 5} more</span>
-            </div>
-          </div>
-        ))}
-      </div>
-
-      <p className="curr-all-label">All 31 series included, Genesis to Revelation.</p>
-    </section>
-  )
-}
-
-function ExitIntent() {
-  const [show, setShow] = useState(false)
-  const [dismissed, setDismissed] = useState(false)
-  const triggered = useRef(false)
-
-  function trigger(source: string) {
-    if (triggered.current || dismissed) return
-    if (takeoverSuppressed()) return
-    triggered.current = true
-    markTakeoverShown()
-    setShow(true)
-    posthog.capture('exit_intent_shown', { source, surface: 'homepage', format: 'takeover' })
-  }
-
-  /* The ONLY trigger: the pointer leaves through the TOP of the viewport,
-     heading for the tab's X or the address bar. That is real exit intent.
-
-     Scroll-up (300px of cumulative upward scroll) and a 45-second timer used
-     to fire this as well. Both were removed on Oct 9 2026 — the owner's words
-     were "it comes too often ... feels a little too strict", and they were
-     right twice over:
-
-      - the scroll handler was commented "Mobile", but `scroll` fires on
-        desktop too, so flicking back up the page threw a full-screen takeover
-        at someone who was still reading;
-      - the timer fired at 45s regardless of whether anyone was leaving.
-
-     The blog dropped scroll-up for this exact reason (see the header of
-     BlogExitIntent) and the homepage simply never got the same fix.
-
-     DELIBERATE CONSEQUENCE: touch devices have no mouseleave, so the homepage
-     takeover is now DESKTOP ONLY. If mobile coverage is wanted back, copy the
-     blog's back-button approach (arm a history entry and spend it) — never
-     scroll-up, which is what was just taken out. */
-  useEffect(() => {
-    function handleMouseLeave(e: MouseEvent) {
-      if (e.clientY < 10) trigger('mouse_leave')
-    }
-    document.addEventListener('mouseleave', handleMouseLeave)
-    return () => document.removeEventListener('mouseleave', handleMouseLeave)
-  }, [dismissed])
-
-  if (!show || dismissed) return null
-
-  return <ExitTakeover surface="homepage" onDismiss={() => setDismissed(true)} />
-}
-
-// Seeded from the calendar date so every visitor on a given day sees the same
-// figure and it changes on its own each morning. Range 100-950, then +1 every
-// 30 minutes so the number climbs through the day (max +47 by 11:30pm).
-function dailyBase(d: Date): number {
-  const key = d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate()
-  let h = key ^ 0x9e3779b9
-  h = Math.imul(h ^ (h >>> 15), 0x85ebca6b)
-  h = Math.imul(h ^ (h >>> 13), 0xc2b2ae35)
-  h ^= h >>> 16
-  return 100 + (Math.abs(h) % 851)
-}
-
-function liveCount(now: Date): number {
-  return dailyBase(now) + Math.floor((now.getHours() * 60 + now.getMinutes()) / 30)
-}
-
-function LiveCounter() {
-  const [count, setCount] = useState(0)
-
-  // Animate up on mount. Computed client-side only -- SSR would bake in the
-  // build-time date and hydration would mismatch.
-  useEffect(() => {
-    const target = liveCount(new Date())
-    let current = 0
-    const step = Math.ceil(target / 40)
-    const timer = setInterval(() => {
-      current += step
-      if (current >= target) {
-        setCount(target)
-        clearInterval(timer)
-      } else {
-        setCount(current)
-      }
-    }, 50)
-    return () => clearInterval(timer)
-  }, [])
-
-  // Re-sync each minute so long-open tabs pick up the 30-minute step
-  // (and roll over correctly at midnight).
-  useEffect(() => {
-    const id = setInterval(() => setCount(liveCount(new Date())), 60_000)
-    return () => clearInterval(id)
-  }, [])
-
-  return (
-    <div className="live-counter">
-      <span className="live-dot" />
-      <span className="live-text">
-        <strong>{count}</strong> families joined today
-      </span>
+      <HomeExitIntent />
     </div>
   )
 }

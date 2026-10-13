@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { Baloo_2 } from 'next/font/google'
-import '../home-v2/home-v2.css'   // shared .hv2 design language
+import '../home.css'   // shared .hv2 design language (the homepage's own)
 import './stories-v2.css'
 
 /**

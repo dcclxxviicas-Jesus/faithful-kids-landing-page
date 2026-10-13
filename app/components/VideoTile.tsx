@@ -23,6 +23,7 @@ export function VideoTile({
   src,
   loopSrc,
   poster,
+  tilePoster,
   title,
   badge,
   blurb,
@@ -40,6 +41,13 @@ export function VideoTile({
   src: string
   loopSrc?: string
   poster?: string
+  /**
+   * A smaller poster for the TILE only; the modal keeps the full-size one.
+   * A tile renders ~320px wide, so a 1280px poster is 3x the bytes for no
+   * visible gain — but the modal fills the screen and a soft first frame
+   * there is the one place it would show.
+   */
+  tilePoster?: string
   title: string
   badge?: string
   blurb?: string
@@ -136,7 +144,7 @@ export function VideoTile({
         <video
           ref={tileRef}
           src={autoplay && near ? (loopSrc || src) : undefined}
-          poster={poster}
+          poster={tilePoster || poster}
           autoPlay={autoplay}
           muted
           loop={autoplay}
@@ -152,7 +160,17 @@ export function VideoTile({
           </div>
         )}
 
-        <button className="video-tile-btn" onClick={openPlayer}>
+        {/* Three tiles side by side otherwise all announce "Watch what your
+            kids will see", which tells a screen reader user nothing about
+            which story they are opening. The label KEEPS the visible text and
+            appends the title: an accessible name that drops the words on the
+            button breaks voice control, and axe flags it
+            (label-content-name-mismatch). */}
+        <button
+          className="video-tile-btn"
+          onClick={openPlayer}
+          aria-label={title ? `${'\u25B6'} Watch what your kids will see: ${title}` : undefined}
+        >
           {`${'\u25B6'} Watch what your kids will see`}
         </button>
       </div>

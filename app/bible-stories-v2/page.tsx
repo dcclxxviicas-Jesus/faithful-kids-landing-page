@@ -95,8 +95,12 @@ export default function BibleStoriesV2() {
       <SiteNav active="stories" />
 
       <section className="hv-hero sv-hero">
-        <img className="hv-hero-art" src={`${CDN}/home-v2/bg2-meadow.webp`} alt=""
-             width={1536} height={1024} fetchPriority="high" />
+        {/* Same painting as the homepage, same three widths. */}
+        <img className="hv-hero-art"
+             src={`${CDN}/home/hero-meadow-1536.webp`}
+             srcSet={[768, 1152, 1536].map(w => `${CDN}/home/hero-meadow-${w}.webp ${w}w`).join(', ')}
+             sizes="100vw"
+             alt="" width={1536} height={1024} fetchPriority="high" />
         <div className="hv-hero-inner">
           <p className="hv-eyebrow">Free &middot; no sign-up</p>
           <h1 className="hv-h1">Bible Stories for Kids</h1>

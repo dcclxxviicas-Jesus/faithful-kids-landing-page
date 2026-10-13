@@ -1,6 +1,7 @@
-/* Visual-test styles. Scoped under .hv2 so nothing here can leak into the
-   live site — globals.css is ~2,900 lines and appending to it is how three
-   separate cascade regressions happened. */
+/* The homepage's own stylesheet. Everything is scoped under .hv2 so none of
+   it can leak into the rest of the site — globals.css is ~2,900 lines and
+   appending to it is how three separate cascade regressions happened.
+   /bible-stories-v2 imports this file for the same design language. */
 
 .hv2 {
   --hv-ink: #16314f;
@@ -87,7 +88,7 @@
   align-items: center;
   gap: 12px;
   font-family: var(--font-display), sans-serif;
-  font-size: clamp(1.1rem, 2.6vw, 1.35rem);
+  font-size: clamp(1.2rem, 2.6vw, 1.35rem);  /* >=18.66px bold = WCAG "large text" */
   font-weight: 800;
   color: #fff;
   background: var(--hv-green);
@@ -185,8 +186,8 @@
 .hv-plan ul { list-style: none; padding: 0; margin: 14px 0 20px }
 .hv-plan li { position: relative; padding-left: 26px; margin-bottom: 8px; font-weight: 600; font-size: .95rem; line-height: 1.5 }
 .hv-plan li::before { content: '✓'; position: absolute; left: 0; color: var(--hv-green); font-weight: 800 }
-.hv-tag { display: inline-block; background: var(--hv-green); color: #fff; font-weight: 800; font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; padding: 5px 11px; border-radius: 999px; margin-bottom: 10px }
-.hv-plan-cta { display: block; text-align: center; text-decoration: none; font-family: var(--font-display), sans-serif; font-weight: 800; border-radius: 999px; padding: 13px 20px; background: var(--hv-green); color: #fff; box-shadow: 0 4px 0 var(--hv-green-dark) }
+.hv-tag { display: inline-block; background: var(--hv-green-dark);  /* too small to qualify as large text, so it needs the 4.5:1 green */ color: #fff; font-weight: 800; font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; padding: 5px 11px; border-radius: 999px; margin-bottom: 10px }
+.hv-plan-cta { display: block; text-align: center; text-decoration: none; font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.2rem; border-radius: 999px; padding: 13px 20px; background: var(--hv-green); color: #fff; box-shadow: 0 4px 0 var(--hv-green-dark) }  /* 1.2rem: see .hv-cta — keeps white-on-green legal */
 .hv-plan:not(.is-best) .hv-plan-cta { background: #fff; color: var(--hv-green-dark); border: 2px solid var(--hv-green); box-shadow: none }
 
 /* ---------- close ---------- */
@@ -214,18 +215,12 @@
 }
 .hv-chips li span { font-size: 1.15rem; line-height: 1; }
 .hv-chips li:nth-child(1) { background: #eff6ff; color: #1d4ed8; }
-.hv-chips li:nth-child(2) { background: #fef3c7; color: #a16207; }
+.hv-chips li:nth-child(2) { background: #fef3c7; color: #854d0e; }  /* amber-700 was 4.42:1 */
 .hv-chips li:nth-child(3) { background: #f0fdf4; color: var(--hv-green-dark); }
 @media (max-width: 460px) {
   .hv-chips li { font-size: .95rem; padding: 10px 18px 10px 14px; }
 }
 .hv-close h2 { font-size: clamp(1.7rem, 4.6vw, 2.5rem); margin: 0 0 22px; font-weight: 800 }
-.hv-testbar {
-  background: #16314f; color: #fff; text-align: center;
-  padding: 10px 16px; font-size: .86rem; font-weight: 700;
-}
-.hv-testbar a { color: #9ae6b4 }
-
 /* ---------- responsive ---------- */
 @media (max-width: 900px) {
   .hv-tiles { grid-template-columns: repeat(2, 1fr); max-width: 680px }
@@ -313,38 +308,100 @@
   .hv2 .video-tile-btn::before { width: 66px; height: 66px; font-size: 1.35rem; }
 }
 
-/* ---------- background picker (test page only) ---------- */
-.hv-switch {
-  position: fixed;
-  left: 50%; bottom: 16px;
-  transform: translateX(-50%);
-  z-index: 120;
-  display: flex; align-items: center; gap: 8px;
-  background: rgba(22,49,79,.94);
-  backdrop-filter: blur(8px);
-  padding: 9px 12px;
-  border-radius: 16px;
-  box-shadow: 0 10px 30px rgba(0,0,0,.3);
-  max-width: calc(100vw - 24px);
-  overflow-x: auto;
+
+/* ---------- the keyword line under the testimonials ---------- */
+.hv-testi-note {
+  margin: 26px auto 0;
+  max-width: 34em;
+  font-weight: 700;
+  color: var(--hv-ink-soft);
 }
-.hv-switch-label {
-  color: #cbd5e1; font-size: .72rem; font-weight: 800;
-  text-transform: uppercase; letter-spacing: .1em;
-  padding: 0 6px 0 2px; white-space: nowrap;
+
+/* ---------- pricing footnote ----------
+   Compound selector on purpose. `.hv-pricing > p` above is (0,1,1) and a bare
+   `.hv-guarantee` is (0,1,0), so the section rule's `margin: 0 0 28px` won and
+   the line rendered flush left with no auto margins. Same cascade trap that
+   has bitten this codebase three times — match the element's full selector. */
+.hv-pricing > p.hv-guarantee {
+  margin: 26px auto 0;
+  font-weight: 700;
+  font-size: .95rem;
+  color: var(--hv-ink-soft);
+  max-width: 36em;
 }
-.hv-switch-btn {
-  display: flex; flex-direction: column; align-items: center; gap: 4px;
-  background: transparent; border: 2px solid transparent;
-  border-radius: 10px; padding: 3px; cursor: pointer;
+
+/* ---------- FAQ ----------
+   <details>, not an accordion: the answers are in the HTML whether or not the
+   item is open, which is the whole reason this section is worth having. */
+.hv-faq { padding: 10px 20px 72px; max-width: 780px; margin: 0 auto; text-align: center }
+.hv-faq h2 { font-size: clamp(1.7rem, 4.4vw, 2.4rem); margin: 0 0 8px; font-weight: 800 }
+.hv-faq-sub { color: var(--hv-ink-soft); font-weight: 600; margin: 0 0 28px }
+.hv-faq-list { text-align: left; display: grid; gap: 10px }
+.hv-faq-item {
+  background: #fff;
+  border: 2px solid #e6eef6;
+  border-radius: 18px;
+  padding: 2px 20px;
+  transition: border-color .14s ease;
 }
-.hv-switch-btn img {
-  display: block; width: 64px; height: 42px;
-  object-fit: cover; border-radius: 6px;
+.hv-faq-item[open] { border-color: #cfe8d9; background: #fbfefc }
+.hv-faq-item summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 16px 0;
+  cursor: pointer;
+  list-style: none;
 }
-.hv-switch-btn span {
-  font-size: .66rem; font-weight: 700; color: #cbd5e1; white-space: nowrap;
+/* Safari still paints its own disclosure triangle without this. */
+.hv-faq-item summary::-webkit-details-marker { display: none }
+.hv-faq-item summary h3 {
+  margin: 0;
+  font-size: 1.03rem;
+  font-weight: 800;
+  line-height: 1.4;
 }
-.hv-switch-btn.is-on { border-color: #4ade80; }
-.hv-switch-btn.is-on span { color: #fff; }
-.hv-switch-btn:hover span { color: #fff; }
+/* A plain + that becomes a − when open. Drawn in CSS so there is no second
+   glyph to keep in sync with the open state. */
+.hv-faq-mark {
+  position: relative;
+  flex: 0 0 22px;
+  width: 22px;
+  height: 22px;
+}
+.hv-faq-mark::before,
+.hv-faq-mark::after {
+  content: '';
+  position: absolute;
+  left: 50%; top: 50%;
+  width: 14px; height: 3px;
+  border-radius: 2px;
+  background: var(--hv-green);
+  transform: translate(-50%, -50%);
+  transition: transform .16s ease, opacity .16s ease;
+}
+.hv-faq-mark::after { transform: translate(-50%, -50%) rotate(90deg) }
+.hv-faq-item[open] .hv-faq-mark::after { transform: translate(-50%, -50%) rotate(0deg); opacity: 0 }
+.hv-faq-item > p {
+  margin: 0 0 18px;
+  line-height: 1.65;
+  font-weight: 600;
+  color: var(--hv-ink-soft);
+  padding-right: 36px;
+}
+.hv-faq-item summary:focus-visible { outline: 3px solid var(--hv-green); outline-offset: 4px; border-radius: 10px }
+@media (prefers-reduced-motion: reduce) {
+  .hv-faq-item, .hv-faq-mark::before, .hv-faq-mark::after { transition: none }
+}
+@media (max-width: 560px) {
+  .hv-faq-item > p { padding-right: 0 }
+}
+
+/* ---------- closing fine print ---------- */
+.hv-close-fine {
+  margin: 20px 0 0;
+  font-size: .92rem;
+  font-weight: 700;
+  color: var(--hv-ink-soft);
+}

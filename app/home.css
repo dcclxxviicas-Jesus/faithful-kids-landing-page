@@ -181,18 +181,39 @@
 .hv-pricing { padding: 64px 20px 72px; text-align: center }
 .hv-pricing h2 { font-size: clamp(1.7rem, 4.4vw, 2.4rem); margin: 0 0 8px; font-weight: 800 }
 .hv-pricing > p { color: var(--hv-ink-soft); font-weight: 600; margin: 0 0 28px }
-.hv-plans { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 18px; max-width: 760px; margin: 0 auto }
-.hv-plan { border: 3px solid #e6eef6; border-radius: 24px; padding: 26px 22px; text-align: left; background: #fff }
-.hv-plan.is-best { border-color: var(--hv-green); background: #f7fdf9 }
-.hv-plan-name { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.15rem; margin: 0 0 4px }
-.hv-price { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 2.1rem; margin: 0 }
+/* `align-items: stretch` is the grid default and is written out because the
+   whole alignment of this block depends on it: it gives both cards one height,
+   and the flex column below then pins both CTAs to that shared bottom edge. */
+.hv-plans { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); align-items: stretch; gap: 20px; max-width: 760px; margin: 38px auto 0 }  /* collapses with the subtitle's 28px; the extra clears the badge overhang */
+
+/* The card is a flex column ONLY so the CTA can take `margin-top: auto`. The
+   two bullet lists wrap to different heights (monthly's second line wraps at
+   every width under ~1100px), so without this the two buttons sit on
+   different baselines, and padding tuned to fix it today breaks on the next
+   copy edit. `position: relative` anchors the Save badge to the top border. */
+.hv-plan { position: relative; display: flex; flex-direction: column; border: 3px solid #e6eef6; border-radius: 24px; padding: 30px 22px 26px; text-align: left; background: #fff }
+.hv-plan.is-best { border-color: var(--hv-green); background: #f7fdf9; box-shadow: 0 0 0 6px rgba(22,163,74,.13) }
+
+.hv-plan-name { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.15rem; margin: 0; text-align: center }
+/* The short rule under the plan name, as a pseudo-element so the markup stays
+   three elements and a list. */
+.hv-plan-name::after { content: ''; display: block; width: 58px; height: 3px; border-radius: 2px; background: #dbe7f1; margin: 12px auto 14px }
+.hv-plan.is-best .hv-plan-name::after { background: var(--hv-green) }
+.hv-price { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 2.1rem; margin: 0; text-align: center }
 .hv-price small { font-size: .95rem; font-weight: 700; color: var(--hv-ink-soft) }
-.hv-plan ul { list-style: none; padding: 0; margin: 14px 0 20px }
+.hv-plan ul { list-style: none; padding: 0; margin: 20px 0 22px }
 .hv-plan li { position: relative; padding-left: 26px; margin-bottom: 8px; font-weight: 600; font-size: .95rem; line-height: 1.5 }
 .hv-plan li::before { content: '✓'; position: absolute; left: 0; color: var(--hv-green); font-weight: 800 }
 .hv-tag { display: inline-block; background: var(--hv-green-dark);  /* too small to qualify as large text, so it needs the 4.5:1 green */ color: #fff; font-weight: 800; font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; padding: 5px 11px; border-radius: 999px; margin-bottom: 10px }
-.hv-plan-cta { display: block; text-align: center; text-decoration: none; font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.2rem; border-radius: 999px; padding: 13px 20px; background: var(--hv-green); color: #fff; box-shadow: 0 4px 0 var(--hv-green-dark) }  /* 1.2rem: see .hv-cta — keeps white-on-green legal */
-.hv-plan:not(.is-best) .hv-plan-cta { background: #fff; color: var(--hv-green-dark); border: 2px solid var(--hv-green); box-shadow: none }
+
+/* Scoped to .hv-pricing on purpose: /pricing renders .hv-tag inside .pr-plan
+   as a normal inline pill and must keep it. Lifting the badge out of flow is
+   also half the alignment fix — in flow it pushed the yearly card's name and
+   price ~27px below the monthly card's. */
+.hv-pricing .hv-tag { position: absolute; top: 0; left: 50%; transform: translate(-50%, -50%); margin: 0; white-space: nowrap }
+
+/* `margin-top: auto` is what lands the two buttons on exactly the same line. */
+.hv-plan-cta { display: block; margin-top: auto; text-align: center; text-decoration: none; font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.2rem; border-radius: 999px; padding: 13px 20px; background: var(--hv-green); color: #fff; box-shadow: 0 4px 0 var(--hv-green-dark) }  /* 1.2rem: see .hv-cta — keeps white-on-green legal */
 
 /* ---------- close ---------- */
 .hv-close { background: var(--hv-cream); padding: 60px 20px 76px; text-align: center }
@@ -237,7 +258,7 @@
   .hv-shelf-wrap { margin-top: -140px }
   .hv-shelf { padding: 24px 16px }
   .hv-tiles { grid-template-columns: 1fr; max-width: 420px; gap: 14px }
-  .hv-plans { grid-template-columns: 1fr; max-width: 420px }
+  .hv-plans { grid-template-columns: 1fr; max-width: 420px; gap: 30px }  /* the Save badge overhangs the top edge by ~12px; 18px of gap nearly collided with the card above */
 }
 
 /* "fall in love" is four coloured letters; a line break mid-word turned it

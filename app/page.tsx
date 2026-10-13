@@ -377,7 +377,7 @@ export default function Home() {
         <h2>One price. Every story. Every kid in the house.</h2>
         <p>Unlimited kid profiles, all 31 series, on every device you own.</p>
         <div className="hv-plans">
-          <div className="hv-plan is-best">
+          <div className="hv-plan">
             <p className="hv-plan-name">Monthly</p>
             <p className="hv-price">${MONTHLY}<small> /month</small></p>
             <ul>
@@ -394,7 +394,12 @@ export default function Home() {
               Get started
             </TrackedLink>
           </div>
-          <div className="hv-plan">
+          {/* The ring, the tint and the floating Save badge mark Yearly, the
+              owner's call Oct 13 2026. Both CTAs stay the same solid green on
+              purpose: an outline button on the other card makes whichever plan
+              it sits on read as the lesser option, which is the exact mistake
+              the checkout page already had to undo. */}
+          <div className="hv-plan is-best">
             <span className="hv-tag">Save {SAVE_PCT}%</span>
             <p className="hv-plan-name">Yearly</p>
             <p className="hv-price">${ANNUAL}<small> /year &middot; ${PER_MONTH}/mo</small></p>

@@ -231,7 +231,7 @@ export default function BibleStoriesV2() {
         </ul>
         <h2>Every story has a two-minute video too</h2>
         <a className="hv-cta" href="/quiz">
-          <span className="hv-cta-play">&#9654;</span>
+          <span className="hv-cta-play" aria-hidden="true" />
           Start watching free
         </a>
       </section>

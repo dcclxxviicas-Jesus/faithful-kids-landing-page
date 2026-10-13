@@ -79,7 +79,7 @@ const FAQS = [
   { q: 'Can I set screen time limits?', a: 'Yes. Set daily limits per child. When time is up, the app gently pauses. No more "just one more video" battles.' },
   { q: 'Which denomination is the content for?', a: 'Our core Bible stories (David & Goliath, Noah, the Good Samaritan, the Nativity) are told faithfully to Scripture and resonate across Christian traditions. Catholic, Evangelical, and Non-denominational families all use it.' },
   { q: 'Is the content doctrinally accurate?', a: 'Every story is retold from the Bible text itself, with the scripture reference on screen so you can check it against the original. We simplify the language for children without changing the meaning, and we stay on the narrative all Christian traditions share. If you find something that is not right, email christian@faithfulkids.app and we fix it.' },
-  { q: 'What devices does it work on?', a: 'Any device with a web browser: iPhone, iPad, Android phones and tablets, laptops, and desktops. There is nothing to install — kids sign in at app.faithfulkids.app and watch.' },
+  { q: 'What devices does it work on?', a: 'Any device with a web browser: iPhone, iPad, Android phones and tablets, laptops, and desktops. There is nothing to install: kids sign in at app.faithfulkids.app and watch.' },
   { q: 'What is the refund policy?', a: 'Full 30-day money-back guarantee. If your kids do not love it, we will refund you completely. No questions asked.' },
   { q: 'How often is new content added?', a: 'The library already covers the whole Bible in order: 300+ video lessons across 30+ series, Genesis to Revelation. New series and deep dives are added regularly on top of that.' },
   { q: 'How are the videos made?', a: 'We use advanced AI video technology to create beautiful, consistent storytelling at a pace no traditional studio could match. Every script is written from the Bible text with its scripture reference, and reviewed by a real person before it goes live. The technology lets us produce high-quality content fast, which means your kids get new stories every week instead of waiting months between releases.' },
@@ -104,8 +104,10 @@ export default function Home() {
     return {
       '@context': 'https://schema.org',
       '@type': 'VideoObject',
-      name: `${s.title} — Bible Story for Kids`,
-      description: s.blurb,
+      name: `${s.title}: Bible Story for Kids`,
+      // The blurbs are shared with the blog and the quiz, so they are not
+      // edited at source; this page just does not print em dashes.
+      description: s.blurb.replace(/\s*—\s*/g, ': '),
       thumbnailUrl: s.poster,
       contentUrl: s.src,
       uploadDate: '2026-04-01',
@@ -269,7 +271,7 @@ export default function Home() {
             event="cta_click"
             props={{ location: 'hero' }}
           >
-            <span className="hv-cta-play" aria-hidden="true">&#9654;</span>
+            <span className="hv-cta-play" aria-hidden="true" />
             Start watching free
           </TrackedLink>
         </div>
@@ -282,7 +284,7 @@ export default function Home() {
               trailers, so the subhead answers that directly — and it is true:
               the tiles open s.src, the full lesson-video.mp4, not loopSrc. */}
           <p className="hv-shelf-sub">
-            See exactly what your kids will watch &mdash; full lessons, not clips.
+            See exactly what your kids will watch. Full lessons, not clips.
           </p>
           <div className="hv-tiles">
             {SHELF.map(s => (
@@ -411,7 +413,7 @@ export default function Home() {
           </div>
         </div>
         <p className="hv-guarantee">
-          30-day money-back guarantee &mdash; if your kids don&apos;t love it, we refund you.
+          30-day money-back guarantee. If your kids don&apos;t love it, we refund you.
         </p>
       </section>
 
@@ -448,7 +450,7 @@ export default function Home() {
           event="cta_click"
           props={{ location: 'close' }}
         >
-          <span className="hv-cta-play" aria-hidden="true">&#9654;</span>
+          <span className="hv-cta-play" aria-hidden="true" />
           Start watching free
         </TrackedLink>
         <p className="hv-close-fine">30-day money-back guarantee &middot; cancel anytime</p>

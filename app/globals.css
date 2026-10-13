@@ -81,12 +81,13 @@ body {
 .nav-links a:hover { color: var(--text); }
 .btn-nav {
   padding: 10px 22px;
-  /* --primary (#16a34a) under white text is 3.3:1 — legal for large text,
-     not for 14.4px. This button is too small to ever be "large text", so it
-     takes --primary-hover (#15803d, 5.0:1), which is already part of the
-     palette. The brand green is untouched everywhere it is big enough to
-     carry white type. */
-  background: var(--primary-hover);
+  /* Owner's call, Oct 12 2026: this must be the same green as every other
+     button on the site. It briefly used --primary-hover, because white on
+     #16a34a is 3.3:1 — which passes WCAG AA for large text but not at 14.4px —
+     and the shade difference was visible next to the hero CTA. Matching the
+     brand wins. If the contrast audit matters more later, the fix is a BIGGER
+     nav button (>=18.66px bold), not a darker one. */
+  background: var(--primary);
   color: var(--white);
   border: none;
   border-radius: 8px;
@@ -95,7 +96,7 @@ body {
   cursor: pointer;
   transition: background var(--transition);
 }
-.btn-nav:hover { background: #166534; }
+.btn-nav:hover { background: var(--primary-hover); }
 
 /* ===== HERO PROOF ROW + TRUST STRIP ===== */
 .hero-proof {

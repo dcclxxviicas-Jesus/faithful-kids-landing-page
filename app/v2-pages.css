@@ -183,3 +183,79 @@
 @media (max-width: 420px) {
   .hv2 .v2-hero .hv-cta { font-size: 1.05rem; padding: 15px 24px; }
 }
+
+/* ---------- /beliefs: the numbered articles ----------
+   An <ol> rather than divs, because they are numbered articles a group leader
+   cites by number. The number stays inside the <h2> text exactly as the live
+   page has it, tinted via a span, rather than being lifted into a badge that
+   would have rendered "1. 1. The Bible". */
+.hv2 .be-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 16px; counter-reset: none; }
+.hv2 .be-item {
+  position: relative;
+  background: #fff;
+  border-radius: 20px;
+  padding: 26px 28px 28px;
+  box-shadow: 0 6px 18px rgba(22,49,79,.07);
+}
+.hv2 .be-item h2 { font-size: 1.22rem; font-weight: 800; margin: 0 0 8px; }
+.hv2 .be-n { color: var(--hv-green); }
+.hv2 .be-item p { margin: 0; font-size: 1.02rem; line-height: 1.7; color: var(--hv-ink-soft); font-weight: 600; }
+.hv2 .be-h2 { font-size: clamp(1.4rem, 3.4vw, 1.9rem); font-weight: 800; margin: 0 0 14px; }
+@media (max-width: 560px) {
+  .hv2 .be-item { padding: 22px 20px 24px; }
+  
+}
+
+/* ---------- breadcrumb ---------- */
+.hv2 .v2-crumb {
+  max-width: 1120px; margin: 0 auto; padding: 16px 20px 0;
+  font-size: .9rem; font-weight: 700; color: var(--hv-ink-soft);
+  display: flex; gap: 9px; align-items: center;
+}
+.hv2 .v2-crumb a { color: var(--hv-green-dark); text-decoration: none; }
+.hv2 .v2-crumb a:hover { text-decoration: underline; }
+.hv2 .v2-crumb .is-current { color: var(--hv-ink); }
+
+/* ---------- /holidays: season cards ---------- */
+.hv2 .hd-card { padding: 0 0 22px; overflow: hidden; }
+.hv2 .hd-card h3, .hv2 .hd-card p, .hv2 .hd-card .v2-asset-go { padding: 0 22px; }
+.hv2 .hd-card h3 { margin-top: 18px; }
+.hv2 .hd-art { position: relative; display: block; aspect-ratio: 16 / 9; background: #e8f3ef; }
+.hv2 .hd-art img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.hv2 .hd-peak {
+  position: absolute; left: 14px; bottom: 12px;
+  background: rgba(255,255,255,.95); color: var(--hv-green-dark);
+  font-family: var(--font-display), sans-serif; font-weight: 800;
+  font-size: .74rem; letter-spacing: .07em; text-transform: uppercase;
+  padding: 5px 11px; border-radius: 999px;
+}
+
+/* ---------- /creators ---------- */
+.hv2 .cr-mail { font-size: clamp(1rem, 2.4vw, 1.2rem); word-break: break-word; }
+.hv2 .cr-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 18px; overflow: hidden; box-shadow: 0 6px 18px rgba(22,49,79,.07); }
+.hv2 .cr-table td { padding: 15px 18px; border-bottom: 1px solid #eef4f8; font-weight: 600; color: var(--hv-ink-soft); line-height: 1.55; font-size: .96rem; }
+.hv2 .cr-table tr:last-child td { border-bottom: 0; }
+.hv2 .cr-table td:first-child { width: 36%; color: var(--hv-ink); }
+.hv2 .cr-table a { color: var(--hv-green-dark); font-weight: 800; }
+.hv2 .cr-updated { margin: 20px 0 0; font-size: .85rem; color: var(--hv-ink-soft); font-weight: 600; line-height: 1.6; }
+.hv2 .cr-updated a { color: var(--hv-green-dark); font-weight: 700; }
+@media (max-width: 560px) {
+  .hv2 .cr-table td { display: block; }
+  .hv2 .cr-table td:first-child { width: auto; padding-bottom: 2px; border-bottom: 0; }
+}
+
+/* ---------- /pricing plan cards ---------- */
+.hv2 .pr-plan { background: #fff; border: 3px solid #e6eef6; border-radius: 24px; padding: 26px 24px 28px; }
+.hv2 .pr-plan.is-best { border-color: var(--hv-green); background: #f7fdf9; }
+.hv2 .pr-name { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.1rem; margin: 10px 0 2px; color: var(--hv-ink-soft); }
+.hv2 .pr-price { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 2.2rem; margin: 0 0 12px; line-height: 1.15; }
+.hv2 .pr-price small { display: block; font-size: .9rem; font-weight: 700; color: var(--hv-ink-soft); margin-top: 4px; }
+.hv2 .pr-plan p:last-child { margin: 0; font-size: .95rem; line-height: 1.6; color: var(--hv-ink-soft); font-weight: 600; }
+.hv2 .hv-tag.is-apple { background: #1f3b57; }
+
+/* pricing: the plan heading keeps the live page's exact wording
+   ("Monthly: $12.99 per month"), with the figure doing the shouting. */
+.hv2 .pr-head { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.05rem; color: var(--hv-ink-soft); margin: 10px 0 12px; line-height: 1.4; }
+.hv2 .pr-amt { display: block; font-size: 2.1rem; color: var(--hv-ink); line-height: 1.15; }
+.hv2 .cr-label { font-size: .85rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--hv-ink-soft); margin: 0 0 10px; }
+.hv2 .v2-card > p > strong { font-family: var(--font-display), sans-serif; color: var(--hv-ink); }

@@ -35,10 +35,12 @@ function track(event: string, props?: Record<string, unknown>) {
 }
 
 export function StoryLesson({
-  videoUrl, posterUrl, captionsUrl, storyName, slug,
+  videoUrl, posterUrl, previewUrl, captionsUrl, storyName, slug,
 }: {
   videoUrl: string
   posterUrl: string
+  /** Silent ~7s montage for the hover preview; see VideoTile.previewSrc. */
+  previewUrl?: string
   captionsUrl?: string
   storyName: string
   slug: string
@@ -56,12 +58,13 @@ export function StoryLesson({
       <VideoTile
         src={videoUrl}
         poster={posterUrl}
+        previewSrc={previewUrl}
         captionsUrl={captionsUrl}
         title={storyName}
         location="story_post"
         playDisc
         ctaHref="/quiz?ref=story-video-end"
-        ctaLabel="Watch more stories like this &rarr;"
+        ctaLabel="See more stories like this"
         onOpen={() => track('story_lesson_video_play', { slug })}
         onHalfway={() => {
           if (halfFired.current) return

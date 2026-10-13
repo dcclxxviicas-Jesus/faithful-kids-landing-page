@@ -399,6 +399,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
           <StoryLesson
             videoUrl={`${mediaBase}/lesson-video.mp4`}
             posterUrl={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+            previewUrl={`${mediaBase}/lesson-preview.mp4`}
             captionsUrl={`${mediaBase}/lesson-captions.vtt`}
             storyName={post.title.split(':')[0].replace(/ for Kids$/i, '')}
             slug={post.slug}

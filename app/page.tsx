@@ -300,6 +300,7 @@ export default function Home() {
                 badge={s.badge}
                 location="home-shelf"
                 showLabels
+                previewSrc={s.src.replace(/lesson-video\.mp4$/, 'lesson-preview.mp4')}
               />
             ))}
           </div>

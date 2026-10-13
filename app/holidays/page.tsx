@@ -62,7 +62,7 @@ export default function HolidaysIndexPage() {
 
       <main>
         <div className="blog-breadcrumb">
-          <a href="/blog">Bible Guides</a>
+          <a href="/blog">For Parents</a>
           <span className="blog-breadcrumb-sep">/</span>
           <span className="blog-breadcrumb-current">Holidays</span>
         </div>

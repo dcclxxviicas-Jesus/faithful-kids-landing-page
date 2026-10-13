@@ -4265,3 +4265,20 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   .gift-starter-grid { grid-template-columns: repeat(2, 1fr); gap: 22px; }
   .gift-section { padding: 60px 24px 48px; }
 }
+
+/* The "start here" line on /bible-stories-for-kids. It points at
+   /blog/best-bible-stories-for-kids, which outranks this page 3.5 to 19 for
+   "bible stories for kids", so it needs to read as a signpost rather than
+   another body paragraph. */
+.stories-intro p.stories-start-here {
+  background: var(--bg-alt);
+  border-left: 4px solid var(--primary);
+  border-radius: 0 12px 12px 0;
+  padding: 14px 18px;
+  font-weight: 600;
+  color: var(--text);
+}
+.stories-intro p.stories-start-here a {
+  color: var(--primary-hover);
+  font-weight: 800;
+}

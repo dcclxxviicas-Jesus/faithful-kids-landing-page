@@ -9,7 +9,12 @@ export type NavActive = 'blog' | 'stories' | 'trivia' | 'printables' | 'churches
 
 const NAV_ITEMS: NavItem[] = [
   { href: '/bible-stories-for-kids', label: 'Bible Stories', key: 'stories' },
-  { href: '/blog', label: 'Bible Guides', key: 'blog' },
+  /* Label is about the AUDIENCE, not the subject. "Bible Stories" and
+     "Bible Guides" are the same shape of phrase and read as the same thing;
+     this page is the parent/teacher library and the other is the kids'
+     stories, so the nav now says so. The page's own <title> still targets
+     "bible guides for parents" and is unchanged. */
+  { href: '/blog', label: 'For Parents', key: 'blog' },
   { href: '/bible-trivia', label: 'Trivia Game', key: 'trivia' },
   { href: '/printables', label: 'Printables', key: 'printables' },
   { href: '/churches', label: 'Churches', key: 'churches' },
@@ -85,7 +90,7 @@ export function SiteFooter() {
         </div>
         <div className="footer-links">
           <a href="/bible-stories-for-kids">Bible Stories</a>
-          <a href="/blog">Bible Guides</a>
+          <a href="/blog">For Parents</a>
           <a href="/bible-trivia">Trivia Game</a>
           <a href="/printables">Printables</a>
           <a href="/holidays">Holidays</a>

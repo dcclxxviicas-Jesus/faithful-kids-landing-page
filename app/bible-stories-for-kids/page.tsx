@@ -143,7 +143,9 @@ export default function BibleStoriesForKidsPage() {
       <script type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
-      <SiteNav active="blog" />
+      {/* "stories", not "blog". This page was underlining "Bible Guides" in
+          the nav while you were standing on Bible Stories. */}
+      <SiteNav active="stories" />
 
       <section className="blog-hero">
         <span className="section-label">Free · No Sign-Up</span>
@@ -167,6 +169,17 @@ export default function BibleStoriesForKidsPage() {
           early church. Each retelling is a few minutes read aloud, written for children roughly
           five and up, and ends with questions worth asking at the dinner table. There is nothing
           to sign up for and no email wall.
+        </p>
+        {/* /blog/best-bible-stories-for-kids sits at position 3.5 for "bible
+            stories for kids"; this page sits at 19 for the same term. The post
+            is the one Google picked, and until now this page did not link to it
+            at all while carrying 80 contextual inbound links of its own. */}
+        <p className="stories-start-here">
+          Not sure where to begin?{' '}
+          <a href="/blog/best-bible-stories-for-kids">
+            Start with the 25 best Bible stories for kids
+          </a>
+          , chosen for how easily a young child can follow them and retell them afterwards.
         </p>
       </section>
 

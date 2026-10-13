@@ -63,8 +63,8 @@ export default function BlogIndex() {
         <span className="section-label">Free Resources Library</span>
         <h1>Bible Guides for Parents &amp; Teachers</h1>
         <p className="blog-hero-sub">
-          {posts.length}+ free guides: Bible trivia, printables, lesson ideas, devotions,
-          and discussion questions for every age — plus simple retellings of every story.
+          {posts.length}+ free guides: Bible trivia, printables, lesson ideas, devotions
+          and discussion questions for every age.
         </p>
         <p className="blog-hero-sub" style={{ marginTop: 8 }}>
           Just want the stories? They have their own home:{' '}

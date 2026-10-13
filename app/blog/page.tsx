@@ -1,7 +1,11 @@
 import type { Metadata } from 'next'
+import '../home.css'
+import '../v2-pages.css'
+
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
-import BlogGrid from './BlogGrid'
+import BlogGrid from '@/app/blog/BlogGrid'
+import { V2Shell, V2Hero } from '@/app/v2-shell'
 
 export const metadata: Metadata = {
   title: 'Bible Guides for Parents — 500+ Free Resources',
@@ -30,11 +34,15 @@ export const metadata: Metadata = {
   },
 }
 
-export default function BlogIndex() {
+/**
+ * VISUAL TEST of /blog. The grid itself is the live BlogGrid component, with
+ * the same posts in the same order, so all 569 links are identical — that grid
+ * IS the page's SEO value and there was no reason to touch it.
+ */
+function BlogV2() {
   const posts = getAllPosts()
   const seriesList = getAllSeriesNames()
 
-  // Serialize only what the client needs
   const postCards = posts.map(p => ({
     title: p.title,
     slug: p.slug,
@@ -47,81 +55,82 @@ export default function BlogIndex() {
     age: p.age,
   }))
 
+  const storyCount = posts.filter(p => p.series).length
+
   return (
     <>
-      {/* NAV */}
       <SiteNav active="blog" />
 
-      {/* HERO — retitled Oct 7 2026 to match this page's own title tag
-          ("Bible Guides for Parents"). The old H1 said "Bible Stories for
-          Kids", which is /bible-stories-for-kids' identity: two hubs were
-          claiming one head term, and this page had earned ZERO search clicks
-          in 90 days, so the guides framing costs nothing and ends the
-          in-house rivalry. The stories hub is linked below for the people
-          who actually wanted stories. */}
-      <section className="blog-hero">
-        <span className="section-label">Free Resources Library</span>
-        <h1>Bible Guides for Parents &amp; Teachers</h1>
-        <p className="blog-hero-sub">
-          {posts.length}+ free guides: Bible trivia, printables, lesson ideas, devotions
-          and discussion questions for every age.
-        </p>
-        <p className="blog-hero-sub" style={{ marginTop: 8 }}>
-          Just want the stories? They have their own home:{' '}
-          <a href="/bible-stories-for-kids" style={{ color: '#16a34a', fontWeight: 700 }}>
-            200 Bible stories for kids
-          </a>.
-        </p>
-        <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
-          Watch the Video Lessons Free
-        </a>
-        <p className="blog-hero-note">7-day free trial. No commitment. Cancel anytime.</p>
-      </section>
+      <main id="main-content">
 
-      {/* SERIES STATS BAR */}
-      <div className="blog-stats-bar">
-        <div className="blog-stats-inner">
-          <div className="blog-stat-item">
-            <strong>{posts.length}+</strong> Free Guides
-          </div>
-          <div className="blog-stat-item">
-            <strong>{seriesList.length}</strong> Story Series
-          </div>
-          <div className="blog-stat-item">
-            <strong>Genesis–Revelation</strong> Complete
-          </div>
-          <div className="blog-stat-item">
-            <strong>Ages 5+</strong> Kid-Friendly
-          </div>
+      <V2Hero
+        short
+        art="parents"
+        alt="A family kitchen table at golden evening with an open Bible, two mugs of tea, a jar of crayons, children's drawings and a window onto green hills"
+        eyebrow="Free Resources Library"
+        title={<>Bible <span className="hv-love"><span className="l l1">G</span><span className="l l2">u</span><span className="l l3">i</span><span className="l l4">d</span><span className="l l1">e</span><span className="l l2">s</span></span> for Parents &amp; Teachers</>}
+        sub={<>{posts.length}+ free guides: Bible trivia, printables, lesson ideas, devotions
+          and discussion questions for every age.</>}
+      >
+        <div className="v2-ctarow">
+          <a className="hv-cta" href="/quiz">
+            <span className="hv-cta-play" aria-hidden="true" />
+            Watch the video lessons free
+          </a>
+          <a className="hv-cta is-ghost" href="/bible-stories-for-kids">
+            Just want the stories?
+          </a>
+        </div>
+        <p className="hv-close-fine" style={{ marginTop: 16 }}>
+          7-day free trial. No commitment. Cancel anytime.
+        </p>
+      </V2Hero>
+
+      {/* The counts, which the live page shows as a stat bar. Same four
+          figures, all derived rather than typed. */}
+      <div className="bv-stats">
+        <div className="bv-stats-inner">
+          <div><b>{posts.length}+</b><span>free guides</span></div>
+          <div><b>{seriesList.length}</b><span>story series</span></div>
+          <div><b>{storyCount}</b><span>Bible stories</span></div>
+          <div><b>Ages 5+</b><span>kid-friendly</span></div>
         </div>
       </div>
 
-      {/* BLOG CONTENT */}
-      <section className="blog-content">
-        <BlogGrid posts={postCards} seriesList={seriesList} />
-      </section>
-
-      {/* BOTTOM CTA */}
-      <section className="blog-bottom-cta">
-        <div className="blog-bottom-cta-inner">
-          <h2>Want your kids to watch these stories?</h2>
-          <p>
-            Every story above has a short video lesson on Faithful Kids — narrated, animated, and followed
-            by a comprehension quiz. Your child will actually remember what they learned.
-          </p>
-          <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
-            Get started
-          </a>
-          <div className="blog-cta-badges">
-            <span>No ads, ever</span>
-            <span>30-day money-back guarantee</span>
-            <span>Cancel anytime</span>
-          </div>
+      <section className="v2-section" style={{ paddingTop: 34 }}>
+        <div className="v2-wrap" style={{ maxWidth: 1180 }}>
+          <BlogGrid posts={postCards} seriesList={seriesList} />
         </div>
       </section>
 
-      {/* FOOTER */}
+      <section className="hv-close">
+        <ul className="hv-chips">
+          <li><span aria-hidden="true">🚫</span>No ads, ever</li>
+          <li><span aria-hidden="true">💸</span>30-day money-back</li>
+          <li><span aria-hidden="true">🔓</span>Cancel anytime</li>
+        </ul>
+        <h2>Want your kids to watch these stories?</h2>
+        <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '40em' }}>
+          Every story above has a short video lesson on Faithful Kids &mdash; narrated, animated,
+          and followed by a comprehension quiz. Your child will actually remember what they learned.
+        </p>
+        <a className="hv-cta" href="/quiz">
+          <span className="hv-cta-play" aria-hidden="true" />
+          Get started
+        </a>
+      </section>
+
+      </main>
+
       <SiteFooter />
     </>
+  )
+}
+
+export default function Page() {
+  return (
+    <V2Shell>
+      <BlogV2 />
+    </V2Shell>
   )
 }

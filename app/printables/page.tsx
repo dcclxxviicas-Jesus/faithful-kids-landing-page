@@ -1,6 +1,10 @@
 import type { Metadata } from 'next'
-import { SiteNav, SiteFooter } from '../components/SiteChrome'
-import { PrintableCta } from './PrintableCta'
+import '../home.css'
+import '../v2-pages.css'
+
+import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
+import { PrintableCta } from '@/app/printables/PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 
 export const metadata: Metadata = {
@@ -10,6 +14,10 @@ export const metadata: Metadata = {
   alternates: { canonical: 'https://faithfulkids.app/printables' },
 }
 
+const g = { color: 'var(--hv-green-dark)', fontWeight: 800 }
+
+/* The ten packs, copied verbatim from app/printables/page.tsx — every href,
+   title, description and detail line unchanged. */
 const PACKS = [
   {
     href: '/printables/jesse-tree',
@@ -93,76 +101,80 @@ const PACKS = [
   },
 ]
 
-export default function Printables() {
+function PrintablesV2() {
   return (
     <>
       <SiteNav active="printables" />
 
-      {/* Hero */}
-      <section className="blog-hero" style={{ paddingBottom: 24 }}>
-        <span className="section-label">Free Downloads</span>
-        <h1>
-          Free Printable <span style={{ color: 'var(--primary)' }}>Bible Activities</span>
-        </h1>
-        <p className="blog-hero-sub">
-          Print-ready Bible resources for families, homeschoolers, and Sunday school teachers.
-          Completely free — no sign-up, no email required. Print as many copies as you like for
-          your family, class, or church group.
-        </p>
-      </section>
+      <main id="main-content">
 
-      {/* Packs */}
-      <div className="asset-grid">
-        {PACKS.map(pack => (
-          <a key={pack.href} href={pack.href} className="asset-card">
-            <div className="asset-card-icon">{pack.emoji}</div>
-            <h3>{pack.title}</h3>
-            <p>{pack.description}</p>
-            <div className="asset-card-meta">{pack.details}</div>
-            <span className="asset-card-link">View &amp; print free →</span>
-          </a>
-        ))}
-      </div>
+      <V2Hero
+        art="printables"
+        alt="A craft table with freshly printed Bible activity sheets fanned out, a jar of coloured pencils, crayons, scissors and paper stars"
+        eyebrow="Free Downloads"
+        title={<>Free Printable <span className="hv-love"><span className="l l1">B</span><span className="l l2">i</span><span className="l l3">b</span><span className="l l4">l</span><span className="l l1">e</span></span> Activities</>}
+        sub={<>Print-ready Bible resources for families, homeschoolers, and Sunday school teachers.
+          Completely free &mdash; no sign-up, no email required. Print as many copies as you like
+          for your family, class, or church group.</>}
+      />
 
-      {/* Who makes these + linking invitation */}
-      <section className="features-section">
-        <span className="section-label">Who Makes These?</span>
-        <h2>A gift from Faithful Kids</h2>
-        <p className="section-sub">
-          These printables are made by Faithful Kids, a Bible video learning app for kids ages
-          7–15 — short story episodes, quizzes, and reflections that make Scripture stick. The
-          printables are our gift to families either way. And if your kids like trivia on paper,
-          they&apos;ll love the <a href="/bible-trivia" style={{ color: 'var(--primary)', fontWeight: 700 }}>free online trivia game</a>.
-        </p>
-        <div style={{ maxWidth: 720, margin: '0 auto', textAlign: 'left' }}>
-          <div className="feature-item">
-            <div className="feature-icon">🔗</div>
-            <h3>Bloggers, churches &amp; newsletters</h3>
-            <p>
-              You&apos;re welcome to link to this page or any individual printable, and to use one
-              screenshot of each pack in a roundup. Questions? Email{' '}
-              <a href="mailto:team@faithfulkids.app" style={{ color: 'var(--primary)', fontWeight: 700 }}>team@faithfulkids.app</a>.
-            </p>
+      <section className="v2-section">
+        <div className="v2-wrap">
+          <div className="v2-grid is-3">
+            {PACKS.map(pack => (
+              <a key={pack.href} href={pack.href} className="v2-asset">
+                <div className="v2-ico" aria-hidden="true">{pack.emoji}</div>
+                <h3>{pack.title}</h3>
+                <p>{pack.description}</p>
+                <div className="v2-asset-meta">{pack.details}</div>
+                <span className="v2-asset-go">View &amp; print free &rarr;</span>
+              </a>
+            ))}
           </div>
         </div>
       </section>
 
-      {/* Final CTA */}
-      <section className="final-cta-section">
-        <h2>Want the stories behind the trivia?</h2>
-        <p>
-          Faithful Kids brings every one of these stories to life — 300+ short video episodes with
-          quizzes and reflections, Genesis to Revelation.
-        </p>
-        <a href="/quiz" className="btn-primary btn-hero" style={{ textDecoration: 'none' }}>
-          Get started
-        </a>
-        <div className="final-badges">
-          <span>✓ 7-day free trial</span>
-          <span>✓ Cancel anytime</span>
-          <span>✓ Zero ads, ever</span>
+      <section className="v2-section is-alt">
+        <V2Head
+          eyebrow="Who Makes These?"
+          title="A gift from Faithful Kids"
+          sub={<>These printables are made by Faithful Kids, a Bible video learning app for kids
+            ages 7&ndash;15 &mdash; short story episodes, quizzes, and reflections that make
+            Scripture stick. The printables are our gift to families either way. And if your kids
+            like trivia on paper, they&apos;ll love the{' '}
+            <a href="/bible-trivia" style={g}>free online trivia game</a>.</>}
+        />
+        <div className="v2-wrap is-narrow">
+          <div className="v2-card">
+            <div className="v2-ico" aria-hidden="true">🔗</div>
+            <h3>Bloggers, churches &amp; newsletters</h3>
+            <p>You&apos;re welcome to link to this page or any individual printable, and to use one
+              screenshot of each pack in a roundup. Questions? Email{' '}
+              <a href="mailto:team@faithfulkids.app" style={g}>team@faithfulkids.app</a>.</p>
+          </div>
         </div>
       </section>
+
+      <section className="hv-close">
+        <ul className="hv-chips">
+          <li><span aria-hidden="true">🎁</span>7-day free trial</li>
+          <li><span aria-hidden="true">🔓</span>Cancel anytime</li>
+          <li><span aria-hidden="true">🚫</span>Zero ads, ever</li>
+        </ul>
+        <h2>Want the stories behind the trivia?</h2>
+        <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '36em' }}>
+          Faithful Kids brings every one of these stories to life &mdash; 300+ short video episodes
+          with quizzes and reflections, Genesis to Revelation.
+        </p>
+        <a className="hv-cta" href="/quiz">
+          <span className="hv-cta-play" aria-hidden="true" />
+          Get started
+        </a>
+      </section>
+
+      {/* Unchanged component, unchanged copy: this block plays the actual
+          episode beside the pitch and is the conversion path on every
+          printable page. */}
       <PrintableCta
         {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
         duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
@@ -171,8 +183,17 @@ export default function Printables() {
         source="printables-index"
       />
 
+      </main>
 
       <SiteFooter />
     </>
+  )
+}
+
+export default function Page() {
+  return (
+    <V2Shell>
+      <PrintablesV2 />
+    </V2Shell>
   )
 }

@@ -51,9 +51,14 @@ export default function NotFound() {
             <NotFoundPath />
             <p className="nf-lead">
               The link you followed is broken, the page has moved, or there&rsquo;s a typo in the
-              address. Nothing is wrong on your end. Like the one sheep in Luke 15 it has wandered
-              off, and around here lost things get found.
+              address. Nothing is wrong on your end. Like the one sheep in Luke 15, this page
+              has wandered off. The good news: around here, lost things get found.
             </p>
+            <blockquote className="nf-verse">
+              <span className="nf-verse-mark" aria-hidden="true">🐑</span>
+              <p>&ldquo;Rejoice with me; I have found my lost sheep.&rdquo;</p>
+              <cite>Luke 15:6</cite>
+            </blockquote>
             <div className="nf-actions">
               <Link href="/" className="nf-btn nf-btn-primary">Back to the homepage</Link>
               <Link href="/bible-stories-for-kids" className="nf-btn nf-btn-ghost">Browse Bible stories</Link>
@@ -72,7 +77,8 @@ export default function NotFound() {
         </section>
 
         <section className="nf-places" aria-labelledby="nf-places-h">
-          <h2 id="nf-places-h">Where would you like to go?</h2>
+          <p className="nf-places-kicker">He leads me beside quiet waters &middot; Psalm 23:2</p>
+          <h2 id="nf-places-h">Let us lead you somewhere good</h2>
           <ul className="nf-grid">
             {PLACES.map(p => (
               <li key={p.href}>
@@ -90,6 +96,7 @@ export default function NotFound() {
         </section>
 
         <section className="nf-blessing">
+          <p className="nf-blessing-kicker"><span aria-hidden="true">🕊️</span> A blessing for the road</p>
           <blockquote>
             <p>
               &ldquo;The Lord bless you and keep you; the Lord make his face shine on you and be

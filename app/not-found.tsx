@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { Baloo_2 } from 'next/font/google'
 import { SiteFooter, SiteNav } from '@/app/components/SiteChrome'
+import { NotFoundPath } from '@/app/components/NotFoundPath'
 import './not-found.css'
 
 /**
@@ -42,14 +43,16 @@ export default function NotFound() {
       <main className="nf-main">
         <section className="nf-hero">
           <div className="nf-copy">
-            <p className="nf-eyebrow">404 &middot; Page not found</p>
+            <p className="nf-code" aria-hidden="true">404</p>
+            <p className="nf-eyebrow">Page not found</p>
             <h1 className="nf-title">
-              Looks like this page <span>wandered off.</span>
+              Sorry, this page <span>doesn&rsquo;t exist.</span>
             </h1>
+            <NotFoundPath />
             <p className="nf-lead">
-              The page you were looking for isn&rsquo;t here. Maybe the link was old, or a letter
-              went astray. Like the one sheep in Luke 15, it has gone missing. The good news is
-              that around here, lost things get found.
+              The link you followed is broken, the page has moved, or there&rsquo;s a typo in the
+              address. Nothing is wrong on your end. Like the one sheep in Luke 15 it has wandered
+              off, and around here lost things get found.
             </p>
             <div className="nf-actions">
               <Link href="/" className="nf-btn nf-btn-primary">Back to the homepage</Link>

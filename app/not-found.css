@@ -9,13 +9,37 @@
   gap: 48px;
   align-items: center;
 }
+/* The number itself, big and green, so the first thing read is "404". */
+.nf-code {
+  margin: 0 0 4px;
+  font-family: var(--font-display), var(--font-nunito), sans-serif;
+  font-weight: 800;
+  font-size: clamp(4.5rem, 9vw, 7rem);
+  line-height: .95;
+  letter-spacing: -0.04em;
+  color: var(--primary);
+}
+.nf-url {
+  margin: 0 0 18px;
+  font-size: .98rem; color: var(--navy-light);
+}
+.nf-url code {
+  display: inline-block; margin-left: 4px;
+  padding: 4px 10px; border-radius: 8px;
+  background: #fff; border: 1px solid var(--border);
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .92rem;
+  color: #b91c1c; text-decoration: line-through; text-decoration-color: rgba(185,28,28,.5);
+  /* Wrap at the hyphens a slug already has; only split a word if nothing
+     else fits (break-all cut "kidz" into "kid" / "z" on a phone). */
+  overflow-wrap: anywhere; word-break: normal; max-width: 100%;
+}
 .nf-eyebrow {
   margin: 0 0 12px;
   font-weight: 800; font-size: .85rem; letter-spacing: .14em; text-transform: uppercase;
   color: var(--primary-hover);
 }
 .nf-title {
-  margin: 0 0 18px;
+  margin: 0 0 14px;
   font-family: var(--font-display), var(--font-nunito), sans-serif;
   font-weight: 800;
   font-size: clamp(2.2rem, 4.6vw, 3.6rem);

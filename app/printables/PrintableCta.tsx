@@ -20,7 +20,7 @@ import { useEffect, useRef, useState } from 'react'
 import posthog from 'posthog-js'
 
 export function PrintableCta({
-  videoSrc, posterSrc, videoTitle, duration, heading, body, source,
+  videoSrc, posterSrc, videoTitle, duration, heading, body, source, eyebrow,
 }: {
   videoSrc: string
   posterSrc: string
@@ -29,9 +29,11 @@ export function PrintableCta({
   heading: string
   body: string
   source: string
+  eyebrow?: string
 }) {
   const ref = useRef<HTMLVideoElement>(null)
   const box = useRef<HTMLElement>(null)
+  const seen = useRef(false)
 
   /* Same handoff VerseCta uses: while this block is on screen the sticky bar
      hides, so a reader never sees two versions of the same ask at once. */
@@ -41,10 +43,18 @@ export function PrintableCta({
     const send = (visible: boolean) => {
       try { window.dispatchEvent(new CustomEvent('fk-inline-cta-visibility', { detail: { visible } })) } catch { /* never break the page */ }
     }
-    const io = new IntersectionObserver(([e]) => send(e.isIntersecting), { threshold: 0 })
+    const io = new IntersectionObserver(([e]) => {
+      send(e.isIntersecting)
+      /* One-shot impression per pageview, so click-through is measurable per
+         source (clicks always fired; shows never did). */
+      if (e.isIntersecting && !seen.current) {
+        seen.current = true
+        try { posthog.capture('cta_panel_shown', { source, video: videoTitle }) } catch {}
+      }
+    }, { threshold: 0 })
     io.observe(el)
     return () => { io.disconnect(); send(false) }
-  }, [])
+  }, [source, videoTitle])
   const [playing, setPlaying] = useState(false)
 
   function start() {
@@ -63,7 +73,7 @@ export function PrintableCta({
     <section className="pc-wrap no-print" ref={box}>
       <div className="pc-inner">
         <div className="pc-copy">
-          <span className="pc-eyebrow">See what they get</span>
+          <span className="pc-eyebrow">{eyebrow || 'See what they get'}</span>
           <h2>{heading}</h2>
           <p>{body}</p>
           <a

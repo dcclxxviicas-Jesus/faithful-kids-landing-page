@@ -22,6 +22,7 @@ import storyDurations from '@/lib/story-durations.json'
 import guideVideos from '@/lib/guide-videos.json'
 import samplerVideos from '@/lib/sampler-videos.json'
 import { PrintableCta } from '@/app/printables/PrintableCta'
+import { getIntentPanel } from '@/lib/intent-panels'
 import { getTriviaVideo } from '@/lib/trivia-video'
 import { attachChoices, playableCount } from '@/lib/trivia-choices'
 import { EmbedNote } from '../EmbedNote'
@@ -278,6 +279,11 @@ export default async function BlogPostPage({ params }: Props) {
   // Product pages whose CTA is an external store keep the article clean of
   // /quiz-pushing chrome (verse CTA + sticky). Arm assignment is untouched.
   const isAppPage = slug === 'faithful-kids-app'
+  // High-intent guide pages get a page-matched product panel in the VerseCta
+  // slot instead (and skip the generic mid-article CTA below — one panel per
+  // page). Copy map + rationale: lib/intent-panels.ts.
+  const intentPanel = !isStory && !isAppPage ? getIntentPanel(slug) : undefined
+  const intentVideo = guideVideo ?? samplerVideo
   const introParts = splitIntro(contentParts.first)
   const firstSplit = splitAfterFirstSection(contentParts.first)
 
@@ -465,8 +471,21 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
               className="blog-article-body"
               dangerouslySetInnerHTML={{ __html: firstSplit.a }}
             />
-            {/* Verse CTA after the first h2 section — high, but after value. */}
-            {!isAppPage && <VerseCta postSlug={post.slug} />}
+            {/* Verse CTA after the first h2 section — high, but after value.
+                High-intent pages get their matched product panel here instead. */}
+            {!isAppPage && (intentPanel ? (
+              <PrintableCta
+                videoSrc={intentVideo.videoSrc}
+                posterSrc={intentVideo.posterSrc}
+                videoTitle={intentVideo.videoTitle}
+                eyebrow={intentPanel.eyebrow}
+                heading={intentPanel.heading}
+                body={intentPanel.body(intentVideo.videoTitle)}
+                source={`intent-${slug}`}
+              />
+            ) : (
+              <VerseCta postSlug={post.slug} />
+            ))}
             {firstSplit.b && (
               <div
                 className="blog-article-body"
@@ -506,7 +525,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
               lessons, no title interpolation. Button says "free trial" with
               no number (annual-only 7-day trial; the standing no-stale-claim
               rule). */}
-        {!hasTriviaGame && !isStory && guideVideo && (
+        {!hasTriviaGame && !isStory && !intentPanel && guideVideo && (
           <PrintableCta
             videoSrc={guideVideo.videoSrc}
             posterSrc={guideVideo.posterSrc}
@@ -516,7 +535,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             source="guide-mid-cta"
           />
         )}
-        {!hasTriviaGame && !isStory && !guideVideo && (
+        {!hasTriviaGame && !isStory && !intentPanel && !guideVideo && (
           <PrintableCta
             videoSrc={samplerVideo.videoSrc}
             posterSrc={samplerVideo.posterSrc}

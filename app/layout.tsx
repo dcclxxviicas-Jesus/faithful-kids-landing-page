@@ -70,6 +70,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {/* Preconnect to video CDN to reduce latency */}
         <link rel="preconnect" href="https://d3g07v1w0lehiv.cloudfront.net" />
         <link rel="dns-prefetch" href="https://d3g07v1w0lehiv.cloudfront.net" />
+        {/* Google Ads tag (AW-18543438104). Site-wide so the URL-based purchase
+            conversion (faithfulkids.app/success) records; async, non-blocking. */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18543438104" />
+        <script
+          dangerouslySetInnerHTML={{ __html:
+            "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-18543438104');",
+          }}
+        />
       </head>
       <body>
         <script

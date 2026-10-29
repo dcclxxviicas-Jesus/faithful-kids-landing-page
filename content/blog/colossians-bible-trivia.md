@@ -50,6 +50,8 @@ There is a free [books of the Bible word search](/printables/bible-word-search/b
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Colossians Trivia Questions (Teens and Adults)
 
 The closing greetings of Colossians are a who's who of the early church -- a runaway slave, a Gospel writer, and a restored quitter all in one chapter.

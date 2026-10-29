@@ -65,6 +65,8 @@ David is the best six-week series in the Old Testament for one reason: kids meet
 
 **Memory verse:** "Do not take revenge, my dear friends, but leave room for God." -- Romans 12:19
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Week 4: A Friend Who Gives Up His Own Claim (David and Jonathan)
 
 **Objective:** Kids will identify what real friendship costs.

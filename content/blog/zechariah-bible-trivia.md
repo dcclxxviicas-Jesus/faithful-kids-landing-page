@@ -44,6 +44,8 @@ That's why Zechariah's most famous line lands the way it does. To a tiny provinc
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Medium Zechariah Trivia Questions (Ages 9-12)
 
 9. Who were Zechariah's father and grandfather? **Berekiah his father and Iddo his grandfather** (Zechariah 1:1)

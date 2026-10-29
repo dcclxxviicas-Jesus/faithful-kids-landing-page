@@ -116,6 +116,8 @@ A craft that *is* the lesson -- like a rainbow suncatcher taught alongside God's
 
 Set up a screen and let kids watch a short animated Bible story, then quiz them on it as a team. The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) are built exactly for this -- each story comes with its own quiz, so it works as a ready-made station a volunteer can run with zero prep, and families can pick up the same lessons at home.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## How Do You Choose the Right Activity for Your Class?
 
 Match the activity to your time slot first, then to your age range, then to your energy level in the room. A quick reference:

@@ -176,6 +176,8 @@ Three rules make chunking stick:
 2. **Overlap the seams.** The places kids blank out are the transitions -- Deuteronomy to Joshua, Malachi to Matthew. Practice the last book of one chunk plus the first book of the next as its own mini-drill.
 3. **Say it out loud, daily, for 2 minutes.** Two minutes at breakfast beats twenty minutes on Saturday. The same spaced-repetition principle applies to verses too -- we cover it in our guide to [Bible memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids).
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Do Songs Really Help Kids Learn the Books of the Bible?
 
 Yes -- melody is the fastest memorization tool there is, which is why most adults who know all 66 books learned them from a childhood song. Music encodes sequence automatically; your child doesn't have to think about what comes after Obadiah because the tune pulls them forward.

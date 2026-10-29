@@ -40,6 +40,8 @@ Every game below hits at least two of the three. The 20 techniques in our guide 
 
 **Why it works for memory:** Reassembling word order trains sequence memory, which is the part kids actually lose first. A child who "knows" a verse but stalls halfway through has a sequencing gap, not a vocabulary gap. Cutting phrases rather than single words for beginners also teaches natural chunking, and chunked verses are far easier to hold.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## 3. Motion Mapping
 
 **Group size:** Any, from a single toddler to a hundred kids in a gym.

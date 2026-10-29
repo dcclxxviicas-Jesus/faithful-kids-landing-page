@@ -51,6 +51,8 @@ For quiet time afterwards, print the free [Armor of God coloring page](/printabl
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Ephesians Trivia Questions (Teens and Adults)
 
 24. What "mystery" does Paul say was revealed to him? **That through the gospel the Gentiles are heirs together with Israel, members together of one body** (Ephesians 3:6)

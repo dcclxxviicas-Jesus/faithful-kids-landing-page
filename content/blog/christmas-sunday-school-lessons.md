@@ -66,6 +66,8 @@ Planning the whole month? The [Christmas hub](/holidays/christmas) lists every A
 
 For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Lesson 3: The Journey to Bethlehem (Mary and Joseph Travel)
 
 **Scripture:** Luke 2:1-7

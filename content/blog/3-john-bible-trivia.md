@@ -42,6 +42,8 @@ For a quieter follow-up, try the free [Moses word search](/printables/bible-word
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Medium 3 John Trivia Questions (Ages 9-12)
 
 7. What was Gaius praised for doing for traveling teachers -- even ones who were strangers? **Showing them faithful hospitality and sending them on their way "in a manner worthy of God"** (3 John 5-6)

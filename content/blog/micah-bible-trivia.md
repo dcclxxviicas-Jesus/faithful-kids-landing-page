@@ -44,6 +44,8 @@ The other verse every family should know is Micah 6:8: "Act justly, love mercy, 
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Medium Micah Trivia Questions (Ages 9-12)
 
 9. What town was Micah from? **Moresheth** (Micah 1:1)

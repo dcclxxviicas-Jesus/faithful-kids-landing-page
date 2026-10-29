@@ -41,6 +41,8 @@ The answer comes in the exact center of the book. Tucked into chapter 3, surroun
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Hard Lamentations Trivia Questions (Teens and Adults)
 
 16. Which chapter breaks the pattern with 66 verses -- a triple acrostic running through the alphabet three times? **Chapter 3** (Lamentations 3)

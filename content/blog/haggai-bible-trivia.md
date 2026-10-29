@@ -40,6 +40,8 @@ Then, in 520 BC, Haggai started preaching -- and something almost unheard of in 
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Medium Haggai Trivia Questions (Ages 9-12)
 
 7. Haggai said the people earned wages only to put them where? **In a purse with holes in it** (Haggai 1:6)

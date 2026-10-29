@@ -72,6 +72,8 @@ Know-it-alls dominate fact questions ("How many days was Jonah in the fish?") bu
 
 In review games, institute "every player answers before anyone answers twice." It converts the fastest hand in the room from a game-ender into a teammate who starts coaching others -- which is what you actually want that knowledge doing. The rule matters most in December, when visitors swell the room and the [Christmas Sunday school games](/blog/christmas-sunday-school-games) get loud enough for one confident kid to run away with the whole morning.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## How Do You Prep a Lesson When the Week Got Away From You?
 
 Prep the spine, not the decorations: one story, one truth sentence, one question, one activity -- a lesson with those four things prepared in 20 minutes beats an elaborate one prepared in three exhausted hours. Four shortcuts:

@@ -36,6 +36,8 @@ Visual learners absorb information through images. When a child draws a picture 
 
 Pair this with our free [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) — one sheet, ready for the kitchen table or the classroom.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## 4. The Erase-a-Word Game
 
 This is a classic for a reason. It works because it gradually removes visual support while maintaining repetition, teaching the brain to fill in gaps from memory.

@@ -76,6 +76,14 @@ const PACKS = [
     details: 'Print the whole set or one page · No email, no sign-up',
   },
   {
+    href: '/printables/books-of-the-bible',
+    emoji: '📚',
+    title: 'Books of the Bible — Chart & Bookmarks',
+    description:
+      'All 66 books in order on one chart, grouped the way the Bible groups them with chapter counts for every book, plus cut-out bookmarks for their Bibles. The groups are the memory trick.',
+    details: 'One-page chart · 2 bookmarks · Free PDF · No sign-up',
+  },
+  {
     href: '/printables/bible-trivia-pack',
     emoji: '🏆',
     title: 'Bible Trivia Pack — 100 Questions',

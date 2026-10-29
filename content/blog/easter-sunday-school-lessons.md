@@ -56,6 +56,8 @@ Tell the truth plainly, keep it short, and spend more time on Sunday than on Fri
 
 **Age note:** Preschoolers hear it as "Jesus wanted His house to be for talking to God" and simply help tidy. Elementary kids can handle the fairness angle: the sellers were overcharging poor worshipers.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Lesson 3: Tuesday -- The Greatest Commandment and the Widow's Coins
 
 **Objective:** Kids will state the two greatest commandments and give an example of giving that costs something.

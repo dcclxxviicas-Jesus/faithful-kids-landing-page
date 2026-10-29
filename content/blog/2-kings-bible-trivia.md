@@ -51,6 +51,8 @@ Add five quiet minutes with the free [Daniel word search](/printables/bible-word
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard 2 Kings Trivia Questions (Teens and Adults)
 
 24. Which king was famous for driving his chariot "like a maniac"? **Jehu** (2 Kings 9:20)

@@ -50,6 +50,8 @@ Older kids who find coloring dull usually take to the free [David and Goliath wo
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Hard 1 Thessalonians Trivia Questions (Teens and Adults)
 
 The expert round -- watch for question 24, a pattern hiding in plain sight that most lifelong readers have never noticed.

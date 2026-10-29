@@ -73,6 +73,8 @@ From the Passover to the prophets -- how God formed a rescued people and gave th
 
 **Swap-ins for this quarter** if your calendar shifts or you want more weeks: [Deborah](/blog/deborah-a-brave-leader-for-kids), [Samson](/blog/samson-strongest-man-alive-for-kids), [Daniel in the Lions' Den](/blog/daniel-in-the-lions-den-for-kids), [The Fiery Furnace](/blog/the-fiery-furnace-for-kids), [Esther Saves Her People](/blog/esther-saves-her-people-for-kids), [Jonah Running from God](/blog/jonah-running-from-god-for-kids), and [Rebuilding the Walls](/blog/rebuilding-the-walls-for-kids) with Nehemiah.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Quarter 3: The Life of Jesus (Weeks 27-39)
 
 Birth through ministry -- who Jesus is, and what He taught. **Quarter memory verse:** "For God so loved the world that he gave his one and only Son." -- John 3:16

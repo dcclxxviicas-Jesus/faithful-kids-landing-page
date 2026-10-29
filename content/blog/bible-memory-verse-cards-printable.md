@@ -146,6 +146,8 @@ Attach the cards to routines you already have -- the ring only works if it lives
 
 **5. Sticker-chart streaks.** Every recited-from-memory verse earns a sticker on the back of its card. A card wearing five stickers is "mastered" and moves to the review pile -- visible progress is rocket fuel for kids.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## What Games Can You Play With Verse Cards?
 
 Games turn review from a quiz into the best part -- and verse cards are secretly a deck, so play them like one:

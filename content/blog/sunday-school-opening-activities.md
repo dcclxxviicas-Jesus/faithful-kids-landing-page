@@ -62,6 +62,8 @@ Open with one Bible riddle and let kids shout guesses: "I was thrown in a pit, s
 
 Tell three short statements about a Bible character -- two true, one false -- and have kids vote on the fake. "Jonah ran from God. Jonah was swallowed by a great fish. Jonah was happy when Nineveh repented." (That last one is the tale -- Jonah pouted.) It reviews last week's story and previews this week's in under three minutes.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Opening Songs (10-12)
 
 Music does something announcements can't: it synchronizes a room. You don't need a worship band -- a phone and a speaker will do.

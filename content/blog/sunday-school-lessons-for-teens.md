@@ -46,6 +46,8 @@ Teenagers are not bored by the Bible. They are bored by being talked at about th
 
 *Note for leaders: if a student discloses self-harm or suicidal thinking, stop the lesson and follow your church's care policy. Verses are not a substitute for professional help, and saying so out loud raises your credibility with the room.*
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Lesson 4: Comparison, Feeds, and the Approval Trap
 
 **Open with:** Who are you performing for?

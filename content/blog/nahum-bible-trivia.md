@@ -32,6 +32,8 @@ That background is what turns Nahum's closing line into the book's mic drop: "ev
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Easy Nahum Trivia Questions (Ages 5-8)
 
 1. Which great city is the whole book of Nahum about? **Nineveh** (Nahum 1:1)

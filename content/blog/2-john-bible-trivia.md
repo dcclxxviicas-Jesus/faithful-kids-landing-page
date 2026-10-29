@@ -42,6 +42,8 @@ There is a free [Daniel word search](/printables/bible-word-search/daniel) to go
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Medium 2 John Trivia Questions (Ages 9-12)
 
 7. According to verse 6, what is love? **Walking in obedience to God's commands** (2 John 6)

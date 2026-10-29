@@ -64,6 +64,8 @@ We built a [Noah's Ark word search](/printables/bible-word-search/noahs-ark) aro
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Hard 1 Peter Trivia Questions (Teens and Adults)
 
 19. Instead of repaying evil with evil or insult with insult, what should we repay with? **Blessing** (1 Peter 3:9)

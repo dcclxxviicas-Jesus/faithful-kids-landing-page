@@ -42,6 +42,8 @@ One timeline fact makes great bonus trivia: Zephaniah preached in the same gener
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Medium Zephaniah Trivia Questions (Ages 9-12)
 
 7. What does Zephaniah's name mean? **"The LORD hides" or "the LORD protects"**

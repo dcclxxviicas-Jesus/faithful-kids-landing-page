@@ -51,6 +51,8 @@ Twelve books of narrative. These make the best coloring pages of the whole Bible
 16. **Nehemiah** -- a half-built city wall with a trowel and a lamp.
 17. **Esther** -- a royal crown above a golden scepter extended forward.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Poetry and Wisdom (Books 18-22)
 
 Abstract books, so lean into pattern. These five are the pages older kids like best because the designs can get intricate.

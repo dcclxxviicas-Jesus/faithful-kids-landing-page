@@ -53,6 +53,8 @@ He's nicknamed "the weeping prophet" because he grieved openly over his people (
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Hard Jeremiah Trivia Questions (Teens and Adults)
 
 28. Jeremiah 1:2-3 names three kings of Judah under whom he prophesied. Who were they? **Josiah, Jehoiakim, and Zedekiah** (Jeremiah 1:2-3)

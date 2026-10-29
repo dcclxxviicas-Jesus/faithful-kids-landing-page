@@ -65,6 +65,8 @@ For the whole season's worth, our [Thanksgiving hub](/holidays/thanksgiving) gat
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Thanksgiving Bible Trivia (Teens and Adults)
 
 36. What phrase repeats in every single one of Psalm 136's twenty-six verses? **"His love endures forever"** (Psalm 136)

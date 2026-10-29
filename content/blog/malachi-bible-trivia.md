@@ -40,6 +40,8 @@ That makes Malachi the best "cliffhanger" book in the Bible to teach kids. The O
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Medium Malachi Trivia Questions (Ages 9-12)
 
 7. What was wrong with the animals the people were bringing as sacrifices? **They were blind, lame, and diseased -- the leftovers** (Malachi 1:8)

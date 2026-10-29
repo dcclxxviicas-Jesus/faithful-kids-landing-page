@@ -125,6 +125,8 @@ A craft earns its place when it hands you a question. A paper-plate tomb lets yo
 **Prep:** 10 minutes to mix dough. **Ages:** 4-10.
 **Steps:** Each child molds a cave tomb with a hollow opening and a separate round stone that seals it. Close it at the end of one class and don't open it until the next -- the week of waiting is the lesson, and elementary kids feel it more than you'd expect.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Crafts 16-20: New Life
 
 ### 16. Coffee Filter Butterfly

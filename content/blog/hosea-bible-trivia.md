@@ -41,6 +41,8 @@ But the book's last word is not judgment -- it's a God who says "I will heal the
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Hosea Trivia Questions (Teens and Adults)
 
 16. What does the name Lo-Ruhamah mean? **"Not loved"** (Hosea 1:6)

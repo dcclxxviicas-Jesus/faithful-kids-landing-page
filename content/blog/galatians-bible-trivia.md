@@ -46,6 +46,8 @@ Older kids who find coloring dull usually take to the free [Fruit of the Spirit 
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Hard Galatians Trivia Questions (Teens and Adults)
 
 19. Right after his conversion, where did Paul go instead of Jerusalem? **Arabia** (Galatians 1:17)

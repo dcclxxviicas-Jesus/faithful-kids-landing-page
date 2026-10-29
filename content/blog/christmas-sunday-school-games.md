@@ -90,6 +90,8 @@ Pair it with our free [Christmas word search](/printables/bible-word-search/chri
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## How Do You Run a Christmas Class That Isn't Chaos?
 
 Anchor the morning with one story, one game, and one thing kids take home. December Sundays run short and loud, so pick a single nativity scene, play one game that acts it out, and send home something physical -- a craft, a blessing bag, a card. Our [Christmas Sunday school lessons](/blog/christmas-sunday-school-lessons) give you the teaching half in six ready plans, and the [Christmas crafts for kids](/blog/christmas-crafts-for-kids-bible) list covers the take-home. If your class is a mixed bag of visitors, start with the story itself: our [Christmas Bible stories for kids](/blog/christmas-bible-stories-for-kids) versions are short enough to read aloud before a game.

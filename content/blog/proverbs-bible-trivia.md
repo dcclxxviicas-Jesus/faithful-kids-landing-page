@@ -53,6 +53,8 @@ Its theme verse sits right at the front: "The fear of the LORD is the beginning 
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Proverbs Trivia Questions (Teens and Adults)
 
 28. Proverbs 6 lists things the LORD hates. How many? **Six -- seven that are detestable to him** (Proverbs 6:16-19)

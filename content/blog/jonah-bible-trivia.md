@@ -48,6 +48,8 @@ It's also one of the few Old Testament books Jesus talked about directly. He cal
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Medium Jonah Trivia Questions (Ages 9-12)
 
 11. Was Jonah swallowed by a whale? **Trick question -- the Bible says "a huge fish," and never calls it a whale** (Jonah 1:17)

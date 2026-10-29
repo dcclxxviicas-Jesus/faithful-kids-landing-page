@@ -42,6 +42,8 @@ One more detail kids find fascinating: those "clefts of the rocks" (the Hebrew w
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Medium Obadiah Trivia Questions (Ages 9-12)
 
 7. What sin does Obadiah say deceived the Edomites? **The pride of their heart** (Obadiah 1:3)

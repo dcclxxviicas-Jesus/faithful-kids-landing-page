@@ -72,6 +72,8 @@ The structure is simple: two chapters of story set up the test, then roughly 39 
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Job Trivia Questions (Teens and Adults)
 
 25. A fourth, younger man spoke after the three friends fell silent. What was his name? **Elihu son of Barakel the Buzite** (Job 32:2-6)

@@ -41,6 +41,8 @@ It's set in Jerusalem at the height of Israel's wealth, which is what makes the 
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Ecclesiastes Trivia Questions (Teens and Adults)
 
 16. In chapter 2, name two of the big projects the Teacher built while searching for meaning. **Houses, vineyards, gardens, parks, and reservoirs** (Ecclesiastes 2:4-6)

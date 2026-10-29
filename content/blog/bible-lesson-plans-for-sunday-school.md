@@ -254,6 +254,8 @@ For more classroom wisdom from veteran teachers, see our [Sunday school teacher 
 
 For homeschool families, our [free homeschool Bible curriculum page](/homeschool) covers what a day looks like and what it costs.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Watch on Faithful Kids
 
 Every one of these 10 stories is available as a short video lesson on Faithful Kids, complete with a comprehension quiz and a guided reflection. If your Sunday School class has screen time, you can use Faithful Kids lessons as your "story" segment and then lead the discussion and activity yourself.

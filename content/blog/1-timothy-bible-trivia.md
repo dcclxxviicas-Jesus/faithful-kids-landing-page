@@ -46,6 +46,8 @@ Older kids who find coloring dull usually take to the free [David and Goliath wo
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Hard 1 Timothy Trivia Questions (Teens and Adults)
 
 19. Name three qualifications for an overseer from 1 Timothy 3. **Above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, not given to drunkenness, gentle, not quarrelsome, not a lover of money** (1 Timothy 3:2-3)

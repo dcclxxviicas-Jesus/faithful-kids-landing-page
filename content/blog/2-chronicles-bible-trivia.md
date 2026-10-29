@@ -74,6 +74,8 @@ Older kids who find coloring dull usually take to the free [David and Goliath wo
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard 2 Chronicles Trivia Questions (Teens and Adults)
 
 25. How many talents of gold did Solomon receive yearly -- a number famous for other reasons? **666 talents** (2 Chronicles 9:13)

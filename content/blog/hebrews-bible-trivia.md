@@ -72,6 +72,8 @@ Here's the plain truth about the author: nobody knows who wrote Hebrews. The let
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Hard Hebrews Trivia Questions (Teens and Adults)
 
 25. "Without ___ it is impossible to please God." **Faith** (Hebrews 11:6)

@@ -51,6 +51,8 @@ Pair this with our free [Daniel in the lions' den coloring page](/printables/bib
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Hard Daniel Trivia Questions (Teens and Adults)
 
 24. What does the name Daniel mean in Hebrew? **"God is my judge"**

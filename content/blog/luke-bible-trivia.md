@@ -86,6 +86,8 @@ A related freebie: our [lost sheep coloring page](/printables/bible-coloring-pag
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Hard Luke Trivia Questions (Teens and Adults)
 
 31. What second New Testament book did Luke write as a sequel to his gospel? **Acts** (Acts 1:1)

@@ -66,6 +66,8 @@ A timeline anchor helps before you start: Esther takes place between Ezra chapte
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Hard Esther Trivia Questions (Teens and Adults)
 
 21. Over how many provinces did King Xerxes rule, and from where to where? **127 provinces, stretching from India to Cush** (Esther 1:1)

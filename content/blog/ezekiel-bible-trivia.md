@@ -49,6 +49,8 @@ The book's most famous scene is the valley of dry bones (Ezekiel 37), where a fi
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Ezekiel Trivia Questions (Teens and Adults)
 
 24. What is the name of the city in the very last verse of the book? **"THE LORD IS THERE"** (Ezekiel 48:35)

@@ -57,6 +57,8 @@ John is also the most quoted Gospel, home to John 3:16 and "I am the way and the
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Hard John Trivia Questions (Teens and Adults)
 
 32. What was the name of the servant who lost his ear -- a detail only John records? **Malchus** (John 18:10)

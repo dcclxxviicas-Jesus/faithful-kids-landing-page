@@ -191,6 +191,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       ],
     },
     {
+      url: `${baseUrl}/printables/books-of-the-bible`,
+      lastModified: new Date('2026-10-29'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: `${baseUrl}/printables/advent-bible-calendar`,
       lastModified: new Date('2026-09-03'),
       changeFrequency: 'monthly',

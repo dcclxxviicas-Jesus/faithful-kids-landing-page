@@ -40,6 +40,8 @@ Titus was also Paul's go-to fixer for hard assignments. Paul sent him to Corinth
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Medium Titus Trivia Questions (Ages 9-12)
 
 7. What two jobs did Paul leave Titus in Crete to do? **Put in order what was left unfinished and appoint elders in every town** (Titus 1:5)

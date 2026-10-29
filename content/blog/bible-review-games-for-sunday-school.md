@@ -74,6 +74,8 @@ When you just need the group laughing, these [fun and funny youth group games](/
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## How Do You Write Good Review Questions?
 
 Write questions at three levels -- recall, understanding, and application -- and use all three in every game. A question list with only recall ("Who fought Goliath?") reviews names; adding the other two levels reviews meaning:

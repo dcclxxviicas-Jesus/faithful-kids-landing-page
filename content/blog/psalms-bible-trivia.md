@@ -62,6 +62,8 @@ The book is organized into five smaller "books," each one ending with a burst of
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Psalms Trivia Questions (Teens and Adults)
 
 29. What mysterious Hebrew word appears 71 times in Psalms and probably signals a musical pause? **Selah**

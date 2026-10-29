@@ -42,6 +42,8 @@ For a quieter follow-up, try the free [Daniel word search](/printables/bible-wor
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Hard 2 Thessalonians Trivia Questions (Teens and Adults)
 
 15. What did Paul ask the church to pray for his team? **That the message of the Lord may spread rapidly and be honored, and that they be delivered from wicked and evil people** (2 Thessalonians 3:1-2)

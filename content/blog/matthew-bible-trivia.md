@@ -84,6 +84,8 @@ The Gospel is formally anonymous, but early church tradition attributes it to Ma
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Hard Matthew Trivia Questions (Teens and Adults)
 
 31. How does the book of Matthew begin? **With a genealogy of Jesus, traced from Abraham through King David** (Matthew 1:1-2)

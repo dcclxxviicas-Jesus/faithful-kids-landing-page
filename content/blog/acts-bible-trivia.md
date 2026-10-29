@@ -58,6 +58,8 @@ There is a free [Fruit of the Spirit word search](/printables/bible-word-search/
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Acts Trivia Questions (Teens and Adults)
 
 31. What altar inscription did Paul quote when preaching in Athens? **"TO AN UNKNOWN GOD"** (Acts 17:23)

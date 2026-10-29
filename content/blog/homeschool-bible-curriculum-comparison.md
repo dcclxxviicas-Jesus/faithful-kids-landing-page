@@ -183,6 +183,8 @@ Sometimes the simplest approach is the best. Read one chapter of the Bible toget
 
 For homeschool families, our [free homeschool Bible curriculum page](/homeschool) covers what a day looks like and what it costs.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Video-Based Bible Curriculum
 
 ### 11. Faithful Kids

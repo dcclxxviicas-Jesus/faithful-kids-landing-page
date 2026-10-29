@@ -42,6 +42,8 @@ It also matters for parenting: Habakkuk gives kids biblical permission to bring 
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Medium Habakkuk Trivia Questions (Ages 9-12)
 
 8. What was Habakkuk's first complaint about? **Violence and injustice in Judah going unpunished** (Habakkuk 1:2-4)

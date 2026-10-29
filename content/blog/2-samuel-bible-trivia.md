@@ -50,6 +50,8 @@ Older kids who find coloring dull usually take to the free [Daniel word search](
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Hard 2 Samuel Trivia Questions (Teens and Adults)
 
 23. Who killed Absalom as he hung in the tree, and with what? **Joab, who plunged three javelins into him** (2 Samuel 18:14)

@@ -52,6 +52,8 @@ There is a free [Noah's Ark word search](/printables/bible-word-search/noahs-ark
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard 1 Corinthians Trivia Questions (Teens and Adults)
 
 25. Who is named alongside Paul as a sender of the letter? **Sosthenes** (1 Corinthians 1:1)

@@ -79,6 +79,8 @@ Planning the whole month? The [Christmas hub](/holidays/christmas) lists every A
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Hard Round (Questions 41-60)
 
 This is where the Bible starts correcting the Christmas card. Have the verses ready.

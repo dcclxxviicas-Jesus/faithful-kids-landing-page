@@ -100,6 +100,8 @@ Tap any book for a kid-friendly trivia quiz on it -- answers included.
 
 If small hands need something to do while you read, the free [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) is made for exactly that.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## How Do Kids Memorize the Books of the Bible?
 
 **Sing them.** Music is by far the fastest route into a child's memory. There are dozens of "Books of the Bible" songs online -- pick one your child likes and play it in the car for a week. Most kids absorb the melody (and the book names with it) almost without trying.

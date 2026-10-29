@@ -40,6 +40,8 @@ The heart of the book is Joel 2:13 -- "Rend your heart and not your garments" --
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Hard Joel Trivia Questions (Teens and Adults)
 
 15. According to Joel 2:28, what will old men and young men experience? **Old men will dream dreams, and young men will see visions** (Joel 2:28)

@@ -48,6 +48,8 @@ The story unfolds in three movements: entering the land (chapters 1-5, including
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Joshua Trivia Questions (Teens and Adults)
 
 23. In that same battle, what killed more of the enemy than Israel's swords did? **Huge hailstones the LORD hurled down from the sky** (Joshua 10:11)

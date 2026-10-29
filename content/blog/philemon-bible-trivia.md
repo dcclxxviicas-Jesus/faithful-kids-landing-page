@@ -42,6 +42,8 @@ That's also what makes the letter such a vivid picture of what Jesus does for us
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Medium Philemon Trivia Questions (Ages 9-12)
 
 7. What does the name Onesimus mean? **"Useful"** (see the wordplay in Philemon 1:11)

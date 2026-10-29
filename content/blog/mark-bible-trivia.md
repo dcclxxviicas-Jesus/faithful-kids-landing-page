@@ -80,6 +80,8 @@ The Gospel is formally anonymous, but early church tradition attributes it to Jo
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Hard Mark Trivia Questions (Teens and Adults)
 
 29. Whose preaching does early church tradition say Mark wrote down in this Gospel? **The apostle Peter's**

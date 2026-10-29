@@ -49,6 +49,8 @@ Older kids who find coloring dull usually take to the free [books of the Bible w
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Hard Deuteronomy Trivia Questions (Teens and Adults)
 
 22. How many chapters does Deuteronomy have? **Thirty-four**

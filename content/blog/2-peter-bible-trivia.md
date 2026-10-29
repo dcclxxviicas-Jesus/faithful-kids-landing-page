@@ -44,6 +44,8 @@ There is a free [Daniel word search](/printables/bible-word-search/daniel) to go
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Medium 2 Peter Trivia Questions (Ages 9-12)
 
 8. Peter builds a ladder of eight qualities -- what is the first rung everything else is added to? **Faith** (2 Peter 1:5)

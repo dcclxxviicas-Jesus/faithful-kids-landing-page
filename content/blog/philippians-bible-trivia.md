@@ -49,6 +49,8 @@ This round starts with the founding of the church itself -- a midnight jailbreak
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Hard Philippians Trivia Questions (Teens and Adults)
 
 Chapter 3 is Paul's resume -- and the round where he throws the whole thing away.

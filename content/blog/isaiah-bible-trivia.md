@@ -54,6 +54,8 @@ Isaiah matters because no Old Testament prophet points to Jesus more often or mo
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Hard Isaiah Trivia Questions (Teens and Adults)
 
 29. Which Persian king did Isaiah name roughly 150 years before he ruled? **Cyrus** (Isaiah 44:28; 45:1)

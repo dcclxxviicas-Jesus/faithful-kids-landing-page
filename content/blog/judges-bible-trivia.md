@@ -47,6 +47,8 @@ The whole book runs on one repeating cycle: Israel forgets God, an enemy conquer
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
+
 ## Hard Judges Trivia Questions (Teens and Adults)
 
 22. What new name did Gideon receive after tearing down his father's altar to Baal? **Jerubbaal -- "let Baal contend with him"** (Judges 6:31-32)

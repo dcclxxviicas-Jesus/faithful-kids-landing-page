@@ -44,6 +44,8 @@ Older kids who find coloring dull usually take to the free [Moses word search](/
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Medium 2 Timothy Trivia Questions (Ages 9-12)
 
 8. Paul said everyone in the province of Asia deserted him -- which two men did he name? **Phygelus and Hermogenes** (2 Timothy 1:15)

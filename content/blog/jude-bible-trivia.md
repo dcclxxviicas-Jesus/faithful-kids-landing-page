@@ -40,6 +40,8 @@ Enoch himself is a genuine Genesis mystery kids love: "Enoch walked faithfully w
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Medium Jude Trivia Questions (Ages 9-12)
 
 7. What did Jude originally want to write about? **"The salvation we share"** (Jude 3)

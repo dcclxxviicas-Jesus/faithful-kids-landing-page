@@ -51,6 +51,8 @@ The letter builds like a staircase: the problem of sin (chapters 1-3), the answe
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Hard Romans Trivia Questions (Teens and Adults)
 
 26. Paul spoke the letter aloud -- who actually wrote Romans down, and even adds his own hello? **Tertius** (Romans 16:22)

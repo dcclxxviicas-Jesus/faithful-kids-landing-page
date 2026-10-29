@@ -144,6 +144,8 @@ All 40 verses below pass all three. Quotations are from the NIV unless noted, an
 
 Older kids who find coloring dull usually take to the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) instead — it plays in the browser or prints on one sheet.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Short Memory Verses About Courage (10)
 
 ### 21. Joshua 1:9

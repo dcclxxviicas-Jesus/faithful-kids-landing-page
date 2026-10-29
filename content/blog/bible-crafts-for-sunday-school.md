@@ -177,6 +177,8 @@ Pick by prep time and age first, then by lesson match. Here's the whole list at 
 
 If your week leaves you no prep time at all, printable [Bible coloring pages](/blog/bible-coloring-pages-for-kids) are the honorable fallback -- zero prep, and still story-connected. And when you want the craft to carry more of the teaching load, our companion guide to [Bible crafts for kids with lessons](/blog/bible-crafts-for-kids-with-lessons) includes a short teaching script for each project.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## How Do You Make the Craft Actually Teach the Lesson?
 
 Say the connection sentence while hands are busy, not before or after. Kids' ears are most open when their hands are occupied -- it's why the best conversations happen in the car. So for every craft above, plan one sentence ("God has never broken a promise") and say it two or three times during glue time, then once more as kids pack up.

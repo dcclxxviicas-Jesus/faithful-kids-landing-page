@@ -41,6 +41,8 @@ It's set among the vineyards, gardens, and hills of ancient Israel, full of spri
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+
 ## Hard Song of Solomon Trivia Questions (Teens and Adults)
 
 16. What warning is repeated three times to the daughters of Jerusalem? **"Do not arouse or awaken love until it so desires"** (Song of Songs 2:7; 3:5; 8:4)

@@ -58,6 +58,8 @@ Pair this with our free [Creation coloring page](/printables/bible-coloring-page
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+
 ## Hard Genesis Trivia Questions (Teens and Adults)
 
 31. What were the measurements of Noah's ark? **300 cubits long, 50 cubits wide, and 30 cubits high** (Genesis 6:15)

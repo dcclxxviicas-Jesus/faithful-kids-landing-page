@@ -66,6 +66,8 @@ One tip before you start: Ezra spans about eighty years and three Persian kings 
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
 
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+
 ## Hard Ezra Trivia Questions (Teens and Adults)
 
 21. In whose reign, and in which year of it, was the temple finally completed? **The sixth year of King Darius** (Ezra 6:15)

@@ -89,7 +89,12 @@ export async function POST(req: NextRequest) {
        exact end date, renewal price and how to cancel, pulled live from the
        subscription. See sendPurchaseConfirmationEmail. */
     ...(plan === 'annual' ? { subscription_data: { trial_period_days: 7 } } : {}),
-    success_url: `https://app.faithfulkids.app/activate?session_id={CHECKOUT_SESSION_ID}`,
+    /* Buyers land on OUR domain first (faithfulkids.app/success), which fires
+       purchase_complete under the same browser distinct_id that did the quiz
+       and gives Google Ads a faithfulkids.app conversion URL, then forwards to
+       the app's /activate. The bible-kids (native) checkout route is separate
+       and unchanged. */
+    success_url: `https://faithfulkids.app/success?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/checkout`,
   })
 

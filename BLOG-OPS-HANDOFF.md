@@ -568,6 +568,38 @@ articles. Build window: late Oct–Nov. Christmas-bible-trivia head term
 absent top-30 but long-tails rank (pos 2.5–4.8) and it has 115 in-links —
 watch, don't touch.
 
+**Oct 18 — homepage FAQ screen-time claim removed** (Cas-approved via
+commander session). "Set daily limits… the app gently pauses" was false —
+`daily_episode_limit` is saved by the parent dashboard but no playback
+surface reads it. Replaced with a true answer (two-minute lessons ending in
+quiz+reflection; device Screen Time/Family Link for hard limits); the same
+array feeds the FAQPage JSON-LD so the schema claim died too. Commit
+c803682, live-verified. Open with Cas: the /parent dashboard still shows
+the dead limit/auto-play toggles (app repo, his call).
+
+**Oct 29 — /bible-jeopardy shipped (commit 46658ae) + market sweep.**
+28d totals **10,474 clicks / 305,227 imps** (45% of clicks non-US, all
+English-speaking — multicountry-English is already won; translation gated
+on the product speaking the language, parked). Demand sweep across 15
+untapped clusters found **"bible jeopardy": 3,600 ads / 2,548 clickstream,
+KD 0, flat year-round**, SERP = jeopardylabs user templates + YouTube, and
+we had zero jeopardy content → built the playable artifact: 6-category
+$100–$500 board (30 clues resolved from lib/trivia-game-questions.ts by
+exact text — build throws on drift), up to 4 rotating teams, no negative
+scores, no auto-advance, verse on every reveal; crawlable Q&A list under
+the game; exact-match absolute title; Quiz schema; sitemap; listed in the
+/bible-trivia directory; **97 links at birth** via link-bible-jeopardy.py.
+All checkers CLEAN, deploy SHA-pinned, live-verified, IndexNow 200.
+Second verified find, NOT yet built: **/printables/books-of-the-bible**
+(chart + flashcards + bookmarks) — "books of the bible printable" 1,000
+ads / 402 clickstream KD 0, soft Pinterest/Etsy SERP, and GSC already
+shows "66 books of the bible coloring pages pdf" at pos 11 with 61 imps
+and no page to land on. Strike-distance well is nearly dry (6 queries;
+"bible trivia" head at pos 10.5 is an authority fight, not content).
+**Oct 28 Christmas checkpoint:** still absent top-30 on both christmas
+word search terms, page has 0 GSC imps — decision point ~Nov 3, fallback
+is pushing the softer "christmas bible word search"/nativity variants.
+
 ---
 
 ## 6. CURRENT MEASURED STATE (Aug 27; re-verify monthly with gsc-query.py)

@@ -84,6 +84,8 @@ Luke is the longest of the four gospels by word count, and it's volume one of a 
 
 A related freebie: our [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep), drawn as clean line art for crayons and markers.
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Hard Luke Trivia Questions (Teens and Adults)
 
 31. What second New Testament book did Luke write as a sequel to his gospel? **Acts** (Acts 1:1)

@@ -89,6 +89,8 @@ The safety rules that matter: never dunk or hold anyone under, never use ice wat
 ### 21. Sprinkler Freeze Tag
 **Group: 12-50. Space: a lawn with sprinklers or a hose. Materials: a sprinkler. Prep: 5 minutes.** Freeze tag where the only way to be unfrozen is for a teammate to lead you through the sprinkler. Simple, soaking, and it requires no balloons, no cleanup, and almost no explanation.
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## What Games Work for Camp, Retreats, and VBS?
 
 Camp and retreat games should run long, involve every cabin or team, and produce a running score -- because a multi-day event needs a story, not just activities. These four are built for that.

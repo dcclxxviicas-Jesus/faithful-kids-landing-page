@@ -82,6 +82,8 @@ The Gospel is formally anonymous, but early church tradition attributes it to Ma
 
 30. Peter asked if he should forgive someone seven times. What did Jesus say? **Not seven times, but seventy-seven times** (Matthew 18:21-22)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Matthew Trivia Questions (Teens and Adults)
 
 31. How does the book of Matthew begin? **With a genealogy of Jesus, traced from Abraham through King David** (Matthew 1:1-2)

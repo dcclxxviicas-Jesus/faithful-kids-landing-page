@@ -265,6 +265,8 @@ A) With the ascension  B) With the Great Commission to make disciples of all nat
 
 **Answer: B) With the Great Commission to make disciples of all nations** (Matthew 28:19)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## People of the Bible Multiple-Choice Questions (41-60)
 
 **41. Who was Abraham's nephew?**

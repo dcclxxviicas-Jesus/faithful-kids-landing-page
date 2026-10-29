@@ -62,6 +62,8 @@ Once you know Peter's story, the letter is full of echoes of his own life -- and
 
 We built a [Noah's Ark word search](/printables/bible-word-search/noahs-ark) around this story — free, no sign-up, on screen or on paper.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard 1 Peter Trivia Questions (Teens and Adults)
 
 19. Instead of repaying evil with evil or insult with insult, what should we repay with? **Blessing** (1 Peter 3:9)

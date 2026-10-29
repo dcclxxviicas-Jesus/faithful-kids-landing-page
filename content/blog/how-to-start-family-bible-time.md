@@ -203,6 +203,8 @@ Use this plan to begin tonight. Each day includes a story, a key verse, three di
 
 Homeschooling? Our [free homeschool Bible curriculum page](/homeschool) shows how families use the video lessons as an open-and-go Bible block.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## What Comes After the First Week
 
 Once you have completed the 7-day plan, you have several options:

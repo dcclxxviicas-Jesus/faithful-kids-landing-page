@@ -47,6 +47,8 @@ The name means "second law" (from the Greek), because Moses restates the covenan
 
 Older kids who find coloring dull usually take to the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) instead — it plays in the browser or prints on one sheet.
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Deuteronomy Trivia Questions (Teens and Adults)
 
 22. How many chapters does Deuteronomy have? **Thirty-four**

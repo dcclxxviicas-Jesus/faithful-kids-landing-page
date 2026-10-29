@@ -70,6 +70,8 @@ Here's the plain truth about the author: nobody knows who wrote Hebrews. The let
 
 24. What does Hebrews tell believers not to give up doing, "as some are in the habit of doing"? **Meeting together** (Hebrews 10:25)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Hard Hebrews Trivia Questions (Teens and Adults)
 
 25. "Without ___ it is impossible to please God." **Faith** (Hebrews 11:6)

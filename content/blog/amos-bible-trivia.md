@@ -41,6 +41,8 @@ His core demand is the book's famous line: "Let justice roll on like a river, ri
 
 For a quieter follow-up, try the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) — twelve hidden words, answer key included.
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Hard Amos Trivia Questions (Teens and Adults)
 
 16. Amos prayed and God relented after which two judgment visions? **The locust swarm and the fire** (Amos 7:1-6)

@@ -98,6 +98,8 @@ Level 2 games ask each teen for a single piece of real information -- an opinion
 ### 24. Draw Your Week
 **Group: 8-40. Space: tables. Materials: paper, pencils. Prep: 2 minutes.** Four boxes, four drawings, no words, no stick-figure shame allowed. Then partners guess each other's week. Bad art is the point and it puts everyone at the same level instantly.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Level 3: High-Energy Icebreakers (Once the Room Is Warm)
 
 High-energy icebreakers work only after teens are comfortable, because they require teens to be visibly bad at something in front of a crowd. Run these third, not first.

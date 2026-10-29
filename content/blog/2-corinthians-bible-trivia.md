@@ -44,6 +44,8 @@ The letter's big idea is that God's power shows up best in human weakness -- "wh
 
 For a quieter follow-up, try the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) — twelve hidden words, answer key included.
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard 2 Corinthians Trivia Questions (Teens and Adults)
 
 19. Paul describes being "caught up" in a vision -- to where? **The third heaven, also called paradise** (2 Corinthians 12:2-4)

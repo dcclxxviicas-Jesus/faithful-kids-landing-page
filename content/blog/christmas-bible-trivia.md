@@ -77,6 +77,8 @@ Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard Round (Questions 41-60)
 
 This is where the Bible starts correcting the Christmas card. Have the verses ready.

@@ -45,6 +45,8 @@ The book gets its name from the two censuses that frame it -- the exodus generat
 20. When venomous snakes bit the people, what saved anyone who was bitten? **Looking at the bronze snake Moses lifted up on a pole** (Numbers 21:8-9)
 21. Who hired Balaam to put a curse on Israel? **Balak, the king of Moab** (Numbers 22:2-6)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Numbers Trivia Questions (Teens and Adults)
 
 22. How many fighting men were counted in the first census? **603,550** (Numbers 1:46)

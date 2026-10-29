@@ -38,6 +38,8 @@ The heart of the book is Joel 2:13 -- "Rend your heart and not your garments" --
 13. What great and dreadful "day" is the book's central theme? **The day of the LORD** (Joel 1:15; 2:1, 31)
 14. What instrument is blown in Zion to sound the alarm? **A trumpet** (Joel 2:1, 15)
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard Joel Trivia Questions (Teens and Adults)
 
 15. According to Joel 2:28, what will old men and young men experience? **Old men will dream dreams, and young men will see visions** (Joel 2:28)

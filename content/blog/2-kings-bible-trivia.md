@@ -49,6 +49,8 @@ The first half belongs to the prophet Elisha, who asked for a double portion of 
 
 Add five quiet minutes with the free [Daniel word search](/printables/bible-word-search/daniel); it prints one to a sheet with the key on the page.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard 2 Kings Trivia Questions (Teens and Adults)
 
 24. Which king was famous for driving his chariot "like a maniac"? **Jehu** (2 Kings 9:20)

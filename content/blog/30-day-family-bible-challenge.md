@@ -204,6 +204,8 @@ Beaten and chained in a dungeon, Paul and Silas sing hymns at midnight. An earth
 
 For homeschool families, our [free homeschool Bible curriculum page](/homeschool) covers what a day looks like and what it costs.
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## You Did It. Now What?
 
 Thirty days. Thirty stories. One connected narrative from Creation to the New Creation.

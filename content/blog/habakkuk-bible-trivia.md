@@ -40,6 +40,8 @@ It also matters for parenting: Habakkuk gives kids biblical permission to bring 
 
 7. Even if the fig tree doesn't bud and the fields grow no food, what does Habakkuk say he will still do? **Rejoice in the LORD** (Habakkuk 3:17-18)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Medium Habakkuk Trivia Questions (Ages 9-12)
 
 8. What was Habakkuk's first complaint about? **Violence and injustice in Judah going unpunished** (Habakkuk 1:2-4)

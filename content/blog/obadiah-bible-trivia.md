@@ -40,6 +40,8 @@ One more detail kids find fascinating: those "clefts of the rocks" (the Hebrew w
 
 6. Whose kingdom does the very last verse of Obadiah say it will be in the end? **The LORD's** (Obadiah 1:21)
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Medium Obadiah Trivia Questions (Ages 9-12)
 
 7. What sin does Obadiah say deceived the Edomites? **The pride of their heart** (Obadiah 1:3)

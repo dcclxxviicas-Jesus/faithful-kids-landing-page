@@ -47,6 +47,8 @@ The book's most famous scene is the valley of dry bones (Ezekiel 37), where a fi
 22. What enemy "from the far north" does God defeat in chapters 38-39? **Gog, of the land of Magog** (Ezekiel 38:2)
 23. In Ezekiel's final vision, what flowed out from under the temple? **A river that kept getting deeper** (Ezekiel 47:1-5)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Ezekiel Trivia Questions (Teens and Adults)
 
 24. What is the name of the city in the very last verse of the book? **"THE LORD IS THERE"** (Ezekiel 48:35)

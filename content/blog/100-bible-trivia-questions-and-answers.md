@@ -112,6 +112,8 @@ Now the adults have to pay attention. This tier draws on the details most people
 84. What was Paul's name before he was known as Paul? **Saul** (Acts 13:9)
 85. On the road to which city did Saul see the blinding light? **Damascus** (Acts 9:3)
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Expert Bible Trivia Questions (86-100)
 
 The final fifteen. Anyone who sweeps this round has earned bragging rights until next year.

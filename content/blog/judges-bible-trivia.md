@@ -45,6 +45,8 @@ The whole book runs on one repeating cycle: Israel forgets God, an enemy conquer
 20. How did God choose which 300 men Gideon would keep? **He kept the ones who lapped water from their hands, and sent home the ones who knelt down to drink** (Judges 7:5-7)
 21. What animals did Samson tie torches to so they would burn the Philistines' grain fields? **Three hundred foxes, tied tail to tail** (Judges 15:4-5)
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard Judges Trivia Questions (Teens and Adults)
 
 22. What new name did Gideon receive after tearing down his father's altar to Baal? **Jerubbaal -- "let Baal contend with him"** (Judges 6:31-32)

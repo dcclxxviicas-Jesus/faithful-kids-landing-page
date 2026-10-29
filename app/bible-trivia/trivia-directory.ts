@@ -19,6 +19,7 @@ export const BY_AGE: TriviaLink[] = [
 ]
 
 export const BY_FORMAT: TriviaLink[] = [
+  { title: 'Bible Jeopardy', href: '/bible-jeopardy', note: 'A playable 6-category board with team scoring — host it on a TV like a game show' },
   { title: '100 Bible Trivia Questions and Answers', href: '/blog/100-bible-trivia-questions-and-answers', note: 'The master list, Genesis to Revelation, in four difficulty tiers' },
   { title: 'Easy Bible Trivia Questions', href: '/blog/easy-bible-trivia-questions', note: 'One-word answers for the youngest players' },
   { title: 'Multiple Choice Bible Trivia', href: '/blog/bible-trivia-multiple-choice', note: 'Pick-from-four format that keeps shy kids playing' },

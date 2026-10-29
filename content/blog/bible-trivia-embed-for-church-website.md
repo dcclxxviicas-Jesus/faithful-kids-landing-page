@@ -92,6 +92,8 @@ Swap the `src` in the snippet above for one of these and change the `id` to matc
 
 Browse the full list of trivia sets, one per Bible book and holiday, on our [Bible trivia for kids](/blog/bible-trivia-for-kids) page. Each one that has a playable game shows the embed code under the game.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Printable version instead?
 
 If you want paper rather than a screen, the same questions are available as a [free Bible trivia PDF](/blog/bible-trivia-for-kids) with answer keys, and there are [printable Bible word searches](/printables/bible-word-search) for younger kids. No sign-up for any of them.

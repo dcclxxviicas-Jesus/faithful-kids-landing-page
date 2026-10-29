@@ -69,6 +69,8 @@ These questions reward kids who really know the text -- prophecies, exact words,
 
 For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages) — print as many as your class needs.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## How Do You Run an Easter Trivia Game for Kids?
 
 Match the tier to the kid, keep score loosely, and let wrong answers become mini-conversations -- that's the whole method. A few formats that work:

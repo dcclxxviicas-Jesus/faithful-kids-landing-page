@@ -82,6 +82,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      url: `${baseUrl}/bible-jeopardy`,
+      lastModified: new Date('2026-10-29'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/bible-trivia`,
       lastModified: new Date('2026-08-16'),
       changeFrequency: 'monthly',

@@ -80,6 +80,8 @@ Records, one-verse characters, and the corners of Scripture that only get visite
 
 For a quieter follow-up, try the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) — twelve hidden words, answer key included.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## How to Run Bible Trivia for a Group of Adults
 
 The format that works for adult groups is rounds with rising stakes: everyone plays the warm-up individually on paper (that round is designed to produce wrong answers and laughter in equal measure), then combine into teams of three or four for the hard and expert rounds, with the expert round worth double. Reading the verse reference aloud after each answer is not optional filler — with adults, the "wait, it really says that?" moment after a warm-up miss is the whole point of the evening, and it is what turns a quiz into a Bible study without anyone announcing that it has.

@@ -42,6 +42,8 @@ The chapter-4 details make it feel like a real goodbye. Paul asks Timothy to hur
 
 Older kids who find coloring dull usually take to the free [Moses word search](/printables/bible-word-search/moses) instead — it plays in the browser or prints on one sheet.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Medium 2 Timothy Trivia Questions (Ages 9-12)
 
 8. Paul said everyone in the province of Asia deserted him -- which two men did he name? **Phygelus and Hermogenes** (2 Timothy 1:15)

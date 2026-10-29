@@ -39,6 +39,8 @@ It's set in Jerusalem at the height of Israel's wealth, which is what makes the 
 14. "Whatever your hand finds to do, do it with all your ___." **Might** (Ecclesiastes 9:10)
 15. What is the Teacher's final conclusion at the very end of the book? **Fear God and keep his commandments** (Ecclesiastes 12:13)
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard Ecclesiastes Trivia Questions (Teens and Adults)
 
 16. In chapter 2, name two of the big projects the Teacher built while searching for meaning. **Houses, vineyards, gardens, parks, and reservoirs** (Ecclesiastes 2:4-6)

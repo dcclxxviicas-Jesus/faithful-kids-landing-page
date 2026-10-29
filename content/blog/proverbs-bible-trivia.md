@@ -51,6 +51,8 @@ Its theme verse sits right at the front: "The fear of the LORD is the beginning 
 26. Proverbs 18:24 says there is a friend who sticks closer than a what? **A brother** (Proverbs 18:24)
 27. What animal is made ready for the day of battle, though victory rests with the LORD? **The horse** (Proverbs 21:31)
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard Proverbs Trivia Questions (Teens and Adults)
 
 28. Proverbs 6 lists things the LORD hates. How many? **Six -- seven that are detestable to him** (Proverbs 6:16-19)

@@ -40,6 +40,8 @@ Both readings are old, and both make sense of the letter -- so it's a great one 
 
 There is a free [Daniel word search](/printables/bible-word-search/daniel) to go with this, playable on a phone and printable for a class.
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Medium 2 John Trivia Questions (Ages 9-12)
 
 7. According to verse 6, what is love? **Walking in obedience to God's commands** (2 John 6)

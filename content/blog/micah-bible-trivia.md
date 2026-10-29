@@ -42,6 +42,8 @@ The other verse every family should know is Micah 6:8: "Act justly, love mercy, 
 
 8. Was Micah's message good news, bad news, or both? **Both -- judgment for sin, then hope and rescue** (Micah 1-7)
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Medium Micah Trivia Questions (Ages 9-12)
 
 9. What town was Micah from? **Moresheth** (Micah 1:1)

@@ -46,6 +46,8 @@ The story unfolds in three movements: entering the land (chapters 1-5, including
 21. What jobs did the Gibeonites end up doing for Israel? **Woodcutters and water carriers** (Joshua 9:27)
 22. What amazing thing happened in the sky during the battle at Gibeon? **The sun stood still and the moon stopped until Israel won** (Joshua 10:12-13)
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard Joshua Trivia Questions (Teens and Adults)
 
 23. In that same battle, what killed more of the enemy than Israel's swords did? **Huge hailstones the LORD hurled down from the sky** (Joshua 10:11)

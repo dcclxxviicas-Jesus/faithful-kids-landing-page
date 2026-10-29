@@ -49,6 +49,8 @@ The letter builds like a staircase: the problem of sin (chapters 1-3), the answe
 24. Whose feet does Romans call "beautiful"? **Those who bring good news** (Romans 10:15)
 25. What kind of tree pictures Gentile believers being grafted into God's people? **An olive tree** (Romans 11:17)
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard Romans Trivia Questions (Teens and Adults)
 
 26. Paul spoke the letter aloud -- who actually wrote Romans down, and even adds his own hello? **Tertius** (Romans 16:22)

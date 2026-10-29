@@ -60,6 +60,8 @@ Here's a detail worth sharing with older kids: James sounds more like Jesus' own
 
 18. Which two Old Testament people does James name as examples of faith proven by action? **Abraham and Rahab** (James 2:21-25)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Hard James Trivia Questions (Teens and Adults)
 
 19. James uses three small things to picture the tongue's power -- name two. **A bit in a horse's mouth, a ship's rudder, and a small spark that sets a forest on fire (any two)** (James 3:3-6)

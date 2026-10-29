@@ -124,6 +124,8 @@ Each runner builds a 4-3-2-1 pyramid, collapses it back into one stack, and runs
 **Group: 12-25 | Space: a room with two ends | Ceiling: any | Furniture: two tables or floor space | Materials: index cards | Prep: 5 min**
 Write a memory verse one word per card, shuffle, and split into two identical sets at the far wall. Runners retrieve one card per trip and the team assembles the verse in order. **Faith tie-in:** use whatever you're memorizing. Psalm 119:105 and Romans 12:2 are the right length for a fast round.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## How Do You Run a Game in a Room That's Too Small?
 
 Change what students do with their bodies rather than what the game is: swap running for passing, standing for seated, and throwing for handing. Chair Basketball is regular basketball with the running removed, and it works on carpet in a classroom because the constraint became a rule instead of a problem.

@@ -81,6 +81,8 @@ Easy is the point here. Nothing below requires knowing an obscure name, an exact
 
 For a quieter follow-up, try the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) — twelve hidden words, answer key included.
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## The Life and Miracles of Jesus (Questions 59-78)
 
 59. How many days was Jesus tempted in the wilderness? **Forty** (Matthew 4:2)

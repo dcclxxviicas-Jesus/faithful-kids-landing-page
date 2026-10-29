@@ -47,6 +47,8 @@ This round starts with the founding of the church itself -- a midnight jailbreak
 18. Which messenger from Philippi got so sick he almost died serving Paul? **Epaphroditus** (Philippians 2:25-27)
 19. Whom did Paul hope to send to Philippi soon, a helper "like a son with his father"? **Timothy** (Philippians 2:19-22)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Philippians Trivia Questions (Teens and Adults)
 
 Chapter 3 is Paul's resume -- and the round where he throws the whole thing away.

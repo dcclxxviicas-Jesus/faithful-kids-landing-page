@@ -154,6 +154,8 @@ Welcome to the hardest Bible trivia on this list that still counts as fair. One-
 124. Name Jesus' four brothers. **James, Joseph, Simon, and Judas** (Matthew 13:55)
 125. When Jesus fed the 4,000, how many loaves did he start with and how many basketfuls were left over? **Seven loaves, and seven basketfuls left over** (Matthew 15:34-37)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Tier 4: Nearly Impossible -- Extremely Hard Bible Trivia (Questions 126-150)
 
 Extremely hard Bible trivia: if anyone in the room answers more than five of these cold, hand them the crown and go home.

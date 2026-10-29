@@ -51,6 +51,8 @@ The story runs from about 1100 to 1010 BC, ending with Saul's death at Mount Gil
 
 For quiet time afterwards, print the free [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath) and let them color while you talk it through.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard 1 Samuel Trivia Questions (Teens and Adults)
 
 26. Finish God's words to Samuel: "People look at the outward appearance, but the LORD looks at..." **"the heart"** (1 Samuel 16:7)

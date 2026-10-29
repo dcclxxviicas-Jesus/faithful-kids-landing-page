@@ -44,6 +44,8 @@ The letter's big idea comes in one line: "It is for freedom that Christ has set 
 
 Older kids who find coloring dull usually take to the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) instead — it plays in the browser or prints on one sheet.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard Galatians Trivia Questions (Teens and Adults)
 
 19. Right after his conversion, where did Paul go instead of Jerusalem? **Arabia** (Galatians 1:17)

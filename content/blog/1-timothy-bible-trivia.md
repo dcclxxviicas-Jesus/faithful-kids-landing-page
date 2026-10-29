@@ -44,6 +44,8 @@ Timothy was young, timid by reputation, and often sick (1 Timothy 5:23), yet Pau
 
 Older kids who find coloring dull usually take to the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) instead — it plays in the browser or prints on one sheet.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard 1 Timothy Trivia Questions (Teens and Adults)
 
 19. Name three qualifications for an overseer from 1 Timothy 3. **Above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, not given to drunkenness, gentle, not quarrelsome, not a lover of money** (1 Timothy 3:2-3)

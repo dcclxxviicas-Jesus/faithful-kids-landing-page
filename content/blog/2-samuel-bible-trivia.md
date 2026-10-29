@@ -48,6 +48,8 @@ The hinge of the whole book is God's covenant in chapter 7: David wants to build
 
 Older kids who find coloring dull usually take to the free [Daniel word search](/printables/bible-word-search/daniel) instead — it plays in the browser or prints on one sheet.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard 2 Samuel Trivia Questions (Teens and Adults)
 
 23. Who killed Absalom as he hung in the tree, and with what? **Joab, who plunged three javelins into him** (2 Samuel 18:14)

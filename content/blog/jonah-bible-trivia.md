@@ -46,6 +46,8 @@ It's also one of the few Old Testament books Jesus talked about directly. He cal
 
 10. How did Jonah get out of the fish? **The fish vomited him onto dry land** (Jonah 2:10)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Medium Jonah Trivia Questions (Ages 9-12)
 
 11. Was Jonah swallowed by a whale? **Trick question -- the Bible says "a huge fish," and never calls it a whale** (Jonah 1:17)

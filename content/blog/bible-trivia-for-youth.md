@@ -112,6 +112,8 @@ Add five quiet minutes with the free [Fruit of the Spirit word search](/printabl
 
 For pure energy-burners, see these [30 fun youth group games](/blog/fun-youth-group-games), sorted by how much laughter they produce.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard Youth Bible Trivia Questions (71-100)
 
 Save these for the tiebreaker round, the "double or nothing" cards, or the student who has been correcting you all night. Most groups get four or five of these on a good night.

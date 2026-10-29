@@ -38,6 +38,8 @@ Titus was also Paul's go-to fixer for hard assignments. Paul sent him to Corinth
 
 6. What did Paul say our people must learn to devote themselves to? **Doing what is good** (Titus 3:14)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Medium Titus Trivia Questions (Ages 9-12)
 
 7. What two jobs did Paul leave Titus in Crete to do? **Put in order what was left unfinished and appoint elders in every town** (Titus 1:5)

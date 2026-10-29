@@ -51,6 +51,8 @@ He's nicknamed "the weeping prophet" because he grieved openly over his people (
 26. What did Jeremiah buy during the siege of Jerusalem as a sign of hope? **A field at Anathoth** -- proof that fields would one day be bought again (Jeremiah 32:9, 15)
 27. Which Babylonian king finally conquered Jerusalem? **Nebuchadnezzar** (Jeremiah 39:1)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Jeremiah Trivia Questions (Teens and Adults)
 
 28. Jeremiah 1:2-3 names three kings of Judah under whom he prophesied. Who were they? **Josiah, Jehoiakim, and Zedekiah** (Jeremiah 1:2-3)

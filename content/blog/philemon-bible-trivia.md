@@ -40,6 +40,8 @@ That's also what makes the letter such a vivid picture of what Jesus does for us
 
 6. Paul asked Philemon to take Onesimus back no longer as a slave, but as a what? **A dear brother** (Philemon 1:16)
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Medium Philemon Trivia Questions (Ages 9-12)
 
 7. What does the name Onesimus mean? **"Useful"** (see the wordplay in Philemon 1:11)

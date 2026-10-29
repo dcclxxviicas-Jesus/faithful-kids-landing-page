@@ -139,6 +139,8 @@ Where Sword Drill tests book order under pressure, this game teaches it hands-on
 
 In spring, add a quiet station with our free [Easter coloring pages](/printables/easter-coloring-pages) — five printable scenes walking Holy Week.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## What Bible Games Work in Sunday School or Groups?
 
 Group settings need games that scale to a dozen kids and survive a wide age spread. (For a classroom-specific list, see our [Sunday school games for kids](/blog/sunday-school-games-for-kids).)

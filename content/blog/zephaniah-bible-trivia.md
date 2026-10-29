@@ -40,6 +40,8 @@ One timeline fact makes great bonus trivia: Zephaniah preached in the same gener
 
 6. Does the book of Zephaniah end with sadness or with joy? **Joy -- singing, celebration, and God bringing his people home** (Zephaniah 3:14-20)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Medium Zephaniah Trivia Questions (Ages 9-12)
 
 7. What does Zephaniah's name mean? **"The LORD hides" or "the LORD protects"**

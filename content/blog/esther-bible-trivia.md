@@ -64,6 +64,8 @@ A timeline anchor helps before you start: Esther takes place between Ezra chapte
 
 20. What Jewish holiday celebrates the events of the book of Esther? **Purim, named after the "pur" (the lot) Haman cast** (Esther 9:24-26)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Hard Esther Trivia Questions (Teens and Adults)
 
 21. Over how many provinces did King Xerxes rule, and from where to where? **127 provinces, stretching from India to Cush** (Esther 1:1)

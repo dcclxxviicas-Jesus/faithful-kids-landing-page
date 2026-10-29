@@ -48,6 +48,8 @@ This round adds the backstory from Acts 17 -- a church born in a riot and checke
 
 Older kids who find coloring dull usually take to the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) instead — it plays in the browser or prints on one sheet.
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard 1 Thessalonians Trivia Questions (Teens and Adults)
 
 The expert round -- watch for question 24, a pattern hiding in plain sight that most lifelong readers have never noticed.

@@ -50,6 +50,8 @@ The letter's heartbeat is chapter 13 -- the "love chapter" read at countless wed
 
 There is a free [Noah's Ark word search](/printables/bible-word-search/noahs-ark) to go with this, playable on a phone and printable for a class.
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard 1 Corinthians Trivia Questions (Teens and Adults)
 
 25. Who is named alongside Paul as a sender of the letter? **Sosthenes** (1 Corinthians 1:1)

@@ -71,6 +71,8 @@ For a quieter moment, our free printable [Christmas word search](/printables/bib
 
 For pure energy-burners, see these [30 fun youth group games](/blog/fun-youth-group-games), sorted by how much laughter they produce.
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## What Sunday School Games Work for Preteens (Ages 11-13)?
 
 Preteens need competition, choice, or an opinion to defend -- otherwise they will sit out on purpose. Anything that feels babyish gets rejected in about eight seconds, so raise the difficulty rather than the silliness.

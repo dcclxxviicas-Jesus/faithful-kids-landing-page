@@ -72,6 +72,8 @@ The book has two halves: chapters 1-9 are family trees (the longest genealogy in
 
 We built a [Noah's Ark word search](/printables/bible-word-search/noahs-ark) around this story — free, no sign-up, on screen or on paper.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Hard 1 Chronicles Trivia Questions (Teens and Adults)
 
 25. Who prayed, "Oh, that you would bless me and enlarge my territory!" -- a two-verse prayer hidden in the genealogies? **Jabez** (1 Chronicles 4:9-10)

@@ -70,6 +70,8 @@ Everyone should bank points here. These are quiz questions from Bible stories ne
 
 We built a [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) around this story — free, no sign-up, on screen or on paper.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Round 4: People and Places (Questions 46-60)
 
 46. Who was the father of the twelve tribes of Israel? **Jacob** (Genesis 35:22-26)

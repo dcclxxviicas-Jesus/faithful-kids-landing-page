@@ -42,6 +42,8 @@ That's why Zechariah's most famous line lands the way it does. To a tiny provinc
 
 8. Did Zechariah's eight visions come to him during the day or during the night? **During the night** (Zechariah 1:8)
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Medium Zechariah Trivia Questions (Ages 9-12)
 
 9. Who were Zechariah's father and grandfather? **Berekiah his father and Iddo his grandfather** (Zechariah 1:1)

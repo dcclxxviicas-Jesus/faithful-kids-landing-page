@@ -50,6 +50,8 @@ For young kids, three scenes carry the whole book: Jesus among the lampstands sa
 
 12. Which tree from the Garden of Eden appears again at the very end of the Bible? **The tree of life** (Revelation 22:2)
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Medium Revelation Trivia Questions (Ages 9-12)
 
 13. Which church does Jesus call "lukewarm -- neither hot nor cold"? **Laodicea** (Revelation 3:15-16)

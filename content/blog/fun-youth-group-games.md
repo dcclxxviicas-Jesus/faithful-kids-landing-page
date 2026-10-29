@@ -177,3 +177,5 @@ Two or three, totaling 15 to 25 minutes. One loud game to shake off the school d
 
 ### Are funny games a waste of youth group time?
 No -- shared laughter is one of the fastest ways a group of teenagers becomes safe enough to say something honest. A student who has laughed with a leader on Wednesday is dramatically more likely to text that leader on a bad Thursday. Keep the games short and tie the night to Scripture somewhere, and the laughter is doing ministry work, not replacing it.
+
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.

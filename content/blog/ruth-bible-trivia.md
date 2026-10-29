@@ -39,6 +39,8 @@ It matters far beyond its size. Ruth is a quiet story -- no plagues, no battles,
 14. What secret kindness did Boaz order his harvesters to do for Ruth? **Pull out stalks from the bundles on purpose and leave them for her to pick up** (Ruth 2:15-16)
 15. What was Boaz to Naomi's family, which explains why he could help them? **A close relative -- one of their guardian-redeemers (kinsman-redeemers)** (Ruth 2:20)
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard Ruth Trivia Questions (Teens and Adults)
 
 16. What did Ruth ask Boaz to do at the threshing floor, and what did it mean? **"Spread the corner of your garment over me" -- a request that he redeem and marry her** (Ruth 3:9)

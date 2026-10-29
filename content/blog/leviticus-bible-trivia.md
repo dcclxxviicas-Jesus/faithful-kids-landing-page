@@ -44,6 +44,8 @@ The book is named for the tribe of Levi, Israel's priestly tribe, and it reads l
 19. What offering could a poor mother bring after her baby's birth -- the same offering Mary brought for baby Jesus? **Two doves or two young pigeons** (Leviticus 12:8; Luke 2:24)
 20. How were the Israelites told to treat foreigners living among them? **Love them as yourself, because you were foreigners in Egypt** (Leviticus 19:34)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Leviticus Trivia Questions (Teens and Adults)
 
 21. Name the seven appointed festivals listed in Leviticus 23. **Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, Day of Atonement, and Tabernacles** (Leviticus 23)

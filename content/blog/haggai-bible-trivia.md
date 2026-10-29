@@ -38,6 +38,8 @@ Then, in 520 BC, Haggai started preaching -- and something almost unheard of in 
 
 6. Which king was ruling the empire when Haggai preached? **King Darius of Persia** (Haggai 1:1)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Medium Haggai Trivia Questions (Ages 9-12)
 
 7. Haggai said the people earned wages only to put them where? **In a purse with holes in it** (Haggai 1:6)

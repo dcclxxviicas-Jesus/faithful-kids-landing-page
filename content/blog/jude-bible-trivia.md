@@ -38,6 +38,8 @@ Enoch himself is a genuine Genesis mystery kids love: "Enoch walked faithfully w
 
 6. Who is able "to keep you from stumbling"? **God our Savior -- through Jesus Christ our Lord** (Jude 24-25)
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## Medium Jude Trivia Questions (Ages 9-12)
 
 7. What did Jude originally want to write about? **"The salvation we share"** (Jude 3)

@@ -72,6 +72,8 @@ If small hands need something to do while you read, the free [Good Samaritan col
 
 When you just need the group laughing, these [fun and funny youth group games](/blog/fun-youth-group-games) come with exact rules and the materials you already own.
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## How Do You Write Good Review Questions?
 
 Write questions at three levels -- recall, understanding, and application -- and use all three in every game. A question list with only recall ("Who fought Goliath?") reviews names; adding the other two levels reviews meaning:

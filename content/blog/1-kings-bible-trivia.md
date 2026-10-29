@@ -49,6 +49,8 @@ The book pivots at chapter 11: Solomon, the wisest man alive, lets his heart be 
 
 For a quieter follow-up, try the free [Noah's Ark word search](/printables/bible-word-search/noahs-ark) — twelve hidden words, answer key included.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard 1 Kings Trivia Questions (Teens and Adults)
 
 24. Whose harsh answer split the kingdom -- and whose advice did he reject? **Rehoboam's; he rejected the elders' counsel and followed his young friends, promising to scourge Israel "with scorpions"** (1 Kings 12:8, 13-14)

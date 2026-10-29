@@ -55,6 +55,8 @@ John is also the most quoted Gospel, home to John 3:16 and "I am the way and the
 30. Who swung a sword in the garden and cut off a servant's ear? **Simon Peter** (John 18:10)
 31. What sound came right after Peter denied Jesus the third time? **A rooster crowed** (John 18:27)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Hard John Trivia Questions (Teens and Adults)
 
 32. What was the name of the servant who lost his ear -- a detail only John records? **Malchus** (John 18:10)

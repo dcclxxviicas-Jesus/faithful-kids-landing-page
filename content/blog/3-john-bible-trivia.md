@@ -40,6 +40,8 @@ That brevity hides this book's most famous trivia fact: 3 John is the only book 
 
 For a quieter follow-up, try the free [Moses word search](/printables/bible-word-search/moses) — twelve hidden words, answer key included.
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Medium 3 John Trivia Questions (Ages 9-12)
 
 7. What was Gaius praised for doing for traveling teachers -- even ones who were strangers? **Showing them faithful hospitality and sending them on their way "in a manner worthy of God"** (3 John 5-6)

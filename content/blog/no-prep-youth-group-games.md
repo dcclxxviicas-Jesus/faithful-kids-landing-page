@@ -86,6 +86,8 @@ If nothing above fits, scan the room for five categories of object and a game ex
 
 When you just need the group laughing, these [fun and funny youth group games](/blog/fun-youth-group-games) come with exact rules and the materials you already own.
 
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+
 ## How Do You Run a Last-Minute Game Night Without It Falling Apart?
 
 Pick three games in this order -- one loud, one clever, one team-based -- and explain each in under 45 seconds by demonstrating rather than describing. A no-prep night falls apart for exactly two reasons: rules that take longer than the game, and a game that leaves most of the room watching. Choose games where everyone is doing something at the same time and you can survive with zero planning.

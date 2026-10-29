@@ -145,6 +145,8 @@ For a quieter challenge between rounds, the [books of the Bible word search](/pr
 
 Running a holiday youth night? The [Thanksgiving](/holidays/thanksgiving) and [Christmas](/holidays/christmas) hubs collect all our seasonal trivia, verses, and activities.
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Questions 36-50: Bible Scholar Level
 
 **36. What is the only sin Jesus said will not be forgiven?**

@@ -78,6 +78,8 @@ The Gospel is formally anonymous, but early church tradition attributes it to Jo
 
 28. What did the poor widow put in the temple offering, and what did Jesus say about it? **Two very small copper coins -- and Jesus said she gave more than all the others, because she gave everything she had** (Mark 12:42-44)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Mark Trivia Questions (Teens and Adults)
 
 29. Whose preaching does early church tradition say Mark wrote down in this Gospel? **The apostle Peter's**

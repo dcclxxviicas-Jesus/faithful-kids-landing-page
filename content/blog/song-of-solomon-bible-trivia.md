@@ -39,6 +39,8 @@ It's set among the vineyards, gardens, and hills of ancient Israel, full of spri
 14. What can many waters NOT do to love? **Quench it** -- "rivers cannot sweep it away" (Song of Songs 8:7)
 15. The bride compares her beloved to what fruit tree standing out in the forest? **An apple tree** (Song of Songs 2:3)
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard Song of Solomon Trivia Questions (Teens and Adults)
 
 16. What warning is repeated three times to the daughters of Jerusalem? **"Do not arouse or awaken love until it so desires"** (Song of Songs 2:7; 3:5; 8:4)

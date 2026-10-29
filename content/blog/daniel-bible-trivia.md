@@ -49,6 +49,8 @@ The book's big idea is that God rules over every empire, and ordinary faithfulne
 
 Pair this with our free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) — one sheet, ready for the kitchen table or the classroom.
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Daniel Trivia Questions (Teens and Adults)
 
 24. What does the name Daniel mean in Hebrew? **"God is my judge"**

@@ -62,6 +62,8 @@ The story has two halves: chapters 1-7 cover the wall -- the prayer, the night i
 
 20. What did the people do when Ezra opened the Book of the Law? **They all stood up, and they listened from daybreak till noon** (Nehemiah 8:3, 5)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Hard Nehemiah Trivia Questions (Teens and Adults)
 
 21. In which Persian city, and in which year of the king's reign, does the book open? **Susa (the citadel), in the twentieth year of Artaxerxes** (Nehemiah 1:1; 2:1)

@@ -56,6 +56,8 @@ The storyline moves in two halves. Chapters 1-11 cover the big universal events:
 
 Pair this with our free [Creation coloring page](/printables/bible-coloring-pages/creation) — one sheet, ready for the kitchen table or the classroom.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard Genesis Trivia Questions (Teens and Adults)
 
 31. What were the measurements of Noah's ark? **300 cubits long, 50 cubits wide, and 30 cubits high** (Genesis 6:15)

@@ -52,6 +52,8 @@ Isaiah matters because no Old Testament prophet points to Jesus more often or mo
 27. "All we like sheep have gone ___." **Astray** -- "each of us has turned to our own way" (Isaiah 53:6)
 28. Which chapter of Isaiah did Jesus read aloud in the Nazareth synagogue? **Isaiah 61** -- "The Spirit of the Sovereign LORD is on me" (Luke 4:17-19)
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Hard Isaiah Trivia Questions (Teens and Adults)
 
 29. Which Persian king did Isaiah name roughly 150 years before he ruled? **Cyrus** (Isaiah 44:28; 45:1)

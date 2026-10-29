@@ -39,6 +39,8 @@ The answer comes in the exact center of the book. Tucked into chapter 3, surroun
 14. What does Lamentations 3:40 tell God's people to do? **Examine their ways, test them, and return to the LORD** (Lamentations 3:40)
 15. In about what year did Jerusalem fall to Babylon? **586 BC** (2 Kings 25:8-10)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Lamentations Trivia Questions (Teens and Adults)
 
 16. Which chapter breaks the pattern with 66 verses -- a triple acrostic running through the alphabet three times? **Chapter 3** (Lamentations 3)

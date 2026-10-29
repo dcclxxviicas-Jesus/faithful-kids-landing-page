@@ -64,6 +64,8 @@ One tip before you start: Ezra spans about eighty years and three Persian kings 
 
 20. In which king's reign did Ezra himself finally travel to Jerusalem? **Artaxerxes, who gave him a letter of support** (Ezra 7:1, 11-26)
 
+There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+
 ## Hard Ezra Trivia Questions (Teens and Adults)
 
 21. In whose reign, and in which year of it, was the temple finally completed? **The sixth year of King Darius** (Ezra 6:15)

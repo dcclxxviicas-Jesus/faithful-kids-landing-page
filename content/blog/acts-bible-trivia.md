@@ -56,6 +56,8 @@ The whole book follows the outline Jesus gives in Acts 1:8: "You will be my witn
 
 There is a free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) to go with this, playable on a phone and printable for a class.
 
+For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
+
 ## Hard Acts Trivia Questions (Teens and Adults)
 
 31. What altar inscription did Paul quote when preaching in Athens? **"TO AN UNKNOWN GOD"** (Acts 17:23)

@@ -137,6 +137,8 @@ Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-c
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+
 ## Hard Christmas Trivia (Ages 12+)
 
 This is the round where the Bible corrects the Christmas card. Read the verses -- several answers surprise almost everyone.

@@ -600,6 +600,32 @@ and no page to land on. Strike-distance well is nearly dry (6 queries;
 word search terms, page has 0 GSC imps — decision point ~Nov 3, fallback
 is pushing the softer "christmas bible word search"/nativity variants.
 
+**Oct 29 (later) — Cas said "ship everything"; three more ships same day.**
+(1) **/printables/books-of-the-bible** (8be4d41): 66-book chart with
+chapter counts + cut-out OT/NT bookmarks + real 2-page PDF on CDN
+(make-books-pdf.py, visually frame-checked); data module throws on canon
+drift; 94 links at birth (link-books-printable.py); FAQPage schema with
+the honest 66/73 canon answer. Targets "books of the bible printable"
+1,000/402 KD 0 + the pos-11 "66 books coloring pdf" query. (2)
+**Where-to-watch trio** (9a90439): bibleman (9,900 ads/5,300 clickstream
+KD 5 — the 31,600 note in CLAUDE.md was a cluster figure),
+whats-in-the-bible (1,000/352), owlegories (1,600/402). Every
+availability claim source-verified same day (official bibleman.com list:
+Minno/Yippee/RightNow/GLU + Pure Flix; WITB: Mr Phil TV + store prices;
+Owlegories: FREE on Roku Channel + Prime). Heroes/inlines generated,
+pins + manifest (556) done. **gpt-image-1 IS DEAD on the generations
+endpoint** — still listed in /v1/models but the API rejects it;
+generate-images-new-posts.py and the valentine/coloring generators now
+use gpt-image-1.5 (call-tested; the shared root script edit is
+UNCOMMITTED because the root tree holds another session's SCENES
+entries). (3) **/printables/valentine-bible-verse-cards** (ad40fb8) —
+the Feb gold-mine first leg, SHIPPED (was gated, Cas's "ship
+everything" green-lit it): 12 color-your-own line-art verse cards
+(4/sheet print CSS, To/From, cut lines), all 12 images CDN-verified +
+eyeballed, 41 links at birth. Mother's/Father's Day sets follow early
+spring. All four Oct 29 deploys SHA-pinned READY, live-verified,
+IndexNow 200 each.
+
 ---
 
 ## 6. CURRENT MEASURED STATE (Aug 27; re-verify monthly with gsc-query.py)

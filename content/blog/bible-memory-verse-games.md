@@ -42,6 +42,8 @@ Every game below hits at least two of the three. The 20 techniques in our guide 
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## 3. Motion Mapping
 
 **Group size:** Any, from a single toddler to a hundred kids in a gym.

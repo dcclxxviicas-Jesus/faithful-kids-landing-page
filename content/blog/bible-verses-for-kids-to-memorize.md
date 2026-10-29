@@ -209,6 +209,8 @@ Kids ages 9-12 are ready for verses that require real thought. They can understa
 
 We drew a printable [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## General Memory Tips for All Ages
 
 **Repetition is king.** Say it daily for a week, then review weekly for a month. After that, monthly review keeps it permanent. For a complete system, see these [memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids).

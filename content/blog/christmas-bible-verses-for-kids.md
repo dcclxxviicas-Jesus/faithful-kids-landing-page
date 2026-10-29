@@ -75,6 +75,8 @@ Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you
 
 Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## Part 3: The Birth -- Bethlehem Verses
 
 The journey, the full guest rooms, and the manger. For a read-aloud version of this whole section, see [the Christmas story for kids](/blog/the-christmas-story-for-kids).

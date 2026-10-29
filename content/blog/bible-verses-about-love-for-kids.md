@@ -36,6 +36,8 @@ Here are 15 of the most beautiful Bible verses about love, each with a simple ex
 
 We drew a printable [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## 4. Romans 8:38-39
 
 *"For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."*

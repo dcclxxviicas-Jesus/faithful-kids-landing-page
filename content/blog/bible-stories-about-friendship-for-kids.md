@@ -117,3 +117,5 @@ Barnabas and Saul. Everyone avoided Saul, and one person's welcome changed his l
 ### What age are these friendship stories appropriate for?
 
 Ages 5-12. Younger kids (5-7) connect fastest with the four friends on the roof and Ruth's "where you go I will go." Older kids (8-12) are ready for the complicated ones -- Jonathan choosing a friend over his father's wishes, and Paul and Barnabas disagreeing without becoming enemies.
+
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.

@@ -74,6 +74,8 @@ Jesus said this to his disciples -- and it means the child eating lunch alone is
 
 If small hands need something to do while you read, the free [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) is made for exactly that.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## What Bible Verses Help Kids Through Big Changes?
 
 For moves, new schools, new siblings, and family transitions, the anchor verse is Hebrews 13:8 -- when everything changes, Jesus doesn't. Kids crave stability, and these verses point to the one thing that holds still.

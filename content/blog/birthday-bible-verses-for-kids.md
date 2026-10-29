@@ -80,6 +80,8 @@ The perfect blessing over a growing child: God started something good in you, an
 
 Pair this with our free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) — one sheet, ready for the kitchen table or the classroom.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## What Verses Fit Milestone Birthdays?
 
 For milestone birthdays, choose a verse about growing -- Luke 2:52 for any age, 1 Timothy 4:12 for the teen years. These five map neatly onto the big ones.

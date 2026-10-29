@@ -63,6 +63,8 @@ Jesus shrinks the problem to one day. For a teen spiraling about college, career
 **13. Isaiah 41:10** -- "So do not fear, for I am with you; do not be dismayed, for I am your God."
 The comfort here isn't "nothing bad will happen." It's "you won't face it alone" -- which is what an anxious teen actually needs to hear.
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## What Verses Speak to a Teen's Purpose and Future?
 
 Purpose verses reassure a teen that their future is planned by someone who already knows how it turns out. "What are you going to do with your life?" is the question every teen dreads -- these verses lower the stakes.

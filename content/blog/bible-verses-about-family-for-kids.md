@@ -42,6 +42,8 @@ Here are 12 Bible verses about family that every child should hear, understand, 
 
 For quiet time afterwards, print the free [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) and let them color while you talk it through.
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## 4. Colossians 3:20
 
 *"Children, obey your parents in everything, for this pleases the Lord."*

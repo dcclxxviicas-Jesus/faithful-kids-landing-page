@@ -44,6 +44,8 @@ Here are 12 Bible verses about fear that can anchor your child's heart when worr
 
 There is a free [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) on our site too, printable on one sheet with no sign-up.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## 4. 2 Timothy 1:7
 
 *"For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."*

@@ -42,6 +42,8 @@ Kids hear this verse a lot, and for good reason. It's short, memorable, and powe
 
 **School morning idea:** Say this verse together in the car or at the front door. Make it a first-day tradition. "Ready? Let's say our verse. I can do all this through him who gives me strength. Now go be amazing."
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## 4. Proverbs 3:5-6
 
 **"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."**

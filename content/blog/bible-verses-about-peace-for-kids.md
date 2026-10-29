@@ -106,6 +106,8 @@ Have your child picture the scene as they drift off -- grass, stream, shepherd n
 
 A related freebie: our [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm), drawn as clean line art for crayons and markers.
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## What Verses Teach Kids to Make Peace With Others?
 
 Kids aren't just called to feel peace -- they're called to make it, starting with the sibling across the hall.

@@ -38,6 +38,8 @@ Pair this with our free [Good Shepherd coloring page](/printables/bible-coloring
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## 4. The Erase-a-Word Game
 
 This is a classic for a reason. It works because it gradually removes visual support while maintaining repetition, teaching the brain to fill in gaps from memory.

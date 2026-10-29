@@ -1,0 +1,68 @@
+/* Valentine verse cards: 2-up on screen, 4 per Letter sheet in print.
+   The art is line work on white so the printed card is a coloring card. */
+
+.vc-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px;
+}
+@media (max-width: 640px) {
+  .vc-grid { grid-template-columns: 1fr; }
+}
+
+.vc-card {
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 14px 14px 10px;
+  text-align: center;
+  background: #fff;
+  break-inside: avoid;
+}
+.vc-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 8px;
+}
+.vc-verse {
+  margin: 0 0 2px;
+  font-size: 1.06rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #111827;
+}
+.vc-ref {
+  margin: 0 0 10px;
+  font-size: 0.88rem;
+  color: #15803d;
+  font-weight: 700;
+}
+.vc-tofrom {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 0.85rem;
+  color: #4b5563;
+  margin-bottom: 6px;
+}
+.vc-credit {
+  margin: 0;
+  font-size: 0.62rem;
+  color: #9ca3af;
+}
+
+@media print {
+  .vc-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .vc-card {
+    border: 1px dashed #9ca3af; /* the cut line */
+    border-radius: 0;
+    padding: 8px 8px 6px;
+  }
+  .vc-verse { font-size: 0.92rem; }
+  .vc-ref { font-size: 0.78rem; margin-bottom: 6px; }
+  .vc-tofrom { font-size: 0.74rem; }
+  .vc-head { border-bottom-width: 1px !important; }
+}

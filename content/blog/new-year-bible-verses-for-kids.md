@@ -102,6 +102,8 @@ These 15 Bible verses about new beginnings, trust, goals, and hope are perfect f
 
 **Reflection:** What do you need to leave in last year? What's one thing you're pressing toward?
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## Verses About Hope
 
 ### 13. Romans 15:13

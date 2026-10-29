@@ -60,6 +60,8 @@ For a daily Advent tradition, our free [Jesse Tree printable set](/printables/je
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## Hopeful Verses (For New Seasons and Fresh Starts)
 
 These fit graduates, new households, career changers, families who moved, and anyone standing at the edge of something new -- including cards you send around New Year's.

@@ -106,6 +106,8 @@ God's promises can feel slow but they're never late. Compare it to a package wit
 
 We drew a printable [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## Which Verses Help a Child Who Wants to Give Up?
 
 Perseverance is patience with sweat on it -- these verses are for homework tears, hard piano pieces, and long seasons.

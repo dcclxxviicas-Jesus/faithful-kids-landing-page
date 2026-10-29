@@ -92,6 +92,8 @@ If your group loves a game-show format, our free [Bible Jeopardy board](/bible-j
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## How Do You Run a Christmas Class That Isn't Chaos?
 
 Anchor the morning with one story, one game, and one thing kids take home. December Sundays run short and loud, so pick a single nativity scene, play one game that acts it out, and send home something physical -- a craft, a blessing bag, a card. Our [Christmas Sunday school lessons](/blog/christmas-sunday-school-lessons) give you the teaching half in six ready plans, and the [Christmas crafts for kids](/blog/christmas-crafts-for-kids-bible) list covers the take-home. If your class is a mixed bag of visitors, start with the story itself: our [Christmas Bible stories for kids](/blog/christmas-bible-stories-for-kids) versions are short enough to read aloud before a game.

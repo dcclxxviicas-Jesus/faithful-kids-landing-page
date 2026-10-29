@@ -44,6 +44,8 @@ For kids who are afraid of the dark or worried about bad things happening at nig
 
 **Bedtime idea:** Ask your child to close their eyes and imagine being inside a strong, safe castle. The walls are thick, the doors are locked, and God Himself is standing guard. "That's what it means to dwell in God's shelter," you can say.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## 4. Psalm 121:3-4
 
 **"He will not let your foot slip -- he who watches over you will not slumber; indeed, he who watches over Israel will neither slumber nor sleep."**

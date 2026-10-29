@@ -44,6 +44,8 @@ Here are 10 Bible verses about prayer that will teach your child to talk to God 
 
 There is a free [the cross coloring page](/printables/bible-coloring-pages/the-cross) on our site too, printable on one sheet with no sign-up.
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## 4. Psalm 145:18
 
 *"The Lord is near to all who call on him, to all who call on him in truth."*

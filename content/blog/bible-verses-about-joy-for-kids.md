@@ -46,6 +46,8 @@ This is a great verse for teaching kids that joy is a choice. We don't have to w
 
 Pair this with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) — one sheet, ready for the kitchen table or the classroom.
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## 4. John 15:11
 
 **"I have told you this so that my joy may be in you and your joy may be complete."**

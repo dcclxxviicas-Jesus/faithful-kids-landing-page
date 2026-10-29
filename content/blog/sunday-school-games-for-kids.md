@@ -75,6 +75,8 @@ If your group loves a game-show format, our free [Bible Jeopardy board](/bible-j
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## What Sunday School Games Work for Preteens (Ages 11-13)?
 
 Preteens need competition, choice, or an opinion to defend -- otherwise they will sit out on purpose. Anything that feels babyish gets rejected in about eight seconds, so raise the difficulty rather than the silliness.

@@ -96,6 +96,8 @@ Jesus prayed this from the cross, for the people hurting him. When forgiving fee
 
 If small hands need something to do while you read, the free [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) is made for exactly that.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## What Verses Show Kids How God Forgives Us?
 
 God's forgiveness is complete, fast, and permanent -- and kids who mess up need to hear that most.

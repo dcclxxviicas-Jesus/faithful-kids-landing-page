@@ -118,6 +118,8 @@ For a quiet bedside activity, our free [Good Shepherd coloring page](/printables
 
 For seasonal encouragement, our [Thanksgiving](/holidays/thanksgiving) and [Christmas](/holidays/christmas) hubs gather every comfort-filled verse list and gentle activity for the holidays.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## How to Pray for Your Sick Child
 
 Prayer during illness doesn't require eloquence. If praying aloud together is new for your family, this guide on [how to pray with kids](/blog/how-to-pray-with-kids) is a gentle place to start. Here's a simple framework:

@@ -110,6 +110,8 @@ You may not know what tomorrow holds, but God does. And He says those plans are 
 
 Jesus said this during the Sermon on the Mount. Today has enough to deal with. Let God handle tomorrow.
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## Kindness (6 Verses)
 
 ### 19. Ephesians 4:32

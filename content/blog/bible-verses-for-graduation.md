@@ -96,6 +96,8 @@ It is also short enough to learn on the drive home, which is why it shows up on 
 
 **How to use it:** "Whenever you're unsure about something in the years ahead, just ask God. He loves giving wisdom."
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## Verses About God's Love and Faithfulness
 
 ### 10. Psalm 37:4

@@ -36,6 +36,8 @@ For each verse, there is a kid-friendly explanation you can share directly with 
 
 There is a free [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) on our site too, printable on one sheet with no sign-up.
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## 4. Joshua 1:9
 
 *"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."*

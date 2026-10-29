@@ -53,6 +53,8 @@ Esther's answer. Real courage counts the cost and goes anyway. She also asked ev
 
 A related freebie: our [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath), drawn as clean line art for crayons and markers.
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## What Courage Verses Come From Daniel and His Friends?
 
 Daniel's story proves that courage for kids isn't usually about fighting -- it's about quietly doing right when everyone else doesn't. Daniel and his three friends were young exiles, far from home, under enormous pressure to conform.

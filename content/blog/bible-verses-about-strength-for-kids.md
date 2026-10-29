@@ -42,6 +42,8 @@ Here are 12 Bible verses about strength that your child can hold onto when life 
 
 There is a free [the cross coloring page](/printables/bible-coloring-pages/the-cross) on our site too, printable on one sheet with no sign-up.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## 4. Psalm 46:1
 
 *"God is our refuge and strength, an ever-present help in trouble."*

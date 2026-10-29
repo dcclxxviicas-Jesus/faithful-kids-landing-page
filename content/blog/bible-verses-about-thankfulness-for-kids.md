@@ -46,6 +46,8 @@ For quiet time afterwards, print the free [the cross coloring page](/printables/
 
 For the whole season's worth, our [Thanksgiving hub](/holidays/thanksgiving) gathers every gratitude verse list, devotion, and activity in one place.
 
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+
 ## 4. Psalm 107:1
 
 **"Give thanks to the Lord, for he is good; his love endures forever."**

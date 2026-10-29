@@ -42,6 +42,8 @@ Here are 10 Bible verses about friendship that every child should know, along wi
 
 Pair this with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) — one sheet, ready for the kitchen table or the classroom.
 
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+
 ## 4. John 15:13
 
 *"Greater love has no one than this: to lay down one's life for one's friends."*

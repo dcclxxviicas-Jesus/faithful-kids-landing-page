@@ -76,6 +76,14 @@ const PACKS = [
     details: 'Print the whole set or one page · No email, no sign-up',
   },
   {
+    href: '/printables/valentine-bible-verse-cards',
+    emoji: '\u{1F48C}',
+    title: 'Valentine Bible Verse Cards — 12 to Color',
+    description:
+      'Twelve printable Valentine cards, each with a short Bible verse about love and a line-art picture kids color themselves before handing them out — school exchange, Sunday school, or the fridge door.',
+    details: '4 per sheet · To/From lines · Color-your-own · No sign-up',
+  },
+  {
     href: '/printables/books-of-the-bible',
     emoji: '📚',
     title: 'Books of the Bible — Chart & Bookmarks',

@@ -42,6 +42,8 @@ Here are 15 Bible verses about kindness that your child can learn, memorize, and
 
 A related freebie: our [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan), drawn as clean line art for crayons and markers.
 
+There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
+
 ## 4. Luke 6:31
 
 *"Do to others as you would have them do to you."*

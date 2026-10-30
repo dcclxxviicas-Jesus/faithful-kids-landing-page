@@ -4417,3 +4417,15 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   color: var(--primary-hover);
   font-weight: 800;
 }
+
+/* Google Play badge. It shares .appstore-badge for the press state and the
+   40px / 36px sizing, so the two badges stay in step by default.
+
+   The nav is the one place they must differ. Google's badge is a wider aspect
+   than Apple's — 3.36:1 against 2.99:1 — so at the nav's 44px it renders
+   147.7px wide instead of 131.6px, and those 16px are enough to push
+   "Faithful Kids" onto two lines at 390px. Matched on WIDTH instead: 39px tall
+   is 130.9px wide, so an Android nav lays out exactly like an iPhone one.
+   The two badges are never on screen together, so equal height buys nothing
+   and equal width buys the layout. */
+.nav-actions .playstore-badge img { height: 39px; }

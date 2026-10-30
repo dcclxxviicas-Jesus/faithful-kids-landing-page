@@ -1,6 +1,6 @@
 'use client'
 
-import { AppStoreBadge, useIsAppleTouch } from '../components/AppStore'
+import { StoreBadge, useMobileStore } from '../components/AppStore'
 
 import { useEffect, useState } from 'react'
 import posthog from 'posthog-js'
@@ -23,7 +23,7 @@ const SHOW_AFTER_SCREENS = 0.6
  */
 export function BlogStickyCta({ postSlug }: { postSlug: string }) {
   const ctaHref = '/quiz'
-  const isAppleTouch = useIsAppleTouch()
+  const store = useMobileStore()
   const [visible, setVisible] = useState(false)
   const [gone, setGone] = useState(false)
   // Steps aside while the verse CTA is on screen — three asks in one viewport
@@ -63,20 +63,20 @@ export function BlogStickyCta({ postSlug }: { postSlug: string }) {
   if (gone) return null
 
   return (
-    <div className={`blog-sticky-cta${isAppleTouch ? ' is-app' : ''}${visible && !verseCtaOnScreen && !inlineCtaOnScreen ? '' : ' is-hidden'}`}>
+    <div className={`blog-sticky-cta${store ? ' is-app' : ''}${visible && !verseCtaOnScreen && !inlineCtaOnScreen ? '' : ' is-hidden'}`}>
       <div className="blog-sticky-inner">
         <span className="blog-sticky-text">
           <strong>Start your child&apos;s Bible journey</strong>
         </span>
-        {/* On an iPhone, installing is genuinely the lower-friction path:
-            Face ID beats typing card details into mobile Safari. The trial is
-            real either way — the app carries its own subscribe flow with the
-            same 7 free days (ENABLE_NATIVE_PURCHASE is on). Everywhere else
-            keeps the web CTA. */}
-        {isAppleTouch ? (
+        {/* On a phone, installing is genuinely the lower-friction path:
+            Face ID or Google autofill beats typing card details into a mobile
+            browser. The trial is real either way — the app carries its own
+            subscribe flow with the same 7 free days (ENABLE_NATIVE_PURCHASE is
+            on). Desktop keeps the web CTA. */}
+        {store ? (
           <span className="blog-sticky-app">
             <span className="blog-sticky-app-label">Start your kids&apos; Bible journey!</span>
-            <AppStoreBadge location={`blog-sticky:${postSlug}`} height={36} />
+            <StoreBadge store={store} location={`blog-sticky:${postSlug}`} height={36} />
           </span>
         ) : (
           <a

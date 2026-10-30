@@ -4441,8 +4441,15 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 /* Header sign-in. Quiet on purpose: it is for the parent who already pays, so
    it must read as a utility beside the CTA, never compete with it. */
 .nav-signin {
-  font-size: 0.92rem; font-weight: 700; color: var(--text-muted);
+  /* Weight 600 against the nav links' 500, and grey rather than
+     --text-secondary: enough to read as a different KIND of thing (an account
+     action, not a sixth content link) without becoming the boldest text in the
+     bar, which it was at 700/0.92rem — heavier than every link it sat beside.
+     margin-right, not a bigger .nav-actions gap: that gap also spaces the
+     store badge from the hamburger on phones. */
+  font-size: 0.9rem; font-weight: 600; color: var(--text-muted);
   text-decoration: none; white-space: nowrap; padding: 8px 2px;
+  margin-right: 8px;
   transition: color 0.15s;
 }
 .nav-signin:hover { color: var(--primary); }
@@ -4452,7 +4459,11 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
      and the mobile menu carries sign-in instead. The homepage has no
      hamburger, so its copy stays. */
   .nav-signin:not(.is-solo) { display: none; }
-  .nav-signin.is-solo { font-size: 0.85rem; }
+  /* No margin here. The 8px that separates it from the CTA on desktop is 8px
+     taken from the wordmark on a phone, and it wrapped "Faithful Kids" at
+     360px beside the Play badge. On a phone it sits next to a badge, not a
+     button, so it needs no breathing room. */
+  .nav-signin.is-solo { font-size: 0.85rem; margin-right: 0; }
 }
 
 /* Mobile menu: under the CTA, not among the page links. */

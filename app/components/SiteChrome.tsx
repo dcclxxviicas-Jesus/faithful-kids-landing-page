@@ -7,6 +7,12 @@ import { NavCta } from './NavCta'
 
 export type NavActive = 'blog' | 'stories' | 'trivia' | 'printables' | 'churches'
 
+/* The app, not /login. An unauthenticated visitor is redirected to
+   /login?redirect=%2F anyway, while a signed-in parent lands straight in the
+   app instead of on a sign-in form they do not need. Verified: the root
+   returns 307 to /login when signed out. */
+export const SIGN_IN_URL = 'https://app.faithfulkids.app'
+
 const NAV_ITEMS: NavItem[] = [
   { href: '/bible-stories-for-kids', label: 'Bible Stories', key: 'stories' },
   /* Label is about the AUDIENCE, not the subject. "Bible Stories" and
@@ -69,12 +75,21 @@ export function SiteNav({
         </div>}
 
         <div className="nav-actions">
+          {/* Returning parents had no route back into the app from the header
+              on any page — only a footer link, below ten others. On content
+              pages this is hidden on phones because the bar there is already
+              logo + store badge + hamburger; the mobile menu carries it
+              instead. The homepage has no hamburger, so its copy (is-solo)
+              stays visible at every width. */}
+          <a href={SIGN_IN_URL} className={`nav-signin${minimal ? ' is-solo' : ''}`}>
+            Sign in
+          </a>
           {/* Content pages send first-timers to the quiz and returning
               quiz-takers straight to checkout. An explicit ctaHref — which the
               homepage passes — always wins, because homepage traffic has
               already read the pitch. */}
           {!hideCta && <NavCta href={ctaHref} label={ctaLabel} />}
-          {!minimal && <MobileMenu items={items} active={active} ctaHref={ctaHref} />}
+          {!minimal && <MobileMenu items={items} active={active} ctaHref={ctaHref} signInHref={SIGN_IN_URL} />}
         </div>
       </div>
     </nav>
@@ -102,7 +117,7 @@ export function SiteFooter() {
           <a href="/support">Support</a>
           <a href="/privacy">Privacy</a>
           <a href="/terms">Terms</a>
-          <a href="https://app.faithfulkids.app/login">Sign in</a>
+          <a href={SIGN_IN_URL}>Sign in</a>
           <a href="mailto:team@faithfulkids.app">Contact</a>
         </div>
         {/* The channel publishes lesson videos daily and already sends real

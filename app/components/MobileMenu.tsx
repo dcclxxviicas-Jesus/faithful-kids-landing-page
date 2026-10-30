@@ -14,7 +14,7 @@ export type NavItem = { href: string; label: string; key?: string }
  * ~45% of blog traffic (1,294 visitors in 30 days) with no route to the trivia
  * game, printables, stories or guides.
  */
-export function MobileMenu({ items, active, ctaHref }: { items: NavItem[]; active?: string; ctaHref?: string }) {
+export function MobileMenu({ items, active, ctaHref, signInHref }: { items: NavItem[]; active?: string; ctaHref?: string; signInHref?: string }) {
   const resolvedCta = ctaHref ?? '/quiz'
   const [open, setOpen] = useState(false)
   const [mounted, setMounted] = useState(false)
@@ -80,6 +80,13 @@ export function MobileMenu({ items, active, ctaHref }: { items: NavItem[]; activ
             <a href={resolvedCta} className="nav-mobile-cta" onClick={() => setOpen(false)}>
               Get started
             </a>
+            {/* Under the CTA, not among the page links: this is for the parent
+                who already pays, and it must not compete with the ask. */}
+            {signInHref && (
+              <a href={signInHref} className="nav-mobile-signin" onClick={() => setOpen(false)}>
+                Already have an account? <strong>Sign in</strong>
+              </a>
+            )}
           </div>
         </div>,
         document.body

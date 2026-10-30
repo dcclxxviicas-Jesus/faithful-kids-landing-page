@@ -51,7 +51,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.6,
     },
     {
-      // Every price and trial length, both platforms, with Offer schema. Exists
+      // Every price and trial length, every platform, with Offer schema. Exists
       // because engines invented prices when there was no page to retrieve.
       url: `${baseUrl}/pricing`,
       lastModified: new Date('2026-09-21'),

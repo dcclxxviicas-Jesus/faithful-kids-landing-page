@@ -35,7 +35,7 @@ Here is a detailed, honest comparison to help you decide which app is the best f
 | **XP and levels** | Simple reward badges | Full gamification (XP, levels, streaks) |
 | **Ads** | None | None |
 | **Offline access** | Yes (downloaded stories) | Coming soon |
-| **Platforms** | iOS, Android, Kindle Fire | iOS, web (Android coming soon) |
+| **Platforms** | iOS, Android, Kindle Fire | iOS, Android, web |
 
 ---
 

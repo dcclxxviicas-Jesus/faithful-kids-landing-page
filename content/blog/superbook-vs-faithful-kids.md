@@ -35,7 +35,7 @@ Both are ad-free. Both are made by people who love Scripture. But they serve dif
 | **Multi-child profiles** | No | Up to 5 profiles |
 | **Gamification** | Reward points for games | XP, levels, streaks, achievements |
 | **Ads** | None | None |
-| **Platforms** | iOS, Android, web, YouTube | iOS, web (Android coming soon) |
+| **Platforms** | iOS, Android, web, YouTube | iOS, Android, web |
 
 ---
 

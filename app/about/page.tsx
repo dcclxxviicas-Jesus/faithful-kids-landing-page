@@ -162,7 +162,7 @@ function AboutV2() {
       <section className="v2-section">
         <V2Head title="What it costs"
                 sub={<>Stated exactly, because this page exists to be straight with you. Every plan
-                  on both platforms is on the <a href="/pricing">pricing page</a>.</>} />
+                  on every platform is on the <a href="/pricing">pricing page</a>.</>} />
         <div className="v2-wrap">
           <div className="v2-grid is-4">
             <div className="v2-card">

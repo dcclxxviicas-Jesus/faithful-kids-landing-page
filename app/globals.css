@@ -4440,30 +4440,36 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 
 /* Header sign-in. Quiet on purpose: it is for the parent who already pays, so
    it must read as a utility beside the CTA, never compete with it. */
+/* Account icon. The ring is what makes it balance the pill-shaped CTA beside
+   it — the bare glyph floated in whitespace next to a heavy green button — and
+   it gives the control a visible 38px edge to aim at. margin-right rather than
+   a bigger .nav-actions gap: that gap also spaces the store badge from the
+   hamburger on phones. */
 .nav-signin {
-  /* Weight 600 against the nav links' 500, and grey rather than
-     --text-secondary: enough to read as a different KIND of thing (an account
-     action, not a sixth content link) without becoming the boldest text in the
-     bar, which it was at 700/0.92rem — heavier than every link it sat beside.
-     margin-right, not a bigger .nav-actions gap: that gap also spaces the
-     store badge from the hamburger on phones. */
-  font-size: 0.9rem; font-weight: 600; color: var(--text-muted);
-  text-decoration: none; white-space: nowrap; padding: 8px 2px;
+  width: 38px; height: 38px; flex: 0 0 auto;
+  display: inline-flex; align-items: center; justify-content: center;
+  border: 1.6px solid var(--border); border-radius: 50%;
+  color: var(--text-secondary); text-decoration: none;
   margin-right: 8px;
-  transition: color 0.15s;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
 }
-.nav-signin:hover { color: var(--primary); }
+.nav-signin:hover { color: var(--primary); border-color: var(--primary); }
+.nav-signin:active { background: var(--primary-light); }
+.nav-signin svg { display: block; }
 
 @media (max-width: 767px) {
   /* Content pages: the bar is already logo + store badge + hamburger at 390px,
      and the mobile menu carries sign-in instead. The homepage has no
      hamburger, so its copy stays. */
+  /* Hidden on phones, and MEASURED rather than assumed: forcing the icon
+     visible in a bar that already holds logo + store badge + hamburger wrapped
+     "Faithful Kids" onto two lines at every width tested, 320 to 393, and
+     overflowed at 320. The mobile menu carries sign-in instead. */
   .nav-signin:not(.is-solo) { display: none; }
-  /* No margin here. The 8px that separates it from the CTA on desktop is 8px
-     taken from the wordmark on a phone, and it wrapped "Faithful Kids" at
-     360px beside the Play badge. On a phone it sits next to a badge, not a
-     button, so it needs no breathing room. */
-  .nav-signin.is-solo { font-size: 0.85rem; margin-right: 0; }
+  /* Minimal nav (no hamburger) — currently emitted by no page. Smaller, and no
+     margin: the 8px that separates it from the CTA on desktop is 8px taken
+     from the wordmark on a phone. */
+  .nav-signin.is-solo { width: 34px; height: 34px; margin-right: 0; }
 }
 
 /* Mobile menu: under the CTA, not among the page links. */

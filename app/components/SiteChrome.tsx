@@ -76,13 +76,35 @@ export function SiteNav({
 
         <div className="nav-actions">
           {/* Returning parents had no route back into the app from the header
-              on any page — only a footer link, below ten others. On content
-              pages this is hidden on phones because the bar there is already
-              logo + store badge + hamburger; the mobile menu carries it
-              instead. The homepage has no hamburger, so its copy (is-solo)
-              stays visible at every width. */}
-          <a href={SIGN_IN_URL} className={`nav-signin${minimal ? ' is-solo' : ''}`}>
-            Sign in
+              on any page — only a footer link, below ten others.
+
+              An account icon rather than the word (owner's pick, Oct 30 2026):
+              it reads as a different KIND of control from the nav links, it is
+              the convention a returning parent looks for top-right, and it is
+              narrow enough to survive a phone bar that already holds a store
+              badge and a hamburger.
+
+              NOT decorative, so it carries both an aria-label (screen readers)
+              and a title (desktop hover) — an unlabelled glyph is the one real
+              cost of dropping the word.
+
+              `is-solo` marks the minimal-nav case, which has no hamburger to
+              carry sign-in in a menu. NO PAGE PASSES `minimal` TODAY — checked
+              against the live HTML — so the class is currently never emitted.
+              It stays because minimal nav is still a supported mode, and
+              without it a minimal homepage would have no sign-in on a phone
+              at all. */}
+          <a
+            href={SIGN_IN_URL}
+            className={`nav-signin${minimal ? ' is-solo' : ''}`}
+            aria-label="Sign in"
+            title="Sign in"
+          >
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor"
+                 strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+              <circle cx="12" cy="8.2" r="3.4" />
+              <path d="M5 20a7 7 0 0 1 14 0" />
+            </svg>
           </a>
           {/* Content pages send first-timers to the quiz and returning
               quiz-takers straight to checkout. An explicit ctaHref — which the

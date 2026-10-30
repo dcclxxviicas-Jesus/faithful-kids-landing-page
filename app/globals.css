@@ -4461,3 +4461,34 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
   font-size: 0.92rem; color: var(--text-muted); text-decoration: none;
 }
 .nav-mobile-signin strong { color: var(--primary); }
+
+/* Homepage phone nav: logo + "Sign in" + store badge, with no hamburger to
+   absorb the slack. At 360px that combination wrapped "Faithful Kids" onto two
+   lines. Measured across 320-393px: a 36px badge keeps it on one line from
+   360px up. Scoped by the sibling selector so it only touches the nav that
+   actually carries the solo sign-in — content pages hide theirs on phones and
+   keep the 44/39px badge. */
+@media (max-width: 389px) {
+  .nav-signin.is-solo ~ .appstore-badge img { height: 36px; }
+}
+/* Below ~340px the three do not fit at any size. The footer still carries
+   sign-in, so nobody is stranded. */
+@media (max-width: 339px) {
+  .nav-signin.is-solo { display: none; }
+}
+
+/* PRE-EXISTING, found Oct 30 2026 while testing the sign-in link and fixed
+   here: on content pages at 360px and below, logo + store badge + hamburger
+   already wrapped "Faithful Kids" onto two lines — with the Apple badge too,
+   so it predates the Play one. 360px is one of the most common Android widths.
+   Same 36px badge that fixes the homepage. Verified in real sub-500px
+   viewports (iframes — headless Chrome clamps --window-size to 500px, so the
+   container-width harness silently never fired these media queries). */
+@media (max-width: 374px) {
+  .nav-actions .appstore-badge img { height: 36px; }
+}
+/* 320px content pages still wrap, and 32px did not help: at that width the
+   wordmark cannot share a row with a 44px hamburger at ANY badge size, so the
+   badge stays 36px rather than shrinking for no gain. Pre-existing, cosmetic
+   (it wraps, nothing overflows or is cut off), and a vanishing share of
+   traffic — iPhone SE 1st gen and comparable Androids. */

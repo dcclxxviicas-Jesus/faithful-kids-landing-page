@@ -91,12 +91,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             name: 'Faithful Kids',
             url: 'https://faithfulkids.app',
             logo: 'https://faithfulkids.app/logo-sm.png',
-            // Only profiles that genuinely belong to the brand. The App Store
-            // listing and the YouTube channel are both verified live. Pinterest
-            // is deliberately absent until its URL is confirmed — a wrong sameAs
-            // is worse than none.
+            // Only profiles that genuinely belong to the brand. Both store
+            // listings and the YouTube channel are verified live.
             sameAs: [
               'https://apps.apple.com/app/id6761875106',
+              'https://play.google.com/store/apps/details?id=app.faithfulkids.app',
               'https://www.youtube.com/@FaithfulKidsApp',
               'https://www.pinterest.com/faithfulkidsapp/',
             ],

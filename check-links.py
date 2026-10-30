@@ -106,15 +106,23 @@ def main():
                 continue
             # Exclude backslashes: React's flight payload JSON-escapes quotes, so a
             # naive match swallows the trailing \ and every URL 403s.
-            found = set(re.findall(r'https://d3g07v1w0lehiv\.cloudfront\.net/[^\s"\'<>)\\]+', body))
-            # The flight payload also splits long strings across serialization
-            # chunks, leaving a truncated URL fragment mid-payload (seen:
-            # ".../bible-memory-verse-strategies-for-kids-" with the real
-            # "...-hero.webp" elsewhere in the same page). A fragment that is a
-            # strict prefix of another URL from the same page is a chunk
-            # artifact, not a reference — drop it.
-            urls |= {u for u in found
-                     if not any(v != u and v.startswith(u) for v in found)}
+            urls |= set(re.findall(r'https://d3g07v1w0lehiv\.cloudfront\.net/[^\s"\'<>)\\]+', body))
+
+        # The flight payload also splits long strings across serialization
+        # chunks, leaving a truncated URL fragment mid-payload (seen:
+        # ".../bible-memory-verse-strategies-for-kids-", and on 2026-10-30
+        # ".../the-lost-sheep-for-kids-hero.web" with the "p" of ".webp"
+        # carried into the next chunk). A fragment that is a strict prefix of
+        # another referenced URL is a chunk artifact, not a reference.
+        #
+        # Compared across the WHOLE build, not within one page: the split can
+        # leave a page holding only the fragment, while the intact URL lives on
+        # another page entirely — which is exactly the case that slipped
+        # through when this was per-page. A URL ending in a real asset
+        # extension is never dropped, so a genuine missing .webp still fails.
+        ASSET_EXT = re.compile(r'\.(?:webp|jpe?g|png|gif|svg|mp4|m4v|vtt|mp3|wav|json|txt|xml|ico|woff2?)$', re.I)
+        urls = {u for u in urls
+                if ASSET_EXT.search(u) or not any(v != u and v.startswith(u) for v in urls)}
 
         # A network failure and a real 404 are NOT the same finding, and this
         # script used to report both as status 0. This machine has documented

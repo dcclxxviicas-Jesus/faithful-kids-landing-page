@@ -4429,3 +4429,11 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
    The two badges are never on screen together, so equal height buys nothing
    and equal width buys the layout. */
 .nav-actions .playstore-badge img { height: 39px; }
+
+/* Store trademark attribution. Deliberately quieter than the copyright line —
+   it is a legal obligation from Apple and Google, not something a visitor
+   needs to read. */
+.footer-tm {
+  font-size: 0.72rem; line-height: 1.5; margin: 6px 0 0;
+  color: rgba(255,255,255,0.45); max-width: 46em;
+}

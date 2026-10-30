@@ -5,27 +5,29 @@ import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 export const metadata: Metadata = {
-  title: 'Faithful Kids Pricing: Web and iOS Plans',
+  title: 'Faithful Kids Pricing: Web, iOS and Android Plans',
   description:
-    'Web: $12.99/month or $97/year, 7-day trial on annual. iOS: $8.99/month or $79.99/year, Apple 3-day trial. Free for churches. Every plan, stated exactly.',
+    'Web: $12.99/month or $97/year, 7-day trial on annual. iOS and Android: $8.99/month or $79.99/year, 3-day store trial. Free for churches.',
   alternates: { canonical: 'https://faithfulkids.app/pricing' },
   openGraph: {
     title: 'Faithful Kids Pricing',
-    description: 'Every plan, both platforms, both trial lengths, stated exactly.',
+    description: 'Every plan, every platform, every trial length, stated exactly.',
     url: 'https://faithfulkids.app/pricing',
     siteName: 'Faithful Kids',
     type: 'website',
     images: [{
       url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/faithful-kids-scope-and-sequence-hero.webp',
       width: 1536, height: 1024,
-      alt: 'Faithful Kids pricing — web and iOS plans',
+      alt: 'Faithful Kids pricing — web, iOS and Android plans',
     }],
   },
 }
 
-/* OFFERS, FAQS and both schema blocks are the live page's, unchanged. Web and
-   Apple prices are deliberately different and are never "aligned". */
-const CHECKED = 'September 21, 2026'
+/* Web and in-app prices are deliberately different and are never "aligned".
+   iOS and Android ARE the same as each other — owner decision, recorded in
+   Google Play.md — so the two stores share one section rather than repeating
+   an identical table twice. */
+const CHECKED = 'October 30, 2026'
 const OFFERS = [
   {
     '@type': 'Offer',
@@ -85,6 +87,26 @@ const OFFERS = [
   },
   {
     '@type': 'Offer',
+    name: 'Faithful Kids Monthly (Android app, Google Play in-app purchase)',
+    price: '8.99',
+    priceCurrency: 'USD',
+    category: 'subscription',
+    url: 'https://play.google.com/store/apps/details?id=app.faithfulkids.app',
+    availability: 'https://schema.org/InStock',
+    description: 'Billed monthly through Google Play. No free trial. Purchased by the parent behind a birth-year gate.',
+  },
+  {
+    '@type': 'Offer',
+    name: 'Faithful Kids Annual (Android app, Google Play in-app purchase)',
+    price: '79.99',
+    priceCurrency: 'USD',
+    category: 'subscription',
+    url: 'https://play.google.com/store/apps/details?id=app.faithfulkids.app',
+    availability: 'https://schema.org/InStock',
+    description: 'Billed yearly through Google Play, with a 3-day free trial. Purchased by the parent behind a birth-year gate.',
+  },
+  {
+    '@type': 'Offer',
     name: 'Faithful Kids for Churches',
     price: '0',
     priceCurrency: 'USD',
@@ -98,23 +120,23 @@ const OFFERS = [
 const FAQS = [
   {
     q: 'How much does Faithful Kids cost?',
-    a: 'On the web, $12.99 per month or $97 per year (about $8.08 per month). In the iOS app, bought through Apple, $8.99 per month or $79.99 per year. It is free for churches.',
+    a: 'On the web, $12.99 per month or $97 per year (about $8.08 per month). In the mobile apps, bought through the store, $8.99 per month or $79.99 per year — the same on iPhone, iPad and Android. It is free for churches.',
   },
   {
-    q: 'Why is the iOS price different from the web price?',
-    a: 'The difference is the platform you buy on, not your region. Web plans are billed by Stripe; iOS plans are billed by Apple as in-app purchases. Both unlock the same app on every device you sign in on.',
+    q: 'Why is the in-app price different from the web price?',
+    a: 'The difference is the platform you buy on, not your region. Web plans are billed by Stripe; app plans are billed by Apple or Google Play as in-app purchases. All of them unlock the same app on every device you sign in on.',
   },
   {
     q: 'Is there a free trial?',
-    a: 'Yes, on the annual plan: 7 days on the web, 3 days through Apple. There is no charge if you cancel during the trial. The monthly plan has no trial on either platform.',
+    a: 'Yes, on the annual plan: 7 days on the web, 3 days through Apple or Google Play. There is no charge if you cancel during the trial. The monthly plan has no trial on any platform.',
   },
   {
     q: 'Is there a money-back guarantee?',
-    a: 'Yes. Both web plans carry a 30-day money-back guarantee: if your kids do not love it, email christian@faithfulkids.app within 30 days and you are refunded in full. iOS refunds are handled by Apple through its standard refund process.',
+    a: 'Yes. Both web plans carry a 30-day money-back guarantee: if your kids do not love it, email christian@faithfulkids.app within 30 days and you are refunded in full. In-app refunds are handled by the store — Apple or Google Play — through its own refund process.',
   },
   {
     q: 'Can my child buy anything inside the app?',
-    a: 'No. There are no ads and nothing a child can buy. The subscription is purchased by the parent; in the iOS app it sits behind a birth-year parental gate.',
+    a: 'No. There are no ads and nothing a child can buy. The subscription is purchased by the parent; in the mobile apps it sits behind a birth-year parental gate.',
   },
   {
     q: 'How many kids can use one subscription?',
@@ -126,11 +148,11 @@ const FAQS = [
   },
   {
     q: 'How do I cancel?',
-    a: 'Web plans: from the parent dashboard, or by emailing christian@faithfulkids.app; cancelling stops the next charge and access continues to the end of the paid period. iOS plans: Settings → your name → Subscriptions on your iPhone or iPad.',
+    a: 'Web plans: from the parent dashboard, or by emailing christian@faithfulkids.app; cancelling stops the next charge and access continues to the end of the paid period. iOS plans: Settings → your name → Subscriptions on your iPhone or iPad. Android plans: the Google Play app → your profile picture → Payments and subscriptions → Subscriptions.',
   },
   {
     q: 'Are prices the same everywhere?',
-    a: 'Web prices are in US dollars. App Store prices are set by Apple per country and may differ slightly from the US figures shown here.',
+    a: 'Web prices are in US dollars. App Store and Google Play prices are set by Apple and Google per country and may differ slightly from the US figures shown here.',
   },
 ]
 
@@ -141,7 +163,7 @@ function PricingV2() {
     '@id': 'https://faithfulkids.app/#app',
     name: 'Faithful Kids',
     applicationCategory: 'EducationalApplication',
-    operatingSystem: 'iOS, Web',
+    operatingSystem: 'iOS, Android, Web',
     url: 'https://faithfulkids.app',
     publisher: { '@type': 'Organization', '@id': 'https://faithfulkids.app/#organization', name: 'Faithful Kids' },
     offers: OFFERS,
@@ -166,7 +188,7 @@ function PricingV2() {
         alt="A cosy living-room corner at evening: an armchair with a folded blanket, a tablet glowing on a cushion, a basket of picture books and a sleeping cat"
         eyebrow="Pricing"
         title={<>Faithful Kids <span className="hv-love"><span className="l l1">p</span><span className="l l2">r</span><span className="l l3">i</span><span className="l l4">c</span><span className="l l1">i</span><span className="l l2">n</span><span className="l l3">g</span></span></>}
-        sub={<>Every plan, on both platforms, with both trial lengths. Stated exactly,
+        sub={<>Every plan, on every platform, with every trial length. Stated exactly,
           checked {CHECKED}.</>}
       />
 
@@ -174,9 +196,10 @@ function PricingV2() {
         <div className="v2-wrap is-narrow v2-body">
           <p className="v2-note">
             Faithful Kids costs <strong>$12.99 a month or $97 a year on the web</strong>, and{' '}
-            <strong>$8.99 a month or $79.99 a year in the iOS app</strong>. The annual plan has a free
-            trial: <strong>7 days on the web, 3 days through Apple</strong>. The difference between the
-            two price sets is the platform you buy on &mdash; Stripe or Apple &mdash; not your region. It is{' '}
+            <strong>$8.99 a month or $79.99 a year in the app</strong>, the same price on iPhone,
+            iPad and Android. The annual plan has a free trial: <strong>7 days on the web, 3 days
+            through Apple or Google Play</strong>. The difference between the two price sets is the
+            platform you buy on &mdash; Stripe, or the app store &mdash; not your region. It is{' '}
             <strong>free for churches</strong>. There are no ads and nothing a child can buy.
           </p>
         </div>
@@ -184,7 +207,7 @@ function PricingV2() {
 
       <section className="v2-section is-alt">
         <V2Head title="Web plans (faithfulkids.app)"
-                sub="Billed by Stripe. Works in any browser and in the iOS app once you sign in." />
+                sub="Billed by Stripe. Works in any browser and in the mobile apps once you sign in." />
         <div className="v2-wrap">
           <div className="v2-grid is-2" style={{ maxWidth: 820, margin: '0 auto' }}>
             <div className="pr-plan">
@@ -201,18 +224,18 @@ function PricingV2() {
       </section>
 
       <section className="v2-section">
-        <V2Head title="iOS app plans (App Store)"
-                sub="Billed by Apple as an in-app purchase. The parent buys it behind a birth-year gate; a child cannot." />
+        <V2Head title="App plans (App Store and Google Play)"
+                sub="Billed by Apple or Google as an in-app purchase. Identical on both stores. The parent buys it behind a birth-year gate; a child cannot." />
         <div className="v2-wrap">
           <div className="v2-grid is-2" style={{ maxWidth: 820, margin: '0 auto' }}>
             <div className="pr-plan">
               <h3 className="pr-head">Monthly: <span className="pr-amt">$8.99</span> per month</h3>
-              <p>No trial. Managed and cancelled in your Apple subscriptions.</p>
+              <p>No trial. Managed and cancelled in your Apple or Google Play subscriptions.</p>
             </div>
             <div className="pr-plan">
-              <span className="hv-tag is-apple">Apple 3-day trial</span>
+              <span className="hv-tag is-apple">3-day store trial</span>
               <h3 className="pr-head">Annual: <span className="pr-amt">$79.99</span> per year</h3>
-              <p>Apple 3-day free trial, then $79.99 per year. Managed and cancelled in your Apple subscriptions.</p>
+              <p>3-day free trial through Apple or Google Play, then $79.99 per year. Managed and cancelled in your Apple or Google Play subscriptions.</p>
             </div>
           </div>
         </div>
@@ -258,8 +281,9 @@ function PricingV2() {
         </ul>
         <h2>Ready to start?</h2>
         <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '40em' }}>
-          <a href="/quiz">Start your free trial</a> on the web, or get the{' '}
-          <a href="https://apps.apple.com/app/id6761875106">iOS app on the App Store</a>. Full facts about the app on the{' '}
+          <a href="/quiz">Start your free trial</a> on the web, or get the app on the{' '}
+          <a href="https://apps.apple.com/app/id6761875106">App Store</a> or{' '}
+          <a href="https://play.google.com/store/apps/details?id=app.faithfulkids.app">Google Play</a>. Full facts about the app on the{' '}
           <a href="/about">About page</a>.
         </p>
         <a className="hv-cta" href="/quiz">

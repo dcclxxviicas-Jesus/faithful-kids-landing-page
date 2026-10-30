@@ -117,22 +117,41 @@ CLAIMS = [
 # 7-day trial" CTAs survived the Aug 25 trial-claim sweep -- at that time the
 # real terms were a 3-day annual trial. The WEB trial became 7 days on
 # 2026-09-16, so those rules are inverted below: "3-day trial" is now the
-# stale claim about our own product. The APPLE trial is still 3 days, which is
-# why these are anchored to our brand or to site code rather than matching a
-# bare "3-day" anywhere; ~220 story posts claimed 60-second lessons
+# stale claim about our own WEB product. BOTH app stores still give 3 days --
+# Apple since Aug 2026, Google Play since Oct 30, 2026 (verified in the Play
+# Developer API: the annual base plan carries offer `annual-free-trial`, one
+# free phase P3D; monthly has no offer and no trial). That is why these are
+# anchored to our brand or to site code rather than matching a bare "3-day"
+# anywhere; ~220 story posts claimed 60-second lessons
 # (real: 2-3.5 min). Blog markdown legitimately describes COMPETITORS' trials
 # and game timers say "60 seconds" everywhere, so patterns here are either
 # unambiguous anywhere (imperative CTAs, our boilerplate) or anchored to our
 # brand within the same sentence.
+# A 3-day trial claim is TRUE for the App Store and for Google Play and FALSE
+# for the web. Which one a sentence means is decided by whether it names a
+# store -- and it may name it either before the claim ("Billed through Google
+# Play, with a 3-day free trial") or after ("3-day free trial through Apple").
+# Regex lookbehind cannot express "anywhere earlier in this sentence", so the
+# rules below are marked `store_ok=True` and exempted by this instead.
+STORE_NAMED = re.compile(r"Apple|App Store|iOS|iPhone|iPad|Google Play|Play Store|Android", re.I)
+
+
+def sentence_around(text, m):
+    """The sentence containing a match, for deciding which platform it means."""
+    start = max(text.rfind(".", 0, m.start()), text.rfind("\n", 0, m.start())) + 1
+    nxt = [i for i in (text.find(".", m.end()), text.find("\n", m.end())) if i != -1]
+    return text[start:min(nxt) if nxt else len(text)]
+
+
 FORBIDDEN_EVERYWHERE = [
     (r"\b670\s+(?:\w+\s+){0,3}?(?:episodes|lessons|series|videos)", "stale 670 count"),
     (r"\b67 series\b", "stale 67-series count"),
     # Web trial is 7 days as of 2026-09-16. These three now catch the OLD
-    # number being asserted about the web product. Apple's trial really is 3
-    # days, so each is anchored to our brand in the same sentence rather than
-    # matching a bare "3-day" that might legitimately describe the iOS app.
+    # number being asserted about the web product. Both stores' trials really
+    # are 3 days, so each is anchored to our brand in the same sentence rather
+    # than matching a bare "3-day" that might legitimately describe an app.
     (r"trial is active for 3 days", "web trial is 7 days since 2026-09-16"),
-    (r"Faithful Kids[^\n.]{0,80}\b3[- ]day(?:s)?\s+(?:free\s+)?trial", "web trial is 7 days (Apple's is 3 -- say which)"),
+    (r"Faithful Kids[^\n.]{0,80}\b3[- ]day(?:s)?\s+(?:free\s+)?trial", "web trial is 7 days (both stores give 3 -- say which)", True),
     (r"Start [Yy]our [Ff]ree 3[- ][Dd]ay", "web trial is 7 days since 2026-09-16"),
     (r"Faithful Kids[^\n.]{0,100}\b60[- ]second", "lessons are 2-3.5 min, not 60s"),
     (r"\b60[- ]seconds?[^\n.]{0,60}Faithful Kids", "lessons are 2-3.5 min, not 60s"),
@@ -153,14 +172,17 @@ FORBIDDEN_EVERYWHERE = [
 # there are ours and wrong regardless of brand proximity.
 FORBIDDEN_SITE_ONLY = [
     # Inverted 2026-09-16: the web trial is 7 days now, so a bare "3-day trial"
-    # in landing-site code is the stale one. The iOS app's real 3-day trial
-    # lives in the bible-kids repo, which this checker does not scan, and the
-    # few landing pages that describe the Apple trial must name the platform --
-    # see /about and llms.txt.
-    # Apple's trial really is 3 days, so a mention that names the platform in
-    # the same breath is correct and must not be flagged. Anything else in
-    # landing-site code is describing the web product and is stale.
-    (r"(?<!Apple )\b3[- ]day(?:s)?\s+(?:free\s+)?trial\b(?![^\n.]{0,60}(?:Apple|App Store|iOS|iPhone))", "web trial is 7 days since 2026-09-16"),
+    # in landing-site code is the stale one. The store trials really are 3 days
+    # -- Apple's and, since Oct 30 2026, Google Play's -- and they live in the
+    # bible-kids repo and the Play Console, neither of which this checker
+    # scans. So a 3-day mention that NAMES its platform in the same breath is
+    # correct and must not be flagged; anything else in landing-site code is
+    # describing the web product and is stale.
+    # Google Play was added to the allow-list on Oct 30, 2026 when the Android
+    # app went live. Extending it was the load-bearing step: left alone, the
+    # checker would have failed every correct Android sentence and taught the
+    # next session to delete true copy to make the build pass.
+    (r"\b3[- ]day(?:s)?\s+(?:free\s+)?trial\b", "web trial is 7 days since 2026-09-16", True),
     (r"Free for 3 days", "web trial is 7 days since 2026-09-16"),
     (r"3 (?:days free|free days)", "web trial is 7 days since 2026-09-16"),
 ]
@@ -232,8 +254,13 @@ def main():
                                      " ".join(m.group(0).split())))
         is_md = f.suffix == ".md"
         forbidden = FORBIDDEN_EVERYWHERE + ([] if is_md else FORBIDDEN_SITE_ONLY)
-        for pat, reason in forbidden:
+        for rule in forbidden:
+            pat, reason = rule[0], rule[1]
+            store_ok = len(rule) > 2 and rule[2]
             for m in re.finditer(pat, text, re.I):
+                # True of a store, false of the web: let the sentence decide.
+                if store_ok and STORE_NAMED.search(sentence_around(text, m)):
+                    continue
                 problems.append((f.relative_to(HERE), reason, m.group(0), "",
                                  " ".join(m.group(0).split())))
         if "app lessons" in T:

@@ -125,6 +125,14 @@ export function SiteFooter() {
         </div>
 
         <p className="footer-copy">&copy; 2026 Faithful Kids. All rights reserved.</p>
+        {/* Both store owners require this wherever their badge appears, and we
+            now show both. Google asks for it verbatim; Apple's is the same
+            obligation in their marketing guidelines. One quiet line in the
+            footer satisfies both without putting legal text near a CTA. */}
+        <p className="footer-tm">
+          Google Play and the Google Play logo are trademarks of Google LLC.
+          Apple, the Apple logo and App Store are trademarks of Apple Inc.
+        </p>
       </div>
     </footer>
   )

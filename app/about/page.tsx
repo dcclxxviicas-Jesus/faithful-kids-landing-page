@@ -33,11 +33,11 @@ const FAQS = [
   },
   {
     q: 'How much does Faithful Kids cost?',
-    a: 'On the web, Faithful Kids costs $12.99 per month, or $97 per year (about $8.08 per month). In the iOS app, the subscription is bought through Apple at $8.99 per month or $79.99 per year. The difference is the platform you buy on, not your region. The annual plan includes a free trial on both: 7 days on the web, 3 days through Apple. Both plans can be cancelled anytime and carry a 30-day money-back guarantee. It is completely free for churches.',
+    a: 'On the web, Faithful Kids costs $12.99 per month, or $97 per year (about $8.08 per month). In the mobile apps, the subscription is bought through the store at $8.99 per month or $79.99 per year — the same on iOS and Android. The difference is the platform you buy on, not your region. The annual plan includes a free trial on all of them: 7 days on the web, 3 days through Apple or Google Play. Both plans can be cancelled anytime and carry a 30-day money-back guarantee. It is completely free for churches.',
   },
   {
     q: 'Which faith-based kids apps offer a free trial?',
-    a: 'Faithful Kids offers a free trial on its annual plan — 7 days when you subscribe on the web, 3 days through the iOS app — with no charge if you cancel during it. Beyond the app, the site offers a large free library with no sign-up at all: 200 Bible story retellings, printable coloring pages and word searches, and a 100-question Bible trivia game.',
+    a: 'Faithful Kids offers a free trial on its annual plan — 7 days when you subscribe on the web, 3 days through the iOS or Android app — with no charge if you cancel during it. Beyond the app, the site offers a large free library with no sign-up at all: 200 Bible story retellings, printable coloring pages and word searches, and a 100-question Bible trivia game.',
   },
   {
     q: 'Is Faithful Kids safe for kids?',
@@ -53,7 +53,7 @@ const FAQS = [
   },
   {
     q: 'What devices does Faithful Kids work on?',
-    a: 'Faithful Kids runs in any modern web browser on a phone, tablet, or computer at app.faithfulkids.app, and as a native iOS app for iPhone and iPad on the App Store (released August 2026). There is no Android app yet; Android families use the web version.',
+    a: 'Faithful Kids runs in any modern web browser on a phone, tablet, or computer at app.faithfulkids.app, and as a native app on both stores: iPhone and iPad on the App Store (released August 2026), and Android phones and tablets on Google Play (released October 2026, Android 7.0 and up).',
   },
   {
     q: 'Who makes Faithful Kids?',
@@ -136,7 +136,8 @@ function AboutV2() {
             founder, <a href="/about/christian-alexander">Christian Alexander</a>, built it for his
             own children as an alternative to the autoplay feed &mdash; a screen where every video
             ends in a question instead of another video. Faithful Kids is published by Catterfly
-            LLC, the company he owns; that is the developer name you will see on the App Store.
+            LLC, the company he owns; that is the developer name you will see on the App Store
+            and on Google Play.
           </p>
         </div>
       </section>

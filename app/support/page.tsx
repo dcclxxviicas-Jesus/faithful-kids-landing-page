@@ -34,15 +34,21 @@ export default function Support() {
           <strong>Subscriptions</strong> → tap Faithful Kids → <strong>Cancel Subscription</strong>.
         </p>
         <p>
+          On Android: open the <strong>Google Play</strong> app → tap your profile picture →{' '}
+          <strong>Payments and subscriptions</strong> → <strong>Subscriptions</strong> → tap
+          Faithful Kids → <strong>Cancel subscription</strong>.
+        </p>
+        <p>
           On the web: sign in at <a href="https://app.faithfulkids.app">app.faithfulkids.app</a> →
           Parent Dashboard → Manage Subscription.
         </p>
 
         <h3>I was charged but my account doesn&apos;t have access</h3>
         <p>
-          If you purchased through the iOS app, open the app and tap <strong>Restore Purchases</strong> on
-          the subscription screen. If that doesn&apos;t work, email us with your Apple ID email or
-          Stripe receipt and we&apos;ll resolve it within a few hours.
+          If you purchased through the iOS or Android app, open the app and tap{' '}
+          <strong>Restore Purchases</strong> on the subscription screen. If that doesn&apos;t work, email
+          us with your Apple ID email, your Google Play order number, or your Stripe receipt and
+          we&apos;ll resolve it within a few hours.
         </p>
 
         <h3>I forgot my password</h3>

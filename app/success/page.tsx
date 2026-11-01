@@ -1,4 +1,5 @@
 import type { CSSProperties } from 'react'
+import Stripe from 'stripe'
 import PurchaseBeacon from './PurchaseBeacon'
 
 /* Post-purchase hop. Stripe sends web buyers here (faithfulkids.app/success)
@@ -17,6 +18,31 @@ import PurchaseBeacon from './PurchaseBeacon'
 
 const ACTIVATE = 'https://app.faithfulkids.app/activate'
 const LOGIN = 'https://app.faithfulkids.app/login'
+
+/* Google Ads reads fkTransactionId / fkPurchaseValue / fkPurchaseCurrency off
+   this page (Purchase action → Value → "Edit conversion values", configured
+   Nov 1, 2026). The variables are only rendered after the session is verified
+   against Stripe, so a made-up session_id in the URL can inflate nothing.
+   unit_amount (the plan price: 9700 / 1299) is used instead of amount_total
+   because an annual checkout with a trial totals $0 today, and the value
+   Google should learn from is the plan the buyer started. If Stripe is
+   unreachable the page renders exactly as before — conversions then count
+   with the action's $1 fallback rather than not at all. */
+async function getPurchaseData(sessionId: string) {
+  const key = process.env.STRIPE_SECRET_KEY
+  if (!key) return null
+  try {
+    const stripe = new Stripe(key)
+    const s = await stripe.checkout.sessions.retrieve(sessionId, { expand: ['line_items'] })
+    if (s.status !== 'complete') return null
+    const line = s.line_items?.data?.[0]
+    const cents = line?.price?.unit_amount ?? line?.amount_total ?? s.amount_total ?? 0
+    if (cents <= 0) return null
+    return { txn: s.id, value: cents / 100, currency: (s.currency ?? 'usd').toUpperCase() }
+  } catch {
+    return null
+  }
+}
 
 // Any non-empty session_id is treated as a purchase. Validating the Stripe id
 // format here would buy almost nothing and could strand a real buyer if the
@@ -65,8 +91,16 @@ export default async function Success({ searchParams }: { searchParams: Promise<
 
   if (sessionId) {
     const href = `${ACTIVATE}?session_id=${encodeURIComponent(sessionId)}`
+    const purchase = await getPurchaseData(sessionId)
     return (
       <div style={page}>
+        {purchase && (
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `window.fkTransactionId=${JSON.stringify(purchase.txn)};window.fkPurchaseValue=${purchase.value};window.fkPurchaseCurrency=${JSON.stringify(purchase.currency)};`,
+            }}
+          />
+        )}
         <div style={card}>
           <div style={{ fontSize: '3rem', marginBottom: 12 }}>🎉</div>
           <h1 style={h1}>Payment confirmed</h1>

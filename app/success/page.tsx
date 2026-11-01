@@ -32,7 +32,10 @@ async function getPurchaseData(sessionId: string) {
   const key = process.env.STRIPE_SECRET_KEY
   if (!key) return null
   try {
-    const stripe = new Stripe(key)
+    // Fail fast: this runs on the money path, so a Stripe outage must cost
+    // this page 4 seconds at worst (conversion then counts at the $1
+    // fallback), never the SDK's default 80s.
+    const stripe = new Stripe(key, { apiVersion: '2025-04-30.basil', timeout: 4000, maxNetworkRetries: 0 })
     const s = await stripe.checkout.sessions.retrieve(sessionId, { expand: ['line_items'] })
     if (s.status !== 'complete') return null
     const line = s.line_items?.data?.[0]

@@ -33,6 +33,23 @@ if (typeof window !== 'undefined' && !posthog.__loaded) {
     } catch {
       // ignore
     }
+    // Ad visitors get a person profile. The init default (identified_only)
+    // leaves anonymous visitors without one, so they are invisible to
+    // person-property cohorts — the "Google Ads visitors" cohort matched 2 of
+    // 238 real ad visitors before this. Landing with gclid/gad_source marks
+    // the person permanently; everyone else stays anonymous (cheaper).
+    try {
+      const q = new URLSearchParams(window.location.search)
+      const gclid = q.get('gclid')
+      if (gclid || q.get('gad_source')) {
+        posthog.setPersonProperties(
+          {},
+          { from_google_ads: true, ...(gclid ? { first_gclid: gclid } : {}) }
+        )
+      }
+    } catch {
+      // ignore
+    }
   }
 }
 

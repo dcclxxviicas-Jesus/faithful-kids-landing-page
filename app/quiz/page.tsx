@@ -112,14 +112,6 @@ const PARENT_QUESTIONS: Question[] = [
     ],
   },
   {
-    /* The name never reaches PostHog or Stripe — it stays in this browser
-       (state + fk_quiz_state) and personalizes the build + plan screens.
-       Analytics only ever see 'provided' or 'skipped'. */
-    id: 'child_name', emoji: '✏️', type: 'text',
-    q: 'What’s their first name?',
-    sub: 'We’ll build the plan around them — or skip this',
-  },
-  {
     id: 'screen_time', emoji: '📱', type: 'single',
     q: 'Daily screen time?',
     sub: 'No judgment — just an estimate',
@@ -206,7 +198,7 @@ const PARENT_QUESTIONS: Question[] = [
        The reveal screen echoes this back as "ready to be a habit by X". */
     id: 'goal_date', emoji: '🗓️', type: 'single',
     q: 'When should this be a habit by?',
-    sub: 'Last one! A plan with a date gets done',
+    sub: 'A plan with a date gets done',
     opts: [
       { label: 'By Christmas', val: 'christmas', emoji: '🎄' },
       { label: 'This school year', val: 'school-year', emoji: '🎒' },
@@ -214,14 +206,23 @@ const PARENT_QUESTIONS: Question[] = [
       { label: 'No rush — when it sticks', val: 'whenever', emoji: '🌱' },
     ],
   },
+  {
+    /* The name never reaches PostHog or Stripe — it stays in this browser
+       (state + fk_quiz_state) and personalizes the build + plan screens.
+       Analytics only ever see 'provided' or 'skipped'.
+
+       MUST STAY LAST (moved from step 3 on Nov 1, 2026). As step 3 it was the
+       worst screen in the quiz: of 460 parents who reached it in 21 days, 23%
+       quit the site on it and 34% skipped — the only typing step, and a
+       child's-name ask before any trust. The name is only used AFTER the quiz
+       (build + plan screens), so asking last loses nothing. */
+    id: 'child_name', emoji: '✏️', type: 'text',
+    q: 'What’s their first name?',
+    sub: 'Last one — we’ll put their name on the plan. Or skip it',
+  },
 ]
 
 const KID_QUESTIONS: Question[] = [
-  {
-    id: 'child_name', emoji: '👋', type: 'text',
-    q: 'What’s your name, hero?',
-    sub: 'So we can put it on your adventure — or skip it',
-  },
   {
     id: 'age', emoji: '🎂', type: 'single',
     q: 'How old are you?',
@@ -312,12 +313,19 @@ const KID_QUESTIONS: Question[] = [
   {
     id: 'excited', emoji: '🚀', type: 'single',
     q: 'How excited are you to start?',
-    sub: 'Last one!',
+    sub: 'Almost there!',
     opts: [
       { label: 'Pretty excited', val: 'excited', emoji: '😀' },
       { label: 'Super excited', val: 'super', emoji: '🤩' },
       { label: 'THE MOST excited EVER!!', val: 'most', emoji: '🚀' },
     ],
+  },
+  {
+    /* MUST STAY LAST, same as the parent path: as question 1 it lost 25% of
+       kids before they answered anything (Nov 1, 2026 data). */
+    id: 'child_name', emoji: '👋', type: 'text',
+    q: 'What’s your name, hero?',
+    sub: 'Last one — so we can put it on your adventure. Or skip it',
   },
 ]
 
@@ -596,7 +604,7 @@ export default function Quiz() {
   function pickMulti(val: string) {
     const next = { ...answers, [q.id]: val }
     setAnswers(next)
-    posthog.capture('quiz_answer', { question: q.id, answer: val, step })
+    posthog.capture('quiz_answer', { question: q.id, answer: val, step, path })
     setTimeout(() => advance(next), 300)
   }
 

@@ -49,6 +49,8 @@ The story of Elijah and the Ravens teaches children important lessons about fait
 
 If small hands need something to do while you read, the free [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children) is made for exactly that.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

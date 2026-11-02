@@ -49,6 +49,8 @@ The story of David's Big Mistake teaches children important lessons about worshi
 
 We drew a printable [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+
 ## Parent's Guide: Why This Story Matters
 
 David and Goliath is the ultimate underdog story, and kids instinctively connect with it. Your child is small in a big world, and this story tells them that size does not determine who wins. God does. This is a powerful story to revisit when your child faces something that feels too big: a hard test, a bully, a new school. The lesson is not that they can do it alone, but that God is with them.

@@ -47,6 +47,8 @@ The story of Deborah a Brave Leader teaches children important lessons about bra
 
 We drew a printable [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

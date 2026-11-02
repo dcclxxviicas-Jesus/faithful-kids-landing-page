@@ -185,6 +185,8 @@ For homeschool families, our [free homeschool Bible curriculum page](/homeschool
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
 
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+
 ## Video-Based Bible Curriculum
 
 ### 11. Faithful Kids

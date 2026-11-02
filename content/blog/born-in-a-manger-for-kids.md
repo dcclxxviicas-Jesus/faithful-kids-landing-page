@@ -49,6 +49,8 @@ Pair this with our free [journey to Bethlehem coloring page](/printables/bible-c
 
 More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
 
+A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances — kids can trace the journeys with a finger.
+
 ## Parent's Guide: Why This Story Matters
 
 The birth of Jesus is the story your child will hear every Christmas for the rest of their life. Giving them the real version now, not just the cultural one, matters. Jesus was not born in a palace. He was born in the humblest place imaginable, to an ordinary young woman, announced first to shepherds (the lowest status people in society). Every detail of this story says: God is for everyone, especially the overlooked.

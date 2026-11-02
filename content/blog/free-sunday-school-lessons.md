@@ -186,6 +186,8 @@ One more supplement worth knowing: the short animated video lessons at [Faithful
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+
 ## Print the Free Trivia Pack for Review Weeks
 
 When you need a class filled with zero prep, review beats a new story. Our free [Bible Trivia Pack](/printables/bible-trivia-pack) has 100 kid-friendly questions in easy, medium, and hard rounds, each answer with its Scripture reference. No signup, no email -- print it, split the room into teams, and the hour runs itself.

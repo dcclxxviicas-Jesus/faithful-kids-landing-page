@@ -66,6 +66,8 @@ If your group loves a game-show format, our free [Bible Jeopardy board](/bible-j
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Hard Nehemiah Trivia Questions (Teens and Adults)
 
 21. In which Persian city, and in which year of the king's reign, does the book open? **Susa (the citadel), in the twentieth year of Artaxerxes** (Nehemiah 1:1; 2:1)

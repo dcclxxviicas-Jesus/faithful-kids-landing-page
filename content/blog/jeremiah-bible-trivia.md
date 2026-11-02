@@ -55,6 +55,8 @@ There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categorie
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Hard Jeremiah Trivia Questions (Teens and Adults)
 
 28. Jeremiah 1:2-3 names three kings of Judah under whom he prophesied. Who were they? **Josiah, Jehoiakim, and Zedekiah** (Jeremiah 1:2-3)

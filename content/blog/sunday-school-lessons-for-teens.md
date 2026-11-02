@@ -48,6 +48,8 @@ Teenagers are not bored by the Bible. They are bored by being talked at about th
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
+The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
+
 ## Lesson 4: Comparison, Feeds, and the Approval Trap
 
 **Open with:** Who are you performing for?

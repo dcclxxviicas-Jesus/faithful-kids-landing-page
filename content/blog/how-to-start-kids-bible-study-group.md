@@ -63,6 +63,8 @@ As Proverbs 22:6 reminds us: "Train up a child in the way he should go; even whe
 
 If small hands need something to do while you read, the free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) is made for exactly that.
 
+The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
+
 ## Step 4: Structure Your Sessions
 
 A typical kids Bible study session runs 45-60 minutes. Here's a structure that works across all age groups:

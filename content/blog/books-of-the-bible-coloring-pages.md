@@ -53,6 +53,8 @@ Twelve books of narrative. These make the best coloring pages of the whole Bible
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
+
 ## Poetry and Wisdom (Books 18-22)
 
 Abstract books, so lean into pattern. These five are the pages older kids like best because the designs can get intricate.

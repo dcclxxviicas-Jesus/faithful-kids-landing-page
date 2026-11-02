@@ -49,6 +49,8 @@ The story of Cleansing the Temple teaches children important lessons about sacri
 
 There is a free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) on our site too, printable on one sheet with no sign-up.
 
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

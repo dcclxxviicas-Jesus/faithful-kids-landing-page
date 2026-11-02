@@ -43,6 +43,8 @@ For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a 
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Hard Song of Solomon Trivia Questions (Teens and Adults)
 
 16. What warning is repeated three times to the daughters of Jerusalem? **"Do not arouse or awaken love until it so desires"** (Song of Songs 2:7; 3:5; 8:4)

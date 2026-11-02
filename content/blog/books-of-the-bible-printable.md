@@ -178,6 +178,8 @@ Three rules make chunking stick:
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+
 ## Do Songs Really Help Kids Learn the Books of the Bible?
 
 Yes -- melody is the fastest memorization tool there is, which is why most adults who know all 66 books learned them from a childhood song. Music encodes sequence automatically; your child doesn't have to think about what comes after Obadiah because the tune pulls them forward.

@@ -56,6 +56,8 @@ When Paul went to Jerusalem, the Christians there were afraid of him. They didn'
 
 **Key lesson for kids:** When God changes us, it might take time for others to believe it. Paul's past made people suspicious. But his actions over time proved that his change was real. This is true for us too -- when we change, our consistent behavior shows people that the change is genuine.
 
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+
 ## Missionary Journeys (Acts 13-21)
 
 Paul went on three major missionary journeys that took him across the Roman Empire. He traveled through what is now Turkey, Greece, and beyond -- sometimes on foot, sometimes by ship. Wherever he went, he told people about Jesus, started new churches, and trained leaders.

@@ -49,6 +49,8 @@ The story of God Chooses David teaches children important lessons about courage,
 
 If small hands need something to do while you read, the free [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) is made for exactly that.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Parent's Guide: Why This Story Matters
 
 David and Goliath is the ultimate underdog story, and kids instinctively connect with it. Your child is small in a big world, and this story tells them that size does not determine who wins. God does. This is a powerful story to revisit when your child faces something that feels too big: a hard test, a bully, a new school. The lesson is not that they can do it alone, but that God is with them.

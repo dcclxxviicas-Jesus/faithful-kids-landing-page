@@ -68,6 +68,8 @@ From the burning bush to the plagues to the parting of the sea, Exodus puts God'
 
 For quiet time afterwards, print the free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) and let them color while you talk it through.
 
+A map makes this story concrete: the free [map of the Exodus](/printables/bible-maps/the-exodus) shows Egypt, the Red Sea, Mount Sinai and the wilderness road on one printable sheet.
+
 ## How to Teach Exodus to Kids
 
 **Make it dramatic.** Exodus is a story that begs to be acted out. Let your kids play Moses holding up his staff, or Pharaoh stubbornly saying "No!" Act out the plagues with sound effects. March around the living room like the Israelites leaving Egypt. Physical engagement helps kids remember.

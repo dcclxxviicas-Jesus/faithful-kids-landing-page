@@ -102,6 +102,8 @@ If small hands need something to do while you read, the free [journey to Bethleh
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
 
+The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
+
 ## How Do Kids Memorize the Books of the Bible?
 
 **Sing them.** Music is by far the fastest route into a child's memory. There are dozens of "Books of the Bible" songs online -- pick one your child likes and play it in the car for a week. Most kids absorb the melody (and the book names with it) almost without trying.

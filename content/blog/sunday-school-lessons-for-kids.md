@@ -75,6 +75,8 @@ From the Passover to the prophets -- how God formed a rescued people and gave th
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+
 ## Quarter 3: The Life of Jesus (Weeks 27-39)
 
 Birth through ministry -- who Jesus is, and what He taught. **Quarter memory verse:** "For God so loved the world that he gave his one and only Son." -- John 3:16

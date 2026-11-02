@@ -55,6 +55,8 @@ Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deal
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Hard 1 Samuel Trivia Questions (Teens and Adults)
 
 26. Finish God's words to Samuel: "People look at the outward appearance, but the LORD looks at..." **"the heart"** (1 Samuel 16:7)

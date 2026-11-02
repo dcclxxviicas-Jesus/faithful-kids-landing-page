@@ -50,6 +50,8 @@ Moses was scared. He gave God excuse after excuse. "Who am I to do this?" "What 
 
 There is a free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) on our site too, printable on one sheet with no sign-up.
 
+A map makes this story concrete: the free [map of the Exodus](/printables/bible-maps/the-exodus) shows Egypt, the Red Sea, Mount Sinai and the wilderness road on one printable sheet.
+
 ## The Ten Plagues (Exodus 7-12)
 
 Moses went to Pharaoh and delivered God's message: "Let my people go." But Pharaoh refused. His heart was hard, and he didn't believe in Moses's God. So God sent ten plagues on Egypt to show His power and convince Pharaoh to free the Israelites.

@@ -58,6 +58,8 @@ Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deal
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land — real geography, with the traditional stops labeled.
+
 ## Hard Exodus Trivia Questions (Teens and Adults)
 
 29. Which two Hebrew midwives bravely disobeyed Pharaoh's order to kill baby boys? **Shiphrah and Puah** (Exodus 1:15-17)

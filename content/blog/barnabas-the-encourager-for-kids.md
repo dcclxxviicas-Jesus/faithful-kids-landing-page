@@ -47,6 +47,8 @@ The story of Barnabas the Encourager teaches children important lessons about co
 
 We drew a printable [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+To follow the route, our free [map of Paul's missionary journeys](/printables/bible-maps/pauls-missionary-journeys) shows all three journeys and the voyage to Rome, color-coded on one printable sheet.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

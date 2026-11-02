@@ -49,6 +49,8 @@ The story of Building the Temple teaches children important lessons about wisdom
 
 If small hands need something to do while you read, the free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) is made for exactly that.
 
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

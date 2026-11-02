@@ -54,6 +54,8 @@ There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categorie
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+To follow the route, our free [map of Paul's missionary journeys](/printables/bible-maps/pauls-missionary-journeys) shows all three journeys and the voyage to Rome, color-coded on one printable sheet.
+
 ## Hard 1 Corinthians Trivia Questions (Teens and Adults)
 
 25. Who is named alongside Paul as a sender of the letter? **Sosthenes** (1 Corinthians 1:1)

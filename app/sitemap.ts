@@ -6,6 +6,7 @@ import crosswords from '@/lib/crosswords.json'
 import jesseTree from '@/lib/jesse-tree.json'
 import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
+import { MAPS as bibleMaps } from '@/lib/bible-maps'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://faithfulkids.app'
@@ -189,6 +190,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
         'https://d3g07v1w0lehiv.cloudfront.net/jesse-tree/hero.png',
         ...jesseTree.map(d => `https://d3g07v1w0lehiv.cloudfront.net/jesse-tree/${d.slug}.png`),
       ],
+    },
+    {
+      // "bible map" 1,376/mo clickstream KD 18; detail pages each own a KD 0-10
+      // term (ancient israel map, map of israel in jesus time, exodus, Paul's
+      // journeys, 12 tribes, canaan). Artifact SERPs with empty AI Overviews.
+      url: `${baseUrl}/printables/bible-maps`,
+      lastModified: new Date('2026-11-02'),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
+    ...bibleMaps.map(m => ({
+      url: `${baseUrl}/printables/bible-maps/${m.slug}`,
+      lastModified: new Date('2026-11-02'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    })),
+    {
+      // "bible timeline" 2,956/mo clickstream (9,900 ads) KD 15
+      url: `${baseUrl}/printables/bible-timeline`,
+      lastModified: new Date('2026-11-02'),
+      changeFrequency: 'monthly',
+      priority: 0.9,
     },
     {
       url: `${baseUrl}/printables/valentine-bible-verse-cards`,

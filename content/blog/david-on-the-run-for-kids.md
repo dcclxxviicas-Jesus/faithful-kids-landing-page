@@ -49,6 +49,8 @@ The story of David on the Run teaches children important lessons about courage, 
 
 There is a free [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath) on our site too, printable on one sheet with no sign-up.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Parent's Guide: Why This Story Matters
 
 David and Goliath is the ultimate underdog story, and kids instinctively connect with it. Your child is small in a big world, and this story tells them that size does not determine who wins. God does. This is a powerful story to revisit when your child faces something that feels too big: a hard test, a bully, a new school. The lesson is not that they can do it alone, but that God is with them.

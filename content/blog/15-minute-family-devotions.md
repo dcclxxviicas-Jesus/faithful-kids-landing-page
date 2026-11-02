@@ -104,6 +104,8 @@ Five sessions per week, Monday through Friday, leaving weekends open. Each day g
 
 At the end of four weeks, you have read through the shape of the whole Bible story in miniature: God, Jesus, how we live, and how we hold on. Run it again with different passages, or take on a longer commitment like the [30-day family Bible challenge](/blog/30-day-family-bible-challenge) to keep the momentum.
 
+The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
+
 ## What to Do When It Falls Apart
 
 It will. Here is what each failure actually means and what to do about it.

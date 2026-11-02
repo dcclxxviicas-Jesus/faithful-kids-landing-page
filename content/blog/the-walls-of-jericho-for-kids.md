@@ -45,6 +45,8 @@ The story of The Walls of Jericho teaches children important lessons about coura
 
 > *"Be strong and courageous. Do not be afraid."* — Joshua 1:9
 
+To picture the land itself, the free [printable map of Canaan](/printables/bible-maps/the-promised-land) shows the Promised Land as Joshua found it — walled cities, seven nations and the Jordan to cross.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

@@ -50,6 +50,8 @@ If your group loves a game-show format, our free [Bible Jeopardy board](/bible-j
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Medium Jonah Trivia Questions (Ages 9-12)
 
 11. Was Jonah swallowed by a whale? **Trick question -- the Bible says "a huge fish," and never calls it a whale** (Jonah 1:17)

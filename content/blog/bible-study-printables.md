@@ -51,6 +51,8 @@ The five review boxes are the important design choice. Memory works on spaced re
 
 **How to run it:** review two verses at breakfast, take about ninety seconds, and let the child hold the pen. Pair the tracker with a physical ring of cards -- our [printable Bible memory verse cards](/blog/bible-memory-verse-cards-printable) guide has 20 kid-ready verses already formatted for cutting, and the game-based approaches in [Bible memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) are what to do when a verse will not stick.
 
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+
 ## 3. The Reading Plan Chart
 
 A reading plan chart is a grid of numbered squares -- one per reading -- that gets posted somewhere everyone walks past, and it is the printable that most reliably turns intention into habit.

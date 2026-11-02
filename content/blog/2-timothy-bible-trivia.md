@@ -46,6 +46,8 @@ For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a 
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
 
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+
 ## Medium 2 Timothy Trivia Questions (Ages 9-12)
 
 8. Paul said everyone in the province of Asia deserted him -- which two men did he name? **Phygelus and Hermogenes** (2 Timothy 1:15)

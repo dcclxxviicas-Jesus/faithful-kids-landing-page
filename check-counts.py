@@ -37,6 +37,10 @@ def truth():
     t["jesse tree days"] = len(json.loads((HERE / "lib" / "jesse-tree.json").read_text()))
     t["advent readings"] = len(json.loads((HERE / "lib" / "advent-readings.json").read_text()))
 
+    bm = json.loads((HERE / "lib" / "bible-maps.json").read_text())
+    t["bible maps"] = len(bm["maps"])
+    t["timeline eras"] = len(bm["timeline"])
+
     quizzes = json.loads((HERE / "lib" / "story-quizzes.json").read_text())
     t["story quizzes"] = len(quizzes)
     t["quiz questions"] = sum(len(v) for v in quizzes.values())
@@ -75,7 +79,7 @@ def truth():
 # appeared anywhere to catch.
 WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
          "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12,
-         "sixteen": 16, "twenty": 20, "twenty-six": 26}
+         "thirteen": 13, "sixteen": 16, "twenty": 20, "twenty-six": 26}
 
 
 def as_int(tok):
@@ -108,6 +112,11 @@ CLAIMS = [
     (NUM + r"\s+short Bible readings", "advent readings", "N short Bible readings"),
     (NUM + r"\s+nativity pages", "christmas coloring pages", "N nativity pages"),
     (NUM + r"\s+pages walking Holy Week", "easter coloring pages", "N Holy Week pages"),
+    (NUM + r"\s+Printable Maps", "bible maps", "N Printable Maps"),
+    (NUM + r"\s+(?:free\s+)?printable Bible maps", "bible maps", "N printable Bible maps"),
+    (NUM + r"\s+maps with real geography", "bible maps", "N maps with real geography"),
+    (NUM + r"\s+maps that cover the whole story", "bible maps", "N maps covering the story"),
+    (NUM + r"\s+eras from Creation", "timeline eras", "N eras from Creation"),
     (NUM + r"\s+pages cover Holy Week", "easter coloring pages", "N Holy Week pages"),
 ]
 

@@ -48,6 +48,8 @@ For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a 
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
+To follow the route, our free [map of Paul's missionary journeys](/printables/bible-maps/pauls-missionary-journeys) shows all three journeys and the voyage to Rome, color-coded on one printable sheet.
+
 ## Hard 1 Timothy Trivia Questions (Teens and Adults)
 
 19. Name three qualifications for an overseer from 1 Timothy 3. **Above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, not given to drunkenness, gentle, not quarrelsome, not a lover of money** (1 Timothy 3:2-3)

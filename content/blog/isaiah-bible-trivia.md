@@ -56,6 +56,8 @@ If your group loves a game-show format, our free [Bible Jeopardy board](/bible-j
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Hard Isaiah Trivia Questions (Teens and Adults)
 
 29. Which Persian king did Isaiah name roughly 150 years before he ruled? **Cyrus** (Isaiah 44:28; 45:1)

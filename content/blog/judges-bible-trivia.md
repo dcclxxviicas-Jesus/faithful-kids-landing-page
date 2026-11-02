@@ -49,6 +49,8 @@ Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deal
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+
 ## Hard Judges Trivia Questions (Teens and Adults)
 
 22. What new name did Gideon receive after tearing down his father's altar to Baal? **Jerubbaal -- "let Baal contend with him"** (Judges 6:31-32)

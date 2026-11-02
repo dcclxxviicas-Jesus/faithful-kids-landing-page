@@ -68,6 +68,8 @@ For a quieter moment, our free printable [Christmas word search](/printables/bib
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
+The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
+
 ## Lesson 3: The Journey to Bethlehem (Mary and Joseph Travel)
 
 **Scripture:** Luke 2:1-7

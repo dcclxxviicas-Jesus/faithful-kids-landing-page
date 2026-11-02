@@ -49,6 +49,8 @@ A related freebie: our [Adam and Eve coloring page](/printables/bible-coloring-p
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+
 ## Lesson 3: God Took Care of Baby Moses
 
 **Story summary:** Baby Moses's mother hid him in a basket and floated it on the river to keep him safe. A princess found the basket and took care of him. God watched over Moses the whole time -- and God watches over us too. (Exodus 2:1-10)

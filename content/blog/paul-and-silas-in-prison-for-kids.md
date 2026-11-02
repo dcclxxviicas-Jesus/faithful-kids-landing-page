@@ -47,6 +47,8 @@ The story of Paul and Silas in Prison teaches children important lessons about a
 
 Add five quiet minutes with the free [Armor of God word search](/printables/bible-word-search/armor-of-god); it prints one to a sheet with the key on the page.
 
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+
 ## Parent's Guide: Why This Story Matters
 
 Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, snakebites. Kids love this because it is exciting. But underneath the adventure is a lesson about perseverance. Paul never gave up, no matter what happened. When your child faces setbacks, frustration, or the temptation to quit something hard, Paul's story is the one to revisit. God does not promise an easy road, but He promises to be on the road with you.

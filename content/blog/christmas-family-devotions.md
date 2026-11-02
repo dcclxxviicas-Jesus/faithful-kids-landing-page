@@ -106,6 +106,8 @@ Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-c
 
 Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
 
+The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
+
 ## Weeks 3-4: The Birth (Devotions 9-12)
 
 ### Devotion 9: No Room

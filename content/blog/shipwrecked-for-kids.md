@@ -47,6 +47,8 @@ The story of Shipwrecked teaches children important lessons about adventure, per
 
 > *"Not one of you will lose a single hair from his head."* — Acts 27:34
 
+To follow the route, our free [map of Paul's missionary journeys](/printables/bible-maps/pauls-missionary-journeys) shows all three journeys and the voyage to Rome, color-coded on one printable sheet.
+
 ## Parent's Guide: Why This Story Matters
 
 Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, snakebites. Kids love this because it is exciting. But underneath the adventure is a lesson about perseverance. Paul never gave up, no matter what happened. When your child faces setbacks, frustration, or the temptation to quit something hard, Paul's story is the one to revisit. God does not promise an easy road, but He promises to be on the road with you.

@@ -129,6 +129,8 @@ Answer: **Damascus** (Acts 9:3-5)
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+
 ## Hard New Testament Trivia (Ages 12+)
 
 Deep cuts from the Gospels and Acts. If your teen sweeps this round, hand them our [Bible trivia for teens](/blog/bible-trivia-for-teens) next.

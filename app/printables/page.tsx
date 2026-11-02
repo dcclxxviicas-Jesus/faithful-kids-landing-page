@@ -76,6 +76,22 @@ const PACKS = [
     details: 'Print the whole set or one page · No email, no sign-up',
   },
   {
+    href: '/printables/bible-maps',
+    emoji: '\u{1F5FA}️',
+    title: 'Bible Maps — 6 Printable Maps',
+    description:
+      'Six maps with real geography — the Promised Land, the Exodus route, the 12 tribes, ancient Israel, Israel in Jesus’ time, and Paul’s journeys. Over 100 labeled places, every one at its true coordinates.',
+    details: 'Real coastlines · Free PDFs · No email, no sign-up',
+  },
+  {
+    href: '/printables/bible-timeline',
+    emoji: '\u{1F4DC}',
+    title: 'Bible Timeline — Wall Chart',
+    description:
+      'The whole story in order on one sheet — thirteen eras from Creation to the early church, with dates where history gives them, key events, and the books of the Bible each era lives in.',
+    details: 'One-page chart · Free PDF · No email, no sign-up',
+  },
+  {
     href: '/printables/valentine-bible-verse-cards',
     emoji: '\u{1F48C}',
     title: 'Valentine Bible Verse Cards — 12 to Color',

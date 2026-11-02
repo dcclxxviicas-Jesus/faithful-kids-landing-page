@@ -50,6 +50,8 @@ For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a 
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+
 ## Hard Joshua Trivia Questions (Teens and Adults)
 
 23. In that same battle, what killed more of the enemy than Israel's swords did? **Huge hailstones the LORD hurled down from the sky** (Joshua 10:11)

@@ -62,6 +62,8 @@ Jonathan later died in battle alongside his father. David mourned deeply and sai
 
 We built a [David and Goliath word search](/printables/bible-word-search/david-and-goliath) around this story — free, no sign-up, on screen or on paper.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## David Becomes King (2 Samuel 2-5)
 
 After years of running from Saul, hiding in caves, and living as a fugitive, David finally became king. First he was king of Judah (the southern part of Israel) for seven and a half years, and then he became king over all of Israel.

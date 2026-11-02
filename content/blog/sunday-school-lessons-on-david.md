@@ -67,6 +67,8 @@ David is the best six-week series in the Old Testament for one reason: kids meet
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Week 4: A Friend Who Gives Up His Own Claim (David and Jonathan)
 
 **Objective:** Kids will identify what real friendship costs.

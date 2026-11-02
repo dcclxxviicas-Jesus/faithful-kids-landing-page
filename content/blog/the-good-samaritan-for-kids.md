@@ -45,6 +45,8 @@ The story of The Good Samaritan teaches children important lessons about love, k
 
 > *"Go and do likewise."* — Luke 10:37
 
+To see where this took place, the free [printable map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) shows Galilee, Samaria and Judea with every Gospel town at its real location.
+
 ## Parent's Guide: Why This Story Matters
 
 The Good Samaritan is one of the most practical stories in the Bible for everyday life. It asks a simple question: who is my neighbor? The answer, everyone, is something kids can apply immediately. After watching this story, look for real-world moments to connect it: when they see someone sitting alone at lunch, when a sibling needs help, when a stranger drops something. This story turns faith into action.

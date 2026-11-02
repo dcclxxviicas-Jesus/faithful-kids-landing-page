@@ -64,6 +64,8 @@ After three days and three nights, the Lord commanded the fish, and it vomited J
 
 Pair this with our free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) — one sheet, ready for the kitchen table or the classroom.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Jonah Goes to Nineveh (Jonah 3)
 
 God came to Jonah a second time: "Go to the great city of Nineveh and proclaim to it the message I give you" (Jonah 3:2).

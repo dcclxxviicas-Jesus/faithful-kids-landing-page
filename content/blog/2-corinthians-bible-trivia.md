@@ -48,6 +48,8 @@ There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categorie
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+
 ## Hard 2 Corinthians Trivia Questions (Teens and Adults)
 
 19. Paul describes being "caught up" in a vision -- to where? **The third heaven, also called paradise** (2 Corinthians 12:2-4)

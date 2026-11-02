@@ -52,6 +52,8 @@ Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deal
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
 
+There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
+
 ## Hard 2 Samuel Trivia Questions (Teens and Adults)
 
 23. Who killed Absalom as he hung in the tree, and with what? **Joab, who plunged three javelins into him** (2 Samuel 18:14)

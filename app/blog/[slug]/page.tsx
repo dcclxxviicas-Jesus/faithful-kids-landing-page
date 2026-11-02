@@ -27,6 +27,13 @@ import { getTriviaVideo } from '@/lib/trivia-video'
 import { attachChoices, playableCount } from '@/lib/trivia-choices'
 import { EmbedNote } from '../EmbedNote'
 
+// Seasonal default magnet: November–December builds offer the Advent
+// readings instead of the bedtime kit (trivia pages keep the trivia pack).
+// Evaluated at build time — these pages are SSG — so a January rebuild
+// reverts to the bedtime kit automatically.
+const ADVENT_SEASON = [10, 11].includes(new Date().getMonth())
+const DEFAULT_MAGNET = ADVENT_SEASON ? ('advent' as const) : ('bedtime-kit' as const)
+
 type Props = {
   params: Promise<{ slug: string }>
 }
@@ -555,6 +562,21 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
           />
         )}
 
+        {/* Mid-article email capture. The end-of-article card below converted
+            43 of 23,480 blog visitors in Oct 2026 (0.18%) because posts run
+            12,000-30,000px and nobody reaches the bottom — while the same ask,
+            when actually seen, converts ~45%. This one sits where readers
+            still are. `placement` splits mid vs end in PostHog. */}
+        {contentParts.second && (
+          <EmailCaptureCard
+            magnet={exitVariant === 'trivia' ? 'trivia-pack' : DEFAULT_MAGNET}
+            source="blog-inline"
+            sourcePost={post.slug}
+            placement="mid"
+            compact
+          />
+        )}
+
         {/* Inline image 2 */}
         {contentParts.second && (
           <BlogImage
@@ -576,9 +598,10 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
         )}
         {/* Email capture — magnet matched to page type */}
         <EmailCaptureCard
-          magnet={exitVariant === 'trivia' ? 'trivia-pack' : 'bedtime-kit'}
+          magnet={exitVariant === 'trivia' ? 'trivia-pack' : DEFAULT_MAGNET}
           source="blog-inline"
           sourcePost={post.slug}
+          placement="end"
         />
       </article>
 

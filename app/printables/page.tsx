@@ -100,6 +100,14 @@ const PACKS = [
     details: 'Easy, medium & hard rounds · Answer key with verse references',
   },
   {
+    href: '/printables/advent-readings',
+    emoji: '🕯️',
+    title: 'Advent Bible Readings — 25 Days',
+    description:
+      'December 1 to 25: one short reading a night from the first promise in Genesis to the manger, with a discussion question for each day. The readings double as Bible verses for a homemade Advent calendar.',
+    details: '25 daily readings · Discussion questions · Prophecies through Christmas morning',
+  },
+  {
     href: '/printables/30-day-challenge',
     emoji: '📅',
     title: '30-Day Family Bible Challenge',

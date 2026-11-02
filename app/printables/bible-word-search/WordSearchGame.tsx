@@ -23,6 +23,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import posthog from 'posthog-js'
+import { EmailCaptureCard } from '@/app/blog/EmailCaptureCard'
 
 type Placement = { row: number; col: number; dr: number; dc: number }
 
@@ -244,6 +245,18 @@ export function WordSearchGame({
               Now watch the {title} story
             </a>
             <button className="wsg-reset" onClick={reset}>Play again</button>
+            {/* The just-finished player is this page's most engaged visitor —
+                the one moment an email ask earns its place. The card's own
+                game-state class handling keeps it out of print. */}
+            <EmailCaptureCard
+              magnet="trivia-pack"
+              source="game-end"
+              sourcePost={slug}
+              placement="ws-end"
+              compact
+              title="🎯 Free: The Family Bible Trivia Pack"
+              subtitle="100 printable questions for game night — answers in the back."
+            />
           </div>
         )}
       </div>

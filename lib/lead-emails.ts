@@ -61,7 +61,27 @@ const MAGNET_INFO = {
     url: `${SITE_URL}/printables/bedtime-bible-kit`,
     line: 'Seven nights of five-minute stories — a story, a prayer, and one question to whisper about.',
   },
+  advent: {
+    name: 'The 25-Day Advent Bible Readings',
+    shortName: 'Advent Readings',
+    url: `${SITE_URL}/printables/advent-readings`,
+    line: 'December 1 to 25 — one short reading a night, from the first promise to the manger.',
+  },
 } as const
+
+/* Every drip email after the first gives something free before it asks for
+   anything. Rewritten Nov 1, 2026 on the click data: email 1 (the gift) drew
+   59 clickers in 60 days, email 2 (the first pitch) drew 5, emails 3-5
+   drew 1-2 each. This audience opens gifts and ignores pitches, so each
+   stage leads with a real free thing and carries the trial as the P.S. until
+   the closer. The second printable is the one they don't already have. */
+function crossGift(magnet: string) {
+  const other = magnet === 'bedtime-kit' ? 'trivia-pack'
+    : magnet === 'coloring-pages' ? 'bedtime-kit'
+    : magnet === 'challenge' ? 'trivia-pack'
+    : 'bedtime-kit' // trivia-pack leads get the bedtime kit
+  return MAGNET_INFO[other as keyof typeof MAGNET_INFO]
+}
 
 function utm(url: string, stage: number): string {
   const sep = url.includes('?') ? '&' : '?'
@@ -162,37 +182,40 @@ ${button(magnetUrl, `Open the ${m.shortName} →`)}
 ${lead.source === 'quiz-exit' ? quizRecap(lead) : ''}
 <p style="margin-top:20px;">P.S. Every story in it exists as a roughly two-minute video lesson narrated by Jesus, with a quiz after — that's what we make. <a href="${quizUrl}" style="color:#16a34a;font-weight:700;">Try it free for 7 days</a> whenever you're curious.</p>`),
       }
-    case 2:
+    case 2: {
+      const gift = crossGift(lead.magnet)
       return {
-        subject: lead.magnet === 'trivia-pack' ? 'How did game night go?' : 'How did the first night go?',
+        subject: `A second freebie: the ${gift.shortName}`,
         html: wrap(lead.email, `
 <p>${lead.magnet === 'trivia-pack'
-    ? 'Most families tell us the same thing about Bible trivia night: the kids wanted the stories BEHIND the answers.'
-    : 'Most families tell us the same thing about night one: the kids had more questions than the parents expected.'}</p>
-<p>That's the whole point — and it's exactly what the videos are for. Here's the very first story, free, so you can see what a Faithful Kids lesson feels like:</p>
-${button(utm(`${SITE_URL}/blog/in-the-beginning-creation-for-kids`, stage), 'Watch "Creation" free →')}
-<p>A few minutes, narrated by Jesus, made for ages 5+. If your kids like it, there are 300+ more inside.</p>`),
+    ? 'Hope game night was a hit. Since the trivia pack worked for your family, here’s the companion piece:'
+    : 'Hope the first night went well. Families who liked that one usually love this one too:'}</p>
+<p style="font-size:17px;font-weight:700;margin:14px 0 4px;">${gift.name} — free, no strings</p>
+<p>${gift.line}</p>
+${button(utm(gift.url, stage), `Get the ${gift.shortName} →`)}
+<p style="margin-top:20px;">And if you want tonight's story handled for you: the very first Faithful Kids episode, <em>Creation</em>, is free to watch — about two minutes, narrated by Jesus, with the same warmth the printables have. <a href="${utm(`${SITE_URL}/blog/in-the-beginning-creation-for-kids`, stage)}" style="color:#16a34a;font-weight:700;">Watch it here</a>.</p>`),
       }
+    }
     case 3:
       return {
-        subject: 'The 1,095-hour question',
+        subject: 'Free tonight: David & Goliath (and a number that stopped us cold)',
         html: wrap(lead.email, `
-<p>Here's a number that stopped us cold when we became parents:</p>
+<p>First, tonight's story — the one every kid asks for — free, start to finish:</p>
+${button(utm(`${SITE_URL}/blog/david-and-goliath-for-kids`, stage), 'Watch David & Goliath free →')}
+<p>Two minutes. Watch your kid's face when the stone flies.</p>
+<p style="margin-top:22px;">Now the number that stopped us cold as parents:</p>
 <p style="font-size:22px;font-weight:800;margin:14px 0;color:#16a34a;">1,095 hours</p>
 <p>That's what "about 3 hours of screens a day" adds up to in a year. Nobody plans it. It just happens.</p>
-<p>Now the hopeful part: <strong>if just 5% of that became Scripture</strong>, your child would walk through the entire Bible — twice — this year. Twenty minutes a day. That's the whole idea behind Faithful Kids.</p>
-${button(quizUrl, 'See how it works — free for 7 days')}
-<p style="color:#6b7280;font-size:13px;">No ads. No junk. Cancel anytime.</p>`),
+<p>The hopeful part: <strong>if just 5% of that became Scripture</strong>, your child would walk through the entire Bible — twice — this year. That's the whole idea behind Faithful Kids: 300+ stories like the one above, each ending with a quiz. <a href="${quizUrl}" style="color:#16a34a;font-weight:700;">It starts with a free week</a>.</p>`),
       }
     case 4:
       return {
-        subject: 'What other parents say (we almost cried at #2)',
+        subject: 'One more free story: Noah and the Great Flood',
         html: wrap(lead.email, `
-<p>Three notes from Faithful Kids parents:</p>
+<p>Third free episode, on us — the animals, the ark, the rainbow:</p>
+${button(utm(`${SITE_URL}/blog/noah-and-the-great-flood-for-kids`, stage), 'Watch Noah’s story free →')}
+<p style="margin-top:20px;">By now your kids have seen what a Faithful Kids lesson feels like. Inside the app, this is what every day looks like: a two-minute episode, a quiz right after so you can see what stuck, and the whole Bible in order — 300+ lessons from Genesis to Revelation. No ads, no algorithm, no "up next" rabbit hole.</p>
 <p style="border-left:3px solid #16a34a;padding-left:14px;margin:16px 0;">"My daughter asks for Bible stories instead of YouTube now."<br/><span style="color:#6b7280;font-size:13px;">— Maria S., mom of 3</span></p>
-<p style="border-left:3px solid #16a34a;padding-left:14px;margin:16px 0;">"My boys retell the stories at dinner. I almost cried the first time."<br/><span style="color:#6b7280;font-size:13px;">— James T., dad of 2</span></p>
-<p style="border-left:3px solid #16a34a;padding-left:14px;margin:16px 0;">"Finally, screen time I don't feel guilty about."<br/><span style="color:#6b7280;font-size:13px;">— Sarah K., mom of 1</span></p>
-<p>Every subscription includes 300+ video lessons, quizzes after every story, up to 5 kid profiles, and a parent dashboard.</p>
 ${button(quizUrl, 'Start your free trial →')}`),
       }
     case 5:
@@ -201,10 +224,11 @@ ${button(quizUrl, 'Start your free trial →')}`),
         subject: 'Last one from us — the door stays open',
         html: wrap(lead.email, `
 <p>This is the last email in this little series — we promised not to clutter your inbox, and we meant it.</p>
-<p>Just one honest thought before we go: the parents who get the most out of Faithful Kids aren't the ones with perfect routines. They're the ones who swapped <em>one</em> YouTube session a day for one Bible story with a quiz. That's it. That swap compounds into a child who knows Scripture.</p>
+<p>Everything free stays yours: the printables, and the stories we sent — <a href="${utm(`${SITE_URL}/blog/in-the-beginning-creation-for-kids`, stage)}" style="color:#16a34a;">Creation</a>, <a href="${utm(`${SITE_URL}/blog/david-and-goliath-for-kids`, stage)}" style="color:#16a34a;">David &amp; Goliath</a>, <a href="${utm(`${SITE_URL}/blog/noah-and-the-great-flood-for-kids`, stage)}" style="color:#16a34a;">Noah</a>.</p>
+<p>One honest thought before we go: the parents who get the most out of Faithful Kids aren't the ones with perfect routines. They're the ones who swapped <em>one</em> YouTube session a day for one Bible story with a quiz. That swap compounds into a child who knows Scripture.</p>
 <p>The 7-day trial is free, and the 30-day money-back guarantee covers the rest — there's genuinely no catch.</p>
 ${button(quizUrl, 'Give it a week — free')}
-<p>Either way: keep the printable, enjoy the stories, and thank you for letting us into your family's inbox for a few days. 💚</p>`),
+<p>Either way: keep the printables, enjoy the stories, and thank you for letting us into your family's inbox for a few days. 💚</p>`),
       }
   }
 }

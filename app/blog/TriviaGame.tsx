@@ -5,6 +5,7 @@ import posthog from 'posthog-js'
 import type { TriviaLink } from '@/lib/blog'
 import type { TriviaChoiceQuestion } from '@/lib/trivia-choices'
 import { VideoTile } from '@/app/components/VideoTile'
+import { EmailCaptureCard } from './EmailCaptureCard'
 
 function track(event: string, props?: Record<string, unknown>) {
   try {
@@ -364,6 +365,21 @@ export function TriviaGame({
         >
           Take a look
         </a>
+
+        {/* Someone who just played a full round is the most engaged visitor
+            this page gets — the one moment an email ask earns its place.
+            Never in embeds: no forms inside other people's sites. */}
+        {!embed && (
+          <EmailCaptureCard
+            magnet="trivia-pack"
+            source="game-end"
+            sourcePost={postSlug}
+            placement="trivia-end"
+            compact
+            title="🎯 Free: 100 more questions for game night"
+            subtitle="The Family Bible Trivia Pack — printable, answers in the back."
+          />
+        )}
 
         {related.length > 0 && (
           <div style={{ marginTop: '26px', borderTop: '1px solid #eee', paddingTop: '20px' }}>

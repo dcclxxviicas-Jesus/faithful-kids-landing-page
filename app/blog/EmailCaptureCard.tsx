@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import posthog from 'posthog-js'
 
 export function EmailCaptureCard({
@@ -11,18 +11,41 @@ export function EmailCaptureCard({
   title,
   subtitle,
   compact = false,
+  placement,
 }: {
-  magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit' | 'coloring-pages' | 'quiz-plan'
-  source: 'blog-inline' | 'blog-exit' | 'quiz-exit'
+  magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit' | 'coloring-pages' | 'quiz-plan' | 'advent'
+  source: 'blog-inline' | 'blog-exit' | 'quiz-exit' | 'game-end'
   sourcePost: string
   quizAnswers?: Record<string, string>
   title?: string
   subtitle?: string
   /** Tighter padding + margins for constrained surfaces like the exit sheet. */
   compact?: boolean
+  /** Where on the page this card sits ('mid', 'end', 'trivia-end', 'ws-end').
+      When set, the card fires email_capture_shown on first 50% visibility —
+      the blog card never reported visibility before Nov 1, 2026, so its
+      0.18% submit rate couldn't be split into "unseen" vs "seen and declined".
+      Quiz surfaces fire their own shown event and pass no placement; adding
+      one there would double-count. */
+  placement?: string
 }) {
   const [email, setEmail] = useState('')
   const [state, setState] = useState<'idle' | 'sending' | 'done' | 'error'>('idle')
+  const cardRef = useRef<HTMLDivElement>(null)
+  const shownRef = useRef(false)
+
+  useEffect(() => {
+    const el = cardRef.current
+    if (!placement || !el || shownRef.current) return
+    const io = new IntersectionObserver(entries => {
+      if (shownRef.current || !entries.some(e => e.isIntersecting)) return
+      shownRef.current = true
+      posthog.capture('email_capture_shown', { magnet, source, post: sourcePost, placement })
+      io.disconnect()
+    }, { threshold: 0.5 })
+    io.observe(el)
+    return () => io.disconnect()
+  }, [placement, magnet, source, sourcePost])
 
   const COPY = {
     'coloring-pages': {
@@ -50,6 +73,11 @@ export function EmailCaptureCard({
       sub: 'One story a night, printable for the fridge. Read it, talk about it, check it off.',
       name: '30-Day Challenge',
     },
+    advent: {
+      heading: '🕯️ Free: 25 Days of Advent Bible Readings',
+      sub: 'December 1 to 25 — one short reading a night, from the first promise to the manger. Printable for the fridge.',
+      name: 'Advent Readings',
+    },
   }[magnet]
   const heading = title === undefined ? COPY.heading : title
   const sub = subtitle === undefined ? COPY.sub : subtitle
@@ -69,7 +97,7 @@ export function EmailCaptureCard({
       /* First join between the anonymous browsing id and a real identity —
          this is what makes a later purchase attributable to a funnel. */
       try { posthog.identify(email.trim().toLowerCase()) } catch { /* fine */ }
-      posthog.capture('email_capture_submitted', { magnet, source, post: sourcePost })
+      posthog.capture('email_capture_submitted', { magnet, source, post: sourcePost, placement })
     } catch {
       setState('error')
     }
@@ -90,7 +118,7 @@ export function EmailCaptureCard({
   }
 
   return (
-    <div style={{ background: '#f0fdf4', border: '2px solid #dcfce7', borderRadius: '16px', padding: compact ? '14px' : '24px', textAlign: 'center', margin: compact ? '14px 0 10px' : '32px 0' }}>
+    <div ref={cardRef} style={{ background: '#f0fdf4', border: '2px solid #dcfce7', borderRadius: '16px', padding: compact ? '14px' : '24px', textAlign: 'center', margin: compact ? '14px 0 10px' : '32px 0' }}>
       {heading && <p style={{ fontWeight: 800, fontSize: '1.1rem', margin: '0 0 6px' }}>{heading}</p>}
       {sub && <p style={{ color: '#555', fontSize: '0.92rem', margin: '0 0 16px' }}>{sub}</p>}
       <form onSubmit={submit} style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>

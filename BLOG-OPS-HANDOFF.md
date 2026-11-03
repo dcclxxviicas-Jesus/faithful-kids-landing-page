@@ -747,6 +747,24 @@ straight.
 
 ## 8. COORDINATION & HANDOFF
 
+- **Two-agent operating rules (Cas, Nov 3, 2026):** this lane is **Agent 1:
+  SEO & Resources** — owns `/blog`, keyword research, optimization, and
+  evergreen resources (printables included). **Agent 2: Parenting &
+  Editorial** (the "parenting" session) owns `/parenting`, its editorial
+  articles, contributors, author pages, and the Parenting newsletter
+  (content in `content/parenting/` + `app/parenting/` — NEVER touched by
+  this lane's link injectors, which glob `content/blog/*.md` only; keep it
+  that way). Rules that bind this lane: don't modify `/parenting` routes or
+  content without approval (SEO recommendations go TO the parenting session,
+  which implements them); Agent 2 may propose evergreen guides, which THIS
+  lane publishes through /blog; nav, shared components (SiteChrome etc.) and
+  shared architecture need coordinated review; when content crosses
+  sections, LINK to the original, never duplicate it; one taxonomy/canonical/
+  analytics/brand standard sitewide; end-of-session handoff in this file
+  stays mandatory. Rule 6 ("do not deploy unapproved content") read together
+  with the standing grant: checkers-pass /blog content remains
+  pre-approved per Cas's Oct 29 directive; contributor/editorial content is
+  Agent 2's approval chain, not ours.
 - **Sessions in flight:** "emails" session owns outreach
   (backlink-engine/EMAIL-OPS-HANDOFF.md). The session that wrote this file
   handled SEO/AEO/app work and the Aditi customer thread. `prospects.json`

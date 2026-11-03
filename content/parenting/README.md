@@ -1,4 +1,4 @@
-# Parenting — how to publish
+# Parenting: how to publish
 
 Articles are Markdown files in this folder; contributor profiles live in `authors/`.
 The site reads them at build time. Publishing = commit + deploy, same as the blog.

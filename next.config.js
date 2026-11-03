@@ -6,6 +6,11 @@ const nextConfig = {
      this the admin page 500s in production and works perfectly in dev. */
   outputFileTracingIncludes: {
     '/api/contracts/admin': ['./contracts/**/*'],
+    // Parenting: the desk API and the draft preview read content/parenting
+    // at REQUEST time (drafts are never part of the static build), so the
+    // tracer has to be told the folder exists, exactly like the contracts.
+    '/api/parenting/admin': ['./content/parenting/**/*'],
+    '/parenting/preview/[slug]': ['./content/parenting/**/*'],
   },
   // PostHog reverse proxy — routes analytics through our domain so ad
   // blockers don't drop events (PostHog "Set up reverse proxy" health check)

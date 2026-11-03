@@ -102,6 +102,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      // Curated children's-ministry resource hub (Nov 2026). Low-volume,
+      // high-authority space — judge by referring domains + church signups.
+      url: `${baseUrl}/churches/resources`,
+      lastModified: new Date('2026-11-03'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: `${baseUrl}/creators`,
       lastModified: new Date('2026-10-07'),
       changeFrequency: 'monthly',

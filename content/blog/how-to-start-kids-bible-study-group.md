@@ -65,6 +65,8 @@ If small hands need something to do while you read, the free [wise men coloring 
 
 The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
 
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+
 ## Step 4: Structure Your Sessions
 
 A typical kids Bible study session runs 45-60 minutes. Here's a structure that works across all age groups:

@@ -458,7 +458,19 @@ export function TriviaGame({
     const base: React.CSSProperties = {
       display: 'flex', alignItems: 'center', gap: '12px', width: '100%',
       padding: '15px 16px', marginBottom: '10px', borderRadius: '14px',
-      border: '2px solid #e5e7eb', background: '#fff', cursor: revealed ? 'default' : 'pointer',
+      /* Longhands, NOT the `border` shorthand — and the reason is a real bug
+         that shipped. The branches below override `borderColor`; with a
+         `border` shorthand here, React's style diff cleared that longhand on
+         the next question while leaving the shorthand in place (the shorthand
+         string never changes, and React only re-applies a property whose value
+         changed). That left the element with border-width and border-style but
+         NO border-color, which on a <button> falls back to the UA default —
+         pure black. Options are keyed by index, so the same DOM nodes carry
+         that across the whole round: every option that had been highlighted
+         once stayed outlined black, and by question 4 the entire list was.
+         Keep every border property a longhand here. */
+      borderWidth: '2px', borderStyle: 'solid', borderColor: '#e5e7eb',
+      background: '#fff', cursor: revealed ? 'default' : 'pointer',
       font: 'inherit', fontSize: '1rem', fontWeight: 600, color: '#1f2937',
       textAlign: 'left', lineHeight: 1.35, transition: 'border-color .12s, background .12s',
     }

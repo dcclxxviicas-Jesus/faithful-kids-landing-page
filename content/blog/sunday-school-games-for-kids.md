@@ -77,6 +77,8 @@ If the books' order is still fuzzy, print our free [books of the Bible chart and
 
 For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
 
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+
 ## What Sunday School Games Work for Preteens (Ages 11-13)?
 
 Preteens need competition, choice, or an opinion to defend -- otherwise they will sit out on purpose. Anything that feels babyish gets rejected in about eight seconds, so raise the difficulty rather than the silliness.

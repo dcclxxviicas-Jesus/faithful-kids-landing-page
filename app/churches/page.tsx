@@ -124,7 +124,20 @@ function ChurchesV2() {
         </div>
       </section>
 
+      {/* Tasteful pointer to the curated resource hub (Nov 2026 brief) — one
+          block, no redesign of this page's existing offer. */}
       <section className="v2-section">
+        <V2Head
+          eyebrow="Free Resource Library"
+          title="Resources for your ministry, beyond the app"
+          sub={<>Lesson guides, classroom games, printable maps and charts, trivia, and
+            family-engagement tools &mdash; organized by the job you&apos;re doing this week,
+            all free and photocopy-friendly.{' '}
+            <a href="/churches/resources" style={g}>Browse the children&apos;s ministry resource library &rarr;</a></>}
+        />
+      </section>
+
+      <section className="v2-section is-alt">
         <V2Head eyebrow="Common Questions" title="The honest answers" />
         <div className="v2-wrap is-narrow">
           <div className="hv-faq-list">

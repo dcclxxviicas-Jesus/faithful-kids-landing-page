@@ -76,6 +76,8 @@ If your group loves a game-show format, our free [Bible Jeopardy board](/bible-j
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+
 ## How Do You Write Good Review Questions?
 
 Write questions at three levels -- recall, understanding, and application -- and use all three in every game. A question list with only recall ("Who fought Goliath?") reviews names; adding the other two levels reviews meaning:

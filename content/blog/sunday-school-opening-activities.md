@@ -64,6 +64,8 @@ Tell three short statements about a Bible character -- two true, one false -- an
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+
 ## Opening Songs (10-12)
 
 Music does something announcements can't: it synchronizes a room. You don't need a worship band -- a phone and a speaker will do.

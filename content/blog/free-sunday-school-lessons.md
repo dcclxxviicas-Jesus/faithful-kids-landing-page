@@ -188,6 +188,8 @@ A free [books of the Bible printable](/printables/books-of-the-bible) — chart 
 
 To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
 
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+
 ## Print the Free Trivia Pack for Review Weeks
 
 When you need a class filled with zero prep, review beats a new story. Our free [Bible Trivia Pack](/printables/bible-trivia-pack) has 100 kid-friendly questions in easy, medium, and hard rounds, each answer with its Scripture reference. No signup, no email -- print it, split the room into teams, and the hour runs itself.

@@ -77,6 +77,8 @@ A free [books of the Bible printable](/printables/books-of-the-bible) — chart 
 
 To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
 
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+
 ## Quarter 3: The Life of Jesus (Weeks 27-39)
 
 Birth through ministry -- who Jesus is, and what He taught. **Quarter memory verse:** "For God so loved the world that he gave his one and only Son." -- John 3:16

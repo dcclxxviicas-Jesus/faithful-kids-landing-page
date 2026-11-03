@@ -44,6 +44,8 @@ Adapt these to your family's unique situation. Some families will implement all 
 
 **How to implement:** Teach the criteria by name. Post them on the fridge. When your child asks to watch something new, go through the checklist together — not as a lecture, but as a conversation. "Let us check: is this show true, noble, right, pure, lovely, admirable, excellent, and praiseworthy?" Even if it does not pass every test perfectly, the habit of evaluation is the real win. If YouTube is where most battles happen, these [Christian alternatives to YouTube for kids](/blog/christian-alternatives-to-youtube-for-kids) make the test much easier to pass.
 
+From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails — what worked in his house was replacement, not prohibition.
+
 ## Rule 4: Earn Screen Time with Non-Screen Activities First
 
 **The rule:** Before recreational screen time, complete daily responsibilities: homework, chores, physical activity, reading time, and Bible time.

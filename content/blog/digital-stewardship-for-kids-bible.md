@@ -111,6 +111,8 @@ Teenagers need to be making more of their own digital decisions — within a fra
 
 We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story — free, and the printed sheet includes the answer to where it came from.
 
+From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails — what worked in his house was replacement, not prohibition.
+
 ## The Family Tech Contract
 
 A tech contract is not about control — it is about clarity. When expectations are written down and agreed upon, there are fewer arguments and more accountability. (For a full set of sample house rules, see [screen time rules for Christian families](/blog/screen-time-rules-christian-families).) Here is a framework you can adapt:

@@ -116,6 +116,8 @@ If ad-safety is the deciding factor, our app-by-app check of [Bible apps with no
 
 Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
 
+From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails — what worked in his house was replacement, not prohibition.
+
 ## Frequently Asked Questions
 
 ### What is the safest video app for Christian kids?

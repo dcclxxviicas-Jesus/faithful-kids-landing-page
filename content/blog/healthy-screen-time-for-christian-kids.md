@@ -79,6 +79,8 @@ Screens can connect us or isolate us. When a child watches a video and then disc
 
 **Application:** Make screen time social whenever possible. Watch together. Play games together. Discuss what you watched. The "together" part is what redeems the screen.
 
+From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails — what worked in his house was replacement, not prohibition.
+
 ## 5 Practical Rules for Your Family
 
 ### Rule 1: No Screens During Meals

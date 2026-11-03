@@ -47,6 +47,8 @@ The story of The Widow's Oil teaches children important lessons about faith, mir
 
 > *"Trust in the Lord with all your heart."* — Proverbs 3:5
 
+For the apprentice who carried the ministry further — the oil, Naaman, the horses of fire — see [Who Was Elisha in the Bible?](/blog/who-was-elisha-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

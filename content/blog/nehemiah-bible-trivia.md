@@ -68,6 +68,8 @@ Keep the order straight while you quiz: our free [printable books of the Bible c
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
+For the whole 52-day project — the prayers, the mockers, the wall — see [Who Was Nehemiah in the Bible?](/blog/who-was-nehemiah-for-kids)
+
 ## Hard Nehemiah Trivia Questions (Teens and Adults)
 
 21. In which Persian city, and in which year of the king's reign, does the book open? **Susa (the citadel), in the twentieth year of Artaxerxes** (Nehemiah 1:1; 2:1)

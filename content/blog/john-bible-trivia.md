@@ -59,6 +59,8 @@ If your group loves a game-show format, our free [Bible Jeopardy board](/bible-j
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
+There was more to him than one famous week: [Who Was Thomas in the Bible?](/blog/who-was-thomas-for-kids) tells his brave side too.
+
 ## Hard John Trivia Questions (Teens and Adults)
 
 32. What was the name of the servant who lost his ear -- a detail only John records? **Malchus** (John 18:10)

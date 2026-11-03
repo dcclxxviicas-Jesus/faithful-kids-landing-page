@@ -71,6 +71,8 @@ If you want the name to come with a role model attached.
 - **Zion** — the hill God loved (Psalm 87:2); used today for girls and boys both.
 - **Mara** — "bitter" (Ruth 1:20) -- the name Naomi briefly took in her grief. Parents use it now for its sound; its story is about honesty with God.
 
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+
 ## New Testament Girl Names
 
 - **Chloe** — "green shoot" (1 Corinthians 1:11). Her household kept Paul honestly informed -- a small, vital job.

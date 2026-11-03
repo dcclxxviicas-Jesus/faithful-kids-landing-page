@@ -47,6 +47,8 @@ The story of Stephen the First Martyr teaches children important lessons about c
 
 > *"Lord, do not hold this sin against them."* — Acts 7:60
 
+For the full story of the church's first martyr — and the surprise link to Paul — see [Who Was Stephen in the Bible?](/blog/who-was-stephen-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

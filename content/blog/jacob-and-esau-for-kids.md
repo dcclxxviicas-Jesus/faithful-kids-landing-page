@@ -45,6 +45,8 @@ The story of Jacob and Esau teaches children important lessons about creation, f
 
 > *"I am with you and will watch over you wherever you go."* — Genesis 28:15
 
+For the whole life — the stolen blessing, the stairway dream, and the night he wrestled God — see [Who Was Jacob in the Bible?](/blog/who-was-jacob-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

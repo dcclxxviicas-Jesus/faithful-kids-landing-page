@@ -49,6 +49,8 @@ The story of Solomon Asks for Wisdom teaches children important lessons about wi
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
+For the wisest king's whole arc — the dream, the judgment, the temple, and the fall — see [Who Was Solomon in the Bible?](/blog/who-was-solomon-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

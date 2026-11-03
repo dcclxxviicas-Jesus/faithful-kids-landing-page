@@ -47,6 +47,8 @@ The story of The Twelve Spies teaches children important lessons about courage, 
 
 To picture the land itself, the free [printable map of Canaan](/printables/bible-maps/the-promised-land) shows the Promised Land as Joshua found it — walled cities, seven nations and the Jordan to cross.
 
+For Joshua's whole life — apprentice, spy, general, and the choice at Shechem — see [Who Was Joshua in the Bible?](/blog/who-was-joshua-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

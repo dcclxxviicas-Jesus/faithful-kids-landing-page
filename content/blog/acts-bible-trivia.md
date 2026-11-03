@@ -60,6 +60,8 @@ For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a 
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+For the full story of the church's first martyr — and the surprise link to Paul — see [Who Was Stephen in the Bible?](/blog/who-was-stephen-for-kids)
+
 ## Hard Acts Trivia Questions (Teens and Adults)
 
 31. What altar inscription did Paul quote when preaching in Athens? **"TO AN UNKNOWN GOD"** (Acts 17:23)

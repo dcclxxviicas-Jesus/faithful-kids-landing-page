@@ -49,6 +49,8 @@ Add five quiet minutes with the free [Armor of God word search](/printables/bibl
 
 There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
 
+Paul's young apprentice — raised on Scripture by his mom and grandma — has his own profile: [Who Was Timothy in the Bible?](/blog/who-was-timothy-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, snakebites. Kids love this because it is exciting. But underneath the adventure is a lesson about perseverance. Paul never gave up, no matter what happened. When your child faces setbacks, frustration, or the temptation to quit something hard, Paul's story is the one to revisit. God does not promise an easy road, but He promises to be on the road with you.

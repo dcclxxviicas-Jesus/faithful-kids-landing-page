@@ -47,6 +47,8 @@ The story of Samson Strongest Man Alive teaches children important lessons about
 
 For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
 
+For the whole story in one place — the vow, Delilah, and the final prayer — see [Who Was Samson?](/blog/who-was-samson-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

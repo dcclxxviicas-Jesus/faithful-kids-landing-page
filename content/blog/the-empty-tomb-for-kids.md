@@ -49,6 +49,8 @@ The story of The Empty Tomb teaches children important lessons about resurrectio
 
 There is also a free set of [Easter coloring pages](/printables/easter-coloring-pages) on our site, drawn for crayons and ready to print.
 
+The woman who saw it first has her own story: [Who Was Mary Magdalene in the Bible?](/blog/who-was-mary-magdalene-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 The Resurrection is the happiest story in the Bible, and kids should feel that joy. After the sadness of the Cross, this story is the celebration. He is alive! For younger kids, focus on the surprise and joy of the women at the empty tomb. For older kids, talk about what the Resurrection means: death is not the end, hope is always possible, and God keeps every promise. This is the story that changes everything.

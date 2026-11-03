@@ -171,7 +171,7 @@ export function getCategoryByName(name: string): GuideCategory | undefined {
 // hub pages and the blog index share one source of truth)
 export function getGuideCategory(slug: string): string {
   if (slug.startsWith('bible-verses-') || slug.startsWith('short-bible-verses') || slug.startsWith('goodnight-bible-verses')) return 'Bible Verses'
-  if (slug.startsWith('who-was-')) return 'Bible Characters'
+  if (slug.startsWith('who-was-') || slug === 'women-of-the-bible-for-kids') return 'Bible Characters'
   if (slug.startsWith('how-to-explain-')) return 'How to Explain'
   if (slug.startsWith('bible-stories-about-') || slug === 'bible-stories-with-moral-lessons-for-kids') return 'Bible Themes'
   if (slug.startsWith('bible-stories-for-') || slug === 'best-bible-stories-for-kids') return 'By Age'

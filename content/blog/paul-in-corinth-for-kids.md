@@ -49,6 +49,8 @@ There is a free [Armor of God word search](/printables/bible-word-search/armor-o
 
 There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
 
+Europe's first believer — the purple-cloth merchant whose home became the first church on the continent — has her own story: [Who Was Lydia in the Bible?](/blog/who-was-lydia-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Paul's adventures read like an action movie: shipwrecks, prison breaks, riots, snakebites. Kids love this because it is exciting. But underneath the adventure is a lesson about perseverance. Paul never gave up, no matter what happened. When your child faces setbacks, frustration, or the temptation to quit something hard, Paul's story is the one to revisit. God does not promise an easy road, but He promises to be on the road with you.

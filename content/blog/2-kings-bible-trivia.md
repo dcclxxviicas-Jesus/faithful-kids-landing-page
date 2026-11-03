@@ -53,6 +53,8 @@ For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a 
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+For the apprentice who carried the ministry further — the oil, Naaman, the horses of fire — see [Who Was Elisha in the Bible?](/blog/who-was-elisha-for-kids)
+
 ## Hard 2 Kings Trivia Questions (Teens and Adults)
 
 24. Which king was famous for driving his chariot "like a maniac"? **Jehu** (2 Kings 9:20)

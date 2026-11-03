@@ -626,6 +626,53 @@ eyeballed, 41 links at birth. Mother's/Father's Day sets follow early
 spring. All four Oct 29 deploys SHA-pinned READY, live-verified,
 IndexNow 200 each.
 
+**Nov 2, 2026 — Geography build: 6 Bible maps + timeline (commit d4b1019).**
+Cas pasted a master SEO expansion brief ("expand our blog network").
+DFS-sized its five new categories: geography REAL (bible timeline 2,956/mo
+cs KD15, bible map 1,376 KD18, six detail terms 350-970 each at KD 0-10 —
+all artifact SERPs with EMPTY AIOs, held by 1990s map sites);
+archaeology/daily-life DEAD (clickstream zeros); books-of-the-Bible
+summaries modest + AIO-eaten; big questions unmeasurable; curriculum
+commercial KD 68-77 authority fights. Shipped /printables/bible-maps (hub)
++ 6 maps (ancient-israel, israel-in-jesus-time, the-exodus,
+pauls-missionary-journeys, twelve-tribes-of-israel, the-promised-land) +
+/printables/bible-timeline. THE DIFFERENTIATOR: real Natural Earth 10m
+coastlines + all 105 places projected from true lat/lon
+(build-bible-maps.py → lib/bible-maps.json is the single source of truth;
+pages, PDFs, OGs all render from it; validation throws on out-of-bbox
+points). Honesty rules baked in: traditional sites (Sinai, Red Sea
+crossing) carry asterisks on map/page/PDF; 12 tribes uses soft areas not
+borders (Joshua 13-19 boundary towns are unlocatable); timeline dates Gen
+1-11 "before recorded history" and flags the 1446-vs-1270 exodus debate.
+7 PDFs + 7 OGs on CDN (make-bible-maps-pdfs.py extracts the BUILT page
+SVGs via qlmanage so PDF = page exactly; frame-checked via pypdfium2).
+link-bible-maps.py: 105 deep links, most-specific-map-wins, one per post
+(Daniel/Esther deliberately NOT matched to the Israel map — their stories
+happen in Babylon/Persia). check-counts extended (maps/eras claims);
+PLACE_COUNT>100 assert backs the "Over 100 labeled places" card. Deploy
+SHA-pinned READY, live-verified, sitemap 679, IndexNow 200. Gotcha for
+rerunners: Douglas-Peucker on a CLOSED ring collapses to 2 points (the
+start==end baseline is degenerate) — extract-coastlines splits each ring
+at its farthest point first.
+
+**Nov 2, 2026 — Character profiles batch (same session, second ship).**
+19 new who-was posts + women-of-the-bible-for-kids roundup, targeting the
+"X in the bible" cluster DFS found wide open: deborah 2,140 cs/KD2,
+gideon 1,936/KD20, elijah 1,510/KD16, rahab 1,427/KD5, jacob 1,427/KD6,
+women of the bible 1,274/KD0 (18,100 ads), isaac/samson/samuel/
+mary-magdalene ~1,000 each, barnabas 805, down to nehemiah 152. GSC
+check first: existing 12 who-was posts earn 115 clicks/90d at pos 7-10
+(AIO-suppressed CTR ~2% but alive) — new terms are BIGGER than what the
+template already ranks for. john-the-baptist profile deliberately NOT
+built (john-the-baptist-for-kids already owns that intent). Titles lead
+with the exact "X in the Bible" phrase; slugs keep the who-was-X-for-kids
+family; women roundup routed to Bible Characters hub via
+guide-categories.ts rule. link-character-profiles.py: 52 inbound links
+from each character's own story posts + era trivia (explicit map, not
+regex). Honesty notes carried into copy: Magdalene ≠ Luke 7 sinful woman,
+Rahab's profession stated plainly, Saul/Solomon/Gideon endings told
+straight.
+
 ---
 
 ## 6. CURRENT MEASURED STATE (Aug 27; re-verify monthly with gsc-query.py)

@@ -45,6 +45,10 @@ The story of Hannah's Prayer teaches children important lessons about bravery, l
 
 > *"For this child I prayed, and the Lord has granted me my petition."* — 1 Samuel 1:27
 
+For his whole life — the boy who heard God's voice, the last judge, the king-maker — see [Who Was Samuel in the Bible?](/blog/who-was-samuel-for-kids)
+
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

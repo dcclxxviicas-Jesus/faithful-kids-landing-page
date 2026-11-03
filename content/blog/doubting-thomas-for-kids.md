@@ -49,6 +49,8 @@ The story of Doubting Thomas teaches children important lessons about resurrecti
 
 Pair this with our free [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children) — one sheet, ready for the kitchen table or the classroom.
 
+There was more to him than one famous week: [Who Was Thomas in the Bible?](/blog/who-was-thomas-for-kids) tells his brave side too.
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

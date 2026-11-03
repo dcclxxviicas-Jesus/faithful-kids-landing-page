@@ -55,6 +55,8 @@ Evaluating the Faithful Kids church program? The complete [scope and sequence](/
 
 To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
 
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+
 ## Frequently Asked Questions
 
 ### Is Faithful Kids really free for churches?

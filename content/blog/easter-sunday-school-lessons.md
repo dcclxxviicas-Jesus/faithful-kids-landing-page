@@ -60,6 +60,8 @@ A free [books of the Bible printable](/printables/books-of-the-bible) — chart 
 
 To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
 
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+
 ## Lesson 3: Tuesday -- The Greatest Commandment and the Widow's Coins
 
 **Objective:** Kids will state the two greatest commandments and give an example of giving that costs something.

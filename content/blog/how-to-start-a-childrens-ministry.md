@@ -10,10 +10,6 @@ dateModified: "2026-11-03"
 
 # How to Start a Children's Ministry: The Complete Step-by-Step Guide
 
-<!-- DRAFT — HELD FOR CAS'S APPROVAL per the Nov 2026 brief (child-safety
-content requires review before publishing). On approval: move to
-content/blog/, run hero generation + pins, add links-at-birth from the
-sunday-school cluster, feature on /churches/resources, run checkers, ship. -->
 
 Somebody in your church looked around on a Sunday morning, saw children with nothing designed for them, and decided to do something about it. If that's you, this guide is the roadmap: seven stages, from the first conversation with your pastor to the season after launch, with the checklists and templates for each stage.
 

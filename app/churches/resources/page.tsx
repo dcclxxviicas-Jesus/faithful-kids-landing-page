@@ -47,6 +47,16 @@ type Section = { emoji: string; title: string; sub: string; cards: Card[] }
 
 const SECTIONS: Section[] = [
   {
+    emoji: '🚀',
+    title: 'Start a Ministry',
+    sub: 'From first conversation to first Sunday — the complete roadmap.',
+    cards: [
+      { href: '/blog/how-to-start-a-childrens-ministry', title: "How to Start a Children's Ministry", blurb: 'The complete step-by-step guide: planning, child safety, volunteers, curriculum, launch, and growth.' },
+      { href: 'https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf', title: 'Children’s Ministry Launch Kit (PDF)', blurb: 'Ten checklists and templates — launch timeline, safety policy outline, volunteer roles, budget worksheet, first-Sunday checklist.' },
+      { href: '/blog/how-to-start-kids-bible-study-group', title: 'Start a Kids Bible Study Group', blurb: 'The smaller first step: a weekly group, from first invite to routine.' },
+    ],
+  },
+  {
     emoji: '🧭',
     title: 'Teach the Bible',
     sub: 'Lesson plans and teaching guides by age, ready for this Sunday.',
@@ -93,7 +103,7 @@ const SECTIONS: Section[] = [
       { href: '/blog/15-minute-family-devotions', title: '15-Minute Family Devotions', blurb: 'A realistic weekly rhythm for busy families.' },
       { href: '/blog/30-day-family-bible-challenge', title: '30-Day Family Bible Challenge', blurb: 'One month through the big story — printable tracker included.' },
       { href: '/blog/family-bible-trivia-night', title: 'Family Bible Trivia Night', blurb: 'Turn review into a family event parents actually attend.' },
-      { href: '/blog/how-to-start-kids-bible-study-group', title: 'Start a Kids Bible Study Group', blurb: 'The practical steps, from first invite to weekly routine.' },
+      { href: '/blog/bedtime-prayers-for-kids', title: 'Bedtime Prayers for Kids', blurb: 'Send the day home quietly — short prayers families can keep.' },
     ],
   },
 ]

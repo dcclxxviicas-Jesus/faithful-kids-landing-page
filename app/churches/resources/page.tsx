@@ -52,7 +52,7 @@ const SECTIONS: Section[] = [
     sub: 'From first conversation to first Sunday — the complete roadmap.',
     cards: [
       { href: '/blog/how-to-start-a-childrens-ministry', title: "How to Start a Children's Ministry", blurb: 'The complete step-by-step guide: planning, child safety, volunteers, curriculum, launch, and growth.' },
-      { href: 'https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf', title: 'Children’s Ministry Launch Kit (PDF)', blurb: 'Ten checklists and templates — launch timeline, safety policy outline, volunteer roles, budget worksheet, first-Sunday checklist.' },
+      { href: 'https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf', title: 'Children’s Ministry Launch Kit (PDF)', blurb: 'Fifteen designed templates — launch timeline, safety policy outline, volunteer role cards, screening tracker, rota, budget, check-in cards, incident form, first-Sunday checklist.' },
       { href: '/blog/how-to-start-kids-bible-study-group', title: 'Start a Kids Bible Study Group', blurb: 'The smaller first step: a weekly group, from first invite to routine.' },
     ],
   },

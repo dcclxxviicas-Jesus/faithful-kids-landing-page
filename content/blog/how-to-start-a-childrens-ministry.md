@@ -39,7 +39,7 @@ You need three things from your pastor and board, explicitly: permission (you're
 
 You don't have to launch Sunday school, children's church, and midweek club at once. Pick ONE recurring slot you can staff twice over (so nobody serves every single week). Most churches start with one of: children's church during the sermon, Sunday school before/after the service, or a midweek club. You can add more after the first season proves the team.
 
-**Downloads for this stage:** ministry launch timeline, age-group planning worksheet (in the [launch kit](#the-launch-kit)).
+**Downloads for this stage:** ministry launch timeline, age-group planning worksheet (in the [launch kit](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)).
 
 ## Stage 2: Child Safety — the Non-Negotiable Stage (Weeks 2–6)
 
@@ -71,7 +71,7 @@ A policy nobody has read protects nobody. Put the above into a short written doc
 
 Ask at registration whether a child has needs you should know about — sensory, mobility, learning, medical — and respond with a plan, not a policy of hoping. The most common accommodation costs nothing: a calmer corner of the room and an adult who knows the child's name.
 
-**Downloads for this stage:** volunteer application outline, incident report form, check-in/pick-up procedure card (in the [launch kit](#the-launch-kit)).
+**Downloads for this stage:** volunteer application outline, incident report form, check-in/pick-up procedure card (in the [launch kit](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)).
 
 ## Stage 3: Recruit and Train Volunteers (Weeks 4–8)
 
@@ -91,7 +91,7 @@ Every volunteer, including the pastor's spouse: application → references → b
 
 The fastest way to lose great volunteers is to burn them. Build the rota so nobody serves more than two or three Sundays a month, publish it a month ahead, and make swaps easy (a group chat works). Twice a year, thank them like you mean it — publicly and specifically.
 
-**Downloads for this stage:** volunteer role descriptions, training checklist, sample rota (in the [launch kit](#the-launch-kit)).
+**Downloads for this stage:** volunteer role descriptions, training checklist, sample rota (in the [launch kit](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)).
 
 ## Stage 4: Choose What You'll Teach (Weeks 5–8)
 
@@ -113,7 +113,7 @@ Evaluate any curriculum — free or paid — against five questions:
 
 This guide is published by [Faithful Kids](/churches), and here is our honest pitch for this step: our library is 300+ short Bible video episodes — each about two minutes, each ending with a quiz and reflection — covering the whole Bible in order, and **churches and Sunday schools get free access** (the same library families pay for at home; not a trial). Many small ministries use an episode as the "story" beat and build the session around it: the video tells the story consistently well, and the teacher gets to do the part only a person can do — the conversation. Pair it with our free [printables](/printables), [Bible maps](/printables/bible-maps), and [trivia games](/bible-trivia), which need no license and photocopy freely. And if you'd rather use another curriculum, our [honest comparison of free options](/blog/free-bible-curriculum-for-kids-ministry) includes competitors we think are excellent.
 
-**Downloads for this stage:** curriculum evaluation worksheet, sample session plan (in the [launch kit](#the-launch-kit)).
+**Downloads for this stage:** curriculum evaluation worksheet, sample session plan (in the [launch kit](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)).
 
 ## Stage 5: Organize the Operation (Weeks 6–10)
 
@@ -122,7 +122,7 @@ This guide is published by [Faithful Kids](/churches), and here is our honest pi
 - **Budget:** a realistic small-church start is mostly one-time costs (bins, signage, check-in supplies, background checks) plus a small monthly line (snacks, crafts, printing). Put background checks in the budget explicitly — if money is the reason screening slips, the budget is wrong, not the policy.
 - **Communication with parents:** collect contact info and allergies at first check-in; send one short weekly message (what we taught + one question to ask at dinner). The dinner question outperforms every newsletter.
 
-**Downloads for this stage:** sample startup budget worksheet, supplies checklist, parent welcome letter template (in the [launch kit](#the-launch-kit)).
+**Downloads for this stage:** sample startup budget worksheet, supplies checklist, parent welcome letter template (in the [launch kit](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)).
 
 ## Stage 6: Launch (Weeks 10–12)
 
@@ -131,7 +131,7 @@ This guide is published by [Faithful Kids](/churches), and here is our honest pi
 - **The first public Sunday**, one person — probably you — carries no room assignment and floats. Problems will surface; the floater absorbs them.
 - **Afterward, debrief the same week:** what confused parents, what bored kids, where the schedule slipped. Fix the top three things, ignore the rest for now.
 
-**Download for this stage:** first-Sunday readiness checklist (in the [launch kit](#the-launch-kit)).
+**Download for this stage:** first-Sunday readiness checklist (in the [launch kit](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)).
 
 ## Stage 7: Grow and Improve (Month 4 and On)
 
@@ -143,7 +143,7 @@ This guide is published by [Faithful Kids](/churches), and here is our honest pi
 
 ## The Launch Kit
 
-Every checklist and template in this guide lives in one free PDF pack — the **Children's Ministry Launch Kit**: launch timeline, age-group worksheet, safety policy outline, volunteer application and role descriptions, training checklist, curriculum evaluation worksheet, sample session plan, startup budget worksheet, parent welcome letter, and the first-Sunday readiness checklist. Free, no sign-up, photocopy at will.
+Every checklist and template in this guide lives in one free PDF pack — the **Children's Ministry Launch Kit**: fifteen designed pages covering the launch timeline, age-group worksheet, safety policy outline, volunteer role cards and screening tracker, training sign-off, monthly rota, curriculum comparison grid, session planner, budget and supplies worksheets, parent welcome letter, cut-out check-in and pick-up cards, an incident report form, and the first-Sunday readiness checklist. Free, no sign-up, photocopy at will.
 
 [Download the Children's Ministry Launch Kit (PDF) →](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)
 

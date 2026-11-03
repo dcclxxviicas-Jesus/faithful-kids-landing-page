@@ -145,3 +145,23 @@ Not tested: real email delivery (deliberately disabled locally), the Pinterest/n
 - Admin password is compared with a constant-time check; the preview cookie is an HMAC keyed by `DRIP_SECRET` and expires in 12 hours. Rotating either secret logs every editor out.
 - No contributor or subscriber data is readable without the admin password; the public API routes only write. IPs are stored as a daily salted hash, never raw.
 - `PARENTING_EMAIL_LIVE=0` is the hard off switch for mail in any environment; in `next dev` nothing sends by default.
+
+---
+
+## 5. State and gotchas (3 Nov 2026, after launch)
+
+**Live:** main `96b8905`, production deploy SHA-verified. Three founder essays public (featured: taking-the-screen-away-is-not-a-plan). Desk working on production; Supabase tables created by Cas on 2 Nov; pitch + receipt + newsletter-confirm emails verified arriving in christian@. One test pitch is archived in the desk; one pending newsletter row is Cas's own address awaiting his confirm click.
+
+**Drafts, deliberately unpublished:** four pieces under bylines Cas supplied (Mark Antonio, Zach Thomas, Teresa Marie ×2), backdated 24–30 Oct, with placeholder author bios. Publishing them requires Cas to confirm the authors are real people who approve the text (then: fill the author file, `status: "published"`, build, deploy), or to recast them as disclosed pen names or his own byline. The editorial policy page promises real bylines; do not publish around it.
+
+**House style from Cas:** no em-dashes anywhere in articles; intriguing titles; well written. `grep -c "—" content/parenting/*.md` before committing.
+
+**Gotchas hit while building:**
+- `next build` sometimes fails inside `next/font` (`TypeError: Cannot read properties of null (reading '1')`) on Baloo_2 or Newsreader. It is a transient Google Fonts fetch; rebuilding fixes it. Do not "fix" the fonts.
+- `check-links.py --cdn` printing `CDN assets referenced: 0` means the build it scanned was incomplete; rerun after a good build.
+- `next start` runs with NODE_ENV=production and therefore SENDS mail. Always `PARENTING_EMAIL_LIVE=0 next start -p 3077` for local testing.
+- Routes that read `content/parenting` at request time (`/api/parenting/admin`, `/parenting/preview/[slug]`) need `outputFileTracingIncludes` in next.config.js (added) or they return empty/404 on Vercel.
+- Pexels image URLs occasionally reset the connection on upload via `s3-put.py`; retry.
+- The Dropbox checkout of the landing repo is shared by many sessions; Parenting work happens in the worktree `/Users/cas/fk-parenting` (branch `parenting`, node_modules symlinked). Merge to main with `git push origin parenting:main` after `git merge origin/main`, never from the Dropbox tree.
+
+**Pending:** authors' confirmation for the four drafts; legal read of the submission terms; a newsletter sender (confirmed rows only); `parenting_*` events on a dashboard; worker2's nav change (For Parents leaves the top nav, /blog to the footer) which touches `app/parenting/about/page.tsx`.

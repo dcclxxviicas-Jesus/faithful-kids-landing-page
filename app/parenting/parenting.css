@@ -24,7 +24,10 @@
   color: var(--pt-ink);
   background: var(--pt-paper);
 }
-.pt a { color: inherit; }
+/* Scoped to <main>: the shared nav and footer render inside the .pt wrapper
+   too, and a bare ".pt a" (0,1,1) outranked ".btn-nav" (0,1,0), turning the
+   green Get started button's white text navy on every Parenting page. */
+.pt main a { color: inherit; }
 .pt img { display: block; max-width: 100%; }
 .pt .pt-wrap { max-width: var(--pt-max); margin: 0 auto; padding: 0 20px; }
 .pt .pt-serif { font-family: var(--pt-serif); }

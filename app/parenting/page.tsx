@@ -1,13 +1,10 @@
 import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import { getPublicArticles, getFeatured, liveSections } from '@/lib/parenting'
 import {
-  getPublicArticles, getFeatured, liveSections, articlesInSection, SECTIONS,
-} from '@/lib/parenting'
-import {
-  Masthead, SectionNav, FeaturedStory, ArticleCard, SectionBlock, ContributeBand, DiscoverBand,
+  Masthead, SectionNav, FeaturedStory, ArticleCard, SectionBlock, RailList, QuietStrip,
   EmptyState, SECTION_H1, SECTION_SUB,
 } from './ui'
-import { NewsletterCard } from './client'
 
 const URL = 'https://faithfulkids.app/parenting'
 
@@ -30,13 +27,12 @@ export default function ParentingHome() {
   const articles = getPublicArticles()
   const featured = getFeatured(articles)
   const sections = liveSections(articles)
-  const latest = articles.filter(a => a.slug !== featured?.slug).slice(0, 6)
-
-  /* Category rows only where a section has something beyond what the page
-     already showed. Empty modules are the fastest way to look abandoned. */
-  const shown = new Set([featured?.slug, ...latest.map(a => a.slug)])
-  const rows = SECTIONS.map(s => ({ s, items: articlesInSection(s, articles).filter(a => !shown.has(a.slug)).slice(0, 3) }))
-    .filter(r => r.items.length >= 2)
+  /* Newspaper front: one lead story, a headline-only rail of the next four,
+     then every remaining story with its picture. Nothing is held back; when
+     the library outgrows one grid, split it into section rows here. */
+  const rest = articles.filter(a => a.slug !== featured?.slug)
+  const rail = rest.slice(0, 4)
+  const grid = rest.slice(4)
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -73,21 +69,17 @@ export default function ParentingHome() {
 
         {featured ? (
           <>
-            <FeaturedStory article={featured} />
-            {latest.length > 0 && (
-              <SectionBlock title="Latest">
+            <div className="pt-lead">
+              <FeaturedStory article={featured} />
+              <RailList title="Latest" articles={rail} />
+            </div>
+            {grid.length > 0 && (
+              <SectionBlock title="More stories">
                 <div className="pt-grid">
-                  {latest.map((a, i) => <ArticleCard key={a.slug} article={a} eager={i < 3} />)}
+                  {grid.map((a, i) => <ArticleCard key={a.slug} article={a} eager={i < 3} />)}
                 </div>
               </SectionBlock>
             )}
-            {rows.map(({ s, items }) => (
-              <SectionBlock key={s.slug} title={s.title} href={`/parenting/${s.slug}`} hrefLabel={`All ${s.label.toLowerCase()}`}>
-                <div className="pt-grid">
-                  {items.map(a => <ArticleCard key={a.slug} article={a} />)}
-                </div>
-              </SectionBlock>
-            ))}
           </>
         ) : (
           <EmptyState
@@ -96,25 +88,7 @@ export default function ParentingHome() {
           />
         )}
 
-        <ContributeBand />
-
-        <section className="pt-section" aria-label="Newsletter">
-          <div className="pt-grid is-2" style={{ alignItems: 'center' }}>
-            <div>
-              <p className="pt-kicker">Faithful Kids Weekly</p>
-              <h2 className="pt-serif" style={{ fontWeight: 600, fontSize: 'clamp(1.7rem, 3.2vw, 2.3rem)', lineHeight: 1.12, margin: '8px 0 12px', letterSpacing: '-0.015em' }}>
-                A weekly letter for parents who want faith to stick.
-              </h2>
-              <p style={{ color: 'var(--pt-ink-soft)', fontWeight: 600, lineHeight: 1.65, margin: 0, maxWidth: '34em' }}>
-                The best piece from this section, one practical family activity, one thing worth knowing, and one
-                Bible lesson to explore together. Written for grown-ups, sent once a week.
-              </p>
-            </div>
-            <NewsletterCard source="parenting-home" compact />
-          </div>
-        </section>
-
-        <DiscoverBand />
+        <QuietStrip source="parenting-home" />
         <div className="pt-footgap" />
       </main>
       <SiteFooter />

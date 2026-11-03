@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { getPublicAuthors, getAuthor, articlesByAuthor, isPublic } from '@/lib/parenting'
-import { Masthead, Avatar, ArticleCard, ContributeBand } from '../../ui'
+import { Masthead, Avatar, ArticleCard, QuietStrip } from '../../ui'
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -83,7 +83,7 @@ export default async function AuthorPage({ params }: Props) {
           </div>
         </section>
 
-        <ContributeBand />
+        <QuietStrip source={`author:${a.slug}`} />
         <div className="pt-footgap" />
       </main>
       <SiteFooter />

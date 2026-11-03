@@ -6,9 +6,9 @@ import {
   resourcesFor, fmtDate, articleUrl, type Article, type Section,
 } from '@/lib/parenting'
 import {
-  Masthead, SectionNav, Kicker, Byline, ArticleCard, AuthorCard, SampleRibbon, ContributeBand,
+  Masthead, SectionNav, Kicker, Byline, ArticleCard, AuthorCard, SampleRibbon, QuietStrip,
 } from '../ui'
-import { ShareRow, NewsletterCard } from '../client'
+import { ShareRow } from '../client'
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -117,7 +117,7 @@ function SectionPage({ section }: { section: Section }) {
             {rest.map(a => <ArticleCard key={a.slug} article={a} />)}
           </div>
         </section>
-        <ContributeBand />
+        <QuietStrip source={`section:${section.slug}`} />
         <div className="pt-footgap" />
       </main>
       <SiteFooter />
@@ -197,9 +197,7 @@ function ArticlePage({ article: a }: { article: Article }) {
             {a.interviewee && <><span>&middot;</span><span>With {a.interviewee}</span></>}
           </div>
           {a.type === 'opinion' && (
-            <p className="pt-opinion-note">
-              <strong>Opinion.</strong> This essay is the author&rsquo;s own view. It is published to add to the conversation, not as the position of Faithful Kids, and is kept separate from our reporting.
-            </p>
+            <p className="pt-opinion-note">Opinion. The author&rsquo;s own view, not the position of Faithful Kids.</p>
           )}
         </header>
 
@@ -251,12 +249,7 @@ function ArticlePage({ article: a }: { article: Article }) {
           </section>
         )}
 
-        <section className="pt-section" aria-label="Newsletter">
-          <div className="pt-wrap" style={{ maxWidth: 680, padding: 0 }}>
-            <NewsletterCard source={`article:${a.slug}`} />
-          </div>
-        </section>
-
+        <QuietStrip source={`article:${a.slug}`} />
         <div className="pt-back"><a href="/parenting">&larr; Back to Parenting</a></div>
         <div className="pt-footgap" />
       </main>

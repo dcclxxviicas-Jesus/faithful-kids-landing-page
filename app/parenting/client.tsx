@@ -42,7 +42,7 @@ export function ShareRow({ url, title }: { url: string; title: string }) {
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/
 
-export function NewsletterCard({ source, compact = false }: { source: string; compact?: boolean }) {
+export function NewsletterInline({ source }: { source: string }) {
   const [email, setEmail] = useState('')
   const [state, setState] = useState<'idle' | 'sending' | 'done' | 'error'>('idle')
   const [msg, setMsg] = useState('')
@@ -83,30 +83,18 @@ export function NewsletterCard({ source, compact = false }: { source: string; co
   }
 
   return (
-    <div className="pt-news-card" ref={box}>
-      {!compact && <p className="pt-kicker">Faithful Kids Weekly</p>}
-      <h3>Thoughtful stories for the journey of parenthood.</h3>
-      <p>
-        One email a week: a parent story worth your time, one practical family activity, one thing worth
-        knowing, and one Bible lesson to explore with your kids.
-      </p>
+    <div className="pt-news" ref={box}>
       {state === 'done' ? (
-        <div className="pt-news-ok" role="status">
-          Check your inbox. We sent a confirmation link; the newsletter starts once you click it.
-        </div>
+        <p className="pt-news-ok" role="status">Check your inbox. We sent a confirmation link; the newsletter starts once you click it.</p>
       ) : (
         <form className="pt-news-form" onSubmit={submit} noValidate>
           <label htmlFor={`pt-news-${source}`} className="pt-hp">Email address</label>
           <input id={`pt-news-${source}`} type="email" inputMode="email" autoComplete="email" placeholder="you@example.com"
                  value={email} onChange={e => setEmail(e.target.value)} required aria-invalid={state === 'error'} />
-          <button className="pt-btn" type="submit" disabled={state === 'sending'}>{state === 'sending' ? 'Sending…' : 'Subscribe'}</button>
+          <button type="submit" disabled={state === 'sending'}>{state === 'sending' ? 'Sending…' : 'Subscribe'}</button>
         </form>
       )}
       {state === 'error' && <p className="pt-news-err" role="alert">{msg}</p>}
-      <p className="pt-news-fine">
-        Adults only. We confirm by email before sending anything, never share your address, and every email
-        has a one-click unsubscribe. <a href="/privacy">Privacy</a>.
-      </p>
     </div>
   )
 }

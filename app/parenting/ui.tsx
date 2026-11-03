@@ -3,6 +3,7 @@
 
 import type { Article, Author, Section } from '@/lib/parenting'
 import { fmtDate } from '@/lib/parenting'
+import { NewsletterInline } from './client'
 
 export const SECTION_LABEL = 'Parenting'
 export const SECTION_H1 = 'Raising Faithful Kids'
@@ -47,6 +48,7 @@ export function SectionNav({ sections, current }: { sections: Section[]; current
             <a href={`/parenting/${s.slug}`} aria-current={current === s.slug ? 'page' : undefined}>{s.label}</a>
           </li>
         ))}
+        <li className="is-aux"><a href="/parenting/write-for-us">Write for us</a></li>
       </ul>
     </nav>
   )
@@ -123,46 +125,47 @@ export function SectionBlock({ title, href, hrefLabel = 'See all', children }: {
   )
 }
 
-export function ContributeBand() {
+/* Headline-only list for the rail beside the lead story: kicker, title,
+   byline. No images, so five stories fit in the height of one. */
+export function RailList({ title, articles }: { title: string; articles: Article[] }) {
+  if (articles.length === 0) return null
   return (
-    <section className="pt-band" aria-labelledby="pt-contribute">
-      <div className="pt-band-inner">
-        <div>
-          <h2 id="pt-contribute">Have a story worth sharing?</h2>
-          <p>
-            Your experiences could help another Christian family. We&rsquo;re inviting parents, teachers,
-            pastors, and educators to contribute to Faithful Kids.
-          </p>
-          <a className="pt-btn" href="/parenting/write-for-us">Write for Faithful Kids</a>
-        </div>
-        <div className="pt-discover">
-          <a href="/parenting/write-for-us#pitch">Pitch a story<span>A few sentences is enough. No finished draft required.</span></a>
-          <a href="/parenting/write-for-us#interview">Not much of a writer?<span>Tell us your story in an interview and we&rsquo;ll write it up with you.</span></a>
-          <a href="/parenting/editorial-policy">How we edit<span>Real names, checked facts, corrections in the open.</span></a>
-        </div>
-      </div>
-    </section>
+    <aside className="pt-rail" aria-label={title}>
+      <h2>{title}</h2>
+      <ol>
+        {articles.map(a => (
+          <li key={a.slug}>
+            <Kicker section={a.section} />
+            <h3><a href={`/parenting/${a.slug}`}>{a.title}</a></h3>
+            <Byline article={a} withAvatar={false} />
+          </li>
+        ))}
+      </ol>
+    </aside>
   )
 }
 
-export function DiscoverBand() {
+/* The one place the section asks for anything: a hairline strip at the foot
+   of a page with the newsletter field on one side and a sentence about
+   writing for us on the other. Small type, no headline, no card stack. The
+   app pitch is deliberately absent; the nav, footer and each article's
+   resource links already carry it. */
+export function QuietStrip({ source }: { source: string }) {
   return (
-    <section className="pt-band is-paper" aria-labelledby="pt-discover">
-      <div className="pt-band-inner">
-        <div>
-          <p className="pt-kicker">From Faithful Kids</p>
-          <h2 id="pt-discover">Explore the Bible together</h2>
-          <p>
-            Faithful Kids is a Bible video app for children ages 5 to 15: more than 300 short lessons in order
-            from Genesis to Revelation, each followed by a quiz and a reflection question. The free library
-            below is for everyone, no account needed.
-          </p>
-          <a className="pt-btn is-ghost" href="/quiz">See how the app works</a>
+    <section className="pt-strip" id="newsletter" aria-label="Newsletter and contributing">
+      <div className="pt-strip-inner">
+        <div className="pt-strip-news">
+          <p className="pt-strip-label">Faithful Kids Weekly</p>
+          <p className="pt-strip-text">One email a week for parents: the best piece from this section and one Bible lesson to explore together. Adults only, confirmed by email, one-click unsubscribe.</p>
+          <NewsletterInline source={source} />
         </div>
-        <div className="pt-discover">
-          <a href="/bible-stories-for-kids">200 free Bible stories for kids<span>Every story, Genesis to Revelation, with discussion questions and a video.</span></a>
-          <a href="/printables">Free printables<span>Coloring pages, word searches, Bible maps, a Jesse tree, and more. No email wall.</span></a>
-          <a href="/homeschool">Bible curriculum for homeschool families<span>Open-and-go lessons with a quiz after every story.</span></a>
+        <div className="pt-strip-write">
+          <p className="pt-strip-label">Write for us</p>
+          <p className="pt-strip-text">
+            This section is written by parents, teachers, pastors and educators. If you have a story worth telling,
+            a few sentences is enough to start. <a href="/parenting/write-for-us">Pitch a story</a> or read
+            <a href="/parenting/editorial-policy"> how we edit</a>.
+          </p>
         </div>
       </div>
     </section>

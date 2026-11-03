@@ -165,3 +165,18 @@ Not tested: real email delivery (deliberately disabled locally), the Pinterest/n
 - The Dropbox checkout of the landing repo is shared by many sessions; Parenting work happens in the worktree `/Users/cas/fk-parenting` (branch `parenting`, node_modules symlinked). Merge to main with `git push origin parenting:main` after `git merge origin/main`, never from the Dropbox tree.
 
 **Pending:** authors' confirmation for the four drafts; legal read of the submission terms; a newsletter sender (confirmed rows only); `parenting_*` events on a dashboard; worker2's nav change (For Parents leaves the top nav, /blog to the footer) which touches `app/parenting/about/page.tsx`.
+
+---
+
+## 6. Operating rules (Cas, 3 Nov 2026)
+
+Two workstreams share the site. **Agent 1 (blogs+seo)** owns `/blog`, keyword research and evergreen resources. **Agent 2 (parenting)** owns `/parenting`, the editorial articles, contributor submissions, author profiles, editorial workflow and the Parenting newsletter. Rules that bind this lane:
+
+- Never modify `/blog` content or routes; when an evergreen guide is the right answer, hand the idea to blogs+seo. When a Parenting piece needs to point at a resource, link the original URL, never copy it.
+- Agent 1 may recommend SEO changes to Parenting content; this lane implements them.
+- Shared components (nav, footer, `lib/blog.ts`, `sitemap.ts`, `llms.txt`, analytics, checkers) are changed only after inspecting the current implementation and coordinating ownership; sitewide navigation and production deploys need coordinated review.
+- Keep working in the worktree `/Users/cas/fk-parenting` on branch `parenting`; merge to main only with Cas's approval.
+- No new CMS, auth, renderer or email system; no unapproved publishing; new dependencies and database changes stay minimal and documented here.
+- One taxonomy, canonical policy, analytics framework and brand standard across both lanes.
+- End every session with a handoff: completed work, affected files and routes, tests, outstanding issues, next priorities.
+- The shared objective is qualified traffic, engagement, trust and customers, not content volume.

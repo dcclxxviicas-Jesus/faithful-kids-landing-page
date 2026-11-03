@@ -24,7 +24,7 @@ export function EmbedNote({ slug, label }: { slug: string; label: string }) {
   const title = /trivia/i.test(label) ? label : `${label} Bible Trivia`
   const frameId = `fk-trivia-${slug}`
   const code =
-    `<iframe id="${frameId}" src="https://faithfulkids.app/embed/trivia/${slug}" width="100%" height="780" style="border:0;border-radius:16px;max-width:640px" title="${title} for Kids" loading="lazy"></iframe>\n` +
+    `<iframe id="${frameId}" src="https://faithfulkids.app/embed/trivia/${slug}" width="100%" height="780" style="border:0;border-radius:16px;max-width:640px" title="${title} for Kids" allow="fullscreen" loading="lazy"></iframe>\n` +
     `<script>window.addEventListener("message",function(e){if(e.origin!=="https://faithfulkids.app")return;var d=e.data;if(!d||d.type!=="fk-trivia-height")return;var f=document.getElementById("${frameId}");if(f)f.height=d.height;});</script>\n` +
     `<p style="font-size:14px"><a href="https://faithfulkids.app/blog/${slug}">${title} game by Faithful Kids</a></p>`
 

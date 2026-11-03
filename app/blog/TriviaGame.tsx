@@ -1,11 +1,12 @@
 'use client'
 
-import { useMemo, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import posthog from 'posthog-js'
 import type { TriviaLink } from '@/lib/blog'
 import type { TriviaChoiceQuestion } from '@/lib/trivia-choices'
 import { VideoTile } from '@/app/components/VideoTile'
 import { EmailCaptureCard } from './EmailCaptureCard'
+import { useFullscreen, FullscreenButton, FullscreenShell } from '@/app/components/Fullscreen'
 
 function track(event: string, props?: Record<string, unknown>) {
   try {
@@ -120,6 +121,24 @@ export function TriviaGame({
   const [shareNote, setShareNote] = useState<string | null>(null)
   const started = useRef(false)
 
+  const fs = useFullscreen()
+  /* An embed only offers it when the browser will really grant it — inside a
+     frame without allow="fullscreen" the overlay would fill 780px of someone
+     else's blog and call that full screen. See Fullscreen.tsx. */
+  const canFullscreen = !embed || fs.canNative
+  const enterFullscreen = () => {
+    track('trivia_game_fullscreen', { post: postSlug, surface, question: index + 1 })
+    fs.toggle()
+  }
+
+  /* The round ends by handing the page back, and both reasons are concrete.
+     The end screen's video player portals a position:fixed modal into
+     document.body — and in NATIVE fullscreen the browser paints only the
+     fullscreen element's subtree, so that modal would open invisibly. The
+     share links, the email card and the course CTA also all belong in the
+     page. Replaying brings the banner back and its button is one tap. */
+  useEffect(() => { if (finished) fs.exit() }, [finished, fs.exit])
+
   const lengthChoices = [5, 10, 20].filter(n => n <= pool.length)
 
   // Fires on the first real interaction, not on mount -- otherwise every
@@ -186,8 +205,8 @@ export function TriviaGame({
     border: '2px solid #dcfce7',
     borderRadius: '20px',
     padding: '28px 24px',
-    margin: '32px auto',
-    maxWidth: '760px',
+    margin: fs.full ? '0 auto' : '32px auto',
+    maxWidth: fs.full ? '900px' : '760px',
     boxShadow: '0 4px 20px rgba(22, 163, 74, 0.08)',
     textAlign: 'center',
   }
@@ -284,154 +303,156 @@ export function TriviaGame({
     const body = encodeURIComponent(`${shareText} ${shareUrl}`)
 
     return (
-      <div style={card}>
-        <div style={{ fontSize: '2.4rem', marginBottom: '6px' }}>🏆</div>
-        <h2 style={{ fontSize: '1.4rem', fontWeight: 800, margin: '0 0 6px' }}>
-          {score}/{round.length} — {headline}
-        </h2>
-        <p style={{ color: '#555', margin: '0 0 16px', fontSize: '0.95rem' }}>
-          Best streak: {bestStreak} in a row
-        </p>
+      <FullscreenShell fs={fs} title={heading}>
+        <div style={card}>
+          <div style={{ fontSize: '2.4rem', marginBottom: '6px' }}>🏆</div>
+          <h2 style={{ fontSize: '1.4rem', fontWeight: 800, margin: '0 0 6px' }}>
+            {score}/{round.length} — {headline}
+          </h2>
+          <p style={{ color: '#555', margin: '0 0 16px', fontSize: '0.95rem' }}>
+            Best streak: {bestStreak} in a row
+          </p>
 
-        {/* Share -- native sheet first, explicit channels underneath */}
-        {canNativeShare && (
-          <div style={{ marginBottom: '10px' }}>
-            <button style={btn} onClick={shareScore}>Share my score</button>
-          </div>
-        )}
-        <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
-          {link('sms', `sms:?&body=${body}`, '💬 Text')}
-          {link('facebook', `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`, 'Facebook')}
-          {link('whatsapp', `https://wa.me/?text=${body}`, 'WhatsApp')}
-          {link('x', `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`, 'X')}
-          {link('email', `mailto:?subject=${encodeURIComponent('I just took a Bible trivia quiz!')}&body=${body}`, 'Email')}
-          <button style={ghost} onClick={copyScore}>Copy</button>
-        </div>
-        {shareNote && (
-          <p style={{ fontSize: '0.85rem', color: emerald, fontWeight: 700, margin: '4px 0 0' }}>{shareNote}</p>
-        )}
-
-        {embed ? (
-          /* No player in the frame. The modal is position:fixed against the
-             iframe's viewport, which is whatever height the host chose — on a
-             short frame the video would open clipped. Send them to the post
-             instead, where the same lesson plays full size. That link is also
-             the point of the embed: a credit backlink to this exact page. */
-          <a
-            href={`${site}/blog/${postSlug}${utm}`}
-            {...out}
-            onClick={() => track('trivia_embed_video_click', { post: postSlug, surface })}
-            style={{
-              display: 'block',
-              background: '#f0fdf4',
-              border: '2px solid #dcfce7',
-              borderRadius: '16px',
-              padding: '16px',
-              margin: '18px 0 16px',
-              textDecoration: 'none',
-              color: '#166534',
-            }}
-          >
-            <span style={{ display: 'block', fontWeight: 800, fontSize: '1rem' }}>
-              {'\u25B6'} Watch &ldquo;{videoTitle}&rdquo;
-            </span>
-            <span style={{ display: 'block', fontSize: '0.85rem', color: '#4b5563', marginTop: '3px' }}>
-              One of 300+ video Bible lessons for kids &mdash; free to watch
-            </span>
-          </a>
-        ) : (
-          <>
-            <div style={{ marginTop: '18px' }}>
-              <VideoTile
-                src={videoSrc}
-                poster={posterSrc}
-                title={videoTitle}
-                location="trivia_end"
-              />
+          {/* Share -- native sheet first, explicit channels underneath */}
+          {canNativeShare && (
+            <div style={{ marginBottom: '10px' }}>
+              <button style={btn} onClick={shareScore}>Share my score</button>
             </div>
-            <p style={{ fontSize: '0.85rem', color: '#777', margin: '8px 0 16px' }}>
-              &ldquo;{videoTitle}&rdquo; — one of 300+ video lessons in the Faithful Kids Bible course
-            </p>
-          </>
-        )}
-        <p style={{ color: '#333', margin: '0 auto 18px', fontSize: '1.05rem', fontWeight: 600, maxWidth: '520px' }}>
-          If you enjoyed this quiz, we think you&apos;ll really enjoy our Bible course. Take a look!
-        </p>
-        <a
-          href={`${site}/quiz${utm}`}
-          {...out}
-          style={{ ...btn, textDecoration: 'none' }}
-          onClick={() => track('trivia_game_cta_click', { post: postSlug, surface, score, total: round.length })}
-        >
-          Take a look
-        </a>
+          )}
+          <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
+            {link('sms', `sms:?&body=${body}`, '💬 Text')}
+            {link('facebook', `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`, 'Facebook')}
+            {link('whatsapp', `https://wa.me/?text=${body}`, 'WhatsApp')}
+            {link('x', `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`, 'X')}
+            {link('email', `mailto:?subject=${encodeURIComponent('I just took a Bible trivia quiz!')}&body=${body}`, 'Email')}
+            <button style={ghost} onClick={copyScore}>Copy</button>
+          </div>
+          {shareNote && (
+            <p style={{ fontSize: '0.85rem', color: emerald, fontWeight: 700, margin: '4px 0 0' }}>{shareNote}</p>
+          )}
 
-        {/* Someone who just played a full round is the most engaged visitor
-            this page gets — the one moment an email ask earns its place.
-            Never in embeds: no forms inside other people's sites. */}
-        {!embed && (
-          <EmailCaptureCard
-            magnet="trivia-pack"
-            source="game-end"
-            sourcePost={postSlug}
-            placement="trivia-end"
-            compact
-            title="🎯 Free: 100 more questions for game night"
-            subtitle="The Family Bible Trivia Pack — printable, answers in the back."
-          />
-        )}
+          {embed ? (
+            /* No player in the frame. The modal is position:fixed against the
+               iframe's viewport, which is whatever height the host chose — on a
+               short frame the video would open clipped. Send them to the post
+               instead, where the same lesson plays full size. That link is also
+               the point of the embed: a credit backlink to this exact page. */
+            <a
+              href={`${site}/blog/${postSlug}${utm}`}
+              {...out}
+              onClick={() => track('trivia_embed_video_click', { post: postSlug, surface })}
+              style={{
+                display: 'block',
+                background: '#f0fdf4',
+                border: '2px solid #dcfce7',
+                borderRadius: '16px',
+                padding: '16px',
+                margin: '18px 0 16px',
+                textDecoration: 'none',
+                color: '#166534',
+              }}
+            >
+              <span style={{ display: 'block', fontWeight: 800, fontSize: '1rem' }}>
+                {'\u25B6'} Watch &ldquo;{videoTitle}&rdquo;
+              </span>
+              <span style={{ display: 'block', fontSize: '0.85rem', color: '#4b5563', marginTop: '3px' }}>
+                One of 300+ video Bible lessons for kids &mdash; free to watch
+              </span>
+            </a>
+          ) : (
+            <>
+              <div style={{ marginTop: '18px' }}>
+                <VideoTile
+                  src={videoSrc}
+                  poster={posterSrc}
+                  title={videoTitle}
+                  location="trivia_end"
+                />
+              </div>
+              <p style={{ fontSize: '0.85rem', color: '#777', margin: '8px 0 16px' }}>
+                &ldquo;{videoTitle}&rdquo; — one of 300+ video lessons in the Faithful Kids Bible course
+              </p>
+            </>
+          )}
+          <p style={{ color: '#333', margin: '0 auto 18px', fontSize: '1.05rem', fontWeight: 600, maxWidth: '520px' }}>
+            If you enjoyed this quiz, we think you&apos;ll really enjoy our Bible course. Take a look!
+          </p>
+          <a
+            href={`${site}/quiz${utm}`}
+            {...out}
+            style={{ ...btn, textDecoration: 'none' }}
+            onClick={() => track('trivia_game_cta_click', { post: postSlug, surface, score, total: round.length })}
+          >
+            Take a look
+          </a>
 
-        {related.length > 0 && (
-          <div style={{ marginTop: '26px', borderTop: '1px solid #eee', paddingTop: '20px' }}>
-            <p style={{ fontWeight: 800, fontSize: '1.05rem', margin: '0 0 3px' }}>
-              🎯 Play another Bible trivia game
-            </p>
-            <p style={{ fontSize: '0.85rem', color: '#777', margin: '0 0 14px' }}>
-              {related.length} more waiting &mdash; all free, no sign-up.
-            </p>
-            <div style={{
-              display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fit, minmax(128px, 1fr))',
-              gap: '10px',
-            }}>
-              {related.map(r => (
-                <a
-                  key={r.slug}
-                  href={`${site}/blog/${r.slug}${utm}`}
-                  {...out}
-                  onClick={() => track('trivia_game_next_click', { from: postSlug, to: r.slug, surface })}
-                  style={{
-                    display: 'block',
-                    background: '#f0fdf4',
-                    border: '2px solid #dcfce7',
-                    borderRadius: '14px',
-                    padding: '13px 12px',
-                    textDecoration: 'none',
-                    color: '#166534',
-                    fontWeight: 700,
-                    fontSize: '0.95rem',
-                    textAlign: 'center',
-                  }}
-                >
-                  {r.label}
-                  <span style={{ display: 'block', fontWeight: 500, fontSize: '0.78rem', color: '#6b7280', marginTop: '2px' }}>
-                    {r.count} questions
-                  </span>
-                </a>
+          {/* Someone who just played a full round is the most engaged visitor
+              this page gets — the one moment an email ask earns its place.
+              Never in embeds: no forms inside other people's sites. */}
+          {!embed && (
+            <EmailCaptureCard
+              magnet="trivia-pack"
+              source="game-end"
+              sourcePost={postSlug}
+              placement="trivia-end"
+              compact
+              title="🎯 Free: 100 more questions for game night"
+              subtitle="The Family Bible Trivia Pack — printable, answers in the back."
+            />
+          )}
+
+          {related.length > 0 && (
+            <div style={{ marginTop: '26px', borderTop: '1px solid #eee', paddingTop: '20px' }}>
+              <p style={{ fontWeight: 800, fontSize: '1.05rem', margin: '0 0 3px' }}>
+                🎯 Play another Bible trivia game
+              </p>
+              <p style={{ fontSize: '0.85rem', color: '#777', margin: '0 0 14px' }}>
+                {related.length} more waiting &mdash; all free, no sign-up.
+              </p>
+              <div style={{
+                display: 'grid',
+                gridTemplateColumns: 'repeat(auto-fit, minmax(128px, 1fr))',
+                gap: '10px',
+              }}>
+                {related.map(r => (
+                  <a
+                    key={r.slug}
+                    href={`${site}/blog/${r.slug}${utm}`}
+                    {...out}
+                    onClick={() => track('trivia_game_next_click', { from: postSlug, to: r.slug, surface })}
+                    style={{
+                      display: 'block',
+                      background: '#f0fdf4',
+                      border: '2px solid #dcfce7',
+                      borderRadius: '14px',
+                      padding: '13px 12px',
+                      textDecoration: 'none',
+                      color: '#166534',
+                      fontWeight: 700,
+                      fontSize: '0.95rem',
+                      textAlign: 'center',
+                    }}
+                  >
+                    {r.label}
+                    <span style={{ display: 'block', fontWeight: 500, fontSize: '0.78rem', color: '#6b7280', marginTop: '2px' }}>
+                      {r.count} questions
+                    </span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <div style={{ marginTop: '22px' }}>
+            <p style={{ fontSize: '0.85rem', color: '#777', margin: '0 0 8px' }}>Or replay this one with</p>
+            <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
+              {lengthChoices.map(n => (
+                <button key={n} style={ghost} onClick={() => replay(n)}>{n} questions</button>
               ))}
             </div>
           </div>
-        )}
-
-        <div style={{ marginTop: '22px' }}>
-          <p style={{ fontSize: '0.85rem', color: '#777', margin: '0 0 8px' }}>Or replay this one with</p>
-          <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
-            {lengthChoices.map(n => (
-              <button key={n} style={ghost} onClick={() => replay(n)}>{n} questions</button>
-            ))}
-          </div>
         </div>
-      </div>
+      </FullscreenShell>
     )
   }
 
@@ -481,75 +502,87 @@ export function TriviaGame({
   }
 
   return (
-    <div style={card}>
-      {/* Banner: the reader has to know at a glance this is a live game they
-          can play right now, for free, in about two minutes. */}
-      <div style={banner}>
-        <span style={eyebrow}>{fresh ? '\u25B6 PLAY NOW \u00B7 FREE' : '\u25B6 IN PLAY'}</span>
-        <h2 style={{ fontSize: '1.32rem', fontWeight: 800, margin: '0 0 3px', lineHeight: 1.2 }}>{heading}</h2>
-        <p style={{ fontSize: '0.85rem', opacity: 0.93, margin: 0 }}>
-          {round.length} questions &middot; about {minutes} min &middot; no sign-up
-        </p>
-      </div>
-      <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.85rem', color: '#777', marginBottom: '10px' }}>
-        <span>Question {index + 1} of {round.length}</span>
-        <span>{streak > 1 ? `\u{1F525} ${streak} streak` : `Score: ${score}`}</span>
-      </div>
-      <div style={{ height: '6px', background: '#e8f7f0', borderRadius: '3px', marginBottom: '14px' }}>
-        <div style={{ height: '6px', width: `${((index + (revealed ? 1 : 0.5)) / round.length) * 100}%`, background: emerald, borderRadius: '3px', transition: 'width 0.3s' }} />
-      </div>
-
-      <p style={{ fontSize: fresh ? '1.22rem' : '1.12rem', fontWeight: 700, margin: '0 0 18px', lineHeight: 1.35 }}>{q.question}</p>
-
-      <div>
-        {q.options.map((opt, i) => (
-          <button key={i} style={optStyle(i)} onClick={() => choose(i)} disabled={revealed}>
-            <span style={{
-              flexShrink: 0, width: '26px', height: '26px', borderRadius: '50%',
-              background: revealed && i === q.correct ? emerald
-                : revealed && i === picked ? '#ef4444' : '#f1f5f9',
-              color: revealed && (i === q.correct || i === picked) ? '#fff' : '#64748b',
-              fontSize: '0.8rem', fontWeight: 800,
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
-            }}>
-              {revealed && i === q.correct ? '\u2713' : revealed && i === picked ? '\u2715' : 'ABCD'[i]}
-            </span>
-            <span>{opt}</span>
-          </button>
-        ))}
-      </div>
-
-      {revealed && (
-        <div style={{
-          background: feedback?.good ? '#f0fdf4' : '#fffbeb',
-          borderRadius: '12px', padding: '13px 15px', margin: '14px 0 0', textAlign: 'left',
-        }}>
-          <p style={{
-            fontSize: '0.95rem', fontWeight: 800, margin: 0,
-            color: feedback?.good ? emerald : '#b45309',
+    <FullscreenShell fs={fs} title={heading}>
+      <div style={card}>
+        {/* Banner: the reader has to know at a glance this is a live game they
+            can play right now, for free, in about two minutes. */}
+        <div style={banner}>
+          <div style={{
+            display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+            gap: '10px', flexWrap: 'wrap', marginBottom: '7px',
           }}>
-            {feedback?.text}
+            <span style={{ ...eyebrow, marginBottom: 0 }}>
+              {fresh ? '\u25B6 PLAY NOW \u00B7 FREE' : '\u25B6 IN PLAY'}
+            </span>
+            {canFullscreen && !fs.full && (
+              <FullscreenButton variant="on-dark" onClick={enterFullscreen} />
+            )}
+          </div>
+          <h2 style={{ fontSize: '1.32rem', fontWeight: 800, margin: '0 0 3px', lineHeight: 1.2 }}>{heading}</h2>
+          <p style={{ fontSize: '0.85rem', opacity: 0.93, margin: 0 }}>
+            {round.length} questions &middot; about {minutes} min &middot; no sign-up
           </p>
-          {q.citation && (
-            <p style={{ fontSize: '0.85rem', color: '#666', margin: '5px 0 0' }}>{q.citation}</p>
-          )}
         </div>
-      )}
+        <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.85rem', color: '#777', marginBottom: '10px' }}>
+          <span>Question {index + 1} of {round.length}</span>
+          <span>{streak > 1 ? `\u{1F525} ${streak} streak` : `Score: ${score}`}</span>
+        </div>
+        <div style={{ height: '6px', background: '#e8f7f0', borderRadius: '3px', marginBottom: '14px' }}>
+          <div style={{ height: '6px', width: `${((index + (revealed ? 1 : 0.5)) / round.length) * 100}%`, background: emerald, borderRadius: '3px', transition: 'width 0.3s' }} />
+        </div>
 
-      {revealed && (
-        <button
-          style={{ ...btn, marginTop: '14px', width: '100%', maxWidth: '320px' }}
-          onClick={next}
-        >
-          {index + 1 >= round.length ? 'See my score \u2192' : 'Next question \u2192'}
-        </button>
-      )}
+        <p style={{ fontSize: fresh ? '1.22rem' : '1.12rem', fontWeight: 700, margin: '0 0 18px', lineHeight: 1.35 }}>{q.question}</p>
 
-      {fresh && !revealed && (
-        <p style={{ fontSize: '0.82rem', color: '#888', margin: '12px 0 0' }}>
-          Tap your answer &mdash; no sign-up, nothing to lose.
-        </p>
-      )}
-    </div>
+        <div>
+          {q.options.map((opt, i) => (
+            <button key={i} style={optStyle(i)} onClick={() => choose(i)} disabled={revealed}>
+              <span style={{
+                flexShrink: 0, width: '26px', height: '26px', borderRadius: '50%',
+                background: revealed && i === q.correct ? emerald
+                  : revealed && i === picked ? '#ef4444' : '#f1f5f9',
+                color: revealed && (i === q.correct || i === picked) ? '#fff' : '#64748b',
+                fontSize: '0.8rem', fontWeight: 800,
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+              }}>
+                {revealed && i === q.correct ? '\u2713' : revealed && i === picked ? '\u2715' : 'ABCD'[i]}
+              </span>
+              <span>{opt}</span>
+            </button>
+          ))}
+        </div>
+
+        {revealed && (
+          <div style={{
+            background: feedback?.good ? '#f0fdf4' : '#fffbeb',
+            borderRadius: '12px', padding: '13px 15px', margin: '14px 0 0', textAlign: 'left',
+          }}>
+            <p style={{
+              fontSize: '0.95rem', fontWeight: 800, margin: 0,
+              color: feedback?.good ? emerald : '#b45309',
+            }}>
+              {feedback?.text}
+            </p>
+            {q.citation && (
+              <p style={{ fontSize: '0.85rem', color: '#666', margin: '5px 0 0' }}>{q.citation}</p>
+            )}
+          </div>
+        )}
+
+        {revealed && (
+          <button
+            style={{ ...btn, marginTop: '14px', width: '100%', maxWidth: '320px' }}
+            onClick={next}
+          >
+            {index + 1 >= round.length ? 'See my score \u2192' : 'Next question \u2192'}
+          </button>
+        )}
+
+        {fresh && !revealed && (
+          <p style={{ fontSize: '0.82rem', color: '#888', margin: '12px 0 0' }}>
+            Tap your answer &mdash; no sign-up, nothing to lose.
+          </p>
+        )}
+      </div>
+    </FullscreenShell>
   )
 }

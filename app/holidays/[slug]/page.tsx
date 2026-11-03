@@ -88,7 +88,7 @@ export default async function HolidayHubPage({ params }: Props) {
       <script type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
 
-      <SiteNav active="blog" />
+      <SiteNav />
 
       <main>
         <div className="blog-breadcrumb">

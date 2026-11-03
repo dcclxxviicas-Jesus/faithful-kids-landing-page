@@ -5,7 +5,7 @@
 import { MobileMenu, type NavItem } from './MobileMenu'
 import { NavCta } from './NavCta'
 
-export type NavActive = 'blog' | 'stories' | 'trivia' | 'printables' | 'churches' | 'parenting'
+export type NavActive = 'stories' | 'trivia' | 'printables' | 'churches' | 'parenting'
 
 /* The app, not /login. An unauthenticated visitor is redirected to
    /login?redirect=%2F anyway, while a signed-in parent lands straight in the
@@ -15,17 +15,16 @@ export const SIGN_IN_URL = 'https://app.faithfulkids.app'
 
 const NAV_ITEMS: NavItem[] = [
   { href: '/bible-stories-for-kids', label: 'Bible Stories', key: 'stories' },
-  /* Label is about the AUDIENCE, not the subject. "Bible Stories" and
-     "Bible Guides" are the same shape of phrase and read as the same thing;
-     this page is the parent/teacher library and the other is the kids'
-     stories, so the nav now says so. The page's own <title> still targets
-     "bible guides for parents" and is unchanged. */
-  { href: '/blog', label: 'For Parents', key: 'blog' },
-  /* The editorial section (Raising Faithful Kids). Adult-facing, so it sits
-     beside the parent library rather than among the kids' activities. */
-  { href: '/parenting', label: 'Parenting', key: 'parenting' },
   { href: '/bible-trivia', label: 'Trivia Game', key: 'trivia' },
+  /* /blog (the 576-post guides library) is deliberately NOT in the main nav
+     (owner call, Nov 2, 2026). It sat here as "For Parents" next to
+     "Parenting" and visitors could not tell the two apart. Search traffic
+     lands on individual posts, never on the /blog index, and Stories, Trivia
+     and Printables already route people into that content. It stays in the
+     footer as "Guides & Resources" and in the sitemap. */
   { href: '/printables', label: 'Printables', key: 'printables' },
+  /* The editorial section (Raising Faithful Kids). Adult-facing. */
+  { href: '/parenting', label: 'Parenting', key: 'parenting' },
   { href: '/churches', label: 'Churches', key: 'churches' },
 ]
 
@@ -130,7 +129,7 @@ export function SiteFooter() {
         </div>
         <div className="footer-links">
           <a href="/bible-stories-for-kids">Bible Stories</a>
-          <a href="/blog">For Parents</a>
+          <a href="/blog">Guides &amp; Resources</a>
           <a href="/parenting">Parenting</a>
           <a href="/parenting/write-for-us">Write for Us</a>
           <a href="/bible-trivia">Trivia Game</a>

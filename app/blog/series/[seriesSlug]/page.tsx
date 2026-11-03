@@ -91,7 +91,7 @@ export default async function SeriesPage({ params }: Props) {
       />
 
       {/* NAV */}
-      <SiteNav active="blog" />
+      <SiteNav />
 
       {/* BREADCRUMB */}
       <div className="blog-breadcrumb">

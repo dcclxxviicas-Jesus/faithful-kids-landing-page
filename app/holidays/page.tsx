@@ -64,14 +64,14 @@ function HolidaysV2() {
       <script type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
 
-      <SiteNav active="blog" />
+      <SiteNav />
 
       <main id="main-content">
 
       {/* The breadcrumb stays above the hero and matches the BreadcrumbList
           schema above it. */}
       <div className="v2-crumb">
-        <a href="/blog">For Parents</a>
+        <a href="/blog">Guides &amp; Resources</a>
         <span aria-hidden="true">/</span>
         <span className="is-current">Holidays</span>
       </div>

@@ -59,7 +59,7 @@ function BlogV2() {
 
   return (
     <>
-      <SiteNav active="blog" />
+      <SiteNav />
 
       <main id="main-content">
 

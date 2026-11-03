@@ -95,7 +95,7 @@ export default async function TopicHubPage({ params }: Props) {
       />
 
       {/* NAV */}
-      <SiteNav active="blog" />
+      <SiteNav />
 
       <main>
         {/* BREADCRUMB */}

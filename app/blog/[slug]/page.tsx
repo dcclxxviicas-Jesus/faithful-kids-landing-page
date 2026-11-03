@@ -331,7 +331,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
       />
 
       {/* NAV */}
-      <SiteNav active="blog" />
+      <SiteNav />
 
       {/* Exit-intent popup (renders nothing until triggered) */}
       <BlogExitIntent postSlug={post.slug} variant={exitVariant} />

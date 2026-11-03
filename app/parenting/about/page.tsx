@@ -53,7 +53,7 @@ export default function AboutParentingPage() {
           <h2>What it is not</h2>
           <p>
             It is not a magazine with a separate name, and it is not a marketing blog for the app. The free
-            Bible stories, printables and guides live at <a href="/blog">For Parents</a>; the app has its own
+            Bible stories, printables and guides live in our <a href="/blog">resource library</a>; the app has its own
             pages. Parenting is the part of Faithful Kids where other people get to speak, and where we try to
             say true things even when they are inconvenient for us.
           </p>

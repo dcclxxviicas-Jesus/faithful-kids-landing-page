@@ -25,6 +25,8 @@ const nextConfig = {
       { source: '/statement-of-faith', destination: '/beliefs', permanent: true },
       // Creator partnerships: one canonical page at /creators.
       { source: '/partnerships', destination: '/creators', permanent: true },
+      // Parenting essay retitled minutes after publish (Nov 2, 2026); old slug was already shared.
+      { source: '/parenting/stop-teaching-kids-to-fear-god-teach-them-awe', destination: '/parenting/how-to-raise-children-to-have-god-in-their-hearts-and-minds', permanent: true },
     ]
   },
   async rewrites() {

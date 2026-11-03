@@ -10,11 +10,8 @@ datePublished: "2026-11-03"
 dateModified: "2026-11-03"
 excerpt: "The problem was never the glass rectangle. It was the feed behind it, built to never end. Here is what I think a Christian parent should actually be fighting."
 metaDescription: "A Christian dad on why banning screens failed in his house, what the feed is actually doing to kids, and what to fight instead."
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/taking-the-screen-away-is-not-a-plan.webp"
-imageAlt: "Two children seen from behind, sitting close together on a sofa, watching a screen"
-imageCaption: "Stock photograph. These are not the author's children."
-imageCredit: "Photo: Vika Glitter / Pexels"
-imageCreditUrl: "https://www.pexels.com/photo/anonymous-siblings-cuddling-and-watching-tv-at-home-4089659/"
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/taking-the-screen-away-is-not-a-plan.webp"
+imageAlt: "Illustration: a tablet lies face down on a kitchen table while a child runs out of the open back door into evening light"
 featured: true
 sources:
   - "I Took My Kids' Screens Away. Here's Why It Didn't Work (The Christian Post) | https://www.christianpost.com/voices/i-took-my-kids-screens-away-heres-why-it-didnt-work.html"

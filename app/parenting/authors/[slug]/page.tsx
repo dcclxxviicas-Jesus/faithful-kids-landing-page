@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: { absolute: `${a.name}${a.role ? `: ${a.role}` : ''} | Parenting at Faithful Kids` },
     description: desc,
     alternates: { canonical: url },
-    robots: hasSampleOnly ? { index: false, follow: false } : undefined,
+    robots: hasSampleOnly ? { index: false, follow: false } : { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 } },
     openGraph: { type: 'profile', title: a.name, description: desc, url, siteName: 'Faithful Kids', images: a.photo ? [{ url: a.photo }] : undefined },
   }
 }

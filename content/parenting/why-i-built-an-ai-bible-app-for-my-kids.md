@@ -11,11 +11,8 @@ datePublished: "2026-11-03"
 dateModified: "2026-11-03"
 excerpt: "I wanted my children to know the Bible as one story, in order, in pieces short enough for a weeknight. Nothing I could find did that, so I built it. Here is what that means, including the uncomfortable parts."
 metaDescription: "A Christian father on why he built an AI-narrated Bible app for his own kids, what it does and does not do, and the objection he takes most seriously."
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/why-i-built-an-ai-bible-app-for-my-kids.webp"
-imageAlt: "A father and two children sitting together on a couch, looking at a tablet"
-imageCaption: "Stock photograph. This is not the author's family."
-imageCredit: "Photo: Kampus Production / Pexels"
-imageCreditUrl: "https://www.pexels.com/photo/a-man-and-his-children-looking-at-a-tablet-7414101/"
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/why-i-built-an-ai-bible-app-for-my-kids.webp"
+imageAlt: "Illustration: a father alone at a kitchen table at night with a laptop and an open Bible, children's drawings on the fridge behind him"
 featured: false
 sources:
   - "About Faithful Kids: facts, counts and pricing | https://faithfulkids.app/about"

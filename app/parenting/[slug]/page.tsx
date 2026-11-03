@@ -46,7 +46,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       canonical: a.canonical || url,
       types: { 'text/markdown': `${url}.md` },
     },
-    robots: a.isSample ? { index: false, follow: false } : undefined,
+    // Explicit on purpose: `robots: undefined` here dropped the root layout's robots meta
+    // from every article (verified live Nov 3, 2026), and Google Discover needs max-image-preview:large.
+    robots: a.isSample ? { index: false, follow: false } : { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 } },
     openGraph: {
       type: 'article',
       title: a.title,

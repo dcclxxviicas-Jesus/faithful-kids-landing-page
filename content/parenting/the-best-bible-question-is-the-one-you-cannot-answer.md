@@ -11,11 +11,8 @@ datePublished: "2026-10-30"
 dateModified: "2026-10-30"
 excerpt: "Comprehension questions tell you whether a child was listening. A different kind of question tells you whether the story got in. Here is the difference, and three questions worth asking tonight."
 metaDescription: "Why the question you cannot answer does more for a child's faith than the one on the quiz, and three questions to ask after any Bible story."
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/the-best-bible-question-is-the-one-you-cannot-answer.webp"
-imageAlt: "A grandmother and a young girl reading a book together on a sofa"
-imageCaption: "Stock photograph."
-imageCredit: "Photo: Kampus Production / Pexels"
-imageCreditUrl: "https://www.pexels.com/photo/woman-reading-with-her-granddaughter-6248423/"
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/the-best-bible-question-is-the-one-you-cannot-answer.webp"
+imageAlt: "Illustration: a girl at the dinner table asks a question while her parents pause and look at each other, stumped"
 featured: false
 sources:
   - "Luke 2:46-47 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Luke+2%3A46-47&version=NIV"

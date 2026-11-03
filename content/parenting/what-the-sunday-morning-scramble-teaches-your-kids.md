@@ -12,11 +12,8 @@ datePublished: "2026-10-24"
 dateModified: "2026-10-24"
 excerpt: "Lost shoes, raised voices, a silent car, and then a smile at the church door. Children read that sequence perfectly. Here is what it says, and what a different Sunday morning could say instead."
 metaDescription: "Why the hour before church shapes a child's view of worship more than the service does, and a few practical changes to the Sunday morning routine."
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/what-the-sunday-morning-scramble-teaches-your-kids.webp"
-imageAlt: "Parents helping a young daughter get ready in the morning, backpack on"
-imageCaption: "Stock photograph."
-imageCredit: "Photo: August de Richelieu / Pexels"
-imageCreditUrl: "https://www.pexels.com/photo/parents-helping-their-daughter-to-get-ready-for-school-4261270/"
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/what-the-sunday-morning-scramble-teaches-your-kids.webp"
+imageAlt: "Illustration: a child's church clothes laid out on a bed the night before, shoes paired on the floor and a packed bag by the door"
 featured: false
 sources:
   - "Psalm 122:1 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Psalm+122%3A1&version=NIV"

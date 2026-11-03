@@ -12,11 +12,8 @@ datePublished: "2026-10-27"
 dateModified: "2026-11-02"
 excerpt: "Most family Bible routines are designed for the family we wish we were. Here is how to build one for the family you actually have: five minutes, attached to dinner or bedtime, cheap to miss and easy to restart."
 metaDescription: "Why most family devotion plans collapse within weeks, what a routine built for a real household looks like, and how to restart without guilt."
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/family-devotions-die-in-february.webp"
-imageAlt: "A family talking together around a dinner table"
-imageCaption: "Stock photograph."
-imageCredit: "Photo: cottonbro studio / Pexels"
-imageCreditUrl: "https://www.pexels.com/photo/boy-in-white-shirt-listening-to-woman-during-dinner-at-table-6603111/"
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/family-devotions-die-in-february.webp"
+imageAlt: "Illustration: a small open Bible between dinner plates with a child's hand on the page, a clock and calendar on the wall"
 featured: false
 sources:
   - "Zechariah 4:10 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Zechariah+4%3A10&version=NIV"

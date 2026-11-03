@@ -71,9 +71,12 @@ export default function EditorialPolicyPage() {
 
           <h2>7. Images are honest</h2>
           <p>
-            Photographs are either supplied by the contributor, taken by us, or licensed stock, and are credited.
-            A stock photograph never implies that it shows the author, their family, or a reported event. We do
-            not create AI-generated portraits of real people.
+            The illustration at the top of an essay is commissioned artwork made for Faithful Kids, usually
+            with AI image tools, drawn to the piece and never a depiction of a real person, family or event.
+            When a piece runs a photograph instead, it is supplied by the contributor, taken by us, or licensed,
+            and it is credited where it appears. A photograph never implies that it shows the author, their
+            family, or a reported event unless the caption says so. We do not create AI-generated portraits
+            of real people.
           </p>
 
           <h2>8. How we use AI</h2>

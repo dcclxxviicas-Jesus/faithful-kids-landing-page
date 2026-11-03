@@ -48,7 +48,7 @@ Unpublished content is access-controlled, not merely unlinked: drafts are not em
 1. Copy the frontmatter block from `content/parenting/README.md` into `content/parenting/<slug>.md`. `slug` must equal the filename.
 2. `type` is one of `story | opinion | interview | news | research`; `author` is a slug from `authors/`; `status: "draft"` while you work.
 3. Body in Markdown, no `#` H1, `![alt](src "Caption")` for captioned figures, `> quote` for a pull quote, `**Faithful Kids:** / **Name:**` paragraphs for interview Q&A.
-4. Hero image: licensed or supplied, uploaded to the CDN (`parenting/<slug>.webp` via `s3-put.py`), `imageAlt` and `imageCredit` set. The hero is also the social card.
+4. Hero image: an editorial illustration in the section's style. Add a scene for the slug to `SCENES` in `generate-parenting-art.py`, run it with `~/.fk-venv/bin/python3`, look at the result, then upload `.parenting-art/<slug>.webp` to `parenting/art/<slug>.webp` with `s3-put.py`. Set `imageAlt` (start it with "Illustration:"); leave caption and credit empty. Only a contributor-supplied or licensed photograph gets `imageCredit`. The hero is also the social card.
 5. Preview: log in at `/cas-admin/parenting` once, then open `/parenting/preview/<slug>`.
 
 ### Edit an article

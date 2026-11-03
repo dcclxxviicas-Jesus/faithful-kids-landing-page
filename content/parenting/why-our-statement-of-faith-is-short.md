@@ -10,11 +10,8 @@ datePublished: "2026-11-03"
 dateModified: "2026-11-03"
 excerpt: "A statement of faith for a kids' Bible app has to be true, and it has to be something a Catholic mom and a Reformed dad can both hand to their children. Here is where I drew the line, and the two words I refused to add."
 metaDescription: "Why the Faithful Kids statement of faith is short and generalizable, the two clauses I would not tighten, and what that costs."
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/why-our-statement-of-faith-is-short.webp"
-imageAlt: "A wooden church pew with hymnals and a Bible in the book rack"
-imageCaption: "Stock photograph."
-imageCredit: "Photo: Brett Sayles / Pexels"
-imageCreditUrl: "https://www.pexels.com/photo/glory-to-god-book-3633711/"
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/why-our-statement-of-faith-is-short.webp"
+imageAlt: "Illustration: a long table set for many with mismatched chairs of every style and one open Bible at the centre"
 featured: false
 sources:
   - "What We Believe (Faithful Kids) | https://faithfulkids.app/beliefs"

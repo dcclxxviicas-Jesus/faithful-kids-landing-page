@@ -12,11 +12,8 @@ datePublished: "2026-11-02"
 dateModified: "2026-11-02"
 excerpt: "We tell children to fear God and then wonder why they picture him angry. The fear Scripture means is awe, awe grows with learning, and a child who never stops learning never runs out of reasons to find him."
 metaDescription: "What the fear of the Lord really means, why awe grows with learning, and how to raise a child who keeps God in heart and mind by never ceasing to wonder."
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/how-to-raise-children-to-have-god-in-their-hearts-and-minds.webp"
-imageAlt: "Silhouette of a child standing in tall grass, looking up at a starry night sky"
-imageCaption: "Stock photograph."
-imageCredit: "Photo: Kuntal Biswas / Pexels"
-imageCreditUrl: "https://www.pexels.com/photo/silhouette-of-child-stargazing-in-night-field-31181013/"
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/how-to-raise-children-to-have-god-in-their-hearts-and-minds.webp"
+imageAlt: "Illustration: a child in tall grass looks up at a sky full of stars, a parent's hand resting on their shoulder"
 featured: false
 sources:
   - "Proverbs 9:10 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Proverbs+9%3A10&version=NIV"

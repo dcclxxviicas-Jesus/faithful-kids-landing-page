@@ -12,11 +12,8 @@ datePublished: "2026-10-29"
 dateModified: "2026-11-02"
 excerpt: "We spend years telling children about repentance and forgiveness. The lesson they treasure is the one they get to watch: a parent who was wrong, said so, and asked to be forgiven. It is the easiest gift you will give them all week."
 metaDescription: "Why a parent's apology teaches repentance and grace better than any Bible story, what a real apology to a child sounds like, and what it is not."
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/the-bible-lesson-your-kids-remember-is-the-one-where-you-apologized.webp"
-imageAlt: "A mother and her young daughter hugging indoors"
-imageCaption: "Stock photograph."
-imageCredit: "Photo: Ron Lach / Pexels"
-imageCreditUrl: "https://www.pexels.com/photo/daughter-hugging-mother-9885408/"
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/the-bible-lesson-your-kids-remember-is-the-one-where-you-apologized.webp"
+imageAlt: "Illustration: a parent crouched to a small child's eye level in a hallway, hands on the child's shoulders, after an apology"
 featured: false
 sources:
   - "Ephesians 4:32 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Ephesians+4%3A32&version=NIV"

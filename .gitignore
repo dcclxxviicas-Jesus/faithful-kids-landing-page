@@ -13,3 +13,4 @@ next-env.d.ts
 church-kit/*.pdf
 !church-kit/_generic.pdf
 tests/screenshots/
+.parenting-art/

@@ -21,11 +21,11 @@ dateModified: "2026-11-15"                 # bump only on substantive edits
 excerpt: "One or two sentences for cards and the section pages."
 metaDescription: "Under 158 characters. Defaults to the excerpt."
 seoTitle: "Optional shorter SERP title"
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/reading-the-bible-every-night.webp"
-imageAlt: "A father and two children on a couch with an open Bible"
-imageCaption: "Optional caption shown under the hero."
-imageCredit: "Photo: Jane Doe"             # required for any third-party or licensed image
-imageCreditUrl: "https://..."
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/reading-the-bible-every-night.webp"
+imageAlt: "Illustration: a father and two children on a couch with an open Bible"
+imageCaption: ""                           # leave empty for commissioned illustrations (the default hero)
+imageCredit: ""                            # required only for a photograph (contributor-supplied or licensed)
+imageCreditUrl: ""
 featured: false                            # newest featured article leads the homepage
 canonical: ""                              # only for a reprint first published elsewhere
 sources:

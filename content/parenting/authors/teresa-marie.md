@@ -11,4 +11,4 @@ pseudonym: false
 disclosure: ""
 status: "active"
 ---
-Teresa Marie writes for Parenting at Faithful Kids. Biography to be supplied and approved by the author before her first piece is published.
+Teresa Marie writes for Parenting at Faithful Kids on faith, family life and raising children in the church.

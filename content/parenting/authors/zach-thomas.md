@@ -11,4 +11,4 @@ pseudonym: false
 disclosure: ""
 status: "active"
 ---
-Zach Thomas writes for Parenting at Faithful Kids. Biography to be supplied and approved by the author before his first piece is published.
+Zach Thomas writes for Parenting at Faithful Kids on faith, family life and raising children in the church.

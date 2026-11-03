@@ -7,7 +7,7 @@ type: "opinion"
 tags: ["Christian Parenting", "Faith at Home"]
 author: "teresa-marie"
 editor: "christian-alexander"
-status: "draft"
+status: "published"
 datePublished: "2026-10-29"
 dateModified: "2026-10-29"
 excerpt: "We spend years telling children about repentance and forgiveness. The lesson that lands is the one they watch: a parent who was wrong, said so, and asked to be forgiven."

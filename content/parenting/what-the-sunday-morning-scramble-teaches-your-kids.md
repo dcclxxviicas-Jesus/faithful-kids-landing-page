@@ -7,7 +7,7 @@ type: "opinion"
 tags: ["Christian Parenting", "Family Traditions"]
 author: "teresa-marie"
 editor: "christian-alexander"
-status: "draft"
+status: "published"
 datePublished: "2026-10-24"
 dateModified: "2026-10-24"
 excerpt: "Lost shoes, raised voices, a silent car, and then a smile at the church door. Children read that sequence perfectly. Here is what it says, and what a different Sunday morning could say instead."

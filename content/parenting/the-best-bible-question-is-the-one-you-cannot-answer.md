@@ -6,7 +6,7 @@ type: "opinion"
 tags: ["Family Bible Study", "Child Development"]
 author: "mark-antonio"
 editor: "christian-alexander"
-status: "draft"
+status: "published"
 datePublished: "2026-10-30"
 dateModified: "2026-10-30"
 excerpt: "Comprehension questions tell you whether a child was listening. A different kind of question tells you whether the story got in. Here is the difference, and three questions worth asking tonight."

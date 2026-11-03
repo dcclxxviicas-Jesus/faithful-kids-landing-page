@@ -6,7 +6,7 @@ type: "opinion"
 tags: ["Faith at Home", "Family Traditions"]
 author: "zach-thomas"
 editor: "christian-alexander"
-status: "draft"
+status: "published"
 datePublished: "2026-10-27"
 dateModified: "2026-10-27"
 excerpt: "Most family Bible routines are designed for the family we wish we were. Here is how to design one for the family you actually have, and what to do the week it collapses anyway."

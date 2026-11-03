@@ -25,6 +25,12 @@ export function AutoResize() {
 
     let last = 0
     const send = () => {
+      /* Nothing to report while the game is in native fullscreen: the host
+         element is position:fixed then, so the wrapper measures ~0 and a host
+         running our listener would shrink its iframe to a sliver — which is
+         what the player would be dropped back into on exit. */
+      const d = document as Document & { webkitFullscreenElement?: Element | null }
+      if (d.fullscreenElement ?? d.webkitFullscreenElement) return
       // Content height plus the page's own vertical padding.
       const style = getComputedStyle(document.body)
       const pad = parseFloat(style.paddingTop || '0') + parseFloat(style.paddingBottom || '0')

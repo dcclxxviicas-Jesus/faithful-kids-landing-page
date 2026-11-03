@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import posthog from 'posthog-js'
 import { EASY, MEDIUM, HARD, ALL_QUESTIONS, type GameQuestion } from '@/lib/trivia-game-questions'
+import { useFullscreen, FullscreenButton, FullscreenShell } from '@/app/components/Fullscreen'
 
 function track(event: string, props?: Record<string, unknown>) {
   try {
@@ -82,6 +83,26 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
   const [feedback, setFeedback] = useState('')
   const [finished, setFinished] = useState(false)
   const [shared, setShared] = useState(false)
+
+  const fs = useFullscreen()
+  /* The embed only offers it where the browser will really grant it: inside a
+     frame without allow="fullscreen" an overlay fills the frame, not the
+     screen. See Fullscreen.tsx. */
+  const canFullscreen = !embed || fs.canNative
+  /* Under the card rather than inside it. The question screen's top row
+     already carries the counter, the streak and the points, and a fourth
+     control there is unreadable on a phone — this way one placement serves
+     the level picker, the questions and the results screen alike. */
+  const fsRow = canFullscreen && !fs.full ? (
+    <div className="fk-fs-row">
+      <FullscreenButton
+        onClick={() => {
+          track('trivia_page_fullscreen', { surface: embed ? 'embed' : 'page', started: Boolean(round) })
+          fs.toggle()
+        }}
+      />
+    </div>
+  ) : null
 
   const linkTarget = embed ? '_blank' : undefined
   // On-page links stay clean; only the embed surface is tagged.
@@ -175,23 +196,26 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
   // ——— start screen ———
   if (!round) {
     return (
-      <div className="tg-card">
-        <div style={{ fontSize: '2.6rem', lineHeight: 1, marginBottom: 8 }}>🏆</div>
-        <h2 className="tg-title">Bible Trivia Challenge</h2>
-        <p className="tg-sub">
-          10 questions. Pick your level — how well do you know the greatest story ever told?
-        </p>
-        <div className="tg-diff-grid">
-          {DIFFICULTIES.map(d => (
-            <button key={d.key} className="tg-diff" onClick={() => start(d.key)}>
-              <span className="tg-diff-emoji">{d.emoji}</span>
-              <span className="tg-diff-name">{d.label}</span>
-              <span className="tg-diff-sub">{d.sub}</span>
-            </button>
-          ))}
+      <FullscreenShell fs={fs} title="Bible Trivia Challenge">
+        <div className="tg-card">
+          <div style={{ fontSize: '2.6rem', lineHeight: 1, marginBottom: 8 }}>🏆</div>
+          <h2 className="tg-title">Bible Trivia Challenge</h2>
+          <p className="tg-sub">
+            10 questions. Pick your level — how well do you know the greatest story ever told?
+          </p>
+          <div className="tg-diff-grid">
+            {DIFFICULTIES.map(d => (
+              <button key={d.key} className="tg-diff" onClick={() => start(d.key)}>
+                <span className="tg-diff-emoji">{d.emoji}</span>
+                <span className="tg-diff-name">{d.label}</span>
+                <span className="tg-diff-sub">{d.sub}</span>
+              </button>
+            ))}
+          </div>
+          <p className="tg-note">100 questions in the pool — every round is different. Free forever.</p>
         </div>
-        <p className="tg-note">100 questions in the pool — every round is different. Free forever.</p>
-      </div>
+        {fsRow}
+      </FullscreenShell>
     )
   }
 
@@ -200,87 +224,90 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
     const rank = rankFor(score)
     const celebrate = score >= 8
     return (
-      <div className="tg-card">
-        {celebrate && (
-          <div aria-hidden style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}>
-            {Array.from({ length: 26 }, (_, i) => (
-              <span
-                key={i}
-                style={{
-                  position: 'absolute',
-                  top: -12,
-                  left: `${(i * 137) % 100}%`,
-                  width: 9,
-                  height: i % 3 === 0 ? 9 : 14,
-                  borderRadius: i % 3 === 0 ? '50%' : 2,
-                  background: CONFETTI_COLORS[i % CONFETTI_COLORS.length],
-                  animation: `tgConfetti ${1.9 + (i % 5) * 0.35}s ease-in ${(i % 7) * 0.18}s both`,
-                }}
-              />
+      <FullscreenShell fs={fs} title="Bible Trivia Challenge">
+        <div className="tg-card">
+          {celebrate && (
+            <div aria-hidden style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}>
+              {Array.from({ length: 26 }, (_, i) => (
+                <span
+                  key={i}
+                  style={{
+                    position: 'absolute',
+                    top: -12,
+                    left: `${(i * 137) % 100}%`,
+                    width: 9,
+                    height: i % 3 === 0 ? 9 : 14,
+                    borderRadius: i % 3 === 0 ? '50%' : 2,
+                    background: CONFETTI_COLORS[i % CONFETTI_COLORS.length],
+                    animation: `tgConfetti ${1.9 + (i % 5) * 0.35}s ease-in ${(i % 7) * 0.18}s both`,
+                  }}
+                />
+              ))}
+            </div>
+          )}
+          <div style={{ fontSize: '3.2rem', lineHeight: 1, marginBottom: 6, animation: 'tgTrophy 0.7s ease' }}>
+            {rank.emoji}
+          </div>
+          <p className="tg-rank-label">Your rank</p>
+          <h2 className="tg-rank">{rank.title}</h2>
+          <p className="tg-sub" style={{ marginBottom: 18 }}>{rank.line}</p>
+          <div className="tg-stats">
+            {[
+              { label: 'Correct', value: `${score}/${ROUND_SIZE}` },
+              { label: 'Points', value: points.toLocaleString() },
+              { label: 'Best streak', value: `${bestStreak} 🔥` },
+            ].map(s => (
+              <div key={s.label} className="tg-stat">
+                <div className="tg-stat-value">{s.value}</div>
+                <div className="tg-stat-label">{s.label}</div>
+              </div>
             ))}
           </div>
-        )}
-        <div style={{ fontSize: '3.2rem', lineHeight: 1, marginBottom: 6, animation: 'tgTrophy 0.7s ease' }}>
-          {rank.emoji}
-        </div>
-        <p className="tg-rank-label">Your rank</p>
-        <h2 className="tg-rank">{rank.title}</h2>
-        <p className="tg-sub" style={{ marginBottom: 18 }}>{rank.line}</p>
-        <div className="tg-stats">
-          {[
-            { label: 'Correct', value: `${score}/${ROUND_SIZE}` },
-            { label: 'Points', value: points.toLocaleString() },
-            { label: 'Best streak', value: `${bestStreak} 🔥` },
-          ].map(s => (
-            <div key={s.label} className="tg-stat">
-              <div className="tg-stat-value">{s.value}</div>
-              <div className="tg-stat-label">{s.label}</div>
-            </div>
-          ))}
-        </div>
-        {/* Primary action. This used to sit under a divider below "Play again",
-            styled identically to it — the whole results screen produced one
-            click in its lifetime. Play again is now the secondary action. */}
-        <div className="tg-cta-primary">
-          <p style={{ fontSize: '0.92rem', margin: '0 0 12px' }} className="tg-sub">
-            Love Bible trivia? Your kids will love <strong style={{ color: 'var(--text)' }}>Faithful Kids</strong> —
-            short Bible story videos with quizzes just like this one.
-          </p>
-          <a
-            href={`https://faithfulkids.app/quiz${utm}`}
-            target={linkTarget}
-            rel={embed ? 'noopener' : undefined}
-            className="tg-btn tg-btn-cta"
-            style={{ textDecoration: 'none', display: 'inline-block' }}
-            onClick={() => base('trivia_page_cta_click')}
-          >
-            Get started &rarr;
-          </a>
-          <p style={{ margin: '12px 0 0' }}>
+          {/* Primary action. This used to sit under a divider below "Play again",
+              styled identically to it — the whole results screen produced one
+              click in its lifetime. Play again is now the secondary action. */}
+          <div className="tg-cta-primary">
+            <p style={{ fontSize: '0.92rem', margin: '0 0 12px' }} className="tg-sub">
+              Love Bible trivia? Your kids will love <strong style={{ color: 'var(--text)' }}>Faithful Kids</strong> —
+              short Bible story videos with quizzes just like this one.
+            </p>
             <a
-              href={`https://faithfulkids.app/printables/bible-trivia-pack${utm}`}
+              href={`https://faithfulkids.app/quiz${utm}`}
               target={linkTarget}
               rel={embed ? 'noopener' : undefined}
-              style={{ color: 'var(--primary)', fontWeight: 700, fontSize: '0.85rem', textDecoration: 'none' }}
-              onClick={() => base('trivia_page_printable_click')}
+              className="tg-btn tg-btn-cta"
+              style={{ textDecoration: 'none', display: 'inline-block' }}
+              onClick={() => base('trivia_page_cta_click')}
             >
-              📄 Get all 100 questions as a free printable
+              Get started &rarr;
             </a>
-          </p>
-        </div>
+            <p style={{ margin: '12px 0 0' }}>
+              <a
+                href={`https://faithfulkids.app/printables/bible-trivia-pack${utm}`}
+                target={linkTarget}
+                rel={embed ? 'noopener' : undefined}
+                style={{ color: 'var(--primary)', fontWeight: 700, fontSize: '0.85rem', textDecoration: 'none' }}
+                onClick={() => base('trivia_page_printable_click')}
+              >
+                📄 Get all 100 questions as a free printable
+              </a>
+            </p>
+          </div>
 
-        <div style={{ display: 'flex', gap: 10, justifyContent: 'center', flexWrap: 'wrap', marginTop: 16 }}>
-          <button className="tg-btn-ghost" onClick={() => start(difficulty)}>Play again ↻</button>
-          <button className="tg-btn-ghost" onClick={share}>
-            {shared ? 'Copied! ✓' : 'Challenge a friend 📣'}
-          </button>
+          <div style={{ display: 'flex', gap: 10, justifyContent: 'center', flexWrap: 'wrap', marginTop: 16 }}>
+            <button className="tg-btn-ghost" onClick={() => start(difficulty)}>Play again ↻</button>
+            <button className="tg-btn-ghost" onClick={share}>
+              {shared ? 'Copied! ✓' : 'Challenge a friend 📣'}
+            </button>
+          </div>
+          {difficulty !== 'hard' && score >= 8 && (
+            <button className="tg-btn-text" onClick={() => start(difficulty === 'easy' ? 'medium' : 'hard')}>
+              That looked easy — try {difficulty === 'easy' ? 'Medium' : 'Hard'} →
+            </button>
+          )}
         </div>
-        {difficulty !== 'hard' && score >= 8 && (
-          <button className="tg-btn-text" onClick={() => start(difficulty === 'easy' ? 'medium' : 'hard')}>
-            That looked easy — try {difficulty === 'easy' ? 'Medium' : 'Hard'} →
-          </button>
-        )}
-      </div>
+        {fsRow}
+      </FullscreenShell>
     )
   }
 
@@ -289,66 +316,69 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
   const answered = picked !== null
   const gotIt = answered && picked === q.correctIndex
   return (
-    <div className="tg-card" style={{ animation: 'tgRise 0.3s ease' }} key={index}>
-      <div className="tg-meta">
-        <span>Question {index + 1} of {round.length}</span>
-        <span style={{ display: 'flex', gap: 12 }}>
-          {streak > 1 && <span style={{ color: 'var(--gold)' }}>🔥 {streak}</span>}
-          <span style={{ color: 'var(--primary-dark)' }}>{points.toLocaleString()} pts</span>
-        </span>
-      </div>
-      <div className="tg-progress">
-        <div
-          className="tg-progress-fill"
-          style={{ width: `${((index + (answered ? 1 : 0.4)) / round.length) * 100}%` }}
-        />
-      </div>
+    <FullscreenShell fs={fs} title="Bible Trivia Challenge">
+      <div className="tg-card" style={{ animation: 'tgRise 0.3s ease' }} key={index}>
+        <div className="tg-meta">
+          <span>Question {index + 1} of {round.length}</span>
+          <span style={{ display: 'flex', gap: 12 }}>
+            {streak > 1 && <span style={{ color: 'var(--gold)' }}>🔥 {streak}</span>}
+            <span style={{ color: 'var(--primary-dark)' }}>{points.toLocaleString()} pts</span>
+          </span>
+        </div>
+        <div className="tg-progress">
+          <div
+            className="tg-progress-fill"
+            style={{ width: `${((index + (answered ? 1 : 0.4)) / round.length) * 100}%` }}
+          />
+        </div>
 
-      <p className="tg-question">{q.q}</p>
+        <p className="tg-question">{q.q}</p>
 
-      <div className="tg-opts">
-        {q.options.map((opt, i) => {
-          const isCorrect = i === q.correctIndex
-          const isPicked = i === picked
-          let cls = 'tg-opt'
-          if (answered) {
-            if (isCorrect) cls += ' is-correct'
-            else if (isPicked) cls += ' is-wrong'
-            else cls += ' is-dim'
-          }
-          return (
-            <button key={i} className={cls} disabled={answered} onClick={() => pick(i)}>
-              <span aria-hidden className="tg-letter">
-                {answered && isCorrect ? '✓' : answered && isPicked ? '✕' : String.fromCharCode(65 + i)}
-              </span>
-              {opt}
-            </button>
-          )
-        })}
-      </div>
+        <div className="tg-opts">
+          {q.options.map((opt, i) => {
+            const isCorrect = i === q.correctIndex
+            const isPicked = i === picked
+            let cls = 'tg-opt'
+            if (answered) {
+              if (isCorrect) cls += ' is-correct'
+              else if (isPicked) cls += ' is-wrong'
+              else cls += ' is-dim'
+            }
+            return (
+              <button key={i} className={cls} disabled={answered} onClick={() => pick(i)}>
+                <span aria-hidden className="tg-letter">
+                  {answered && isCorrect ? '✓' : answered && isPicked ? '✕' : String.fromCharCode(65 + i)}
+                </span>
+                {opt}
+              </button>
+            )
+          })}
+        </div>
 
-      <div aria-live="polite" className="tg-feedback">
-        {answered && (
-          <div style={{ animation: 'tgRise 0.3s ease' }}>
-            <p className="tg-feedback-line" style={{ color: gotIt ? 'var(--primary)' : 'var(--gold)' }}>
-              {feedback}
-              {gotIt && lastGain > 0 && <span className="tg-gain">+{lastGain}</span>}
-            </p>
-            <p className="tg-feedback-ref">📖 {q.ref}</p>
-          </div>
+        <div aria-live="polite" className="tg-feedback">
+          {answered && (
+            <div style={{ animation: 'tgRise 0.3s ease' }}>
+              <p className="tg-feedback-line" style={{ color: gotIt ? 'var(--primary)' : 'var(--gold)' }}>
+                {feedback}
+                {gotIt && lastGain > 0 && <span className="tg-gain">+{lastGain}</span>}
+              </p>
+              <p className="tg-feedback-ref">📖 {q.ref}</p>
+            </div>
+          )}
+        </div>
+
+        {answered && index + 1 < round.length && (
+          <button className="tg-btn" style={{ marginTop: 6 }} onClick={next} autoFocus>
+            Next question →
+          </button>
+        )}
+        {answered && index + 1 >= round.length && (
+          <p style={{ margin: '6px 0 0', fontWeight: 700, color: 'var(--primary)', fontSize: '0.9rem' }}>
+            Adding up your score…
+          </p>
         )}
       </div>
-
-      {answered && index + 1 < round.length && (
-        <button className="tg-btn" style={{ marginTop: 6 }} onClick={next} autoFocus>
-          Next question →
-        </button>
-      )}
-      {answered && index + 1 >= round.length && (
-        <p style={{ margin: '6px 0 0', fontWeight: 700, color: 'var(--primary)', fontSize: '0.9rem' }}>
-          Adding up your score…
-        </p>
-      )}
-    </div>
+      {fsRow}
+    </FullscreenShell>
   )
 }

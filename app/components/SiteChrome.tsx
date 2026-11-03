@@ -13,9 +13,14 @@ export type NavActive = 'stories' | 'trivia' | 'printables' | 'churches' | 'pare
    returns 307 to /login when signed out. */
 export const SIGN_IN_URL = 'https://app.faithfulkids.app'
 
+/* Order is the owner's, Nov 3, 2026: Stories, Parenting, Printables,
+   Churches, Trivia Game. Stories first because it is what the brand is;
+   Parenting second to give the new editorial section the prominence a
+   returning adult reader needs. Do not re-sort by traffic. */
 const NAV_ITEMS: NavItem[] = [
   { href: '/bible-stories-for-kids', label: 'Bible Stories', key: 'stories' },
-  { href: '/bible-trivia', label: 'Trivia Game', key: 'trivia' },
+  /* The editorial section (Raising Faithful Kids). Adult-facing. */
+  { href: '/parenting', label: 'Parenting', key: 'parenting' },
   /* /blog (the 576-post guides library) is deliberately NOT in the main nav
      (owner call, Nov 2, 2026). It sat here as "For Parents" next to
      "Parenting" and visitors could not tell the two apart. Search traffic
@@ -23,9 +28,8 @@ const NAV_ITEMS: NavItem[] = [
      and Printables already route people into that content. It stays in the
      footer as "Guides & Resources" and in the sitemap. */
   { href: '/printables', label: 'Printables', key: 'printables' },
-  /* The editorial section (Raising Faithful Kids). Adult-facing. */
-  { href: '/parenting', label: 'Parenting', key: 'parenting' },
   { href: '/churches', label: 'Churches', key: 'churches' },
+  { href: '/bible-trivia', label: 'Trivia Game', key: 'trivia' },
 ]
 
 export function SiteNav({

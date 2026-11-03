@@ -696,6 +696,29 @@ straight.
 
 ## 7. PRIORITIES & CALENDAR
 
+0. **Live watch list (as of Nov 2, 2026):**
+   - **Christmas word search decision due ~Nov 3, 2026**: still absent
+     top-30 on both head terms as of the Oct 28 check, zero GSC
+     impressions in 14d despite the Oct 13 retitle + 14 links. If
+     unchanged, pivot the link/retitle push to the softer "christmas
+     bible word search"/nativity variants (Pinterest-grade SERP).
+   - **Nov 2 ships to watch in GSC over 2-6 weeks**: /printables/bible-maps
+     (+6 details), /printables/bible-timeline, 19 who-was profiles +
+     women-of-the-bible-for-kids. Commits d4b1019 + e0b4dca.
+   - **Categories the Nov 2 DFS sweep KILLED — don't rebuild**: biblical
+     archaeology/daily-life (clickstream zeros), book-by-book summary
+     guides (100-400/mo, AIO-eaten), big-faith-questions (unmeasurable or
+     adult+AIO), curriculum commercial head terms (KD 68-77 authority
+     fights — backlink engine's war).
+   - **Mother's Day (12,100 ads) / Father's Day (8,100) verse-card sets**:
+     build February-March 2027, same pattern as the Valentine cards.
+   - **PARKED, Cas to decide (found by commander Nov 2, not this lane):**
+     Google Images gives 95.7K impressions / 254 clicks per 90d; blog alt
+     text is templated, not descriptive. Do nothing until Cas rules.
+   - **Nav change in flight (Nov 2)**: Cas approved dropping "For Parents"
+     (/blog) from the top nav; worker2 is implementing in
+     app/components/SiteChrome.tsx. Don't touch the nav concurrently.
+
 1. **Get the printables ranking — hard deadline: "christmas word search"
    (14.8k/mo, KD 0) must rank by early November.** Monitor via
    `gsc-query.py`; if the detail pages aren't indexed/moving within ~2 weeks

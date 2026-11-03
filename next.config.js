@@ -30,6 +30,11 @@ const nextConfig = {
         source: '/blog/:slug.md',
         destination: '/blog-md/:slug',
       },
+      // Same parity for Parenting articles: /parenting/<slug>.md
+      {
+        source: '/parenting/:slug.md',
+        destination: '/parenting-md/:slug',
+      },
       {
         source: '/ingest/static/:path*',
         destination: 'https://us-assets.i.posthog.com/static/:path*',

@@ -85,7 +85,7 @@ function parseFrontmatter(fileContent: string): { data: Record<string, unknown>;
   return { data, body }
 }
 
-function markdownToHtml(md: string): string {
+export function markdownToHtml(md: string): string {
   let html = md
 
   // Fix faithfulkids.com → faithfulkids.app

@@ -162,6 +162,9 @@ export default function CasAdmin() {
         <main>
           <header className="head">
             <h1>Faithful Kids</h1>
+            {/* Sibling desks. The Parenting desk runs the editorial section
+                (pitches, outreach, articles, newsletter). */}
+            <a href="/cas-admin/parenting" style={{ fontSize: 13, color: '#7fd4a0', marginRight: 10 }}>parenting desk</a>
             <div className="tabs">
               {RANGES.map((r) => (
                 <button key={r.key} className={range === r.key ? 'on' : ''} onClick={() => { setRange(r.key); load(pw, r.key) }}>

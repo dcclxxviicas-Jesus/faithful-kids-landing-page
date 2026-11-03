@@ -5,7 +5,7 @@
 import { MobileMenu, type NavItem } from './MobileMenu'
 import { NavCta } from './NavCta'
 
-export type NavActive = 'blog' | 'stories' | 'trivia' | 'printables' | 'churches'
+export type NavActive = 'blog' | 'stories' | 'trivia' | 'printables' | 'churches' | 'parenting'
 
 /* The app, not /login. An unauthenticated visitor is redirected to
    /login?redirect=%2F anyway, while a signed-in parent lands straight in the
@@ -21,6 +21,9 @@ const NAV_ITEMS: NavItem[] = [
      stories, so the nav now says so. The page's own <title> still targets
      "bible guides for parents" and is unchanged. */
   { href: '/blog', label: 'For Parents', key: 'blog' },
+  /* The editorial section (Raising Faithful Kids). Adult-facing, so it sits
+     beside the parent library rather than among the kids' activities. */
+  { href: '/parenting', label: 'Parenting', key: 'parenting' },
   { href: '/bible-trivia', label: 'Trivia Game', key: 'trivia' },
   { href: '/printables', label: 'Printables', key: 'printables' },
   { href: '/churches', label: 'Churches', key: 'churches' },
@@ -128,6 +131,8 @@ export function SiteFooter() {
         <div className="footer-links">
           <a href="/bible-stories-for-kids">Bible Stories</a>
           <a href="/blog">For Parents</a>
+          <a href="/parenting">Parenting</a>
+          <a href="/parenting/write-for-us">Write for Us</a>
           <a href="/bible-trivia">Trivia Game</a>
           <a href="/printables">Printables</a>
           <a href="/holidays">Holidays</a>

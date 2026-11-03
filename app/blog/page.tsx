@@ -84,6 +84,12 @@ function BlogV2() {
         <p className="hv-close-fine" style={{ marginTop: 16 }}>
           7-day free trial. No commitment. Cancel anytime.
         </p>
+        {/* One contextual pointer between the two parent-facing lanes: this
+            library is reference material; Parenting is where other parents,
+            pastors and teachers write in their own names. */}
+        <p className="hv-close-fine" style={{ marginTop: 10 }}>
+          Looking for real stories from other Christian parents? Read <a href="/parenting" style={{ fontWeight: 800 }}>Raising Faithful Kids</a>, our Parenting section.
+        </p>
       </V2Hero>
 
       {/* The counts, which the live page shows as a stat bar. Same four

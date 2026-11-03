@@ -7,6 +7,7 @@ import jesseTree from '@/lib/jesse-tree.json'
 import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
 import { MAPS as bibleMaps } from '@/lib/bible-maps'
+import { getPublicArticles, getPublicAuthors, liveSections } from '@/lib/parenting'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://faithfulkids.app'
@@ -319,5 +320,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ]
 
-  return [...staticPages, ...holidayPages, ...seriesPages, ...topicPages, ...blogPages]
+  // Parenting: the editorial section. Samples (development placeholders) are
+  // never public in production and never listed. Category pages appear only
+  // once they have content, the same rule as the blog topic hubs.
+  const pArticles = getPublicArticles().filter(a => !a.isSample)
+  const parentingPages: MetadataRoute.Sitemap = [
+    { url: `${baseUrl}/parenting`, lastModified: new Date(), changeFrequency: 'weekly' as const, priority: 0.8 },
+    { url: `${baseUrl}/parenting/write-for-us`, lastModified: new Date('2026-11-03'), changeFrequency: 'monthly' as const, priority: 0.6 },
+    { url: `${baseUrl}/parenting/about`, lastModified: new Date('2026-11-03'), changeFrequency: 'yearly' as const, priority: 0.4 },
+    { url: `${baseUrl}/parenting/editorial-policy`, lastModified: new Date('2026-11-03'), changeFrequency: 'yearly' as const, priority: 0.3 },
+    { url: `${baseUrl}/parenting/submission-guidelines`, lastModified: new Date('2026-11-03'), changeFrequency: 'yearly' as const, priority: 0.3 },
+    ...liveSections(pArticles).map(s => ({ url: `${baseUrl}/parenting/${s.slug}`, lastModified: new Date(), changeFrequency: 'weekly' as const, priority: 0.7 })),
+    ...pArticles.map(a => ({
+      url: `${baseUrl}/parenting/${a.slug}`,
+      lastModified: new Date(a.dateModified + 'T00:00:00Z'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+      ...(a.image ? { images: [a.image] } : {}),
+    })),
+    ...getPublicAuthors().filter(au => pArticles.some(a => a.authorSlug === au.slug)).map(au => ({
+      url: `${baseUrl}/parenting/authors/${au.slug}`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.5,
+    })),
+  ]
+
+  return [...staticPages, ...holidayPages, ...seriesPages, ...topicPages, ...blogPages, ...parentingPages]
 }

@@ -1,4 +1,5 @@
 import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
+import { getPublicArticles as getParentingArticles } from '@/lib/parenting'
 import { COLORING_PAGES } from '@/lib/coloring-pages'
 import wordSearches from '@/lib/word-searches.json'
 import crosswords from '@/lib/crosswords.json'
@@ -23,6 +24,9 @@ export async function GET() {
     p => p.slug.includes('-vs-') || p.slug.startsWith('best-') || p.slug.startsWith('free-bible-apps') || p.slug.endsWith('-review') || p.slug.startsWith('bible-apps-') || p.slug.startsWith('christian-apps-'),
   )
   const guides = listicles.filter(p => !comparisons.includes(p))
+  // Parenting: the editorial section. Real, bylined pieces only; development
+  // samples never reach production and are filtered here as well.
+  const parenting = getParentingArticles().filter(a => !a.isSample)
 
   const lines: string[] = [
     '# Faithful Kids',
@@ -72,6 +76,13 @@ export async function GET() {
     '- [Creator partnerships](https://faithfulkids.app/creators): Faithful Kids partners with Christian parenting, homeschool, and family creators — free full access plus paid collaborations, no follower minimum; pitch christian@faithfulkids.app with handles, audience sizes, and a content idea',
     '- [Christian UGC guide](https://faithfulkids.app/blog/christian-ugc): what Christian UGC is, how faith-based (including Catholic) creators build a portfolio and get paid, and which brands hire',
     '- [Christian brands that work with influencers](https://faithfulkids.app/blog/christian-brands-that-work-with-influencers): 10 verified ambassador/affiliate/UGC programs with live application links — Faithful Kids, Elevated Faith, Kerusso, DaySpring, Logos, Hosanna Revival and more',
+    '',
+    '## Parenting (editorial: real stories, opinion, interviews, news, research)',
+    '',
+    '- [Raising Faithful Kids](https://faithfulkids.app/parenting): Parenting at Faithful Kids — real stories, thoughtful perspectives, and practical wisdom from Christian parents, educators, and ministry leaders. Bylined by real contributors; opinion labelled; corrections published. Each article also has a Markdown edition at the same URL plus ".md"',
+    '- [Write for Faithful Kids](https://faithfulkids.app/parenting/write-for-us): Christian parents, teachers, pastors and homeschool educators can pitch a story in a few sentences; unpaid, edited with care, real names only',
+    '- [Editorial policy](https://faithfulkids.app/parenting/editorial-policy): nonfiction is nonfiction, real names, facts checked, opinion labelled, children\u2019s privacy first, how AI is and is not used, corrections',
+    ...parenting.map(a => `- [${a.title}](https://faithfulkids.app/parenting/${a.slug}): ${a.section.label} by ${a.author.name} (${a.datePublished}). ${a.metaDescription}`),
     '',
     '## App comparisons and buying guides',
     '',

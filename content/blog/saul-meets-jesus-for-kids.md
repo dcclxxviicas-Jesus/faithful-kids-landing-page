@@ -47,6 +47,8 @@ The story of Saul Meets Jesus teaches children important lessons about community
 
 For a quieter follow-up, try the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) — twelve hidden words, answer key included.
 
+The man who vouched for Saul when no one else would has his own story: [Who Was Barnabas in the Bible?](/blog/who-was-barnabas-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

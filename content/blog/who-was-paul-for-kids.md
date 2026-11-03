@@ -58,6 +58,8 @@ When Paul went to Jerusalem, the Christians there were afraid of him. They didn'
 
 There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
 
+Paul's young apprentice — raised on Scripture by his mom and grandma — has his own profile: [Who Was Timothy in the Bible?](/blog/who-was-timothy-for-kids)
+
 ## Missionary Journeys (Acts 13-21)
 
 Paul went on three major missionary journeys that took him across the Roman Empire. He traveled through what is now Turkey, Greece, and beyond -- sometimes on foot, sometimes by ship. Wherever he went, he told people about Jesus, started new churches, and trained leaders.

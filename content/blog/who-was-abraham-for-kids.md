@@ -44,6 +44,8 @@ Hagar had a son named Ishmael. But instead of solving their problems, this decis
 
 **Key lesson for kids:** When we try to rush God's plan or do things our own way, it usually creates more problems. God's timing is perfect, even when it feels slow to us. Patience is hard, but it's always worth it.
 
+For the quiet patriarch's full story — the laughter, the mountain, the wells — see [Who Was Isaac in the Bible?](/blog/who-was-isaac-for-kids)
+
 ## New Names, New Promise (Genesis 17)
 
 When Abram was 99 years old, God appeared to him again and made an even bigger promise. God said He was establishing a covenant -- a special agreement -- with Abram and all his descendants.

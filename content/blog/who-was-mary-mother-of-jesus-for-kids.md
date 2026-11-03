@@ -64,6 +64,8 @@ Joseph woke up and did what the angel commanded. He took Mary as his wife. He pr
 
 A related freebie: our [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary), drawn as clean line art for crayons and markers.
 
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+
 ## The Journey to Bethlehem and the Birth of Jesus (Luke 2:1-7)
 
 Around the time Mary was due to give birth, the Roman emperor Caesar Augustus issued a decree that a census should be taken of the entire Roman world. Everyone had to travel to their ancestral hometown to register. For Joseph, that meant traveling from Nazareth to Bethlehem -- a journey of about 80 miles, which would have taken several days on foot or by donkey.

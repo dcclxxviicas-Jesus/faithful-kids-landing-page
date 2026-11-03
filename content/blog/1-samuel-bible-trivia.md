@@ -57,6 +57,8 @@ Keep the order straight while you quiz: our free [printable books of the Bible c
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
+For his whole life — the boy who heard God's voice, the last judge, the king-maker — see [Who Was Samuel in the Bible?](/blog/who-was-samuel-for-kids)
+
 ## Hard 1 Samuel Trivia Questions (Teens and Adults)
 
 26. Finish God's words to Samuel: "People look at the outward appearance, but the LORD looks at..." **"the heart"** (1 Samuel 16:7)

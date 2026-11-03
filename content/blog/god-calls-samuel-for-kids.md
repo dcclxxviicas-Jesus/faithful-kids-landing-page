@@ -49,6 +49,8 @@ If small hands need something to do while you read, the free [resurrection color
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
+For his whole life — the boy who heard God's voice, the last judge, the king-maker — see [Who Was Samuel in the Bible?](/blog/who-was-samuel-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

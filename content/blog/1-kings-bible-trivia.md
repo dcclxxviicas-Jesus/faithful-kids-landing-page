@@ -53,6 +53,8 @@ For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a 
 
 A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
 
+For Elijah's whole life — the ravens, Mount Carmel, the whisper, the chariot — see [Who Was Elijah in the Bible?](/blog/who-was-elijah-for-kids)
+
 ## Hard 1 Kings Trivia Questions (Teens and Adults)
 
 24. Whose harsh answer split the kingdom -- and whose advice did he reject? **Rehoboam's; he rejected the elders' counsel and followed his young friends, promising to scourge Israel "with scorpions"** (1 Kings 12:8, 13-14)

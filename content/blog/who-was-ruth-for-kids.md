@@ -56,6 +56,8 @@ A "guardian-redeemer" (or "kinsman-redeemer") was a close relative who had the r
 
 **Key lesson for kids:** Hard work and humility matter. Ruth didn't sit around waiting for a miracle. She went to work, willing to do the lowest job available. And God honored her faithfulness by leading her to exactly the right field. Sometimes God's blessings come through our willingness to do the next right thing.
 
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+
 ## Naomi's Plan (Ruth 3)
 
 Naomi came up with a plan. She told Ruth to get dressed up, go to the threshing floor where Boaz was working, and lie down at his feet after he fell asleep. This was a culturally appropriate way of asking Boaz to act as their kinsman-redeemer -- to marry Ruth and care for their family.

@@ -49,6 +49,8 @@ The story of Nehemiah's Prayer teaches children important lessons about rebuildi
 
 To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
 
+For the whole 52-day project — the prayers, the mockers, the wall — see [Who Was Nehemiah in the Bible?](/blog/who-was-nehemiah-for-kids)
+
 ## Parent's Guide: Why This Story Matters
 
 Every Bible story is an opportunity to talk with your child about faith in a natural, low-pressure way. After watching, ask an open-ended question like 'What was your favorite part?' or 'What do you think God was trying to teach us?' These conversations do not need to be long or perfect. The goal is simply to make the Bible feel like a living, relevant part of your family's life, not something dusty on a shelf.

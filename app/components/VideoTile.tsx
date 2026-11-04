@@ -237,7 +237,7 @@ export function VideoTile({
   return (
     <div
       ref={wrapRef}
-      className={`video-tile ${playDisc ? 'video-tile, disc' : ''} ${previewing ? 'is-previewing' : ''} ${className}`.replace(/\s+/g, ' ').trim()}
+      className={`video-tile ${playDisc ? 'video-tile--disc' : ''} ${previewing ? 'is-previewing' : ''} ${className}`.replace(/\s+/g, ' ').trim()}
       onPointerEnter={previewAllowed ? onPointerEnter : undefined}
       onPointerLeave={previewAllowed ? onPointerLeave : undefined}
     >

@@ -77,7 +77,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: 'Faithful Kids',
       type: 'article',
       images: [{
-        url: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
+        url: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`,
         width: 1792,
         height: 1024,
         alt: `${post.title} - Bible Story Illustration`,
@@ -87,7 +87,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: 'summary_large_image',
       title: serpTitle,
       description: post.metaDescription,
-      images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`],
+      images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`],
     },
     alternates: {
       canonical: `https://faithfulkids.app/blog/${post.slug}`,
@@ -126,7 +126,7 @@ export default async function BlogPostPage({ params }: Props) {
     '@type': 'Article',
     headline: post.title,
     description: post.metaDescription,
-    image: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
+    image: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`,
     // Authored by the ORGANISATION, deliberately. These posts were not
     // hand-written by one person, and a fabricated personal byline across a
     // 500+ post library is a documented spam pattern. The founder's Person
@@ -224,7 +224,7 @@ export default async function BlogPostPage({ params }: Props) {
         mainEntityOfPage: `https://faithfulkids.app/blog/${post.slug}`,
         name: `${post.title}, Bible Story Video`,
         description: post.metaDescription,
-        thumbnailUrl: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
+        thumbnailUrl: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`,
         uploadDate: post.datePublished,
         contentUrl: `https://d3g07v1w0lehiv.cloudfront.net/bible/${post.seriesSlug}-series/${String(post.episode).padStart(2, '0')}-${post.slug.replace(/-for-kids$/, '')}/lesson-video.mp4`,
         // ISO 8601 duration makes the video eligible for video-search results.
@@ -256,7 +256,7 @@ export default async function BlogPostPage({ params }: Props) {
   const imageJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'ImageObject',
-    contentUrl: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
+    contentUrl: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`,
     name: `${post.title} - Bible Story Illustration for Kids`,
     description: post.metaDescription,
     width: 1792,
@@ -355,7 +355,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
       {/* HERO IMAGE */}
       <div style={{ maxWidth: '900px', margin: '0 auto', padding: '0 20px' }}>
         <BlogImage
-          src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-hero.webp`}
+          src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-hero.webp?v=2`}
           alt={`${post.title} - Bible Story Illustration for Kids`}
           width={1792}
           height={1024}
@@ -411,7 +411,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
         {isStory && (
           <StoryLesson
             videoUrl={`${mediaBase}/lesson-video.mp4`}
-            posterUrl={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+            posterUrl={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`}
             previewUrl={`${mediaBase}/lesson-preview.mp4`}
             captionsUrl={`${mediaBase}/lesson-captions.vtt`}
             storyName={post.title.split(':')[0].replace(/ for Kids$/i, '')}
@@ -460,7 +460,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
               postTitle={post.title}
               label={triviaLabel(post.slug, post.title)}
               related={getRelatedTrivia(post.slug)}
-              posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+              posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`}
               {...getTriviaVideo(post.slug)}
             />
             <EmbedNote slug={post.slug} label={triviaLabel(post.slug, post.title)} />
@@ -504,7 +504,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
 
         {/* Inline image 1 — after first content section */}
         <BlogImage
-          src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-1.webp`}
+          src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-1.webp?v=2`}
           alt={`Illustration from ${post.title}`}
           width={1024}
           height={1024}
@@ -580,7 +580,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
         {/* Inline image 2 */}
         {contentParts.second && (
           <BlogImage
-            src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-2.webp`}
+            src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-2.webp?v=2`}
             alt={`${post.title} - Key Moment Illustration`}
             width={1024}
             height={1024}
@@ -613,7 +613,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             {relatedPosts.map(rp => (
               <a key={rp.slug} href={`/blog/${rp.slug}`} className="blog-card blog-card-compact">
                 <img
-                  src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${rp.slug}-hero.webp`}
+                  src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${rp.slug}-hero.webp?v=2`}
                   alt={`${rp.title} - Bible Story Illustration`}
                   width={1792}
                   height={1024}
@@ -642,7 +642,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             {heroStories.map(story => (
               <a key={story.slug} href={`/blog/${story.slug}`} className="blog-card blog-card-compact">
                 <img
-                  src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${story.slug}-hero.webp`}
+                  src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${story.slug}-hero.webp?v=2`}
                   alt={`${story.title} - Bible Story Illustration`}
                   width={1792}
                   height={1024}

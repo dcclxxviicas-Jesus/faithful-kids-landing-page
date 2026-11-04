@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     siteName: 'Faithful Kids',
     type: 'website',
     images: [{
-      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/faithful-kids-scope-and-sequence-hero.webp',
+      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/faithful-kids-scope-and-sequence-hero.webp?v=2',
       width: 1536, height: 1024,
       alt: 'Faithful Kids pricing: web, iOS and Android plans',
     }],

@@ -126,7 +126,7 @@ export default function BlogGrid({
           <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+              src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`}
               alt={post.title}
               width={896}
               height={512}

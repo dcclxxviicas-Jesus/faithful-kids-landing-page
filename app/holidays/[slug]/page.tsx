@@ -130,7 +130,7 @@ export default async function HolidayHubPage({ params }: Props) {
           {posts.map(post => (
             <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
               <img
-                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`}
                 alt={post.title}
                 width={896}
                 height={512}

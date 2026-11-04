@@ -45,7 +45,7 @@ export function GiftHeroShell({ name }: { name: string }) {
             <img
               key={s.slug}
               className="gift-hero-art"
-              src={`${CDN}/blog-images/${s.slug}-hero.webp`}
+              src={`${CDN}/blog-images/${s.slug}-hero.webp?v=2`}
               alt={s.alt}
               width={320}
               height={213}

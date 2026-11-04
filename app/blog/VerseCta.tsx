@@ -120,7 +120,7 @@ export function VerseCta({ postSlug }: { postSlug: string }) {
 
       <img
         className="verse-cta-art"
-        src="https://d3g07v1w0lehiv.cloudfront.net/video-posters/an-angel-visits-mary.webp"
+        src="https://d3g07v1w0lehiv.cloudfront.net/video-posters/an-angel-visits-mary.webp?v=2"
         alt="A still from the Faithful Kids lesson An Angel Visits Mary"
         width={720}
         height={405}

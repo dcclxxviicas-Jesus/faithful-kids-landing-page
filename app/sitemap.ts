@@ -291,7 +291,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(post.dateModified + 'T00:00:00Z'),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
-    images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`],
+    images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`],
   }))
 
   // Topic hub pages — only categories that actually contain guide posts

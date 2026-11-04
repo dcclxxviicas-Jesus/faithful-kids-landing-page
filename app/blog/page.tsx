@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: 'Faithful Kids',
     type: 'website',
     images: [{
-      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp',
+      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=2',
       width: 1792,
       height: 1024,
     }],
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Bible Guides for Parents: 500+ Free Resources',
     description: 'Free Bible guides, trivia, printables and lesson ideas for parents and teachers.',
-    images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp'],
+    images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=2'],
   },
   alternates: {
     canonical: 'https://faithfulkids.app/blog',

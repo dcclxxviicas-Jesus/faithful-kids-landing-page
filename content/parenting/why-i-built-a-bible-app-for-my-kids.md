@@ -1,8 +1,8 @@
 ---
-title: "Why I Built an AI Bible App for My Kids, Including the Parts That Are Hard to Defend"
-seoTitle: "Why I Built an AI Bible App for My Kids"
+title: "Why I Built a Bible App for My Kids, Including the Parts That Are Hard to Defend"
+seoTitle: "Why I Built a Bible App for My Kids"
 subtitle: "The honest version of the founder story: what it is, what it is not, and the objection I take most seriously."
-slug: "why-i-built-an-ai-bible-app-for-my-kids"
+slug: "why-i-built-a-bible-app-for-my-kids"
 type: "story"
 tags: ["Faith and Technology", "Family Bible Study"]
 author: "christian-alexander"
@@ -11,7 +11,7 @@ datePublished: "2026-11-03"
 dateModified: "2026-11-03"
 excerpt: "I wanted my children to know the Bible as one story, in order, in pieces short enough for a weeknight. Nothing I could find did that, so I built it. Here is what that means, including the uncomfortable parts."
 metaDescription: "A Christian father on why he built an AI-narrated Bible app for his own kids, what it does and does not do, and the objection he takes most seriously."
-image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/why-i-built-an-ai-bible-app-for-my-kids.webp"
+image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/why-i-built-a-bible-app-for-my-kids.webp"
 imageAlt: "Illustration: a father alone at a kitchen table at night with a laptop and an open Bible, children's drawings on the fridge behind him"
 featured: false
 sources:

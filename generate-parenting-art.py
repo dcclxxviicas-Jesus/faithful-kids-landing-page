@@ -73,7 +73,7 @@ SCENES = {
         "and through the open back door a child running out into golden late-afternoon light toward a garden. "
         "The screen is over; the day is not. Viewed from inside the kitchen, the doorway is the bright centre."
     ),
-    "why-i-built-an-ai-bible-app-for-my-kids": (
+    "why-i-built-a-bible-app-for-my-kids": (
         "A father alone at a kitchen table late at night, lit only by a laptop screen and one small lamp, "
         "an open Bible beside the laptop, a mug gone cold, children's crayon drawings stuck to the fridge behind him, "
         "and two tiny pairs of shoes by the door. Honest, tired, determined."

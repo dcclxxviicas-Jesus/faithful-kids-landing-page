@@ -27,6 +27,7 @@ const nextConfig = {
       { source: '/partnerships', destination: '/creators', permanent: true },
       // Parenting essay retitled minutes after publish (Nov 2, 2026); old slug was already shared.
       { source: '/parenting/stop-teaching-kids-to-fear-god-teach-them-awe', destination: '/parenting/how-to-raise-children-to-have-god-in-their-hearts-and-minds', permanent: true },
+      { source: '/parenting/why-i-built-an-ai-bible-app-for-my-kids', destination: '/parenting/why-i-built-a-bible-app-for-my-kids', permanent: true },
     ]
   },
   async rewrites() {

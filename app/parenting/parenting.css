@@ -304,6 +304,11 @@
 .pt .pt-page h1 { font-family: var(--pt-serif); font-weight: 600; font-size: clamp(2.1rem, 5vw, 3rem); line-height: 1.08; letter-spacing: -0.02em; margin: 14px 0 14px; text-wrap: balance; }
 .pt .pt-page .pt-lede { font-family: var(--pt-serif); font-size: 1.25rem; line-height: 1.55; color: var(--pt-ink-soft); margin: 0 0 28px; }
 .pt .pt-page h2 { font-family: var(--pt-serif); font-weight: 600; font-size: 1.55rem; margin: 2em 0 .5em; line-height: 1.2; }
+.pt .pt-faq { margin: 0; }
+.pt .pt-faq > div { padding: 14px 0; border-top: 1px solid var(--pt-rule); }
+.pt .pt-faq > div:last-child { border-bottom: 1px solid var(--pt-rule); }
+.pt .pt-faq dt { font-family: var(--pt-serif); font-weight: 600; font-size: 1.12rem; margin: 0 0 6px; }
+.pt .pt-faq dd { margin: 0; color: var(--pt-ink-soft); line-height: 1.6; }
 .pt .pt-page h3 { font-weight: 800; font-size: 1.02rem; margin: 1.6em 0 .4em; }
 .pt .pt-page p, .pt .pt-page li { font-size: 1.04rem; line-height: 1.7; color: var(--pt-ink); }
 .pt .pt-page p { margin: 0 0 1em; }

@@ -5,37 +5,55 @@ import { Masthead } from '../ui'
 import { PitchForm } from '../client'
 
 const URL = 'https://faithfulkids.app/parenting/write-for-us'
-const DESC = 'Write for Faithful Kids. We publish real stories, essays and interviews from Christian parents, teachers, pastors and homeschool educators. Pitch in a few sentences.'
+const DESC = "Pitch an essay or op-ed to Faithful Kids' parenting section. Christian parents, teachers, pastors and homeschoolers get a real byline and a human editor."
 
 export const metadata: Metadata = {
-  title: { absolute: 'Write for Faithful Kids: Share Your Story With Christian Parents' },
+  title: { absolute: 'Write for Us: Christian Parenting Essays and Op-Eds' },
   description: DESC,
   alternates: { canonical: URL },
-  openGraph: { title: 'Write for Faithful Kids', description: DESC, url: URL, siteName: 'Faithful Kids', type: 'website' },
+  openGraph: { title: 'Write for Raising Faithful Kids', description: DESC, url: URL, siteName: 'Faithful Kids', type: 'website', images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/home/hero-parents-1536.webp', width: 1536, height: 1024, alt: 'A family kitchen table with an open Bible' }] },
 }
+
+/* Short, literal answers: the shape search engines and AI assistants quote.
+   Every fact here must match /parenting/submission-guidelines. */
+const FAQ = [
+  { q: 'Do you pay for essays?', a: 'No. Pieces are unpaid. Every piece is edited by a person, runs under your real byline with an author page and a link to your work, and selected pieces go out in our weekly email. If we commission a specific piece and agree a fee, the terms are in writing before you start.' },
+  { q: 'Who can pitch?', a: 'Christian parents and grandparents, homeschool parents, Sunday school teachers, children\u2019s ministry directors, pastors, Christian educators, and writers or researchers with relevant expertise. Catholic, Protestant and Orthodox writers are all welcome. You do not need to be a professional writer.' },
+  { q: 'How long should a piece be?', a: 'Parent stories and essays run 700 to 1,400 words. Interviews are produced with you and run longer. Read the submission guidelines before you pitch; they are short.' },
+  { q: 'How do I submit?', a: 'Use the pitch form on this page: tell us the story in a few sentences, who you are, and why it would matter to another family. No finished draft is needed. You hear back within about a week, yes or no.' },
+  { q: 'Do you accept AI-written pieces or previously published work?', a: 'Not AI-written accounts of human experience: AI tools may tidy a draft, but the experience and the words must be yours. Previously published work only as an agreed reprint with the original credited.' },
+]
 
 export default function WriteForUsPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    name: 'Write for Faithful Kids',
+    name: 'Write for Raising Faithful Kids',
     url: URL,
     description: DESC,
     isPartOf: { '@type': 'CollectionPage', name: 'Raising Faithful Kids', url: 'https://faithfulkids.app/parenting' },
     publisher: { '@type': 'Organization', '@id': 'https://faithfulkids.app/#organization' },
   }
+  const faqLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: FAQ.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  }
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
       <ParentingHeader />
       <main id="main-content">
         <Masthead inner />
         <div className="pt-page">
-          <h1>Your experience could help another Christian family.</h1>
+          <h1>Write for Raising Faithful Kids</h1>
           <p className="pt-lede">
-            Parenting at Faithful Kids publishes genuine insight from people who care about raising children in
-            the faith: what you tried, what worked, what did not, and what you would tell a parent one step
-            behind you.
+            Raising Faithful Kids is a Christian parenting blog that accepts guest essays and op-eds from parents,
+            teachers, pastors and homeschool educators. Pieces are unpaid, but every piece is edited by a person
+            and published under your real byline with an author page. Your experience could help another
+            Christian family: what you tried, what worked, what did not, and what you would tell a parent one
+            step behind you.
           </p>
 
           <h2>Who we are looking for</h2>
@@ -97,6 +115,16 @@ export default function WriteForUsPage() {
             Read the <a href="/parenting/submission-guidelines">submission guidelines</a> first; they are short.
           </p>
           <PitchForm />
+
+          <h2 id="faq">Questions writers ask</h2>
+          <dl className="pt-faq">
+            {FAQ.map(f => (
+              <div key={f.q}>
+                <dt>{f.q}</dt>
+                <dd>{f.a}</dd>
+              </div>
+            ))}
+          </dl>
 
           <h2>A few things we hold to</h2>
           <ul>

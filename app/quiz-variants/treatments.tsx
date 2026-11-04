@@ -85,7 +85,7 @@ const ADVENTURES: Record<string, string> = {
    So a chosen hero does not reorder anything and a chosen adventure is not
    where anyone begins. Say what is actually true instead: you start at
    Genesis, and the story they picked is in there waiting. */
-const START_SERIES = 'Genesis — In the Beginning'
+const START_SERIES = 'Genesis; In the Beginning'
 const IS_UNLOCKED_AT_START = (a?: string) => a === 'creation'
 
 /* Week one: the first five episodes of the Genesis series, which IS where
@@ -164,8 +164,8 @@ export function VariantB({ answers, isKid = false }: { answers: Answers; isKid?:
   if (adventure) rows.push({
     k: 'Picked', v: adventure,
     d: IS_UNLOCKED_AT_START(answers.adventure)
-      ? 'Unlocked from day one — it is in the first series'
-      : 'Waiting in the library — unlocked as they work through the story',
+      ? 'Unlocked from day one; it is in the first series'
+      : 'Waiting in the library; unlocked as they work through the story',
   })
   if (hero) rows.push({ k: 'Favourite', v: hero, d: `${hero}’s stories are in the library` })
   if (nKids) rows.push({ k: 'Profiles', v: nKids === '1' ? '1 profile' : `${nKids} profiles`, d: 'Separate progress for each child, up to five' })
@@ -248,7 +248,7 @@ function WeekOne({ name, isKid }: { name: string; isKid: boolean }) {
           poster={creation.poster}
           title={creation.title}
           badge={'Day 1 · Watch free now'}
-          blurb={'The very first episode of the plan — start to finish, no email, no signup.'}
+          blurb={'The very first episode of the plan, start to finish, no email, no signup.'}
           location="quiz-plan-day1"
           ctaHref="#plan"
           ctaLabel={'See the full plan ↓'}
@@ -275,7 +275,7 @@ function SwapMath({ hrs, name }: { hrs?: number; name: string }) {
   return (
     <p className="qv-swap">
       You said about <strong>{hrs === 1 ? 'an hour' : `${hrs} hours`}</strong> of screens a day.
-      This plan doesn&rsquo;t add more &mdash; it swaps the <strong>first few minutes</strong> for
+      This plan doesn&rsquo;t add more, it swaps the <strong>first few minutes</strong> for
       a story{name ? ` ${name} will retell at dinner` : ' they’ll retell at dinner'}.
     </p>
   )
@@ -287,9 +287,9 @@ function SwapMath({ hrs, name }: { hrs?: number; name: string }) {
 function Milestones({ name }: { name: string }) {
   return (
     <div className="qv-miles">
-      <div className="qv-mile"><span className="qv-mile-day">Day 7</span><span>A week of stories done &mdash; 5 episodes, 5 quizzes passed</span></div>
-      <div className="qv-mile"><span className="qv-mile-day">Day 14</span><span>Genesis complete (10 episodes) &mdash; the next series unlocks</span></div>
-      <div className="qv-mile"><span className="qv-mile-day">Day 30</span><span>20+ stories in{name ? ` — ${name} is` : ' — they’re'} asking for the next one</span></div>
+      <div className="qv-mile"><span className="qv-mile-day">Day 7</span><span>A week of stories done, 5 episodes, 5 quizzes passed</span></div>
+      <div className="qv-mile"><span className="qv-mile-day">Day 14</span><span>Genesis complete (10 episodes), the next series unlocks</span></div>
+      <div className="qv-mile"><span className="qv-mile-day">Day 30</span><span>20+ stories in{name ? ` ${name} is` : ' they’re'} asking for the next one</span></div>
     </div>
   )
 }

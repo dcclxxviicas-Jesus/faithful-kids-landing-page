@@ -42,7 +42,7 @@ Timothy was young, timid by reputation, and often sick (1 Timothy 5:23), yet Pau
 17. What were the names of Timothy's believing mother and grandmother? **Eunice and Lois** (2 Timothy 1:5)
 18. What must an overseer manage well before leading the church? **His own family** (1 Timothy 3:4-5)
 
-Older kids who find coloring dull usually take to the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) instead — it plays in the browser or prints on one sheet.
+Older kids who find coloring dull usually take to the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) instead, it plays in the browser or prints on one sheet.
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 

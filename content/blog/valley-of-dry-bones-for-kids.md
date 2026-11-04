@@ -23,11 +23,11 @@ Valley of Dry Bones is a Bible story from Daniel/Jonah/Isaiah in the Old Testame
 
 ## What Is the Story of Valley of Dry Bones for Kids?
 
-EXILE & FAITH — EPISODE 7: VALLEY OF DRY BONES Based on Ezekiel 37 | Narrated by Jesus
+EXILE & FAITH: EPISODE 7: VALLEY OF DRY BONES Based on Ezekiel 37 | Narrated by Jesus
 
-Alright — this one is wild. I mean, really wild. If the last few episodes felt heavy, this one is where hope starts breaking through the ground like a seed that refused to quit. But it starts in the creepiest place imaginable.
+Alright: this one is wild. I mean, really wild. If the last few episodes felt heavy, this one is where hope starts breaking through the ground like a seed that refused to quit. But it starts in the creepiest place imaginable.
 
-God takes the prophet Ezekiel — picks him up by His Spirit — and sets him down right in the middle of a valley. But this isn't a beautiful valley with wildflowers and streams. This valley is full of bones. Human bones. Dry, bleached, scattered-everywhere bones. Thousands and thousands of them, as far as Ezekiel can see.
+God takes the prophet Ezekiel, picks him up by His Spirit, and sets him down right in the middle of a valley. But this isn't a beautiful valley with wildflowers and streams. This valley is full of bones. Human bones. Dry, bleached, scattered-everywhere bones. Thousands and thousands of them, as far as Ezekiel can see.
 
 These bones have been dead a LONG time. No flesh. No skin. No life. Just dust and death.
 
@@ -43,7 +43,7 @@ The story of Valley of Dry Bones teaches children important lessons about courag
 
 ## Key Bible Verse
 
-> *"I will put my Spirit in you and you will live."* — Ezekiel 37:14
+> *"I will put my Spirit in you and you will live."* (Ezekiel 37:14)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,11 +55,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What did God ask Ezekiel when He showed him the valley of bones?
 
-God asked Ezekiel, "Can these bones live?" — a question that seemed impossible, but was meant to test and build Ezekiel's faith in God's unlimited power.
+God asked Ezekiel, "Can these bones live?", a question that seemed impossible, but was meant to test and build Ezekiel's faith in God's unlimited power.
 
 ### What happened when Ezekiel prophesied to the dry bones?
 
-As Ezekiel spoke God's words, the bones came together with a rattling sound, then muscle, flesh, and skin covered them — though they still needed breath to come alive.
+As Ezekiel spoke God's words, the bones came together with a rattling sound, then muscle, flesh, and skin covered them, though they still needed breath to come alive.
 
 ### What do the dry bones represent?
 
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Valley of Dry Bones about for kids?
 
-Valley of Dry Bones is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 7: VALLEY OF DRY BONES Based on Ezekiel 37 | Narrated by Jesus
+Valley of Dry Bones is a story from Daniel/Jonah/Isaiah. EXILE & FAITH, EPISODE 7: VALLEY OF DRY BONES Based on Ezekiel 37 | Narrated by Jesus
 
 ### What age is the story of Valley of Dry Bones appropriate for?
 

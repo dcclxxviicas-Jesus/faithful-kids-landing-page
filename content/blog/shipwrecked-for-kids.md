@@ -25,11 +25,11 @@ Shipwrecked is a Bible story from Acts in the New Testament. This retelling is d
 
 ## What Is the Story of Shipwrecked for Kids?
 
-PAUL'S ADVENTURES — EPISODE 8: SHIPWRECKED! Based on Acts 27 Series: Paul's Adventures | Episode 8 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 8: SHIPWRECKED! Based on Acts 27 Series: Paul's Adventures | Episode 8 of 10 Target audience: Kids ages 7-15
 
-Buckle up — because this one is an absolute disaster movie. And every word of it is true.
+Buckle up, because this one is an absolute disaster movie. And every word of it is true.
 
-Paul was being transported to Rome as a prisoner. He was on a ship with 275 other people — soldiers, sailors, and other prisoners — heading across the Mediterranean Sea. And Paul had warned them: "Men, I can see this voyage is going to end in disaster." But the captain ignored him. They sailed anyway.
+Paul was being transported to Rome as a prisoner. He was on a ship with 275 other people, soldiers, sailors, and other prisoners, heading across the Mediterranean Sea. And Paul had warned them: "Men, I can see this voyage is going to end in disaster." But the captain ignored him. They sailed anyway.
 
 A hurricane-force wind called a northeaster slammed into them. The sky went black. Waves crashed over the deck. The crew threw cargo overboard to lighten the ship. They wrapped ropes around the hull to keep it from splitting apart. For day after day after day, the storm raged. No sun. No stars. No way to navigate. Nothing but howling wind and mountains of water.
 
@@ -45,7 +45,7 @@ The story of Shipwrecked teaches children important lessons about adventure, per
 
 ## Key Bible Verse
 
-> *"Not one of you will lose a single hair from his head."* — Acts 27:34
+> *"Not one of you will lose a single hair from his head."* (Acts 27:34)
 
 To follow the route, our free [map of Paul's missionary journeys](/printables/bible-maps/pauls-missionary-journeys) shows all three journeys and the voyage to Rome, color-coded on one printable sheet.
 
@@ -79,7 +79,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**Storms will come, but God's promise holds — if He said you'll make it, you'll make it.**
+**Storms will come, but God's promise holds, if He said you'll make it, you'll make it.**
 
 ## Discussion Questions for Families
 
@@ -116,7 +116,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Shipwrecked about for kids?
 
-Shipwrecked is a story from Acts. PAUL'S ADVENTURES — EPISODE 8: SHIPWRECKED! Based on Acts 27 Series: Paul's Adventures | Episode 8 of 10 Target audience: Kids ages 7-15
+Shipwrecked is a story from Acts. PAUL'S ADVENTURES, EPISODE 8: SHIPWRECKED! Based on Acts 27 Series: Paul's Adventures | Episode 8 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Shipwrecked appropriate for?
 

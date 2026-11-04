@@ -25,13 +25,13 @@ The Church Is Born is a Bible story from Acts in the New Testament. This retelli
 
 ## What Is the Story of The Church Is Born for Kids?
 
-THE EARLY CHURCH — EPISODE 1: THE CHURCH IS BORN Based on Acts 2:42-47 Series: The Early Church | Episode 1 of 5 Target audience: Kids ages 7-15
+THE EARLY CHURCH, EPISODE 1: THE CHURCH IS BORN Based on Acts 2:42-47 Series: The Early Church | Episode 1 of 5 Target audience: Kids ages 7-15
 
-Hey — so you know how the Holy Spirit came down at Pentecost? Tongues of fire, people speaking in languages they'd never learned, three thousand people deciding to follow me in a single day?
+Hey, so you know how the Holy Spirit came down at Pentecost? Tongues of fire, people speaking in languages they'd never learned, three thousand people deciding to follow me in a single day?
 
-After I went back to my Father, here's what happened next — and honestly? It's one of my favorite parts of the whole story.
+After I went back to my Father, here's what happened next, and honestly? It's one of my favorite parts of the whole story.
 
-Those three thousand new believers didn't just say "cool experience" and go home. No way. They stuck together. They formed something brand new — the very first church.
+Those three thousand new believers didn't just say "cool experience" and go home. No way. They stuck together. They formed something brand new, the very first church.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Church Is Born teaches children important lessons about communi
 
 ## Key Bible Verse
 
-> *"All of them were filled with the Holy Spirit."* — Acts 2:4
+> *"All of them were filled with the Holy Spirit."* (Acts 2:4)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What was the main lesson of this episode?
 
-**Church isn't a place you go — it's a community you belong to.**
+**Church isn't a place you go, it's a community you belong to.**
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Church Is Born about for kids?
 
-The Church Is Born is a story from Acts. THE EARLY CHURCH — EPISODE 1: THE CHURCH IS BORN Based on Acts 2:42-47 Series: The Early Church | Episode 1 of 5 Target audience: Kids ages 7-15
+The Church Is Born is a story from Acts. THE EARLY CHURCH, EPISODE 1: THE CHURCH IS BORN Based on Acts 2:42-47 Series: The Early Church | Episode 1 of 5 Target audience: Kids ages 7-15
 
 ### What age is the story of The Church Is Born appropriate for?
 

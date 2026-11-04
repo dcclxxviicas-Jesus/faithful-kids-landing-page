@@ -42,9 +42,9 @@ Then wait. Kids need five to ten seconds of silence to form a real answer, and m
 
 Two lecture-traps to avoid. First, do not correct small errors mid-story ("actually, it was five loaves, not four") -- momentum matters more than trivia. Second, never turn their honest answer into a gotcha. A child who says "I think the older brother in the prodigal son was right to be mad" has just engaged with Scripture at a deeper level than a child who recites the expected moral. Say "tell me more," not "well, actually." A deep bench of story-specific prompts lives in our bank of [Bible discussion questions for kids](/blog/bible-discussion-questions-for-kids).
 
-If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
-If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
 
 ## How Do You Build a Bible Routine That Actually Survives Real Life?
 

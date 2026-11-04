@@ -73,13 +73,13 @@ From the Passover to the prophets -- how God formed a rescued people and gave th
 
 **Swap-ins for this quarter** if your calendar shifts or you want more weeks: [Deborah](/blog/deborah-a-brave-leader-for-kids), [Samson](/blog/samson-strongest-man-alive-for-kids), [Daniel in the Lions' Den](/blog/daniel-in-the-lions-den-for-kids), [The Fiery Furnace](/blog/the-fiery-furnace-for-kids), [Esther Saves Her People](/blog/esther-saves-her-people-for-kids), [Jonah Running from God](/blog/jonah-running-from-god-for-kids), and [Rebuilding the Walls](/blog/rebuilding-the-walls-for-kids) with Nehemiah.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
-To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart, honest about dates, from Creation to the early church.
 
-If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
-If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
 
 ## Quarter 3: The Life of Jesus (Weeks 27-39)
 
@@ -131,7 +131,7 @@ At the end of each quarter, teach a review week instead of a new story. Our free
 
 There is a screen version too: our [free Bible trivia for kids](/bible-trivia) deals a random ten-question round on any device.
 
-Pair this with a [Bible word search puzzle](/printables/bible-word-search) — Noah, Christmas, Easter, David and Goliath and more.
+Pair this with a [Bible word search puzzle](/printables/bible-word-search), Noah, Christmas, Easter, David and Goliath and more.
 
 When the lesson lands early and twenty minutes remain, a page of [youth group games by group size](/blog/youth-group-games) is the fastest save.
 

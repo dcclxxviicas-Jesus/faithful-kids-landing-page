@@ -42,9 +42,9 @@ The letter's big idea comes in one line: "It is for freedom that Christ has set 
 17. "It is for ___ that Christ has set us free" **Freedom** (Galatians 5:1)
 18. When "the set time had fully come," who did God send? **His Son, born of a woman** (Galatians 4:4)
 
-Older kids who find coloring dull usually take to the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) instead — it plays in the browser or prints on one sheet.
+Older kids who find coloring dull usually take to the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) instead, it plays in the browser or prints on one sheet.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 

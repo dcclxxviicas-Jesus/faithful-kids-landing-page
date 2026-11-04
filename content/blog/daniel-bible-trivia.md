@@ -47,11 +47,11 @@ The book's big idea is that God rules over every empire, and ordinary faithfulne
 22. How long did Daniel's vegetable-and-water test last? **Ten days** (Daniel 1:12-14)
 23. What happened to the men who had accused Daniel? **They were thrown into the lions' den themselves** (Daniel 6:24)
 
-Pair this with our free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den), one sheet, ready for the kitchen table or the classroom.
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 ## Hard Daniel Trivia Questions (Teens and Adults)
 
@@ -91,7 +91,7 @@ If a story is fuzzy, catch up fast with our kid-friendly retellings of [Daniel i
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
-Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost — [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost, [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
 
 Print the [Daniel word search](/printables/bible-word-search/daniel) for the table, or let them play it on screen. Either way it is free.
 

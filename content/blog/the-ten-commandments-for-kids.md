@@ -23,13 +23,13 @@ The Ten Commandments is a Bible story from Exodus 19-20 in the Old Testament. Th
 
 ## What Is the Story of The Ten Commandments for Kids?
 
-Hey there! Ready for something epic? Today we're heading to the most intense mountain scene in all of history. Forget every movie you've ever watched — this one tops them all.
+Hey there! Ready for something epic? Today we're heading to the most intense mountain scene in all of history. Forget every movie you've ever watched, this one tops them all.
 
-Three months after leaving Egypt, the Israelites arrived at Mount Sinai. God said to Moses, "Tell the people to get ready — wash their clothes, set boundaries around the mountain — because in three days, I'm coming down."
+Three months after leaving Egypt, the Israelites arrived at Mount Sinai. God said to Moses, "Tell the people to get ready, wash their clothes, set boundaries around the mountain, because in three days, I'm coming down."
 
-On the third morning? Total. Chaos. Thunder shook the ground. Lightning cracked the sky. A thick cloud covered the mountain. A trumpet blast so loud it made the entire camp tremble. Smoke billowed like a furnace because God descended in FIRE. The whole mountain shook violently. This wasn't a gentle Sunday morning — this was the Creator of the universe showing up!
+On the third morning? Total. Chaos. Thunder shook the ground. Lightning cracked the sky. A thick cloud covered the mountain. A trumpet blast so loud it made the entire camp tremble. Smoke billowed like a furnace because God descended in FIRE. The whole mountain shook violently. This wasn't a gentle Sunday morning, this was the Creator of the universe showing up!
 
-The people stood at a distance, shaking. And from that mountain, God spoke — out loud, with His own voice. He gave them ten rules for living — the Ten Commandments. Let me walk you through them.
+The people stood at a distance, shaking. And from that mountain, God spoke, out loud, with His own voice. He gave them ten rules for living, the Ten Commandments. Let me walk you through them.
 
 This story comes from Exodus 19-20 and is part of the Old Testament.
 
@@ -43,11 +43,11 @@ The story of The Ten Commandments teaches children important lessons about freed
 
 ## Key Bible Verse
 
-> *"Love the Lord your God with all your heart."* — Deuteronomy 6:5
+> *"Love the Lord your God with all your heart."* (Deuteronomy 6:5)
 
 Add five quiet minutes with the free [Moses word search](/printables/bible-word-search/moses); it prints one to a sheet with the key on the page.
 
-To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land — real geography, with the traditional stops labeled.
+To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land, real geography, with the traditional stops labeled.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,11 +59,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What happened on Mount Sinai when God came down to speak to the people?
 
-God's arrival at Mount Sinai was dramatic and powerful — thunder, lightning, a thick cloud, fire, smoke like a furnace, a deafening trumpet, and the entire mountain shaking violently.
+God's arrival at Mount Sinai was dramatic and powerful, thunder, lightning, a thick cloud, fire, smoke like a furnace, a deafening trumpet, and the entire mountain shaking violently.
 
 ### What are the Ten Commandments really all about at their core?
 
-The first four commandments are about loving God — putting Him first, honoring His name, and keeping His day holy. The last six are about loving people — being honest, faithful, respectful, and kind.
+The first four commandments are about loving God, putting Him first, honoring His name, and keeping His day holy. The last six are about loving people, being honest, faithful, respectful, and kind.
 
 ### Which of these is NOT one of the Ten Commandments?
 
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Ten Commandments about for kids?
 
-The Ten Commandments is a story from Exodus 19-20. Hey there! Ready for something epic? Today we're heading to the most intense mountain scene in all of history. Forget every movie you've ever watched — this one tops them all.
+The Ten Commandments is a story from Exodus 19-20. Hey there! Ready for something epic? Today we're heading to the most intense mountain scene in all of history. Forget every movie you've ever watched, this one tops them all.
 
 ### What age is the story of The Ten Commandments appropriate for?
 

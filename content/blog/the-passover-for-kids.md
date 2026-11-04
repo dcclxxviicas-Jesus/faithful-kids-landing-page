@@ -43,11 +43,11 @@ The story of The Passover teaches children important lessons about freedom, cour
 
 ## Key Bible Verse
 
-> *"When I see the blood, I will pass over you."* — Exodus 12:13
+> *"When I see the blood, I will pass over you."* (Exodus 12:13)
 
 If small hands need something to do while you read, the free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) is made for exactly that.
 
-To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land — real geography, with the traditional stops labeled.
+To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land, real geography, with the traditional stops labeled.
 
 ## Parent's Guide: Why This Story Matters
 

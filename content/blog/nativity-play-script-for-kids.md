@@ -37,7 +37,7 @@ Here is a complete nativity play script for kids -- **"The Night of Nights"** --
 
 ## The Script: "The Night of Nights"
 
-### Scene 1 — The Announcement
+### Scene 1: The Announcement
 
 *(Nazareth. Mary at center, sweeping or carrying a water jar.)*
 
@@ -59,7 +59,7 @@ Here is a complete nativity play script for kids -- **"The Night of Nights"** --
 
 > 🎵 **Carol break:** "O Little Town of Bethlehem," verse 1 -- congregation sings while the stage becomes a road.
 
-### Scene 2 — No Room
+### Scene 2: No Room
 
 *(A road, then a door. Innkeeper behind it.)*
 
@@ -79,7 +79,7 @@ Here is a complete nativity play script for kids -- **"The Night of Nights"** --
 
 > 🎵 **Carol break:** "Away in a Manger," verse 1 -- shepherds and angels take their places during the song.
 
-### Scene 3 — The Sky Falls Open
+### Scene 3: The Sky Falls Open
 
 *(A hillside. Shepherds seated around a pretend fire.)*
 
@@ -101,7 +101,7 @@ Here is a complete nativity play script for kids -- **"The Night of Nights"** --
 
 **NARRATOR 2:** They found everything exactly as the angel said. And they went home praising God and telling absolutely everyone -- because some news is too good to keep.
 
-### Scene 4 — The Star
+### Scene 4: The Star
 
 *(The wise men enter from the back of the room, following the Star Carrier down the aisle.)*
 
@@ -115,7 +115,7 @@ Here is a complete nativity play script for kids -- **"The Night of Nights"** --
 
 *(The wise men lay the gifts at the manger and kneel. The whole cast gathers around: shepherds, angels, animals, everyone.)*
 
-### Finale — The Night of Nights
+### Finale: The Night of Nights
 
 *(Full cast around the manger.)*
 
@@ -125,7 +125,7 @@ Here is a complete nativity play script for kids -- **"The Night of Nights"** --
 
 > 🎵 **Finale carol:** "Hark! The Herald Angels Sing," verse 1 -- full cast and congregation. Bows during the final line. House lights up.
 
-For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2; playable online or printed, answer key included.
 
 ## Director's Notes (From People Who Have Survived This)
 

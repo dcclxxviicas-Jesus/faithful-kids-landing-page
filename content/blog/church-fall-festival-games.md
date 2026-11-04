@@ -17,46 +17,46 @@ A fall festival or trunk or treat is most churches' single biggest outreach nigh
 
 Classic carnival booths, Bible-flavored where it helps and plain fun where it doesn't need to be.
 
-1. **Jericho Wall Knockdown** — stack cardboard-brick walls, three bean bags to bring them down. The toddler version: they walk up and push it over. (Everyone shouts.)
-2. **David's Sling Range** — pool noodles make the "sling": launch ping-pong "stones" at a Goliath drawn on cardboard. Hit the forehead, win big.
-3. **Fishers of Men Pond** — the classic fishing booth: clothespin on a string over a sheet, volunteer behind it clips on the prize.
-4. **Ark Animal Toss** — toss pairs of small stuffed animals through a plywood ark's window. Pairs only -- that's the joke, and kids get it.
-5. **Pumpkin Ring Toss** — glow rings over pumpkin stems. Five pumpkins, graduated distances.
-6. **Donut on a String** — no hands. Eternal. Budget: one box of donuts per hour.
-7. **Candy Corn Guess Jar** — one jar, one clipboard, closest guess at closing time takes the jar.
-8. **Cake Walk** — numbered circles, music, a table of donated cakes. The seniors run this one and defend it fiercely.
-9. **Manna Drop** — kids catch "manna" (large marshmallows) in a basket while a volunteer rains them down from a step stool.
-10. **Feats of Samson** — a kid-sized strongman challenge: carry two water jugs across a line, hold a broomstick out straight for 20 seconds.
+1. **Jericho Wall Knockdown**, stack cardboard-brick walls, three bean bags to bring them down. The toddler version: they walk up and push it over. (Everyone shouts.)
+2. **David's Sling Range**, pool noodles make the "sling": launch ping-pong "stones" at a Goliath drawn on cardboard. Hit the forehead, win big.
+3. **Fishers of Men Pond**, the classic fishing booth: clothespin on a string over a sheet, volunteer behind it clips on the prize.
+4. **Ark Animal Toss**, toss pairs of small stuffed animals through a plywood ark's window. Pairs only -- that's the joke, and kids get it.
+5. **Pumpkin Ring Toss**, glow rings over pumpkin stems. Five pumpkins, graduated distances.
+6. **Donut on a String**, no hands. Eternal. Budget: one box of donuts per hour.
+7. **Candy Corn Guess Jar**, one jar, one clipboard, closest guess at closing time takes the jar.
+8. **Cake Walk**, numbered circles, music, a table of donated cakes. The seniors run this one and defend it fiercely.
+9. **Manna Drop**, kids catch "manna" (large marshmallows) in a basket while a volunteer rains them down from a step stool.
+10. **Feats of Samson**, a kid-sized strongman challenge: carry two water jugs across a line, hold a broomstick out straight for 20 seconds.
 
 ## Trunk or Treat Games
 
 If your festival is a trunk or treat, the best trunks aren't the most decorated -- they're the ones with a 15-second game, because a game turns a candy hand-off into a conversation.
 
-11. **Noah's Ark Trunk** — stuffed animals everywhere; kids guess how many pairs are in the trunk before they treat.
-12. **Jonah's Whale Toss** — a whale mouth cut from a foam board at the tailgate; one bean bag through the mouth, double candy.
-13. **Lost Sheep Hunt** — 99 cotton-ball sheep glued around the trunk, one black sheep hidden; find it for the bonus.
-14. **Red Sea Crossing** — two blue tarps the kids "part" and run through to reach the candy.
-15. **Armor of God Dress-Up Photo Trunk** — helmet, shield, foam sword, instant photo. Parents love this one more than the kids do.
-16. **Mini Sword Drill** — for the older kids: first to find John 3:16 in the trunk's Bible wins the king-size bar.
+11. **Noah's Ark Trunk**, stuffed animals everywhere; kids guess how many pairs are in the trunk before they treat.
+12. **Jonah's Whale Toss**, a whale mouth cut from a foam board at the tailgate; one bean bag through the mouth, double candy.
+13. **Lost Sheep Hunt**, 99 cotton-ball sheep glued around the trunk, one black sheep hidden; find it for the bonus.
+14. **Red Sea Crossing**, two blue tarps the kids "part" and run through to reach the candy.
+15. **Armor of God Dress-Up Photo Trunk**, helmet, shield, foam sword, instant photo. Parents love this one more than the kids do.
+16. **Mini Sword Drill**, for the older kids: first to find John 3:16 in the trunk's Bible wins the king-size bar.
 
 (For the decorating side, keep it simple: a theme, a tablecloth, and string lights beat four hours of Pinterest engineering. Spend the saved time on the game.)
 
 ## Big Group Games (Scheduled Twice a Night)
 
-17. **Walls of Jericho March** — everyone marches around the "city" seven times with kazoos and tambourines, then the leaders collapse the box wall. Chaos. Perfection.
-18. **Gideon's Torch Relay** — glow sticks in cups ("torches hidden in jars"): relay to the far cone, reveal the glow, run home.
-19. **Giant Bible Charades** — two teams, prompts from our [70 Bible charades cards](/blog/bible-charades-for-kids) ([printable deck](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-charades.pdf)).
-20. **The Great Pumpkin Roll** — pumpkins and a stretch of lawn. Straightest line wins; the pumpkins are the prize.
+17. **Walls of Jericho March**, everyone marches around the "city" seven times with kazoos and tambourines, then the leaders collapse the box wall. Chaos. Perfection.
+18. **Gideon's Torch Relay**, glow sticks in cups ("torches hidden in jars"): relay to the far cone, reveal the glow, run home.
+19. **Giant Bible Charades**, two teams, prompts from our [70 Bible charades cards](/blog/bible-charades-for-kids) ([printable deck](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-charades.pdf)).
+20. **The Great Pumpkin Roll**, pumpkins and a stretch of lawn. Straightest line wins; the pumpkins are the prize.
 
 ## Quiet Stations (Where Small Kids and Tired Parents Land)
 
 Every festival needs a calm corner, and it's also where the actual conversations happen.
 
-21. **Bible Bingo Table** — our [free bingo printable](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-bingo.pdf) has eight pre-filled boards and caller cards; one volunteer, endless rounds. ([How to run it](/blog/bible-bingo-for-kids).)
-22. **Coloring Corner** — print a stack of [Bible coloring pages](/printables/bible-coloring-pages); fall-appropriate picks: Creation, Noah's rainbow, the lost sheep.
-23. **Scavenger Hunt Station** — hand older kids the church photo hunt from our [Bible scavenger hunt printable](/blog/bible-scavenger-hunt) and watch them vanish productively for twenty minutes.
-24. **Joke Booth** — a cup of fold-over [Bible joke cards](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf); kids pull one, read it to the volunteer, groaning earns candy. (More ammo: [75 clean Christian jokes](/blog/christian-jokes).)
-25. **Word Search & Crossword Table** — print the fall-friendly puzzles from our [Bible word searches](/printables/bible-word-search) and [Bible crosswords](/printables/bible-crossword); answer keys stay with the volunteer.
+21. **Bible Bingo Table**, our [free bingo printable](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-bingo.pdf) has eight pre-filled boards and caller cards; one volunteer, endless rounds. ([How to run it](/blog/bible-bingo-for-kids).)
+22. **Coloring Corner**, print a stack of [Bible coloring pages](/printables/bible-coloring-pages); fall-appropriate picks: Creation, Noah's rainbow, the lost sheep.
+23. **Scavenger Hunt Station**, hand older kids the church photo hunt from our [Bible scavenger hunt printable](/blog/bible-scavenger-hunt) and watch them vanish productively for twenty minutes.
+24. **Joke Booth**, a cup of fold-over [Bible joke cards](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf); kids pull one, read it to the volunteer, groaning earns candy. (More ammo: [75 clean Christian jokes](/blog/christian-jokes).)
+25. **Word Search & Crossword Table**, print the fall-friendly puzzles from our [Bible word searches](/printables/bible-word-search) and [Bible crosswords](/printables/bible-crossword); answer keys stay with the volunteer.
 
 ## Running the Night Well: Five Hard-Won Rules
 

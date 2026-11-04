@@ -23,9 +23,9 @@ The Raising of Lazarus is a Bible story from Matthew/Mark/Luke/John in the New T
 
 ## What Is the Story of The Raising of Lazarus for Kids?
 
-MIRACLES OF JESUS — Episode 5: The Raising of Lazarus Based on John 11:1-44
+MIRACLES OF JESUS, Episode 5: The Raising of Lazarus Based on John 11:1-44
 
-Hey kids. Sit close for this one. Because this story is personal. This one involves people I loved deeply — and a miracle that NOBODY saw coming.
+Hey kids. Sit close for this one. Because this story is personal. This one involves people I loved deeply, and a miracle that NOBODY saw coming.
 
 Lazarus was one of my closest friends. He lived in Bethany with his two sisters, Mary and Martha. I'd eaten at their table. I'd laughed with them. They were family to me.
 
@@ -43,7 +43,7 @@ The story of The Raising of Lazarus teaches children important lessons about fai
 
 ## Key Bible Verse
 
-> *"I am the resurrection and the life."* — John 11:25
+> *"I am the resurrection and the life."* (John 11:25)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -63,7 +63,7 @@ After hearing that Lazarus was sick, Jesus intentionally stayed where He was for
 
 ### How many days had Lazarus been in the tomb when Jesus arrived?
 
-Lazarus had been dead and in the tomb for four days by the time Jesus arrived — making the miracle even more undeniable.
+Lazarus had been dead and in the tomb for four days by the time Jesus arrived, making the miracle even more undeniable.
 
 ### What is the shortest verse in the Bible, found in this story?
 
@@ -71,7 +71,7 @@ Lazarus had been dead and in the tomb for four days by the time Jesus arrived �
 
 ### What did Jesus shout at the tomb?
 
-Jesus cried out in a loud voice, "Lazarus, come out!" — and Lazarus walked out of the tomb alive, still wrapped in grave clothes.
+Jesus cried out in a loud voice, "Lazarus, come out!" and Lazarus walked out of the tomb alive, still wrapped in grave clothes.
 
 
 ## Discussion Questions for Families
@@ -111,7 +111,7 @@ Print the [miracles of Jesus word search](/printables/bible-word-search/jesus-mi
 
 ### What is the story of The Raising of Lazarus about for kids?
 
-The Raising of Lazarus is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 5: The Raising of Lazarus Based on John 11:1-44
+The Raising of Lazarus is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS, Episode 5: The Raising of Lazarus Based on John 11:1-44
 
 ### What age is the story of The Raising of Lazarus appropriate for?
 

@@ -120,7 +120,7 @@ A calendar handles the morning excitement. Most families find it works best with
 
 Want a ready-made evening rhythm that doesn't stop when December does? Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) is seven nights of short, calm readings designed to attach to a routine you already have -- print it once and it works in December and in February.
 
-For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas) — twelve words hidden in the grid, answer key included.
+For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas), twelve words hidden in the grid, answer key included.
 
 For December, swap in our [Christmas trivia questions](/blog/christmas-bible-trivia) -- the whole nativity story, easy round to expert round.
 

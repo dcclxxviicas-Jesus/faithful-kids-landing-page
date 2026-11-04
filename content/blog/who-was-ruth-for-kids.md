@@ -56,7 +56,7 @@ A "guardian-redeemer" (or "kinsman-redeemer") was a close relative who had the r
 
 **Key lesson for kids:** Hard work and humility matter. Ruth didn't sit around waiting for a miracle. She went to work, willing to do the lowest job available. And God honored her faithfulness by leading her to exactly the right field. Sometimes God's blessings come through our willingness to do the next right thing.
 
-She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids), the whole list, with a story and a verse for each.
 
 ## Naomi's Plan (Ruth 3)
 

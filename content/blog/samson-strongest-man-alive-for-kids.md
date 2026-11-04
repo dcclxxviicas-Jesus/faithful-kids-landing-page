@@ -25,11 +25,11 @@ Samson Strongest Man Alive is a Bible story from Judges 13-15 in the Old Testame
 
 Hey, everyone! Okay, buckle up because today we're meeting the most physically powerful person in the entire Bible. A man who could rip a lion apart with his bare hands. A man who defeated an entire army single-handedly. His name is Samson, and his story is equal parts amazing and heartbreaking.
 
-Before Samson was even born, an angel appeared to his parents: "You're going to have a son, set apart for God from the moment he's born." Samson was to be a Nazirite — specific rules. No wine, no unclean food, and absolutely no cutting his hair. His hair was the symbol of his dedication to God, and through that dedication, God gave him supernatural strength.
+Before Samson was even born, an angel appeared to his parents: "You're going to have a son, set apart for God from the moment he's born." Samson was to be a Nazirite, specific rules. No wine, no unclean food, and absolutely no cutting his hair. His hair was the symbol of his dedication to God, and through that dedication, God gave him supernatural strength.
 
 As a young man, Samson is walking when a full-grown, roaring lion charges straight at him. Does he run? Nope. The Spirit of God rushes upon him and he tears that lion apart with his bare hands. No weapon. No armor. Just raw, God-given power.
 
-Later, when the Philistines — Israel's biggest enemies — come after him, Samson picks up a jawbone of a donkey and defeats a thousand soldiers. One man. One jawbone. A thousand enemies. The dude is unstoppable.
+Later, when the Philistines, Israel's biggest enemies, come after him, Samson picks up a jawbone of a donkey and defeats a thousand soldiers. One man. One jawbone. A thousand enemies. The dude is unstoppable.
 
 This story comes from Judges 13-15 and is part of the Old Testament.
 
@@ -43,11 +43,11 @@ The story of Samson Strongest Man Alive teaches children important lessons about
 
 ## Key Bible Verse
 
-> *"Then Samson prayed to the Lord, Sovereign Lord, remember me."* — Judges 16:28
+> *"Then Samson prayed to the Lord, Sovereign Lord, remember me."* (Judges 16:28)
 
-For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land, printable, with the story behind the division.
 
-For the whole story in one place — the vow, Delilah, and the final prayer — see [Who Was Samson?](/blog/who-was-samson-for-kids)
+For the whole story in one place, the vow, Delilah, and the final prayer, see [Who Was Samson?](/blog/who-was-samson-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -63,7 +63,7 @@ An angel announced before Samson's birth that he would be a Nazirite, dedicated 
 
 ### What weapon did Samson use to defeat a thousand Philistine soldiers?
 
-When the Philistines came after him, Samson picked up the jawbone of a donkey — a discarded animal bone — and used it to defeat a thousand enemy soldiers single-handedly. His strength came not from the weapon but from the Spirit of God.
+When the Philistines came after him, Samson picked up the jawbone of a donkey, a discarded animal bone, and used it to defeat a thousand enemy soldiers single-handedly. His strength came not from the weapon but from the Spirit of God.
 
 ### What was Samson's biggest weakness despite his incredible physical strength?
 

@@ -25,11 +25,11 @@ Crossing the Red Sea is a Bible story from Exodus 13-15 in the Old Testament. Th
 
 Hey, welcome back! Buckle up because today's story has one of the most jaw-dropping moments in the entire Bible. We're talking armies, impossible escapes, and an ocean splitting in half. Yeah. You heard me right.
 
-So remember Pharaoh? The guy who finally — after TEN plagues — let my people go? Well, he changed his mind. Can you believe it? The frogs, the darkness, the firstborn — all of that — and this guy goes, "Wait... who's going to do all the work now?" So he gathers his entire army — chariots, horses, soldiers — and chases after Israel at full speed.
+So remember Pharaoh? The guy who finally, after TEN plagues, let my people go? Well, he changed his mind. Can you believe it? The frogs, the darkness, the firstborn, all of that, and this guy goes, "Wait... who's going to do all the work now?" So he gathers his entire army, chariots, horses, soldiers, and chases after Israel at full speed.
 
 Picture this. The Israelites hear the thundering of hooves and chariot wheels behind them. They look back and see the most powerful army on earth charging at them. They look forward and see... the Red Sea. No boats. No bridges. No way out.
 
-What would YOU do? Because the Israelites panicked. They yelled at Moses: "Did you bring us out here to DIE?" And I get it — fear is real. But here's what they forgot: God was right there with them.
+What would YOU do? Because the Israelites panicked. They yelled at Moses: "Did you bring us out here to DIE?" And I get it, fear is real. But here's what they forgot: God was right there with them.
 
 This story comes from Exodus 13-15 and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Crossing the Red Sea teaches children important lessons about freed
 
 ## Key Bible Verse
 
-> *"The Lord will fight for you; you need only to be still."* — Exodus 14:14
+> *"The Lord will fight for you; you need only to be still."* (Exodus 14:14)
 
-We drew a printable [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 A map makes this story concrete: the free [map of the Exodus](/printables/bible-maps/the-exodus) shows Egypt, the Red Sea, Mount Sinai and the wilderness road on one printable sheet.
 

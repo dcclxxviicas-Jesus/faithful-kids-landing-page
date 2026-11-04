@@ -25,13 +25,13 @@ Stephen the First Martyr is a Bible story from Acts in the New Testament. This r
 
 ## What Is the Story of Stephen the First Martyr for Kids?
 
-THE EARLY CHURCH — EPISODE 4: STEPHEN THE FIRST MARTYR Based on Acts 6:8-7:60 Series: The Early Church | Episode 4 of 5 Target audience: Kids ages 7-15
+THE EARLY CHURCH, EPISODE 4: STEPHEN THE FIRST MARTYR Based on Acts 6:8-7:60 Series: The Early Church | Episode 4 of 5 Target audience: Kids ages 7-15
 
-I need to tell you about one of the bravest people who ever lived. His name was Stephen. And his story will wreck you — in the best possible way.
+I need to tell you about one of the bravest people who ever lived. His name was Stephen. And his story will wreck you, in the best possible way.
 
-Stephen wasn't one of the twelve apostles. He was chosen to serve the church — making sure widows got food. A behind-the-scenes guy. But he was full of faith and the Holy Spirit, and God did extraordinary miracles through him.
+Stephen wasn't one of the twelve apostles. He was chosen to serve the church, making sure widows got food. A behind-the-scenes guy. But he was full of faith and the Holy Spirit, and God did extraordinary miracles through him.
 
-Religious leaders argued with Stephen but couldn't win — his wisdom was too sharp. So they did what people do when they can't beat the truth: they lied. They paid false witnesses to say Stephen spoke against God and Moses.
+Religious leaders argued with Stephen but couldn't win, his wisdom was too sharp. So they did what people do when they can't beat the truth: they lied. They paid false witnesses to say Stephen spoke against God and Moses.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -45,9 +45,9 @@ The story of Stephen the First Martyr teaches children important lessons about c
 
 ## Key Bible Verse
 
-> *"Lord, do not hold this sin against them."* — Acts 7:60
+> *"Lord, do not hold this sin against them."* (Acts 7:60)
 
-For the full story of the church's first martyr — and the surprise link to Paul — see [Who Was Stephen in the Bible?](/blog/who-was-stephen-for-kids)
+For the full story of the church's first martyr, and the surprise link to Paul, see [Who Was Stephen in the Bible?](/blog/who-was-stephen-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What was Stephen's original role in the early church?
 
-**He was chosen to help serve — making sure widows received food.**
+**He was chosen to help serve, making sure widows received food.**
 
 ### Why did the religious leaders bring false witnesses against Stephen?
 
@@ -116,7 +116,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Stephen the First Martyr about for kids?
 
-Stephen the First Martyr is a story from Acts. THE EARLY CHURCH — EPISODE 4: STEPHEN THE FIRST MARTYR Based on Acts 6:8-7:60 Series: The Early Church | Episode 4 of 5 Target audience: Kids ages 7-15
+Stephen the First Martyr is a story from Acts. THE EARLY CHURCH, EPISODE 4: STEPHEN THE FIRST MARTYR Based on Acts 6:8-7:60 Series: The Early Church | Episode 4 of 5 Target audience: Kids ages 7-15
 
 ### What age is the story of Stephen the First Martyr appropriate for?
 

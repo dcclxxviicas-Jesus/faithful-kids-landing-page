@@ -23,9 +23,9 @@ Healing the Blind Man is a Bible story from Matthew/Mark/Luke/John in the New Te
 
 ## What Is the Story of Healing the Blind Man for Kids?
 
-MIRACLES OF JESUS — Episode 4: Healing the Blind Man Based on John 9:1-41
+MIRACLES OF JESUS, Episode 4: Healing the Blind Man Based on John 9:1-41
 
-Hey kids! Today's story is about a man who had never — not once in his entire life — seen a sunrise, a face, or a single color. Born blind. And what happened to him changed EVERYTHING.
+Hey kids! Today's story is about a man who had never, not once in his entire life, seen a sunrise, a face, or a single color. Born blind. And what happened to him changed EVERYTHING.
 
 My disciples and I were walking along when we passed a man blind from birth. His whole world was darkness. And my disciples asked a question people STILL ask: "Rabbi, who sinned? This man or his parents? Why was he born like this?"
 
@@ -43,7 +43,7 @@ The story of Healing the Blind Man teaches children important lessons about fait
 
 ## Key Bible Verse
 
-> *"Your faith has healed you. Go in peace."* — Mark 5:34
+> *"Your faith has healed you. Go in peace."* (Mark 5:34)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,7 +55,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did the disciples ask Jesus about the blind man?
 
-The disciples assumed someone's sin caused the blindness and asked, "Who sinned — this man or his parents?" Jesus corrected them.
+The disciples assumed someone's sin caused the blindness and asked, "Who sinned, this man or his parents?" Jesus corrected them.
 
 ### According to Jesus, why was the man born blind?
 
@@ -63,7 +63,7 @@ Jesus said, "Neither this man nor his parents sinned. This happened so that the 
 
 ### What did Jesus put on the blind man's eyes?
 
-Jesus spit on the ground, made mud, and put it on the man's eyes — then told him to go wash in the Pool of Siloam.
+Jesus spit on the ground, made mud, and put it on the man's eyes, then told him to go wash in the Pool of Siloam.
 
 ### Where did Jesus tell the blind man to go wash?
 
@@ -111,7 +111,7 @@ Older children who find coloring dull usually take to the [miracles of Jesus wor
 
 ### What is the story of Healing the Blind Man about for kids?
 
-Healing the Blind Man is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 4: Healing the Blind Man Based on John 9:1-41
+Healing the Blind Man is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS, Episode 4: Healing the Blind Man Based on John 9:1-41
 
 ### What age is the story of Healing the Blind Man appropriate for?
 

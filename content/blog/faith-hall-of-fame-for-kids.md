@@ -27,9 +27,9 @@ Faith Hall of Fame is a Bible story from Hebrews/James/Revelation in the New Tes
 
 TITLE: Faith Hall of Fame SERIES: The Ending & the Beginning EPISODE: 1 SCRIPTURE: Hebrews 11
 
-Imagine a hall — not made of marble or stone, but of faith. A hall stretching back thousands of years, filled with the most extraordinary people who ever lived. Not because they were perfect. Because they believed.
+Imagine a hall, not made of marble or stone, but of faith. A hall stretching back thousands of years, filled with the most extraordinary people who ever lived. Not because they were perfect. Because they believed.
 
-Abel — the very first one. He brought God his best offering, not his leftovers. And even though his own brother killed him for it, his faith still speaks today.
+Abel, the very first one. He brought God his best offering, not his leftovers. And even though his own brother killed him for it, his faith still speaks today.
 
 Enoch walked so closely with God that one day he just... wasn't there anymore. God took him. He never even died.
 
@@ -45,7 +45,7 @@ The story of Faith Hall of Fame teaches children important lessons about faith, 
 
 ## Key Bible Verse
 
-> *"Now faith is confidence in what we hope for and assurance about what we do not see."* — Hebrews 11:1
+> *"Now faith is confidence in what we hope for and assurance about what we do not see."* (Hebrews 11:1)
 
 There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) on our site too, printable on one sheet with no sign-up.
 
@@ -59,15 +59,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What made Abel's offering special compared to Cain's?
 
-**It was his best — not his leftovers.** Abel offered God his very best, and that's what made his sacrifice better.
+**It was his best, not his leftovers.** Abel offered God his very best, and that's what made his sacrifice better.
 
 ### What happened to Enoch because he walked so closely with God?
 
-**God took him — he never died.** Enoch's faith was so real that God simply took him. He never experienced death.
+**God took him, he never died.** Enoch's faith was so real that God simply took him. He never experienced death.
 
 ### Why did people laugh at Noah?
 
-**He was building a boat with no flood in sight.** There was no rain, no flood, no reason to build a boat — except that God said so. And that was enough for Noah.
+**He was building a boat with no flood in sight.** There was no rain, no flood, no reason to build a boat, except that God said so. And that was enough for Noah.
 
 ### How old was Sarah when she had her promised baby?
 
@@ -75,7 +75,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Moses give up to follow God?
 
-**The wealth and power of Egypt's palace.** Moses walked away from all the luxury of being Egyptian royalty because he saw something more valuable — God's purpose.
+**The wealth and power of Egypt's palace.** Moses walked away from all the luxury of being Egyptian royalty because he saw something more valuable, God's purpose.
 
 ### What did all these faith heroes have in common, according to Hebrews 11?
 

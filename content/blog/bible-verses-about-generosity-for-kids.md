@@ -89,9 +89,9 @@ God grades gifts on willingness, not size. This frees the child who can only giv
 
 Jesus loves secret generosity. Kids find this thrilling: plan a stealth kindness together -- an anonymous treat for a neighbor -- and let the secret be the reward.
 
-We drew a printable [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet, no sign-up.
 
 ## Which Verses Teach Kids to Help People in Need?
 

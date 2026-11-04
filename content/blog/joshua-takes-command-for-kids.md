@@ -25,9 +25,9 @@ Joshua Takes Command is a Bible story from Joshua 1 in the Old Testament. This r
 
 Hey there, friend! Have you ever had to step up and do something that felt WAY too big for you? Maybe take over a project, lead a team, or just walk into a room where you didn't know a single person? Yeah. Multiply that feeling by about a million, and you'll understand what Joshua was going through.
 
-See, Moses — the greatest leader Israel had ever known — was gone. The man who stood before Pharaoh, who parted the Red Sea, who talked with God face to face on a mountain covered in fire and thunder... gone. And now guess who had to fill those sandals?
+See, Moses, the greatest leader Israel had ever known, was gone. The man who stood before Pharaoh, who parted the Red Sea, who talked with God face to face on a mountain covered in fire and thunder... gone. And now guess who had to fill those sandals?
 
-Can you imagine? "Hey Joshua, you know that guy who did all those impossible things? Yeah, you're up next. Good luck!" I mean, talk about pressure! The entire nation of Israel — millions of people — was looking at him like, "So... what's the plan?"
+Can you imagine? "Hey Joshua, you know that guy who did all those impossible things? Yeah, you're up next. Good luck!" I mean, talk about pressure! The entire nation of Israel, millions of people, was looking at him like, "So... what's the plan?"
 
 But here's where it gets good. Because God didn't just hand Joshua the job and walk away. No way. My Father pulled Joshua close and spoke directly to him. And what did He say? "Be strong and courageous."
 
@@ -43,11 +43,11 @@ The story of Joshua Takes Command teaches children important lessons about coura
 
 ## Key Bible Verse
 
-> *"As for me and my house, we will serve the Lord."* — Joshua 24:15
+> *"As for me and my house, we will serve the Lord."* (Joshua 24:15)
 
-For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land, printable, with the story behind the division.
 
-For Joshua's whole life — apprentice, spy, general, and the choice at Shechem — see [Who Was Joshua in the Bible?](/blog/who-was-joshua-for-kids)
+For Joshua's whole life, apprentice, spy, general, and the choice at Shechem, see [Who Was Joshua in the Bible?](/blog/who-was-joshua-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,15 +59,15 @@ After watching the video, see if your child can answer these questions:
 
 ### How many times did God tell Joshua to "be strong and courageous" in Joshua chapter 1?
 
-God told Joshua to be strong and courageous THREE times! When God repeats something, it means He really wants you to pay attention. He wanted Joshua to deeply understand that courage would be essential for the mission ahead — and that God Himself would be the source of that courage.
+God told Joshua to be strong and courageous THREE times! When God repeats something, it means He really wants you to pay attention. He wanted Joshua to deeply understand that courage would be essential for the mission ahead, and that God Himself would be the source of that courage.
 
 ### What was God's big promise to Joshua as the new leader?
 
-God promised Joshua His presence — "I will be with you wherever you go. I will never leave you or abandon you." God didn't promise an easy road. He promised something even better: that Joshua would never walk that road alone.
+God promised Joshua His presence, "I will be with you wherever you go. I will never leave you or abandon you." God didn't promise an easy road. He promised something even better: that Joshua would never walk that road alone.
 
 ### What is the real meaning of courage according to this lesson?
 
-Courage isn't about never being scared — that's impossible! Real courage means trusting God and doing what He asks even when fear is screaming at you to stop. Joshua was probably terrified to lead an entire nation, but he stepped forward anyway because he trusted God's promise to be with him.
+Courage isn't about never being scared, that's impossible! Real courage means trusting God and doing what He asks even when fear is screaming at you to stop. Joshua was probably terrified to lead an entire nation, but he stepped forward anyway because he trusted God's promise to be with him.
 
 
 ## Discussion Questions for Families

@@ -184,7 +184,7 @@ For the week after Easter, when the crafts are done and the room is still full, 
 
 The same questions live in our [Bible trivia game](/bible-trivia) if you would rather tap than print.
 
-Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
+Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this, each page names the scripture it comes from.
 
 If you need something with no prep at all, the [Bible word search](/printables/bible-word-search) plays on a phone and prints on one sheet.
 

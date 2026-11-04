@@ -21,7 +21,7 @@ export default function V1() {
       <div className="cv-wrap">
         <h1 className="cv-h1">Start your <span className="cv-green">free trial</span></h1>
         <p className="cv-sub">
-          300+ Bible lessons for ages 5&ndash;15. Pick a plan &mdash; you can change or cancel it later.
+          300+ Bible lessons for ages 5&ndash;15. Pick a plan, you can change or cancel it later.
         </p>
 
         <div className="cv-plans">

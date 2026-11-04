@@ -23,11 +23,11 @@ The Kingdom Splits is a Bible story from 1 Kings in the Old Testament. This rete
 
 ## What Is the Story of The Kingdom Splits for Kids?
 
-SOLOMON & THE KINGDOM — Episode 8: The Kingdom Splits Bible Reference: 1 Kings 12 Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM, Episode 8: The Kingdom Splits Bible Reference: 1 Kings 12 Series: Solomon & the Kingdom
 
-Hey — welcome back. Last episode, Solomon drifted from God. God said the kingdom would be torn apart. Well, today? It happens.
+Hey, welcome back. Last episode, Solomon drifted from God. God said the kingdom would be torn apart. Well, today? It happens.
 
-Solomon dies. His son Rehoboam takes the throne. But the people have a request. Solomon's massive building projects came at a cost — heavy taxes, forced labor. They were exhausted.
+Solomon dies. His son Rehoboam takes the throne. But the people have a request. Solomon's massive building projects came at a cost, heavy taxes, forced labor. They were exhausted.
 
 They say: "Your father put a heavy yoke on us. Lighten the load, and we'll serve you faithfully." Fair, right?
 
@@ -43,7 +43,7 @@ The story of The Kingdom Splits teaches children important lessons about wisdom,
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ The people were exhausted from Solomon's heavy taxes and forced labor. They aske
 
 ### Whose advice did Rehoboam follow?
 
-Rehoboam rejected the wise counsel of his father's experienced advisors — who told him to be kind — and instead listened to his young friends, who told him to be even harsher than Solomon. It was a catastrophic choice.
+Rehoboam rejected the wise counsel of his father's experienced advisors, who told him to be kind, and instead listened to his young friends, who told him to be even harsher than Solomon. It was a catastrophic choice.
 
 ### What happened after Rehoboam's harsh response to the people?
 
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Kingdom Splits about for kids?
 
-The Kingdom Splits is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 8: The Kingdom Splits Bible Reference: 1 Kings 12 Series: Solomon & the Kingdom
+The Kingdom Splits is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 8: The Kingdom Splits Bible Reference: 1 Kings 12 Series: Solomon & the Kingdom
 
 ### What age is the story of The Kingdom Splits appropriate for?
 

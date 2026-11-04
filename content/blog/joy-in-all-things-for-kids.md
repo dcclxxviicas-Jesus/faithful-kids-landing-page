@@ -23,11 +23,11 @@ Joy in All Things is a Bible story from Romans/Corinthians/Ephesians in the New 
 
 ## What Is the Story of Joy in All Things for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 8 "Joy in All Things" Based on Philippians (highlights) Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 8 "Joy in All Things" Based on Philippians (highlights) Jesus Narrates
 
-I want to tell you about a letter that should have been the saddest letter ever written — but turned out to be the most joyful one in the entire Bible.
+I want to tell you about a letter that should have been the saddest letter ever written, but turned out to be the most joyful one in the entire Bible.
 
-Paul — my apostle, the man who traveled the world telling people about me — was in prison. Not a nice, clean jail with a bed and a window. A Roman dungeon. Cold stone. Chains on his wrists. Guards day and night. He didn't know if he'd ever get out.
+Paul, my apostle, the man who traveled the world telling people about me, was in prison. Not a nice, clean jail with a bed and a window. A Roman dungeon. Cold stone. Chains on his wrists. Guards day and night. He didn't know if he'd ever get out.
 
 And from that dark, cramped cell, Paul picked up a pen and wrote a letter to the church in Philippi. And do you know what the theme of that letter was? Joy.
 
@@ -43,7 +43,7 @@ The story of Joy in All Things teaches children important lessons about love, fa
 
 ## Key Bible Verse
 
-> *"Rejoice in the Lord always. I will say it again: Rejoice!"* — Philippians 4:4
+> *"Rejoice in the Lord always. I will say it again: Rejoice!"* (Philippians 4:4)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### Where was Paul when he wrote the letter to the Philippians?
 
-Paul wrote Philippians from prison — chained up in a Roman dungeon — yet the letter is the most joyful book in the Bible, with the word "joy" or "rejoice" appearing more than a dozen times.
+Paul wrote Philippians from prison, chained up in a Roman dungeon, yet the letter is the most joyful book in the Bible, with the word "joy" or "rejoice" appearing more than a dozen times.
 
 ### What is the difference between joy and happiness?
 
-Happiness changes based on what's happening around you, but joy is an anchor — it stays steady because it's rooted in your relationship with Jesus, not your situation.
+Happiness changes based on what's happening around you, but joy is an anchor; it stays steady because it's rooted in your relationship with Jesus, not your situation.
 
 ### What does "I can do all things through Christ who strengthens me" really mean in context?
 
-Paul wrote this verse while talking about being content whether well fed or hungry, in plenty or in want. It means Christ's strength is enough to carry you through any situation — not that life will always be easy.
+Paul wrote this verse while talking about being content whether well fed or hungry, in plenty or in want. It means Christ's strength is enough to carry you through any situation, not that life will always be easy.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Joy in All Things about for kids?
 
-Joy in All Things is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 8 "Joy in All Things" Based on Philippians (highlights) Jesus Narrates
+Joy in All Things is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES, EPISODE 8 "Joy in All Things" Based on Philippians (highlights) Jesus Narrates
 
 ### What age is the story of Joy in All Things appropriate for?
 

@@ -3,7 +3,7 @@ import { SiteNav, SiteFooter } from '../components/SiteChrome'
 
 export const metadata: Metadata = {
   title: 'Support',
-  description: 'Get help with Faithful Kids — FAQ, contact info, and troubleshooting for the Bible story app for kids.',
+  description: 'Get help with Faithful Kids, FAQ, contact info, and troubleshooting for the Bible story app for kids.',
   alternates: { canonical: 'https://faithfulkids.app/support' },
 }
 
@@ -72,7 +72,7 @@ export default function Support() {
         <h3>Videos won&apos;t play</h3>
         <p>Try these steps in order:</p>
         <ol>
-          <li>Check your internet connection — videos stream from our CDN and need 2+ Mbps to play smoothly.</li>
+          <li>Check your internet connection, videos stream from our CDN and need 2+ Mbps to play smoothly.</li>
           <li>Close and reopen the app.</li>
           <li>Sign out and sign back in.</li>
           <li>If the problem persists, email us with your device model and we&apos;ll investigate.</li>
@@ -87,7 +87,7 @@ export default function Support() {
 
         <h3>Is there a free trial?</h3>
         <p>
-          Yes — every new account gets a 7-day free trial. Cancel anytime before day 7 and you
+          Yes, every new account gets a 7-day free trial. Cancel anytime before day 7 and you
           won&apos;t be charged.
         </p>
 
@@ -100,7 +100,7 @@ export default function Support() {
         <h3>Where can I leave feedback?</h3>
         <p>
           We love hearing from parents. Email us at{' '}
-          <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a> — every message gets read
+          <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a> every message gets read.
           by a real person.
         </p>
 

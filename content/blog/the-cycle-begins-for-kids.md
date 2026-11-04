@@ -23,11 +23,11 @@ The Cycle Begins is a Bible story from Judges 1-3 in the Old Testament. This ret
 
 ## What Is the Story of The Cycle Begins for Kids?
 
-Hey everyone! Welcome to a brand-new chapter of the story. And buckle up, because this one is going to feel like a roller coaster — literally. We're talking loops, drops, and the same ride over and over again.
+Hey everyone! Welcome to a brand-new chapter of the story. And buckle up, because this one is going to feel like a roller coaster, literally. We're talking loops, drops, and the same ride over and over again.
 
-So here's where we are. Joshua — the great leader who brought my people into the Promised Land — has died. And the big question is: what happens now? Who's going to lead Israel? Will they keep following God?
+So here's where we are. Joshua, the great leader who brought my people into the Promised Land, has died. And the big question is: what happens now? Who's going to lead Israel? Will they keep following God?
 
-See, almost immediately, the Israelites start making terrible choices. They stop driving out the nations around them like God told them to. They start hanging out with people who worship fake gods — carved statues, golden idols, all kinds of nonsense. And before long, Israel is bowing down to those same idols. They forgot the God who rescued them from Egypt. They forgot the God who split the Red Sea. They forgot the God who fed them in the desert for forty years.
+See, almost immediately, the Israelites start making terrible choices. They stop driving out the nations around them like God told them to. They start hanging out with people who worship fake gods, carved statues, golden idols, all kinds of nonsense. And before long, Israel is bowing down to those same idols. They forgot the God who rescued them from Egypt. They forgot the God who split the Red Sea. They forgot the God who fed them in the desert for forty years.
 
 And here's where the cycle kicks in. Pay attention because you're going to see this pattern repeat again and again.
 
@@ -43,7 +43,7 @@ The story of The Cycle Begins teaches children important lessons about bravery, 
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Cycle Begins about for kids?
 
-The Cycle Begins is a story from Judges 1-3. Hey everyone! Welcome to a brand-new chapter of the story. And buckle up, because this one is going to feel like a roller coaster — literally. We're talking loops, drops, and the same ride over and...
+The Cycle Begins is a story from Judges 1-3. Hey everyone! Welcome to a brand-new chapter of the story. And buckle up, because this one is going to feel like a roller coaster, literally. We're talking loops, drops, and the same ride over and...
 
 ### What age is the story of The Cycle Begins appropriate for?
 

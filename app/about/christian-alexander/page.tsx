@@ -34,12 +34,12 @@ const BIO =
   'Christian Alexander is the founder of Faithful Kids, a Bible video app for children ages 5 to 15. A Christian father, he built it for his own kids: more than 300 short lessons running in order from Genesis to Revelation, each followed by a quiz and a reflection question. He writes about faith formation and screens in family life for The Christian Post, and answers the support email himself at christian@faithfulkids.app. Faithful Kids is published by Catterfly LLC, the company he owns.'
 
 export const metadata: Metadata = {
-  title: 'Christian Alexander — Founder of Faithful Kids',
+  title: 'Christian Alexander, Founder of Faithful Kids',
   description:
     'Christian Alexander is the founder of Faithful Kids, a Bible video app for kids ages 5-15. He writes about faith formation and screens in family life.',
   alternates: { canonical: 'https://faithfulkids.app/about/christian-alexander' },
   openGraph: {
-    title: 'Christian Alexander — Founder of Faithful Kids',
+    title: 'Christian Alexander, Founder of Faithful Kids',
     description:
       'Founder of Faithful Kids. Writes about faith formation and screens in family life.',
     url: 'https://faithfulkids.app/about/christian-alexander',
@@ -123,10 +123,10 @@ export default function AuthorPage() {
           He built Faithful Kids for his own children, as an alternative to the autoplay feed: a
           screen where every video ends in a question instead of another video. The app now covers
           the whole Bible in order across more than 300 episodes, and the site gives away a large
-          free library — Bible story retellings, printable{' '}
+          free library, Bible story retellings, printable{' '}
           <Link href="/printables/bible-coloring-pages">coloring pages</Link> and{' '}
           <Link href="/printables/bible-word-search">word searches</Link>, and a 100-question{' '}
-          <Link href="/bible-trivia">Bible trivia game</Link> — with no sign-up at all.
+          <Link href="/bible-trivia">Bible trivia game</Link> (with no sign-up at all.)
         </p>
       </section>
 
@@ -141,7 +141,7 @@ export default function AuthorPage() {
             >
               I took my kids&apos; screens away. Here&apos;s why it didn&apos;t work.
             </a>{' '}
-            — The Christian Post, September 1, 2026
+            (The Christian Post, September 1, 2026)
           </li>
         </ul>
         <p>
@@ -154,7 +154,7 @@ export default function AuthorPage() {
       <section className="blog-bottom-cta">
         <h2>See what he built</h2>
         <p>
-          Short Bible video lessons for kids ages 5 to 15 — each one followed by a quiz and a
+          Short Bible video lessons for kids ages 5 to 15, each one followed by a quiz and a
           question worth talking about.
         </p>
         <Link href="/quiz" className="btn-primary">

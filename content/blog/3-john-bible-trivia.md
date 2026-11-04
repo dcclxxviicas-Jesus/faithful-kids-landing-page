@@ -38,9 +38,9 @@ That brevity hides this book's most famous trivia fact: 3 John is the only book 
 
 6. Should we imitate what is evil or what is good? **What is good -- "Anyone who does what is good is from God"** (3 John 11)
 
-For a quieter follow-up, try the free [Moses word search](/printables/bible-word-search/moses) — twelve hidden words, answer key included.
+For a quieter follow-up, try the free [Moses word search](/printables/bible-word-search/moses), twelve hidden words, answer key included.
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 

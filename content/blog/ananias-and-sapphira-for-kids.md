@@ -25,9 +25,9 @@ Ananias and Sapphira is a Bible story from Acts in the New Testament. This retel
 
 ## What Is the Story of Ananias and Sapphira for Kids?
 
-THE EARLY CHURCH — EPISODE 3: ANANIAS AND SAPPHIRA Based on Acts 5:1-11 Series: The Early Church | Episode 3 of 5 Target audience: Kids ages 7-15
+THE EARLY CHURCH, EPISODE 3: ANANIAS AND SAPPHIRA Based on Acts 5:1-11 Series: The Early Church | Episode 3 of 5 Target audience: Kids ages 7-15
 
-Okay — this story is a little different from the others. It's intense. But it teaches something you'll need for the rest of your life.
+Okay, this story is a little different from the others. It's intense. But it teaches something you'll need for the rest of your life.
 
 Remember how the early church shared everything? People sold land and houses and brought the money to the apostles to help anyone in need. It was beautiful. Generous. Real.
 
@@ -45,7 +45,7 @@ The story of Ananias and Sapphira teaches children important lessons about commu
 
 ## Key Bible Verse
 
-> *"You have not lied just to human beings but to God."* — Acts 5:4
+> *"You have not lied just to human beings but to God."* (Acts 5:4)
 
 If small hands need something to do while you read, the free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) is made for exactly that.
 
@@ -71,7 +71,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Were Ananias and Sapphira required to give all their money?
 
-**No — it was their property and their choice.**
+**No, it was their property and their choice.**
 
 ### How much time passed between what happened to Ananias and what happened to Sapphira?
 
@@ -79,7 +79,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson from this story?
 
-**Integrity means being the same person in private as in public — honesty with God matters deeply.**
+**Integrity means being the same person in private as in public, honesty with God matters deeply.**
 
 ## Discussion Questions for Families
 
@@ -116,7 +116,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Ananias and Sapphira about for kids?
 
-Ananias and Sapphira is a story from Acts. THE EARLY CHURCH — EPISODE 3: ANANIAS AND SAPPHIRA Based on Acts 5:1-11 Series: The Early Church | Episode 3 of 5 Target audience: Kids ages 7-15
+Ananias and Sapphira is a story from Acts. THE EARLY CHURCH, EPISODE 3: ANANIAS AND SAPPHIRA Based on Acts 5:1-11 Series: The Early Church | Episode 3 of 5 Target audience: Kids ages 7-15
 
 ### What age is the story of Ananias and Sapphira appropriate for?
 

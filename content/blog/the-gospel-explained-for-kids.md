@@ -25,11 +25,11 @@ The Gospel Explained is a Bible story from Romans/Corinthians/Ephesians in the N
 
 ## What Is the Story of The Gospel Explained for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 1 "The Gospel Explained" Based on Romans 1-8 Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 1 "The Gospel Explained" Based on Romans 1-8 Jesus Narrates
 
-There was a man named Paul. Before he followed me, he actually hunted down my followers and threw them in prison. But I changed his life — completely. And after that, Paul wrote letters to churches all over the world. His letter to the church in Rome? It's the most powerful explanation of the gospel ever written.
+There was a man named Paul. Before he followed me, he actually hunted down my followers and threw them in prison. But I changed his life, completely. And after that, Paul wrote letters to churches all over the world. His letter to the church in Rome? It's the most powerful explanation of the gospel ever written.
 
-So let me walk you through it — because this message is for you too.
+So let me walk you through it, because this message is for you too.
 
 Paul starts with the truth that every person needs to hear: all have sinned and fall short of the glory of God. Every single person. Your parents. Your pastor. Your favorite Christ-following Christ-follower. You. Everyone has missed the mark. No one is perfect.
 
@@ -45,7 +45,7 @@ The story of The Gospel Explained teaches children important lessons about love,
 
 ## Key Bible Verse
 
-> *"For all have sinned and fall short of the glory of God."* — Romans 3:23
+> *"For all have sinned and fall short of the glory of God."* (Romans 3:23)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What does the Bible say the "wages of sin" is?
 
-**Death — separation from God.** "The wages of sin is death." (Romans 6:23)
+**Death, separation from God.** "The wages of sin is death." (Romans 6:23)
 
 ### What does Paul call eternal life through Jesus?
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Gospel Explained about for kids?
 
-The Gospel Explained is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 1 "The Gospel Explained" Based on Romans 1-8 Jesus Narrates
+The Gospel Explained is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES, EPISODE 1 "The Gospel Explained" Based on Romans 1-8 Jesus Narrates
 
 ### What age is the story of The Gospel Explained appropriate for?
 

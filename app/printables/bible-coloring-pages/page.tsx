@@ -23,7 +23,7 @@ import { COLORING_PAGES, CDN } from '@/lib/coloring-pages'
 const PAGES = COLORING_PAGES
 
 export const metadata: Metadata = {
-  title: 'Free Bible Coloring Pages — 26 Printables',
+  title: 'Free Bible Coloring Pages, 26 Printables',
   description:
     '26 free printable Bible coloring pages, from Creation to the Empty Tomb. Bold simple outlines for young children. No sign-up, no email, just print.',
   keywords: [
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-coloring-pages' },
   openGraph: {
-    title: 'Free Bible Coloring Pages — 26 Printables',
+    title: 'Free Bible Coloring Pages, 26 Printables',
     description:
       '26 free printable Bible coloring pages, Creation to the Empty Tomb. No sign-up, just print.',
     url: 'https://faithfulkids.app/printables/bible-coloring-pages',
@@ -87,7 +87,7 @@ export default function BibleColoringPages() {
         <p>
           Every page here is drawn as a single clear scene rather than a busy illustration, because
           a four-year-old with a fat crayon needs room to work. There is no email wall and nothing to
-          sign up for — right-click any page to save it, or use the print button above for the set.
+          sign up for, right-click any page to save it, or use the print button above for the set.
         </p>
         <p>
           If you are using these in Sunday school, the scripture reference under each page is there
@@ -103,7 +103,7 @@ export default function BibleColoringPages() {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={`${CDN}/${p.slug}.png`}
-                alt={`${p.title} Bible coloring page for kids — free printable`}
+                alt={`${p.title} Bible coloring page for kids, free printable`}
                 width={1024}
                 height={1536}
                 loading="lazy"
@@ -134,11 +134,11 @@ export default function BibleColoringPages() {
       <section className="cp-seasons no-print">
         <a href="/printables/christmas-coloring-pages">
           <strong>Christmas &amp; Nativity</strong>
-          <span>6 pages — the angel, Bethlehem, the shepherds, the wise men</span>
+          <span>6 pages, the angel, Bethlehem, the shepherds, the wise men</span>
         </a>
         <a href="/printables/easter-coloring-pages">
           <strong>Easter &amp; Holy Week</strong>
-          <span>5 pages — Palm Sunday through resurrection morning</span>
+          <span>5 pages, Palm Sunday through resurrection morning</span>
         </a>
       </section>
 
@@ -157,7 +157,7 @@ export default function BibleColoringPages() {
         </p>
         <h2>Which pages work at which age</h2>
         <p>
-          Ages 3 to 5 do best with the big-shape pages — Noah&rsquo;s ark, the good shepherd, baby
+          Ages 3 to 5 do best with the big-shape pages, Noah&rsquo;s ark, the good shepherd, baby
           Jesus in the manger. Ages 6 to 8 can handle the busier scenes like Creation and the armor
           of God. Older children often prefer coloring while a story plays rather than coloring as
           the main event, which is worth knowing before you plan a whole session around it.
@@ -168,7 +168,7 @@ export default function BibleColoringPages() {
         {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
         duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
         heading="Coloring is quiet time. This is the lesson."
-        body="Print as many as you like — they cost nothing and they are genuinely useful. But a page tells you a child was busy, not what they understood. Every scene here is also a short episode with a quiz after it, and the quiz is the part that answers that."
+        body="Print as many as you like, they cost nothing and they are genuinely useful. But a page tells you a child was busy, not what they understood. Every scene here is also a short episode with a quiz after it, and the quiz is the part that answers that."
         source="coloring-hub"
       />
 
@@ -176,7 +176,7 @@ export default function BibleColoringPages() {
         <div className="blog-bottom-cta-inner">
           <h2>Want the story that goes with the page?</h2>
           <p>
-            Every scene here is an episode in the Faithful Kids library — a few minutes long, with a
+            Every scene here is an episode in the Faithful Kids library, a few minutes long, with a
             quiz afterwards so you can see what your child actually understood.
           </p>
           <a className="btn-primary" href="/quiz?ref=coloring-pages">Start your child&rsquo;s Bible journey</a>

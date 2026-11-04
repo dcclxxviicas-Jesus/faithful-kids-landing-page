@@ -23,11 +23,11 @@ Feeding the Five Thousand is a Bible story from Matthew/Mark/Luke/John in the Ne
 
 ## What Is the Story of Feeding the Five Thousand for Kids?
 
-MIRACLES OF JESUS — Episode 2: Feeding the Five Thousand Based on John 6:1-15
+MIRACLES OF JESUS, Episode 2: Feeding the Five Thousand Based on John 6:1-15
 
-Hey kids! Grab a seat — and maybe a snack — because today's story involves the biggest picnic you've EVER heard of.
+Hey kids! Grab a seat, and maybe a snack, because today's story involves the biggest picnic you've EVER heard of.
 
-I had been teaching and healing people all day. A MASSIVE crowd had followed me to a remote hillside near the Sea of Galilee. Over five thousand men — not even counting women and children. Could've been twenty thousand people total.
+I had been teaching and healing people all day. A MASSIVE crowd had followed me to a remote hillside near the Sea of Galilee. Over five thousand men, not even counting women and children. Could've been twenty thousand people total.
 
 It was getting late. And all these people? They were HUNGRY. No food trucks. No restaurants. Nothing but grass and hills for miles.
 
@@ -43,9 +43,9 @@ The story of Feeding the Five Thousand teaches children important lessons about 
 
 ## Key Bible Verse
 
-> *"They all ate and were satisfied."* — Matthew 14:20
+> *"They all ate and were satisfied."* (Matthew 14:20)
 
-Pair this with our free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene), one sheet, ready for the kitchen table or the classroom.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Which disciple did Jesus ask about buying bread for the crowd?
 
-Jesus asked Philip where they could buy bread, testing him — because Jesus already knew what He was going to do.
+Jesus asked Philip where they could buy bread, testing him, because Jesus already knew what He was going to do.
 
 ### How much did Philip say it would cost to feed the crowd?
 
@@ -65,15 +65,15 @@ Philip calculated that more than eight months' wages wouldn't be enough to give 
 
 ### What food did the boy have?
 
-Andrew brought a boy who had five small barley loaves and two small fish — a simple, small lunch.
+Andrew brought a boy who had five small barley loaves and two small fish, a simple, small lunch.
 
 ### How many people were fed (men only, not counting women and children)?
 
-The Bible says about five thousand men were fed, plus women and children — so the total crowd was likely much larger.
+The Bible says about five thousand men were fed, plus women and children, so the total crowd was likely much larger.
 
 ### How many baskets of leftovers were collected?
 
-After everyone ate and was full, the disciples collected twelve baskets of leftover bread — more than they started with!
+After everyone ate and was full, the disciples collected twelve baskets of leftover bread, more than they started with!
 
 
 ## Discussion Questions for Families
@@ -113,7 +113,7 @@ There is a free [miracles of Jesus word search](/printables/bible-word-search/je
 
 ### What is the story of Feeding the Five Thousand about for kids?
 
-Feeding the Five Thousand is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 2: Feeding the Five Thousand Based on John 6:1-15
+Feeding the Five Thousand is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS, Episode 2: Feeding the Five Thousand Based on John 6:1-15.
 
 ### What age is the story of Feeding the Five Thousand appropriate for?
 

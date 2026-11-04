@@ -26,11 +26,11 @@ You might say: "You know the happiest you have ever been? Maybe when we went to 
 
 ### 1. Heaven Is Being With God Forever
 
-This is the heart of heaven. It is not primarily about the place — it is about the Person.
+This is the heart of heaven. It is not primarily about the place, it is about the Person.
 
-"Heaven means being with God forever. And God loves you more than anyone in the whole world. Being with Him will be the happiest, safest feeling you have ever had — and it will never end." (If "who is God?" comes next, here is [how to explain God to a child](/blog/how-to-explain-god-to-a-child).)
+"Heaven means being with God forever. And God loves you more than anyone in the whole world. Being with Him will be the happiest, safest feeling you have ever had, and it will never end." (If "who is God?" comes next, here is [how to explain God to a child](/blog/how-to-explain-god-to-a-child).)
 
-**John 14:2-3** — Jesus said: "My Father's house has many rooms... I am going there to prepare a place for you. And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am."
+**John 14:2-3**, Jesus said: "My Father's house has many rooms... I am going there to prepare a place for you. And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am."
 
 For your child: "Jesus said He is getting a special place ready for everyone who loves Him. He is making it just right for you."
 
@@ -38,7 +38,7 @@ For your child: "Jesus said He is getting a special place ready for everyone who
 
 This is the concept that resonates most with preschoolers. They understand pain, and the idea that it will be gone is deeply comforting.
 
-**Revelation 21:4** — "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away."
+**Revelation 21:4**, "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away."
 
 For your child: "In heaven, no one gets hurt. No one gets sick. No one cries. No one is scared. There are no boo-boos, no ouchies, no bad dreams. God wipes away every single tear. Everyone is happy all the time."
 
@@ -46,9 +46,9 @@ If your child has experienced the loss of a pet or a loved one, this verse can b
 
 ### 3. It Is Beautiful Beyond Imagination
 
-Preschoolers love beautiful things — sparkly things, colorful things, things that fill them with wonder. The Bible describes heaven in terms that light up a child's imagination.
+Preschoolers love beautiful things, sparkly things, colorful things, things that fill them with wonder. The Bible describes heaven in terms that light up a child's imagination.
 
-"The Bible says heaven is more beautiful than anything we have ever seen. It says there are streets of gold and gates made of pearls. There is a river of clear water and trees that give fruit all year long. And the best part — there is no night in heaven because God's light shines everywhere."
+"The Bible says heaven is more beautiful than anything we have ever seen. It says there are streets of gold and gates made of pearls. There is a river of clear water and trees that give fruit all year long. And the best part, there is no night in heaven because God's light shines everywhere."
 
 You do not need to get into the theological details of whether these descriptions are literal or symbolic. For a preschooler, the point is simple: heaven is breathtakingly beautiful. (When they are older, the story of [a new heaven and new earth](/blog/a-new-heaven-and-new-earth-for-kids) paints the full picture.)
 
@@ -56,7 +56,7 @@ You do not need to get into the theological details of whether these description
 
 This gives your child a sense of community and belonging.
 
-"Everyone who loves Jesus and believes in Him will be in heaven. That means if you love Jesus, you will be there. And other people who love Jesus will be there too — some you know and some you have not met yet. It will be like the biggest, happiest family reunion ever."
+"Everyone who loves Jesus and believes in Him will be in heaven. That means if you love Jesus, you will be there. And other people who love Jesus will be there too, some you know and some you have not met yet. It will be like the biggest, happiest family reunion ever."
 
 If your child has lost a grandparent or loved one who was a believer, you can say: "And guess what? [Name] is already there. They are with God right now, and one day you will see them again."
 
@@ -70,16 +70,16 @@ A simple analogy: "You know how your favorite song ends and you want to play it 
 
 ## When a Preschooler Asks About Death
 
-The conversation about heaven often comes up because of a conversation about death — a pet died, a grandparent passed away, or they saw something on TV. For a fuller treatment written for kids of all ages, see our guide to [explaining death and heaven to kids](/blog/explaining-death-and-heaven-to-kids). Here is how to handle it:
+The conversation about heaven often comes up because of a conversation about death, a pet died, a grandparent passed away, or they saw something on TV. For a fuller treatment written for kids of all ages, see our guide to [explaining death and heaven to kids](/blog/explaining-death-and-heaven-to-kids). Here is how to handle it:
 
 ### Be Honest but Gentle
-"When someone dies, their body stops working. It is like a shell — the real them, their soul, goes to be with God in heaven. Their body stays here, but they — who they really are — are with God."
+"When someone dies, their body stops working. It is like a shell, the real them, their soul, goes to be with God in heaven. Their body stays here, but they, who they really are, are with God."
 
 ### Acknowledge Their Feelings
 "It is okay to be sad. I am sad too. We miss [name] and we wish they were still here. But we can be happy too, because we know they are with God and they are not hurting anymore."
 
 ### Do Not Use Confusing Euphemisms
-Avoid saying things like "they went to sleep" (this can make children afraid to go to sleep) or "God took them" (this can make children afraid that God will "take" them or their parents). Use clear, gentle language: "Their body stopped working and they died. But their soul — the part that makes them them — went to be with God in heaven."
+Avoid saying things like "they went to sleep" (this can make children afraid to go to sleep) or "God took them" (this can make children afraid that God will "take" them or their parents). Use clear, gentle language: "Their body stopped working and they died. But their soul, the part that makes them them, went to be with God in heaven."
 
 ### Reassure Them About Their Own Safety
 Children often worry: "Am I going to die? Are you going to die?" Be honest: "Everyone dies someday, but most people live for a very, very long time. I plan to be here for a long, long time. And no matter what, God is always taking care of us."
@@ -92,7 +92,7 @@ If your preschooler is dealing with the loss of someone close, here are extra ti
 
 **Let them talk about it as much as they need to.** They may ask the same questions over and over. Answer patiently every time.
 
-**Let them express feelings.** Crying, anger, confusion — all of these are normal and healthy. Do not rush them past their grief.
+**Let them express feelings.** Crying, anger, confusion, all of these are normal and healthy. Do not rush them past their grief.
 
 **Use books.** There are wonderful children's books about loss and heaven that can help your child process their feelings.
 
@@ -116,10 +116,10 @@ This is one of the most common questions from young children. You can honestly s
 "We cannot visit heaven right now, but one day everyone who loves Jesus will go there. And it will be so wonderful that no one will ever want to come back."
 
 **"What will we do in heaven?"**
-"We will worship God, which means celebrating how amazing He is. We will be with the people we love. And I think we will get to explore and enjoy all the beautiful things God has made. It will never be boring — it will be the greatest adventure ever."
+"We will worship God, which means celebrating how amazing He is. We will be with the people we love. And I think we will get to explore and enjoy all the beautiful things God has made. It will never be boring, it will be the greatest adventure ever."
 
 **"Is heaven real?"**
-"Yes, it is real. Jesus talked about it, and He would not lie to us. He said He was going there to get a place ready for us. I believe it is real, even though I have not seen it yet — just like I believe you love me, even though I cannot hold love in my hands."
+"Yes, it is real. Jesus talked about it, and He would not lie to us. He said He was going there to get a place ready for us. I believe it is real, even though I have not seen it yet, just like I believe you love me, even though I cannot hold love in my hands."
 
 **"Will you be in heaven?"**
 "I love Jesus, so yes, I will be in heaven. And if you love Jesus, you will be there too. We will be together."
@@ -137,7 +137,7 @@ Help your little one learn about God's love, heaven, and the amazing stories of 
 ## Frequently Asked Questions
 
 ### At what age do children start asking about heaven and death?
-Most children begin asking about death between ages 3-5, often triggered by a specific event — a dead bug on the sidewalk, a pet passing away, or overhearing adults talk about loss. These conversations can feel heavy, but they are a normal part of development. Welcome the questions and answer them simply and honestly.
+Most children begin asking about death between ages 3-5, often triggered by a specific event, a dead bug on the sidewalk, a pet passing away, or overhearing adults talk about loss. These conversations can feel heavy, but they are a normal part of development. Welcome the questions and answer them simply and honestly.
 
 ### How do I explain heaven without making my child scared of death?
 Focus on the positive: heaven is a beautiful, happy, safe place where we are with God forever. Avoid graphic descriptions of death. Reassure your child that most people live a very long time and that God is always taking care of them. Frame death not as something to fear but as a doorway to something wonderful for those who love Jesus.

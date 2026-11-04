@@ -51,7 +51,7 @@ The five review boxes are the important design choice. Memory works on spaced re
 
 **How to run it:** review two verses at breakfast, take about ninety seconds, and let the child hold the pen. Pair the tracker with a physical ring of cards -- our [printable Bible memory verse cards](/blog/bible-memory-verse-cards-printable) guide has 20 kid-ready verses already formatted for cutting, and the game-based approaches in [Bible memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) are what to do when a verse will not stick.
 
-To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart; honest about dates, from Creation to the early church.
 
 ## 3. The Reading Plan Chart
 
@@ -107,7 +107,7 @@ Sermon notes have a second use worth knowing: they work identically for video le
 
 For the rest of the printable landscape -- coloring pages, word searches, bingo, mazes -- see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). Sunday school teachers building lessons around these sheets should also look at our [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school).
 
-All five printables on this page are ours, free, with no email wall — and they pair with the rest of the [Faithful Kids free printables](/printables): coloring pages, word searches, and quiz PDFs with answer keys.
+All five printables on this page are ours, free, with no email wall; and they pair with the rest of the [Faithful Kids free printables](/printables): coloring pages, word searches, and quiz PDFs with answer keys.
 
 ## How Do You Fit All Five Into One Week?
 
@@ -122,7 +122,7 @@ You do not use all five at once. A realistic week for a family with elementary-a
 
 That is roughly fifteen minutes a day, most of it attached to meals you were already eating. Start with two of the five -- the reading chart and the discussion cards are the highest-return pair -- and add the others only once those two run without reminders.
 
-Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
+Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this; each page names the scripture it comes from.
 
 Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with no sign-up.
 

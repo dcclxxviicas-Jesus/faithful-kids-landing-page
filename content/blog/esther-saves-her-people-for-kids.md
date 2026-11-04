@@ -25,11 +25,11 @@ Esther Saves Her People is a Bible story from Ezra/Nehemiah/Esther in the Old Te
 
 ## What Is the Story of Esther Saves Her People for Kids?
 
-TITLE: Esther Saves Her People SERIES: The Return Home — Episode 9 SCRIPTURE: Esther 6-8
+TITLE: Esther Saves Her People SERIES: The Return Home, Episode 9 SCRIPTURE: Esther 6-8
 
-This is the episode where EVERYTHING flips. And it starts with something small — a sleepless night.
+This is the episode where EVERYTHING flips. And it starts with something small, a sleepless night.
 
-The night before Esther's big moment, King Xerxes can't sleep. He's tossing, turning, staring at the ceiling. So he does what any king would do — he calls for the royal records to be read to him. Basically, ancient bedtime stories. And buried in those scrolls is a forgotten entry: Mordecai once uncovered an assassination plot against the king and SAVED HIS LIFE. But nobody ever rewarded him.
+The night before Esther's big moment, King Xerxes can't sleep. He's tossing, turning, staring at the ceiling. So he does what any king would do, he calls for the royal records to be read to him. Basically, ancient bedtime stories. And buried in those scrolls is a forgotten entry: Mordecai once uncovered an assassination plot against the king and SAVED HIS LIFE. But nobody ever rewarded him.
 
 The king asks, "What honor was given to Mordecai for this?"
 
@@ -45,9 +45,9 @@ The story of Esther Saves Her People teaches children important lessons about re
 
 ## Key Bible Verse
 
-> *"Who knows whether you have come to the kingdom for such a time as this?"* — Esther 4:14
+> *"Who knows whether you have come to the kingdom for such a time as this?"* (Esther 4:14)
 
-We drew a printable [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,11 +59,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What happened to King Xerxes the night before Esther's banquet?
 
-**He couldn't sleep and had the royal records read to him.** The king couldn't sleep, so he had the royal chronicles read aloud. In those records, he discovered that Mordecai had once saved his life by uncovering an assassination plot — and was never rewarded.
+**He couldn't sleep and had the royal records read to him.** The king couldn't sleep, so he had the royal chronicles read aloud. In those records, he discovered that Mordecai had once saved his life by uncovering an assassination plot, and was never rewarded.
 
 ### What did Haman think when the king asked, "What should be done for a man the king wants to honor?"
 
-**He thought the king was talking about himself (Haman).** Haman's ego was so enormous that he was convinced the king must be talking about honoring him. So he described the most extravagant honor he could imagine — and it all went to Mordecai instead.
+**He thought the king was talking about himself (Haman).** Haman's ego was so enormous that he was convinced the king must be talking about honoring him. So he described the most extravagant honor he could imagine, and it all went to Mordecai instead.
 
 ### What did Esther reveal at her banquet?
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Esther Saves Her People about for kids?
 
-Esther Saves Her People is a story from Ezra/Nehemiah/Esther. TITLE: Esther Saves Her People SERIES: The Return Home — Episode 9 SCRIPTURE: Esther 6-8
+Esther Saves Her People is a story from Ezra/Nehemiah/Esther. TITLE: Esther Saves Her People SERIES: The Return Home, Episode 9 SCRIPTURE: Esther 6-8
 
 ### What age is the story of Esther Saves Her People appropriate for?
 

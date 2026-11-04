@@ -51,13 +51,13 @@ The story runs from about 1100 to 1010 BC, ending with Saul's death at Mount Gil
 
 For quiet time afterwards, print the free [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath) and let them color while you talk it through.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
-For his whole life — the boy who heard God's voice, the last judge, the king-maker — see [Who Was Samuel in the Bible?](/blog/who-was-samuel-for-kids)
+For his whole life, the boy who heard God's voice, the last judge, the king-maker, see [Who Was Samuel in the Bible?](/blog/who-was-samuel-for-kids)
 
 ## Hard 1 Samuel Trivia Questions (Teens and Adults)
 

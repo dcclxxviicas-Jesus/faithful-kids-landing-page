@@ -40,7 +40,7 @@ The concept scales -- start with actions, add feelings, then add the hard cases.
 
 **Ages 11+:** Tackle the real objections. Preteens will ask: "What if they are not sorry?" and "Do I have to be friends with them again?" Give straight answers: you can forgive someone who never apologizes (forgiveness is your choice; reconciliation takes two), and forgiving a person who keeps hurting you does not mean staying in range -- you can forgive AND tell a trusted adult AND keep your distance. This distinction protects kids from thinking faith requires being a doormat, especially around bullying.
 
-We drew a printable [the cross coloring page](/printables/bible-coloring-pages/the-cross) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [the cross coloring page](/printables/bible-coloring-pages/the-cross) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## How Do You Handle Forgiveness in Sibling Fights?
 

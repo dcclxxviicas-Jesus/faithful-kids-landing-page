@@ -60,13 +60,13 @@ Should you pray before opening presents? Yes -- but keep it to twenty seconds, b
 (Because it happens, and it's better prayed about than shamed.)
 "Dear God, sometimes Christmas doesn't feel the way I hoped. Thank You for loving me on my excited days and my disappointed days. Help me be thankful for what I have and remember that Your love is the gift that never gets returned. Amen."
 
-Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season: no email wall, no sign-up.
 
-Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day — free, no sign-up.
+Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day: free, no sign-up.
 
-Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+Everything we have for the season: Advent devotions, the nativity story, trivia, printables, is gathered on the [Christmas Bible hub](/holidays/christmas).
 
-For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2: playable online or printed, answer key included.
 
 ## Thank-You-for-Jesus Prayers Kids Can Say On Their Own
 

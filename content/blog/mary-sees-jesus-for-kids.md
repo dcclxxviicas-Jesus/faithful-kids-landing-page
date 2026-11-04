@@ -25,13 +25,13 @@ Mary Sees Jesus is a Bible story from Matthew/Luke/Acts in the New Testament. Th
 
 ## What Is the Story of Mary Sees Jesus for Kids?
 
-HE IS RISEN — Episode 2: Mary Sees Jesus Based on John 20:11-18 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN,  Episode 2: Mary Sees Jesus Based on John 20:11-18 Series: He Is Risen | Target Age: 7-15
 
-After everything that happened at the tomb, most people had run off — to tell the news, to figure out what was going on. But one person stayed. Mary Magdalene. And she was crying.
+After everything that happened at the tomb, most people had run off, to tell the news, to figure out what was going on. But one person stayed. Mary Magdalene. And she was crying.
 
-See, Mary had been one of my closest followers. I had set her free from terrible darkness — seven demons had tormented her, and I cast every one of them out. She had been with me through my ministry, through the cross, through it all. And now she stood outside the empty tomb, heartbroken, because she thought someone had stolen my body.
+See, Mary had been one of my closest followers. I had set her free from terrible darkness, seven demons had tormented her, and I cast every one of them out. She had been with me through my ministry, through the cross, through it all. And now she stood outside the empty tomb, heartbroken, because she thought someone had stolen my body.
 
-She bent down and looked inside the tomb. Two angels in white were sitting there — one where my head had been, one where my feet had been. They asked her, "Woman, why are you crying?"
+She bent down and looked inside the tomb. Two angels in white were sitting there, one where my head had been, one where my feet had been. They asked her, "Woman, why are you crying?"
 
 This story comes from Matthew/Luke/Acts and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of Mary Sees Jesus teaches children important lessons about resurrecti
 
 ## Key Bible Verse
 
-> *"I am the Lord's servant. May your word to me be fulfilled."* — Luke 1:38
+> *"I am the Lord's servant. May your word to me be fulfilled."* (Luke 1:38)
 
 If small hands need something to do while you read, the free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) is made for exactly that.
 
@@ -67,7 +67,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus say that made Mary recognize Him?
 
-**"Mary" — He spoke her name.** Jesus said just one word — her name — and she instantly knew His voice.
+**"Mary", He spoke her name.** Jesus said just one word, her name, and she instantly knew His voice.
 
 ### What did Mary call Jesus when she recognized Him?
 
@@ -75,7 +75,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Why is it significant that Jesus appeared to Mary first?
 
-**In that culture, a woman's testimony was not accepted in court — yet Jesus chose her voice to announce His resurrection first.** The world said her voice did not count, but Jesus chose her to be the very first person to see Him risen and to announce the greatest news in history.
+**In that culture, a woman's testimony was not accepted in court, yet Jesus chose her voice to announce His resurrection first.** The world said her voice did not count, but Jesus chose her to be the very first person to see Him risen and to announce the greatest news in history.
 
 ## Discussion Questions for Families
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Mary Sees Jesus about for kids?
 
-Mary Sees Jesus is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 2: Mary Sees Jesus Based on John 20:11-18 Series: He Is Risen | Target Age: 7-15
+Mary Sees Jesus is a story from Matthew/Luke/Acts. HE IS RISEN,  Episode 2: Mary Sees Jesus Based on John 20:11-18 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of Mary Sees Jesus appropriate for?
 

@@ -23,11 +23,11 @@ The Baptism of Jesus is a Bible story from Matthew 3:13-17 in the New Testament.
 
 ## What Is the Story of The Baptism of Jesus for Kids?
 
-Welcome to the final episode of our Birth of Jesus series. We saved the best for last — because what happens here changed everything.
+Welcome to the final episode of our Birth of Jesus series. We saved the best for last, because what happens here changed everything.
 
 After eighteen years of growing up in Nazareth, it was finally time. I walked to the Jordan River, where my cousin John was baptizing crowds of people.
 
-The moment John saw me, his eyes went wide: "Wait — YOU'RE coming to ME? I need to be baptized by YOU!"
+The moment John saw me, his eyes went wide: "Wait, YOU'RE coming to ME? I need to be baptized by YOU!"
 
 He'd spent his whole life telling people someone greater was coming. And now that someone was stepping into the water right in front of him.
 
@@ -43,9 +43,9 @@ The story of The Baptism of Jesus teaches children important lessons about hope,
 
 ## Key Bible Verse
 
-> *"This is my Son, whom I love; with him I am well pleased."* — Matthew 3:17
+> *"This is my Son, whom I love; with him I am well pleased."* (Matthew 3:17)
 
-Older kids who find coloring dull usually take to the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) instead — it plays in the browser or prints on one sheet.
+Older kids who find coloring dull usually take to the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) instead, it plays in the browser or prints on one sheet.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What did John the Baptist say when Jesus came to be baptized?
 
-John recognized that Jesus was far greater than him and felt unworthy to baptize the Son of God. He believed it should be the other way around — that Jesus should baptize him.
+John recognized that Jesus was far greater than him and felt unworthy to baptize the Son of God. He believed it should be the other way around, that Jesus should baptize him.
 
 ### What happened immediately after Jesus came up out of the water?
 
-Three miraculous things happened at once — the heavens split open, the Spirit of God came down like a dove and rested on Jesus, and God the Father spoke from heaven, declaring Jesus as His beloved Son.
+Three miraculous things happened at once, the heavens split open, the Spirit of God came down like a dove and rested on Jesus, and God the Father spoke from heaven, declaring Jesus as His beloved Son.
 
 ### What did the voice from heaven say about Jesus?
 
-God the Father declared His love and approval over Jesus before Jesus had begun any of His public ministry — showing that identity and love come before achievement, not because of it.
+God the Father declared His love and approval over Jesus before Jesus had begun any of His public ministry, showing that identity and love come before achievement, not because of it.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Baptism of Jesus about for kids?
 
-The Baptism of Jesus is a story from Matthew 3:13-17. Welcome to the final episode of our Birth of Jesus series. We saved the best for last — because what happens here changed everything.
+The Baptism of Jesus is a story from Matthew 3:13-17. Welcome to the final episode of our Birth of Jesus series. We saved the best for last, because what happens here changed everything.
 
 ### What age is the story of The Baptism of Jesus appropriate for?
 

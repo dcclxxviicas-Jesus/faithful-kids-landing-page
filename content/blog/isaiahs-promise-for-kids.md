@@ -23,13 +23,13 @@ Isaiah's Promise is a Bible story from Daniel/Jonah/Isaiah in the Old Testament.
 
 ## What Is the Story of Isaiah's Promise for Kids?
 
-EXILE & FAITH — EPISODE 10: ISAIAH'S PROMISE Based on Isaiah 7, 9, 11, 53 | Narrated by Jesus
+EXILE & FAITH, EPISODE 10: ISAIAH'S PROMISE Based on Isaiah 7, 9, 11, 53 | Narrated by Jesus
 
-Alright — this is the last episode of this series, and I saved the most personal one for last. Because this one? This one is about Me. And it was written hundreds of years before I was born.
+Alright, this is the last episode of this series, and I saved the most personal one for last. Because this one? This one is about Me. And it was written hundreds of years before I was born.
 
-The prophet Isaiah lived during some of the darkest days of Israel and Judah. Enemies closing in. Kings failing. And in the middle of that chaos, God gave Isaiah visions of the future — promises so specific that when they happened, there would be zero doubt God planned it all along.
+The prophet Isaiah lived during some of the darkest days of Israel and Judah. Enemies closing in. Kings failing. And in the middle of that chaos, God gave Isaiah visions of the future, promises so specific that when they happened, there would be zero doubt God planned it all along.
 
-Isaiah writes: "The virgin will conceive and give birth to a son, and will call him Immanuel" — which means "God with us."
+Isaiah writes: "The virgin will conceive and give birth to a son, and will call him Immanuel", which means "God with us."
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Isaiah's Promise teaches children important lessons about courage, 
 
 ## Key Bible Verse
 
-> *"For unto us a child is born, unto us a son is given."* — Isaiah 9:6
+> *"For unto us a child is born, unto us a son is given."* (Isaiah 9:6)
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What does the name "Immanuel" mean?
 
-Isaiah prophesied that a virgin would give birth to a son called Immanuel, which means "God with us" — a promise that God Himself would come to be among His people.
+Isaiah prophesied that a virgin would give birth to a son called Immanuel, which means "God with us", a promise that God Himself would come to be among His people.
 
 ### Which of these is NOT one of the names Isaiah gave to the promised child?
 
@@ -65,7 +65,7 @@ Isaiah 9 names the child Wonderful Counselor, Mighty God, Everlasting Father, an
 
 ### What does Isaiah 53 describe about the coming servant?
 
-Isaiah 53 describes a servant who would be despised, rejected, pierced for our transgressions, and crushed for our sins — and that by his wounds, we would be healed. Jesus fulfilled every detail of this prophecy.
+Isaiah 53 describes a servant who would be despised, rejected, pierced for our transgressions, and crushed for our sins, and that by his wounds, we would be healed. Jesus fulfilled every detail of this prophecy.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Isaiah's Promise about for kids?
 
-Isaiah's Promise is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 10: ISAIAH'S PROMISE Based on Isaiah 7, 9, 11, 53 | Narrated by Jesus
+Isaiah's Promise is a story from Daniel/Jonah/Isaiah. EXILE & FAITH, EPISODE 10: ISAIAH'S PROMISE Based on Isaiah 7, 9, 11, 53 | Narrated by Jesus
 
 ### What age is the story of Isaiah's Promise appropriate for?
 

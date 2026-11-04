@@ -47,7 +47,7 @@ Keep it one-handed and crumb-friendly -- popcorn, grapes, and cookies beat anyth
 
 If you homeschool, the [free homeschool Bible curriculum page](/homeschool) lays out how the lessons work as a daily Bible block, in order.
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
 ## Round 1: Kids Round (10 Questions)
 

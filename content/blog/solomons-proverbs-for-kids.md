@@ -23,13 +23,13 @@ Solomon's Proverbs is a Bible story from 1 Kings in the Old Testament. This rete
 
 ## What Is the Story of Solomon's Proverbs for Kids?
 
-SOLOMON & THE KINGDOM — Episode 6: Solomon's Proverbs Bible Reference: Proverbs (selected passages) Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM, Episode 6: Solomon's Proverbs Bible Reference: Proverbs (selected passages) Series: Solomon & the Kingdom
 
-Hey — welcome back! Here's something wild: Solomon didn't just USE his wisdom — he wrote it down. Over three THOUSAND proverbs! And these aren't dusty old sayings. These are God's cheat codes for life. Let me walk you through the greatest hits.
+Hey, welcome back! Here's something wild: Solomon didn't just USE his wisdom, he wrote it down. Over three THOUSAND proverbs! And these aren't dusty old sayings. These are God's cheat codes for life. Let me walk you through the greatest hits.
 
-First — Proverbs 3:5-6. "Trust in the Lord with all your heart, and lean not on your own understanding. In all your ways acknowledge Him, and He will make your paths straight." You know that feeling when you're facing a big decision and you have no idea what to do? This proverb says — don't rely only on what YOU think. Bring it to God. He sees what you can't.
+First, Proverbs 3:5-6. "Trust in the Lord with all your heart, and lean not on your own understanding. In all your ways acknowledge Him, and He will make your paths straight." You know that feeling when you're facing a big decision and you have no idea what to do? This proverb says, don't rely only on what YOU think. Bring it to God. He sees what you can't.
 
-Next — Proverbs 9:10. "The fear of the Lord is the beginning of wisdom." Now "fear" here doesn't mean being scared of God like He's a monster. It means deep respect — standing in awe of how powerful and good He is. THAT's where real wisdom starts. Not with straight A's or followers. It starts with knowing God.
+Next, Proverbs 9:10. "The fear of the Lord is the beginning of wisdom." Now "fear" here doesn't mean being scared of God like He's a monster. It means deep respect, standing in awe of how powerful and good He is. THAT's where real wisdom starts. Not with straight A's or followers. It starts with knowing God.
 
 This story comes from 1 Kings and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Solomon's Proverbs teaches children important lessons about wisdom,
 
 ## Key Bible Verse
 
-> *"Give your servant a discerning heart to govern your people."* — 1 Kings 3:9
+> *"Give your servant a discerning heart to govern your people."* (1 Kings 3:9)
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### According to Proverbs 3:5-6, what should you do instead of leaning on your own understanding?
 
-Proverbs 3:5-6 tells us to trust in the Lord with all our heart and acknowledge Him in all our ways — and He will make our paths straight. God sees what we can't, so trusting Him is always the wisest move.
+Proverbs 3:5-6 tells us to trust in the Lord with all our heart and acknowledge Him in all our ways, and He will make our paths straight. God sees what we can't, so trusting Him is always the wisest move.
 
 ### What does "the fear of the Lord" mean in Proverbs 9:10?
 
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Solomon's Proverbs about for kids?
 
-Solomon's Proverbs is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 6: Solomon's Proverbs Bible Reference: Proverbs (selected passages) Series: Solomon & the Kingdom
+Solomon's Proverbs is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 6: Solomon's Proverbs Bible Reference: Proverbs (selected passages) Series: Solomon & the Kingdom
 
 ### What age is the story of Solomon's Proverbs appropriate for?
 

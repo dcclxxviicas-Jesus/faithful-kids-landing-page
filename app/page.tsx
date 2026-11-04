@@ -80,7 +80,7 @@ const FAQS = [
   // the app enforces it (verified Oct 18, 2026 — daily_episode_limit is written
   // and displayed, never read by any playback surface). Same for auto-play-next.
   // Do not claim either until the app actually enforces them.
-  { q: 'Can I set screen time limits?', a: 'There is no built-in daily timer. In practice it is rarely missed: each lesson runs about two minutes and ends with a quiz and reflection, which is a natural stopping point — no ads, no algorithm, no endless feed. For hard limits, Screen Time on Apple devices and Family Link on Android work with Faithful Kids like any other app.' },
+  { q: 'Can I set screen time limits?', a: 'There is no built-in daily timer. In practice it is rarely missed: each lesson runs about two minutes and ends with a quiz and reflection, which is a natural stopping point, no ads, no algorithm, no endless feed. For hard limits, Screen Time on Apple devices and Family Link on Android work with Faithful Kids like any other app.' },
   { q: 'Which denomination is the content for?', a: 'Our core Bible stories (David & Goliath, Noah, the Good Samaritan, the Nativity) are told faithfully to Scripture and resonate across Christian traditions. Catholic, Evangelical, and Non-denominational families all use it.' },
   { q: 'Is the content doctrinally accurate?', a: 'Every story is retold from the Bible text itself, with the scripture reference on screen so you can check it against the original. We simplify the language for children without changing the meaning, and we stay on the narrative all Christian traditions share. If you find something that is not right, email christian@faithfulkids.app and we fix it.' },
   { q: 'What devices does it work on?', a: 'Any device with a web browser: iPhone, iPad, Android phones and tablets, laptops, and desktops. There is nothing to install: kids sign in at app.faithfulkids.app and watch. If you prefer an app, there is one on the App Store and on Google Play.' },
@@ -111,7 +111,7 @@ export default function Home() {
       name: `${s.title}: Bible Story for Kids`,
       // The blurbs are shared with the blog and the quiz, so they are not
       // edited at source; this page just does not print em dashes.
-      description: s.blurb.replace(/\s*—\s*/g, ': '),
+      description: s.blurb.replace(/\s*, \s*/g, ': '),
       thumbnailUrl: s.poster,
       contentUrl: s.src,
       uploadDate: '2026-04-01',

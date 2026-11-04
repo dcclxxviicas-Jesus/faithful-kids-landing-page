@@ -25,13 +25,13 @@ The Writing on the Wall is a Bible story from Daniel/Jonah/Isaiah in the Old Tes
 
 ## What Is the Story of The Writing on the Wall for Kids?
 
-EXILE & FAITH — EPISODE 5: THE WRITING ON THE WALL Based on Daniel 5 | Narrated by Jesus
+EXILE & FAITH: EPISODE 5: THE WRITING ON THE WALL Based on Daniel 5 | Narrated by Jesus
 
-Alright — this story is intense. It's got a wild party, stolen sacred objects, a floating hand, mysterious writing, and a kingdom that falls in a single night. Ready?
+Alright, this story is intense. It's got a wild party, stolen sacred objects, a floating hand, mysterious writing, and a kingdom that falls in a single night. Ready?
 
 Years have passed. Nebuchadnezzar is gone. His grandson Belshazzar is now king of Babylon. And Belshazzar? He hasn't learned a THING from his grandfather's story.
 
-One night, Belshazzar throws an enormous party. A thousand of his nobles are there — drinking, feasting, celebrating. And then Belshazzar does something absolutely reckless. He orders his servants to bring out the gold and silver cups that were stolen from God's Temple in Jerusalem. The SACRED vessels — the ones set apart for worshiping the one true God.
+One night, Belshazzar throws an enormous party. A thousand of his nobles are there, drinking, feasting, celebrating. And then Belshazzar does something absolutely reckless. He orders his servants to bring out the gold and silver cups that were stolen from God's Temple in Jerusalem. The SACRED vessels, the ones set apart for worshiping the one true God.
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of The Writing on the Wall teaches children important lessons about co
 
 ## Key Bible Verse
 
-> *"You have been weighed on the scales and found wanting."* — Daniel 5:27
+> *"You have been weighed on the scales and found wanting."* (Daniel 5:27)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -65,7 +65,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What were the words written on the wall?
 
-**MENE, MENE, TEKEL, UPHARSIN.** The hand wrote MENE, MENE, TEKEL, UPHARSIN — a divine message of judgment against King Belshazzar.
+**MENE, MENE, TEKEL, UPHARSIN.** The hand wrote MENE, MENE, TEKEL, UPHARSIN, a divine message of judgment against King Belshazzar.
 
 ### What did the word TEKEL mean?
 
@@ -73,7 +73,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**There's a point where arrogance meets accountability — how you treat what's sacred matters.** There is a point where arrogance meets accountability. How you treat what is sacred and what God has given you matters deeply. God sees everything.
+**There's a point where arrogance meets accountability; how you treat what's sacred matters.** There is a point where arrogance meets accountability. How you treat what is sacred and what God has given you matters deeply. God sees everything.
 
 ## Discussion Questions for Families
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Writing on the Wall about for kids?
 
-The Writing on the Wall is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 5: THE WRITING ON THE WALL Based on Daniel 5 | Narrated by Jesus
+The Writing on the Wall is a story from Daniel/Jonah/Isaiah. EXILE & FAITH; EPISODE 5: THE WRITING ON THE WALL Based on Daniel 5 | Narrated by Jesus
 
 ### What age is the story of The Writing on the Wall appropriate for?
 

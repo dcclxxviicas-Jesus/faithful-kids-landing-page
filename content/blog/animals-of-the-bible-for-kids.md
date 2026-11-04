@@ -30,7 +30,7 @@ Just as Abraham is about to sacrifice Isaac, God stops him -- and there in a thi
 
 **Fun fact:** Rams' horns became instruments -- the shofar, a trumpet made from a ram's horn, was blown as the Israelites marched around Jericho (Joshua 6:4).
 
-Pair this with our free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark), one sheet, ready for the kitchen table or the classroom.
 
 ## 4. The Frogs -- The Plague That Hopped Into Everything
 

@@ -64,13 +64,13 @@ If small hands need something to do while you read, the free [empty tomb colorin
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
-For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2, playable online or printed, answer key included.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
 The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
 
-If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
 ## Lesson 3: The Journey to Bethlehem (Mary and Joseph Travel)
 

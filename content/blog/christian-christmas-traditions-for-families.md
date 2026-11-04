@@ -78,9 +78,9 @@ Each child opens exactly one gift on Christmas Eve: a box containing new pajamas
 
 **How to start:** Assemble one box per kid: pajamas, a book, cocoa packet, maybe a candy cane. Open after dinner, change into the pajamas, make the cocoa, and roll straight into the Luke 2 reading (#6). The box becomes the on-ramp to the most sacred night of the tradition calendar.
 
-For the season, we keep a set of free [Christmas coloring pages](/printables/christmas-coloring-pages) — print as many as your class needs.
+For the season, we keep a set of free [Christmas coloring pages](/printables/christmas-coloring-pages), print as many as your class needs.
 
-Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar) — 25 short readings from the first promise to the manger, one a night.
+Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar), 25 short readings from the first promise to the manger, one a night.
 
 For the rest of the season, our [Christmas hub](/holidays/christmas) collects every Advent and nativity resource in one place.
 

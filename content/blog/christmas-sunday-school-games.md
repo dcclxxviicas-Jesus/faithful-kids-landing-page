@@ -84,15 +84,15 @@ Yes -- and they usually land better than a white elephant swap, because they tur
 ### 20. Gift for Jesus Box
 **Ages 4-11. Materials: a wrapped box with a slot, paper strips. Prep: 10 minutes.** Each kid writes or draws one thing they will give Jesus this year -- patience with a sibling, a shared toy, a kind word -- and posts it in the box. Read a handful aloud anonymously. **Lesson tie-in:** Romans 12:1, offering ourselves as a gift. This is the quiet game that ends a loud party well.
 
-Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+Everything we have for the season: Advent devotions, the nativity story, trivia, printables, is gathered on the [Christmas Bible hub](/holidays/christmas).
 
 Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser, no sign-up.
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring: put it on a TV and host it like the real thing.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible): grouped the way the Bible groups them, which is the actual memory trick.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out: four to a sheet, no sign-up.
 
 ## How Do You Run a Christmas Class That Isn't Chaos?
 

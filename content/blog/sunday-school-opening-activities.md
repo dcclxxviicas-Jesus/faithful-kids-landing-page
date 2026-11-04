@@ -64,7 +64,7 @@ Tell three short statements about a Bible character -- two true, one false -- an
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
-If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
 ## Opening Songs (10-12)
 
@@ -117,7 +117,7 @@ One more tip: openers work even better when they connect to what kids are learni
 
 When you want zero setup, our [online Bible trivia for kids](/bible-trivia) is one tap and always ready to go.
 
-Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
+Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this, each page names the scripture it comes from.
 
 For a quieter activity, our [Bible word search puzzles](/printables/bible-word-search) hide twelve words from one story in each grid.
 

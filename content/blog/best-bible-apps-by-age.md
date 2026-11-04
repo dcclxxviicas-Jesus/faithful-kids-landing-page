@@ -58,7 +58,7 @@ The Duolingo-style gamification -- XP points, levels, streaks, and achievements 
 
 ## Best Bible Apps for Kids Ages 7 to 10
 
-The 7-to-10 band straddles the two sections above, and it is where most families switch apps: picture-book apps feel babyish by 7, while text-heavy apps are still two years away. For ages 7 to 10 the strongest fits are Faithful Kids (video lessons with a quiz after every story — the structure this age responds to best) and Superbook's free animated episodes for entertainment time. If your child is 7 and still enjoying Bible App for Kids, there is no rush — but by 8 or 9 most kids need the next step up.
+The 7-to-10 band straddles the two sections above, and it is where most families switch apps: picture-book apps feel babyish by 7, while text-heavy apps are still two years away. For ages 7 to 10 the strongest fits are Faithful Kids (video lessons with a quiz after every story, the structure this age responds to best) and Superbook's free animated episodes for entertainment time. If your child is 7 and still enjoying Bible App for Kids, there is no rush, but by 8 or 9 most kids need the next step up.
 
 ## Ages 9-12: Deep Learning and Independence
 
@@ -141,7 +141,7 @@ Whether your child is 7 or 15, Faithful Kids meets them where they are. Start yo
 
 For the streaming side of the decision, our [Minno review](/blog/minno-review) and [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) comparison cover the entertainment platforms in depth.
 
-For the full details on our own iOS app — features, pricing, ages — see the [Faithful Kids app](/blog/faithful-kids-app) page.
+For the full details on our own iOS app, features, pricing, ages, see the [Faithful Kids app](/blog/faithful-kids-app) page.
 
 If you'd rather not switch apps at every age band, see [Christian apps that grow with your child from 5 to 15](/blog/christian-apps-that-grow-with-your-child); for coverage, [apps that take kids through the whole Bible in order](/blog/bible-apps-whole-bible-in-order-for-kids).
 

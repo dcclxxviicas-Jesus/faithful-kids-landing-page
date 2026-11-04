@@ -58,13 +58,13 @@ That is it. Ten minutes. You can always add time later as the habit solidifies. 
 Do not start in Romans. Do not start with theology. Start with stories. Children are wired for narrative. They learn through characters, conflict, and resolution. The Bible is the greatest story ever told, and your job is to let them experience it as a story first. The theology will follow naturally. Our roundup of [best-loved Bible stories for kids](/blog/best-bible-stories-for-kids) gives you a ready-made menu.
 
 Good starting points:
-- **Creation** (Genesis 1-2) — God made everything, including them
-- **Noah** (Genesis 6-9) — God keeps His promises
-- **David and Goliath** (1 Samuel 17) — God gives courage
-- **Jonah** (Jonah 1-3) — You cannot hide from God
-- **The birth of Jesus** (Luke 2) — God's biggest gift
-- **Jesus feeds 5,000** (John 6:1-14) — God does big things with small offerings
-- **The Good Samaritan** (Luke 10:25-37) — Love your neighbor
+- **Creation** (Genesis 1-2), God made everything, including them
+- **Noah** (Genesis 6-9), God keeps His promises
+- **David and Goliath** (1 Samuel 17), God gives courage
+- **Jonah** (Jonah 1-3), You cannot hide from God
+- **The birth of Jesus** (Luke 2), God's biggest gift
+- **Jesus feeds 5,000** (John 6:1-14), God does big things with small offerings
+- **The Good Samaritan** (Luke 10:25-37), Love your neighbor
 
 ### Step 4: Ask Questions, Do Not Lecture
 

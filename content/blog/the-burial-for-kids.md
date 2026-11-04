@@ -25,13 +25,13 @@ The Burial is a Bible story from Matthew/Mark/Luke/John in the New Testament. Th
 
 ## What Is the Story of The Burial for Kids?
 
-THE ROAD TO THE CROSS — Episode 10: The Burial Based on Matthew 27:57-66 and John 19:38-42 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS, Episode 10: The Burial Based on Matthew 27:57-66 and John 19:38-42 Series: The Road to the Cross | Target audience: Ages 7-15
 
 The crowds drifted away. The soldiers pulled out the nails and took my body down from the cross. My mother held me one last time. The sky was still heavy, like the whole earth was holding its breath.
 
-Then a man stepped forward — someone most people didn't expect.
+Then a man stepped forward, someone most people didn't expect.
 
-His name was Joseph, from a town called Arimathea. He was rich. He was powerful. He was a member of the Jewish council — the same council that had just condemned me. But Joseph had never agreed with what they did. He had been my follower in secret, too afraid to say it out loud. Until now.
+His name was Joseph, from a town called Arimathea. He was rich. He was powerful. He was a member of the Jewish council, the same council that had just condemned me. But Joseph had never agreed with what they did. He had been my follower in secret, too afraid to say it out loud. Until now.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Burial teaches children important lessons about sacrifice, love
 
 ## Key Bible Verse
 
-> *"Joseph took the body, wrapped it in a clean linen cloth."* — Matthew 27:59
+> *"Joseph took the body, wrapped it in a clean linen cloth."* (Matthew 27:59)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**Sometimes you're living in Saturday.** It feels like the end. The pain is real. But Sunday is coming — and when it does, it changes everything. The story is never over with God.
+**Sometimes you're living in Saturday.** It feels like the end. The pain is real. But Sunday is coming, and when it does, it changes everything. The story is never over with God.
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Burial about for kids?
 
-The Burial is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 10: The Burial Based on Matthew 27:57-66 and John 19:38-42 Series: The Road to the Cross | Target audience: Ages 7-15
+The Burial is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS, Episode 10: The Burial Based on Matthew 27:57-66 and John 19:38-42 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of The Burial appropriate for?
 

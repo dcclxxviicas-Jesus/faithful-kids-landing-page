@@ -25,11 +25,11 @@ The Last Supper is a Bible story from Matthew/Mark/Luke/John in the New Testamen
 
 ## What Is the Story of The Last Supper for Kids?
 
-THE ROAD TO THE CROSS — Episode 3: The Last Supper Based on Matthew 26:17-30 and John 13:1-17 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS, Episode 3: The Last Supper Based on Matthew 26:17-30 and John 13:1-17 Series: The Road to the Cross | Target audience: Ages 7-15
 
 The night I'm about to tell you about was the most important dinner in the history of the world. And it started with me on my knees.
 
-It was Thursday evening. Passover. My disciples and I gathered in a borrowed upper room in Jerusalem. The city was buzzing with festival noise, but in that room, it was just us — thirteen men around a low table, oil lamps flickering, the smell of roasted lamb and unleavened bread filling the air.
+It was Thursday evening. Passover. My disciples and I gathered in a borrowed upper room in Jerusalem. The city was buzzing with festival noise, but in that room, it was just us, thirteen men around a low table, oil lamps flickering, the smell of roasted lamb and unleavened bread filling the air.
 
 They didn't know it was our last meal together.
 
@@ -45,9 +45,9 @@ The story of The Last Supper teaches children important lessons about sacrifice,
 
 ## Key Bible Verse
 
-> *"Do this in remembrance of me."* — Luke 22:19
+> *"Do this in remembrance of me."* (Luke 22:19)
 
-Our free [Easter coloring pages](/printables/easter-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+Our free [Easter coloring pages](/printables/easter-coloring-pages) are ready to print for the season, no email wall, no sign-up.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -79,7 +79,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**True leadership serves.** Jesus showed that real greatness isn't about power or position. It's about kneeling down and serving others — even the ones who will let you down.
+**True leadership serves.** Jesus showed that real greatness isn't about power or position. It's about kneeling down and serving others, even the ones who will let you down.
 
 ## Discussion Questions for Families
 
@@ -118,7 +118,7 @@ If your class needs something to do with their hands, there is a [Last Supper co
 
 ### What is the story of The Last Supper about for kids?
 
-The Last Supper is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 3: The Last Supper Based on Matthew 26:17-30 and John 13:1-17 Series: The Road to the Cross | Target audience: Ages 7-15
+The Last Supper is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS, Episode 3: The Last Supper Based on Matthew 26:17-30 and John 13:1-17 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of The Last Supper appropriate for?
 

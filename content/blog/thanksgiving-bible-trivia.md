@@ -36,7 +36,7 @@ That's what makes this trivia set work in November: every question doubles as a 
 14. What did the shepherds do on their way home after seeing baby Jesus? **They returned glorifying and praising God** (Luke 2:20)
 15. At which feast did the Israelites camp out in little shelters for a week to remember how God took care of them? **The Feast of Tabernacles, or Booths** (Leviticus 23:42-43)
 
-For a quieter round, print the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving) — twelve Psalm-100 gratitude words, answer key included.
+For a quieter round, print the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving), twelve Psalm-100 gratitude words, answer key included.
 
 ## Medium Thanksgiving Bible Trivia (Ages 9-12)
 
@@ -63,9 +63,9 @@ For a quieter round, print the free [Thanksgiving word search](/printables/bible
 
 For the whole season's worth, our [Thanksgiving hub](/holidays/thanksgiving) gathers every gratitude verse list, devotion, and activity in one place.
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
 ## Hard Thanksgiving Bible Trivia (Teens and Adults)
 

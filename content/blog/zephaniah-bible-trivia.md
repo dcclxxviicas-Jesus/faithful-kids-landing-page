@@ -40,9 +40,9 @@ One timeline fact makes great bonus trivia: Zephaniah preached in the same gener
 
 6. Does the book of Zephaniah end with sadness or with joy? **Joy -- singing, celebration, and God bringing his people home** (Zephaniah 3:14-20)
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer; built for Sunday school and youth group screens.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
 ## Medium Zephaniah Trivia Questions (Ages 9-12)
 

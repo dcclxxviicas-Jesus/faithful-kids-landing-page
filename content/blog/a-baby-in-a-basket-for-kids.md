@@ -43,7 +43,7 @@ The story of A Baby in a Basket teaches children important lessons about freedom
 
 ## Key Bible Verse
 
-> *"She saw the baby. He was crying, and she felt sorry for him."* — Exodus 2:6
+> *"She saw the baby. He was crying, and she felt sorry for him."* (Exodus 2:6)
 
 There is also a free set of [Easter coloring pages](/printables/easter-coloring-pages) on our site, drawn for crayons and ready to print.
 

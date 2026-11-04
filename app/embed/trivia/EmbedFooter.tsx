@@ -28,7 +28,7 @@ export function EmbedFooter({ slug }: { slug: string }) {
         Free Bible videos &amp; games for kids
       </span>
       <span className="tg-embed-invite-sub">
-        Made by Faithful Kids &mdash; see the whole thing &rarr;
+        Made by Faithful Kids, see the whole thing &rarr;
       </span>
     </a>
   )

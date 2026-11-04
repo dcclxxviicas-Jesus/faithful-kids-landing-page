@@ -56,9 +56,9 @@ When Paul went to Jerusalem, the Christians there were afraid of him. They didn'
 
 **Key lesson for kids:** When God changes us, it might take time for others to believe it. Paul's past made people suspicious. But his actions over time proved that his change was real. This is true for us too -- when we change, our consistent behavior shows people that the change is genuine.
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
-Paul's young apprentice — raised on Scripture by his mom and grandma — has his own profile: [Who Was Timothy in the Bible?](/blog/who-was-timothy-for-kids)
+Paul's young apprentice, raised on Scripture by his mom and grandma, has his own profile: [Who Was Timothy in the Bible?](/blog/who-was-timothy-for-kids)
 
 ## Missionary Journeys (Acts 13-21)
 

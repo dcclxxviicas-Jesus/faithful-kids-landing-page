@@ -23,11 +23,11 @@ Hannah's Prayer is a Bible story from 1 Samuel 1-2 in the Old Testament. This re
 
 ## What Is the Story of Hannah's Prayer for Kids?
 
-Hey friend! Today's story is about a woman who was completely heartbroken — and a prayer so raw, so desperate, so real that it changed the course of an entire nation. This is the story of Hannah.
+Hey friend! Today's story is about a woman who was completely heartbroken, and a prayer so raw, so desperate, so real that it changed the course of an entire nation. This is the story of Hannah.
 
-Hannah was married to a man named Elkanah. He loved her. But Hannah had a deep, aching pain — she couldn't have children. In that culture, not having a child wasn't just sad. It was considered a disgrace.
+Hannah was married to a man named Elkanah. He loved her. But Hannah had a deep, aching pain, she couldn't have children. In that culture, not having a child wasn't just sad. It was considered a disgrace.
 
-And to make it worse, Elkanah's other wife Peninnah HAD children. Lots of them. And she was NOT kind about it. The Bible says Peninnah provoked Hannah constantly — rubbing it in, making her feel worthless. Year after year, every time they went to worship, Peninnah twisted the knife deeper.
+And to make it worse, Elkanah's other wife Peninnah HAD children. Lots of them. And she was NOT kind about it. The Bible says Peninnah provoked Hannah constantly, rubbing it in, making her feel worthless. Year after year, every time they went to worship, Peninnah twisted the knife deeper.
 
 Hannah wept. She couldn't eat. Her heart was shattered.
 
@@ -43,11 +43,11 @@ The story of Hannah's Prayer teaches children important lessons about bravery, l
 
 ## Key Bible Verse
 
-> *"For this child I prayed, and the Lord has granted me my petition."* — 1 Samuel 1:27
+> *"For this child I prayed, and the Lord has granted me my petition."* (1 Samuel 1:27)
 
-For his whole life — the boy who heard God's voice, the last judge, the king-maker — see [Who Was Samuel in the Bible?](/blog/who-was-samuel-for-kids)
+For his whole life, the boy who heard God's voice, the last judge, the king-maker, see [Who Was Samuel in the Bible?](/blog/who-was-samuel-for-kids)
 
-She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids), the whole list, with a story and a verse for each.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -63,11 +63,11 @@ Hannah desperately wanted a child but couldn't have one. To make matters worse, 
 
 ### What happened when the priest Eli saw Hannah praying at the temple?
 
-Hannah was praying so intensely — from such a deep place of pain — that her lips moved but no words came out. Eli saw this and assumed she was drunk, but Hannah explained she was pouring her soul out to God.
+Hannah was praying so intensely, from such a deep place of pain, that her lips moved but no words came out. Eli saw this and assumed she was drunk, but Hannah explained she was pouring her soul out to God.
 
 ### What did Hannah do after God answered her prayer and gave her a son?
 
-Hannah had vowed that if God gave her a son, she would give him back to God. After Samuel was born, she kept that incredible promise — bringing her miracle child to the temple to serve the Lord for his entire life. That's extraordinary faith.
+Hannah had vowed that if God gave her a son, she would give him back to God. After Samuel was born, she kept that incredible promise, bringing her miracle child to the temple to serve the Lord for his entire life. That's extraordinary faith.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Hannah's Prayer about for kids?
 
-Hannah's Prayer is a story from 1 Samuel 1-2. Hey friend! Today's story is about a woman who was completely heartbroken — and a prayer so raw, so desperate, so real that it changed the course of an entire nation. This is the story of Hannah.
+Hannah's Prayer is a story from 1 Samuel 1-2. Hey friend! Today's story is about a woman who was completely heartbroken, and a prayer so raw, so desperate, so real that it changed the course of an entire nation. This is the story of Hannah.
 
 ### What age is the story of Hannah's Prayer appropriate for?
 

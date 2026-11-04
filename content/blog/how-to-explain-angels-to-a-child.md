@@ -38,7 +38,7 @@ Because this idea usually comes up right after a loss ("Grandma is an angel now"
 
 If the question comes bundled with bigger questions about death, our guide on [how to explain heaven to a preschooler](/blog/how-to-explain-heaven-to-a-preschooler) walks through that conversation with the same age-tiered care. (One note for older kids: Jesus said people in the resurrection will be "like the angels" -- Matthew 22:30 -- meaning like them in not marrying or dying, not that we turn into them.)
 
-Pair this with our free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary), one sheet, ready for the kitchen table or the classroom.
 
 ## How Do You Explain Angels at Every Age?
 

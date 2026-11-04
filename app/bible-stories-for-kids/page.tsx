@@ -110,7 +110,7 @@ const FAQS = [
   },
   {
     q: 'Which Bible stories teach the best lessons for children?',
-    a: 'For courage, David and Goliath, Daniel in the lions’ den, and Esther. For forgiveness, Joseph and his brothers and the prodigal son. For kindness, the good Samaritan. For honesty, Ananias and Sapphira, which is uncomfortable but memorable. The point is rarely the moral on its own, though — children remember the story and grow into the meaning.',
+    a: 'For courage, David and Goliath, Daniel in the lions’ den, and Esther. For forgiveness, Joseph and his brothers and the prodigal son. For kindness, the good Samaritan. For honesty, Ananias and Sapphira, which is uncomfortable but memorable. The point is rarely the moral on its own, though, children remember the story and grow into the meaning.',
   },
   {
     q: 'How do I explain hard Bible stories to kids?',

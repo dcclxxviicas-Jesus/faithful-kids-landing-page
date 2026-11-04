@@ -56,7 +56,7 @@ export function GiftHeroShell({ name }: { name: string }) {
         </div>
 
         <a className="btn-primary btn-hero" href="#start">
-          Start watching &mdash; it&rsquo;s free
+          Start watching, it&rsquo;s free
         </a>
         <p className="gift-hero-note">No account. No email. Nothing to cancel.</p>
       </div>

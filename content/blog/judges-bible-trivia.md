@@ -45,13 +45,13 @@ The whole book runs on one repeating cycle: Israel forgets God, an enemy conquer
 20. How did God choose which 300 men Gideon would keep? **He kept the ones who lapped water from their hands, and sent home the ones who knelt down to drink** (Judges 7:5-7)
 21. What animals did Samson tie torches to so they would burn the Philistines' grain fields? **Three hundred foxes, tied tail to tail** (Judges 15:4-5)
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
-For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land, printable, with the story behind the division.
 
-For the full picture of her life — the palm tree courtroom, the battle, and the victory song — see [Who Was Deborah in the Bible?](/blog/who-was-deborah-for-kids)
+For the full picture of her life, the palm tree courtroom, the battle, and the victory song, see [Who Was Deborah in the Bible?](/blog/who-was-deborah-for-kids)
 
 ## Hard Judges Trivia Questions (Teens and Adults)
 

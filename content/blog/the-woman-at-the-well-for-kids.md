@@ -25,11 +25,11 @@ The Woman at the Well is a Bible story from Matthew/Mark/Luke/John in the New Te
 
 ## What Is the Story of The Woman at the Well for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 4 "The Woman at the Well" Based on John 4:1-42
+JESUS BEGINS HIS MINISTRY: EPISODE 4 "The Woman at the Well" Based on John 4:1-42
 
-I was tired. Like, genuinely exhausted. I'd been traveling through Samaria, and around noon — the hottest part of the day — I sat down by a well near a town called Sychar. My disciples went into town to buy food. And that's when SHE showed up.
+I was tired. Like, genuinely exhausted. I'd been traveling through Samaria, and around noon, the hottest part of the day, I sat down by a well near a town called Sychar. My disciples went into town to buy food. And that's when SHE showed up.
 
-A Samaritan woman, coming to draw water. But here's the thing — nobody came to the well at noon. Women came early in the morning or in the cool of the evening, and they came in GROUPS. She came alone, in the blazing heat, because she was avoiding everyone. This woman was an outcast. The town had rejected her. She was carrying shame like a boulder on her back.
+A Samaritan woman, coming to draw water. But here's the thing, nobody came to the well at noon. Women came early in the morning or in the cool of the evening, and they came in GROUPS. She came alone, in the blazing heat, because she was avoiding everyone. This woman was an outcast. The town had rejected her. She was carrying shame like a boulder on her back.
 
 I looked at her and said, "Will you give me a drink?"
 
@@ -45,11 +45,11 @@ The story of The Woman at the Well teaches children important lessons about call
 
 ## Key Bible Verse
 
-> *"Whoever drinks the water I give them will never thirst."* — John 4:14
+> *"Whoever drinks the water I give them will never thirst."* (John 4:14)
 
-A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances — kids can trace the journeys with a finger.
+A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances; kids can trace the journeys with a finger.
 
-She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids); the whole list, with a story and a verse for each.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -65,7 +65,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What time of day did the woman come to the well?
 
-**Noon — the hottest part of the day.**
+**Noon: the hottest part of the day.**
 
 ### What did Jesus offer the woman?
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Woman at the Well about for kids?
 
-The Woman at the Well is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 4 "The Woman at the Well" Based on John 4:1-42
+The Woman at the Well is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY: EPISODE 4 "The Woman at the Well" Based on John 4:1-42
 
 ### What age is the story of The Woman at the Well appropriate for?
 

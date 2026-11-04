@@ -54,11 +54,11 @@ The book falls into two halves. Chapters 1-18 are the rescue: Moses' birth, the 
 
 There is a free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) on our site too, printable on one sheet with no sign-up.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
-To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land — real geography, with the traditional stops labeled.
+To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land, real geography, with the traditional stops labeled.
 
 ## Hard Exodus Trivia Questions (Teens and Adults)
 

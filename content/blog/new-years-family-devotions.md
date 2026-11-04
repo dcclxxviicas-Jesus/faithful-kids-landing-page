@@ -96,7 +96,7 @@ These five devotions -- about five minutes each -- carry your family through the
 
 **Prayer:** God, plant our family by Your streams this year. Make us the slow, steady, fruitful kind of strong. Amen.
 
-To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart, honest about dates, from Creation to the early church.
 
 ## How Do You Keep the Momentum Past the First Week?
 

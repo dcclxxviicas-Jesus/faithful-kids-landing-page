@@ -10,7 +10,7 @@ dateModified: "2026-08-16"
 
 # The Fruit of the Spirit for Kids: Bible Stories for Each One
 
-"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law." — Galatians 5:22-23
+"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law." (Galatians 5:22-23)
 
 This is one of the most important passages in the entire New Testament for practical, daily Christian living. And it is perfect for kids because it gives them a concrete checklist: nine character qualities that the Holy Spirit grows in us when we follow Jesus.
 
@@ -20,7 +20,7 @@ The best way to teach these qualities to children is not through definitions. It
 
 ---
 
-## 1. Love — The Good Samaritan (Luke 10:25-37)
+## 1. Love: The Good Samaritan (Luke 10:25-37)
 
 **Kid-friendly definition:** Love means caring about someone and showing it through what you do, even when it is hard or when they are different from you.
 
@@ -32,7 +32,7 @@ The best way to teach these qualities to children is not through definitions. It
 
 ---
 
-## 2. Joy — Paul and Silas Singing in Prison (Acts 16:22-34)
+## 2. Joy: Paul and Silas Singing in Prison (Acts 16:22-34)
 
 **Kid-friendly definition:** Joy is a deep happiness that comes from knowing God is with you, even when things are not going well. Joy is different from regular happiness because it does not depend on your circumstances.
 
@@ -44,7 +44,7 @@ The best way to teach these qualities to children is not through definitions. It
 
 ---
 
-## 3. Peace — Jesus Calms the Storm (Mark 4:35-41)
+## 3. Peace, Jesus Calms the Storm (Mark 4:35-41)
 
 **Kid-friendly definition:** Peace is feeling calm and safe because you know God is in control, even when scary things are happening around you.
 
@@ -56,9 +56,9 @@ The best way to teach these qualities to children is not through definitions. It
 
 ---
 
-We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
-## 4. Patience — Abraham Waits for Isaac (Genesis 15-21)
+## 4. Patience, Abraham Waits for Isaac (Genesis 15-21)
 
 **Kid-friendly definition:** Patience is waiting without complaining, trusting that God's timing is better than yours even when the wait feels really long.
 
@@ -70,7 +70,7 @@ We drew a printable [nativity coloring page](/printables/bible-coloring-pages/na
 
 ---
 
-## 5. Kindness — Ruth and Naomi (Ruth 1-4)
+## 5. Kindness, Ruth and Naomi (Ruth 1-4)
 
 **Kid-friendly definition:** Kindness means treating people with warmth and generosity, especially when they are hurting or when you do not have to.
 
@@ -82,7 +82,7 @@ We drew a printable [nativity coloring page](/printables/bible-coloring-pages/na
 
 ---
 
-## 6. Goodness — The Boy Who Shared His Lunch (John 6:1-14)
+## 6. Goodness, The Boy Who Shared His Lunch (John 6:1-14)
 
 **Kid-friendly definition:** Goodness is doing the right thing and being generous with what you have, even when no one is watching or asking you to.
 
@@ -94,7 +94,7 @@ We drew a printable [nativity coloring page](/printables/bible-coloring-pages/na
 
 ---
 
-## 7. Faithfulness — Daniel's Daily Prayers (Daniel 6:1-10)
+## 7. Faithfulness, Daniel's Daily Prayers (Daniel 6:1-10)
 
 **Kid-friendly definition:** Faithfulness means keeping your promises and staying loyal to God and to the people you love, day after day, even when it is hard.
 
@@ -106,7 +106,7 @@ We drew a printable [nativity coloring page](/printables/bible-coloring-pages/na
 
 ---
 
-## 8. Gentleness — Jesus and the Children (Mark 10:13-16)
+## 8. Gentleness, Jesus and the Children (Mark 10:13-16)
 
 **Kid-friendly definition:** Gentleness means being soft and careful with people, especially people who are smaller, younger, or weaker than you.
 
@@ -118,7 +118,7 @@ We drew a printable [nativity coloring page](/printables/bible-coloring-pages/na
 
 ---
 
-## 9. Self-Control — Jesus Tempted in the Desert (Matthew 4:1-11)
+## 9. Self-Control, Jesus Tempted in the Desert (Matthew 4:1-11)
 
 **Kid-friendly definition:** Self-control means choosing to do what is right even when you really want to do something wrong. It is being the boss of your own actions.
 

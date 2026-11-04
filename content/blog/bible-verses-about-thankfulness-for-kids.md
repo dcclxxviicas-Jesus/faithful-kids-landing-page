@@ -32,7 +32,7 @@ This verse paints a picture of coming to God with a thankful heart. Imagine walk
 
 **How to talk about it with kids:** Before prayer time, encourage your kids to start by saying "thank you" to God before asking for anything. This simple habit builds a grateful heart over time.
 
-Turn the theme into an activity with the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving) — twelve gratitude words hidden in the grid.
+Turn the theme into an activity with the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving); twelve gratitude words hidden in the grid.
 
 ## 3. Colossians 3:15
 
@@ -46,7 +46,7 @@ For quiet time afterwards, print the free [the cross coloring page](/printables/
 
 For the whole season's worth, our [Thanksgiving hub](/holidays/thanksgiving) gathers every gratitude verse list, devotion, and activity in one place.
 
-For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines, ready for a class exchange.
 
 ## 4. Psalm 107:1
 

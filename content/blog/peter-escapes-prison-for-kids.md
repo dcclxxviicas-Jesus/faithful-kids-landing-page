@@ -23,13 +23,13 @@ Peter Escapes Prison is a Bible story from Acts in the New Testament. This retel
 
 ## What Is the Story of Peter Escapes Prison for Kids?
 
-THE EARLY CHURCH — EPISODE 8: PETER ESCAPES PRISON Based on Acts 12:1-19 Series: The Early Church | Episode 8 of 10 Target audience: Kids ages 7-15
+THE EARLY CHURCH, EPISODE 8: PETER ESCAPES PRISON Based on Acts 12:1-19 Series: The Early Church | Episode 8 of 10 Target audience: Kids ages 7-15
 
-Okay — this story is action-packed AND hilarious. You're going to love it.
+Okay, this story is action-packed AND hilarious. You're going to love it.
 
-King Herod had started attacking my church. He arrested Peter, threw him in prison, and chained him between two soldiers. Two MORE soldiers guarded the door. Four squads — sixteen men total — assigned to guard one fisherman.
+King Herod had started attacking my church. He arrested Peter, threw him in prison, and chained him between two soldiers. Two MORE soldiers guarded the door. Four squads, sixteen men total, assigned to guard one fisherman.
 
-But while Peter sat in chains, the church prayed. Not casually. The Bible says they prayed EARNESTLY — all night long.
+But while Peter sat in chains, the church prayed. Not casually. The Bible says they prayed EARNESTLY, all night long.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of Peter Escapes Prison teaches children important lessons about commu
 
 ## Key Bible Verse
 
-> *"The Lord sent his angel and rescued me."* — Acts 12:11
+> *"The Lord sent his angel and rescued me."* (Acts 12:11)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,7 +55,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How was Peter secured in prison?
 
-King Herod wasn't taking any chances. Peter was chained between two soldiers, with two more standing guard at the door — and four squads (sixteen soldiers total) were assigned to watch him. But no amount of human security can stop God's plan.
+King Herod wasn't taking any chances. Peter was chained between two soldiers, with two more standing guard at the door, and four squads (sixteen soldiers total) were assigned to watch him. But no amount of human security can stop God's plan.
 
 ### What was Peter doing the night the angel came to rescue him?
 
@@ -63,7 +63,7 @@ Peter was sound asleep the night before his trial, even though he was facing pos
 
 ### What happened when Rhoda answered the door and heard Peter's voice?
 
-Rhoda recognized Peter's voice and was so overjoyed that she left him standing outside and ran to tell the others. They said she was "out of her mind" — even though they had been praying for Peter's release all night! It's a funny and powerful reminder to expect God to actually answer our prayers.
+Rhoda recognized Peter's voice and was so overjoyed that she left him standing outside and ran to tell the others. They said she was "out of her mind," even though they had been praying for Peter's release all night! It's a funny and powerful reminder to expect God to actually answer our prayers.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Peter Escapes Prison about for kids?
 
-Peter Escapes Prison is a story from Acts. THE EARLY CHURCH — EPISODE 8: PETER ESCAPES PRISON Based on Acts 12:1-19 Series: The Early Church | Episode 8 of 10 Target audience: Kids ages 7-15
+Peter Escapes Prison is a story from Acts. THE EARLY CHURCH, EPISODE 8: PETER ESCAPES PRISON Based on Acts 12:1-19 Series: The Early Church | Episode 8 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Peter Escapes Prison appropriate for?
 

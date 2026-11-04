@@ -48,11 +48,11 @@ The story unfolds in three movements: entering the land (chapters 1-5, including
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
-For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land, printable, with the story behind the division.
 
-For Joshua's whole life — apprentice, spy, general, and the choice at Shechem — see [Who Was Joshua in the Bible?](/blog/who-was-joshua-for-kids)
+For Joshua's whole life, apprentice, spy, general, and the choice at Shechem, see [Who Was Joshua in the Bible?](/blog/who-was-joshua-for-kids)
 
 ## Hard Joshua Trivia Questions (Teens and Adults)
 

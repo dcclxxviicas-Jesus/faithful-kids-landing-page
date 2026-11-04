@@ -50,13 +50,13 @@ Cost: $1-4 each. Age fit: noted per item. Keep these small and keep them few -- 
 21. **Glow sticks or a mini flashlight** (ages 3+). Pair with Isaiah 9:2 about light in the darkness.
 22. **A small ornament they hang themselves** (all ages). By Christmas Eve the tree is theirs.
 
-We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 There is a free [Jesse Tree set](/printables/jesse-tree) on our site too: 25 printable ornaments plus the daily readings, no sign-up.
 
-Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+Everything we have for the season, Advent devotions, the nativity story, trivia, printables, is gathered on the [Christmas Bible hub](/holidays/christmas).
 
-For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2, playable online or printed, answer key included.
 
 ## Acts of Kindness (23-34)
 

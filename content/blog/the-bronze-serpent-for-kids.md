@@ -25,11 +25,11 @@ The Bronze Serpent is a Bible story from Numbers 21 in the Old Testament. This r
 
 Okay, today's story is one of the most important ones I'll ever tell you. And I mean that. Because this one? It's not just about something that happened in the desert. It's about Me. Personally. You'll see what I mean.
 
-So the Israelites are still trudging through the wilderness, and — you guessed it — they start complaining. Again. "Why did you bring us out of Egypt? There's no food! There's no water! And we HATE this miserable manna!" They're trashing the food that God literally drops out of the sky for them every morning. Imagine your mom making you breakfast every day for free and you saying, "This is garbage." Not cool.
+So the Israelites are still trudging through the wilderness, and, you guessed it, they start complaining. Again. "Why did you bring us out of Egypt? There's no food! There's no water! And we HATE this miserable manna!" They're trashing the food that God literally drops out of the sky for them every morning. Imagine your mom making you breakfast every day for free and you saying, "This is garbage." Not cool.
 
-This time, God sends venomous snakes into the camp. And these aren't little garden snakes — these are fiery serpents, and their bites are deadly. People are getting bitten left and right. People are dying. Suddenly, nobody's complaining about the manna anymore. Funny how that works.
+This time, God sends venomous snakes into the camp. And these aren't little garden snakes, these are fiery serpents, and their bites are deadly. People are getting bitten left and right. People are dying. Suddenly, nobody's complaining about the manna anymore. Funny how that works.
 
-The people rush to Moses, terrified. "We sinned! We spoke against God and against you! Please, PRAY — make the snakes go away!"
+The people rush to Moses, terrified. "We sinned! We spoke against God and against you! Please, PRAY, make the snakes go away!"
 
 This story comes from Numbers 21 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of The Bronze Serpent teaches children important lessons about courage
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,11 +59,11 @@ The Israelites spoke against God and against Moses, saying they hated the manna 
 
 ### What did a person bitten by a snake need to do to be healed?
 
-God told Moses to make a bronze serpent and lift it up on a pole. Anyone who had been bitten simply had to look at it, and they would live. No complicated steps — just look and be healed. This points to the simplicity of faith.
+God told Moses to make a bronze serpent and lift it up on a pole. Anyone who had been bitten simply had to look at it, and they would live. No complicated steps, just look and be healed. This points to the simplicity of faith.
 
 ### In John 3:14, Jesus compared the bronze serpent to what?
 
-Jesus told Nicodemus, "Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up." The bronze serpent was a preview of Jesus on the cross — just as looking at the serpent brought physical healing, looking to Jesus in faith brings eternal life.
+Jesus told Nicodemus, "Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up." The bronze serpent was a preview of Jesus on the cross, just as looking at the serpent brought physical healing, looking to Jesus in faith brings eternal life.
 
 
 ## Discussion Questions for Families

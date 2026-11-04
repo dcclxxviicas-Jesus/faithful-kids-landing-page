@@ -118,7 +118,7 @@ export function JeopardyGame() {
       <FullscreenShell fs={fs} title="Bible Jeopardy">
         <div className="jp-setup">
           <h3>How many teams are playing?</h3>
-          <p>One team works too — chase your own high score.</p>
+          <p>One team works too, chase your own high score.</p>
           <div className="jp-setup-row">
             {[1, 2, 3, 4].map(n => (
               <button key={n} className="jp-setup-btn" onClick={() => start(n)}>
@@ -247,7 +247,7 @@ export function JeopardyGame() {
               </button>
             ) : (
               <div className="jp-final">
-                <p className="jp-clue-meta">Just for fun — no points on the line</p>
+                <p className="jp-clue-meta">Just for fun, no points on the line</p>
                 <h4 className="jp-clue-q">{FINAL_CLUE.q}</h4>
                 <div className="jp-options">
                   {finalState.options.map((opt, i) => {

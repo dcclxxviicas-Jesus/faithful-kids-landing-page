@@ -47,7 +47,7 @@ import { GiftHero, GiftHeroShell } from './GiftHero'
 export const metadata: Metadata = {
   title: 'A Gift for Your Family',
   description:
-    'Free Bible stories for your kids — 200 retellings from Genesis to Revelation, plus printable games and coloring pages. No signup needed.',
+    'Free Bible stories for your kids, 200 retellings from Genesis to Revelation, plus printable games and coloring pages. No signup needed.',
   robots: { index: false, follow: true },
   alternates: { canonical: 'https://faithfulkids.app/gift' },
 }
@@ -78,7 +78,7 @@ const PRINT_PACKS = [
     emoji: '🖍️',
     title: 'Bible coloring pages',
     description:
-      'Line-art scenes from the stories — Noah, David, the nativity, the Good Samaritan.',
+      'Line-art scenes from the stories, Noah, David, the nativity, the Good Samaritan.',
     details: '26 pages · print or photocopy free',
   },
   {
@@ -93,7 +93,7 @@ const PRINT_PACKS = [
     href: '/printables/bible-crossword',
     emoji: '✏️',
     title: 'Bible crosswords',
-    description: 'For the older end — clues drawn from the stories themselves, not trivia lists.',
+    description: 'For the older end, clues drawn from the stories themselves, not trivia lists.',
     details: '7 crosswords · answer keys included',
   },
   {
@@ -126,7 +126,7 @@ const ADVENT_PACKS = [
     href: '/printables/christmas-coloring-pages',
     emoji: '⭐',
     title: 'Nativity coloring pages',
-    description: 'The Christmas story to colour in — the angel, the shepherds, the stable.',
+    description: 'The Christmas story to colour in, the angel, the shepherds, the stable.',
     details: '6 pages · print free',
   },
 ]
@@ -190,7 +190,7 @@ export default function GiftPage() {
         <span className="section-label">Print &amp; play</span>
         <h2>Things to put on the kitchen table</h2>
         <p className="gift-lede">
-          Free to print at home, and free to photocopy for a class or a church group — that is
+          Free to print at home, and free to photocopy for a class or a church group, that is
           what they are for. Every sheet carries the website, so whoever picks one up can find
           the rest.
         </p>
@@ -219,7 +219,7 @@ export default function GiftPage() {
         <span className="section-label">For Advent &amp; Christmas</span>
         <h2>Ready before you need it</h2>
         <p className="gift-lede">
-          If your family keeps Advent, these are the two sets worth printing early — one reading
+          If your family keeps Advent, these are the two sets worth printing early, one reading
           a day through December, and the Jesse Tree that walks from creation to the manger.
         </p>
         <div className="asset-grid">
@@ -284,7 +284,7 @@ export default function GiftPage() {
 
       {/* ---- Closing. No CTA by design: the page ends as a gift, not a pitch. ---- */}
       <section className="gift-section gift-close">
-        <h2>It&rsquo;s yours — that&rsquo;s all</h2>
+        <h2>It&rsquo;s yours, that&rsquo;s all</h2>
         <p className="gift-lede">
           Nothing on this page asked for your email or your card, and nothing will. Your church
           passed it on because they thought your family would enjoy it, and we made it free so

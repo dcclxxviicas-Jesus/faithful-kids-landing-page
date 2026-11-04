@@ -42,13 +42,13 @@ The letter's big idea is that God's power shows up best in human weakness -- "wh
 17. Paul calls our troubles "light and momentary" -- what are they achieving for us? **An eternal glory that far outweighs them all** (2 Corinthians 4:17)
 18. If our earthly "tent" is destroyed, what does God have for us? **An eternal house in heaven, not built by human hands** (2 Corinthians 5:1)
 
-For a quieter follow-up, try the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath) — twelve hidden words, answer key included.
+For a quieter follow-up, try the free [David and Goliath word search](/printables/bible-word-search/david-and-goliath), twelve hidden words, answer key included.
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
 ## Hard 2 Corinthians Trivia Questions (Teens and Adults)
 

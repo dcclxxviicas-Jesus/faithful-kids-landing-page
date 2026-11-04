@@ -89,7 +89,7 @@ Prices and features checked on each vendor's own site, September 16, 2026.
 
 ## What If Your Tween Is Asking Hard Questions?
 
-Somewhere between 9 and 12, kids stop asking what happened in the Bible and start asking whether it's true and why God allows what He allows. None of the apps above is built for apologetics — the honest answer is that this need is met by conversation more than software. What an app *can* do is keep the text itself familiar enough that the hard questions have somewhere to land: Faithful Kids' reflections after each lesson are built as conversation starters, and its whole-Bible order means a tween has actually met Job and Habakkuk before they need them. For direct question-and-answer material, Got Questions runs a kids' version of its answers site, and our guide to [teaching the Bible to teenagers](/blog/how-to-teach-bible-to-teenagers) covers the conversation side.
+Somewhere between 9 and 12, kids stop asking what happened in the Bible and start asking whether it's true and why God allows what He allows. None of the apps above is built for apologetics, the honest answer is that this need is met by conversation more than software. What an app *can* do is keep the text itself familiar enough that the hard questions have somewhere to land: Faithful Kids' reflections after each lesson are built as conversation starters, and its whole-Bible order means a tween has actually met Job and Habakkuk before they need them. For direct question-and-answer material, Got Questions runs a kids' version of its answers site, and our guide to [teaching the Bible to teenagers](/blog/how-to-teach-bible-to-teenagers) covers the conversation side.
 
 ## How Do You Choose the Right One for Your Tween?
 
@@ -102,7 +102,7 @@ Choose based on what your tween actually needs right now: structured learning, f
 
 Whatever you pick, the transition away from toddler apps is worth doing deliberately rather than letting Bible time quietly evaporate -- our guide to [Bible App for Kids for older kids](/blog/bible-app-for-kids-for-older-kids) walks through the signs it's time and how to make the switch stick.
 
-Faithful Kids is available for iPhone and iPad — see the [Faithful Kids app](/blog/faithful-kids-app) page for what is inside and how the trial works.
+Faithful Kids is available for iPhone and iPad, see the [Faithful Kids app](/blog/faithful-kids-app) page for what is inside and how the trial works.
 
 Two related comparisons for this age: [apps that grow with your child from 5 to 15](/blog/christian-apps-that-grow-with-your-child) and [apps with a parent dashboard](/blog/bible-apps-with-parent-dashboard).
 

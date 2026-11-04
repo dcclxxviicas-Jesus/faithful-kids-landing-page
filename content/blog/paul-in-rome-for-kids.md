@@ -25,13 +25,13 @@ Paul in Rome is a Bible story from Acts in the New Testament. This retelling is 
 
 ## What Is the Story of Paul in Rome for Kids?
 
-PAUL'S ADVENTURES — EPISODE 9: PAUL IN ROME Based on Acts 28 Series: Paul's Adventures | Episode 9 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 9: PAUL IN ROME Based on Acts 28 Series: Paul's Adventures | Episode 9 of 10 Target audience: Kids ages 7-15
 
-After everything — the shipwreck, the snake bite, fourteen days of hurricane — Paul finally made it to Rome. The capital of the entire known world. The city he'd been dreaming about reaching for years.
+After everything, the shipwreck, the snake bite, fourteen days of hurricane, Paul finally made it to Rome. The capital of the entire known world. The city he'd been dreaming about reaching for years.
 
 But here's the thing. He didn't arrive as a conquering hero. He arrived in chains. A prisoner. Escorted by Roman soldiers. Most people would look at that and say, "Well, that's a failure." But most people would be dead wrong.
 
-When Paul got to Rome, something unexpected happened. The Roman authorities actually gave him special treatment. Instead of throwing him in a dungeon, they let him rent his own house. He had a soldier guarding him — chained to him, actually — but he could receive visitors. He could talk to anyone who showed up at his door.
+When Paul got to Rome, something unexpected happened. The Roman authorities actually gave him special treatment. Instead of throwing him in a dungeon, they let him rent his own house. He had a soldier guarding him, chained to him, actually, but he could receive visitors. He could talk to anyone who showed up at his door.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of Paul in Rome teaches children important lessons about adventure, pe
 
 ## Key Bible Verse
 
-> *"For I am not ashamed of the gospel."* — Romans 1:16
+> *"For I am not ashamed of the gospel."* (Romans 1:16)
 
 There is a free [Armor of God word search](/printables/bible-word-search/armor-of-god) to go with this, playable on a phone and printable for a class.
 
@@ -118,7 +118,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Paul in Rome about for kids?
 
-Paul in Rome is a story from Acts. PAUL'S ADVENTURES — EPISODE 9: PAUL IN ROME Based on Acts 28 Series: Paul's Adventures | Episode 9 of 10 Target audience: Kids ages 7-15
+Paul in Rome is a story from Acts. PAUL'S ADVENTURES, EPISODE 9: PAUL IN ROME Based on Acts 28 Series: Paul's Adventures | Episode 9 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Paul in Rome appropriate for?
 

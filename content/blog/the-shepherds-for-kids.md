@@ -23,7 +23,7 @@ The Shepherds is a Bible story from Luke 2:8-20 in the New Testament. This retel
 
 ## What Is the Story of The Shepherds for Kids?
 
-Welcome back! Okay — I was just born in a manger. The King of the universe, lying in an animal's feeding trough. Now my Father had an announcement to make. The biggest announcement in history. And the question is — who does God tell first?
+Welcome back! Okay, I was just born in a manger. The King of the universe, lying in an animal's feeding trough. Now my Father had an announcement to make. The biggest announcement in history. And the question is, who does God tell first?
 
 Not the emperor. Not the religious leaders. Not the wealthy or the famous. God chose shepherds.
 
@@ -43,7 +43,7 @@ The story of The Shepherds teaches children important lessons about hope, faith,
 
 ## Key Bible Verse
 
-> *"Do not be afraid. I bring you good news that will cause great joy for all people."* — Luke 2:10
+> *"Do not be afraid. I bring you good news that will cause great joy for all people."* (Luke 2:10)
 
 For quiet time afterwards, print the free [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) and let them color while you talk it through.
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### Why is it significant that God chose shepherds to hear the announcement first?
 
-Shepherds were considered lowly and unimportant in that society. By choosing them first, God made it clear from the very beginning that the good news of Jesus was for ALL people — especially the overlooked and ordinary.
+Shepherds were considered lowly and unimportant in that society. By choosing them first, God made it clear from the very beginning that the good news of Jesus was for ALL people, especially the overlooked and ordinary.
 
 ### What did the angel say to the shepherds?
 
-The angel's announcement was filled with joy and hope — a Savior had been born for ALL people. The word "all" is key — God's good news wasn't for a select few, it was for everyone.
+The angel's announcement was filled with joy and hope, a Savior had been born for ALL people. The word "all" is key; God's good news wasn't for a select few, it was for everyone.
 
 ### What happened after the first angel made the announcement?
 
-After the announcement, a huge heavenly army of angels appeared, lighting up the night sky and praising God — "Glory to God in the highest heaven, and on earth peace to those on whom His favor rests!"
+After the announcement, a huge heavenly army of angels appeared, lighting up the night sky and praising God, "Glory to God in the highest heaven, and on earth peace to those on whom His favor rests!"
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Shepherds about for kids?
 
-The Shepherds is a story from Luke 2:8-20. Welcome back! Okay — I was just born in a manger. The King of the universe, lying in an animal's feeding trough. Now my Father had an announcement to make. The biggest announcement in history. And ...
+The Shepherds is a story from Luke 2:8-20. Welcome back! Okay, I was just born in a manger. The King of the universe, lying in an animal's feeding trough. Now my Father had an announcement to make. The biggest announcement in history. And ...
 
 ### What age is the story of The Shepherds appropriate for?
 

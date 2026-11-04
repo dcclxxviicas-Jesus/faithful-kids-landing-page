@@ -25,13 +25,13 @@ Healing the Sick is a Bible story from Matthew/Mark/Luke/John in the New Testame
 
 ## What Is the Story of Healing the Sick for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 7 "Healing the Sick" Based on Mark 1:29-45, various
+JESUS BEGINS HIS MINISTRY, EPISODE 7 "Healing the Sick" Based on Mark 1:29-45, various
 
-Let me tell you about a day that didn't stop. From sunrise to way past sunset — it was a day that showed exactly why I came.
+Let me tell you about a day that didn't stop. From sunrise to way past sunset, it was a day that showed exactly why I came.
 
-It started at Simon Peter's house. We walked in after teaching at the synagogue, and Peter's mother-in-law was lying down with a burning fever. She was miserable. I walked over, took her hand, and lifted her up. Just like that — the fever LEFT. Gone. Instantly. And you know what she did? She didn't go lie back down. She got up and started serving everyone dinner! That's the kind of woman she was.
+It started at Simon Peter's house. We walked in after teaching at the synagogue, and Peter's mother-in-law was lying down with a burning fever. She was miserable. I walked over, took her hand, and lifted her up. Just like that, the fever LEFT. Gone. Instantly. And you know what she did? She didn't go lie back down. She got up and started serving everyone dinner! That's the kind of woman she was.
 
-Word spread FAST. By sunset, it felt like the entire town showed up at the door. I'm not exaggerating — people were carrying the sick, leading the blind, supporting those who couldn't walk. The whole city was gathered outside that little house. And I healed them. One by one. Every disease. Every sickness. Every demon that had been tormenting them. I didn't turn a single person away.
+Word spread FAST. By sunset, it felt like the entire town showed up at the door. I'm not exaggerating, people were carrying the sick, leading the blind, supporting those who couldn't walk. The whole city was gathered outside that little house. And I healed them. One by one. Every disease. Every sickness. Every demon that had been tormenting them. I didn't turn a single person away.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,9 +45,9 @@ The story of Healing the Sick teaches children important lessons about calling, 
 
 ## Key Bible Verse
 
-> *"Your faith has healed you. Go in peace."* — Mark 5:34
+> *"Your faith has healed you. Go in peace."* (Mark 5:34)
 
-For a quieter follow-up, try the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) — twelve hidden words, answer key included.
+For a quieter follow-up, try the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles), twelve hidden words, answer key included.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Healing the Sick about for kids?
 
-Healing the Sick is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 7 "Healing the Sick" Based on Mark 1:29-45, various
+Healing the Sick is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY, EPISODE 7 "Healing the Sick" Based on Mark 1:29-45, various
 
 ### What age is the story of Healing the Sick appropriate for?
 

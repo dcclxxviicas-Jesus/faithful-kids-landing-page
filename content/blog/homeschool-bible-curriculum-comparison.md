@@ -183,11 +183,11 @@ Sometimes the simplest approach is the best. Read one chapter of the Bible toget
 
 For homeschool families, our [free homeschool Bible curriculum page](/homeschool) covers what a day looks like and what it costs.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
-To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart, honest about dates, from Creation to the early church.
 
-If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
 
 ## Video-Based Bible Curriculum
 
@@ -233,7 +233,7 @@ Curious how it stacks up against YouVersion's free app? See our [Bible App for K
 
 ## No-Prep and Open-and-Go: For the Parent With No Margin
 
-"Open and go" is the phrase homeschool parents actually search, and it deserves its own answer: which of these can you run today with zero preparation? The workbook curricula above all require at least reading ahead; the video options are the true no-prep lane. Faithful Kids is built as exactly that — one story, one quiz, one question to talk about, about ten minutes, zero prep, and the next lesson queues itself in Bible order so there is no scope-and-sequence to manage. What's in the Bible? episodes also run open-and-go for family viewing, though you supply the discussion. For a co-op on a budget, note that one Faithful Kids family subscription covers up to five children, and [churches and co-ops can get it free](/churches) — often the cheapest per-family path in this comparison.
+"Open and go" is the phrase homeschool parents actually search, and it deserves its own answer: which of these can you run today with zero preparation? The workbook curricula above all require at least reading ahead; the video options are the true no-prep lane. Faithful Kids is built as exactly that, one story, one quiz, one question to talk about, about ten minutes, zero prep, and the next lesson queues itself in Bible order so there is no scope-and-sequence to manage. What's in the Bible? episodes also run open-and-go for family viewing, though you supply the discussion. For a co-op on a budget, note that one Faithful Kids family subscription covers up to five children, and [churches and co-ops can get it free](/churches), often the cheapest per-family path in this comparison.
 
 ## How to Choose: A Decision Framework
 

@@ -25,13 +25,13 @@ David and Jonathan is a Bible story from 1 Samuel in the Old Testament. This ret
 
 ## What Is the Story of David and Jonathan for Kids?
 
-THE RISE OF KINGS — Episode 6: David and Jonathan Based on 1 Samuel 18-20 | Narrated by Jesus
+THE RISE OF KINGS, Episode 6: David and Jonathan Based on 1 Samuel 18-20 | Narrated by Jesus
 
-Hey! Welcome back. Last time, David knocked out a giant. But today's story? It's about something even more powerful than a slingshot — it's about friendship. REAL friendship. The kind that costs you something.
+Hey! Welcome back. Last time, David knocked out a giant. But today's story? It's about something even more powerful than a slingshot, it's about friendship. REAL friendship. The kind that costs you something.
 
-So right after David defeated Goliath, he met Jonathan — Saul's oldest son. And something incredible happened. The Bible says Jonathan's soul was "knit" to David's. Like, instantly bonded. Not just "hey, you're cool" — we're talking soul brothers. Deep, unshakable loyalty from that very first moment.
+So right after David defeated Goliath, he met Jonathan, Saul's oldest son. And something incredible happened. The Bible says Jonathan's soul was "knit" to David's. Like, instantly bonded. Not just "hey, you're cool"; we're talking soul brothers. Deep, unshakable loyalty from that very first moment.
 
-And Jonathan did something wild. He took off his own royal robe and gave it to David. Then his armor. Then his sword and his bow. Think about that — Jonathan was the PRINCE. He was next in line for the throne. And he's handing his royal gear to a shepherd kid from Bethlehem. Jonathan was basically saying, "I see that God's hand is on YOU, and I'm all in."
+And Jonathan did something wild. He took off his own royal robe and gave it to David. Then his armor. Then his sword and his bow. Think about that; Jonathan was the PRINCE. He was next in line for the throne. And he's handing his royal gear to a shepherd kid from Bethlehem. Jonathan was basically saying, "I see that God's hand is on YOU, and I'm all in."
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of David and Jonathan teaches children important lessons about courage
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
 For quiet time afterwards, print the free [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath) and let them color while you talk it through.
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jonathan tell David when they parted ways?
 
-**"Go in peace — the LORD is between you and me forever".**
+**"Go in peace; the LORD is between you and me forever".**
 
 ## Discussion Questions for Families
 
@@ -116,7 +116,7 @@ We built a [David and Goliath word search](/printables/bible-word-search/david-a
 
 ### What is the story of David and Jonathan about for kids?
 
-David and Jonathan is a story from 1 Samuel. THE RISE OF KINGS — Episode 6: David and Jonathan Based on 1 Samuel 18-20 | Narrated by Jesus
+David and Jonathan is a story from 1 Samuel. THE RISE OF KINGS, Episode 6: David and Jonathan Based on 1 Samuel 18-20 | Narrated by Jesus
 
 ### What age is the story of David and Jonathan appropriate for?
 

@@ -20,7 +20,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 - **Do the activity.** These are designed to be fun, not educational-feeling. Most use things you already have at home.
 - **No guilt if you miss a week.** Just pick up where you left off. Progress matters more than perfection.
 
-## Week 1: Creation — God Made Everything Good
+## Week 1: Creation, God Made Everything Good
 
 **Read:** Genesis 1:1-2:3
 
@@ -33,7 +33,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 
 **Summer Activity:** Go on a creation scavenger hunt. Make a list of 10 things God created and find them outside: a flower, a bird, a cloud, a rock, a bug, a tree, water, grass, the sun, and a person. Check them off as you find them. Take photos or draw pictures of your favorites.
 
-## Week 2: Noah's Ark — Trusting God When Things Get Scary
+## Week 2: Noah's Ark, Trusting God When Things Get Scary
 
 **Read:** Genesis 6:9-22, 8:1-12, 9:12-17
 
@@ -46,7 +46,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 
 **Summer Activity:** Build a backyard boat. Use cardboard boxes, couch cushions, or blankets to build an "ark" in your yard or living room. Gather stuffed animals as your passengers. While you're inside the ark, read the story one more time and imagine what it was like.
 
-## Week 3: Joseph — God Can Use Hard Times for Good
+## Week 3: Joseph, God Can Use Hard Times for Good
 
 **Read:** Genesis 37:3-28, 39:1-6, 41:37-43, 50:15-21
 
@@ -59,7 +59,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 
 **Summer Activity:** Make a paper chain of hope. Cut strips of colored paper. On each strip, write one hard thing that happened to Joseph (sold by brothers, prison, etc.) and one good thing that came from it. Link them into a chain. Hang it up as a reminder that God connects our hard moments to good purposes.
 
-## Week 4: Moses and the Red Sea — God Makes a Way
+## Week 4: Moses and the Red Sea, God Makes a Way
 
 **Read:** Exodus 14:5-31
 
@@ -72,7 +72,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 
 **Summer Activity:** Water day. Head to a pool, lake, or set up the sprinkler and water balloons in the backyard. Before playing, stand at the edge of the water together. Read Exodus 14:13 out loud. Then jump in. Sometimes you just have to take the step.
 
-## Week 5: David and Goliath — Small but Mighty
+## Week 5: David and Goliath, Small but Mighty
 
 **Read:** 1 Samuel 17:32-50
 
@@ -85,7 +85,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 
 **Summer Activity:** Target practice. Set up empty cans or plastic bottles on a fence or table. Use a ball (or a sock filled with rice) to try to knock them down. After each round, name a "Goliath" -- a fear or challenge -- and imagine knocking it down with God's help.
 
-## Week 6: Jonah — Running From God Never Works
+## Week 6: Jonah, Running From God Never Works
 
 **Read:** Jonah 1:1-3:10
 
@@ -98,7 +98,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 
 **Summer Activity:** Fish craft. Draw and cut out a large fish from poster board. Inside the fish, have each family member write or draw something they've been avoiding that God might be asking them to do. Tape the fish to the fridge as a reminder: running from God's plan doesn't work, but obeying it leads to amazing things.
 
-## Week 7: Daniel in the Lion's Den — Standing Up for What's Right
+## Week 7: Daniel in the Lion's Den, Standing Up for What's Right
 
 **Read:** Daniel 6:1-28
 
@@ -111,7 +111,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 
 **Summer Activity:** Bravery badges. Cut circles from cardboard or thick paper. Each family member decorates a badge and writes one thing they want to stand up for this summer -- kindness, honesty, faith, including others, etc. Wear them for the rest of the day as a reminder.
 
-## Week 8: The Good Samaritan — Who Is My Neighbor?
+## Week 8: The Good Samaritan, Who Is My Neighbor?
 
 **Read:** Luke 10:25-37
 
@@ -124,7 +124,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 
 **Summer Activity:** Kindness week challenge. Each day for the next seven days, do one act of kindness for someone outside your family: bring cookies to a neighbor, write a thank-you card for the mail carrier, pick up litter at the park, compliment a stranger, help with yard work, donate toys to a shelter, or make a card for someone who's sick.
 
-## Week 9: Jesus Feeds 5,000 — Small Offerings, Big God
+## Week 9: Jesus Feeds 5,000, Small Offerings, Big God
 
 **Read:** John 6:1-14
 
@@ -137,7 +137,7 @@ This 10-week family reading plan keeps Bible learning alive all summer -- withou
 
 **Summer Activity:** Lemonade stand for good. Set up a lemonade stand and donate the money to a cause your family cares about -- a local food bank, a missions organization, or a family in need. Before you start, read John 6:9-11 together: small offerings, multiplied by God.
 
-## Week 10: The Resurrection — The Greatest Story Ever Told
+## Week 10: The Resurrection, The Greatest Story Ever Told
 
 **Read:** Matthew 28:1-10, John 20:11-18
 

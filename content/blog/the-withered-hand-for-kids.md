@@ -23,11 +23,11 @@ The Withered Hand is a Bible story from Matthew/Mark/Luke/John in the New Testam
 
 ## What Is the Story of The Withered Hand for Kids?
 
-MIRACLES OF JESUS — Episode 9: The Withered Hand Based on Mark 3:1-6
+MIRACLES OF JESUS, Episode 9: The Withered Hand Based on Mark 3:1-6
 
-Hey kids! Today's story is shorter than some of the others, but don't let that fool you — it's one of the most IMPORTANT miracles I ever performed. Because this one wasn't just about healing. It was about exposing what's wrong with religion that has no heart.
+Hey kids! Today's story is shorter than some of the others, but don't let that fool you, it's one of the most IMPORTANT miracles I ever performed. Because this one wasn't just about healing. It was about exposing what's wrong with religion that has no heart.
 
-It was the Sabbath — the day of rest. I walked into the synagogue, and sitting right there was a man with a shriveled, withered hand. It was curled up, useless, probably had been that way for years. He couldn't work. He couldn't carry things. Simple tasks most people take for granted were impossible for him.
+It was the Sabbath, the day of rest. I walked into the synagogue, and sitting right there was a man with a shriveled, withered hand. It was curled up, useless, probably had been that way for years. He couldn't work. He couldn't carry things. Simple tasks most people take for granted were impossible for him.
 
 But here's the part that made my blood boil.
 
@@ -43,7 +43,7 @@ The story of The Withered Hand teaches children important lessons about faith, G
 
 ## Key Bible Verse
 
-> *"Stretch out your hand."* — Mark 3:5
+> *"Stretch out your hand."* (Mark 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,19 +55,19 @@ After watching the video, see if your child can answer these questions:
 
 ### What day of the week did this miracle happen?
 
-This happened on the Sabbath — the Jewish day of rest — which is why the Pharisees were watching to see if Jesus would heal, since they considered that "work."
+This happened on the Sabbath, the Jewish day of rest, which is why the Pharisees were watching to see if Jesus would heal, since they considered that "work."
 
 ### Why were the Pharisees watching Jesus so closely?
 
-The Pharisees weren't there out of curiosity or care — they were looking for a reason to accuse Jesus of breaking the Sabbath law.
+The Pharisees weren't there out of curiosity or care, they were looking for a reason to accuse Jesus of breaking the Sabbath law.
 
 ### What question did Jesus ask the Pharisees?
 
-Jesus asked, "Which is lawful on the Sabbath — to do good or to do evil? To save life or to kill?" The Pharisees couldn't answer because the truth would prove them wrong.
+Jesus asked, "Which is lawful on the Sabbath, to do good or to do evil? To save life or to kill?" The Pharisees couldn't answer because the truth would prove them wrong.
 
 ### How did Jesus heal the man?
 
-Jesus simply said, "Stretch out your hand." When the man obeyed, his hand was completely restored — strong, flexible, and fully healed.
+Jesus simply said, "Stretch out your hand." When the man obeyed, his hand was completely restored, strong, flexible, and fully healed.
 
 ### What did the Pharisees do after seeing the miracle?
 
@@ -109,7 +109,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Withered Hand about for kids?
 
-The Withered Hand is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 9: The Withered Hand Based on Mark 3:1-6
+The Withered Hand is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS: Episode 9: The Withered Hand Based on Mark 3:1-6
 
 ### What age is the story of The Withered Hand appropriate for?
 

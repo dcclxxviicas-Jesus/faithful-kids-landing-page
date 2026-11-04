@@ -46,11 +46,11 @@ The hinge of the whole book is God's covenant in chapter 7: David wants to build
 21. Which son rebelled against David and "stole the hearts" of Israel? **Absalom** (2 Samuel 15:1-6)
 22. How did Absalom get stuck during the battle in the forest? **His head caught in the branches of a great oak while his mule kept going, leaving him hanging in midair** (2 Samuel 18:9)
 
-Older kids who find coloring dull usually take to the free [Daniel word search](/printables/bible-word-search/daniel) instead — it plays in the browser or prints on one sheet.
+Older kids who find coloring dull usually take to the free [Daniel word search](/printables/bible-word-search/daniel) instead, it plays in the browser or prints on one sheet.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 

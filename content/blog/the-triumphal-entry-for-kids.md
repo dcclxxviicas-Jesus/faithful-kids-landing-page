@@ -25,11 +25,11 @@ The Triumphal Entry is a Bible story from Matthew/Mark/Luke/John in the New Test
 
 ## What Is the Story of The Triumphal Entry for Kids?
 
-THE ROAD TO THE CROSS — Episode 1: The Triumphal Entry Based on Matthew 21:1-11 and John 12:12-19 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS, Episode 1: The Triumphal Entry Based on Matthew 21:1-11 and John 12:12-19 Series: The Road to the Cross | Target audience: Ages 7-15
 
 I want to tell you about the loudest day of my life.
 
-It was spring in Jerusalem — Passover was coming, and the city was packed with people from everywhere. Thousands of families had traveled for days to be there. The air smelled like roasting lamb, fresh bread, and dust from the road.
+It was spring in Jerusalem, Passover was coming, and the city was packed with people from everywhere. Thousands of families had traveled for days to be there. The air smelled like roasting lamb, fresh bread, and dust from the road.
 
 I told two of my disciples to go into the next village. "You'll find a donkey tied there with her colt. Untie them and bring them to me. If anyone asks, tell them the Lord needs them." They looked at me like I was crazy. A donkey? Not a warhorse?
 
@@ -45,9 +45,9 @@ The story of The Triumphal Entry teaches children important lessons about sacrif
 
 ## Key Bible Verse
 
-> *"Hosanna! Blessed is he who comes in the name of the Lord!"* — Mark 11:9
+> *"Hosanna! Blessed is he who comes in the name of the Lord!"* (Mark 11:9)
 
-A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances — kids can trace the journeys with a finger.
+A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances, kids can trace the journeys with a finger.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -79,7 +79,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**Popularity is fickle.** The same crowd that cheered "Hosanna" would soon shout "Crucify Him." Jesus didn't come for the applause — He came on a mission to save us.
+**Popularity is fickle.** The same crowd that cheered "Hosanna" would soon shout "Crucify Him." Jesus didn't come for the applause, He came on a mission to save us.
 
 ## Discussion Questions for Families
 
@@ -112,13 +112,13 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
-Pair the story with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) — one sheet, ready to print.
+Pair the story with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday): one sheet, ready to print.
 
 ## Frequently Asked Questions
 
 ### What is the story of The Triumphal Entry about for kids?
 
-The Triumphal Entry is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 1: The Triumphal Entry Based on Matthew 21:1-11 and John 12:12-19 Series: The Road to the Cross | Target audience: Ages 7-15
+The Triumphal Entry is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS: Episode 1: The Triumphal Entry Based on Matthew 21:1-11 and John 12:12-19 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of The Triumphal Entry appropriate for?
 

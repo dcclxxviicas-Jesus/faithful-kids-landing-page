@@ -25,13 +25,13 @@ Water Into Wine is a Bible story from Matthew/Mark/Luke/John in the New Testamen
 
 ## What Is the Story of Water Into Wine for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 3 "Water Into Wine" Based on John 2:1-11
+JESUS BEGINS HIS MINISTRY: EPISODE 3 "Water Into Wine" Based on John 2:1-11
 
-You might think my first miracle was something dramatic — healing a blind man, calming a storm, raising someone from the dead. Nope. My first miracle was at a PARTY. And I did it to save someone from embarrassment. Let me explain.
+You might think my first miracle was something dramatic, healing a blind man, calming a storm, raising someone from the dead. Nope. My first miracle was at a PARTY. And I did it to save someone from embarrassment. Let me explain.
 
-There was a wedding in a little town called Cana. In my culture, weddings weren't a one-day thing — they were CELEBRATIONS that lasted for days. The whole community showed up. Food everywhere. Music. Dancing. And wine — lots of it. Running out of wine wasn't just inconvenient. It was HUMILIATING. It meant the family couldn't provide for their guests. It was a social disaster.
+There was a wedding in a little town called Cana. In my culture, weddings weren't a one-day thing, they were CELEBRATIONS that lasted for days. The whole community showed up. Food everywhere. Music. Dancing. And wine, lots of it. Running out of wine wasn't just inconvenient. It was HUMILIATING. It meant the family couldn't provide for their guests. It was a social disaster.
 
-My mother Mary was there, and so was I with my disciples. Right in the middle of the celebration, my mom came to me and said, "They have no more wine." Now, she didn't exactly ASK me to do anything. She just... told me. Moms, right? I said to her, "Woman, why do you involve me? My hour has not yet come." But my mother — she knew me. She turned to the servants and said six powerful words: "Do whatever He tells you."
+My mother Mary was there, and so was I with my disciples. Right in the middle of the celebration, my mom came to me and said, "They have no more wine." Now, she didn't exactly ASK me to do anything. She just... told me. Moms, right? I said to her, "Woman, why do you involve me? My hour has not yet come." But my mother, she knew me. She turned to the servants and said six powerful words: "Do whatever He tells you."
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of Water Into Wine teaches children important lessons about calling, h
 
 ## Key Bible Verse
 
-> *"Do whatever he tells you."* — John 2:5
+> *"Do whatever he tells you."* (John 2:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -112,7 +112,7 @@ Older children who find coloring dull usually take to the [miracles of Jesus wor
 
 ### What is the story of Water Into Wine about for kids?
 
-Water Into Wine is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 3 "Water Into Wine" Based on John 2:1-11
+Water Into Wine is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY: EPISODE 3 "Water Into Wine" Based on John 2:1-11
 
 ### What age is the story of Water Into Wine appropriate for?
 

@@ -3,7 +3,7 @@ title: "Bible Trivia for Kids: 50 Quiz Questions and Answers (PDF)"
 metaTitle: "Bible Trivia for Kids: 50 Quiz Questions & Answers (Free PDF)"
 slug: "bible-trivia-for-kids"
 type: "listicle"
-metaDescription: "Bible trivia for kids: 50 Bible quiz questions with answers and verse references in easy, medium, and hard rounds — plus a free printable PDF, no sign-up."
+metaDescription: "Bible trivia for kids: 50 Bible quiz questions with answers and verse references in easy, medium, and hard rounds; plus a free printable PDF, no sign-up."
 keywords: ["bible questions for kids", "bible quiz for kids with answers", "kids bible quiz questions and answers pdf", "easy bible questions for kids", "bible questions and answers for kids", "bible trivia for kids with answers", "easy bible trivia questions for kids", "bible quiz questions for children", "sunday school bible trivia questions"]
 datePublished: "2026-04-16"
 dateModified: "2026-08-28"
@@ -13,7 +13,7 @@ These 50 Bible questions for kids cover the most important stories, people, and 
 
 Two of these questions trip up almost every family that plays. Question 14 asks what fruit Adam and Eve ate -- and nearly everyone answers wrong, because the "right" answer most people learned is not actually in the Bible. Question 33 asks how many of each animal Noah brought on the ark, and the famous answer of "two" is only part of the story. If your kids get both right on the first try, they know their Bible better than most adults.
 
-**Need this quiz on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf) — all 50 questions as ready-to-copy quiz sheets with write-in lines, plus the full answer key with verse references on separate pages. No sign-up, no email, free to photocopy for your class or family game night.
+**Need this quiz on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf), all 50 questions as ready-to-copy quiz sheets with write-in lines, plus the full answer key with verse references on separate pages. No sign-up, no email, free to photocopy for your class or family game night.
 
 **Want to play instead of read?** Our [free Bible trivia game](/bible-trivia) puts 100 questions into a scored round you can play right now -- pick easy, medium, or hard, answer ten questions, and see the verse behind every answer. No sign-up, no ads, and free for churches and teachers to [embed on their own site](/blog/bible-trivia-embed-for-church-website).
 
@@ -82,7 +82,7 @@ Save this round for the end, when the score is close. These questions reach into
 49. On what island was Paul shipwrecked on his voyage to Rome? **Malta** (Acts 28:1)
 50. What does the name Immanuel, given to Jesus, mean? **"God with us"** (Matthew 1:23)
 
-Around the holidays, pair a trivia round with our free [Christmas coloring pages](/printables/christmas-coloring-pages) — six nativity scenes to print while you play.
+Around the holidays, pair a trivia round with our free [Christmas coloring pages](/printables/christmas-coloring-pages), six nativity scenes to print while you play.
 
 In the holiday season, our [Thanksgiving](/holidays/thanksgiving) and [Christmas](/holidays/christmas) hubs gather every seasonal verse list, devotion, trivia round, and printable in one place.
 

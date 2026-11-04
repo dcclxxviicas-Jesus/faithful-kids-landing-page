@@ -64,7 +64,7 @@ Debate formats work because they hand students a position instead of asking for 
 
 For pure energy-burners, see these [30 fun youth group games](/blog/fun-youth-group-games), sorted by how much laughter they produce.
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
 ## Escape-Room Style Bible Challenges (Games 13-18)
 
@@ -140,9 +140,9 @@ Two practical notes. First, always tie the game to the passage out loud in one s
 
 If younger siblings are in the room -- a common reality in small churches -- [Faithful Kids](https://faithfulkids.app/quiz) covers ages 7-15 with short story videos and quizzes, which gives the middle schoolers something to do that is not a preschool craft. And for a printable to keep in the van, our free [Bible Trivia Pack](/printables/bible-trivia-pack) has 100 questions with the answer key on its own page.
 
-Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost — [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost, [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
 
-We also drew a set of [free Bible word searches](/printables/bible-word-search) — eleven puzzles you can play in the browser or print for a class.
+We also drew a set of [free Bible word searches](/printables/bible-word-search), eleven puzzles you can play in the browser or print for a class.
 
 When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
 

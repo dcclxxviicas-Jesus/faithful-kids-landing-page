@@ -45,9 +45,9 @@ The name means "second law" (from the Greek), because Moses restates the covenan
 20. What were the Israelites told to remember about their time in Egypt? **That they were slaves there, and the LORD brought them out** (Deuteronomy 5:15)
 21. If a farmer forgot a sheaf of grain in the field, who was it left for? **The foreigner, the fatherless, and the widow** (Deuteronomy 24:19)
 
-Older kids who find coloring dull usually take to the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) instead — it plays in the browser or prints on one sheet.
+Older kids who find coloring dull usually take to the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) instead, it plays in the browser or prints on one sheet.
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 

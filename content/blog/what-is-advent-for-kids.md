@@ -40,7 +40,7 @@ Because Advent is measured in Sundays, most family traditions center on Sunday e
 
 There is a free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) on our site too, printable on one sheet with no sign-up.
 
-Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree) — hang one a day and walk the whole Bible story to the manger.
+Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree), hang one a day and walk the whole Bible story to the manger.
 
 For the rest of the season, our [Christmas hub](/holidays/christmas) collects every Advent and nativity resource in one place.
 

@@ -99,7 +99,7 @@ export async function POST(req: NextRequest) {
     if (body.sendEmail) {
       await sendMail(
         row.signer_email,
-        `Our agreement — Faithful Kids`,
+        `Our agreement: Faithful Kids`,
         `<div style="font-family:system-ui,-apple-system,Segoe UI,sans-serif;color:#16314f;line-height:1.6;max-width:600px">
           <p>Hi,</p>
           <p>Here's the agreement for the work we discussed, in full. Have a read, and if you're
@@ -107,7 +107,7 @@ export async function POST(req: NextRequest) {
           <p style="margin:24px 0"><a href="${link}" style="background:#16a34a;color:#fff;font-weight:700;text-decoration:none;padding:13px 26px;border-radius:999px;display:inline-block">Read and sign the agreement</a></p>
           <p>If anything needs changing, just reply to this email instead of signing and I'll send
           a revised version. It comes straight to me.</p>
-          <p>— Christian<br />Faithful Kids</p>
+          <p> Christian<br />Faithful Kids</p>
         </div>`
       )
     }

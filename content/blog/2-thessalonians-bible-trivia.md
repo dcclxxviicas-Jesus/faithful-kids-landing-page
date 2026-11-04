@@ -38,9 +38,9 @@ Paul answers on two fronts. First, the day of the Lord has not arrived -- certai
 13. How did Paul model hard work while he was with them? **He worked night and day so he would not be a burden, and never ate anyone's food without paying for it** (2 Thessalonians 3:7-8)
 14. What were the believers told to stand firm and hold fast to? **The teachings passed on to them, whether by word of mouth or by letter** (2 Thessalonians 2:15)
 
-For a quieter follow-up, try the free [Daniel word search](/printables/bible-word-search/daniel) — twelve hidden words, answer key included.
+For a quieter follow-up, try the free [Daniel word search](/printables/bible-word-search/daniel), twelve hidden words, answer key included.
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 

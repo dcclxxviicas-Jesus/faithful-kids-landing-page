@@ -10,7 +10,7 @@ dateModified: "2026-08-18"
 
 # Yippee TV vs Faithful Kids: Entertainment vs Education
 
-The short version: Yippee TV is Christian entertainment — a streaming library of wholesome shows — while Faithful Kids is Bible education, a structured Genesis-to-Revelation video course where every lesson ends in a quiz. If your child needs more wholesome screen time, choose Yippee; if you want them actually learning the Bible, choose Faithful Kids. Many families use both. The full comparison, including pricing, is below.
+The short version: Yippee TV is Christian entertainment, a streaming library of wholesome shows, while Faithful Kids is Bible education, a structured Genesis-to-Revelation video course where every lesson ends in a quiz. If your child needs more wholesome screen time, choose Yippee; if you want them actually learning the Bible, choose Faithful Kids. Many families use both. The full comparison, including pricing, is below.
 
 Understanding the difference will save you from choosing the wrong tool for the job. It's like comparing a Christian radio station to a Bible study group -- both are valuable, but they do different things.
 

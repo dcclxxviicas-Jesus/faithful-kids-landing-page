@@ -25,9 +25,9 @@ I Am the Way is a Bible story from Hebrews/James/Revelation in the New Testament
 
 TITLE: I Am the Way SERIES: The Ending & the Beginning EPISODE: 7 SCRIPTURE: John 14:1-14
 
-My disciples were afraid. I could see it on their faces — the confusion, the worry, the quiet panic in their eyes. We were in the upper room, and I had just told them something that shook them to the core: I was leaving.
+My disciples were afraid. I could see it on their faces, the confusion, the worry, the quiet panic in their eyes. We were in the upper room, and I had just told them something that shook them to the core: I was leaving.
 
-Peter had already asked, "Where are you going?" Judas had already slipped out into the night. The room felt heavy. These men had left everything to follow me — their boats, their businesses, their families. And now I was telling them I wouldn't be with them much longer.
+Peter had already asked, "Where are you going?" Judas had already slipped out into the night. The room felt heavy. These men had left everything to follow me, their boats, their businesses, their families. And now I was telling them I wouldn't be with them much longer.
 
 So I said the words their hearts needed to hear.
 
@@ -43,7 +43,7 @@ The story of I Am the Way teaches children important lessons about faith, hope, 
 
 ## Key Bible Verse
 
-> *"I am the way and the truth and the life."* — John 14:6
+> *"I am the way and the truth and the life."* (John 14:6)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,7 +55,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus tell His disciples not to let happen?
 
-Jesus saw how afraid and worried His disciples were, so He told them, "Do not let your hearts be troubled. You believe in God — believe also in me." He wanted them to trust Him even when things looked scary.
+Jesus saw how afraid and worried His disciples were, so He told them, "Do not let your hearts be troubled. You believe in God, believe also in me." He wanted them to trust Him even when things looked scary.
 
 ### Which disciple asked, "How can we know the way?"
 
@@ -63,7 +63,7 @@ Thomas was the one who spoke up honestly and said, "Lord, we don't even know whe
 
 ### When Jesus said "I am the way, the truth, and the life," what was He teaching?
 
-Jesus didn't point to a system or a set of instructions. He said HE is the way to God. The path to the Father isn't a thing — it's a person. Knowing Jesus IS knowing God.
+Jesus didn't point to a system or a set of instructions. He said HE is the way to God. The path to the Father isn't a thing, it's a person. Knowing Jesus IS knowing God.
 
 
 ## Discussion Questions for Families

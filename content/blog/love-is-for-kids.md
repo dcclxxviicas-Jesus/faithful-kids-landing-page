@@ -25,13 +25,13 @@ Love Is is a Bible story from Romans/Corinthians/Ephesians in the New Testament.
 
 ## What Is the Story of Love Is for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 4 "Love Is" Based on 1 Corinthians 13 Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 4 "Love Is" Based on 1 Corinthians 13 Jesus Narrates
 
-Paul wrote a lot of letters. But right in the middle of one — his letter to the church in Corinth — he wrote something so beautiful that people still read it at weddings two thousand years later. It's all about love. Real love. My kind of love.
+Paul wrote a lot of letters. But right in the middle of one, his letter to the church in Corinth, he wrote something so beautiful that people still read it at weddings two thousand years later. It's all about love. Real love. My kind of love.
 
 And here's a secret: when Paul described love, he was describing me.
 
-"Love Is patient." That means love doesn't rush. It waits. When your little brother asks the same question for the tenth time — patience. When your friend is slow to understand — patience. I've been patient with you a million times. Love waits without getting angry.
+"Love Is patient." That means love doesn't rush. It waits. When your little brother asks the same question for the tenth time, patience. When your friend is slow to understand, patience. I've been patient with you a million times. Love waits without getting angry.
 
 This story comes from Romans/Corinthians/Ephesians and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of Love Is teaches children important lessons about love, faith, hope,
 
 ## Key Bible Verse
 
-> *"Love Is patient, love is kind."* — 1 Corinthians 13:4
+> *"Love Is patient, love is kind."* (1 Corinthians 13:4)
 
 There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Love Is about for kids?
 
-Love Is is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 4 "Love Is" Based on 1 Corinthians 13 Jesus Narrates
+Love Is is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES, EPISODE 4 "Love Is" Based on 1 Corinthians 13 Jesus Narrates
 
 ### What age is the story of Love Is appropriate for?
 

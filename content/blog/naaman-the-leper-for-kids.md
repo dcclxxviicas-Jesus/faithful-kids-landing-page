@@ -27,9 +27,9 @@ Naaman the Leper is a Bible story from 1 & 2 Kings in the Old Testament. This re
 
 NAAMAN THE LEPER Series: Elijah & Elisha | Episode 9 Scripture: 2 Kings 5
 
-Hey kids — today's story is about a man who had EVERYTHING — power, fame, armies, gold — but the ONE thing he couldn't fix was eating him alive. His name was Naaman. And this story is going to teach you something you'll never forget about humility.
+Hey kids, today's story is about a man who had EVERYTHING, power, fame, armies, gold, but the ONE thing he couldn't fix was eating him alive. His name was Naaman. And this story is going to teach you something you'll never forget about humility.
 
-Naaman was the commander of the entire Syrian army. Think five-star general. Kings respected him. Soldiers feared him. He had chariots, gold, servants — the works.
+Naaman was the commander of the entire Syrian army. Think five-star general. Kings respected him. Soldiers feared him. He had chariots, gold, servants, the works.
 
 But Naaman had leprosy. A skin disease that slowly destroyed your body. Painful, humiliating, and incurable. The greatest warrior in Syria was being defeated by his own skin.
 
@@ -45,9 +45,9 @@ The story of Naaman the Leper teaches children important lessons about faith, mi
 
 ## Key Bible Verse
 
-> *"Now I know that there is no God in all the world except in Israel."* — 2 Kings 5:15
+> *"Now I know that there is no God in all the world except in Israel."* (2 Kings 5:15)
 
-For the apprentice who carried the ministry further — the oil, Naaman, the horses of fire — see [Who Was Elisha in the Bible?](/blog/who-was-elisha-for-kids)
+For the apprentice who carried the ministry further, the oil, Naaman, the horses of fire, see [Who Was Elisha in the Bible?](/blog/who-was-elisha-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Who was Naaman?
 
-Naaman almost missed his miracle because God's instructions seemed too ordinary. He wanted something grand and impressive. But God doesn't need impressive — He needs obedience. When you humble yourself and do what God says, even when it seems too simple, that's when the breakthrough comes.
+Naaman almost missed his miracle because God's instructions seemed too ordinary. He wanted something grand and impressive. But God doesn't need impressive, He needs obedience. When you humble yourself and do what God says, even when it seems too simple, that's when the breakthrough comes.
 
 ### Who told Naaman about the prophet Elisha?
 
@@ -87,7 +87,7 @@ Naaman almost missed his miracle because God's instructions seemed too ordinary.
 
 ### What is the main lesson of this story?
 
-**God's solutions often seem too simple — humility and obedience beat pride every time.**
+**God's solutions often seem too simple, humility and obedience beat pride every time.**
 
 ## Discussion Questions for Families
 

@@ -40,9 +40,9 @@ Both readings are old, and both make sense of the letter -- so it's a great one 
 
 There is a free [Daniel word search](/printables/bible-word-search/daniel) to go with this, playable on a phone and printable for a class.
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 ## Medium 2 John Trivia Questions (Ages 9-12)
 

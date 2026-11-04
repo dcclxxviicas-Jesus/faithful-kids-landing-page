@@ -88,7 +88,7 @@ When the ex-persecutor Saul tried to join the Christians in Jerusalem, everyone 
 
 If your kids learn best by watching, every story on this list is available as a short animated video lesson with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-friendship).
 
-Pair this with our free [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan), one sheet, ready for the kitchen table or the classroom.
 
 The complete collection lives at our [Bible stories for kids](/bible-stories-for-kids) hub -- 200 simple retellings, free, in Bible order.
 
@@ -118,4 +118,4 @@ Barnabas and Saul. Everyone avoided Saul, and one person's welcome changed his l
 
 Ages 5-12. Younger kids (5-7) connect fastest with the four friends on the roof and Ruth's "where you go I will go." Older kids (8-12) are ready for the complicated ones -- Jonathan choosing a friend over his father's wishes, and Paul and Barnabas disagreeing without becoming enemies.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet, no sign-up.

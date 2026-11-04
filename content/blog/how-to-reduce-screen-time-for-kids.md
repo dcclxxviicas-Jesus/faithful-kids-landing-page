@@ -73,7 +73,7 @@ Kids mirror parents. If you are scrolling your phone at dinner, they will want t
 | Netflix before bed | Bedtime Bible mode (story + prayer + sleep) |
 | "I'm bored" screen time | Family Bible Night kit with discussion + snacks |
 
-From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails — what worked in his house was replacement, not prohibition.
+From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails, what worked in his house was replacement, not prohibition.
 
 ## The Goal Is Not Zero Screens
 

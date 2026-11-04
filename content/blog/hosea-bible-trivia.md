@@ -39,9 +39,9 @@ But the book's last word is not judgment -- it's a God who says "I will heal the
 14. What tribal nickname does Hosea use for Israel throughout the book? **Ephraim** (Hosea 4:17 and throughout)
 15. Matthew quotes Hosea 11:1 -- "Out of Egypt I called my son" -- about which event in Jesus' life? **His family's return from Egypt after fleeing Herod** (Matthew 2:14-15)
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
 ## Hard Hosea Trivia Questions (Teens and Adults)
 

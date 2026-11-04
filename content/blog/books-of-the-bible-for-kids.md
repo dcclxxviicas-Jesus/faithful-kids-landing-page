@@ -100,7 +100,7 @@ Tap any book for a kid-friendly trivia quiz on it -- answers included.
 
 If small hands need something to do while you read, the free [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) is made for exactly that.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
 

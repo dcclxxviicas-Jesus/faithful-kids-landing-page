@@ -38,7 +38,7 @@ Scripture's frame is stewardship, not prohibition. "Finally, brothers and sister
 
 This also relieves a lot of false guilt. Most Christian parents feel vaguely sinful about every minute their kids spend on a screen. But the guilt is usually about content, not screens -- few parents feel bad about a family movie night or a Bible story video. Name the real issue and you can actually fix it.
 
-From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails — what worked in his house was replacement, not prohibition.
+From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails, what worked in his house was replacement, not prohibition.
 
 ## How Much Screen Time Is Right at Each Age?
 

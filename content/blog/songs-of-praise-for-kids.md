@@ -25,13 +25,13 @@ Songs of Praise is a Bible story from 2 Samuel/Psalms in the Old Testament. This
 
 ## What Is the Story of Songs of Praise for Kids?
 
-KING DAVID'S REIGN — EPISODE 6: SONGS OF PRAISE Scriptures: Psalms 8, 19, 100, 150
+KING DAVID'S REIGN, EPISODE 6: SONGS OF PRAISE Scriptures: Psalms 8, 19, 100, 150
 
-Hey, amazing friends! Have you ever had a song stuck in your head — one that just makes you want to move, clap, or sing out loud? Well, today we're talking about the greatest songwriter who ever lived. That's right — King David. He wasn't just a warrior and a ruler. He was a musician to his core.
+Hey, amazing friends! Have you ever had a song stuck in your head, one that just makes you want to move, clap, or sing out loud? Well, today we're talking about the greatest songwriter who ever lived. That's right, King David. He wasn't just a warrior and a ruler. He was a musician to his core.
 
-David wrote songs called Psalms, and they became Israel's playlist — the soundtrack of an entire nation's relationship with God. People sang them in the temple, on the road, in their homes, in times of joy, and even in times of tears. Let me walk you through some of the greatest hits.
+David wrote songs called Psalms, and they became Israel's playlist, the soundtrack of an entire nation's relationship with God. People sang them in the temple, on the road, in their homes, in times of joy, and even in times of tears. Let me walk you through some of the greatest hits.
 
-First up — Psalm 8. David looked up at the night sky, saw the moon and the stars, and was completely blown away. He wrote, "O Lord, how majestic is your name in all the earth!" And then he asked this incredible question: "What is mankind that you are mindful of them?" Think about that. The God who flung galaxies into space — He thinks about YOU. He cares about you specifically. That's wild.
+First up, Psalm 8. David looked up at the night sky, saw the moon and the stars, and was completely blown away. He wrote, "O Lord, how majestic is your name in all the earth!" And then he asked this incredible question: "What is mankind that you are mindful of them?" Think about that. The God who flung galaxies into space, He thinks about YOU. He cares about you specifically. That's wild.
 
 This story comes from 2 Samuel/Psalms and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Songs of Praise teaches children important lessons about worship, r
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Songs of Praise about for kids?
 
-Songs of Praise is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 6: SONGS OF PRAISE Scriptures: Psalms 8, 19, 100, 150
+Songs of Praise is a story from 2 Samuel/Psalms. KING DAVID'S REIGN, EPISODE 6: SONGS OF PRAISE Scriptures: Psalms 8, 19, 100, 150
 
 ### What age is the story of Songs of Praise appropriate for?
 

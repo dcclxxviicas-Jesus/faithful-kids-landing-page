@@ -25,7 +25,7 @@ The Fiery Furnace is a Bible story from Daniel/Jonah/Isaiah in the Old Testament
 
 ## What Is the Story of The Fiery Furnace for Kids?
 
-EXILE & FAITH — EPISODE 4: THE FIERY FURNACE Based on Daniel 3 | Narrated by Jesus
+EXILE & FAITH, EPISODE 4: THE FIERY FURNACE Based on Daniel 3 | Narrated by Jesus
 
 This is one of the most jaw-dropping stories in the entire Bible. It has a ninety-foot golden statue, a furious king, a furnace cranked to maximum heat, and a mystery figure walking through the flames. Let's dive in.
 
@@ -45,7 +45,7 @@ The story of The Fiery Furnace teaches children important lessons about courage,
 
 ## Key Bible Verse
 
-> *"If we are thrown into the blazing furnace, the God we serve is able to deliver us."* — Daniel 3:17
+> *"If we are thrown into the blazing furnace, the God we serve is able to deliver us."* (Daniel 3:17)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How tall was the golden statue Nebuchadnezzar built?
 
-**90 feet.** The statue was 90 feet tall — an enormous monument to the king's pride.
+**90 feet.** The statue was 90 feet tall, an enormous monument to the king's pride.
 
 ### What did Shadrach, Meshach, and Abednego say to the king when he threatened them?
 
@@ -73,7 +73,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**Faith means trusting God with the outcome, not just when you know it'll work out.** Real faith means trusting God whether He rescues you or not. Shadrach, Meshach, and Abednego didn't demand a miracle — they chose faithfulness and left the outcome to God.
+**Faith means trusting God with the outcome, not just when you know it'll work out.** Real faith means trusting God whether He rescues you or not. Shadrach, Meshach, and Abednego didn't demand a miracle, they chose faithfulness and left the outcome to God.
 
 ## Discussion Questions for Families
 
@@ -112,7 +112,7 @@ There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/t
 
 ### What is the story of The Fiery Furnace about for kids?
 
-The Fiery Furnace is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 4: THE FIERY FURNACE Based on Daniel 3 | Narrated by Jesus
+The Fiery Furnace is a story from Daniel/Jonah/Isaiah. EXILE & FAITH, EPISODE 4: THE FIERY FURNACE Based on Daniel 3 | Narrated by Jesus
 
 ### What age is the story of The Fiery Furnace appropriate for?
 

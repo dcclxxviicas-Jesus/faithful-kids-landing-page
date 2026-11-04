@@ -48,9 +48,9 @@ Now the letter's big argument: Christ is completely enough, so dress your life a
 
 There is a free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) to go with this, playable on a phone and printable for a class.
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
 ## Hard Colossians Trivia Questions (Teens and Adults)
 

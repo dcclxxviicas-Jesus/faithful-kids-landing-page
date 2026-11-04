@@ -270,7 +270,7 @@ function Pitches({ rows, authors, articles, act, busy }: { rows: Submission[]; a
               <div className="f"><label>Assigned editor</label><input value={assigned} onChange={e => setAssigned(e.target.value)} onBlur={() => assigned !== (cur.assigned_to || '') && act({ action: 'submission.update', id: cur.id, assigned_to: assigned })} placeholder="Christian" /></div>
               <div className="f"><label>Article file (slug)</label>
                 <select value={cur.article_slug || ''} onChange={e => act({ action: 'submission.update', id: cur.id, article_slug: e.target.value })} disabled={busy}>
-                  <option value="">— none yet —</option>
+                  <option value="">none yet,</option>
                   {articles.map(a => <option key={a.slug} value={a.slug}>{a.slug} ({a.status})</option>)}
                 </select>
               </div>
@@ -278,7 +278,7 @@ function Pitches({ rows, authors, articles, act, busy }: { rows: Submission[]; a
             <div className="row">
               <div className="f"><label>Author file (slug)</label>
                 <select value={cur.author_slug || ''} onChange={e => act({ action: 'submission.update', id: cur.id, author_slug: e.target.value })} disabled={busy}>
-                  <option value="">— none yet —</option>
+                  <option value="">none yet,</option>
                   {authors.map(a => <option key={a.slug} value={a.slug}>{a.name} ({a.slug})</option>)}
                 </select>
               </div>
@@ -354,7 +354,7 @@ function OutreachTab({ rows, act, busy }: { rows: Outreach[]; act: (b: Record<st
                   <td>{r.name}{r.organization && <><br /><span className="tiny">{r.organization}</span></>}{r.role && <><br /><span className="tiny">{r.role}</span></>}</td>
                   <td className="tiny">{r.relationship_source || ''}</td>
                   <td><span className={`pill ${r.status}`}>{label(r.status)}</span></td>
-                  <td className="tiny">{short(r.last_contact_at) || '—'}{r.next_follow_up_at ? <><br />next {r.next_follow_up_at}</> : null}</td>
+                  <td className="tiny">{short(r.last_contact_at) || '–'}{r.next_follow_up_at ? <><br />next {r.next_follow_up_at}</> : null}</td>
                 </tr>
               ))}
             </tbody>

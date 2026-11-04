@@ -23,11 +23,11 @@ Running the Race is a Bible story from Romans/Corinthians/Ephesians in the New T
 
 ## What Is the Story of Running the Race for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 7 "Running the Race" Based on Hebrews 12:1-3, 1 Corinthians 9:24-27 Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 7 "Running the Race" Based on Hebrews 12:1-3, 1 Corinthians 9:24-27 Jesus Narrates
 
-Picture this. You're standing at the starting line of the biggest race of your life. Your heart is pounding. Your legs are ready. And when you look up into the stands — they're packed. Thousands of people, every single one on their feet, cheering for you.
+Picture this. You're standing at the starting line of the biggest race of your life. Your heart is pounding. Your legs are ready. And when you look up into the stands, they're packed. Thousands of people, every single one on their feet, cheering for you.
 
-Who are they? Abraham. Moses. David. Esther. Ruth. Daniel. Mary, my own mother. Every hero of faith who ever lived — all of them cheering you on. Hebrews calls them "a great cloud of witnesses."
+Who are they? Abraham. Moses. David. Esther. Ruth. Daniel. Mary, my own mother. Every hero of faith who ever lived, all of them cheering you on. Hebrews calls them "a great cloud of witnesses."
 
 And here's what the writer says next: "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the author and perfecter of faith."
 
@@ -43,7 +43,7 @@ The story of Running the Race teaches children important lessons about love, fai
 
 ## Key Bible Verse
 
-> *"Let us run with perseverance the race marked out for us."* — Hebrews 12:1
+> *"Let us run with perseverance the race marked out for us."* (Hebrews 12:1)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,11 +55,11 @@ After watching the video, see if your child can answer these questions:
 
 ### Who are the "great cloud of witnesses" cheering you on from the stands?
 
-The "great cloud of witnesses" in Hebrews 12 refers to all the faithful people who came before us — the heroes of faith from throughout the Bible who are now cheering us on as we run our race.
+The "great cloud of witnesses" in Hebrews 12 refers to all the faithful people who came before us, the heroes of faith from throughout the Bible who are now cheering us on as we run our race.
 
 ### What does Hebrews say we should "throw off" before we run?
 
-Hebrews 12:1 tells us to throw off everything that hinders and the sin that so easily entangles — like bad habits, distractions, and things that weigh us down and keep us from running well.
+Hebrews 12:1 tells us to throw off everything that hinders and the sin that so easily entangles, like bad habits, distractions, and things that weigh us down and keep us from running well.
 
 ### What kind of race is the life of faith compared to?
 
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Running the Race about for kids?
 
-Running the Race is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 7 "Running the Race" Based on Hebrews 12:1-3, 1 Corinthians 9:24-27 Jesus Narrates
+Running the Race is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES: EPISODE 7 "Running the Race" Based on Hebrews 12:1-3, 1 Corinthians 9:24-27 Jesus Narrates
 
 ### What age is the story of Running the Race appropriate for?
 

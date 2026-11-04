@@ -7,7 +7,7 @@ Disallow: /sign/
 Disallow: /cas-admin
 Disallow: /parenting/preview/
 
-# AI / answer-engine crawlers — explicitly welcome
+# AI / answer-engine crawlers, explicitly welcome
 User-agent: GPTBot
 Allow: /
 

@@ -16,7 +16,7 @@ That is exactly what makes the Psalms perfect for kids. Children feel big emotio
 
 Here are 10 Psalms every child should know, explained in simple language your family can use together.
 
-## 1. Psalm 23 — "The Lord Is My Shepherd"
+## 1. Psalm 23, "The Lord Is My Shepherd"
 
 **The verse:** "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul." (Psalm 23:1-3, NIV)
 
@@ -24,7 +24,7 @@ Here are 10 Psalms every child should know, explained in simple language your fa
 
 **When to share it:** When your child is anxious about something new, like starting a new school, sleeping at a friend's house, or facing a doctor's visit. Psalm 23 is the ultimate comfort Psalm. For more comfort scriptures, see these [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids).
 
-## 2. Psalm 100 — "Shout for Joy"
+## 2. Psalm 100, "Shout for Joy"
 
 **The verse:** "Shout for joy to the Lord, all the earth. Worship the Lord with gladness; come before him with joyful songs." (Psalm 100:1-2, NIV)
 
@@ -32,7 +32,7 @@ Here are 10 Psalms every child should know, explained in simple language your fa
 
 **When to share it:** On good days when your family wants to express gratitude. It is also a wonderful Psalm to read on Thanksgiving or at the start of a road trip. It sets a tone of joy and thankfulness, and pairs well with these [Bible verses about thankfulness](/blog/bible-verses-about-thankfulness-for-kids).
 
-## 3. Psalm 139 — "You Know Me Completely"
+## 3. Psalm 139, "You Know Me Completely"
 
 **The verse:** "You have searched me, Lord, and you know me. You know when I sit and when I rise; you perceive my thoughts from afar." (Psalm 139:1-2, NIV)
 
@@ -40,9 +40,9 @@ Here are 10 Psalms every child should know, explained in simple language your fa
 
 **When to share it:** When your child feels invisible, misunderstood, or different from their peers. Psalm 139 reminds them that God made them on purpose, with purpose, and He is proud of what He made.
 
-We drew a printable [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
-## 4. Psalm 119:105 — "Your Word Is a Lamp"
+## 4. Psalm 119:105, "Your Word Is a Lamp"
 
 **The verse:** "Your word is a lamp for my feet, a light on my path." (Psalm 119:105, NIV)
 
@@ -50,7 +50,7 @@ We drew a printable [journey to Bethlehem coloring page](/printables/bible-color
 
 **When to share it:** When your child is facing a tough decision, like whether to tell the truth about something, how to handle a bully, or what to do when friends are making bad choices. Remind them that the Bible is their flashlight.
 
-## 5. Psalm 46:1 — "God Is Our Refuge"
+## 5. Psalm 46:1, "God Is Our Refuge"
 
 **The verse:** "God is our refuge and strength, an ever-present help in trouble." (Psalm 46:1, NIV)
 
@@ -58,7 +58,7 @@ We drew a printable [journey to Bethlehem coloring page](/printables/bible-color
 
 **When to share it:** During storms (both weather storms and life storms). When there is bad news in the world, when a family member is sick, or when your child feels overwhelmed, this is the verse to hold onto.
 
-## 6. Psalm 56:3 — "When I Am Afraid"
+## 6. Psalm 56:3, "When I Am Afraid"
 
 **The verse:** "When I am afraid, I put my trust in you." (Psalm 56:3, NIV)
 
@@ -66,7 +66,7 @@ We drew a printable [journey to Bethlehem coloring page](/printables/bible-color
 
 **When to share it:** At bedtime when the dark feels scary. Before a test. When a child is worried about something they cannot control. This verse is short enough for even a four-year-old to memorize. More [Bible verses about fear](/blog/bible-verses-about-fear-for-kids) can help with those moments.
 
-## 7. Psalm 150 — "Praise Him with Everything"
+## 7. Psalm 150, "Praise Him with Everything"
 
 **The verse:** "Praise him with the sounding of the trumpet, praise him with the harp and lyre, praise him with timbrel and dancing, praise him with the strings and pipe." (Psalm 150:3-4, NIV)
 
@@ -74,7 +74,7 @@ We drew a printable [journey to Bethlehem coloring page](/printables/bible-color
 
 **When to share it:** When your family is in a worshipful mood. Put on music, let the kids bang pots and pans, dance around the kitchen. Psalm 150 gives permission to worship God with your whole body, not just your head.
 
-## 8. Psalm 34:8 — "Taste and See"
+## 8. Psalm 34:8, "Taste and See"
 
 **The verse:** "Taste and see that the Lord is good; blessed is the one who takes refuge in him." (Psalm 34:8, NIV)
 
@@ -82,7 +82,7 @@ We drew a printable [journey to Bethlehem coloring page](/printables/bible-color
 
 **When to share it:** When your child is skeptical or going through a dry spiritual season. This verse invites personal experience with God, not just secondhand knowledge. It is also a great verse to pair with a cooking activity or shared meal.
 
-## 9. Psalm 27:1 — "The Lord Is My Light"
+## 9. Psalm 27:1, "The Lord Is My Light"
 
 **The verse:** "The Lord is my light and my salvation, whom shall I fear? The Lord is the stronghold of my life, of whom shall I be afraid?" (Psalm 27:1, NIV)
 
@@ -90,7 +90,7 @@ We drew a printable [journey to Bethlehem coloring page](/printables/bible-color
 
 **When to share it:** When your child faces intimidation, whether from a bully, a scary situation, or general anxiety. This verse builds courage rooted in God's protection.
 
-## 10. Psalm 121 — "My Help Comes from the Lord"
+## 10. Psalm 121, "My Help Comes from the Lord"
 
 **The verse:** "I lift up my eyes to the mountains, where does my help come from? My help comes from the Lord, the Maker of heaven and earth." (Psalm 121:1-2, NIV)
 

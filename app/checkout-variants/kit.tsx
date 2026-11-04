@@ -45,7 +45,7 @@ export type PlanId = 'annual' | 'monthly'
 /** Real, verified feature list. */
 export const INCLUDED = [
   '300+ video lessons, Genesis to Revelation',
-  '31 series, in order — not on shuffle',
+  '31 series, in order, not on shuffle.',
   'A quiz and reflection after every lesson',
   'Up to 5 child profiles',
   'Parent dashboard with each child’s progress',
@@ -178,11 +178,11 @@ export function StickyBar({ plan, loading, onGo }: { plan: PlanId; loading: bool
 export const FAQS = [
   {
     q: 'What happens when the 7 days are up?',
-    a: `Your first year bills at $${ANNUAL_YEAR} unless you cancel before then. The confirmation email we send the moment you sign up states the exact date, the amount, and how to cancel — so it is written down before the trial even starts.`,
+    a: `Your first year bills at $${ANNUAL_YEAR} unless you cancel before then. The confirmation email we send the moment you sign up states the exact date, the amount, and how to cancel, so it is written down before the trial even starts.`,
   },
   {
     q: 'How do I cancel?',
-    a: 'From the parent dashboard, in two taps — it opens the Stripe billing portal where you can cancel immediately. No email, no phone call, no retention script.',
+    a: 'From the parent dashboard, in two taps, it opens the Stripe billing portal where you can cancel immediately. No email, no phone call, no retention script.',
   },
   {
     q: 'How long is a lesson?',
@@ -190,7 +190,7 @@ export const FAQS = [
   },
   {
     q: 'Can more than one child use it?',
-    a: 'Yes — up to five child profiles on one subscription, each with their own age setting and progress. There are no per-child fees.',
+    a: 'Yes, up to five child profiles on one subscription, each with their own age setting and progress. There are no per-child fees.',
   },
 ]
 

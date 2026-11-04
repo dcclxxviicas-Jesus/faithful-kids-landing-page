@@ -42,7 +42,7 @@ Peter also gives one of the Bible's clearest pictures of what we're waiting for:
 
 There is a free [Daniel word search](/printables/bible-word-search/daniel) to go with this, playable on a phone and printable for a class.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 
@@ -88,7 +88,7 @@ The book also opens great conversations: Peter's ladder in 1:5-7 makes a fun mem
 
 Looking for easier questions? Our [Bible trivia made for kids](/blog/bible-trivia-for-kids) starts at ages 5 and up.
 
-Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost — [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost, [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 

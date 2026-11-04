@@ -22,7 +22,7 @@ const PACKS = [
   {
     href: '/printables/jesse-tree',
     emoji: '\u{1F384}',
-    title: 'Jesse Tree — 25 Ornaments & Readings',
+    title: 'Jesse Tree, 25 Ornaments & Readings',
     description:
       'The whole Bible story from Creation to the manger, one ornament a day through Advent. Twenty-five printable ornaments drawn for coloring, each with its daily Scripture reading and a one-line summary to start the conversation.',
     details: 'December 1-25 \u00b7 Free PDF \u00b7 No email, no sign-up',
@@ -40,7 +40,7 @@ const PACKS = [
     emoji: '\u2B50',
     title: 'Christmas & Nativity Coloring Pages',
     description:
-      'Six nativity pages following the Christmas story in order — the angel and Mary, the journey to Bethlehem, the stable, the shepherds on the hillside, and the wise men who arrived much later than the cards suggest.',
+      'Six nativity pages following the Christmas story in order, the angel and Mary, the journey to Bethlehem, the stable, the shepherds on the hillside, and the wise men who arrived much later than the cards suggest.',
     details: 'One a week through Advent · No email, no sign-up',
   },
   {
@@ -54,23 +54,23 @@ const PACKS = [
   {
     href: '/printables/bible-word-search',
     emoji: '🔍',
-    title: 'Bible Word Search — 12 Puzzles',
+    title: 'Bible Word Search, 12 Puzzles',
     description:
-      'Twelve printable Bible word searches — the whole-Bible classic plus story and season puzzles: Noah, Christmas, Thanksgiving, Easter, David and Goliath, the armor of God. Answer keys on the page.',
+      'Twelve printable Bible word searches, the whole-Bible classic plus story and season puzzles: Noah, Christmas, Thanksgiving, Easter, David and Goliath, the armor of God. Answer keys on the page.',
     details: 'Ages 6+ · Answer keys included · No email, no sign-up',
   },
   {
     href: '/printables/bible-crossword',
     emoji: '✏️',
-    title: 'Bible Crossword Puzzles — 7 Puzzles',
+    title: 'Bible Crossword Puzzles, 7 Puzzles',
     description:
-      'Seven interlocking crosswords with clues drawn from the stories themselves — the whole-Bible puzzle plus Christmas, Noah, Moses, David and Goliath, Easter, and the miracles of Jesus. Playable in the browser, printable with answer keys.',
+      'Seven interlocking crosswords with clues drawn from the stories themselves, the whole-Bible puzzle plus Christmas, Noah, Moses, David and Goliath, Easter, and the miracles of Jesus. Playable in the browser, printable with answer keys.',
     details: 'Ages 6+ · Answer keys included · No email, no sign-up',
   },
   {
     href: '/printables/bible-coloring-pages',
     emoji: '🖍️',
-    title: 'Bible Coloring Pages — 26 Printables',
+    title: 'Bible Coloring Pages, 26 Printables',
     description:
       '26 Bible scenes drawn as clean line art for young children, Creation through the Empty Tomb, including full Christmas and Easter sets. Bold simple outlines with room for thick crayons, each with its Scripture reference.',
     details: 'Print the whole set or one page · No email, no sign-up',
@@ -78,31 +78,31 @@ const PACKS = [
   {
     href: '/printables/bible-maps',
     emoji: '\u{1F5FA}️',
-    title: 'Bible Maps — 6 Printable Maps',
+    title: 'Bible Maps, 6 Printable Maps',
     description:
-      'Six maps with real geography — the Promised Land, the Exodus route, the 12 tribes, ancient Israel, Israel in Jesus’ time, and Paul’s journeys. Over 100 labeled places, every one at its true coordinates.',
+      'Six maps with real geography, the Promised Land, the Exodus route, the 12 tribes, ancient Israel, Israel in Jesus’ time, and Paul’s journeys. Over 100 labeled places, every one at its true coordinates.',
     details: 'Real coastlines · Free PDFs · No email, no sign-up',
   },
   {
     href: '/printables/bible-timeline',
     emoji: '\u{1F4DC}',
-    title: 'Bible Timeline — Wall Chart',
+    title: 'Bible Timeline, Wall Chart',
     description:
-      'The whole story in order on one sheet — thirteen eras from Creation to the early church, with dates where history gives them, key events, and the books of the Bible each era lives in.',
+      'The whole story in order on one sheet, thirteen eras from Creation to the early church, with dates where history gives them, key events, and the books of the Bible each era lives in.',
     details: 'One-page chart · Free PDF · No email, no sign-up',
   },
   {
     href: '/printables/valentine-bible-verse-cards',
     emoji: '\u{1F48C}',
-    title: 'Valentine Bible Verse Cards — 12 to Color',
+    title: 'Valentine Bible Verse Cards, 12 to Color',
     description:
-      'Twelve printable Valentine cards, each with a short Bible verse about love and a line-art picture kids color themselves before handing them out — school exchange, Sunday school, or the fridge door.',
+      'Twelve printable Valentine cards, each with a short Bible verse about love and a line-art picture kids color themselves before handing them out, school exchange, Sunday school, or the fridge door.',
     details: '4 per sheet · To/From lines · Color-your-own · No sign-up',
   },
   {
     href: '/printables/books-of-the-bible',
     emoji: '📚',
-    title: 'Books of the Bible — Chart & Bookmarks',
+    title: 'Books of the Bible, Chart & Bookmarks',
     description:
       'All 66 books in order on one chart, grouped the way the Bible groups them with chapter counts for every book, plus cut-out bookmarks for their Bibles. The groups are the memory trick.',
     details: 'One-page chart · 2 bookmarks · Free PDF · No sign-up',
@@ -110,7 +110,7 @@ const PACKS = [
   {
     href: '/printables/bible-trivia-pack',
     emoji: '🏆',
-    title: 'Bible Trivia Pack — 100 Questions',
+    title: 'Bible Trivia Pack, 100 Questions',
     description:
       '100 kid-friendly Bible trivia questions in three difficulty levels, every answer with its Scripture reference. Perfect for family game night, Sunday school, road trips, or homeschool review.',
     details: 'Easy, medium & hard rounds · Answer key with verse references',
@@ -118,7 +118,7 @@ const PACKS = [
   {
     href: '/printables/advent-readings',
     emoji: '🕯️',
-    title: 'Advent Bible Readings — 25 Days',
+    title: 'Advent Bible Readings, 25 Days',
     description:
       'December 1 to 25: one short reading a night from the first promise in Genesis to the manger, with a discussion question for each day. The readings double as Bible verses for a homemade Advent calendar.',
     details: '25 daily readings · Discussion questions · Prophecies through Christmas morning',
@@ -128,7 +128,7 @@ const PACKS = [
     emoji: '📅',
     title: '30-Day Family Bible Challenge',
     description:
-      'One month of short daily readings that walk your family through the big story of the Bible — creation to resurrection — with a summary and a discussion question for each day.',
+      'One month of short daily readings that walk your family through the big story of the Bible, creation to resurrection, with a summary and a discussion question for each day.',
     details: '30 daily readings · Discussion questions · Genesis through the Gospels',
   },
   {
@@ -154,7 +154,7 @@ function PrintablesV2() {
         eyebrow="Free Downloads"
         title={<>Free Printable <span className="hv-love"><span className="l l1">B</span><span className="l l2">i</span><span className="l l3">b</span><span className="l l4">l</span><span className="l l1">e</span></span> Activities</>}
         sub={<>Print-ready Bible resources for families, homeschoolers, and Sunday school teachers.
-          Completely free &mdash; no sign-up, no email required. Print as many copies as you like
+          Completely free, no sign-up, no email required. Print as many copies as you like
           for your family, class, or church group.</>}
       />
 
@@ -179,7 +179,7 @@ function PrintablesV2() {
           eyebrow="Who Makes These?"
           title="A gift from Faithful Kids"
           sub={<>These printables are made by Faithful Kids, a Bible video learning app for kids
-            ages 7&ndash;15 &mdash; short story episodes, quizzes, and reflections that make
+            ages 7&ndash;15, short story episodes, quizzes, and reflections that make
             Scripture stick. The printables are our gift to families either way. And if your kids
             like trivia on paper, they&apos;ll love the{' '}
             <a href="/bible-trivia" style={g}>free online trivia game</a>.</>}
@@ -203,7 +203,7 @@ function PrintablesV2() {
         </ul>
         <h2>Want the stories behind the trivia?</h2>
         <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '36em' }}>
-          Faithful Kids brings every one of these stories to life &mdash; 300+ short video episodes
+          Faithful Kids brings every one of these stories to life, 300+ short video episodes
           with quizzes and reflections, Genesis to Revelation.
         </p>
         <a className="hv-cta" href="/quiz">
@@ -219,7 +219,7 @@ function PrintablesV2() {
         {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
         duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
         heading="Free is the start, not the whole thing"
-        body="Every printable here comes from a story in the Faithful Kids library. The episodes tell it properly — a few minutes each, with a quiz afterwards so you can see what your child actually understood, across 200 stories in order."
+        body="Every printable here comes from a story in the Faithful Kids library. The episodes tell it properly, a few minutes each, with a quiz afterwards so you can see what your child actually understood, across 200 stories in order."
         source="printables-index"
       />
 

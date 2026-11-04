@@ -43,7 +43,7 @@ The story of Let My People Go teaches children important lessons about freedom, 
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 

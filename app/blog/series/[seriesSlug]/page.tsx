@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const seriesName = posts[0].series
   const testament = posts[0].testament
-  const title = `${seriesName} — Bible Stories for Kids`
+  const title = `${seriesName}, Bible Stories for Kids`
   const description = `All ${posts.length} episodes in the ${seriesName} series. ${testament} Bible stories explained simply for kids ages 5+, with videos, quizzes, and discussion questions.`
 
   return {
@@ -151,7 +151,7 @@ export default async function SeriesPage({ params }: Props) {
         <a href="/blog/faithful-kids-scope-and-sequence" style={{ color: '#059669', fontWeight: 700 }}>
           See the full scope and sequence
         </a>{' '}
-        — all 31 series in unlock order, Genesis to Revelation.
+        all 31 series in unlock order, Genesis to Revelation.
       </p>
 
       <section className="blog-bottom-cta">

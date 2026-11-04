@@ -106,7 +106,7 @@ export function ToggleTreatment({
             <ul className="cv-onecard-list">
               {annual ? (
                 <>
-                  <li><span className="cv-tick">{'✓'}</span>Free for 7 days &mdash; $0.00 today</li>
+                  <li><span className="cv-tick">{'✓'}</span>Free for 7 days, $0.00 today</li>
                   <li><span className="cv-tick">{'✓'}</span>You keep <strong>${saved}</strong> versus monthly</li>
                   <li><span className="cv-tick">{'✓'}</span>That is about <strong>{monthsFree} months free</strong></li>
                 </>
@@ -139,7 +139,7 @@ export function ToggleTreatment({
               quiz-variants/shared.tsx. */}
           {!annual && (
             <button className="cv-seg-nudge" onClick={() => setPlan('annual', tag, 'nudge')}>
-              Yearly works out at <strong>${yearMonth}/month</strong> &mdash; you keep{' '}
+              Yearly works out at <strong>${yearMonth}/month</strong> you keep{' '}
               <strong>${saved}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
             </button>
           )}
@@ -258,7 +258,7 @@ export function TwinTreatment() {
 
           <p className="cv-terms">
             {annual
-              ? <><strong>$0.00 today.</strong> Free until {trialEndDate()}, then ${ANNUAL_YEAR} for the year &mdash; ${saved} less than paying monthly.</>
+              ? <><strong>$0.00 today.</strong> Free until {trialEndDate()}, then ${ANNUAL_YEAR} for the year, ${saved} less than paying monthly.</>
               : <><strong>${MONTHLY} today</strong>, then every month. Over a year that is ${saved} more than the yearly plan.</>}
           </p>
         </Shell>

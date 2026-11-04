@@ -126,7 +126,7 @@ Running this with a big group? Put our [online Bible trivia](/bible-trivia) on t
 
 Sunday school leaders: the [Bible word searches](/printables/bible-word-search) print one to a sheet with the answer key included.
 
-For more structured chaos, browse [youth group games that actually work](/blog/youth-group-games) — 55 of them, sized for small, medium, and large groups.
+For more structured chaos, browse [youth group games that actually work](/blog/youth-group-games), 55 of them, sized for small, medium, and large groups.
 
 A related freebie: our [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper), drawn as clean line art for crayons and markers.
 
@@ -152,4 +152,4 @@ Let them tell it. Ask a confident child to retell the story, then teach into the
 ### Do I need a curriculum, or can I just teach from this list?
 You can teach straight from this list -- story, verse, discussion, and a game is a complete lesson. A curriculum adds printables and crafts, but no published program rescues a lesson taught without enthusiasm, and none is required to teach one well. If you would rather start from something already assembled, our library of [ready-to-teach kids lessons](/blog/sunday-school-lessons-for-kids) is sorted by age and costs nothing to use.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.

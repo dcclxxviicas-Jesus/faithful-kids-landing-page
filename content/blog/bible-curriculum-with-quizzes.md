@@ -88,7 +88,7 @@ Leaders who want a round for themselves should try our [hard Bible trivia for ad
 
 For the app side of this question, our comparison of [Bible apps with a quiz after every lesson](/blog/bible-apps-with-quiz-after-every-lesson) checks which apps actually verify comprehension.
 
-Running this at church rather than home? The [free kids ministry curriculum guide](/blog/free-bible-curriculum-for-kids-ministry) covers what churches get free — including Faithful Kids itself.
+Running this at church rather than home? The [free kids ministry curriculum guide](/blog/free-bible-curriculum-for-kids-ministry) covers what churches get free, including Faithful Kids itself.
 
 Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
 

@@ -84,7 +84,7 @@ Luke is the longest of the four gospels by word count, and it's volume one of a 
 
 A related freebie: our [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep), drawn as clean line art for crayons and markers.
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 

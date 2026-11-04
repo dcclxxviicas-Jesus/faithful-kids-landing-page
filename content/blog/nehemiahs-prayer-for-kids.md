@@ -25,13 +25,13 @@ Nehemiah's Prayer is a Bible story from Ezra/Nehemiah/Esther in the Old Testamen
 
 ## What Is the Story of Nehemiah's Prayer for Kids?
 
-TITLE: Nehemiah's Prayer SERIES: The Return Home — Episode 4 SCRIPTURE: Nehemiah 1–2
+TITLE: Nehemiah's Prayer SERIES: The Return Home, Episode 4 SCRIPTURE: Nehemiah 1–2
 
-Pop quiz — what do you do when you hear news that breaks your heart? Do you post about it? Vent to a friend? Scroll past and try to forget?
+Pop quiz, what do you do when you hear news that breaks your heart? Do you post about it? Vent to a friend? Scroll past and try to forget?
 
 Nehemiah did something different. And what he did changed the course of an entire nation.
 
-Here's the setup. Nehemiah was living in Persia, working as the personal cupbearer to King Artaxerxes. That's not just some servant pouring juice — the cupbearer was one of the most trusted people in the kingdom. He tasted the king's wine to make sure it wasn't poisoned. He was basically the king's bodyguard, advisor, and confidant rolled into one. Nehemiah had a GOOD life — secure, prestigious, comfortable.
+Here's the setup. Nehemiah was living in Persia, working as the personal cupbearer to King Artaxerxes. That's not just some servant pouring juice, the cupbearer was one of the most trusted people in the kingdom. He tasted the king's wine to make sure it wasn't poisoned. He was basically the king's bodyguard, advisor, and confidant rolled into one. Nehemiah had a GOOD life, secure, prestigious, comfortable.
 
 This story comes from Ezra/Nehemiah/Esther and is part of the Old Testament.
 
@@ -45,11 +45,11 @@ The story of Nehemiah's Prayer teaches children important lessons about rebuildi
 
 ## Key Bible Verse
 
-> *"The God of heaven will give us success."* — Nehemiah 2:20
+> *"The God of heaven will give us success."* (Nehemiah 2:20)
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
-For the whole 52-day project — the prayers, the mockers, the wall — see [Who Was Nehemiah in the Bible?](/blog/who-was-nehemiah-for-kids)
+For the whole 52-day project, the prayers, the mockers, the wall, see [Who Was Nehemiah in the Bible?](/blog/who-was-nehemiah-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What was Nehemiah's job in Persia?
 
-**He was the king's cupbearer.** Nehemiah was the cupbearer to King Artaxerxes. This was a high-ranking, trusted position — he tasted the king's wine and served as a close confidant.
+**He was the king's cupbearer.** Nehemiah was the cupbearer to King Artaxerxes. This was a high-ranking, trusted position, he tasted the king's wine and served as a close confidant.
 
 ### What devastating news did Nehemiah receive about Jerusalem?
 
@@ -73,7 +73,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Nehemiah do in the split second before answering the king?
 
-**He prayed to the God of heaven.** In that critical instant, Nehemiah "prayed to the God of heaven" — a quick, silent prayer before speaking. He was ready because months of prayer had prepared him.
+**He prayed to the God of heaven.** In that critical instant, Nehemiah "prayed to the God of heaven" (a quick, silent prayer before speaking. He was ready because months of prayer had prepared him.
 
 ### What did the king give Nehemiah when he asked for help?
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Nehemiah's Prayer about for kids?
 
-Nehemiah's Prayer is a story from Ezra/Nehemiah/Esther. TITLE: Nehemiah's Prayer SERIES: The Return Home — Episode 4 SCRIPTURE: Nehemiah 1–2
+Nehemiah's Prayer is a story from Ezra/Nehemiah/Esther. TITLE: Nehemiah's Prayer SERIES: The Return Home, Episode 4 SCRIPTURE: Nehemiah 1–2
 
 ### What age is the story of Nehemiah's Prayer appropriate for?
 

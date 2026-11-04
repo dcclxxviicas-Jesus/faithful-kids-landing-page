@@ -12,7 +12,7 @@ A Bible craft without a lesson is just arts and crafts. But when a child builds 
 
 These 10 crafts are designed for kids ages 4-12, use supplies you probably already have at home, and each one ties directly to a Bible story and a life lesson. They work beautifully for Sunday school (see our dedicated [Bible crafts for Sunday school](/blog/bible-crafts-for-sunday-school) list), homeschool Bible time, VBS, or a rainy afternoon at home.
 
-## 1. Rainbow Promise Painting — Noah's Ark
+## 1. Rainbow Promise Painting, Noah's Ark
 
 **Bible Story:** Genesis 9:12-17
 **Lesson:** God keeps His promises.
@@ -32,7 +32,7 @@ After the flood, God set a rainbow in the sky and promised Noah He would never d
 
 **Discussion while crafting:** "God made this promise thousands of years ago and He's still keeping it today. Every time you see a rainbow, what should you remember? What's a promise God has made to you that you're waiting for?"
 
-## 2. Paper Plate Lion — Daniel and the Lion's Den
+## 2. Paper Plate Lion, Daniel and the Lion's Den
 
 **Bible Story:** Daniel 6:1-28
 **Lesson:** God protects those who are faithful to Him.
@@ -55,7 +55,7 @@ Daniel prayed three times a day even when it was against the law. He was thrown 
 
 **Discussion while crafting:** "Daniel could have stopped praying for 30 days and avoided the lions. Why didn't he? What's something you would keep doing even if you got in trouble for it?"
 
-## 3. Bethlehem Star — The Birth of Jesus
+## 3. Bethlehem Star, The Birth of Jesus
 
 **Bible Story:** Matthew 2:1-12
 **Lesson:** Jesus is worth seeking.
@@ -80,7 +80,7 @@ The wise men followed a star across hundreds of miles to find Jesus. They brough
 
 For quiet time afterwards, print the free [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) and let them color while you talk it through.
 
-## 4. Easter Cross — The Crucifixion and Resurrection
+## 4. Easter Cross, The Crucifixion and Resurrection
 
 **Bible Story:** Matthew 27:32-28:10
 **Lesson:** Jesus' death brought life.
@@ -103,7 +103,7 @@ The cross was a place of suffering, but because of the resurrection, it became a
 
 **Discussion while crafting:** "Why do Christians call the day Jesus died 'Good Friday'? How did Jesus turn something terrible into something beautiful? What burden do you want to give to Jesus today?"
 
-## 5. Coat of Many Colors — Joseph's Story
+## 5. Coat of Many Colors, Joseph's Story
 
 **Bible Story:** Genesis 37:1-4
 **Lesson:** God uses every chapter of our story -- even the painful ones.
@@ -124,7 +124,7 @@ Jacob gave Joseph a special coat, and Joseph's brothers burned with jealousy. Th
 
 **Discussion while crafting:** "Joseph's brothers were jealous of his coat and what it represented. Have you ever been jealous of something someone else had? What does Joseph's story teach us about trusting God with unfair situations?"
 
-## 6. Cardboard Ark — Noah's Obedience
+## 6. Cardboard Ark, Noah's Obedience
 
 **Bible Story:** Genesis 6:9-22
 **Lesson:** Obedience to God sometimes looks foolish to the world.
@@ -148,7 +148,7 @@ God asked Noah to build a massive boat in a place where it probably hadn't raine
 
 **Discussion while crafting:** "Building a boat when there's no water takes serious trust. What's the hardest thing God has ever asked you to trust Him with? Noah obeyed 'everything just as God commanded.' What does full obedience look like in your life?"
 
-## 7. Mustard Seed Faith Jar — Jesus' Parable
+## 7. Mustard Seed Faith Jar, Jesus' Parable
 
 **Bible Story:** Matthew 17:20
 **Lesson:** Even tiny faith can do extraordinary things.
@@ -171,7 +171,7 @@ Jesus said, "If you have faith as small as a mustard seed, you can say to this m
 
 **Discussion while crafting:** "Look at how tiny this seed is. Jesus said that's all the faith you need. Why do you think He used something so small as an example? What 'mountain' in your life do you need faith to move?"
 
-## 8. Good Samaritan Bandage Card — Love Your Neighbor
+## 8. Good Samaritan Bandage Card, Love Your Neighbor
 
 **Bible Story:** Luke 10:25-37
 **Lesson:** Real love requires action, not just feelings.
@@ -193,7 +193,7 @@ A man was beaten and left on the road. A priest and a Levite walked past. A Sama
 
 **Discussion while crafting:** "The Good Samaritan didn't just feel sorry for the hurt man -- he stopped, knelt down, and helped. Who in your life might need 'bandaging' right now? What does it cost you to help someone -- your time, your comfort, your plans?"
 
-## 9. Prayer Hands — Teaching Kids to Pray
+## 9. Prayer Hands, Teaching Kids to Pray
 
 **Bible Story:** Matthew 6:9-13 (The Lord's Prayer)
 **Lesson:** Prayer is talking to God -- and He always listens.
@@ -220,7 +220,7 @@ Jesus taught His disciples to pray with a simple model: praise God, ask for dail
 
 **Discussion while crafting:** "Jesus taught us to pray in a specific order: praise, provision, forgiveness, protection. Why do you think praise comes first? Which finger prayer feels most important to you right now?"
 
-## 10. Fruit of the Spirit Tree — Growing in Character
+## 10. Fruit of the Spirit Tree, Growing in Character
 
 **Bible Story:** Galatians 5:22-23
 **Lesson:** God grows good things in us when we stay connected to Him.

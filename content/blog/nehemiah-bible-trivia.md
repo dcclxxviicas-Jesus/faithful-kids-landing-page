@@ -62,13 +62,13 @@ The story has two halves: chapters 1-7 cover the wall -- the prayer, the night i
 
 20. What did the people do when Ezra opened the Book of the Law? **They all stood up, and they listened from daybreak till noon** (Nehemiah 8:3, 5)
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
-For the whole 52-day project — the prayers, the mockers, the wall — see [Who Was Nehemiah in the Bible?](/blog/who-was-nehemiah-for-kids)
+For the whole 52-day project, the prayers, the mockers, the wall, see [Who Was Nehemiah in the Bible?](/blog/who-was-nehemiah-for-kids)
 
 ## Hard Nehemiah Trivia Questions (Teens and Adults)
 

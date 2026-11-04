@@ -25,11 +25,11 @@ Breakfast on the Beach is a Bible story from Matthew/Luke/Acts in the New Testam
 
 ## What Is the Story of Breakfast on the Beach for Kids?
 
-HE IS RISEN — Episode 5: Breakfast on the Beach Based on John 21:1-14 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN, Episode 5: Breakfast on the Beach Based on John 21:1-14 Series: He Is Risen | Target Age: 7-15
 
-I want to tell you about a morning that might surprise you. After the most important event in human history — my resurrection from the dead — you might expect me to do something dramatic. Summon the nations. Appear in the temple. Announce myself to kings. But instead? I made breakfast.
+I want to tell you about a morning that might surprise you. After the most important event in human history, my resurrection from the dead, you might expect me to do something dramatic. Summon the nations. Appear in the temple. Announce myself to kings. But instead? I made breakfast.
 
-Here is what happened. Some of my disciples — Peter, Thomas, Nathanael, James, John, and two others — had gone back to the Sea of Galilee. Peter said, "I am going out to fish." The others said, "We will go with you." So they got in a boat, pushed out onto the dark water, and fished all night long.
+Here is what happened. Some of my disciples, Peter, Thomas, Nathanael, James, John, and two others, had gone back to the Sea of Galilee. Peter said, "I am going out to fish." The others said, "We will go with you." So they got in a boat, pushed out onto the dark water, and fished all night long.
 
 They caught absolutely nothing. Not a single fish. All night. Every cast, empty. Every net, empty. Hours and hours of work with nothing to show for it.
 
@@ -45,7 +45,7 @@ The story of Breakfast on the Beach teaches children important lessons about res
 
 ## Key Bible Verse
 
-> *"Come and have breakfast."* — John 21:12
+> *"Come and have breakfast."* (John 21:12)
 
 For quiet time afterwards, print the free [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) and let them color while you talk it through.
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How many fish did the disciples catch before Jesus told them where to cast their net?
 
-**None — they caught nothing all night.** They fished all night long and caught absolutely nothing. Every cast came up empty.
+**None, they caught nothing all night.** They fished all night long and caught absolutely nothing. Every cast came up empty.
 
 ### What did Jesus tell the disciples to do from the shore?
 
@@ -71,11 +71,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Peter do when John said, "It is the Lord"?
 
-**He threw on his outer garment and jumped into the water to swim to Jesus.** Peter could not wait. The moment he knew it was Jesus, he jumped in and swam to shore. That is Peter for you — all in, every time.
+**He threw on his outer garment and jumped into the water to swim to Jesus.** Peter could not wait. The moment he knew it was Jesus, he jumped in and swam to shore. That is Peter for you, all in, every time.
 
 ### What had Jesus prepared for the disciples on the shore?
 
-**A charcoal fire with bread and fish — breakfast.** The risen King of the universe had a fire going with bread and fish ready. He made breakfast for His tired, hungry friends.
+**A charcoal fire with bread and fish, breakfast.** The risen King of the universe had a fire going with bread and fish ready. He made breakfast for His tired, hungry friends.
 
 ## Discussion Questions for Families
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Breakfast on the Beach about for kids?
 
-Breakfast on the Beach is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 5: Breakfast on the Beach Based on John 21:1-14 Series: He Is Risen | Target Age: 7-15
+Breakfast on the Beach is a story from Matthew/Luke/Acts. HE IS RISEN, Episode 5: Breakfast on the Beach Based on John 21:1-14 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of Breakfast on the Beach appropriate for?
 

@@ -9,7 +9,7 @@ datePublished: "2026-09-16"
 dateModified: "2026-09-16"
 ---
 
-Two Bible apps for kids are built as a path through the whole Bible in order: **Faithful Kids** (31 series, more than 300 lessons, Genesis to Revelation with the Old Testament first, ages 5 to 15) and **BibleBuddy Kids** ("82 stories from Genesis to Revelation," ages 6 to 8). The rest offer a curated set of famous stories — YouVersion's Bible App for Kids has 41, Guardians of Ancora tells "30 or so" inside a game — or are episode-based series like Superbook, or streaming catalogs like Minno. Checked September 16, 2026.
+Two Bible apps for kids are built as a path through the whole Bible in order: **Faithful Kids** (31 series, more than 300 lessons, Genesis to Revelation with the Old Testament first, ages 5 to 15) and **BibleBuddy Kids** ("82 stories from Genesis to Revelation," ages 6 to 8). The rest offer a curated set of famous stories, YouVersion's Bible App for Kids has 41, Guardians of Ancora tells "30 or so" inside a game, or are episode-based series like Superbook, or streaming catalogs like Minno. Checked September 16, 2026.
 
 The difference shows up in what a child knows after a year. On a story-set app they know Noah, David, Daniel, Jonah and the Christmas and Easter stories, and possibly nothing between Joshua and the Exile. On an in-order app they know that Ruth comes after Judges because they watched Judges last month, that the kings came after the judges, and why the exile happened. Kids' Bible content skews heavily toward Jesus stories and a handful of Old Testament heroes; "the Old Testament, not just Jesus stories" is a real gap, and this page is for the parents asking about it.
 
@@ -29,7 +29,7 @@ Competitor facts are from each app's App Store listing or website on the date ab
 
 ## What "in order" gives a child that a story set does not
 
-**The story between the stories.** Genesis to Revelation is one narrative — promise, exile, return, fulfilment — and it only reads that way in sequence. A set of the famous bits teaches the bits.
+**The story between the stories.** Genesis to Revelation is one narrative, promise, exile, return, fulfilment, and it only reads that way in sequence. A set of the famous bits teaches the bits.
 
 **The unfamous books.** Judges, Ruth, the two Kings, Ezra and Nehemiah, the minor prophets. Almost no kids' app touches them, and they are where a ten-year-old's "wait, what happened next?" actually gets answered. The first ten of Faithful Kids' 31 series are Old Testament, before the Gospels begin: Genesis, Exodus, The Promised Land, Judges and Ruth, Rise of Kings, King David's Reign, Solomon and the Kingdom, Elijah and Elisha, Exile and Faith, and The Return Home.
 
@@ -45,15 +45,15 @@ Competitor facts are from each app's App Store listing or website on the date ab
 
 ## Good apps that are not this
 
-**Bible App for Kids** — 41 stories, free, ages 4 to 8, animated and interactive. The right first app; not a path.
+**Bible App for Kids**, 41 stories, free, ages 4 to 8, animated and interactive. The right first app; not a path.
 
-**Guardians of Ancora** — a free 3D game, ages 8 to 11, that tells about 30 stories along a Genesis-to-Revelation arc released gradually through updates. Closer to "in order" than most, but it is a game with stories in it rather than a course.
+**Guardians of Ancora**, a free 3D game, ages 8 to 11, that tells about 30 stories along a Genesis-to-Revelation arc released gradually through updates. Closer to "in order" than most, but it is a game with stories in it rather than a course.
 
-**Superbook** — 68 animated episodes, many of them Old Testament, free, ages 5 to 12. Watch in any order; there is no sequence to follow, and the app does not track where a child is in the Bible.
+**Superbook**, 68 animated episodes, many of them Old Testament, free, ages 5 to 12. Watch in any order; there is no sequence to follow, and the app does not track where a child is in the Bible.
 
-**SunScool** — 600+ lessons organised by topic (Creation, the patriarchs, the Nativity, Easter, the apostles), with puzzles rather than video. Broad, free, and not sequential.
+**SunScool**, 600+ lessons organised by topic (Creation, the patriarchs, the Nativity, Easter, the apostles), with puzzles rather than video. Broad, free, and not sequential.
 
-**Minno** — shows. What a child learns about the Old Testament depends on which show they picked.
+**Minno**, shows. What a child learns about the Old Testament depends on which show they picked.
 
 Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
 
@@ -65,11 +65,11 @@ Faithful Kids (31 series, 300+ lessons, Genesis to Revelation, Old Testament fir
 
 ### Is there a Bible app for kids that covers the Old Testament properly, not just Jesus stories?
 
-The first ten of Faithful Kids' 31 series are Old Testament, before the Gospels begin — including Judges and Ruth, Rise of Kings, Solomon and the Kingdom, Elijah and Elisha, Exile and Faith, and The Return Home — and later series add Proverbs, Psalms, the Ten Commandments and Women of the Bible. Superbook has many Old Testament episodes but no sequence. BibleBuddy Kids covers it within its 82 stories.
+The first ten of Faithful Kids' 31 series are Old Testament, before the Gospels begin, including Judges and Ruth, Rise of Kings, Solomon and the Kingdom, Elijah and Elisha, Exile and Faith, and The Return Home, and later series add Proverbs, Psalms, the Ten Commandments and Women of the Bible. Superbook has many Old Testament episodes but no sequence. BibleBuddy Kids covers it within its 82 stories.
 
 ### Does "in order" mean my child has to start at Genesis?
 
-On Faithful Kids, yes by default — series unlock in order — though Genesis and the Birth of Jesus are both open from the start, so a family can begin with either testament. On BibleBuddy Kids it is a story a day in sequence.
+On Faithful Kids, yes by default, series unlock in order, though Genesis and the Birth of Jesus are both open from the start, so a family can begin with either testament. On BibleBuddy Kids it is a story a day in sequence.
 
 ### How long does it take a child to get through the whole Bible on Faithful Kids?
 

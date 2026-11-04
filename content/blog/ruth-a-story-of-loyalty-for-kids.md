@@ -25,9 +25,9 @@ Ruth a Story of Loyalty is a Bible story from Ruth 1-2 in the Old Testament. Thi
 
 Hey friend! We're stepping out of the chaos of Judges for a moment and into one of the most beautiful stories in the entire Bible. No armies. No battles. No supernatural strength. Just ordinary people making extraordinary choices. This is the story of Ruth.
 
-During the time of the judges, there was a famine in Israel. A man named Elimelech took his wife Naomi and their two sons and moved to the land of Moab to find food. While there, the two sons married Moabite women — Orpah and Ruth.
+During the time of the judges, there was a famine in Israel. A man named Elimelech took his wife Naomi and their two sons and moved to the land of Moab to find food. While there, the two sons married Moabite women, Orpah and Ruth.
 
-Then the worst thing imaginable happened. Elimelech died. And then — both sons died too. Naomi lost her husband AND both of her boys. She was left with nothing. No provider. No protection. In that culture, a widow with no sons was about as vulnerable as a person could be.
+Then the worst thing imaginable happened. Elimelech died. And then, both sons died too. Naomi lost her husband AND both of her boys. She was left with nothing. No provider. No protection. In that culture, a widow with no sons was about as vulnerable as a person could be.
 
 Naomi decided to go back home to Bethlehem. She told her daughters-in-law, "Go back to your families. Go find new husbands. There's nothing left for you here." She was basically saying, "My life is over. Don't let mine drag yours down too."
 
@@ -43,7 +43,7 @@ The story of Ruth a Story of Loyalty teaches children important lessons about br
 
 ## Key Bible Verse
 
-> *"Where you go I will go, and where you stay I will stay."* — Ruth 1:16
+> *"Where you go I will go, and where you stay I will stay."* (Ruth 1:16)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,7 +55,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What devastating losses did Naomi experience in Moab?
 
-Naomi lost everything — first her husband Elimelech, then both of her sons. She was left as a widow with no one to provide for or protect her, which was an extremely vulnerable position in that culture.
+Naomi lost everything, first her husband Elimelech, then both of her sons. She was left as a widow with no one to provide for or protect her, which was an extremely vulnerable position in that culture.
 
 ### What did Ruth say to Naomi when Naomi told her to go home?
 
@@ -63,7 +63,7 @@ Ruth refused to abandon Naomi. Her famous words are one of the most powerful exp
 
 ### Whose field did Ruth end up gleaning in, and why was that significant?
 
-Ruth "happened" to end up in the field of Boaz, who was a relative of Naomi's family. This was no coincidence — God was working behind the scenes. Boaz noticed Ruth's character and loyalty, setting the stage for what would come next.
+Ruth "happened" to end up in the field of Boaz, who was a relative of Naomi's family. This was no coincidence, God was working behind the scenes. Boaz noticed Ruth's character and loyalty, setting the stage for what would come next.
 
 
 ## Discussion Questions for Families

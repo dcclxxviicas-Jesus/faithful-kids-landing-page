@@ -142,9 +142,9 @@ All 40 verses below pass all three. Quotations are from the NIV unless noted, an
 
 **What it means:** If it isn't patient and kind, it isn't really love.
 
-Older kids who find coloring dull usually take to the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) instead — it plays in the browser or prints on one sheet.
+Older kids who find coloring dull usually take to the free [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) instead, it plays in the browser or prints on one sheet.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
 

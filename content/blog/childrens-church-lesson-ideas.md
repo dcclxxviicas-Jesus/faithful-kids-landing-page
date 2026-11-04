@@ -118,7 +118,7 @@ A sustainable weekly prep rhythm for volunteers: 20 minutes early in the week to
 
 Our full list of [youth group games](/blog/youth-group-games) includes the Scripture connection for every game, so the fun still points somewhere.
 
-For full programs rather than single ideas, see the [free kids ministry curriculum roundup](/blog/free-bible-curriculum-for-kids-ministry) — every price verified.
+For full programs rather than single ideas, see the [free kids ministry curriculum roundup](/blog/free-bible-curriculum-for-kids-ministry), every price verified.
 
 ## Frequently Asked Questions
 

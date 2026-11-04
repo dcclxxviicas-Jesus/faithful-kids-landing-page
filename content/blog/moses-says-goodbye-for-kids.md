@@ -25,11 +25,11 @@ Moses Says Goodbye is a Bible story from Deuteronomy 31-34 in the Old Testament.
 
 Hey. Come sit with Me for this one. This story is different from the others. It's not about talking donkeys or giant grapes or snakes. It's about a man finishing his race. And honestly? It might be the most powerful episode yet.
 
-Moses is a hundred and twenty years old. Let that sink in. One hundred and twenty. His eyes aren't dim. His strength hasn't left him. But he knows — he knows — that his time is almost up. He won't be crossing into the Promised Land. That consequence from striking the rock? It's still in effect. And Moses doesn't argue. He doesn't throw a tantrum. He accepts it with grace.
+Moses is a hundred and twenty years old. Let that sink in. One hundred and twenty. His eyes aren't dim. His strength hasn't left him. But he knows, he knows, that his time is almost up. He won't be crossing into the Promised Land. That consequence from striking the rock? It's still in effect. And Moses doesn't argue. He doesn't throw a tantrum. He accepts it with grace.
 
 So what does Moses do with his final days? He gathers all of Israel together and gives them one last speech. And oh, what a speech it is.
 
-He looks out at these people — many of them born in the wilderness, kids who grew up watching manna appear every morning — and he reminds them of everything. Everything God did in Egypt. Every miracle in the desert. Every time they failed, and every time God showed up anyway. He says, "Be strong and courageous. Do not be afraid. For the Lord your God goes with you. He will never leave you or forsake you."
+He looks out at these people, many of them born in the wilderness, kids who grew up watching manna appear every morning, and he reminds them of everything. Everything God did in Egypt. Every miracle in the desert. Every time they failed, and every time God showed up anyway. He says, "Be strong and courageous. Do not be afraid. For the Lord your God goes with you. He will never leave you or forsake you."
 
 This story comes from Deuteronomy 31-34 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of Moses Says Goodbye teaches children important lessons about courage
 
 ## Key Bible Verse
 
-> *"I AM WHO I AM."* — Exodus 3:14
+> *"I AM WHO I AM."* (Exodus 3:14)
 
 If small hands need something to do while you read, the free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) is made for exactly that.
 
@@ -63,11 +63,11 @@ Moses was 120 years old when he died, and remarkably, the Bible tells us his eye
 
 ### Who did Moses pass the leadership of Israel to before he died?
 
-Moses chose Joshua — the same man who, as one of the twelve spies, had courageously said "We can take the land because God is with us." Joshua had proven his faith, and now God appointed him to lead the next generation into the Promised Land.
+Moses chose Joshua, the same man who, as one of the twelve spies, had courageously said "We can take the land because God is with us." Joshua had proven his faith, and now God appointed him to lead the next generation into the Promised Land.
 
 ### What happened after Moses died on Mount Nebo?
 
-In one of the most intimate moments in the entire Bible, God personally buried His servant Moses. The location of Moses' grave has never been found. It shows the deep, personal relationship Moses had with God — known as the prophet who spoke with God face to face.
+In one of the most intimate moments in the entire Bible, God personally buried His servant Moses. The location of Moses' grave has never been found. It shows the deep, personal relationship Moses had with God, known as the prophet who spoke with God face to face.
 
 
 ## Discussion Questions for Families

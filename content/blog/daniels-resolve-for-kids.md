@@ -25,13 +25,13 @@ Daniel's Resolve is a Bible story from Daniel/Jonah/Isaiah in the Old Testament.
 
 ## What Is the Story of Daniel's Resolve for Kids?
 
-EXILE & FAITH — EPISODE 2: DANIEL'S RESOLVE Based on Daniel 1 | Narrated by Jesus
+EXILE & FAITH, EPISODE 2: DANIEL'S RESOLVE Based on Daniel 1 | Narrated by Jesus
 
-Alright, so Judah has fallen. The people are in Babylon — broken, confused, far from home. But God is about to raise up one of the most extraordinary young men in all of Scripture. His name is Daniel. And his story starts with a meal.
+Alright, so Judah has fallen. The people are in Babylon, broken, confused, far from home. But God is about to raise up one of the most extraordinary young men in all of Scripture. His name is Daniel. And his story starts with a meal.
 
-See, King Nebuchadnezzar was smart. He didn't just want to conquer nations — he wanted to absorb their best and brightest. So he ordered his officials to handpick the sharpest, strongest, best-looking young men from the Jewish captives. These guys would get a royal education, learn the Babylonian language, and train to serve in the king's court.
+See, King Nebuchadnezzar was smart. He didn't just want to conquer nations, he wanted to absorb their best and brightest. So he ordered his officials to handpick the sharpest, strongest, best-looking young men from the Jewish captives. These guys would get a royal education, learn the Babylonian language, and train to serve in the king's court.
 
-Sounds like a pretty good deal for a prisoner of war, right? New clothes. New education. And the king's own food — the richest, most lavish meals in the entire empire. Meat, wine, delicacies you couldn't even dream of.
+Sounds like a pretty good deal for a prisoner of war, right? New clothes. New education. And the king's own food, the richest, most lavish meals in the entire empire. Meat, wine, delicacies you couldn't even dream of.
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Daniel's Resolve teaches children important lessons about courage, 
 
 ## Key Bible Verse
 
-> *"My God sent his angel, and he shut the mouths of the lions."* — Daniel 6:22
+> *"My God sent his angel, and he shut the mouths of the lions."* (Daniel 6:22)
 
 There is a free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) on our site too, printable on one sheet with no sign-up.
 
@@ -75,7 +75,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**You can be respectful AND firm in your convictions — standing for what's right doesn't mean being rude.** Daniel proved that you can stand firm in your beliefs while still being polite, wise, and respectful. Real strength is being brave enough to be different and kind enough to do it with grace.
+**You can be respectful AND firm in your convictions, standing for what's right doesn't mean being rude.** Daniel proved that you can stand firm in your beliefs while still being polite, wise, and respectful. Real strength is being brave enough to be different and kind enough to do it with grace.
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Print the [Daniel word search](/printables/bible-word-search/daniel) for the tab
 
 ### What is the story of Daniel's Resolve about for kids?
 
-Daniel's Resolve is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 2: DANIEL'S RESOLVE Based on Daniel 1 | Narrated by Jesus
+Daniel's Resolve is a story from Daniel/Jonah/Isaiah. EXILE & FAITH, EPISODE 2: DANIEL'S RESOLVE Based on Daniel 1 | Narrated by Jesus
 
 ### What age is the story of Daniel's Resolve appropriate for?
 

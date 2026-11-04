@@ -9,13 +9,13 @@ datePublished: "2026-09-16"
 dateModified: "2026-09-16"
 ---
 
-If you want to see what your child watched and how they did, two Bible apps for kids offer a real parent dashboard: **Faithful Kids** (PIN-protected; shows each lesson watched, the quiz score, and the reflection answer, for up to five kid profiles) and **BibleBuddy Kids** ("parent dashboard with weekly progress" plus a weekly summary email). **Superbook** gives parents controls — child profiles, content you can hide, sharing you can switch off — but no progress view. **Guardians of Ancora** and **TruPlay** have profiles without a dashboard. **YouVersion's Bible App for Kids** and **Minno** have neither. Checked September 16, 2026.
+If you want to see what your child watched and how they did, two Bible apps for kids offer a real parent dashboard: **Faithful Kids** (PIN-protected; shows each lesson watched, the quiz score, and the reflection answer, for up to five kid profiles) and **BibleBuddy Kids** ("parent dashboard with weekly progress" plus a weekly summary email). **Superbook** gives parents controls, child profiles, content you can hide, sharing you can switch off, but no progress view. **Guardians of Ancora** and **TruPlay** have profiles without a dashboard. **YouVersion's Bible App for Kids** and **Minno** have neither. Checked September 16, 2026.
 
 Three different things get called "parental controls," and the difference decides whether an app answers the question you are actually asking:
 
-- **Profiles** — each child has their own space, so a nine-year-old is not seeing a five-year-old's progress, and vice versa.
-- **Controls** — what a parent can restrict: content, sharing, purchases, time.
-- **A dashboard** — what a parent can *see*: which stories, when, and what the child got right.
+- **Profiles**, each child has their own space, so a nine-year-old is not seeing a five-year-old's progress, and vice versa.
+- **Controls**, what a parent can restrict: content, sharing, purchases, time.
+- **A dashboard**, what a parent can *see*: which stories, when, and what the child got right.
 
 Only the third one tells you whether anything is being learned. Here is who offers what.
 
@@ -23,10 +23,10 @@ Only the third one tells you whether anything is being learned. Here is who offe
 
 | App | Parent dashboard | Kid profiles | Controls | Ages (the app's words) | Cost |
 |---|---|---|---|---|---|
-| Faithful Kids | **Yes** — lessons watched, quiz scores, reflection answers, per child; PIN-protected | Up to 5 | PIN on the parent area; purchase behind a birth-year gate | 5–15 | $12.99/mo or $97/yr web; $8.99 / $79.99 iOS |
-| BibleBuddy Kids | **Yes** — "parent dashboard with weekly progress" + weekly email | Not stated | "No in-app chat" | 6–8 | $4.99/mo, $39.99/yr, $99 lifetime |
-| Superbook Kids | No progress view | Yes — parent registers, creates child profiles | Hide sensitive content, parent gates, control who sees a child's profile, turn sharing off | 5–12 | Free |
-| Guardians of Ancora | No | Yes — multiple on one device | Usernames not real names; report button; optional parent account | about 8–11 | Free |
+| Faithful Kids | **Yes**, lessons watched, quiz scores, reflection answers, per child; PIN-protected | Up to 5 | PIN on the parent area; purchase behind a birth-year gate | 5–15 | $12.99/mo or $97/yr web; $8.99 / $79.99 iOS |
+| BibleBuddy Kids | **Yes**, "parent dashboard with weekly progress" + weekly email | Not stated | "No in-app chat" | 6–8 | $4.99/mo, $39.99/yr, $99 lifetime |
+| Superbook Kids | No progress view | Yes, parent registers, creates child profiles | Hide sensitive content, parent gates, control who sees a child's profile, turn sharing off | 5–12 | Free |
+| Guardians of Ancora | No | Yes, multiple on one device | Usernames not real names; report button; optional parent account | about 8–11 | Free |
 | TruPlay | Not described | "up to 10 profiles" | "no chatrooms" | 4+ | $12.99/mo or $69.99/yr |
 | Minno | No | Kids pick an avatar and colour | Not described | 2–10 | $10.99/mo or $69.99/yr |
 | Bible App for Kids | No | Not described | Not described | 4–8 | Free |
@@ -41,7 +41,7 @@ Every competitor fact is from the app's App Store listing or its own website on 
 
 ## Controls without a dashboard
 
-**Superbook Kids Bible App** has the most thorough parental *controls* of any free app here: only adults can register, parents create the child profiles, and they can hide sensitive content, use parent gates, control who can view a child's profile and activity, and turn sharing and contact features off. What it does not have is a progress view — you can see what your child is allowed to do, not what they did.
+**Superbook Kids Bible App** has the most thorough parental *controls* of any free app here: only adults can register, parents create the child profiles, and they can hide sensitive content, use parent gates, control who can view a child's profile and activity, and turn sharing and contact features off. What it does not have is a progress view, you can see what your child is allowed to do, not what they did.
 
 **Guardians of Ancora** lets several children share one device with their own profiles, enforces usernames that are not real names, and has a report button. A parent account is optional and exists for updates, not oversight.
 
@@ -51,7 +51,7 @@ Every competitor fact is from the app's App Store listing or its own website on 
 
 **Bible App for Kids** (YouVersion) is free and ad-free and does not have profiles or a parent view; it is designed for ages 4 to 8, where the parent is usually sitting right there.
 
-**Minno** lets a child pick an avatar and background colour, which functions as a profile, but there is no parent dashboard and no controls are described — it is a streaming catalog, and it behaves like one.
+**Minno** lets a child pick an avatar and background colour, which functions as a profile, but there is no parent dashboard and no controls are described, it is a streaming catalog, and it behaves like one.
 
 ## What to look for, whichever you choose
 
@@ -74,7 +74,7 @@ Faithful Kids (up to five), Superbook (parent creates child profiles), Guardians
 
 ### Can I limit what my child sees?
 
-Superbook has the most granular content controls of any app here. Faithful Kids does not need them in the same way — every lesson is a Bible story in order, with no feed, no comments and no external links — but the parent area is PIN-protected and there are no ads.
+Superbook has the most granular content controls of any app here. Faithful Kids does not need them in the same way, every lesson is a Bible story in order, with no feed, no comments and no external links, but the parent area is PIN-protected and there are no ads.
 
 ### Is there a free Bible app with a parent dashboard?
 

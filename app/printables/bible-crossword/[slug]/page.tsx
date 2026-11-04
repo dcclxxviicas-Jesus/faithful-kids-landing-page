@@ -28,7 +28,7 @@ export async function generateMetadata(
   const { slug } = await params
   const p = get(slug)
   if (!p) return {}
-  const title = `${p.title} Crossword — Free Printable`
+  const title = `${p.title} Crossword, Free Printable`
   const clues = p.across.length + p.down.length
   const desc = `A free printable ${p.title} Bible crossword for kids (${p.scripture}). ${clues} clues, answer key included, plays in the browser too. No sign-up.`
   const url = `https://faithfulkids.app/printables/bible-crossword/${p.slug}`
@@ -86,7 +86,7 @@ export default async function CrosswordPuzzle(
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={`https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${p.slug}.png`}
-          alt={`${p.title} — Bible crossword puzzle for kids, ${p.scripture}`}
+          alt={`${p.title}, Bible crossword puzzle for kids, ${p.scripture}`}
           width={1536}
           height={1024}
         />
@@ -117,21 +117,21 @@ export default async function CrosswordPuzzle(
       <section className="cpd-body no-print">
         <p>
           {clueCount} clues from {p.scripture}, every answer crossing at least one other. Best for{' '}
-          {p.ages.toLowerCase()} — younger children can do the same puzzle with a grown-up reading
+          {p.ages.toLowerCase()} younger children can do the same puzzle with a grown-up reading
           the clues aloud, and every crossing letter they have already solved works as a hint.
         </p>
 
         {storySlug && (
           <p>
             The clues make more sense once they know the story:{' '}
-            <a href={`/blog/${storySlug}`}>{p.title} retold for kids</a> — a short version with the
+            <a href={`/blog/${storySlug}`}>{p.title} retold for kids</a> a short version with the
             video lesson and a quiz.
           </p>
         )}
         <p>
           Prefer finding words to spelling them? The{' '}
           <a href={`/printables/bible-word-search/${p.slug}`}>{p.title} word search</a> uses the
-          same story&rsquo;s vocabulary in an easier format — a good warm-up before this puzzle.
+          same story&rsquo;s vocabulary in an easier format, a good warm-up before this puzzle.
         </p>
         {pairedCp && (
           <p>
@@ -190,7 +190,7 @@ export default async function CrosswordPuzzle(
           source="blog-inline"
           sourcePost={`crossword-${p.slug}`}
           title="🖍️ Free too: all 26 Bible coloring pages"
-          subtitle="One PDF, Creation to the Empty Tomb — the set that pairs with these puzzles."
+          subtitle="One PDF, Creation to the Empty Tomb, the set that pairs with these puzzles."
         />
       </section>
 
@@ -198,7 +198,7 @@ export default async function CrosswordPuzzle(
         {...clip}
         duration={clip.duration ?? undefined}
         heading="Solving the clues is not the same as knowing the story"
-        body={`${clueCount} clues is review. ${clip.videoTitle} tells the story in about two minutes and ends with a quiz, so you find out what actually landed — one of 300+ episodes, Genesis to Revelation.`}
+        body={`${clueCount} clues is review. ${clip.videoTitle} tells the story in about two minutes and ends with a quiz, so you find out what actually landed, one of 300+ episodes, Genesis to Revelation.`}
         source="crossword-detail"
       />
 
@@ -207,7 +207,7 @@ export default async function CrosswordPuzzle(
           <h2>They solved the clues. Do they know the story?</h2>
           <p>
             Filling {clueCount} answers is recall, not understanding. The {p.title} episode takes
-            about two minutes and ends with a quiz that tells you what actually landed — one of
+            about two minutes and ends with a quiz that tells you what actually landed, one of
             300+ episodes covering the whole Bible in order.
           </p>
           <a className="btn-primary" href="/quiz?ref=crossword-detail">

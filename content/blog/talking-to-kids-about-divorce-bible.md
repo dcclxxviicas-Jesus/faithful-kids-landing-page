@@ -10,7 +10,7 @@ dateModified: "2026-08-16"
 
 If you are walking through a divorce or separation, you already know it is one of the hardest things a family can face. And one of the heaviest burdens is figuring out what to say to your children. How do you explain something you may not fully understand yourself? How do you give them hope when your own heart is breaking?
 
-You do not need perfect words. You need honest ones. And the Bible — which is full of imperfect families, broken plans, and a God who never leaves — gives you a language for exactly this kind of conversation.
+You do not need perfect words. You need honest ones. And the Bible, which is full of imperfect families, broken plans, and a God who never leaves, gives you a language for exactly this kind of conversation.
 
 This is not an article about whether divorce is right or wrong. That is a deeply personal matter between you, God, and those who walk closely with you. This is a guide for talking to your kids with honesty, gentleness, and a faith that holds even when life falls apart.
 
@@ -32,7 +32,7 @@ Naomi lost her husband and both sons. Her life plan was shattered. She was so de
 
 But Ruth stayed. Ruth's loyalty and love carried Naomi through the darkest chapter of her life. And God, working quietly in the background, brought them to Bethlehem at the right time, where Ruth met Boaz, and a new family was formed.
 
-**How to use this story:** "Sometimes families go through really hard changes. Naomi lost people she loved and felt very sad. But God brought new people into her life and took care of her. God does that for us too — even when things feel really hard."
+**How to use this story:** "Sometimes families go through really hard changes. Naomi lost people she loved and felt very sad. But God brought new people into her life and took care of her. God does that for us too, even when things feel really hard."
 
 The message for your child: loss is real, grief is valid, and God is faithful even when the story takes unexpected turns. (Read the whole story in [Who Was Ruth? for kids](/blog/who-was-ruth-for-kids).)
 
@@ -44,7 +44,7 @@ Hagar's story is one of the most poignant in Scripture. She was Sarah's servant,
 
 **How to use this story:** "Hagar felt very alone and scared. She was worried about her son. But God saw them. He heard them. He provided for them. Even when you feel alone or worried, God sees you and He is taking care of you."
 
-This is especially powerful for children who fear the unknown — new living situations, new routines, the feeling that their world has been turned upside down.
+This is especially powerful for children who fear the unknown, new living situations, new routines, the feeling that their world has been turned upside down.
 
 ### David's Complicated Family (2 Samuel 12-18)
 
@@ -56,11 +56,11 @@ And through all of it, David turned to God. The Psalms are filled with David's r
 - "The Lord is close to the brokenhearted and saves those who are crushed in spirit" (Psalm 34:18).
 - "Cast your cares on the Lord and he will sustain you" (Psalm 55:22).
 
-**How to use this story:** You do not need to explain the details of David's family dysfunction to young children. But you can share the Psalms. "King David went through really hard times in his family. And he told God everything he was feeling — the sad parts, the angry parts, the scared parts. God wants us to do the same. We can tell Him anything."
+**How to use this story:** You do not need to explain the details of David's family dysfunction to young children. But you can share the Psalms. "King David went through really hard times in his family. And he told God everything he was feeling, the sad parts, the angry parts, the scared parts. God wants us to do the same. We can tell Him anything."
 
 ### Joseph: Separated from Family, Held by God (Genesis 37-50)
 
-Joseph was torn from his family at a young age. He did not choose it. He could not control it. He spent years separated from his father, wondering if he would ever see him again. And yet God was with Joseph in every chapter — in Potiphar's house, in prison, and eventually in a position of power where he could provide for his entire family.
+Joseph was torn from his family at a young age. He did not choose it. He could not control it. He spent years separated from his father, wondering if he would ever see him again. And yet God was with Joseph in every chapter, in Potiphar's house, in prison, and eventually in a position of power where he could provide for his entire family.
 
 When Joseph finally reunited with his brothers, he wept. When he saw his father, they embraced and cried together. The separation was real. The pain was real. And the reunion was real.
 
@@ -70,11 +70,11 @@ When Joseph finally reunited with his brothers, he wept. When he saw his father,
 
 Keep these simple and repeat them often. Write them on cards. Put them on the bathroom mirror. Whisper them at bedtime:
 
-- **"The Lord is close to the brokenhearted"** — Psalm 34:18
-- **"I will never leave you nor forsake you"** — Hebrews 13:5
-- **"He heals the brokenhearted and binds up their wounds"** — Psalm 147:3
-- **"For I know the plans I have for you, plans to prosper you and not to harm you, plans to give you hope and a future"** — Jeremiah 29:11
-- **"Cast all your anxiety on him because he cares for you"** — 1 Peter 5:7
+- **"The Lord is close to the brokenhearted"** (Psalm 34:18)
+- **"I will never leave you nor forsake you"** (Hebrews 13:5)
+- **"He heals the brokenhearted and binds up their wounds"** (Psalm 147:3)
+- **"For I know the plans I have for you, plans to prosper you and not to harm you, plans to give you hope and a future"** (Jeremiah 29:11)
+- **"Cast all your anxiety on him because he cares for you"** (1 Peter 5:7)
 
 If worry is your child's biggest battle right now, our list of [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids) has more to lean on.
 
@@ -90,7 +90,7 @@ Just as important as what you say is what you avoid:
 
 ## Practical Tips for Bible Time During Divorce
 
-1. **Keep routines consistent.** If you read [Bible stories at bedtime](/blog/bible-stories-for-bedtime), keep doing it — especially now. Consistency communicates safety.
+1. **Keep routines consistent.** If you read [Bible stories at bedtime](/blog/bible-stories-for-bedtime), keep doing it, especially now. Consistency communicates safety.
 
 2. **Let your child choose the stories.** Give them agency. If they want to hear about David and Goliath for the fifth time, let them. Repetition is comforting.
 
@@ -108,13 +108,13 @@ Your child's story is not over. Your family's story is not over. The chapter you
 
 ## Watch on Faithful Kids
 
-When words are hard to find, let the stories speak for themselves. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and share stories of Ruth's loyalty, Joseph's courage, and David's honest prayers with your children — in short, gentle videos designed for young hearts.
+When words are hard to find, let the stories speak for themselves. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and share stories of Ruth's loyalty, Joseph's courage, and David's honest prayers with your children, in short, gentle videos designed for young hearts.
 
 ## Frequently Asked Questions
 
 ### At what age should I talk to my kids about divorce?
 
-Children deserve age-appropriate honesty as soon as they are aware that something is changing. For preschoolers (3-5), keep it very simple: "Mommy and Daddy are going to live in different houses, but we both love you so much." For elementary-aged kids (6-10), you can share more about what will change and what will stay the same. For preteens and teens (11+), they can handle more nuance and will likely have pointed questions — answer them honestly.
+Children deserve age-appropriate honesty as soon as they are aware that something is changing. For preschoolers (3-5), keep it very simple: "Mommy and Daddy are going to live in different houses, but we both love you so much." For elementary-aged kids (6-10), you can share more about what will change and what will stay the same. For preteens and teens (11+), they can handle more nuance and will likely have pointed questions, answer them honestly.
 
 ### How do I use Bible stories without making my child feel like divorce is sinful?
 
@@ -122,7 +122,7 @@ Focus on stories of God's faithfulness in hard times rather than stories about t
 
 ### My child is angry at God because of the divorce. What should I do?
 
-Let them be angry. The Psalms are full of anger directed at God — and God never once punished a Psalmist for honesty. Psalm 13 begins, "How long, Lord? Will you forget me forever?" Tell your child, "It is okay to be mad. God can handle it. He would rather you yell at Him than stop talking to Him."
+Let them be angry. The Psalms are full of anger directed at God, and God never once punished a Psalmist for honesty. Psalm 13 begins, "How long, Lord? Will you forget me forever?" Tell your child, "It is okay to be mad. God can handle it. He would rather you yell at Him than stop talking to Him."
 
 ### Should both parents be involved in the child's spiritual life after divorce?
 

@@ -168,7 +168,7 @@ export default async function HolidayHubPage({ params }: Props) {
             <h2>Start Your Child&apos;s Bible Journey</h2>
             <p>
               300+ narrated video lessons with comprehension quizzes after every story.
-              From Genesis to Revelation — safe, ad-free, and made for kids.
+              From Genesis to Revelation, safe, ad-free, and made for kids.
             </p>
             <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
               Get started

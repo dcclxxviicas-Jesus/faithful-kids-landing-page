@@ -150,7 +150,7 @@ Ready to bring these stories to life beyond the coloring page? Faithful Kids off
 
 [Start your free trial at Faithful Kids](https://faithfulkids.app/quiz)
 
-Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this — each page names the scripture it comes from.
+Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this, each page names the scripture it comes from.
 
 ## Frequently Asked Questions
 

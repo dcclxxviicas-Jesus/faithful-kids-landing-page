@@ -17,9 +17,9 @@ import printableVideos from '@/lib/printable-videos.json'
  */
 
 export const metadata: Metadata = {
-  title: 'Bible Word Search — 11 Free Puzzles',
+  title: 'Bible Word Search, 11 Free Puzzles',
   description:
-    'Twelve free Bible word search puzzles for kids — play online or print. Noah, Christmas, Thanksgiving, Easter, David and Goliath and more. Answer keys included.',
+    'Twelve free Bible word search puzzles for kids, play online or print. Noah, Christmas, Thanksgiving, Easter, David and Goliath and more. Answer keys included.',
   keywords: [
     'bible word search', 'bible word search puzzles', 'bible word search printable',
     'free bible word search', 'bible word search for kids', 'sunday school word search',
@@ -27,9 +27,9 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-word-search' },
   openGraph: {
-    title: 'Bible Word Search — 10 Free Printables',
+    title: 'Bible Word Search, 10 Free Printables',
     description:
-      'Twelve free Bible word search puzzles for kids — play online or print, with answer keys. No sign-up.',
+      'Twelve free Bible word search puzzles for kids, play online or print, with answer keys. No sign-up.',
     url: 'https://faithfulkids.app/printables/bible-word-search',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -73,7 +73,7 @@ export default function WordSearchHub() {
         <span className="section-label">Free · No Sign-Up</span>
         <h1>Bible Word Search Puzzles</h1>
         <p className="blog-hero-sub">
-          Twelve puzzles — one covering the whole Bible, playable right here, and eleven more built from a
+          Twelve puzzles, one covering the whole Bible, playable right here, and eleven more built from a
           single story each. All free to print, with the answer key on every page.
         </p>
       </section>
@@ -87,7 +87,7 @@ export default function WordSearchHub() {
         </p>
         <p>
           The word lists come from the story itself rather than a generic religious vocabulary, so
-          finishing one means a child has read twelve words that belong to a passage — useful before
+          finishing one means a child has read twelve words that belong to a passage, useful before
           you teach it, and better still as review afterwards.
         </p>
       </section>
@@ -96,7 +96,7 @@ export default function WordSearchHub() {
         <h2>Play the Bible word search now</h2>
         <p className="section-sub">
           Twelve words from across the whole Bible. Drag across a word or tap its first and last
-          letter — it works on a phone, and nothing needs printing.
+          letter, it works on a phone, and nothing needs printing.
         </p>
         <WordSearchGame
           grid={general.grid}
@@ -170,7 +170,7 @@ export default function WordSearchHub() {
         <p>
           Ready for a step up? Our{' '}
           <a href="/printables/bible-crossword">Bible crossword puzzles</a> use the same stories
-          but ask what happened rather than how it&rsquo;s spelled — the natural next puzzle once
+          but ask what happened rather than how it&rsquo;s spelled, the natural next puzzle once
           word searches get easy.
         </p>
         <p>
@@ -192,7 +192,7 @@ export default function WordSearchHub() {
         <div className="blog-bottom-cta-inner">
           <h2>The stories behind the puzzles</h2>
           <p>
-            Every theme here is an episode in the Faithful Kids library — a few minutes long, with a
+            Every theme here is an episode in the Faithful Kids library, a few minutes long, with a
             quiz afterwards so you can see what your child actually understood.
           </p>
           <a className="btn-primary" href="/quiz?ref=word-search">

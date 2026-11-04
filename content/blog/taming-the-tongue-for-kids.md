@@ -27,11 +27,11 @@ Taming the Tongue is a Bible story from Hebrews/James/Revelation in the New Test
 
 TITLE: Taming the Tongue SERIES: The Ending & the Beginning EPISODE: 3 SCRIPTURE: James 3:1-12
 
-I want you to think about the biggest ship you've ever seen. A massive vessel cutting through the ocean — thousands of tons of steel and cargo. Now picture the rudder underneath it. It's tiny compared to the ship. But that small rudder decides where the entire ship goes.
+I want you to think about the biggest ship you've ever seen. A massive vessel cutting through the ocean, thousands of tons of steel and cargo. Now picture the rudder underneath it. It's tiny compared to the ship. But that small rudder decides where the entire ship goes.
 
 James looked at that and said: that's your tongue.
 
-A small part of the body — but it steers your entire life.
+A small part of the body, but it steers your entire life.
 
 This story comes from Hebrews/James/Revelation and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of Taming the Tongue teaches children important lessons about faith, h
 
 ## Key Bible Verse
 
-> *"The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark."* — James 3:5
+> *"The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark."* (James 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### James compares the tongue to what part of a ship?
 
-**The rudder.** The rudder is tiny compared to the ship, but it controls the entire direction. Just like your tongue — small but incredibly powerful.
+**The rudder.** The rudder is tiny compared to the ship, but it controls the entire direction. Just like your tongue, small but incredibly powerful.
 
 ### What does James say a single spark can do?
 
@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### According to James, can anyone tame the tongue completely on their own?
 
-**No — James says no human can tame it alone.** James was honest: the tongue is restless and full of poison. No one can fully control it on their own — we need God's help.
+**No,** James says no human can tame it alone. James was honest: the tongue is restless and full of poison. No one can fully control it on their own, we need God's help.
 
 ### What question should you ask before you speak, text, or post?
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### James says "the tongue is a small part of the body, but it makes great ___."
 
-**Boasts.** "The tongue is a small part of the body, but it makes great boasts." Small but powerful — and that power can go in either direction.
+**Boasts.** "The tongue is a small part of the body, but it makes great boasts." Small but powerful, and that power can go in either direction.
 
 ## Discussion Questions for Families
 

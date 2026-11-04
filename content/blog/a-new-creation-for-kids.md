@@ -23,9 +23,9 @@ A New Creation is a Bible story from Romans/Corinthians/Ephesians in the New Tes
 
 ## What Is the Story of A New Creation for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 10 "A New Creation" Based on 2 Corinthians 5:17, Galatians 2:20 Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 10 "A New Creation" Based on 2 Corinthians 5:17, Galatians 2:20 Jesus Narrates
 
-Before we finish this series, I need to tell you the thing that ties it all together. Every truth we've explored — the gospel, being more than conquerors, the armor of God, love, faith, hope, the fruit of the Spirit, running the race, joy, worry — all of it leads here.
+Before we finish this series, I need to tell you the thing that ties it all together. Every truth we've explored, the gospel, being more than conquerors, the armor of God, love, faith, hope, the fruit of the Spirit, running the race, joy, worry, all of it leads here.
 
 Paul wrote it in just one sentence: "If anyone is in Christ, the new creation has come: the old has gone, the new is here."
 
@@ -43,9 +43,9 @@ The story of A New Creation teaches children important lessons about love, faith
 
 ## Key Bible Verse
 
-> *"In the beginning, God created the heavens and the earth."* — Genesis 1:1
+> *"In the beginning, God created the heavens and the earth."* (Genesis 1:1)
 
-For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages) — print as many as your class needs.
+For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages), print as many as your class needs.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### According to 2 Corinthians 5:17, what happens when someone is "in Christ"?
 
-Paul says it clearly — if anyone is in Christ, the new creation has come. The old is gone. The new is here. You're not just improved — you're completely new, like a caterpillar becoming a butterfly.
+Paul says it clearly, if anyone is in Christ, the new creation has come. The old is gone. The new is here. You're not just improved, you're completely new, like a caterpillar becoming a butterfly.
 
 ### What did Paul mean when he said, "I have been crucified with Christ"?
 
-Paul meant that his old self — the person controlled by fear, shame, and sin — went to the cross with Jesus. And when Jesus rose, Paul rose too as a new person, with Christ's life living inside of him.
+Paul meant that his old self, the person controlled by fear, shame, and sin, went to the cross with Jesus. And when Jesus rose, Paul rose too as a new person, with Christ's life living inside of him.
 
 ### What is the main message that ties the whole "Letters to the Churches" series together?
 
-The entire series — from the gospel to the armor of God to joy to being a new creation — points to one truth: in Christ, you are loved, forgiven, equipped for anything, never alone, and completely made new. That's the message of the letters.
+The entire series, from the gospel to the armor of God to joy to being a new creation, points to one truth: in Christ, you are loved, forgiven, equipped for anything, never alone, and completely made new. That's the message of the letters.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ If your class needs something to do with their hands, there is a [Creation color
 
 ### What is the story of A New Creation about for kids?
 
-A New Creation is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 10 "A New Creation" Based on 2 Corinthians 5:17, Galatians 2:20 Jesus Narrates
+A New Creation is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES, EPISODE 10 "A New Creation" Based on 2 Corinthians 5:17, Galatians 2:20 Jesus Narrates
 
 ### What age is the story of A New Creation appropriate for?
 

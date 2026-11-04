@@ -23,13 +23,13 @@ The Garden and the Fall is a Bible story from Genesis 2-3 in the Old Testament. 
 
 ## What Is the Story of The Garden and the Fall for Kids?
 
-Welcome back, friend! Last time we watched God create the entire universe. Today? Things take a turn. This is the story of the most beautiful place that ever existed — and the day everything changed.
+Welcome back, friend! Last time we watched God create the entire universe. Today? Things take a turn. This is the story of the most beautiful place that ever existed, and the day everything changed.
 
-Picture the Garden of Eden. I'm not talking about a regular garden with some tomatoes and a fence. This was paradise. Rivers of crystal-clear water. Trees bursting with fruit you've never even imagined. Animals everywhere — and none of them were afraid. A lion could lie down next to a lamb. And the best part? God Himself would walk through the garden and hang out with Adam and Eve. Face to face. Like friends.
+Picture the Garden of Eden. I'm not talking about a regular garden with some tomatoes and a fence. This was paradise. Rivers of crystal-clear water. Trees bursting with fruit you've never even imagined. Animals everywhere, and none of them were afraid. A lion could lie down next to a lamb. And the best part? God Himself would walk through the garden and hang out with Adam and Eve. Face to face. Like friends.
 
-Now God gave Adam and Eve the entire garden. Every tree, every fruit — it was all theirs. But there was one rule. Just one. God said, "See that tree in the middle of the garden? The Tree of the Knowledge of Good and Evil? Don't eat from it. If you do, you will die."
+Now God gave Adam and Eve the entire garden. Every tree, every fruit; it was all theirs. But there was one rule. Just one. God said, "See that tree in the middle of the garden? The Tree of the Knowledge of Good and Evil? Don't eat from it. If you do, you will die."
 
-Enter the serpent — the craftiest creature in the garden. He slithered up to Eve and said, "Did God really say you can't eat from ANY tree?" See what he did there? He twisted God's words. Eve corrected him, but the serpent pushed harder: "You won't die! God knows if you eat it, you'll become just like Him."
+Enter the serpent; the craftiest creature in the garden. He slithered up to Eve and said, "Did God really say you can't eat from ANY tree?" See what he did there? He twisted God's words. Eve corrected him, but the serpent pushed harder: "You won't die! God knows if you eat it, you'll become just like Him."
 
 This story comes from Genesis 2-3 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of The Garden and the Fall teaches children important lessons about cr
 
 ## Key Bible Verse
 
-> *"The Lord God took the man and put him in the Garden of Eden to work it and take care of it."* — Genesis 2:15
+> *"The Lord God took the man and put him in the Garden of Eden to work it and take care of it."* (Genesis 2:15)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,7 +55,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What was the ONE rule God gave Adam and Eve?
 
-Out of all the thousands of trees in the garden, God only told them to stay away from one — the Tree of the Knowledge of Good and Evil.
+Out of all the thousands of trees in the garden, God only told them to stay away from one, the Tree of the Knowledge of Good and Evil.
 
 ### How did the serpent trick Eve?
 
@@ -63,7 +63,7 @@ The serpent twisted what God actually said, making Eve doubt God's word. He told
 
 ### When God asked "Where are you?", what was He really doing?
 
-God knows everything — He wasn't lost. The question was an invitation, giving Adam and Eve a chance to be honest and come back to Him.
+God knows everything, He wasn't lost. The question was an invitation, giving Adam and Eve a chance to be honest and come back to Him.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ There is a free [Adam and Eve coloring page](/printables/bible-coloring-pages/ad
 
 ### What is the story of The Garden and the Fall about for kids?
 
-The Garden and the Fall is a story from Genesis 2-3. Welcome back, friend! Last time we watched God create the entire universe. Today? Things take a turn. This is the story of the most beautiful place that ever existed — and the day everything changed.
+The Garden and the Fall is a story from Genesis 2-3. Welcome back, friend! Last time we watched God create the entire universe. Today? Things take a turn. This is the story of the most beautiful place that ever existed, and the day everything changed.
 
 ### What age is the story of The Garden and the Fall appropriate for?
 

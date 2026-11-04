@@ -23,13 +23,13 @@ Young Jesus in the Temple is a Bible story from Luke 2:41-52 in the New Testamen
 
 ## What Is the Story of Young Jesus in the Temple for Kids?
 
-Okay, this next story is one of my favorites — because it's about ME as a kid. That's right. I was twelve years old, and I already knew exactly who I was.
+Okay, this next story is one of my favorites, because it's about ME as a kid. That's right. I was twelve years old, and I already knew exactly who I was.
 
-Every year, my family made the trip from Nazareth to Jerusalem for the Feast of Passover. Thousands of people from all over Israel flooding into the city. Roads packed with families, donkeys, carts, singing, and laughter. A massive road trip — ancient style.
+Every year, my family made the trip from Nazareth to Jerusalem for the Feast of Passover. Thousands of people from all over Israel flooding into the city. Roads packed with families, donkeys, carts, singing, and laughter. A massive road trip, ancient style.
 
 The festival was incredible. But when it was time to head home, something happened that my parents didn't expect.
 
-Now before you think, "How do you lose JESUS?" — families traveled in large groups back then. Dozens of relatives and neighbors all walking together. Kids ran around with cousins and friends. Mary and Joseph each assumed I was somewhere in the group. No big deal, right?
+Now before you think, "How do you lose JESUS?" families traveled in large groups back then. Dozens of relatives and neighbors all walking together. Kids ran around with cousins and friends. Mary and Joseph each assumed I was somewhere in the group. No big deal, right?
 
 This story comes from Luke 2:41-52 and is part of the New Testament.
 
@@ -43,11 +43,11 @@ The story of Young Jesus in the Temple teaches children important lessons about 
 
 ## Key Bible Verse
 
-> *"My house shall be called a house of prayer."* — Isaiah 56:7
+> *"My house shall be called a house of prayer."* (Isaiah 56:7)
 
-We drew a printable [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
-A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances — kids can trace the journeys with a finger.
+A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances; kids can trace the journeys with a finger.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How old was Jesus when His family went to Jerusalem for Passover in this story?
 
-Jesus was twelve years old when this event happened — still a kid, but already showing incredible wisdom and a deep connection with God.
+Jesus was twelve years old when this event happened, still a kid, but already showing incredible wisdom and a deep connection with God.
 
 ### What was Jesus doing when Mary and Joseph finally found Him in the temple?
 
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Young Jesus in the Temple about for kids?
 
-Young Jesus in the Temple is a story from Luke 2:41-52. Okay, this next story is one of my favorites — because it's about ME as a kid. That's right. I was twelve years old, and I already knew exactly who I was.
+Young Jesus in the Temple is a story from Luke 2:41-52. Okay, this next story is one of my favorites, because it's about ME as a kid. That's right. I was twelve years old, and I already knew exactly who I was.
 
 ### What age is the story of Young Jesus in the Temple appropriate for?
 

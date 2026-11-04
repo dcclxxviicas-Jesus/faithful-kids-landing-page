@@ -25,13 +25,13 @@ The Trial is a Bible story from Matthew/Mark/Luke/John in the New Testament. Thi
 
 ## What Is the Story of The Trial for Kids?
 
-THE ROAD TO THE CROSS — Episode 6: The Trial Based on Matthew 26:57-68 and John 18:28-19:16 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS, Episode 6: The Trial Based on Matthew 26:57-68 and John 18:28-19:16 Series: The Road to the Cross | Target audience: Ages 7-15
 
 They dragged me through the streets of Jerusalem while the city slept.
 
-First to Caiaphas, the high priest. His palace was lit up — torches blazing, guards everywhere. The whole council was already assembled. They'd been planning this for weeks. This wasn't a search for truth. It was a setup.
+First to Caiaphas, the high priest. His palace was lit up, torches blazing, guards everywhere. The whole council was already assembled. They'd been planning this for weeks. This wasn't a search for truth. It was a setup.
 
-Witnesses came forward — liars, every one of them. Their stories didn't even match. One said I threatened to destroy the temple. Another twisted my words into something I never said. They stumbled over each other's lies. In any honest court, the case would have been thrown out in minutes.
+Witnesses came forward, liars, every one of them. Their stories didn't even match. One said I threatened to destroy the temple. Another twisted my words into something I never said. They stumbled over each other's lies. In any honest court, the case would have been thrown out in minutes.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Trial teaches children important lessons about sacrifice, love,
 
 ## Key Bible Verse
 
-> *"You say that I am a king. For this purpose I was born."* — John 18:37
+> *"You say that I am a king. For this purpose I was born."* (John 18:37)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Trial about for kids?
 
-The Trial is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 6: The Trial Based on Matthew 26:57-68 and John 18:28-19:16 Series: The Road to the Cross | Target audience: Ages 7-15
+The Trial is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS, Episode 6: The Trial Based on Matthew 26:57-68 and John 18:28-19:16 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of The Trial appropriate for?
 

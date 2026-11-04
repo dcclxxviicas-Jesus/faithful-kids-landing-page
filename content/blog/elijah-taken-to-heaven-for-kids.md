@@ -27,11 +27,11 @@ Elijah Taken to Heaven is a Bible story from 1 & 2 Kings in the Old Testament. T
 
 ELIJAH TAKEN TO HEAVEN Series: Elijah & Elisha | Episode 6 Scripture: 2 Kings 2:1-14
 
-Hey kids — get ready, because today's story is one of the most EPIC exits in the entire Bible. We're talking chariots of fire, a whirlwind, and a man who never — EVER — died.
+Hey kids, get ready, because today's story is one of the most EPIC exits in the entire Bible. We're talking chariots of fire, a whirlwind, and a man who never, EVER, died.
 
-Elijah knew his time on earth was coming to an end. God had shown him. And so had Elisha — his student, his apprentice, his spiritual son. But here's the thing about Elisha: this guy was GLUED to Elijah. He was NOT leaving his side.
+Elijah knew his time on earth was coming to an end. God had shown him. And so had Elisha, his student, his apprentice, his spiritual son. But here's the thing about Elisha: this guy was GLUED to Elijah. He was NOT leaving his side.
 
-Elijah said, "Stay here — the Lord is sending me to Bethel." Elisha's response? "As surely as the Lord lives, I will NOT leave you." So they went to Bethel together. Then Elijah said, "Stay here — the Lord is sending me to Jericho." Same answer from Elisha: "I will NOT leave you." Then again to the Jordan River. Same thing. Elisha. Would. Not. Quit.
+Elijah said, "Stay here, the Lord is sending me to Bethel." Elisha's response? "As surely as the Lord lives, I will NOT leave you." So they went to Bethel together. Then Elijah said, "Stay here, the Lord is sending me to Jericho." Same answer from Elisha: "I will NOT leave you." Then again to the Jordan River. Same thing. Elisha. Would. Not. Quit.
 
 This story comes from 1 & 2 Kings and is part of the Old Testament.
 
@@ -45,13 +45,13 @@ The story of Elijah Taken to Heaven teaches children important lessons about fai
 
 ## Key Bible Verse
 
-> *"The Lord, He is God! The Lord, He is God!"* — 1 Kings 18:39
+> *"The Lord, He is God! The Lord, He is God!"* (1 Kings 18:39)
 
 If small hands need something to do while you read, the free [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children) is made for exactly that.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
-For Elijah's whole life — the ravens, Mount Carmel, the whisper, the chariot — see [Who Was Elijah in the Bible?](/blog/who-was-elijah-for-kids)
+For Elijah's whole life, the ravens, Mount Carmel, the whisper, the chariot, see [Who Was Elijah in the Bible?](/blog/who-was-elijah-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -63,7 +63,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Elisha keep saying when Elijah told him to stay behind?
 
-Elijah's departure wasn't the end — it was a new beginning. God had already prepared Elisha to carry the mission forward. The work of God never stops; He's always raising up the next generation. And that someone could be you.
+Elijah's departure wasn't the end, it was a new beginning. God had already prepared Elisha to carry the mission forward. The work of God never stops; He's always raising up the next generation. And that someone could be you.
 
 ### What did Elijah use to part the Jordan River?
 
@@ -91,7 +91,7 @@ Elijah's departure wasn't the end — it was a new beginning. God had already pr
 
 ### What is the main lesson of this story?
 
-**God always has a next generation ready — the baton gets passed.**
+**God always has a next generation ready, the baton gets passed.**
 
 ## Discussion Questions for Families
 

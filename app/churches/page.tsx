@@ -6,7 +6,7 @@ import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 export const metadata: Metadata = {
-  title: 'Free for Churches — Kids Bible Video Lessons',
+  title: 'Free for Churches, Kids Bible Video Lessons',
   description:
     'Free for churches: give your Sunday school or kids ministry full access to 300+ Bible video episodes with quizzes, plus printables and a trivia game.',
   alternates: { canonical: 'https://faithfulkids.app/churches' },
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
    change what the page claims to ministries, which is not what a redesign is
    for. */
 const mailto =
-  'mailto:team@faithfulkids.app?subject=Church%20partnership%20—%20%5Byour%20church%20name%5D&body=Hi%20Faithful%20Kids%20team%2C%0A%0AChurch%2Fministry%20name%3A%0AWebsite%3A%0AAbout%20how%20many%20kids%20in%20your%20class%3A%0A%0AWe%27d%20love%20free%20access%20for%20our%20kids%20ministry!'
+  'mailto:team@faithfulkids.app?subject=Church%20partnership%3A%20%5Byour%20church%20name%5D&body=Hi%20Faithful%20Kids%20team%2C%0A%0AChurch%2Fministry%20name%3A%0AWebsite%3A%0AAbout%20how%20many%20kids%20in%20your%20class%3A%0A%0AWe%27d%20love%20free%20access%20for%20our%20kids%20ministry!'
 
 const g = { color: 'var(--hv-green-dark)', fontWeight: 800 }
 
@@ -33,24 +33,24 @@ function ChurchesV2() {
         eyebrow="For Churches & Kids Ministries"
         title={<>Faithful Kids is <span className="hv-love"><span className="l l1">f</span><span className="l l2">r</span><span className="l l3">e</span><span className="l l4">e</span></span> for churches</>}
         sub={<>Give your Sunday school or kids ministry full access to our Bible video learning app
-          &mdash; 300+ story episodes with quizzes and reflections &mdash; at no cost. We built this
+300+ story episodes with quizzes and reflections, at no cost. We built this
           to serve families, and that starts with the church.</>}
       >
         <a className="hv-cta" href={mailto}>
           <span className="hv-cta-play" aria-hidden="true" />
-          Request Free Access &mdash;{' '}
+Request Free Access,{' '}
           <span style={{ whiteSpace: 'nowrap' }}>team@faithfulkids.app &rarr;</span>
         </a>
         <p className="hv-close-fine" style={{ maxWidth: '32em', margin: '16px auto 0' }}>
           Clicking opens your email app. Or write us directly at{' '}
-          <a href={mailto} style={g}>team@faithfulkids.app</a>. One email &mdash; usually set up
+          <a href={mailto} style={g}>team@faithfulkids.app</a>. One email, usually set up
           within 24 hours.
         </p>
       </V2Hero>
 
       <section className="v2-section">
         <V2Head eyebrow="How It Works" title="Three steps, zero paperwork"
-                sub={<>No forms, no calls, no contracts &mdash; just an email.</>} />
+                sub={<>No forms, no calls, no contracts, just an email.</>} />
         <div className="v2-wrap">
           <div className="v2-steps">
             <div className="v2-step">
@@ -60,7 +60,7 @@ function ChurchesV2() {
             </div>
             <div className="v2-step">
               <h3>We set up free access</h3>
-              <p>Your Sunday school class gets full access to everything &mdash; the same product
+              <p>Your Sunday school class gets full access to everything, the same product
                 families pay for, free for your ministry.</p>
             </div>
             <div className="v2-step">
@@ -74,26 +74,26 @@ function ChurchesV2() {
       </section>
 
       <section className="v2-section is-alt">
-        <V2Head eyebrow="What Your Ministry Gets" title="Everything families get — free for your class"
+        <V2Head eyebrow="What Your Ministry Gets" title="Everything families get, free for your class"
                 sub="The full app, plus free resources you can use today without signing up for anything." />
         <div className="v2-wrap">
           <div className="v2-grid is-3">
             <div className="v2-card">
               <div className="v2-ico" aria-hidden="true">📺</div>
               <h3>300+ Bible video episodes</h3>
-              <p>Short story episodes across 30+ series, Genesis to Revelation &mdash; each followed
+              <p>Short story episodes across 30+ series, Genesis to Revelation, each followed
                 by a quiz and reflection.</p>
             </div>
             <div className="v2-card">
               <div className="v2-ico" aria-hidden="true">🏆</div>
               <h3>Quizzes, levels &amp; streaks</h3>
-              <p>The gamified structure keeps kids coming back &mdash; great for weekly memory-verse
+              <p>The gamified structure keeps kids coming back, great for weekly memory-verse
                 and story review.</p>
             </div>
             <div className="v2-card">
               <div className="v2-ico" aria-hidden="true">📄</div>
               <h3>Free printables</h3>
-              <p><a href="/printables" style={g}>Trivia pack, 30-day challenge, bedtime kit</a> &mdash;
+              <p><a href="/printables" style={g}>Trivia pack, 30-day challenge, bedtime kit</a>:
                 print unlimited copies for your class.</p>
             </div>
             <div className="v2-card">
@@ -101,7 +101,7 @@ function ChurchesV2() {
               <h3>Embeddable trivia game</h3>
               <p>Put our <a href="/bible-trivia#embed" style={g}>free Bible trivia game</a>{' '}
                 (<a href="/blog/bible-trivia-embed-for-church-website" style={g}>setup guide</a>)
-                directly on your church website &mdash; kids play right on your page.</p>
+                directly on your church website, kids play right on your page.</p>
               <p>Curious exactly what the kids get? The full{' '}
                 <a href="/blog/faithful-kids-scope-and-sequence" style={g}>scope and sequence</a> is
                 public. Family pricing lives on our <a href="/pricing" style={g}>pricing page</a>;
@@ -118,7 +118,7 @@ function ChurchesV2() {
               <div className="v2-ico" aria-hidden="true">✝️</div>
               <h3>Scripture-first</h3>
               <p>Nondenominational: episodes retell the Bible&apos;s own stories and cite chapter and
-                verse &mdash; no teaching layered on top.</p>
+                verse, no teaching layered on top.</p>
             </div>
           </div>
         </div>
@@ -131,7 +131,7 @@ function ChurchesV2() {
           eyebrow="Free Resource Library"
           title="Resources for your ministry, beyond the app"
           sub={<>Lesson guides, classroom games, printable maps and charts, trivia, and
-            family-engagement tools &mdash; organized by the job you&apos;re doing this week,
+            family-engagement tools, organized by the job you&apos;re doing this week,
             all free and photocopy-friendly.{' '}
             <a href="/churches/resources" style={g}>Browse the children&apos;s ministry resource library &rarr;</a></>}
         />
@@ -145,7 +145,7 @@ function ChurchesV2() {
               <summary><h3>What&apos;s the catch?</h3><span className="hv-faq-mark" aria-hidden="true" /></summary>
               <p>There isn&apos;t one. Families pay for Faithful Kids at home; ministry use is free.
                 If it blesses your kids, we hope you&apos;ll mention us on your church&apos;s
-                resources page &mdash; that&apos;s a request, not a condition.</p>
+                resources page, that&apos;s a request, not a condition.</p>
             </details>
             <details className="hv-faq-item">
               <summary><h3>What&apos;s your doctrinal position?</h3><span className="hv-faq-mark" aria-hidden="true" /></summary>
@@ -156,7 +156,7 @@ function ChurchesV2() {
             </details>
             <details className="hv-faq-item">
               <summary><h3>Is it safe for kids?</h3><span className="hv-faq-mark" aria-hidden="true" /></summary>
-              <p>Yes &mdash; no ads, no external links, no chat, COPPA-compliant privacy, and a
+              <p>Yes, no ads, no external links, no chat, COPPA-compliant privacy, and a
                 PIN-protected parent area. See our <a href="/privacy" style={g}>privacy policy</a>.</p>
             </details>
           </div>
@@ -171,7 +171,7 @@ function ChurchesV2() {
         </ul>
         <h2>Ready to try it with your class?</h2>
         <p className="hv-close-fine" style={{ margin: '0 0 22px' }}>
-          Email us your church name and class size &mdash; we&apos;ll take it from there.
+          Email us your church name and class size, we&apos;ll take it from there.
         </p>
         <a className="hv-cta" href={mailto}>
           <span className="hv-cta-play" aria-hidden="true" />

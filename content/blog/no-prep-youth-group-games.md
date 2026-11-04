@@ -86,7 +86,7 @@ If nothing above fits, scan the room for five categories of object and a game ex
 
 When you just need the group laughing, these [fun and funny youth group games](/blog/fun-youth-group-games) come with exact rules and the materials you already own.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
 ## How Do You Run a Last-Minute Game Night Without It Falling Apart?
 
@@ -102,7 +102,7 @@ Need more range? Our full [youth group games](/blog/youth-group-games) guide sor
 
 You can also hand over a phone and let kids run our [interactive Bible trivia game](/bible-trivia) themselves.
 
-Pair this with a [Bible word search puzzle](/printables/bible-word-search) — Noah, Christmas, Easter, David and Goliath and more.
+Pair this with a [Bible word search puzzle](/printables/bible-word-search), Noah, Christmas, Easter, David and Goliath and more.
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 

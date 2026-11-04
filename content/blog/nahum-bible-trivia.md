@@ -30,9 +30,9 @@ Nineveh was feared because Assyria ran the ancient world's most brutal war machi
 
 That background is what turns Nahum's closing line into the book's mic drop: "everyone who hears the news about you claps his hands at your fall, for who has not felt your endless cruelty?" (Nahum 3:19). It's the only prophetic book that ends with applause -- and it's why a book of judgment could be written by a man whose name means "comfort."
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring; put it on a TV and host it like the real thing.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible) chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
 ## Easy Nahum Trivia Questions (Ages 5-8)
 

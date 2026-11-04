@@ -184,7 +184,7 @@ Write a memory verse one word per card, shuffle, and split into two identical se
 **Group: 12-24 | Space: a neighborhood, with drivers | Materials: a paperclip per team | Prep: 15 min lining up adult drivers**
 Teams start with a paperclip and knock on doors trading up for something bigger or better. Ninety-minute limit, everyone back by curfew. **Supervision:** an adult with every team, never alone, and teams introduce themselves as being from your church every single time. **Faith tie-in:** debrief on Matthew 13:44 and what people will trade for something worth more.
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring; put it on a TV and host it like the real thing.
 
 ## What Games Work for Large Youth Groups (25+)?
 

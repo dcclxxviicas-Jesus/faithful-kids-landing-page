@@ -21,16 +21,16 @@ import './maps.css'
  */
 
 export const metadata: Metadata = {
-  title: { absolute: `Bible Maps for Kids — ${MAP_COUNT} Free Printable Maps` },
-  description: `${MAP_COUNT} free printable Bible maps for kids — the Exodus route, Israel in Jesus' time, Paul's journeys, the 12 tribes and more. Real geography, no sign-up.`,
+  title: { absolute: `Bible Maps for Kids, ${MAP_COUNT} Free Printable Maps` },
+  description: `${MAP_COUNT} free printable Bible maps for kids, the Exodus route, Israel in Jesus' time, Paul's journeys, the 12 tribes and more. Real geography, no sign-up.`,
   keywords: [
     'bible maps', 'bible map', 'bible maps for kids', 'printable bible maps',
     'bible maps printable', 'sunday school maps', 'bible geography for kids',
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-maps' },
   openGraph: {
-    title: `Bible Maps for Kids — ${MAP_COUNT} Free Printable Maps`,
-    description: `${MAP_COUNT} printable Bible maps with real geography — the Exodus, Paul's journeys, Israel in Jesus' time and more. Free, no sign-up.`,
+    title: `Bible Maps for Kids, ${MAP_COUNT} Free Printable Maps`,
+    description: `${MAP_COUNT} printable Bible maps with real geography, the Exodus, Paul's journeys, Israel in Jesus' time and more. Free, no sign-up.`,
     url: 'https://faithfulkids.app/printables/bible-maps',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
 const faqs = [
   {
     q: 'Are these Bible maps accurate?',
-    a: `Yes — and that is the point of the set. The coastlines, lakes and rivers are traced from real cartographic data (the same Natural Earth dataset professional mapmakers use), and all ${PLACE_COUNT} places sit at their genuine coordinates, so distances and directions are true. Where a site is traditional rather than certain — Mount Sinai, the Red Sea crossing — the map says so with an asterisk instead of pretending the question is settled.`,
+    a: `Yes, and that is the point of the set. The coastlines, lakes and rivers are traced from real cartographic data (the same Natural Earth dataset professional mapmakers use), and all ${PLACE_COUNT} places sit at their genuine coordinates, so distances and directions are true. Where a site is traditional rather than certain, Mount Sinai, the Red Sea crossing, the map says so with an asterisk instead of pretending the question is settled.`,
   },
   {
     q: 'Can I print these for my Sunday school class or co-op?',
@@ -49,7 +49,7 @@ const faqs = [
   },
   {
     q: 'What order should kids learn the maps in?',
-    a: "Follow the story: Canaan (the land as promised), the Exodus (the journey to it), the Twelve Tribes (how it was divided), Ancient Israel (the kingdoms), Israel in Jesus' time, and Paul's journeys last — by then the map has grown from one small land to the whole Mediterranean, which is itself the story of the Bible.",
+    a: "Follow the story: Canaan (the land as promised), the Exodus (the journey to it), the Twelve Tribes (how it was divided), Ancient Israel (the kingdoms), Israel in Jesus' time, and Paul's journeys last, by then the map has grown from one small land to the whole Mediterranean, which is itself the story of the Bible.",
   },
   {
     q: 'Why do kids need Bible maps at all?',
@@ -99,7 +99,7 @@ export default function BibleMapsHub() {
         <span className="section-label">Free · No Sign-Up</span>
         <h1>Printable Bible Maps for Kids</h1>
         <p className="blog-hero-sub">
-          {MAP_COUNT} maps that cover the whole story — the Promised Land, the Exodus route, the
+          {MAP_COUNT} maps that cover the whole story, the Promised Land, the Exodus route, the
           kingdoms, Israel in Jesus&rsquo; time, and Paul&rsquo;s journeys across the Mediterranean.
           Real geography, {PLACE_COUNT} labeled places, every map free to print.
         </p>
@@ -111,7 +111,7 @@ export default function BibleMapsHub() {
           These are different: the coastlines come from real cartographic data and every city sits
           at its true coordinates, so when a child measures Nazareth to Jerusalem with a finger,
           the distance they feel is the real one. Where a location is traditional rather than
-          certain — Mount Sinai, the Red Sea crossing — the map marks it with an asterisk and says
+          certain, Mount Sinai, the Red Sea crossing, the map marks it with an asterisk and says
           so, because teaching kids the difference between &ldquo;the Bible says&rdquo; and
           &ldquo;tradition says&rdquo; is part of teaching the Bible honestly.
         </p>
@@ -140,7 +140,7 @@ export default function BibleMapsHub() {
             <h2>Use them in story order</h2>
             <p>
               The set is designed to be learned as one story. Start with{' '}
-              <a href="/printables/bible-maps/the-promised-land">Canaan</a> — the land God promised
+              <a href="/printables/bible-maps/the-promised-land">Canaan</a> the land God promised
               Abraham. <a href="/printables/bible-maps/the-exodus">The Exodus</a> is the journey to
               it, <a href="/printables/bible-maps/twelve-tribes-of-israel">the Twelve Tribes</a> is
               how it was divided, <a href="/printables/bible-maps/ancient-israel">Ancient Israel</a>{' '}
@@ -149,7 +149,7 @@ export default function BibleMapsHub() {
               is the same land the Gospels walk through, and{' '}
               <a href="/printables/bible-maps/pauls-missionary-journeys">Paul&rsquo;s journeys</a>{' '}
               blow the map open to the whole Mediterranean. Pin them up in order and the wall tells
-              the story of the Bible by itself — the{' '}
+              the story of the Bible by itself, the{' '}
               <a href="/printables/bible-timeline">printable Bible timeline</a> makes a good
               seventh sheet.
             </p>
@@ -172,7 +172,7 @@ export default function BibleMapsHub() {
               <a href="/printables/bible-timeline">Bible timeline chart</a>, the{' '}
               <a href="/printables/books-of-the-bible">books of the Bible chart</a>, and the{' '}
               <a href="/printables/bible-word-search">word searches</a> built from the same
-              stories — <a href="/printables">the whole free library is here</a>.
+              stories, <a href="/printables">the whole free library is here</a>.
             </p>
           </section>
         </div>
@@ -182,7 +182,7 @@ export default function BibleMapsHub() {
         {...clip}
         duration={clip.duration ?? undefined}
         heading="Maps show where it happened. The episodes show what happened."
-        body={`Every place on these maps has its story in the Faithful Kids library — ${clip.videoTitle} runs about two minutes and ends with a quiz, one of 300+ episodes from Genesis to Revelation.`}
+        body={`Every place on these maps has its story in the Faithful Kids library, ${clip.videoTitle} runs about two minutes and ends with a quiz, one of 300+ episodes from Genesis to Revelation.`}
         source="bible-maps-hub"
       />
 
@@ -191,7 +191,7 @@ export default function BibleMapsHub() {
           <h2>They can find it on the map. Do they know the story?</h2>
           <p>
             Faithful Kids tells the whole Bible in 300+ short video episodes with a quiz after
-            every story — the places on these maps, brought to life in order.
+            every story, the places on these maps, brought to life in order.
           </p>
           <a className="btn-primary" href="/quiz?ref=bible-maps">
             Start your child&rsquo;s Bible journey

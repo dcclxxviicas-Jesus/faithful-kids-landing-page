@@ -23,13 +23,13 @@ The Church at Antioch is a Bible story from Acts in the New Testament. This rete
 
 ## What Is the Story of The Church at Antioch for Kids?
 
-THE EARLY CHURCH — EPISODE 10: THE CHURCH AT ANTIOCH Based on Acts 11:19-30, 13:1-3 Series: The Early Church | Episode 10 of 10 Target audience: Kids ages 7-15
+THE EARLY CHURCH, EPISODE 10: THE CHURCH AT ANTIOCH Based on Acts 11:19-30, 13:1-3 Series: The Early Church | Episode 10 of 10 Target audience: Kids ages 7-15
 
-We've made it to the final episode of this series — and what a way to end. Because this is the story of the church that changed the world.
+We've made it to the final episode of this series, and what a way to end. Because this is the story of the church that changed the world.
 
-After Stephen was killed and persecution scattered believers everywhere, some ended up in Antioch — the third-largest city in the Roman Empire. Massive, diverse, bustling with people from every background you can imagine.
+After Stephen was killed and persecution scattered believers everywhere, some ended up in Antioch, the third-largest city in the Roman Empire. Massive, diverse, bustling with people from every background you can imagine.
 
-And here's the bold part — these scattered believers didn't just talk to Jewish people. They shared my message with Greeks. Gentiles. And those people believed — in huge numbers.
+And here's the bold part, these scattered believers didn't just talk to Jewish people. They shared my message with Greeks. Gentiles. And those people believed, in huge numbers.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Church at Antioch teaches children important lessons about comm
 
 ## Key Bible Verse
 
-> *"The disciples were called Christians first at Antioch."* — Acts 11:26
+> *"The disciples were called Christians first at Antioch."* (Acts 11:26)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What significant "first" happened in Antioch?
 
-It was in Antioch that followers of Jesus were first called "Christians." The believers there were so identified with Christ — His teachings, His character, His mission — that the people around them gave them a name that has stuck for over two thousand years.
+It was in Antioch that followers of Jesus were first called "Christians." The believers there were so identified with Christ, His teachings, His character, His mission, that the people around them gave them a name that has stuck for over two thousand years.
 
 ### What was unique about the leadership of the church at Antioch?
 
-The leaders at Antioch came from vastly different backgrounds — Barnabas from Cyprus, Simeon called Niger, Lucius from North Africa, Manaen who grew up in King Herod's household, and Saul from Tarsus. This diversity showed that God's church transcends every cultural boundary.
+The leaders at Antioch came from vastly different backgrounds, Barnabas from Cyprus, Simeon called Niger, Lucius from North Africa, Manaen who grew up in King Herod's household, and Saul from Tarsus. This diversity showed that God's church transcends every cultural boundary.
 
 ### What did the Holy Spirit tell the church at Antioch while they were worshipping and fasting?
 
-While the church was worshipping and fasting, the Holy Spirit said to set apart Barnabas and Saul for a special mission. The church obeyed — they laid hands on them, prayed, and sent them out as the very first missionaries. This moment launched the gospel to the wider world.
+While the church was worshipping and fasting, the Holy Spirit said to set apart Barnabas and Saul for a special mission. The church obeyed, they laid hands on them, prayed, and sent them out as the very first missionaries. This moment launched the gospel to the wider world.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Church at Antioch about for kids?
 
-The Church at Antioch is a story from Acts. THE EARLY CHURCH — EPISODE 10: THE CHURCH AT ANTIOCH Based on Acts 11:19-30, 13:1-3 Series: The Early Church | Episode 10 of 10 Target audience: Kids ages 7-15
+The Church at Antioch is a story from Acts. THE EARLY CHURCH, EPISODE 10: THE CHURCH AT ANTIOCH Based on Acts 11:19-30, 13:1-3 Series: The Early Church | Episode 10 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of The Church at Antioch appropriate for?
 

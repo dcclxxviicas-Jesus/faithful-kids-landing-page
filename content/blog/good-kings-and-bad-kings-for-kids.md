@@ -23,13 +23,13 @@ Good Kings and Bad Kings is a Bible story from 1 Kings in the Old Testament. Thi
 
 ## What Is the Story of Good Kings and Bad Kings for Kids?
 
-SOLOMON & THE KINGDOM — Episode 9: Good Kings and Bad Kings Bible Reference: 1 & 2 Kings (highlights) Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM: Episode 9: Good Kings and Bad Kings Bible Reference: 1 & 2 Kings (highlights) Series: Solomon & the Kingdom
 
-Hey everyone — strap in! After the kingdom split, centuries of kings followed — some incredible, some terrible. The contrast is stunning.
+Hey everyone, strap in! After the kingdom split, centuries of kings followed, some incredible, some terrible. The contrast is stunning.
 
-The Northern Kingdom — Israel — spiraled almost immediately. Jeroboam was worried his people would go to Jerusalem to worship and return to Rehoboam. So he built two golden calves — one in Dan, one in Bethel — and said, "Here are your gods who brought you out of Egypt!" Sound familiar? It's EXACTLY what Israel did at Mount Sinai. They didn't learn. From that point, nearly every king of Israel was evil — worshipping idols, ignoring prophets, pulling people further from God.
+The Northern Kingdom, Israel, spiraled almost immediately. Jeroboam was worried his people would go to Jerusalem to worship and return to Rehoboam. So he built two golden calves, one in Dan, one in Bethel, and said, "Here are your gods who brought you out of Egypt!" Sound familiar? It's EXACTLY what Israel did at Mount Sinai. They didn't learn. From that point, nearly every king of Israel was evil, worshipping idols, ignoring prophets, pulling people further from God.
 
-Down south in Judah? Different story. Not perfect — kings like Ahaz sacrificed his own children to false gods. But God raised up remarkable leaders too.
+Down south in Judah? Different story. Not perfect, kings like Ahaz sacrificed his own children to false gods. But God raised up remarkable leaders too.
 
 This story comes from 1 Kings and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Good Kings and Bad Kings teaches children important lessons about w
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
-We drew a printable [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jeroboam set up in the Northern Kingdom that led Israel into idol worship?
 
-Jeroboam was afraid his people would return to Jerusalem to worship, so he built two golden calves — one in Dan and one in Bethel — and told the people these were their gods. It echoed the same sin Israel committed at Mount Sinai.
+Jeroboam was afraid his people would return to Jerusalem to worship, so he built two golden calves, one in Dan and one in Bethel, and told the people these were their gods. It echoed the same sin Israel committed at Mount Sinai.
 
 ### What did King Hezekiah do when the Assyrian army surrounded Jerusalem?
 
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Good Kings and Bad Kings about for kids?
 
-Good Kings and Bad Kings is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 9: Good Kings and Bad Kings Bible Reference: 1 & 2 Kings (highlights) Series: Solomon & the Kingdom
+Good Kings and Bad Kings is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 9: Good Kings and Bad Kings Bible Reference: 1 & 2 Kings (highlights) Series: Solomon & the Kingdom
 
 ### What age is the story of Good Kings and Bad Kings appropriate for?
 

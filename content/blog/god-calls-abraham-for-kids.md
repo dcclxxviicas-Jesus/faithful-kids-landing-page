@@ -23,13 +23,13 @@ God Calls Abraham is a Bible story from Genesis 12-15 in the Old Testament. This
 
 ## What Is the Story of God Calls Abraham for Kids?
 
-Hey friend! Welcome back. Today we meet someone who changes everything — a man named Abram, who God would later rename Abraham. And this story? It's about the moment God asked someone to trust Him with absolutely zero details.
+Hey friend! Welcome back. Today we meet someone who changes everything, a man named Abram, who God would later rename Abraham. And this story? It's about the moment God asked someone to trust Him with absolutely zero details.
 
-Abram was living in a place called Haran with his wife Sarai and his nephew Lot. He had a good life — comfortable, settled, safe. And then, completely out of nowhere, God spoke to him.
+Abram was living in a place called Haran with his wife Sarai and his nephew Lot. He had a good life, comfortable, settled, safe. And then, completely out of nowhere, God spoke to him.
 
 "Leave your country. Leave your people. Leave your father's household. Go to the land I will show you."
 
-Wait — did you catch that? God didn't say WHERE. He didn't hand Abram a map. He didn't say, "Head north for 200 miles and take a left." He just said "Go. Trust me. I'll show you when you get there."
+Wait, did you catch that? God didn't say WHERE. He didn't hand Abram a map. He didn't say, "Head north for 200 miles and take a left." He just said "Go. Trust me. I'll show you when you get there."
 
 This story comes from Genesis 12-15 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of God Calls Abraham teaches children important lessons about creation
 
 ## Key Bible Verse
 
-> *"I will make you into a great nation, and I will bless you."* — Genesis 12:2
+> *"I will make you into a great nation, and I will bless you."* (Genesis 12:2)
 
 A related freebie: our [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning), drawn as clean line art for crayons and markers.
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What made God's command to Abram so challenging?
 
-God told Abram to leave his home, his people, and everything familiar — but didn't give him a destination. Abram had to trust God completely without knowing where he'd end up.
+God told Abram to leave his home, his people, and everything familiar, but didn't give him a destination. Abram had to trust God completely without knowing where he'd end up.
 
 ### How old was Abram when he left Haran?
 
-Abram was 75 years old when he set out — an age when most people would be settling down. Instead, he was starting the greatest adventure of his life.
+Abram was 75 years old when he set out, an age when most people would be settling down. Instead, he was starting the greatest adventure of his life.
 
 ### What did God compare Abram's future descendants to?
 
-God took Abram outside at night and told him to try counting the stars — saying that's how many descendants he would have. An incredible promise for a man with no children.
+God took Abram outside at night and told him to try counting the stars, saying that's how many descendants he would have. An incredible promise for a man with no children.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of God Calls Abraham about for kids?
 
-God Calls Abraham is a story from Genesis 12-15. Hey friend! Welcome back. Today we meet someone who changes everything — a man named Abram, who God would later rename Abraham. And this story? It's about the moment God asked someone to trust Him ...
+God Calls Abraham is a story from Genesis 12-15. Hey friend! Welcome back. Today we meet someone who changes everything, a man named Abram, who God would later rename Abraham. And this story? It's about the moment God asked someone to trust Him ...
 
 ### What age is the story of God Calls Abraham appropriate for?
 

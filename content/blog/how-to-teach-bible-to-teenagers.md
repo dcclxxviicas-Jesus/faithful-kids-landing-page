@@ -12,13 +12,13 @@ Here is the uncomfortable truth that many Christian parents face: the Barna Grou
 
 But it does not have to be that way. Teenagers are not leaving faith because they are rebellious. Most are leaving because nobody engaged their real questions, connected Scripture to their actual lives, or gave them permission to doubt without being shamed.
 
-This guide is for parents who want to keep the Bible alive for their teenagers — not through force, but through wisdom, honesty, and genuine connection.
+This guide is for parents who want to keep the Bible alive for their teenagers, not through force, but through wisdom, honesty, and genuine connection.
 
 ## Why Teenagers Disengage from the Bible
 
 Before we talk about solutions, we need to understand the problem. Teens typically disengage for one or more of these reasons:
 
-**It feels repetitive.** They have heard the same stories since preschool, and nothing new is being offered. [David and Goliath](/blog/david-and-goliath-for-kids) at age 15 hits differently than at age 5 — but only if you teach it differently.
+**It feels repetitive.** They have heard the same stories since preschool, and nothing new is being offered. [David and Goliath](/blog/david-and-goliath-for-kids) at age 15 hits differently than at age 5, but only if you teach it differently.
 
 **It feels irrelevant.** When the Bible is taught in a vacuum, disconnected from school, relationships, mental health, social media, and identity, teens mentally check out. They are not thinking about ancient Israel. They are thinking about whether their friend group still likes them.
 
@@ -40,7 +40,7 @@ Instead of explaining what a passage means, try:
 - "If you were in that situation, what would you have done?"
 - "What does this story say about human nature?"
 
-When you ask genuine questions — not leading questions with a "right" answer — you communicate respect for their mind. And when they answer something you disagree with, resist the urge to correct immediately. Ask another question instead: "That is interesting — what makes you think that?"
+When you ask genuine questions, not leading questions with a "right" answer, you communicate respect for their mind. And when they answer something you disagree with, resist the urge to correct immediately. Ask another question instead: "That is interesting, what makes you think that?"
 
 The goal is not to extract the right answer. The goal is to help them develop the habit of engaging Scripture for themselves. If your teen responds better to a challenge than an invitation, hand them a set of [hard Bible trivia questions](/blog/hard-bible-trivia-questions) and let curiosity do the rest.
 
@@ -55,7 +55,7 @@ Here are some examples:
 - **Romans 12:2 ("Do not conform"):** "What does it look like to not conform to the patterns of this world when you are in 10th grade? What specific pressures are you facing?"
 - **Ecclesiastes 4:9-12 ("Two are better than one"):** "What makes a friendship real versus surface-level? How do you find people who actually have your back?"
 
-When teens see that the Bible speaks to their daily reality — friendships, anxiety, identity, justice, purpose — everything changes.
+When teens see that the Bible speaks to their daily reality, friendships, anxiety, identity, justice, purpose, everything changes.
 
 ### 3. Use Media and Multiple Formats
 
@@ -66,13 +66,13 @@ Try mixing in:
 - **Podcasts** that discuss faith honestly (teens can listen while walking or commuting)
 - **Group text discussions** where you share a verse and everyone responds throughout the day
 - **Journaling prompts** instead of worksheets
-- **Art responses** — some teens process through drawing, writing poetry, or making music
+- **Art responses**, some teens process through drawing, writing poetry, or making music
 
 The text of Scripture itself is irreplaceable. But the delivery method should match the learner. For younger teens, our picks of [Bible stories for middle schoolers](/blog/bible-stories-for-middle-schoolers) are a good on-ramp.
 
 ### 4. Let Them Doubt
 
-This is where many well-meaning parents and youth leaders get it wrong. Doubt is not the opposite of faith. Certainty without examination is not faith — it is assumption. Real faith emerges on the other side of honest questioning.
+This is where many well-meaning parents and youth leaders get it wrong. Doubt is not the opposite of faith. Certainty without examination is not faith, it is assumption. Real faith emerges on the other side of honest questioning.
 
 When your teenager says, "I am not sure I believe this," do not panic. That sentence might be the beginning of the strongest faith they will ever have.
 
@@ -86,12 +86,12 @@ Create an environment where questions are honored, not feared. The teenager who 
 
 ### 5. Make It Social
 
-Teenagers are wired for community. Faith that exists only in private moments or family devotions — while valuable — misses a critical developmental need. Teens need peers who share their values and with whom they can process their beliefs.
+Teenagers are wired for community. Faith that exists only in private moments or family devotions, while valuable, misses a critical developmental need. Teens need peers who share their values and with whom they can process their beliefs.
 
 This can look like:
 - **A small group of 3-5 teens** meeting weekly for honest discussion (not lecture)
 - **A mentor relationship** with a trusted adult who is not their parent
-- **Serving together** — mission trips, community service, or helping at church
+- **Serving together**: mission trips, community service, or helping at church
 - **Sharing meals** where faith conversations happen naturally, not formally (these [family dinner Bible questions](/blog/family-dinner-bible-questions) are an easy starting point)
 - **Youth group** that prioritizes genuine relationship over entertainment (a competitive round of [Bible trivia for youth](/blog/bible-trivia-for-youth) is one of the few formats teens will opt into voluntarily)
 
@@ -135,7 +135,7 @@ You do not have to build a session around each of these from scratch. Our [ready
 
 Teaching the Bible to teenagers is not a sprint. It is the longest, most patient game you will ever play. Some conversations will seem to go nowhere. Some devotionals will be met with eye rolls. Some seasons will feel like you are talking to a wall.
 
-And then, sometimes years later, your teenager — now an adult — will tell you about a moment when a verse you planted came back to them at exactly the right time. When a story they thought was boring at 14 became the thing that held them together at 22.
+And then, sometimes years later, your teenager, now an adult, will tell you about a moment when a verse you planted came back to them at exactly the right time. When a story they thought was boring at 14 became the thing that held them together at 22.
 
 Plant the seeds. Water them with patience, honesty, and love. And trust the God who promises that His word will not return void (Isaiah 55:11).
 
@@ -143,17 +143,17 @@ Plant the seeds. Water them with patience, honesty, and love. And trust the God 
 
 Short, engaging Bible videos designed for kids ages 7-15 can be a powerful supplementary tool for teens who prefer visual content. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and give your teenager a way to engage with Scripture that respects their intelligence and meets them in a format they actually enjoy.
 
-For the tools side, see our guide to [Bible apps for teens who've outgrown the kids' apps](/blog/bible-apps-for-teens) — including the free adult apps worth graduating to.
+For the tools side, see our guide to [Bible apps for teens who've outgrown the kids' apps](/blog/bible-apps-for-teens), including the free adult apps worth graduating to.
 
 ## Frequently Asked Questions
 
 ### My teenager refuses to do any Bible study. Should I force them?
 
-Forced devotionals rarely produce genuine faith. Instead, look for natural conversation opportunities — while driving, during meals, or when they bring up a struggle. Share short, relevant [Bible verses for teens](/blog/bible-verses-for-teens) without making it a formal "study." Even a lighthearted round of [Bible trivia for teens](/blog/bible-trivia-for-teens) can open doors a lecture never will. Model your own faith openly. And keep the door open. Coercion builds walls; invitation builds bridges.
+Forced devotionals rarely produce genuine faith. Instead, look for natural conversation opportunities, while driving, during meals, or when they bring up a struggle. Share short, relevant [Bible verses for teens](/blog/bible-verses-for-teens) without making it a formal "study." Even a lighthearted round of [Bible trivia for teens](/blog/bible-trivia-for-teens) can open doors a lecture never will. Model your own faith openly. And keep the door open. Coercion builds walls; invitation builds bridges.
 
 ### How do I handle it when my teen disagrees with what the Bible says?
 
-With curiosity, not defensiveness. Ask them to explain their reasoning. Share your perspective without demanding they adopt it. Remember that the Holy Spirit is the one who convicts and transforms — not your arguments. A teen who disagrees and keeps talking to you about it is in a much better position than one who goes silent.
+With curiosity, not defensiveness. Ask them to explain their reasoning. Share your perspective without demanding they adopt it. Remember that the Holy Spirit is the one who convicts and transforms, not your arguments. A teen who disagrees and keeps talking to you about it is in a much better position than one who goes silent.
 
 ### What Bible translation is best for teenagers?
 

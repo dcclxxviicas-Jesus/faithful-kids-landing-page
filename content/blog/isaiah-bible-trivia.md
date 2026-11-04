@@ -52,9 +52,9 @@ Isaiah matters because no Old Testament prophet points to Jesus more often or mo
 27. "All we like sheep have gone ___." **Astray** -- "each of us has turned to our own way" (Isaiah 53:6)
 28. Which chapter of Isaiah did Jesus read aloud in the Nazareth synagogue? **Isaiah 61** -- "The Spirit of the Sovereign LORD is on me" (Luke 4:17-19)
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 

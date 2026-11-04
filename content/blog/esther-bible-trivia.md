@@ -64,7 +64,7 @@ A timeline anchor helps before you start: Esther takes place between Ezra chapte
 
 20. What Jewish holiday celebrates the events of the book of Esther? **Purim, named after the "pur" (the lot) Haman cast** (Esther 9:24-26)
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 

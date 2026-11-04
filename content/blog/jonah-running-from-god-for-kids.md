@@ -23,13 +23,13 @@ Jonah Running from God is a Bible story from Daniel/Jonah/Isaiah in the Old Test
 
 ## What Is the Story of Jonah Running from God for Kids?
 
-EXILE & FAITH — EPISODE 8: JONAH — RUNNING FROM GOD Based on Jonah 1–2 | Narrated by Jesus
+EXILE & FAITH, EPISODE 8: JONAH, RUNNING FROM GOD Based on Jonah 1–2 | Narrated by Jesus
 
-Buckle up — because this story is wild. We've been talking about heroes who stood firm, who refused to bow, who prayed with windows open. But this next guy? He heard God's voice loud and clear — and SPRINTED the other way.
+Buckle up, because this story is wild. We've been talking about heroes who stood firm, who refused to bow, who prayed with windows open. But this next guy? He heard God's voice loud and clear, and SPRINTED the other way.
 
 God gives him a mission: "Go to Nineveh and preach against it, because their wickedness has come before Me."
 
-Nineveh was the capital of Assyria — the people who destroyed Northern Israel. Brutal, violent, terrifying. Israel's worst nightmare. And God wants Jonah to go HELP them? Give them a chance to repent?
+Nineveh was the capital of Assyria, the people who destroyed Northern Israel. Brutal, violent, terrifying. Israel's worst nightmare. And God wants Jonah to go HELP them? Give them a chance to repent?
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Jonah Running from God teaches children important lessons about cou
 
 ## Key Bible Verse
 
-> *"In my distress I called to the Lord, and he answered me."* — Jonah 2:2
+> *"In my distress I called to the Lord, and he answered me."* (Jonah 2:2)
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -65,7 +65,7 @@ God sent a huge fish that swallowed Jonah whole. He spent three days and three n
 
 ### What connection did Jesus make between Jonah's story and His own?
 
-Jesus pointed out that Jonah's three days in the belly of the fish foreshadowed His own three days in the tomb before His resurrection — Jonah's story was pointing to Jesus all along.
+Jesus pointed out that Jonah's three days in the belly of the fish foreshadowed His own three days in the tomb before His resurrection, Jonah's story was pointing to Jesus all along.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ There is a free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and
 
 ### What is the story of Jonah Running from God about for kids?
 
-Jonah Running from God is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 8: JONAH — RUNNING FROM GOD Based on Jonah 1–2 | Narrated by Jesus
+Jonah Running from God is a story from Daniel/Jonah/Isaiah. EXILE & FAITH, EPISODE 8: JONAH, RUNNING FROM GOD Based on Jonah 1–2 | Narrated by Jesus
 
 ### What age is the story of Jonah Running from God appropriate for?
 

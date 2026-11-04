@@ -8,7 +8,7 @@ datePublished: "2026-04-01"
 dateModified: "2026-08-16"
 ---
 
-When a child is sick — or when someone they love is sick — the world can feel very scary. Questions swirl that adults struggle to answer: Why is this happening? Will it get better? Does God care?
+When a child is sick, or when someone they love is sick, the world can feel very scary. Questions swirl that adults struggle to answer: Why is this happening? Will it get better? Does God care?
 
 The Bible does not shy away from sickness and suffering. It is filled with stories of people who were ill, who hurt, who waited, and who cried out to God. And again and again, those stories reveal a God who draws near to the suffering and who has the power to heal.
 
@@ -16,15 +16,15 @@ These six Bible stories are not magic formulas. They will not make the doctor's 
 
 ## 1. Naaman Is Healed of Leprosy (2 Kings 5:1-14)
 
-Naaman was a powerful military commander — the kind of man who was used to giving orders, not taking them. But he had leprosy, a devastating skin disease that no amount of power or money could cure.
+Naaman was a powerful military commander, the kind of man who was used to giving orders, not taking them. But he had leprosy, a devastating skin disease that no amount of power or money could cure.
 
-A young servant girl — an Israelite child captured in war — told Naaman's wife about the prophet Elisha. Naaman traveled to Israel with gold, silver, and fine clothes, expecting a dramatic healing ceremony. Instead, Elisha sent a messenger who said, "Go, wash yourself seven times in the Jordan, and your flesh will be restored" (2 Kings 5:10).
+A young servant girl, an Israelite child captured in war, told Naaman's wife about the prophet Elisha. Naaman traveled to Israel with gold, silver, and fine clothes, expecting a dramatic healing ceremony. Instead, Elisha sent a messenger who said, "Go, wash yourself seven times in the Jordan, and your flesh will be restored" (2 Kings 5:10).
 
-Naaman was furious. The Jordan was a muddy river. He wanted something grand. But his servants reasoned with him, and he finally obeyed. He dipped once, twice, seven times — and his skin was completely healed. (Read the full retelling in [Naaman the leper for kids](/blog/naaman-the-leper-for-kids).)
+Naaman was furious. The Jordan was a muddy river. He wanted something grand. But his servants reasoned with him, and he finally obeyed. He dipped once, twice, seven times, and his skin was completely healed. (Read the full retelling in [Naaman the leper for kids](/blog/naaman-the-leper-for-kids).)
 
-**Talk about it:** "Naaman wanted healing to happen his way. But God's way was different — and it worked. Sometimes healing does not look the way we expect, but God always knows what He is doing."
+**Talk about it:** "Naaman wanted healing to happen his way. But God's way was different, and it worked. Sometimes healing does not look the way we expect, but God always knows what He is doing."
 
-Also notice the servant girl. A child, taken from her home, living in a foreign land — and she still pointed someone toward God. Kids have more power than they know.
+Also notice the servant girl. A child, taken from her home, living in a foreign land, and she still pointed someone toward God. Kids have more power than they know.
 
 ## 2. Jesus Heals the Man Born Blind (John 9:1-11, 35-38)
 
@@ -48,11 +48,11 @@ Mark 2:5 says, "When Jesus saw their faith, he said to the paralyzed man, 'Son, 
 
 This story is powerful for kids who feel helpless when someone else is sick. They cannot heal their friend or family member. But they can pray, they can show up, and they can carry people to Jesus through their prayers and presence.
 
-We drew a printable [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## 4. The Woman Who Touched Jesus' Cloak (Mark 5:25-34)
 
-A woman had been bleeding for twelve years. She had spent everything she had on doctors, but nothing helped — she only got worse (Mark 5:26). In that culture, her condition made her "unclean," meaning people avoided her. She was sick, broke, and isolated.
+A woman had been bleeding for twelve years. She had spent everything she had on doctors, but nothing helped; she only got worse (Mark 5:26). In that culture, her condition made her "unclean," meaning people avoided her. She was sick, broke, and isolated.
 
 She pushed through the crowd and touched just the edge of Jesus' cloak. Immediately, the bleeding stopped. Jesus felt power go out from Him and asked, "Who touched my clothes?" (Mark 5:30).
 
@@ -66,11 +66,11 @@ The word "daughter" matters. Jesus did not just heal her body. He restored her i
 
 While Jesus was on His way to heal [Jairus' daughter](/blog/jairus-daughter-for-kids), messengers arrived with devastating news: "Your daughter is dead. Why bother the teacher anymore?" (Mark 5:35). Jairus' worst fear had come true.
 
-But Jesus said, "Don't be afraid; just believe" (Mark 5:36). He went to the house, took the girl by the hand, and said, "Talitha koum!" — "Little girl, I say to you, get up!" (Mark 5:41). She stood up and walked around. She was twelve years old.
+But Jesus said, "Don't be afraid; just believe" (Mark 5:36). He went to the house, took the girl by the hand, and said, "Talitha koum!", "Little girl, I say to you, get up!" (Mark 5:41). She stood up and walked around. She was twelve years old.
 
 **Talk about it:** "Even when everyone else said it was too late, Jesus said, 'Don't be afraid.' He took her hand and she got up. Jesus is never too late, and nothing is too big for Him."
 
-For children facing serious illness — their own or a loved one's — this story says something they desperately need to hear: it is never too late for God to act, and He is not afraid of the worst-case scenario.
+For children facing serious illness, their own or a loved one's, this story says something they desperately need to hear: it is never too late for God to act, and He is not afraid of the worst-case scenario.
 
 ## 6. Hezekiah's Prayer (2 Kings 20:1-6; Isaiah 38)
 
@@ -94,15 +94,15 @@ Here are some principles for navigating conversations about illness with your ch
 
 **Pray together.** Let your child hear you pray honestly. "God, we are scared. We do not understand why this is happening. But we trust You. Please be close to us." Keep a few [Bible verses for sick kids](/blog/bible-verses-for-sick-kids) nearby for these moments.
 
-**Point to God's presence, not just His power.** Healing stories show God's power, but the deeper message is His presence. He is Immanuel — God with us — especially in the hospital room, especially in the waiting, especially in the dark.
+**Point to God's presence, not just His power.** Healing stories show God's power, but the deeper message is His presence. He is Immanuel, God with us, especially in the hospital room, especially in the waiting, especially in the dark.
 
 ## When Healing Does Not Come
 
-Not every story ends in miraculous healing — in the Bible or in life. If your child is grieving someone who died despite prayers, they need to know that God is not absent or uncaring. "The Lord is close to the brokenhearted" (Psalm 34:18). Heaven is real. Reunion is promised. And God catches every tear (Psalm 56:8). For those harder conversations, our guide on [explaining death and heaven to kids](/blog/explaining-death-and-heaven-to-kids) can help.
+Not every story ends in miraculous healing, in the Bible or in life. If your child is grieving someone who died despite prayers, they need to know that God is not absent or uncaring. "The Lord is close to the brokenhearted" (Psalm 34:18). Heaven is real. Reunion is promised. And God catches every tear (Psalm 56:8). For those harder conversations, our guide on [explaining death and heaven to kids](/blog/explaining-death-and-heaven-to-kids) can help.
 
 ## Watch on Faithful Kids
 
-Let your child experience these powerful healing stories through short, beautifully told video episodes. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and watch Jesus heal the blind, raise Jairus' daughter, and show that God is always near — especially when we are hurting.
+Let your child experience these powerful healing stories through short, beautifully told video episodes. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and watch Jesus heal the blind, raise Jairus' daughter, and show that God is always near, especially when we are hurting.
 
 Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids) -- every retelling is free and runs from Genesis to Revelation in order.
 
@@ -110,11 +110,11 @@ Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids) -
 
 ### How do I explain to my child why God does not always heal?
 
-This is one of the deepest questions in all of faith, and it is okay to say, "I do not fully understand either." What you can affirm is that God is always good, always present, and always working — even when we cannot see it. In heaven, there will be no more sickness, no more pain, and no more tears (Revelation 21:4). Until then, we trust Him in the mystery.
+This is one of the deepest questions in all of faith, and it is okay to say, "I do not fully understand either." What you can affirm is that God is always good, always present, and always working, even when we cannot see it. In heaven, there will be no more sickness, no more pain, and no more tears (Revelation 21:4). Until then, we trust Him in the mystery.
 
 ### My child is afraid of hospitals. Can Bible stories help?
 
-Yes. Stories of Jesus visiting the sick and touching the "untouchable" show children that God is present in frightening places. Before a hospital visit, read or watch the story of Jesus healing the paralyzed man or the woman who touched His cloak. Remind your child that Jesus goes everywhere with them — including the hospital.
+Yes. Stories of Jesus visiting the sick and touching the "untouchable" show children that God is present in frightening places. Before a hospital visit, read or watch the story of Jesus healing the paralyzed man or the woman who touched His cloak. Remind your child that Jesus goes everywhere with them, including the hospital.
 
 ### At what age can kids understand Bible stories about death and illness?
 
@@ -122,4 +122,4 @@ Children as young as 4-5 can grasp simple concepts of sickness and healing. Keep
 
 ### How can kids support a sick friend or family member?
 
-Teach your child about the four friends who carried the paralyzed man to Jesus. Kids can pray, draw pictures, write cards, visit, or simply sit with someone. Remind them that being present is one of the most powerful things they can do. They do not have to fix anything — just being there matters.
+Teach your child about the four friends who carried the paralyzed man to Jesus. Kids can pray, draw pictures, write cards, visit, or simply sit with someone. Remind them that being present is one of the most powerful things they can do. They do not have to fix anything, just being there matters.

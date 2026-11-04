@@ -27,11 +27,11 @@ Fire from Heaven is a Bible story from 1 & 2 Kings in the Old Testament. This re
 
 FIRE FROM HEAVEN Series: Elijah & Elisha | Episode 3 Scripture: 1 Kings 18
 
-Okay kids — THIS is the one. The ultimate showdown. The most EPIC face-off in the Old Testament. One prophet versus four hundred and fifty. If this were a movie, this would be the scene where the music kicks in and the camera goes slow-motion. Let's GO.
+Okay kids, THIS is the one. The ultimate showdown. The most EPIC face-off in the Old Testament. One prophet versus four hundred and fifty. If this were a movie, this would be the scene where the music kicks in and the camera goes slow-motion. Let's GO.
 
 Three years have passed. No rain. The land is scorched. People are starving. And God tells Elijah, "Go show yourself to King Ahab. I'm about to send rain." So Elijah walks right back to the king who wants him dead.
 
-Ahab sees him and says, "Is that you, you troublemaker of Israel?" And Elijah fires back: "I'm not the troublemaker — YOU are. You abandoned God and followed Baal. Now gather ALL of Israel at Mount Carmel. Bring your 450 prophets of Baal. Let's settle this."
+Ahab sees him and says, "Is that you, you troublemaker of Israel?" And Elijah fires back: "I'm not the troublemaker, YOU are. You abandoned God and followed Baal. Now gather ALL of Israel at Mount Carmel. Bring your 450 prophets of Baal. Let's settle this."
 
 This story comes from 1 & 2 Kings and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Fire from Heaven teaches children important lessons about faith, mi
 
 ## Key Bible Verse
 
-> *"The Lord, He is God!"* — 1 Kings 18:39
+> *"The Lord, He is God!"* (1 Kings 18:39)
 
 A related freebie: our [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace), drawn as clean line art for crayons and markers.
 

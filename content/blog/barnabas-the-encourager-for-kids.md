@@ -23,13 +23,13 @@ Barnabas the Encourager is a Bible story from Acts in the New Testament. This re
 
 ## What Is the Story of Barnabas the Encourager for Kids?
 
-THE EARLY CHURCH — EPISODE 9: BARNABAS THE ENCOURAGER Based on Acts 4:36-37, 9:26-27, 11:22-26 Series: The Early Church | Episode 9 of 10 Target audience: Kids ages 7-15
+THE EARLY CHURCH, EPISODE 9: BARNABAS THE ENCOURAGER Based on Acts 4:36-37, 9:26-27, 11:22-26 Series: The Early Church | Episode 9 of 10 Target audience: Kids ages 7-15
 
 Today I want to tell you about someone who doesn't always make the highlight reel. But without this man, the story of my church would look completely different.
 
-His name was Joseph — but everyone called him Barnabas. The apostles gave him that nickname. It means "Son of Encouragement." He was SO encouraging that people literally renamed him for it.
+His name was Joseph, but everyone called him Barnabas. The apostles gave him that nickname. It means "Son of Encouragement." He was SO encouraging that people literally renamed him for it.
 
-First time we see Barnabas, the church is brand new. Barnabas owned a field — and he sold it. Brought every penny and laid it at the apostles' feet. No fanfare. Just quiet, radical generosity.
+First time we see Barnabas, the church is brand new. Barnabas owned a field, and he sold it. Brought every penny and laid it at the apostles' feet. No fanfare. Just quiet, radical generosity.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -43,9 +43,9 @@ The story of Barnabas the Encourager teaches children important lessons about co
 
 ## Key Bible Verse
 
-> *"He was a good man, full of the Holy Spirit and faith."* — Acts 11:24
+> *"He was a good man, full of the Holy Spirit and faith."* (Acts 11:24)
 
-We drew a printable [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 To follow the route, our free [map of Paul's missionary journeys](/printables/bible-maps/pauls-missionary-journeys) shows all three journeys and the voyage to Rome, color-coded on one printable sheet.
 
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Barnabas the Encourager about for kids?
 
-Barnabas the Encourager is a story from Acts. THE EARLY CHURCH — EPISODE 9: BARNABAS THE ENCOURAGER Based on Acts 4:36-37, 9:26-27, 11:22-26 Series: The Early Church | Episode 9 of 10 Target audience: Kids ages 7-15
+Barnabas the Encourager is a story from Acts. THE EARLY CHURCH, EPISODE 9: BARNABAS THE ENCOURAGER Based on Acts 4:36-37, 9:26-27, 11:22-26 Series: The Early Church | Episode 9 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Barnabas the Encourager appropriate for?
 

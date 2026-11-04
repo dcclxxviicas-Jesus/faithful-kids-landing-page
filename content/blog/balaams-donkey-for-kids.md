@@ -25,7 +25,7 @@ Balaams Donkey is a Bible story from Numbers 22-24 in the Old Testament. This re
 
 Okay, I need you to stop whatever else you're thinking about because today's story has a TALKING DONKEY. Yes, you heard that right. A donkey that opens its mouth and has an actual conversation. This really happened. Let's get into it.
 
-So Israel is moving through the wilderness, and they're getting close to the land of Moab. The king of Moab — a guy named Balak — is absolutely terrified. He's seen what God has done for Israel, and he's thinking, "There is NO way I can fight these people." So he comes up with what he thinks is a genius plan.
+So Israel is moving through the wilderness, and they're getting close to the land of Moab. The king of Moab, a guy named Balak, is absolutely terrified. He's seen what God has done for Israel, and he's thinking, "There is NO way I can fight these people." So he comes up with what he thinks is a genius plan.
 
 He sends messengers to a prophet named Balaam and says, "Come curse these Israelites for me. I'll pay you a ton of money." Balaam asks God about it, and God says, "No. You will not curse them, because they are blessed." Pretty clear, right?
 
@@ -43,7 +43,7 @@ The story of Balaams Donkey teaches children important lessons about courage, tr
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 If small hands need something to do while you read, the free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) is made for exactly that.
 
@@ -61,11 +61,11 @@ King Balak of Moab was terrified of the Israelites because he saw how powerful t
 
 ### Why did Balaam's donkey keep stopping and swerving off the road?
 
-An angel of the Lord stood in the road with a drawn sword to stop Balaam. The donkey could see the angel even though Balaam couldn't. Each time the donkey tried to avoid the angel, Balaam beat her — not realizing the donkey was actually saving his life.
+An angel of the Lord stood in the road with a drawn sword to stop Balaam. The donkey could see the angel even though Balaam couldn't. Each time the donkey tried to avoid the angel, Balaam beat her, not realizing the donkey was actually saving his life.
 
 ### What happened every time Balaam tried to curse Israel?
 
-Three separate times, King Balak set up altars and asked Balaam to curse Israel. But every single time Balaam opened his mouth, God put blessings there instead. No one can override what God has declared — if He says you are blessed, you are blessed, period.
+Three separate times, King Balak set up altars and asked Balaam to curse Israel. But every single time Balaam opened his mouth, God put blessings there instead. No one can override what God has declared, if He says you are blessed, you are blessed, period.
 
 
 ## Discussion Questions for Families

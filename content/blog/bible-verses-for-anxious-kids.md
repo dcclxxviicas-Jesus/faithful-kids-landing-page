@@ -8,9 +8,9 @@ datePublished: "2026-04-01"
 dateModified: "2026-08-16"
 ---
 
-Anxiety in children is more common than most parents realize. According to the CDC, approximately 9.4% of children ages 3-17 have been diagnosed with an anxiety disorder — and many more experience worry and fear without a formal diagnosis. If your child struggles with anxiety, you are not alone, and your child is not broken.
+Anxiety in children is more common than most parents realize. According to the CDC, approximately 9.4% of children ages 3-17 have been diagnosed with an anxiety disorder, and many more experience worry and fear without a formal diagnosis. If your child struggles with anxiety, you are not alone, and your child is not broken.
 
-Scripture does not dismiss anxiety. It meets it head-on. The Bible is full of commands to "fear not" — not because fear is shameful, but because God knows we need to hear it. He understands that we are dust (Psalm 103:14), that we get scared, and that we need reminding of what is true when our feelings are screaming something different.
+Scripture does not dismiss anxiety. It meets it head-on. The Bible is full of commands to "fear not"; not because fear is shameful, but because God knows we need to hear it. He understands that we are dust (Psalm 103:14), that we get scared, and that we need reminding of what is true when our feelings are screaming something different.
 
 These twelve verses are not magic spells that will instantly dissolve your child's anxiety. But planted in their hearts over time, repeated in dark moments, and wrapped in your steady presence, they become anchors. They give your child words when they do not have their own and truth when their worries lie to them. Pairing them with [Bible stories about fear and anxiety](/blog/bible-stories-about-fear-and-anxiety-for-kids) helps kids see these truths lived out.
 
@@ -20,7 +20,7 @@ For each verse, there is a kid-friendly explanation you can share directly with 
 
 *"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."*
 
-**Tell your child:** "This verse does not say 'never feel worried.' It says when you feel worried, tell God about it. Talk to Him like you would talk to me. Tell Him what scares you. And He promises to give you a special kind of peace — the kind that does not even make sense, but it is real. His peace acts like a guard, protecting your heart and your thoughts."
+**Tell your child:** "This verse does not say 'never feel worried.' It says when you feel worried, tell God about it. Talk to Him like you would talk to me. Tell Him what scares you. And He promises to give you a special kind of peace; the kind that does not even make sense, but it is real. His peace acts like a guard, protecting your heart and your thoughts."
 
 ## 2. Psalm 56:3
 
@@ -42,13 +42,13 @@ There is also a set of free [Valentine Bible verse cards for kids](/printables/v
 
 *"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."*
 
-**Tell your child:** "God said this to Joshua right before a huge, scary challenge. He did not say, 'You will not feel scared.' He said, 'Be brave anyway, because I am going with you. Everywhere you go — school, the doctor, a new place, the dark — I am already there.' Courage is not the absence of fear. Courage is being afraid and trusting God anyway."
+**Tell your child:** "God said this to Joshua right before a huge, scary challenge. He did not say, 'You will not feel scared.' He said, 'Be brave anyway, because I am going with you. Everywhere you go, school, the doctor, a new place, the dark, I am already there.' Courage is not the absence of fear. Courage is being afraid and trusting God anyway."
 
 ## 5. Psalm 23:4
 
 *"Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."*
 
-**Tell your child:** "Imagine walking through a really dark, scary place. You cannot see what is ahead. But someone is walking right next to you — someone so strong that nothing in the dark can hurt you. That is God. He does not always take us around the scary places, but He always walks through them with us."
+**Tell your child:** "Imagine walking through a really dark, scary place. You cannot see what is ahead. But someone is walking right next to you, someone so strong that nothing in the dark can hurt you. That is God. He does not always take us around the scary places, but He always walks through them with us."
 
 ## 6. 1 Peter 5:7
 
@@ -60,7 +60,7 @@ There is also a set of free [Valentine Bible verse cards for kids](/printables/v
 
 *"When anxiety was great within me, your consolation brought me joy."*
 
-**Tell your child:** "The person who wrote this psalm felt really, really anxious — not just a little nervous, but overwhelmed. And they said that God's comfort turned their anxiety into joy. Not all at once, maybe, but it happened. When everything inside you feels tangled up, God can untangle it."
+**Tell your child:** "The person who wrote this psalm felt really, really anxious, not just a little nervous, but overwhelmed. And they said that God's comfort turned their anxiety into joy. Not all at once, maybe, but it happened. When everything inside you feels tangled up, God can untangle it."
 
 ## 8. Matthew 6:34
 
@@ -78,19 +78,19 @@ There is also a set of free [Valentine Bible verse cards for kids](/printables/v
 
 *"God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea."*
 
-**Tell your child:** "This verse says that even if the whole world was falling apart — mountains crashing into the ocean — we do not have to be afraid. Because God is our safe place. A refuge is like a fortress, a hiding place where nothing can get to you. That is what God is for you."
+**Tell your child:** "This verse says that even if the whole world was falling apart, mountains crashing into the ocean, we do not have to be afraid. Because God is our safe place. A refuge is like a fortress, a hiding place where nothing can get to you. That is what God is for you."
 
 ## 11. Romans 8:38-39
 
 *"For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."*
 
-**Tell your child:** "Nothing — absolutely nothing — can separate you from God's love. Not your worst day. Not your biggest fear. Not anything you do or anything that happens to you. His love is stuck to you like superglue that can never come off. Nothing in the whole universe is strong enough to pull you away from how much God loves you."
+**Tell your child:** "Nothing, absolutely nothing, can separate you from God's love. Not your worst day. Not your biggest fear. Not anything you do or anything that happens to you. His love is stuck to you like superglue that can never come off. Nothing in the whole universe is strong enough to pull you away from how much God loves you."
 
 ## 12. Isaiah 43:1
 
 *"Do not fear, for I have redeemed you; I have summoned you by name; you are mine."*
 
-**Tell your child:** "God knows your name. Not just 'a kid on Earth' — your actual name. He calls you by it. And He says, 'You are mine.' You belong to Him. When you feel lost or scared or alone, remember: the God of the universe knows your name and claims you as His own."
+**Tell your child:** "God knows your name. Not just 'a kid on Earth', your actual name. He calls you by it. And He says, 'You are mine.' You belong to Him. When you feel lost or scared or alone, remember: the God of the universe knows your name and claims you as His own."
 
 ## How to Use These Verses with Your Child
 
@@ -100,7 +100,7 @@ There is also a set of free [Valentine Bible verse cards for kids](/printables/v
 
 **Do not weaponize them.** Never say, "The Bible says not to be anxious, so stop worrying." That increases shame and does nothing for anxiety. Instead, sit with your child in their fear and gently offer the verse as comfort, not correction.
 
-**Pair Scripture with practical tools.** Bible verses work beautifully alongside deep breathing, grounding exercises (name five things you can see), and professional support. Faith and therapy are not competitors — they are partners.
+**Pair Scripture with practical tools.** Bible verses work beautifully alongside deep breathing, grounding exercises (name five things you can see), and professional support. Faith and therapy are not competitors; they are partners.
 
 **Repeat, repeat, repeat.** Memorization takes time. These [memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) can speed it up. But when a verse is truly planted in a child's heart, it becomes available in moments of crisis when they need it most.
 
@@ -110,13 +110,13 @@ Scripture is powerful, but it is not a substitute for professional care when a c
 
 ## Watch on Faithful Kids
 
-Help your child internalize these truths through stories, not just verses. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let your child watch David face his fears, Joshua lead with courage, and Jesus calm the storm — all in short, engaging video episodes that make Scripture come alive.
+Help your child internalize these truths through stories, not just verses. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let your child watch David face his fears, Joshua lead with courage, and Jesus calm the storm, all in short, engaging video episodes that make Scripture come alive.
 
 ## Frequently Asked Questions
 
 ### At what age can kids start memorizing Bible verses?
 
-Most children can begin memorizing short verses (like Psalm 56:3) around ages 4-5. By ages 7-8, they can handle longer passages. The key is repetition and context — verses stick when kids understand what they mean and connect them to real experiences in their lives. Our list of [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) is a good place to start.
+Most children can begin memorizing short verses (like Psalm 56:3) around ages 4-5. By ages 7-8, they can handle longer passages. The key is repetition and context; verses stick when kids understand what they mean and connect them to real experiences in their lives. Our list of [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) is a good place to start.
 
 ### Can Bible verses cure anxiety in children?
 
@@ -128,4 +128,4 @@ In the peak of an anxiety episode, the rational brain often goes offline. That i
 
 ### How do I choose the right verse for my child's specific fear?
 
-For fear of the dark or being alone, use Psalm 23:4 or Deuteronomy 31:8. For worry about the future or "what ifs," use Matthew 6:34 or Philippians 4:6-7. For feeling unloved or worthless, use Romans 8:38-39 or Isaiah 43:1. For general anxiety, Psalm 56:3 and 1 Peter 5:7 are great starting points. Let your child pick their favorites too — the verse they choose is often the one that resonates deepest.
+For fear of the dark or being alone, use Psalm 23:4 or Deuteronomy 31:8. For worry about the future or "what ifs," use Matthew 6:34 or Philippians 4:6-7. For feeling unloved or worthless, use Romans 8:38-39 or Isaiah 43:1. For general anxiety, Psalm 56:3 and 1 Peter 5:7 are great starting points. Let your child pick their favorites too, the verse they choose is often the one that resonates deepest.

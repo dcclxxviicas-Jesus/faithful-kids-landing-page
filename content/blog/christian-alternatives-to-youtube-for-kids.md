@@ -100,23 +100,23 @@ Every cell checked against the vendor's own site or App Store listing on Septemb
 | Price | $12.99/mo · $97/yr (web) | $10.99/mo · $69.99/yr | $7.99/mo · $48.99/yr | Free | Free |
 | Bible coverage | Genesis to Revelation, in order | Select shows | Select shows | Select stories | 41 stories |
 | Quiz after every story | Yes | No | No | No (games) | No (games) |
-| Ads | No ads | "100% Ad-Free" | "no ads" | — | Free, no in-app purchases |
+| Ads | No ads | "100% Ad-Free" | "no ads" |, | Free, no in-app purchases |
 | Number of lessons | 300+ | 100s of episodes | 50+ shows | 50+ episodes | 41 stories |
-| Parent dashboard | Yes (PIN) | — | — | Controls, no dashboard | No |
+| Parent dashboard | Yes (PIN) |, |, | Controls, no dashboard | No |
 
-The structural difference matters more than any row: **Faithful Kids is not a feed — every video ends in a question, not a recommendation.** The others range from curated streaming (Minno, Yippee) to free story collections; all of them, like YouTube, end a video by offering another video. Families who also want general family streaming beyond kids' Bible content sometimes pair one of these with a service like Pure Flix, UP Faith & Family, RedeemTV, or Answers TV — those are family-wide platforms rather than kids' apps, so vet their catalogs yourself.
+The structural difference matters more than any row: **Faithful Kids is not a feed, every video ends in a question, not a recommendation.** The others range from curated streaming (Minno, Yippee) to free story collections; all of them, like YouTube, end a video by offering another video. Families who also want general family streaming beyond kids' Bible content sometimes pair one of these with a service like Pure Flix, UP Faith & Family, RedeemTV, or Answers TV, those are family-wide platforms rather than kids' apps, so vet their catalogs yourself.
 
 Torn between the streaming options on this list? [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) compares the three biggest Christian kids' platforms directly.
 
-Pair this with our free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star), one sheet, ready for the kitchen table or the classroom.
 
-Faithful Kids is on the App Store for iPhone and iPad — the [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside, safety, and pricing.
+Faithful Kids is on the App Store for iPhone and iPad, the [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside, safety, and pricing.
 
 If ad-safety is the deciding factor, our app-by-app check of [Bible apps with no ads and nothing a child can buy](/blog/bible-apps-for-kids-no-ads) verifies each vendor's own claim.
 
 Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
 
-From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails — what worked in his house was replacement, not prohibition.
+From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails, what worked in his house was replacement, not prohibition.
 
 ## Frequently Asked Questions
 

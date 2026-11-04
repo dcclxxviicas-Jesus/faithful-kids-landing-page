@@ -18,7 +18,7 @@ These ten principles are drawn directly from Scripture. Each one includes the ve
 
 ## 1. Teach Them Constantly, Not Just on Sundays
 
-**"Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."** — Deuteronomy 6:7
+**"Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."** (Deuteronomy 6:7)
 
 This is the foundational verse for Christian parenting, and it is more radical than it sounds. God is not saying "take your kids to church on Sunday." He is saying weave faith into the fabric of every day. At breakfast. In the car. Before bed. When you see a sunset. When you face a problem. When you celebrate a win.
 
@@ -28,7 +28,7 @@ This is the foundational verse for Christian parenting, and it is more radical t
 
 ## 2. Train Them According to Who They Are
 
-**"Start children off on the way they should go, and even when they are old they will not turn from it."** — Proverbs 22:6
+**"Start children off on the way they should go, and even when they are old they will not turn from it."** (Proverbs 22:6)
 
 This verse is often read as a guarantee: if you raise your child right, they will never leave the faith. That is not what it says. The Hebrew phrase "the way they should go" literally means "according to their way," their unique bent, personality, and gifting. It means training each child according to who God made them to be.
 
@@ -38,7 +38,7 @@ This verse is often read as a guarantee: if you raise your child right, they wil
 
 ## 3. Do Not Exasperate Them
 
-**"Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord."** — Ephesians 6:4
+**"Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord."** (Ephesians 6:4)
 
 Paul could have said "discipline your children" and left it there. Instead, he led with a warning: do not exasperate them. The Greek word means to provoke to anger, to frustrate to the point of hopelessness. How do parents do this? Through unreasonable rules, inconsistent discipline, harsh criticism, perfectionism, favoritism, or never affirming what a child does right.
 
@@ -46,11 +46,11 @@ Paul could have said "discipline your children" and left it there. Instead, he l
 
 ---
 
-If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
 
 ## 4. Model What You Teach
 
-**"Follow my example, as I follow the example of Christ."** — 1 Corinthians 11:1
+**"Follow my example, as I follow the example of Christ."** (1 Corinthians 11:1)
 
 Paul had the audacity to say "imitate me" because he was imitating Christ. As a parent, you are your child's first and most influential model of faith. They are watching you more closely than you realize. They notice if you pray. They notice if you read the Bible. They notice how you treat their other parent. They notice how you respond to stress, injustice, and failure.
 
@@ -60,7 +60,7 @@ Paul had the audacity to say "imitate me" because he was imitating Christ. As a 
 
 ## 5. Discipline With Love, Not Anger
 
-**"No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it."** — Hebrews 12:11
+**"No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it."** (Hebrews 12:11)
 
 The Bible is clear that discipline is an act of love (Proverbs 3:12: "the Lord disciplines those he loves"). But discipline motivated by parental anger is not discipline. It is punishment. There is a difference. Discipline is about the child's growth. Punishment is about the parent's frustration.
 
@@ -70,7 +70,7 @@ The Bible is clear that discipline is an act of love (Proverbs 3:12: "the Lord d
 
 ## 6. Be Patient With Their Growth
 
-**"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."** — Philippians 1:6
+**"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."** (Philippians 1:6)
 
 God is patient with you. He is still working on you. And He asks you to extend that same patience to your children. Your child is not a finished product. They are a work in progress, just like you. They will fail, rebel, question, and frustrate you. That is normal. It is part of the process, not evidence of your failure.
 
@@ -80,7 +80,7 @@ God is patient with you. He is still working on you. And He asks you to extend t
 
 ## 7. Prioritize Character Over Achievement
 
-**"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."** — 1 Samuel 16:7
+**"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."** (1 Samuel 16:7)
 
 Our culture celebrates achievement: grades, trophies, college admissions, athletic performance. None of these are bad. But the Bible consistently prioritizes character over accomplishment. God chose David, the youngest, smallest son, because of his heart (a story worth sharing with your kids -- see [God chooses David](/blog/god-chooses-david-for-kids)). He chose Moses, a man with a speech impediment. He chose fishermen and tax collectors to be apostles.
 
@@ -90,7 +90,7 @@ Our culture celebrates achievement: grades, trophies, college admissions, athlet
 
 ## 8. Create a Home of Grace
 
-**"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."** — Ephesians 4:32
+**"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."** (Ephesians 4:32)
 
 A Christian home should be the safest place on earth. Not safe from discipline or correction, but safe from condemnation. A place where mistakes are met with grace, where confession is met with forgiveness, and where no one has to earn love.
 
@@ -100,9 +100,9 @@ A Christian home should be the safest place on earth. Not safe from discipline o
 
 ## 9. Pray For Them and With Them
 
-**"Pray continually."** — 1 Thessalonians 5:17
+**"Pray continually."** (1 Thessalonians 5:17)
 
-**"Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven."** — Matthew 18:19
+**"Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven."** (Matthew 18:19)
 
 Prayer is the most underused tool in Christian parenting. Pray for your children every day: for their safety, their character, their friendships, their faith, their future spouse, their calling. And pray with them: at meals, at bedtime, when they are scared, when they are celebrating, when they face decisions.
 
@@ -112,7 +112,7 @@ Prayer is the most underused tool in Christian parenting. Pray for your children
 
 ## 10. Trust God With the Outcome
 
-**"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."** — Proverbs 3:5-6
+**"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."** (Proverbs 3:5-6)
 
 Here is the hardest truth in Christian parenting: you can do everything right and your child may still walk away from faith. You can teach, model, pray, and pour out your heart, and your adult child may still choose differently. That is the reality of free will.
 

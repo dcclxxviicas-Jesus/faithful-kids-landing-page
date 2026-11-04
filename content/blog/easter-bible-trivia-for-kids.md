@@ -67,7 +67,7 @@ These questions reward kids who really know the text -- prophecies, exact words,
 39. What were Jesus' final words on the cross in the Gospel of John? **"It is finished"** (John 19:30)
 40. For how many days did Jesus appear to His followers after the resurrection before ascending to heaven? **Forty days** (Acts 1:3)
 
-For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages) — print as many as your class needs.
+For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages), print as many as your class needs.
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
@@ -86,7 +86,7 @@ For year-round question banks beyond Easter, start with our master list of [Bibl
 
 Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the questions, the scoring, and the verses.
 
-For a quieter follow-up, try the [Easter word search](/printables/bible-word-search/easter) — twelve words hidden in the grid, answer key included.
+For a quieter follow-up, try the [Easter word search](/printables/bible-word-search/easter), twelve words hidden in the grid, answer key included.
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 

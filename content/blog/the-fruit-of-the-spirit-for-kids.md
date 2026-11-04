@@ -23,13 +23,13 @@ The Fruit of the Spirit is a Bible story from Romans/Corinthians/Ephesians in th
 
 ## What Is the Story of The Fruit of the Spirit for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 6 "The Fruit of the Spirit" Based on Galatians 5:22-26 Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 6 "The Fruit of the Spirit" Based on Galatians 5:22-26 Jesus Narrates
 
-Have you ever tried to glue fake fruit onto a tree? Hot-glued a plastic apple onto a branch and hoped someone would think it was real? From far away, maybe it fools somebody — but up close? Everyone knows it's fake. It didn't grow there.
+Have you ever tried to glue fake fruit onto a tree? Hot-glued a plastic apple onto a branch and hoped someone would think it was real? From far away, maybe it fools somebody, but up close? Everyone knows it's fake. It didn't grow there.
 
 That's what it looks like when people try to fake being good without anything real happening on the inside.
 
-Paul wrote to the churches in Galatia and described what a life connected to me actually looks like. He called it the fruit of the Spirit. And notice — he didn't say "fruits," plural. He said "fruit" — singular. One fruit. Because it all comes as one package. Think of it like an orange with nine segments. You don't get to pick three and throw out the rest.
+Paul wrote to the churches in Galatia and described what a life connected to me actually looks like. He called it the fruit of the Spirit. And notice, he didn't say "fruits," plural. He said "fruit", singular. One fruit. Because it all comes as one package. Think of it like an orange with nine segments. You don't get to pick three and throw out the rest.
 
 This story comes from Romans/Corinthians/Ephesians and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Fruit of the Spirit teaches children important lessons about lo
 
 ## Key Bible Verse
 
-> *"The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control."* — Galatians 5:22-23
+> *"The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control."* (Galatians 5:22-23)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### Why does Paul say "fruit" (singular) instead of "fruits" (plural)?
 
-Paul used "fruit" singular because all nine qualities come together as one — you don't get to pick and choose which ones you want. They grow together when you're connected to Jesus.
+Paul used "fruit" singular because all nine qualities come together as one; you don't get to pick and choose which ones you want. They grow together when you're connected to Jesus.
 
 ### Which of these is NOT one of the nine parts of the fruit of the Spirit?
 
-The nine parts are love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Popularity is not one of them — God cares more about your character than your status.
+The nine parts are love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Popularity is not one of them; God cares more about your character than your status.
 
 ### How does the fruit of the Spirit grow in your life?
 
-Jesus said, "I am the vine, you are the branches." Real spiritual fruit grows naturally when you stay connected to him through prayer, reading his Word, and trusting him — you can't fake it or force it.
+Jesus said, "I am the vine, you are the branches." Real spiritual fruit grows naturally when you stay connected to him through prayer, reading his Word, and trusting him; you can't fake it or force it.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Older children who find coloring dull usually take to the [Fruit of the Spirit w
 
 ### What is the story of The Fruit of the Spirit about for kids?
 
-The Fruit of the Spirit is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 6 "The Fruit of the Spirit" Based on Galatians 5:22-26 Jesus Narrates
+The Fruit of the Spirit is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES; EPISODE 6 "The Fruit of the Spirit" Based on Galatians 5:22-26 Jesus Narrates
 
 ### What age is the story of The Fruit of the Spirit appropriate for?
 

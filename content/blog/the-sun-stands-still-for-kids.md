@@ -25,11 +25,11 @@ The Sun Stands Still is a Bible story from Joshua 10 in the Old Testament. This 
 
 Okay friend, I need to tell you about the day the sun STOPPED MOVING. Yes, you heard me right. The actual sun. In the actual sky. Just... froze. This might be one of the most jaw-dropping moments in the entire Bible, and I cannot WAIT for you to hear it.
 
-Here's the setup. Word has spread across the land about Israel. Everyone knows about the walls of Jericho. Everyone knows God is fighting for these people. And five enemy kings — five of them — get together and decide, "We need to join forces. NOW." Their target? A city called Gibeon, which had just made a peace treaty with Israel.
+Here's the setup. Word has spread across the land about Israel. Everyone knows about the walls of Jericho. Everyone knows God is fighting for these people. And five enemy kings, five of them, get together and decide, "We need to join forces. NOW." Their target? A city called Gibeon, which had just made a peace treaty with Israel.
 
 Joshua gets the call for help, and he doesn't hesitate. He marches his army through the night to reach Gibeon. And when the battle begins? God shows up in the most dramatic way possible.
 
-First — He sends enormous hailstones from the sky. I'm not talking about little ice pellets. These were MASSIVE. The Bible says more enemy soldiers were taken out by the hailstones than by the swords of Israel. God was literally fighting from heaven!
+First, He sends enormous hailstones from the sky. I'm not talking about little ice pellets. These were MASSIVE. The Bible says more enemy soldiers were taken out by the hailstones than by the swords of Israel. God was literally fighting from heaven!
 
 This story comes from Joshua 10 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of The Sun Stands Still teaches children important lessons about coura
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### How many enemy kings joined forces against Gibeon?
 
-Five enemy kings banded together because they were terrified of what God was doing through Israel. They attacked Gibeon, which had made peace with Israel — and that brought Joshua and his army into the fight.
+Five enemy kings banded together because they were terrified of what God was doing through Israel. They attacked Gibeon, which had made peace with Israel, and that brought Joshua and his army into the fight.
 
 ### What did God send from the sky to fight against Israel's enemies?
 
-God sent massive hailstones raining down on the enemy army. The Bible tells us that more enemy soldiers fell from the hailstones than from the swords of Israel's army. God Himself was fighting from heaven on Israel's behalf — in a way nobody could have predicted!
+God sent massive hailstones raining down on the enemy army. The Bible tells us that more enemy soldiers fell from the hailstones than from the swords of Israel's army. God Himself was fighting from heaven on Israel's behalf, in a way nobody could have predicted!
 
 ### What did Joshua boldly ask God to do during the battle?
 
-With the battle still raging and daylight fading, Joshua needed more time. So he cried out to God and commanded the sun to stand still over Gibeon and the moon over the valley of Aijalon — and God made it happen! The sun stayed in the sky for about a full day. The Bible says there has never been a day like it. This proves that absolutely nothing is impossible for God.
+With the battle still raging and daylight fading, Joshua needed more time. So he cried out to God and commanded the sun to stand still over Gibeon and the moon over the valley of Aijalon, and God made it happen! The sun stayed in the sky for about a full day. The Bible says there has never been a day like it. This proves that absolutely nothing is impossible for God.
 
 
 ## Discussion Questions for Families

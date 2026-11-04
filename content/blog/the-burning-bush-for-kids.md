@@ -43,9 +43,9 @@ The story of The Burning Bush teaches children important lessons about freedom, 
 
 ## Key Bible Verse
 
-> *"Take off your sandals, for the place where you are standing is holy ground."* — Exodus 3:5
+> *"Take off your sandals, for the place where you are standing is holy ground."* (Exodus 3:5)
 
-To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land — real geography, with the traditional stops labeled.
+To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land, real geography, with the traditional stops labeled.
 
 ## Parent's Guide: Why This Story Matters
 

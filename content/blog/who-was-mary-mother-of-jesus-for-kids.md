@@ -64,7 +64,7 @@ Joseph woke up and did what the angel commanded. He took Mary as his wife. He pr
 
 A related freebie: our [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary), drawn as clean line art for crayons and markers.
 
-She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids), the whole list, with a story and a verse for each.
 
 ## The Journey to Bethlehem and the Birth of Jesus (Luke 2:1-7)
 

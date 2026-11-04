@@ -73,13 +73,13 @@ Names, places, and reasons -- solid ground for teens and anyone who grew up in c
 39. Which two people recognized the infant Jesus as the Messiah at the temple? **Simeon and Anna** (Luke 2:25-38)
 40. What happened to Zechariah when he doubted the angel's message? **He was unable to speak until his son John was born** (Luke 1:20)
 
-Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day — free, no sign-up.
+Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day, free, no sign-up.
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 ## Hard Round (Questions 41-60)
 
@@ -158,7 +158,7 @@ Printing for a party? Our free [Bible Trivia Pack](/printables/bible-trivia-pack
 
 If you want something the kids can play alone, point them at our [Bible trivia quiz for kids](/bible-trivia).
 
-For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas) — twelve words hidden in the grid, answer key included.
+For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas), twelve words hidden in the grid, answer key included.
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 

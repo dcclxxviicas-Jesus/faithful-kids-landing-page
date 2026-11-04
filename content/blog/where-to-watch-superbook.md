@@ -7,7 +7,7 @@ keywords: ["where to watch superbook", "superbook where to watch", "superbook fr
 datePublished: "2026-08-31"
 ---
 
-The short answer: **Superbook is free.** Not free-trial free — actually free. CBN funds it through donations, so the full episode library streams at no cost on the **Superbook Kids Bible app**, on **superbook.cbn.com**, on the official **Superbook YouTube channel**, and it also appears on **Prime Video** and **Yippee TV**. There is no premium tier and no paywall partway through the library.
+The short answer: **Superbook is free.** Not free-trial free, actually free. CBN funds it through donations, so the full episode library streams at no cost on the **Superbook Kids Bible app**, on **superbook.cbn.com**, on the official **Superbook YouTube channel**, and it also appears on **Prime Video** and **Yippee TV**. There is no premium tier and no paywall partway through the library.
 
 That makes it unusual. Almost every other answer to "where can my kids watch Bible stories" ends in a subscription. This one doesn't.
 
@@ -21,7 +21,7 @@ That makes it unusual. Almost every other answer to "where can my kids watch Bib
 | **Prime Video** | Free to stream | Availability can change |
 | **Yippee TV** | $7.99/mo | Ad-free, alongside VeggieTales and others |
 
-A free account is generally worth creating on CBN's own site or app — it tracks which episodes a child has watched and unlocks the rewards features, which is the difference between kids picking up where they left off and starting from the same episode every time.
+A free account is generally worth creating on CBN's own site or app, it tracks which episodes a child has watched and unlocks the rewards features, which is the difference between kids picking up where they left off and starting from the same episode every time.
 
 ## The app is the best version
 
@@ -33,17 +33,17 @@ It is also entirely free with no in-app purchases, which for a children's app is
 
 ## Why YouTube is the fastest but not the best
 
-The official CBN-run Superbook channel is the quickest route — no account, no download, just press play.
+The official CBN-run Superbook channel is the quickest route, no account, no download, just press play.
 
 But it is YouTube, with the ads and the sidebar and the autoplay that follows. If the reason you're looking for Bible content is to get your kids *out* of the algorithm, the free app solves the problem the free channel doesn't.
 
 ## What Superbook actually is
 
-Superbook is CBN's animated retelling of the Bible, following two children and a robot who get sent back into biblical events. Episodes run around 25 minutes and cover the narrative properly — creation, the patriarchs, the exodus, the prophets, the gospels, Acts.
+Superbook is CBN's animated retelling of the Bible, following two children and a robot who get sent back into biblical events. Episodes run around 25 minutes and cover the narrative properly: creation, the patriarchs, the exodus, the prophets, the gospels, Acts.
 
 The animation is a genuine step up from most faith-based children's content, and the storytelling takes Scripture seriously rather than using it as a springboard for a moral lesson.
 
-Two honest limitations. Episodes are long — 25 minutes is a commitment, and it is the whole of a young child's attention span in one sitting. And there is no way to know what your child understood; it is television, and good television, but it is watched rather than worked through.
+Two honest limitations. Episodes are long: 25 minutes is a commitment, and it is the whole of a young child's attention span in one sitting. And there is no way to know what your child understood; it is television, and good television, but it is watched rather than worked through.
 
 ## Superbook vs the paid options
 
@@ -51,15 +51,15 @@ Given Superbook is free, the obvious question is why anyone pays for anything el
 
 The answer is usually catalog or structure. [Minno](/blog/minno-review) at $10.99/month and Yippee at $7.99/month carry many shows, so families wanting variety and no ads pay for the breadth. We compared them directly in [Minno vs Superbook vs Yippee](/blog/minno-vs-superbook-vs-yippee).
 
-But if your goal is specifically "my kids should watch Bible stories," Superbook does that at zero cost, and you should try it before paying anyone — including us.
+But if your goal is specifically "my kids should watch Bible stories," Superbook does that at zero cost, and you should try it before paying anyone: including us.
 
 ## Where Faithful Kids fits
 
 We would rather be straight about this: if free Bible video is what you want, Superbook is excellent and you should use it.
 
-[Faithful Kids](/) does a different job. It is 300+ **short** lessons — about two minutes each, not 25 — running Genesis to Revelation in order, with a comprehension quiz and a reflection after every one. The point is not more Bible video; it is a structured path with a way of checking what landed.
+[Faithful Kids](/) does a different job. It is 300+ **short** lessons: about two minutes each, not 25. Running Genesis to Revelation in order, with a comprehension quiz and a reflection after every one. The point is not more Bible video; it is a structured path with a way of checking what landed.
 
-That matters most for families using it as teaching rather than watching — homeschoolers especially, which is why we built a [homeschool page](/homeschool) for it. It runs $8.08/month billed yearly with a 7-day trial.
+That matters most for families using it as teaching rather than watching: homeschoolers especially, which is why we built a [homeschool page](/homeschool) for it. It runs $8.08/month billed yearly with a 7-day trial.
 
 Superbook for a Saturday morning; something structured for a Tuesday lesson. They are not competing for the same slot.
 

@@ -45,25 +45,25 @@ The shortlist parents keep coming back to, with meanings. Full lists with storie
 
 A quick index for the "something starting with J" conversations. (J dominates for a reason -- in Latin, the Y-sound of Hebrew names was written as I/J, so Yehudah became Judah, Yosef became Joseph, and Yeshua became Jesus.)
 
-- **A** — Aaron, Abel, Abigail, Abraham, Adam, Amos, Andrew, Anna, Asa, Asher
-- **B** — Barnabas, Bartholomew, Benjamin, Bethany, Boaz
-- **C** — Caleb, Candace, Carmel, Chloe, Claudia, Cyrus
-- **D** — Daniel, David, Deborah, Delilah, Dinah, Dorcas
-- **E** — Eden, Eli, Elijah, Elisha, Elizabeth, Enoch, Esther, Ethan, Eve, Ezekiel, Ezra
-- **G** — Gabriel, Gideon
-- **H** — Hadassah, Hannah, Hezekiah, Hosea, Huldah
-- **I** — Isaac, Isaiah, Israel
-- **J** — Jacob, Jael, James, Jared, Jemimah, Jeremiah, Jesse, Joanna, Joel, John, Jonah, Jonathan, Jordan, Joseph, Joshua, Josiah, Judah, Jude, Julia
-- **K** — Keren, Keziah
-- **L** — Lazarus, Leah, Levi, Lois, Luke, Lydia
-- **M** — Malachi, Mara, Mark, Martha, Mary, Matthew, Micah, Michael, Miriam, Moses
-- **N** — Naomi, Nathan, Nathanael, Nehemiah, Noa, Noah
-- **O** — Obadiah, Omar, Orpah
-- **P** — Paul, Peter, Philip, Phoebe, Priscilla
-- **R** — Rachel, Rahab, Rebekah, Reuben, Rhoda, Ruth
-- **S** — Salome, Samson, Samuel, Sarah, Selah, Seth, Shiloh, Silas, Simeon, Solomon, Stephen, Susanna
-- **T** — Tabitha, Tamar, Thomas, Timothy, Titus, Tirzah
-- **Z** — Zacchaeus, Zechariah, Zion, Zipporah
+- **A**, Aaron, Abel, Abigail, Abraham, Adam, Amos, Andrew, Anna, Asa, Asher
+- **B**, Barnabas, Bartholomew, Benjamin, Bethany, Boaz
+- **C**, Caleb, Candace, Carmel, Chloe, Claudia, Cyrus
+- **D**, Daniel, David, Deborah, Delilah, Dinah, Dorcas
+- **E**, Eden, Eli, Elijah, Elisha, Elizabeth, Enoch, Esther, Ethan, Eve, Ezekiel, Ezra
+- **G**, Gabriel, Gideon
+- **H**, Hadassah, Hannah, Hezekiah, Hosea, Huldah
+- **I**: Isaac, Isaiah, Israel
+- **J**: Jacob, Jael, James, Jared, Jemimah, Jeremiah, Jesse, Joanna, Joel, John, Jonah, Jonathan, Jordan, Joseph, Joshua, Josiah, Judah, Jude, Julia
+- **K**: Keren, Keziah
+- **L**: Lazarus, Leah, Levi, Lois, Luke, Lydia
+- **M**: Malachi, Mara, Mark, Martha, Mary, Matthew, Micah, Michael, Miriam, Moses
+- **N**: Naomi, Nathan, Nathanael, Nehemiah, Noa, Noah
+- **O**: Obadiah, Omar, Orpah
+- **P**: Paul, Peter, Philip, Phoebe, Priscilla
+- **R**: Rachel, Rahab, Rebekah, Reuben, Rhoda, Ruth
+- **S**: Salome, Samson, Samuel, Sarah, Selah, Seth, Shiloh, Silas, Simeon, Solomon, Stephen, Susanna
+- **T**: Tabitha, Tamar, Thomas, Timothy, Titus, Tirzah
+- **Z**: Zacchaeus, Zechariah, Zion, Zipporah
 
 ## Were There Biblical Last Names?
 
@@ -79,9 +79,9 @@ So when people search for "biblical last names," the honest list is names that *
 
 Only two angels are named in the Protestant Bible -- a shorter list than most name sites admit:
 
-- **Gabriel** — "God is my strength." The announcer: he explains visions to Daniel and [brings Mary the news](/blog/an-angel-visits-mary-for-kids) (Luke 1:26).
-- **Michael** — "who is like God?" The warrior archangel (Daniel 10:13, Jude 1:9, Revelation 12:7).
-- **Raphael** — "God heals" -- appears in Tobit, which Catholic and Orthodox Bibles include; Protestant Bibles don't.
+- **Gabriel**: "God is my strength." The announcer, he explains visions to Daniel and [brings Mary the news](/blog/an-angel-visits-mary-for-kids) (Luke 1:26).
+- **Michael**: "who is like God?" The warrior archangel (Daniel 10:13, Jude 1:9, Revelation 12:7).
+- **Raphael**: "God heals" (appears in Tobit, which Catholic and Orthodox Bibles include; Protestant Bibles don't).
 
 (Lucifer is a Latin rendering of a taunt against Babylon's king in Isaiah 14:12, and "angel names" lists padded with Uriel, Azrael, and friends are drawing on later tradition, not Scripture.)
 

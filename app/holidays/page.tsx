@@ -82,7 +82,7 @@ function HolidaysV2() {
         alt="A windowsill through the seasons: an Advent candle and evergreen, spring blossom and a decorated egg, summer wildflowers, then autumn leaves and a small pumpkin"
         eyebrow={`${live.length} seasons, ordered by what is next`}
         title={<>Bible Activities for Every <span className="hv-love"><span className="l l1">H</span><span className="l l2">o</span><span className="l l3">l</span><span className="l l4">i</span><span className="l l1">d</span><span className="l l2">a</span><span className="l l3">y</span></span></>}
-        sub={<>Every season gathered in one place &mdash; the stories, verses, trivia and free
+        sub={<>Every season gathered in one place, the stories, verses, trivia and free
           printables we have for Christmas, Easter, Thanksgiving, the first week of school, and
           the end of October. Everything here is free and nothing asks for an email address.</>}
       />
@@ -129,7 +129,7 @@ function HolidaysV2() {
         <h2>Start Your Child&apos;s Bible Journey</h2>
         <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '40em' }}>
           300+ narrated video lessons with comprehension quizzes after every story.
-          From Genesis to Revelation &mdash; safe, ad-free, and made for kids.
+          From Genesis to Revelation, safe, ad-free, and made for kids.
         </p>
         <a className="hv-cta" href="/quiz">
           <span className="hv-cta-play" aria-hidden="true" />

@@ -25,13 +25,13 @@ The Garden of Gethsemane is a Bible story from Matthew/Mark/Luke/John in the New
 
 ## What Is the Story of The Garden of Gethsemane for Kids?
 
-THE ROAD TO THE CROSS — Episode 4: The Garden of Gethsemane Based on Matthew 26:36-46 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS, Episode 4: The Garden of Gethsemane Based on Matthew 26:36-46 Series: The Road to the Cross | Target audience: Ages 7-15
 
-I need to tell you about the hardest night of my life. And I'm going to be completely honest with you — because you deserve to know what it really cost.
+I need to tell you about the hardest night of my life. And I'm going to be completely honest with you, because you deserve to know what it really cost.
 
-After supper, we sang a hymn together and walked out into the night. Jerusalem was quiet now. The streets were mostly empty. We crossed the Kidron Valley and climbed the hill to a garden called Gethsemane — a grove of old, gnarled olive trees that I had gone to many times before to pray.
+After supper, we sang a hymn together and walked out into the night. Jerusalem was quiet now. The streets were mostly empty. We crossed the Kidron Valley and climbed the hill to a garden called Gethsemane, a grove of old, gnarled olive trees that I had gone to many times before to pray.
 
-I left most of the disciples near the entrance. "Sit here while I go over there and pray," I told them. Then I took Peter, James, and John — my three closest friends — deeper into the garden.
+I left most of the disciples near the entrance. "Sit here while I go over there and pray," I told them. Then I took Peter, James, and John, my three closest friends, deeper into the garden.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Garden of Gethsemane teaches children important lessons about s
 
 ## Key Bible Verse
 
-> *"The Lord God took the man and put him in the Garden of Eden to work it and take care of it."* — Genesis 2:15
+> *"The Lord God took the man and put him in the Garden of Eden to work it and take care of it."* (Genesis 2:15)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus pray to His Father?
 
-**"If it is possible, let this cup pass from me — yet not my will, but Yours be done." Jesus asked honestly for another way, but ultimately submitted to God's plan.** 
+**"If it is possible, let this cup pass from me, yet not my will, but Yours be done." Jesus asked honestly for another way, but ultimately submitted to God's plan.** 
 
 ### What happened when Jesus went back to check on Peter, James, and John?
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**Courage isn't the absence of fear.** Jesus was genuinely terrified — He sweat drops of blood. But He chose obedience over comfort, and He chose us over Himself. That's what real courage looks like.
+**Courage isn't the absence of fear.** Jesus was genuinely terrified, He sweat drops of blood. But He chose obedience over comfort, and He chose us over Himself. That's what real courage looks like.
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Garden of Gethsemane about for kids?
 
-The Garden of Gethsemane is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 4: The Garden of Gethsemane Based on Matthew 26:36-46 Series: The Road to the Cross | Target audience: Ages 7-15
+The Garden of Gethsemane is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS, Episode 4: The Garden of Gethsemane Based on Matthew 26:36-46 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of The Garden of Gethsemane appropriate for?
 

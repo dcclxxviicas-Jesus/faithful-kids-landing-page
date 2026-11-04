@@ -23,13 +23,13 @@ Ten Lepers Healed is a Bible story from Matthew/Mark/Luke/John in the New Testam
 
 ## What Is the Story of Ten Lepers Healed for Kids?
 
-MIRACLES OF JESUS — Episode 6: Ten Lepers Healed Based on Luke 17:11-19
+MIRACLES OF JESUS: Episode 6: Ten Lepers Healed Based on Luke 17:11-19
 
-Hey kids! Pull up a seat because today's story is one that honestly still gets to me — and I was THERE.
+Hey kids! Pull up a seat because today's story is one that honestly still gets to me, and I was THERE.
 
 I was traveling along the border between Samaria and Galilee, heading toward Jerusalem. And as I entered a village, I heard them before I saw them. Ten voices. Ragged. Desperate. Crying out from a distance.
 
-These were ten men with leprosy. And you need to understand — leprosy wasn't just a disease back then. It was a DEATH SENTENCE socially. You couldn't touch anyone. You couldn't hug your kids. You couldn't go to the synagogue, the market, ANYWHERE. People crossed the street when they saw you coming. You had to shout "UNCLEAN!" wherever you walked. Can you imagine? These men were completely cut off from everyone they loved.
+These were ten men with leprosy. And you need to understand, leprosy wasn't just a disease back then. It was a DEATH SENTENCE socially. You couldn't touch anyone. You couldn't hug your kids. You couldn't go to the synagogue, the market, ANYWHERE. People crossed the street when they saw you coming. You had to shout "UNCLEAN!" wherever you walked. Can you imagine? These men were completely cut off from everyone they loved.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of Ten Lepers Healed teaches children important lessons about faith, G
 
 ## Key Bible Verse
 
-> *"Were not all ten cleansed? Where are the other nine?"* — Luke 17:17
+> *"Were not all ten cleansed? Where are the other nine?"* (Luke 17:17)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,11 +59,11 @@ Ten men with leprosy stood at a distance and cried out, "Jesus, Master, have pit
 
 ### What did Jesus tell the ten men to do?
 
-Jesus told them, "Go, show yourselves to the priests." You only did that after being healed — so it was a step of faith.
+Jesus told them, "Go, show yourselves to the priests." You only did that after being healed, so it was a step of faith.
 
 ### When were the men healed?
 
-As they were going — mid-step — their leprosy disappeared. They were healed on the way.
+As they were going, mid-step, their leprosy disappeared. They were healed on the way.
 
 ### How many of the healed men came back to thank Jesus?
 
@@ -71,7 +71,7 @@ Only one out of ten came back, threw himself at Jesus' feet, and praised God wit
 
 ### What was special about the one man who returned?
 
-The one who returned was a Samaritan — an outsider that most religious people looked down on. Yet he was the only one who came back to give thanks.
+The one who returned was a Samaritan, an outsider that most religious people looked down on. Yet he was the only one who came back to give thanks.
 
 
 ## Discussion Questions for Families
@@ -109,7 +109,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Ten Lepers Healed about for kids?
 
-Ten Lepers Healed is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 6: Ten Lepers Healed Based on Luke 17:11-19
+Ten Lepers Healed is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS: Episode 6: Ten Lepers Healed Based on Luke 17:11-19
 
 ### What age is the story of Ten Lepers Healed appropriate for?
 

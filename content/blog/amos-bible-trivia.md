@@ -39,9 +39,9 @@ His core demand is the book's famous line: "Let justice roll on like a river, ri
 14. Amos 8:11 warns of a strange kind of famine. A famine of what? **Of hearing the words of the LORD** (Amos 8:11)
 15. What unflattering nickname does Amos give the wealthy women of Samaria? **"Cows of Bashan"** (Amos 4:1)
 
-For a quieter follow-up, try the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) — twelve hidden words, answer key included.
+For a quieter follow-up, try the free [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit), twelve hidden words, answer key included.
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring; put it on a TV and host it like the real thing.
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 

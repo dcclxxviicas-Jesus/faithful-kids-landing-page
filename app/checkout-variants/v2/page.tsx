@@ -43,8 +43,8 @@ export default function V2() {
         <p className="cv-terms">
           {plan === 'annual' ? (
             <>
-              <strong>$0.00 today.</strong> Free until {trialEndDate()}, then ${ANNUAL_YEAR} a year
-              &mdash; ${SAVED} less than paying monthly. Cancel any time before then and you are
+              <strong>$0.00 today.</strong> Free until {trialEndDate()}, then ${ANNUAL_YEAR} a year,
+              ${SAVED} less than paying monthly. Cancel any time before then and you are
               charged nothing.
             </>
           ) : (

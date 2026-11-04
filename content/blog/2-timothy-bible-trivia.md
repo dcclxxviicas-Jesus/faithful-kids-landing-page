@@ -40,13 +40,13 @@ The chapter-4 details make it feel like a real goodbye. Paul asks Timothy to hur
 
 7. Complete Paul's famous sentence: "I have fought the good fight, I have finished the ___." **Race** (2 Timothy 4:7)
 
-Older kids who find coloring dull usually take to the free [Moses word search](/printables/bible-word-search/moses) instead — it plays in the browser or prints on one sheet.
+Older kids who find coloring dull usually take to the free [Moses word search](/printables/bible-word-search/moses) instead, it plays in the browser or prints on one sheet.
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
 ## Medium 2 Timothy Trivia Questions (Ages 9-12)
 

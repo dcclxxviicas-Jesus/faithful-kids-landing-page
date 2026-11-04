@@ -76,7 +76,7 @@ Faithful Kids has 300+ Bible story videos designed for kids ages 5+. For toddler
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-toddlers)
 
-Toddlers who love this story can color it too — the free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) prints on one sheet.
+Toddlers who love this story can color it too, the free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) prints on one sheet.
 
 If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
 

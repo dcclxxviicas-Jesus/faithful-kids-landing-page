@@ -51,7 +51,7 @@ He's nicknamed "the weeping prophet" because he grieved openly over his people (
 26. What did Jeremiah buy during the siege of Jerusalem as a sign of hope? **A field at Anathoth** -- proof that fields would one day be bought again (Jeremiah 32:9, 15)
 27. Which Babylonian king finally conquered Jerusalem? **Nebuchadnezzar** (Jeremiah 39:1)
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy); 6 categories, team scoring, and a verse with every answer; built for Sunday school and youth group screens.
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 

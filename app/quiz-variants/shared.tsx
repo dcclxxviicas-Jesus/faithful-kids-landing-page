@@ -140,7 +140,7 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
         <ul className="cv-onecard-list">
           {annual ? (
             <>
-              <li><span className="cv-tick">{'✓'}</span>Free for 7 days &mdash; $0.00 today</li>
+              <li><span className="cv-tick">{'✓'}</span>Free for 7 days; $0.00 today</li>
               <li><span className="cv-tick">{'✓'}</span><span><strong>${SAVED} cheaper</strong> than 12 monthly payments (${(MONTHLY * 12).toFixed(2)})</span></li>
             </>
           ) : (
@@ -179,7 +179,7 @@ export function PriceBlock({ plan, choose, loading, onBuy, ctaRef }: {
           and tapping it IS the switch. */}
       {!annual && (
         <button className="cv-seg-nudge" onClick={() => choose('annual', 'nudge')}>
-          Yearly works out at <strong>${ANNUAL_MO}/month</strong> &mdash; you keep{' '}
+          Yearly works out at <strong>${ANNUAL_MO}/month</strong> you keep{' '}
           <strong>${SAVED}</strong> <span className="cv-seg-nudge-go">a year &rarr;</span>
         </button>
       )}
@@ -284,7 +284,7 @@ export function Testimonials() {
         <div className="qv-test" key={t.n}>
           <div className="qv-test-stars">{'\u2605\u2605\u2605\u2605\u2605'}</div>
           <p>&ldquo;{t.q}&rdquo;</p>
-          <span>&mdash; {t.n}, {t.r}</span>
+          <span>{t.n}, {t.r}</span>
         </div>
       ))}
     </div>

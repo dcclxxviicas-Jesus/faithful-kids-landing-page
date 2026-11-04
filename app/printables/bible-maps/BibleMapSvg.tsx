@@ -74,7 +74,7 @@ export function BibleMapSvg({
       className="bm-svg"
       viewBox={`0 0 ${width} ${height}`}
       role="img"
-      aria-label={`${map.title} — printable Bible map`}
+      aria-label={`${map.title}, printable Bible map`}
       xmlns="http://www.w3.org/2000/svg"
     >
       <rect width={width} height={height} fill={SEA} />
@@ -185,7 +185,7 @@ export function MapLegend({ map }: { map: BibleMap }) {
           </span>
         )
       })}
-      {hasTraditional && <span className="bm-trad-note">* traditional site — see note below</span>}
+      {hasTraditional && <span className="bm-trad-note">* traditional site, see note below</span>}
     </div>
   )
 }

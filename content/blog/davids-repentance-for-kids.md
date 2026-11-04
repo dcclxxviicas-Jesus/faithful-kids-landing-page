@@ -25,13 +25,13 @@ David's Repentance is a Bible story from 2 Samuel/Psalms in the Old Testament. T
 
 ## What Is the Story of David's Repentance for Kids?
 
-KING DAVID'S REIGN — EPISODE 8: DAVID'S REPENTANCE — PSALM 51 Scripture: Psalm 51
+KING DAVID'S REIGN, EPISODE 8: DAVID'S REPENTANCE, PSALM 51 Scripture: Psalm 51
 
-Friends, today we're looking at something incredibly powerful — the moment David hit rock bottom and poured his heart out to God. This is Psalm 51, and it might be the most honest prayer ever written.
+Friends, today we're looking at something incredibly powerful, the moment David hit rock bottom and poured his heart out to God. This is Psalm 51, and it might be the most honest prayer ever written.
 
-You remember the story. David sinned — badly. He took another man's wife. He tried to cover it up. He even arranged for her husband Uriah to be killed in battle. For a while, David acted like nothing happened. But God sent the prophet Nathan to confront him. And when the truth hit David, it shattered him completely.
+You remember the story. David sinned, badly. He took another man's wife. He tried to cover it up. He even arranged for her husband Uriah to be killed in battle. For a while, David acted like nothing happened. But God sent the prophet Nathan to confront him. And when the truth hit David, it shattered him completely.
 
-That's when David wrote Psalm 51. And here's what makes it so remarkable — David didn't minimize what he'd done. He didn't make excuses. He didn't say, "Well, everyone makes mistakes," or "It wasn't that bad," or "Other kings do worse." No. David owned it. Completely.
+That's when David wrote Psalm 51. And here's what makes it so remarkable, David didn't minimize what he'd done. He didn't make excuses. He didn't say, "Well, everyone makes mistakes," or "It wasn't that bad," or "Other kings do worse." No. David owned it. Completely.
 
 This story comes from 2 Samuel/Psalms and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of David's Repentance teaches children important lessons about worship
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
 A related freebie: our [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children), drawn as clean line art for crayons and markers.
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of David's Repentance about for kids?
 
-David's Repentance is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 8: DAVID'S REPENTANCE — PSALM 51 Scripture: Psalm 51
+David's Repentance is a story from 2 Samuel/Psalms. KING DAVID'S REIGN, EPISODE 8: DAVID'S REPENTANCE, PSALM 51 Scripture: Psalm 51
 
 ### What age is the story of David's Repentance appropriate for?
 

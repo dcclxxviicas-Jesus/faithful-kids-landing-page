@@ -8,7 +8,7 @@ import printableVideos from '@/lib/printable-videos.json'
    a 25-day reading plan whose daily verse doubles as calendar text.
    This is also the seasonal lead magnet ('advent' in lib/lead-emails.ts). */
 export const metadata = {
-  title: 'Advent Bible Readings for Kids — 25 Days, Printable',
+  title: 'Advent Bible Readings for Kids, 25 Days, Printable',
   description:
     'Free printable Advent readings for kids: 25 short daily Bible readings from the first promise to the manger, with a discussion question for each day of December.',
   alternates: { canonical: 'https://faithfulkids.app/printables/advent-readings' },
@@ -41,15 +41,15 @@ const DAYS: Day[] = [
     day: 3,
     title: 'The Branch from the Stump',
     read: 'Isaiah 11:1-9',
-    summary: 'From the family tree of Jesse — cut down and hopeless — new life will grow.',
+    summary: 'From the family tree of Jesse, cut down and hopeless, new life will grow.',
     question: 'Has something in your life ever looked finished, and then God grew something new from it?',
   },
   {
     day: 4,
     title: 'Immanuel',
     read: 'Isaiah 7:10-14',
-    summary: 'The sign of all signs: a virgin will have a son named Immanuel — "God with us."',
-    question: 'What changes when you remember God is WITH you — not just watching you?',
+    summary: 'The sign of all signs: a virgin will have a son named Immanuel, "God with us."',
+    question: 'What changes when you remember God is WITH you, not just watching you?',
   },
   {
     day: 5,
@@ -62,7 +62,7 @@ const DAYS: Day[] = [
     day: 6,
     title: 'The Messenger Promise',
     read: 'Malachi 3:1',
-    summary: 'The Old Testament closes with a promise: a messenger will prepare the way. Then — 400 years of silence.',
+    summary: 'The Old Testament closes with a promise: a messenger will prepare the way. Then, 400 years of silence.',
     question: 'What is the hardest part of waiting for something good?',
   },
   {
@@ -76,7 +76,7 @@ const DAYS: Day[] = [
     day: 8,
     title: 'Gabriel Visits Mary',
     read: 'Luke 1:26-38',
-    summary: 'A teenager in Nazareth hears the impossible — and answers, "Let it be to me as you have said."',
+    summary: 'A teenager in Nazareth hears the impossible, and answers, "Let it be to me as you have said."',
     question: 'What makes Mary’s yes so brave?',
   },
   {
@@ -90,7 +90,7 @@ const DAYS: Day[] = [
     day: 10,
     title: 'Joseph’s Dream',
     read: 'Matthew 1:18-25',
-    summary: 'An angel tells Joseph the baby’s name — Jesus, "because He will save His people from their sins."',
+    summary: 'An angel tells Joseph the baby’s name, Jesus, "because He will save His people from their sins."',
     question: 'Joseph obeyed as soon as he woke up. Why is quick obedience so hard?',
   },
   {
@@ -104,7 +104,7 @@ const DAYS: Day[] = [
     day: 12,
     title: 'The Journey to Bethlehem',
     read: 'Luke 2:1-5',
-    summary: 'A census moves Mary and Joseph ninety miles — landing them exactly where Micah said the King would be born.',
+    summary: 'A census moves Mary and Joseph ninety miles, landing them exactly where Micah said the King would be born.',
     question: 'The emperor thought the census was HIS idea. How does God work through things that seem ordinary?',
   },
   {
@@ -118,21 +118,21 @@ const DAYS: Day[] = [
     day: 14,
     title: 'Shepherds in the Fields',
     read: 'Luke 2:8-14',
-    summary: 'The birth announcement goes not to kings but to night-shift shepherds — with an army of angels.',
+    summary: 'The birth announcement goes not to kings but to night-shift shepherds, with an army of angels.',
     question: 'Why did God tell the shepherds first?',
   },
   {
     day: 15,
     title: 'The Shepherds Run',
     read: 'Luke 2:15-20',
-    summary: 'They run to the manger, then tell everyone — and Mary treasures every word in her heart.',
+    summary: 'They run to the manger, then tell everyone, and Mary treasures every word in her heart.',
     question: 'The shepherds couldn’t keep the news in. When did you last share good news about God?',
   },
   {
     day: 16,
     title: 'The Name of Jesus',
     read: 'Luke 2:21; Matthew 1:21',
-    summary: 'Eight days old, the baby officially receives the name the angel gave: Jesus — "God saves."',
+    summary: 'Eight days old, the baby officially receives the name the angel gave: Jesus, "God saves."',
     question: 'Your name was chosen for you too. What do you want your name to remind people of?',
   },
   {
@@ -160,7 +160,7 @@ const DAYS: Day[] = [
     day: 20,
     title: 'Herod and the Scholars',
     read: 'Matthew 2:3-8',
-    summary: 'The scribes know the prophecy says Bethlehem — but only the foreigners actually go.',
+    summary: 'The scribes know the prophecy says Bethlehem, but only the foreigners actually go.',
     question: 'The scribes knew the answer and stayed home. What’s the difference between knowing and going?',
   },
   {
@@ -174,7 +174,7 @@ const DAYS: Day[] = [
     day: 22,
     title: 'Escape to Egypt',
     read: 'Matthew 2:13-15',
-    summary: 'Warned in a dream, Joseph carries the child to safety by night — God’s Son, a refugee.',
+    summary: 'Warned in a dream, Joseph carries the child to safety by night, God’s Son, a refugee.',
     question: 'How does it change Christmas to know Jesus’ family had to flee for their lives?',
   },
   {
@@ -182,20 +182,20 @@ const DAYS: Day[] = [
     title: 'The Word Became Flesh',
     read: 'John 1:1-14',
     summary: 'John tells the same story from heaven’s side: the Word who made everything moved into our neighborhood.',
-    question: 'What’s the most amazing part — that God made the world, or that He joined it?',
+    question: 'What’s the most amazing part, that God made the world, or that He joined it?',
   },
   {
     day: 24,
     title: 'Christmas Eve: The Whole Story',
     read: 'Luke 2:1-20',
-    summary: 'Tonight, read the whole story aloud by candlelight or tree light — slowly, like it’s the first time.',
+    summary: 'Tonight, read the whole story aloud by candlelight or tree light, slowly, like it’s the first time.',
     question: 'Everyone answers: what’s one thing in the story you never noticed before?',
   },
   {
     day: 25,
     title: 'Christmas: God With Us',
     read: 'Matthew 1:22-23; John 3:16-17',
-    summary: 'Immanuel has come. God so loved the world that He gave — and that is what every gift today echoes.',
+    summary: 'Immanuel has come. God so loved the world that He gave, and that is what every gift today echoes.',
     question: 'Merry Christmas! How will your family carry "God with us" into the new year?',
   },
 ];
@@ -300,7 +300,7 @@ export default function AdventReadingsPrintable() {
           Advent Bible Readings for Kids
         </h1>
         <p style={{ fontSize: '0.95rem', color: '#374151', margin: 0 }}>
-          25 days from the first promise to the manger — one short reading a night, December 1 to 25.
+          25 days from the first promise to the manger, one short reading a night, December 1 to 25.
         </p>
       </header>
 
@@ -311,7 +311,7 @@ export default function AdventReadingsPrintable() {
             <span className="fk-checkbox" aria-hidden="true" />
             <div style={{ fontSize: '0.72rem', lineHeight: 1.35 }}>
               <div style={{ fontWeight: 700, fontSize: '0.78rem', color: '#111827' }}>
-                Dec {d.day} — <span style={{ color: EMERALD }}>{d.title}</span>
+                Dec {d.day}: <span style={{ color: EMERALD }}>{d.title}</span>
               </div>
               <div style={{ margin: '0.1rem 0' }}>
                 <strong>Read: {d.read}</strong>
@@ -351,14 +351,14 @@ export default function AdventReadingsPrintable() {
         }}
       >
         Want every story as a video with a quiz? Visit{' '}
-        <strong style={{ color: EMERALD }}>faithfulkids.app</strong> — free 7-day trial.
+        <strong style={{ color: EMERALD }}>faithfulkids.app</strong> free 7-day trial.
       </footer>
     </main>
       <PrintableCta
         {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>).christmas}
         duration={(printableVideos as Record<string, { duration: string | null }>).christmas.duration ?? undefined}
         heading="Watch the Christmas story come alive"
-        body="Born in a Manger is one of 300+ short video lessons your child will love — the whole Bible in order, each episode ending in a quiz. Advent is the perfect month to start."
+        body="Born in a Manger is one of 300+ short video lessons your child will love, the whole Bible in order, each episode ending in a quiz. Advent is the perfect month to start."
         source="advent-readings"
       />
 

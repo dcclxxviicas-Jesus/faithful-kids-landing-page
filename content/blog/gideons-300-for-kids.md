@@ -23,9 +23,9 @@ Gideon's 300 is a Bible story from Judges 7-8 in the Old Testament. This retelli
 
 ## What Is the Story of Gideon's 300 for Kids?
 
-Hey, welcome back! Last time we met Gideon — the scared guy hiding in a winepress who God called a mighty warrior. Well, today? Today is when things get absolutely WILD. Because Gideon is about to fight the biggest battle of his life with the most ridiculous battle plan you've ever heard.
+Hey, welcome back! Last time we met Gideon, the scared guy hiding in a winepress who God called a mighty warrior. Well, today? Today is when things get absolutely WILD. Because Gideon is about to fight the biggest battle of his life with the most ridiculous battle plan you've ever heard.
 
-So Gideon has finally said yes to God. He sends out the call, and thirty-two thousand soldiers show up, ready to fight. Sounds pretty good, right? Except the Midianite army is enormous — spread across the valley like locusts, with more camels than you could count.
+So Gideon has finally said yes to God. He sends out the call, and thirty-two thousand soldiers show up, ready to fight. Sounds pretty good, right? Except the Midianite army is enormous, spread across the valley like locusts, with more camels than you could count.
 
 But then I tell Gideon something that makes zero sense: "You have TOO MANY soldiers."
 
@@ -43,13 +43,13 @@ The story of Gideon's 300 teaches children important lessons about bravery, loya
 
 ## Key Bible Verse
 
-> *"The Lord is with you, mighty warrior."* — Judges 6:12
+> *"The Lord is with you, mighty warrior."* Judges 6:12
 
 A related freebie: our [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning), drawn as clean line art for crayons and markers.
 
-For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land, printable, with the story behind the division.
 
-For Gideon's whole arc — the winepress, the fleece, the 300 and the honest ending — see [Who Was Gideon in the Bible?](/blog/who-was-gideon-for-kids)
+For Gideon's whole arc, the winepress, the fleece, the 300 and the honest ending, see [Who Was Gideon in the Bible?](/blog/who-was-gideon-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -107,7 +107,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Gideon's 300 about for kids?
 
-Gideon's 300 is a story from Judges 7-8. Hey, welcome back! Last time we met Gideon — the scared guy hiding in a winepress who God called a mighty warrior. Well, today? Today is when things get absolutely WILD. Because Gideon is about to ...
+Gideon's 300 is a story from Judges 7-8. Hey, welcome back! Last time we met Gideon, the scared guy hiding in a winepress who God called a mighty warrior. Well, today? Today is when things get absolutely WILD. Because Gideon is about to ...
 
 ### What age is the story of Gideon's 300 appropriate for?
 

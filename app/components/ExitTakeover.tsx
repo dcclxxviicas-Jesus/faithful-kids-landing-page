@@ -111,7 +111,7 @@ export function ExitTakeover({
         </div>
 
         <button className="fk-takeover-skip" onClick={onDismiss}>
-          No thanks &mdash; we&rsquo;ll get to it eventually
+          No thanks; we&rsquo;ll get to it eventually
         </button>
       </div>
     </div>

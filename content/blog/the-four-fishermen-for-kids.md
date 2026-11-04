@@ -25,13 +25,13 @@ The Four Fishermen is a Bible story from Matthew/Mark/Luke/John in the New Testa
 
 ## What Is the Story of The Four Fishermen for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 6 "The Four Fishermen" Based on Luke 5:1-11
+JESUS BEGINS HIS MINISTRY, EPISODE 6 "The Four Fishermen" Based on Luke 5:1-11
 
-Have you ever worked SO hard at something — given it everything you've got — and still come up with nothing? That's exactly where Simon Peter was the morning I met him at the lake.
+Have you ever worked SO hard at something, given it everything you've got, and still come up with nothing? That's exactly where Simon Peter was the morning I met him at the lake.
 
-The Sea of Galilee was buzzing. Crowds of people had followed me to the shore, pressing in so close I could barely breathe. They wanted to hear the Word of God, but there was no room to teach. That's when I spotted two boats sitting at the water's edge. The fishermen were out washing their nets — tired, frustrated, and completely empty-handed after fishing ALL night long.
+The Sea of Galilee was buzzing. Crowds of people had followed me to the shore, pressing in so close I could barely breathe. They wanted to hear the Word of God, but there was no room to teach. That's when I spotted two boats sitting at the water's edge. The fishermen were out washing their nets, tired, frustrated, and completely empty-handed after fishing ALL night long.
 
-I climbed into Simon Peter's boat and asked him to push out a little from shore. Now picture this — his boat became my pulpit! The water carried my voice across the crowd, and I taught them right there from the waves.
+I climbed into Simon Peter's boat and asked him to push out a little from shore. Now picture this, his boat became my pulpit! The water carried my voice across the crowd, and I taught them right there from the waves.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Four Fishermen teaches children important lessons about calling
 
 ## Key Bible Verse
 
-> *"Come, follow me, and I will send you out to fish for people."* — Matthew 4:19
+> *"Come, follow me, and I will send you out to fish for people."* (Matthew 4:19)
 
 For quiet time afterwards, print the free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) and let them color while you talk it through.
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Four Fishermen about for kids?
 
-The Four Fishermen is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 6 "The Four Fishermen" Based on Luke 5:1-11
+The Four Fishermen is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY, EPISODE 6 "The Four Fishermen" Based on Luke 5:1-11
 
 ### What age is the story of The Four Fishermen appropriate for?
 

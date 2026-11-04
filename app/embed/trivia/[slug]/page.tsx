@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     // Noindex: a utility duplicate of /blog/<slug>, which is the page we want
     // ranking — and the page every credit link points at.
-    title: post ? `${triviaLabel(slug, post.title)} Bible Trivia — Faithful Kids` : 'Bible Trivia',
+    title: post ? `${triviaLabel(slug, post.title)} Bible Trivia | Faithful Kids` : 'Bible Trivia',
     robots: { index: false, follow: true },
   }
 }

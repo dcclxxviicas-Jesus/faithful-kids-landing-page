@@ -38,9 +38,9 @@ The heart of the book is Joel 2:13 -- "Rend your heart and not your garments" --
 13. What great and dreadful "day" is the book's central theme? **The day of the LORD** (Joel 1:15; 2:1, 31)
 14. What instrument is blown in Zion to sound the alarm? **A trumpet** (Joel 2:1, 15)
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories; no sign-up, no prep.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible); grouped the way the Bible groups them, which is the actual memory trick.
 
 ## Hard Joel Trivia Questions (Teens and Adults)
 
@@ -72,7 +72,7 @@ Read Joel aloud first -- the whole book takes about ten minutes -- then play the
 
 For more material afterward, run the [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) or the full [100 Bible trivia questions](/blog/bible-trivia-for-kids).
 
-Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost — [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost; [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
 
 If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
 

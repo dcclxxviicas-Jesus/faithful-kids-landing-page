@@ -90,7 +90,7 @@ The goal is not eight stories in eight days -- it's one story, discussed slowly,
 
 If your kids respond better to video, every story on this list is available as a short animated lesson with a comprehension quiz on [Faithful Kids](https://faithfulkids.app/quiz?ref=listicle-forgiveness).
 
-We drew a printable [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 For the stories themselves, our [Bible stories for kids](/bible-stories-for-kids) library retells all 200 of them simply, with the video lesson beside each one.
 

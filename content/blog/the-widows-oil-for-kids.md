@@ -29,9 +29,9 @@ THE WIDOW'S OIL Series: Elijah & Elisha | Episode 2 Scripture: 1 Kings 17:8-24
 
 Last time, Elijah was camped by a brook, eating room service delivered by ravens. But then the brook dried up. No water. No plan. Just a prophet and an empty stream. So what did God do next? He sent Elijah somewhere even MORE unlikely.
 
-God said: "Go to a town called Zarephath. I've commanded a WIDOW there to feed you." Now hold on — a widow in those days was one of the poorest people in society. No husband meant no income. God was sending Elijah from one impossible situation to another. That's just how My Father rolls.
+God said: "Go to a town called Zarephath. I've commanded a WIDOW there to feed you." Now hold on, a widow in those days was one of the poorest people in society. No husband meant no income. God was sending Elijah from one impossible situation to another. That's just how My Father rolls.
 
-So Elijah arrives at Zarephath and finds this woman gathering sticks. He calls out, "Hey, could you bring me some water? And while you're at it — a piece of bread?"
+So Elijah arrives at Zarephath and finds this woman gathering sticks. He calls out, "Hey, could you bring me some water? And while you're at it, a piece of bread?"
 
 This story comes from 1 & 2 Kings and is part of the Old Testament.
 
@@ -45,9 +45,9 @@ The story of The Widow's Oil teaches children important lessons about faith, mir
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
-For the apprentice who carried the ministry further — the oil, Naaman, the horses of fire — see [Who Was Elisha in the Bible?](/blog/who-was-elisha-for-kids)
+For the apprentice who carried the ministry further, the oil, Naaman, the horses of fire, see [Who Was Elisha in the Bible?](/blog/who-was-elisha-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -87,7 +87,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this story?
 
-**When God asks you to give what you think you can't lose, trust Him — He multiplies it.**
+**When God asks you to give what you think you can't lose, trust Him. He multiplies it.**
 
 ## Discussion Questions for Families
 

@@ -23,11 +23,11 @@ The Prodigal Son is a Bible story from Matthew/Luke in the New Testament. This r
 
 ## What Is the Story of The Prodigal Son for Kids?
 
-THE TEACHINGS OF JESUS — Episode 5 "The Prodigal Son" Based on Luke 15:11-32
+THE TEACHINGS OF JESUS, Episode 5 "The Prodigal Son" Based on Luke 15:11-32
 
 I told this story because the religious people were complaining that I spent too much time with sinners. They said, "This man welcomes sinners and eats with them!" So I told them a story that silenced the room.
 
-A man had two sons. The younger one walked up to his father and said, "Give me my share of the inheritance." Now you need to understand — that was like saying, "Dad, I wish you were dead. Give me the money now." Brutal. Disrespectful. Heartbreaking. But the father gave it to him.
+A man had two sons. The younger one walked up to his father and said, "Give me my share of the inheritance." Now you need to understand, that was like saying, "Dad, I wish you were dead. Give me the money now." Brutal. Disrespectful. Heartbreaking. But the father gave it to him.
 
 The son took everything and ran to a distant country. Far from home. Far from his father. And he blew it ALL. Every coin. Wild parties. Reckless living. He burned through his entire fortune like it was nothing.
 
@@ -43,7 +43,7 @@ The story of The Prodigal Son teaches children important lessons about love, kin
 
 ## Key Bible Verse
 
-> *"This son of mine was dead and is alive again; he was lost and is found."* — Luke 15:24
+> *"This son of mine was dead and is alive again; he was lost and is found."* (Luke 15:24)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What did the younger son's request for his inheritance really mean?
 
-In that culture, asking for your inheritance while your father was still alive was deeply disrespectful — essentially saying "you're dead to me." Yet the father gave it to him anyway. That's how God respects our free will.
+In that culture, asking for your inheritance while your father was still alive was deeply disrespectful, essentially saying "you're dead to me." Yet the father gave it to him anyway. That's how God respects our free will.
 
 ### What happened after the son spent all his money?
 
-When the money ran out, so did his friends. A famine struck, and the son was so desperate he took a job feeding pigs — the lowest, most shameful job imaginable for a Jewish person. He even wanted to eat the pig food.
+When the money ran out, so did his friends. A famine struck, and the son was so desperate he took a job feeding pigs, the lowest, most shameful job imaginable for a Jewish person. He even wanted to eat the pig food.
 
 ### What did the father do when he saw his son coming home from far away?
 
-The father had been watching the road every day. When he saw his son — still far off — he RAN. In that culture, grown men running was considered undignified. But love doesn't care about dignity. The father sprinted, embraced him, and celebrated.
+The father had been watching the road every day. When he saw his son, still far off, he RAN. In that culture, grown men running was considered undignified. But love doesn't care about dignity. The father sprinted, embraced him, and celebrated.
 
 ### What did the father give his returning son?
 
@@ -71,7 +71,7 @@ The robe meant honor. The ring meant authority and belonging. The sandals meant 
 
 ### Why was the older brother angry?
 
-The older brother represents people who follow the rules but miss the heart of God. He was so focused on fairness that he couldn't celebrate grace. The father reminded him: "Everything I have is yours. But we HAD to celebrate — your brother was lost and now he's found."
+The older brother represents people who follow the rules but miss the heart of God. He was so focused on fairness that he couldn't celebrate grace. The father reminded him: "Everything I have is yours. But we HAD to celebrate, your brother was lost and now he's found."
 
 
 ## Discussion Questions for Families
@@ -109,7 +109,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Prodigal Son about for kids?
 
-The Prodigal Son is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 5 "The Prodigal Son" Based on Luke 15:11-32
+The Prodigal Son is a story from Matthew/Luke. THE TEACHINGS OF JESUS, Episode 5 "The Prodigal Son" Based on Luke 15:11-32
 
 ### What age is the story of The Prodigal Son appropriate for?
 

@@ -82,7 +82,7 @@ The Gospel is formally anonymous, but early church tradition attributes it to Ma
 
 30. Peter asked if he should forgive someone seven times. What did Jesus say? **Not seven times, but seventy-seven times** (Matthew 18:21-22)
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
 Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
 

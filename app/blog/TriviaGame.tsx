@@ -32,10 +32,10 @@ const PRAISE = [
   'Wonderful! 💚',
 ]
 const ENCOURAGE = [
-  'Good try — now you know it! 💪',
+  'Good try, now you know it! 💪',
   'That was a tricky one!',
   'Every miss is a story to discover 📖',
-  'Keep going — you’ve got this!',
+  'Keep going, you’ve got this!',
 ]
 
 const DEFAULT_ROUND = 10
@@ -258,7 +258,7 @@ export function TriviaGame({
     const headline =
       pct >= 80 ? 'Amazing! You really know your Bible! 🎉'
       : pct >= 50 ? 'Nice work! You know a lot! 🌟'
-      : 'Great start — every question is a story to discover! 💪'
+      : 'Great start, every question is a story to discover! 💪'
 
     const shareUrl = `https://faithfulkids.app/blog/${postSlug}`
     const shareText = `I scored ${score}/${round.length} on this Bible trivia quiz! 🏆 Can you beat me?`
@@ -307,7 +307,7 @@ export function TriviaGame({
         <div style={card}>
           <div style={{ fontSize: '2.4rem', marginBottom: '6px' }}>🏆</div>
           <h2 style={{ fontSize: '1.4rem', fontWeight: 800, margin: '0 0 6px' }}>
-            {score}/{round.length} — {headline}
+            {score}/{round.length}: {headline}
           </h2>
           <p style={{ color: '#555', margin: '0 0 16px', fontSize: '0.95rem' }}>
             Best streak: {bestStreak} in a row
@@ -356,7 +356,7 @@ export function TriviaGame({
                 {'\u25B6'} Watch &ldquo;{videoTitle}&rdquo;
               </span>
               <span style={{ display: 'block', fontSize: '0.85rem', color: '#4b5563', marginTop: '3px' }}>
-                One of 300+ video Bible lessons for kids &mdash; free to watch
+                One of 300+ video Bible lessons for kids, free to watch
               </span>
             </a>
           ) : (
@@ -370,7 +370,7 @@ export function TriviaGame({
                 />
               </div>
               <p style={{ fontSize: '0.85rem', color: '#777', margin: '8px 0 16px' }}>
-                &ldquo;{videoTitle}&rdquo; — one of 300+ video lessons in the Faithful Kids Bible course
+                &ldquo;{videoTitle}&rdquo;, one of 300+ video lessons in the Faithful Kids Bible course
               </p>
             </>
           )}
@@ -397,7 +397,7 @@ export function TriviaGame({
               placement="trivia-end"
               compact
               title="🎯 Free: 100 more questions for game night"
-              subtitle="The Family Bible Trivia Pack — printable, answers in the back."
+              subtitle="The Family Bible Trivia Pack, printable, answers in the back."
             />
           )}
 
@@ -407,7 +407,7 @@ export function TriviaGame({
                 🎯 Play another Bible trivia game
               </p>
               <p style={{ fontSize: '0.85rem', color: '#777', margin: '0 0 14px' }}>
-                {related.length} more waiting &mdash; all free, no sign-up.
+                {related.length} more waiting, all free, no sign-up.
               </p>
               <div style={{
                 display: 'grid',
@@ -579,7 +579,7 @@ export function TriviaGame({
 
         {fresh && !revealed && (
           <p style={{ fontSize: '0.82rem', color: '#888', margin: '12px 0 0' }}>
-            Tap your answer &mdash; no sign-up, nothing to lose.
+            Tap your answer, no sign-up, nothing to lose.
           </p>
         )}
       </div>

@@ -44,9 +44,9 @@ The book is named for the tribe of Levi, Israel's priestly tribe, and it reads l
 19. What offering could a poor mother bring after her baby's birth -- the same offering Mary brought for baby Jesus? **Two doves or two young pigeons** (Leviticus 12:8; Luke 2:24)
 20. How were the Israelites told to treat foreigners living among them? **Love them as yourself, because you were foreigners in Egypt** (Leviticus 19:34)
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 ## Hard Leviticus Trivia Questions (Teens and Adults)
 

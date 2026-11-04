@@ -25,13 +25,13 @@ Rebuilding the Temple is a Bible story from Ezra/Nehemiah/Esther in the Old Test
 
 ## What Is the Story of Rebuilding the Temple for Kids?
 
-TITLE: Rebuilding the Temple SERIES: The Return Home — Episode 2 SCRIPTURE: Ezra 3–6
+TITLE: Rebuilding the Temple SERIES: The Return Home, Episode 2 SCRIPTURE: Ezra 3–6
 
 Have you ever come home after a long trip and found your room was a TOTAL disaster? Clothes everywhere, stuff broken, maybe even a weird smell you can't identify? Now multiply that by a million.
 
-That's what the Jewish people walked into when they arrived in Jerusalem. After seventy years, the city was WRECKED. The streets were rubble. Weeds grew through cracked stone. And the temple — the place where God's presence had lived — was a pile of ruins.
+That's what the Jewish people walked into when they arrived in Jerusalem. After seventy years, the city was WRECKED. The streets were rubble. Weeds grew through cracked stone. And the temple, the place where God's presence had lived, was a pile of ruins.
 
-But they didn't sit around feeling sorry for themselves. They rolled up their sleeves and got to work. First things first — they rebuilt the altar and started worshipping again, right there in the mess. Then they began laying the foundation of a brand-new temple.
+But they didn't sit around feeling sorry for themselves. They rolled up their sleeves and got to work. First things first, they rebuilt the altar and started worshipping again, right there in the mess. Then they began laying the foundation of a brand-new temple.
 
 This story comes from Ezra/Nehemiah/Esther and is part of the Old Testament.
 
@@ -45,11 +45,11 @@ The story of Rebuilding the Temple teaches children important lessons about rebu
 
 ## Key Bible Verse
 
-> *"My house shall be called a house of prayer."* — Isaiah 56:7
+> *"My house shall be called a house of prayer."* (Isaiah 56:7)
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
-For the whole 52-day project — the prayers, the mockers, the wall — see [Who Was Nehemiah in the Bible?](/blog/who-was-nehemiah-for-kids)
+For the whole 52-day project, the prayers, the mockers, the wall, see [Who Was Nehemiah in the Bible?](/blog/who-was-nehemiah-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**Don't compare your new beginning to someone else's past glory — just start building.** God doesn't ask you to match past glory. He asks you to be faithful and start where you are. He'll meet you there.
+**Don't compare your new beginning to someone else's past glory, just start building.** God doesn't ask you to match past glory. He asks you to be faithful and start where you are. He'll meet you there.
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Rebuilding the Temple about for kids?
 
-Rebuilding the Temple is a story from Ezra/Nehemiah/Esther. TITLE: Rebuilding the Temple SERIES: The Return Home — Episode 2 SCRIPTURE: Ezra 3–6
+Rebuilding the Temple is a story from Ezra/Nehemiah/Esther. TITLE: Rebuilding the Temple SERIES: The Return Home, Episode 2 SCRIPTURE: Ezra 3–6
 
 ### What age is the story of Rebuilding the Temple appropriate for?
 

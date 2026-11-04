@@ -60,7 +60,7 @@ Here's a detail worth sharing with older kids: James sounds more like Jesus' own
 
 18. Which two Old Testament people does James name as examples of faith proven by action? **Abraham and Rahab** (James 2:21-25)
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring; put it on a TV and host it like the real thing.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 

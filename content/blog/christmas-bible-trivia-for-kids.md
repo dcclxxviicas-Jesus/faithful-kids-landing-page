@@ -14,7 +14,7 @@ Fair warning: a few of these will stump the adults too. Most of us picture three
 
 If your kids are new to the story itself, start with our walkthrough of [Christmas Bible stories for kids](/blog/christmas-bible-stories-for-kids) first, then come back and quiz them.
 
-**Want the all-ages version on paper?** The [free Christmas Bible trivia PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf) has 80 questions as quiz sheets with a separate answer key — no sign-up, free to photocopy.
+**Want the all-ages version on paper?** The [free Christmas Bible trivia PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf) has 80 questions as quiz sheets with a separate answer key, no sign-up, free to photocopy.
 
 ## How Should You Use These Questions?
 
@@ -131,13 +131,13 @@ Answer: **"God with us"** (Matthew 1:23)
 **32. Why was the baby to be named Jesus?**
 Answer: **Because he would save his people from their sins** (Matthew 1:21)
 
-Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season, no email wall, no sign-up.
 
-Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar) — 25 short readings from the first promise to the manger, one a night.
+Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar), 25 short readings from the first promise to the manger, one a night.
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring; put it on a TV and host it like the real thing.
 
 ## Hard Christmas Trivia (Ages 12+)
 

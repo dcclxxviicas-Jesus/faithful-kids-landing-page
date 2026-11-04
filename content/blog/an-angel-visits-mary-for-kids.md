@@ -23,13 +23,13 @@ An Angel Visits Mary is a Bible story from Luke 1:26-56 in the New Testament. Th
 
 ## What Is the Story of An Angel Visits Mary for Kids?
 
-Hey there, friend. I'm so glad you're here. My name is Jesus — and today I want to tell you the most personal story I've got. The story of how I came into the world. And it starts with the bravest young woman I know — my mother.
+Hey there, friend. I'm so glad you're here. My name is Jesus, and today I want to tell you the most personal story I've got. The story of how I came into the world. And it starts with the bravest young woman I know, my mother.
 
-Her name was Mary. She was a teenager living in a tiny town called Nazareth. Nothing fancy. No mansions, no red carpets. Just a quiet girl who loved God with her whole heart. She was engaged to a man named Joseph — a carpenter — and life was pretty normal.
+Her name was Mary. She was a teenager living in a tiny town called Nazareth. Nothing fancy. No mansions, no red carpets. Just a quiet girl who loved God with her whole heart. She was engaged to a man named Joseph, a carpenter, and life was pretty normal.
 
-God sent an angel named Gabriel — one of Heaven's top messengers — straight into Mary's house. Picture it. You're folding laundry or making bread, and suddenly there's a blazing, glorious angel standing in your room. Gabriel looked at her and said, "Greetings, favored one! The Lord is with you."
+God sent an angel named Gabriel, one of Heaven's top messengers, straight into Mary's house. Picture it. You're folding laundry or making bread, and suddenly there's a blazing, glorious angel standing in your room. Gabriel looked at her and said, "Greetings, favored one! The Lord is with you."
 
-Mary was terrified. Wouldn't you be? Her mind was spinning. But Gabriel said, "Don't be afraid, Mary. God has chosen you for something incredible. You are going to have a baby — a son. You will name Him Jesus. He will be called the Son of the Most High, and His kingdom will never end."
+Mary was terrified. Wouldn't you be? Her mind was spinning. But Gabriel said, "Don't be afraid, Mary. God has chosen you for something incredible. You are going to have a baby, a son. You will name Him Jesus. He will be called the Son of the Most High, and His kingdom will never end."
 
 This story comes from Luke 1:26-56 and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of An Angel Visits Mary teaches children important lessons about hope,
 
 ## Key Bible Verse
 
-> *"Do not be afraid, Mary; you have found favor with God."* — Luke 1:30
+> *"Do not be afraid, Mary; you have found favor with God."* (Luke 1:30)
 
 If small hands need something to do while you read, the free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) is made for exactly that.
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What was the name of the angel God sent to Mary?
 
-God sent the angel Gabriel to deliver the most important birth announcement in history — that Mary would be the mother of Jesus, the Son of the Most High.
+God sent the angel Gabriel to deliver the most important birth announcement in history, that Mary would be the mother of Jesus, the Son of the Most High.
 
 ### What was Mary's response when the angel told her God's plan?
 
-Even though she was young and knew it wouldn't be easy, Mary trusted God and said yes — "I am the Lord's servant. Let it be."
+Even though she was young and knew it wouldn't be easy, Mary trusted God and said yes, "I am the Lord's servant. Let it be."
 
 ### What happened when Mary visited her cousin Elizabeth?
 
-The moment Elizabeth heard Mary's voice, the baby inside her (John the Baptist) leaped for joy, and Elizabeth was filled with the Holy Spirit — confirming that Mary was carrying the Son of God.
+The moment Elizabeth heard Mary's voice, the baby inside her (John the Baptist) leaped for joy, and Elizabeth was filled with the Holy Spirit, confirming that Mary was carrying the Son of God.
 
 
 ## Discussion Questions for Families
@@ -99,13 +99,13 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
-Pair the story with our free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) — one sheet, ready to print.
+Pair the story with our free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary), one sheet, ready to print.
 
 ## Frequently Asked Questions
 
 ### What is the story of An Angel Visits Mary about for kids?
 
-An Angel Visits Mary is a story from Luke 1:26-56. Hey there, friend. I'm so glad you're here. My name is Jesus — and today I want to tell you the most personal story I've got. The story of how I came into the world. And it starts with the bravest ...
+An Angel Visits Mary is a story from Luke 1:26-56. Hey there, friend. I'm so glad you're here. My name is Jesus, and today I want to tell you the most personal story I've got. The story of how I came into the world. And it starts with the bravest ...
 
 ### What age is the story of An Angel Visits Mary appropriate for?
 

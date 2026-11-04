@@ -27,11 +27,11 @@ Love One Another is a Bible story from Hebrews/James/Revelation in the New Testa
 
 TITLE: Love One Another SERIES: The Ending & the Beginning EPISODE: 4 SCRIPTURE: 1 John 3:16-18, 4:7-21
 
-Of all My disciples, John was the one who understood this best. He was the youngest. He was the one who leaned against Me at the Last Supper. He called himself "the disciple whom Jesus loved." And when he was old — the last apostle still alive — he sat down and wrote about the one thing that mattered most.
+Of all My disciples, John was the one who understood this best. He was the youngest. He was the one who leaned against Me at the Last Supper. He called himself "the disciple whom Jesus loved." And when he was old, the last apostle still alive, he sat down and wrote about the one thing that mattered most.
 
 "This is how we know what love is," John wrote. "Jesus Christ laid down His life for us."
 
-That's the definition. Not flowers. Not feelings. Not a heart emoji. Love Is sacrifice. Love Is laying down your life for someone else. That's what I did on the cross — and that's the standard.
+That's the definition. Not flowers. Not feelings. Not a heart emoji. Love Is sacrifice. Love Is laying down your life for someone else. That's what I did on the cross, and that's the standard.
 
 This story comes from Hebrews/James/Revelation and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of Love One Another teaches children important lessons about faith, ho
 
 ## Key Bible Verse
 
-> *"Dear friends, let us love one another, for love comes from God."* — 1 John 4:7
+> *"Dear friends, let us love one another, for love comes from God."* (1 John 4:7)
 
 There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
 
@@ -59,11 +59,11 @@ After watching the video, see if your child can answer these questions:
 
 ### How does John define what love is?
 
-**Jesus Christ laid down His life for us.** John's definition of love is the cross. Love Is sacrifice — laying down your life for others. That's the standard Jesus set.
+**Jesus Christ laid down His life for us.** John's definition of love is the cross. Love Is sacrifice, laying down your life for others. That's the standard Jesus set.
 
 ### John says we should love "not with words or speech but with ___ and in ___."
 
-**Actions and truth.** "Let us not love with words or speech but with actions and in truth." Love isn't just something you say — it's something you do.
+**Actions and truth.** "Let us not love with words or speech but with actions and in truth." Love isn't just something you say, it's something you do.
 
 ### What does John say God IS?
 
@@ -75,11 +75,11 @@ After watching the video, see if your child can answer these questions:
 
 ### Why do we love, according to 1 John 4:19?
 
-**Because He first loved us.** "We love because He first loved us." The order matters — God loved you first, and that love is what empowers you to love others.
+**Because He first loved us.** "We love because He first loved us." The order matters, God loved you first, and that love is what empowers you to love others.
 
 ### What did John call himself?
 
-**The disciple whom Jesus loved.** John referred to himself as "the disciple whom Jesus loved." Not as a boast, but as his identity — he was defined by being loved by Jesus.
+**The disciple whom Jesus loved.** John referred to himself as "the disciple whom Jesus loved." Not as a boast, but as his identity, he was defined by being loved by Jesus.
 
 ## Discussion Questions for Families
 

@@ -12,7 +12,7 @@ The first day of school is one of the biggest days of a kid's year. New classroo
 
 The Bible is full of people who faced new beginnings, scary situations, and unfamiliar territory -- and found that God was with them every step. These eight stories give your kids exactly what they need for the school year ahead: courage to start, wisdom to learn, kindness to share, and trust that God goes with them.
 
-## 1. Joshua Leads the People — Courage for New Beginnings
+## 1. Joshua Leads the People, Courage for New Beginnings
 
 **Read:** Joshua 1:1-9
 
@@ -22,7 +22,7 @@ Moses had died, and Joshua was suddenly in charge of leading the entire nation o
 
 **Talk about it:** What's one thing about this school year that makes you nervous? How does knowing God is with you change that feeling? What does "courage" look like on the first day of school?
 
-## 2. David Faces Goliath — You're Braver Than You Think
+## 2. David Faces Goliath, You're Braver Than You Think
 
 **Read:** 1 Samuel 17:32-50
 
@@ -34,7 +34,7 @@ David was just a kid -- a shepherd boy too young to join the army. But when he s
 
 **Talk about it:** What is your "Goliath" this school year? What are the "lion and bear" experiences that have already made you stronger? What are your "five stones" -- the tools God has given you?
 
-## 3. Daniel Stands Firm — Staying True When Everyone's Watching
+## 3. Daniel Stands Firm, Staying True When Everyone's Watching
 
 **Read:** Daniel 1:1-20
 
@@ -48,7 +48,7 @@ The result? After ten days, Daniel and his friends looked healthier and stronger
 
 If small hands need something to do while you read, the free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) is made for exactly that.
 
-## 4. Esther Speaks Up — Using Your Voice for Good
+## 4. Esther Speaks Up, Using Your Voice for Good
 
 **Read:** Esther 4:1-17
 
@@ -60,7 +60,7 @@ Mordecai said, "Who knows but that you have come to your royal position for such
 
 **Talk about it:** Have you ever needed to speak up for someone but felt scared? Who in your school might need someone to be kind to them this year? What does "for such a time as this" mean for your school year?
 
-## 5. Ruth Starts Over — Making Friends in a New Place
+## 5. Ruth Starts Over, Making Friends in a New Place
 
 **Read:** Ruth 1:16-18, 2:1-12
 
@@ -74,7 +74,7 @@ In Bethlehem, Ruth gleaned in the fields of a man named Boaz, who noticed her ki
 
 **Talk about it:** Have you ever been the new kid? What helped? What's one thing you can do to welcome someone who's new at your school this year? How did God reward Ruth's faithfulness?
 
-## 6. Solomon Asks for Wisdom — The Best Thing to Pray For
+## 6. Solomon Asks for Wisdom, The Best Thing to Pray For
 
 **Read:** 1 Kings 3:5-14
 
@@ -86,7 +86,7 @@ God was so pleased with this request that He gave Solomon wisdom AND everything 
 
 **Talk about it:** If God said you could have one thing this school year, what would you ask for? Why did God love Solomon's answer so much? What would it look like to ask God for wisdom about school every day?
 
-## 7. The Boy with Five Loaves — What You Have Is Enough
+## 7. The Boy with Five Loaves, What You Have Is Enough
 
 **Read:** John 6:1-14
 
@@ -96,7 +96,7 @@ Five thousand people were hungry, and the disciples had no idea how to feed them
 
 **Talk about it:** Have you ever felt like what you have isn't enough? What do you have to offer at school -- your kindness, your humor, your talent, your faith? What could God do with it if you offered it to Him?
 
-## 8. Jesus at Age Twelve — Growing in Every Way
+## 8. Jesus at Age Twelve, Growing in Every Way
 
 **Read:** Luke 2:41-52
 

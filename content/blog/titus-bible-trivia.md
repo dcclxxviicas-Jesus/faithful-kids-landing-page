@@ -38,7 +38,7 @@ Titus was also Paul's go-to fixer for hard assignments. Paul sent him to Corinth
 
 6. What did Paul say our people must learn to devote themselves to? **Doing what is good** (Titus 3:14)
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 

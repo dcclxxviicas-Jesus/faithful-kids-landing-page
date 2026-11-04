@@ -23,13 +23,13 @@ The Golden Calf is a Bible story from Exodus 32 in the Old Testament. This retel
 
 ## What Is the Story of The Golden Calf for Kids?
 
-Okay, friends. Today's story is a rough one — the kind that makes you want to shout at the screen. But it's important, because it shows something true about people and something even MORE true about God's mercy.
+Okay, friends. Today's story is a rough one, the kind that makes you want to shout at the screen. But it's important, because it shows something true about people and something even MORE true about God's mercy.
 
-After that incredible moment at Mount Sinai — the thunder, the fire, the Ten Commandments — God called Moses back up the mountain for more instructions. Detailed blueprints for a special place of worship. Moses was up there for forty days and forty nights.
+After that incredible moment at Mount Sinai, the thunder, the fire, the Ten Commandments, God called Moses back up the mountain for more instructions. Detailed blueprints for a special place of worship. Moses was up there for forty days and forty nights.
 
 Forty days. That's a long time. Down at the bottom, the people got antsy. Then impatient. Then worried. "Where's Moses? Maybe he's dead up there. We need a god we can SEE."
 
-So they went to Aaron — Moses' own brother — and said, "Make us a god!" Did Aaron stand up and say, "Are you serious? GOD literally spoke to you from a mountain three weeks ago!"? Nope. He caved. He told everyone to bring their gold earrings, melted them down, and made... a calf. A baby cow. Made of jewelry. And the people said, "THIS is the god who brought us out of Egypt!"
+So they went to Aaron, Moses' own brother, and said, "Make us a god!" Did Aaron stand up and say, "Are you serious? GOD literally spoke to you from a mountain three weeks ago!"? Nope. He caved. He told everyone to bring their gold earrings, melted them down, and made... a calf. A baby cow. Made of jewelry. And the people said, "THIS is the god who brought us out of Egypt!"
 
 This story comes from Exodus 32 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of The Golden Calf teaches children important lessons about freedom, c
 
 ## Key Bible Verse
 
-> *"You shall have no other gods before me."* — Exodus 20:3
+> *"You shall have no other gods before me."* (Exodus 20:3)
 
 A map makes this story concrete: the free [map of the Exodus](/printables/bible-maps/the-exodus) shows Egypt, the Red Sea, Mount Sinai and the wilderness road on one printable sheet.
 
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Golden Calf about for kids?
 
-The Golden Calf is a story from Exodus 32. Okay, friends. Today's story is a rough one — the kind that makes you want to shout at the screen. But it's important, because it shows something true about people and something even MORE true abou...
+The Golden Calf is a story from Exodus 32. Okay, friends. Today's story is a rough one, the kind that makes you want to shout at the screen. But it's important, because it shows something true about people and something even MORE true abou...
 
 ### What age is the story of The Golden Calf appropriate for?
 

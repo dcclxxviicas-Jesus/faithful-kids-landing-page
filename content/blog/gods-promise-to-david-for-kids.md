@@ -25,11 +25,11 @@ God's Promise to David is a Bible story from 2 Samuel/Psalms in the Old Testamen
 
 ## What Is the Story of God's Promise to David for Kids?
 
-KING DAVID'S REIGN — EPISODE 2: GOD'S PROMISE TO DAVID Based on 2 Samuel 7 | Narrated by Jesus
+KING DAVID'S REIGN: EPISODE 2: GOD'S PROMISE TO DAVID Based on 2 Samuel 7 | Narrated by Jesus
 
-Hey, friends! Last time, David danced the Ark right into Jerusalem. Today, something even bigger happens — God makes a promise that echoes through all of history. A promise that leads directly to Me.
+Hey, friends! Last time, David danced the Ark right into Jerusalem. Today, something even bigger happens, God makes a promise that echoes through all of history. A promise that leads directly to Me.
 
-David is settled in his beautiful cedar palace. And one night, it bothers him. He says to Nathan the prophet, "I am living in this gorgeous palace, but the Ark of God is sitting in a tent! I want to build God a house — a temple worthy of His name."
+David is settled in his beautiful cedar palace. And one night, it bothers him. He says to Nathan the prophet, "I am living in this gorgeous palace, but the Ark of God is sitting in a tent! I want to build God a house, a temple worthy of His name."
 
 Nathan says, "Go ahead, do whatever is on your heart. God is with you." Sounds like a great plan, right?
 
@@ -45,7 +45,7 @@ The story of God's Promise to David teaches children important lessons about wor
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
 There is a free [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) on our site too, printable on one sheet with no sign-up.
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did David want to build for God?
 
-**A temple — a permanent house for the Ark of God.** 
+**A temple, a permanent house for the Ark of God.** 
 
 ### Who was the prophet that God spoke through to deliver His message to David?
 
@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What was God's surprising response to David's plan?
 
-**He said David would not build God a house — God would build David's house instead.**
+**He said David would not build God a house, God would build David's house instead.**
 
 ### What did God promise about David's throne?
 
@@ -122,7 +122,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of God's Promise to David about for kids?
 
-God's Promise to David is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 2: GOD'S PROMISE TO DAVID Based on 2 Samuel 7 | Narrated by Jesus
+God's Promise to David is a story from 2 Samuel/Psalms. KING DAVID'S REIGN: EPISODE 2: GOD'S PROMISE TO DAVID Based on 2 Samuel 7 | Narrated by Jesus
 
 ### What age is the story of God's Promise to David appropriate for?
 

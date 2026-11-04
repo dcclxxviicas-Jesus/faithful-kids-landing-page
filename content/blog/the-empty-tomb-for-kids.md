@@ -25,13 +25,13 @@ The Empty Tomb is a Bible story from Matthew/Luke/Acts in the New Testament. Thi
 
 ## What Is the Story of The Empty Tomb for Kids?
 
-HE IS RISEN — Episode 1: The Empty Tomb Based on Matthew 28:1-10 and John 20:1-10 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN, Episode 1: The Empty Tomb Based on Matthew 28:1-10 and John 20:1-10 Series: He Is Risen | Target Age: 7-15
 
 Let me tell you about the greatest morning in the history of the world.
 
-It was Sunday. The sky was still dark. My body had been in a sealed tomb since Friday — wrapped in burial cloths, behind a massive stone, guarded by Roman soldiers. Everyone thought the story was over.
+It was Sunday. The sky was still dark. My body had been in a sealed tomb since Friday, wrapped in burial cloths, behind a massive stone, guarded by Roman soldiers. Everyone thought the story was over.
 
-Before the sun came up, the earth started shaking. A violent earthquake. And an angel — blazing like lightning, clothes white as snow — came down from heaven and rolled that enormous stone away. Now here is something I want you to understand: the angel did not roll the stone away to let me OUT. I was already gone. He rolled it away to let people IN — so they could see for themselves.
+Before the sun came up, the earth started shaking. A violent earthquake. And an angel, blazing like lightning, clothes white as snow, came down from heaven and rolled that enormous stone away. Now here is something I want you to understand: the angel did not roll the stone away to let me OUT. I was already gone. He rolled it away to let people IN, so they could see for themselves.
 
 This story comes from Matthew/Luke/Acts and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Empty Tomb teaches children important lessons about resurrectio
 
 ## Key Bible Verse
 
-> *"He is not here; he has risen!"* — Luke 24:6
+> *"He is not here; he has risen!"* (Luke 24:6)
 
 There is also a free set of [Easter coloring pages](/printables/easter-coloring-pages) on our site, drawn for crayons and ready to print.
 
@@ -73,11 +73,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Peter and John find inside the tomb?
 
-**The grave clothes, neatly folded.** The burial cloths were left behind and neatly folded — evidence that Jesus had risen.
+**The grave clothes, neatly folded.** The burial cloths were left behind and neatly folded, evidence that Jesus had risen.
 
 ### What is the big lesson from the empty tomb?
 
-**The resurrection changes everything — death is not the end.** Because Jesus conquered death and rose again, everyone who trusts in Him has the promise of life that never ends. The resurrection changes everything.
+**The resurrection changes everything, death is not the end.** Because Jesus conquered death and rose again, everyone who trusts in Him has the promise of life that never ends. The resurrection changes everything.
 
 ## Discussion Questions for Families
 
@@ -116,7 +116,7 @@ For quiet time afterwards, print the [empty tomb coloring page](/printables/bibl
 
 ### What is the story of The Empty Tomb about for kids?
 
-The Empty Tomb is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 1: The Empty Tomb Based on Matthew 28:1-10 and John 20:1-10 Series: He Is Risen | Target Age: 7-15
+The Empty Tomb is a story from Matthew/Luke/Acts. HE IS RISEN, Episode 1: The Empty Tomb Based on Matthew 28:1-10 and John 20:1-10 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of The Empty Tomb appropriate for?
 

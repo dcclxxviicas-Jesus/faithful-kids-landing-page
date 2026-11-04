@@ -47,13 +47,13 @@ The book pivots at chapter 11: Solomon, the wisest man alive, lets his heart be 
 22. What did King Jeroboam set up at Bethel and Dan so people wouldn't worship in Jerusalem? **Two golden calves** (1 Kings 12:28-29)
 23. Who was the wicked foreign queen who married King Ahab and pushed Baal worship in Israel? **Jezebel** (1 Kings 16:31)
 
-For a quieter follow-up, try the free [Noah's Ark word search](/printables/bible-word-search/noahs-ark) — twelve hidden words, answer key included.
+For a quieter follow-up, try the free [Noah's Ark word search](/printables/bible-word-search/noahs-ark), twelve hidden words, answer key included.
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
-For Elijah's whole life — the ravens, Mount Carmel, the whisper, the chariot — see [Who Was Elijah in the Bible?](/blog/who-was-elijah-for-kids)
+For Elijah's whole life, the ravens, Mount Carmel, the whisper, the chariot, see [Who Was Elijah in the Bible?](/blog/who-was-elijah-for-kids)
 
 ## Hard 1 Kings Trivia Questions (Teens and Adults)
 

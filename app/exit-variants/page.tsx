@@ -36,10 +36,10 @@ const NAMES: Record<V, string> = {
 }
 const WHY: Record<V, string> = {
   A1: 'The neutral option: the question is the headline and nothing pushes. Kept as the revert target.',
-  G1: 'Mildest of the four. States a fact the parent already knows and cannot argue with — their kid WILL watch something today. No accusation, no claim we cannot back. The pressure comes from the parent finishing the sentence themselves.',
+  G1: 'Mildest of the four. States a fact the parent already knows and cannot argue with, their kid WILL watch something today. No accusation, no claim we cannot back. The pressure comes from the parent finishing the sentence themselves.',
   G2: 'The strongest of the four, and the one I would ship. "About 900 Sundays" is real (17-18 years is 887-939 weeks) and it lands because it is true, not because it accuses. Grief about time passing, not shame about parenting.',
-  G3: 'Names the procrastination out loud. Sharper and more personal — it works on someone who already feels the gap, and reads as presumptuous to someone who does not. Highest variance of the four.',
-  G4: 'G2 with a shamed exit: the decline button admits neglect on their behalf. This is confirm-shaming, a recognised dark pattern, and here it shames a parent about their child\u2019s faith on the way out. It will lift clicks. LIVE as of Sep 27, 2026 — owner\u2019s call with the trade understood.',
+  G3: 'Names the procrastination out loud. Sharper and more personal, it works on someone who already feels the gap, and reads as presumptuous to someone who does not. Highest variance of the four.',
+  G4: 'G2 with a shamed exit: the decline button admits neglect on their behalf. This is confirm-shaming, a recognised dark pattern, and here it shames a parent about their child\u2019s faith on the way out. It will lift clicks. LIVE as of Sep 27, 2026, owner\u2019s call with the trade understood.',
 }
 
 function Options() {
@@ -97,7 +97,7 @@ export default function ExitVariants() {
               <p className="fk-takeover-eyebrow">One quick question</p>
               <h2 className="fk-takeover-q-hero">{QUESTION}</h2>
               <p className="fk-takeover-lead">
-                We&rsquo;ll build a Bible plan around them &mdash; Genesis to Revelation,
+                We&rsquo;ll build a Bible plan around them, Genesis to Revelation,
                 matched to their ages.
               </p>
               <Options />
@@ -112,7 +112,7 @@ export default function ExitVariants() {
               <h2 className="fk-takeover-h">They&rsquo;ll watch something today.</h2>
               <p className="fk-takeover-lead">
                 The only question is what. Take one minute and we&rsquo;ll build them a
-                Bible plan instead &mdash; Genesis to Revelation, matched to their ages.
+                Bible plan instead, Genesis to Revelation, matched to their ages.
               </p>
               <p className="fk-takeover-q">{QUESTION}</p>
               <Options />
@@ -163,7 +163,7 @@ export default function ExitVariants() {
               <p className="fk-takeover-q">{QUESTION}</p>
               <Options />
               <Reassure />
-              <Skip label="No thanks &mdash; we&rsquo;ll get to it eventually" />
+              <Skip label="No thanks, we&rsquo;ll get to it eventually" />
             </>
           )}
 

@@ -40,9 +40,9 @@ Every game below hits at least two of the three. The 20 techniques in our guide 
 
 **Why it works for memory:** Reassembling word order trains sequence memory, which is the part kids actually lose first. A child who "knows" a verse but stalls halfway through has a sequencing gap, not a vocabulary gap. Cutting phrases rather than single words for beginners also teaches natural chunking, and chunked verses are far easier to hold.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
-For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines, ready for a class exchange.
 
 ## 3. Motion Mapping
 
@@ -140,7 +140,7 @@ For the nights when nobody has energy for a game, our free [Bedtime Bible Kit](/
 
 For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
-We also drew a set of [free Bible word searches](/printables/bible-word-search) — eleven puzzles you can play in the browser or print for a class.
+We also drew a set of [free Bible word searches](/printables/bible-word-search), eleven puzzles you can play in the browser or print for a class.
 
 If you're planning a whole night, our list of [youth group games](/blog/youth-group-games) sorts 55 of them by group size, with rules, materials, and prep time for each.
 

@@ -23,13 +23,13 @@ Paul in Athens is a Bible story from Acts in the New Testament. This retelling i
 
 ## What Is the Story of Paul in Athens for Kids?
 
-PAUL'S ADVENTURES — EPISODE 4: PAUL IN ATHENS Based on Acts 17:16-34 Series: Paul's Adventures | Episode 4 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 4: PAUL IN ATHENS Based on Acts 17:16-34 Series: Paul's Adventures | Episode 4 of 10 Target audience: Kids ages 7-15
 
-Alright — this episode is different. No prison. No earthquake. No stoning. This time, Paul walks into the smartest city in the world and goes head-to-head with the greatest thinkers alive. Welcome to Athens.
+Alright, this episode is different. No prison. No earthquake. No stoning. This time, Paul walks into the smartest city in the world and goes head-to-head with the greatest thinkers alive. Welcome to Athens.
 
 Athens was legendary. The city of Socrates, Plato, and Aristotle. The people literally spent their time doing nothing but talking about the latest ideas.
 
-But Paul notices something else. The city is FULL of idols. Statues to every god you can imagine — on every corner, in every temple. Hundreds of them. And it grieves him deep inside.
+But Paul notices something else. The city is FULL of idols. Statues to every god you can imagine, on every corner, in every temple. Hundreds of them. And it grieves him deep inside.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -43,11 +43,11 @@ The story of Paul in Athens teaches children important lessons about adventure, 
 
 ## Key Bible Verse
 
-> *"For I am not ashamed of the gospel."* — Romans 1:16
+> *"For I am not ashamed of the gospel."* (Romans 1:16)
 
 Add five quiet minutes with the free [Armor of God word search](/printables/bible-word-search/armor-of-god); it prints one to a sheet with the key on the page.
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,15 +59,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Paul find in Athens that he used as a starting point for his message?
 
-Paul noticed an altar inscribed "To an Unknown God" and used it as his starting point — telling the Athenians that the God they worshipped without knowing, he was going to make known to them.
+Paul noticed an altar inscribed "To an Unknown God" and used it as his starting point, telling the Athenians that the God they worshipped without knowing, he was going to make known to them.
 
 ### How did Paul connect with the Athenian philosophers?
 
-Paul quoted the Athenians' own poets — saying "We are his offspring" — to build a bridge between their culture and the truth about God. He found common ground instead of just condemning them.
+Paul quoted the Athenians' own poets, saying "We are his offspring", to build a bridge between their culture and the truth about God. He found common ground instead of just condemning them.
 
 ### How did the crowd in Athens respond to Paul's message?
 
-The response was mixed — some sneered at the idea of resurrection, some said "we want to hear more," and some believed, including Dionysius and Damaris. Not everyone will accept the truth, and that's okay.
+The response was mixed, some sneered at the idea of resurrection, some said "we want to hear more," and some believed, including Dionysius and Damaris. Not everyone will accept the truth, and that's okay.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Paul in Athens about for kids?
 
-Paul in Athens is a story from Acts. PAUL'S ADVENTURES — EPISODE 4: PAUL IN ATHENS Based on Acts 17:16-34 Series: Paul's Adventures | Episode 4 of 10 Target audience: Kids ages 7-15
+Paul in Athens is a story from Acts. PAUL'S ADVENTURES, EPISODE 4: PAUL IN ATHENS Based on Acts 17:16-34 Series: Paul's Adventures | Episode 4 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Paul in Athens appropriate for?
 

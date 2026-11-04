@@ -139,7 +139,7 @@ export default function CasAdmin() {
     const bits: string[] = [`${fmt(t.visitors)} ${t.visitors === 1 ? 'person' : 'people'} visited`]
     if (p && p.visitors > 0) {
       const pct = Math.round(((t.visitors - p.visitors) / p.visitors) * 100)
-      if (pct !== 0) bits[0] += ` — ${pct > 0 ? 'up' : 'down'} ${Math.abs(pct)}% vs ${rangeMeta?.vs}`
+      if (pct !== 0) bits[0] += ` ${pct > 0 ? 'up' : 'down'} ${Math.abs(pct)}% vs ${rangeMeta?.vs}`
     }
     if (realLeads.length) bits.push(`you captured ${realLeads.length} email${realLeads.length > 1 ? 's' : ''}`)
     if (s && s.range.organic.revenue > 0) bits.push(`you collected ${money(s.range.organic.revenue)}`)
@@ -199,7 +199,7 @@ export default function CasAdmin() {
                 </div>
                 <div className="tile">
                   <div className="t-label">Money collected</div>
-                  <div className="t-value">{s ? money(s.range.organic.revenue) : '—'}</div>
+                  <div className="t-value">{s ? money(s.range.organic.revenue) : '–'}</div>
                   <div className="t-sub">{s ? `${money(s.now.organic_revenue_alltime)} all-time from real customers` : ''}</div>
                 </div>
               </section>
@@ -218,7 +218,7 @@ export default function CasAdmin() {
                       )
                     })}
                   </div>
-                ) : <p className="note">History is still filling in — check back after tonight&apos;s run.</p>}
+                ) : <p className="note">History is still filling in; check back after tonight&apos;s run.</p>}
                 {trend.length >= 2 ? (
                   <div className="trend-x"><span>{trend[0].day}</span><span>peak {fmt(trendMax)}</span><span>{trend[trend.length - 1].day}</span></div>
                 ) : null}
@@ -269,7 +269,7 @@ export default function CasAdmin() {
                     </table>
                   </>
                 ) : (
-                  <p className="note">Google hasn&apos;t reported {range === 'today' ? 'today' : 'this period'} yet — their data runs 2–3 days behind. Switch to &ldquo;Last 7 days&rdquo; or &ldquo;Last 30 days&rdquo; to see it.</p>
+                  <p className="note">Google hasn&apos;t reported {range === 'today' ? 'today' : 'this period'} yet, their data runs 2–3 days behind. Switch to &ldquo;Last 7 days&rdquo; or &ldquo;Last 30 days&rdquo; to see it.</p>
                 )}
               </section>
 
@@ -298,7 +298,7 @@ export default function CasAdmin() {
                   </table>
                   <p className="note" style={{ marginTop: 10, marginBottom: 0 }}>
                     Baseline before this shipped: <strong>5%</strong> of blog readers reached the quiz.
-                    Watch the combined rate first &mdash; that shows within days. The winning variant
+                    Watch the combined rate first, that shows within days. The winning variant
                     takes about three weeks.
                   </p>
                 </section>
@@ -360,7 +360,7 @@ export default function CasAdmin() {
               </section>
 
               <details className="more">
-                <summary>More detail — countries, devices, every tracked event</summary>
+                <summary>More detail, countries, devices, every tracked event</summary>
                 <div className="cols">
                   <section className="panel">
                     <h2>Countries</h2>
@@ -398,7 +398,7 @@ export default function CasAdmin() {
                             <td className="num">{hg ? fmt(hg.clicks) : '…'}</td>
                             <td className="num">{fmt(ht?.funnel?.quiz_completed)}</td>
                             <td className="num">{fmt(ha?.new_leads)}</td>
-                            <td className={`num${rev > 0 ? ' good' : ''}`}>{rev > 0 ? money(rev) : '—'}</td>
+                            <td className={`num${rev > 0 ? ' good' : ''}`}>{rev > 0 ? money(rev) : '–'}</td>
                           </tr>
                         )
                       })}

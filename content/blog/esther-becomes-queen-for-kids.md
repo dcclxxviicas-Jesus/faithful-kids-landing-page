@@ -25,11 +25,11 @@ Esther Becomes Queen is a Bible story from Ezra/Nehemiah/Esther in the Old Testa
 
 ## What Is the Story of Esther Becomes Queen for Kids?
 
-TITLE: Esther Becomes Queen SERIES: The Return Home — Episode 7 SCRIPTURE: Esther 1-2
+TITLE: Esther Becomes Queen SERIES: The Return Home, Episode 7 SCRIPTURE: Esther 1-2
 
 Alright, we're starting one of the most dramatic stories in the entire Bible. It's got a king, a beauty contest, a secret identity, and a plot twist you won't see coming. Let's go.
 
-We're in the Persian Empire — the biggest, most powerful kingdom on earth. King Xerxes throws a massive banquet. We're talking 180 DAYS of showing off. Gold everywhere, fine wine, the works. At the end of it, the king calls for Queen Vashti to come display her beauty. But she refuses. And the king? He is NOT happy. Vashti is out — removed as queen.
+We're in the Persian Empire, the biggest, most powerful kingdom on earth. King Xerxes throws a massive banquet. We're talking 180 DAYS of showing off. Gold everywhere, fine wine, the works. At the end of it, the king calls for Queen Vashti to come display her beauty. But she refuses. And the king? He is NOT happy. Vashti is out, removed as queen.
 
 So what does the most powerful man in the world do when he needs a new queen? He holds a contest. Young women from every province in the empire are brought to the palace. They get an entire YEAR of beauty treatments. Twelve months of preparation just to stand before the king.
 
@@ -45,7 +45,7 @@ The story of Esther Becomes Queen teaches children important lessons about rebui
 
 ## Key Bible Verse
 
-> *"Who knows whether you have come to the kingdom for such a time as this?"* — Esther 4:14
+> *"Who knows whether you have come to the kingdom for such a time as this?"* (Esther 4:14)
 
 For quiet time afterwards, print the free [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) and let them color while you talk it through.
 
@@ -63,7 +63,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How long did King Xerxes' original banquet celebration last?
 
-**180 days.** The king's display of wealth and power lasted an astonishing 180 days — that's six months of showing off his kingdom's glory.
+**180 days.** The king's display of wealth and power lasted an astonishing 180 days, that's six months of showing off his kingdom's glory.
 
 ### Who raised Esther after her parents died?
 
@@ -71,7 +71,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How long were the young women prepared with beauty treatments before meeting the king?
 
-**12 months.** Each candidate received a full twelve months of beauty treatments — six months with oil of myrrh and six months with perfumes and cosmetics — before their turn to stand before the king.
+**12 months.** Each candidate received a full twelve months of beauty treatments, six months with oil of myrrh and six months with perfumes and cosmetics, before their turn to stand before the king.
 
 ### What secret was Esther hiding after she became queen?
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Esther Becomes Queen about for kids?
 
-Esther Becomes Queen is a story from Ezra/Nehemiah/Esther. TITLE: Esther Becomes Queen SERIES: The Return Home — Episode 7 SCRIPTURE: Esther 1-2
+Esther Becomes Queen is a story from Ezra/Nehemiah/Esther. TITLE: Esther Becomes Queen SERIES: The Return Home, Episode 7 SCRIPTURE: Esther 1-2
 
 ### What age is the story of Esther Becomes Queen appropriate for?
 

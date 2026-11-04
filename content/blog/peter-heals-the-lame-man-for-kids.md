@@ -25,11 +25,11 @@ Peter Heals the Lame Man is a Bible story from Acts in the New Testament. This r
 
 ## What Is the Story of Peter Heals the Lame Man for Kids?
 
-THE EARLY CHURCH — EPISODE 2: PETER HEALS THE LAME MAN Based on Acts 3:1-16 Series: The Early Church | Episode 2 of 5 Target audience: Kids ages 7-15
+THE EARLY CHURCH, EPISODE 2: PETER HEALS THE LAME MAN Based on Acts 3:1-16 Series: The Early Church | Episode 2 of 5 Target audience: Kids ages 7-15
 
 After I went back to my Father, the apostles got to work. And one afternoon, something happened that changed everything.
 
-Peter and John were heading to the temple for afternoon prayer. Just a normal day. But on the way in, right by the gate called Beautiful — great name, by the way — there was a man sitting on the ground. He'd been lame since the day he was born. Never taken a single step. Every day, his friends carried him to that same spot so he could beg for money. That was his life.
+Peter and John were heading to the temple for afternoon prayer. Just a normal day. But on the way in, right by the gate called Beautiful, great name, by the way, there was a man sitting on the ground. He'd been lame since the day he was born. Never taken a single step. Every day, his friends carried him to that same spot so he could beg for money. That was his life.
 
 He saw Peter and John, held out his hand, and asked for money. Just another coin. Just another day.
 
@@ -45,7 +45,7 @@ The story of Peter Heals the Lame Man teaches children important lessons about c
 
 ## Key Bible Verse
 
-> *"In the name of Jesus Christ of Nazareth, walk."* — Acts 3:6
+> *"In the name of Jesus Christ of Nazareth, walk."* (Acts 3:6)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What was Peter's message to the crowd who saw the miracle?
 
-**"It wasn't our power — it was the name of Jesus".**
+**"It wasn't our power, it was the name of Jesus".**
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Peter Heals the Lame Man about for kids?
 
-Peter Heals the Lame Man is a story from Acts. THE EARLY CHURCH — EPISODE 2: PETER HEALS THE LAME MAN Based on Acts 3:1-16 Series: The Early Church | Episode 2 of 5 Target audience: Kids ages 7-15
+Peter Heals the Lame Man is a story from Acts. THE EARLY CHURCH, EPISODE 2: PETER HEALS THE LAME MAN Based on Acts 3:1-16 Series: The Early Church | Episode 2 of 5 Target audience: Kids ages 7-15
 
 ### What age is the story of Peter Heals the Lame Man appropriate for?
 

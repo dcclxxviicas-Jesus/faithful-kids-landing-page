@@ -25,11 +25,11 @@ Doubting Thomas is a Bible story from Matthew/Luke/Acts in the New Testament. Th
 
 ## What Is the Story of Doubting Thomas for Kids?
 
-HE IS RISEN — Episode 4: Doubting Thomas Based on John 20:24-29 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN: Episode 4: Doubting Thomas Based on John 20:24-29 Series: He Is Risen | Target Age: 7-15
 
-I want to tell you about one of my disciples — a man named Thomas. And I want to tell you why his doubt led to one of the most powerful declarations of faith ever spoken.
+I want to tell you about one of my disciples, a man named Thomas. And I want to tell you why his doubt led to one of the most powerful declarations of faith ever spoken.
 
-Here is what happened. On the evening of that first Easter Sunday, I appeared to my disciples. They were hiding behind locked doors, terrified that the religious leaders might come after them next. I walked right through those locked doors — because risen bodies can do things like that — and I stood among them. I showed them my hands and my side. I said, "Peace be with you." And they were overjoyed.
+Here is what happened. On the evening of that first Easter Sunday, I appeared to my disciples. They were hiding behind locked doors, terrified that the religious leaders might come after them next. I walked right through those locked doors, because risen bodies can do things like that, and I stood among them. I showed them my hands and my side. I said, "Peace be with you." And they were overjoyed.
 
 But Thomas was not there. He had stepped out. He missed it.
 
@@ -45,9 +45,9 @@ The story of Doubting Thomas teaches children important lessons about resurrecti
 
 ## Key Bible Verse
 
-> *"Blessed are those who have not seen and yet have believed."* — John 20:29
+> *"Blessed are those who have not seen and yet have believed."* (John 20:29)
 
-Pair this with our free [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children), one sheet, ready for the kitchen table or the classroom.
 
 There was more to him than one famous week: [Who Was Thomas in the Bible?](/blog/who-was-thomas-for-kids) tells his brave side too.
 
@@ -73,11 +73,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Thomas say when he finally saw Jesus?
 
-**"My Lord and my God!".** "My Lord and my God!" is the greatest declaration of who Jesus is in all four Gospels — and it came from the one who doubted most.
+**"My Lord and my God!".** "My Lord and my God!" is the greatest declaration of who Jesus is in all four Gospels, and it came from the one who doubted most.
 
 ### What did Jesus say about people who believe without seeing Him?
 
-**"Blessed are those who have not seen and yet have believed".** Jesus said those who believe without seeing are blessed. That includes every believer today — including you.
+**"Blessed are those who have not seen and yet have believed".** Jesus said those who believe without seeing are blessed. That includes every believer today, including you.
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Doubting Thomas about for kids?
 
-Doubting Thomas is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 4: Doubting Thomas Based on John 20:24-29 Series: He Is Risen | Target Age: 7-15
+Doubting Thomas is a story from Matthew/Luke/Acts. HE IS RISEN: Episode 4: Doubting Thomas Based on John 20:24-29 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of Doubting Thomas appropriate for?
 

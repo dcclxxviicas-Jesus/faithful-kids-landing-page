@@ -18,7 +18,7 @@ import { BY_AGE, BY_FORMAT, SEASONAL } from '../bible-trivia/trivia-directory'
 export const metadata: Metadata = {
   // absolute: the root layout appends " | Faithful Kids" (16 chars), which
   // pushed this past Google's ~60-char display cutoff.
-  title: { absolute: 'Bible Quiz — Play Free Online, 100 Questions with Answers' },
+  title: { absolute: 'Bible Quiz, Play Free Online, 100 Questions with Answers' },
   description:
     'Take a free Bible quiz: 100 questions from easy to expert with the verse behind every answer. Play online, test yourself, or print the PDF. All ages.',
   alternates: { canonical: 'https://faithfulkids.app/bible-quiz' },
@@ -75,7 +75,7 @@ export default function BibleQuizPage() {
         </h1>
         <p style={{ fontSize: '1.1rem', color: 'var(--text-secondary)', marginBottom: 8 }}>
           One hundred questions, easy to expert, with the verse behind every answer.
-          Pick a level and play a ten-question round right here — no sign-up, no ads — or
+          Pick a level and play a ten-question round right here, no sign-up, no ads; or
           scroll down to <a href="#sample" style={{ color: 'var(--primary)', fontWeight: 700 }}>read questions with the answers shown</a> and
           grab a <a href="#printable" style={{ color: 'var(--primary)', fontWeight: 700 }}>printable PDF</a>.
         </p>
@@ -92,7 +92,7 @@ export default function BibleQuizPage() {
           </h2>
           <p style={{ color: 'var(--text-secondary)', marginBottom: 20 }}>
             Five from each level, exactly as the game asks them. Read the question aloud,
-            take answers from the room, then read the verse — that last step is what turns
+            take answers from the room, then read the verse, that last step is what turns
             a quiz into the best five-minute Bible study of the week.
           </p>
           {[['Easy', SAMPLE.slice(0, 5)], ['Medium', SAMPLE.slice(5, 10)], ['Hard', SAMPLE.slice(10, 15)]].map(([label, qs]) => (
@@ -110,7 +110,7 @@ export default function BibleQuizPage() {
             </div>
           ))}
           <p style={{ color: 'var(--text-secondary)' }}>
-            The other 85 are in the game above — it deals a fresh round every time, so it
+            The other 85 are in the game above, it deals a fresh round every time, so it
             never plays the same twice.
           </p>
         </section>
@@ -134,7 +134,7 @@ export default function BibleQuizPage() {
             Printable Bible quiz (free PDF)
           </h2>
           <p style={{ color: 'var(--text-secondary)', marginBottom: 12 }}>
-            Running this on paper — a classroom, a church table, a long car ride?{' '}
+            Running this on paper, a classroom, a church table, a long car ride?{' '}
             <a href="https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf" style={{ color: 'var(--primary)', fontWeight: 700 }}>
               Download the quiz sheets
             </a>{' '}
@@ -161,7 +161,7 @@ export default function BibleQuizPage() {
           </div>
           <p style={{ marginTop: 14 }}>
             <a href="/bible-trivia#all-trivia" style={{ color: 'var(--primary)', fontWeight: 700 }}>
-              Browse every book of the Bible — all 66 quizzes &rarr;
+              Browse every book of the Bible, all 66 quizzes &rarr;
             </a>
           </p>
         </section>
@@ -171,7 +171,7 @@ export default function BibleQuizPage() {
             If this quiz was fun, the lessons behind it are better
           </h2>
           <p style={{ color: 'var(--text-secondary)', maxWidth: 560, margin: '0 auto 18px' }}>
-            Every answer here comes from a two-minute video lesson in the Faithful Kids app —
+            Every answer here comes from a two-minute video lesson in the Faithful Kids app,
             300+ of them, Genesis to Revelation, each with its own quiz and reflection. No ads, ever.
           </p>
           <a href="/quiz" className="btn-primary btn-hero" style={{ textDecoration: 'none' }}>

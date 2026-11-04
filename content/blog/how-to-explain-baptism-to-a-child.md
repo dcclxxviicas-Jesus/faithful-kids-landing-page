@@ -10,7 +10,7 @@ dateModified: "2026-08-16"
 
 Your child just watched someone get dunked underwater at church. Or maybe they noticed a baby being sprinkled at the front. Either way, the question comes: "What just happened? Why did they do that?"
 
-Baptism is one of the most visible and memorable parts of the Christian faith. And the good news is that it is actually one of the easier concepts to explain to kids because they can see it, and it connects to something they already understand — water.
+Baptism is one of the most visible and memorable parts of the Christian faith. And the good news is that it is actually one of the easier concepts to explain to kids because they can see it, and it connects to something they already understand, water.
 
 Here is how to talk about baptism with your child in a way that is honest, simple, and age-appropriate.
 
@@ -18,7 +18,7 @@ Here is how to talk about baptism with your child in a way that is honest, simpl
 
 At its most basic, baptism is **a way of showing everyone that you love Jesus and want to follow Him.**
 
-For a young child, you might say: "Baptism is like wearing a team jersey. When you get baptized, you are telling the whole world, 'I am on Jesus's team! I love Him and I want to follow Him.' The water does not make you part of God's family — believing in Jesus does. But baptism is how you celebrate it and show everyone."
+For a young child, you might say: "Baptism is like wearing a team jersey. When you get baptized, you are telling the whole world, 'I am on Jesus's team! I love Him and I want to follow Him.' The water does not make you part of God's family, believing in Jesus does. But baptism is how you celebrate it and show everyone."
 
 For an older child: "Baptism is an outward sign of an inward change. When someone believes in Jesus and decides to follow Him, baptism is the way they publicly declare that decision. It is like making a promise in front of your family, your church, and God."
 
@@ -30,7 +30,7 @@ The most powerful reason to share with your child is that **Jesus Himself was ba
 
 **Matthew 3:13-17** tells the story: Jesus went to the Jordan River and asked [John the Baptist](/blog/john-the-baptist-for-kids) to baptize Him. When Jesus came up out of the water, the heavens opened, the Holy Spirit came down like a dove, and God the Father spoke from heaven saying, "This is my beloved Son, with whom I am well pleased."
 
-Tell your child: "When Jesus was baptized, something amazing happened — God the Father spoke from heaven and the Holy Spirit came down like a dove. All three Persons of the Trinity were there. Jesus did not need to be baptized because He never sinned, but He did it to show us the right thing to do and to begin His work on earth." (If that raises Trinity questions, here is [how to explain the Trinity to a child](/blog/how-to-explain-the-trinity-to-a-child).)
+Tell your child: "When Jesus was baptized, something amazing happened, God the Father spoke from heaven and the Holy Spirit came down like a dove. All three Persons of the Trinity were there. Jesus did not need to be baptized because He never sinned, but He did it to show us the right thing to do and to begin His work on earth." (If that raises Trinity questions, here is [how to explain the Trinity to a child](/blog/how-to-explain-the-trinity-to-a-child).)
 
 ### 2. Because Jesus Told Us To
 
@@ -48,7 +48,7 @@ About 3,000 people were baptized that very day. Baptism has been a central part 
 
 Water is the perfect symbol because kids already associate it with getting clean. You can build on that.
 
-**The water represents washing away the old and starting fresh.** When someone goes under the water, it symbolizes their old life — before they knew Jesus — being buried. When they come up out of the water, it symbolizes their new life with Jesus.
+**The water represents washing away the old and starting fresh.** When someone goes under the water, it symbolizes their old life, before they knew Jesus, being buried. When they come up out of the water, it symbolizes their new life with Jesus.
 
 For your child: "Think about how you feel after a really good bath when you were super muddy. You feel clean and fresh, right? Baptism is like that for your heart. It is a picture of Jesus washing away all the wrong things and giving you a brand-new start."
 
@@ -61,7 +61,7 @@ You can simplify this for kids: "Going under the water is like being buried with
 Your child might be confused if they see baptism done differently at another church. Here is a quick guide to the main traditions:
 
 ### Immersion (Going All the Way Under)
-Many churches baptize by fully submerging the person in water. This is the method most commonly associated with believer's baptism — when someone old enough to understand makes their own decision to follow Jesus. Baptist, Pentecostal, nondenominational, and many other churches practice this.
+Many churches baptize by fully submerging the person in water. This is the method most commonly associated with believer's baptism, when someone old enough to understand makes their own decision to follow Jesus. Baptist, Pentecostal, nondenominational, and many other churches practice this.
 
 ### Sprinkling or Pouring
 Some churches, including many Catholic, Presbyterian, Methodist, and Lutheran churches, baptize by sprinkling or pouring water on the person's head. This is common for infant baptism, where parents dedicate their baby to God and promise to raise them in the faith.
@@ -69,7 +69,7 @@ Some churches, including many Catholic, Presbyterian, Methodist, and Lutheran ch
 ### Infant Baptism vs. Believer's Baptism
 Some traditions baptize babies as a sign of God's grace and the family's commitment to raising the child in faith. Others wait until a person is old enough to make their own decision to follow Jesus.
 
-**What to tell your child:** "Different churches do baptism in different ways, and that is okay. What matters most is what is in your heart — your love for Jesus and your decision to follow Him. The water on the outside is a symbol of the change God makes on the inside."
+**What to tell your child:** "Different churches do baptism in different ways, and that is okay. What matters most is what is in your heart, your love for Jesus and your decision to follow Him. The water on the outside is a symbol of the change God makes on the inside."
 
 ## What Baptism Is NOT
 
@@ -88,12 +88,12 @@ This is one of the most common questions parents have, and the answer varies by 
 In these traditions, babies can be baptized shortly after birth. Parents and godparents make promises on the child's behalf. The child may later go through confirmation, where they affirm those promises for themselves.
 
 ### Churches That Practice Believer's Baptism
-In these traditions, a child can be baptized when they are old enough to understand what they are doing — when they can articulate that they believe in Jesus and want to follow Him. There is no magic age for this. Some children are ready at 6 or 7, others at 10 or 12.
+In these traditions, a child can be baptized when they are old enough to understand what they are doing, when they can articulate that they believe in Jesus and want to follow Him. There is no magic age for this. Some children are ready at 6 or 7, others at 10 or 12.
 
 **Signs your child might be ready:**
 - They can explain in their own words that they believe Jesus is God's Son
 - They understand that they have sinned and need forgiveness
-- They want to be baptized — it is their idea, not just yours
+- They want to be baptized, it is their idea, not just yours
 - They can tell you what baptism means (not a perfect theological answer, just a genuine understanding)
 - They are not just doing it because a friend did or because they want the attention
 
@@ -130,7 +130,7 @@ Bring the story of Jesus's baptism to life for your kids with animated video les
 ## Frequently Asked Questions
 
 ### Can a child be too young to be baptized?
-It depends on your church tradition. Churches that practice infant baptism welcome children of any age. Churches that practice believer's baptism typically wait until a child can understand and personally express their faith in Jesus. There is no universal minimum age — readiness matters more than a specific birthday.
+It depends on your church tradition. Churches that practice infant baptism welcome children of any age. Churches that practice believer's baptism typically wait until a child can understand and personally express their faith in Jesus. There is no universal minimum age, readiness matters more than a specific birthday.
 
 ### What if my child wants to be baptized but I am not sure they understand?
 Have a gentle conversation with them. Ask them to explain in their own words why they want to be baptized and what it means. Talk to your pastor, who can also meet with your child. It is better to wait a little and baptize a child who truly understands than to rush the moment.

@@ -50,9 +50,9 @@ The letter's heartbeat is chapter 13 -- the "love chapter" read at countless wed
 
 There is a free [Noah's Ark word search](/printables/bible-word-search/noahs-ark) to go with this, playable on a phone and printable for a class.
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
 To follow the route, our free [map of Paul's missionary journeys](/printables/bible-maps/pauls-missionary-journeys) shows all three journeys and the voyage to Rome, color-coded on one printable sheet.
 
@@ -86,7 +86,7 @@ For the backstory, read [who was Paul](/blog/who-was-paul-for-kids), and for the
 
 Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-trivia-for-kids) next.
 
-Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost — [here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
+Churches are welcome to embed our [Bible trivia game](/bible-trivia) on their own site at no cost, here's the one-line setup](/blog/bible-trivia-embed-for-church-website).
 
 Playing with grown-ups at the table? Our [Bible trivia for adults](/blog/bible-trivia-for-adults) gives them 50 hard questions of their own, with a warm-up round built to humble the confident.
 

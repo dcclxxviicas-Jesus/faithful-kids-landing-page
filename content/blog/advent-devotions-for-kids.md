@@ -220,7 +220,7 @@ Now the silence breaks. These nine days follow the angels, Mary, Elizabeth, and 
 
 **Prayer:** Immanuel, be with our family tonight and every night. Amen.
 
-Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree) — hang one a day and walk the whole Bible story to the manger.
+Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree), hang one a day and walk the whole Bible story to the manger.
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 

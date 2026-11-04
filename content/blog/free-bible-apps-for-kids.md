@@ -10,7 +10,7 @@ dateModified: "2026-08-18"
 
 # Free Bible Apps for Kids: The 5 Best in 2026 (and Their Limits)
 
-The best genuinely free Bible app for kids is YouVersion's Bible App for Kids: no ads, no paywall, built for ages 2-8. Superbook's Kids Bible App and the Adventure Bible App are also free and solid. Every free app has real limits, though — mostly age ceiling and depth — which is why this guide covers what each free option does well, where it stops, and what a paid app like Faithful Kids adds if your child is 7 or older.
+The best genuinely free Bible app for kids is YouVersion's Bible App for Kids: no ads, no paywall, built for ages 2-8. Superbook's Kids Bible App and the Adventure Bible App are also free and solid. Every free app has real limits, though, mostly age ceiling and depth, which is why this guide covers what each free option does well, where it stops, and what a paid app like Faithful Kids adds if your child is 7 or older.
 
 The good news? Several free options exist. The honest news? Every free app makes trade-offs -- fewer stories, no quizzes, limited progress tracking, or ad-supported models that introduce distractions. Understanding those trade-offs helps you make the best choice for your family.
 
@@ -174,7 +174,7 @@ Ready to see the difference between watching and *learning*? Start your free 7-d
 
 ---
 
-Our own [Faithful Kids app](/blog/faithful-kids-app) is a paid subscription with a free 7-day trial — the app page lays out exactly what is inside before you download.
+Our own [Faithful Kids app](/blog/faithful-kids-app) is a paid subscription with a free 7-day trial; the app page lays out exactly what is inside before you download.
 
 Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
 

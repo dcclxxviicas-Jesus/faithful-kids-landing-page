@@ -23,13 +23,13 @@ Daniel in the Lions' Den is a Bible story from Daniel/Jonah/Isaiah in the Old Te
 
 ## What Is the Story of Daniel in the Lions' Den for Kids?
 
-EXILE & FAITH — EPISODE 6: DANIEL IN THE LIONS' DEN Based on Daniel 6 | Narrated by Jesus
+EXILE & FAITH, EPISODE 6: DANIEL IN THE LIONS' DEN Based on Daniel 6 | Narrated by Jesus
 
-Okay — you know Daniel by now. He survived Babylon. He interpreted dreams. He read writing off a wall. But what I'm about to tell you might be the most intense night of his entire life. And by this point, Daniel isn't young anymore. He's an old man. But he's still got the same fire he had as a teenager.
+Okay, you know Daniel by now. He survived Babylon. He interpreted dreams. He read writing off a wall. But what I'm about to tell you might be the most intense night of his entire life. And by this point, Daniel isn't young anymore. He's an old man. But he's still got the same fire he had as a teenager.
 
-Here's the situation. Babylon fell, remember? The Persians are running things now, and the new king — Darius — actually LIKES Daniel. In fact, Daniel is so good at his job that Darius plans to put him in charge of the entire kingdom. Second only to the king himself.
+Here's the situation. Babylon fell, remember? The Persians are running things now, and the new king, Darius, actually LIKES Daniel. In fact, Daniel is so good at his job that Darius plans to put him in charge of the entire kingdom. Second only to the king himself.
 
-The other officials are furious. They start digging into Daniel's record, looking for anything — a scandal, a mistake, a bad decision. But they find NOTHING. Daniel is completely clean. So they come up with a sneaky plan. They convince King Darius to sign a law that says for thirty days, no one can pray to ANY god or any person except the king. Anyone who breaks it gets thrown into a den of hungry lions.
+The other officials are furious. They start digging into Daniel's record, looking for anything, a scandal, a mistake, a bad decision. But they find NOTHING. Daniel is completely clean. So they come up with a sneaky plan. They convince King Darius to sign a law that says for thirty days, no one can pray to ANY god or any person except the king. Anyone who breaks it gets thrown into a den of hungry lions.
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Daniel in the Lions' Den teaches children important lessons about c
 
 ## Key Bible Verse
 
-> *"My God sent his angel, and he shut the mouths of the lions."* — Daniel 6:22
+> *"My God sent his angel, and he shut the mouths of the lions."* (Daniel 6:22)
 
-Pair this with our free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace), one sheet, ready for the kitchen table or the classroom.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### Why were the other officials jealous of Daniel?
 
-Daniel was so trustworthy and excellent at his job that King Darius planned to set him over the whole kingdom — and the other officials couldn't stand it.
+Daniel was so trustworthy and excellent at his job that King Darius planned to set him over the whole kingdom, and the other officials couldn't stand it.
 
 ### What did Daniel do when he heard about the new law banning prayer?
 
-Daniel didn't hide, compromise, or run. He went home, opened his windows toward Jerusalem, and prayed on his knees three times a day — exactly as he always had.
+Daniel didn't hide, compromise, or run. He went home, opened his windows toward Jerusalem, and prayed on his knees three times a day, exactly as he always had.
 
 ### How did God protect Daniel in the lions' den?
 
-Daniel told King Darius, "My God sent His angel and shut the lions' mouths." Daniel wasn't hurt at all — not a single scratch.
+Daniel told King Darius, "My God sent His angel and shut the lions' mouths." Daniel wasn't hurt at all, not a single scratch.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ There is a free [Daniel in the lions' den coloring page](/printables/bible-color
 
 ### What is the story of Daniel in the Lions' Den about for kids?
 
-Daniel in the Lions' Den is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 6: DANIEL IN THE LIONS' DEN Based on Daniel 6 | Narrated by Jesus
+Daniel in the Lions' Den is a story from Daniel/Jonah/Isaiah. EXILE & FAITH, EPISODE 6: DANIEL IN THE LIONS' DEN Based on Daniel 6 | Narrated by Jesus
 
 ### What age is the story of Daniel in the Lions' Den appropriate for?
 

@@ -23,13 +23,13 @@ Joseph from Prison to Palace is a Bible story from Genesis 41-50 in the Old Test
 
 ## What Is the Story of Joseph from Prison to Palace for Kids?
 
-Welcome back for the grand finale of our Genesis series! Last time, we left Joseph sitting in an Egyptian prison — betrayed by his brothers, falsely accused, and forgotten. But God was about to do something nobody saw coming.
+Welcome back for the grand finale of our Genesis series! Last time, we left Joseph sitting in an Egyptian prison, betrayed by his brothers, falsely accused, and forgotten. But God was about to do something nobody saw coming.
 
-One night, Pharaoh — the most powerful person in the world — had two dreams that shook him to his core. In the first dream, seven fat, healthy cows came out of the Nile River. Then seven skinny, ugly cows came out and swallowed the fat ones whole. In the second dream, seven full heads of grain were swallowed up by seven thin, dried-out heads of grain.
+One night, Pharaoh, the most powerful person in the world, had two dreams that shook him to his core. In the first dream, seven fat, healthy cows came out of the Nile River. Then seven skinny, ugly cows came out and swallowed the fat ones whole. In the second dream, seven full heads of grain were swallowed up by seven thin, dried-out heads of grain.
 
 Pharaoh woke up in a panic. He called every wise man and magician in Egypt, but nobody could explain the dreams. Nobody.
 
-That's when the cupbearer — a man Joseph had helped in prison two full years earlier — finally remembered him. "Oh! There's this guy in prison who interpreted my dream perfectly..."
+That's when the cupbearer, a man Joseph had helped in prison two full years earlier, finally remembered him. "Oh! There's this guy in prison who interpreted my dream perfectly..."
 
 This story comes from Genesis 41-50 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of Joseph from Prison to Palace teaches children important lessons abo
 
 ## Key Bible Verse
 
-> *"You intended to harm me, but God intended it for good."* — Genesis 50:20
+> *"You intended to harm me, but God intended it for good."* (Genesis 50:20)
 
 If small hands need something to do while you read, the free [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) is made for exactly that.
 
@@ -61,11 +61,11 @@ God revealed through Joseph that Egypt would experience seven years of incredibl
 
 ### What position did Pharaoh give Joseph after hearing the interpretation?
 
-Pharaoh was so impressed with Joseph's wisdom and God-given insight that he made Joseph the second most powerful person in all of Egypt — going from prisoner to prime minister in a single day.
+Pharaoh was so impressed with Joseph's wisdom and God-given insight that he made Joseph the second most powerful person in all of Egypt, going from prisoner to prime minister in a single day.
 
 ### What did Joseph tell his brothers about what they had done to him?
 
-Instead of revenge, Joseph saw God's hand in everything — even the painful parts. He understood that God used the brothers' evil actions to put Joseph in a position to save many lives, including theirs.
+Instead of revenge, Joseph saw God's hand in everything, even the painful parts. He understood that God used the brothers' evil actions to put Joseph in a position to save many lives, including theirs.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Joseph from Prison to Palace about for kids?
 
-Joseph from Prison to Palace is a story from Genesis 41-50. Welcome back for the grand finale of our Genesis series! Last time, we left Joseph sitting in an Egyptian prison — betrayed by his brothers, falsely accused, and forgotten. But God was about to do ...
+Joseph from Prison to Palace is a story from Genesis 41-50. Welcome back for the grand finale of our Genesis series! Last time, we left Joseph sitting in an Egyptian prison, betrayed by his brothers, falsely accused, and forgotten. But God was about to do ...
 
 ### What age is the story of Joseph from Prison to Palace appropriate for?
 

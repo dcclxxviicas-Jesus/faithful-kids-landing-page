@@ -25,9 +25,9 @@ The Walls of Jericho is a Bible story from Joshua 5-6 in the Old Testament. This
 
 Alright, are you ready for one of the most EPIC moments in the entire Bible? Because this one is absolutely wild.
 
-Israel has crossed the Jordan River — and yes, God parted the waters AGAIN, just like He did at the Red Sea. The people walked across on dry ground. They're finally IN the Promised Land. But there's a problem. A big, massive, thick-walled problem.
+Israel has crossed the Jordan River, and yes, God parted the waters AGAIN, just like He did at the Red Sea. The people walked across on dry ground. They're finally IN the Promised Land. But there's a problem. A big, massive, thick-walled problem.
 
-This city was a fortress. We're talking enormous stone walls — some experts think they were several stories high and thick enough to build houses on top of. Soldiers everywhere. Gates locked tight. The people inside had heard what God did to Egypt, and they were terrified... but they were also heavily armed and NOT coming out.
+This city was a fortress. We're talking enormous stone walls, some experts think they were several stories high and thick enough to build houses on top of. Soldiers everywhere. Gates locked tight. The people inside had heard what God did to Egypt, and they were terrified... but they were also heavily armed and NOT coming out.
 
 So what's the battle plan? Battering rams? Siege towers? A massive army charge?
 
@@ -43,11 +43,11 @@ The story of The Walls of Jericho teaches children important lessons about coura
 
 ## Key Bible Verse
 
-> *"Be strong and courageous. Do not be afraid."* — Joshua 1:9
+> *"Be strong and courageous. Do not be afraid."* (Joshua 1:9)
 
-To picture the land itself, the free [printable map of Canaan](/printables/bible-maps/the-promised-land) shows the Promised Land as Joshua found it — walled cities, seven nations and the Jordan to cross.
+To picture the land itself, the free [printable map of Canaan](/printables/bible-maps/the-promised-land) shows the Promised Land as Joshua found it, walled cities, seven nations and the Jordan to cross.
 
-For her full story — and how a Canaanite woman ended up in the family line of Jesus — see [Who Was Rahab in the Bible?](/blog/who-was-rahab-for-kids)
+For her full story, and how a Canaanite woman ended up in the family line of Jesus, see [Who Was Rahab in the Bible?](/blog/who-was-rahab-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,15 +59,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What was God's unusual battle plan for conquering Jericho?
 
-God's plan was unlike any military strategy the world had ever seen! The Israelites marched silently around Jericho once a day for six days. On the seventh day, they marched around seven times, the priests blew their trumpets, the people shouted — and the walls came crashing down. God showed that victory comes through obedience, not human battle tactics.
+God's plan was unlike any military strategy the world had ever seen! The Israelites marched silently around Jericho once a day for six days. On the seventh day, they marched around seven times, the priests blew their trumpets, the people shouted, and the walls came crashing down. God showed that victory comes through obedience, not human battle tactics.
 
 ### What happened to Rahab and her family when Jericho fell?
 
-The spies kept their promise! When the walls of Jericho fell, the Israelites saw the scarlet (red) cord hanging from Rahab's window and rescued her and everyone in her house. Rahab's faith — and the promise made to her — was honored completely.
+The spies kept their promise! When the walls of Jericho fell, the Israelites saw the scarlet (red) cord hanging from Rahab's window and rescued her and everyone in her house. Rahab's faith, and the promise made to her, was honored completely.
 
 ### What is the key lesson from the battle of Jericho?
 
-From a human perspective, marching around a city and shouting makes zero sense as a battle plan. But Israel obeyed God anyway — and the impossible happened. The lesson is clear: when God asks you to do something and it doesn't make sense, trust Him and obey. He sees the full picture even when you can't.
+From a human perspective, marching around a city and shouting makes zero sense as a battle plan. But Israel obeyed God anyway, and the impossible happened. The lesson is clear: when God asks you to do something and it doesn't make sense, trust Him and obey. He sees the full picture even when you can't.
 
 
 ## Discussion Questions for Families

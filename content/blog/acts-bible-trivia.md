@@ -58,9 +58,9 @@ There is a free [Fruit of the Spirit word search](/printables/bible-word-search/
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
-For the full story of the church's first martyr — and the surprise link to Paul — see [Who Was Stephen in the Bible?](/blog/who-was-stephen-for-kids)
+For the full story of the church's first martyr, and the surprise link to Paul, see [Who Was Stephen in the Bible?](/blog/who-was-stephen-for-kids)
 
 ## Hard Acts Trivia Questions (Teens and Adults)
 

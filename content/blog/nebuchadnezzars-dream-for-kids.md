@@ -25,13 +25,13 @@ Nebuchadnezzar's Dream is a Bible story from Daniel/Jonah/Isaiah in the Old Test
 
 ## What Is the Story of Nebuchadnezzar's Dream for Kids?
 
-EXILE & FAITH — EPISODE 3: NEBUCHADNEZZAR'S DREAM Based on Daniel 2 | Narrated by Jesus
+EXILE & FAITH; EPISODE 3: NEBUCHADNEZZAR'S DREAM Based on Daniel 2 | Narrated by Jesus
 
-Okay — buckle up. This story has a death threat, an impossible challenge, an all-night prayer session, and a prophecy that stretches across CENTURIES. Let's go.
+Okay, buckle up. This story has a death threat, an impossible challenge, an all-night prayer session, and a prophecy that stretches across CENTURIES. Let's go.
 
-King Nebuchadnezzar wakes up in a cold sweat. He's had a dream so vivid, so terrifying, that he can't shake it. So he calls in all his wise men — the magicians, sorcerers, astrologers — and says, "Tell me what I dreamed AND what it means."
+King Nebuchadnezzar wakes up in a cold sweat. He's had a dream so vivid, so terrifying, that he can't shake it. So he calls in all his wise men, the magicians, sorcerers, astrologers, and says, "Tell me what I dreamed AND what it means."
 
-They say, "Sure, King — just tell us the dream and we'll interpret it."
+They say, "Sure, King, just tell us the dream and we'll interpret it."
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Nebuchadnezzar's Dream teaches children important lessons about cou
 
 ## Key Bible Verse
 
-> *"No wise man can explain this mystery, but there is a God in heaven who reveals mysteries."* — Daniel 2:27-28
+> *"No wise man can explain this mystery, but there is a God in heaven who reveals mysteries."* (Daniel 2:27-28)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did King Nebuchadnezzar demand from his wise men?
 
-**That they tell him what he dreamed AND what it meant.** Nebuchadnezzar didn't just want an interpretation. He demanded that the wise men tell him the dream itself AND its meaning — an impossible task without God's help.
+**That they tell him what he dreamed AND what it meant.** Nebuchadnezzar didn't just want an interpretation. He demanded that the wise men tell him the dream itself AND its meaning, an impossible task without God's help.
 
 ### What did Daniel do when he heard about the king's death threat?
 
@@ -69,11 +69,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What did the rock "not cut by human hands" represent?
 
-**God's eternal kingdom that would never be destroyed.** The rock represented God's eternal kingdom — the one kingdom that would smash all others and last forever.
+**God's eternal kingdom that would never be destroyed.** The rock represented God's eternal kingdom, the one kingdom that would smash all others and last forever.
 
 ### What is the main lesson of this episode?
 
-**Human empires rise and fall, but God's kingdom lasts forever — when you feel small, remember you're part of the thing that outlasts everything.** Every empire in human history rises and falls. But God's kingdom is the rock that can never be shattered. When you feel small or overwhelmed, remember you belong to something eternal.
+**Human empires rise and fall, but God's kingdom lasts forever, when you feel small, remember you're part of the thing that outlasts everything.** Every empire in human history rises and falls. But God's kingdom is the rock that can never be shattered. When you feel small or overwhelmed, remember you belong to something eternal.
 
 ## Discussion Questions for Families
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Nebuchadnezzar's Dream about for kids?
 
-Nebuchadnezzar's Dream is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 3: NEBUCHADNEZZAR'S DREAM Based on Daniel 2 | Narrated by Jesus
+Nebuchadnezzar's Dream is a story from Daniel/Jonah/Isaiah. EXILE & FAITH, EPISODE 3: NEBUCHADNEZZAR'S DREAM Based on Daniel 2 | Narrated by Jesus
 
 ### What age is the story of Nebuchadnezzar's Dream appropriate for?
 

@@ -127,7 +127,7 @@ Answer: **Elijah** (1 Kings 17:4-6)
 **32. Who was Moses' brother, who spoke for him before Pharaoh?**
 Answer: **Aaron** (Exodus 4:14-16)
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
 The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
 

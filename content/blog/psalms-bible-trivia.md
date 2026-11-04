@@ -60,9 +60,9 @@ The book is organized into five smaller "books," each one ending with a burst of
 27. Psalms 120-134 share a special title. What are they called? **The Songs of Ascents** -- fifteen pilgrim songs sung on the way up to Jerusalem
 28. Which wise king wrote Psalm 127 -- "Unless the LORD builds the house"? **Solomon** (Psalm 127, superscription)
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
 ## Hard Psalms Trivia Questions (Teens and Adults)
 

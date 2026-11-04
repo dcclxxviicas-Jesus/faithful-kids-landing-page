@@ -23,11 +23,11 @@ Jairus' Daughter is a Bible story from Matthew/Mark/Luke/John in the New Testame
 
 ## What Is the Story of Jairus' Daughter for Kids?
 
-MIRACLES OF JESUS — Episode 8: Jairus's Daughter Based on Mark 5:21-43
+MIRACLES OF JESUS, Episode 8: Jairus's Daughter Based on Mark 5:21-43
 
-Hey kids! Today I'm going to tell you about a day that had TWO miracles in one — and a moment that taught everyone around me that it is NEVER too late when I'm involved.
+Hey kids! Today I'm going to tell you about a day that had TWO miracles in one, and a moment that taught everyone around me that it is NEVER too late when I'm involved.
 
-A man named Jairus pushed through a massive crowd to get to me. And this wasn't just anybody — Jairus was a synagogue leader. Important. Respected. The kind of guy who usually doesn't get on his knees in public. But that day? He fell RIGHT at my feet, begging.
+A man named Jairus pushed through a massive crowd to get to me. And this wasn't just anybody, Jairus was a synagogue leader. Important. Respected. The kind of guy who usually doesn't get on his knees in public. But that day? He fell RIGHT at my feet, begging.
 
 "My little daughter is dying. PLEASE come and put your hands on her so she will be healed and live."
 
@@ -43,7 +43,7 @@ The story of Jairus' Daughter teaches children important lessons about faith, Go
 
 ## Key Bible Verse
 
-> *"Don't be afraid; just believe."* — Mark 5:36
+> *"Don't be afraid; just believe."* (Mark 5:36)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -109,7 +109,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Jairus' Daughter about for kids?
 
-Jairus' Daughter is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 8: Jairus's Daughter Based on Mark 5:21-43
+Jairus' Daughter is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS: Episode 8: Jairus's Daughter Based on Mark 5:21-43
 
 ### What age is the story of Jairus' Daughter appropriate for?
 

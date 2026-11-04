@@ -60,7 +60,7 @@ Esther made her decision. She asked Mordecai to gather all the Jews in the city 
 
 **Key lesson for kids:** Courage isn't the absence of fear. Esther was scared. She knew she could die. But she went anyway because her people needed her. God may put you in a situation where you're the one who can make a difference. When that happens, choose courage, even if you're afraid.
 
-She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids), the whole list, with a story and a verse for each.
 
 ## Esther's Brave Plan (Esther 5-7)
 

@@ -25,13 +25,13 @@ Dancing Before the Lord is a Bible story from 2 Samuel/Psalms in the Old Testame
 
 ## What Is the Story of Dancing Before the Lord for Kids?
 
-KING DAVID'S REIGN — EPISODE 1: DANCING BEFORE THE LORD Based on 2 Samuel 6 | Narrated by Jesus
+KING DAVID'S REIGN; EPISODE 1: DANCING BEFORE THE LORD Based on 2 Samuel 6 | Narrated by Jesus
 
-Hey there, friends! Today I want to tell you about one of the wildest, most joyful moments in King David's life — the day he danced before the Lord with everything he had.
+Hey there, friends! Today I want to tell you about one of the wildest, most joyful moments in King David's life, the day he danced before the Lord with everything he had.
 
-So picture this: David is finally king over all of Israel. And there is one thing burning in his heart — he wants to bring the Ark of the Covenant to Jerusalem. The Ark was the most sacred object in all of Israel. It represented the very presence of God. And David wanted God's presence right in the center of his capital city.
+So picture this: David is finally king over all of Israel. And there is one thing burning in his heart, he wants to bring the Ark of the Covenant to Jerusalem. The Ark was the most sacred object in all of Israel. It represented the very presence of God. And David wanted God's presence right in the center of his capital city.
 
-So David gathers thirty thousand men, and they load the Ark onto a brand-new cart pulled by oxen. Music is blasting — harps, lyres, tambourines, cymbals — it is a full-on celebration! But then something terrible happens. The oxen stumble. A man named Uzzah reaches out and grabs the Ark to steady it. And instantly — he dies.
+So David gathers thirty thousand men, and they load the Ark onto a brand-new cart pulled by oxen. Music is blasting, harps, lyres, tambourines, cymbals, it is a full-on celebration! But then something terrible happens. The oxen stumble. A man named Uzzah reaches out and grabs the Ark to steady it. And instantly, he dies.
 
 This story comes from 2 Samuel/Psalms and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Dancing Before the Lord teaches children important lessons about wo
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 A related freebie: our [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger), drawn as clean line art for crayons and markers.
 
@@ -120,7 +120,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Dancing Before the Lord about for kids?
 
-Dancing Before the Lord is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 1: DANCING BEFORE THE LORD Based on 2 Samuel 6 | Narrated by Jesus
+Dancing Before the Lord is a story from 2 Samuel/Psalms. KING DAVID'S REIGN, EPISODE 1: DANCING BEFORE THE LORD Based on 2 Samuel 6 | Narrated by Jesus
 
 ### What age is the story of Dancing Before the Lord appropriate for?
 

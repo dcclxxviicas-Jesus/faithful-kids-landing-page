@@ -54,13 +54,13 @@ The storyline moves in two halves. Chapters 1-11 cover the big universal events:
 29. What did young Joseph dream that made his brothers so angry? **Their sheaves of grain -- and later the sun, moon, and eleven stars -- bowed down to him** (Genesis 37:5-9)
 30. Who bought Joseph as a slave in Egypt? **Potiphar, the captain of Pharaoh's guard** (Genesis 39:1)
 
-Pair this with our free [Creation coloring page](/printables/bible-coloring-pages/creation) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [Creation coloring page](/printables/bible-coloring-pages/creation), one sheet, ready for the kitchen table or the classroom.
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
-For the whole life — the stolen blessing, the stairway dream, and the night he wrestled God — see [Who Was Jacob in the Bible?](/blog/who-was-jacob-for-kids)
+For the whole life, the stolen blessing, the stairway dream, and the night he wrestled God, see [Who Was Jacob in the Bible?](/blog/who-was-jacob-for-kids)
 
 ## Hard Genesis Trivia Questions (Teens and Adults)
 

@@ -2,7 +2,7 @@
 title: "Books of the Bible Printable Guide for Kids (All 66 Books)"
 slug: "books-of-the-bible-printable"
 type: "listicle"
-metaTitle: "Books of the Bible in Order — Free Printable Chart & List"
+metaTitle: "Books of the Bible in Order, Free Printable Chart & List"
 metaDescription: "A printable-ready list of all 66 books of the Bible with kid-friendly descriptions, plus wall charts, bookmarks, songs, and games to help kids memorize them."
 keywords: ["books of the bible in order", "books of the bible printable", "books of the bible list", "66 books of the bible", "books of the bible chart", "books of the bible flashcards", "books of the bible bookmark", "memorize books of the bible"]
 datePublished: "2026-08-16"
@@ -178,7 +178,7 @@ Three rules make chunking stick:
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
-To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart, honest about dates, from Creation to the early church.
 
 ## Do Songs Really Help Kids Learn the Books of the Bible?
 
@@ -216,7 +216,7 @@ Ages 6-7 is the sweet spot to start, though preschoolers can learn sections thro
 
 Don't rush a reluctant 5-year-old, and don't assume a motivated 6-year-old can't do it -- some first graders learn the whole list in a month because a sibling is doing it.
 
-For something to hand over right now, there are 16 [printable Bible coloring pages](/printables/bible-coloring-pages) on our site — free, no sign-up.
+For something to hand over right now, there are 16 [printable Bible coloring pages](/printables/bible-coloring-pages) on our site, free, no sign-up.
 
 For older children who find coloring dull, a [Bible word search](/printables/bible-word-search) holds attention longer.
 

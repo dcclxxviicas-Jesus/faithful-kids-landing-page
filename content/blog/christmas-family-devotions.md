@@ -100,11 +100,11 @@ Keep it short, keep it at the same time each night, and let kids do some of the 
 
 **Prayer:** Glory to You, God, in the highest! Thank You for sending peace to earth. Help our family's December be full of singing, not just stress. Amen.
 
-Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season: no email wall, no sign-up.
 
-Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar) — 25 short readings from the first promise to the manger, one a night.
+Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar): 25 short readings from the first promise to the manger, one a night.
 
-Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+Everything we have for the season: Advent devotions, the nativity story, trivia, printables, is gathered on the [Christmas Bible hub](/holidays/christmas).
 
 The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
 

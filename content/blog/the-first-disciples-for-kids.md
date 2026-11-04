@@ -25,13 +25,13 @@ The First Disciples is a Bible story from Matthew/Mark/Luke/John in the New Test
 
 ## What Is the Story of The First Disciples for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 2 "The First Disciples" Based on John 1:35-51
+JESUS BEGINS HIS MINISTRY, EPISODE 2 "The First Disciples" Based on John 1:35-51
 
 If you were starting a world-changing mission, who would you pick for your team? The smartest people? The richest? The most powerful? I didn't pick ANY of those. Let me tell you how I built my crew.
 
-It started by the Jordan River. John the Baptist — my cousin, the wild man who wore camel hair and ate locusts — he saw me walking by and shouted to his own followers: "LOOK! The Lamb of God!" Two of John's disciples heard that, and they started following me. Just like that. They left John and came after me.
+It started by the Jordan River. John the Baptist, my cousin, the wild man who wore camel hair and ate locusts, he saw me walking by and shouted to his own followers: "LOOK! The Lamb of God!" Two of John's disciples heard that, and they started following me. Just like that. They left John and came after me.
 
-I turned around and asked them, "What do you want?" They said, "Rabbi, where are you staying?" And I said, "Come and see." That's it. No application form. No interview. Just — come and see. They spent the whole day with me, and their lives were never the same.
+I turned around and asked them, "What do you want?" They said, "Rabbi, where are you staying?" And I said, "Come and see." That's it. No application form. No interview. Just, come and see. They spent the whole day with me, and their lives were never the same.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The First Disciples teaches children important lessons about callin
 
 ## Key Bible Verse
 
-> *"Come, follow me, and I will send you out to fish for people."* — Matthew 4:19
+> *"Come, follow me, and I will send you out to fish for people."* (Matthew 4:19)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -73,7 +73,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What convinced Nathanael that Jesus was the Son of God?
 
-**Jesus knew about him before they met — He saw him under the fig tree.**
+**Jesus knew about him before they met. He saw him under the fig tree.**
 
 ## Discussion Questions for Families
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The First Disciples about for kids?
 
-The First Disciples is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 2 "The First Disciples" Based on John 1:35-51
+The First Disciples is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY, EPISODE 2 "The First Disciples" Based on John 1:35-51
 
 ### What age is the story of The First Disciples appropriate for?
 

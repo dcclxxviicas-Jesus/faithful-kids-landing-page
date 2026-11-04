@@ -331,7 +331,7 @@
 }
 .qz-w-shelf { display: grid; grid-template-columns: 1fr 1fr; gap: 11px; }
 .qz-w-poster {
-  width: 100%; height: auto; aspect-ratio: 16 / 9;   /* reserves space — no CLS */
+  width: 100%; height: auto; aspect-ratio: 16 / 9;   /* reserves space, no CLS */
   object-fit: cover; border-radius: 16px; display: block;
   background: #e8eaed;
 }

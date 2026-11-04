@@ -222,7 +222,7 @@ export default async function BlogPostPage({ params }: Props) {
         // detected videos and zero indexed; the join below plus this flag is
         // the schema-side cure for "video isn't the main content".
         mainEntityOfPage: `https://faithfulkids.app/blog/${post.slug}`,
-        name: `${post.title} — Bible Story Video`,
+        name: `${post.title}, Bible Story Video`,
         description: post.metaDescription,
         thumbnailUrl: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`,
         uploadDate: post.datePublished,
@@ -439,7 +439,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
         {isStory && (
           <p className="story-hub-link">
             This retelling is one of our{' '}
-            <a href="/bible-stories-for-kids">200 Bible stories for kids</a> — the whole
+            <a href="/bible-stories-for-kids">200 Bible stories for kids</a> the whole
             Bible, free, from Genesis to Revelation.
           </p>
         )}
@@ -538,7 +538,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             posterSrc={guideVideo.posterSrc}
             videoTitle={guideVideo.videoTitle}
             heading={`Watch ${guideVideo.videoTitle} Come Alive`}
-            body={`${guideVideo.videoTitle} is one of 300+ short narrated video lessons your child will love. Watch the whole episode right here — in the app, every lesson ends with a fun quiz to check what they learned.`}
+            body={`${guideVideo.videoTitle} is one of 300+ short narrated video lessons your child will love. Watch the whole episode right here, in the app, every lesson ends with a fun quiz to check what they learned.`}
             source="guide-mid-cta"
           />
         )}
@@ -548,7 +548,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             posterSrc={samplerVideo.posterSrc}
             videoTitle={samplerVideo.videoTitle}
             heading="Watch a Real Lesson From the App"
-            body={`Press play on ${samplerVideo.videoTitle} — a complete lesson exactly as your child sees it. 300+ episodes cover the whole Bible in order, each ending in a fun quiz to check what they learned.`}
+            body={`Press play on ${samplerVideo.videoTitle}, a complete lesson exactly as your child sees it. 300+ episodes cover the whole Bible in order, each ending in a fun quiz to check what they learned.`}
             source="guide-mid-cta-sampler"
           />
         )}
@@ -667,7 +667,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
           <h2>Start Your Child's Bible Journey</h2>
           <p>
             300+ narrated video lessons. Comprehension quizzes after every story.
-            From Genesis to Revelation — safe, ad-free, and made for kids.
+            From Genesis to Revelation, safe, ad-free, and made for kids.
           </p>
           <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
             Get started

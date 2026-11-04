@@ -23,9 +23,9 @@ Rahab and the Spies is a Bible story from Joshua 2 in the Old Testament. This re
 
 ## What Is the Story of Rahab and the Spies for Kids?
 
-Okay, friend — this story has everything. Secret missions, a daring escape, soldiers banging on doors, and a hero you would NEVER expect. Buckle up.
+Okay, friend, this story has everything. Secret missions, a daring escape, soldiers banging on doors, and a hero you would NEVER expect. Buckle up.
 
-Joshua needs intel on the city of Jericho before Israel attacks, so he sends two spies to sneak in and scope it out. They slip into the city and end up at the house of a woman named Rahab. Now here's the thing — Rahab is NOT an Israelite. She's a Canaanite. She lives in Jericho. She's the LAST person you'd expect to be part of God's story. But guess what? God loves using unexpected people.
+Joshua needs intel on the city of Jericho before Israel attacks, so he sends two spies to sneak in and scope it out. They slip into the city and end up at the house of a woman named Rahab. Now here's the thing, Rahab is NOT an Israelite. She's a Canaanite. She lives in Jericho. She's the LAST person you'd expect to be part of God's story. But guess what? God loves using unexpected people.
 
 The king of Jericho finds out there are Israelite spies in his city. Soldiers show up at Rahab's door. "Hand them over!" they demand. But Rahab? She's already hidden the spies on her roof under stalks of flax. She tells the soldiers, "Oh yeah, those guys? They left already. If you hurry, you can probably catch them!" The soldiers take off running in the wrong direction. Brilliant.
 
@@ -43,11 +43,11 @@ The story of Rahab and the Spies teaches children important lessons about courag
 
 ## Key Bible Verse
 
-> *"If the Lord is pleased with us, he will lead us into that land."* — Numbers 14:8
+> *"If the Lord is pleased with us, he will lead us into that land."* (Numbers 14:8)
 
-To picture the land itself, the free [printable map of Canaan](/printables/bible-maps/the-promised-land) shows the Promised Land as Joshua found it — walled cities, seven nations and the Jordan to cross.
+To picture the land itself, the free [printable map of Canaan](/printables/bible-maps/the-promised-land) shows the Promised Land as Joshua found it, walled cities, seven nations and the Jordan to cross.
 
-For her full story — and how a Canaanite woman ended up in the family line of Jesus — see [Who Was Rahab in the Bible?](/blog/who-was-rahab-for-kids)
+For her full story, and how a Canaanite woman ended up in the family line of Jesus, see [Who Was Rahab in the Bible?](/blog/who-was-rahab-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,15 +59,15 @@ After watching the video, see if your child can answer these questions:
 
 ### Where did Rahab hide the two Israelite spies?
 
-Rahab hid the spies on her rooftop and covered them with stalks of flax — a plant that was often dried on flat rooftops in that time period. When the king's soldiers came looking, she sent them off in the wrong direction. Pretty clever!
+Rahab hid the spies on her rooftop and covered them with stalks of flax, a plant that was often dried on flat rooftops in that time period. When the king's soldiers came looking, she sent them off in the wrong direction. Pretty clever!
 
 ### What did the spies tell Rahab to hang from her window as a sign of protection?
 
-The spies told Rahab to hang a bright red rope — a scarlet cord — from her window. This was the sign that would protect everyone inside her house when Israel attacked. It echoes the blood on the doorposts during Passover — both are signs of God's rescue through faith.
+The spies told Rahab to hang a bright red rope, a scarlet cord, from her window. This was the sign that would protect everyone inside her house when Israel attacked. It echoes the blood on the doorposts during Passover, both are signs of God's rescue through faith.
 
 ### What is the main lesson from Rahab's story?
 
-Rahab was an outsider — a Canaanite woman with a rough past. But she believed in God, and that faith changed everything. Her story proves that God doesn't look at your background or your mistakes. He looks at your heart. His invitation to be saved is open to absolutely everyone.
+Rahab was an outsider, a Canaanite woman with a rough past. But she believed in God, and that faith changed everything. Her story proves that God doesn't look at your background or your mistakes. He looks at your heart. His invitation to be saved is open to absolutely everyone.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Rahab and the Spies about for kids?
 
-Rahab and the Spies is a story from Joshua 2. Okay, friend — this story has everything. Secret missions, a daring escape, soldiers banging on doors, and a hero you would NEVER expect. Buckle up.
+Rahab and the Spies is a story from Joshua 2. Okay, friend, this story has everything. Secret missions, a daring escape, soldiers banging on doors, and a hero you would NEVER expect. Buckle up.
 
 ### What age is the story of Rahab and the Spies appropriate for?
 

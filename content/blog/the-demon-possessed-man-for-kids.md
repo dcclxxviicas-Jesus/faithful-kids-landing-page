@@ -23,11 +23,11 @@ The Demon Possessed Man is a Bible story from Matthew/Mark/Luke/John in the New 
 
 ## What Is the Story of The Demon Possessed Man for Kids?
 
-MIRACLES OF JESUS — Episode 7: The Demon-Possessed Man Based on Mark 5:1-20
+MIRACLES OF JESUS, Episode 7: The Demon-Possessed Man Based on Mark 5:1-20
 
 Hey kids! Buckle up, because today's story is INTENSE. It's wild, it's dramatic, and it shows you something really important about who I am and what I can do.
 
-My disciples and I had just crossed the Sea of Galilee. We stepped out of the boat in a region called the Gerasenes, and IMMEDIATELY — I'm talking the second our feet hit the shore — a man came running at us from the tombs.
+My disciples and I had just crossed the Sea of Galilee. We stepped out of the boat in a region called the Gerasenes, and IMMEDIATELY, I'm talking the second our feet hit the shore, a man came running at us from the tombs.
 
 Not a house. The TOMBS. This man lived among the dead.
 
@@ -43,7 +43,7 @@ The story of The Demon Possessed Man teaches children important lessons about fa
 
 ## Key Bible Verse
 
-> *"Go home to your own people and tell them how much the Lord has done for you."* — Mark 5:19
+> *"Go home to your own people and tell them how much the Lord has done for you."* (Mark 5:19)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,11 +55,11 @@ After watching the video, see if your child can answer these questions:
 
 ### Where did the demon-possessed man live?
 
-The man lived among the tombs — the burial places for the dead. He was completely isolated from normal life.
+The man lived among the tombs, the burial places for the dead. He was completely isolated from normal life.
 
 ### What name did the demons give when Jesus asked?
 
-The demons answered, "My name is Legion — for we are many." A Roman legion was thousands of soldiers, telling us there were thousands of demons.
+The demons answered, "My name is Legion, for we are many." A Roman legion was thousands of soldiers, telling us there were thousands of demons.
 
 ### What did the demons beg Jesus to let them enter?
 
@@ -109,7 +109,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Demon Possessed Man about for kids?
 
-The Demon Possessed Man is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 7: The Demon-Possessed Man Based on Mark 5:1-20
+The Demon Possessed Man is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS, Episode 7: The Demon-Possessed Man Based on Mark 5:1-20
 
 ### What age is the story of The Demon Possessed Man appropriate for?
 

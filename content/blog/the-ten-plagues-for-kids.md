@@ -43,9 +43,9 @@ The story of The Ten Plagues teaches children important lessons about freedom, c
 
 ## Key Bible Verse
 
-> *"Let my people go, so that they may worship me."* — Exodus 8:1
+> *"Let my people go, so that they may worship me."* (Exodus 8:1)
 
-We drew a printable [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 A map makes this story concrete: the free [map of the Exodus](/printables/bible-maps/the-exodus) shows Egypt, the Red Sea, Mount Sinai and the wilderness road on one printable sheet.
 

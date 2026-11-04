@@ -25,13 +25,13 @@ Cleansing the Temple is a Bible story from Matthew/Mark/Luke/John in the New Tes
 
 ## What Is the Story of Cleansing the Temple for Kids?
 
-THE ROAD TO THE CROSS — Episode 2: Cleansing the Temple Based on Matthew 21:12-17 and John 2:13-22 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS, Episode 2: Cleansing the Temple Based on Matthew 21:12-17 and John 2:13-22 Series: The Road to the Cross | Target audience: Ages 7-15
 
 You probably think of me as gentle. And I am. But today I need to tell you about the angriest I ever got in public.
 
-The day after I rode into Jerusalem on that donkey, I walked into the temple — my Father's house. The place that was supposed to be the most sacred spot on earth. A place where anyone — rich or poor, Jew or foreigner — could come and meet with God.
+The day after I rode into Jerusalem on that donkey, I walked into the temple, my Father's house. The place that was supposed to be the most sacred spot on earth. A place where anyone, rich or poor, Jew or foreigner, could come and meet with God.
 
-A marketplace. No — worse than a marketplace. A scam.
+A marketplace. No, worse than a marketplace. A scam.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,11 +45,11 @@ The story of Cleansing the Temple teaches children important lessons about sacri
 
 ## Key Bible Verse
 
-> *"My house shall be called a house of prayer."* — Isaiah 56:7
+> *"My house shall be called a house of prayer."* (Isaiah 56:7)
 
 There is a free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) on our site too, printable on one sheet with no sign-up.
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -118,7 +118,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Cleansing the Temple about for kids?
 
-Cleansing the Temple is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 2: Cleansing the Temple Based on Matthew 21:12-17 and John 2:13-22 Series: The Road to the Cross | Target audience: Ages 7-15
+Cleansing the Temple is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS, Episode 2: Cleansing the Temple Based on Matthew 21:12-17 and John 2:13-22 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of Cleansing the Temple appropriate for?
 

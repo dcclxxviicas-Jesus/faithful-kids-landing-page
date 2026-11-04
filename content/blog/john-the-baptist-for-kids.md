@@ -23,13 +23,13 @@ John the Baptist is a Bible story from Matthew 3:1-12, Luke 3:1-18 in the New Te
 
 ## What Is the Story of John the Baptist for Kids?
 
-Alright, buckle up — we're fast-forwarding about eighteen years. Last time you saw me, I was twelve. Now I've grown up, and something wild is happening in the wilderness.
+Alright, buckle up; we're fast-forwarding about eighteen years. Last time you saw me, I was twelve. Now I've grown up, and something wild is happening in the wilderness.
 
-A man appeared out of NOWHERE. He'd been living in the desert. His name was John — but everyone called him John the Baptist. And this guy was unforgettable.
+A man appeared out of NOWHERE. He'd been living in the desert. His name was John; but everyone called him John the Baptist. And this guy was unforgettable.
 
-Picture it: clothes made of rough camel hair. A leather belt. Long, untamed hair. His food? Locusts and wild honey. Yeah — bugs dipped in honey. This was NOT a guy who cared about fitting in.
+Picture it: clothes made of rough camel hair. A leather belt. Long, untamed hair. His food? Locusts and wild honey. Yeah, bugs dipped in honey. This was NOT a guy who cared about fitting in.
 
-But when John opened his mouth — people LISTENED.
+But when John opened his mouth, people LISTENED.
 
 This story comes from Matthew 3:1-12, Luke 3:1-18 and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of John the Baptist teaches children important lessons about hope, fai
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What was John the Baptist's main message to the people?
 
-John's urgent message was "Repent!" — calling people to turn away from their sins and prepare their hearts because God's Kingdom was about to arrive through Jesus.
+John's urgent message was "Repent!" calling people to turn away from their sins and prepare their hearts because God's Kingdom was about to arrive through Jesus.
 
 ### What did John call the Pharisees and Sadducees when they came to see him?
 
-John boldly called the religious leaders a "brood of vipers" — a bunch of snakes — because they looked religious on the outside but hadn't truly changed their hearts.
+John boldly called the religious leaders a "brood of vipers", a bunch of snakes, because they looked religious on the outside but hadn't truly changed their hearts.
 
 ### What did John say about the one coming after him?
 
-John made it clear that Jesus was infinitely greater than him. While John baptized with water, Jesus would baptize with the Holy Spirit and fire — something only God could do.
+John made it clear that Jesus was infinitely greater than him. While John baptized with water, Jesus would baptize with the Holy Spirit and fire, something only God could do.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of John the Baptist about for kids?
 
-John the Baptist is a story from Matthew 3:1-12, Luke 3:1-18. Alright, buckle up — we're fast-forwarding about eighteen years. Last time you saw me, I was twelve. Now I've grown up, and something wild is happening in the wilderness.
+John the Baptist is a story from Matthew 3:1-12, Luke 3:1-18. Alright, buckle up, we're fast-forwarding about eighteen years. Last time you saw me, I was twelve. Now I've grown up, and something wild is happening in the wilderness.
 
 ### What age is the story of John the Baptist appropriate for?
 

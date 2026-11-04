@@ -54,13 +54,13 @@ Kids' worship and Scripture songs with bright, simple animation -- a good modern
 Yancy makes high-energy worship music for kids -- her "Little Praise Party" songs for preschoolers and elementary worship sets are used in kids' ministries across the country. Best for getting wiggles out with a purpose. Ages 2-9.
 
 ### 14. [Little Voices for God](https://www.youtube.com/@LittleVoicesforGod)
-A small Ottawa-based channel of gentle worship and prayer songs for young children, with the lyrics on screen so little ones can sing along. Songs are short, scripture-tagged (Psalm 4:8 for bedtime, Philippians 4:6 for worry), and deliberately calm — closer to a lullaby than a praise party. The library is still small, but what's there is lovely, and it's growing. Their site pairs songs with [the full lyrics and the Scripture behind them](https://lightinthewaiting.com/songs/god-hears-my-little-voice/), which helps if you want to talk the words through afterwards. Ages 2-8.
+A small Ottawa-based channel of gentle worship and prayer songs for young children, with the lyrics on screen so little ones can sing along. Songs are short, scripture-tagged (Psalm 4:8 for bedtime, Philippians 4:6 for worry), and deliberately calm; closer to a lullaby than a praise party. The library is still small, but what's there is lovely, and it's growing. Their site pairs songs with [the full lyrics and the Scripture behind them](https://lightinthewaiting.com/songs/god-hears-my-little-voice/), which helps if you want to talk the words through afterwards. Ages 2-8.
 
 ### 15. [BibleProject](https://www.youtube.com/@bibleproject)
 Not a kids channel, but the best Bible-explainer channel on YouTube for ages 10 and up: gorgeous whiteboard-style animations unpacking books of the Bible, biblical themes, and words like *shalom* and *covenant*. Watch together -- parents consistently learn as much as tweens do. Ages 10+.
 
-### 16. Faithful Kids (not a YouTube channel — for when the video should end)
-Our own app, listed here honestly because parents ask: it's what the families on this list's channels often graduate to. 300+ short Bible story videos in order from Genesis to Revelation, each followed by a quiz — and when the video ends, nothing autoplays next. There's a [free YouTube channel](https://www.youtube.com/@faithfulkidsapp) with lesson samples, and the app itself is subscription-based with a free trial. Ages 5-15.
+### 16. Faithful Kids (not a YouTube channel, for when the video should end)
+Our own app, listed here honestly because parents ask: it's what the families on this list's channels often graduate to. 300+ short Bible story videos in order from Genesis to Revelation, each followed by a quiz, and when the video ends, nothing autoplays next. There's a [free YouTube channel](https://www.youtube.com/@faithfulkidsapp) with lesson samples, and the app itself is subscription-based with a free trial. Ages 5-15.
 
 ## What Age Fits Which Channel?
 

@@ -23,13 +23,13 @@ The Sower and the Seeds is a Bible story from Matthew/Luke in the New Testament.
 
 ## What Is the Story of The Sower and the Seeds for Kids?
 
-THE TEACHINGS OF JESUS — Episode 6 "The Sower and the Seeds" Based on Matthew 13:1-23
+THE TEACHINGS OF JESUS, Episode 6 "The Sower and the Seeds" Based on Matthew 13:1-23
 
-Okay, picture this with me. I was sitting by the lake one day, and SO many people showed up that I had to climb into a boat and push out from shore just so everyone could see me. Thousands of people lined the beach. And I told them a story that sounded simple — but had a secret buried inside it.
+Okay, picture this with me. I was sitting by the lake one day, and SO many people showed up that I had to climb into a boat and push out from shore just so everyone could see me. Thousands of people lined the beach. And I told them a story that sounded simple, but had a secret buried inside it.
 
-A farmer went out to scatter seed. Now back then, farmers didn't plant one seed at a time — they grabbed big handfuls and THREW them across the field. And that seed landed in four very different places.
+A farmer went out to scatter seed. Now back then, farmers didn't plant one seed at a time; they grabbed big handfuls and THREW them across the field. And that seed landed in four very different places.
 
-Some fell on the hard path — the walkway where the ground was packed down like concrete. The seeds just sat on top. And within seconds — SWOOSH — birds flew down and gobbled them up. Gone. Just like that.
+Some fell on the hard path, the walkway where the ground was packed down like concrete. The seeds just sat on top. And within seconds, SWOOSH, birds flew down and gobbled them up. Gone. Just like that.
 
 This story comes from Matthew/Luke and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Sower and the Seeds teaches children important lessons about lo
 
 ## Key Bible Verse
 
-> *"The seed falling on good soil refers to someone who hears the word and understands it."* — Matthew 13:23
+> *"The seed falling on good soil refers to someone who hears the word and understands it."* (Matthew 13:23)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What happened to the seed that fell on the hard path?
 
-The seed on the hard path never even had a chance to sink in — the birds swooped down and gobbled it up immediately, just like when someone hears God's Word but the enemy snatches it away before it takes root.
+The seed on the hard path never even had a chance to sink in; the birds swooped down and gobbled it up immediately, just like when someone hears God's Word but the enemy snatches it away before it takes root.
 
 ### What does the "seed" represent in this parable?
 
-Jesus explained that the seed represents the Word of God — His message. The different soils represent the different ways people's hearts respond to that message.
+Jesus explained that the seed represents the Word of God, His message. The different soils represent the different ways people's hearts respond to that message.
 
 ### What made the good soil different from the other three?
 
-The good soil represents a heart that doesn't just hear God's message — it truly understands it and puts it into action. That's what produces an incredible harvest of thirty, sixty, or even a hundred times over.
+The good soil represents a heart that doesn't just hear God's message; it truly understands it and puts it into action. That's what produces an incredible harvest of thirty, sixty, or even a hundred times over.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Sower and the Seeds about for kids?
 
-The Sower and the Seeds is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 6 "The Sower and the Seeds" Based on Matthew 13:1-23
+The Sower and the Seeds is a story from Matthew/Luke. THE TEACHINGS OF JESUS, Episode 6 "The Sower and the Seeds" Based on Matthew 13:1-23
 
 ### What age is the story of The Sower and the Seeds appropriate for?
 

@@ -30,7 +30,7 @@ Psalm 136 repeats the phrase "His love endures forever" 26 times. David was not 
 
 **Talk about it:** "David wrote songs to thank God. What is one thing you could thank God for right now?"
 
-Pair a story with the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving) — gratitude vocabulary from Psalm 100, printable on one sheet.
+Pair a story with the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving), gratitude vocabulary from Psalm 100, printable on one sheet.
 
 ## 3. Hannah's Prayer of Thanks (1 Samuel 2:1-10)
 
@@ -40,7 +40,7 @@ What makes [Hannah's prayer](/blog/hannahs-prayer-for-kids) so remarkable is tha
 
 **Talk about it:** "Hannah thanked God by giving back her most precious gift. What is the most generous way you could say thank you to God?"
 
-We drew a printable [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 For the whole season's worth, our [Thanksgiving hub](/holidays/thanksgiving) gathers every gratitude verse list, devotion, and activity in one place.
 

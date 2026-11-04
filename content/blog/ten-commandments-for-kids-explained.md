@@ -44,7 +44,7 @@ Here is each commandment explained in kid-friendly language, with a modern examp
 
 Add five quiet minutes with the free [Moses word search](/printables/bible-word-search/moses); it prints one to a sheet with the key on the page.
 
-To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land — real geography, with the traditional stops labeled.
+To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land, real geography, with the traditional stops labeled.
 
 ## Commandment #4: Keep the Sabbath
 

@@ -14,11 +14,11 @@ Five-year-olds learn best through short, simple stories with clear characters, v
 
 ## What Makes a Bible Story Good for a 5-Year-Old?
 
-- **Short** — their attention span is 5-10 minutes max
-- **Visual** — animals, boats, bright imagery they can picture
-- **Simple moral** — one clear lesson, not a complex theological point
-- **Happy or hopeful ending** — avoid stories with heavy violence or death at this age
-- **Relatable characters** — kids, families, animals
+- **Short**: their attention span is 5-10 minutes max
+- **Visual**: animals, boats, bright imagery they can picture
+- **Simple moral**: one clear lesson, not a complex theological point
+- **Happy or hopeful ending**: avoid stories with heavy violence or death at this age
+- **Relatable characters**: kids, families, animals
 
 ---
 

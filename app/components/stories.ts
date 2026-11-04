@@ -39,7 +39,7 @@ export const STORIES: Story[] = [
     badge: 'Genesis',
     series: 'Genesis',
     age: 'Ages 5+',
-    blurb: 'Day by day, God speaks the world into being — light, sky, sea, creatures, and people.',
+    blurb: 'Day by day, God speaks the world into being: light, sky, sea, creatures, and people.',
   },
   {
     src: `${CDN}/bible/exodus-series/01-a-baby-in-a-basket/lesson-video.mp4`,

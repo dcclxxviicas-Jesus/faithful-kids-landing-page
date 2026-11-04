@@ -63,7 +63,7 @@ export const CATEGORIES: JeopardyCategory[] = [
   {
     name: 'Miracles',
     clues: [
-      pick('What did Jesus turn water into at a wedding — his very first miracle?', 100),
+      pick('What did Jesus turn water into at a wedding, his very first miracle?', 100),
       pick('How many loaves and fish did Jesus use to feed more than 5,000 people?', 200),
       pick('How did four friends get their paralyzed friend to Jesus in a packed house?', 300),
       pick('What amazing thing happened in the sky during the battle at Gibeon?', 400),

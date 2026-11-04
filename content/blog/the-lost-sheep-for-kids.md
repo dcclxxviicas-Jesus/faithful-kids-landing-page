@@ -23,11 +23,11 @@ The Lost Sheep is a Bible story from Matthew/Luke in the New Testament. This ret
 
 ## What Is the Story of The Lost Sheep for Kids?
 
-THE TEACHINGS OF JESUS — Episode 8 "The Lost Sheep" Based on Luke 15:1-7
+THE TEACHINGS OF JESUS, Episode 8 "The Lost Sheep" Based on Luke 15:1-7
 
 Alright, I need to set the scene for you because this one has some drama.
 
-So there I was, eating dinner with tax collectors and sinners — people that most religious folks wanted NOTHING to do with. And the Pharisees and teachers of the law? They were standing off to the side, whispering and grumbling. "This man welcomes sinners and actually EATS with them!" They said it like it was the worst thing in the world.
+So there I was, eating dinner with tax collectors and sinners, people that most religious folks wanted NOTHING to do with. And the Pharisees and teachers of the law? They were standing off to the side, whispering and grumbling. "This man welcomes sinners and actually EATS with them!" They said it like it was the worst thing in the world.
 
 And that is when I hit them with this story.
 
@@ -43,9 +43,9 @@ The story of The Lost Sheep teaches children important lessons about love, kindn
 
 ## Key Bible Verse
 
-> *"There will be more rejoicing in heaven over one sinner who repents."* — Luke 15:7
+> *"There will be more rejoicing in heaven over one sinner who repents."* (Luke 15:7)
 
-We drew a printable [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Why were the Pharisees grumbling about Jesus?
 
-The Pharisees were upset because Jesus was spending time with tax collectors and sinners — people they considered unworthy. They could not understand why a teacher would welcome people like that and even share a meal with them.
+The Pharisees were upset because Jesus was spending time with tax collectors and sinners, people they considered unworthy. They could not understand why a teacher would welcome people like that and even share a meal with them.
 
 ### In the parable, what does the shepherd do when he finds the lost sheep?
 
@@ -105,7 +105,7 @@ For quiet time afterwards, print the [lost sheep coloring page](/printables/bibl
 
 ### What is the story of The Lost Sheep about for kids?
 
-The Lost Sheep is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 8 "The Lost Sheep" Based on Luke 15:1-7
+The Lost Sheep is a story from Matthew/Luke. THE TEACHINGS OF JESUS, Episode 8 "The Lost Sheep" Based on Luke 15:1-7
 
 ### What age is the story of The Lost Sheep appropriate for?
 

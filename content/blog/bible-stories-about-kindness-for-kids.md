@@ -134,4 +134,4 @@ The boy who shared his lunch. It stars a child, involves food (preschoolers rela
 
 Ages 5-12. Younger kids (5-7) will connect with the shared lunch, the welcomed children, and the Good Samaritan. Older kids (8-12) are ready for the layered ones -- David honoring his enemy's grandson, and Jesus washing the feet of the man about to betray Him.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet, no sign-up.

@@ -184,13 +184,13 @@ For more craft-first material, our roundups of [Bible crafts for Sunday school](
 
 One more supplement worth knowing: the short animated video lessons at [Faithful Kids](https://faithfulkids.app/quiz) cover most of these same stories with a quiz after each one, which many volunteers use as the story segment on a week when prep did not happen.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
-To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart, honest about dates, from Creation to the early church.
 
-If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
-If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
 
 ## Print the Free Trivia Pack for Review Weeks
 
@@ -200,7 +200,7 @@ If you would rather let a screen keep score, play our [online Bible trivia game]
 
 We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
 
-Before the meeting, skim our [youth group games](/blog/youth-group-games) — every entry says what it needs and how long it takes to set up.
+Before the meeting, skim our [youth group games](/blog/youth-group-games), every entry says what it needs and how long it takes to set up.
 
 Zooming out from single lessons to whole programs: our verified roundup of [free Bible curriculum for kids ministry](/blog/free-bible-curriculum-for-kids-ministry) lists what's genuinely free, and what the paid options really cost.
 

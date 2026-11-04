@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: DESCRIPTION,
   alternates: { canonical: 'https://faithfulkids.app/beliefs' },
   openGraph: {
-    title: `${TITLE} — Faithful Kids`,
+    title: `${TITLE}, Faithful Kids.`,
     description: DESCRIPTION,
     url: 'https://faithfulkids.app/beliefs',
     siteName: 'Faithful Kids',
@@ -110,10 +110,10 @@ function BeliefsV2() {
         <div className="v2-wrap is-narrow v2-body">
           <h2 className="be-h2">Why this is creedal rather than denominational</h2>
           <p>
-            Faithful Kids is built for Christian families across traditions &mdash;
+            Faithful Kids is built for Christian families across traditions,
             Baptist, Wesleyan, Reformed, Anglican, non-denominational, Catholic and
             Orthodox alike. We deliberately stand on the ground those traditions share
-            &mdash; the Apostles&rsquo; and Nicene Creeds &mdash; and leave the
+            the Apostles&rsquo; and Nicene Creeds, and leave the.
             distinctives that separate them to you, your family and your church. Where a
             story touches something traditions read differently, the lesson stays with what
             Scripture says and leaves the interpretation to you.
@@ -139,7 +139,7 @@ function BeliefsV2() {
             something more specific before recommending us, email{' '}
             <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a> and a real
             person will answer. If you think a lesson departs from this statement, tell us
-            which one &mdash; we would rather fix it than defend it.
+            which one, we would rather fix it than defend it.
           </p>
           <p>
             More about the company, pricing and safety is on the{' '}

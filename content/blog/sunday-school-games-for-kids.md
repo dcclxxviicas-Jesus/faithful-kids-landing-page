@@ -67,17 +67,17 @@ Elementary kids can finally handle rules, teams, and a scoreboard, which opens u
 ### 13. Bible Verse Basketball
 **Ages 6-11. Needs: scrap paper and a trash can.** Ask a review question. Answer correctly and you earn a shot: one point from the close line, two from the far one. Missed shots keep the answer point, so nobody gets punished twice. **Lesson tie-in:** any review; it's the fastest way to make a worksheet's worth of questions feel like recess.
 
-For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2 — playable online or printed, answer key included.
+For a quieter moment, our free printable [Christmas word search](/printables/bible-word-search/christmas) hides 12 nativity words from Luke 2, playable online or printed, answer key included.
 
 For pure energy-burners, see these [30 fun youth group games](/blog/fun-youth-group-games), sorted by how much laughter they produce.
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
-For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines — ready for a class exchange.
+For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines, ready for a class exchange.
 
-If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
 ## What Sunday School Games Work for Preteens (Ages 11-13)?
 

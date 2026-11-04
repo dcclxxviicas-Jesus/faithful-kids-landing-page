@@ -25,11 +25,11 @@ Building the Temple is a Bible story from 1 Kings in the Old Testament. This ret
 
 ## What Is the Story of Building the Temple for Kids?
 
-SOLOMON & THE KINGDOM — Episode 3: Building the Temple Bible Reference: 1 Kings 5-6 Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM, Episode 3: Building the Temple Bible Reference: 1 Kings 5-6 Series: Solomon & the Kingdom
 
-I want to tell you about the most magnificent building project the ancient world had ever seen. A project born from one man's dream — but built by another man's hands.
+I want to tell you about the most magnificent building project the ancient world had ever seen. A project born from one man's dream, but built by another man's hands.
 
-King David — Solomon's father — had desperately wanted to build a house for God. A permanent temple to replace the tabernacle, the tent where God's presence had dwelled since the days of Moses. David had the passion, the resources, even the blueprints. But God told him: "You're not the one, David. You've been a man of war. Your son — he will build My house."
+King David, Solomon's father, had desperately wanted to build a house for God. A permanent temple to replace the tabernacle, the tent where God's presence had dwelled since the days of Moses. David had the passion, the resources, even the blueprints. But God told him: "You're not the one, David. You've been a man of war. Your son, he will build My house."
 
 And so the dream passed from father to son.
 
@@ -45,13 +45,13 @@ The story of Building the Temple teaches children important lessons about wisdom
 
 ## Key Bible Verse
 
-> *"My house shall be called a house of prayer."* — Isaiah 56:7
+> *"My house shall be called a house of prayer."* (Isaiah 56:7)
 
 If small hands need something to do while you read, the free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) is made for exactly that.
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
-For the wisest king's whole arc — the dream, the judgment, the temple, and the fall — see [Who Was Solomon in the Bible?](/blog/who-was-solomon-for-kids)
+For the wisest king's whole arc, the dream, the judgment, the temple, and the fall, see [Who Was Solomon in the Bible?](/blog/who-was-solomon-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -63,7 +63,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Who originally dreamed of building a temple for God?
 
-David dreamed the dream, but Solomon built the building. That was always God's plan. Sometimes your role is to start something that someone else will finish — and that's not failure, it's faithfulness. Every person's chapter matters in God's bigger story.
+David dreamed the dream, but Solomon built the building. That was always God's plan. Sometimes your role is to start something that someone else will finish, and that's not failure, it's faithfulness. Every person's chapter matters in God's bigger story.
 
 ### How many years did it take to build Solomon's temple?
 
@@ -71,7 +71,7 @@ David dreamed the dream, but Solomon built the building. That was always God's p
 
 ### What was unique about the construction at the actual building site?
 
-**No hammer, chisel, or iron tool was heard — all stones were cut offsite.**
+**No hammer, chisel, or iron tool was heard, all stones were cut offsite.**
 
 ### What material covered the interior walls, floors, and altar of the temple?
 
@@ -79,7 +79,7 @@ David dreamed the dream, but Solomon built the building. That was always God's p
 
 ### What is the main lesson of this episode?
 
-**When God gives you a dream, it might take someone else to build it — and that's okay, because we're all part of God's bigger story.**
+**When God gives you a dream, it might take someone else to build it, and that's okay, because we're all part of God's bigger story.**
 
 ## Discussion Questions for Families
 
@@ -116,7 +116,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Building the Temple about for kids?
 
-Building the Temple is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 3: Building the Temple Bible Reference: 1 Kings 5-6 Series: Solomon & the Kingdom
+Building the Temple is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 3: Building the Temple Bible Reference: 1 Kings 5-6 Series: Solomon & the Kingdom
 
 ### What age is the story of Building the Temple appropriate for?
 

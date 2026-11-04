@@ -60,9 +60,9 @@ Once you know Peter's story, the letter is full of echoes of his own life -- and
 
 18. Always be prepared to give an answer to everyone who asks about the ___ that you have. **Hope** (1 Peter 3:15)
 
-We built a [Noah's Ark word search](/printables/bible-word-search/noahs-ark) around this story — free, no sign-up, on screen or on paper.
+We built a [Noah's Ark word search](/printables/bible-word-search/noahs-ark) around this story, free, no sign-up, on screen or on paper.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 

@@ -122,7 +122,7 @@ export function QuizExitCatch({ answers, path }: { answers: Record<string, strin
           <>
             <div style={{ fontSize: '2rem', clear: 'both' }}>🎁</div>
             <h2 style={{ fontSize: '1.25rem', fontWeight: 800, margin: '4px 0 6px' }}>
-              Before you go — one-time offer
+              Before you go, one-time offer
             </h2>
             <p style={{ color: '#555', fontSize: '0.93rem', margin: '0 0 14px' }}>
               Start the yearly plan now and take <strong>{OFF_PCT}% off your first year</strong>:
@@ -138,7 +138,7 @@ export function QuizExitCatch({ answers, path }: { answers: Record<string, strin
                 fontWeight: 800, cursor: 'pointer',
               }}
             >
-              {claiming ? 'Taking you to payment…' : `Claim ${OFF_PCT}% off — $0.00 today`}
+              {claiming ? 'Taking you to payment…' : `Claim ${OFF_PCT}% off, $0.00 today`}
             </button>
             <p style={{ color: '#9ca3af', fontSize: '0.78rem', margin: '10px 0 0' }}>
               Cancel any time in the first 7 days and you&apos;re charged nothing.
@@ -151,18 +151,18 @@ export function QuizExitCatch({ answers, path }: { answers: Record<string, strin
                 textUnderlineOffset: '3px', marginTop: '12px',
               }}
             >
-              Not now — email me the plan instead
+              Not now, email me the plan instead
             </button>
           </>
         ) : (
           <>
             <div style={{ fontSize: '2rem', clear: 'both' }}>💌</div>
             <h2 style={{ fontSize: '1.25rem', fontWeight: 800, margin: '4px 0 6px' }}>
-              Before you go — keep {path === 'kid' ? 'the adventure' : 'your plan'}
+              Before you go, keep {path === 'kid' ? 'the adventure' : 'your plan'}
             </h2>
             <p style={{ color: '#555', fontSize: '0.93rem', margin: '0 0 4px' }}>
               We&apos;ll email you a link that brings {path === 'kid' ? 'the adventure' : 'the whole plan'} back
-              any time — day one stays free to watch, no commitment.
+any time, day one stays free to watch, no commitment.
             </p>
             <EmailCaptureCard
               magnet="quiz-plan"

@@ -180,7 +180,7 @@ export function FullscreenShell({
       ref={fs.hostRef}
       className={`fk-fs${fs.full ? ' is-full' : ''}`}
       role={fs.full ? 'region' : undefined}
-      aria-label={fs.full ? `${title} — full screen` : undefined}
+      aria-label={fs.full ? `${title}; full screen` : undefined}
     >
       {fs.full && (
         <div className="fk-fs-bar">

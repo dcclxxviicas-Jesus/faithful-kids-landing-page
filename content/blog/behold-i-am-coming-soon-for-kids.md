@@ -29,7 +29,7 @@ The last words of the Bible. The final page. The closing line of the greatest st
 
 "Behold, I am coming soon! My reward is with me, and I will give to each person according to what they have done. I am the Alpha and the Omega, the First and the Last, the Beginning and the End."
 
-Alpha — the first letter. Omega — the last letter. I was there before the first star ignited. I'll be there after the last one burns out. Before time had a name, I was. After time takes its final breath, I still am. Everything between the first moment and the last — that's my story. And you are in it.
+Alpha, the first letter. Omega, the last letter. I was there before the first star ignited. I'll be there after the last one burns out. Before time had a name, I was. After time takes its final breath, I still am. Everything between the first moment and the last, that's my story. And you are in it.
 
 This story comes from Hebrews/James/Revelation and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of Behold I Am Coming Soon teaches children important lessons about fa
 
 ## Key Bible Verse
 
-> *"Behold, I am coming soon!"* — Revelation 22:12
+> *"Behold, I am coming soon!"* (Revelation 22:12)
 
 There is a free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) on our site too, printable on one sheet with no sign-up.
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### When Jesus says "I am the Alpha and the Omega," what does that mean?
 
-Alpha is the first letter of the Greek alphabet and Omega is the last. By calling Himself the Alpha and the Omega, Jesus is saying He is the Beginning and the End — He was there before anything existed and He will be there when all things are made new.
+Alpha is the first letter of the Greek alphabet and Omega is the last. By calling Himself the Alpha and the Omega, Jesus is saying He is the Beginning and the End, He was there before anything existed and He will be there when all things are made new.
 
 ### What is the very last prayer in the Bible?
 
-The last prayer recorded in Scripture is "Come, Lord Jesus" — a simple, powerful cry from the heart asking Jesus to return. And Jesus answers it with "Yes, I am coming soon."
+The last prayer recorded in Scripture is "Come, Lord Jesus", a simple, powerful cry from the heart asking Jesus to return. And Jesus answers it with "Yes, I am coming soon."
 
-### What is the one message that runs through the entire Bible — from Genesis to Revelation?
+### What is the one message that runs through the entire Bible, from Genesis to Revelation?
 
-From the very first verse of Genesis to the very last verse of Revelation, the Bible tells one story: God created you, loves you, came to rescue you, and is coming back for you. It's a love story — and you're the one He's coming for.
+From the very first verse of Genesis to the very last verse of Revelation, the Bible tells one story: God created you, loves you, came to rescue you, and is coming back for you. It's a love story, and you're the one He's coming for.
 
 
 ## Discussion Questions for Families

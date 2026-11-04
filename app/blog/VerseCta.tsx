@@ -103,7 +103,7 @@ export function VerseCta({ postSlug }: { postSlug: string }) {
       <div className="verse-cta-body">
         <span className="verse-cta-eyebrow">From Faithful Kids</span>
         <p className="verse-cta-verse">&ldquo;{v.text}&rdquo;</p>
-        <p className="verse-cta-ref">&mdash; {v.ref}</p>
+        <p className="verse-cta-ref">{v.ref}</p>
         <p className="verse-cta-pitch">
           Bible time with your kids, made easy: a two-minute story narrated by Jesus,
           then a few questions to talk about together.

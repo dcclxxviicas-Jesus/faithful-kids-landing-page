@@ -65,7 +65,7 @@ export const HOLIDAYS: Holiday[] = [
     peak: 'December',
     peakMonth: 12,
     intro:
-      'Everything we have for the Christmas season in one place — the nativity story retold for children, Advent devotions and calendars, Christmas trivia, and free printables you can hand a child in about ten seconds. All of it is free and none of it asks for an email address.',
+      'Everything we have for the Christmas season in one place: the nativity story retold for children, Advent devotions and calendars, Christmas trivia, and free printables you can hand a child in about ten seconds. All of it is free and none of it asks for an email address.',
     heroSlug: 'the-christmas-story-for-kids',
     match: /christmas|advent|nativity|bethlehem|wise-men|manger/,
     printables: [
@@ -82,7 +82,7 @@ export const HOLIDAYS: Holiday[] = [
     peak: 'November',
     peakMonth: 11,
     intro:
-      'Thanksgiving is the easiest holiday of the year to point back at scripture, because gratitude is already the whole subject. These are the Bible verses, stories, prayers and trivia we use for it — written for children, free, and short enough to actually get through at a table full of relatives.',
+      'Thanksgiving is the easiest holiday of the year to point back at scripture, because gratitude is already the whole subject. These are the Bible verses, stories, prayers and trivia we use for it, written for children, free, and short enough to actually get through at a table full of relatives.',
     heroSlug: 'thanksgiving-bible-stories-for-kids',
     match: /thanksgiving|thankful|gratitude|grateful/,
     printables: [
@@ -115,7 +115,7 @@ export const HOLIDAYS: Holiday[] = [
     peak: 'August',
     peakMonth: 8,
     intro:
-      'The start of a school year is when children are most likely to say out loud that they are frightened. These are the verses, prayers and stories we point parents at for it — for first days, new schools, and the ordinary dread of a Monday morning.',
+      'The start of a school year is when children are most likely to say out loud that they are frightened. These are the verses, prayers and stories we point parents at for it, for first days, new schools, and the ordinary dread of a Monday morning.',
     heroSlug: 'back-to-school-bible-stories-for-kids',
     match: /back-to-school|first-day-of-school|morning-prayers|about-courage|for-anxious-kids/,
     printables: [],

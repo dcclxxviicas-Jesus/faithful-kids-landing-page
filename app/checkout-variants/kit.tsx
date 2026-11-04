@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useLayoutEffect } from 'react'
 import posthog from 'posthog-js'
+import { adsConversion } from '@/lib/ads-conversions'
 
 /** The id PostHog is using for this browser, so Stripe can carry it through. */
 function distinctIdSafe(): string | undefined {
@@ -90,6 +91,7 @@ export function useCheckout() {
   async function go(variant: string) {
     setLoading(true)
     try { posthog.capture('checkout_continue', { plan, variant, due_today: plan === 'annual' ? 0 : MONTHLY }) } catch { /* ignore */ }
+    adsConversion('beginCheckout')
     try {
       const res = await fetch('/api/checkout', {
         method: 'POST',

@@ -5,6 +5,7 @@ import posthog from 'posthog-js'
 import { VideoTile } from '../components/VideoTile'
 import { STORIES } from '../components/stories'
 import { arrivedViaTrialCta } from '@/lib/cta-anchor'
+import { adsConversion } from '@/lib/ads-conversions'
 import '../checkout-variants/variants.css'
 import './qv.css'
 
@@ -84,6 +85,7 @@ export function useBuy(variant: string, extra: Record<string, unknown> = {}) {
         plan, default_plan: defaultPlan, variant, ...extra,
       })
     } catch { /* ignore */ }
+    adsConversion('beginCheckout')
     try {
       const r = await fetch('/api/checkout', {
         method: 'POST', headers: { 'Content-Type': 'application/json' },

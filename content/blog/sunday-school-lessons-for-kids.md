@@ -79,6 +79,8 @@ To keep the order straight, our free [printable Bible timeline](/printables/bibl
 
 If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
 
+If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+
 ## Quarter 3: The Life of Jesus (Weeks 27-39)
 
 Birth through ministry -- who Jesus is, and what He taught. **Quarter memory verse:** "For God so loved the world that he gave his one and only Son." -- John 3:16

@@ -190,6 +190,8 @@ To keep the order straight, our free [printable Bible timeline](/printables/bibl
 
 If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
 
+If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+
 ## Print the Free Trivia Pack for Review Weeks
 
 When you need a class filled with zero prep, review beats a new story. Our free [Bible Trivia Pack](/printables/bible-trivia-pack) has 100 kid-friendly questions in easy, medium, and hard rounds, each answer with its Scripture reference. No signup, no email -- print it, split the room into teams, and the hour runs itself.

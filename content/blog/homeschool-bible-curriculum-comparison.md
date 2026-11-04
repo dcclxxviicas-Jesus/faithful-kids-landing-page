@@ -187,6 +187,8 @@ If the books' order is still fuzzy, print our free [books of the Bible chart and
 
 To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
 
+If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+
 ## Video-Based Bible Curriculum
 
 ### 11. Faithful Kids

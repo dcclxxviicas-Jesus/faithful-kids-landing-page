@@ -37,6 +37,8 @@ The flip side, honestly: the niche is smaller, so there are fewer buyers. Expect
 3. **Pitch ten brands directly.** Our verified list of [Christian brands that work with influencers and UGC creators](/blog/christian-brands-that-work-with-influencers) is the starting lineup -- every entry has a live program link.
 4. **Price honestly, raise with proof.** Rates in UGC vary wildly by scope, usage rights, and editing; there is no official rate card, and anyone quoting you one is guessing. Early on, the win is paid work + a testimonial + a portfolio piece. Raise as your reel proves conversions.
 
+If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+
 ## The Pitch That Gets Answered
 
 Three sentences, no attachments:

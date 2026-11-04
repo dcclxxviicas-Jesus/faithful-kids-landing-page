@@ -263,7 +263,7 @@ export default async function BibleMapPage(
             </ul>
             {m.places.some(p => p.traditional) && (
               <p style={{ fontSize: '0.88rem', color: '#92400e' }}>
-                * traditional site — the Bible names the place, tradition supplies the pin, and
+                * traditional site: the Bible names the place, tradition supplies the pin, and
                 scholars still debate the exact spot.
               </p>
             )}

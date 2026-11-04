@@ -249,6 +249,15 @@
 /* ---------- responsive ---------- */
 @media (max-width: 900px) {
   .hv-tiles { grid-template-columns: repeat(2, 1fr); max-width: 680px }
+  /* Three tiles in two columns leaves one orphan sitting flush left under the
+     first column (seen on a Tesla browser, Nov 4, 2026). Span it across both
+     columns and centre it at single-column width, so it reads as a deliberate
+     row of one rather than a gap. Works for any odd count. */
+  .hv-tiles > :last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+    justify-self: center;
+    width: calc(50% - 9px);  /* half the row minus half the 18px gap = one column */
+  }
   .hv-steps { grid-template-columns: repeat(2, 1fr); row-gap: 48px }
   .hv-quotes { grid-template-columns: 1fr; max-width: 520px }
 }
@@ -258,6 +267,9 @@
   .hv-shelf-wrap { margin-top: -140px }
   .hv-shelf { padding: 24px 16px }
   .hv-tiles { grid-template-columns: 1fr; max-width: 420px; gap: 14px }
+  /* Single column: undo the two-column orphan rule above, or the last tile
+     renders at half width (caught by the viewport test at 390px). */
+  .hv-tiles > :last-child:nth-child(odd) { grid-column: auto; justify-self: stretch; width: 100% }
   .hv-plans { grid-template-columns: 1fr; max-width: 420px; gap: 30px }  /* the Save badge overhangs the top edge by ~12px; 18px of gap nearly collided with the card above */
 }
 

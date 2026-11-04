@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
-import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import { SiteFooter } from '@/app/components/SiteChrome'
+import { ParentingHeader } from '../ui'
 import { Masthead } from '../ui'
 import { PitchForm } from '../client'
 
@@ -26,9 +27,9 @@ export default function WriteForUsPage() {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <SiteNav active="parenting" />
+      <ParentingHeader />
       <main id="main-content">
-        <Masthead inner current="Write for us" />
+        <Masthead inner />
         <div className="pt-page">
           <h1>Your experience could help another Christian family.</h1>
           <p className="pt-lede">

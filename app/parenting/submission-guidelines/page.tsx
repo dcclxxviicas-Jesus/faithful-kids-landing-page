@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
-import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import { SiteFooter } from '@/app/components/SiteChrome'
+import { ParentingHeader } from '../ui'
 import { Masthead } from '../ui'
 
 const URL = 'https://faithfulkids.app/parenting/submission-guidelines'
@@ -15,9 +16,9 @@ export const metadata: Metadata = {
 export default function SubmissionGuidelinesPage() {
   return (
     <>
-      <SiteNav active="parenting" />
+      <ParentingHeader />
       <main id="main-content">
-        <Masthead inner current="Submission guidelines" />
+        <Masthead inner />
         <div className="pt-page">
           <h1>Submission guidelines</h1>
           <p className="pt-lede">

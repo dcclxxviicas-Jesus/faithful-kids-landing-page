@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import { SiteFooter } from '@/app/components/SiteChrome'
+import { ParentingHeader } from '../ui'
 import {
   getPublicArticles, getPublicArticle, getSection, articlesInSection, liveSections, getRelated,
   resourcesFor, fmtDate, articleUrl, type Article, type Section,
@@ -105,9 +106,9 @@ function SectionPage({ section }: { section: Section }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-      <SiteNav active="parenting" />
+      <ParentingHeader />
       <main id="main-content">
-        <Masthead inner current={section.label} />
+        <Masthead inner />
         <div className="pt-page" style={{ textAlign: 'center', paddingBottom: 0 }}>
           <h1>{section.title}</h1>
           <p className="pt-lede" style={{ marginBottom: 10 }}>{section.intro}</p>
@@ -180,13 +181,10 @@ function ArticlePage({ article: a }: { article: Article }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-      <SiteNav active="parenting" />
+      <ParentingHeader />
       <SampleRibbon article={a} />
       <main id="main-content">
-        <nav className="pt-crumb" aria-label="Breadcrumb">
-          <a href="/parenting">Parenting</a><span>/</span>
-          <a href={`/parenting/${a.section.slug}`}>{a.section.label}</a>
-        </nav>
+        <Masthead inner />
 
         <header className="pt-article-head">
           <Kicker section={a.section} />

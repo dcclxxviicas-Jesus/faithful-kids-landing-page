@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
-import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import { SiteFooter } from '@/app/components/SiteChrome'
+import { ParentingHeader } from './ui'
 import { getPublicArticles, getFeatured, liveSections } from '@/lib/parenting'
 import {
   Masthead, SectionNav, FeaturedStory, ArticleCard, SectionBlock, RailList, QuietStrip,
@@ -62,7 +63,7 @@ export default function ParentingHome() {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-      <SiteNav active="parenting" />
+      <ParentingHeader />
       <main id="main-content">
         <Masthead />
         <SectionNav sections={sections} current="latest" />

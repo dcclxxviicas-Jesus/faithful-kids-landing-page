@@ -1,7 +1,8 @@
 import type { Metadata } from 'next'
 import { cookies } from 'next/headers'
 import { notFound } from 'next/navigation'
-import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import { SiteFooter } from '@/app/components/SiteChrome'
+import { ParentingHeader } from '../../ui'
 import { getArticle, getRelated, resourcesFor, fmtDate, articleUrl } from '@/lib/parenting'
 import { hasAdminCookie } from '@/lib/parenting-admin-auth'
 import { Kicker, Byline, AuthorCard, ArticleCard } from '../../ui'
@@ -29,7 +30,7 @@ export default async function PreviewPage({ params }: { params: Promise<{ slug: 
   const resources = resourcesFor(a)
   return (
     <>
-      <SiteNav active="parenting" />
+      <ParentingHeader />
       <div className="pt-sample" role="note">
         Preview &middot; status: <strong>{a.status}</strong> &middot; dates {a.datePublished}{a.dateModified !== a.datePublished ? ` / ${a.dateModified}` : ''} &middot; {a.wordCount} words &middot; not public
         {' '}&middot; <a href="/cas-admin/parenting" style={{ color: 'inherit' }}>back to the desk</a>

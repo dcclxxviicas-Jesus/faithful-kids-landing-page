@@ -33,8 +33,13 @@
 .pt .pt-serif { font-family: var(--pt-serif); }
 
 /* ---------- masthead ---------- */
-.pt .pt-mast { padding: 30px 20px 18px; text-align: center; }
-.pt .pt-mast.is-inner { padding: 22px 20px 6px; }
+/* Section header: centred wordmark only (no site nav on Parenting pages). */
+.pt .pt-top { text-align: center; padding: 16px 20px 0; }
+.pt .pt-top-logo { display: inline-flex; align-items: center; gap: 9px; text-decoration: none; color: var(--pt-ink); font-family: var(--font-nunito), 'Nunito', system-ui, sans-serif; font-weight: 800; font-size: 1.2rem; letter-spacing: -.01em; padding: 6px 8px; border-radius: 8px; min-height: 44px; }
+.pt .pt-top-logo img { width: 32px; height: 32px; display: block; }
+.pt .pt-top-logo:hover { color: var(--pt-green-dark); }
+.pt .pt-mast { padding: 18px 20px 18px; text-align: center; }
+.pt .pt-mast.is-inner { padding: 14px 20px 0; text-align: center; }
 .pt .pt-mast-label {
   display: inline-flex; align-items: center; gap: 10px;
   font-size: .78rem; font-weight: 800; letter-spacing: .18em; text-transform: uppercase;
@@ -201,9 +206,6 @@
 @media (max-width: 420px) { .pt .pt-news-form { flex-direction: column; } }
 
 /* ---------- article page ---------- */
-.pt .pt-crumb { max-width: var(--pt-measure); margin: 0 auto; padding: 18px 20px 0; font-size: .8rem; font-weight: 700; color: var(--pt-ink-mute); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-.pt .pt-crumb a { text-decoration: none; color: var(--pt-green-dark); }
-.pt .pt-crumb a:hover { text-decoration: underline; }
 .pt .pt-article-head { max-width: 820px; margin: 0 auto; padding: 18px 20px 0; text-align: center; }
 .pt .pt-article-head h1 {
   font-family: var(--pt-serif); font-weight: 600; letter-spacing: -0.02em;

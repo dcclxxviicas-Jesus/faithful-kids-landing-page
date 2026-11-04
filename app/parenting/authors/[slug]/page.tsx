@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import { SiteFooter } from '@/app/components/SiteChrome'
+import { ParentingHeader } from '../../ui'
 import { getPublicAuthors, getAuthor, articlesByAuthor, isPublic } from '@/lib/parenting'
 import { Masthead, Avatar, ArticleCard, QuietStrip } from '../../ui'
 
@@ -56,9 +57,9 @@ export default async function AuthorPage({ params }: Props) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <SiteNav active="parenting" />
+      <ParentingHeader />
       <main id="main-content">
-        <Masthead inner current="Contributors" />
+        <Masthead inner />
         <section className="pt-profile">
           <Avatar author={a} size="xl" />
           <div>

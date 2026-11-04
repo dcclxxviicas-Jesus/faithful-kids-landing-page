@@ -10,26 +10,33 @@ export const SECTION_H1 = 'Raising Faithful Kids'
 export const SECTION_SUB =
   'Real stories, thoughtful perspectives, and practical wisdom from Christian parents, educators, and ministry leaders.'
 
-export function Masthead({ inner = false, current }: { inner?: boolean; current?: string }) {
+/**
+ * The section's own header: one centred wordmark linking to the homepage.
+ * Parenting pages do not render the site nav (owner decision, Nov 3, 2026):
+ * a news section reads as a news section when the only thing above the
+ * masthead is the publisher's name. Sign-in and the app live in the footer.
+ */
+export function ParentingHeader() {
+  return (
+    <header className="pt-top">
+      <a href="/" className="pt-top-logo" aria-label="Faithful Kids home">
+        <img src="/logo-sm.png" alt="" width={32} height={32} />
+        <span>Faithful Kids</span>
+      </a>
+    </header>
+  )
+}
+
+export function Masthead({ inner = false }: { inner?: boolean; current?: string }) {
   if (inner) {
     return (
       <div className="pt-mast is-inner">
-        <p className="pt-mast-label">
-          <a href="/">Faithful Kids</a>
-          <span className="sep">/</span>
-          <a href="/parenting" className={current ? undefined : 'here'}>{SECTION_LABEL}</a>
-          {current && <><span className="sep">/</span><span className="here">{current}</span></>}
-        </p>
+        <p className="pt-mast-label"><a href="/parenting">{SECTION_H1}</a></p>
       </div>
     )
   }
   return (
     <header className="pt-mast">
-      <p className="pt-mast-label">
-        <a href="/">Faithful Kids</a>
-        <span className="sep">/</span>
-        <span className="here">{SECTION_LABEL}</span>
-      </p>
       <h1>{SECTION_H1}</h1>
       <p className="pt-mast-sub">{SECTION_SUB}</p>
       <div className="pt-mast-rule" aria-hidden="true" />

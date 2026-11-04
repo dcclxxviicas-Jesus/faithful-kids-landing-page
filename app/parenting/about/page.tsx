@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
-import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import { SiteFooter } from '@/app/components/SiteChrome'
+import { ParentingHeader } from '../ui'
 import { Masthead } from '../ui'
 
 const URL = 'https://faithfulkids.app/parenting/about'
@@ -25,9 +26,9 @@ export default function AboutParentingPage() {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <SiteNav active="parenting" />
+      <ParentingHeader />
       <main id="main-content">
-        <Masthead inner current="About" />
+        <Masthead inner />
         <div className="pt-page">
           <h1>About Parenting</h1>
           <p className="pt-lede">

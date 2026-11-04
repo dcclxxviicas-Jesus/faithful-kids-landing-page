@@ -49,12 +49,13 @@ async function shot(page, name) { await page.screenshot({ path: path.join(OUT, n
 let firstArticle = null
 let firstAuthor = null
 
-await check('home: 200, H1, masthead, nav item, JSON-LD', async () => {
+await check('home: 200, H1, masthead, wordmark header, JSON-LD', async () => {
   const page = await desktop.newPage()
   const res = await page.goto(`${BASE}/parenting`)
   must(res.status() === 200, `status ${res.status()}`)
   must((await page.textContent('h1')).trim() === 'Raising Faithful Kids', 'H1 is not the approved headline')
-  must(await page.$('nav.nav a[href="/parenting"]'), 'Parenting missing from site nav')
+  must(!(await page.$('nav.nav')), 'site nav must not render on Parenting pages')
+  must(await page.$('.pt-top a[href="/"]'), 'centred wordmark missing')
   must(await page.$('a[href="/parenting/write-for-us"]'), 'contributor CTA missing')
   const canon = await page.getAttribute('link[rel="canonical"]', 'href')
   must(canon === 'https://faithfulkids.app/parenting', `canonical ${canon}`)
@@ -70,13 +71,12 @@ await check('home: 200, H1, masthead, nav item, JSON-LD', async () => {
   return firstArticle ? `featured/first article: ${firstArticle}` : 'no articles rendered (empty state)'
 })
 
-await check('home: mobile layout, no horizontal overflow, menu has Parenting', async () => {
+await check('home: mobile layout, no horizontal overflow, wordmark header', async () => {
   const page = await mobile.newPage()
   await page.goto(`${BASE}/parenting`)
   await noOverflow(page)
-  await page.click('button.nav-toggle')
-  await page.waitForSelector('#site-mobile-menu a[href="/parenting"]')
-  await page.keyboard.press('Escape')
+  must(await page.$('.pt-top a[href="/"]'), 'centred wordmark missing on mobile')
+  must(await page.$('a[href="/parenting/write-for-us"]'), 'write-for-us link missing on mobile')
   await shot(page, 'home-mobile.png')
   await page.close()
 })

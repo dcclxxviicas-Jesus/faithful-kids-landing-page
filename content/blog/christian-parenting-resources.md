@@ -56,6 +56,8 @@ Pick one app the kids will actually open, and one for yourself. Two is a system;
 
 Side-by-side comparisons, including free options, live in our [best Bible apps by age](/blog/best-bible-apps-by-age) guide.
 
+If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+
 ## What Bible Curricula Do Christian Families Use at Home?
 
 Curricula are for families who want a sequence rather than a shelf -- if you keep starting and stopping devotions, a curriculum is usually the fix.

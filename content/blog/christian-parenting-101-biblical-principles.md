@@ -46,6 +46,8 @@ Paul could have said "discipline your children" and left it there. Instead, he l
 
 ---
 
+If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+
 ## 4. Model What You Teach
 
 **"Follow my example, as I follow the example of Christ."** — 1 Corinthians 11:1

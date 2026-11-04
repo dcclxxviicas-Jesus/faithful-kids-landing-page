@@ -66,6 +66,8 @@ A free [books of the Bible printable](/printables/books-of-the-bible) — chart 
 
 To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
 
+If you write about faith and family yourself — or want to start — our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+
 ## How Do You Adapt Bible Lessons by Age?
 
 **Ages 4-6 (pre-K and kindergarten):** Keep it to ten minutes. Focus on what happened, not what it means -- narrative before theology. Let them narrate the story back to you in their own words, then color. Our library of [Bible coloring pages for kids](/blog/bible-coloring-pages-for-kids) pairs well with almost every story in the 40-week plan.

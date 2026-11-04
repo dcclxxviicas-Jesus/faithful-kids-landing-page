@@ -307,8 +307,14 @@
 .pt .pt-faq { margin: 0; }
 .pt .pt-faq > div { padding: 14px 0; border-top: 1px solid var(--pt-rule); }
 .pt .pt-faq > div:last-child { border-bottom: 1px solid var(--pt-rule); }
-.pt .pt-faq dt { font-family: var(--pt-serif); font-weight: 600; font-size: 1.12rem; margin: 0 0 6px; }
-.pt .pt-faq dd { margin: 0; color: var(--pt-ink-soft); line-height: 1.6; }
+.pt .pt-faq h3 { font-family: var(--pt-serif); font-weight: 600; font-size: 1.12rem; margin: 0 0 6px; }
+.pt .pt-faq p { margin: 0; color: var(--pt-ink-soft); line-height: 1.6; }
+.pt .pt-glance { width: 100%; border-collapse: collapse; font-size: .95rem; margin: 0 0 8px; }
+.pt .pt-glance th, .pt .pt-glance td { text-align: left; vertical-align: top; padding: 10px 12px 10px 0; border-top: 1px solid var(--pt-rule); line-height: 1.5; }
+.pt .pt-glance tr:last-child th, .pt .pt-glance tr:last-child td { border-bottom: 1px solid var(--pt-rule); }
+.pt .pt-glance th { width: 9.5em; font-weight: 800; color: var(--pt-ink); white-space: nowrap; }
+.pt .pt-glance td { color: var(--pt-ink-soft); }
+@media (max-width: 560px) { .pt .pt-glance th, .pt .pt-glance td { display: block; padding: 0; border: 0; } .pt .pt-glance th { padding-top: 10px; border-top: 1px solid var(--pt-rule); } .pt .pt-glance td { padding-bottom: 10px; } }
 .pt .pt-page h3 { font-weight: 800; font-size: 1.02rem; margin: 1.6em 0 .4em; }
 .pt .pt-page p, .pt .pt-page li { font-size: 1.04rem; line-height: 1.7; color: var(--pt-ink); }
 .pt .pt-page p { margin: 0 0 1em; }

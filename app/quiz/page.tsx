@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef, useLayoutEffect } from 'react'
 import { recentCtaY } from '@/lib/cta-anchor'
+import { adsConversion } from '@/lib/ads-conversions'
 import posthog from 'posthog-js'
 import { QuizExitCatch } from './QuizExitCatch'
 import { STORIES } from '../components/stories'
@@ -628,6 +629,7 @@ export default function Quiz() {
     // The child's name never leaves the browser: analytics get provided/skipped.
     const { child_name, ...safe } = a
     posthog.capture('quiz_completed', { ...safe, child_name: child_name ? 'provided' : 'skipped', path })
+    adsConversion('quizCompleted')
     try { sessionStorage.setItem('fk_quiz_state', JSON.stringify({ phase: 'result', answers: a, path })) } catch { /* private mode */ }
     const steps = buildSteps(a, path)
     /* Parent path stops at the email gate before the reveal — peak-curiosity

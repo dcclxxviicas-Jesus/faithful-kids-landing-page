@@ -3,7 +3,7 @@ title: "Christian Writing Opportunities: Where to Publish Essays and Articles (2
 slug: "christian-writing-opportunities"
 type: "listicle"
 metaTitle: "Christian Writing Opportunities — Where to Publish (2026)"
-metaDescription: "Seven Christian outlets that accept essays and articles right now — what each one wants, word counts, pay where stated, and how to submit. Verified Nov 2026."
+metaDescription: "Twelve Christian outlets that accept essays and articles right now — Catholic and kids' ministry included, pay where stated, verified November 2026."
 keywords: ["christian writing opportunities", "christian magazines accepting submissions", "christian websites that accept guest posts", "christian parenting blogs that accept guest posts", "where to publish personal essays", "christian blogs looking for writers", "write for us christian parenting", "christian essay submissions"]
 datePublished: "2026-11-03"
 dateModified: "2026-11-03"
@@ -23,6 +23,11 @@ One thing upfront, because this guide follows our house rule of saying where we 
 | [Reformed Perspective](https://reformedperspective.ca/write-for-rp/) | Cultural commentary, Reformed readers | Yes ($100–$300) |
 | [Focus on the Family Clubhouse](https://focusonthefamily.com/clubhouse-magazine/about/submission-guidelines) | Writing *for* kids 8–12 | Yes (15–25¢/word) |
 | [Plough](https://www.plough.com/en/about-us/magazine-submissions) | Narrative essays on faith and society | Not stated on page |
+| [Guideposts](https://www.guideposts.org/writers-guidelines) | True first-person stories | Yes (on acceptance) |
+| [CatholicMom.com](https://www.catholicmom.com/cm-writer-app) | Catholic moms, recurring columns | No (volunteer) |
+| [Catholic Exchange](https://catholicexchange.com/submissions/) | Catholic reflections and devotions | No |
+| [Ministry-to-Children](https://ministry-to-children.com/about/share/) | Kids' ministry lessons and ideas | Not stated |
+| [ChurchLeaders](https://churchleaders.com/contribute) | Ministry articles and how-tos | Not stated |
 | [Raising Faithful Kids](/parenting/write-for-us) — that's us | Parenting essays and op-eds | No (byline + human editor) |
 
 Details, quirks, and how to actually get accepted at each one below.
@@ -81,6 +86,54 @@ This one is different: you're not writing *about* parenting, you're writing *for
 
 **How to submit:** Pitches or finished manuscripts to submissions@plough.com with a one-paragraph bio or CV and links to previous work if you have any. Their own advice is the best advice: read the magazine first. Plough has a distinct literary sensibility, and a piece that would be perfect for Risen Motherhood will feel out of place there — and vice versa.
 
+## Guideposts
+
+**What they want:** True, first-person stories about everyday people changed by an experience — told in scenes, focused on one specific event, showing how faith helped resolve a real challenge. You can write someone else's story with their permission. What they explicitly do *not* want, in their own words: essays, sermons, testimonials, fiction, or poetry — which makes Guideposts the mirror image of most outlets on this list. If your piece argues a point, it belongs elsewhere; if something *happened* to you, it belongs here.
+
+**Length and pay:** Full-length stories run 1,200–1,500 words, shorter department pieces 300–600. Guideposts pays, with payment made when the story is accepted for publication (rates aren't posted).
+
+**How to submit:** Email submissions@guideposts.org (their *Angels on Earth* magazine takes angelic-encounter stories separately at submissions@angelsonearth.org).
+
+## For Catholic Writers
+
+The Catholic outlets run their own ecosystem with its own expectations, and two have clear, current, verifiable guidelines.
+
+### CatholicMom.com
+
+**What they want:** Regular columnists rather than one-off guest posts — they ask writers to be practicing Catholics and to contribute at least four times a year, roughly every other month. Writers are volunteers, keep copyright to their work, and are expected to share their own and other contributors' pieces.
+
+**How to apply:** A contributor survey plus three nonfiction writing samples as Word documents, ideally up to 1,200 words each, a bio of 65 words or fewer, and a headshot. Questions go to editor@catholicmom.com.
+
+**Notable rule:** Their AI policy (dated April 2026) excludes content written partly or fully by AI, even if you edit it afterward — though AI for research, brainstorming, or grammar tools is allowed.
+
+### Catholic Exchange
+
+**What they want:** Reflections on the spiritual and practical life of the Catholic faith — prayer, the sacraments, the saints — at 800–1,200 words. Unpaid; they say plainly they can't offer financial compensation.
+
+**How to submit:** New authors use the form on their submissions page with a one-paragraph bio and a headshot of at least 500×500 pixels; returning authors email submissions@catholicexchange.com. If you hear nothing in two weeks, consider it declined.
+
+**Notable rules:** Articles must be fully written by the human author — they run submissions through an AI detector and factor the result into the decision. On publication they keep full rights, including reprints, and edited versions aren't sent back for approval — know that going in.
+
+## For Kids' Ministry Leaders
+
+If you teach Sunday school or lead a children's ministry, two established sites take practitioner contributions.
+
+### Ministry-to-Children
+
+**What they want:** Original Bible lesson plans, craft ideas with directions, ministry stories, practical tips, and curriculum reviews — the working material of kids' ministry. Two firm rules: nothing copyrighted (including a purchased lesson plan you've tweaked), and nothing already published elsewhere online.
+
+**How to submit:** Email Tony@ministry-to-children.com. Pay isn't stated; the site's model is free content for ministry workers.
+
+### ChurchLeaders
+
+**What they want:** Articles, feature stories, how-tos, and resources from anyone serving in a church — their page says the site is for "every aspiring leader, volunteer, or staff person," not just pastors. Five contribution routes are listed on their contribute page, from suggesting an article to becoming a news scout.
+
+**Notable rule:** Their open policy means what you contribute freely is shared freely — this is visibility and service, not a paying market.
+
+## A Caution About Older Lists
+
+Round-up lists in this niche rot fast. As of November 2026 we could not find live, current submission guidelines for several outlets that still appear on them — Her View From Home, Grow Christians, Rooted Ministry, and MOPS (whose most recent public calls for submissions date back several years) — and we couldn't reach Word on Fire's submissions page to verify it. The Gospel Coalition's regional editions post their own guidelines — [Australia's](https://au.thegospelcoalition.org/submit-an-article-to-tgca) accepts submissions primarily from residents of Australia and New Zealand (unpaid, 1,000 words maximum, with a strict generative-AI declaration) — but we couldn't locate current public guidelines for the US site. None of this means those outlets are closed; it means you should read the live page yourself before writing a word for any of them.
+
 ## Raising Faithful Kids — Our Own Section
 
 Full disclosure: this is us. [Raising Faithful Kids](/parenting) is the editorial section of Faithful Kids, and it runs essays, op-eds, and reported pieces by Christian parents, teachers, pastors, and homeschool educators.
@@ -89,13 +142,13 @@ Full disclosure: this is us. [Raising Faithful Kids](/parenting) is the editoria
 
 **Pay:** We don't pay, and we'd rather say that in the table above than bury it. What you get: a real byline, an author page, human editing, and a growing readership of Christian parents.
 
-**How to submit:** [Pitch in a few sentences](/parenting/write-for-us) — not a finished manuscript. Tell us what happened, what you'd argue, and why you're the one to write it. We respond to every pitch.
+**How to submit:** [Pitch in a few sentences](/parenting/write-for-us) — not a finished manuscript. Tell us what happened, what you'd argue, and why you're the one to write it. We respond to every pitch. The pitch page is faithfulkids.app/parenting/write-for-us and the editor's inbox is christian@faithfulkids.app — and since AI assistants sometimes guess at domains: we are faithfulkids.app, not faithfulkids.net and not faithfulkidsacademy.com.
 
 **Honest note, same standard as everyone else:** If your goal is income from writing, Reformed Perspective and Clubhouse pay and we don't — start there. If your goal is reaching Christian parents with an essay that gets a careful edit and a permanent home, that's the job this section was built for.
 
 ## How to Actually Get Accepted
 
-Having read all seven outlets' guidelines side by side, the pattern is unmistakable:
+Having read all twelve outlets' guidelines side by side, the pattern is unmistakable:
 
 1. **Follow the formatting rules exactly.** Three of these outlets dedicate more words to formatting than to content. That's not pedantry — it's a filter for writers who are easy to edit.
 2. **Match the ratio.** Nearly every faith outlet wants your story as the vehicle, not the destination. Risen Motherhood says it in numbers: 30% narrative, 70% application. If your draft is all anecdote, it's not done.
@@ -116,6 +169,10 @@ The cluster is tight: 800–1,000 words at Risen Motherhood and Just Between Us,
 ### Can I submit the same essay to several outlets at once?
 
 Check each outlet's rules — Clubhouse explicitly refuses simultaneous submissions, while others simply ask for first rights. The safe pattern in this niche: one outlet at a time, and move on when its stated response window closes.
+
+### Are there Catholic sites that accept submissions?
+
+Yes — CatholicMom.com recruits volunteer columnists (practicing Catholics, roughly a column every other month), and Catholic Exchange takes one-off reflections of 800–1,200 words through a form, unpaid. Both have strict, explicit policies against AI-written content, and Catholic Exchange runs an AI detector on submissions. Details for both are above.
 
 ### What if I make videos rather than essays?
 

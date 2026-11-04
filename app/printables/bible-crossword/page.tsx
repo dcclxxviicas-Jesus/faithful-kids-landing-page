@@ -25,7 +25,7 @@ import printableVideos from '@/lib/printable-videos.json'
  */
 
 export const metadata: Metadata = {
-  title: 'Bible Crossword Puzzles, 7 Free Printables',
+  title: 'Bible Crossword Puzzles: 7 Free Printables',
   description:
     'Seven free Bible crossword puzzles for kids, play online or print. Christmas, Noah, Moses, David and Goliath, Easter. Clues, answer keys, no sign-up.',
   keywords: [
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-crossword' },
   openGraph: {
-    title: 'Bible Crossword Puzzles, 7 Free Printables',
+    title: 'Bible Crossword Puzzles: 7 Free Printables',
     description:
       'Seven free Bible crossword puzzles for kids, play online or print, with answer keys. No sign-up.',
     url: 'https://faithfulkids.app/printables/bible-crossword',

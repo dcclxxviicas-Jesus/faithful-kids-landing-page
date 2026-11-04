@@ -2,21 +2,21 @@
 title: "Joshua Bible Trivia: 33 Questions and Answers for Families"
 slug: "joshua-bible-trivia"
 type: "listicle"
-metaDescription: "33 Joshua Bible trivia questions with answers and verse references -- Jericho, Rahab, and the day the sun stood still, sorted easy to hard by age."
+metaDescription: "33 Joshua Bible trivia questions with answers and verse references, Jericho, Rahab, and the day the sun stood still, sorted easy to hard by age."
 keywords: ["joshua bible trivia", "joshua quiz questions", "questions about the book of joshua", "joshua bible questions and answers", "jericho trivia for kids", "book of joshua quiz"]
 datePublished: "2026-08-14"
 dateModified: "2026-08-14"
 ---
 
-These 33 Joshua Bible trivia questions cover the crossing of the Jordan, the fall of Jericho, Rahab's scarlet cord, the day the sun stood still, and Joshua's famous farewell -- sorted into easy, medium, and hard rounds by age. Every answer is bolded right after its question with a verse reference, so you can settle any argument straight from the text.
+These 33 Joshua Bible trivia questions cover the crossing of the Jordan, the fall of Jericho, Rahab's scarlet cord, the day the sun stood still, and Joshua's famous farewell, sorted into easy, medium, and hard rounds by age. Every answer is bolded right after its question with a verse reference, so you can settle any argument straight from the text.
 
-Joshua is one of the most trivia-friendly books in the Bible because almost every chapter has a scene kids remember: walls collapsing at a shout, a river stopping mid-flow, hailstones winning a battle. It also has the single best-known family verse in Scripture -- "as for me and my household" -- waiting at the end.
+Joshua is one of the most trivia-friendly books in the Bible because almost every chapter has a scene kids remember: walls collapsing at a shout, a river stopping mid-flow, hailstones winning a battle. It also has the single best-known family verse in Scripture, "as for me and my household", waiting at the end.
 
 ## What Is the Book of Joshua About?
 
 Joshua is the sixth book of the Bible, and it tells how Israel finally entered, conquered, and divided the Promised Land under Moses' successor, Joshua son of Nun. The book is traditionally attributed to Joshua himself, though it is formally anonymous and records events after his death; it is set around the 14th-13th century BC and runs 24 chapters.
 
-The story unfolds in three movements: entering the land (chapters 1-5, including the Jordan crossing), taking the land (6-12, from Jericho to the northern kings), and dividing the land among the tribes (13-24). It ends with Joshua's covenant challenge at Shechem: "Choose for yourselves this day whom you will serve." Joshua matters because it shows God keeping every promise he made to Abraham -- "not one of all the LORD's good promises to Israel failed" (Joshua 21:45).
+The story unfolds in three movements: entering the land (chapters 1-5, including the Jordan crossing), taking the land (6-12, from Jericho to the northern kings), and dividing the land among the tribes (13-24). It ends with Joshua's covenant challenge at Shechem: "Choose for yourselves this day whom you will serve." Joshua matters because it shows God keeping every promise he made to Abraham, "not one of all the LORD's good promises to Israel failed" (Joshua 21:45).
 
 ## Easy Joshua Trivia Questions (Ages 5-8)
 
@@ -24,7 +24,7 @@ The story unfolds in three movements: entering the land (chapters 1-5, including
 2. What did God tell Joshua three times in the very first chapter? **"Be strong and courageous"** (Joshua 1:6, 7, 9)
 3. What river did the Israelites cross to enter the Promised Land? **The Jordan River** (Joshua 3:14-17)
 4. Which city's walls came tumbling down? **Jericho** (Joshua 6:20)
-5. For how many days did Israel march around Jericho? **Seven -- once a day for six days, then seven times on the seventh day** (Joshua 6:3-4)
+5. For how many days did Israel march around Jericho? **Seven, once a day for six days, then seven times on the seventh day** (Joshua 6:3-4)
 6. Who hid the two Israelite spies in Jericho? **Rahab** (Joshua 2:1-6)
 7. What did Rahab hang in her window so she and her family would be saved? **A scarlet cord** (Joshua 2:18, 21)
 8. What did the priests carry into the middle of the Jordan River? **The ark of the covenant** (Joshua 3:15-17)
@@ -59,11 +59,11 @@ For Joshua's whole life, apprentice, spy, general, and the choice at Shechem, se
 23. In that same battle, what killed more of the enemy than Israel's swords did? **Huge hailstones the LORD hurled down from the sky** (Joshua 10:11)
 24. Where did the five Amorite kings try to hide? **In a cave at Makkedah** (Joshua 10:16)
 25. How many kings did Joshua defeat in total, according to the list in chapter 12? **Thirty-one** (Joshua 12:24)
-26. Which faithful old spy asked for a mountain at age 85, saying he was as strong as ever? **Caleb -- and he received Hebron** (Joshua 14:10-13)
-27. How many cities of refuge were set apart in the land? **Six -- three on each side of the Jordan** (Joshua 20:7-8)
+26. Which faithful old spy asked for a mountain at age 85, saying he was as strong as ever? **Caleb, and he received Hebron** (Joshua 14:10-13)
+27. How many cities of refuge were set apart in the land? **Six, three on each side of the Jordan** (Joshua 20:7-8)
 28. How many towns did the tribe of Levi receive instead of a single territory? **Forty-eight** (Joshua 21:41)
 29. In what city did Joshua gather Israel to renew the covenant at the end of his life? **Shechem** (Joshua 24:1, 25)
-30. What did Joshua set up under the oak tree as a witness to the covenant? **A large stone -- "it has heard all the words the LORD has said to us"** (Joshua 24:26-27)
+30. What did Joshua set up under the oak tree as a witness to the covenant? **A large stone: "it has heard all the words the LORD has said to us"** (Joshua 24:26-27)
 31. How old was Joshua when he died? **One hundred and ten** (Joshua 24:29)
 32. Whose bones, carried all the way from Egypt, were finally buried at Shechem? **Joseph's** (Joshua 24:32)
 33. What was Joshua's original name before Moses renamed him? **Hoshea** (Numbers 13:16)
@@ -94,15 +94,15 @@ Joshua has 24 chapters. Chapters 1-5 cover entering the land, 6-12 the conquest 
 
 ### What is the most famous story in the book of Joshua?
 
-The fall of Jericho (Joshua 6) is the book's most famous story -- seven days of marching, a trumpet blast, a shout, and the walls collapsed. Its most famous verse is Joshua 24:15: "As for me and my household, we will serve the LORD."
+The fall of Jericho (Joshua 6) is the book's most famous story; seven days of marching, a trumpet blast, a shout, and the walls collapsed. Its most famous verse is Joshua 24:15: "As for me and my household, we will serve the LORD."
 
 ### Who was Joshua in the Bible?
 
-Joshua son of Nun was Moses' assistant from his youth, one of the two faithful spies (with Caleb) who trusted God to give Israel the land, and Moses' God-appointed successor (Numbers 14:6-9, 27:18-23). His name -- originally Hoshea, changed by Moses to Joshua, "the LORD saves" -- is the Hebrew form of the name Jesus.
+Joshua son of Nun was Moses' assistant from his youth, one of the two faithful spies (with Caleb) who trusted God to give Israel the land, and Moses' God-appointed successor (Numbers 14:6-9, 27:18-23). His name, originally Hoshea, changed by Moses to Joshua, "the LORD saves", is the Hebrew form of the name Jesus.
 
 ### Did the sun really stand still in Joshua?
 
-Joshua 10:13 says "the sun stood still, and the moon stopped, till the nation avenged itself on its enemies," in answer to Joshua's prayer during the battle at Gibeon. Christians discuss what exactly happened physically, but the text's point is plain: "surely the LORD was fighting for Israel" (Joshua 10:14) -- a great example of letting kids see that the Bible presents God as Lord over creation itself.
+Joshua 10:13 says "the sun stood still, and the moon stopped, till the nation avenged itself on its enemies," in answer to Joshua's prayer during the battle at Gibeon. Christians discuss what exactly happened physically, but the text's point is plain: "surely the LORD was fighting for Israel" (Joshua 10:14); a great example of letting kids see that the Bible presents God as Lord over creation itself.
 
 ### What age can kids start learning the book of Joshua?
 

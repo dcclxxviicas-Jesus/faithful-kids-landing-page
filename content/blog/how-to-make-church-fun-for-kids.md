@@ -53,7 +53,7 @@ A strong children's ministry can be the difference between a child who dreads Su
 - Are kids singing, moving, and participating, or sitting passively?
 - Does your child light up when they talk about what they did?
 
-If your church's children's program is not great, talk to the children's ministry director about how to improve it. Volunteer to help -- even bringing a few fresh [Sunday school games](/blog/sunday-school-games-for-kids) can lift a whole classroom. Some of the best children's programs in the country were started by parents who saw a need and stepped in.
+If your church's children's program is not great, talk to the children's ministry director about how to improve it. Volunteer to help: even bringing a few fresh [Sunday school games](/blog/sunday-school-games-for-kids) can lift a whole classroom. Some of the best children's programs in the country were started by parents who saw a need and stepped in.
 
 If your church does not have a kids' program and you cannot start one, supplement at home with Bible story videos, family devotions, and weekday [Bible activities at home](/blog/bible-activities-for-kids-at-home). Church is important, but your home is the primary place where faith is formed.
 
@@ -149,9 +149,9 @@ If your group skews older, the [youth group games list](/blog/youth-group-games)
 
 And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
 
-There's also a printable [Bible scavenger hunt](/blog/bible-scavenger-hunt) -- three complete hunts, from around-the-house for preschoolers to a photo hunt for teens.
+There's also a printable [Bible scavenger hunt](/blog/bible-scavenger-hunt): three complete hunts, from around-the-house for preschoolers to a photo hunt for teens.
 
-In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games) -- 25 ideas that survive forty kids arriving at once.
+In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games): 25 ideas that survive forty kids arriving at once.
 
 ## Frequently Asked Questions
 

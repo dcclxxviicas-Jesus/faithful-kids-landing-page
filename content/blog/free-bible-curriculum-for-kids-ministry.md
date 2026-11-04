@@ -53,7 +53,7 @@ Whatever curriculum you run, these free pieces slot in alongside it, no sign-up:
 
 Evaluating the Faithful Kids church program? The complete [scope and sequence](/blog/faithful-kids-scope-and-sequence), every series and lesson in order with scripture references, is public.
 
-To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable), all 66 in order, printable.
 
 If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 

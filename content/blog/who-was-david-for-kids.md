@@ -18,9 +18,9 @@ Here's the story of King David, told in a way your kids can understand and remem
 
 David grew up in Bethlehem, the youngest of eight brothers. While his older brothers were off doing important things, David spent his days in the fields taking care of his father Jesse's sheep. It wasn't a glamorous job, but David took it seriously. He protected the sheep from lions and bears with his bare hands and a sling.
 
-While he watched the sheep, David also played the harp and sang songs to God. These songs would eventually become some of the Psalms -- the songbook of the Bible.
+While he watched the sheep, David also played the harp and sang songs to God. These songs would eventually become some of the Psalms, the songbook of the Bible.
 
-One day, God sent the prophet Samuel to Jesse's house. God had chosen a new king for Israel, and he was one of Jesse's sons. Jesse lined up his older sons -- tall, strong, impressive-looking young men. But God said no to every one of them.
+One day, God sent the prophet Samuel to Jesse's house. God had chosen a new king for Israel, and he was one of Jesse's sons. Jesse lined up his older sons, tall, strong, impressive-looking young men. But God said no to every one of them.
 
 Then Samuel asked, "Are these all the sons you have?"
 
@@ -46,13 +46,13 @@ David answered, "You come against me with sword and spear and javelin, but I com
 
 David slung one stone. It hit Goliath right in the forehead. The giant fell face-down on the ground. David defeated the most feared warrior in the land with a single stone and the power of God.
 
-**Key lesson for kids:** The "giants" in our lives -- fear, bullies, hard situations -- can seem impossible. But with God on our side, we can face anything. It's not about how big we are. It's about how big our God is. (Get the full story in [David and Goliath for kids](/blog/david-and-goliath-for-kids).)
+**Key lesson for kids:** The "giants" in our lives, fear, bullies, hard situations, can seem impossible. But with God on our side, we can face anything. It's not about how big we are. It's about how big our God is. (Get the full story in [David and Goliath for kids](/blog/david-and-goliath-for-kids).)
 
 ## Best Friends with Jonathan (1 Samuel 18-20)
 
-After David killed Goliath, he became close friends with Jonathan, who was King Saul's son. The Bible says Jonathan loved David as he loved himself (1 Samuel 18:1). They made a covenant of friendship, and Jonathan even gave David his own robe, armor, sword, and belt -- symbols of his position as a prince.
+After David killed Goliath, he became close friends with Jonathan, who was King Saul's son. The Bible says Jonathan loved David as he loved himself (1 Samuel 18:1). They made a covenant of friendship, and Jonathan even gave David his own robe, armor, sword, and belt, symbols of his position as a prince.
 
-Their friendship was tested when King Saul became insanely jealous of David. The people were singing, "Saul has slain his thousands, and David his tens of thousands." Saul couldn't stand it. He tried to kill David multiple times -- throwing spears at him, sending him on dangerous missions, and hunting him like an animal.
+Their friendship was tested when King Saul became insanely jealous of David. The people were singing, "Saul has slain his thousands, and David his tens of thousands." Saul couldn't stand it. He tried to kill David multiple times, throwing spears at him, sending him on dangerous missions, and hunting him like an animal.
 
 Jonathan was caught in the middle. He loved his father, but he also loved David. He risked his own life to warn David and help him escape. In one of the most emotional scenes in the Bible, the two friends said goodbye, weeping together, knowing they might never see each other again (1 Samuel 20:41-42).
 
@@ -68,7 +68,7 @@ There is also a free [ancient Israel map to print](/printables/bible-maps/ancien
 
 After years of running from Saul, hiding in caves, and living as a fugitive, David finally became king. First he was king of Judah (the southern part of Israel) for seven and a half years, and then he became king over all of Israel.
 
-David made Jerusalem his capital city and brought the Ark of the Covenant there in a huge celebration. He danced before the Lord with all his might (2 Samuel 6:14) -- imagine the king of the whole nation dancing in the streets because he was so happy to be near God.
+David made Jerusalem his capital city and brought the Ark of the Covenant there in a huge celebration. He danced before the Lord with all his might (2 Samuel 6:14): imagine the king of the whole nation dancing in the streets because he was so happy to be near God.
 
 David was a good king. He was a strong warrior who protected Israel from its enemies. He cared about justice. And most importantly, he loved God with his whole heart. God made a special promise to David: his family line would have a king on the throne forever. This promise was ultimately fulfilled through Jesus, who was born into David's family line.
 
@@ -86,18 +86,18 @@ David's heart broke. He didn't make excuses. He didn't blame someone else. He sa
 
 God forgave David, but there were still consequences for his actions. The rest of David's life was marked by family conflict and heartache.
 
-**Key lesson for kids:** Everyone makes mistakes -- even the people God uses the most. What matters is what we do after. David didn't hide from his sin. He admitted it, asked for forgiveness, and turned back to God. That's what real repentance looks like. (We cover this gently in [David's Big Mistake for kids](/blog/davids-big-mistake-for-kids).)
+**Key lesson for kids:** Everyone makes mistakes; even the people God uses the most. What matters is what we do after. David didn't hide from his sin. He admitted it, asked for forgiveness, and turned back to God. That's what real repentance looks like. (We cover this gently in [David's Big Mistake for kids](/blog/davids-big-mistake-for-kids).)
 
-## The Psalms -- David's Songs
+## The Psalms: David's Songs
 
 David wrote at least 73 of the 150 Psalms in the Bible. These aren't fancy theological papers. They're raw, honest conversations with God. David wrote when he was happy, sad, scared, angry, grateful, and everything in between.
 
 Some of the most beloved passages in all of Scripture are David's Psalms:
 
-- **Psalm 23** -- "The Lord is my shepherd, I lack nothing." A song of trust and peace.
-- **Psalm 51** -- "Create in me a pure heart, O God." David's prayer of repentance.
-- **Psalm 139** -- "You knit me together in my mother's womb." A celebration of how God made each of us.
-- **Psalm 27** -- "The Lord is my light and my salvation -- whom shall I fear?" A declaration of courage.
+- **Psalm 23**: "The Lord is my shepherd, I lack nothing." A song of trust and peace.
+- **Psalm 51**: "Create in me a pure heart, O God." David's prayer of repentance.
+- **Psalm 139**: "You knit me together in my mother's womb." A celebration of how God made each of us.
+- **Psalm 27**: "The Lord is my light and my salvation; whom shall I fear?" A declaration of courage.
 
 David's Psalms teach kids that it's okay to be honest with God. You can tell God when you're scared, when you're angry, when you're confused. He can handle it. In fact, He wants to hear it. (Explore the whole songbook in the [Book of Psalms for kids](/blog/book-of-psalms-for-kids).)
 
@@ -105,7 +105,7 @@ David's Psalms teach kids that it's okay to be honest with God. You can tell God
 
 ## Why David Matters
 
-David is described in the Bible as "a man after God's own heart" (Acts 13:22). That doesn't mean he was perfect -- far from it. It means that despite his failures, David always turned back to God. He kept seeking God, praising God, and trusting God, even in his darkest moments.
+David is described in the Bible as "a man after God's own heart" (Acts 13:22). That doesn't mean he was perfect; far from it. It means that despite his failures, David always turned back to God. He kept seeking God, praising God, and trusting God, even in his darkest moments.
 
 David's life teaches kids some of the most important lessons in the Bible:
 
@@ -123,7 +123,7 @@ Bring King David's story to life for your kids with animated video lessons on Fa
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
-There's a whole guide to [biblical names](/blog/biblical-names) too -- what they mean, how they work, and lists for [boys](/blog/biblical-boy-names) and [girls](/blog/biblical-girl-names).
+There's a whole guide to [biblical names](/blog/biblical-names) too: what they mean, how they work, and lists for [boys](/blog/biblical-boy-names) and [girls](/blog/biblical-girl-names).
 
 ## Frequently Asked Questions
 
@@ -137,7 +137,7 @@ The Bible doesn't give David's exact age during the battle, but most scholars es
 
 ### Why is David called "a man after God's own heart" if he sinned so badly?
 
-This phrase from Acts 13:22 doesn't mean David was sinless. It means David's deepest desire was to know and please God. When David sinned, he didn't run away from God -- he ran toward God in repentance. His Psalms reveal a man who was deeply honest about his failures and deeply committed to seeking God. It's a powerful reminder that God values a repentant heart over a perfect record.
+This phrase from Acts 13:22 doesn't mean David was sinless. It means David's deepest desire was to know and please God. When David sinned, he didn't run away from God; he ran toward God in repentance. His Psalms reveal a man who was deeply honest about his failures and deeply committed to seeking God. It's a powerful reminder that God values a repentant heart over a perfect record.
 
 ### How can I use David's story to teach my kids about repentance?
 

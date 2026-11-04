@@ -8,7 +8,7 @@ import printableVideos from '@/lib/printable-videos.json'
    a 25-day reading plan whose daily verse doubles as calendar text.
    This is also the seasonal lead magnet ('advent' in lib/lead-emails.ts). */
 export const metadata = {
-  title: 'Advent Bible Readings for Kids, 25 Days, Printable',
+  title: 'Advent Bible Readings for Kids: 25 Days, Printable',
   description:
     'Free printable Advent readings for kids: 25 short daily Bible readings from the first promise to the manger, with a discussion question for each day of December.',
   alternates: { canonical: 'https://faithfulkids.app/printables/advent-readings' },

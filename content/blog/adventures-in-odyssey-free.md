@@ -9,7 +9,7 @@ datePublished: "2026-08-31"
 
 The short answer: the Adventures in Odyssey Club offers a **14-day free trial with no credit card required**, which opens the full archive of over 1,000 episodes. Beyond the trial, the ongoing free options are the weekly broadcast episodes on Christian radio and the official podcast feed. After 14 days the Club costs **$8.99/month, billed annually at $107.88**, and the trial expires on its own if you do nothing.
 
-## The 14-day Club trial, the biggest free window
+## The 14-day Club trial: the biggest free window
 
 This is the answer most people are looking for. Focus on the Family's official Adventures in Odyssey page states the trial is a "free 14-day trial with no obligation or cost," and, unusually, asks for no card up front. It also confirms the trial "will automatically expire after 14 days and no action is needed to cancel."
 
@@ -91,4 +91,4 @@ Prices change; the always-current numbers for web and iOS are on our [pricing pa
 
 Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
 
-For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids) -- free to perform and photocopy, with director's notes.
+For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids), free to perform and photocopy, with director's notes.

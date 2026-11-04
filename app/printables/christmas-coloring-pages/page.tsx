@@ -15,12 +15,12 @@ import printableVideos from '@/lib/printable-videos.json'
 const PAGES = COLORING_PAGES.filter(p => p.season === 'christmas')
 
 export const metadata: Metadata = {
-  title: 'Christian Christmas Coloring Pages, Free',
+  title: 'Christian Christmas Coloring Pages: Free',
   description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
   keywords: ['nativity coloring pages', 'christian christmas coloring pages', 'christmas coloring pages religious', 'nativity scene coloring pages', 'advent coloring pages', 'wise men coloring page', 'shepherds coloring page'],
   alternates: { canonical: 'https://faithfulkids.app/printables/christmas-coloring-pages' },
   openGraph: {
-    title: 'Christian Christmas Coloring Pages, Free',
+    title: 'Christian Christmas Coloring Pages: Free',
     description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
     url: 'https://faithfulkids.app/printables/christmas-coloring-pages',
     siteName: 'Faithful Kids',

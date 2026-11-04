@@ -2,20 +2,20 @@
 title: "Easy Bible Trivia: 100 Questions and Answers for Beginners"
 slug: "easy-bible-trivia-questions"
 type: "listicle"
-metaDescription: "Bible trivia made easy: 100 beginner-friendly questions and answers with verse references. Famous stories and big names -- perfect for kids and new readers."
+metaDescription: "Bible trivia made easy: 100 beginner-friendly questions and answers with verse references. Famous stories and big names; perfect for kids and new readers."
 keywords: ["bible trivia easy", "easy bible trivia questions and answers", "easy bible quiz with answers for kids", "easy bible trivia", "simple bible trivia questions", "bible trivia for beginners"]
 datePublished: "2026-08-19"
 dateModified: "2026-08-19"
 ---
 
-Looking for Bible trivia that's actually easy? These 100 easy Bible trivia questions and answers stick to the famous stories and the big names -- Noah, Moses, David, Daniel, Jonah, and Jesus -- so beginners, young kids, and brand-new Bible readers can rack up right answers and want to keep playing. Every answer appears in bold with a verse reference, so whoever reads the questions needs zero prep.
+Looking for Bible trivia that's actually easy? These 100 easy Bible trivia questions and answers stick to the famous stories and the big names: Noah, Moses, David, Daniel, Jonah, and Jesus; so beginners, young kids, and brand-new Bible readers can rack up right answers and want to keep playing. Every answer appears in bold with a verse reference, so whoever reads the questions needs zero prep.
 
-Easy is the point here. Nothing below requires knowing an obscure name, an exact measurement, or a minor prophet -- if someone has heard the story once in Sunday school or seen the picture-book version, they can get it. That makes this list perfect as an easy Bible quiz with answers for kids, a warm-up round for family game night, or a confidence-builder before you graduate to our [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers).
+Easy is the point here. Nothing below requires knowing an obscure name, an exact measurement, or a minor prophet. If someone has heard the story once in Sunday school or seen the picture-book version, they can get it. That makes this list perfect as an easy Bible quiz with answers for kids, a warm-up round for family game night, or a confidence-builder before you graduate to our [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers).
 
 ## In the Beginning: Creation and Noah (Questions 1-12)
 
 1. Who created the heavens and the earth? **God** (Genesis 1:1)
-2. How many days did God spend creating the world, and what did he do on the seventh? **Six days -- and he rested on the seventh** (Genesis 2:2)
+2. How many days did God spend creating the world, and what did he do on the seventh? **Six days, and he rested on the seventh** (Genesis 2:2)
 3. What did God create on the very first day? **Light** (Genesis 1:3)
 4. Who was the first man? **Adam** (Genesis 2:20)
 5. Who was the first woman? **Eve** (Genesis 3:20)
@@ -55,11 +55,11 @@ Easy is the point here. Nothing below requires knowing an obscure name, an exact
 36. What did David use to defeat the giant? **A sling and a stone** (1 Samuel 17:50)
 37. What instrument did David play to calm King Saul? **The harp (lyre)** (1 Samuel 16:23)
 38. Which king was famous for being the wisest man who ever lived? **Solomon** (1 Kings 3:12)
-39. When God offered Solomon anything he wanted, what did he ask for? **Wisdom -- a discerning heart** (1 Kings 3:9)
+39. When God offered Solomon anything he wanted, what did he ask for? **Wisdom, a discerning heart** (1 Kings 3:9)
 40. Who was thrown into a den of lions? **Daniel** (Daniel 6:16)
 41. Why was Daniel thrown to the lions? **Because he kept praying to God when the king's law said not to** (Daniel 6:10)
 42. Which three friends were thrown into the fiery furnace? **Shadrach, Meshach, and Abednego** (Daniel 3:23)
-43. What amazed the king when he looked into the furnace? **He saw four men walking around unharmed -- God protected them** (Daniel 3:25)
+43. What amazed the king when he looked into the furnace? **He saw four men walking around unharmed, God protected them** (Daniel 3:25)
 44. Who was swallowed by a huge fish? **Jonah** (Jonah 1:17)
 45. How long was Jonah inside the fish? **Three days and three nights** (Jonah 1:17)
 46. Which brave queen risked her life to save her people? **Esther** (Esther 7:3)
@@ -98,13 +98,13 @@ There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, 
 69. Which short tax collector climbed a tree to see Jesus? **Zacchaeus** (Luke 19:2-4)
 70. What kind of tree did Zacchaeus climb? **A sycamore-fig tree** (Luke 19:4)
 71. In Jesus' famous parable, what do we call the son who ran away, spent everything, and came home to a forgiving father? **The prodigal (lost) son** (Luke 15:11-24)
-72. In another parable, what kind of man stopped to help the hurt traveler on the road? **A Samaritan -- the Good Samaritan** (Luke 10:33)
+72. In another parable, what kind of man stopped to help the hurt traveler on the road? **A Samaritan, the Good Samaritan** (Luke 10:33)
 73. In Jesus' story, the shepherd left ninety-nine sheep to find how many lost ones? **One** (Luke 15:4)
 74. What famous prayer did Jesus teach that begins "Our Father"? **The Lord's Prayer** (Matthew 6:9)
 75. Jesus said to love your ___ as yourself. **Neighbor** (Matthew 22:39)
 76. Who did Jesus say to let come to him, because the kingdom of heaven belongs to such as these? **The little children** (Matthew 19:14)
 77. What was Jesus' trade before his ministry began? **He was a carpenter** (Mark 6:3)
-78. What did the poor widow put in the temple offering that Jesus praised? **Two very small copper coins -- everything she had** (Mark 12:42-44)
+78. What did the poor widow put in the temple offering that Jesus praised? **Two very small copper coins, everything she had** (Mark 12:42-44)
 
 ## Easter and the Early Church (Questions 79-92)
 
@@ -136,17 +136,17 @@ There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, 
 
 ## How to Use These Questions
 
-Keep it short and let people win. Five to ten questions at dinner or in the car beats a hundred in one sitting, and with beginners the goal is momentum -- a kid who goes four-for-five tonight will ask to play again tomorrow. Read the question, take all guesses, then read the bold answer and the verse; if a story is new to someone, that's your cue to go read it together. Our five-minute story guides to [David and Goliath](/blog/david-and-goliath-for-kids) and [Noah and the great flood](/blog/noah-and-the-great-flood-for-kids) cover two of the biggest ones on this list.
+Keep it short and let people win. Five to ten questions at dinner or in the car beats a hundred in one sitting, and with beginners the goal is momentum. A kid who goes four-for-five tonight will ask to play again tomorrow. Read the question, take all guesses, then read the bold answer and the verse; if a story is new to someone, that's your cue to go read it together. Our five-minute story guides to [David and Goliath](/blog/david-and-goliath-for-kids) and [Noah and the great flood](/blog/noah-and-the-great-flood-for-kids) cover two of the biggest ones on this list.
 
-When this list gets too easy -- and it will -- level up through our [Bible trivia for kids](/blog/bible-trivia-for-kids), then [Bible trivia for teens](/blog/bible-trivia-for-teens), then the mixed-difficulty [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers). And when your family is ready to be humbled, our [hard Bible trivia questions](/blog/hard-bible-trivia-questions) run 150 questions all the way up to nearly impossible.
+When this list gets too easy, and it will, level up through our [Bible trivia for kids](/blog/bible-trivia-for-kids), then [Bible trivia for teens](/blog/bible-trivia-for-teens), then the mixed-difficulty [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers). And when your family is ready to be humbled, our [hard Bible trivia questions](/blog/hard-bible-trivia-questions) run 150 questions all the way up to nearly impossible.
 
-Want kids to learn these stories before quizzing them? The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through every major Bible story with a short video and a quiz after each episode -- so trivia night stops being a pop quiz and starts being a victory lap.
+Want kids to learn these stories before quizzing them? The video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through every major Bible story with a short video and a quiz after each episode, so trivia night stops being a pop quiz and starts being a victory lap.
 
 If you would rather hand out paper than pass a phone around, our free [printable Bible Trivia Pack](/printables/bible-trivia-pack) has 100 questions sorted by difficulty with an answer key in the back.
 
 Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
 
-When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults), the warm-up round catches almost everyone on the stories they think they know.
 
 If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
 
@@ -160,19 +160,19 @@ The easiest questions come from the five most-told stories: Noah's ark (who buil
 
 ### What age are these easy Bible trivia questions for?
 
-Kids who know the classic Bible stories can start around age 5-6 with the Creation, Noah, and Christmas sections. Ages 7-10 can handle the full list, and it also works for adults who are new to the Bible -- "easy" here means famous stories and big names, not baby talk.
+Kids who know the classic Bible stories can start around age 5-6 with the Creation, Noah, and Christmas sections. Ages 7-10 can handle the full list, and it also works for adults who are new to the Bible. "Easy" here means famous stories and big names, not baby talk.
 
 ### How is easy Bible trivia different from regular Bible trivia?
 
-Easy trivia only asks about things people absorb from hearing a story once: who, where, and what happened. Regular and hard trivia adds exact numbers, minor characters, and details from less-famous books. Compare this list to our [hard Bible trivia questions](/blog/hard-bible-trivia-questions) and you'll see the difference immediately -- there's no Methuselah math here.
+Easy trivia only asks about things people absorb from hearing a story once: who, where, and what happened. Regular and hard trivia adds exact numbers, minor characters, and details from less-famous books. Compare this list to our [hard Bible trivia questions](/blog/hard-bible-trivia-questions) and you'll see the difference immediately; there's no Methuselah math here.
 
 ### Do the answers include Bible verses?
 
-Yes -- every one of the 100 answers has a verse reference in parentheses, so you can open the Bible and read the story behind any question. That turns a right answer into a two-minute story time and a wrong answer into a "let's go find out" moment.
+Yes, every one of the 100 answers has a verse reference in parentheses, so you can open the Bible and read the story behind any question. That turns a right answer into a two-minute story time and a wrong answer into a "let's go find out" moment.
 
 ### How do I play Bible trivia with beginners without discouraging them?
 
-Let them see the wins pile up: ask questions in order (the earliest ones are the most famous), give hints freely, and never keep score the first few rounds. When someone misses, read the verse out loud instead of just announcing the answer -- the game should teach the stories, not test for gaps.
+Let them see the wins pile up: ask questions in order (the earliest ones are the most famous), give hints freely, and never keep score the first few rounds. When someone misses, read the verse out loud instead of just announcing the answer; the game should teach the stories, not test for gaps.
 
 ### Where can I find harder Bible trivia once we master these?
 

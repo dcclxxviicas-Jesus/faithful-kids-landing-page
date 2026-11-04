@@ -332,7 +332,7 @@ null
 },
 {
 "num": 7,
-"clue": "A follower of Jesus -- he chose twelve of them",
+"clue": "A follower of Jesus, he chose twelve of them",
 "answer": "DISCIPLE",
 "row": 7,
 "col": 8,
@@ -364,7 +364,7 @@ null
 },
 {
 "num": 11,
-"clue": "The 'good news' -- also what Matthew, Mark, Luke, and John are called",
+"clue": "The 'good news', also what Matthew, Mark, Luke, and John are called",
 "answer": "GOSPEL",
 "row": 13,
 "col": 0,
@@ -398,7 +398,7 @@ null
 },
 {
 "num": 5,
-"clue": "God's messenger -- usually starts by saying 'Do not be afraid'",
+"clue": "God's messenger, usually starts by saying 'Do not be afraid'",
 "answer": "ANGEL",
 "row": 3,
 "col": 14,
@@ -406,7 +406,7 @@ null
 },
 {
 "num": 6,
-"clue": "God's book -- 66 books bound as one",
+"clue": "God's book, 66 books bound as one",
 "answer": "BIBLE",
 "row": 6,
 "col": 12,
@@ -414,7 +414,7 @@ null
 },
 {
 "num": 8,
-"clue": "Talking to God -- you can do it anywhere, eyes open or closed",
+"clue": "Talking to God, you can do it anywhere, eyes open or closed",
 "answer": "PRAYER",
 "row": 9,
 "col": 4,
@@ -1256,7 +1256,7 @@ null
 },
 {
 "num": 7,
-"clue": "The stubborn king who said no -- ten times",
+"clue": "The stubborn king who said no, ten times",
 "answer": "PHARAOH",
 "row": 6,
 "col": 6,
@@ -1623,7 +1623,7 @@ null
 },
 {
 "num": 2,
-"clue": "King Saul lent David his -- it was far too big",
+"clue": "King Saul lent David his, it was far too big",
 "answer": "ARMOR",
 "row": 1,
 "col": 11,
@@ -1647,7 +1647,7 @@ null
 },
 {
 "num": 7,
-"clue": "Goliath stood over nine feet tall -- he was one",
+"clue": "Goliath stood over nine feet tall, he was one",
 "answer": "GIANT",
 "row": 8,
 "col": 3,
@@ -1848,7 +1848,7 @@ null
 },
 {
 "num": 5,
-"clue": "Magdalene -- the first to see the risen Jesus",
+"clue": "Magdalene, the first to see the risen Jesus",
 "answer": "MARY",
 "row": 2,
 "col": 3,
@@ -1864,7 +1864,7 @@ null
 },
 {
 "num": 8,
-"clue": "Gethsemane -- where Jesus prayed on the night he was arrested",
+"clue": "Gethsemane, where Jesus prayed on the night he was arrested",
 "answer": "GARDEN",
 "row": 4,
 "col": 4,
@@ -1872,7 +1872,7 @@ null
 },
 {
 "num": 10,
-"clue": "What Jesus is -- the whole point of Easter morning",
+"clue": "What Jesus is, the whole point of Easter morning",
 "answer": "ALIVE",
 "row": 5,
 "col": 0,
@@ -2221,7 +2221,7 @@ null
 },
 {
 "num": 7,
-"clue": "Bartimaeus was -- until Jesus healed him",
+"clue": "Bartimaeus was, until Jesus healed him",
 "answer": "BLIND",
 "row": 6,
 "col": 5,

@@ -10,7 +10,7 @@ dateModified: "2026-08-19"
 
 Bible study printables are one-page tools that make family Bible time run itself: a study planner so nobody has to decide what to read, a memory tracker so verses get reviewed, a reading chart so kids can see progress, discussion cards so the conversation does not stall, and a sermon notes page so church stops being forty minutes of wiggling. Below is exactly what goes on each one, so you can build them on plain paper this afternoon.
 
-We are describing templates rather than handing you a folder of PDFs on purpose. The printables that get used in real homes are the ones matched to your family's actual reading plan, your kids' actual ages, and your church's actual service -- and those you can only make yourself. The good news is that none of them are complicated.
+We are describing templates rather than handing you a folder of PDFs on purpose. The printables that get used in real homes are the ones matched to your family's actual reading plan, your kids' actual ages, and your church's actual service, and those you can only make yourself. The good news is that none of them are complicated.
 
 ## What Makes a Bible Study Printable Actually Get Used?
 
@@ -32,7 +32,7 @@ A family study planner is a one-page sheet that maps a week of family Bible time
 |---|---|---|---|---|
 | Mon | | | | |
 
-Fill in Monday through Sunday on Sunday afternoon. The "who reads" column is the sneaky one -- rotating the reader turns a lecture into a shared thing, and a 7-year-old who knows Thursday is his night shows up differently.
+Fill in Monday through Sunday on Sunday afternoon. The "who reads" column is the sneaky one. Rotating the reader turns a lecture into a shared thing, and a 7-year-old who knows Thursday is his night shows up differently.
 
 **Two upgrades:**
 
@@ -47,15 +47,15 @@ A memory tracker is a grid that makes verse memorization a visible streak rather
 
 **Layout:** A portrait page with a header ("Verses I Know") and 12 to 24 wide rows. Four columns: **Verse reference | First few words | Date learned | Review checkmarks (5 small boxes).**
 
-The five review boxes are the important design choice. Memory works on spaced repetition, so a verse is not "done" when it is first recited -- it is done after it has been recited again a day later, a week later, a month later, and three months later. Five boxes, five reviews, spread out. Kids fill one box each time they recite it cleanly from memory.
+The five review boxes are the important design choice. Memory works on spaced repetition, so a verse is not "done" when it is first recited. It is done after it has been recited again a day later, a week later, a month later, and three months later. Five boxes, five reviews, spread out. Kids fill one box each time they recite it cleanly from memory.
 
-**How to run it:** review two verses at breakfast, take about ninety seconds, and let the child hold the pen. Pair the tracker with a physical ring of cards -- our [printable Bible memory verse cards](/blog/bible-memory-verse-cards-printable) guide has 20 kid-ready verses already formatted for cutting, and the game-based approaches in [Bible memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) are what to do when a verse will not stick.
+**How to run it:** review two verses at breakfast, take about ninety seconds, and let the child hold the pen. Pair the tracker with a physical ring of cards, our [printable Bible memory verse cards](/blog/bible-memory-verse-cards-printable) guide has 20 kid-ready verses already formatted for cutting, and the game-based approaches in [Bible memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) are what to do when a verse will not stick.
 
 To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart; honest about dates, from Creation to the early church.
 
 ## 3. The Reading Plan Chart
 
-A reading plan chart is a grid of numbered squares -- one per reading -- that gets posted somewhere everyone walks past, and it is the printable that most reliably turns intention into habit.
+A reading plan chart is a grid of numbered squares, one per reading, that gets posted somewhere everyone walks past, and it is the printable that most reliably turns intention into habit.
 
 **Layout:** One page, a title, and a grid of squares numbered 1 through 30 (or 1 through 66 for a books-of-the-Bible run, or 1 through 90 for a summer plan). Each square is big enough for a checkmark, a sticker, or a scribbled date. Under the grid, a single line: "When the grid is full, we celebrate by ______." Let the kids fill in that blank.
 
@@ -92,7 +92,7 @@ Question 6 is the one to keep in every deck. Kids who learn that "I do not get i
 
 ## 5. Sermon Notes for Kids
 
-A kids' sermon notes page is a simple half-sheet that gives a child a job during the service, which is the entire mechanism -- a kid with a task listens, and a kid with nothing to do fidgets.
+A kids' sermon notes page is a simple half-sheet that gives a child a job during the service, which is the entire mechanism, a kid with a task listens, and a kid with nothing to do fidgets.
 
 **Layout by age, because one page does not fit all:**
 
@@ -101,11 +101,11 @@ A kids' sermon notes page is a simple half-sheet that gives a child a job during
 - **Ages 10-12:** Passage line, three bullet lines for main points, a box for "one question I want to ask," and a line for "one thing I will do this week."
 - **Teens:** Passage, main points, cross-references mentioned, and a box titled "What I would push back on." Teens engage with a sermon they are allowed to argue with.
 
-Bring a clipboard and a pencil, not a pen. Collect the pages in a binder and read the year's stack in December -- it is a surprisingly moving record of what a kid was thinking about.
+Bring a clipboard and a pencil, not a pen. Collect the pages in a binder and read the year's stack in December, it is a surprisingly moving record of what a kid was thinking about.
 
 Sermon notes have a second use worth knowing: they work identically for video lessons. Our episodes at [Faithful Kids](https://faithfulkids.app/quiz) end with a quiz and a reflection, and a kid filling in a notes page while watching processes far more than one watching passively.
 
-For the rest of the printable landscape -- coloring pages, word searches, bingo, mazes -- see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). Sunday school teachers building lessons around these sheets should also look at our [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school).
+For the rest of the printable landscape, coloring pages, word searches, bingo, mazes, see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). Sunday school teachers building lessons around these sheets should also look at our [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school).
 
 All five printables on this page are ours, free, with no email wall; and they pair with the rest of the [Faithful Kids free printables](/printables): coloring pages, word searches, and quiz PDFs with answer keys.
 
@@ -120,7 +120,7 @@ You do not use all five at once. A realistic week for a family with elementary-a
 | Weekday breakfast | Verse memory tracker | 2 min |
 | Weeknight after dinner | Reading chart + a discussion card | 10 min |
 
-That is roughly fifteen minutes a day, most of it attached to meals you were already eating. Start with two of the five -- the reading chart and the discussion cards are the highest-return pair -- and add the others only once those two run without reminders.
+That is roughly fifteen minutes a day, most of it attached to meals you were already eating. Start with two of the five, the reading chart and the discussion cards are the highest-return pair, and add the others only once those two run without reminders.
 
 Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this; each page names the scripture it comes from.
 
@@ -128,7 +128,7 @@ Twelve words from a single story: try our [Bible word search puzzles](/printable
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
-And when the room needs to get quiet, hand out a [Bible crossword](/printables/bible-crossword) -- seven free story-based puzzles, no sign-up.
+And when the room needs to get quiet, hand out a [Bible crossword](/printables/bible-crossword), seven free story-based puzzles, no sign-up.
 
 ## Frequently Asked Questions
 
@@ -146,12 +146,12 @@ A worksheet tests what a child already read; a study printable structures the re
 
 ### Can I use these printables for Sunday school or a co-op?
 
-Yes -- every template here scales to a classroom, and the discussion cards and sermon notes pages are especially good in groups. Make one master, photocopy a class set, and keep them in a folder with the curriculum. If you use printables downloaded from other creators, check their terms: most allow unlimited printing for church and classroom use but prohibit resale or re-hosting the files.
+Yes, every template here scales to a classroom, and the discussion cards and sermon notes pages are especially good in groups. Make one master, photocopy a class set, and keep them in a folder with the curriculum. If you use printables downloaded from other creators, check their terms: most allow unlimited printing for church and classroom use but prohibit resale or re-hosting the files.
 
 ### How long should family Bible study actually take?
 
-Ten to fifteen minutes for elementary-age kids, and five is fine for preschoolers. The most common mistake families make is designing a forty-minute study, running it twice, and quitting. A short reading, one question from the card jar, and a checkmark on the chart is a complete session -- and one you can sustain on a Tuesday when everyone is tired.
+Ten to fifteen minutes for elementary-age kids, and five is fine for preschoolers. The most common mistake families make is designing a forty-minute study, running it twice, and quitting. A short reading, one question from the card jar, and a checkmark on the chart is a complete session, and one you can sustain on a Tuesday when everyone is tired.
 
 ### What if my kids resist family Bible time entirely?
 
-Shrink it and give them a job. Resistance almost always drops when the session is under ten minutes and the child has a role: reading a verse aloud, drawing the card from the jar, marking the chart. Start with the printables that require the least output -- the reading chart and a discussion card -- and hold off on anything that asks a reluctant kid to write until the routine itself is uncontroversial.
+Shrink it and give them a job. Resistance almost always drops when the session is under ten minutes and the child has a role: reading a verse aloud, drawing the card from the jar, marking the chart. Start with the printables that require the least output, the reading chart and a discussion card, and hold off on anything that asks a reluctant kid to write until the routine itself is uncontroversial.

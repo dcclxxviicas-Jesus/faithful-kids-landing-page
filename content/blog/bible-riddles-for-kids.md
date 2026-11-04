@@ -2,7 +2,7 @@
 title: "45 Bible Riddles for Kids (With Answers)"
 slug: "bible-riddles-for-kids"
 type: "listicle"
-metaDescription: "45 fun Bible riddles for kids with answers and verse references -- Old Testament, New Testament, and tricky ones. Great for car rides and Sunday school."
+metaDescription: "45 fun Bible riddles for kids with answers and verse references, Old Testament, New Testament, and tricky ones. Great for car rides and Sunday school."
 keywords: ["bible riddles for kids", "bible riddles with answers", "bible brain teasers for children"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-19"
@@ -14,7 +14,7 @@ These 45 Bible riddles are perfect for car rides, dinner table fun, Sunday schoo
 
 They are sorted into four sections: 20 classic riddles to start with, a batch of Old Testament riddles, a batch of New Testament riddles, and four tricky ones saved for the kid who already knows every Bible story cold.
 
-**Need this on paper?** [Download the free riddle sheets PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-riddles.pdf) -- all 45 riddles as read-aloud sheets with the answer key on its own pages, so nobody can peek over a shoulder. No sign-up, free to photocopy.
+**Need this on paper?** [Download the free riddle sheets PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-riddles.pdf); all 45 riddles as read-aloud sheets with the answer key on its own pages, so nobody can peek over a shoulder. No sign-up, free to photocopy.
 
 Ready? See how many your family can solve.
 
@@ -347,7 +347,7 @@ Answer: **The day the sun stood still** (Joshua 10:12-14). Joshua prayed for mor
 
 **Bedtime.** Read one riddle as a bedtime brain teaser. If your child gets it right, they choose the bedtime story. If not, you look up the Bible passage together and read the real story.
 
-For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword) -- free to print, answer keys included.
+For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword); free to print, answer keys included.
 
 And when the kids start repeating the same three jokes, restock from our [clean Christian jokes for the whole family](/blog/christian-jokes).
 

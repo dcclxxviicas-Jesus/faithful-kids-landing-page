@@ -94,7 +94,7 @@ Throughout history, powerful rulers and governments have tried to ban, burn, or 
 ### 24. More Than 5 Billion Copies Have Been Sold
 The Bible is the best-selling book of all time, by a huge margin. No other book in human history has been printed, purchased, and distributed as widely. Over 5 billion copies and counting.
 
-### 25. The Bible Predicts Over 300 Things About Jesus, All of Which Came True
+### 25. The Bible Predicts Over 300 Things About Jesus: All of Which Came True
 The Old Testament, written hundreds of years before Jesus was born, contains over 300 prophecies about the coming Messiah: where He would be born (Micah 5:2, Bethlehem), how He would die (Psalm 22, Isaiah 53), that He would be betrayed for 30 pieces of silver (Zechariah 11:12-13), and much more. The odds of one person fulfilling even a fraction of these prophecies by chance are astronomically small. This is one of the strongest evidences that the Bible is inspired by God.
 
 ## Bonus: 5 Quick Facts to Share at Dinner Tonight

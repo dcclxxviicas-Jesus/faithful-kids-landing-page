@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How many prophets of Baal gathered on Mount Carmel to face Elijah?
 
-**450 prophets of Baal.** It was 450 against one -- and one man with the true God was more than enough (1 Kings 18:22).
+**450 prophets of Baal.** It was 450 against one, and one man with the true God was more than enough (1 Kings 18:22).
 
 ### What was the challenge Elijah proposed?
 

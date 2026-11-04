@@ -14,13 +14,13 @@ The first day of school is a big deal. New teachers, new classrooms, maybe even 
 
 The Bible is full of [verses about courage](/blog/bible-verses-about-courage-for-kids), strength, and new beginnings that speak directly to the jitters kids feel on that first morning. Whether your child is starting kindergarten or walking into middle school for the first time, these ten verses can anchor their hearts and remind them they are never alone.
 
-Here are ten Bible verses to share with your child on the first day of school -- and practical ways to make them stick.
+Here are ten Bible verses to share with your child on the first day of school, and practical ways to make them stick.
 
 ## 1. Joshua 1:9
 
 **"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."**
 
-This is the ultimate first-day-of-school verse. God told these words to Joshua when he was about to lead the Israelites into a brand new land -- a huge, scary job. But God didn't say "don't worry, it'll be easy." He said "I'll be with you wherever you go."
+This is the ultimate first-day-of-school verse. God told these words to Joshua when he was about to lead the Israelites into a brand new land; a huge, scary job. But God didn't say "don't worry, it'll be easy." He said "I'll be with you wherever you go."
 
 Your child isn't walking into that classroom alone. God goes with them through the door, sits with them at their desk, and stays beside them on the playground.
 
@@ -50,7 +50,7 @@ For Valentine's Day, our free [printable Valentine Bible verse cards](/printable
 
 Starting something new means not knowing what's ahead. Kids don't know who their friends will be, whether they'll like their teacher, or if the work will be too hard. This verse teaches them that it's okay not to have all the answers. When they trust God, He straightens the path.
 
-**How to talk about it with kids:** Explain the idea of "leaning" -- when you lean on something, you put your weight on it. God is saying, "Don't lean on your own worries. Lean on Me instead. I've got you."
+**How to talk about it with kids:** Explain the idea of "leaning"; when you lean on something, you put your weight on it. God is saying, "Don't lean on your own worries. Lean on Me instead. I've got you."
 
 ## 5. Jeremiah 29:11
 
@@ -64,7 +64,7 @@ God has good plans for your child. Not just for someday in the distant future, b
 
 **"Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you."**
 
-Moses spoke these words to the Israelites before they entered the Promised Land. They were facing armies and walled cities. Your child might feel like they're facing something just as daunting -- a cafeteria full of strangers or a class where they don't know anyone. The promise is the same: God will never leave them.
+Moses spoke these words to the Israelites before they entered the Promised Land. They were facing armies and walled cities. Your child might feel like they're facing something just as daunting; a cafeteria full of strangers or a class where they don't know anyone. The promise is the same: God will never leave them.
 
 **How to use it:** If your child is particularly anxious, this verse is worth memorizing together. Practice it for a few days before school starts so it's ready in their heart when they need it most. These [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids) offer more options for worried hearts.
 
@@ -80,13 +80,13 @@ This might be the most honest verse on this list. It doesn't say "I'm never afra
 
 **"When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you."**
 
-This verse uses vivid imagery that kids can picture. Imagine walking through a river -- the water is swirling around you, and it feels like it might knock you down. But God says, "I'll be with you, and the water won't sweep you away." For a child nervous about a new school year, this is deeply comforting. The hard things won't overwhelm them because God is there.
+This verse uses vivid imagery that kids can picture. Imagine walking through a river; the water is swirling around you, and it feels like it might knock you down. But God says, "I'll be with you, and the water won't sweep you away." For a child nervous about a new school year, this is deeply comforting. The hard things won't overwhelm them because God is there.
 
 **How to talk about it with kids:** Ask, "What feels like a rushing river to you right now?" Maybe it's making new friends, or a subject they find difficult. Then remind them that God promises the river won't sweep them away.
 
 ## 9. Psalm 121:1-2
 
-**"I lift up my eyes to the mountains -- where does my help come from? My help comes from the Lord, the Maker of heaven and earth."**
+**"I lift up my eyes to the mountains; where does my help come from? My help comes from the Lord, the Maker of heaven and earth."**
 
 When kids feel overwhelmed, they need to know where to look. This verse points them upward. Their help doesn't come from having the coolest shoes or the best supplies. It comes from the God who made mountains and oceans and stars. If He can make all of that, He can certainly help them through a school day.
 
@@ -118,7 +118,7 @@ The first day of school morning can be chaotic. Lunches to pack, shoes to find, 
 
 The first day of school is a natural starting point, but these verses aren't just for September. Consider choosing one verse a month throughout the school year. Write it on the family whiteboard, practice it at dinner, and celebrate when your child can say it from memory. These [memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) make the process easier, and pairing verses with [back-to-school Bible stories](/blog/back-to-school-bible-stories-for-kids) helps younger kids connect the words to real characters.
 
-By the end of the school year, your child will have ten Bible verses hidden in their heart -- ready to give them courage not just at school, but in every new situation they face.
+By the end of the school year, your child will have ten Bible verses hidden in their heart; ready to give them courage not just at school, but in every new situation they face.
 
 ## Watch on Faithful Kids
 
@@ -142,4 +142,4 @@ Yes. The concepts of courage, trust, and God's presence are relevant for childre
 
 ### How do I keep Bible verses relevant throughout the school year?
 
-Choose a "verse of the month" and display it somewhere visible in your home. Talk about it at meals, reference it when your child faces challenges, and celebrate when they memorize it. You can also connect verses to real situations -- when your child has a tough test, revisit Philippians 4:13. When they feel left out, return to Isaiah 41:10. This makes Scripture a living, practical resource rather than something they only hear on Sundays.
+Choose a "verse of the month" and display it somewhere visible in your home. Talk about it at meals, reference it when your child faces challenges, and celebrate when they memorize it. You can also connect verses to real situations; when your child has a tough test, revisit Philippians 4:13. When they feel left out, return to Isaiah 41:10. This makes Scripture a living, practical resource rather than something they only hear on Sundays.

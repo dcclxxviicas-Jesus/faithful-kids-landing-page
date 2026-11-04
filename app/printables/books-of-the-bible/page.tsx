@@ -13,11 +13,11 @@ const GREEN_DARK = '#15803d'
    KD 0; "books of the bible bookmark" 390/mo KD 0 (DataForSEO Oct 29, 2026).
    SERP is Pinterest, Etsy and worksheet blogs. Exact phrase leads the title. */
 export const metadata = {
-  title: { absolute: 'Books of the Bible, Free Printable Chart & Bookmarks' },
+  title: { absolute: 'Books of the Bible: Free Printable Chart & Bookmarks' },
   description: `All ${ALL_BOOKS.length} books of the Bible on one free printable chart, in order, in their groups, with chapter counts, plus cut-out bookmarks. No sign-up.`,
   alternates: { canonical: 'https://faithfulkids.app/printables/books-of-the-bible' },
   openGraph: {
-    title: 'Books of the Bible, Free Printable Chart & Bookmarks',
+    title: 'Books of the Bible: Free Printable Chart & Bookmarks',
     description: `All ${ALL_BOOKS.length} books in order with chapter counts, plus printable bookmarks. Free, no sign-up.`,
     url: 'https://faithfulkids.app/printables/books-of-the-bible',
     siteName: 'Faithful Kids',

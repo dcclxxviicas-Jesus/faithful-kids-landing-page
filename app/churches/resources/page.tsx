@@ -27,12 +27,12 @@ import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
  */
 
 export const metadata: Metadata = {
-  title: { absolute: "Children's Ministry Resources, Free Library" },
+  title: { absolute: "Children's Ministry Resources: Free Library" },
   description:
     "A free resource library for children's ministry leaders and Sunday school teachers, lesson guides, games, printables, Bible maps and trivia. No sign-up.",
   alternates: { canonical: 'https://faithfulkids.app/churches/resources' },
   openGraph: {
-    title: "Children's Ministry Resources, Free Library",
+    title: "Children's Ministry Resources: Free Library",
     description:
       "Lesson guides, games, printables, Bible maps and trivia for children's ministry leaders and Sunday school teachers. All free.",
     url: 'https://faithfulkids.app/churches/resources',
@@ -52,7 +52,7 @@ const SECTIONS: Section[] = [
     sub: 'From first conversation to first Sunday, the complete roadmap.',
     cards: [
       { href: '/blog/how-to-start-a-childrens-ministry', title: "How to Start a Children's Ministry", blurb: 'The complete step-by-step guide: planning, child safety, volunteers, curriculum, launch, and growth.' },
-      { href: 'https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf', title: 'Children’s Ministry Launch Kit (PDF)', blurb: 'Fifteen designed templates, launch timeline, safety policy outline, volunteer role cards, screening tracker, rota, budget, check-in cards, incident form, first-Sunday checklist.' },
+      { href: 'https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf', title: 'Children’s Ministry Launch Kit (PDF)', blurb: 'Fifteen designed templates: launch timeline, safety policy outline, volunteer role cards, screening tracker, rota, budget, check-in cards, incident form, first-Sunday checklist.' },
       { href: '/blog/how-to-start-kids-bible-study-group', title: 'Start a Kids Bible Study Group', blurb: 'The smaller first step: a weekly group, from first invite to routine.' },
     ],
   },
@@ -61,10 +61,10 @@ const SECTIONS: Section[] = [
     title: 'Teach the Bible',
     sub: 'Lesson plans and teaching guides by age, ready for this Sunday.',
     cards: [
-      { href: '/blog/sunday-school-lessons-for-kids', title: 'Sunday School Lessons for Kids', blurb: 'The core lesson library, stories, structure, and discussion questions.' },
-      { href: '/blog/sunday-school-lessons-for-preschoolers', title: 'Lessons for Preschoolers', blurb: 'Short attention spans, big truths, lessons scaled for ages 3-5.' },
+      { href: '/blog/sunday-school-lessons-for-kids', title: 'Sunday School Lessons for Kids', blurb: 'The core lesson library: stories, structure, and discussion questions.' },
+      { href: '/blog/sunday-school-lessons-for-preschoolers', title: 'Lessons for Preschoolers', blurb: 'Short attention spans, big truths: lessons scaled for ages 3-5.' },
       { href: '/blog/sunday-school-lessons-for-teens', title: 'Lessons for Teens', blurb: 'Discussion-first lessons that survive contact with teenagers.' },
-      { href: '/blog/free-sunday-school-lessons', title: 'Free Sunday School Lessons', blurb: 'Where to find genuinely free lessons, including ours.' },
+      { href: '/blog/free-sunday-school-lessons', title: 'Free Sunday School Lessons', blurb: 'Where to find genuinely free lessons: including ours.' },
       { href: '/blog/how-to-teach-kids-the-bible', title: 'How to Teach Kids the Bible', blurb: 'The methods that work by age, from story to application.' },
       { href: '/blog/free-bible-curriculum-for-kids-ministry', title: 'Free Bible Curriculum for Kids Ministry', blurb: 'Free curriculum options compared honestly, ours included.' },
     ],
@@ -76,8 +76,8 @@ const SECTIONS: Section[] = [
     cards: [
       { href: '/blog/sunday-school-games-for-kids', title: 'Sunday School Games', blurb: '35 games organized by age and group size.' },
       { href: '/blog/bible-review-games-for-sunday-school', title: 'Bible Review Games', blurb: 'Make last week’s lesson stick before this week’s starts.' },
-      { href: '/bible-jeopardy', title: 'Bible Jeopardy (playable)', blurb: 'A ready-to-play classroom game board, six categories, team scoring.' },
-      { href: '/bible-trivia', title: 'Bible Trivia Game (playable)', blurb: 'The browser trivia game, also embeddable on your church site.' },
+      { href: '/bible-jeopardy', title: 'Bible Jeopardy (playable)', blurb: 'A ready-to-play classroom game board: six categories, team scoring.' },
+      { href: '/bible-trivia', title: 'Bible Trivia Game (playable)', blurb: 'The browser trivia game: also embeddable on your church site.' },
       { href: '/blog/bible-object-lessons-for-kids', title: 'Object Lessons', blurb: 'Everyday props, memorable points.' },
       { href: '/blog/bible-crafts-for-sunday-school', title: 'Bible Crafts', blurb: 'Crafts that connect to the lesson instead of decorating around it.' },
     ],
@@ -88,7 +88,7 @@ const SECTIONS: Section[] = [
     sub: 'Free printables that photocopy well, no email wall, no license to buy.',
     cards: [
       { href: '/printables', title: 'The Whole Printables Library', blurb: 'Coloring pages, word searches, crosswords, trivia packs and more.' },
-      { href: '/printables/bible-maps', title: 'Bible Maps (6 printable maps)', blurb: 'Real-geography maps, the Exodus, Paul’s journeys, the 12 tribes.' },
+      { href: '/printables/bible-maps', title: 'Bible Maps (6 printable maps)', blurb: 'Real-geography maps: the Exodus, Paul’s journeys, the 12 tribes.' },
       { href: '/printables/bible-timeline', title: 'Bible Timeline Chart', blurb: 'The whole story in order on one wall sheet.' },
       { href: '/printables/books-of-the-bible', title: 'Books of the Bible Chart', blurb: 'All 66 books with chapter counts, plus cut-out bookmarks.' },
       { href: '/printables/bible-coloring-pages', title: 'Bible Coloring Pages', blurb: '26 scenes, Creation to the Empty Tomb.' },
@@ -101,9 +101,9 @@ const SECTIONS: Section[] = [
     sub: 'Tools that keep the lesson going between Sundays.',
     cards: [
       { href: '/blog/15-minute-family-devotions', title: '15-Minute Family Devotions', blurb: 'A realistic weekly rhythm for busy families.' },
-      { href: '/blog/30-day-family-bible-challenge', title: '30-Day Family Bible Challenge', blurb: 'One month through the big story, printable tracker included.' },
+      { href: '/blog/30-day-family-bible-challenge', title: '30-Day Family Bible Challenge', blurb: 'One month through the big story: printable tracker included.' },
       { href: '/blog/family-bible-trivia-night', title: 'Family Bible Trivia Night', blurb: 'Turn review into a family event parents actually attend.' },
-      { href: '/blog/bedtime-prayers-for-kids', title: 'Bedtime Prayers for Kids', blurb: 'Send the day home quietly, short prayers families can keep.' },
+      { href: '/blog/bedtime-prayers-for-kids', title: 'Bedtime Prayers for Kids', blurb: 'Send the day home quietly: short prayers families can keep.' },
     ],
   },
 ]

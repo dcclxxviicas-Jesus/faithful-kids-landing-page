@@ -2,19 +2,19 @@
 title: "40 Short Memory Verses (Easy Enough for a 4-Year-Old)"
 slug: "short-memory-verses"
 type: "listicle"
-metaDescription: "40 short memory verses a preschooler can actually learn -- most under 10 words -- each quoted with its reference and a one-line kid-friendly meaning."
+metaDescription: "40 short memory verses a preschooler can actually learn, most under 10 words, each quoted with its reference and a one-line kid-friendly meaning."
 keywords: ["short memory verse", "easy memory verse", "short memory verses for kids", "easy bible verses to memorize", "short bible verses for preschoolers", "one line bible verses for kids"]
 datePublished: "2026-08-19"
 dateModified: "2026-08-19"
 ---
 
-A short memory verse is one a four-year-old can say in a single breath -- usually eight to ten words, one complete thought, no clauses to get lost in. Below are 40 of them, each quoted with its reference and a one-line meaning in kid language, grouped by theme so you can pick the one that fits this week.
+A short memory verse is one a four-year-old can say in a single breath, usually eight to ten words, one complete thought, no clauses to get lost in. Below are 40 of them, each quoted with its reference and a one-line meaning in kid language, grouped by theme so you can pick the one that fits this week.
 
 The mistake almost every family makes is starting too long. A child who fails at John 3:16 learns that memorizing is hard and they are bad at it. A child who nails "God is love" learns that memorizing is something they can do. Start with the second child's experience, and the long verses take care of themselves in a year or two.
 
 ## What Counts as a Short Memory Verse?
 
-Three tests. **Length:** under about ten words, so it fits in one breath. **Completeness:** it says a whole thought on its own, not a fragment that needs the next verse to make sense. **Concreteness:** the words mean something a small child can picture or feel -- love, help, afraid, kind -- rather than abstractions like righteousness or covenant.
+Three tests. **Length:** under about ten words, so it fits in one breath. **Completeness:** it says a whole thought on its own, not a fragment that needs the next verse to make sense. **Concreteness:** the words mean something a small child can picture or feel, love, help, afraid, kind, rather than abstractions like righteousness or covenant.
 
 All 40 verses below pass all three. Quotations are from the NIV unless noted, and where a well-known verse is longer than ten words, the short, self-contained clause is quoted on its own.
 
@@ -30,7 +30,7 @@ All 40 verses below pass all three. Quotations are from the NIV unless noted, an
 
 *"God is love."*
 
-**What it means:** Love Is not just something God does -- it is who He is.
+**What it means:** Love Is not just something God does; it is who He is.
 
 ### 3. Psalm 23:1
 
@@ -54,7 +54,7 @@ All 40 verses below pass all three. Quotations are from the NIV unless noted, an
 
 *"God is light; in him there is no darkness at all."*
 
-**What it means:** There is nothing dark or sneaky in God -- not even a little.
+**What it means:** There is nothing dark or sneaky in God; not even a little.
 
 ### 7. Psalm 46:1
 
@@ -154,7 +154,7 @@ There is also a set of free [Valentine Bible verse cards for kids](/printables/v
 
 *"Be strong and courageous. Do not be afraid."*
 
-**What it means:** God tells you to be brave -- and He means it.
+**What it means:** God tells you to be brave; and He means it.
 
 ### 22. Deuteronomy 31:6
 
@@ -182,7 +182,7 @@ There is also a set of free [Valentine Bible verse cards for kids](/printables/v
 
 ### 26. Psalm 27:1
 
-*"The Lord is my light and my salvation -- whom shall I fear?"*
+*"The Lord is my light and my salvation; whom shall I fear?"*
 
 **What it means:** If God is on your side, fear runs out of reasons.
 
@@ -228,7 +228,7 @@ There is also a set of free [Valentine Bible verse cards for kids](/printables/v
 
 *"Cast all your anxiety on him because he cares for you."*
 
-**What it means:** Hand your worries to God -- He actually wants them.
+**What it means:** Hand your worries to God; He actually wants them.
 
 ### 34. Psalm 46:10
 
@@ -246,7 +246,7 @@ There is also a set of free [Valentine Bible verse cards for kids](/printables/v
 
 *"They are new every morning; great is your faithfulness."*
 
-**What it means:** God's mercy resets overnight -- yesterday does not follow you.
+**What it means:** God's mercy resets overnight; yesterday does not follow you.
 
 ### 37. Matthew 28:20
 
@@ -288,7 +288,7 @@ When you're ready to move up in length, our [Bible verses for kids to memorize](
 
 The stories behind these verses matter too. Short animated Bible lessons on [Faithful Kids](https://faithfulkids.app/quiz) give kids the context that makes a memorized line mean something years later.
 
-Most of these verses land best at bedtime, when kids are calm and talkative. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short readings and a goodnight prayer built for exactly that window -- print it once and it pairs with any verse on this page.
+Most of these verses land best at bedtime, when kids are calm and talkative. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short readings and a goodnight prayer built for exactly that window; print it once and it pairs with any verse on this page.
 
 Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printable) so kids can see exactly where this book lives on the shelf.
 
@@ -296,11 +296,11 @@ Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printa
 
 ### What is the easiest Bible verse for a preschooler to memorize?
 
-"God is love" (1 John 4:8) is the easiest genuinely complete verse in the Bible -- three words, one idea, and a concept a three-year-old already understands. Close runners-up are "My help comes from the Lord" (Psalm 121:2) and "Be still, and know that I am God" (Psalm 46:10). Start with one of those three and you'll get a win in the first sitting.
+"God is love" (1 John 4:8) is the easiest genuinely complete verse in the Bible; three words, one idea, and a concept a three-year-old already understands. Close runners-up are "My help comes from the Lord" (Psalm 121:2) and "Be still, and know that I am God" (Psalm 46:10). Start with one of those three and you'll get a win in the first sitting.
 
 ### How short should a memory verse be for a 4-year-old?
 
-Under ten words, and ideally under six. At four, a child's working memory holds roughly three to four chunks at once, so a verse that breaks into two short phrases is at the top of what they can manage. If your child stalls in the same spot twice, the verse is too long -- cut it to a clause and come back to the full version at six or seven.
+Under ten words, and ideally under six. At four, a child's working memory holds roughly three to four chunks at once, so a verse that breaks into two short phrases is at the top of what they can manage. If your child stalls in the same spot twice, the verse is too long; cut it to a clause and come back to the full version at six or seven.
 
 ### Is it okay to memorize only part of a verse?
 
@@ -308,7 +308,7 @@ Yes, as long as the part you use is a complete thought and you don't change its 
 
 ### Which Bible translation is best for short memory verses?
 
-The NIV and NLT read most naturally aloud, and the NIrV is written at about a third-grade level if your child is young. Pick one translation and stay with it -- switching mid-verse is the most common reason a child who "knew it last week" suddenly stumbles. Most of the verses above are quoted from the NIV, with two from the ESV where its wording is shorter and more familiar.
+The NIV and NLT read most naturally aloud, and the NIrV is written at about a third-grade level if your child is young. Pick one translation and stay with it: switching mid-verse is the most common reason a child who "knew it last week" suddenly stumbles. Most of the verses above are quoted from the NIV, with two from the ESV where its wording is shorter and more familiar.
 
 ### How many short verses should a child learn in a year?
 
@@ -316,4 +316,4 @@ One a week is ambitious and one every two weeks is realistic for most families, 
 
 ### What do I do when my child memorizes a verse and forgets it a month later?
 
-That is normal, not failure -- it means the verse was learned but never reviewed. Keep every learned verse on a card in a box and pull three at random once a week to recite. Two minutes of weekly review is the difference between a child who has a growing bank of Scripture and one who only ever knows this week's verse.
+That is normal, not failure: it means the verse was learned but never reviewed. Keep every learned verse on a card in a box and pull three at random once a week to recite. Two minutes of weekly review is the difference between a child who has a growing bank of Scripture and one who only ever knows this week's verse.

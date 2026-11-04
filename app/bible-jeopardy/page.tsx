@@ -15,7 +15,7 @@ import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
    search. Absolute title: the layout suffix would push this past Google's
    ~60-char display cutoff. */
 export const metadata: Metadata = {
-  title: { absolute: 'Bible Jeopardy, Free Game with Questions & Answers' },
+  title: { absolute: 'Bible Jeopardy: Free Game with Questions & Answers' },
   description:
     `Play Bible Jeopardy free: a ${CATEGORIES.length}-category board, ${CLUE_COUNT} questions, team scoring, and a verse with every answer. For Sunday school, youth group, or family night.`,
   alternates: { canonical: 'https://faithfulkids.app/bible-jeopardy' },
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     'bible jeopardy for kids', 'bible jeopardy for youth',
   ],
   openGraph: {
-    title: 'Bible Jeopardy, Free Game with Questions & Answers',
+    title: 'Bible Jeopardy: Free Game with Questions & Answers',
     description:
       `A real ${CATEGORIES.length}-category Bible Jeopardy board with ${CLUE_COUNT} questions, team scoring, and every answer backed by its verse. Free, no sign-up.`,
     url: 'https://faithfulkids.app/bible-jeopardy',

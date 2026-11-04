@@ -56,7 +56,7 @@ The word "Trinity" is not actually in the Bible, but the idea is everywhere. Her
 
 Point out to your child: "See how Jesus mentions all three? The Father, the Son, and the Holy Spirit. And He says 'the name', singular, one name, not 'the names.' That is because they are one God."
 
-All three Persons also showed up together at [the baptism of Jesus](/blog/the-baptism-of-jesus-for-kids) -- the Son stood in the water, the Father spoke from heaven, and the Spirit descended like a dove.
+All three Persons also showed up together at [the baptism of Jesus](/blog/the-baptism-of-jesus-for-kids): the Son stood in the water, the Father spoke from heaven, and the Spirit descended like a dove.
 
 **2 Corinthians 13:14**, "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all."
 

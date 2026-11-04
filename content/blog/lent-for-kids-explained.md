@@ -10,15 +10,15 @@ dateModified: "2026-08-16"
 
 Lent is one of the most meaningful seasons in the Christian calendar, but for kids, it can feel mysterious. Why 40 days? Why do people give stuff up? What does it all have to do with Easter?
 
-This guide explains Lent in language kids understand, then gives your family a complete 40-day plan with weekly themes, daily Bible readings, and simple activities. By the time Easter arrives, your children won't just know the holiday -- they'll feel it.
+This guide explains Lent in language kids understand, then gives your family a complete 40-day plan with weekly themes, daily Bible readings, and simple activities. By the time Easter arrives, your children won't just know the holiday: they'll feel it.
 
 ## What Is Lent?
 
 Lent is a 40-day season of preparation before Easter. It starts on Ash Wednesday and ends on Holy Saturday (the day before Easter Sunday). Sundays are not counted in the 40 days because every Sunday is a mini-celebration of the resurrection.
 
-**Why 40 days?** The number 40 appears all over the Bible. It rained 40 days during the flood (Genesis 7:12). Moses spent 40 days on Mount Sinai (Exodus 24:18). The Israelites wandered 40 years in the wilderness (Numbers 14:33). And Jesus fasted 40 days in the desert before beginning His ministry (Matthew 4:1-2) -- a story we retell in [The Temptation in the Desert for kids](/blog/temptation-in-the-desert-for-kids). Forty is a number of testing, preparation, and transformation.
+**Why 40 days?** The number 40 appears all over the Bible. It rained 40 days during the flood (Genesis 7:12). Moses spent 40 days on Mount Sinai (Exodus 24:18). The Israelites wandered 40 years in the wilderness (Numbers 14:33). And Jesus fasted 40 days in the desert before beginning His ministry (Matthew 4:1-2): a story we retell in [The Temptation in the Desert for kids](/blog/temptation-in-the-desert-for-kids). Forty is a number of testing, preparation, and transformation.
 
-**Why do people give something up?** Giving up something during Lent (like sweets, TV, or video games) is a way of practicing self-discipline and making space for God. When you feel the urge for the thing you gave up, it's a reminder to pray instead. But Lent isn't just about giving up -- many families also take something on, like a daily Bible reading, a service project, or extra prayer time.
+**Why do people give something up?** Giving up something during Lent (like sweets, TV, or video games) is a way of practicing self-discipline and making space for God. When you feel the urge for the thing you gave up, it's a reminder to pray instead. But Lent isn't just about giving up: many families also take something on, like a daily Bible reading, a service project, or extra prayer time.
 
 **How to explain it to a young child:** "Lent is 40 days when we get our hearts ready for Easter. We remember what Jesus went through for us, and we practice listening to God more than usual. Some people give up something they like to make more room for God. Some people add something good, like helping others. It's like training your heart."
 
@@ -34,7 +34,7 @@ Lent is a 40-day season of preparation before Easter. It starts on Ash Wednesday
 | 2 | Genesis 1:26-31 | God creates people in His image |
 | 3 | Genesis 2:15-17 | The one rule in the garden |
 | 4 | Genesis 3:1-13 | The fall: sin enters the world |
-| 5 | Genesis 3:14-24 | The consequence -- and the first promise (3:15) |
+| 5 | Genesis 3:14-24 | The consequence: and the first promise (3:15) |
 | 6 | Psalm 51:10 | "Create in me a clean heart, O God" |
 
 **Family Activity:** On Ash Wednesday, talk about what your family will do differently during Lent. Each person picks one thing to give up and one thing to add. Write them on a poster and hang it where everyone can see.
@@ -63,7 +63,7 @@ Lent is a 40-day season of preparation before Easter. It starts on Ash Wednesday
 | 13 | Exodus 20:1-17 | The Ten Commandments |
 | 14 | Deuteronomy 6:4-9 | Love God with all your heart |
 | 15 | 1 Samuel 16:7 | God looks at the heart |
-| 16 | Isaiah 9:6-7 | A child will be born -- the Prince of Peace |
+| 16 | Isaiah 9:6-7 | A child will be born: the Prince of Peace |
 | 17 | Isaiah 53:3-6 | The suffering servant |
 | 18 | Micah 5:2 | The Messiah will come from Bethlehem |
 
@@ -82,7 +82,7 @@ Lent is a 40-day season of preparation before Easter. It starts on Ash Wednesday
 | 23 | Matthew 6:9-13 | Jesus teaches us to pray (The Lord's Prayer) |
 | 24 | John 13:34-35 | A new commandment: love one another |
 
-**Family Activity:** Memorize the Lord's Prayer together this week. Say it at bedtime each night. By the end of the week, see if everyone can say it from memory. Talk about what each line means -- our [Lord's Prayer for kids explained](/blog/lords-prayer-for-kids-explained) guide breaks it down line by line.
+**Family Activity:** Memorize the Lord's Prayer together this week. Say it at bedtime each night. By the end of the week, see if everyone can say it from memory. Talk about what each line means: our [Lord's Prayer for kids explained](/blog/lords-prayer-for-kids-explained) guide breaks it down line by line.
 
 ### Week 5: Jesus' Miracles and Parables (Days 25-30)
 
@@ -116,7 +116,7 @@ Lent is a 40-day season of preparation before Easter. It starts on Ash Wednesday
 
 ### Final Days: The Cross and the Tomb (Days 37-40)
 
-**Theme:** The hardest days -- and the most important. Jesus' trial, death, and burial.
+**Theme:** The hardest days: and the most important. Jesus' trial, death, and burial.
 
 | Day | Reading | Focus |
 |-----|---------|-------|
@@ -131,15 +131,15 @@ Lent is a 40-day season of preparation before Easter. It starts on Ash Wednesday
 
 **Read:** Matthew 28:1-10
 
-This isn't part of the 40 days -- it's the day everything Lent has been building toward. The tomb is empty. The stone is rolled away. Jesus is alive.
+This isn't part of the 40 days: it's the day everything Lent has been building toward. The tomb is empty. The stone is rolled away. Jesus is alive.
 
 **Family Activity:** Bring the cross from Good Friday outside. Remove the papers with sins and burdens. Replace them with flowers, ribbons, or colorful paper. The cross of death has become a symbol of life. Celebrate with a special breakfast, worship music, and the best news in history: He is risen. Keep the celebration going with these [Easter Bible stories for kids](/blog/easter-bible-stories-for-kids) and a round of [Easter Bible trivia](/blog/easter-bible-trivia-for-kids).
 
 ## Helping Kids Understand Sacrifice
 
-One of the hardest concepts for kids during Lent is sacrifice -- why Jesus had to die and what it means for them. Here's a simple way to explain it:
+One of the hardest concepts for kids during Lent is sacrifice: why Jesus had to die and what it means for them. Here's a simple way to explain it:
 
-"Imagine you broke something very valuable -- something that could never be repaired with money. The cost was too high for you to pay. But someone who loved you stepped in and said, 'I'll pay for it.' That's what Jesus did. The 'broken thing' is sin -- everything in the world that goes wrong when people turn away from God. The cost was a perfect life. And Jesus paid it willingly because He loves you more than you can understand."
+"Imagine you broke something very valuable: something that could never be repaired with money. The cost was too high for you to pay. But someone who loved you stepped in and said, 'I'll pay for it.' That's what Jesus did. The 'broken thing' is sin: everything in the world that goes wrong when people turn away from God. The cost was a perfect life. And Jesus paid it willingly because He loves you more than you can understand."
 
 Don't rush through the hard parts of Lent to get to Easter. The joy of resurrection is deepest when you've felt the weight of the cross.
 
@@ -149,27 +149,27 @@ For the season, we keep a set of free [Easter coloring pages](/printables/easter
 
 Lent works best when it's consistent and communal:
 
-- **Read together at the same time each day** -- bedtime works well.
+- **Read together at the same time each day**, bedtime works well.
 - **Use a visual tracker.** Color in one square per day on a chart, or move a figure along a path toward the cross and then the empty tomb.
 - **Talk about what you're experiencing.** Did giving something up feel hard today? Did the Bible reading make you think about something? Share openly.
 - **Let kids lead.** By week 3, your kids might want to read the passages themselves or choose the family activity. Let them.
 
 ## Watch on Faithful Kids
 
-Bring Lent to life with animated Bible stories your kids will love. Faithful Kids covers the full journey from creation to resurrection with engaging video lessons, interactive quizzes, and guided reflections -- perfect for daily Lenten devotions.
+Bring Lent to life with animated Bible stories your kids will love. Faithful Kids covers the full journey from creation to resurrection with engaging video lessons, interactive quizzes, and guided reflections; perfect for daily Lenten devotions.
 
 [Start your free trial at faithfulkids.app/quiz](https://faithfulkids.app/quiz)
 
 ## Frequently Asked Questions
 
 ### At what age should I start observing Lent with my kids?
-Children as young as 4-5 can participate in simplified Lent activities -- giving up a treat, reading a short Bible story, and counting down to Easter. By ages 7-8, kids can engage with the daily readings and deeper discussions. Adjust the complexity to your child's maturity.
+Children as young as 4-5 can participate in simplified Lent activities, giving up a treat, reading a short Bible story, and counting down to Easter. By ages 7-8, kids can engage with the daily readings and deeper discussions. Adjust the complexity to your child's maturity.
 
 ### Do kids have to give something up for Lent?
 No. While giving something up is a traditional Lenten practice, it's not required. Many families focus on adding something instead: daily Bible reading, acts of service, extra prayer time, or giving to those in need. The goal is drawing closer to God, not just self-denial.
 
 ### Is Lent only for Catholic families?
-While Lent has deep roots in Catholic and Orthodox tradition, many Protestant and evangelical families observe it too. The practices -- prayer, fasting, Scripture reading, and reflection on the cross -- are universally Christian. Adapt it to fit your family's tradition.
+While Lent has deep roots in Catholic and Orthodox tradition, many Protestant and evangelical families observe it too. The practices, prayer, fasting, Scripture reading, and reflection on the cross, are universally Christian. Adapt it to fit your family's tradition.
 
 ### How do I explain Good Friday to young children without scaring them?
-Focus on the love, not the violence. "Jesus loved us so much that He chose to go through something very painful so we could be close to God forever." Answer questions honestly but age-appropriately. Emphasize that the story doesn't end on Friday -- Sunday is coming. For more help, read [how to explain Easter to a child](/blog/how-to-explain-easter-to-a-child).
+Focus on the love, not the violence. "Jesus loved us so much that He chose to go through something very painful so we could be close to God forever." Answer questions honestly but age-appropriately. Emphasize that the story doesn't end on Friday; Sunday is coming. For more help, read [how to explain Easter to a child](/blog/how-to-explain-easter-to-a-child).

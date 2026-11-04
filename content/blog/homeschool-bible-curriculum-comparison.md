@@ -10,7 +10,7 @@ dateModified: "2026-09-16"
 
 Choosing a Bible curriculum for your homeschool is one of the most personal decisions you'll make as a parent. You want something that teaches Scripture faithfully, engages your kids, and fits your family's schedule and budget.
 
-The good news: there are more options in 2026 than ever before. The challenge: sorting through them all. This guide compares the most popular paid curricula, the best free resources, and newer video-based approaches -- so you can find the right fit for your family.
+The good news: there are more options in 2026 than ever before. The challenge: sorting through them all. This guide compares the most popular paid curricula, the best free resources, and newer video-based approaches, so you can find the right fit for your family.
 
 ## What to Look For in a Bible Curriculum
 
@@ -22,7 +22,7 @@ Before diving into specific programs, here are the key factors that matter:
 
 **Teaching style.** Are you a hands-on, project-based family? A textbook-and-workbook family? A watch-and-discuss family? The best curriculum matches how your kids actually learn.
 
-**Comprehension checks.** Programs that quiz kids after each lesson consistently outperform passive reading for retention -- we explain the research in [Bible curriculum with quizzes](/blog/bible-curriculum-with-quizzes).
+**Comprehension checks.** Programs that quiz kids after each lesson consistently outperform passive reading for retention; we explain the research in [Bible curriculum with quizzes](/blog/bible-curriculum-with-quizzes).
 
 **Time commitment.** Some programs require 45-60 minutes daily. Others are designed for 15-20 minutes. Be realistic about what fits your schedule.
 
@@ -55,7 +55,7 @@ Apologia is known for their science curriculum, but their "What We Believe" Bibl
 
 **Best for:** Literature-loving families who want Bible integrated into history
 
-Sonlight doesn't have a standalone Bible curriculum -- Bible is woven into their history and literature programs. Each level includes daily Bible readings, missionary biographies, and discussion questions.
+Sonlight doesn't have a standalone Bible curriculum; Bible is woven into their history and literature programs. Each level includes daily Bible readings, missionary biographies, and discussion questions.
 
 **Strengths:**
 - Bible is integrated into real-world context (history, culture, missions)
@@ -65,7 +65,7 @@ Sonlight doesn't have a standalone Bible curriculum -- Bible is woven into their
 
 **Weaknesses:**
 - Expensive if you're buying the full package
-- Bible isn't a standalone subject -- it's embedded in the full curriculum
+- Bible isn't a standalone subject; it's embedded in the full curriculum
 - Requires significant parent involvement (read-aloud heavy)
 
 **Cost:** Full packages range from $300-$600+ per level. Bible-specific components are included, not sold separately.
@@ -80,12 +80,12 @@ AiG offers several Bible programs including "Answers Bible Curriculum" (ABC) for
 
 **Strengths:**
 - Chronological approach gives kids the full biblical narrative
-- Strong on apologetics -- teaches kids why they believe, not just what
+- Strong on apologetics; teaches kids why they believe, not just what
 - Includes multimedia components (videos, activities)
 - Available for multiple age groups simultaneously (great for multi-age families)
 
 **Weaknesses:**
-- Strongly young-earth creationist -- if that's not your position, this isn't your curriculum
+- Strongly young-earth creationist, if that's not your position, this isn't your curriculum
 - Can feel debate-oriented rather than devotional
 - Some families find the tone more argumentative than worshipful
 
@@ -100,7 +100,7 @@ AiG offers several Bible programs including "Answers Bible Curriculum" (ABC) for
 Originally designed for churches, The Gospel Project has a homeschool edition that walks through the Bible chronologically, connecting every story to Jesus.
 
 **Strengths:**
-- Every lesson points to the gospel -- even Old Testament stories
+- Every lesson points to the gospel, even Old Testament stories
 - High production quality (videos, activity pages, leader guides)
 - Age-graded materials (younger and older elementary)
 - Quarterly format keeps things fresh
@@ -195,15 +195,15 @@ If you write about faith and family yourself, or want to start, our guide to [Ch
 
 **Best for:** Families who want engaging video lessons with built-in accountability
 
-Faithful Kids is a newer approach that uses AI-generated video lessons to teach Bible stories. Each episode includes a video lesson, an interactive quiz, and a guided reflection -- all designed for kids ages 7-15.
+Faithful Kids is a newer approach that uses AI-generated video lessons to teach Bible stories. Each episode includes a video lesson, an interactive quiz, and a guided reflection, all designed for kids ages 7-15.
 
 **Strengths:**
-- Kids watch, not just listen or read -- high engagement
+- Kids watch, not just listen or read, high engagement
 - Built-in quizzes test comprehension (not just passive watching)
 - Reflection prompts encourage application
 - Gamified progress system (levels, streaks, achievements) keeps kids motivated
 - 200+ episodes covering the full Bible narrative
-- Works independently -- kids can do their Bible lesson while you teach other subjects
+- Works independently, kids can do their Bible lesson while you teach other subjects
 - Affordable monthly subscription
 
 **Weaknesses:**
@@ -247,11 +247,11 @@ Curious how it stacks up against YouVersion's free app? See our [Bible App for K
 
 **If you want Bible woven into everything:** Sonlight integrates Bible into history and literature, so it's not a separate subject but a lens through which your kids see the world.
 
-**If you're new to homeschooling:** Start simple. Read the Bible together for 15 minutes a day -- our guide on [how to start family Bible time](/blog/how-to-start-family-bible-time) walks you through it. Add a structured curriculum later once you know your family's rhythms.
+**If you're new to homeschooling:** Start simple. Read the Bible together for 15 minutes a day, our guide on [how to start family Bible time](/blog/how-to-start-family-bible-time) walks you through it. Add a structured curriculum later once you know your family's rhythms.
 
 ## Can You Combine Programs?
 
-Absolutely -- and many families do. A popular combination:
+Absolutely, and many families do. A popular combination:
 
 - **Core curriculum** (Apologia or AiG) for structured Bible study 2-3 times per week
 - **Faithful Kids** for daily video lessons that reinforce and expand on what they're learning
@@ -263,7 +263,7 @@ The best Bible curriculum is the one your family actually uses consistently.
 
 ## Watch on Faithful Kids
 
-Looking for a Bible curriculum your kids will actually ask to do? Faithful Kids turns Bible learning into an adventure with video stories, quizzes, and guided reflections -- all in 15 minutes a day.
+Looking for a Bible curriculum your kids will actually ask to do? Faithful Kids turns Bible learning into an adventure with video stories, quizzes, and guided reflections, all in 15 minutes a day.
 
 [Start your free trial at faithfulkids.app/quiz](https://faithfulkids.app/quiz)
 
@@ -273,7 +273,7 @@ Prices change; the always-current numbers for web and iOS are on our [pricing pa
 
 Want to see exactly what a year covers before committing? The full [Faithful Kids scope and sequence](/blog/faithful-kids-scope-and-sequence) lists all 31 series and 310 lessons in order, with scripture references.
 
-To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable), all 66 in order, printable.
 
 ## Frequently Asked Questions
 
@@ -281,7 +281,7 @@ To see where this book sits in the whole library, grab our free [books of the Bi
 Easy Peasy All-in-One Homeschool offers the most complete free option with daily structured lessons from kindergarten through 12th grade. For younger kids, the Bible App for Kids is an excellent free supplement with interactive story animations.
 
 ### How much time should homeschoolers spend on Bible each day?
-Most families find 15-30 minutes per day ideal. Younger children (K-2) do well with 10-15 minutes, while older students (grades 6-12) can handle 30-45 minutes. Consistency matters more than duration -- a daily 15-minute habit builds deeper faith than an occasional hour-long session.
+Most families find 15-30 minutes per day ideal. Younger children (K-2) do well with 10-15 minutes, while older students (grades 6-12) can handle 30-45 minutes. Consistency matters more than duration, a daily 15-minute habit builds deeper faith than an occasional hour-long session.
 
 ### Can I use a church Sunday school curriculum for homeschool?
 Yes, many families adapt church curricula like The Gospel Project or Answers Bible Curriculum for home use. The main adjustment is that group activities need to be modified for one child or a small sibling group. The teaching content translates well.

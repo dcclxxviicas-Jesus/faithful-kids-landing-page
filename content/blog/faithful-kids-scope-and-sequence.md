@@ -24,8 +24,8 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 
 | # | Series | Scripture | Lessons |
 |---|---|---|---|
-| 1 | Genesis -- The Beginning | Genesis 1-50 | 10 |
-| 2 | Exodus -- Freedom! | Exodus 1-40 | 10 |
+| 1 | Genesis, The Beginning | Genesis 1-50 | 10 |
+| 2 | Exodus, Freedom! | Exodus 1-40 | 10 |
 | 3 | The Promised Land | Joshua 1-24 | 10 |
 | 4 | Judges and Ruth | Judges & Ruth | 10 |
 | 5 | Rise of Kings | 1 Samuel | 10 |
@@ -70,7 +70,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 
 ## Old Testament
 
-### Genesis -- The Beginning
+### Genesis, The Beginning
 *Genesis 1-50*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
@@ -86,7 +86,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 9 | [Joseph the Dreamer](/blog/joseph-the-dreamer-for-kids) | Genesis 1-50 | 3 |
 | 10 | [Joseph From Prison to Palace](/blog/joseph-from-prison-to-palace-for-kids) | Genesis 1-50 | 3 |
 
-### Exodus -- Freedom!
+### Exodus, Freedom!
 *Exodus 1-40*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |

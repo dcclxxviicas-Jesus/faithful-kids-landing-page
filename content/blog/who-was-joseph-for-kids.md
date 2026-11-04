@@ -16,7 +16,7 @@ But at its heart, Joseph's story is about one thing: God can take the worst thin
 
 ## The Favorite Son and the Special Coat (Genesis 37:1-11)
 
-Joseph was the eleventh of Jacob's twelve sons. He was also Jacob's favorite -- and Jacob didn't hide it. He gave Joseph a richly ornamented robe, often called a "coat of many colors." It was a beautiful, expensive garment that showed everyone how much Jacob loved Joseph.
+Joseph was the eleventh of Jacob's twelve sons. He was also Jacob's favorite, and Jacob didn't hide it. He gave Joseph a richly ornamented robe, often called a "coat of many colors." It was a beautiful, expensive garment that showed everyone how much Jacob loved Joseph.
 
 Joseph's brothers saw the coat and burned with jealousy. They hated Joseph. To make things worse, Joseph had two dreams that made his brothers even angrier. In the first dream, the brothers' bundles of grain bowed down to Joseph's bundle. In the second, the sun, moon, and eleven stars bowed to him. The meaning was clear: Joseph would one day rule over his whole family.
 
@@ -28,7 +28,7 @@ Even Jacob was bothered by the dreams. But he kept the matter in mind (Genesis 3
 
 One day, Jacob sent Joseph to check on his brothers, who were tending sheep far from home. When the brothers saw Joseph coming in his beautiful coat, they snapped. "Here comes that dreamer!" they said. They planned to kill him.
 
-Reuben, the oldest, convinced them not to murder him. Instead, they threw Joseph into an empty cistern -- a dry well in the ground. Then, when a caravan of traders passed by heading to Egypt, Judah suggested they sell Joseph as a slave. So they pulled Joseph out and sold their own brother for twenty pieces of silver.
+Reuben, the oldest, convinced them not to murder him. Instead, they threw Joseph into an empty cistern, a dry well in the ground. Then, when a caravan of traders passed by heading to Egypt, Judah suggested they sell Joseph as a slave. So they pulled Joseph out and sold their own brother for twenty pieces of silver.
 
 To cover their crime, the brothers killed a goat, dipped Joseph's coat in its blood, and brought it to their father. Jacob believed Joseph had been torn apart by a wild animal. He wept and mourned for his son.
 
@@ -56,7 +56,7 @@ Potiphar was angry and had Joseph thrown into prison. Once again, Joseph was pun
 
 ## The Dream Interpreter (Genesis 40)
 
-While in prison, Joseph met two of Pharaoh's servants -- his cupbearer and his baker. Both men had troubling dreams on the same night and didn't know what they meant.
+While in prison, Joseph met two of Pharaoh's servants, his cupbearer and his baker. Both men had troubling dreams on the same night and didn't know what they meant.
 
 Joseph said, "Do not interpretations belong to God? Tell me your dreams" (Genesis 40:8).
 
@@ -80,19 +80,19 @@ Pharaoh was so impressed that he did something astonishing. He put Joseph in cha
 
 Joseph went from prison to palace in a single day. He was 30 years old. (Read the full turnaround in [Joseph: From Prison to Palace for kids](/blog/joseph-from-prison-to-palace-for-kids).)
 
-**Key lesson for kids:** God's timing is not our timing, but it's always perfect. Joseph waited 13 years from the day he was sold by his brothers to the day he stood before Pharaoh. Those years weren't wasted -- they prepared Joseph for the enormous job God had for him.
+**Key lesson for kids:** God's timing is not our timing, but it's always perfect. Joseph waited 13 years from the day he was sold by his brothers to the day he stood before Pharaoh. Those years weren't wasted; they prepared Joseph for the enormous job God had for him.
 
 ## Saving Egypt and Reuniting with His Brothers (Genesis 42-45)
 
 Joseph managed Egypt brilliantly. During the seven good years, he stored massive amounts of grain. When the famine hit, Egypt was the only country with food. People came from all over the world to buy grain from Joseph.
 
-Among those people were Joseph's own brothers. They traveled from Canaan to Egypt, desperate for food. When they arrived, they bowed before the governor -- not recognizing that it was Joseph. But Joseph recognized them immediately.
+Among those people were Joseph's own brothers. They traveled from Canaan to Egypt, desperate for food. When they arrived, they bowed before the governor, not recognizing that it was Joseph. But Joseph recognized them immediately.
 
 The brothers bowed to Joseph, just as the dreams from his youth had predicted.
 
 Joseph didn't reveal himself right away. He tested his brothers to see if they had changed. He accused them of being spies, demanded they bring their youngest brother Benjamin, and even planted a silver cup in Benjamin's bag to see if the brothers would abandon Benjamin the way they had abandoned Joseph years ago.
 
-But this time, the brothers were different. Judah -- the very brother who had suggested selling Joseph -- offered himself as a slave in Benjamin's place. He begged Joseph not to take Benjamin, saying it would kill their father.
+But this time, the brothers were different. Judah, the very brother who had suggested selling Joseph, offered himself as a slave in Benjamin's place. He begged Joseph not to take Benjamin, saying it would kill their father.
 
 Joseph could no longer control himself. He sent all the Egyptians out of the room, and then, weeping loudly, he said the words that still bring tears to readers thousands of years later:
 
@@ -104,13 +104,13 @@ His brothers were terrified. They expected revenge. Instead, Joseph said somethi
 
 Joseph forgave his brothers completely. He wept over them. He kissed them. He invited the entire family to come live in Egypt where he could provide for them.
 
-**Key lesson for kids:** This is one of the most powerful lessons in the Bible. Joseph could have taken revenge. He had every reason to be angry. But he chose forgiveness. He could see that God had been working through every painful chapter of his story. The betrayal, the slavery, the prison -- all of it led to Joseph being in exactly the right place to save his family and an entire nation.
+**Key lesson for kids:** This is one of the most powerful lessons in the Bible. Joseph could have taken revenge. He had every reason to be angry. But he chose forgiveness. He could see that God had been working through every painful chapter of his story. The betrayal, the slavery, the prison, all of it led to Joseph being in exactly the right place to save his family and an entire nation.
 
 ## Joseph's Legacy
 
 Joseph's life is a masterclass in faith through suffering:
 
-- **God is with us in the dark places.** In the cistern, in slavery, in prison -- God never left Joseph.
+- **God is with us in the dark places.** In the cistern, in slavery, in prison, God never left Joseph.
 - **Character matters everywhere.** Joseph worked hard and did the right thing whether he was a slave, a prisoner, or a governor.
 - **Forgiveness sets you free.** Holding onto bitterness would have destroyed Joseph. Forgiveness allowed him to embrace his family again. (More examples in our [Bible stories about forgiveness for kids](/blog/bible-stories-about-forgiveness-for-kids).)
 - **God turns evil into good.** Genesis 50:20 is one of the most hopeful verses in the Bible. No matter how bad things get, God can redeem them.
@@ -124,7 +124,7 @@ Experience Joseph's incredible journey through animated video lessons on Faithfu
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
-If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names), each with its meaning, verse, and the story it comes from.
 
 ## Frequently Asked Questions
 
@@ -138,8 +138,8 @@ The Hebrew phrase used in Genesis 37:3 is debated by scholars. Some translations
 
 ### Why did Joseph test his brothers before revealing himself?
 
-Joseph wanted to see if his brothers had changed. The last time he saw them, they were cruel and heartless enough to sell their own brother. By testing them -- especially with Benjamin -- Joseph could see whether they would protect their youngest brother or abandon him. When Judah offered himself in Benjamin's place, Joseph knew their hearts had truly changed.
+Joseph wanted to see if his brothers had changed. The last time he saw them, they were cruel and heartless enough to sell their own brother. By testing them, especially with Benjamin, Joseph could see whether they would protect their youngest brother or abandon him. When Judah offered himself in Benjamin's place, Joseph knew their hearts had truly changed.
 
 ### What does Genesis 50:20 mean for kids today?
 
-"You intended to harm me, but God intended it for good" is one of the most comforting verses in the Bible. For kids, it means that even when bad things happen -- bullying, loss, unfairness -- God can bring something good out of it. It doesn't mean the bad thing was okay. It means God is powerful enough to use even the worst situations for a purpose we might not see yet.
+"You intended to harm me, but God intended it for good" is one of the most comforting verses in the Bible. For kids, it means that even when bad things happen, bullying, loss, unfairness, God can bring something good out of it. It doesn't mean the bad thing was okay. It means God is powerful enough to use even the worst situations for a purpose we might not see yet.

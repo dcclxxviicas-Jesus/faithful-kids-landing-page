@@ -23,11 +23,11 @@ The Ten Plagues is a Bible story from Exodus 7-11 in the Old Testament. This ret
 
 ## What Is the Story of The Ten Plagues for Kids?
 
-Alright, grab a seat because this episode is EPIC. We're talking about the Ten Plagues of Egypt -- ten times God showed Pharaoh exactly who's in charge. Ready? Let's count them down.
+Alright, grab a seat because this episode is EPIC. We're talking about the Ten Plagues of Egypt, ten times God showed Pharaoh exactly who's in charge. Ready? Let's count them down.
 
-Plague number one: WATER TO BLOOD. Moses stretches his staff over the Nile -- Egypt's lifeline, the river they basically worshipped -- and it turns to blood. Every river, every pond, every bucket of water. The fish die. The whole country stinks. Pharaoh's response? "Meh." His magicians copy the trick, so he walks away. Stubborn.
+Plague number one: WATER TO BLOOD. Moses stretches his staff over the Nile, Egypt's lifeline, the river they basically worshipped, and it turns to blood. Every river, every pond, every bucket of water. The fish die. The whole country stinks. Pharaoh's response? "Meh." His magicians copy the trick, so he walks away. Stubborn.
 
-Plague two: FROGS. And I don't mean a few cute frogs. I mean frogs EVERYWHERE -- in their beds, in their ovens, in their bread dough. Imagine opening your lunchbox and a frog jumps out. Pharaoh begs Moses to stop and promises to let them go. Moses prays, the frogs die, and Pharaoh says, "Just kidding. No."
+Plague two: FROGS. And I don't mean a few cute frogs. I mean frogs EVERYWHERE, in their beds, in their ovens, in their bread dough. Imagine opening your lunchbox and a frog jumps out. Pharaoh begs Moses to stop and promises to let them go. Moses prays, the frogs die, and Pharaoh says, "Just kidding. No."
 
 Plague three: GNATS. Dust turns into swarms of tiny biting gnats covering every person and animal. This time, Pharaoh's magicians CAN'T copy it. They tell Pharaoh, "This is the finger of God!" Does he listen? Nope.
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Which plague made even Pharaoh's own magicians say, "This is the finger of God"?
 
-When God sent gnats from the dust of the ground, Pharaoh's magicians could not replicate it and admitted to Pharaoh that this was the work of God -- but Pharaoh still refused to listen.
+When God sent gnats from the dust of the ground, Pharaoh's magicians could not replicate it and admitted to Pharaoh that this was the work of God, but Pharaoh still refused to listen.
 
 ### What was special about how the plagues affected the Israelites compared to the Egyptians?
 
@@ -67,7 +67,7 @@ Starting with the plague of flies, God made a clear distinction between the Egyp
 
 ### Why did each plague target a specific Egyptian god?
 
-Each plague was a direct challenge to a different Egyptian god -- like turning the Nile to blood against the Nile god, or sending darkness to defeat Ra the sun god -- proving that the God of Israel is the only true God.
+Each plague was a direct challenge to a different Egyptian god, like turning the Nile to blood against the Nile god, or sending darkness to defeat Ra the sun god, proving that the God of Israel is the only true God.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Ten Plagues about for kids?
 
-The Ten Plagues is a story from Exodus 7-11. Alright, grab a seat because this episode is EPIC. We're talking about the Ten Plagues of Egypt -- ten times God showed Pharaoh exactly who's in charge. Ready? Let's count them down.
+The Ten Plagues is a story from Exodus 7-11. Alright, grab a seat because this episode is EPIC. We're talking about the Ten Plagues of Egypt, ten times God showed Pharaoh exactly who's in charge. Ready? Let's count them down.
 
 ### What age is the story of The Ten Plagues appropriate for?
 

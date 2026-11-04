@@ -128,7 +128,7 @@ Every story on this list is available as a short video lesson with a quiz on [Fa
 
 A related freebie: our [Creation coloring page](/printables/bible-coloring-pages/creation), drawn as clean line art for crayons and markers.
 
-Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids) -- every retelling is free and runs from Genesis to Revelation in order.
+Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids); every retelling is free and runs from Genesis to Revelation in order.
 
 ## Frequently Asked Questions
 
@@ -142,7 +142,7 @@ Aim for 1-5 minutes. Five-year-olds have short attention spans. Faithful Kids vi
 
 ### Should I skip scary Bible stories for young kids?
 
-Yes. At age 5, avoid the more intense stories like the Crucifixion, the plagues of Egypt, and the fiery furnace. Focus on stories with gentle lessons and happy endings. You can introduce the more complex stories around age 7-8 -- our list of [Bible stories for 8-year-olds](/blog/bible-stories-for-8-year-olds) is the natural next step.
+Yes. At age 5, avoid the more intense stories like the Crucifixion, the plagues of Egypt, and the fiery furnace. Focus on stories with gentle lessons and happy endings. You can introduce the more complex stories around age 7-8; our list of [Bible stories for 8-year-olds](/blog/bible-stories-for-8-year-olds) is the natural next step.
 
 ### What Bible story teaches kindness to 5-year-olds?
 

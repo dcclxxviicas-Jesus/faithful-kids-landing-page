@@ -15,12 +15,12 @@ import printableVideos from '@/lib/printable-videos.json'
 const PAGES = COLORING_PAGES.filter(p => p.season === 'easter')
 
 export const metadata: Metadata = {
-  title: 'Religious Easter Coloring Pages, Free',
+  title: 'Religious Easter Coloring Pages: Free',
   description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
   keywords: ['religious easter coloring pages', 'christian easter coloring pages', 'easter coloring pages religious', 'palm sunday coloring page', 'resurrection coloring page', 'cross coloring page', 'holy week coloring pages'],
   alternates: { canonical: 'https://faithfulkids.app/printables/easter-coloring-pages' },
   openGraph: {
-    title: 'Religious Easter Coloring Pages, Free',
+    title: 'Religious Easter Coloring Pages: Free',
     description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
     url: 'https://faithfulkids.app/printables/easter-coloring-pages',
     siteName: 'Faithful Kids',

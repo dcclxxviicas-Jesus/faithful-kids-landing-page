@@ -74,7 +74,7 @@ Kid version: "Thank You, God, for my family, my friends, my home, and my food. T
 
 Kid version: "Please help my grandma feel better. Please help me be brave at school tomorrow. Please be with people who are sad tonight."
 
-"You do not have to use this framework every time. But it is a great way to learn different kinds of prayer. Some prayers are just one sentence. Some are long conversations. Both are wonderful." When your child is ready to go deeper, walk them through [the Lord's Prayer explained for kids](/blog/lords-prayer-for-kids-explained) -- it is the model Jesus Himself gave.
+"You do not have to use this framework every time. But it is a great way to learn different kinds of prayer. Some prayers are just one sentence. Some are long conversations. Both are wonderful." When your child is ready to go deeper, walk them through [the Lord's Prayer explained for kids](/blog/lords-prayer-for-kids-explained); it is the model Jesus Himself gave.
 
 ## 5 Starter Prayers for Kids
 

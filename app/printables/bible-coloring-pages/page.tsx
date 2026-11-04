@@ -23,7 +23,7 @@ import { COLORING_PAGES, CDN } from '@/lib/coloring-pages'
 const PAGES = COLORING_PAGES
 
 export const metadata: Metadata = {
-  title: 'Free Bible Coloring Pages, 26 Printables',
+  title: 'Free Bible Coloring Pages: 26 Printables',
   description:
     '26 free printable Bible coloring pages, from Creation to the Empty Tomb. Bold simple outlines for young children. No sign-up, no email, just print.',
   keywords: [
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-coloring-pages' },
   openGraph: {
-    title: 'Free Bible Coloring Pages, 26 Printables',
+    title: 'Free Bible Coloring Pages: 26 Printables',
     description:
       '26 free printable Bible coloring pages, Creation to the Empty Tomb. No sign-up, just print.',
     url: 'https://faithfulkids.app/printables/bible-coloring-pages',

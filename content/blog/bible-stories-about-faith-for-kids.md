@@ -2,7 +2,7 @@
 title: "12 Bible Stories About Faith for Kids"
 slug: "bible-stories-about-faith-for-kids"
 type: "listicle"
-metaDescription: "12 Bible stories about faith for kids -- Abraham, Noah, Moses, David, and more -- teaching children to trust God even when they cannot see the outcome."
+metaDescription: "12 Bible stories about faith for kids: Abraham, Noah, Moses, David, and more: teaching children to trust God even when they cannot see the outcome."
 keywords: ["bible stories about faith for kids", "faith bible stories children", "trusting god stories kids", "bible faith kids"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -65,9 +65,9 @@ I am the Lord's servant.
 3. **Connect it to their life:** "When have you needed to show faith?"
 4. **Revisit** the story when a real-life moment calls for faith
 
-Want to go deeper? The Bible has its own list of faith heroes in Hebrews 11 -- we walk through it in [the Faith Hall of Fame for kids](/blog/faith-hall-of-fame-for-kids).
+Want to go deeper? The Bible has its own list of faith heroes in Hebrews 11: we walk through it in [the Faith Hall of Fame for kids](/blog/faith-hall-of-fame-for-kids).
 
-When you want the next story, the whole library is at [Bible stories for kids](/bible-stories-for-kids) -- 200 free retellings from Genesis to Revelation.
+When you want the next story, the whole library is at [Bible stories for kids](/bible-stories-for-kids): 200 free retellings from Genesis to Revelation.
 
 ## Watch All 12 Stories on Faithful Kids
 

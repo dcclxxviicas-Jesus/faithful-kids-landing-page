@@ -14,11 +14,11 @@ const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/valentine-cards'
    page-1 winners on the kids variant are printable VERSE CARDS, not
    articles — so this ships the cards. */
 export const metadata = {
-  title: { absolute: 'Valentine Bible Verse Cards, Free Printable for Kids' },
+  title: { absolute: 'Valentine Bible Verse Cards: Free Printable for Kids' },
   description: `${VALENTINE_CARDS.length} free printable Valentine cards with short Bible verses about love, line art kids can color, then hand out at school, church, or class. No sign-up.`,
   alternates: { canonical: 'https://faithfulkids.app/printables/valentine-bible-verse-cards' },
   openGraph: {
-    title: 'Valentine Bible Verse Cards, Free Printable for Kids',
+    title: 'Valentine Bible Verse Cards: Free Printable for Kids',
     description: `${VALENTINE_CARDS.length} printable Valentine cards with Bible verses about love, drawn as line art kids color themselves. Free, no sign-up.`,
     url: 'https://faithfulkids.app/printables/valentine-bible-verse-cards',
     siteName: 'Faithful Kids',

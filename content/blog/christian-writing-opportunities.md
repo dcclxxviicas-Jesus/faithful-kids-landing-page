@@ -2,7 +2,7 @@
 title: "Christian Writing Opportunities: Where to Publish Essays and Articles (2026)"
 slug: "christian-writing-opportunities"
 type: "listicle"
-metaTitle: "Christian Writing Opportunities, Where to Publish (2026)"
+metaTitle: "Christian Writing Opportunities: Where to Publish (2026)"
 metaDescription: "Twelve Christian outlets that accept essays and articles right now, Catholic and kids' ministry included, pay where stated, verified November 2026."
 keywords: ["christian writing opportunities", "christian magazines accepting submissions", "christian websites that accept guest posts", "christian parenting blogs that accept guest posts", "where to publish personal essays", "christian blogs looking for writers", "write for us christian parenting", "christian essay submissions"]
 datePublished: "2026-11-03"

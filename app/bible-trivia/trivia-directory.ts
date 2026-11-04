@@ -11,15 +11,15 @@ export interface TriviaLink {
 }
 
 export const BY_AGE: TriviaLink[] = [
-  { title: 'Bible Trivia for Kids', href: '/blog/bible-trivia-for-kids', note: '75 questions in easy, medium, and hard rounds; with a free printable PDF' },
+  { title: 'Bible Trivia for Kids', href: '/blog/bible-trivia-for-kids', note: '75 questions in easy, medium, and hard rounds: with a free printable PDF' },
   { title: 'Bible Trivia for Teens', href: '/blog/bible-trivia-for-teens', note: 'Harder rounds built for youth group and lock-ins' },
-  { title: 'Bible Trivia for Adults', href: '/blog/bible-trivia-for-adults', note: '50 hard questions with a warm-up round that humbles the confident; free PDF included' },
+  { title: 'Bible Trivia for Adults', href: '/blog/bible-trivia-for-adults', note: '50 hard questions with a warm-up round that humbles the confident: free PDF included' },
   { title: 'Bible Trivia for Youth Groups', href: '/blog/bible-trivia-for-youth', note: 'Formats and questions sized for a whole youth room' },
   { title: 'Family Bible Trivia Night', href: '/blog/family-bible-trivia-night', note: 'Formats, scoring systems, and prizes for a repeatable tradition' },
 ]
 
 export const BY_FORMAT: TriviaLink[] = [
-  { title: 'Bible Jeopardy', href: '/bible-jeopardy', note: 'A playable 6-category board with team scoring; host it on a TV like a game show' },
+  { title: 'Bible Jeopardy', href: '/bible-jeopardy', note: 'A playable 6-category board with team scoring: host it on a TV like a game show' },
   { title: '100 Bible Trivia Questions and Answers', href: '/blog/100-bible-trivia-questions-and-answers', note: 'The master list, Genesis to Revelation, in four difficulty tiers' },
   { title: 'Easy Bible Trivia Questions', href: '/blog/easy-bible-trivia-questions', note: 'One-word answers for the youngest players' },
   { title: 'Multiple Choice Bible Trivia', href: '/blog/bible-trivia-multiple-choice', note: 'Pick-from-four format that keeps shy kids playing' },

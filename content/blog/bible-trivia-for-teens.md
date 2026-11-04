@@ -2,7 +2,7 @@
 title: "50 Hard Bible Trivia Questions for Teens"
 slug: "bible-trivia-for-teens"
 type: "listicle"
-metaDescription: "50 hard Bible trivia and Bible questions for teens -- obscure facts, geography, minor characters, deep knowledge. Perfect for youth group games."
+metaDescription: "50 hard Bible trivia and Bible questions for teens, obscure facts, geography, minor characters, deep knowledge. Perfect for youth group games."
 keywords: ["Bible trivia for teens", "bible questions for teens", "hard Bible quiz questions", "youth group Bible trivia"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-20"
@@ -226,7 +226,7 @@ The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal r
 
 You can also play this as a game: our [online Bible quiz](/bible-quiz) grades itself, easy to expert, no sign-up.
 
-If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs -- all clean.
+If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs, all clean.
 
 ## Frequently Asked Questions
 

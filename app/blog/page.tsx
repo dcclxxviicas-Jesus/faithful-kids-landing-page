@@ -8,11 +8,11 @@ import BlogGrid from '@/app/blog/BlogGrid'
 import { V2Shell, V2Hero } from '@/app/v2-shell'
 
 export const metadata: Metadata = {
-  title: 'Bible Guides for Parents, 500+ Free Resources',
+  title: 'Bible Guides for Parents: 500+ Free Resources',
   description: 'Free Bible guides for Christian parents and Sunday school teachers: trivia, printables, lesson ideas, devotions and discussion questions for every age.',
   keywords: ['bible guides for parents', 'sunday school lesson ideas', 'bible activities for kids', 'christian parenting resources', 'bible trivia for kids', 'family devotion ideas'],
   openGraph: {
-    title: 'Bible Guides for Parents, 500+ Free Resources',
+    title: 'Bible Guides for Parents: 500+ Free Resources',
     description: 'Free Bible guides for Christian parents and Sunday school teachers: trivia, printables, lesson ideas and discussion questions for every age.',
     url: 'https://faithfulkids.app/blog',
     siteName: 'Faithful Kids',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bible Guides for Parents, 500+ Free Resources',
+    title: 'Bible Guides for Parents: 500+ Free Resources',
     description: 'Free Bible guides, trivia, printables and lesson ideas for parents and teachers.',
     images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp'],
   },

@@ -22,7 +22,7 @@ These ten principles are drawn directly from Scripture. Each one includes the ve
 
 This is the foundational verse for Christian parenting, and it is more radical than it sounds. God is not saying "take your kids to church on Sunday." He is saying weave faith into the fabric of every day. At breakfast. In the car. Before bed. When you see a sunset. When you face a problem. When you celebrate a win.
 
-**In practice:** You do not need a formal lesson plan. You need intentionality. A simple daily rhythm helps -- our guide on [how to start family Bible time](/blog/how-to-start-family-bible-time) shows how to build one in ten minutes a day. If even that feels like a lot on a weeknight, these [15-minute family devotions](/blog/15-minute-family-devotions) are designed to fit between dinner and bath time. When your child is scared, say, "Let us talk to God about this." When they see something beautiful, say, "God made that." When they mess up, say, "Let us talk about what God says about forgiveness." Faith is caught more than it is taught.
+**In practice:** You do not need a formal lesson plan. You need intentionality. A simple daily rhythm helps; our guide on [how to start family Bible time](/blog/how-to-start-family-bible-time) shows how to build one in ten minutes a day. If even that feels like a lot on a weeknight, these [15-minute family devotions](/blog/15-minute-family-devotions) are designed to fit between dinner and bath time. When your child is scared, say, "Let us talk to God about this." When they see something beautiful, say, "God made that." When they mess up, say, "Let us talk about what God says about forgiveness." Faith is caught more than it is taught.
 
 ---
 
@@ -82,7 +82,7 @@ God is patient with you. He is still working on you. And He asks you to extend t
 
 **"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."** (1 Samuel 16:7)
 
-Our culture celebrates achievement: grades, trophies, college admissions, athletic performance. None of these are bad. But the Bible consistently prioritizes character over accomplishment. God chose David, the youngest, smallest son, because of his heart (a story worth sharing with your kids -- see [God chooses David](/blog/god-chooses-david-for-kids)). He chose Moses, a man with a speech impediment. He chose fishermen and tax collectors to be apostles.
+Our culture celebrates achievement: grades, trophies, college admissions, athletic performance. None of these are bad. But the Bible consistently prioritizes character over accomplishment. God chose David, the youngest, smallest son, because of his heart (a story worth sharing with your kids, see [God chooses David](/blog/god-chooses-david-for-kids)). He chose Moses, a man with a speech impediment. He chose fishermen and tax collectors to be apostles.
 
 **In practice:** Celebrate kindness as much as you celebrate A's. Praise integrity as much as you praise goals scored. Ask your child about their character growth, not just their performance: "Were you kind to anyone today?" "Did you stand up for someone?" "Did you do the right thing even when it was hard?"
 
@@ -136,7 +136,7 @@ Faithful Kids teaches the Bible stories behind these principles in short, engagi
 
 ---
 
-Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names): meanings, verses, and the stories included.
 
 ## Frequently Asked Questions
 

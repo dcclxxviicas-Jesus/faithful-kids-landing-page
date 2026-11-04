@@ -37,7 +37,7 @@ Before the "how," let us settle the "why," because on the nights when you are ex
 The best time for family Bible time is the time that actually happens. For most families, that is one of three windows:
 
 - **After dinner, before screen time.** The table is already cleared, everyone is together, and you can use Bible time as the gateway to evening activities.
-- **Bedtime.** Replace one bedtime story with a Bible story. This is especially effective for families with younger children -- these [Bible stories for bedtime](/blog/bible-stories-for-bedtime) are made for winding down.
+- **Bedtime.** Replace one bedtime story with a Bible story. This is especially effective for families with younger children; these [Bible stories for bedtime](/blog/bible-stories-for-bedtime) are made for winding down.
 - **Morning before school.** Harder to pull off, but powerful for families with early risers. Even five minutes over breakfast works.
 
 Pick one. Put it on the calendar. Treat it like a non-negotiable appointment. The biggest enemy of family Bible time is not opposition. It is distraction.
@@ -226,9 +226,9 @@ If you want to take family Bible time to the next level without adding preparati
 
 ---
 
-When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults); the warm-up round catches almost everyone on the stories they think they know.
 
-Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids); simple retellings of the whole Bible, free, Genesis to Revelation.
 
 ## Frequently Asked Questions
 

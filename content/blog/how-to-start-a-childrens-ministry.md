@@ -41,7 +41,7 @@ You don't have to launch Sunday school, children's church, and midweek club at o
 
 **Downloads for this stage:** ministry launch timeline, age-group planning worksheet (in the [launch kit](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)).
 
-## Stage 2: Child Safety, the Non-Negotiable Stage (Weeks 2–6)
+## Stage 2: Child Safety: the Non-Negotiable Stage (Weeks 2–6)
 
 This is the stage that decides whether your ministry deserves parents' trust. Do it before recruiting, because your policy shapes who you recruit and how. It is also the one stage you should not finish alone: **have your draft policy reviewed by your church's insurer and, where possible, a local attorney or your denomination's safeguarding office.** Requirements genuinely differ by jurisdiction.
 
@@ -57,7 +57,7 @@ These are standard across major Protestant and Catholic safeguarding programs an
 - **Incident and injury reporting.** A simple written form for anything beyond a band-aid, shared with the parent the same day.
 - **Mandatory reporting.** Know your local law on reporting suspected abuse, in many places, those serving children are mandated reporters, and the report goes to civil authorities, not just up the church ladder. Your policy must name who calls whom, and must never make "handle it internally" the plan.
 
-### What varies, verify locally
+### What varies: verify locally
 
 - **Adult-to-child ratios.** Insurers and denominations publish recommended ratios that differ by age band; some jurisdictions regulate ratios for nurseries. Don't copy a number from the internet (including from us), adopt the ratio your insurer and denomination specify, and write it into your policy.
 - **Background check type and renewal.** What a check covers and how often it must be renewed varies by country and state, and sometimes by denomination.

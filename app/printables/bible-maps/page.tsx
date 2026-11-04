@@ -21,7 +21,7 @@ import './maps.css'
  */
 
 export const metadata: Metadata = {
-  title: { absolute: `Bible Maps for Kids, ${MAP_COUNT} Free Printable Maps` },
+  title: { absolute: `Bible Maps for Kids: ${MAP_COUNT} Free Printable Maps` },
   description: `${MAP_COUNT} free printable Bible maps for kids, the Exodus route, Israel in Jesus' time, Paul's journeys, the 12 tribes and more. Real geography, no sign-up.`,
   keywords: [
     'bible maps', 'bible map', 'bible maps for kids', 'printable bible maps',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-maps' },
   openGraph: {
-    title: `Bible Maps for Kids, ${MAP_COUNT} Free Printable Maps`,
+    title: `Bible Maps for Kids: ${MAP_COUNT} Free Printable Maps`,
     description: `${MAP_COUNT} printable Bible maps with real geography, the Exodus, Paul's journeys, Israel in Jesus' time and more. Free, no sign-up.`,
     url: 'https://faithfulkids.app/printables/bible-maps',
     siteName: 'Faithful Kids',

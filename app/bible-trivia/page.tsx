@@ -12,7 +12,7 @@ import type { TriviaLink } from '@/app/bible-trivia/trivia-directory'
 import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 export const metadata: Metadata = {
-  title: 'Free Bible Trivia for Kids, 100 Questions',
+  title: 'Free Bible Trivia for Kids: 100 Questions',
   description:
     'Play free Bible trivia online: 100 kid-friendly questions across easy, medium and hard levels, every answer with its verse. Free to embed on your site.',
   alternates: { canonical: 'https://faithfulkids.app/bible-trivia' },

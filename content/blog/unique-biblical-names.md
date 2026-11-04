@@ -3,15 +3,15 @@ title: "Unique Biblical Names: 50 Rare Finds Nobody Else Is Using"
 slug: "unique-biblical-names"
 type: "listicle"
 metaTitle: "50 Unique Biblical Names (Rare but Actually Usable)"
-metaDescription: "50 unique biblical names for boys and girls -- rare, beautiful, and actually usable, with meanings, verses, and the stories behind them."
+metaDescription: "50 unique biblical names for boys and girls: rare, beautiful, and actually usable, with meanings, verses, and the stories behind them."
 keywords: ["unique biblical names", "rare biblical names", "uncommon biblical names", "unique biblical boy names", "unique biblical girl names", "rare bible names"]
 datePublished: "2026-10-03"
 dateModified: "2026-10-03"
 ---
 
-The Bible names over 3,000 people, and parents use about forty of them. These are 50 of the other ones -- rare biblical names that pass the two tests most "unique names" lists fail: a person could actually live with it, and there's a real story or meaning underneath it. We've skipped the trap names (Maher-shalal-hash-baz is real, and no), and linked each name to its story told for kids wherever we have one.
+The Bible names over 3,000 people, and parents use about forty of them. These are 50 of the other ones; rare biblical names that pass the two tests most "unique names" lists fail: a person could actually live with it, and there's a real story or meaning underneath it. We've skipped the trap names (Maher-shalal-hash-baz is real, and no), and linked each name to its story told for kids wherever we have one.
 
-Want the fuller lists first? Start with our [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- or the [complete guide to biblical names](/blog/biblical-names).
+Want the fuller lists first? Start with our [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names); or the [complete guide to biblical names](/blog/biblical-names).
 
 ## Unique Biblical Boy Names
 
@@ -71,21 +71,21 @@ Want the fuller lists first? Start with our [biblical boy names](/blog/biblical-
 
 ## The Trap Names (Real, but Please Don't)
 
-Proof we read the whole list so you don't have to: **Maher-shalal-hash-baz** (Isaiah's son, the longest name in the Bible), **Mephibosheth** ([David was kind to him](/blog/david-and-mephibosheth-for-kids); the DMV will not be), **Nimrod** (a mighty hunter whose name modern slang ruined), **Jezebel** and **Delilah** -- lovely sounds whose stories arrive before the child does -- and **Dodo** (a real grandfather in Judges 10:1). Rare should never mean cruel.
+Proof we read the whole list so you don't have to: **Maher-shalal-hash-baz** (Isaiah's son, the longest name in the Bible), **Mephibosheth** ([David was kind to him](/blog/david-and-mephibosheth-for-kids); the DMV will not be), **Nimrod** (a mighty hunter whose name modern slang ruined), **Jezebel** and **Delilah**, lovely sounds whose stories arrive before the child does, and **Dodo** (a real grandfather in Judges 10:1). Rare should never mean cruel.
 
 ## How Rare Is Too Rare?
 
-A good uniqueness test: your child will say this name aloud roughly 40,000 times. **Spell test** -- if you must spell it on every phone call (Zipporah), make sure you love it that much. **Playground test** -- yell it across a park; if it embarrasses *you*, it's out. **Nickname escape hatch** -- the rarer the formal name, the more it needs an easy short form: Hadassah→Haddie, Zephaniah→Zeph, Jemimah→Jem. Every name above passes at least two of the three.
+A good uniqueness test: your child will say this name aloud roughly 40,000 times. **Spell test**; if you must spell it on every phone call (Zipporah), make sure you love it that much. **Playground test**; yell it across a park; if it embarrasses *you*, it's out. **Nickname escape hatch**; the rarer the formal name, the more it needs an easy short form: Hadassah→Haddie, Zephaniah→Zeph, Jemimah→Jem. Every name above passes at least two of the three.
 
-And the real advantage of a rare biblical name over a rare invented one: there's a person underneath it. When your Keziah asks who she's named for, the answer is a real girl, born after her father lost everything and God restored it. Every linked story above is a two-minute video in the Faithful Kids app -- which is exactly the kind of answer a name deserves.
+And the real advantage of a rare biblical name over a rare invented one: there's a person underneath it. When your Keziah asks who she's named for, the answer is a real girl, born after her father lost everything and God restored it. Every linked story above is a two-minute video in the Faithful Kids app; which is exactly the kind of answer a name deserves.
 
 ## Frequently Asked Questions
 
 **What is the most unique biblical name that's still usable?**
-For boys: Asa, Ira, Obed, and Zephaniah are genuinely rare and wear well. For girls: Keziah, Tirzah, Atarah, and Noa. All are short enough -- or nickname-friendly enough -- for daily life.
+For boys: Asa, Ira, Obed, and Zephaniah are genuinely rare and wear well. For girls: Keziah, Tirzah, Atarah, and Noa. All are short enough, or nickname-friendly enough, for daily life.
 
 **Are there unique biblical names that sound modern?**
 Several read as fully contemporary: Jude, Cyrus, Jericho, Noa, Selah, Shiloh, and Eden. Most people won't guess they're ancient.
 
 **What unique biblical names work for either a boy or a girl?**
-Shiloh, Eden, Jordan, Zion, and Selah are all used for both today. Noa is a woman in Numbers 27 but sounds like Noah -- a built-in conversation starter.
+Shiloh, Eden, Jordan, Zion, and Selah are all used for both today. Noa is a woman in Numbers 27 but sounds like Noah; a built-in conversation starter.

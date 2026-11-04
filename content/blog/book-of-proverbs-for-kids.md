@@ -66,7 +66,7 @@ What it means for kids: Before you start something new, whether it is a school p
 
 Real-life example: Before a big test, instead of just worrying, pray: "God, I studied hard. Please help me do my best and trust You with the results."
 
-### 7. Proverbs 27:17, Friends Make You Better
+### 7. Proverbs 27:17: Friends Make You Better
 
 **"As iron sharpens iron, so one person sharpens another."**
 
@@ -74,7 +74,7 @@ What it means for kids: Good friends make you a better person. Just like a dull 
 
 Real-life example: A friend who says, "Hey, that was not nice. You should apologize," is a better friend than one who says, "Don't worry about it."
 
-### 8. Proverbs 16:18, Pride Goes Before a Fall
+### 8. Proverbs 16:18: Pride Goes Before a Fall
 
 **"Pride goes before destruction, a haughty spirit before a fall."**
 
@@ -82,7 +82,7 @@ What it means for kids: When you start thinking you are better than everyone els
 
 Real-life example: The kid who brags about winning every race is the one most embarrassed when they finally lose. The kid who wins humbly earns everyone's respect.
 
-### 9. Proverbs 18:21, Words Are Powerful
+### 9. Proverbs 18:21: Words Are Powerful
 
 **"The tongue has the power of life and death, and those who love it will eat its fruit."**
 
@@ -90,7 +90,7 @@ What it means for kids: Your words can build someone up or tear them down. A kin
 
 Real-life example: Telling a classmate "You are really good at drawing" could be the encouragement they needed to keep going. Saying "Your drawing is ugly" could make them stop drawing forever.
 
-### 10. Proverbs 3:9, Give Your Best to God
+### 10. Proverbs 3:9: Give Your Best to God
 
 **"Honor the Lord with your wealth, with the firstfruits of all your crops."**
 
@@ -98,31 +98,31 @@ What it means for kids: When you get something good, whether it is allowance mon
 
 Real-life example: If you earn five dollars, put some in the offering at church before you spend the rest. If you are good at singing, use that gift to praise God, not just to show off.
 
-### 11. Proverbs 19:20, Listen to Advice
+### 11. Proverbs 19:20: Listen to Advice
 
 **"Listen to advice and accept discipline, and at the end you will be counted among the wise."**
 
 What it means for kids: Wise people are not born wise. They become wise by listening to people who know more than they do. When your parents, teachers, or coaches give you advice, listen carefully. It might not feel good in the moment, but it will make you wiser over time.
 
-### 12. Proverbs 14:29, Be Slow to Anger
+### 12. Proverbs 14:29: Be Slow to Anger
 
 **"Whoever is patient has great understanding, but one who is quick-tempered displays folly."**
 
 What it means for kids: When you get mad fast and react without thinking, you usually make things worse. But when you take a deep breath, count to ten, and think before you respond, that is true strength. Patience is not weakness; it is self-control. For more on this, see these [Bible verses about patience](/blog/bible-verses-about-patience-for-kids).
 
-### 13. Proverbs 11:25, Generosity Comes Back
+### 13. Proverbs 11:25: Generosity Comes Back
 
 **"A generous person will prosper; whoever refreshes others will be refreshed."**
 
 What it means for kids: When you give to others, whether it is sharing your snack, helping a classmate, or giving your time, good things come back to you. God designed the world so that generosity creates more generosity. The more you give, the more you receive.
 
-### 14. Proverbs 20:11, Your Actions Reveal Your Character
+### 14. Proverbs 20:11: Your Actions Reveal Your Character
 
 **"Even small children are known by their actions, so is their conduct really pure and upright?"**
 
 What it means for kids: People watch what you do, not just what you say. If you say you are kind but you are mean to your sibling, your actions tell the real story. Your character is built by the choices you make every day, especially when no one is watching.
 
-### 15. Proverbs 4:23, Guard Your Heart
+### 15. Proverbs 4:23: Guard Your Heart
 
 **"Above all else, guard your heart, for everything you do flows from it."**
 

@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How many stone water jars did Jesus have the servants fill?
 
-**Six stone jars.** Each held twenty to thirty gallons -- and every drop of that water became the finest wine of the feast (John 2:6-10).
+**Six stone jars.** Each held twenty to thirty gallons, and every drop of that water became the finest wine of the feast (John 2:6-10).
 
 ### What did the master of the banquet say about the wine?
 

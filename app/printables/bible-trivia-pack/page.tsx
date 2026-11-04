@@ -4,7 +4,7 @@ import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 
 export const metadata = {
-  title: 'Printable Bible Trivia Pack, 100 Questions',
+  title: 'Printable Bible Trivia Pack: 100 Questions',
   description:
     '100 free printable Bible trivia questions for kids in three difficulty levels, each answer with its Scripture reference. For game night or Sunday school.',
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-trivia-pack' },

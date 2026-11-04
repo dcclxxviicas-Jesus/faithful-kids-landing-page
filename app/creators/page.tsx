@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: DESCRIPTION,
   alternates: { canonical: 'https://faithfulkids.app/creators' },
   openGraph: {
-    title: `${TITLE}, Creator Collaborations`,
+    title: `${TITLE}: Creator Collaborations`,
     description: DESCRIPTION,
     url: 'https://faithfulkids.app/creators',
     siteName: 'Faithful Kids',

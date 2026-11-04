@@ -8,7 +8,7 @@ datePublished: "2026-08-19"
 dateModified: "2026-08-19"
 ---
 
-Bible scripture printables are verses set in large type and laid out for a wall, a door, a lunchbox, or a card ring -- and the trick to making good ones is picking verses short enough to read from across a room. Below are 25 verses that work, sorted by where they belong in a house, each with a described layout you can build in any word processor in about five minutes.
+Bible scripture printables are verses set in large type and laid out for a wall, a door, a lunchbox, or a card ring; and the trick to making good ones is picking verses short enough to read from across a room. Below are 25 verses that work, sorted by where they belong in a house, each with a described layout you can build in any word processor in about five minutes.
 
 Not every great verse makes great wall art. Romans 8 is magnificent and unprintable at 5 inches wide. What follows are the verses that survive the size constraint, plus the layout that fits each one.
 
@@ -24,7 +24,7 @@ For sizing: 8x10 inches for a frame, 5x7 for a shelf or nightstand, 4x6 for a do
 
 ## Verses for Bedrooms and Bedtime (1-6)
 
-These go on a nightstand, a door, or the wall a child sees from bed. Keep them calm -- soft type, lots of white space, no exclamation points.
+These go on a nightstand, a door, or the wall a child sees from bed. Keep them calm; soft type, lots of white space, no exclamation points.
 
 1. **"When I am afraid, I put my trust in you."** (Psalm 56:3) The single best verse for a scared child's wall. Layout: centered, one line per phrase, "I put my trust in you" in the largest weight. Works beautifully at 5x7 on a nightstand.
 
@@ -46,7 +46,7 @@ These go where a kid is about to do something difficult: the back of a bedroom d
 
 8. **"Do not fear, for I am with you."** (Isaiah 41:10) Layout: 4x6 card for a backpack pocket. Six words, bold, no illustration.
 
-9. **"I can do all this through him who gives me strength."** (Philippians 4:13) Layout: 8x10 for a wall or 2.5x3.5 for a card. Set "through him" in a contrasting weight -- that phrase is the whole verse and is the part people drop.
+9. **"I can do all this through him who gives me strength."** (Philippians 4:13) Layout: 8x10 for a wall or 2.5x3.5 for a card. Set "through him" in a contrasting weight; that phrase is the whole verse and is the part people drop.
 
 10. **"God is our refuge and strength, an ever-present help in trouble."** (Psalm 46:1) Layout: 5x7 landscape, three stacked lines broken at the commas. Good for a hallway or a family entryway.
 
@@ -64,7 +64,7 @@ These go in shared spaces: the kitchen, the hallway, the bathroom mirror, the sp
 
 15. **"We love because he first loved us."** (1 John 4:19) Layout: 5x7, one line if your paper is wide enough, with "he first" emphasized. Short enough for a light switch plate at 3x3.
 
-16. **"A friend loves at all times."** (Proverbs 17:17) Layout: 2.5x3.5 card. This is a card, not wall art -- perfect for a lunchbox on a week when friendship is hard.
+16. **"A friend loves at all times."** (Proverbs 17:17) Layout: 2.5x3.5 card. This is a card, not wall art; perfect for a lunchbox on a week when friendship is hard.
 
 17. **"For God so loved the world that he gave his one and only Son."** (John 3:16) Layout: 8x10, five short lines with the line breaks at natural pauses. At 20 words this is the maximum length that still works framed.
 
@@ -90,7 +90,7 @@ These are the statement pieces, the ones that go at the front door or over a man
 
 24. **"Trust in the LORD with all your heart and lean not on your own understanding."** (Proverbs 3:5) Layout: 8x10 portrait, three lines, reference at the bottom. If you want the full thought, add verse 6 in smaller type beneath.
 
-25. **"The LORD bless you and keep you."** (Numbers 6:24) Layout: 5x7 or 8x10, one line, wide letter spacing, generous margins. Traditionally the last word spoken over a family -- a fitting one for a door people leave through.
+25. **"The LORD bless you and keep you."** (Numbers 6:24) Layout: 5x7 or 8x10, one line, wide letter spacing, generous margins. Traditionally the last word spoken over a family; a fitting one for a door people leave through.
 
 ## How Do You Turn These Into Cards Instead of Wall Art?
 
@@ -112,7 +112,7 @@ For 20 more kid-tested verses already formatted for cutting, plus card-stock and
 - **Margins wider than you think.** A half inch of white space on every side is the difference between a poster and a page.
 - **Print the reference smaller, never smaller than 10pt.** It has to stay readable.
 
-For the wider world of printables beyond verse art -- coloring pages, word searches, bingo, reading charts -- see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). If you are choosing verses for a young child to memorize rather than to hang, our lists of [short Bible verses for kids](/blog/short-bible-verses-for-kids) and [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) are sorted by length and reading level, and [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids) covers the nightstand category in more depth.
+For the wider world of printables beyond verse art, coloring pages, word searches, bingo, reading charts, see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). If you are choosing verses for a young child to memorize rather than to hang, our lists of [short Bible verses for kids](/blog/short-bible-verses-for-kids) and [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) are sorted by length and reading level, and [Bible verses for anxious kids](/blog/bible-verses-for-anxious-kids) covers the nightstand category in more depth.
 
 Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this, each page names the scripture it comes from.
 
@@ -124,11 +124,11 @@ A quieter option for the same shelf: free [Bible crossword puzzles](/printables/
 
 ### What Bible verses work best as printable wall art?
 
-Short ones -- under 20 words, expressing a single idea. Psalm 56:3, Joshua 1:9, Philippians 4:13, and Proverbs 3:5 are the reliable workhorses because each fits on one line of large type and makes sense without surrounding context. Long passages like Romans 8:28-39 or the full Beatitudes are wonderful to read and nearly impossible to hang legibly.
+Short ones; under 20 words, expressing a single idea. Psalm 56:3, Joshua 1:9, Philippians 4:13, and Proverbs 3:5 are the reliable workhorses because each fits on one line of large type and makes sense without surrounding context. Long passages like Romans 8:28-39 or the full Beatitudes are wonderful to read and nearly impossible to hang legibly.
 
 ### What size should scripture printables be?
 
-Use 8x10 inches for framed wall art, 5x7 for a shelf or nightstand, 4x6 for a door or light switch, and 2.5x3.5 for pocket and lunchbox cards. Standard frame sizes matter more than they sound -- an 8x10 fits a $4 frame from any store, while a custom size means a custom frame. Print cards eight to a sheet of card stock to save paper.
+Use 8x10 inches for framed wall art, 5x7 for a shelf or nightstand, 4x6 for a door or light switch, and 2.5x3.5 for pocket and lunchbox cards. Standard frame sizes matter more than they sound; an 8x10 fits a $4 frame from any store, while a custom size means a custom frame. Print cards eight to a sheet of card stock to save paper.
 
 ### Do I need special paper or a special printer?
 
@@ -140,7 +140,7 @@ Whichever translation your family and church actually read, so the printed versi
 
 ### Can I sell scripture printables I make?
 
-Most major translations allow limited quotation for non-commercial use but require a license for commercial products, so check the copyright terms of your specific translation before selling anything. Public-domain translations such as the KJV and ASV carry no such restriction. Printing for your own home, church, or classroom is not the issue -- selling is.
+Most major translations allow limited quotation for non-commercial use but require a license for commercial products, so check the copyright terms of your specific translation before selling anything. Public-domain translations such as the KJV and ASV carry no such restriction. Printing for your own home, church, or classroom is not the issue; selling is.
 
 ### How often should I change scripture printables on the wall?
 

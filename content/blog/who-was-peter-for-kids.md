@@ -16,7 +16,7 @@ Peter's story is incredibly encouraging for kids because it shows that God doesn
 
 ## A Fisherman Called by Jesus (Matthew 4:18-20, Luke 5:1-11)
 
-Peter's original name was Simon. He was a fisherman who lived in Capernaum on the shores of the Sea of Galilee with his brother Andrew. Fishing wasn't a hobby for them -- it was their livelihood, their family business, their identity.
+Peter's original name was Simon. He was a fisherman who lived in Capernaum on the shores of the Sea of Galilee with his brother Andrew. Fishing wasn't a hobby for them; it was their livelihood, their family business, their identity.
 
 One day, Jesus was teaching by the lake and the crowd was pressing in on Him. He climbed into Simon's boat and asked him to push out a little from shore so He could teach from the water. When He finished speaking, Jesus told Simon, "Put out into deep water, and let down the nets for a catch."
 
@@ -26,9 +26,9 @@ The catch was so enormous that the nets began to break. They had to call another
 
 Jesus said, "Don't be afraid; from now on you will fish for people" (Luke 5:10).
 
-Peter left everything -- his nets, his boats, his business -- and followed Jesus. (We retell this calling in [The Great Catch of Fish for kids](/blog/the-great-catch-of-fish-for-kids) and [The Four Fishermen for kids](/blog/the-four-fishermen-for-kids).)
+Peter left everything: his nets, his boats, his business, and followed Jesus. (We retell this calling in [The Great Catch of Fish for kids](/blog/the-great-catch-of-fish-for-kids) and [The Four Fishermen for kids](/blog/the-four-fishermen-for-kids).)
 
-**Key lesson for kids:** Jesus doesn't wait for us to be perfect before He calls us. Peter was an ordinary fisherman with rough edges, and Jesus chose him anyway. Whatever you are right now -- student, athlete, artist, kid who doesn't feel special -- Jesus sees more in you than you see in yourself.
+**Key lesson for kids:** Jesus doesn't wait for us to be perfect before He calls us. Peter was an ordinary fisherman with rough edges, and Jesus chose him anyway. Whatever you are right now: student, athlete, artist, kid who doesn't feel special, Jesus sees more in you than you see in yourself.
 
 ## Walking on Water (Matthew 14:22-33)
 
@@ -46,7 +46,7 @@ Peter climbed out of the boat and started walking on water toward Jesus. He actu
 
 Immediately, Jesus reached out His hand and caught him. "You of little faith," Jesus said, "why did you doubt?" (Matthew 14:31).
 
-**Key lesson for kids:** Peter is often criticized for sinking, but he's the only one who got out of the boat. He had enough faith to step out, even if he wobbled. When kids take a step of faith -- standing up for someone, trying something new, trusting God with something scary -- they might wobble too. But Jesus is right there, ready to catch them. (Read the full story in [Walking on Water for kids](/blog/walking-on-water-for-kids).)
+**Key lesson for kids:** Peter is often criticized for sinking, but he's the only one who got out of the boat. He had enough faith to step out, even if he wobbled. When kids take a step of faith: standing up for someone, trying something new, trusting God with something scary, they might wobble too. But Jesus is right there, ready to catch them. (Read the full story in [Walking on Water for kids](/blog/walking-on-water-for-kids).)
 
 ## "You Are the Christ" (Matthew 16:13-20)
 
@@ -60,9 +60,9 @@ Peter answered without hesitation: "You are the Messiah, the Son of the living G
 
 Jesus was deeply pleased. He said, "Blessed are you, Simon son of Jonah, for this was not revealed to you by flesh and blood, but by my Father in heaven. And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it" (Matthew 16:17-18).
 
-The name Peter means "rock." Jesus was saying that Peter's faith -- his declaration that Jesus is the Messiah -- would be the foundation of the church. This was an enormous honor for a fisherman from Galilee.
+The name Peter means "rock." Jesus was saying that Peter's faith, his declaration that Jesus is the Messiah, would be the foundation of the church. This was an enormous honor for a fisherman from Galilee.
 
-**Key lesson for kids:** Knowing who Jesus is changes everything. Peter got the most important answer right: Jesus is the Son of God. Help your kids understand that this isn't just information -- it's a relationship. When they know Jesus personally, they have a foundation that can't be shaken.
+**Key lesson for kids:** Knowing who Jesus is changes everything. Peter got the most important answer right: Jesus is the Son of God. Help your kids understand that this isn't just information; it's a relationship. When they know Jesus personally, they have a foundation that can't be shaken.
 
 ## Peter Denies Jesus (Luke 22:31-34, 54-62)
 
@@ -89,17 +89,17 @@ Peter went outside and wept bitterly (Luke 22:62).
 
 This is one of the saddest moments in the New Testament. Peter, who had promised to die for Jesus, couldn't even admit he knew Him. He was broken, ashamed, and filled with regret. (We handle this hard scene gently in [Peter Denies Jesus for kids](/blog/peter-denies-jesus-for-kids).)
 
-**Key lesson for kids:** Everyone fails sometimes. Even the bravest, most well-intentioned people can let fear get the best of them. Peter's denial feels devastating, but it's not the end of his story. The most important thing isn't that Peter fell -- it's what happened next.
+**Key lesson for kids:** Everyone fails sometimes. Even the bravest, most well-intentioned people can let fear get the best of them. Peter's denial feels devastating, but it's not the end of his story. The most important thing isn't that Peter fell; it's what happened next.
 
 ## Jesus Restores Peter (John 21:1-19)
 
-After Jesus rose from the dead, He appeared to His disciples several times. One of the most tender encounters happened by the Sea of Galilee. Peter and some of the other disciples had gone fishing. They fished all night and caught nothing -- just like the day they first met Jesus.
+After Jesus rose from the dead, He appeared to His disciples several times. One of the most tender encounters happened by the Sea of Galilee. Peter and some of the other disciples had gone fishing. They fished all night and caught nothing, just like the day they first met Jesus.
 
 At dawn, a figure on the shore called out, "Throw your net on the right side of the boat." They did, and the net was so full of fish they couldn't haul it in. John recognized the figure first: "It is the Lord!"
 
 Peter, being Peter, jumped into the water and swam to shore.
 
-After breakfast, Jesus took Peter aside. Three times -- once for each denial -- Jesus asked Peter the same question:
+After breakfast, Jesus took Peter aside. Three times, once for each denial, Jesus asked Peter the same question:
 
 "Simon son of John, do you love me?"
 
@@ -109,7 +109,7 @@ And three times Jesus gave him a commission: "Feed my lambs." "Take care of my s
 
 Jesus didn't lecture Peter about his failure. He didn't shame him or bring up the courtyard. He simply asked, "Do you love me?" and then gave him a job to do. Peter was restored. Forgiven. Commissioned. Given a second chance. (This beautiful scene gets its own retelling in [Peter Is Restored for kids](/blog/peter-is-restored-for-kids).)
 
-**Key lesson for kids:** Jesus doesn't give up on us when we fail. Peter denied Jesus three times, and Jesus restored him three times. If your child has done something they're ashamed of, they need to hear this: Jesus isn't done with them. He asks the same question He asked Peter -- "Do you love me?" -- and then He gives us another chance to serve Him.
+**Key lesson for kids:** Jesus doesn't give up on us when we fail. Peter denied Jesus three times, and Jesus restored him three times. If your child has done something they're ashamed of, they need to hear this: Jesus isn't done with them. He asks the same question He asked Peter, "Do you love me?" and then He gives us another chance to serve Him.
 
 ## Peter Leads the Early Church (Acts 2-12)
 
@@ -119,11 +119,11 @@ Peter healed the sick, performed miracles, and fearlessly preached about Jesus t
 
 Peter was arrested, beaten, and imprisoned multiple times. In Acts 12, King Herod had Peter thrown in prison, chained between two soldiers, with guards at the door. The night before his trial, an angel appeared, the chains fell off Peter's wrists, and he walked right out of prison.
 
-Peter also played a crucial role in opening the church to non-Jewish people. In Acts 10, God gave Peter a vision showing him that the gospel was for everyone -- not just Jews. Peter went to the house of a Roman centurion named Cornelius and preached, and the Holy Spirit fell on the Gentiles just as it had on the Jewish believers.
+Peter also played a crucial role in opening the church to non-Jewish people. In Acts 10, God gave Peter a vision showing him that the gospel was for everyone, not just Jews. Peter went to the house of a Roman centurion named Cornelius and preached, and the Holy Spirit fell on the Gentiles just as it had on the Jewish believers.
 
 According to tradition, Peter was eventually martyred in Rome under Emperor Nero, crucified upside down because he said he wasn't worthy to die the same way as his Lord.
 
-**Key lesson for kids:** God's Spirit can transform anyone. The Peter of Acts is almost unrecognizable from the Peter who denied Jesus. The difference wasn't Peter's own strength -- it was the power of the Holy Spirit working in him. When we let God work in us, He can make us braver and stronger than we ever thought possible.
+**Key lesson for kids:** God's Spirit can transform anyone. The Peter of Acts is almost unrecognizable from the Peter who denied Jesus. The difference wasn't Peter's own strength; it was the power of the Holy Spirit working in him. When we let God work in us, He can make us braver and stronger than we ever thought possible.
 
 ## Why Peter Matters
 
@@ -143,7 +143,7 @@ Watch Peter's incredible story come to life through animated video lessons on Fa
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
-If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names), each with its meaning, verse, and the story it comes from.
 
 ## Frequently Asked Questions
 
@@ -153,11 +153,11 @@ This is a matter of debate among Christians. The Catholic Church teaches that Pe
 
 ### Did Peter really walk on water?
 
-According to Matthew 14:29, yes. Peter stepped out of the boat and walked on the water toward Jesus. He began to sink when he shifted his focus from Jesus to the storm, but Jesus immediately caught him. This account is unique to Matthew's Gospel and is one of the most dramatic displays of faith -- and human doubt -- in the New Testament.
+According to Matthew 14:29, yes. Peter stepped out of the boat and walked on the water toward Jesus. He began to sink when he shifted his focus from Jesus to the storm, but Jesus immediately caught him. This account is unique to Matthew's Gospel and is one of the most dramatic displays of faith, and human doubt, in the New Testament.
 
 ### Why did Peter deny Jesus three times?
 
-Peter denied Jesus out of fear. After Jesus was arrested, Peter was in danger. If the authorities knew he was one of Jesus's closest followers, he could be arrested too -- or worse. In that moment of terror, self-preservation won out over loyalty. It's a profoundly human moment that shows even the strongest faith can falter under extreme pressure. The good news is that Jesus restored Peter completely afterward.
+Peter denied Jesus out of fear. After Jesus was arrested, Peter was in danger. If the authorities knew he was one of Jesus's closest followers, he could be arrested too, or worse. In that moment of terror, self-preservation won out over loyalty. It's a profoundly human moment that shows even the strongest faith can falter under extreme pressure. The good news is that Jesus restored Peter completely afterward.
 
 ### What happened to Peter after the book of Acts?
 

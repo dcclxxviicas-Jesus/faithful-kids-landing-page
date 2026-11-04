@@ -25,7 +25,7 @@ Before diving into explanations and applications, just tell the story. Kids lear
 "On Thursday night, Jesus had a special dinner with His twelve closest friends. He washed their feet, which was a job usually done by servants. He told them He loved them and that something very hard was about to happen. He shared bread and wine with them and said, 'Remember me when you do this.'"
 
 ### The Arrest and Trial (Thursday Night / Friday Morning)
-"After dinner, Jesus went to a garden to pray -- the story we tell in [the Garden of Gethsemane for kids](/blog/the-garden-of-gethsemane-for-kids). He was very sad because He knew what was coming. While He was praying, soldiers came and arrested Him. His friend Judas had told the soldiers where to find Him. They took Jesus to the leaders of the city, and even though Jesus had never done anything wrong, they said He had to die."
+"After dinner, Jesus went to a garden to pray; the story we tell in [the Garden of Gethsemane for kids](/blog/the-garden-of-gethsemane-for-kids). He was very sad because He knew what was coming. While He was praying, soldiers came and arrested Him. His friend Judas had told the soldiers where to find Him. They took Jesus to the leaders of the city, and even though Jesus had never done anything wrong, they said He had to die."
 
 ### The Cross (Good Friday)
 "On Friday, the soldiers nailed Jesus to a wooden cross. This is the hardest part of the story. Jesus suffered a lot, but He chose to go through it because He loved us. While He was on the cross, He said, 'Father, forgive them.' Even while people were hurting Him, Jesus was asking God to forgive them. Then Jesus died."

@@ -6,12 +6,12 @@ const EMERALD = '#059669'
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/jesse-tree'
 
 export const metadata = {
-  title: 'Printable Jesse Tree Ornaments & Readings, Free Set of 25',
+  title: 'Printable Jesse Tree Ornaments & Readings: Free Set of 25',
   description:
     'Free printable Jesse Tree set: 25 ornaments to color, one for each day of Advent, with the daily Scripture reading for each symbol. No sign-up, free PDF.',
   alternates: { canonical: 'https://faithfulkids.app/printables/jesse-tree' },
   openGraph: {
-    title: 'Printable Jesse Tree Ornaments & Readings, Free Set of 25',
+    title: 'Printable Jesse Tree Ornaments & Readings: Free Set of 25',
     description: 'Free printable Jesse Tree: 25 ornaments to color plus the daily Advent Scripture readings.',
     images: [{ url: `${CDN}/hero.png`, width: 1536, height: 1024 }],
   },

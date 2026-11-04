@@ -128,7 +128,7 @@ Yippee TV offers a mix of Christian shows including some classic content. The fr
 - Smaller content library
 - Not Bible-focused specifically (more general Christian entertainment)
 
-## 6. Dwell Kids, Best Audio Experience
+## 6. Dwell Kids: Best Audio Experience
 
 **Price:** a small monthly subscription (see their site for current pricing)
 **Ages:** 4-10
@@ -147,7 +147,7 @@ Dwell Kids focuses on audio Bible content: stories, playlists, and audiobooks. I
 - No quizzes
 - Audio only may not hold very young children's attention
 
-## 7. God for Kids, Best for Toddlers
+## 7. God for Kids: Best for Toddlers
 
 **Price:** Free
 **Ages:** 3-7

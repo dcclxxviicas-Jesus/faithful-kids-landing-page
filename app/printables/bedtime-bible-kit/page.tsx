@@ -4,7 +4,7 @@ import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 
 export const metadata = {
-  title: 'Bedtime Bible Kit, 7 Free Printable Nights',
+  title: 'Bedtime Bible Kit: 7 Free Printable Nights',
   description:
     'A free printable week of calm Bible bedtimes: seven nights of short stories, memory verses, and simple prayers for the last ten minutes before lights out.',
   alternates: { canonical: 'https://faithfulkids.app/printables/bedtime-bible-kit' },

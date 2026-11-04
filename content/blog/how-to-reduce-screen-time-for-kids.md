@@ -2,7 +2,7 @@
 title: "How to Reduce Screen Time for Kids Without a Fight"
 slug: "how-to-reduce-screen-time-for-kids"
 type: "listicle"
-metaDescription: "Practical tips to reduce your child's screen time without battles -- a guide for Christian parents replacing mindless scrolling with meaningful content."
+metaDescription: "Practical tips to reduce your child's screen time without battles; a guide for Christian parents replacing mindless scrolling with meaningful content."
 keywords: ["reduce screen time for kids", "screen time christian parents", "how to limit screen time kids", "screen time alternatives kids"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"

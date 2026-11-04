@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     'A video homeschool Bible curriculum for ages 5-15: 300+ short lessons in order, Genesis to Revelation, each with a quiz. No prep, no printing.',
   alternates: { canonical: 'https://faithfulkids.app/homeschool' },
   openGraph: {
-    title: 'Homeschool Bible Curriculum, 300+ Video Lessons',
+    title: 'Homeschool Bible Curriculum: 300+ Video Lessons',
     description:
       '300+ short Bible lessons in canonical order, each with a quiz and reflection. Built for ages 5-15. No prep, no printing.',
     url: 'https://faithfulkids.app/homeschool',

@@ -34,12 +34,12 @@ const BIO =
   'Christian Alexander is the founder of Faithful Kids, a Bible video app for children ages 5 to 15. A Christian father, he built it for his own kids: more than 300 short lessons running in order from Genesis to Revelation, each followed by a quiz and a reflection question. He writes about faith formation and screens in family life for The Christian Post, and answers the support email himself at christian@faithfulkids.app. Faithful Kids is published by Catterfly LLC, the company he owns.'
 
 export const metadata: Metadata = {
-  title: 'Christian Alexander, Founder of Faithful Kids',
+  title: 'Christian Alexander: Founder of Faithful Kids',
   description:
     'Christian Alexander is the founder of Faithful Kids, a Bible video app for kids ages 5-15. He writes about faith formation and screens in family life.',
   alternates: { canonical: 'https://faithfulkids.app/about/christian-alexander' },
   openGraph: {
-    title: 'Christian Alexander, Founder of Faithful Kids',
+    title: 'Christian Alexander: Founder of Faithful Kids',
     description:
       'Founder of Faithful Kids. Writes about faith formation and screens in family life.',
     url: 'https://faithfulkids.app/about/christian-alexander',

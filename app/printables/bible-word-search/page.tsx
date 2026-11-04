@@ -17,7 +17,7 @@ import printableVideos from '@/lib/printable-videos.json'
  */
 
 export const metadata: Metadata = {
-  title: 'Bible Word Search, 11 Free Puzzles',
+  title: 'Bible Word Search: 11 Free Puzzles',
   description:
     'Twelve free Bible word search puzzles for kids, play online or print. Noah, Christmas, Thanksgiving, Easter, David and Goliath and more. Answer keys included.',
   keywords: [
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-word-search' },
   openGraph: {
-    title: 'Bible Word Search, 10 Free Printables',
+    title: 'Bible Word Search: 10 Free Printables',
     description:
       'Twelve free Bible word search puzzles for kids, play online or print, with answer keys. No sign-up.',
     url: 'https://faithfulkids.app/printables/bible-word-search',

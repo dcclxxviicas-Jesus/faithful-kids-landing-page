@@ -2,24 +2,24 @@
 title: "75 Multiple-Choice Bible Trivia Questions (Printable)"
 slug: "bible-trivia-multiple-choice"
 type: "listicle"
-metaDescription: "75 multiple-choice Bible trivia game questions with A-D options, answers, and verse references, grouped by topic -- plus a 20-question quick-fire round."
+metaDescription: "75 multiple-choice Bible trivia game questions with A-D options, answers, and verse references, grouped by topic: plus a 20-question quick-fire round."
 keywords: ["bible trivia game questions", "multiple choice bible trivia", "bible trivia multiple choice questions and answers", "printable bible trivia questions", "bible trivia game", "bible quiz multiple choice"]
 datePublished: "2026-08-19"
 dateModified: "2026-08-19"
 ---
 
-Here are 75 multiple-choice Bible trivia game questions with four options each, the correct answer, and a verse reference -- grouped into Old Testament, Gospels, People, and Numbers and Places so you can pull one topic and run a whole round. A 20-question quick-fire round in short-answer format sits at the bottom for tiebreakers.
+Here are 75 multiple-choice Bible trivia game questions with four options each, the correct answer, and a verse reference: grouped into Old Testament, Gospels, People, and Numbers and Places so you can pull one topic and run a whole round. A 20-question quick-fire round in short-answer format sits at the bottom for tiebreakers.
 
 Multiple choice is the format that makes Bible trivia work for a mixed group. A player who has never opened a Bible still has a one-in-four shot, which keeps them guessing instead of going quiet, and the wrong options are usually the most educational part of the question.
 
 ## How to Play Multiple-Choice Bible Trivia
 
-Read the question and all four options out loud before anyone answers, and give the room ten seconds. Reading the options first is the whole trick -- it turns the question from a memory test into a reasoning problem, and you will hear teams talking each other into and out of answers, which is where the actual learning happens.
+Read the question and all four options out loud before anyone answers, and give the room ten seconds. Reading the options first is the whole trick. It turns the question from a memory test into a reasoning problem, and you will hear teams talking each other into and out of answers, which is where the actual learning happens.
 
 - **Everyone answers.** Give each player four cards or a paper marked A, B, C, D. On "reveal," everyone holds up a letter at once. Nobody sits out, and shy players never have to speak.
 - **Teams of three to five.** One point per correct answer, plus a bonus point for naming the book it came from.
 - **Elimination round.** Wrong answer means you sit down. Great for the last ten questions when energy is dropping.
-- **Print it.** Our free [Bible Trivia Pack](/printables/bible-trivia-pack) turns these into cut-out question cards and score sheets -- print it, split into teams, and you have a full game night with zero prep and no screens.
+- **Print it.** Our free [Bible Trivia Pack](/printables/bible-trivia-pack) turns these into cut-out question cards and score sheets. Print it, split into teams, and you have a full game night with zero prep and no screens.
 
 ## Old Testament Multiple-Choice Questions (1-20)
 
@@ -129,7 +129,7 @@ A) Isaiah  B) Jeremiah  C) Ezekiel  D) Hosea
 
 A) A whale  B) A huge fish  C) A sea serpent  D) A wave
 
-**Answer: B) A huge fish -- the text says "a huge fish," not a whale** (Jonah 1:17)
+**Answer: B) A huge fish.** The text says "a huge fish," not a whale (Jonah 1:17)
 
 **19. Which man lost everything and still refused to curse God?**
 
@@ -321,7 +321,7 @@ A) Samuel  B) Gad  C) Nathan  D) Elijah
 
 A) Haman  B) Mordecai  C) Hegai  D) Xerxes
 
-**Answer: B) Mordecai -- her cousin** (Esther 2:7)
+**Answer: B) Mordecai.** Her cousin (Esther 2:7)
 
 **50. Who was John the Baptist's father?**
 
@@ -395,7 +395,7 @@ A) Caleb  B) Aaron  C) Joshua  D) Eleazar
 
 A) 39  B) 27  C) 66  D) 72
 
-**Answer: C) 66 -- 39 in the Old Testament and 27 in the New**
+**Answer: C) 66.** 39 in the Old Testament and 27 in the New.
 
 **62. How many books are in the New Testament?**
 
@@ -419,7 +419,7 @@ A) One day  B) Three days and three nights  C) Seven days  D) Forty days
 
 A) About 500  B) About 3,000  C) About 5,000  D) About 10,000
 
-**Answer: C) About 5,000 -- besides women and children** (Matthew 14:21)
+**Answer: C) About 5,000.** Besides women and children (Matthew 14:21)
 
 **66. How many people were saved in the ark, according to Peter?**
 
@@ -508,11 +508,11 @@ Use these as tiebreakers or as a warm-up before the multiple-choice rounds. No o
 
 ## Print It or Keep Playing
 
-For paper play, grab the free [Bible Trivia Pack](/printables/bible-trivia-pack) -- cut-out question cards and score sheets that print from any home printer, no signup hoops. It works well for Sunday school tables, road trips, and anywhere you would rather not hand a kid a phone.
+For paper play, grab the free [Bible Trivia Pack](/printables/bible-trivia-pack). Cut-out question cards and score sheets that print from any home printer, no signup hoops. It works well for Sunday school tables, road trips, and anywhere you would rather not hand a kid a phone.
 
 If you want more questions, our [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers) master list spans Genesis to Revelation in four difficulty tiers, [Bible trivia for kids](/blog/bible-trivia-for-kids) is pitched at ages 5-12, and [50 hard Bible trivia questions for teens](/blog/bible-trivia-for-teens) will humble the family champion. For team formats, prizes, and a full evening plan, see our guide to [family Bible trivia night](/blog/family-bible-trivia-night).
 
-When a question turns up a story nobody at the table knows, read it together that night -- our short retelling of [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids) takes about five minutes. [Faithful Kids](https://faithfulkids.app/quiz) covers every major Bible story the same way, with a short video and a quiz after each episode, which is trivia practice disguised as screen time.
+When a question turns up a story nobody at the table knows, read it together that night. Our short retelling of [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids) takes about five minutes. [Faithful Kids](https://faithfulkids.app/quiz) covers every major Bible story the same way, with a short video and a quiz after each episode, which is trivia practice disguised as screen time.
 
 Want to skip the printing? Our [free Bible trivia game](/bible-trivia) deals ten questions at a time, right in the browser.
 
@@ -524,7 +524,7 @@ There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible
 
 ### What makes a good multiple-choice Bible trivia question?
 
-Three plausible wrong answers and one right one. If the wrong options are obviously silly, the question tests nothing; if all four are close, the question frustrates people. The best distractors are real Bible names or numbers from nearby stories -- offering Miriam, Zipporah, and Jochebed alongside the right answer teaches four names in one question.
+Three plausible wrong answers and one right one. If the wrong options are obviously silly, the question tests nothing; if all four are close, the question frustrates people. The best distractors are real Bible names or numbers from nearby stories. Offering Miriam, Zipporah, and Jochebed alongside the right answer teaches four names in one question.
 
 ### How many questions do you need for a Bible trivia game?
 
@@ -532,7 +532,7 @@ Budget 30 to 40 questions for an hour of play with teams. Multiple-choice moves 
 
 ### Can you print these Bible trivia questions?
 
-Yes -- the free [Bible Trivia Pack](/printables/bible-trivia-pack) has printable question cards and score sheets, and this page prints cleanly from any browser using your print command. Printing the cards means one person can read questions without everyone else seeing the answers.
+Yes. The free [Bible Trivia Pack](/printables/bible-trivia-pack) has printable question cards and score sheets, and this page prints cleanly from any browser using your print command. Printing the cards means one person can read questions without everyone else seeing the answers.
 
 ### What age are multiple-choice Bible trivia questions best for?
 
@@ -544,4 +544,4 @@ Multiple choice is already the great equalizer, but you can add two rules: play 
 
 ### Which Bible translation do these answers follow?
 
-Answers follow common modern English translations such as the NIV and ESV. Wording differs slightly across translations -- Jonah's "huge fish" is a "great fish" in the King James, for instance -- so count any answer that matches the meaning of the verse rather than the exact phrasing.
+Answers follow common modern English translations such as the NIV and ESV. Wording differs slightly across translations. Jonah's "huge fish" is a "great fish" in the King James, for instance. So count any answer that matches the meaning of the verse rather than the exact phrasing.

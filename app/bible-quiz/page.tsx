@@ -18,7 +18,7 @@ import { BY_AGE, BY_FORMAT, SEASONAL } from '../bible-trivia/trivia-directory'
 export const metadata: Metadata = {
   // absolute: the root layout appends " | Faithful Kids" (16 chars), which
   // pushed this past Google's ~60-char display cutoff.
-  title: { absolute: 'Bible Quiz, Play Free Online, 100 Questions with Answers' },
+  title: { absolute: 'Bible Quiz: Play Free Online, 100 Questions with Answers' },
   description:
     'Take a free Bible quiz: 100 questions from easy to expert with the verse behind every answer. Play online, test yourself, or print the PDF. All ages.',
   alternates: { canonical: 'https://faithfulkids.app/bible-quiz' },

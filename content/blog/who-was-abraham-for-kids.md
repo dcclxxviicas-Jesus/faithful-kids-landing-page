@@ -20,7 +20,7 @@ Abraham's story starts when he was still called Abram. He was living in a place 
 
 Then God spoke to him: "Go from your country, your people and your father's household to the land I will show you. I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing" (Genesis 12:1-2).
 
-Think about how scary that must have been. God didn't give Abram a map or an address. He just said "Go, and I'll show you where." Abram had to pack up everything, leave his family and friends behind, and head into the unknown -- all because God said to.
+Think about how scary that must have been. God didn't give Abram a map or an address. He just said "Go, and I'll show you where." Abram had to pack up everything, leave his family and friends behind, and head into the unknown, all because God said to.
 
 And Abram went. He was 75 years old, and he just went. (For a deeper retelling of this moment, see [God Calls Abraham for kids](/blog/god-calls-abraham-for-kids).)
 
@@ -28,9 +28,9 @@ And Abram went. He was 75 years old, and he just went. (For a deeper retelling o
 
 ## God's Big Promise (Genesis 15:1-6)
 
-After Abram arrived in the land of Canaan, God made him an incredible promise. He took Abram outside at night and said, "Look up at the sky and count the stars -- if indeed you can count them. So shall your offspring be" (Genesis 15:5).
+After Abram arrived in the land of Canaan, God made him an incredible promise. He took Abram outside at night and said, "Look up at the sky and count the stars, if indeed you can count them. So shall your offspring be" (Genesis 15:5).
 
-Billions of stars in the sky, and God said Abram would have that many descendants. There was just one problem: Abram and Sarai didn't have any children. They were old -- really old. Abram was in his 80s, and Sarai wasn't far behind. Having a baby seemed absolutely impossible.
+Billions of stars in the sky, and God said Abram would have that many descendants. There was just one problem: Abram and Sarai didn't have any children. They were old, really old. Abram was in his 80s, and Sarai wasn't far behind. Having a baby seemed absolutely impossible.
 
 But the Bible says something remarkable: "Abram believed the Lord, and he credited it to him as righteousness" (Genesis 15:6). Abram didn't laugh (well, not yet). He didn't argue. He looked at the stars and believed.
 
@@ -48,17 +48,17 @@ For the quiet patriarch's full story, the laughter, the mountain, the wells, see
 
 ## New Names, New Promise (Genesis 17)
 
-When Abram was 99 years old, God appeared to him again and made an even bigger promise. God said He was establishing a covenant -- a special agreement -- with Abram and all his descendants.
+When Abram was 99 years old, God appeared to him again and made an even bigger promise. God said He was establishing a covenant, a special agreement, with Abram and all his descendants.
 
 As part of this covenant, God changed their names. Abram ("exalted father") became Abraham ("father of many"). Sarai became Sarah ("princess"). The name change was a daily reminder of what God had promised. Every time someone called him "Abraham," it was like hearing God say, "I'm going to make you the father of many nations."
 
-God also told Abraham that Sarah would have a son, and they would name him Isaac. When Abraham heard this, he fell on his face and laughed -- he was 99 and Sarah was 90. A baby? Really?
+God also told Abraham that Sarah would have a son, and they would name him Isaac. When Abraham heard this, he fell on his face and laughed, he was 99 and Sarah was 90. A baby? Really?
 
-**Key lesson for kids:** God sometimes changes how we see ourselves. Abraham's new name helped him see himself the way God saw him -- not as a childless old man, but as a father of nations. God sees potential in us that we can't always see in ourselves.
+**Key lesson for kids:** God sometimes changes how we see ourselves. Abraham's new name helped him see himself the way God saw him, not as a childless old man, but as a father of nations. God sees potential in us that we can't always see in ourselves.
 
 ## Three Visitors and Sarah Laughs (Genesis 18:1-15)
 
-One day, three visitors came to Abraham's tent. Abraham welcomed them, washed their feet, and prepared a meal -- the Middle Eastern tradition of hospitality. During the meal, one of the visitors (who turned out to be the Lord) said, "I will surely return to you about this time next year, and Sarah your wife will have a son."
+One day, three visitors came to Abraham's tent. Abraham welcomed them, washed their feet, and prepared a meal, the Middle Eastern tradition of hospitality. During the meal, one of the visitors (who turned out to be the Lord) said, "I will surely return to you about this time next year, and Sarah your wife will have a son."
 
 Sarah was listening from inside the tent. When she heard this, she laughed to herself. She was 90 years old. The idea of having a baby seemed ridiculous.
 
@@ -82,9 +82,9 @@ Sarah said, "God has brought me laughter, and everyone who hears about this will
 
 ## The Hardest Test (Genesis 22:1-19)
 
-Then came the most difficult moment of Abraham's life. God told him, "Take your son, your only son, whom you love -- Isaac -- and go to the region of Moriah. Sacrifice him there as a burnt offering" (Genesis 22:2).
+Then came the most difficult moment of Abraham's life. God told him, "Take your son, your only son, whom you love, Isaac, and go to the region of Moriah. Sacrifice him there as a burnt offering" (Genesis 22:2).
 
-This is a hard passage for adults, and it needs to be handled gently with kids -- we walk through it step by step in our guide to [Abraham and Isaac for kids](/blog/abraham-and-isaac-for-kids). God asked Abraham to give up the thing he loved most -- the son he had waited 25 years for. It doesn't make sense to us, and it must not have made sense to Abraham either.
+This is a hard passage for adults, and it needs to be handled gently with kids, we walk through it step by step in our guide to [Abraham and Isaac for kids](/blog/abraham-and-isaac-for-kids). God asked Abraham to give up the thing he loved most, the son he had waited 25 years for. It doesn't make sense to us, and it must not have made sense to Abraham either.
 
 But Abraham obeyed. Early the next morning, he took Isaac and headed for Moriah. On the way, Isaac noticed they had fire and wood but no lamb for the sacrifice. He asked his father about it.
 
@@ -96,11 +96,11 @@ Abraham looked up and saw a ram caught in a nearby thicket. God had provided the
 
 Abraham named that place "The Lord Will Provide." And to this day, on the mountain of the Lord, it will be provided (Genesis 22:14).
 
-**Key lesson for kids:** God never actually wanted Isaac to be harmed. This was a test of Abraham's faith -- would he trust God even with the thing most precious to him? Abraham passed the test, and God provided. The story points forward to how God would one day provide His own Son, Jesus, as the sacrifice for the whole world.
+**Key lesson for kids:** God never actually wanted Isaac to be harmed. This was a test of Abraham's faith, would he trust God even with the thing most precious to him? Abraham passed the test, and God provided. The story points forward to how God would one day provide His own Son, Jesus, as the sacrifice for the whole world.
 
 ## Abraham's Legacy
 
-Abraham died at the age of 175, and the Bible says he was "gathered to his people" at a good old age (Genesis 25:8). He is honored as the father of the Jewish people, and through his descendant Jesus, he became a blessing to the entire world -- just as God had promised. His great-grandson Joseph carried the family story forward in one of the Bible's most dramatic sagas ([who was Joseph?](/blog/who-was-joseph-for-kids)).
+Abraham died at the age of 175, and the Bible says he was "gathered to his people" at a good old age (Genesis 25:8). He is honored as the father of the Jewish people, and through his descendant Jesus, he became a blessing to the entire world, just as God had promised. His great-grandson Joseph carried the family story forward in one of the Bible's most dramatic sagas ([who was Joseph?](/blog/who-was-joseph-for-kids)).
 
 Here's what Abraham's life teaches us:
 
@@ -108,23 +108,23 @@ Here's what Abraham's life teaches us:
 - **God's timing is perfect.** Twenty-five years is a long wait, but Isaac arrived right on time.
 - **Our mistakes don't stop God's plan.** Abraham and Sarah tried to rush things with Hagar, but God's promise still came true.
 - **God provides.** On the mountain, when it looked like all was lost, God provided the ram. He always provides.
-- **God keeps every promise.** The stars in the sky, the descendants beyond counting, the blessing to all nations -- every word God spoke to Abraham has come true.
+- **God keeps every promise.** The stars in the sky, the descendants beyond counting, the blessing to all nations, every word God spoke to Abraham has come true.
 
 Abraham's faith wasn't perfect. He doubted, he laughed, he made mistakes. But he kept following God, step by step, into the unknown. And God turned that imperfect faith into something that changed the world. If your family enjoyed this story, explore more [Bible stories about faith for kids](/blog/bible-stories-about-faith-for-kids), then test what you've learned with some [Genesis Bible trivia](/blog/genesis-bible-trivia).
 
 ## Watch on Faithful Kids
 
-Help your kids experience Abraham's incredible story through animated video lessons on Faithful Kids. Each episode brings a key moment to life -- from the starry night promise to Isaac's birth -- with quizzes and reflections that help kids apply these faith lessons to their own lives.
+Help your kids experience Abraham's incredible story through animated video lessons on Faithful Kids. Each episode brings a key moment to life, from the starry night promise to Isaac's birth, with quizzes and reflections that help kids apply these faith lessons to their own lives.
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
-Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names): meanings, verses, and the stories included.
 
 ## Frequently Asked Questions
 
 ### Why did God ask Abraham to sacrifice Isaac?
 
-God never intended for Isaac to be killed. The test was to see if Abraham trusted God completely -- even with his most precious gift. When Abraham showed his willingness to obey, God stopped him and provided a ram instead. Many Christians see this story as foreshadowing God's own sacrifice: God the Father giving His Son, Jesus, for the salvation of the world.
+God never intended for Isaac to be killed. The test was to see if Abraham trusted God completely, even with his most precious gift. When Abraham showed his willingness to obey, God stopped him and provided a ram instead. Many Christians see this story as foreshadowing God's own sacrifice: God the Father giving His Son, Jesus, for the salvation of the world.
 
 ### How long did Abraham wait for Isaac to be born?
 
@@ -132,8 +132,8 @@ Abraham was 75 when God first promised him a son (Genesis 12:4), and he was 100 
 
 ### Is Abraham important in other religions too?
 
-Yes. Abraham is a foundational figure in Judaism, Christianity, and Islam -- the three largest monotheistic religions. Jewish people trace their lineage to Abraham through Isaac. Christians see Abraham as the father of faith and an ancestor of Jesus. Muslims honor Ibrahim (Abraham) as a prophet and trace their lineage through Ishmael. This shared heritage makes Abraham one of the most significant figures in world history.
+Yes. Abraham is a foundational figure in Judaism, Christianity, and Islam, the three largest monotheistic religions. Jewish people trace their lineage to Abraham through Isaac. Christians see Abraham as the father of faith and an ancestor of Jesus. Muslims honor Ibrahim (Abraham) as a prophet and trace their lineage through Ishmael. This shared heritage makes Abraham one of the most significant figures in world history.
 
 ### How do I explain the sacrifice of Isaac to young children?
 
-For younger children (under 8), focus on the positive outcome: God tested Abraham's trust, and God provided the ram. Emphasize that God kept Isaac safe and that Abraham trusted God even when he was scared. For older children, you can discuss the deeper layers -- how the story shows the depth of Abraham's faith and how it points to God's own sacrifice of Jesus. Always reassure children that God is good and that He protected Isaac.
+For younger children (under 8), focus on the positive outcome: God tested Abraham's trust, and God provided the ram. Emphasize that God kept Isaac safe and that Abraham trusted God even when he was scared. For older children, you can discuss the deeper layers: how the story shows the depth of Abraham's faith and how it points to God's own sacrifice of Jesus. Always reassure children that God is good and that He protected Isaac.

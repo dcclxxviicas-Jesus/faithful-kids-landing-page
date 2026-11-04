@@ -22,7 +22,7 @@ import '../bible-maps/maps.css'
  */
 
 export const metadata: Metadata = {
-  title: { absolute: 'Bible Timeline for Kids, Free Printable Chart' },
+  title: { absolute: 'Bible Timeline for Kids: Free Printable Chart' },
   description: `The whole Bible in order on one free printable timeline, ${ERA_COUNT} eras from Creation to the early church, with dates, key events and books. No sign-up.`,
   keywords: [
     'bible timeline', 'bible timeline for kids', 'printable bible timeline',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-timeline' },
   openGraph: {
-    title: 'Bible Timeline for Kids, Free Printable Chart',
+    title: 'Bible Timeline for Kids: Free Printable Chart',
     description: `${ERA_COUNT} eras from Creation to the early church on one printable chart, dates, key events, and the books of the Bible each era lives in.`,
     url: 'https://faithfulkids.app/printables/bible-timeline',
     siteName: 'Faithful Kids',

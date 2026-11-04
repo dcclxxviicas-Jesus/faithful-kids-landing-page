@@ -92,9 +92,9 @@ For a shorter session, a Sunday school opener or the first ten minutes of a smal
 
 Hosting at Christmas? These [Christmas Bible trivia questions and answers](/blog/christmas-bible-trivia) were written for exactly that evening.
 
-The same bank runs our [play-along Bible quiz](/bible-quiz) -- pick easy, medium, or hard and chase the streak.
+The same bank runs our [play-along Bible quiz](/bible-quiz), pick easy, medium, or hard and chase the streak.
 
-Add a few [funny Christian jokes](/blog/christian-jokes) between rounds -- the church-sign section alone can carry a youth-group night.
+Add a few [funny Christian jokes](/blog/christian-jokes) between rounds, the church-sign section alone can carry a youth-group night.
 
 ## Frequently Asked Questions
 

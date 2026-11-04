@@ -10,7 +10,7 @@ dateModified: "2026-08-16"
 
 # Who Was Jonah? Bible Story for Kids
 
-Jonah's story is one of the most well-known tales in the Bible, and kids love it for obvious reasons: a man gets swallowed by a giant fish and survives. But there's so much more to this four-chapter book than the fish. Jonah's story is really about running from God, learning that you can't outrun Him, and discovering that God's love and mercy extend to everyone -- even the people we don't think deserve it.
+Jonah's story is one of the most well-known tales in the Bible, and kids love it for obvious reasons: a man gets swallowed by a giant fish and survives. But there's so much more to this four-chapter book than the fish. Jonah's story is really about running from God, learning that you can't outrun Him, and discovering that God's love and mercy extend to everyone, even the people we don't think deserve it.
 
 Here's the story of Jonah, chapter by chapter, explained for kids.
 
@@ -18,7 +18,7 @@ Here's the story of Jonah, chapter by chapter, explained for kids.
 
 The word of the Lord came to Jonah: "Go to the great city of Nineveh and preach against it, because its wickedness has come up before me" (Jonah 1:2).
 
-Nineveh was the capital of the Assyrian Empire -- and the Assyrians were the sworn enemies of Israel. They were known for extreme cruelty and violence. Asking Jonah to go preach to Nineveh was like asking someone to go help the people who had been hurting their family for generations.
+Nineveh was the capital of the Assyrian Empire, and the Assyrians were the sworn enemies of Israel. They were known for extreme cruelty and violence. Asking Jonah to go preach to Nineveh was like asking someone to go help the people who had been hurting their family for generations.
 
 Jonah's response? He ran the other direction.
 
@@ -46,13 +46,13 @@ The sailors didn't want to throw a man overboard. They tried rowing harder first
 
 Immediately, the storm stopped. The sea became perfectly calm. The sailors were so amazed that they offered sacrifices to the Lord and made vows to Him.
 
-**Key lesson for kids:** Our choices affect the people around us. Jonah's disobedience didn't just affect Jonah -- it put everyone on that ship in danger. When we run from what's right, other people can get caught in the storm too. This teaches kids to think about how their choices impact their family and friends. (More stories like this in our [Bible stories about obedience for kids](/blog/bible-stories-about-obedience-for-kids).)
+**Key lesson for kids:** Our choices affect the people around us. Jonah's disobedience didn't just affect Jonah; it put everyone on that ship in danger. When we run from what's right, other people can get caught in the storm too. This teaches kids to think about how their choices impact their family and friends. (More stories like this in our [Bible stories about obedience for kids](/blog/bible-stories-about-obedience-for-kids).)
 
 ## Swallowed by a Great Fish (Jonah 1:17-2:10)
 
 Here's the part kids never forget. "Now the Lord provided a great fish to swallow Jonah, and Jonah was inside the fish three days and three nights" (Jonah 1:17).
 
-The Bible calls it a "great fish" rather than a whale, though it could have been one. Whatever it was, God had specifically prepared it for this moment. This wasn't a random encounter -- it was a divine rescue.
+The Bible calls it a "great fish" rather than a whale, though it could have been one. Whatever it was, God had specifically prepared it for this moment. This wasn't a random encounter, it was a divine rescue.
 
 Inside the fish, Jonah prayed. And what a prayer it was. Psalm-like in its beauty, Jonah cried out from the depths:
 
@@ -60,7 +60,7 @@ Inside the fish, Jonah prayed. And what a prayer it was. Psalm-like in its beaut
 
 After three days and three nights, the Lord commanded the fish, and it vomited Jonah onto dry land.
 
-**Key lesson for kids:** Even when we run from God, He doesn't abandon us. The fish wasn't a punishment -- it was a rescue. God could have let Jonah drown. Instead, He provided a way to bring Jonah back. God is always willing to give us a second chance when we turn back to Him. Also, Jesus later compared His own three days in the tomb to Jonah's three days in the fish (Matthew 12:40), making this story even more significant.
+**Key lesson for kids:** Even when we run from God, He doesn't abandon us. The fish wasn't a punishment, it was a rescue. God could have let Jonah drown. Instead, He provided a way to bring Jonah back. God is always willing to give us a second chance when we turn back to Him. Also, Jesus later compared His own three days in the tomb to Jonah's three days in the fish (Matthew 12:40), making this story even more significant.
 
 Pair this with our free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish), one sheet, ready for the kitchen table or the classroom.
 
@@ -76,11 +76,11 @@ Nineveh was a massive city. The Bible says it took three days to walk through it
 
 What happened next was nothing short of miraculous. The people of Nineveh believed God. From the greatest to the least, they put on sackcloth (a sign of mourning and repentance). They fasted. They turned from their evil ways.
 
-Even the king got up from his throne, took off his royal robes, covered himself with sackcloth, and sat in ashes. He issued a decree: everyone -- people and animals -- must fast, wear sackcloth, and call urgently on God. "Let them give up their evil ways and their violence. Who knows? God may yet relent and with compassion turn from his fierce anger so that we will not perish" (Jonah 3:8-9).
+Even the king got up from his throne, took off his royal robes, covered himself with sackcloth, and sat in ashes. He issued a decree: everyone, people and animals, must fast, wear sackcloth, and call urgently on God. "Let them give up their evil ways and their violence. Who knows? God may yet relent and with compassion turn from his fierce anger so that we will not perish" (Jonah 3:8-9).
 
 And God did relent. He saw their repentance and had compassion on them. He did not destroy Nineveh.
 
-An entire city -- hundreds of thousands of people -- turned to God because of one reluctant prophet's eight-word sermon. God can do incredible things through imperfect messengers.
+An entire city, hundreds of thousands of people, turned to God because of one reluctant prophet's eight-word sermon. God can do incredible things through imperfect messengers.
 
 **Key lesson for kids:** It's never too late to do the right thing. Jonah disobeyed at first, but when he finally obeyed, God used him powerfully. Also, the Ninevites show us that it's never too late to say sorry and turn back to God. No person and no city is beyond God's mercy.
 
@@ -92,7 +92,7 @@ Here's where the story takes a surprising turn. You'd think Jonah would be thril
 
 Jonah was angry BECAUSE God was merciful. He didn't want God to forgive the Ninevites. He wanted them destroyed. He had gone to Nineveh hoping God would rain down judgment on Israel's enemies, and instead, God showed them grace. Jonah felt like it wasn't fair.
 
-Jonah went outside the city, made himself a shelter, and sat down to watch -- maybe still hoping God would destroy the city. God provided a leafy plant that grew up overnight and gave Jonah shade. Jonah was very happy about the plant.
+Jonah went outside the city, made himself a shelter, and sat down to watch, maybe still hoping God would destroy the city. God provided a leafy plant that grew up overnight and gave Jonah shade. Jonah was very happy about the plant.
 
 But the next morning, God provided a worm that ate the plant, and it withered. Then God sent a scorching wind and blazing sun. Jonah was miserable. "It would be better for me to die than to live," he said again (Jonah 4:8).
 
@@ -102,11 +102,11 @@ Then God delivered the punch line of the whole book:
 
 "It is," Jonah said. "I'm angry enough to die."
 
-God said, "You have been concerned about this plant, though you did not tend it or make it grow. It sprang up overnight and died overnight. And should I not have concern for the great city of Nineveh, in which there are more than a hundred and twenty thousand people who cannot tell their right hand from their left -- and also many animals?" (Jonah 4:10-11)
+God said, "You have been concerned about this plant, though you did not tend it or make it grow. It sprang up overnight and died overnight. And should I not have concern for the great city of Nineveh, in which there are more than a hundred and twenty thousand people who cannot tell their right hand from their left, and also many animals?" (Jonah 4:10-11)
 
-The book ends right there. We never hear Jonah's response. It's an open question left hanging in the air, and it's meant for every reader: Will you accept that God's mercy extends to everyone -- even the people you don't like? (We unpack this surprising ending in [Jonah: The Lesson for kids](/blog/jonah-the-lesson-for-kids).)
+The book ends right there. We never hear Jonah's response. It's an open question left hanging in the air, and it's meant for every reader: Will you accept that God's mercy extends to everyone, even the people you don't like? (We unpack this surprising ending in [Jonah: The Lesson for kids](/blog/jonah-the-lesson-for-kids).)
 
-**Key lesson for kids:** God's love isn't just for people who are like us. It's for everyone. Jonah wanted God to love Israelites and hate Ninevites. But God loved them all. This is a powerful lesson for kids about including others, being kind to people who are different, and trusting that God's mercy is always a good thing -- even when it's shown to people we struggle with.
+**Key lesson for kids:** God's love isn't just for people who are like us. It's for everyone. Jonah wanted God to love Israelites and hate Ninevites. But God loved them all. This is a powerful lesson for kids about including others, being kind to people who are different, and trusting that God's mercy is always a good thing, even when it's shown to people we struggle with.
 
 ## Why Jonah Matters
 
@@ -116,7 +116,7 @@ Jonah's story packs enormous lessons into just four short chapters:
 - **God gives second chances.** After Jonah ran, God came to him again with the same mission. God is patient and persistent.
 - **Obedience matters.** When Jonah finally obeyed, an entire city was transformed. Our obedience can have an impact we never imagined.
 - **God's mercy is for everyone.** The Ninevites were enemies of Israel, yet God had compassion on them. God's love doesn't have borders.
-- **Our comfort isn't the point.** Jonah cared more about a plant than 120,000 people. God challenges us to care about what He cares about -- people.
+- **Our comfort isn't the point.** Jonah cared more about a plant than 120,000 people. God challenges us to care about what He cares about: people.
 
 Jonah's story also points forward to Jesus. Just as Jonah was three days in the belly of the fish, Jesus was three days in the tomb before rising again. And just as Jonah was sent to bring God's message to outsiders, Jesus came to bring salvation to the whole world. When you've finished the story, challenge your family with our [Jonah Bible trivia](/blog/jonah-bible-trivia).
 
@@ -126,7 +126,7 @@ Bring Jonah's adventure to life for your kids with animated video lessons on Fai
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
-If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names), each with its meaning, verse, and the story it comes from.
 
 ## Frequently Asked Questions
 

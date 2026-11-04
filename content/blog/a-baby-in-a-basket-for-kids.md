@@ -23,11 +23,11 @@ A Baby in a Basket is a Bible story from Exodus 1-2 in the Old Testament. This r
 
 ## What Is the Story of A Baby in a Basket for Kids?
 
-Hey there! Welcome to an incredible adventure. I want to tell you a story about one of the bravest babies who ever lived. Yeah, you heard me right -- a brave BABY. His name? Moses. And his story starts in a really dark place.
+Hey there! Welcome to an incredible adventure. I want to tell you a story about one of the bravest babies who ever lived. Yeah, you heard me right: a brave BABY. His name? Moses. And his story starts in a really dark place.
 
-See, my people -- the Israelites -- were living in Egypt. And at first, things were pretty good! But then a new Pharaoh came to power, and this guy? He was terrified of the Israelites. Why? Because there were SO many of them. He thought, "What if they rise up against me?" So you know what he did? He turned them into slaves. Forced them to make bricks, build cities, work until their backs nearly broke.
+See, my people, the Israelites, were living in Egypt. And at first, things were pretty good! But then a new Pharaoh came to power, and this guy? He was terrified of the Israelites. Why? Because there were SO many of them. He thought, "What if they rise up against me?" So you know what he did? He turned them into slaves. Forced them to make bricks, build cities, work until their backs nearly broke.
 
-But here's the thing about my people -- the harder Pharaoh pushed them down, the more they multiplied. And that made Pharaoh even MORE scared. So he came up with a horrible, cruel command: "Every baby boy born to the Hebrews -- throw him into the Nile River."
+But here's the thing about my people: the harder Pharaoh pushed them down, the more they multiplied. And that made Pharaoh even MORE scared. So he came up with a horrible, cruel command: "Every baby boy born to the Hebrews, throw him into the Nile River."
 
 Can you imagine? Every. Single. Baby boy.
 
@@ -65,7 +65,7 @@ After hiding Moses for three months, his mother made a basket, coated it with ta
 
 ### What amazing thing happened after Pharaoh's daughter found baby Moses?
 
-Miriam cleverly offered to find a Hebrew woman to nurse the baby, and she brought Moses' own mother -- who then got paid by Pharaoh's daughter to raise her own son!
+Miriam cleverly offered to find a Hebrew woman to nurse the baby, and she brought Moses' own mother, who then got paid by Pharaoh's daughter to raise her own son!
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of A Baby in a Basket about for kids?
 
-A Baby in a Basket is a story from Exodus 1-2. Hey there! Welcome to an incredible adventure. I want to tell you a story about one of the bravest babies who ever lived. Yeah, you heard me right -- a brave BABY. His name? Moses. And his story st...
+A Baby in a Basket is a story from Exodus 1-2. Hey there! Welcome to an incredible adventure. I want to tell you a story about one of the bravest babies who ever lived. Yeah, you heard me right: a brave BABY. His name? Moses. And his story st...
 
 ### What age is the story of A Baby in a Basket appropriate for?
 

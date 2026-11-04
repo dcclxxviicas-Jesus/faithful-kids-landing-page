@@ -583,8 +583,8 @@ body {
 .video-tile--disc .video-tile-btn:active { transform: none; }
 /* While the hover preview plays, let the clip through: lighter scrim and the
    stack steps aside a little, like YouTube dropping the thumbnail chrome. */
-.video-tile--disc.is-previewing .video-tile-btn { background: rgba(0,0,0,.08); }
-.video-tile--disc.is-previewing .video-tile-disc { opacity: .92; }
+.video-tile, disc.is-previewing .video-tile-btn { background: rgba(0,0,0,.08); }
+.video-tile, disc.is-previewing .video-tile-disc { opacity: .92; }
 @media (hover: hover) {
   .video-tile--disc .video-tile-btn:hover { background: rgba(0,0,0,.32); }
   .video-tile--disc .video-tile-btn:hover .video-tile-disc { transform: scale(1.07); }

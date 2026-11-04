@@ -58,9 +58,9 @@ const ENCOURAGE = ['Now you know it!', 'That was a tricky one!', 'Every miss is 
 function rankFor(score: number): { title: string; emoji: string; line: string } {
   if (score >= 10) return { title: 'Bible Master', emoji: '👑', line: 'A perfect round. Incredible!' }
   if (score >= 8) return { title: 'Scripture Scholar', emoji: '🌟', line: 'You really know your Bible!' }
-  if (score >= 6) return { title: 'Faithful Learner', emoji: '📖', line: 'Great round, you know a lot!' }
+  if (score >= 6) return { title: 'Faithful Learner', emoji: '📖', line: 'Great round: you know a lot!' }
   if (score >= 4) return { title: 'Rising Star', emoji: '🌱', line: 'Nice! Every game makes you sharper.' }
-  return { title: 'Brave Beginner', emoji: '💪', line: 'Great start, every question is a story to discover!' }
+  return { title: 'Brave Beginner', emoji: '💪', line: 'Great start: every question is a story to discover!' }
 }
 
 const CONFETTI_COLORS = ['#16a34a', '#4ade80', '#fbbf24', '#f472b6', '#60a5fa', '#a78bfa']

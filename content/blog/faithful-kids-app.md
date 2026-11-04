@@ -24,7 +24,7 @@ Everything in Faithful Kids is built around one loop: **watch, answer, talk abou
 - **Captions on every video.** Reading skills grow alongside Bible knowledge.
 - **Series unlock in order.** Kids can't skip to the flashy stories; knowledge builds the way the Book is written.
 
-## Made for Kids, and Built Like It
+## Made for Kids: and Built Like It
 
 Faithful Kids carries Apple's **Made for Kids** designation, which means it meets the App Store's strictest rules for children's apps. In practice:
 

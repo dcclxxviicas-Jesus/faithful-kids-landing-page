@@ -106,7 +106,7 @@ Help your child recognize sin in everyday terms:
 
 Repentance is a big word, but the concept is simple: **turning around and going the other way.**
 
-"Imagine you are walking down a path, and you realize you are going the wrong direction. What do you do? You stop, turn around, and start walking the right way. That is what repentance means. When we realize we have been going against God's way, we stop, say sorry, and start going His way instead." Jesus told a story that paints this picture perfectly -- read [the prodigal son for kids](/blog/the-prodigal-son-for-kids) together.
+"Imagine you are walking down a path, and you realize you are going the wrong direction. What do you do? You stop, turn around, and start walking the right way. That is what repentance means. When we realize we have been going against God's way, we stop, say sorry, and start going His way instead." Jesus told a story that paints this picture perfectly; read [the prodigal son for kids](/blog/the-prodigal-son-for-kids) together.
 
 Repentance is not just feeling bad. It is deciding to change direction. Help your child understand that God gives us the power to change through the Holy Spirit, we do not have to do it alone.
 

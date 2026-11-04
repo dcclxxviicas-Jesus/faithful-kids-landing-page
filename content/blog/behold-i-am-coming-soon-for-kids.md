@@ -63,7 +63,7 @@ Alpha is the first letter of the Greek alphabet and Omega is the last. By callin
 
 The last prayer recorded in Scripture is "Come, Lord Jesus", a simple, powerful cry from the heart asking Jesus to return. And Jesus answers it with "Yes, I am coming soon."
 
-### What is the one message that runs through the entire Bible, from Genesis to Revelation?
+### What is the one message that runs through the entire Bible: from Genesis to Revelation?
 
 From the very first verse of Genesis to the very last verse of Revelation, the Bible tells one story: God created you, loves you, came to rescue you, and is coming back for you. It's a love story, and you're the one He's coming for.
 

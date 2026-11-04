@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### About how many men joined David's group?
 
-**About 400 men.** They were people in distress, in debt, or discontented -- and David became their leader in the cave of Adullam (1 Samuel 22:1-2).
+**About 400 men.** They were people in distress, in debt, or discontented, and David became their leader in the cave of Adullam (1 Samuel 22:1-2).
 
 ### What did David do during his time hiding in caves and deserts?
 

@@ -2,21 +2,21 @@
 title: "Luke Bible Trivia: 42 Questions and Answers"
 slug: "luke-bible-trivia"
 type: "listicle"
-metaDescription: "42 Luke Bible trivia questions with answers and verse references -- easy to hard rounds on the manger, the prodigal son, Zacchaeus, and Emmaus."
+metaDescription: "42 Luke Bible trivia questions with answers and verse references, easy to hard rounds on the manger, the prodigal son, Zacchaeus, and Emmaus."
 keywords: ["luke bible trivia", "luke quiz questions", "questions about the book of luke", "luke bible questions and answers", "gospel of luke trivia for kids", "book of luke quiz"]
 datePublished: "2026-08-14"
 dateModified: "2026-08-15"
 ---
 
-These 42 Luke Bible trivia questions cover the whole gospel -- the angel Gabriel, the manger in Bethlehem, the Good Samaritan, the prodigal son, Zacchaeus in his tree, and the road to Emmaus -- with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so the whole family can play.
+These 42 Luke Bible trivia questions cover the whole gospel: the angel Gabriel, the manger in Bethlehem, the Good Samaritan, the prodigal son, Zacchaeus in his tree, and the road to Emmaus, with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so the whole family can play.
 
 Luke is a trivia goldmine because so many favorite stories appear nowhere else: no other gospel has the shepherds at the manger, the Good Samaritan, the prodigal son, Zacchaeus, or the road to Emmaus. If your kids only know one gospel well, Luke gives them the most stories per page.
 
 ## What Is the Book of Luke About?
 
-The book of Luke is a carefully researched account of the life of Jesus -- his birth, teaching, miracles, death, and resurrection -- written so that a man named Theophilus could "know the certainty" of what he had been taught (Luke 1:3-4). The gospel itself is formally anonymous, but the church has traditionally attributed it to Luke, the physician and traveling companion of Paul, whom Paul calls "our dear friend Luke, the doctor" (Colossians 4:14).
+The book of Luke is a carefully researched account of the life of Jesus: his birth, teaching, miracles, death, and resurrection, written so that a man named Theophilus could "know the certainty" of what he had been taught (Luke 1:3-4). The gospel itself is formally anonymous, but the church has traditionally attributed it to Luke, the physician and traveling companion of Paul, whom Paul calls "our dear friend Luke, the doctor" (Colossians 4:14).
 
-Luke is the longest of the four gospels by word count, and it's volume one of a two-part work -- the book of Acts opens by addressing the same Theophilus and calling Luke "my former book" (Acts 1:1). Luke's special heartbeat is Jesus' love for the overlooked: shepherds, widows, Samaritans, tax collectors, and children all get starring roles. That makes it an ideal first gospel for kids -- and ideal trivia territory, because the details are vivid and checkable.
+Luke is the longest of the four gospels by word count, and it's volume one of a two-part work: the book of Acts opens by addressing the same Theophilus and calling Luke "my former book" (Acts 1:1). Luke's special heartbeat is Jesus' love for the overlooked: shepherds, widows, Samaritans, tax collectors, and children all get starring roles. That makes it an ideal first gospel for kids, and ideal trivia territory, because the details are vivid and checkable.
 
 ## Easy Luke Trivia Questions (Ages 5-8)
 
@@ -46,7 +46,7 @@ Luke is the longest of the four gospels by word count, and it's volume one of a 
 
 13. What did Jesus calm with just his words while the disciples panicked in the boat? **A storm on the lake** (Luke 8:24)
 
-14. Jesus healed ten men with leprosy -- how many came back to say thank you? **One** (Luke 17:12-15)
+14. Jesus healed ten men with leprosy: how many came back to say thank you? **One** (Luke 17:12-15)
 
 ## Medium Luke Trivia Questions (Ages 9-12)
 
@@ -74,13 +74,13 @@ Luke is the longest of the four gospels by word count, and it's volume one of a 
 
 26. The one healed leper who came back to thank Jesus was from what group of people? **He was a Samaritan** (Luke 17:16)
 
-27. What did Zacchaeus promise to give to the poor? **Half of his possessions -- and to pay back anyone he cheated four times over** (Luke 19:8)
+27. What did Zacchaeus promise to give to the poor? **Half of his possessions, and to pay back anyone he cheated four times over** (Luke 19:8)
 
 28. What did Jesus do for the widow of Nain? **He raised her dead son back to life** (Luke 7:14-15)
 
 29. What is the special name for Mary's song of praise that begins "My soul glorifies the Lord"? **The Magnificat** (Luke 1:46-55)
 
-30. What was Luke's profession, according to Paul? **He was a doctor -- "our dear friend Luke, the physician"** (Colossians 4:14)
+30. What was Luke's profession, according to Paul? **He was a doctor: "our dear friend Luke, the physician"** (Colossians 4:14)
 
 A related freebie: our [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep), drawn as clean line art for crayons and markers.
 
@@ -92,7 +92,7 @@ Keep the order straight while you quiz: our free [printable books of the Bible c
 
 31. What second New Testament book did Luke write as a sequel to his gospel? **Acts** (Acts 1:1)
 
-32. Which ruler did Pilate send Jesus to during his trial -- a scene found only in Luke? **Herod (Antipas)** (Luke 23:7-11)
+32. Which ruler did Pilate send Jesus to during his trial, a scene found only in Luke? **Herod (Antipas)** (Luke 23:7-11)
 
 33. What did Jesus pray from the cross about the people crucifying him? **"Father, forgive them, for they do not know what they are doing"** (Luke 23:34)
 
@@ -116,7 +116,7 @@ Keep the order straight while you quiz: our free [printable books of the Bible c
 
 ## How to Use These Questions
 
-Run the easy round at dinner -- the birth story and the parables are the ones most kids already half-know -- and save the trial and resurrection questions for older kids at [family Bible trivia night](/blog/family-bible-trivia-night). A fun team twist: since so many of these stories are "only in Luke," challenge teens to guess which questions couldn't be answered from any other gospel.
+Run the easy round at dinner: the birth story and the parables are the ones most kids already half-know, and save the trial and resurrection questions for older kids at [family Bible trivia night](/blog/family-bible-trivia-night). A fun team twist: since so many of these stories are "only in Luke," challenge teens to guess which questions couldn't be answered from any other gospel.
 
 If your kids need story prep first, our five-minute retellings are the fastest catch-up: [an angel visits Mary](/blog/an-angel-visits-mary-for-kids), [the Good Samaritan](/blog/the-good-samaritan-for-kids), [the prodigal son](/blog/the-prodigal-son-for-kids), and [the road to Emmaus](/blog/the-road-to-emmaus-for-kids) cover the biggest point-scorers here. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through these same Luke stories with a short video and a quiz after each episode. When your family has mastered this list, keep going with our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids).
 
@@ -124,7 +124,7 @@ You can also mix in questions from our [family-friendly Bible trivia](/blog/bibl
 
 Want these same questions without reading them all aloud? Play the [Bible trivia game](/bible-trivia) instead.
 
-When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults): the warm-up round catches almost everyone on the stories they think they know.
 
 There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible-trivia) in four rounds, with an expert tier built to stump the grandparents.
 
@@ -134,7 +134,7 @@ Pair it with the free [books of the Bible chart](/blog/books-of-the-bible-printa
 
 ### Who wrote the book of Luke?
 
-The gospel is formally anonymous, but the church has traditionally attributed it to Luke, a physician and traveling companion of the apostle Paul (Colossians 4:14). Luke also wrote the book of Acts -- both volumes are addressed to the same man, Theophilus (Luke 1:3; Acts 1:1).
+The gospel is formally anonymous, but the church has traditionally attributed it to Luke, a physician and traveling companion of the apostle Paul (Colossians 4:14). Luke also wrote the book of Acts. Both volumes are addressed to the same man, Theophilus (Luke 1:3; Acts 1:1).
 
 ### How many chapters does Luke have?
 
@@ -146,12 +146,12 @@ Luke is the only gospel with the shepherds at the manger, the boy Jesus in the t
 
 ### What is the most famous story in Luke?
 
-The Christmas story in Luke 2 is the most famous passage -- the census, the manger, and the angels appearing to the shepherds -- and it's the version most families read every December. Among the parables, the prodigal son (Luke 15:11-32) is probably the best-known story Jesus ever told.
+The Christmas story in Luke 2 is the most famous passage: the census, the manger, and the angels appearing to the shepherds, and it's the version most families read every December. Among the parables, the prodigal son (Luke 15:11-32) is probably the best-known story Jesus ever told.
 
 ### What age can kids start learning the book of Luke?
 
-Kids as young as 4 or 5 can learn Luke's big stories -- the manger, the lost sheep, and Zacchaeus are preschool favorites. Ages 9-12 can handle the parables' deeper meanings, and teens can tackle the trial, crucifixion details, and Emmaus, where the risen Jesus explains the whole Old Testament.
+Kids as young as 4 or 5 can learn Luke's big stories: the manger, the lost sheep, and Zacchaeus are preschool favorites. Ages 9-12 can handle the parables' deeper meanings, and teens can tackle the trial, crucifixion details, and Emmaus, where the risen Jesus explains the whole Old Testament.
 
 ### Why did Luke write his gospel?
 
-Luke tells us directly: he "carefully investigated everything from the beginning" and wrote an orderly account so Theophilus could "know the certainty of the things you have been taught" (Luke 1:3-4). In other words, Luke wrote like a careful historian -- interviewing eyewitnesses and putting the story in order.
+Luke tells us directly: he "carefully investigated everything from the beginning" and wrote an orderly account so Theophilus could "know the certainty of the things you have been taught" (Luke 1:3-4). In other words, Luke wrote like a careful historian, interviewing eyewitnesses and putting the story in order.

@@ -14,7 +14,7 @@ Laughter is a gift from God. Proverbs 17:22 says, "A cheerful heart is good medi
 
 Fair warning: some of these are wonderfully corny. That is the point. Kids ages 5-14 love a good groan-worthy joke, especially when it connects to something they are learning about in the Bible. Want jokes the grown-ups will groan at too? See our all-ages collection of [70 funny Bible jokes](/blog/funny-bible-jokes).
 
-**Want them on paper?** [Download the free joke cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf) -- all 30 of these plus the all-ages list, 100 fold-over cards with the punchline hidden under the fold for lunchboxes and car rides. No sign-up needed.
+**Want them on paper?** [Download the free joke cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf); all 30 of these plus the all-ages list, 100 fold-over cards with the punchline hidden under the fold for lunchboxes and car rides. No sign-up needed.
 
 ## The Jokes
 
@@ -155,13 +155,13 @@ End the day with a laugh. Read one joke before lights out. It is a simple routin
 ### As a Memory Tool
 After sharing a joke, ask your child if they know the story behind it. "Do you know the story of Samson bringing the house down? Let me tell you what really happened." A joke can be the gateway into a full Bible story conversation.
 
-If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs -- all clean.
+If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs; all clean.
 
 ## Why Humor Helps Kids Learn the Bible
 
 Research consistently shows that humor improves memory and engagement. When kids laugh, their brains release dopamine, a neurotransmitter that enhances learning and retention. A child who giggles about Moses "Hebrewing" his coffee is more likely to remember who Moses was and what the Hebrews did.
 
-Humor also reduces anxiety around unfamiliar material. Some kids feel intimidated by the Bible because it seems old, complicated, or serious. Jokes break that barrier -- so do surprising [fun facts about the Bible](/blog/fun-facts-about-the-bible-for-kids) and lighthearted [Bible trivia questions](/blog/bible-trivia-for-kids). They show kids that the Bible is full of real people, real situations, and stories that are rich enough to inspire everything from deep theology to silly wordplay.
+Humor also reduces anxiety around unfamiliar material. Some kids feel intimidated by the Bible because it seems old, complicated, or serious. Jokes break that barrier, so do surprising [fun facts about the Bible](/blog/fun-facts-about-the-bible-for-kids) and lighthearted [Bible trivia questions](/blog/bible-trivia-for-kids). They show kids that the Bible is full of real people, real situations, and stories that are rich enough to inspire everything from deep theology to silly wordplay.
 
 Most importantly, laughing together as a family creates memories. Years from now, your kids will not just remember the jokes. They will remember the kitchen table, the car ride, the sound of everyone laughing, and the warmth of a family that made God's Word a part of their everyday life.
 

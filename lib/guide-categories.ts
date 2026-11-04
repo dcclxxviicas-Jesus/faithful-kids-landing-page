@@ -15,25 +15,25 @@ export const GUIDE_CATEGORIES: GuideCategory[] = [
     slug: 'bible-verses-for-kids',
     title: 'Bible Verses for Kids',
     description:
-      'Bible verses for kids collected by topic and occasion -- courage, kindness, bedtime, graduation, and more, each explained simply for children.',
+      'Bible verses for kids collected by topic and occasion: courage, kindness, bedtime, graduation, and more, each explained simply for children.',
     intro:
-      'Every verse collection on this page is chosen for kids -- short enough to memorize, explained in plain words, and organized by the moments families actually face: scared nights, first days of school, graduations, and everyday character building.',
+      'Every verse collection on this page is chosen for kids, short enough to memorize, explained in plain words, and organized by the moments families actually face: scared nights, first days of school, graduations, and everyday character building.',
   },
   {
     name: 'Bible Characters',
     slug: 'bible-characters-for-kids',
     title: 'Bible Characters for Kids',
     description:
-      'Who was Moses? Who was Esther? Kid-friendly profiles of the Bible’s most important people -- their stories, their flaws, and what kids can learn.',
+      'Who was Moses? Who was Esther? Kid-friendly profiles of the Bible’s most important people, their stories, their flaws, and what kids can learn.',
     intro:
-      'These profiles walk kids through the life of each major Bible character stage by stage -- with the scripture references, the honest flaws, and a clear takeaway for every age.',
+      'These profiles walk kids through the life of each major Bible character stage by stage, with the scripture references, the honest flaws, and a clear takeaway for every age.',
   },
   {
     name: 'How to Explain',
     slug: 'explaining-faith-to-kids',
     title: 'Explaining Faith to Kids',
     description:
-      'How to explain God, prayer, Easter, communion, and other big faith topics to a child -- age-by-age scripts and practical tips for parents.',
+      'How to explain God, prayer, Easter, communion, and other big faith topics to a child: age-by-age scripts and practical tips for parents.',
     intro:
       'Big questions deserve better than "because the Bible says so." Each guide here breaks a faith topic down age band by age band, with sample wording you can actually use.',
   },
@@ -42,7 +42,7 @@ export const GUIDE_CATEGORIES: GuideCategory[] = [
     slug: 'bible-stories-by-theme',
     title: 'Bible Stories by Theme',
     description:
-      'Bible stories for kids organized by virtue and theme -- courage, kindness, patience, forgiveness, self-control, and more, retold simply.',
+      'Bible stories for kids organized by virtue and theme: courage, kindness, patience, forgiveness, self-control, and more, retold simply.',
     intro:
       'Teaching a specific virtue this week? Each roundup collects the Bible stories that teach it best, retold at kid level with the verse each one comes from.',
   },
@@ -51,9 +51,9 @@ export const GUIDE_CATEGORIES: GuideCategory[] = [
     slug: 'bible-stories-by-age',
     title: 'Bible Stories by Age',
     description:
-      'The best Bible stories for toddlers, preschoolers, 5-year-olds, 10-year-olds, and teens -- age-matched picks with reading tips for each stage.',
+      'The best Bible stories for toddlers, preschoolers, 5-year-olds, 10-year-olds, and teens, age-matched picks with reading tips for each stage.',
     intro:
-      'A story that lands with a 4-year-old bores a 10-year-old, and vice versa. These guides match the right stories -- and the right way to tell them -- to each age.',
+      'A story that lands with a 4-year-old bores a 10-year-old, and vice versa. These guides match the right stories, and the right way to tell them, to each age.',
   },
   {
     name: 'Screen Time',
@@ -62,16 +62,16 @@ export const GUIDE_CATEGORIES: GuideCategory[] = [
     description:
       'What the research says about kids and screens, how Christian families set healthy limits, and faith-based alternatives to endless YouTube.',
     intro:
-      'Screens are not the enemy -- unguided screens are. These guides cover what the research actually says, how to set limits that stick, and what to point kids toward instead.',
+      'Screens are not the enemy; unguided screens are. These guides cover what the research actually says, how to set limits that stick, and what to point kids toward instead.',
   },
   {
     name: 'App Reviews',
     slug: 'christian-app-reviews',
     title: 'Christian App and Media Reviews',
     description:
-      'Honest reviews and comparisons of Bible apps, Christian cartoons, and faith-based media for kids -- what each does well and who it fits.',
+      'Honest reviews and comparisons of Bible apps, Christian cartoons, and faith-based media for kids: what each does well and who it fits.',
     intro:
-      'Side-by-side comparisons and honest reviews of the Bible apps, shows, and platforms families ask about most -- including where each one falls short.',
+      'Side-by-side comparisons and honest reviews of the Bible apps, shows, and platforms families ask about most, including where each one falls short.',
   },
   {
     name: 'Teaching',
@@ -87,7 +87,7 @@ export const GUIDE_CATEGORIES: GuideCategory[] = [
     slug: 'seasonal',
     title: 'Seasonal and Holiday Guides',
     description:
-      'Christmas, Easter, Advent, Lent, and holiday guides for Christian families -- stories, activities, and traditions that keep Christ at the center.',
+      'Christmas, Easter, Advent, Lent, and holiday guides for Christian families, stories, activities, and traditions that keep Christ at the center.',
     intro:
       'Every season is a teaching moment. These guides pair each holiday with the stories, activities, and traditions that keep its meaning in front of your kids.',
   },
@@ -96,7 +96,7 @@ export const GUIDE_CATEGORIES: GuideCategory[] = [
     slug: 'bible-printables',
     title: 'Free Bible Printables for Kids',
     description:
-      'Printable Bible resources for families and classrooms -- coloring pages, verse cards, word searches, bingo, journaling and study templates.',
+      'Printable Bible resources for families and classrooms, coloring pages, verse cards, word searches, bingo, journaling and study templates.',
     intro:
       'Everything here is built to be printed and used: coloring page ideas by story, memory verse cards, word searches, bingo sets, and study templates. Our three free downloads live on the printables page.',
   },
@@ -105,34 +105,34 @@ export const GUIDE_CATEGORIES: GuideCategory[] = [
     slug: 'bible-games-and-activities',
     title: 'Bible Games and Activities',
     description:
-      'Bible trivia, charades, jokes, crafts, word searches, and games for kids -- ready-to-play activities for family night, class, and car rides.',
+      'Bible trivia, charades, jokes, crafts, word searches, and games for kids, ready-to-play activities for family night, class, and car rides.',
     intro:
-      'Trivia packs, charades lists, crafts, jokes, and zero-prep games -- everything here is ready to run tonight, with answers and instructions included.',
+      'Trivia packs, charades lists, crafts, jokes, and zero-prep games, everything here is ready to run tonight, with answers and instructions included.',
   },
   {
     name: 'Family',
     slug: 'family-devotions',
     title: 'Family Devotions and Routines',
     description:
-      'Daily devotions, 30-day challenges, and family Bible time routines -- simple structures that make faith a daily habit at home.',
+      'Daily devotions, 30-day challenges, and family Bible time routines, simple structures that make faith a daily habit at home.',
     intro:
-      'The families that keep faith daily are not the most disciplined -- they have the simplest routines. These guides give you structures that survive real weeknights.',
+      'The families that keep faith daily are not the most disciplined, they have the simplest routines. These guides give you structures that survive real weeknights.',
   },
   {
     name: 'Parenting',
     slug: 'christian-parenting',
     title: 'Christian Parenting Guides',
     description:
-      'Raising godly kids in a distracted world -- praying with your children, making church fun, and biblical parenting principles that hold up.',
+      'Raising godly kids in a distracted world, praying with your children, making church fun, and biblical parenting principles that hold up.',
     intro:
-      'Practical, grace-first guides for the long game of Christian parenting -- from praying with your kids to keeping them engaged with church.',
+      'Practical, grace-first guides for the long game of Christian parenting, from praying with your kids to keeping them engaged with church.',
   },
   {
     name: 'Bible Books',
     slug: 'books-of-the-bible',
     title: 'Books of the Bible for Kids',
     description:
-      'The books of the Bible explained for kids -- what each book covers, its key stories, and kid-friendly summaries from Genesis to Revelation.',
+      'The books of the Bible explained for kids, what each book covers, its key stories, and kid-friendly summaries from Genesis to Revelation.',
     intro:
       'From Genesis to Revelation: what each book of the Bible is about, its stories kids should know, and how the whole library fits together.',
   },
@@ -150,7 +150,7 @@ export const GUIDE_CATEGORIES: GuideCategory[] = [
     slug: 'more-guides',
     title: 'More Family Faith Guides',
     description:
-      'More guides for Christian families -- practical faith resources for parents and kids that do not fit neatly anywhere else.',
+      'More guides for Christian families, practical faith resources for parents and kids that do not fit neatly anywhere else.',
     intro:
       'The rest of the library: practical faith guides for families that span more than one topic.',
   },

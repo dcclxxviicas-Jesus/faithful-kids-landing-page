@@ -2,16 +2,16 @@
 title: "Bible Scavenger Hunt: 3 Ready-to-Play Hunts (Free Printable)"
 slug: "bible-scavenger-hunt"
 type: "listicle"
-metaTitle: "Bible Scavenger Hunt, 3 Free Printable Hunts for Kids"
-metaDescription: "Three complete Bible scavenger hunts -- a verse hunt, an around-the-house hunt for little kids, and a church photo hunt for youth groups. Free printable PDF."
+metaTitle: "Bible Scavenger Hunt: 3 Free Printable Hunts for Kids"
+metaDescription: "Three complete Bible scavenger hunts: a verse hunt, an around-the-house hunt for little kids, and a church photo hunt for youth groups. Free printable PDF."
 keywords: ["bible scavenger hunt", "bible scavenger hunt for kids", "bible verse scavenger hunt", "church scavenger hunt", "bible scavenger hunt for youth", "scavenger hunt bible verses"]
 datePublished: "2026-10-03"
 dateModified: "2026-10-03"
 ---
 
-Here are three complete Bible scavenger hunts, ready to play tonight: a **verse hunt** that gets Bibles open and pages turning, an **around-the-house object hunt** for kids too young to look up Habakkuk, and a **church photo hunt** built for youth groups. Every clue is below as text you can read off a phone -- and all three hunts fit on one printable.
+Here are three complete Bible scavenger hunts, ready to play tonight: a **verse hunt** that gets Bibles open and pages turning, an **around-the-house object hunt** for kids too young to look up Habakkuk, and a **church photo hunt** built for youth groups. Every clue is below as text you can read off a phone, and all three hunts fit on one printable.
 
-**Need it on paper?** [Download the free scavenger hunt PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-scavenger-hunt.pdf) -- all three hunts as ready-to-copy sheets, with the verse-hunt answer key on its own page so nobody peeks. No sign-up, free to photocopy for home, class, or church.
+**Need it on paper?** [Download the free scavenger hunt PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-scavenger-hunt.pdf), all three hunts as ready-to-copy sheets, with the verse-hunt answer key on its own page so nobody peeks. No sign-up, free to photocopy for home, class, or church.
 
 ## Hunt 1: The Bible Verse Scavenger Hunt (Ages 7+)
 
@@ -30,7 +30,7 @@ This is a sword drill wearing a party hat. Each clue names a verse; the answer i
 11. How many days did it rain on Noah's ark? **Genesis 7:12**
 12. What did Moses see burning that was not burned up? **Exodus 3:2**
 
-**How to run it:** one Bible per player or team, clues face down, flip and go. For kids still learning the books, tape a [books of the Bible chart](/blog/books-of-the-bible-printable) to the table -- half the skill being built here is just *finding* 1 Samuel. (The answers are in the PDF's answer key, on its own page.)
+**How to run it:** one Bible per player or team, clues face down, flip and go. For kids still learning the books, tape a [books of the Bible chart](/blog/books-of-the-bible-printable) to the table; half the skill being built here is just *finding* 1 Samuel. (The answers are in the PDF's answer key, on its own page.)
 
 ## Hunt 2: The Around-the-House Bible Hunt (Ages 3-7)
 
@@ -51,7 +51,7 @@ Little kids can't look up verses, but they can absolutely find "something that f
 
 ## Hunt 3: The Church Photo Scavenger Hunt (Youth Groups)
 
-One phone per team, twenty minutes, and every photo must include the whole team. This is the loud one -- schedule it *before* the lesson, not after, because nobody lands a plane after Jericho jumping photos.
+One phone per team, twenty minutes, and every photo must include the whole team. This is the loud one; schedule it *before* the lesson, not after, because nobody lands a plane after Jericho jumping photos.
 
 1. The whole team by the church sign (or front door)
 2. Someone holding a Bible open to **Psalms**, the exact middle
@@ -66,13 +66,13 @@ One phone per team, twenty minutes, and every photo must include the whole team.
 11. The whole team pointing at a picture or window of **Jesus**
 12. Everyone **jumping at once** out front, the walls of Jericho coming down
 
-**Judging:** most photos wins; tiebreaker is the most creative Goliath face. Review the photos together on a screen afterwards -- that's ten minutes of guaranteed laughing, and it's also your attendance record.
+**Judging:** most photos wins; tiebreaker is the most creative Goliath face. Review the photos together on a screen afterwards; that's ten minutes of guaranteed laughing, and it's also your attendance record.
 
 ## Making Your Own Clues
 
 The verse-hunt formula is simple enough to extend for any lesson: pick the detail a kid would *notice* in the story (a number, an object, an animal), then clue the detail and give the reference. Writing clues from this week's passage turns the hunt into the review. If your group prefers sitting down to running around, our [45 Bible riddles](/blog/bible-riddles-for-kids) and [Bible charades prompts](/blog/bible-charades-for-kids) scratch the same itch at lower volume, and the [Bible trivia game](/bible-trivia) plays right in the browser.
 
-The hunts work because kids hunt down what a story *mentions*. What makes the stories stick is meeting them properly -- which is what Faithful Kids is: the whole Bible as two-minute video episodes, each with its own quiz, no ads ever. The kid who found the smooth stone tonight can watch David use it tomorrow.
+The hunts work because kids hunt down what a story *mentions*. What makes the stories stick is meeting them properly, which is what Faithful Kids is: the whole Bible as two-minute video episodes, each with its own quiz, no ads ever. The kid who found the smooth stone tonight can watch David use it tomorrow.
 
 ## Frequently Asked Questions
 
@@ -80,7 +80,7 @@ The hunts work because kids hunt down what a story *mentions*. What makes the st
 Pick the format that fits your kids: a verse hunt (clues answered by looking up Scripture) for confident readers, an object hunt for younger children, or a photo hunt for teens. Set a time limit, play in teams of two or three, and end by connecting what was found back to the stories.
 
 **What is a good Bible scavenger hunt for youth group?**
-The photo hunt above is built for it: twelve photo challenges around the church building, twenty minutes, whole team in every shot. It burns energy, builds teams, and produces photos the group will want to see -- which conveniently gathers everyone back for the lesson.
+The photo hunt above is built for it: twelve photo challenges around the church building, twenty minutes, whole team in every shot. It burns energy, builds teams, and produces photos the group will want to see, which conveniently gathers everyone back for the lesson.
 
 **Can you do a Bible scavenger hunt indoors?**
-Yes -- the verse hunt happens entirely at a table, and the object hunt works in any house or classroom. Only the photo hunt needs room to roam, and even that stays inside one building.
+Yes, the verse hunt happens entirely at a table, and the object hunt works in any house or classroom. Only the photo hunt needs room to roam, and even that stays inside one building.

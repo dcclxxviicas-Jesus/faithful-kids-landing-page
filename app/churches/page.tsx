@@ -6,7 +6,7 @@ import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 export const metadata: Metadata = {
-  title: 'Free for Churches, Kids Bible Video Lessons',
+  title: 'Free for Churches: Kids Bible Video Lessons',
   description:
     'Free for churches: give your Sunday school or kids ministry full access to 300+ Bible video episodes with quizzes, plus printables and a trivia game.',
   alternates: { canonical: 'https://faithfulkids.app/churches' },

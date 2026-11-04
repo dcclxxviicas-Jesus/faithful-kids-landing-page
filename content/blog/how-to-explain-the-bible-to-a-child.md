@@ -92,7 +92,7 @@ Kids may wonder how we know the Bible is not just a made-up story. Here are some
 For ages 3-6, a picture Bible with colorful illustrations is perfect. For ages 7-10, a children's study Bible with simple explanations works well. For ages 11+, an easy-to-read translation like the NIV or NLT is great. If you are wondering about timing, here is [when kids should start reading the Bible](/blog/when-should-kids-start-reading-bible).
 
 ### 2. Start With the Stories
-Do not start at Genesis 1 and try to read straight through. Start with [the best Bible stories for kids](/blog/best-bible-stories-for-kids) -- the ones that will capture your child's imagination:
+Do not start at Genesis 1 and try to read straight through. Start with [the best Bible stories for kids](/blog/best-bible-stories-for-kids); the ones that will capture your child's imagination:
 - Creation (Genesis 1-2)
 - Noah's Ark (Genesis 6-9)
 - David and Goliath (1 Samuel 17)

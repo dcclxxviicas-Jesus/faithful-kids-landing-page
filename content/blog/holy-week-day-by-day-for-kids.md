@@ -8,7 +8,7 @@ datePublished: "2026-04-01"
 dateModified: "2026-08-20"
 ---
 
-Holy Week is the most important week in the Christian calendar. It's the week that changed everything -- when Jesus rode into Jerusalem as a king, was betrayed, crucified, and rose from the dead.
+Holy Week is the most important week in the Christian calendar. It's the week that changed everything: when Jesus rode into Jerusalem as a king, was betrayed, crucified, and rose from the dead.
 
 But for kids, Holy Week can feel confusing or overwhelming. The emotions swing from celebration to sorrow to joy in just seven days. That's why walking through it day by day, with age-appropriate Bible stories and simple family activities, helps children understand not just what happened, but why it matters.
 
@@ -20,7 +20,7 @@ Here's your family guide to Holy Week, one day at a time.
 
 Jesus rode into Jerusalem on a donkey, and the crowds went wild. They spread their cloaks on the road and waved palm branches, shouting "Hosanna! Blessed is He who comes in the name of the Lord!" (Matthew 21:9).
 
-This wasn't a random parade. The people believed Jesus was the long-promised Messiah -- the King who would save Israel. They expected a military hero who would overthrow the Romans. Jesus had something very different in mind.
+This wasn't a random parade. The people believed Jesus was the long-promised Messiah; the King who would save Israel. They expected a military hero who would overthrow the Romans. Jesus had something very different in mind.
 
 **Why a donkey?** Kings rode horses into battle but donkeys in peacetime. By choosing a donkey, Jesus was saying: I am a King, but not the kind you expect. My kingdom is one of peace. For a fuller kid-friendly retelling, see [the triumphal entry for kids](/blog/the-triumphal-entry-for-kids).
 
@@ -39,14 +39,14 @@ The day after His triumphal entry, Jesus walked into the temple in Jerusalem and
 
 Jesus overturned the tables and drove out the merchants, saying, "My house shall be called a house of prayer, but you are making it a den of robbers" (Matthew 21:13).
 
-This is one of the few times in the Gospels where Jesus shows visible anger (we unpack the whole scene in [Jesus cleansing the temple](/blog/cleansing-the-temple-for-kids)). He wasn't angry at the people -- He was angry at the injustice. The temple was supposed to be a place where anyone could come close to God. The merchants had turned it into a place where only the wealthy could afford to worship.
+This is one of the few times in the Gospels where Jesus shows visible anger (we unpack the whole scene in [Jesus cleansing the temple](/blog/cleansing-the-temple-for-kids)). He wasn't angry at the people; He was angry at the injustice. The temple was supposed to be a place where anyone could come close to God. The merchants had turned it into a place where only the wealthy could afford to worship.
 
 **Talk about it with your kids:**
 - Why was Jesus so upset at the temple?
 - Is it okay to be angry sometimes? What makes "righteous anger" different from regular anger?
 - What does it look like to treat God's house (your church) with respect?
 
-**Family activity:** Talk about things that distract your family from worshiping God. Write them on small pieces of paper. Crumple them up and throw them away together -- symbolizing clearing your own "temple."
+**Family activity:** Talk about things that distract your family from worshiping God. Write them on small pieces of paper. Crumple them up and throw them away together, symbolizing clearing your own "temple."
 
 ## Tuesday: Jesus Teaches in the Temple
 
@@ -71,7 +71,7 @@ For the season, we keep a set of free [Easter coloring pages](/printables/easter
 
 **Read:** Matthew 26:14-16, Luke 22:1-6
 
-The Gospels don't record much about Wednesday. Some scholars call it the "Silent Day" or the "Day of Rest" -- Jesus may have spent it in Bethany with His friends Mary, Martha, and Lazarus.
+The Gospels don't record much about Wednesday. Some scholars call it the "Silent Day" or the "Day of Rest"; Jesus may have spent it in Bethany with His friends Mary, Martha, and Lazarus.
 
 But while Jesus rested, something dark was happening. Judas Iscariot, one of Jesus' twelve closest disciples, went to the chief priests and asked, "What are you willing to give me if I deliver Him over to you?" They paid him thirty pieces of silver (Matthew 26:15).
 
@@ -82,19 +82,19 @@ Thirty pieces of silver was the price of a slave (Exodus 21:32). Judas valued Je
 - Have you ever been let down by a friend? How did it feel?
 - Jesus knew Judas would betray Him and still included him at the table. What does that tell you about Jesus?
 
-**Family activity:** This is a quieter day in Holy Week. Use it for a "silent" activity -- draw a picture of Jesus and His friends in Bethany, or sit together in 5 minutes of silence and think about what Jesus was about to face.
+**Family activity:** This is a quieter day in Holy Week. Use it for a "silent" activity; draw a picture of Jesus and His friends in Bethany, or sit together in 5 minutes of silence and think about what Jesus was about to face.
 
 ## Thursday: The Last Supper
 
 **Read:** John 13:1-17, Matthew 26:17-30, Luke 22:14-20
 
-Thursday evening, Jesus gathered His disciples for the Passover meal -- what we now call the Last Supper. But before they ate, Jesus did something astonishing. He got up from the table, wrapped a towel around His waist, and washed His disciples' feet (John 13:1-17).
+Thursday evening, Jesus gathered His disciples for the Passover meal. What we now call the Last Supper. But before they ate, Jesus did something astonishing. He got up from the table, wrapped a towel around His waist, and washed His disciples' feet (John 13:1-17).
 
 Foot washing was the job of the lowest servant in the household. No rabbi would ever do it. Peter protested: "You shall never wash my feet!" Jesus replied, "Unless I wash you, you have no part with me" (John 13:8).
 
 Then came the meal. Jesus took bread, gave thanks, broke it, and said, "This is my body given for you; do this in remembrance of me." Then He took the cup and said, "This cup is the new covenant in my blood, which is poured out for you" (Luke 22:19-20).
 
-Jesus was telling His friends what was about to happen -- and asking them to remember it forever. Kids who want to linger here can explore [the Last Supper story for kids](/blog/the-last-supper-for-kids).
+Jesus was telling His friends what was about to happen, and asking them to remember it forever. Kids who want to linger here can explore [the Last Supper story for kids](/blog/the-last-supper-for-kids).
 
 **Talk about it with your kids:**
 - Why did Jesus wash His disciples' feet? What was He teaching them?
@@ -114,7 +114,7 @@ After His arrest in the Garden of Gethsemane (Matthew 26:36-56), Jesus was tried
 
 From the cross, Jesus spoke seven times. He said, "Father, forgive them, for they do not know what they are doing" (Luke 23:34). He told the criminal beside Him, "Today you will be with me in paradise" (Luke 23:43). And at the end, He cried out, "It is finished" (John 19:30).
 
-At that moment, the curtain in the temple -- a massive, thick veil separating the Holy of Holies from the rest of the temple -- tore in two from top to bottom (Matthew 27:51). This was God's way of saying: the barrier between Me and My people is gone. Through Jesus' sacrifice, everyone can come directly to God.
+At that moment, the curtain in the temple, a massive, thick veil separating the Holy of Holies from the rest of the temple, tore in two from top to bottom (Matthew 27:51). This was God's way of saying: the barrier between Me and My people is gone. Through Jesus' sacrifice, everyone can come directly to God.
 
 **A note for parents:** This is heavy material for kids. Be gentle. Focus on the love behind the sacrifice rather than the graphic details of crucifixion. The core message for children is this: Jesus loved us so much that He chose to die so that we could be forgiven and be close to God forever.
 
@@ -155,11 +155,11 @@ He is risen.
 
 Those three words changed everything. Death didn't win. The tomb is empty. Jesus is alive. (Our retelling of [the empty tomb for kids](/blog/the-empty-tomb-for-kids) walks through this glorious morning in more detail.)
 
-Mary Magdalene was the first to see the risen Jesus. She didn't recognize Him at first -- until He said her name. "Mary." She turned and cried out, "Rabboni!" (Teacher!) and ran to tell the others (John 20:16-18).
+Mary Magdalene was the first to see the risen Jesus. She didn't recognize Him at first, until He said her name. "Mary." She turned and cried out, "Rabboni!" (Teacher!) and ran to tell the others (John 20:16-18).
 
 The disciples, still hiding in fear, heard the news and came to see for themselves. Over the next 40 days, Jesus appeared to hundreds of people (1 Corinthians 15:6). He ate with them. He talked with them. He was really, truly alive.
 
-This is why Christians celebrate Easter. Not because of eggs and bunnies, but because the God of the universe loved us enough to die -- and was powerful enough to rise again.
+This is why Christians celebrate Easter. Not because of eggs and bunnies, but because the God of the universe loved us enough to die, and was powerful enough to rise again.
 
 **Talk about it with your kids:**
 - How would you have reacted if you were at the empty tomb?
@@ -167,7 +167,7 @@ This is why Christians celebrate Easter. Not because of eggs and bunnies, but be
 - Jesus said Mary's name and she recognized Him. What does it mean that Jesus knows your name?
 - How does knowing Jesus is alive change the way you live?
 
-**Family activity:** Celebrate. This is a day for joy. Make a special breakfast, go to church, sing worship songs loud, and tell each other what the resurrection means to you. You might also do a "sunrise experience" -- wake up early, go outside, and watch the sun come up while reading Matthew 28:1-10 together. For families who want more to do on Easter afternoon, we have a longer list of [resurrection activities for kids](/blog/resurrection-activities-for-kids).
+**Family activity:** Celebrate. This is a day for joy. Make a special breakfast, go to church, sing worship songs loud, and tell each other what the resurrection means to you. You might also do a "sunrise experience," wake up early, go outside, and watch the sun come up while reading Matthew 28:1-10 together. For families who want more to do on Easter afternoon, we have a longer list of [resurrection activities for kids](/blog/resurrection-activities-for-kids).
 
 ## Making Holy Week a Family Tradition
 
@@ -181,7 +181,7 @@ Holy Week is the story that sits at the heart of everything we believe. Help you
 
 ## Watch on Faithful Kids
 
-Bring Holy Week to life with animated video lessons your kids will love. Faithful Kids covers the full Easter story -- from Palm Sunday through the Resurrection -- with engaging videos, interactive quizzes, and guided reflections.
+Bring Holy Week to life with animated video lessons your kids will love. Faithful Kids covers the full Easter story, from Palm Sunday through the Resurrection, with engaging videos, interactive quizzes, and guided reflections.
 
 [Start your free trial at faithfulkids.app/quiz](https://faithfulkids.app/quiz)
 

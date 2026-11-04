@@ -3,17 +3,17 @@ title: "Biblical Boy Names: 90 Names with Meanings and Stories"
 slug: "biblical-boy-names"
 type: "listicle"
 metaTitle: "90 Biblical Boy Names with Meanings (and Their Stories)"
-metaDescription: "90 biblical boy names with meanings, verse references, and the story behind each name -- classic, strong, and rare picks every Christian parent should see."
+metaDescription: "90 biblical boy names with meanings, verse references, and the story behind each name, classic, strong, and rare picks every Christian parent should see."
 keywords: ["biblical boy names", "biblical names for boys", "male biblical names", "biblical boy names and meanings", "strong biblical boy names", "rare biblical boy names", "christian baby boy names"]
 datePublished: "2026-10-03"
 dateModified: "2026-10-03"
 ---
 
-Here are 90 biblical boy names with their meanings, where each name appears in Scripture, and -- the part most name lists skip -- what the man who carried it actually did. A biblical name isn't just a sound you like; it's a story your son will grow into, ask about, and eventually read for himself. That's why, wherever we have one, we've linked the name to the story behind it, told for kids.
+Here are 90 biblical boy names with their meanings, where each name appears in Scripture, and, the part most name lists skip, what the man who carried it actually did. A biblical name isn't just a sound you like; it's a story your son will grow into, ask about, and eventually read for himself. That's why, wherever we have one, we've linked the name to the story behind it, told for kids.
 
 The names are grouped the way parents actually shop for them: the classics everyone recognizes, strong names for the kid you suspect will be climbing furniture by nine months, gentle and thoughtful names, New Testament picks, and rare Old Testament names almost nobody is using.
 
-Looking for a girl's name instead? See our [biblical girl names](/blog/biblical-girl-names) list -- or browse [all biblical names](/blog/biblical-names) in one place.
+Looking for a girl's name instead? See our [biblical girl names](/blog/biblical-girl-names) list, or browse [all biblical names](/blog/biblical-names) in one place.
 
 ## Classic Biblical Boy Names
 
@@ -51,7 +51,7 @@ Names with some iron in them.
 - **Samson**, "like the sun" (Judges 13:24). The [strongest man alive](/blog/samson-strongest-man-alive-for-kids), whose real lesson is about what he lost.
 - **Ezekiel**, "God strengthens" (Ezekiel 1:3). The prophet of the valley of dry bones.
 - **Israel**, "wrestles with God" (Genesis 32:28). The name God gave Jacob after the longest night of his life.
-- **Judah**, "praise" (Genesis 29:35). The tribe kings came from -- and eventually the King.
+- **Judah**, "praise" (Genesis 29:35). The tribe kings came from, and eventually the King.
 - **Josiah**, "the Lord supports" (2 Kings 22:1). Crowned at eight; cleaned up a whole kingdom.
 - **Hezekiah**, "the Lord strengthens" (2 Kings 18:1). The king who spread his enemy's letter before God and prayed.
 - **Ethan**, "enduring, strong" (1 Kings 4:31). A wise man of Solomon's era with a psalm to his name.
@@ -69,7 +69,7 @@ Softer sounds, deep stories.
 - **Levi**, "joined" (Genesis 29:34). The tribe set apart to serve in God's house.
 - **Micah**, "who is like the Lord?" (Micah 1:1). The prophet of "act justly, love mercy, walk humbly."
 - **Asher**, "happy, blessed" (Genesis 30:13). Jacob's son whose name is a blessing in itself.
-- **Jesse**, "gift" (Ruth 4:17). David's father -- the root of the family tree that leads to Jesus.
+- **Jesse**, "gift" (Ruth 4:17). David's father, the root of the family tree that leads to Jesus.
 - **Joel**: "the Lord is God" (Joel 1:1). The prophet who promised God would restore the years the locusts ate.
 - **Jonah**: "dove" (Jonah 1:1). The prophet who [ran the other way](/blog/jonah-running-from-god-for-kids) and got the Bible's most famous ride back.
 - **Seth**: "appointed" (Genesis 4:25). The son given to Adam and Eve after everything went wrong.
@@ -126,15 +126,15 @@ For parents who want a biblical name no one else on the playground has. More lik
 - **Abraham**: "father of many" (Genesis 17:5). [The man who left everything](/blog/god-calls-abraham-for-kids) on the strength of a promise.
 - **Isaiah**: "the Lord is salvation" (Isaiah 1:1). The prophet who [saw Christmas coming](/blog/isaiahs-promise-for-kids) seven hundred years early.
 - **Jeremiah**: "the Lord exalts" (Jeremiah 1:5). Called before he was born, faithful through tears.
-- **Saul**, "asked for" (1 Samuel 9:2). Israel's [first king](/blog/saul-the-first-king-for-kids) -- a tall start and a hard lesson.
+- **Saul**, "asked for" (1 Samuel 9:2). Israel's [first king](/blog/saul-the-first-king-for-kids), a tall start and a hard lesson.
 
 ## How to Pick Well: Three Quick Tests
 
 1. **Say it with your last name, out loud, ten times.** Biblical names are mostly stress-tested by 3,000 years of use, but "Amos" and some surnames fight each other.
-2. **Read the story first.** Every name here comes with a life attached. Delightfully, that cuts both ways -- Jonah is a wonderful name *and* a running-away story you'll be telling at bedtime. Know what you're signing up to explain.
+2. **Read the story first.** Every name here comes with a life attached. Delightfully, that cuts both ways: Jonah is a wonderful name *and* a running-away story you'll be telling at bedtime. Know what you're signing up to explain.
 3. **Check the nickname.** Benjamin becomes Ben, Ezekiel becomes Zeke, Jedidiah becomes Jed. The nickname is what gets yelled across the park, so make sure you love it too.
 
-The best part of a biblical name is the night your son asks, "Who was I named after?" -- and there's a real answer. When that night comes, every story on this list is in the Faithful Kids app as a two-minute video with a quiz, told so kids actually remember it.
+The best part of a biblical name is the night your son asks, "Who was I named after?" and there's a real answer. When that night comes, every story on this list is in the Faithful Kids app as a two-minute video with a quiz, told so kids actually remember it.
 
 ## Frequently Asked Questions
 
@@ -142,10 +142,10 @@ The best part of a biblical name is the night your son asks, "Who was I named af
 Noah, Elijah, James, Benjamin, and Daniel have all sat in the U.S. top 20 in recent years, at times, biblical names have filled half of the top ten. Three thousand years in, they're not a trend; they're the baseline.
 
 **What are strong biblical names for boys?**
-Elijah ("the Lord is my God"), Joshua ("the Lord is salvation"), Caleb ("whole-hearted"), Gideon ("mighty warrior"), and Boaz ("in him is strength") all carry both a strong sound and a strong story -- see the full strong-names section above.
+Elijah ("the Lord is my God"), Joshua ("the Lord is salvation"), Caleb ("whole-hearted"), Gideon ("mighty warrior"), and Boaz ("in him is strength") all carry both a strong sound and a strong story; see the full strong-names section above.
 
 **What's a rare biblical name that still sounds modern?**
-Asa, Ezra, Amos, Jude, and Micah all read as current without being everywhere. For deeper cuts -- Zephaniah, Obadiah, Ira -- see our [unique biblical names](/blog/unique-biblical-names) list.
+Asa, Ezra, Amos, Jude, and Micah all read as current without being everywhere. For deeper cuts: Zephaniah, Obadiah, Ira; see our [unique biblical names](/blog/unique-biblical-names) list.
 
 **Do biblical names have to come from the Bible's heroes?**
-No -- plenty of parents choose names from quieter corners: Seth, Jared, Enoch, and Omar come from genealogies, not epics. The meaning and the sound matter as much as the fame of the bearer.
+No: plenty of parents choose names from quieter corners: Seth, Jared, Enoch, and Omar come from genealogies, not epics. The meaning and the sound matter as much as the fame of the bearer.

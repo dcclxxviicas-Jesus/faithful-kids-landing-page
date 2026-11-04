@@ -4,7 +4,7 @@ import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 
 export const metadata = {
-  title: '30-Day Family Bible Challenge, Printable',
+  title: '30-Day Family Bible Challenge: Printable',
   description:
     'A free printable 30-day family Bible reading challenge: one short daily reading from creation to resurrection, with a discussion question for each.',
   alternates: { canonical: 'https://faithfulkids.app/printables/30-day-challenge' },

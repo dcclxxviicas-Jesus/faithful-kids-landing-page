@@ -71,7 +71,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How many people were on the ship?
 
-**276 people.** Luke records the exact count -- and thanks to God's promise to Paul, every single one made it safely to shore (Acts 27:37).
+**276 people.** Luke records the exact count; and thanks to God's promise to Paul, every single one made it safely to shore (Acts 27:37).
 
 ### What happened to Paul on the island of Malta?
 

@@ -15,32 +15,32 @@ import '../maps.css'
 const META: Record<string, { title: string; desc: string }> = {
   'ancient-israel': {
     // "ancient israel map" 968/8,100 KD 0 · "old testament map" 458/1,300 KD 2
-    title: 'Ancient Israel Map for Kids, Free Printable',
+    title: 'Ancient Israel Map for Kids: Free Printable',
     desc: 'A free printable map of ancient Israel, Jerusalem, the two kingdoms, the Jordan, and 23 labeled places from the Old Testament. Real geography. No sign-up.',
   },
   'israel-in-jesus-time': {
     // "map of israel in jesus time" 815/3,600 KD 0 · "new testament map" 305/880
-    title: "Map of Israel in Jesus' Time, Free Printable",
+    title: "Map of Israel in Jesus' Time: Free Printable",
     desc: "A free printable map of Israel in Jesus' time, Galilee, Samaria, Judea, the Sea of Galilee, and the Gospel towns from Bethlehem to Capernaum. No sign-up.",
   },
   'the-exodus': {
     // "map of the exodus" 407/1,000 KD 9 · "where is mount sinai" 855/8,100 KD 10
-    title: 'Map of the Exodus, Free Printable Route Map',
+    title: 'Map of the Exodus: Free Printable Route Map',
     desc: 'A free printable Exodus route map, Egypt, the Red Sea, Mount Sinai and the wilderness road to the Promised Land, traditional stops labeled. No sign-up.',
   },
   'pauls-missionary-journeys': {
     // "paul's missionary journeys" 654/1,900 KD 6
-    title: "Paul's Missionary Journeys Map, Free Printable",
+    title: "Paul's Missionary Journeys Map: Free Printable",
     desc: "A free printable map of Paul's missionary journeys, all three journeys plus the voyage to Rome from Acts, color-coded with 27 labeled cities. No sign-up.",
   },
   'twelve-tribes-of-israel': {
     // "12 tribes of israel map" 352/2,400 KD 10
-    title: '12 Tribes of Israel Map, Free Printable',
+    title: '12 Tribes of Israel Map: Free Printable',
     desc: 'A free printable map of the 12 tribes of Israel, every territory from Joshua 13–19 shown honestly as approximate areas, with the story behind the division.',
   },
   'the-promised-land': {
     // "map of canaan" 407/3,600 KD 4
-    title: 'Map of Canaan, Free Printable for Kids',
+    title: 'Map of Canaan: Free Printable for Kids',
     desc: 'A free printable map of the land of Canaan, the Promised Land as Joshua found it, with the walled cities and the seven nations the Bible names. No sign-up.',
   },
 }

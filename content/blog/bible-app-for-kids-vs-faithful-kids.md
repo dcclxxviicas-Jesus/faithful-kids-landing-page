@@ -77,7 +77,7 @@ If your goal is Bible literacy, not just Bible exposure, the quiz component is n
 
 ### Bible App for Kids: Ages 3-8
 
-The sweet spot is ages 3 through 6. By age 8, most children have outgrown the tap-and-swipe format. The stories are simplified to a level appropriate for preschoolers, which means older kids often find them too basic. There is no "next level" within the app for kids who are ready for deeper content -- we cover the signs your child has hit that ceiling in [Bible App for Kids for older kids](/blog/bible-app-for-kids-for-older-kids).
+The sweet spot is ages 3 through 6. By age 8, most children have outgrown the tap-and-swipe format. The stories are simplified to a level appropriate for preschoolers, which means older kids often find them too basic. There is no "next level" within the app for kids who are ready for deeper content. We cover the signs your child has hit that ceiling in [Bible App for Kids for older kids](/blog/bible-app-for-kids-for-older-kids).
 
 ### Faithful Kids: Ages 7-15
 
@@ -168,7 +168,7 @@ Absolutely. Many families use the Bible App for Kids with younger siblings (ages
 ### Is the Bible App for Kids really completely free?
 Yes. The Bible App for Kids by YouVersion is 100 percent free with no ads, no in-app purchases, and no premium tier. It is funded by donations to YouVersion's parent organization, Life.Church.
 
-### What if my child is exactly 7 years old, which app should I start with?
+### What if my child is exactly 7 years old: which app should I start with?
 It depends on your child's reading level and attention span. If they are a confident reader who enjoys video content, start with Faithful Kids. If they still prefer interactive, touch-based play, give Bible App for Kids another year and transition to Faithful Kids around age 8.
 
 ### Does Faithful Kids teach the same stories as Bible App for Kids?

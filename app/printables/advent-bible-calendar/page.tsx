@@ -5,12 +5,12 @@ import adventReadings from '@/lib/advent-readings.json'
 const EMERALD = '#059669'
 
 export const metadata = {
-  title: 'Printable Advent Bible Calendar, 25 Daily Readings',
+  title: 'Printable Advent Bible Calendar: 25 Daily Readings',
   description:
     'A free printable Advent Bible reading calendar: 25 short daily readings from the first promise to the manger, with one-line summaries. No sign-up, free PDF.',
   alternates: { canonical: 'https://faithfulkids.app/printables/advent-bible-calendar' },
   openGraph: {
-    title: 'Printable Advent Bible Calendar, 25 Daily Readings',
+    title: 'Printable Advent Bible Calendar: 25 Daily Readings',
     description: 'Free printable Advent reading plan: 25 short Bible readings, December 1 to Christmas Day.',
     images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/jesse-tree/advent-hero.png', width: 1536, height: 1024 }],
   },

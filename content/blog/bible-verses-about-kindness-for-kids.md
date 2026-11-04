@@ -163,7 +163,7 @@ Faithful Kids teaches kindness through the stories that model it best: the Good 
 ### How do I teach my child to be kind to someone who is mean to them?
 Start with Proverbs 15:1 ("A gentle answer turns away wrath") and 1 Thessalonians 5:15 ("Do not repay wrong for wrong"). Explain that responding to meanness with kindness isn't weakness, it takes more strength than fighting back. Role-play scenarios at home so your child has practiced responses ready. And always validate their feelings first: "It's okay to feel hurt. Now let's choose how to respond."
 
-### What if my child is naturally shy; can they still practice kindness?
+### What if my child is naturally shy: can they still practice kindness?
 Absolutely. Kindness doesn't require being outgoing. A shy child can write a kind note, draw a picture for a friend, save a seat for someone, or simply smile at a classmate who looks sad. Quiet kindness is still kindness, and often, it's the most noticed kind because it's unexpected.
 
 ### Is kindness the same as being a pushover?

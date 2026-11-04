@@ -2,7 +2,7 @@
 title: "Who Was Moses? Bible Story for Kids Explained Simply"
 slug: "who-was-moses-for-kids"
 type: "listicle"
-metaDescription: "Who was Moses? A kid-friendly guide from the basket in the Nile to the Ten Commandments -- simple Bible story with key lessons for children."
+metaDescription: "Who was Moses? A kid-friendly guide from the basket in the Nile to the Ten Commandments. Simple Bible story with key lessons for children."
 keywords: ["who was moses for kids", "moses bible story for kids", "moses and the ten commandments for children"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -10,19 +10,19 @@ dateModified: "2026-08-16"
 
 # Who Was Moses? Bible Story for Kids Explained Simply
 
-Moses is one of the most important people in the entire Bible. God used him to free an entire nation from slavery, to part the Red Sea, to receive the Ten Commandments, and to lead the Israelites through the wilderness for 40 years. His story is full of adventure, miracles, and faith -- and it all started with a tiny baby in a basket.
+Moses is one of the most important people in the entire Bible. God used him to free an entire nation from slavery, to part the Red Sea, to receive the Ten Commandments, and to lead the Israelites through the wilderness for 40 years. His story is full of adventure, miracles, and faith. And it all started with a tiny baby in a basket.
 
 If your child has ever wondered who Moses was and why he matters, this guide walks through his incredible life in a way kids can understand and remember.
 
 ## A Baby in a Basket (Exodus 1-2)
 
-Moses was born at a very dangerous time. The Israelites -- God's people -- were living in Egypt, and they had become slaves to Pharaoh, the king of Egypt. Pharaoh was afraid because there were so many Israelites. He worried they might become too powerful. So he gave a terrible order: every Israelite baby boy must be thrown into the Nile River.
+Moses was born at a very dangerous time. The Israelites, God's people, were living in Egypt, and they had become slaves to Pharaoh, the king of Egypt. Pharaoh was afraid because there were so many Israelites. He worried they might become too powerful. So he gave a terrible order: every Israelite baby boy must be thrown into the Nile River.
 
 When Moses was born, his mother, Jochebed, knew she had to protect him. She hid him for three months. But when she couldn't hide him any longer, she came up with a brave plan. She made a waterproof basket, placed baby Moses inside, and set it among the reeds along the bank of the Nile River. His big sister, Miriam, stood nearby to watch.
 
 Then something amazing happened. Pharaoh's own daughter came to the river to bathe. She spotted the basket, opened it, and found the crying baby inside. She felt sorry for him. Miriam bravely stepped forward and asked, "Shall I go and get one of the Hebrew women to nurse the baby for you?" Pharaoh's daughter agreed, and Miriam ran to get their own mother.
 
-So Moses's mother got to raise him -- and she was even paid to do it. When Moses was old enough, he went to live in Pharaoh's palace and was raised as an Egyptian prince. (We retell this rescue in [A Baby in a Basket for kids](/blog/a-baby-in-a-basket-for-kids).)
+So Moses's mother got to raise him, and she was even paid to do it. When Moses was old enough, he went to live in Pharaoh's palace and was raised as an Egyptian prince. (We retell this rescue in [A Baby in a Basket for kids](/blog/a-baby-in-a-basket-for-kids).)
 
 **Key lesson for kids:** God was watching over Moses from the very beginning. Even when things seemed hopeless, God had a plan. He can protect us in ways we never expect.
 
@@ -36,7 +36,7 @@ He fled far away to a land called Midian. There, he became a shepherd, married a
 
 ## The Burning Bush (Exodus 3-4)
 
-One day, while Moses was tending his sheep near a mountain called Horeb, he saw something strange -- a bush that was on fire but wasn't burning up. When Moses went closer to look, God spoke to him from the bush.
+One day, while Moses was tending his sheep near a mountain called Horeb, he saw something strange: a bush that was on fire but wasn't burning up. When Moses went closer to look, God spoke to him from the bush.
 
 "Moses! Moses!"
 
@@ -58,26 +58,26 @@ Moses went to Pharaoh and delivered God's message: "Let my people go." But Phara
 
 The ten plagues were:
 
-1. **Water turned to blood** -- The Nile River turned to blood, and all the fish died.
-2. **Frogs** -- Frogs swarmed everywhere, even in people's beds and ovens.
-3. **Gnats** -- Dust turned to gnats that covered people and animals.
-4. **Flies** -- Thick swarms of flies filled Egyptian homes (but not Israelite homes).
-5. **Livestock disease** -- Egyptian cattle, horses, and donkeys died.
-6. **Boils** -- Painful sores broke out on Egyptian people and animals.
-7. **Hail** -- Massive hailstones destroyed crops and killed animals left outside.
-8. **Locusts** -- Swarms of locusts ate every green plant left in Egypt.
-9. **Darkness** -- Total darkness covered Egypt for three days (but the Israelites had light).
-10. **Death of the firstborn** -- The firstborn son in every Egyptian family died.
+1. **Water turned to blood**: The Nile River turned to blood, and all the fish died.
+2. **Frogs**: Frogs swarmed everywhere, even in people's beds and ovens.
+3. **Gnats**: Dust turned to gnats that covered people and animals.
+4. **Flies**: Thick swarms of flies filled Egyptian homes (but not Israelite homes).
+5. **Livestock disease**: Egyptian cattle, horses, and donkeys died.
+6. **Boils**: Painful sores broke out on Egyptian people and animals.
+7. **Hail**: Massive hailstones destroyed crops and killed animals left outside.
+8. **Locusts**, Swarms of locusts ate every green plant left in Egypt.
+9. **Darkness**, Total darkness covered Egypt for three days (but the Israelites had light).
+10. **Death of the firstborn**, The firstborn son in every Egyptian family died.
 
 Before the last plague, God told the Israelites to mark their doorposts with the blood of a lamb. When the angel of death passed through Egypt, he "passed over" the homes with the blood on them. This is where the celebration of Passover comes from, which Jewish families still observe today.
 
 After the tenth plague, Pharaoh finally said, "Go!" (Get the full story in [The Ten Plagues for kids](/blog/the-ten-plagues-for-kids).)
 
-**Key lesson for kids:** God keeps His promises. He said He would free His people, and He did -- even when the most powerful ruler on earth stood in the way.
+**Key lesson for kids:** God keeps His promises. He said He would free His people, and He did, even when the most powerful ruler on earth stood in the way.
 
 ## Crossing the Red Sea (Exodus 14)
 
-The Israelites left Egypt in a hurry, but Pharaoh changed his mind and sent his army after them. The Israelites found themselves trapped -- the Red Sea in front of them and the Egyptian army behind them. They were terrified.
+The Israelites left Egypt in a hurry, but Pharaoh changed his mind and sent his army after them. The Israelites found themselves trapped: the Red Sea in front of them and the Egyptian army behind them. They were terrified.
 
 But Moses told the people, "Do not be afraid. Stand firm and you will see the deliverance the Lord will bring you today" (Exodus 14:13).
 
@@ -89,7 +89,7 @@ The Israelites were free.
 
 ## The Ten Commandments (Exodus 19-20)
 
-Three months after leaving Egypt, the Israelites arrived at Mount Sinai. God called Moses to climb the mountain, and there He gave Moses the Ten Commandments -- the rules for how God's people should live. These commandments covered loving God and loving other people:
+Three months after leaving Egypt, the Israelites arrived at Mount Sinai. God called Moses to climb the mountain, and there He gave Moses the Ten Commandments, the rules for how God's people should live. These commandments covered loving God and loving other people:
 
 1. You shall have no other gods before Me.
 2. You shall not make idols.
@@ -108,9 +108,9 @@ God wrote these commandments on two stone tablets and gave them to Moses to brin
 
 ## 40 Years in the Wilderness (Numbers 13-14, Deuteronomy 34)
 
-God wanted to lead the Israelites to the Promised Land -- a beautiful land flowing with milk and honey. But when they sent twelve spies to check it out, ten of the spies came back scared. "The people there are giants! We can't conquer them!" Only two spies, Joshua and Caleb, trusted God.
+God wanted to lead the Israelites to the Promised Land, a beautiful land flowing with milk and honey. But when they sent twelve spies to check it out, ten of the spies came back scared. "The people there are giants! We can't conquer them!" Only two spies, Joshua and Caleb, trusted God.
 
-Because the people didn't trust God, they had to wander in the wilderness for 40 years -- one year for each day the spies had explored the land. During those 40 years, Moses led them faithfully. God provided food (manna) from heaven, water from rocks, and their clothes never wore out.
+Because the people didn't trust God, they had to wander in the wilderness for 40 years, one year for each day the spies had explored the land. During those 40 years, Moses led them faithfully. God provided food (manna) from heaven, water from rocks, and their clothes never wore out.
 
 At the end of the 40 years, Moses climbed Mount Nebo and God showed him the Promised Land in the distance. Moses could see it, but he wouldn't enter it. He died there on the mountain at 120 years old, and God Himself buried him.
 
@@ -133,7 +133,7 @@ Want your kids to experience the story of Moses through animated videos they'll 
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
-If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names), each with its meaning, verse, and the story it comes from.
 
 ## Frequently Asked Questions
 
@@ -151,4 +151,4 @@ In Numbers 20, God told Moses to speak to a rock to bring water for the thirsty 
 
 ### What's the best way to teach kids about Moses?
 
-Start with the most exciting parts: the baby in the basket, the burning bush, the plagues, and the Red Sea crossing. Kids are drawn to adventure and miracles. Then talk about the deeper lessons -- God's faithfulness, the importance of obedience, and how God uses imperfect people. Animated Bible videos, like those on Faithful Kids, are an excellent way to bring the story to life for visual learners.
+Start with the most exciting parts: the baby in the basket, the burning bush, the plagues, and the Red Sea crossing. Kids are drawn to adventure and miracles. Then talk about the deeper lessons, God's faithfulness, the importance of obedience, and how God uses imperfect people. Animated Bible videos, like those on Faithful Kids, are an excellent way to bring the story to life for visual learners.

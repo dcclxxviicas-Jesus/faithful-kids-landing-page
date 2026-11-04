@@ -122,7 +122,7 @@ Give your middle schooler Bible stories told at their level; engaging, honest, a
 
 When the lesson lands early and twenty minutes remain, a page of [youth group games by group size](/blog/youth-group-games) is the fastest save.
 
-The complete collection lives at our [Bible stories for kids](/bible-stories-for-kids) hub -- 200 simple retellings, free, in Bible order.
+The complete collection lives at our [Bible stories for kids](/bible-stories-for-kids) hub: 200 simple retellings, free, in Bible order.
 
 ## Frequently Asked Questions
 

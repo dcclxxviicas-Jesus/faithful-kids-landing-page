@@ -32,7 +32,7 @@ In the parable of the talents, a master gives three servants different amounts o
 
 **For kids:** "God gives us things to use wisely, time, abilities, and yes, even technology. A phone or tablet is like one of those talents. What are you doing with it? Are you using it to learn, grow, and help others? Or are you burying your time in stuff that does not matter?"
 
-### Our Words Have Power, Including Online Words (Proverbs 18:21; Ephesians 4:29)
+### Our Words Have Power: Including Online Words (Proverbs 18:21; Ephesians 4:29)
 
 "The tongue has the power of life and death" (Proverbs 18:21). "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up" (Ephesians 4:29).
 

@@ -79,7 +79,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Who was the young man watching and approving of Stephen's death?
 
-**Saul.** The witnesses laid their coats at his feet (Acts 7:58) -- the same Saul who would later meet Jesus and become the apostle Paul.
+**Saul.** The witnesses laid their coats at his feet (Acts 7:58); the same Saul who would later meet Jesus and become the apostle Paul.
 
 ## Discussion Questions for Families
 

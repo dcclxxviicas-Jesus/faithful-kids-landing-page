@@ -63,7 +63,7 @@ After watching the video, see if your child can answer these questions:
 
 **"My God, my God, why have you forsaken me?" For the first time in all of eternity, Jesus experienced separation from His Father as He bore the weight of the world's sin.** 
 
-### What does the word "Tetelestai": the word Jesus used when He said "It is finished": mean?
+### What does the word "Tetelestai": the word Jesus used when He said "It is finished", mean?
 
 **"Paid in full." Jesus wasn't saying He was defeated.** He was declaring that the debt for sin was completely settled, nothing left to pay.
 

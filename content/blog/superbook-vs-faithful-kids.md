@@ -115,7 +115,7 @@ Superbook is free, funded by CBN donations. There are no ads, no premium tier, n
 
 Faithful Kids costs $12.99 per month, or $97 per year (which works out to about $8.08 per month). The annual plan includes a 7-day free trial. For a family with multiple children, the subscription covers up to 5 child profiles, so the per-child cost drops significantly.
 
-Is Faithful Kids worth the cost? That depends on what you are paying for. If you are comparing it to "watching Bible cartoons," then free is obviously better. If you are comparing it to "a structured Bible education program with assessment and parental oversight," then $12.99 per month covers up to five children -- under $3 per child -- which is less than a single Sunday School curriculum book, less than one hour of tutoring, and less than most educational apps charge for one child.
+Is Faithful Kids worth the cost? That depends on what you are paying for. If you are comparing it to "watching Bible cartoons," then free is obviously better. If you are comparing it to "a structured Bible education program with assessment and parental oversight," then $12.99 per month covers up to five children, under $3 per child, which is less than a single Sunday School curriculum book, less than one hour of tutoring, and less than most educational apps charge for one child.
 
 ---
 

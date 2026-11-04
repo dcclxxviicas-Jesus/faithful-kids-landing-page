@@ -82,15 +82,15 @@ The stone rolled away from the entrance of the tomb, an angel sitting nearby, an
 
 ## Coloring Pages by Bible Story
 
-Once your family colors regularly, organizing by story beats organizing by season, because a coloring page does its best work immediately after the story is told. Four stories generate more coloring-page requests than everything else combined -- Noah's ark, the nativity, the books of the Bible, and verse art -- and each one deserves a set rather than a single sheet.
+Once your family colors regularly, organizing by story beats organizing by season, because a coloring page does its best work immediately after the story is told. Four stories generate more coloring-page requests than everything else combined: Noah's ark, the nativity, the books of the Bible, and verse art, and each one deserves a set rather than a single sheet.
 
 ### Noah's Ark
 
-Noah's ark is the most-colored story in children's ministry, and a single ark page barely scratches it. A proper set runs six pages: the building of the ark (Noah with tools, neighbors watching), the animals boarding two by two, the rain beginning, the ark alone on open water, the dove returning with an olive leaf, and the rainbow over dry ground with Noah's family stepping out. Colored in order, that set becomes a six-page storybook -- staple it down the left edge and your child has written their own picture Bible. We've broken this down page by page in our guide to [Noah's ark coloring pages](/blog/noahs-ark-coloring-pages), and the story itself is retold at [Noah and the great flood for kids](/blog/noah-and-the-great-flood-for-kids).
+Noah's ark is the most-colored story in children's ministry, and a single ark page barely scratches it. A proper set runs six pages: the building of the ark (Noah with tools, neighbors watching), the animals boarding two by two, the rain beginning, the ark alone on open water, the dove returning with an olive leaf, and the rainbow over dry ground with Noah's family stepping out. Colored in order, that set becomes a six-page storybook; staple it down the left edge and your child has written their own picture Bible. We've broken this down page by page in our guide to [Noah's ark coloring pages](/blog/noahs-ark-coloring-pages), and the story itself is retold at [Noah and the great flood for kids](/blog/noah-and-the-great-flood-for-kids).
 
 ### The Nativity
 
-The nativity works as a set because the Christmas story has genuinely distinct scenes: the angel's visit to Mary, the journey to Bethlehem, the stable and the manger, the shepherds in the fields, the angel choir, and the wise men following the star. Color one scene per week through Advent and the set becomes a countdown -- the last page gets colored on Christmas Eve. Our full breakdown of scenes, ages, and Advent pacing is in [nativity coloring pages](/blog/nativity-coloring-pages).
+The nativity works as a set because the Christmas story has genuinely distinct scenes: the angel's visit to Mary, the journey to Bethlehem, the stable and the manger, the shepherds in the fields, the angel choir, and the wise men following the star. Color one scene per week through Advent and the set becomes a countdown; the last page gets colored on Christmas Eve. Our full breakdown of scenes, ages, and Advent pacing is in [nativity coloring pages](/blog/nativity-coloring-pages).
 
 ### Books of the Bible
 
@@ -102,7 +102,7 @@ Verse coloring pages are the crossover format: a verse in large outlined block l
 
 ### How to Organize a Story-by-Story Collection
 
-Keep one folder per testament with pages filed in biblical order, and print a batch monthly rather than one at a time. When your family finishes a story, the page is already there. Add each finished page to a three-ring binder in order, and by the end of a year your child has a complete illustrated Bible in their own colors -- the single best keepsake this activity produces.
+Keep one folder per testament with pages filed in biblical order, and print a batch monthly rather than one at a time. When your family finishes a story, the page is already there. Add each finished page to a three-ring binder in order, and by the end of a year your child has a complete illustrated Bible in their own colors; the single best keepsake this activity produces.
 
 For a calm, ready-made rotation of stories to color your way through, our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) has seven short nightly readings; color the scene after the reading and the story gets a second pass before lights out.
 
@@ -122,7 +122,7 @@ When a child completes a coloring page, they have created something personal. Th
 
 ## How to Get the Most Out of Bible Coloring Pages
 
-**Tell the story first.** Before handing over the coloring page, tell or read the Bible story together -- our list of the [best Bible stories for kids](/blog/best-bible-stories-for-kids) is a good place to start. When kids understand the context, they color with more intention. "This is the Red Sea, and these are the Israelites walking through on dry ground. God made this happen."
+**Tell the story first.** Before handing over the coloring page, tell or read the Bible story together: our list of the [best Bible stories for kids](/blog/best-bible-stories-for-kids) is a good place to start. When kids understand the context, they color with more intention. "This is the Red Sea, and these are the Israelites walking through on dry ground. God made this happen."
 
 **Ask questions while they color.** "What do you think Jonah was feeling inside the fish?" "Why do you think David was not afraid of Goliath?" "What color do you think Joseph's coat was?" Open-ended questions turn coloring time into Bible study time.
 

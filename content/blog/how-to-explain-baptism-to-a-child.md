@@ -121,7 +121,7 @@ If your child is curious about baptism and wants to talk to God about it, here i
 
 **Ages 9-12:** "Baptism is an outward symbol of an inward change. When you go under the water, it represents your old life being buried with Jesus. When you come up, it represents the new life God gives you. It is one of the most important steps you can take as a Christian."
 
-Once baptism clicks, kids often ask about the bread and cup next -- here is [how to explain communion to a child](/blog/how-to-explain-communion-to-a-child) when that question comes.
+Once baptism clicks, kids often ask about the bread and cup next; here is [how to explain communion to a child](/blog/how-to-explain-communion-to-a-child) when that question comes.
 
 ## Watch on Faithful Kids
 

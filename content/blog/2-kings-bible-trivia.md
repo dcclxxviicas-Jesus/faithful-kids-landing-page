@@ -2,21 +2,21 @@
 title: "2 Kings Bible Trivia: 36 Questions and Answers for Families"
 slug: "2-kings-bible-trivia"
 type: "listicle"
-metaDescription: "36 2 Kings Bible trivia questions with answers and verse references -- Elijah's chariot, Elisha's miracles, and the fall of two kingdoms, easy to hard."
+metaDescription: "36 2 Kings Bible trivia questions with answers and verse references: Elijah's chariot, Elisha's miracles, and the fall of two kingdoms, easy to hard."
 keywords: ["2 kings bible trivia", "2 kings quiz questions", "questions about the book of 2 kings", "2 kings bible questions and answers", "elisha trivia questions", "naaman quiz questions"]
 datePublished: "2026-08-14"
 dateModified: "2026-08-15"
 ---
 
-These 36 2 Kings Bible trivia questions cover the whole book -- Elijah's fiery exit, Elisha's astonishing miracles, boy kings, an angel routing an entire army, and the fall of both kingdoms. Answers with verse references follow every question, sorted into easy, medium, and hard rounds by age.
+These 36 2 Kings Bible trivia questions cover the whole book: Elijah's fiery exit, Elisha's astonishing miracles, boy kings, an angel routing an entire army, and the fall of both kingdoms. Answers with verse references follow every question, sorted into easy, medium, and hard rounds by age.
 
-2 Kings may be the most miracle-dense book in the Old Testament, and most of its stories never make it into children's Bibles -- a floating axe head, a poisoned stew fixed with flour, invisible armies of fire. Expect the hard round to teach the adults at the table a few things too.
+2 Kings may be the most miracle-dense book in the Old Testament, and most of its stories never make it into children's Bibles: a floating axe head, a poisoned stew fixed with flour, invisible armies of fire. Expect the hard round to teach the adults at the table a few things too.
 
 ## What Is the Book of 2 Kings About?
 
-The book of 2 Kings continues Israel's royal history from Elijah's departure to the fall of both kingdoms -- the northern kingdom of Israel to Assyria in 722 BC, and Judah to Babylon in 586 BC. Like 1 Kings (originally the same book in the Hebrew Bible), it is anonymous; Jewish tradition attributes Kings to the prophet Jeremiah, and it was compiled from royal records during or after the exile.
+The book of 2 Kings continues Israel's royal history from Elijah's departure to the fall of both kingdoms: the northern kingdom of Israel to Assyria in 722 BC, and Judah to Babylon in 586 BC. Like 1 Kings (originally the same book in the Hebrew Bible), it is anonymous; Jewish tradition attributes Kings to the prophet Jeremiah, and it was compiled from royal records during or after the exile.
 
-The first half belongs to the prophet Elisha, who asked for a double portion of Elijah's spirit and performed miracles for widows, generals, and entire cities. The second half is a countdown: king after king "did evil in the eyes of the LORD," with bright exceptions like Hezekiah and Josiah, until both kingdoms fell exactly as the prophets warned. It matters because it answers a question kids eventually ask -- what happens when people ignore God for centuries? -- while ending with a flicker of hope that God's promise to David wasn't dead.
+The first half belongs to the prophet Elisha, who asked for a double portion of Elijah's spirit and performed miracles for widows, generals, and entire cities. The second half is a countdown: king after king "did evil in the eyes of the LORD," with bright exceptions like Hezekiah and Josiah, until both kingdoms fell exactly as the prophets warned. It matters because it answers a question kids eventually ask: what happens when people ignore God for centuries? while ending with a flicker of hope that God's promise to David wasn't dead.
 
 ## Easy 2 Kings Trivia Questions (Ages 5-8)
 
@@ -39,8 +39,8 @@ The first half belongs to the prophet Elisha, who asked for a double portion of 
 14. Which woman built a small room on her roof so Elisha would have a place to stay? **The Shunammite woman** (2 Kings 4:8-10)
 15. What miracle did God do for the Shunammite woman's son? **Elisha raised him from the dead** (2 Kings 4:32-35)
 16. What did Elisha throw into the pot when the prophets cried, "There is death in the pot!"? **Flour** (2 Kings 4:40-41)
-17. How many men did Elisha feed with just twenty loaves of barley bread? **One hundred -- with some left over** (2 Kings 4:42-44)
-18. Which servant of Elisha chased down Naaman's gifts, and what happened to him? **Gehazi -- Naaman's leprosy clung to him** (2 Kings 5:20-27)
+17. How many men did Elisha feed with just twenty loaves of barley bread? **One hundred; with some left over** (2 Kings 4:42-44)
+18. Which servant of Elisha chased down Naaman's gifts, and what happened to him? **Gehazi; Naaman's leprosy clung to him** (2 Kings 5:20-27)
 19. Who found the lost Book of the Law in the temple during Josiah's reign? **Hilkiah the high priest** (2 Kings 22:8)
 20. Which empire conquered the northern kingdom of Israel? **Assyria, which captured Samaria** (2 Kings 17:5-6)
 21. Which empire conquered Judah and destroyed Jerusalem? **Babylon, under King Nebuchadnezzar** (2 Kings 25:1, 8-10)
@@ -64,7 +64,7 @@ For the apprentice who carried the ministry further, the oil, Naaman, the horses
 28. What sign confirmed that God would heal Hezekiah? **The shadow went back ten steps on the stairway of Ahaz** (2 Kings 20:8-11)
 29. How many extra years of life did God give Hezekiah? **Fifteen** (2 Kings 20:6)
 30. Which king of Judah reigned 55 years and led the nation into more evil than the nations God had driven out? **Manasseh** (2 Kings 21:1-2, 9)
-31. What great celebration did Josiah restore after the Book of the Law was found? **The Passover -- kept as it had not been since the days of the judges** (2 Kings 23:21-23)
+31. What great celebration did Josiah restore after the Book of the Law was found? **The Passover; kept as it had not been since the days of the judges** (2 Kings 23:21-23)
 32. What does 2 Kings say about Josiah's devotion compared to every other king? **Neither before nor after was there a king like him, who turned to the LORD with all his heart, soul, and strength** (2 Kings 23:25)
 33. According to 2 Kings, why did the northern kingdom fall? **The people worshiped other gods and refused to listen to the prophets God kept sending to warn them** (2 Kings 17:7-18)
 34. What happened to Zedekiah, the last king of Judah? **His sons were killed before his eyes, then he was blinded and taken in shackles to Babylon** (2 Kings 25:7)
@@ -73,9 +73,9 @@ For the apprentice who carried the ministry further, the oil, Naaman, the horses
 
 ## How to Use These Questions
 
-The easy and medium rounds are almost all Elisha, which makes a great themed night: read one miracle story aloud, then ask its question. Save the hard round's fall-of-the-kingdoms questions for teens -- they set up the whole exile era (and the book of Daniel). For team formats and scoring, see our [family Bible trivia night guide](/blog/family-bible-trivia-night).
+The easy and medium rounds are almost all Elisha, which makes a great themed night: read one miracle story aloud, then ask its question. Save the hard round's fall-of-the-kingdoms questions for teens; they set up the whole exile era (and the book of Daniel). For team formats and scoring, see our [family Bible trivia night guide](/blog/family-bible-trivia-night).
 
-For story prep, the episode-length tellings of [Elijah taken to heaven](/blog/elijah-taken-to-heaven-for-kids), [Elisha's double portion](/blog/elisha-double-portion-for-kids), and [Naaman the leper](/blog/naaman-the-leper-for-kids) cover the first half of this list, while [good kings and bad kings](/blog/good-kings-and-bad-kings-for-kids) explains the second. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through the whole 2 Kings era with a quiz after every episode -- and for a broader challenge, try our [Old Testament trivia questions](/blog/old-testament-bible-trivia-for-kids).
+For story prep, the episode-length tellings of [Elijah taken to heaven](/blog/elijah-taken-to-heaven-for-kids), [Elisha's double portion](/blog/elisha-double-portion-for-kids), and [Naaman the leper](/blog/naaman-the-leper-for-kids) cover the first half of this list, while [good kings and bad kings](/blog/good-kings-and-bad-kings-for-kids) explains the second. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through the whole 2 Kings era with a quiz after every episode; and for a broader challenge, try our [Old Testament trivia questions](/blog/old-testament-bible-trivia-for-kids).
 
 For younger players, our [kids' Bible trivia questions](/blog/bible-trivia-for-kids) keep the whole family in the game.
 
@@ -85,13 +85,13 @@ For the adults in the room, our [Bible trivia questions for adults](/blog/bible-
 
 The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
 
-To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable); all 66 in order, printable.
 
 ## Frequently Asked Questions
 
 ### Who wrote the book of 2 Kings?
 
-The book of 2 Kings is anonymous -- the text never names its author. Jewish tradition attributes 1 and 2 Kings (originally a single book) to the prophet Jeremiah, and the final chapter's report of events in Babylon shows it was completed during the exile.
+The book of 2 Kings is anonymous; the text never names its author. Jewish tradition attributes 1 and 2 Kings (originally a single book) to the prophet Jeremiah, and the final chapter's report of events in Babylon shows it was completed during the exile.
 
 ### How many chapters does 2 Kings have?
 
@@ -99,11 +99,11 @@ The book of 2 Kings is anonymous -- the text never names its author. Jewish trad
 
 ### What is the most famous story in 2 Kings?
 
-Elijah being taken to heaven in a whirlwind with a chariot and horses of fire (2 Kings 2:11) is the book's most famous moment, with Naaman washing seven times in the Jordan (2 Kings 5) a close second. Elisha's miracles -- the widow's oil, the floating axe head, the Shunammite's son -- fill out the rest of the highlight reel.
+Elijah being taken to heaven in a whirlwind with a chariot and horses of fire (2 Kings 2:11) is the book's most famous moment, with Naaman washing seven times in the Jordan (2 Kings 5) a close second. Elisha's miracles, the widow's oil, the floating axe head, the Shunammite's son, fill out the rest of the highlight reel.
 
 ### Why did Israel and Judah fall in 2 Kings?
 
-Both kingdoms fell because of long, stubborn idolatry -- the people "worshiped other gods" and "would not listen" to the prophets God sent to warn them (2 Kings 17:7-14). Israel fell to Assyria in 722 BC, and Judah, after more warnings and a few reforming kings, fell to Babylon in 586 BC.
+Both kingdoms fell because of long, stubborn idolatry; the people "worshiped other gods" and "would not listen" to the prophets God sent to warn them (2 Kings 17:7-14). Israel fell to Assyria in 722 BC, and Judah, after more warnings and a few reforming kings, fell to Babylon in 586 BC.
 
 ### Who were the good kings in 2 Kings?
 
@@ -111,4 +111,4 @@ Hezekiah and Josiah stand out as Judah's best kings in 2 Kings. Hezekiah trusted
 
 ### What age can kids start learning 2 Kings?
 
-Ages 5-8 love the Elisha miracles -- the floating axe head, the widow's oil, Naaman's healing -- which is what the easy round covers. The war and judgment chapters (the sieges, Jezebel's death, the fall of Jerusalem) are heavier material most families save for ages 9-12 and up.
+Ages 5-8 love the Elisha miracles; the floating axe head, the widow's oil, Naaman's healing, which is what the easy round covers. The war and judgment chapters (the sieges, Jezebel's death, the fall of Jerusalem) are heavier material most families save for ages 9-12 and up.

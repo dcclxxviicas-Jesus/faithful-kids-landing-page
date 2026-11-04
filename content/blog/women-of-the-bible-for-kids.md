@@ -14,31 +14,31 @@ Ask a child to name Bible heroes and you'll usually get Noah, Moses, David, all 
 
 Here are fifteen women of the Bible every kid should know, in roughly the order they appear, each with where to find her, and what she shows us about God.
 
-## 1. Eve, the Mother of All the Living (Genesis 2-4)
+## 1. Eve: the Mother of All the Living (Genesis 2-4)
 
 The first woman, made by God's own hands in the garden, and, kids should hear this clearly, made in God's image just as fully as Adam (Genesis 1:27). Eve's story holds the saddest choice in the Bible and also its first hope: God's promise that her offspring would one day crush the serpent (Genesis 3:15). The whole rest of the Bible is that promise coming true. Start at the very beginning with [the Creation story](/blog/in-the-beginning-creation-for-kids).
 
-## 2. Sarah, the Woman Who Laughed (Genesis 12-23)
+## 2. Sarah: the Woman Who Laughed (Genesis 12-23)
 
 Sarah followed [Abraham](/blog/who-was-abraham-for-kids) into the unknown and waited twenty-five years for the son God promised, so long that she laughed out loud when God said it was finally happening. God's gentle comeback is one of the Bible's great questions: "Is anything too hard for the Lord?" (Genesis 18:14). Isaac's name, "he laughs", kept the joke forever: God got the last laugh, and Sarah got the baby at age ninety.
 
-## 3. Miriam, the Big Sister on the Riverbank (Exodus 2, 15)
+## 3. Miriam: the Big Sister on the Riverbank (Exodus 2, 15)
 
 When baby Moses floated in a basket among the crocodiles of the Nile, it was his big sister Miriam who stood watch and bravely offered Pharaoh's daughter a nurse, the baby's own mother. Years later she led Israel's women in the first worship dance recorded in Scripture, tambourine in hand, after [the Red Sea crossing](/blog/crossing-the-red-sea-for-kids). The Bible calls her a prophet (Exodus 15:20), and she started as a quick-thinking kid.
 
-## 4. Rahab, the Scarlet Cord (Joshua 2, 6)
+## 4. Rahab: the Scarlet Cord (Joshua 2, 6)
 
 A Canaanite woman with a hard past, who hid Israel's spies, declared "the Lord your God is God," and saved her whole family with a scarlet cord in the window when Jericho fell. She married into Israel and became the great-great-grandmother of King David. [Read her full story here](/blog/who-was-rahab-for-kids).
 
-## 5. Deborah, the Judge Under the Palm Tree (Judges 4-5)
+## 5. Deborah: the Judge Under the Palm Tree (Judges 4-5)
 
 The only woman to lead Israel as judge, settling the nation's disputes under her palm tree, speaking God's word as a prophetess, and riding to battle beside a general who refused to go without her. Her victory song is one of the oldest passages in Scripture. [Read her full story here](/blog/who-was-deborah-for-kids).
 
-## 6. Ruth, "Where You Go I Will Go" (Ruth 1-4)
+## 6. Ruth: "Where You Go I Will Go" (Ruth 1-4)
 
 A widow from Moab who refused to abandon her broken mother-in-law, gleaned fields in the hot sun to feed them both, and became the great-grandmother of David. Her loyalty speech, "your people will be my people and your God my God", is still read at weddings three thousand years later. [Read her full story here](/blog/who-was-ruth-for-kids).
 
-## 7. Hannah, the Mother Who Kept Her Promise (1 Samuel 1-2)
+## 7. Hannah: the Mother Who Kept Her Promise (1 Samuel 1-2)
 
 She prayed so hard for a baby that the priest thought she was drunk, and when God gave her Samuel, she kept her staggering promise and gave him back to God's service. Her prayer of praise echoes a thousand years later in Mary's song. [Read Hannah's Prayer](/blog/hannahs-prayer-for-kids), and meet the son she prayed for in [Who Was Samuel?](/blog/who-was-samuel-for-kids)
 
@@ -46,15 +46,15 @@ She prayed so hard for a baby that the priest thought she was drunk, and when Go
 
 We never learn her name. Captured in a raid and serving the wife of an enemy general, this little Israelite girl spoke one sentence, "If only my master would see the prophet who is in Samaria!", and it sent the mighty Naaman to his healing and to faith in the living God. Proof that a child's words can redirect a powerful adult's whole life. [Read Naaman's story](/blog/naaman-the-leper-for-kids).
 
-## 9. Esther, "If I Perish, I Perish" (Esther 1-10)
+## 9. Esther: "If I Perish, I Perish" (Esther 1-10)
 
 An orphan girl who became queen of Persia, then risked execution by entering the king's court uninvited to expose a plot against her people. Her cousin's question still lands on every reader: "Who knows but that you have come to your royal position for such a time as this?" (Esther 4:14). [Read her full story here](/blog/who-was-esther-for-kids).
 
-## 10. Mary, the Mother of Jesus (Luke 1-2; John 19)
+## 10. Mary: the Mother of Jesus (Luke 1-2; John 19)
 
 A young woman from Nazareth who answered the most startling announcement ever delivered with the bravest sentence ever spoken: "I am the Lord's servant. May your word to me be fulfilled" (Luke 1:38). She carried, raised, followed, and, at the cross, stood by the Son of God. [Read her full story here](/blog/who-was-mary-mother-of-jesus-for-kids).
 
-## 11. Elizabeth, the First to Bless (Luke 1)
+## 11. Elizabeth: the First to Bless (Luke 1)
 
 Mary's older relative, long childless, who was expecting John the Baptist when Mary came to visit, and whose baby leaped inside her at the sound of Mary's greeting. Elizabeth became the first person to bless Jesus' mother and call him "my Lord" before either baby was born. Her son grew up to be [John the Baptist](/blog/john-the-baptist-for-kids).
 
@@ -66,11 +66,11 @@ A Samaritan woman, avoiding the crowds, met a tired Jewish teacher at noon by Ja
 
 Two sisters Jesus loved, one busy in the kitchen, one sitting at his feet, whose little house in Bethany was one of the places Jesus seems to have felt most at home. At their brother Lazarus' tomb, Martha made one of the Gospels' great confessions ("You are the Messiah, the Son of God") and both sisters saw the Bible's most famous miracle of raising the dead.
 
-## 14. Mary Magdalene, First at the Tomb (John 20)
+## 14. Mary Magdalene: First at the Tomb (John 20)
 
 Freed by Jesus from seven demons, she supported his ministry, stayed through the crucifixion when most fled, and on Easter morning became the first person to see the risen Jesus, and the first sent to tell. Early Christians called her "the apostle to the apostles." [Read her full story here](/blog/who-was-mary-magdalene-for-kids).
 
-## 15. Lydia, Europe's First Christian (Acts 16)
+## 15. Lydia: Europe's First Christian (Acts 16)
 
 A successful purple-cloth merchant at a riverside prayer meeting in Philippi, whose heart the Lord opened as Paul spoke, making her the first recorded convert in Europe. Her home immediately became the first church on the continent. [Read her full story here](/blog/who-was-lydia-for-kids).
 

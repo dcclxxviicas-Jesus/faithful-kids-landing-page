@@ -76,14 +76,9 @@
 }
 .pt .pt-secnav a:hover { color: var(--pt-ink); }
 .pt .pt-secnav a[aria-current="page"] { color: var(--pt-ink); border-bottom-color: var(--pt-green); }
-.pt .pt-secnav .is-aux { margin-left: auto; }
-.pt .pt-secnav .is-aux a { font-weight: 700; letter-spacing: .04em; text-transform: none; font-size: .88rem; color: var(--pt-ink-mute); }
-.pt .pt-secnav .is-aux a:hover { color: var(--pt-ink); }
 @media (max-width: 640px) {
   .pt .pt-secnav ul { justify-content: flex-start; padding-right: 12px; }
   .pt .pt-secnav a { padding: 12px 12px 10px; font-size: .8rem; }
-  .pt .pt-secnav .is-aux { margin-left: 0; }
-  .pt .pt-secnav .is-aux a { font-size: .8rem; }
 }
 
 /* ---------- labels / kickers ---------- */

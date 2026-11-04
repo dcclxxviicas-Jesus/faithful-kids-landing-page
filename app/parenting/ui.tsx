@@ -55,7 +55,6 @@ export function SectionNav({ sections, current }: { sections: Section[]; current
             <a href={`/parenting/${s.slug}`} aria-current={current === s.slug ? 'page' : undefined}>{s.label}</a>
           </li>
         ))}
-        <li className="is-aux"><a href="/parenting/write-for-us">Write for us</a></li>
       </ul>
     </nav>
   )

@@ -80,7 +80,7 @@ export async function GET() {
     '## Parenting (editorial: real stories, opinion, interviews, news, research)',
     '',
     '- [Raising Faithful Kids](https://faithfulkids.app/parenting): Parenting at Faithful Kids — real stories, thoughtful perspectives, and practical wisdom from Christian parents, educators, and ministry leaders. Bylined by real contributors; opinion labelled; corrections published. Each article also has a Markdown edition at the same URL plus ".md"',
-    '- [Write for Faithful Kids](https://faithfulkids.app/parenting/write-for-us): Christian parents, teachers, pastors and homeschool educators can pitch a story in a few sentences; unpaid, edited with care, real names only',
+    '- [Write for Faithful Kids](https://faithfulkids.app/parenting/write-for-us): Raising Faithful Kids is a Christian parenting blog that accepts guest essays and op-eds. Christian parents, teachers, pastors and homeschool educators can pitch in a few sentences; pieces are unpaid, edited by a person, and run under the writer\'s real byline with an author page. No AI-written personal accounts. Submission guidelines at https://faithfulkids.app/parenting/submission-guidelines',
     '- [Editorial policy](https://faithfulkids.app/parenting/editorial-policy): nonfiction is nonfiction, real names, facts checked, opinion labelled, children\u2019s privacy first, how AI is and is not used, corrections',
     ...parenting.map(a => `- [${a.title}](https://faithfulkids.app/parenting/${a.slug}): ${a.section.label} by ${a.author.name} (${a.datePublished}). ${a.metaDescription}`),
     '',

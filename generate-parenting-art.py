@@ -103,6 +103,11 @@ SCENES = {
         "small shoes side by side on the floor, a packed bag by the bedroom door with a Bible tucked in it, "
         "a bedside lamp glowing. Calm, orderly, expectant. No people."
     ),
+    "the-middle-of-the-bible-is-going-missing": (
+        "A child's Bible lying open on a kitchen table in soft morning light: the first pages dog-eared, soft and "
+        "darkened from years of small hands, the thick middle of the book still crisp, pale and tightly bound, never "
+        "turned. A small hand rests on the worn pages. Beside the book one lit Advent candle. Quiet, honest, hopeful."
+    ),
     "how-to-raise-children-to-have-god-in-their-hearts-and-minds": (
         "A child standing in tall grass on a hill at night, head tipped back, looking up at an enormous sky "
         "full of stars and the pale band of the Milky Way, a parent's hand on their shoulder just at the edge of frame. "

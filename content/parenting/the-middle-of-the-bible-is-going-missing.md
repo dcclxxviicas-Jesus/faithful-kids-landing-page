@@ -1,7 +1,7 @@
 ---
-title: "The Bible Stories Your Kids Will Forget First"
-seoTitle: "The Bible Stories Your Kids Will Forget First"
-subtitle: "We graded 26,393 answers to our free Bible quiz. The stories we tell children at five survive for life. The middle of the Bible, the part we never get around to telling, is quietly going missing, and the Christmas story is closer to it than I expected."
+title: "The Middle of the Bible Is Going Missing"
+seoTitle: "The Middle of the Bible Is Going Missing: 26,000 Answers"
+subtitle: "We graded 26,393 answers to our free Bible quiz. The stories we tell children at five survive for life. The ones we never get around to telling are quietly disappearing, and the Christmas story is closer to the second group than I expected."
 slug: "the-middle-of-the-bible-is-going-missing"
 type: "research"
 tags: ["Family Bible Study", "Christian Education", "Faith at Home"]

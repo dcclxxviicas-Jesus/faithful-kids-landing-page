@@ -27,7 +27,7 @@ Starting with Abraham, Genesis follows four generations of one family: Abraham, 
 ## 10 Key Stories Every Kid Should Know from Genesis
 
 ### 1. Creation (Genesis 1-2)
-In six days, God created light, sky, land, plants, sun, moon, stars, fish, birds, animals, and finally people. On the seventh day, He rested. The big idea for kids: God made everything, and He called it "very good." Every sunset, every puppy, every giggle at the dinner table exists because God is a Creator who loves beauty and life.
+In six days, God created light, sky, land, plants, sun, moon, stars, fish, birds, animals, and finally people. On the seventh day, He rested. The big idea for kids: God made everything, and He called it "very good." Every sunset, every sparrow, every giggle at the dinner table exists because God is a Creator who loves beauty and life.
 
 ### 2. Adam and Eve in the Garden (Genesis 2-3)
 God placed Adam and Eve in a perfect garden called Eden. They had one rule: do not eat from the Tree of the Knowledge of Good and Evil. A serpent tempted Eve, she ate the fruit, Adam followed, and sin entered the world. For kids, this story shows that choices matter and that even when we mess up, God still comes looking for us (Genesis 3:9).

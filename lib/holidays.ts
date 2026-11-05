@@ -47,7 +47,7 @@ export interface Holiday {
   /** Post whose hero image represents this season on the /holidays index.
    *  Must be a real post with a hero on the CDN -- a 404 here renders a
    *  broken image on the hub. Check:
-   *  d3g07v1w0lehiv.cloudfront.net/blog-images/<heroSlug>-hero.webp?v=2 */
+   *  d3g07v1w0lehiv.cloudfront.net/blog-images/<heroSlug>-hero.webp?v=3 */
   heroSlug: string
   /** Slug patterns for posts that belong to this season. */
   match: RegExp

@@ -44,6 +44,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      // Original research (Bible literacy, from our own trivia data). The link
+      // target of the Dec 2026 press release; refreshed quarterly.
+      url: `${baseUrl}/research/bible-literacy`,
+      lastModified: new Date('2026-11-04'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
+    {
       // Statement of faith. Homeschool-group leaders ask for this before
       // recommending us, so it has to be findable rather than emailed on
       // request. /what-we-believe and /statement-of-faith redirect here.
@@ -291,7 +299,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(post.dateModified + 'T00:00:00Z'),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
-    images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`],
+    images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=3`],
   }))
 
   // Topic hub pages — only categories that actually contain guide posts

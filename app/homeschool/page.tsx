@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     url: 'https://faithfulkids.app/homeschool',
     type: 'website',
     images: [{
-      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/bible-stories-for-homeschool-hero.webp?v=2',
+      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/bible-stories-for-homeschool-hero.webp?v=3',
       width: 1792, height: 1024,
       alt: 'Faithful Kids homeschool Bible curriculum',
     }],

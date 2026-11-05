@@ -1,0 +1,955 @@
+{
+ "generated": "2026-11-05T02:31:10+00:00",
+ "window": {
+  "from": "2026-09-15",
+  "to_exclusive": "2026-11-05",
+  "tz": "America/New_York"
+ },
+ "min_n": 30,
+ "corpus": {
+  "answers": 26393,
+  "players": 2574,
+  "days": 51,
+  "minutes_per_answer": 2.8,
+  "blog_start_utc": "2026-10-06 12:00:00"
+ },
+ "hub": {
+  "answers": 9656,
+  "players": 1347,
+  "right": 5117,
+  "pct": 53.0,
+  "answers_unlabelled": 66,
+  "questions_measured": 99
+ },
+ "blog": {
+  "answers": 16737,
+  "players": 1246,
+  "right": 14231,
+  "pct": 85.0,
+  "from_utc": "2026-10-06 12:00:00"
+ },
+ "tiers": {
+  "easy": {
+   "questions": 40,
+   "answers": 4526,
+   "right": 2582,
+   "pct": 57.0
+  },
+  "medium": {
+   "questions": 34,
+   "answers": 2572,
+   "right": 1390,
+   "pct": 54.0
+  },
+  "hard": {
+   "questions": 25,
+   "answers": 2421,
+   "right": 1091,
+   "pct": 45.1
+  }
+ },
+ "bands": {
+  "below_25": 3,
+  "below_50": 41,
+  "at_least_75": 9
+ },
+ "god_helps": {
+  "q": "Where does the Bible say \"God helps those who help themselves\"?",
+  "n": 139,
+  "right": 90,
+  "pct": 64.7
+ },
+ "questions": [
+  {
+   "q": "In which city were believers first called Christians?",
+   "tier": "medium",
+   "answer": "Antioch",
+   "ref": "Acts 11:26",
+   "n": 74,
+   "right": 15,
+   "pct": 20.3
+  },
+  {
+   "q": "Who was Ruth’s sister-in-law who kissed Naomi goodbye and went back to Moab?",
+   "tier": "medium",
+   "answer": "Orpah",
+   "ref": "Ruth 1:14",
+   "n": 69,
+   "right": 17,
+   "pct": 24.6
+  },
+  {
+   "q": "In what three languages was the sign over the cross written?",
+   "tier": "hard",
+   "answer": "Aramaic, Latin, and Greek",
+   "ref": "John 19:20",
+   "n": 105,
+   "right": 26,
+   "pct": 24.8
+  },
+  {
+   "q": "Paul spoke the letter to the Romans aloud, who actually wrote it down, and even adds his own hello?",
+   "tier": "hard",
+   "answer": "Tertius",
+   "ref": "Romans 16:22",
+   "n": 96,
+   "right": 28,
+   "pct": 29.2
+  },
+  {
+   "q": "Which two Hebrew midwives bravely disobeyed Pharaoh’s order to kill baby boys?",
+   "tier": "hard",
+   "answer": "Shiphrah and Puah",
+   "ref": "Exodus 1:15-17",
+   "n": 111,
+   "right": 36,
+   "pct": 32.4
+  },
+  {
+   "q": "What was the name of Jonah’s father?",
+   "tier": "hard",
+   "answer": "Amittai",
+   "ref": "Jonah 1:1",
+   "n": 102,
+   "right": 33,
+   "pct": 32.4
+  },
+  {
+   "q": "Who was Israel’s very first king?",
+   "tier": "easy",
+   "answer": "Saul",
+   "ref": "1 Samuel 10:24",
+   "n": 111,
+   "right": 38,
+   "pct": 34.2
+  },
+  {
+   "q": "Where was Saul found when it was time to announce him as king?",
+   "tier": "medium",
+   "answer": "Hiding among the supplies",
+   "ref": "1 Samuel 10:22",
+   "n": 66,
+   "right": 23,
+   "pct": 34.8
+  },
+  {
+   "q": "Who was the mother-in-law that Ruth refused to leave?",
+   "tier": "easy",
+   "answer": "Naomi",
+   "ref": "Ruth 1:14-16",
+   "n": 106,
+   "right": 37,
+   "pct": 34.9
+  },
+  {
+   "q": "How many of every clean animal did Noah take aboard the ark?",
+   "tier": "hard",
+   "answer": "Seven pairs, not just two",
+   "ref": "Genesis 7:2",
+   "n": 108,
+   "right": 38,
+   "pct": 35.2
+  },
+  {
+   "q": "Which woman defeated the mighty general Sisera with a tent peg and a hammer?",
+   "tier": "medium",
+   "answer": "Jael",
+   "ref": "Judges 4:21",
+   "n": 90,
+   "right": 33,
+   "pct": 36.7
+  },
+  {
+   "q": "What word does Mark use more than 40 times to keep his fast-paced Gospel racing along?",
+   "tier": "hard",
+   "answer": "\"Immediately\"",
+   "ref": "Gospel of Mark",
+   "n": 108,
+   "right": 40,
+   "pct": 37.0
+  },
+  {
+   "q": "What city was the giant Goliath from?",
+   "tier": "medium",
+   "answer": "Gath",
+   "ref": "1 Samuel 17:4",
+   "n": 89,
+   "right": 33,
+   "pct": 37.1
+  },
+  {
+   "q": "Which city’s walls came tumbling down when Israel marched around them and shouted?",
+   "tier": "easy",
+   "answer": "Jericho",
+   "ref": "Joshua 6:20",
+   "n": 96,
+   "right": 36,
+   "pct": 37.5
+  },
+  {
+   "q": "Which psalm did Jesus quote from the cross, \"My God, my God, why have you forsaken me?\"",
+   "tier": "hard",
+   "answer": "Psalm 22",
+   "ref": "Psalm 22:1; Matthew 27:46",
+   "n": 98,
+   "right": 37,
+   "pct": 37.8
+  },
+  {
+   "q": "What food did God send from heaven to feed the Israelites in the desert?",
+   "tier": "easy",
+   "answer": "Manna",
+   "ref": "Exodus 16:14-15",
+   "n": 111,
+   "right": 43,
+   "pct": 38.7
+  },
+  {
+   "q": "How many soldiers did God let Gideon keep to fight the huge Midianite army?",
+   "tier": "easy",
+   "answer": "Three hundred",
+   "ref": "Judges 7:7",
+   "n": 116,
+   "right": 45,
+   "pct": 38.8
+  },
+  {
+   "q": "What six-winged heavenly creatures did Isaiah see around God’s throne?",
+   "tier": "medium",
+   "answer": "Seraphim",
+   "ref": "Isaiah 6:2",
+   "n": 81,
+   "right": 32,
+   "pct": 39.5
+  },
+  {
+   "q": "The wife of noble character in Proverbs 31 is worth far more than what?",
+   "tier": "medium",
+   "answer": "Rubies",
+   "ref": "Proverbs 31:10",
+   "n": 63,
+   "right": 25,
+   "pct": 39.7
+  },
+  {
+   "q": "Those who hope in the LORD will soar on wings like what bird?",
+   "tier": "easy",
+   "answer": "Eagles",
+   "ref": "Isaiah 40:31",
+   "n": 130,
+   "right": 52,
+   "pct": 40.0
+  },
+  {
+   "q": "Which prophet was fed by ravens during a long drought?",
+   "tier": "easy",
+   "answer": "Elijah",
+   "ref": "1 Kings 17:4-6",
+   "n": 121,
+   "right": 49,
+   "pct": 40.5
+  },
+  {
+   "q": "How many people in Israel did God say had never bowed to Baal, when Elijah thought he was the only one left?",
+   "tier": "hard",
+   "answer": "Seven thousand",
+   "ref": "1 Kings 19:18",
+   "n": 92,
+   "right": 38,
+   "pct": 41.3
+  },
+  {
+   "q": "How many verses are in Psalm 119, the longest chapter in the whole Bible?",
+   "tier": "medium",
+   "answer": "176",
+   "ref": "Psalm 119",
+   "n": 72,
+   "right": 30,
+   "pct": 41.7
+  },
+  {
+   "q": "What mysterious Hebrew word appears 71 times in Psalms and probably signals a musical pause?",
+   "tier": "hard",
+   "answer": "Selah",
+   "ref": "e.g. Psalm 3:2",
+   "n": 101,
+   "right": 43,
+   "pct": 42.6
+  },
+  {
+   "q": "How many loaves and fish did Jesus use to feed more than 5,000 people?",
+   "tier": "easy",
+   "answer": "Five loaves and two fish",
+   "ref": "Matthew 14:17-21",
+   "n": 98,
+   "right": 42,
+   "pct": 42.9
+  },
+  {
+   "q": "What short tax collector climbed a sycamore-fig tree to see Jesus?",
+   "tier": "easy",
+   "answer": "Zacchaeus",
+   "ref": "Luke 19:2-4",
+   "n": 111,
+   "right": 48,
+   "pct": 43.2
+  },
+  {
+   "q": "What words did the mysterious hand write on the palace wall during Belshazzar’s feast?",
+   "tier": "medium",
+   "answer": "Mene, Mene, Tekel, Parsin",
+   "ref": "Daniel 5:25",
+   "n": 74,
+   "right": 32,
+   "pct": 43.2
+  },
+  {
+   "q": "How many Assyrian soldiers did the angel of the LORD strike down in one night?",
+   "tier": "hard",
+   "answer": "A hundred and eighty-five thousand",
+   "ref": "2 Kings 19:35",
+   "n": 92,
+   "right": 40,
+   "pct": 43.5
+  },
+  {
+   "q": "What swallowed Jonah when he ran away from God?",
+   "tier": "easy",
+   "answer": "A huge fish that God provided",
+   "ref": "Jonah 1:17",
+   "n": 105,
+   "right": 46,
+   "pct": 43.8
+  },
+  {
+   "q": "Which queen lost her crown for refusing to appear at King Xerxes’ banquet?",
+   "tier": "medium",
+   "answer": "Queen Vashti",
+   "ref": "Esther 1:10-12, 19",
+   "n": 65,
+   "right": 29,
+   "pct": 44.6
+  },
+  {
+   "q": "A long stretch of Daniel isn’t written in Hebrew. What language is Daniel 2:4–7:28 written in?",
+   "tier": "hard",
+   "answer": "Aramaic",
+   "ref": "Daniel 2:4",
+   "n": 97,
+   "right": 44,
+   "pct": 45.4
+  },
+  {
+   "q": "Where did Mary lay baby Jesus after he was born?",
+   "tier": "easy",
+   "answer": "In a manger",
+   "ref": "Luke 2:7",
+   "n": 128,
+   "right": 59,
+   "pct": 46.1
+  },
+  {
+   "q": "What was Joshua’s original name before Moses renamed him?",
+   "tier": "hard",
+   "answer": "Hoshea",
+   "ref": "Numbers 13:16",
+   "n": 93,
+   "right": 43,
+   "pct": 46.2
+  },
+  {
+   "q": "What did Samuel name the memorial stone after God routed the Philistines?",
+   "tier": "hard",
+   "answer": "Ebenezer: \"Thus far the LORD has helped us\"",
+   "ref": "1 Samuel 7:12",
+   "n": 86,
+   "right": 40,
+   "pct": 46.5
+  },
+  {
+   "q": "Which tiny insect does Proverbs tell lazy people to watch and learn from?",
+   "tier": "easy",
+   "answer": "The ant",
+   "ref": "Proverbs 6:6",
+   "n": 110,
+   "right": 52,
+   "pct": 47.3
+  },
+  {
+   "q": "What did the army commander Naaman have to do to be healed of leprosy?",
+   "tier": "easy",
+   "answer": "Wash seven times in the Jordan River",
+   "ref": "2 Kings 5:10, 14",
+   "n": 93,
+   "right": 44,
+   "pct": 47.3
+  },
+  {
+   "q": "What did Elisha ask Elijah for before Elijah was taken up to heaven?",
+   "tier": "medium",
+   "answer": "A double portion of Elijah’s spirit",
+   "ref": "2 Kings 2:9",
+   "n": 76,
+   "right": 36,
+   "pct": 47.4
+  },
+  {
+   "q": "When did God change Saul’s name to Paul?",
+   "tier": "hard",
+   "answer": "Trick question, he never did. Saul \"was also called Paul\" all along",
+   "ref": "Acts 13:9",
+   "n": 105,
+   "right": 50,
+   "pct": 47.6
+  },
+  {
+   "q": "What password did the men of Gilead use at the Jordan River because their enemies couldn’t pronounce it?",
+   "tier": "hard",
+   "answer": "\"Shibboleth\"",
+   "ref": "Judges 12:5-6",
+   "n": 111,
+   "right": 53,
+   "pct": 47.7
+  },
+  {
+   "q": "By which rivers did the exiles sit and weep when they remembered Zion?",
+   "tier": "medium",
+   "answer": "The rivers of Babylon",
+   "ref": "Psalm 137:1",
+   "n": 67,
+   "right": 32,
+   "pct": 47.8
+  },
+  {
+   "q": "Who was David’s best friend, the king’s own son?",
+   "tier": "easy",
+   "answer": "Jonathan",
+   "ref": "1 Samuel 18:1-3",
+   "n": 110,
+   "right": 54,
+   "pct": 49.1
+  },
+  {
+   "q": "What three gifts did the wise men bring?",
+   "tier": "easy",
+   "answer": "Gold, frankincense, and myrrh",
+   "ref": "Matthew 2:11",
+   "n": 126,
+   "right": 63,
+   "pct": 50.0
+  },
+  {
+   "q": "What did Esther become in the land of Persia?",
+   "tier": "easy",
+   "answer": "The queen",
+   "ref": "Esther 2:17",
+   "n": 104,
+   "right": 52,
+   "pct": 50.0
+  },
+  {
+   "q": "What does the name Immanuel mean?",
+   "tier": "medium",
+   "answer": "\"God with us\"",
+   "ref": "Matthew 1:23",
+   "n": 70,
+   "right": 35,
+   "pct": 50.0
+  },
+  {
+   "q": "What mysterious priest-king brought out bread and wine and blessed Abram?",
+   "tier": "hard",
+   "answer": "Melchizedek, king of Salem",
+   "ref": "Genesis 14:18",
+   "n": 93,
+   "right": 47,
+   "pct": 50.5
+  },
+  {
+   "q": "Who was the strongest man in the Bible, whose strength was connected to his long hair?",
+   "tier": "easy",
+   "answer": "Samson",
+   "ref": "Judges 16:17",
+   "n": 130,
+   "right": 67,
+   "pct": 51.5
+  },
+  {
+   "q": "In what town was Jesus born?",
+   "tier": "easy",
+   "answer": "Bethlehem",
+   "ref": "Matthew 2:1",
+   "n": 131,
+   "right": 68,
+   "pct": 51.9
+  },
+  {
+   "q": "Exactly how many fish were in the net when the risen Jesus met the disciples at the shore?",
+   "tier": "hard",
+   "answer": "153",
+   "ref": "John 21:11",
+   "n": 92,
+   "right": 49,
+   "pct": 53.3
+  },
+  {
+   "q": "Who is the oldest person recorded in the Bible, and how long did he live?",
+   "tier": "hard",
+   "answer": "Methuselah: 969 years",
+   "ref": "Genesis 5:27",
+   "n": 95,
+   "right": 51,
+   "pct": 53.7
+  },
+  {
+   "q": "What was the name of the servant whose ear Peter cut off, a detail only John records?",
+   "tier": "hard",
+   "answer": "Malchus",
+   "ref": "John 18:10",
+   "n": 95,
+   "right": 51,
+   "pct": 53.7
+  },
+  {
+   "q": "Who appeared with Jesus at the transfiguration?",
+   "tier": "hard",
+   "answer": "Moses and Elijah",
+   "ref": "Matthew 17:3",
+   "n": 87,
+   "right": 47,
+   "pct": 54.0
+  },
+  {
+   "q": "Where did Jesus tell Peter to find a coin to pay the temple tax?",
+   "tier": "hard",
+   "answer": "In the mouth of the first fish he caught",
+   "ref": "Matthew 17:27",
+   "n": 107,
+   "right": 58,
+   "pct": 54.2
+  },
+  {
+   "q": "Where were Shadrach, Meshach, and Abednego thrown for refusing to bow to the gold statue?",
+   "tier": "easy",
+   "answer": "Into a blazing furnace",
+   "ref": "Daniel 3:20-21",
+   "n": 96,
+   "right": 52,
+   "pct": 54.2
+  },
+  {
+   "q": "Whose wife turned into a pillar of salt when she looked back at Sodom?",
+   "tier": "medium",
+   "answer": "Lot’s wife",
+   "ref": "Genesis 19:26",
+   "n": 95,
+   "right": 52,
+   "pct": 54.7
+  },
+  {
+   "q": "Why is there no temple in the new Jerusalem?",
+   "tier": "hard",
+   "answer": "Because the Lord God Almighty and the Lamb are its temple",
+   "ref": "Revelation 21:22",
+   "n": 86,
+   "right": 47,
+   "pct": 54.7
+  },
+  {
+   "q": "Who was thrown into a den of lions for praying to God?",
+   "tier": "easy",
+   "answer": "Daniel",
+   "ref": "Daniel 6:16",
+   "n": 124,
+   "right": 68,
+   "pct": 54.8
+  },
+  {
+   "q": "Who fell asleep and dropped from a third-story window during Paul’s long sermon?",
+   "tier": "hard",
+   "answer": "Eutychus, and Paul raised him alive",
+   "ref": "Acts 20:9-10",
+   "n": 89,
+   "right": 49,
+   "pct": 55.1
+  },
+  {
+   "q": "What new name did God give Jacob after he wrestled with God?",
+   "tier": "medium",
+   "answer": "Israel",
+   "ref": "Genesis 32:28",
+   "n": 78,
+   "right": 43,
+   "pct": 55.1
+  },
+  {
+   "q": "How many wise men does the Bible say visited Jesus?",
+   "tier": "hard",
+   "answer": "Trick question, Matthew never gives a number",
+   "ref": "Matthew 2:1, 11",
+   "n": 78,
+   "right": 43,
+   "pct": 55.1
+  },
+  {
+   "q": "What fruit did Adam and Eve eat in the Garden of Eden?",
+   "tier": "medium",
+   "answer": "Trick question, the Bible only says \"fruit,\" never an apple",
+   "ref": "Genesis 3:6",
+   "n": 69,
+   "right": 38,
+   "pct": 55.1
+  },
+  {
+   "q": "What job did the prodigal son end up doing in the far country when his money ran out?",
+   "tier": "medium",
+   "answer": "Feeding pigs",
+   "ref": "Luke 15:15",
+   "n": 74,
+   "right": 41,
+   "pct": 55.4
+  },
+  {
+   "q": "What did Esau trade his birthright for?",
+   "tier": "medium",
+   "answer": "A meal of bread and lentil stew",
+   "ref": "Genesis 25:33-34",
+   "n": 68,
+   "right": 38,
+   "pct": 55.9
+  },
+  {
+   "q": "How many days did God take to create the world?",
+   "tier": "easy",
+   "answer": "Six days, then he rested on the seventh",
+   "ref": "Genesis 1:31–2:2",
+   "n": 113,
+   "right": 64,
+   "pct": 56.6
+  },
+  {
+   "q": "What was the first of the ten plagues on Egypt?",
+   "tier": "medium",
+   "answer": "The Nile turned to blood",
+   "ref": "Exodus 7:20",
+   "n": 81,
+   "right": 46,
+   "pct": 56.8
+  },
+  {
+   "q": "What did Jesus tell Nicodemus a person must be to see the kingdom of God?",
+   "tier": "medium",
+   "answer": "Born again",
+   "ref": "John 3:3",
+   "n": 80,
+   "right": 46,
+   "pct": 57.5
+  },
+  {
+   "q": "Finish the most famous verse in Psalms: \"The LORD is my ___.\"",
+   "tier": "easy",
+   "answer": "Shepherd",
+   "ref": "Psalm 23:1",
+   "n": 125,
+   "right": 72,
+   "pct": 57.6
+  },
+  {
+   "q": "Which king asked God for wisdom instead of money or long life?",
+   "tier": "easy",
+   "answer": "Solomon",
+   "ref": "1 Kings 3:9-12",
+   "n": 97,
+   "right": 56,
+   "pct": 57.7
+  },
+  {
+   "q": "What two-part test did Gideon ask God for using a piece of wool?",
+   "tier": "medium",
+   "answer": "A wet fleece on dry ground, then a dry fleece on wet ground",
+   "ref": "Judges 6:36-40",
+   "n": 69,
+   "right": 40,
+   "pct": 58.0
+  },
+  {
+   "q": "Who was the wicked foreign queen who married King Ahab and pushed Baal worship in Israel?",
+   "tier": "medium",
+   "answer": "Jezebel",
+   "ref": "1 Kings 16:31",
+   "n": 91,
+   "right": 53,
+   "pct": 58.2
+  },
+  {
+   "q": "What amazing thing happened in the sky during the battle at Gibeon?",
+   "tier": "medium",
+   "answer": "The sun stood still and the moon stopped until Israel won",
+   "ref": "Joshua 10:12-13",
+   "n": 77,
+   "right": 45,
+   "pct": 58.4
+  },
+  {
+   "q": "What is the Golden Rule?",
+   "tier": "medium",
+   "answer": "\"Do to others what you would have them do to you\"",
+   "ref": "Matthew 7:12",
+   "n": 65,
+   "right": 38,
+   "pct": 58.5
+  },
+  {
+   "q": "In King Nebuchadnezzar’s dream of a giant statue, what was the head made of?",
+   "tier": "medium",
+   "answer": "Gold",
+   "ref": "Daniel 2:32, 38",
+   "n": 70,
+   "right": 41,
+   "pct": 58.6
+  },
+  {
+   "q": "What sign did God put in the sky as a promise never to flood the whole earth again?",
+   "tier": "easy",
+   "answer": "A rainbow",
+   "ref": "Genesis 9:13",
+   "n": 112,
+   "right": 67,
+   "pct": 59.8
+  },
+  {
+   "q": "Was Jonah swallowed by a whale?",
+   "tier": "medium",
+   "answer": "Trick question: the Bible says \"a huge fish\" and never calls it a whale",
+   "ref": "Jonah 1:17",
+   "n": 66,
+   "right": 40,
+   "pct": 60.6
+  },
+  {
+   "q": "How many disciples did Jesus choose?",
+   "tier": "easy",
+   "answer": "Twelve",
+   "ref": "Matthew 10:1-2",
+   "n": 107,
+   "right": 65,
+   "pct": 60.7
+  },
+  {
+   "q": "Who did the angels first tell the good news of Jesus’ birth?",
+   "tier": "easy",
+   "answer": "Shepherds watching their flocks at night",
+   "ref": "Luke 2:8-11",
+   "n": 110,
+   "right": 68,
+   "pct": 61.8
+  },
+  {
+   "q": "What did the wise men follow to find young Jesus?",
+   "tier": "easy",
+   "answer": "A star",
+   "ref": "Matthew 2:2, 9",
+   "n": 127,
+   "right": 79,
+   "pct": 62.2
+  },
+  {
+   "q": "What is the very first sentence in the Bible?",
+   "tier": "easy",
+   "answer": "\"In the beginning God created the heavens and the earth\"",
+   "ref": "Genesis 1:1",
+   "n": 110,
+   "right": 69,
+   "pct": 62.7
+  },
+  {
+   "q": "Where exactly did Rahab hide the two Israelite spies?",
+   "tier": "medium",
+   "answer": "On her roof, under stalks of flax",
+   "ref": "Joshua 2:6",
+   "n": 86,
+   "right": 54,
+   "pct": 62.8
+  },
+  {
+   "q": "How many commandments did God give Moses?",
+   "tier": "easy",
+   "answer": "Ten",
+   "ref": "Exodus 20:1-17",
+   "n": 108,
+   "right": 68,
+   "pct": 63.0
+  },
+  {
+   "q": "What is famously missing from the entire book of Esther?",
+   "tier": "hard",
+   "answer": "Any mention of God’s name",
+   "ref": "Esther",
+   "n": 94,
+   "right": 60,
+   "pct": 63.8
+  },
+  {
+   "q": "What happened on the third day after Jesus died on the cross?",
+   "tier": "easy",
+   "answer": "He rose from the dead",
+   "ref": "Matthew 28:5-6",
+   "n": 113,
+   "right": 73,
+   "pct": 64.6
+  },
+  {
+   "q": "What did the poor widow put in the temple offering?",
+   "tier": "medium",
+   "answer": "Two very small copper coins, everything she had",
+   "ref": "Mark 12:42-44",
+   "n": 80,
+   "right": 53,
+   "pct": 66.2
+  },
+  {
+   "q": "What baby was hidden in a basket on the Nile River?",
+   "tier": "easy",
+   "answer": "Moses",
+   "ref": "Exodus 2:3",
+   "n": 110,
+   "right": 73,
+   "pct": 66.4
+  },
+  {
+   "q": "What sea did God part so the Israelites could walk through on dry ground?",
+   "tier": "easy",
+   "answer": "The Red Sea",
+   "ref": "Exodus 14:21-22",
+   "n": 104,
+   "right": 71,
+   "pct": 68.3
+  },
+  {
+   "q": "How did four friends get their paralyzed friend to Jesus in a packed house?",
+   "tier": "medium",
+   "answer": "They dug through the roof and lowered him down on his mat",
+   "ref": "Mark 2:4",
+   "n": 73,
+   "right": 50,
+   "pct": 68.5
+  },
+  {
+   "q": "Peter asked if he should forgive someone seven times. What did Jesus say?",
+   "tier": "medium",
+   "answer": "Not seven times, but seventy-seven times",
+   "ref": "Matthew 18:21-22",
+   "n": 77,
+   "right": 55,
+   "pct": 71.4
+  },
+  {
+   "q": "Finish Joshua’s famous words: \"As for me and my household...\"",
+   "tier": "easy",
+   "answer": "\"...we will serve the LORD\"",
+   "ref": "Joshua 24:15",
+   "n": 115,
+   "right": 84,
+   "pct": 73.0
+  },
+  {
+   "q": "Who baptized Jesus in the Jordan River?",
+   "tier": "easy",
+   "answer": "John the Baptist",
+   "ref": "Matthew 3:13",
+   "n": 124,
+   "right": 91,
+   "pct": 73.4
+  },
+  {
+   "q": "Who were Adam and Eve’s first two sons?",
+   "tier": "medium",
+   "answer": "Cain and Abel",
+   "ref": "Genesis 4:1-2",
+   "n": 73,
+   "right": 54,
+   "pct": 74.0
+  },
+  {
+   "q": "What did the priest Eli wrongly think Hannah was doing as she prayed for a son?",
+   "tier": "medium",
+   "answer": "He thought she was drunk, her lips moved but no sound came out",
+   "ref": "1 Samuel 1:13-14",
+   "n": 76,
+   "right": 57,
+   "pct": 75.0
+  },
+  {
+   "q": "What did David use to defeat the giant Goliath?",
+   "tier": "easy",
+   "answer": "A sling and a stone",
+   "ref": "1 Samuel 17:49-50",
+   "n": 116,
+   "right": 89,
+   "pct": 76.7
+  },
+  {
+   "q": "What did the Israelites put on their doorframes so the final plague would pass over their homes?",
+   "tier": "medium",
+   "answer": "The blood of a lamb",
+   "ref": "Exodus 12:7, 13",
+   "n": 89,
+   "right": 70,
+   "pct": 78.7
+  },
+  {
+   "q": "What did Jesus turn water into at a wedding, his very first miracle?",
+   "tier": "easy",
+   "answer": "Wine",
+   "ref": "John 2:9-11",
+   "n": 111,
+   "right": 88,
+   "pct": 79.3
+  },
+  {
+   "q": "When two women both claimed the same baby, what did Solomon order?",
+   "tier": "medium",
+   "answer": "\"Cut the child in two\"; the real mother begged to give the baby away instead",
+   "ref": "1 Kings 3:24-27",
+   "n": 79,
+   "right": 64,
+   "pct": 81.0
+  },
+  {
+   "q": "What was the name of the garden where Adam and Eve lived?",
+   "tier": "easy",
+   "answer": "The Garden of Eden",
+   "ref": "Genesis 2:8",
+   "n": 124,
+   "right": 101,
+   "pct": 81.5
+  },
+  {
+   "q": "Who built a giant ark to save his family and the animals?",
+   "tier": "easy",
+   "answer": "Noah",
+   "ref": "Genesis 6:13-14",
+   "n": 113,
+   "right": 93,
+   "pct": 82.3
+  },
+  {
+   "q": "Who were the first man and woman?",
+   "tier": "easy",
+   "answer": "Adam and Eve",
+   "ref": "Genesis 2:7, 3:20",
+   "n": 112,
+   "right": 95,
+   "pct": 84.8
+  },
+  {
+   "q": "Finish the most famous verse in the Bible: \"For God so loved the world that he gave his one and only ___\"",
+   "tier": "easy",
+   "answer": "Son",
+   "ref": "John 3:16",
+   "n": 118,
+   "right": 101,
+   "pct": 85.6
+  }
+ ]
+}

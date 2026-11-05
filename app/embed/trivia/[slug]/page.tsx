@@ -73,7 +73,7 @@ export default async function TriviaEmbed({ params }: Props) {
           postTitle={post.title}
           label={triviaLabel(post.slug, post.title)}
           related={getRelatedTrivia(post.slug)}
-          posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`}
+          posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=3`}
           {...getTriviaVideo(post.slug)}
         />
         <EmbedFooter slug={post.slug} />

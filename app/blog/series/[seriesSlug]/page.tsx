@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: 'Faithful Kids',
       type: 'website',
       images: [{
-        url: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${posts[0].slug}-hero.webp?v=2`,
+        url: `https://d3g07v1w0lehiv.cloudfront.net/blog-images/${posts[0].slug}-hero.webp?v=3`,
         width: 1792,
         height: 1024,
         alt: `${seriesName} - Bible Story Series for Kids`,
@@ -43,7 +43,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: 'summary_large_image',
       title,
       description,
-      images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${posts[0].slug}-hero.webp?v=2`],
+      images: [`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${posts[0].slug}-hero.webp?v=3`],
     },
     alternates: {
       canonical: `https://faithfulkids.app/blog/series/${seriesSlug}`,
@@ -121,7 +121,7 @@ export default async function SeriesPage({ params }: Props) {
             .map(post => (
             <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
               <BlogImage
-                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`}
+                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=3`}
                 alt={`${post.title} - Bible Story Illustration for Kids`}
                 width={1792}
                 height={1024}

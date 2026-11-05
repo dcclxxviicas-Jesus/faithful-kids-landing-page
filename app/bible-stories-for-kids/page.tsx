@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     siteName: 'Faithful Kids',
     type: 'website',
     images: [{
-      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=2',
+      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=3',
       width: 1792,
       height: 1024,
     }],
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: '200 Bible Stories for Kids, Retold Simply',
     description: '200 Bible stories for kids, Genesis to Revelation. Free, no sign-up.',
-    images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=2'],
+    images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=3'],
   },
 }
 
@@ -73,7 +73,7 @@ const HERO_ALT = 'A storybook valley at sunrise with scenes from the Bible acros
 /* Card-sized copies of the twenty series illustrations. The originals are
    1536px and 150-450KB each; twenty of those is 7MB for cards that render
    about 380px wide. These are 760px (2x the card) and 1MB for the set. */
-const hero = (slug: string) => `${CDN}/blog-images/sm/${slug}-hero.webp?v=2`
+const hero = (slug: string) => `${CDN}/blog-images/sm/${slug}-hero.webp?v=3`
 const clean = (t: string) => t.replace(/ for Kids.*$/i, '').replace(/:.*$/, '')
 
 /* One colour per theme card. Deliberately the same pastel family as the

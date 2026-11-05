@@ -259,7 +259,7 @@ function WeekOne({ name, isKid }: { name: string; isKid: boolean }) {
         {WEEK_ONE.slice(1).map(e => (
           <div className="qv-week-card" key={e.slug}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={`${CDN}/video-posters/sm/${e.slug}.webp?v=2`} alt={e.title} loading="lazy" width={640} height={360} />
+            <img src={`${CDN}/video-posters/sm/${e.slug}.webp?v=3`} alt={e.title} loading="lazy" width={640} height={360} />
             <span className="qv-week-day">Day {e.day}</span>
             <strong>{e.title}</strong>
             <small>2 min + quiz</small>

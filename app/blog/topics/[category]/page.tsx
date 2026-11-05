@@ -121,7 +121,7 @@ export default async function TopicHubPage({ params }: Props) {
           {posts.map(post => (
             <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
               <img
-                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=2`}
+                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=3`}
                 alt={post.title}
                 width={896}
                 height={512}

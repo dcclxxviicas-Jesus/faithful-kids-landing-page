@@ -99,7 +99,7 @@ function HolidaysV2() {
                         five of them is 1.4MB for cards that render about 360px
                         wide — the live page pays that too. These are 760px. */}
                     <img
-                      src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/sm/${h.heroSlug}-hero.webp?v=2`}
+                      src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/sm/${h.heroSlug}-hero.webp?v=3`}
                       alt={h.name}
                       width={760}
                       height={434}

@@ -11,10 +11,10 @@ import './exit-variants.css'
 
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
 const POSTERS = [
-  { src: `${CDN}/video-posters/sm/in-the-beginning-creation.webp?v=2`, alt: 'Creation' },
-  { src: `${CDN}/video-posters/sm/a-baby-in-a-basket.webp?v=2`, alt: 'A Baby in a Basket' },
-  { src: `${CDN}/video-posters/sm/noah-and-the-great-flood.webp?v=2`, alt: 'Noah and the Great Flood' },
-  { src: `${CDN}/video-posters/sm/an-angel-visits-mary.webp?v=2`, alt: 'An Angel Visits Mary' },
+  { src: `${CDN}/video-posters/sm/in-the-beginning-creation.webp?v=3`, alt: 'Creation' },
+  { src: `${CDN}/video-posters/sm/a-baby-in-a-basket.webp?v=3`, alt: 'A Baby in a Basket' },
+  { src: `${CDN}/video-posters/sm/noah-and-the-great-flood.webp?v=3`, alt: 'Noah and the Great Flood' },
+  { src: `${CDN}/video-posters/sm/an-angel-visits-mary.webp?v=3`, alt: 'An Angel Visits Mary' },
 ]
 
 const QUESTION = 'How many kids are in your family?'

@@ -30,13 +30,13 @@ export const metadata: Metadata = {
     url: 'https://faithfulkids.app',
     title: 'Bible App for Kids: 300+ Bible Stories, Ages 5-15, No Ads',
     description: 'A Bible app for kids ages 5-15. 300+ short Bible story videos, each with a quiz and reflection, Genesis to Revelation. No ads, no algorithm, no guilt.',
-    images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=2', width: 1792, height: 1024, alt: 'Faithful Kids - Bible Story Videos for Kids' }],
+    images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=3', width: 1792, height: 1024, alt: 'Faithful Kids - Bible Story Videos for Kids' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Bible App for Kids Ages 5-15 | Faithful Kids',
     description: '300+ short Bible story videos for kids, each with a quiz and reflection. Genesis to Revelation. No ads, no algorithm, no guilt.',
-    images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=2'],
+    images: ['https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=3'],
   },
   icons: {
     icon: '/icon.png',

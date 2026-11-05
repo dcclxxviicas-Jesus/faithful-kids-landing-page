@@ -59,7 +59,6 @@ const wrongPct = (q: Q) => Math.round((100 * (q.n - q.right)) / q.n)
    blog cutoff; the page never adds the two itself. */
 const TOTAL = data.corpus.answers
 const PLAYERS = data.corpus.players
-const RATE_MIN = data.corpus.minutes_per_answer
 const THOUSANDS = `${Math.floor(TOTAL / 1000).toLocaleString('en-US')},000+`
 const PLAYERS_ROUND = `${Math.floor(PLAYERS / 100) * 100}`
 const measured = Qs.filter(q => q.n >= data.min_n)
@@ -265,13 +264,16 @@ export default function BibleLiteracyResearch() {
                   <span>Data: Sep 15 to Nov 4, 2026</span>
                   <span>Refreshed quarterly, next edition Easter 2027</span>
                 </p>
+                {/* Plain counts, by Cas's call (Nov 4, 2026): a "one answer every
+                    three minutes" rate was rejected as sounding odd. The press
+                    story deliberately understates ("thousands", "25,000+"); this
+                    page shows the exact figures it points to. Do not round down. */}
                 <p className="rs-lede">
-                  Since mid-September, someone has answered a Bible question on our free trivia games
-                  roughly every {RATE_MIN < 3 ? 'three' : Math.round(RATE_MIN)} minutes, around the clock:{' '}
-                  <b>{fmt(TOTAL)}</b> graded answers from more than {fmt(Number(PLAYERS_ROUND))} players. They
-                  were not a random sample of anyone. They chose to play Bible trivia on a Christian
-                  kids&rsquo; site. Even so, the Christmas story came back half-remembered, and three
-                  questions scored worse than guessing.
+                  This fall, thousands of people played Faithful Kids&rsquo; free Bible trivia games:{' '}
+                  <b>{fmt(TOTAL)}</b> graded answers from more than {fmt(Number(PLAYERS_ROUND))} players
+                  in {data.corpus.days} days. They were not a random sample of anyone. They chose to play
+                  Bible trivia on a Christian kids&rsquo; site. Even so, the Christmas story came back
+                  half-remembered, and three questions scored worse than guessing.
                 </p>
                 <div className="rs-ctas">
                   <a className="hv-cta" href="/bible-trivia" data-testid="rs-cta-hero">
@@ -290,7 +292,7 @@ export default function BibleLiteracyResearch() {
             <div className="rs-stats" aria-label="Headline numbers">
               <div className="rs-stat"><b>{fmt(TOTAL)}</b><span>graded answers</span></div>
               <div className="rs-stat"><b>{pct(data.hub.pct)}%</b><span>average score on the main game</span></div>
-              <div className="rs-stat"><b>{fmt(PLAYERS)}</b><span>players, one answer about every {RATE_MIN < 3 ? 'three' : Math.round(RATE_MIN)} minutes</span></div>
+              <div className="rs-stat"><b>{fmt(PLAYERS)}</b><span>players over {data.corpus.days} days</span></div>
               <div className="rs-stat"><b>{data.bands.at_least_75} of {measured.length}</b><span>questions scored 75% or better</span></div>
             </div>
           </header>

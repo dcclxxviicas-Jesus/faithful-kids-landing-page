@@ -44,6 +44,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      // Research hub: published studies + the studies in the works.
+      url: `${baseUrl}/research`,
+      lastModified: new Date('2026-11-04'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
       // Original research (Bible literacy, from our own trivia data). The link
       // target of the Dec 2026 press release; refreshed quarterly.
       url: `${baseUrl}/research/bible-literacy`,

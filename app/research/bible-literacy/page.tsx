@@ -237,7 +237,7 @@ const schemaBlocks = [
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Faithful Kids', item: 'https://faithfulkids.app' },
-        { '@type': 'ListItem', position: 2, name: 'Research', item: 'https://faithfulkids.app/research/bible-literacy' },
+        { '@type': 'ListItem', position: 2, name: 'Research', item: 'https://faithfulkids.app/research' },
         { '@type': 'ListItem', position: 3, name: 'Bible Literacy Study', item: URL },
       ],
     },
@@ -257,6 +257,7 @@ export default function BibleLiteracyResearch() {
           <header className="rs-hero">
             <div className="rs-hero-inner">
               <div>
+                <p className="rs-crumb"><a href="/research">Research</a> / Bible Literacy Study</p>
                 <p className="hv-eyebrow">Original research</p>
                 <h1>Could You Pass a Children&rsquo;s Bible Quiz? Half of These Players Couldn&rsquo;t.</h1>
                 <p className="rs-updated">

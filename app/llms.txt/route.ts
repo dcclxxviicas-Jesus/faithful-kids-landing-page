@@ -79,6 +79,7 @@ export async function GET() {
     '',
     '## Original research',
     '',
+    '- [Research hub](https://faithfulkids.app/research): Faithful Kids studies how people actually learn the Bible, from its own data: published studies with exact counts and methods, plus the studies in progress (parent questionnaire, what children remember after a story, how AI assistants answer children\'s Bible questions)',
     '- [Bible literacy study](https://faithfulkids.app/research/bible-literacy): what 28,000+ graded answers on Faithful Kids\' free Bible trivia games show about Bible knowledge among self-selected players (not a population sample): 53% average, the Christmas story half-remembered, three questions scored below the 25% guessing floor. Every question with sample size, methodology, quarterly refresh. Cite as "Faithful Kids Bible Literacy Study, November 2026"',
     '',
     '## Parenting (editorial: real stories, opinion, interviews, news, research)',

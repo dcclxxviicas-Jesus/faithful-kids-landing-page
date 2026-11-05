@@ -5,6 +5,12 @@ import './bible-literacy/research.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { V2Shell } from '@/app/v2-shell'
 import literacy from '@/lib/research/bible-literacy.json'
+import parents from '@/lib/research/parents.json'
+import video from '@/lib/research/video.json'
+import children from '@/lib/research/children.json'
+import ai from '@/lib/research/ai.json'
+import search from '@/lib/research/search.json'
+import easter from '@/lib/research/easter.json'
 
 /**
  * /research: the hub for Faithful Kids' original research.
@@ -40,12 +46,17 @@ type Study = {
   alt?: string
 }
 
+const pc = (a: number, b: number) => Math.round((100 * a) / b)
+const third = easter.hub.find(q => q.q.includes('third day'))!
+const pq = parents.questions as unknown as Record<string, { n: number; answers: Record<string, number> }>
+const aiS = ai.summary as Record<string, { right: number; n: number }>
+
 const PUBLISHED: Study[] = [
   {
     slug: '/research/bible-literacy',
     tag: 'Published',
     when: 'November 2026, refreshed quarterly',
-    title: 'Could You Pass a Children’s Bible Quiz? Half of These Players Couldn’t.',
+    title: 'Could You Pass a Children\u2019s Bible Quiz? Half of These Players Couldn\u2019t.',
     blurb: `${fmt(literacy.corpus.answers)} graded answers from ${fmt(literacy.corpus.players)} players of our free Bible trivia games. A ${Math.round(literacy.hub.pct)}% average across ${lit.measured} questions, the Christmas story half-remembered (${Math.round(lit.manger.pct)}% knew Jesus was laid in a manger), and ${literacy.bands.below_25} questions that scored worse than guessing.`,
     source: 'Faithful Kids trivia games, Sep 15 to Nov 4, 2026',
     art: `${CDN}/blog-images/born-in-a-manger-for-kids-hero.webp?v=3`,
@@ -53,50 +64,70 @@ const PUBLISHED: Study[] = [
   },
 ]
 
-/* Every planned study names the data it will rest on. The sizes quoted are
-   the ones verified on Nov 4, 2026 and are deliberately rounded down. */
-const PLANNED: Study[] = [
+const MORE: Study[] = [
   {
-    tag: 'Planned',
-    when: 'January 2027',
-    title: 'What Christian parents told us about screen time, ages and worries',
-    blurb: 'More than 800 parents have answered our short onboarding questions since August: their children’s ages, daily screen time, what success would look like and their biggest screen time frustration. Reported in aggregate, with the questions shown exactly as asked.',
-    source: 'Faithful Kids parent questionnaire, Aug 2026 onward',
+    slug: '/research/ai-bible-quiz', tag: 'Published', when: 'November 2026',
+    title: 'We Gave a Children\u2019s Bible Quiz to AI',
+    blurb: `People average ${Math.round(literacy.hub.pct)}% on our quiz. Three OpenAI models scored ${Math.min(...ai.models.map(m => pc(aiS[m].right, aiS[m].n)))}% or better, then answered an 8-year-old in language several school years too hard, and all led with the wrong answer on Noah.`,
+    source: 'Tests run Nov 4, 2026, one company\u2019s models',
+    art: `${CDN}/blog-images/100-bible-trivia-questions-and-answers-hero.webp?v=3`, alt: 'Rows of small orange flags across a golden valley rising from an open book',
   },
   {
-    tag: 'Planned',
-    when: 'March 2027',
+    slug: '/research/christian-parents-screen-time', tag: 'Published', when: 'November 2026',
+    title: 'What Christian Parents Told Us About Screen Time',
+    blurb: `${fmt(pq.screen_time.n)} parents reported their children\u2019s daily screen time and ${fmt(pq.pain.n)} named their biggest frustration. Parents reporting the least screen time most often worry that it teaches nothing.`,
+    source: 'Parent questionnaire, Aug 15 to Nov 4, 2026',
+    art: `${CDN}/blog-images/christmas-family-devotions-hero.webp?v=3`, alt: 'A mother and father on a sofa reading a large Bible with their two children',
+  },
+  {
+    slug: '/research/bible-video-completion', tag: 'Published', when: 'November 2026',
+    title: 'Do People Finish a Two-Minute Bible Story?',
+    blurb: `${fmt(video.people)} people pressed play. ${pc(video.pairs.half, video.pairs.players)}% reached halfway and ${pc(video.pairs.complete, video.pairs.players)}% reached the end. Most of the drop-off comes early, and length mattered less than the story.`,
+    source: 'Free story videos, Sep 1 to Nov 4, 2026',
+    art: `${CDN}/blog-images/in-the-beginning-creation-for-kids-hero.webp?v=3`, alt: 'An illustration of the creation of the world',
+  },
+  {
+    slug: '/research/bible-search-demand', tag: 'Published', when: 'November 2026',
+    title: 'What People Actually Search When They Try to Learn the Bible',
+    blurb: `${fmt(search.keywords)} search terms mapped. People look for lessons, games and things to use, and adults ask how to read it. Almost nobody searches how to teach it.`,
+    source: 'Third-party US search estimates, Nov 2026',
+    art: `${CDN}/blog-images/christmas-sunday-school-lessons-hero.webp?v=3`, alt: 'Children in a classroom arranging a nativity scene on a table',
+  },
+  {
+    slug: '/research/after-a-bible-story', tag: 'Published', when: 'Early look, November 2026',
+    title: 'What Children Do After a Two-Minute Bible Story',
+    blurb: `${fmt(children.kids)} children, ${fmt(children.lessons)} lessons. Nearly all went on to the quiz and the reflection. A small sample and not yet a test of memory, and the page says why.`,
+    source: 'Faithful Kids app, aggregate and anonymous',
+    art: `${CDN}/blog-images/birthday-bible-verses-for-kids-hero.webp?v=3`, alt: 'A group of children smiling around an open Bible',
+  },
+  {
+    slug: '/research/easter-first-look', tag: 'Published', when: 'First look, November 2026',
+    title: `${Math.round(100 - third.pct)}% of Bible Trivia Players Missed the Easter Question`,
+    blurb: `Three Easter questions from our trivia game, ahead of the full March edition. ${Math.round(third.pct)}% knew what happened on the third day (${third.n} answers).`,
+    source: 'Faithful Kids trivia game, Sep 15 to Nov 4, 2026',
+    art: `${CDN}/blog-images/the-empty-tomb-for-kids-hero.webp?v=3`, alt: 'Jesus standing in light at the mouth of the tomb, with people kneeling on the steps',
+  },
+]
+
+/* A planned study names the data it will rest on and never carries a result. */
+const PLANNED: Study[] = [
+  {
+    tag: 'Planned', when: 'March 2027',
     title: 'Bible Literacy Study, Easter edition',
-    blurb: 'The same study with the full corpus to date, which should pass 40,000 answers by then, plus the Holy Week and Resurrection questions in their season.',
+    blurb: 'The full literacy study with all answers to date, with more Holy Week and Resurrection questions added to the game first.',
     source: 'Faithful Kids trivia games, Sep 2026 onward',
   },
   {
-    tag: 'Planned',
-    when: 'When the sample passes 1,000 quizzes',
-    title: 'What children remember after a two-minute Bible story',
-    blurb: 'Every lesson in the app ends with a short quiz and a reflection. Which stories stick, which do not, and how children say they feel afterward. A few hundred completed quizzes so far; we publish when there are enough to say something honest.',
+    tag: 'Planned', when: 'When the sample passes 1,000 quizzes',
+    title: 'Do children remember a Bible story days later?',
+    blurb: 'A real memory test: first attempts logged separately, and the question asked again days after the lesson. Needs a small change in the app before it can start.',
     source: 'Faithful Kids app, aggregate and anonymous',
   },
   {
-    tag: 'Planned',
-    when: 'Early 2027',
-    title: 'Do people finish a two-minute Bible story online?',
-    blurb: 'Two hundred free story videos sit on our site. How many people who press play reach the end, where they stop, and whether the opening seconds predict it.',
-    source: 'Faithful Kids story pages, Aug 2026 onward',
-  },
-  {
-    tag: 'Planned',
-    when: 'Early 2027',
-    title: 'How AI assistants answer children’s Bible questions',
-    blurb: 'Parents increasingly ask a chatbot before they ask a pastor. We put the questions children actually ask to the major assistants and grade the answers against the text, with the sources they cite.',
-    source: 'Faithful Kids answer-engine harness',
-  },
-  {
-    tag: 'Planned',
-    when: 'Early 2027',
-    title: 'The questions parents search when they try to teach the Bible',
-    blurb: 'What people type into a search engine about teaching the Bible to children, how often, and in what season, from a year of search data on our own pages and the wider market.',
-    source: 'Google Search Console and third-party search data',
+    tag: 'Planned', when: 'Next edition',
+    title: 'AI and the Bible quiz, more assistants',
+    blurb: 'The same tests across other companies\u2019 assistants, not only OpenAI\u2019s models.',
+    source: 'Faithful Kids test questions',
   },
 ]
 
@@ -125,7 +156,7 @@ const schemaBlocks = [
     description: DESCRIPTION,
     url: URL,
     publisher: { '@type': 'Organization', name: 'Faithful Kids', url: 'https://faithfulkids.app' },
-    hasPart: PUBLISHED.map(s => ({ '@type': 'Article', headline: s.title, url: `https://faithfulkids.app${s.slug}` })),
+    hasPart: [...PUBLISHED, ...MORE].map(s => ({ '@type': 'Article', headline: s.title, url: `https://faithfulkids.app${s.slug}` })),
   },
   {
     '@context': 'https://schema.org',
@@ -175,7 +206,8 @@ export default function ResearchHub() {
                   the question with data we actually have: the answers people give on our free trivia
                   games, what parents tell us, what children remember after a story. Every study
                   publishes its exact counts, its sample sizes and its method, says plainly who the people
-                  in it are, and offers the raw numbers to anyone who asks.
+                  in it are, and we share the underlying figures with anyone who asks, apart from anything
+                  about an individual child.
                 </p>
                 <div className="rs-ctas">
                   <a className="rs-link" href="#published">Published studies</a>
@@ -190,10 +222,13 @@ export default function ResearchHub() {
             <div className="rs-finding-head">
               <span className="rs-num">Published</span>
               <h2>Studies you can cite today</h2>
-              <p>Each one has a last-updated date at the top, a methodology section a statistics teacher could check, and a full data table.</p>
+              <p>Each one has a last-updated date at the top and a methodology section a statistics teacher could check.</p>
             </div>
             <div className="rs-study-grid is-featured">
               {PUBLISHED.map(s => <StudyCard key={s.title} s={s} />)}
+            </div>
+            <div className="rs-study-grid" style={{ marginTop: 18 }}>
+              {MORE.map(s => <StudyCard key={s.title} s={s} />)}
             </div>
           </section>
 
@@ -229,7 +264,7 @@ export default function ResearchHub() {
               <div className="v2-card"><h3>Who the people are</h3><p>Our audiences choose us: parents, teachers, teens and children who came looking for Bible content. We say so in the first screen of every study, and we never dress a self-selected sample up as the population.</p></div>
               <div className="v2-card"><h3>Children stay anonymous</h3><p>App data is reported only in aggregate. No child, family or church is ever identifiable, and we do not collect more than a lesson needs.</p></div>
               <div className="v2-card"><h3>Refreshed, not abandoned</h3><p>Studies carry a last-updated date and are re-run on a schedule with the full window to date, so samples grow and findings can be checked against their earlier editions.</p></div>
-              <div className="v2-card"><h3>Open to anyone</h3><p>Figures may be reused with attribution (CC BY 4.0). Journalists and researchers can request question-level data by email, and corrections are published on the study page, not buried.</p></div>
+              <div className="v2-card"><h3>Open to anyone</h3><p>Figures may be reused with attribution (CC BY 4.0). Journalists and researchers can request question-level data by email (never child-level data), and corrections are published on the study page, not buried.</p></div>
             </div>
           </section>
 

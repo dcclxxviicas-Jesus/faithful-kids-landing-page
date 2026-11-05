@@ -159,3 +159,19 @@
 @media (max-width: 560px) {
   .rs .rs-study-grid { grid-template-columns: 1fr; }
 }
+
+/* ---------- shared study furniture ---------- */
+.rs .rs-take { max-width: 1120px; margin: 0 auto; padding: 0; list-style: none; display: grid; gap: 12px; }
+.rs .rs-take li { background: #fff; border-radius: 16px; padding: 16px 20px; font-weight: 600; line-height: 1.6; color: var(--hv-ink); }
+.rs .rs-take a, .rs .rs-finding-head a, .rs td a { color: var(--hv-green-dark); font-weight: 800; }
+.rs .rs-rowgrid { max-width: 1120px; margin: 0 auto; }
+.rs .rs-grade { display: inline-block; min-width: 24px; text-align: center; font-weight: 800; border-radius: 6px; padding: 1px 6px; margin-right: 4px; font-size: .84rem; }
+.rs .rs-grade.c { background: #dcfce7; color: #166534; }
+.rs .rs-grade.p { background: #fef3c7; color: #92400e; }
+.rs .rs-grade.r { background: #fee2e2; color: #991b1b; }
+/* A long bar carries its label inside, or the label runs past the track and off a phone screen. */
+.rs .rs-pct.is-in { color: #fff; padding: 0 8px 0 0; }
+.rs .rs-chart-grid > *, .rs .rs-two > * { min-width: 0; }
+@media (max-width: 560px) { .rs th { white-space: normal; } }
+.rs .rs-study-grid:not(.is-featured) .rs-study-art { flex: none; }
+.rs .rs-study-grid:not(.is-featured) .rs-study-body { flex: 1; }

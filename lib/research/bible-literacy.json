@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T02:31:10+00:00",
+ "generated": "2026-11-05T03:42:47+00:00",
  "window": {
   "from": "2026-09-15",
   "to_exclusive": "2026-11-05",
@@ -7,8 +7,8 @@
  },
  "min_n": 30,
  "corpus": {
-  "answers": 26393,
-  "players": 2574,
+  "answers": 26395,
+  "players": 2576,
   "days": 51,
   "minutes_per_answer": 2.8,
   "blog_start_utc": "2026-10-06 12:00:00"
@@ -19,38 +19,38 @@
   "right": 5117,
   "pct": 53.0,
   "answers_unlabelled": 66,
-  "questions_measured": 99
+  "questions_measured": 100
  },
  "blog": {
-  "answers": 16737,
-  "players": 1246,
-  "right": 14231,
+  "answers": 16739,
+  "players": 1248,
+  "right": 14232,
   "pct": 85.0,
   "from_utc": "2026-10-06 12:00:00"
  },
  "tiers": {
   "easy": {
    "questions": 40,
-   "answers": 4526,
-   "right": 2582,
-   "pct": 57.0
+   "answers": 4527,
+   "right": 2583,
+   "pct": 57.1
   },
   "medium": {
-   "questions": 34,
-   "answers": 2572,
-   "right": 1390,
-   "pct": 54.0
+   "questions": 35,
+   "answers": 2634,
+   "right": 1417,
+   "pct": 53.8
   },
   "hard": {
    "questions": 25,
-   "answers": 2421,
-   "right": 1091,
+   "answers": 2429,
+   "right": 1096,
    "pct": 45.1
   }
  },
  "bands": {
   "below_25": 3,
-  "below_50": 41,
+  "below_50": 42,
   "at_least_75": 9
  },
  "god_helps": {
@@ -92,9 +92,9 @@
    "tier": "hard",
    "answer": "Tertius",
    "ref": "Romans 16:22",
-   "n": 96,
+   "n": 97,
    "right": 28,
-   "pct": 29.2
+   "pct": 28.9
   },
   {
    "q": "Which two Hebrew midwives bravely disobeyed Pharaoh’s order to kill baby boys?",
@@ -187,15 +187,6 @@
    "pct": 37.5
   },
   {
-   "q": "Which psalm did Jesus quote from the cross, \"My God, my God, why have you forsaken me?\"",
-   "tier": "hard",
-   "answer": "Psalm 22",
-   "ref": "Psalm 22:1; Matthew 27:46",
-   "n": 98,
-   "right": 37,
-   "pct": 37.8
-  },
-  {
    "q": "What food did God send from heaven to feed the Israelites in the desert?",
    "tier": "easy",
    "answer": "Manna",
@@ -212,6 +203,15 @@
    "n": 116,
    "right": 45,
    "pct": 38.8
+  },
+  {
+   "q": "Which psalm did Jesus quote from the cross, \"My God, my God, why have you forsaken me?\"",
+   "tier": "hard",
+   "answer": "Psalm 22",
+   "ref": "Psalm 22:1; Matthew 27:46",
+   "n": 102,
+   "right": 40,
+   "pct": 39.2
   },
   {
    "q": "What six-winged heavenly creatures did Isaiah see around God’s throne?",
@@ -310,6 +310,15 @@
    "ref": "2 Kings 19:35",
    "n": 92,
    "right": 40,
+   "pct": 43.5
+  },
+  {
+   "q": "Finish Mordecai’s famous challenge: \"Who knows but that you have come to your royal position for such a...\"",
+   "tier": "medium",
+   "answer": "\"...time as this?\"",
+   "ref": "Esther 4:14",
+   "n": 62,
+   "right": 27,
    "pct": 43.5
   },
   {
@@ -502,15 +511,6 @@
    "pct": 53.7
   },
   {
-   "q": "What was the name of the servant whose ear Peter cut off, a detail only John records?",
-   "tier": "hard",
-   "answer": "Malchus",
-   "ref": "John 18:10",
-   "n": 95,
-   "right": 51,
-   "pct": 53.7
-  },
-  {
    "q": "Who appeared with Jesus at the transfiguration?",
    "tier": "hard",
    "answer": "Moses and Elijah",
@@ -518,6 +518,15 @@
    "n": 87,
    "right": 47,
    "pct": 54.0
+  },
+  {
+   "q": "What was the name of the servant whose ear Peter cut off, a detail only John records?",
+   "tier": "hard",
+   "answer": "Malchus",
+   "ref": "John 18:10",
+   "n": 98,
+   "right": 53,
+   "pct": 54.1
   },
   {
    "q": "Where did Jesus tell Peter to find a coin to pay the temple tax?",
@@ -902,9 +911,9 @@
    "tier": "easy",
    "answer": "Wine",
    "ref": "John 2:9-11",
-   "n": 111,
-   "right": 88,
-   "pct": 79.3
+   "n": 112,
+   "right": 89,
+   "pct": 79.5
   },
   {
    "q": "When two women both claimed the same baby, what did Solomon order?",

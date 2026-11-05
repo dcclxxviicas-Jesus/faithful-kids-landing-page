@@ -135,7 +135,9 @@ function BarRows({ title, sub, rows, guessLine = false }: {
             <div className="rs-track">
               <i className={fillClass(r.pct)} style={{ width: `${r.pct}%` }} />
               {guessLine && <i className="rs-guess" style={{ left: '25%' }} />}
-              <span className="rs-pct" style={{ left: `${r.pct}%` }}>{pct(r.pct)}%</span>
+              {r.pct >= 80
+                ? <span className="rs-pct is-in" style={{ right: `${100 - r.pct}%` }}>{pct(r.pct)}%</span>
+                : <span className="rs-pct" style={{ left: `${r.pct}%` }}>{pct(r.pct)}%</span>}
             </div>
           </div>
         ))}

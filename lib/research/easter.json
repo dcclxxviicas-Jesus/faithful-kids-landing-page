@@ -1,0 +1,39 @@
+{
+ "window": {
+  "from": "2026-09-15",
+  "to_exclusive": "2026-11-05",
+  "tz": "America/New_York"
+ },
+ "hub_average": 53.0,
+ "hub": [
+  {
+   "q": "In what three languages was the sign over the cross written?",
+   "tier": "hard",
+   "answer": "Aramaic, Latin, and Greek",
+   "ref": "John 19:20",
+   "n": 105,
+   "right": 26,
+   "pct": 24.8
+  },
+  {
+   "q": "Which psalm did Jesus quote from the cross, \"My God, my God, why have you forsaken me?\"",
+   "tier": "hard",
+   "answer": "Psalm 22",
+   "ref": "Psalm 22:1; Matthew 27:46",
+   "n": 102,
+   "right": 40,
+   "pct": 39.2
+  },
+  {
+   "q": "What happened on the third day after Jesus died on the cross?",
+   "tier": "easy",
+   "answer": "He rose from the dead",
+   "ref": "Matthew 28:5-6",
+   "n": 113,
+   "right": 73,
+   "pct": 64.6
+  }
+ ],
+ "blog": [],
+ "generated": "2026-11-05T03:43:42+00:00"
+}

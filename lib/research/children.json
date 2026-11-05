@@ -1,0 +1,76 @@
+{
+ "families": {
+  "stripe": 20,
+  "app_store": 11,
+  "other_excluded": 63,
+  "test_excluded": 7
+ },
+ "kids": 39,
+ "family_n": 31,
+ "lessons": 241,
+ "watched": 241,
+ "quizzes": 235,
+ "reflections": 226,
+ "score": {
+  "3": 181,
+  "2": 41,
+  "1": 10,
+  "0": 3
+ },
+ "by_age": {
+  "10-12": {
+   "kids": 14,
+   "lessons": 106,
+   "quizzes": 103,
+   "perfect": 70
+  },
+  "7-9": {
+   "kids": 12,
+   "lessons": 72,
+   "quizzes": 70,
+   "perfect": 60
+  },
+  "4-6": {
+   "kids": 11,
+   "lessons": 52,
+   "quizzes": 51,
+   "perfect": 43
+  }
+ },
+ "depth": {
+  "1": 11,
+  "2-4": 15,
+  "5-9": 7,
+  "10+": 6
+ },
+ "series": {
+  "genesis": {
+   "lessons": 147,
+   "quizzes": 143,
+   "perfect": 114,
+   "reflections": 136,
+   "kids": 38
+  }
+ },
+ "feelings": {
+  "Thankful": 66,
+  "Peaceful": 64,
+  "Brave": 63,
+  "Loved": 62,
+  "Amazed": 48,
+  "Strong": 41,
+  "Inspired": 37,
+  "Curious": 36,
+  "Thoughtful": 36,
+  "Hopeful": 34,
+  "Challenged": 29,
+  "Confused": 16
+ },
+ "responses": {
+  "Yes, I can relate to this": 65,
+  "I need to think about this more": 53,
+  "This touched my heart": 30,
+  "This inspired me to do something": 14
+ },
+ "generated": "2026-11-05T03:47:52+00:00"
+}

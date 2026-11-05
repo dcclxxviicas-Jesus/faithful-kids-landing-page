@@ -1,7 +1,7 @@
 ---
-title: "The Middle of the Bible Is Going Missing"
-seoTitle: "The Middle of the Bible Is Going Missing: 26,000 Answers"
-subtitle: "We graded 26,393 answers to our free Bible quiz. The stories we tell children at five survive for life. The ones we never get around to telling are quietly disappearing, and the Christmas story is closer to the second group than I expected."
+title: "Could You Pass a Children's Bible Quiz? Most Cannot."
+seoTitle: "Could You Pass a Children's Bible Quiz? Most Cannot."
+subtitle: "We graded 26,395 answers to our free Bible quiz. The stories we tell children at five survive for life. The ones we never get around to telling are quietly disappearing, and the Christmas story is closer to the second group than I expected."
 slug: "the-middle-of-the-bible-is-going-missing"
 type: "research"
 tags: ["Family Bible Study", "Christian Education", "Faith at Home"]
@@ -9,9 +9,9 @@ author: "christian-alexander"
 editor: "christian-alexander"
 status: "published"
 datePublished: "2026-11-04"
-dateModified: "2026-11-04"
+dateModified: "2026-11-05"
 excerpt: "Fifty-one days of answers to a free Bible quiz show a clear shape: Eden, the ark and David's sling are safe, while Saul, Gideon, Jericho and Antioch are fading, and under half of players could place Jesus in a manger. Here is what the data says about how we hand the Bible to children, and what to do about it this Advent."
-metaDescription: "26,393 graded Bible quiz answers: the early stories survive, the middle of the Bible fades, Christmas is half remembered. What parents can do this Advent."
+metaDescription: "26,395 graded Bible quiz answers: the early stories survive, the middle of the Bible fades, Christmas is half remembered. What parents can do this Advent."
 image: "https://d3g07v1w0lehiv.cloudfront.net/parenting/art/the-middle-of-the-bible-is-going-missing.webp"
 imageAlt: "Illustration: a child's Bible open on a table, the first pages worn soft and the middle pages still crisp, a lit Advent candle beside it"
 featured: true
@@ -32,13 +32,13 @@ disclosure: "I founded Faithful Kids, which runs the free quiz this data comes f
 
 Forty-six percent. That is the share of people who, asked where Mary laid the baby Jesus after he was born, chose the manger. Not strangers stopped in a car park. People who had gone looking for a Bible quiz, found one on a Christian children's site, and sat down to play it. One hundred and twenty-eight of them answered that question between the middle of September and the start of November, and fewer than half got it right.
 
-I want to be careful about what that number is and is not, because it would be easy to make it say more than it does. Since September 15 our free Bible trivia games have graded 26,393 answers from 2,574 players over 51 days. Those players are not a sample of anyone. They are parents, Sunday school teachers, homeschoolers, teenagers and children who chose to play, and we do not know any player's age, so none of this is a children's score or an adult's score. Every question is four-option multiple choice with the options shuffled, so guessing scores 25 percent. Each figure in this piece shows how many answers it rests on, and [the full study](/research/bible-literacy) shows every question and the method.
+I want to be careful about what that number is and is not, because it would be easy to make it say more than it does. Since September 15 our free Bible trivia games have graded 26,395 answers from 2,576 players over 51 days. Those players are not a sample of anyone. They are parents, Sunday school teachers, homeschoolers, teenagers and children who chose to play, and we do not know any player's age, so none of this is a children's score or an adult's score. Every question is four-option multiple choice with the options shuffled, so guessing scores 25 percent. Each figure in this piece shows how many answers it rests on, and [the full study](/research/bible-literacy) shows every question and the method.
 
-With all of that said: the people most motivated to know the Bible scored 53 percent on the main game across the 99 questions that were answered at least 30 times. Nine of those 99 questions were answered correctly 75 percent of the time or better. Forty-one came in below half. Three scored worse than guessing. And the shape of which stories survived and which did not is the most useful thing I have learned this year about how we teach children the Bible.
+With all of that said: the people most motivated to know the Bible scored 53 percent on the main game across the 100 questions that were answered at least 30 times. Nine of those 100 questions were answered correctly 75 percent of the time or better. Forty-two came in below half. Three scored worse than guessing. And the shape of which stories survived and which did not is the most useful thing I have learned this year about how we teach children the Bible.
 
 ## The stories we tell at five are safe for life
 
-Look at the top of the table and you see every picture Bible ever printed. Finish "For God so loved the world that he gave his one and only": 86 percent (118 answers). The first man and woman: 85 percent (112). Who built the ark: 82 percent (113). The garden's name: 82 percent (124). What Jesus turned water into: 79 percent (111). What David used against Goliath: 77 percent (116).
+Look at the top of the table and you see every picture Bible ever printed. Finish "For God so loved the world that he gave his one and only": 86 percent (118 answers). The first man and woman: 85 percent (112). Who built the ark: 82 percent (113). The garden's name: 82 percent (124). What Jesus turned water into: 79 percent (112). What David used against Goliath: 77 percent (116).
 
 These are the stories a child hears at four, colours in at five, acts out at six and hears again every year after. They are told so often, in so many rooms, that they become furniture. Nobody forgets furniture. That is good news, and it is also the whole lesson, because it tells you exactly what it takes for a Bible story to stay: it has to be told, early, and then told again.
 

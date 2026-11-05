@@ -1,0 +1,1604 @@
+{
+ "window": {
+  "from": "2026-09-01",
+  "to": "2026-11-04"
+ },
+ "people": 1265,
+ "plays": 2009,
+ "pairs": {
+  "players": 1572,
+  "half": 980,
+  "complete": 696
+ },
+ "by_length": {
+  "2:00 to 2:29": {
+   "stories": 140,
+   "players": 1149,
+   "complete": 504
+  },
+  "under 2:00": {
+   "stories": 34,
+   "players": 213,
+   "complete": 103
+  },
+  "2:30 and over": {
+   "stories": 14,
+   "players": 210,
+   "complete": 89
+  }
+ },
+ "browsers": [
+  [
+   "Chrome",
+   551,
+   902,
+   363
+  ],
+  [
+   "Microsoft Edge",
+   307,
+   459,
+   179
+  ],
+  [
+   "Mobile Safari",
+   225,
+   348,
+   162
+  ],
+  [
+   "Safari",
+   122,
+   198,
+   93
+  ],
+  [
+   "Firefox",
+   27,
+   39,
+   17
+  ],
+  [
+   "Chrome iOS",
+   21,
+   41,
+   17
+  ],
+  [
+   "Samsung Internet",
+   8,
+   12,
+   8
+  ],
+  [
+   "Opera",
+   4,
+   4,
+   1
+  ]
+ ],
+ "devices": [
+  [
+   "Desktop",
+   839,
+   357
+  ],
+  [
+   "Mobile",
+   395,
+   190
+  ],
+  [
+   "Tablet",
+   32,
+   17
+  ]
+ ],
+ "stories": [
+  {
+   "slug": "in-the-beginning-creation-for-kids",
+   "players": 91,
+   "half": 50,
+   "complete": 36,
+   "plays": 111,
+   "seconds": 139
+  },
+  {
+   "slug": "noah-and-the-great-flood-for-kids",
+   "players": 67,
+   "half": 37,
+   "complete": 28,
+   "plays": 75,
+   "seconds": 153
+  },
+  {
+   "slug": "david-and-goliath-for-kids",
+   "players": 38,
+   "half": 26,
+   "complete": 17,
+   "plays": 45,
+   "seconds": 132
+  },
+  {
+   "slug": "jacob-and-esau-for-kids",
+   "players": 32,
+   "half": 20,
+   "complete": 11,
+   "plays": 39,
+   "seconds": 176
+  },
+  {
+   "slug": "the-beatitudes-for-kids",
+   "players": 31,
+   "half": 16,
+   "complete": 10,
+   "plays": 37,
+   "seconds": 127
+  },
+  {
+   "slug": "an-angel-visits-mary-for-kids",
+   "players": 30,
+   "half": 18,
+   "complete": 6,
+   "plays": 40,
+   "seconds": 123
+  },
+  {
+   "slug": "the-sun-stands-still-for-kids",
+   "players": 26,
+   "half": 16,
+   "complete": 16,
+   "plays": 30,
+   "seconds": 88
+  },
+  {
+   "slug": "a-new-heaven-and-new-earth-for-kids",
+   "players": 25,
+   "half": 15,
+   "complete": 12,
+   "plays": 41,
+   "seconds": 138
+  },
+  {
+   "slug": "cain-and-abel-for-kids",
+   "players": 23,
+   "half": 17,
+   "complete": 15,
+   "plays": 29,
+   "seconds": 136
+  },
+  {
+   "slug": "the-ten-plagues-for-kids",
+   "players": 21,
+   "half": 17,
+   "complete": 14,
+   "plays": 23,
+   "seconds": 170
+  },
+  {
+   "slug": "the-ten-commandments-for-kids",
+   "players": 21,
+   "half": 14,
+   "complete": 10,
+   "plays": 27,
+   "seconds": 133
+  },
+  {
+   "slug": "rahab-and-the-spies-for-kids",
+   "players": 21,
+   "half": 13,
+   "complete": 11,
+   "plays": 30,
+   "seconds": 121
+  },
+  {
+   "slug": "the-burning-bush-for-kids",
+   "players": 20,
+   "half": 9,
+   "complete": 7,
+   "plays": 22,
+   "seconds": 143
+  },
+  {
+   "slug": "god-calls-abraham-for-kids",
+   "players": 20,
+   "half": 13,
+   "complete": 9,
+   "plays": 24,
+   "seconds": 139
+  },
+  {
+   "slug": "the-garden-and-the-fall-for-kids",
+   "players": 20,
+   "half": 11,
+   "complete": 9,
+   "plays": 31,
+   "seconds": 127
+  },
+  {
+   "slug": "joseph-the-dreamer-for-kids",
+   "players": 20,
+   "half": 13,
+   "complete": 10,
+   "plays": 26,
+   "seconds": 161
+  },
+  {
+   "slug": "rebuilding-the-temple-for-kids",
+   "players": 20,
+   "half": 16,
+   "complete": 14,
+   "plays": 29,
+   "seconds": 125
+  },
+  {
+   "slug": "elijah-and-the-ravens-for-kids",
+   "players": 19,
+   "half": 10,
+   "complete": 9,
+   "plays": 33,
+   "seconds": 122
+  },
+  {
+   "slug": "abraham-and-isaac-for-kids",
+   "players": 18,
+   "half": 10,
+   "complete": 8,
+   "plays": 22,
+   "seconds": 149
+  },
+  {
+   "slug": "the-journey-to-bethlehem-for-kids",
+   "players": 18,
+   "half": 9,
+   "complete": 6,
+   "plays": 21,
+   "seconds": 140
+  },
+  {
+   "slug": "the-tower-of-babel-for-kids",
+   "players": 17,
+   "half": 12,
+   "complete": 10,
+   "plays": 21,
+   "seconds": 130
+  },
+  {
+   "slug": "god-chooses-david-for-kids",
+   "players": 16,
+   "half": 10,
+   "complete": 7,
+   "plays": 21,
+   "seconds": 134
+  },
+  {
+   "slug": "daniel-in-the-lions-den-for-kids",
+   "players": 15,
+   "half": 7,
+   "complete": 4,
+   "plays": 17,
+   "seconds": 123
+  },
+  {
+   "slug": "david-and-mephibosheth-for-kids",
+   "players": 15,
+   "half": 9,
+   "complete": 8,
+   "plays": 19,
+   "seconds": 126
+  },
+  {
+   "slug": "the-walls-of-jericho-for-kids",
+   "players": 15,
+   "half": 9,
+   "complete": 9,
+   "plays": 18,
+   "seconds": 129
+  },
+  {
+   "slug": "joseph-from-prison-to-palace-for-kids",
+   "players": 15,
+   "half": 7,
+   "complete": 4,
+   "plays": 19,
+   "seconds": 217
+  },
+  {
+   "slug": "balaams-donkey-for-kids",
+   "players": 14,
+   "half": 7,
+   "complete": 3,
+   "plays": 15,
+   "seconds": 141
+  },
+  {
+   "slug": "ananias-and-sapphira-for-kids",
+   "players": 14,
+   "half": 11,
+   "complete": 11,
+   "plays": 28,
+   "seconds": 124
+  },
+  {
+   "slug": "matthew-the-tax-collector-for-kids",
+   "players": 14,
+   "half": 8,
+   "complete": 4,
+   "plays": 18,
+   "seconds": 131
+  },
+  {
+   "slug": "barnabas-the-encourager-for-kids",
+   "players": 14,
+   "half": 11,
+   "complete": 9,
+   "plays": 16,
+   "seconds": 109
+  },
+  {
+   "slug": "a-baby-in-a-basket-for-kids",
+   "players": 14,
+   "half": 8,
+   "complete": 5,
+   "plays": 15,
+   "seconds": 150
+  },
+  {
+   "slug": "israel-wants-a-king-for-kids",
+   "players": 14,
+   "half": 11,
+   "complete": 10,
+   "plays": 25,
+   "seconds": 107
+  },
+  {
+   "slug": "the-sermon-on-the-mount-for-kids",
+   "players": 13,
+   "half": 10,
+   "complete": 5,
+   "plays": 17,
+   "seconds": 123
+  },
+  {
+   "slug": "valley-of-dry-bones-for-kids",
+   "players": 13,
+   "half": 9,
+   "complete": 4,
+   "plays": 14,
+   "seconds": 134
+  },
+  {
+   "slug": "david-and-jonathan-for-kids",
+   "players": 13,
+   "half": 11,
+   "complete": 6,
+   "plays": 26,
+   "seconds": 121
+  },
+  {
+   "slug": "born-in-a-manger-for-kids",
+   "players": 13,
+   "half": 5,
+   "complete": 3,
+   "plays": 13,
+   "seconds": 133
+  },
+  {
+   "slug": "john-the-baptist-for-kids",
+   "players": 13,
+   "half": 10,
+   "complete": 8,
+   "plays": 14,
+   "seconds": 134
+  },
+  {
+   "slug": "the-widows-oil-for-kids",
+   "players": 12,
+   "half": 9,
+   "complete": 6,
+   "plays": 15,
+   "seconds": 125
+  },
+  {
+   "slug": "the-last-supper-for-kids",
+   "players": 12,
+   "half": 12,
+   "complete": 9,
+   "plays": 16,
+   "seconds": 150
+  },
+  {
+   "slug": "saul-the-first-king-for-kids",
+   "players": 12,
+   "half": 9,
+   "complete": 7,
+   "plays": 18,
+   "seconds": 121
+  },
+  {
+   "slug": "wandering-in-the-wilderness-for-kids",
+   "players": 12,
+   "half": 4,
+   "complete": 3,
+   "plays": 12,
+   "seconds": 141
+  },
+  {
+   "slug": "naboths-vineyard-for-kids",
+   "players": 12,
+   "half": 6,
+   "complete": 3,
+   "plays": 20,
+   "seconds": 152
+  },
+  {
+   "slug": "the-twelve-apostles-for-kids",
+   "players": 12,
+   "half": 9,
+   "complete": 5,
+   "plays": 16,
+   "seconds": 126
+  },
+  {
+   "slug": "solomon-asks-for-wisdom-for-kids",
+   "players": 12,
+   "half": 8,
+   "complete": 4,
+   "plays": 18,
+   "seconds": 122
+  },
+  {
+   "slug": "jonah-running-from-god-for-kids",
+   "players": 11,
+   "half": 4,
+   "complete": 3,
+   "plays": 14,
+   "seconds": 130
+  },
+  {
+   "slug": "calming-the-storm-for-kids",
+   "players": 11,
+   "half": 10,
+   "complete": 8,
+   "plays": 13,
+   "seconds": 123
+  },
+  {
+   "slug": "running-the-race-for-kids",
+   "players": 11,
+   "half": 5,
+   "complete": 4,
+   "plays": 12,
+   "seconds": 117
+  },
+  {
+   "slug": "dancing-before-the-lord-for-kids",
+   "players": 10,
+   "half": 6,
+   "complete": 3,
+   "plays": 16,
+   "seconds": 134
+  },
+  {
+   "slug": "crossing-the-red-sea-for-kids",
+   "players": 10,
+   "half": 6,
+   "complete": 5,
+   "plays": 11,
+   "seconds": 121
+  },
+  {
+   "slug": "the-armor-of-god-for-kids",
+   "players": 10,
+   "half": 5,
+   "complete": 3,
+   "plays": 13,
+   "seconds": 119
+  },
+  {
+   "slug": "ezra-reads-the-law-for-kids",
+   "players": 10,
+   "half": 9,
+   "complete": 7,
+   "plays": 17,
+   "seconds": 123
+  },
+  {
+   "slug": "stephen-the-first-martyr-for-kids",
+   "players": 10,
+   "half": 7,
+   "complete": 4,
+   "plays": 11,
+   "seconds": 123
+  },
+  {
+   "slug": "the-fiery-furnace-for-kids",
+   "players": 10,
+   "half": 3,
+   "complete": 2,
+   "plays": 10,
+   "seconds": 115
+  },
+  {
+   "slug": "hannahs-prayer-for-kids",
+   "players": 9,
+   "half": 7,
+   "complete": 4,
+   "plays": 12,
+   "seconds": 141
+  },
+  {
+   "slug": "the-cross-for-kids",
+   "players": 9,
+   "half": 7,
+   "complete": 5,
+   "plays": 11,
+   "seconds": 134
+  },
+  {
+   "slug": "the-church-is-born-for-kids",
+   "players": 9,
+   "half": 5,
+   "complete": 5,
+   "plays": 12,
+   "seconds": 119
+  },
+  {
+   "slug": "the-bronze-serpent-for-kids",
+   "players": 9,
+   "half": 5,
+   "complete": 3,
+   "plays": 10,
+   "seconds": 130
+  },
+  {
+   "slug": "feeding-the-five-thousand-for-kids",
+   "players": 9,
+   "half": 4,
+   "complete": 4,
+   "plays": 12,
+   "seconds": 114
+  },
+  {
+   "slug": "the-prodigal-son-for-kids",
+   "players": 9,
+   "half": 8,
+   "complete": 8,
+   "plays": 12,
+   "seconds": 145
+  },
+  {
+   "slug": "god-calls-samuel-for-kids",
+   "players": 9,
+   "half": 6,
+   "complete": 4,
+   "plays": 11,
+   "seconds": 138
+  },
+  {
+   "slug": "nebuchadnezzars-dream-for-kids",
+   "players": 9,
+   "half": 3,
+   "complete": 2,
+   "plays": 9,
+   "seconds": 125
+  },
+  {
+   "slug": "sauls-disobedience-for-kids",
+   "players": 9,
+   "half": 7,
+   "complete": 6,
+   "plays": 13,
+   "seconds": 134
+  },
+  {
+   "slug": "fire-from-heaven-for-kids",
+   "players": 9,
+   "half": 6,
+   "complete": 6,
+   "plays": 14,
+   "seconds": 135
+  },
+  {
+   "slug": "the-raising-of-lazarus-for-kids",
+   "players": 9,
+   "half": 8,
+   "complete": 5,
+   "plays": 12,
+   "seconds": 125
+  },
+  {
+   "slug": "paul-and-silas-in-prison-for-kids",
+   "players": 9,
+   "half": 5,
+   "complete": 4,
+   "plays": 12,
+   "seconds": 126
+  },
+  {
+   "slug": "paul-in-corinth-for-kids",
+   "players": 8,
+   "half": 5,
+   "complete": 4,
+   "plays": 8,
+   "seconds": 119
+  },
+  {
+   "slug": "faith-hope-and-love-for-kids",
+   "players": 8,
+   "half": 4,
+   "complete": 3,
+   "plays": 16,
+   "seconds": 137
+  },
+  {
+   "slug": "temptation-in-the-desert-for-kids",
+   "players": 8,
+   "half": 3,
+   "complete": 2,
+   "plays": 13,
+   "seconds": 120
+  },
+  {
+   "slug": "esther-becomes-queen-for-kids",
+   "players": 8,
+   "half": 5,
+   "complete": 4,
+   "plays": 8,
+   "seconds": 120
+  },
+  {
+   "slug": "judah-falls-to-babylon-for-kids",
+   "players": 8,
+   "half": 5,
+   "complete": 4,
+   "plays": 10,
+   "seconds": 114
+  },
+  {
+   "slug": "the-writing-on-the-wall-for-kids",
+   "players": 8,
+   "half": 6,
+   "complete": 5,
+   "plays": 10,
+   "seconds": 132
+  },
+  {
+   "slug": "the-golden-calf-for-kids",
+   "players": 7,
+   "half": 6,
+   "complete": 3,
+   "plays": 9,
+   "seconds": 120
+  },
+  {
+   "slug": "the-fall-of-king-saul-for-kids",
+   "players": 7,
+   "half": 3,
+   "complete": 1,
+   "plays": 7,
+   "seconds": 137
+  },
+  {
+   "slug": "moses-says-goodbye-for-kids",
+   "players": 7,
+   "half": 2,
+   "complete": 1,
+   "plays": 8,
+   "seconds": 151
+  },
+  {
+   "slug": "ruth-a-story-of-loyalty-for-kids",
+   "players": 7,
+   "half": 4,
+   "complete": 3,
+   "plays": 11,
+   "seconds": 136
+  },
+  {
+   "slug": "the-baptism-of-jesus-for-kids",
+   "players": 7,
+   "half": 4,
+   "complete": 4,
+   "plays": 8,
+   "seconds": 130
+  },
+  {
+   "slug": "the-unforgiving-servant-for-kids",
+   "players": 7,
+   "half": 4,
+   "complete": 3,
+   "plays": 8,
+   "seconds": 139
+  },
+  {
+   "slug": "the-still-small-voice-for-kids",
+   "players": 7,
+   "half": 4,
+   "complete": 4,
+   "plays": 8,
+   "seconds": 129
+  },
+  {
+   "slug": "peter-heals-the-lame-man-for-kids",
+   "players": 7,
+   "half": 6,
+   "complete": 5,
+   "plays": 10,
+   "seconds": 110
+  },
+  {
+   "slug": "cyrus-sets-them-free-for-kids",
+   "players": 7,
+   "half": 4,
+   "complete": 2,
+   "plays": 10,
+   "seconds": 116
+  },
+  {
+   "slug": "deborah-a-brave-leader-for-kids",
+   "players": 7,
+   "half": 4,
+   "complete": 2,
+   "plays": 9,
+   "seconds": 130
+  },
+  {
+   "slug": "building-the-temple-for-kids",
+   "players": 7,
+   "half": 6,
+   "complete": 6,
+   "plays": 11,
+   "seconds": 136
+  },
+  {
+   "slug": "the-good-samaritan-for-kids",
+   "players": 7,
+   "half": 4,
+   "complete": 4,
+   "plays": 7,
+   "seconds": 117
+  },
+  {
+   "slug": "david-becomes-king-for-kids",
+   "players": 7,
+   "half": 5,
+   "complete": 2,
+   "plays": 7,
+   "seconds": 126
+  },
+  {
+   "slug": "paul-in-rome-for-kids",
+   "players": 6,
+   "half": 5,
+   "complete": 4,
+   "plays": 9,
+   "seconds": 131
+  },
+  {
+   "slug": "ruth-and-boaz-for-kids",
+   "players": 6,
+   "half": 2,
+   "complete": 2,
+   "plays": 6,
+   "seconds": 138
+  },
+  {
+   "slug": "the-lost-sheep-for-kids",
+   "players": 6,
+   "half": 3,
+   "complete": 3,
+   "plays": 9,
+   "seconds": 113
+  },
+  {
+   "slug": "ten-lepers-healed-for-kids",
+   "players": 6,
+   "half": 4,
+   "complete": 2,
+   "plays": 11,
+   "seconds": 123
+  },
+  {
+   "slug": "the-fruit-of-the-spirit-for-kids",
+   "players": 6,
+   "half": 2,
+   "complete": 2,
+   "plays": 8,
+   "seconds": 120
+  },
+  {
+   "slug": "naaman-the-leper-for-kids",
+   "players": 6,
+   "half": 3,
+   "complete": 2,
+   "plays": 6,
+   "seconds": 126
+  },
+  {
+   "slug": "the-mustard-seed-for-kids",
+   "players": 6,
+   "half": 2,
+   "complete": 2,
+   "plays": 8,
+   "seconds": 116
+  },
+  {
+   "slug": "elijah-taken-to-heaven-for-kids",
+   "players": 6,
+   "half": 2,
+   "complete": 2,
+   "plays": 6,
+   "seconds": 127
+  },
+  {
+   "slug": "let-my-people-go-for-kids",
+   "players": 6,
+   "half": 4,
+   "complete": 3,
+   "plays": 9,
+   "seconds": 136
+  },
+  {
+   "slug": "solomon-turns-away-for-kids",
+   "players": 6,
+   "half": 4,
+   "complete": 2,
+   "plays": 6,
+   "seconds": 111
+  },
+  {
+   "slug": "gods-promise-to-david-for-kids",
+   "players": 6,
+   "half": 3,
+   "complete": 3,
+   "plays": 6,
+   "seconds": 112
+  },
+  {
+   "slug": "the-withered-hand-for-kids",
+   "players": 6,
+   "half": 3,
+   "complete": 2,
+   "plays": 7,
+   "seconds": 128
+  },
+  {
+   "slug": "saul-meets-jesus-for-kids",
+   "players": 6,
+   "half": 6,
+   "complete": 3,
+   "plays": 9,
+   "seconds": 120
+  },
+  {
+   "slug": "shipwrecked-for-kids",
+   "players": 5,
+   "half": 3,
+   "complete": 1,
+   "plays": 5,
+   "seconds": 128
+  },
+  {
+   "slug": "the-shepherds-for-kids",
+   "players": 5,
+   "half": 3,
+   "complete": 1,
+   "plays": 5,
+   "seconds": 136
+  },
+  {
+   "slug": "doubting-thomas-for-kids",
+   "players": 5,
+   "half": 5,
+   "complete": 4,
+   "plays": 8,
+   "seconds": 134
+  },
+  {
+   "slug": "manna-from-heaven-for-kids",
+   "players": 5,
+   "half": 4,
+   "complete": 2,
+   "plays": 5,
+   "seconds": 118
+  },
+  {
+   "slug": "solomons-wise-judgment-for-kids",
+   "players": 5,
+   "half": 3,
+   "complete": 0,
+   "plays": 7,
+   "seconds": 117
+  },
+  {
+   "slug": "the-twelve-spies-for-kids",
+   "players": 5,
+   "half": 5,
+   "complete": 4,
+   "plays": 5,
+   "seconds": 136
+  },
+  {
+   "slug": "the-woman-at-the-well-for-kids",
+   "players": 5,
+   "half": 3,
+   "complete": 2,
+   "plays": 6,
+   "seconds": 138
+  },
+  {
+   "slug": "more-than-conquerors-for-kids",
+   "players": 5,
+   "half": 2,
+   "complete": 1,
+   "plays": 6,
+   "seconds": 128
+  },
+  {
+   "slug": "the-lords-prayer-for-kids",
+   "players": 5,
+   "half": 3,
+   "complete": 1,
+   "plays": 5,
+   "seconds": 124
+  },
+  {
+   "slug": "healing-the-blind-man-for-kids",
+   "players": 5,
+   "half": 3,
+   "complete": 1,
+   "plays": 5,
+   "seconds": 124
+  },
+  {
+   "slug": "the-wise-men-for-kids",
+   "players": 4,
+   "half": 3,
+   "complete": 3,
+   "plays": 4,
+   "seconds": 124
+  },
+  {
+   "slug": "water-into-wine-for-kids",
+   "players": 4,
+   "half": 3,
+   "complete": 2,
+   "plays": 6,
+   "seconds": 122
+  },
+  {
+   "slug": "jairus-daughter-for-kids",
+   "players": 4,
+   "half": 2,
+   "complete": 2,
+   "plays": 5,
+   "seconds": 138
+  },
+  {
+   "slug": "faith-without-works-for-kids",
+   "players": 4,
+   "half": 3,
+   "complete": 3,
+   "plays": 6,
+   "seconds": 111
+  },
+  {
+   "slug": "davids-big-mistake-for-kids",
+   "players": 4,
+   "half": 2,
+   "complete": 1,
+   "plays": 5,
+   "seconds": 130
+  },
+  {
+   "slug": "the-church-at-antioch-for-kids",
+   "players": 4,
+   "half": 4,
+   "complete": 4,
+   "plays": 11,
+   "seconds": 116
+  },
+  {
+   "slug": "good-kings-and-bad-kings-for-kids",
+   "players": 4,
+   "half": 3,
+   "complete": 1,
+   "plays": 4,
+   "seconds": 122
+  },
+  {
+   "slug": "peter-denies-jesus-for-kids",
+   "players": 4,
+   "half": 2,
+   "complete": 1,
+   "plays": 4,
+   "seconds": 134
+  },
+  {
+   "slug": "davids-repentance-for-kids",
+   "players": 4,
+   "half": 1,
+   "complete": 1,
+   "plays": 4,
+   "seconds": 126
+  },
+  {
+   "slug": "nehemiahs-prayer-for-kids",
+   "players": 4,
+   "half": 3,
+   "complete": 3,
+   "plays": 4,
+   "seconds": 125
+  },
+  {
+   "slug": "young-jesus-in-the-temple-for-kids",
+   "players": 4,
+   "half": 3,
+   "complete": 1,
+   "plays": 4,
+   "seconds": 127
+  },
+  {
+   "slug": "peter-and-cornelius-for-kids",
+   "players": 4,
+   "half": 3,
+   "complete": 2,
+   "plays": 6,
+   "seconds": 124
+  },
+  {
+   "slug": "joseph-and-the-angel-for-kids",
+   "players": 4,
+   "half": 1,
+   "complete": 1,
+   "plays": 5,
+   "seconds": 119
+  },
+  {
+   "slug": "the-good-shepherd-for-kids",
+   "players": 4,
+   "half": 3,
+   "complete": 2,
+   "plays": 5,
+   "seconds": 117
+  },
+  {
+   "slug": "the-four-fishermen-for-kids",
+   "players": 4,
+   "half": 3,
+   "complete": 2,
+   "plays": 5,
+   "seconds": 118
+  },
+  {
+   "slug": "the-queen-of-sheba-for-kids",
+   "players": 4,
+   "half": 2,
+   "complete": 2,
+   "plays": 6,
+   "seconds": 141
+  },
+  {
+   "slug": "jonah-the-lesson-for-kids",
+   "players": 4,
+   "half": 1,
+   "complete": 0,
+   "plays": 4,
+   "seconds": 130
+  },
+  {
+   "slug": "pauls-first-journey-for-kids",
+   "players": 4,
+   "half": 2,
+   "complete": 0,
+   "plays": 4,
+   "seconds": 123
+  },
+  {
+   "slug": "esther-saves-her-people-for-kids",
+   "players": 4,
+   "half": 2,
+   "complete": 1,
+   "plays": 6,
+   "seconds": 135
+  },
+  {
+   "slug": "the-betrayal-for-kids",
+   "players": 3,
+   "half": 2,
+   "complete": 1,
+   "plays": 4,
+   "seconds": 171
+  },
+  {
+   "slug": "the-passover-for-kids",
+   "players": 3,
+   "half": 2,
+   "complete": 1,
+   "plays": 5,
+   "seconds": 156
+  },
+  {
+   "slug": "gideons-300-for-kids",
+   "players": 3,
+   "half": 2,
+   "complete": 1,
+   "plays": 3,
+   "seconds": 132
+  },
+  {
+   "slug": "gods-presence-for-kids",
+   "players": 3,
+   "half": 2,
+   "complete": 1,
+   "plays": 4,
+   "seconds": 133
+  },
+  {
+   "slug": "escape-to-egypt-for-kids",
+   "players": 3,
+   "half": 3,
+   "complete": 1,
+   "plays": 3,
+   "seconds": 131
+  },
+  {
+   "slug": "chariots-of-fire-for-kids",
+   "players": 3,
+   "half": 3,
+   "complete": 2,
+   "plays": 4,
+   "seconds": 127
+  },
+  {
+   "slug": "david-on-the-run-for-kids",
+   "players": 3,
+   "half": 2,
+   "complete": 1,
+   "plays": 3,
+   "seconds": 126
+  },
+  {
+   "slug": "philip-and-the-ethiopian-for-kids",
+   "players": 3,
+   "half": 2,
+   "complete": 2,
+   "plays": 3,
+   "seconds": 121
+  },
+  {
+   "slug": "paul-and-barnabas-split-for-kids",
+   "players": 3,
+   "half": 2,
+   "complete": 0,
+   "plays": 4,
+   "seconds": 125
+  },
+  {
+   "slug": "the-shepherds-song-for-kids",
+   "players": 3,
+   "half": 1,
+   "complete": 1,
+   "plays": 4,
+   "seconds": 118
+  },
+  {
+   "slug": "elisha-double-portion-for-kids",
+   "players": 3,
+   "half": 3,
+   "complete": 1,
+   "plays": 4,
+   "seconds": 118
+  },
+  {
+   "slug": "love-one-another-for-kids",
+   "players": 3,
+   "half": 2,
+   "complete": 2,
+   "plays": 8,
+   "seconds": 123
+  },
+  {
+   "slug": "absaloms-rebellion-for-kids",
+   "players": 3,
+   "half": 3,
+   "complete": 3,
+   "plays": 5,
+   "seconds": 136
+  },
+  {
+   "slug": "the-garden-of-gethsemane-for-kids",
+   "players": 3,
+   "half": 3,
+   "complete": 3,
+   "plays": 3,
+   "seconds": 136
+  },
+  {
+   "slug": "the-wise-and-foolish-builders-for-kids",
+   "players": 3,
+   "half": 2,
+   "complete": 0,
+   "plays": 3,
+   "seconds": 126
+  },
+  {
+   "slug": "solomons-proverbs-for-kids",
+   "players": 3,
+   "half": 1,
+   "complete": 0,
+   "plays": 4,
+   "seconds": 116
+  },
+  {
+   "slug": "walking-on-water-for-kids",
+   "players": 3,
+   "half": 3,
+   "complete": 1,
+   "plays": 3,
+   "seconds": 122
+  },
+  {
+   "slug": "the-demon-possessed-man-for-kids",
+   "players": 3,
+   "half": 1,
+   "complete": 1,
+   "plays": 3,
+   "seconds": 132
+  },
+  {
+   "slug": "love-is-for-kids",
+   "players": 2,
+   "half": 1,
+   "complete": 1,
+   "plays": 3,
+   "seconds": 128
+  },
+  {
+   "slug": "pauls-legacy-for-kids",
+   "players": 2,
+   "half": 1,
+   "complete": 0,
+   "plays": 2,
+   "seconds": 128
+  },
+  {
+   "slug": "daniels-resolve-for-kids",
+   "players": 2,
+   "half": 1,
+   "complete": 1,
+   "plays": 2,
+   "seconds": 129
+  },
+  {
+   "slug": "paul-in-athens-for-kids",
+   "players": 2,
+   "half": 1,
+   "complete": 0,
+   "plays": 2,
+   "seconds": 127
+  },
+  {
+   "slug": "the-ascension-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 1,
+   "plays": 2,
+   "seconds": 121
+  },
+  {
+   "slug": "isaiahs-promise-for-kids",
+   "players": 2,
+   "half": 0,
+   "complete": 0,
+   "plays": 2,
+   "seconds": 126
+  },
+  {
+   "slug": "a-new-creation-for-kids",
+   "players": 2,
+   "half": 1,
+   "complete": 0,
+   "plays": 2,
+   "seconds": 142
+  },
+  {
+   "slug": "the-first-disciples-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 2,
+   "plays": 2,
+   "seconds": 119
+  },
+  {
+   "slug": "peter-escapes-prison-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 1,
+   "plays": 8,
+   "seconds": 110
+  },
+  {
+   "slug": "taming-the-tongue-for-kids",
+   "players": 2,
+   "half": 1,
+   "complete": 1,
+   "plays": 2,
+   "seconds": 123
+  },
+  {
+   "slug": "samson-strongest-man-alive-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 2,
+   "plays": 3,
+   "seconds": 137
+  },
+  {
+   "slug": "the-northern-kingdom-falls-for-kids",
+   "players": 2,
+   "half": 1,
+   "complete": 0,
+   "plays": 2,
+   "seconds": 119
+  },
+  {
+   "slug": "rebuilding-the-walls-for-kids",
+   "players": 2,
+   "half": 1,
+   "complete": 1,
+   "plays": 2,
+   "seconds": 137
+  },
+  {
+   "slug": "joshua-takes-command-for-kids",
+   "players": 2,
+   "half": 1,
+   "complete": 1,
+   "plays": 2,
+   "seconds": 123
+  },
+  {
+   "slug": "choosing-to-serve-for-kids",
+   "players": 2,
+   "half": 0,
+   "complete": 0,
+   "plays": 2,
+   "seconds": 127
+  },
+  {
+   "slug": "the-vine-and-the-branches-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 1,
+   "plays": 3,
+   "seconds": 128
+  },
+  {
+   "slug": "hamans-evil-plot-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 2,
+   "plays": 3,
+   "seconds": 126
+  },
+  {
+   "slug": "the-wall-is-finished-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 2,
+   "plays": 4,
+   "seconds": 121
+  },
+  {
+   "slug": "the-great-catch-of-fish-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 1,
+   "plays": 4,
+   "seconds": 180
+  },
+  {
+   "slug": "solomon-is-chosen-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 1,
+   "plays": 2,
+   "seconds": 139
+  },
+  {
+   "slug": "cleansing-the-temple-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 2,
+   "plays": 2,
+   "seconds": 133
+  },
+  {
+   "slug": "the-road-to-emmaus-for-kids",
+   "players": 2,
+   "half": 0,
+   "complete": 0,
+   "plays": 2,
+   "seconds": 145
+  },
+  {
+   "slug": "samsons-fall-and-final-stand-for-kids",
+   "players": 2,
+   "half": 2,
+   "complete": 0,
+   "plays": 2,
+   "seconds": 142
+  },
+  {
+   "slug": "the-trial-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 142
+  },
+  {
+   "slug": "it-is-finished-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 125
+  },
+  {
+   "slug": "the-empty-tomb-for-kids",
+   "players": 1,
+   "half": 0,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 118
+  },
+  {
+   "slug": "pauls-farewell-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 113
+  },
+  {
+   "slug": "the-burial-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 143
+  },
+  {
+   "slug": "i-am-the-way-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 3,
+   "seconds": 114
+  },
+  {
+   "slug": "mary-sees-jesus-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 122
+  },
+  {
+   "slug": "rejected-in-nazareth-for-kids",
+   "players": 1,
+   "half": 0,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 124
+  },
+  {
+   "slug": "faith-hall-of-fame-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 121
+  },
+  {
+   "slug": "the-sower-and-the-seeds-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 126
+  },
+  {
+   "slug": "davids-final-words-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 127
+  },
+  {
+   "slug": "the-gospel-explained-for-kids",
+   "players": 1,
+   "half": 0,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 121
+  },
+  {
+   "slug": "david-spares-his-enemy-for-kids",
+   "players": 1,
+   "half": 0,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 131
+  },
+  {
+   "slug": "behold-i-am-coming-soon-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 193
+  },
+  {
+   "slug": "gideon-the-unlikely-hero-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 130
+  },
+  {
+   "slug": "healing-the-sick-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 114
+  },
+  {
+   "slug": "the-paralyzed-man-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 126
+  },
+  {
+   "slug": "the-great-commission-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 1,
+   "plays": 1,
+   "seconds": 125
+  },
+  {
+   "slug": "the-day-of-pentecost-for-kids",
+   "players": 1,
+   "half": 0,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 146
+  },
+  {
+   "slug": "the-room-on-the-roof-for-kids",
+   "players": 1,
+   "half": 1,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 122
+  },
+  {
+   "slug": "breakfast-on-the-beach-for-kids",
+   "players": 1,
+   "half": 0,
+   "complete": 0,
+   "plays": 1,
+   "seconds": 155
+  }
+ ],
+ "generated": "2026-11-05T03:43:29+00:00"
+}

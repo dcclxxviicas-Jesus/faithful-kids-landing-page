@@ -50,6 +50,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
+    ...['ai-bible-quiz', 'christian-parents-screen-time', 'bible-video-completion', 'bible-search-demand', 'after-a-bible-story', 'easter-first-look'].map(slug => ({
+      url: `${baseUrl}/research/${slug}`,
+      lastModified: new Date('2026-11-04'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.6,
+    })),
     {
       // Original research (Bible literacy, from our own trivia data). The link
       // target of the Dec 2026 press release; refreshed quarterly.

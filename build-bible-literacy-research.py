@@ -29,6 +29,9 @@ end_excl = sys.argv[2] if len(sys.argv) > 2 else "2026-11-05"   # first day NOT 
 key = next(l.split("=", 1)[1].strip() for l in open(ROOT / ".env.local") if l.startswith("POSTHOG_PERSONAL_API_KEY="))
 
 def hq(q):
+    # HogQL silently caps results at 100 rows unless a LIMIT is given. That cap
+    # truncated these datasets once; every query carries an explicit limit.
+    if " limit " not in q.lower(): q = q.strip() + " limit 100000"
     req = urllib.request.Request("https://us.posthog.com/api/projects/368526/query/",
         data=json.dumps({"query": {"kind": "HogQLQuery", "query": q}}).encode(),
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
@@ -64,7 +67,13 @@ for q, n, r in hub:
     b = bank.get(norm(q))
     if not b:
         unmatched.append({"q": q, "n": n}); continue
-    rows.append({"q": b["q"], "tier": b["tier"], "answer": b["answer"], "ref": b["ref"], "n": n, "right": r, "pct": round(100 * r / n, 1)})
+    # The same question can log under two spellings (punctuation edits to the
+    # bank), so merge on the bank question rather than append a second row.
+    hit = next((x for x in rows if x["q"] == b["q"]), None)
+    if hit:
+        hit["n"] += n; hit["right"] += r; hit["pct"] = round(100 * hit["right"] / hit["n"], 1)
+    else:
+        rows.append({"q": b["q"], "tier": b["tier"], "answer": b["answer"], "ref": b["ref"], "n": n, "right": r, "pct": round(100 * r / n, 1)})
 rows.sort(key=lambda x: (x["pct"], -x["n"]))
 if unmatched:
     print("UNMATCHED (fix the bank join before publishing):", unmatched, file=sys.stderr)

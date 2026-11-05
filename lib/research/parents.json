@@ -1,0 +1,173 @@
+{
+ "window": {
+  "from": "2026-08-15",
+  "to": "2026-11-04"
+ },
+ "questions": {
+  "num_kids": {
+   "n": 776,
+   "answers": {
+    "4+": 233,
+    "2": 222,
+    "1": 220,
+    "3": 101
+   }
+  },
+  "age": {
+   "n": 983,
+   "answers": {
+    "4-5": 377,
+    "6-7": 172,
+    "13+": 146,
+    "8-9": 146,
+    "10-12": 142
+   }
+  },
+  "screen_time": {
+   "n": 785,
+   "answers": {
+    "<1hr": 358,
+    "1-2hr": 237,
+    "2-4hr": 103,
+    "4hr+": 87
+   }
+  },
+  "denomination": {
+   "n": 666,
+   "answers": {
+    "evangelical": 297,
+    "nondenominational": 250,
+    "exploring": 64,
+    "catholic": 55
+   }
+  },
+  "faith": {
+   "n": 635,
+   "answers": {
+    "very": 299,
+    "central": 242,
+    "somewhat": 58,
+    "exploring": 36
+   }
+  },
+  "pain": {
+   "n": 531,
+   "answers": {
+    "no_value": 159,
+    "bad_content": 155,
+    "too_much": 148,
+    "guilt": 69
+   }
+  },
+  "goal": {
+   "n": 510,
+   "answers": {
+    "all": 198,
+    "faith": 145,
+    "knowledge": 134,
+    "replace": 33
+   }
+  },
+  "content": {
+   "n": 538,
+   "answers": {
+    "youtube": 310,
+    "other": 155,
+    "games": 129,
+    "disney": 98,
+    "netflix": 89,
+    "tiktok": 52
+   },
+   "multi": true
+  }
+ },
+ "parents_any": 1070,
+ "ad_people_excluded": 29,
+ "cross": {
+  "age_screen": {
+   "13+": {
+    "1-2hr": 26,
+    "4hr+": 39,
+    "2-4hr": 13,
+    "<1hr": 39
+   },
+   "4-5": {
+    "2-4hr": 29,
+    "<1hr": 177,
+    "1-2hr": 84,
+    "4hr+": 12
+   },
+   "10-12": {
+    "2-4hr": 26,
+    "4hr+": 16,
+    "1-2hr": 36,
+    "<1hr": 38
+   },
+   "6-7": {
+    "1-2hr": 51,
+    "4hr+": 10,
+    "2-4hr": 16,
+    "<1hr": 55
+   },
+   "8-9": {
+    "2-4hr": 18,
+    "<1hr": 47,
+    "1-2hr": 40,
+    "4hr+": 6
+   }
+  },
+  "screen_pain": {
+   "4hr+": {
+    "bad_content": 18,
+    "guilt": 9,
+    "no_value": 12,
+    "too_much": 26
+   },
+   "2-4hr": {
+    "guilt": 6,
+    "bad_content": 20,
+    "no_value": 18,
+    "too_much": 26
+   },
+   "1-2hr": {
+    "no_value": 40,
+    "too_much": 47,
+    "guilt": 25,
+    "bad_content": 56
+   },
+   "<1hr": {
+    "bad_content": 61,
+    "too_much": 46,
+    "guilt": 29,
+    "no_value": 87
+   }
+  },
+  "faith_screen": {
+   "exploring": {
+    "4hr+": 7,
+    "2-4hr": 5,
+    "<1hr": 17,
+    "1-2hr": 7
+   },
+   "central": {
+    "1-2hr": 80,
+    "4hr+": 10,
+    "<1hr": 116,
+    "2-4hr": 33
+   },
+   "very": {
+    "4hr+": 40,
+    "1-2hr": 95,
+    "<1hr": 120,
+    "2-4hr": 40
+   },
+   "somewhat": {
+    "<1hr": 20,
+    "4hr+": 14,
+    "2-4hr": 9,
+    "1-2hr": 15
+   }
+  }
+ },
+ "generated": "2026-11-05T03:43:23+00:00"
+}

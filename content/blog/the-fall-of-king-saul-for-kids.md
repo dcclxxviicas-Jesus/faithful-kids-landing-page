@@ -25,13 +25,13 @@ The Fall of King Saul is a Bible story from 1 Samuel in the Old Testament. This 
 
 ## What Is the Story of The Fall of King Saul for Kids?
 
-THE RISE OF KINGS — Episode 9: The Fall of King Saul Based on 1 Samuel 28, 31 | Narrated by Jesus
+THE RISE OF KINGS, Episode 9: The Fall of King Saul Based on 1 Samuel 28, 31 | Narrated by Jesus
 
-Hey. This episode is different. This one is heavy. Today we're going to watch a king fall — and it's one of the saddest stories in the entire Bible.
+Hey. This episode is different. This one is heavy. Today we're going to watch a king fall, and it's one of the saddest stories in the entire Bible.
 
-Saul is in trouble. The Philistine army is gathering for a massive attack, and for the first time in a long time, Saul is terrified. He needs to hear from God. He tries praying — silence. He tries dreams — nothing. He asks the prophets — no answer. God has stopped speaking to Saul. And honestly? Saul stopped listening to God a long time ago.
+Saul is in trouble. The Philistine army is gathering for a massive attack, and for the first time in a long time, Saul is terrified. He needs to hear from God. He tries praying, silence. He tries dreams, nothing. He asks the prophets, no answer. God has stopped speaking to Saul. And honestly? Saul stopped listening to God a long time ago.
 
-So in his desperation, Saul does the WORST possible thing. He goes to a medium — a woman at Endor who claimed she could talk to the dead. This was something God had strictly FORBIDDEN. Saul himself had banned these practices from Israel! But now he's so desperate he disguises himself and goes at night, begging her to call up the spirit of the prophet Samuel.
+So in his desperation, Saul does the WORST possible thing. He goes to a medium, a woman at Endor who claimed she could talk to the dead. This was something God had strictly FORBIDDEN. Saul himself had banned these practices from Israel! But now he's so desperate he disguises himself and goes at night, begging her to call up the spirit of the prophet Samuel.
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
@@ -45,11 +45,11 @@ The story of The Fall of King Saul teaches children important lessons about cour
 
 ## Key Bible Verse
 
-> *"For all have sinned and fall short of the glory of God."* — Romans 3:23
+> *"For all have sinned and fall short of the glory of God."* (Romans 3:23)
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
-For Israel's first king from start to finish — the donkeys, the cracks, the jealousy — see [Who Was King Saul in the Bible?](/blog/who-was-king-saul-for-kids)
+For Israel's first king from start to finish, the donkeys, the cracks, the jealousy, see [Who Was King Saul in the Bible?](/blog/who-was-king-saul-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Fall of King Saul about for kids?
 
-The Fall of King Saul is a story from 1 Samuel. THE RISE OF KINGS — Episode 9: The Fall of King Saul Based on 1 Samuel 28, 31 | Narrated by Jesus
+The Fall of King Saul is a story from 1 Samuel. THE RISE OF KINGS, Episode 9: The Fall of King Saul Based on 1 Samuel 28, 31 | Narrated by Jesus
 
 ### What age is the story of The Fall of King Saul appropriate for?
 

@@ -25,13 +25,13 @@ Cyrus Sets Them Free is a Bible story from Isaiah 44:28–45:1 in the Old Testam
 
 ## What Is the Story of Cyrus Sets Them Free for Kids?
 
-TITLE: Cyrus Sets Them Free SERIES: The Return Home — Episode 1 SCRIPTURE: Ezra 1 (Isaiah 44:28–45:1)
+TITLE: Cyrus Sets Them Free SERIES: The Return Home; Episode 1 SCRIPTURE: Ezra 1 (Isaiah 44:28–45:1)
 
-Hey — have you ever been away from home for so long that you almost forgot what it looked like? Maybe a long trip, summer camp, or staying at a relative's house way longer than planned?
+Hey, have you ever been away from home for so long that you almost forgot what it looked like? Maybe a long trip, summer camp, or staying at a relative's house way longer than planned?
 
 Now imagine seventy YEARS away from home. Not seventy days. Seventy YEARS. That's how long My people were stuck in Babylon. A whole generation was born and grew old never having set foot in Jerusalem. They sang songs about a city most of them had never even seen. They wept by the rivers of Babylon and whispered, "Will we EVER go back?"
 
-And the answer was yes — because I had a plan, and it involved somebody nobody expected.
+And the answer was yes, because I had a plan, and it involved somebody nobody expected.
 
 This story comes from Isaiah 44:28–45:1 and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Cyrus Sets Them Free teaches children important lessons about rebui
 
 ## Key Bible Verse
 
-> *"I will go before you and make the rough places smooth."* — Isaiah 45:2
+> *"I will go before you and make the rough places smooth."* (Isaiah 45:2)
 
 A related freebie: our [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb), drawn as clean line art for crayons and markers.
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Cyrus Sets Them Free about for kids?
 
-Cyrus Sets Them Free is a story from Isaiah 44:28–45:1. TITLE: Cyrus Sets Them Free SERIES: The Return Home — Episode 1 SCRIPTURE: Ezra 1 (Isaiah 44:28–45:1)
+Cyrus Sets Them Free is a story from Isaiah 44:28–45:1. TITLE: Cyrus Sets Them Free SERIES: The Return Home; Episode 1 SCRIPTURE: Ezra 1 (Isaiah 44:28–45:1)
 
 ### What age is the story of Cyrus Sets Them Free appropriate for?
 

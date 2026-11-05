@@ -37,7 +37,7 @@ Before the "how," let us settle the "why," because on the nights when you are ex
 The best time for family Bible time is the time that actually happens. For most families, that is one of three windows:
 
 - **After dinner, before screen time.** The table is already cleared, everyone is together, and you can use Bible time as the gateway to evening activities.
-- **Bedtime.** Replace one bedtime story with a Bible story. This is especially effective for families with younger children -- these [Bible stories for bedtime](/blog/bible-stories-for-bedtime) are made for winding down.
+- **Bedtime.** Replace one bedtime story with a Bible story. This is especially effective for families with younger children; these [Bible stories for bedtime](/blog/bible-stories-for-bedtime) are made for winding down.
 - **Morning before school.** Harder to pull off, but powerful for families with early risers. Even five minutes over breakfast works.
 
 Pick one. Put it on the calendar. Treat it like a non-negotiable appointment. The biggest enemy of family Bible time is not opposition. It is distraction.
@@ -58,13 +58,13 @@ That is it. Ten minutes. You can always add time later as the habit solidifies. 
 Do not start in Romans. Do not start with theology. Start with stories. Children are wired for narrative. They learn through characters, conflict, and resolution. The Bible is the greatest story ever told, and your job is to let them experience it as a story first. The theology will follow naturally. Our roundup of [best-loved Bible stories for kids](/blog/best-bible-stories-for-kids) gives you a ready-made menu.
 
 Good starting points:
-- **Creation** (Genesis 1-2) — God made everything, including them
-- **Noah** (Genesis 6-9) — God keeps His promises
-- **David and Goliath** (1 Samuel 17) — God gives courage
-- **Jonah** (Jonah 1-3) — You cannot hide from God
-- **The birth of Jesus** (Luke 2) — God's biggest gift
-- **Jesus feeds 5,000** (John 6:1-14) — God does big things with small offerings
-- **The Good Samaritan** (Luke 10:25-37) — Love your neighbor
+- **Creation** (Genesis 1-2), God made everything, including them
+- **Noah** (Genesis 6-9), God keeps His promises
+- **David and Goliath** (1 Samuel 17), God gives courage
+- **Jonah** (Jonah 1-3), You cannot hide from God
+- **The birth of Jesus** (Luke 2), God's biggest gift
+- **Jesus feeds 5,000** (John 6:1-14), God does big things with small offerings
+- **The Good Samaritan** (Luke 10:25-37), Love your neighbor
 
 ### Step 4: Ask Questions, Do Not Lecture
 
@@ -226,9 +226,9 @@ If you want to take family Bible time to the next level without adding preparati
 
 ---
 
-When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults); the warm-up round catches almost everyone on the stories they think they know.
 
-Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids); simple retellings of the whole Bible, free, Genesis to Revelation.
 
 ## Frequently Asked Questions
 

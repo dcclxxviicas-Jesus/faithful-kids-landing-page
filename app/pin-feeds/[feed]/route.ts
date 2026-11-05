@@ -70,9 +70,9 @@ export async function GET(_req: NextRequest, { params }: { params: Promise<{ fee
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<title>${esc(def.title)} — Faithful Kids</title>
+<title>${esc(def.title)} | Faithful Kids</title>
 <link>${SITE}/blog</link>
-<description>${esc(def.title)} from FaithfulKids.app — Bible learning for kids ages 7-15.</description>
+<description>${esc(def.title)} from FaithfulKids.app, Bible learning for kids ages 7-15.</description>
 ${items
   .map(
     ({ post, pubDate }) => `<item>
@@ -85,7 +85,7 @@ ${items
         // Pinterest indexes ~500 chars and rewards related-keyword breadth;
         // posts carry curated keywords in frontmatter — surface them naturally
         post.keywords?.length ? post.keywords.slice(0, 4).join(' · ') : '',
-        'From FaithfulKids.app — Bible learning kids love.',
+        'From FaithfulKids.app, Bible learning kids love.',
       ]
         .filter(Boolean)
         .join(' | ')

@@ -10,9 +10,9 @@ dateModified: "2026-08-18"
 
 # Yippee TV vs Faithful Kids: Entertainment vs Education
 
-The short version: Yippee TV is Christian entertainment — a streaming library of wholesome shows — while Faithful Kids is Bible education, a structured Genesis-to-Revelation video course where every lesson ends in a quiz. If your child needs more wholesome screen time, choose Yippee; if you want them actually learning the Bible, choose Faithful Kids. Many families use both. The full comparison, including pricing, is below.
+The short version: Yippee TV is Christian entertainment, a streaming library of wholesome shows, while Faithful Kids is Bible education, a structured Genesis-to-Revelation video course where every lesson ends in a quiz. If your child needs more wholesome screen time, choose Yippee; if you want them actually learning the Bible, choose Faithful Kids. Many families use both. The full comparison, including pricing, is below.
 
-Understanding the difference will save you from choosing the wrong tool for the job. It's like comparing a Christian radio station to a Bible study group -- both are valuable, but they do different things.
+Understanding the difference will save you from choosing the wrong tool for the job. It's like comparing a Christian radio station to a Bible study group; both are valuable, but they do different things.
 
 ## What Is Yippee TV?
 
@@ -44,15 +44,15 @@ Faithful Kids is a Bible education platform that teaches children the stories, l
 
 **Cost:** $12.99/month, or $97/year (about $8.08/month)
 
-**Best for:** Families who want their kids to *learn* the Bible -- not just watch stories about it -- with comprehension checks and spiritual reflection built in.
+**Best for:** Families who want their kids to *learn* the Bible, not just watch stories about it, with comprehension checks and spiritual reflection built in.
 
 ## The Core Difference: Watching vs. Learning
 
 Here's the simplest way to think about it:
 
-**Yippee TV is Christian entertainment.** Your kids watch fun, values-based shows. They absorb messages about kindness, faith, and God's love through stories and characters. It's passive consumption -- enjoyable and wholesome, but there's no mechanism to ensure your child understood the lesson.
+**Yippee TV is Christian entertainment.** Your kids watch fun, values-based shows. They absorb messages about kindness, faith, and God's love through stories and characters. It's passive consumption; enjoyable and wholesome, but there's no mechanism to ensure your child understood the lesson.
 
-**Faithful Kids is Bible education.** Your kids watch a lesson, then answer quiz questions to check comprehension, then reflect on how the passage applies to their life. It's active learning -- the kind that builds Biblical literacy and spiritual depth.
+**Faithful Kids is Bible education.** Your kids watch a lesson, then answer quiz questions to check comprehension, then reflect on how the passage applies to their life. It's active learning; the kind that builds Biblical literacy and spiritual depth.
 
 Both are valuable. They're just different tools.
 
@@ -87,7 +87,7 @@ Yippee TV is the right choice when:
 - **Your kids are young (2-6).** Preschoolers aren't ready for quizzes and reflection. They need bright colors, fun characters, and simple stories. VeggieTales and similar shows are perfect for this age.
 - **You need background entertainment.** Sometimes you just need your kids occupied with something safe while you make dinner. Yippee is great for that.
 - **Your family already has a Bible education routine.** If your kids attend Sunday school, Awana, or a church youth group, they may already be getting structured Bible education. Yippee adds wholesome entertainment on top.
-- **Budget is tight.** At $7.99/month ($49/year), Yippee is one of the most affordable options -- well below Faithful Kids' $12.99/month, and less than half the price on annual plans. If every dollar counts, Yippee keeps Scripture-adjacent content in your home.
+- **Budget is tight.** At $7.99/month ($49/year), Yippee is one of the most affordable options; well below Faithful Kids' $12.99/month, and less than half the price on annual plans. If every dollar counts, Yippee keeps Scripture-adjacent content in your home.
 - **You want TV-style content.** Yippee has full series with recurring characters, story arcs, and production values that feel like "real TV." Kids who love watching shows will feel right at home.
 
 ## When to Choose Faithful Kids
@@ -97,13 +97,13 @@ Faithful Kids is the right choice when:
 - **Your kids are 7-15.** This age group is ready for real learning. They can handle quizzes, process reflection questions, and build genuine Biblical knowledge.
 - **You want measurable learning.** Faithful Kids tracks exactly which stories your child has learned, how they scored on quizzes, and what level they've reached. You can see progress, not just assume it.
 - **Your child isn't getting Bible education elsewhere.** If your family doesn't attend church regularly, or your church doesn't have a kids program, Faithful Kids fills that gap with a complete curriculum.
-- **You want to replace recreational screen time with educational screen time.** Instead of fighting over the iPad, redirect that energy. "You can have 20 minutes of screen time -- on Faithful Kids." (Our guide to [healthy screen time for Christian kids](/blog/healthy-screen-time-for-christian-kids) has more on this approach.)
+- **You want to replace recreational screen time with educational screen time.** Instead of fighting over the iPad, redirect that energy. "You can have 20 minutes of screen time, on Faithful Kids." (Our guide to [healthy screen time for Christian kids](/blog/healthy-screen-time-for-christian-kids) has more on this approach.)
 - **Your child is competitive or goal-oriented.** The Duolingo-style gamification (XP, levels, streaks, achievements) motivates kids who thrive on progress and accomplishment.
 - **You have multiple kids at different levels.** Each child gets their own profile with independent progress. Your 8-year-old can be learning about Moses while your 12-year-old studies the Apostle Paul.
 
 ## Can You Use Both?
 
-Absolutely -- and many families do. Here's a framework that works well:
+Absolutely, and many families do. Here's a framework that works well:
 
 **Use Faithful Kids as the "learning time."** Set aside 15-20 minutes a day (or 3-4 times a week) for your child to complete a Faithful Kids lesson. This is their Bible education.
 
@@ -117,16 +117,16 @@ As Deuteronomy 6:6-7 instructs: *"These commandments that I give you today are t
 
 A few other platforms parents often compare:
 
-- **RightNow Media Kids** -- Large library, but mostly church-produced content of varying quality. Free through many churches.
-- **Bible App for Kids (YouVersion)** -- Excellent for ages 2-6, but only 41 stories with no quizzes or progress tracking. Completely free. (See our full [Bible App for Kids vs Faithful Kids](/blog/bible-app-for-kids-vs-faithful-kids) comparison.)
-- **Superbook** -- High-quality 3D animated series. Free episodes available, premium content requires purchase. (We compare it in depth in [Superbook vs Faithful Kids](/blog/superbook-vs-faithful-kids).)
-- **Minno (formerly JellyTelly)** -- Christian streaming similar to Yippee, $10.99/month or $69.99/year. Features VeggieTales, Owlegories, and original shows. (Full breakdown in [Minno vs Faithful Kids](/blog/minno-vs-faithful-kids).)
+- **RightNow Media Kids**, Large library, but mostly church-produced content of varying quality. Free through many churches.
+- **Bible App for Kids (YouVersion)**, Excellent for ages 2-6, but only 41 stories with no quizzes or progress tracking. Completely free. (See our full [Bible App for Kids vs Faithful Kids](/blog/bible-app-for-kids-vs-faithful-kids) comparison.)
+- **Superbook**, High-quality 3D animated series. Free episodes available, premium content requires purchase. (We compare it in depth in [Superbook vs Faithful Kids](/blog/superbook-vs-faithful-kids).)
+- **Minno (formerly JellyTelly)**, Christian streaming similar to Yippee, $10.99/month or $69.99/year. Features VeggieTales, Owlegories, and original shows. (Full breakdown in [Minno vs Faithful Kids](/blog/minno-vs-faithful-kids).)
 
 None of these combine video lessons with interactive quizzes and reflections the way Faithful Kids does. They're all valuable, but they all fall on the "entertainment" side of the spectrum.
 
 ## The Bottom Line
 
-Yippee TV and Faithful Kids aren't competitors -- they're complements.
+Yippee TV and Faithful Kids aren't competitors, they're complements.
 
 If you could only choose one, ask yourself: **Does my child need more wholesome entertainment, or more Bible education?**
 
@@ -156,10 +156,10 @@ Prices change; the always-current numbers for web and iOS are on our [pricing pa
 No, but it is the closest thing to a VeggieTales channel: Yippee TV is the exclusive streaming home of The VeggieTales Show and carries the classic VeggieTales episodes alongside many other Christian shows and movies. VeggieTales itself was created by Phil Vischer; Yippee is a separate streaming company that carries the shows. Think of it as a platform that includes VeggieTales plus much more.
 
 ### How much does a Yippee TV subscription cost?
-A Yippee subscription costs $7.99 per month or $49 per year (about $4.08 per month billed annually), with a 7-day free trial. That makes it one of the most affordable Christian streaming options for kids -- just under Faithful Kids' $12.99 per month, though the two serve different purposes (entertainment vs. Bible education).
+A Yippee subscription costs $7.99 per month or $49 per year (about $4.08 per month billed annually), with a 7-day free trial. That makes it one of the most affordable Christian streaming options for kids, just under Faithful Kids' $12.99 per month, though the two serve different purposes (entertainment vs. Bible education).
 
 ### Can Faithful Kids replace Sunday school?
-Faithful Kids provides structured Bible education with lessons, quizzes, and reflections -- similar to what a good Sunday school program offers. While it can supplement or fill in when your family can't attend church, the community aspect of Sunday school (friendships, group discussion, mentorship from teachers) is something no app can fully replace.
+Faithful Kids provides structured Bible education with lessons, quizzes, and reflections, similar to what a good Sunday school program offers. While it can supplement or fill in when your family can't attend church, the community aspect of Sunday school (friendships, group discussion, mentorship from teachers) is something no app can fully replace.
 
 ### Which platform has more content?
 Yippee TV has more total content (500+ episodes of various shows), while Faithful Kids has 300+ structured lessons. The difference is that every Faithful Kids lesson is a complete learning unit (video + quiz + reflection), while Yippee episodes are standalone entertainment.

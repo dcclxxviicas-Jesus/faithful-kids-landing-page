@@ -23,13 +23,13 @@ Do Not Worry is a Bible story from Romans/Corinthians/Ephesians in the New Testa
 
 ## What Is the Story of Do Not Worry for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 9 "Do Not Worry" Based on Matthew 6:25-34, Philippians 4:6-7 Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 9 "Do Not Worry" Based on Matthew 6:25-34, Philippians 4:6-7 Jesus Narrates
 
-I want to talk to you about something almost every person deals with — worry. That tight feeling in your chest. The thoughts racing through your mind at night. "What if I fail? What if they don't like me? What if something bad happens?"
+I want to talk to you about something almost every person deals with, worry. That tight feeling in your chest. The thoughts racing through your mind at night. "What if I fail? What if they don't like me? What if something bad happens?"
 
 I've watched worry steal more peace from my children than almost anything else. That's why I spoke about it directly when I was teaching on a hillside in Galilee.
 
-I said, "Do not worry about your life — what you will eat or drink or wear. Is not life more than food, and the body more than clothes?"
+I said, "Do not worry about your life, what you will eat or drink or wear. Is not life more than food, and the body more than clothes?"
 
 This story comes from Romans/Corinthians/Ephesians and is part of the New Testament.
 
@@ -43,9 +43,9 @@ The story of Do Not Worry teaches children important lessons about love, faith, 
 
 ## Key Bible Verse
 
-> *"Do not be anxious about anything, but in everything, by prayer and petition, present your requests to God."* — Philippians 4:6
+> *"Do not be anxious about anything, but in everything, by prayer and petition, present your requests to God."* (Philippians 4:6)
 
-We drew a printable [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus point to as an example of God's care and provision?
 
-Jesus pointed to the birds — who don't plant or harvest yet God feeds them — and the wildflowers, which are dressed more beautifully than King Solomon, to show that God takes care of His creation and will take care of you even more.
+Jesus pointed to the birds, who don't plant or harvest yet God feeds them, and the wildflowers, which are dressed more beautifully than King Solomon, to show that God takes care of His creation and will take care of you even more.
 
 ### What does Jesus say worrying can add to your life?
 
-Jesus asked, "Who of you by worrying can add a single hour to your life?" The answer is no one. Worry doesn't fix anything or add anything — it only steals your peace.
+Jesus asked, "Who of you by worrying can add a single hour to your life?" The answer is no one. Worry doesn't fix anything or add anything, it only steals your peace.
 
 ### According to Philippians 4:6-7, what happens when you bring your worries to God in prayer?
 
-Paul promised that when we bring our worries to God through prayer with thanksgiving, God gives us a peace so deep it goes beyond what we can even understand — and that peace guards our hearts and minds like a shield.
+Paul promised that when we bring our worries to God through prayer with thanksgiving, God gives us a peace so deep it goes beyond what we can even understand, and that peace guards our hearts and minds like a shield.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Do Not Worry about for kids?
 
-Do Not Worry is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 9 "Do Not Worry" Based on Matthew 6:25-34, Philippians 4:6-7 Jesus Narrates
+Do Not Worry is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES: EPISODE 9 "Do Not Worry" Based on Matthew 6:25-34, Philippians 4:6-7 Jesus Narrates
 
 ### What age is the story of Do Not Worry appropriate for?
 

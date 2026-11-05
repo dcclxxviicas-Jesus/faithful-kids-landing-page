@@ -23,13 +23,13 @@ Choosing to Serve is a Bible story from Joshua 23-24 in the Old Testament. This 
 
 ## What Is the Story of Choosing to Serve for Kids?
 
-Well, friend — here we are. The final episode. And honestly? This might be the most important one of all.
+Well, friend, here we are. The final episode. And honestly? This might be the most important one of all.
 
-Joshua is old now. His hair is gray, his body is tired, and he knows his time is almost up. But before he goes, he gathers the entire nation — every man, woman, and child — for one final, unforgettable speech.
+Joshua is old now. His hair is gray, his body is tired, and he knows his time is almost up. But before he goes, he gathers the entire nation, every man, woman, and child, for one final, unforgettable speech.
 
 And what does he do? He takes them on a journey through their own history. Can you imagine being there?
 
-"Remember Abraham? God called him out of a land full of false gods and said, 'I'm going to make a great nation from you.' Remember how your ancestors went down to Egypt and became slaves for four HUNDRED years? Remember how God sent Moses? Remember the plagues? Remember Passover night — the blood on the doorposts — when death passed over your homes? Remember the Red Sea splitting in two and you walking through on dry ground?"
+"Remember Abraham? God called him out of a land full of false gods and said, 'I'm going to make a great nation from you.' Remember how your ancestors went down to Egypt and became slaves for four HUNDRED years? Remember how God sent Moses? Remember the plagues? Remember Passover night, the blood on the doorposts, when death passed over your homes? Remember the Red Sea splitting in two and you walking through on dry ground?"
 
 This story comes from Joshua 23-24 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of Choosing to Serve teaches children important lessons about courage,
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 There is a free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) on our site too, printable on one sheet with no sign-up.
 
@@ -61,11 +61,11 @@ Before his big challenge, Joshua reminded the people of their entire history wit
 
 ### What is the famous line Joshua told the people of Israel?
 
-This is one of the most quoted verses in the entire Bible! Joshua made it clear that faith requires a personal choice. He couldn't make the decision for the people — each person had to decide for themselves. And Joshua led by example, declaring that no matter what anyone else chose, HE and his family would serve God.
+This is one of the most quoted verses in the entire Bible! Joshua made it clear that faith requires a personal choice. He couldn't make the decision for the people, each person had to decide for themselves. And Joshua led by example, declaring that no matter what anyone else chose, HE and his family would serve God.
 
 ### What is the key lesson about faith from this episode?
 
-Joshua's challenge was about "this day" — today! Faith isn't a one-and-done decision you make once and forget about. It's a daily, ongoing choice. Every morning when you wake up, you have the opportunity to choose who you'll listen to, who you'll trust, and who you'll follow. That's what makes faith real and alive — it's chosen again and again.
+Joshua's challenge was about "this day", today! Faith isn't a one-and-done decision you make once and forget about. It's a daily, ongoing choice. Every morning when you wake up, you have the opportunity to choose who you'll listen to, who you'll trust, and who you'll follow. That's what makes faith real and alive, it's chosen again and again.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Choosing to Serve about for kids?
 
-Choosing to Serve is a story from Joshua 23-24. Well, friend — here we are. The final episode. And honestly? This might be the most important one of all.
+Choosing to Serve is a story from Joshua 23-24. Well, friend, here we are. The final episode. And honestly? This might be the most important one of all.
 
 ### What age is the story of Choosing to Serve appropriate for?
 

@@ -25,11 +25,11 @@ Deborah a Brave Leader is a Bible story from Judges 4-5 in the Old Testament. Th
 
 Hey, welcome back! Today I've got a story that is going to blow your mind, because it's got not one but TWO incredible women at the center of it. In a time when most leaders were men, God handpicked a woman to lead an entire nation. Let's talk about Deborah.
 
-So Israel has done it again — fallen into the cycle. They turned away from God, and this time a brutal Canaanite king named Jabin is crushing them. His military commander, Sisera, has nine hundred iron chariots. Nine hundred! These are basically the tanks of the ancient world. Israel has been suffering under this guy for twenty years.
+So Israel has done it again, fallen into the cycle. They turned away from God, and this time a brutal Canaanite king named Jabin is crushing them. His military commander, Sisera, has nine hundred iron chariots. Nine hundred! These are basically the tanks of the ancient world. Israel has been suffering under this guy for twenty years.
 
 But God has a plan, and her name is Deborah.
 
-Deborah is a prophet AND a judge — she's hearing directly from God AND leading the nation. People come from all over to sit under the palm tree where she holds court, seeking her wisdom. She is fierce, she is faithful, and she is fearless.
+Deborah is a prophet AND a judge, she's hearing directly from God AND leading the nation. People come from all over to sit under the palm tree where she holds court, seeking her wisdom. She is fierce, she is faithful, and she is fearless.
 
 This story comes from Judges 4-5 and is part of the Old Testament.
 
@@ -43,15 +43,15 @@ The story of Deborah a Brave Leader teaches children important lessons about bra
 
 ## Key Bible Verse
 
-> *"The Lord, the God of Israel, commands you."* — Judges 4:6
+> *"The Lord, the God of Israel, commands you."* (Judges 4:6)
 
-We drew a printable [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
-For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land, printable, with the story behind the division.
 
-For the full picture of her life — the palm tree courtroom, the battle, and the victory song — see [Who Was Deborah in the Bible?](/blog/who-was-deborah-for-kids)
+For the full picture of her life, the palm tree courtroom, the battle, and the victory song, see [Who Was Deborah in the Bible?](/blog/who-was-deborah-for-kids)
 
-She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids), the whole list, with a story and a verse for each.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -63,7 +63,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What two roles did Deborah hold in Israel?
 
-Deborah was both a prophet — hearing directly from God — and a judge, meaning she was the leader of Israel. People came from across the nation to seek her guidance and wisdom under the palm tree where she held court.
+Deborah was both a prophet, hearing directly from God, and a judge, meaning she was the leader of Israel. People came from across the nation to seek her guidance and wisdom under the palm tree where she held court.
 
 ### What condition did Barak give before agreeing to go into battle?
 
@@ -71,7 +71,7 @@ When Deborah told Barak that God commanded him to lead the army against Sisera, 
 
 ### How was the enemy commander Sisera ultimately defeated?
 
-After fleeing the lost battle on foot, Sisera hid in Jael's tent, thinking he was safe. Jael gave him shelter and a drink, but when he fell asleep, she used a tent peg to end the threat of Sisera permanently — fulfilling Deborah's prophecy that the glory would go to a woman.
+After fleeing the lost battle on foot, Sisera hid in Jael's tent, thinking he was safe. Jael gave him shelter and a drink, but when he fell asleep, she used a tent peg to end the threat of Sisera permanently, fulfilling Deborah's prophecy that the glory would go to a woman.
 
 
 ## Discussion Questions for Families

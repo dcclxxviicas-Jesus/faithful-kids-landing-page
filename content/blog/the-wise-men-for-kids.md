@@ -23,13 +23,13 @@ The Wise Men is a Bible story from Matthew 2:1-12 in the New Testament. This ret
 
 ## What Is the Story of The Wise Men for Kids?
 
-Hey, welcome back! Last time we talked about the shepherds who came running to see me on the night I was born. But they weren't the only ones looking for me. Far, far away — in the East — something incredible was happening.
+Hey, welcome back! Last time we talked about the shepherds who came running to see me on the night I was born. But they weren't the only ones looking for me. Far, far away, in the East, something incredible was happening.
 
-A group of wise men — the Magi — were studying the night sky when a brand-new star appeared. Not just any star. This one was blazing, brilliant, and it meant something. These men had spent their whole lives studying the heavens, and they knew — this star was announcing the birth of a King.
+A group of wise men, the Magi, were studying the night sky when a brand-new star appeared. Not just any star. This one was blazing, brilliant, and it meant something. These men had spent their whole lives studying the heavens, and they knew, this star was announcing the birth of a King.
 
 So they packed up their camels, loaded their most precious treasures, and set out on a journey across deserts and mountains. They didn't have GPS. They didn't have a map. They had a star. And they followed it.
 
-When they arrived in Jerusalem, they went straight to the palace — because where else would you look for a king, right? They asked, "Where is the one who has been born King of the Jews? We saw His star in the East and have come to worship Him."
+When they arrived in Jerusalem, they went straight to the palace, because where else would you look for a king, right? They asked, "Where is the one who has been born King of the Jews? We saw His star in the East and have come to worship Him."
 
 This story comes from Matthew 2:1-12 and is part of the New Testament.
 
@@ -43,9 +43,9 @@ The story of The Wise Men teaches children important lessons about hope, faith, 
 
 ## Key Bible Verse
 
-> *"We saw his star when it rose and have come to worship him."* — Matthew 2:2
+> *"We saw his star when it rose and have come to worship him."* (Matthew 2:2)
 
-Everything we have for the season — Advent devotions, the nativity story, trivia, printables — is gathered on the [Christmas Bible hub](/holidays/christmas).
+Everything we have for the season, Advent devotions, the nativity story, trivia, printables, is gathered on the [Christmas Bible hub](/holidays/christmas).
 
 There is also a free [Christmas word search printable](/printables/bible-word-search/christmas) built on the Luke 2 vocabulary, ready to print for a class or play online.
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How did the wise men know a new King had been born?
 
-The wise men were studying the heavens when a brand-new, extraordinary star appeared — and they recognized it as a sign that the King of the Jews had been born.
+The wise men were studying the heavens when a brand-new, extraordinary star appeared, and they recognized it as a sign that the King of the Jews had been born.
 
 ### Why did King Herod ask the wise men to report back to him about the child?
 
@@ -67,7 +67,7 @@ Herod pretended he wanted to worship Jesus, but he was actually threatened by th
 
 ### What did the three gifts of the wise men represent?
 
-Each gift pointed to who Jesus truly was — gold honored Him as King, frankincense recognized Him as God, and myrrh foreshadowed His future sacrifice for the world.
+Each gift pointed to who Jesus truly was, gold honored Him as King, frankincense recognized Him as God, and myrrh foreshadowed His future sacrifice for the world.
 
 
 ## Discussion Questions for Families
@@ -107,7 +107,7 @@ If your class needs something to do with their hands, there is a [wise men color
 
 ### What is the story of The Wise Men about for kids?
 
-The Wise Men is a story from Matthew 2:1-12. Hey, welcome back! Last time we talked about the shepherds who came running to see me on the night I was born. But they weren't the only ones looking for me. Far, far away — in the East — something...
+The Wise Men is a story from Matthew 2:1-12. Hey, welcome back! Last time we talked about the shepherds who came running to see me on the night I was born. But they weren't the only ones looking for me. Far, far away, in the East, something...
 
 ### What age is the story of The Wise Men appropriate for?
 

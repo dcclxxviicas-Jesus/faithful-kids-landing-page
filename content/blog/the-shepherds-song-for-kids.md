@@ -25,7 +25,7 @@ The Shepherd's Song is a Bible story from 2 Samuel/Psalms in the Old Testament. 
 
 ## What Is the Story of The Shepherd's Song for Kids?
 
-KING DAVID'S REIGN — EPISODE 5: THE SHEPHERD'S SONG — PSALM 23 Based on Psalm 23 | Narrated by Jesus
+KING DAVID'S REIGN, EPISODE 5: THE SHEPHERD'S SONG, PSALM 23 Based on Psalm 23 | Narrated by Jesus
 
 Friends, we have been through an incredible journey with King David. Now I want to end with the most famous thing David ever wrote. Six verses that have comforted millions for three thousand years. Psalm 23.
 
@@ -45,9 +45,9 @@ The story of The Shepherd's Song teaches children important lessons about worshi
 
 ## Key Bible Verse
 
-> *"Do not be afraid. I bring you good news that will cause great joy for all people."* — Luke 2:10
+> *"Do not be afraid. I bring you good news that will cause great joy for all people."* (Luke 2:10)
 
-We drew a printable [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Good Shepherd coloring page](/printables/bible-coloring-pages/the-good-shepherd) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -67,11 +67,11 @@ After watching the video, see if your child can answer these questions:
 
 ### Why does the psalm mention "still waters" instead of rushing rivers?
 
-**Sheep are afraid of rushing water — a good shepherd finds calm streams.**
+**Sheep are afraid of rushing water; a good shepherd finds calm streams.**
 
 ### In the psalm, David says he walks THROUGH the valley of the shadow of death. What does that word "through" tell us?
 
-**The valley is not your destination — it is a passage, and God walks with you.**
+**The valley is not your destination; it is a passage, and God walks with you.**
 
 ### What were the rod and staff used for?
 
@@ -120,7 +120,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Shepherd's Song about for kids?
 
-The Shepherd's Song is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 5: THE SHEPHERD'S SONG — PSALM 23 Based on Psalm 23 | Narrated by Jesus
+The Shepherd's Song is a story from 2 Samuel/Psalms. KING DAVID'S REIGN, EPISODE 5: THE SHEPHERD'S SONG, PSALM 23 Based on Psalm 23 | Narrated by Jesus
 
 ### What age is the story of The Shepherd's Song appropriate for?
 

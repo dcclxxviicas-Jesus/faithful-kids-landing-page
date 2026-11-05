@@ -23,7 +23,7 @@ Escape to Egypt is a Bible story from Matthew 2:13-23 in the New Testament. This
 
 ## What Is the Story of Escape to Egypt for Kids?
 
-Hey — glad you're back. But I have to warn you, this episode gets intense. Because right after those wise men left, my family was in serious danger.
+Hey, glad you're back. But I have to warn you, this episode gets intense. Because right after those wise men left, my family was in serious danger.
 
 Remember King Herod? The one who pretended he wanted to worship me but really wanted to destroy me? Well, when the wise men never came back to report my location, Herod was FURIOUS. His plan had failed, and his rage was about to boil over.
 
@@ -43,7 +43,7 @@ The story of Escape to Egypt teaches children important lessons about hope, fait
 
 ## Key Bible Verse
 
-> *"Out of Egypt I called my son."* — Hosea 11:1
+> *"Out of Egypt I called my son."* (Hosea 11:1)
 
 For quiet time afterwards, print the free [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) and let them color while you talk it through.
 
@@ -57,11 +57,11 @@ After watching the video, see if your child can answer these questions:
 
 ### How did Joseph know to flee to Egypt with his family?
 
-God sent an angel to Joseph in a dream with an urgent message — take the child and His mother and flee to Egypt immediately because Herod wanted to kill Jesus.
+God sent an angel to Joseph in a dream with an urgent message, take the child and His mother and flee to Egypt immediately because Herod wanted to kill Jesus.
 
 ### Why was Herod so angry at the wise men?
 
-Herod had asked the wise men to report back with the child's exact location so he could destroy Him. When they went home a different way — warned by God in a dream — Herod was furious that his plan had been ruined.
+Herod had asked the wise men to report back with the child's exact location so he could destroy Him. When they went home a different way, warned by God in a dream, Herod was furious that his plan had been ruined.
 
 ### Where did Joseph's family settle after returning from Egypt?
 
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Escape to Egypt about for kids?
 
-Escape to Egypt is a story from Matthew 2:13-23. Hey — glad you're back. But I have to warn you, this episode gets intense. Because right after those wise men left, my family was in serious danger.
+Escape to Egypt is a story from Matthew 2:13-23. Hey, glad you're back. But I have to warn you, this episode gets intense. Because right after those wise men left, my family was in serious danger.
 
 ### What age is the story of Escape to Egypt appropriate for?
 

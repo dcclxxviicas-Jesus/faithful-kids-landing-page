@@ -25,11 +25,11 @@ The Passover is a Bible story from Exodus 12 in the Old Testament. This retellin
 
 This is the episode I've been waiting to tell you about. Because this story? It's not just about Moses or Egypt or Pharaoh. This one is about ME.
 
-After nine devastating plagues, Pharaoh still won't let the Israelites go. So God tells Moses: one final plague is coming. At midnight, the firstborn son in every Egyptian household will die -- from the firstborn of Pharaoh on his throne to the firstborn of the prisoner in the dungeon. Even the firstborn of the animals.
+After nine devastating plagues, Pharaoh still won't let the Israelites go. So God tells Moses: one final plague is coming. At midnight, the firstborn son in every Egyptian household will die, from the firstborn of Pharaoh on his throne to the firstborn of the prisoner in the dungeon. Even the firstborn of the animals.
 
 But God gives His people a way to be saved. And listen carefully to every detail, because it all matters.
 
-God tells each Israelite family: take a lamb. Not just any lamb -- it has to be perfect. No spots, no blemishes, no broken bones. A one-year-old male lamb, the best of the flock. They keep it for four days, inspect it, make sure it's absolutely flawless. Then on the fourteenth day of the month, they sacrifice it.
+God tells each Israelite family: take a lamb. Not just any lamb, it has to be perfect. No spots, no blemishes, no broken bones. A one-year-old male lamb, the best of the flock. They keep it for four days, inspect it, make sure it's absolutely flawless. Then on the fourteenth day of the month, they sacrifice it.
 
 This story comes from Exodus 12 and is part of the Old Testament.
 
@@ -43,11 +43,11 @@ The story of The Passover teaches children important lessons about freedom, cour
 
 ## Key Bible Verse
 
-> *"When I see the blood, I will pass over you."* — Exodus 12:13
+> *"When I see the blood, I will pass over you."* (Exodus 12:13)
 
 If small hands need something to do while you read, the free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) is made for exactly that.
 
-To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land — real geography, with the traditional stops labeled.
+To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land, real geography, with the traditional stops labeled.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What kind of lamb did God tell the Israelites to choose for the Passover?
 
-God specifically required a perfect male lamb without any spots or blemishes -- this detail was important because the lamb pointed ahead to Jesus, who lived a perfect, sinless life.
+God specifically required a perfect male lamb without any spots or blemishes, this detail was important because the lamb pointed ahead to Jesus, who lived a perfect, sinless life.
 
 ### What were the Israelites supposed to do with the lamb's blood?
 

@@ -23,13 +23,13 @@ The Mustard Seed is a Bible story from Matthew/Luke in the New Testament. This r
 
 ## What Is the Story of The Mustard Seed for Kids?
 
-THE TEACHINGS OF JESUS — Episode 7 "The Mustard Seed" Based on Matthew 13:31-32, Mark 4:30-32, Matthew 17:20
+THE TEACHINGS OF JESUS, Episode 7 "The Mustard Seed" Based on Matthew 13:31-32, Mark 4:30-32, Matthew 17:20
 
-Let me ask you something. What is the smallest seed you can think of? A sunflower seed? A sesame seed? Now imagine something even tinier. I am talking about a mustard seed — so small you could barely see it sitting on the tip of your finger. You might look at it and think, "That's nothing. What could THAT ever become?"
+Let me ask you something. What is the smallest seed you can think of? A sunflower seed? A sesame seed? Now imagine something even tinier. I am talking about a mustard seed, so small you could barely see it sitting on the tip of your finger. You might look at it and think, "That's nothing. What could THAT ever become?"
 
 And that is exactly why I used it to teach one of my most powerful lessons.
 
-I told the crowds: "The Kingdom of Heaven is like a mustard seed. A man takes this tiny little seed and plants it in his garden. It's the smallest of all the seeds he plants. But when it grows — oh, when it GROWS — it becomes the largest plant in the whole garden. So big that birds fly in and build their nests in its branches!"
+I told the crowds: "The Kingdom of Heaven is like a mustard seed. A man takes this tiny little seed and plants it in his garden. It's the smallest of all the seeds he plants. But when it grows, oh, when it GROWS, it becomes the largest plant in the whole garden. So big that birds fly in and build their nests in its branches!"
 
 This story comes from Matthew/Luke and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Mustard Seed teaches children important lessons about love, kin
 
 ## Key Bible Verse
 
-> *"The kingdom of heaven is like a mustard seed, which is the smallest of all seeds on earth. Yet when planted, it grows and becomes the largest of all garden plants."* — Mark 4:31-32
+> *"The kingdom of heaven is like a mustard seed, which is the smallest of all seeds on earth. Yet when planted, it grows and becomes the largest of all garden plants."* (Mark 4:31-32)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### In the parable, what happens to the tiny mustard seed when it grows?
 
-Even though the mustard seed is the smallest seed planted in the garden, it grows into the largest plant — so big that birds come and make their nests in its branches. That is how God's Kingdom works — small beginnings, massive growth.
+Even though the mustard seed is the smallest seed planted in the garden, it grows into the largest plant, so big that birds come and make their nests in its branches. That is how God's Kingdom works: small beginnings, massive growth.
 
 ### How much faith did Jesus say you need to move a mountain?
 
-Jesus said that even faith as small as a mustard seed — the tiniest amount of genuine trust in God — is enough to move mountains. It is not about the size of your faith, but about the size of the God your faith is in.
+Jesus said that even faith as small as a mustard seed, the tiniest amount of genuine trust in God, is enough to move mountains. It is not about the size of your faith, but about the size of the God your faith is in.
 
 ### What is the main lesson of the Mustard Seed parable?
 
-The whole point of this parable is that God specializes in turning small things into big things. A tiny seed of faith, a small act of kindness, a little bit of courage — in God's hands, these can grow beyond anything you could imagine.
+The whole point of this parable is that God specializes in turning small things into big things. A tiny seed of faith, a small act of kindness, a little bit of courage, in God's hands, these can grow beyond anything you could imagine.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ There is a free [Jesus and the children coloring page](/printables/bible-colorin
 
 ### What is the story of The Mustard Seed about for kids?
 
-The Mustard Seed is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 7 "The Mustard Seed" Based on Matthew 13:31-32, Mark 4:30-32, Matthew 17:20
+The Mustard Seed is a story from Matthew/Luke. THE TEACHINGS OF JESUS, Episode 7 "The Mustard Seed" Based on Matthew 13:31-32, Mark 4:30-32, Matthew 17:20
 
 ### What age is the story of The Mustard Seed appropriate for?
 

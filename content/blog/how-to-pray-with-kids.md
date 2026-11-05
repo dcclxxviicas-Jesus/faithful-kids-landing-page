@@ -16,7 +16,7 @@ This guide will walk you through everything: why praying with kids matters, how 
 
 ## Why Pray with Your Kids?
 
-Prayer is how children learn that God is not a distant concept -- He is a person who listens, cares, and responds. When kids pray regularly, several things happen:
+Prayer is how children learn that God is not a distant concept: He is a person who listens, cares, and responds. When kids pray regularly, several things happen:
 
 - **They learn to process emotions.** Prayer gives children a healthy outlet for fear, sadness, excitement, and gratitude.
 - **They develop trust in God.** Every answered prayer builds a child's confidence that God is real and active.
@@ -41,7 +41,7 @@ Kids this age can begin to pray in their own words. Encourage them to tell God a
 - Give them simple prompts: "What was the best part of your day? Tell God about it."
 
 ### Elementary (Ages 8-10)
-This is a great age to introduce the ACTS model (see below). Kids can understand categories of prayer and begin to have more meaningful conversations with God. They can also start praying for people outside their immediate circle -- friends, teachers, and people in need.
+This is a great age to introduce the ACTS model (see below). Kids can understand categories of prayer and begin to have more meaningful conversations with God. They can also start praying for people outside their immediate circle, friends, teachers, and people in need.
 
 ### Tweens (Ages 11-13)
 Pre-teens often feel self-conscious about praying out loud. That is completely normal. Give them options: journaling prayers, silent prayers, or short written prayers they can read aloud. Do not force it, but keep the invitation open. A prayer journal can be especially powerful at this age.
@@ -53,7 +53,7 @@ Teens need to own their prayer life. Your job shifts from leading prayer to mode
 
 If you have never prayed with your kids beyond "God is great, God is good," the ACTS model gives you a simple structure. Think of it as four parts of a conversation with God:
 
-### A -- Adoration (Tell God He Is Awesome)
+### A: Adoration (Tell God He Is Awesome)
 Start by praising God for who He is. Kids can say things like:
 - "God, you are so powerful. You made the whole universe."
 - "God, you are always good and you never change."
@@ -61,20 +61,20 @@ Start by praising God for who He is. Kids can say things like:
 
 This teaches children that prayer is not just a wish list. It starts with recognizing who they are talking to.
 
-### C -- Confession (Say Sorry)
-Encourage kids to be honest about mistakes. This is not about guilt or shame -- it is about the freedom of a clean conscience.
+### C: Confession (Say Sorry)
+Encourage kids to be honest about mistakes. This is not about guilt or shame; it is about the freedom of a clean conscience.
 - "God, I am sorry I was mean to my brother today."
 - "I am sorry I lied about the homework. Please forgive me."
 
 Remind them: "If we confess our sins, he is faithful and just and will forgive us our sins" (1 John 1:9). God's forgiveness is always available.
 
-### T -- Thanksgiving (Say Thank You)
+### T: Thanksgiving (Say Thank You)
 This is usually the easiest part for kids. Ask them what they are thankful for and let them tell God directly.
 - "Thank you for my family and my house and pizza."
 - "Thank you that I got to play outside today."
 - "Thank you for helping me on my math test."
 
-### S -- Supplication (Ask for Help)
+### S: Supplication (Ask for Help)
 This is where kids bring their needs and the needs of others to God. Teach them to pray for themselves, their family, their friends, and the world.
 - "Please help Daddy at work tomorrow."
 - "Please help my friend who is sad."
@@ -125,9 +125,9 @@ Each person shares the best part of their day (high) and the hardest part (low).
 
 **Step 2: Thank You, Sorry, Please (2 minutes)**
 Take turns praying three simple things:
-- **Thank you** -- for one good thing from today.
-- **Sorry** -- for one thing you wish you had done differently.
-- **Please** -- for one thing you need God's help with tomorrow.
+- **Thank you**: for one good thing from today.
+- **Sorry**: for one thing you wish you had done differently.
+- **Please**: for one thing you need God's help with tomorrow.
 
 **Step 3: Blessing (1 minute)**
 The parent prays a short blessing over the child: "God, thank you for [child's name]. Watch over them tonight. Give them peace. Help them know how much you love them. Amen." For more blessing ideas, see these [prayers to pray over your child](/blog/prayers-for-my-child).
@@ -157,7 +157,7 @@ Start tonight. Keep it simple. Keep it real. God will meet you right where you a
 
 Faithful Kids helps children build daily spiritual habits through animated Bible story videos, quizzes, and guided reflections. Each episode ends with a reflection moment that naturally leads into prayer. It is the perfect companion to your family prayer time. [Start your free trial today.](https://faithfulkids.app/quiz)
 
-There's a whole guide to [biblical names](/blog/biblical-names) too -- what they mean, how they work, and lists for [boys](/blog/biblical-boy-names) and [girls](/blog/biblical-girl-names).
+There's a whole guide to [biblical names](/blog/biblical-names) too; what they mean, how they work, and lists for [boys](/blog/biblical-boy-names) and [girls](/blog/biblical-girl-names).
 
 ## Frequently Asked Questions
 
@@ -165,7 +165,7 @@ There's a whole guide to [biblical names](/blog/biblical-names) too -- what they
 Do not force it. Instead, model prayer yourself and keep the invitation open. Say, "I am going to pray before bed. You can join me if you want." Many kids who resist at first will eventually join in when they see it is a safe, low-pressure experience.
 
 ### Is it okay for kids to pray for silly things?
-Absolutely. God cares about what your child cares about. If they want to pray for their goldfish, their soccer game, or their favorite stuffed animal, let them. The goal is to build the habit of turning to God with everything -- big and small. The depth will come with time.
+Absolutely. God cares about what your child cares about. If they want to pray for their goldfish, their soccer game, or their favorite stuffed animal, let them. The goal is to build the habit of turning to God with everything, big and small. The depth will come with time.
 
 ### How long should family prayer be?
 For young kids, two to three minutes is plenty. For older kids, five to ten minutes works well. The consistency matters far more than the length. A short prayer every night will have more impact than a long prayer once a month.

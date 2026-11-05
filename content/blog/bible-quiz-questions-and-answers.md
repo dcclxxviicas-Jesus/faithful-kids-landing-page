@@ -8,9 +8,9 @@ datePublished: "2026-08-19"
 dateModified: "2026-08-19"
 ---
 
-How well do you actually know the Bible? This 75-question quiz will tell you. The questions climb from warm-up to expert across five rounds of fifteen, and every answer sits in bold right after the question with a verse reference -- so you can grade yourself as you go, no answer key hunting required.
+How well do you actually know the Bible? This 75-question quiz will tell you. The questions climb from warm-up to expert across five rounds of fifteen, and every answer sits in bold right after the question with a verse reference, so you can grade yourself as you go, no answer key hunting required.
 
-Here's how to take it: cover the bold answers with your hand (or scroll slowly), give yourself one point per correct answer, and keep a running tally. Score bands wait at the end -- from Beginner to Bible Master. Playing with kids? The first two rounds work beautifully as a Bible quiz with answers for kids, and the last two rounds will humble most adults.
+Here's how to take it: cover the bold answers with your hand (or scroll slowly), give yourself one point per correct answer, and keep a running tally. Score bands wait at the end; from Beginner to Bible Master. Playing with kids? The first two rounds work beautifully as a Bible quiz with answers for kids, and the last two rounds will humble most adults.
 
 ## Round 1: Warm-Up (Questions 1-15)
 
@@ -28,14 +28,14 @@ Everyone should bank points here. These are quiz questions from Bible stories ne
 10. How many disciples did Jesus choose as apostles? **Twelve** (Luke 6:13)
 11. What did Jesus use to feed the 5,000? **Five loaves and two fish** (Matthew 14:17-21)
 12. Which disciple denied knowing Jesus three times? **Peter** (Luke 22:61)
-13. On which day of the week did Jesus rise from the dead? **The first day of the week -- Sunday** (Luke 24:1-6)
+13. On which day of the week did Jesus rise from the dead? **The first day of the week; Sunday** (Luke 24:1-6)
 14. What is the last book of the Bible? **Revelation** (Revelation 1:1)
-15. How many books are in the whole Bible? **Sixty-six -- 39 in the Old Testament and 27 in the New**
+15. How many books are in the whole Bible? **Sixty-six; 39 in the Old Testament and 27 in the New**
 
 ## Round 2: Old Testament (Questions 16-30)
 
 16. Whom did God tell to leave his country for a land God would show him? **Abram, later called Abraham** (Genesis 12:1)
-17. What did God ask Abraham to sacrifice as a test of faith? **His son Isaac -- God provided a ram instead** (Genesis 22:2, 13)
+17. What did God ask Abraham to sacrifice as a test of faith? **His son Isaac; God provided a ram instead** (Genesis 22:2, 13)
 18. Who dreamed of a stairway reaching from earth to heaven? **Jacob** (Genesis 28:12)
 19. Who interpreted Pharaoh's dreams of seven fat and seven skinny cows? **Joseph** (Genesis 41:14-36)
 20. What did Moses' mother place him in on the Nile River? **A papyrus basket coated with tar and pitch** (Exodus 2:3)
@@ -68,9 +68,9 @@ Everyone should bank points here. These are quiz questions from Bible stories ne
 44. What appeared over the believers' heads at Pentecost? **Tongues of fire** (Acts 2:3)
 45. Which Roman centurion became one of the first Gentile believers? **Cornelius** (Acts 10:1, 44-48)
 
-We built a [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) around this story — free, no sign-up, on screen or on paper.
+We built a [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) around this story, free, no sign-up, on screen or on paper.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
 ## Round 4: People and Places (Questions 46-60)
 
@@ -110,19 +110,19 @@ Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deal
 
 ## Your Score: Where Do You Rank?
 
-Tally your points -- one per correct answer -- and find your band:
+Tally your points, one per correct answer, and find your band:
 
-- **0-25: Beginner.** You know the headline stories, and that's a real start. Spend a week with the warm-up round and the famous stories behind it -- our retellings of [David and Goliath](/blog/david-and-goliath-for-kids) and [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids) take five minutes each.
-- **26-45: Growing.** You have the Old and New Testament outlines down. Rounds 2 and 3 are your growth edge -- reread the stories you missed and retake the quiz in a month.
+- **0-25: Beginner.** You know the headline stories, and that's a real start. Spend a week with the warm-up round and the famous stories behind it, our retellings of [David and Goliath](/blog/david-and-goliath-for-kids) and [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids) take five minutes each.
+- **26-45: Growing.** You have the Old and New Testament outlines down. Rounds 2 and 3 are your growth edge, reread the stories you missed and retake the quiz in a month.
 - **46-60: Bible Student.** Solid. You'd hold your own in any Sunday school class, and you probably corrected someone's trivia answer this year. Round 5 is what stands between you and the top.
-- **61-70: Bible Scholar.** Impressive -- you know Melchizedek from Matthias. Try our [hard Bible trivia for teens](/blog/bible-trivia-for-teens) or the expert tier of our [100 Bible trivia questions](/blog/100-bible-trivia-questions-and-answers) for a real challenge.
-- **71-75: Bible Master.** You missed four or fewer out of seventy-five. Take a bow -- then become the quizmaster and run this for your family or youth group.
+- **61-70: Bible Scholar.** Impressive, you know Melchizedek from Matthias. Try our [hard Bible trivia for teens](/blog/bible-trivia-for-teens) or the expert tier of our [100 Bible trivia questions](/blog/100-bible-trivia-questions-and-answers) for a real challenge.
+- **71-75: Bible Master.** You missed four or fewer out of seventy-five. Take a bow, then become the quizmaster and run this for your family or youth group.
 
 ## Keep the Quiz Going
 
 If your kids took this with you, keep their momentum: our [Bible trivia for kids](/blog/bible-trivia-for-kids) set is pitched at ages 5-12, and the [easy Bible trivia questions](/blog/easy-bible-trivia-questions) list guarantees early wins for the youngest players. For paper-based play, the free printable [Bible Trivia Pack](/printables/bible-trivia-pack) turns these into cut-out question cards for game night.
 
-And if the quiz exposed stories your family hasn't read yet, that's the best possible outcome. [Faithful Kids](https://faithfulkids.app/quiz) walks kids through every major Bible story with a short video and a quiz after each episode -- so the next time you run this test, they'll be the ones in the top band.
+And if the quiz exposed stories your family hasn't read yet, that's the best possible outcome. [Faithful Kids](https://faithfulkids.app/quiz) walks kids through every major Bible story with a short video and a quiz after each episode, so the next time you run this test, they'll be the ones in the top band.
 
 Short on time? The [Bible trivia game](/bible-trivia) on our site runs a full round in about five minutes.
 
@@ -130,25 +130,25 @@ There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-
 
 If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
 
-The same bank runs our [play-along Bible quiz](/bible-quiz) -- pick easy, medium, or hard and chase the streak.
+The same bank runs our [play-along Bible quiz](/bible-quiz), pick easy, medium, or hard and chase the streak.
 
 ## Frequently Asked Questions
 
 ### How do I score this Bible quiz?
 
-Give yourself one point per correct answer and check the bands above: 0-25 Beginner, 26-45 Growing, 46-60 Bible Student, 61-70 Bible Scholar, 71-75 Bible Master. Partial answers count if you got the person or place right -- you don't need the exact verse.
+Give yourself one point per correct answer and check the bands above: 0-25 Beginner, 26-45 Growing, 46-60 Bible Student, 61-70 Bible Scholar, 71-75 Bible Master. Partial answers count if you got the person or place right, you don't need the exact verse.
 
 ### Is this Bible quiz suitable for kids?
 
-Rounds 1 and 2 work well for kids ages 7 and up, and they make a great Bible quiz with answers for kids since the answer follows each question. Rounds 4 and 5 are aimed at teens and adults -- for a fully kid-pitched game, use our [Bible trivia for kids](/blog/bible-trivia-for-kids) instead.
+Rounds 1 and 2 work well for kids ages 7 and up, and they make a great Bible quiz with answers for kids since the answer follows each question. Rounds 4 and 5 are aimed at teens and adults, for a fully kid-pitched game, use our [Bible trivia for kids](/blog/bible-trivia-for-kids) instead.
 
 ### What is a good score on a Bible knowledge quiz?
 
-Anything over 45 out of 75 (60 percent) puts you above most casual readers, and over 60 is genuinely strong -- Round 5 covers people like Matthias and Tabitha that even regular churchgoers miss. Don't sweat a low score; the point of a self-test is showing you exactly which stories to read next.
+Anything over 45 out of 75 (60 percent) puts you above most casual readers, and over 60 is genuinely strong, Round 5 covers people like Matthias and Tabitha that even regular churchgoers miss. Don't sweat a low score; the point of a self-test is showing you exactly which stories to read next.
 
 ### Can I use these questions for a church or youth group quiz?
 
-Yes -- the five-round structure maps directly onto a team competition: one round per team turn, or run all teams through each round and total the scores. The verse references let a moderator settle disputes instantly.
+Yes, the five-round structure maps directly onto a team competition: one round per team turn, or run all teams through each round and total the scores. The verse references let a moderator settle disputes instantly.
 
 ### Where do these quiz answers come from?
 

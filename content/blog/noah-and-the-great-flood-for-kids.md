@@ -23,13 +23,13 @@ Noah and the Great Flood is a Bible story from Genesis 6-9 in the Old Testament.
 
 ## What Is the Story of Noah and the Great Flood for Kids?
 
-Hey friend, welcome back! Okay — today's story? Absolute blockbuster. You've probably heard it before, but I promise you there are parts that will blow your mind. This is the story of Noah and the flood.
+Hey friend, welcome back! Okay, today's story? Absolute blockbuster. You've probably heard it before, but I promise you there are parts that will blow your mind. This is the story of Noah and the flood.
 
-So here's what happened after Cain and Abel. Generations passed. People multiplied across the earth. But things went downhill — fast. The world became full of violence, cruelty, and wickedness. People had completely forgotten about God. And the Bible says something that might surprise you — it says God's heart was broken. The Creator of the universe... heartbroken by what His creation had become.
+So here's what happened after Cain and Abel. Generations passed. People multiplied across the earth. But things went downhill, fast. The world became full of violence, cruelty, and wickedness. People had completely forgotten about God. And the Bible says something that might surprise you, it says God's heart was broken. The Creator of the universe... heartbroken by what His creation had become.
 
-But there was one guy — one single man — who was different. His name was Noah. The Bible says Noah was righteous and he walked faithfully with God. In a world full of people going the wrong way, Noah kept walking with God.
+But there was one guy, one single man, who was different. His name was Noah. The Bible says Noah was righteous and he walked faithfully with God. In a world full of people going the wrong way, Noah kept walking with God.
 
-And God came to Noah with the wildest instructions anyone has ever received. He said, "Noah, I'm sending a massive flood to cleanse the earth. But I want to save you and your family. Here's what I need you to do — build a boat."
+And God came to Noah with the wildest instructions anyone has ever received. He said, "Noah, I'm sending a massive flood to cleanse the earth. But I want to save you and your family. Here's what I need you to do, build a boat."
 
 This story comes from Genesis 6-9 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of Noah and the Great Flood teaches children important lessons about c
 
 ## Key Bible Verse
 
-> *"Noah did everything just as God commanded him."* — Genesis 6:22
+> *"Noah did everything just as God commanded him."* (Genesis 6:22)
 
 There is a free [Noah's Ark word search](/printables/bible-word-search/noahs-ark) to go with this, playable on a phone and printable for a class.
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### Why did God decide to send the flood?
 
-People had become so wicked and violent that it broke God's heart. The flood was to cleanse the earth — but God saved Noah and his family because Noah was faithful.
+People had become so wicked and violent that it broke God's heart. The flood was to cleanse the earth, but God saved Noah and his family because Noah was faithful.
 
 ### What did the dove bring back to Noah the second time he sent it out?
 
-The olive branch meant that plants were growing again and the land was drying up — a sign of hope that the flood was ending.
+The olive branch meant that plants were growing again and the land was drying up, a sign of hope that the flood was ending.
 
 ### What did God place in the sky as a sign of His promise to never flood the earth again?
 
-God put a rainbow in the sky as a sign of His covenant — His sacred promise — that He would never again destroy the earth with a flood. Every rainbow is a reminder that God keeps His word.
+God put a rainbow in the sky as a sign of His covenant, His sacred promise, that He would never again destroy the earth with a flood. Every rainbow is a reminder that God keeps His word.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ If your class needs something to do with their hands, there is a [Noah's Ark col
 
 ### What is the story of Noah and the Great Flood about for kids?
 
-Noah and the Great Flood is a story from Genesis 6-9. Hey friend, welcome back! Okay — today's story? Absolute blockbuster. You've probably heard it before, but I promise you there are parts that will blow your mind. This is the story of Noah and the ...
+Noah and the Great Flood is a story from Genesis 6-9. Hey friend, welcome back! Okay, today's story? Absolute blockbuster. You've probably heard it before, but I promise you there are parts that will blow your mind. This is the story of Noah and the ...
 
 ### What age is the story of Noah and the Great Flood appropriate for?
 

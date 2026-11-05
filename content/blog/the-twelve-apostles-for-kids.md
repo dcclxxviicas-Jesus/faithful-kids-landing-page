@@ -25,11 +25,11 @@ The Twelve Apostles is a Bible story from Matthew/Mark/Luke/John in the New Test
 
 ## What Is the Story of The Twelve Apostles for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 10 "The Twelve Apostles" Based on Luke 6:12-16, Mark 3:13-19
+JESUS BEGINS HIS MINISTRY: EPISODE 10 "The Twelve Apostles" Based on Luke 6:12-16, Mark 3:13-19
 
 Before I tell you about the biggest team I ever built, let me tell you what happened the night before.
 
-I went up on a mountain — alone — and I prayed. Not for an hour. Not for a few hours. I prayed ALL. NIGHT. LONG. From sunset to sunrise, I talked with my Father. Because what I was about to do the next morning would shape everything that came after. I was choosing the twelve people who would carry my message to the entire world.
+I went up on a mountain, alone, and I prayed. Not for an hour. Not for a few hours. I prayed ALL. NIGHT. LONG. From sunset to sunrise, I talked with my Father. Because what I was about to do the next morning would shape everything that came after. I was choosing the twelve people who would carry my message to the entire world.
 
 When the sun came up, I called all my followers together. There were a LOT of people following me by now. But from that crowd, I chose twelve. Just twelve.
 
@@ -45,7 +45,7 @@ The story of The Twelve Apostles teaches children important lessons about callin
 
 ## Key Bible Verse
 
-> *"He appointed twelve that they might be with him."* — Mark 3:14
+> *"He appointed twelve that they might be with him."* (Mark 3:14)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Twelve Apostles about for kids?
 
-The Twelve Apostles is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 10 "The Twelve Apostles" Based on Luke 6:12-16, Mark 3:13-19
+The Twelve Apostles is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY: EPISODE 10 "The Twelve Apostles" Based on Luke 6:12-16, Mark 3:13-19
 
 ### What age is the story of The Twelve Apostles appropriate for?
 

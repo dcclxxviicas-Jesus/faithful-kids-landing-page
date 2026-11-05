@@ -23,9 +23,9 @@ Paul and Barnabas Split is a Bible story from Acts in the New Testament. This re
 
 ## What Is the Story of Paul and Barnabas Split for Kids?
 
-PAUL'S ADVENTURES — EPISODE 2: PAUL AND BARNABAS SPLIT Based on Acts 15:36-41 Series: Paul's Adventures | Episode 2 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 2: PAUL AND BARNABAS SPLIT Based on Acts 15:36-41 Series: Paul's Adventures | Episode 2 of 10 Target audience: Kids ages 7-15
 
-Okay, this episode might surprise you. Because it's not about a miracle or a dramatic escape. It's about a fight. A real, heated argument — between two of the greatest missionaries who ever lived.
+Okay, this episode might surprise you. Because it's not about a miracle or a dramatic escape. It's about a fight. A real, heated argument, between two of the greatest missionaries who ever lived.
 
 Paul and Barnabas had just finished their first incredible journey together. They'd faced sorcerers, angry mobs, and stoning. They were a legendary team. So naturally, Paul says, "Let's go back and visit every city where we preached. Let's see how the believers are doing."
 
@@ -43,7 +43,7 @@ The story of Paul and Barnabas Split teaches children important lessons about ad
 
 ## Key Bible Verse
 
-> *"He was a good man, full of the Holy Spirit and faith."* — Acts 11:24
+> *"He was a good man, full of the Holy Spirit and faith."* (Acts 11:24)
 
 Add five quiet minutes with the free [Armor of God word search](/printables/bible-word-search/armor-of-god); it prints one to a sheet with the key on the page.
 
@@ -61,15 +61,15 @@ After watching the video, see if your child can answer these questions:
 
 ### Why did Paul refuse to bring John Mark on the second journey?
 
-John Mark had started the first missionary journey with Paul and Barnabas but quit partway through and went home — and Paul didn't trust him to stick it out a second time.
+John Mark had started the first missionary journey with Paul and Barnabas but quit partway through and went home, and Paul didn't trust him to stick it out a second time.
 
 ### What happened as a result of Paul and Barnabas's disagreement?
 
-Instead of one team, the split created two — Barnabas took John Mark to Cyprus, and Paul took Silas to Syria. The mission actually doubled.
+Instead of one team, the split created two: Barnabas took John Mark to Cyprus, and Paul took Silas to Syria. The mission actually doubled.
 
 ### What did John Mark eventually accomplish later in life?
 
-John Mark grew and matured — he wrote one of the four Gospels, the Gospel of Mark, and Paul eventually said he was "useful to me in my ministry."
+John Mark grew and matured; he wrote one of the four Gospels, the Gospel of Mark, and Paul eventually said he was "useful to me in my ministry."
 
 
 ## Discussion Questions for Families
@@ -107,7 +107,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Paul and Barnabas Split about for kids?
 
-Paul and Barnabas Split is a story from Acts. PAUL'S ADVENTURES — EPISODE 2: PAUL AND BARNABAS SPLIT Based on Acts 15:36-41 Series: Paul's Adventures | Episode 2 of 10 Target audience: Kids ages 7-15
+Paul and Barnabas Split is a story from Acts. PAUL'S ADVENTURES, EPISODE 2: PAUL AND BARNABAS SPLIT Based on Acts 15:36-41 Series: Paul's Adventures | Episode 2 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Paul and Barnabas Split appropriate for?
 

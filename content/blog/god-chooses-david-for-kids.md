@@ -25,13 +25,13 @@ God Chooses David is a Bible story from 1 Samuel in the Old Testament. This rete
 
 ## What Is the Story of God Chooses David for Kids?
 
-THE RISE OF KINGS — Episode 4: God Chooses David Based on 1 Samuel 16 | Narrated by Jesus
+THE RISE OF KINGS, Episode 4: God Chooses David Based on 1 Samuel 16 | Narrated by Jesus
 
-This is one of my FAVORITE stories to tell. Because in this episode, God flips the script on what everyone thinks a king should look like. Get ready — this one's going to change how you see yourself.
+This is one of my FAVORITE stories to tell. Because in this episode, God flips the script on what everyone thinks a king should look like. Get ready, this one's going to change how you see yourself.
 
-After rejecting Saul, God told Samuel, "I'm sending you to Jesse in Bethlehem. I've chosen one of his sons to be the next king." Samuel was nervous — if Saul found out, he'd kill him! But God gave him a cover: "Take a sacrifice with you. I'll show you what to do."
+After rejecting Saul, God told Samuel, "I'm sending you to Jesse in Bethlehem. I've chosen one of his sons to be the next king." Samuel was nervous, if Saul found out, he'd kill him! But God gave him a cover: "Take a sacrifice with you. I'll show you what to do."
 
-So Samuel arrived, and Jesse lined up his sons. First came Eliab — tall, strong, warrior material. Samuel took one look and thought, "THIS is definitely the one."
+So Samuel arrived, and Jesse lined up his sons. First came Eliab, tall, strong, warrior material. Samuel took one look and thought, "THIS is definitely the one."
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of God Chooses David teaches children important lessons about courage,
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
 If small hands need something to do while you read, the free [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) is made for exactly that.
 
@@ -65,7 +65,7 @@ After watching the video, see if your child can answer these questions:
 
 ### When Samuel saw Jesse's oldest son Eliab, what did God tell him?
 
-**"Don't look at his appearance — the Lord looks at the heart".**
+**"Don't look at his appearance, the Lord looks at the heart".**
 
 ### How many of Jesse's sons passed before Samuel and were rejected by God?
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of God Chooses David about for kids?
 
-God Chooses David is a story from 1 Samuel. THE RISE OF KINGS — Episode 4: God Chooses David Based on 1 Samuel 16 | Narrated by Jesus
+God Chooses David is a story from 1 Samuel. THE RISE OF KINGS, Episode 4: God Chooses David Based on 1 Samuel 16 | Narrated by Jesus
 
 ### What age is the story of God Chooses David appropriate for?
 

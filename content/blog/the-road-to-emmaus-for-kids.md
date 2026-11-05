@@ -25,13 +25,13 @@ The Road to Emmaus is a Bible story from Matthew/Luke/Acts in the New Testament.
 
 ## What Is the Story of The Road to Emmaus for Kids?
 
-HE IS RISEN — Episode 3: The Road to Emmaus Based on Luke 24:13-35 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN, Episode 3: The Road to Emmaus Based on Luke 24:13-35 Series: He Is Risen | Target Age: 7-15
 
-This is one of my favorite stories to tell, because I got to do something sneaky — in the best possible way.
+This is one of my favorite stories to tell, because I got to do something sneaky, in the best possible way.
 
-It was that same Sunday — resurrection day. Two of my followers were walking from Jerusalem to a village called Emmaus, about seven miles away. Their names were Cleopas and a companion, and they were CRUSHED. Devastated. Everything they had hoped for — that I was the Messiah, that I would save Israel — seemed to be over. They had watched me die on a cross. They were walking home with broken hearts.
+It was that same Sunday, resurrection day. Two of my followers were walking from Jerusalem to a village called Emmaus, about seven miles away. Their names were Cleopas and a companion, and they were CRUSHED. Devastated. Everything they had hoped for, that I was the Messiah, that I would save Israel, seemed to be over. They had watched me die on a cross. They were walking home with broken hearts.
 
-And then I showed up. I walked right up beside them and started walking along. But here is the amazing part — their eyes were kept from recognizing me. They had no idea who I was.
+And then I showed up. I walked right up beside them and started walking along. But here is the amazing part, their eyes were kept from recognizing me. They had no idea who I was.
 
 This story comes from Matthew/Luke/Acts and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Road to Emmaus teaches children important lessons about resurre
 
 ## Key Bible Verse
 
-> *"Were not our hearts burning within us while he talked with us?"* — Luke 24:32
+> *"Were not our hearts burning within us while he talked with us?"* (Luke 24:32)
 
 There is also a free set of [Easter coloring pages](/printables/easter-coloring-pages) on our site, drawn for crayons and ready to print.
 
@@ -63,7 +63,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Why did the two disciples not recognize Jesus when He joined them?
 
-**Their eyes were kept from recognizing Him.** The Bible says their eyes were kept from recognizing Him. God had a purpose in this — He wanted them to learn something first.
+**Their eyes were kept from recognizing Him.** The Bible says their eyes were kept from recognizing Him. God had a purpose in this, He wanted them to learn something first.
 
 ### What did Jesus do as they walked together?
 
@@ -114,7 +114,7 @@ For quiet time afterwards, print the [road to Emmaus coloring page](/printables/
 
 ### What is the story of The Road to Emmaus about for kids?
 
-The Road to Emmaus is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 3: The Road to Emmaus Based on Luke 24:13-35 Series: He Is Risen | Target Age: 7-15
+The Road to Emmaus is a story from Matthew/Luke/Acts. HE IS RISEN, Episode 3: The Road to Emmaus Based on Luke 24:13-35 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of The Road to Emmaus appropriate for?
 

@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     // Noindex: a utility duplicate of /blog/<slug>, which is the page we want
     // ranking — and the page every credit link points at.
-    title: post ? `${triviaLabel(slug, post.title)} Bible Trivia — Faithful Kids` : 'Bible Trivia',
+    title: post ? `${triviaLabel(slug, post.title)} Bible Trivia | Faithful Kids` : 'Bible Trivia',
     robots: { index: false, follow: true },
   }
 }
@@ -73,7 +73,7 @@ export default async function TriviaEmbed({ params }: Props) {
           postTitle={post.title}
           label={triviaLabel(post.slug, post.title)}
           related={getRelatedTrivia(post.slug)}
-          posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+          posterSrc={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=3`}
           {...getTriviaVideo(post.slug)}
         />
         <EmbedFooter slug={post.slug} />

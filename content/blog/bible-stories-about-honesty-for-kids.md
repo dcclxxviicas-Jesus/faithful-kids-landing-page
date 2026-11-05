@@ -22,7 +22,7 @@ Here are ten Bible stories that teach children about honesty from every angle: t
 
 **The story:** In the early church, believers sold possessions and shared the proceeds. Ananias and Sapphira sold a piece of property but secretly kept some of the money while pretending to give the full amount. Peter confronted Ananias: "You have not lied just to human beings but to God" (Acts 5:4). Both Ananias and Sapphira fell dead.
 
-**The honesty lesson:** This is a dramatic story best suited for older children (ages 9+) -- we retell it gently in [Ananias and Sapphira for kids](/blog/ananias-and-sapphira-for-kids). The sin was not keeping some money. The sin was pretending to give everything while secretly holding back. It was dishonesty, specifically dishonesty before God. The story teaches that God sees through our pretending, and that trying to deceive God is the most foolish kind of lie.
+**The honesty lesson:** This is a dramatic story best suited for older children (ages 9+); we retell it gently in [Ananias and Sapphira for kids](/blog/ananias-and-sapphira-for-kids). The sin was not keeping some money. The sin was pretending to give everything while secretly holding back. It was dishonesty, specifically dishonesty before God. The story teaches that God sees through our pretending, and that trying to deceive God is the most foolish kind of lie.
 
 **Discussion:** "Ananias and Sapphira wanted to look more generous than they actually were. Have you ever pretended to be something you are not? Why is it important to be honest, even with God?"
 
@@ -137,7 +137,7 @@ Faithful Kids covers all of these stories in short video lessons with comprehens
 
 A related freebie: our [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus), drawn as clean line art for crayons and markers.
 
-All of these come from our free [Bible stories for kids](/bible-stories-for-kids) collection -- the whole Bible as simple retellings, each with discussion questions.
+All of these come from our free [Bible stories for kids](/bible-stories-for-kids) collection: the whole Bible as simple retellings, each with discussion questions.
 
 ## Frequently Asked Questions
 

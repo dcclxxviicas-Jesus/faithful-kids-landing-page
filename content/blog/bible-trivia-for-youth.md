@@ -8,21 +8,21 @@ datePublished: "2026-08-19"
 dateModified: "2026-08-19"
 ---
 
-Here are 100 youth Bible trivia questions with answers and verse references, sorted into easy, medium, and hard tiers so one list can carry a room of sixth graders and seniors at the same time. Everything you need to run it -- team formats, round timing, and a scoring system that keeps the quiet kids in the game -- is in the first two minutes of reading below.
+Here are 100 youth Bible trivia questions with answers and verse references, sorted into easy, medium, and hard tiers so one list can carry a room of sixth graders and seniors at the same time. Everything you need to run it, team formats, round timing, and a scoring system that keeps the quiet kids in the game, is in the first two minutes of reading below.
 
 This is built for the reality of a youth night: you have about thirty minutes, half the group grew up in church and half did not, and somebody always shows up late. The tiers exist so you can hand out points fairly instead of watching three Bible-quiz kids run the table.
 
 ## How Do You Run Bible Trivia at Youth Group?
 
-Split the room into teams of four to six, ask questions in tiers, and cap the whole game at 30 minutes. Small teams matter more than anything else -- in a team of ten, six students stop thinking. Four to six means everyone gets a turn to be the one who knew it.
+Split the room into teams of four to six, ask questions in tiers, and cap the whole game at 30 minutes. Small teams matter more than anything else, in a team of ten, six students stop thinking. Four to six means everyone gets a turn to be the one who knew it.
 
 **Three formats that work:**
 
 - **Tiered teams (best default).** Every team answers every question on a whiteboard or paper. Easy questions are worth 1 point, medium 2, hard 3. Nobody gets buzzed out, and slower readers still contribute.
-- **Buzzer steal.** Alternate questions between two teams. If a team misses, the other team can steal for half a point. Fast and loud, but it favors the confident kids -- balance it with a written round.
+- **Buzzer steal.** Alternate questions between two teams. If a team misses, the other team can steal for half a point. Fast and loud, but it favors the confident kids, balance it with a written round.
 - **Category draft.** Let team captains pick a tier before each question, like a game show. Teams that are behind gamble on hard questions, which keeps the last five minutes genuinely tense.
 
-**Timing for a 30-minute game:** 3 minutes to form teams and name themselves, 8 minutes on easy questions (about 12 questions), 10 minutes on medium (about 12), 7 minutes on hard (about 8), 2 minutes to total scores and hand out something small. You will not use all 100 questions in one night. That is the point -- this list should last you a semester.
+**Timing for a 30-minute game:** 3 minutes to form teams and name themselves, 8 minutes on easy questions (about 12 questions), 10 minutes on medium (about 12), 7 minutes on hard (about 8), 2 minutes to total scores and hand out something small. You will not use all 100 questions in one night. That is the point: this list should last you a semester.
 
 **Scoring that keeps it fun:** award 1, 2, and 3 points by tier, give every team one "double or nothing" card they can play once, and add a bonus point for any team that can name the book a question came from. That last rule quietly teaches Bible navigation better than a lesson on it would.
 
@@ -92,7 +92,7 @@ This is the sweet spot for most youth groups. Students who have been around chur
 53. What words appeared on the wall during Belshazzar's feast? **"Mene, Mene, Tekel, Parsin"** (Daniel 5:25)
 54. Who led the rebuilding of the walls of Jerusalem? **Nehemiah** (Nehemiah 6:15)
 55. Who said, "Where you go I will go, and where you stay I will stay"? **Ruth, speaking to Naomi** (Ruth 1:16)
-56. Whose great-grandson was King David? **Boaz and Ruth's -- through their son Obed and grandson Jesse** (Ruth 4:17)
+56. Whose great-grandson was King David? **Boaz and Ruth's (through their son Obed and grandson Jesse)** (Ruth 4:17)
 57. What was Matthew's job before he followed Jesus? **Tax collector** (Matthew 9:9)
 58. Which two brothers did Jesus nickname "Sons of Thunder"? **James and John** (Mark 3:17)
 59. Which disciple walked on the water toward Jesus and started to sink? **Peter** (Matthew 14:29-30)
@@ -119,7 +119,7 @@ For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a 
 Save these for the tiebreaker round, the "double or nothing" cards, or the student who has been correcting you all night. Most groups get four or five of these on a good night.
 
 71. Which Old Testament man "walked faithfully with God, and then was no more, because God took him away"? **Enoch** (Genesis 5:24)
-72. Who is the oldest person recorded in the Bible, and how long did he live? **Methuselah -- 969 years** (Genesis 5:27)
+72. Who is the oldest person recorded in the Bible, and how long did he live? **Methuselah: 969 years** (Genesis 5:27)
 73. Which priest-king of Salem brought out bread and wine and blessed Abram? **Melchizedek** (Genesis 14:18)
 74. Who was the mother of Abraham's son Ishmael? **Hagar** (Genesis 16:15)
 75. What sacred objects were kept in the high priest's breastpiece? **The Urim and Thummim** (Exodus 28:30)
@@ -127,7 +127,7 @@ Save these for the tiebreaker round, the "double or nothing" cards, or the stude
 77. What did Achan steal at Jericho, bringing defeat on Israel at Ai? **A robe from Babylonia, silver, and a bar of gold** (Joshua 7:21)
 78. Which woman judged Israel and went into battle alongside Barak? **Deborah** (Judges 4:4-9)
 79. How many smooth stones did David choose from the stream before facing Goliath? **Five** (1 Samuel 17:40)
-80. Which king of Judah reigned the longest, and for how many years? **Manasseh -- fifty-five years** (2 Kings 21:1)
+80. Which king of Judah reigned the longest, and for how many years? **Manasseh: fifty-five years** (2 Kings 21:1)
 81. How old was Josiah when he became king? **Eight years old** (2 Kings 22:1)
 82. Which woman seized the throne and ruled the land of Judah herself? **Athaliah** (2 Kings 11:1-3)
 83. Which king cut up Jeremiah's scroll and burned it piece by piece? **Jehoiakim** (Jeremiah 36:23)
@@ -155,11 +155,11 @@ End with one question, not a lesson. Pick the hard question the room got most st
 
 If you want more material, our [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers) master list spans Genesis to Revelation, the [50 hard Bible trivia questions for teens](/blog/bible-trivia-for-teens) set is built for the students who find the list above too easy, and our [Sunday school games for kids](/blog/sunday-school-games-for-kids) guide covers the non-trivia activities for nights when the group needs to move. For a home version with parents playing, see [family Bible trivia night](/blog/family-bible-trivia-night).
 
-When a question exposes a story your students genuinely do not know, that is the win -- go read it together. Our short retelling of [David and Goliath](/blog/david-and-goliath-for-kids) is a good starting point for a mixed-age group, and [Faithful Kids](https://faithfulkids.app/quiz) covers every major Bible story with a short video and a quiz, which younger siblings can use to catch up before the next round.
+When a question exposes a story your students genuinely do not know, that is the win: go read it together. Our short retelling of [David and Goliath](/blog/david-and-goliath-for-kids) is a good starting point for a mixed-age group, and [Faithful Kids](https://faithfulkids.app/quiz) covers every major Bible story with a short video and a quiz, which younger siblings can use to catch up before the next round.
 
 For leaders who would rather not run the night off a phone, our free [printable Bible Trivia Pack](/printables/bible-trivia-pack) gives you 100 questions and a tear-off answer key you can bring to the room.
 
-Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads — [setup guide here](/blog/bible-trivia-embed-for-church-website).
+Teachers and youth leaders: the [embeddable Bible trivia game](/bible-trivia) drops straight onto a church website, free and with no ads, [setup guide here](/blog/bible-trivia-embed-for-church-website).
 
 Our full list of [youth group games](/blog/youth-group-games) includes the Scripture connection for every game, so the fun still points somewhere.
 
@@ -169,13 +169,13 @@ Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an ea
 
 Test yourself first on the [interactive Bible quiz](/bible-quiz), then come back for the full list.
 
-Our [75 Christian jokes](/blog/christian-jokes) are the church-life set -- sermon-length jokes, potluck jokes, and what kids actually say in the pew.
+Our [75 Christian jokes](/blog/christian-jokes) are the church-life set: sermon-length jokes, potluck jokes, and what kids actually say in the pew.
 
 ## Frequently Asked Questions
 
 ### How many Bible trivia questions do you need for a youth group night?
 
-Plan on 25 to 35 questions for a 30-minute game with teams. Teams need time to confer and write answers, so each question realistically takes 45 to 60 seconds including the reveal. Bring twice as many as you think you need -- the list above will cover a full semester of youth nights.
+Plan on 25 to 35 questions for a 30-minute game with teams. Teams need time to confer and write answers, so each question realistically takes 45 to 60 seconds including the reveal. Bring twice as many as you think you need: the list above will cover a full semester of youth nights.
 
 ### What is a good Bible trivia format for a mixed-knowledge group?
 
@@ -183,7 +183,7 @@ Tiered team play with written answers is the fairest format. Every team answers 
 
 ### How do you keep Bible trivia from feeling like a test?
 
-Play in teams, never single anyone out, and make one round pure guessing fun -- numbers, animals, or weird details. It also helps to let students earn a bonus point for naming the book a question came from rather than the answer itself, which rewards effort over prior knowledge.
+Play in teams, never single anyone out, and make one round pure guessing fun: numbers, animals, or weird details. It also helps to let students earn a bonus point for naming the book a question came from rather than the answer itself, which rewards effort over prior knowledge.
 
 ### Should youth groups allow Bible lookups during trivia?
 
@@ -195,4 +195,4 @@ Small and immediate beats large and impressive. Candy, first pick of pizza, choo
 
 ### Which Bible translation do these answers use?
 
-Answers follow the wording of common modern English translations like the NIV and ESV. Phrasing varies slightly between translations -- "Parsin" appears as "Upharsin" in the King James, for example -- so accept any answer that matches the sense of the verse rather than the exact wording.
+Answers follow the wording of common modern English translations like the NIV and ESV. Phrasing varies slightly between translations: "Parsin" appears as "Upharsin" in the King James, for example: so accept any answer that matches the sense of the verse rather than the exact wording.

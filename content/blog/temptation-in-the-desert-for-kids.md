@@ -25,11 +25,11 @@ Temptation in the Desert is a Bible story from Matthew/Mark/Luke/John in the New
 
 ## What Is the Story of Temptation in the Desert for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 1 "Temptation in the Desert" Based on Matthew 4:1-11
+JESUS BEGINS HIS MINISTRY, EPISODE 1 "Temptation in the Desert" Based on Matthew 4:1-11
 
-Have you ever been SO hungry that you couldn't think about anything else? Imagine that — but for FORTY DAYS. That was me. And it was exactly where I needed to be.
+Have you ever been SO hungry that you couldn't think about anything else? Imagine that, but for FORTY DAYS. That was me. And it was exactly where I needed to be.
 
-Right after my baptism — this incredible moment where my Father's voice thundered from heaven saying, "This is my Son, whom I love" — the Holy Spirit led me straight into the wilderness. Not to a feast. Not to a celebration. Into a dry, scorching desert with nothing but rocks and dust and silence.
+Right after my baptism, this incredible moment where my Father's voice thundered from heaven saying, "This is my Son, whom I love", the Holy Spirit led me straight into the wilderness. Not to a feast. Not to a celebration. Into a dry, scorching desert with nothing but rocks and dust and silence.
 
 For forty days and forty nights, I fasted. No food. My body grew weak. My stomach ached. The sun beat down during the day, and the cold crept in at night. And that's when HE showed up.
 
@@ -45,7 +45,7 @@ The story of Temptation in the Desert teaches children important lessons about c
 
 ## Key Bible Verse
 
-> *"Man shall not live on bread alone, but on every word that comes from the mouth of God."* — Matthew 4:4
+> *"Man shall not live on bread alone, but on every word that comes from the mouth of God."* (Matthew 4:4)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How did Jesus fight back against every temptation?
 
-**He quoted Scripture — "It is written...".**
+**He quoted Scripture, "It is written...".**
 
 ### What happened after Satan left Jesus?
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Temptation in the Desert about for kids?
 
-Temptation in the Desert is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 1 "Temptation in the Desert" Based on Matthew 4:1-11
+Temptation in the Desert is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY: EPISODE 1 "Temptation in the Desert" Based on Matthew 4:1-11
 
 ### What age is the story of Temptation in the Desert appropriate for?
 

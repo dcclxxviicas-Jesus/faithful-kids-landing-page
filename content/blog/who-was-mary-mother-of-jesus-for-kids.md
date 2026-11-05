@@ -28,7 +28,7 @@ Mary was troubled by these words. She had never seen an angel before, and she wo
 
 Mary asked the obvious question: "How will this be, since I am a virgin?" (Luke 1:34). It was a reasonable question, not a sign of doubt. She simply wanted to understand.
 
-Gabriel explained: "The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God" (Luke 1:35). He also told Mary that her elderly relative Elizabeth was miraculously pregnant -- proof that "no word from God will ever fail" (Luke 1:37).
+Gabriel explained: "The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God" (Luke 1:35). He also told Mary that her elderly relative Elizabeth was miraculously pregnant, proof that "no word from God will ever fail" (Luke 1:37).
 
 And then Mary spoke the words that changed history:
 
@@ -46,7 +46,7 @@ When Mary arrived and greeted Elizabeth, something remarkable happened. The baby
 
 Mary responded with a song that is known as the Magnificat, one of the most beautiful passages in the Bible:
 
-"My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant. From now on all generations will call me blessed, for the Mighty One has done great things for me -- holy is his name." (Luke 1:46-49)
+"My soul glorifies the Lord and my spirit rejoices in God my Savior, for he has been mindful of the humble state of his servant. From now on all generations will call me blessed, for the Mighty One has done great things for me, holy is his name." (Luke 1:46-49)
 
 Mary stayed with Elizabeth for about three months before returning home. These two women, both carrying miracle babies, encouraged each other's faith during an extraordinary time.
 
@@ -64,15 +64,15 @@ Joseph woke up and did what the angel commanded. He took Mary as his wife. He pr
 
 A related freebie: our [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary), drawn as clean line art for crayons and markers.
 
-She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids) — the whole list, with a story and a verse for each.
+She's one of our [15 women of the Bible every kid should know](/blog/women-of-the-bible-for-kids), the whole list, with a story and a verse for each.
 
 ## The Journey to Bethlehem and the Birth of Jesus (Luke 2:1-7)
 
-Around the time Mary was due to give birth, the Roman emperor Caesar Augustus issued a decree that a census should be taken of the entire Roman world. Everyone had to travel to their ancestral hometown to register. For Joseph, that meant traveling from Nazareth to Bethlehem -- a journey of about 80 miles, which would have taken several days on foot or by donkey.
+Around the time Mary was due to give birth, the Roman emperor Caesar Augustus issued a decree that a census should be taken of the entire Roman world. Everyone had to travel to their ancestral hometown to register. For Joseph, that meant traveling from Nazareth to Bethlehem, a journey of about 80 miles, which would have taken several days on foot or by donkey.
 
 Mary, heavily pregnant, made this difficult journey with Joseph. When they arrived in Bethlehem, the town was crowded with other travelers registering for the census. There was no room for them in the inn.
 
-So Mary gave birth to her firstborn son in a humble place -- likely a stable or a cave where animals were kept. She wrapped Jesus in cloths and laid him in a manger, a feeding trough for animals.
+So Mary gave birth to her firstborn son in a humble place, likely a stable or a cave where animals were kept. She wrapped Jesus in cloths and laid him in a manger, a feeding trough for animals.
 
 The King of Kings was born not in a palace, but in the humblest of places. And Mary was there, holding Him, wrapping Him, caring for Him. The girl from Nazareth who said yes to God was now cradling the Savior of the world. (Walk through this night in [The Journey to Bethlehem for kids](/blog/the-journey-to-bethlehem-for-kids) and [Born in a Manger for kids](/blog/born-in-a-manger-for-kids).)
 
@@ -96,13 +96,13 @@ We don't know much about Jesus's childhood, but we get one glimpse in Luke 2:41-
 
 Mary said, "Son, why have you treated us like this? Your father and I have been anxiously searching for you" (Luke 2:48). Every parent can hear the mixture of relief and frustration in her voice. (This episode gets its own retelling in [Young Jesus in the Temple for kids](/blog/young-jesus-in-the-temple-for-kids).)
 
-Jesus replied, "Didn't you know I had to be in my Father's house?" (Luke 2:49). Mary and Joseph didn't fully understand what He meant, but Mary "treasured all these things in her heart" (Luke 2:51) -- that phrase again. She was a mother learning, step by step, that her son had a mission bigger than she could comprehend.
+Jesus replied, "Didn't you know I had to be in my Father's house?" (Luke 2:49). Mary and Joseph didn't fully understand what He meant, but Mary "treasured all these things in her heart" (Luke 2:51), that phrase again. She was a mother learning, step by step, that her son had a mission bigger than she could comprehend.
 
 **Key lesson for kids:** Even Mary didn't always understand what God was doing through Jesus. She had questions. She worried. She searched for her lost child for three days. Being a person of faith doesn't mean you have all the answers. It means you keep trusting God in the midst of your questions.
 
 ## Mary at the Cross (John 19:25-27)
 
-The most heartbreaking moment of Mary's life came at the cross. She stood there and watched her son -- the baby she had held in Bethlehem, the boy she had searched for in the temple, the man she had known was the Son of God -- die on a Roman cross.
+The most heartbreaking moment of Mary's life came at the cross. She stood there and watched her son, the baby she had held in Bethlehem, the boy she had searched for in the temple, the man she had known was the Son of God, die on a Roman cross.
 
 "Near the cross of Jesus stood his mother" (John 19:25). She didn't run away. She didn't collapse. She stood. That single detail says everything about Mary's strength.
 
@@ -120,7 +120,7 @@ Mary's story teaches us:
 - **Treasure the moments.** Twice the Bible says Mary "pondered these things in her heart." She was present, attentive, and open to what God was doing.
 - **Stand firm.** From Bethlehem to the cross, Mary never stopped following God's plan, even when it broke her heart.
 
-Mary shows every child -- and every parent -- that God can do extraordinary things through ordinary people who simply say, "I am the Lord's servant."
+Mary shows every child, and every parent, that God can do extraordinary things through ordinary people who simply say, "I am the Lord's servant."
 
 ## Watch on Faithful Kids
 
@@ -128,13 +128,13 @@ Help your kids discover Mary's incredible story through animated video lessons o
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
-Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names), meanings, verses, and the stories included.
 
 ## Frequently Asked Questions
 
 ### How old was Mary when the angel appeared to her?
 
-The Bible doesn't state Mary's exact age, but based on Jewish customs of the time, girls were typically betrothed (engaged) between the ages of 12 and 14. Most scholars estimate Mary was in her early to mid-teens when Gabriel visited her. This makes her courage and faith even more remarkable -- she was likely younger than many high school students when she said yes to God's plan.
+The Bible doesn't state Mary's exact age, but based on Jewish customs of the time, girls were typically betrothed (engaged) between the ages of 12 and 14. Most scholars estimate Mary was in her early to mid-teens when Gabriel visited her. This makes her courage and faith even more remarkable; she was likely younger than many high school students when she said yes to God's plan.
 
 ### Why did God choose Mary?
 
@@ -146,4 +146,4 @@ This varies among Christian traditions. Catholic and Orthodox Christians hold Ma
 
 ### What happened to Mary after Jesus died and rose again?
 
-The Bible mentions Mary among the disciples praying together in the upper room after Jesus's ascension (Acts 1:14), but doesn't record details about the rest of her life or death. Christian tradition holds that Mary lived for several more years, possibly in Jerusalem or Ephesus. The Catholic Church teaches the doctrine of the Assumption -- that Mary was taken body and soul into heaven at the end of her earthly life. Regardless of tradition, all Christians honor Mary's extraordinary faith and her role as the mother of Jesus.
+The Bible mentions Mary among the disciples praying together in the upper room after Jesus's ascension (Acts 1:14), but doesn't record details about the rest of her life or death. Christian tradition holds that Mary lived for several more years, possibly in Jerusalem or Ephesus. The Catholic Church teaches the doctrine of the Assumption, that Mary was taken body and soul into heaven at the end of her earthly life. Regardless of tradition, all Christians honor Mary's extraordinary faith and her role as the mother of Jesus.

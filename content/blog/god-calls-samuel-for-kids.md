@@ -23,13 +23,13 @@ God Calls Samuel is a Bible story from 1 Samuel 3 in the Old Testament. This ret
 
 ## What Is the Story of God Calls Samuel for Kids?
 
-Hey friend! Welcome to the final episode of this series — and what a way to finish. This is the story of a boy, a dark room, a voice in the night, and a moment that changed everything. This is the story of God calling Samuel.
+Hey friend! Welcome to the final episode of this series, and what a way to finish. This is the story of a boy, a dark room, a voice in the night, and a moment that changed everything. This is the story of God calling Samuel.
 
 Remember Hannah's miracle baby? Samuel grew up in the temple, serving under the old priest Eli. He swept floors, trimmed lamps, helped with the daily work. Just a young boy in the house of God. And here's what the Bible tells us about that time: "The word of the Lord was rare in those days." God had gone quiet. Heaven seemed silent.
 
-But God was about to break that silence — and He chose to do it through a kid.
+But God was about to break that silence, and He chose to do it through a kid.
 
-One night, Samuel was lying down in the temple, near the ark of God. Everything was dark and still. And then — a voice. Clear as day.
+One night, Samuel was lying down in the temple, near the ark of God. Everything was dark and still. And then, a voice. Clear as day.
 
 This story comes from 1 Samuel 3 and is part of the Old Testament.
 
@@ -43,13 +43,13 @@ The story of God Calls Samuel teaches children important lessons about bravery, 
 
 ## Key Bible Verse
 
-> *"Speak, Lord, for your servant is listening."* — 1 Samuel 3:9
+> *"Speak, Lord, for your servant is listening."* (1 Samuel 3:9)
 
 If small hands need something to do while you read, the free [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) is made for exactly that.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
-For his whole life — the boy who heard God's voice, the last judge, the king-maker — see [Who Was Samuel in the Bible?](/blog/who-was-samuel-for-kids)
+For his whole life, the boy who heard God's voice, the last judge, the king-maker, see [Who Was Samuel in the Bible?](/blog/who-was-samuel-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -107,7 +107,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of God Calls Samuel about for kids?
 
-God Calls Samuel is a story from 1 Samuel 3. Hey friend! Welcome to the final episode of this series — and what a way to finish. This is the story of a boy, a dark room, a voice in the night, and a moment that changed everything. This is the ...
+God Calls Samuel is a story from 1 Samuel 3. Hey friend! Welcome to the final episode of this series, and what a way to finish. This is the story of a boy, a dark room, a voice in the night, and a moment that changed everything. This is the ...
 
 ### What age is the story of God Calls Samuel appropriate for?
 

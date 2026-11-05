@@ -25,9 +25,9 @@ David Spares His Enemy is a Bible story from 1 Samuel in the Old Testament. This
 
 ## What Is the Story of David Spares His Enemy for Kids?
 
-THE RISE OF KINGS — Episode 8: David Spares His Enemy Based on 1 Samuel 24, 26 | Narrated by Jesus
+THE RISE OF KINGS, Episode 8: David Spares His Enemy Based on 1 Samuel 24, 26 | Narrated by Jesus
 
-Welcome back! Today's story is one of the most intense moments in David's life — and it happened not once, but TWICE. It's the story of what David did when he had the perfect chance to destroy his enemy.
+Welcome back! Today's story is one of the most intense moments in David's life, and it happened not once, but TWICE. It's the story of what David did when he had the perfect chance to destroy his enemy.
 
 Scene one. David and his men are hiding deep inside a cave at En Gedi. It's dark. They're pressed against the walls. And guess who walks into that exact cave to... use the bathroom? SAUL. The king who's been hunting David with three thousand soldiers just strolled in, completely clueless.
 
@@ -45,7 +45,7 @@ The story of David Spares His Enemy teaches children important lessons about cou
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
 A related freebie: our [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger), drawn as clean line art for crayons and markers.
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson from David sparing Saul's life twice?
 
-**Just because you CAN do something doesn't mean you SHOULD — revenge belongs to God.**
+**Just because you CAN do something doesn't mean you SHOULD, revenge belongs to God.**
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of David Spares His Enemy about for kids?
 
-David Spares His Enemy is a story from 1 Samuel. THE RISE OF KINGS — Episode 8: David Spares His Enemy Based on 1 Samuel 24, 26 | Narrated by Jesus
+David Spares His Enemy is a story from 1 Samuel. THE RISE OF KINGS, Episode 8: David Spares His Enemy Based on 1 Samuel 24, 26 | Narrated by Jesus
 
 ### What age is the story of David Spares His Enemy appropriate for?
 

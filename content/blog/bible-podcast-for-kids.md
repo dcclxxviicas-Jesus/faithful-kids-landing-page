@@ -53,7 +53,7 @@ But with hundreds of options available, how do you find the right one? We review
 
 **Best for:** Families with kids who respond to humor and games. Great for kids who say "the Bible is boring" and need a different entry point.
 
-Pair this with our free [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep), one sheet, ready for the kitchen table or the classroom.
 
 ## 4. Bible Belles
 
@@ -129,7 +129,7 @@ The platform covers 20 Bible series with 200 episodes, each containing 5 individ
 
 **Listen together when possible.** While podcasts are great for independent listening, they are even better when you listen with your child and discuss afterward. "What did you think about that story?" turns passive listening into active learning.
 
-**Rotate based on age and mood.** Use simpler podcasts (Bible App for Kids, Bible Belles) for younger kids or wind-down time, and more complex ones (Adventures in Odyssey, What's in the Bible) for road trips and older kids. Variety keeps things fresh -- [Christian audiobooks for kids](/blog/christian-audiobooks-for-kids) are another great screen-free rotation.
+**Rotate based on age and mood.** Use simpler podcasts (Bible App for Kids, Bible Belles) for younger kids or wind-down time, and more complex ones (Adventures in Odyssey, What's in the Bible) for road trips and older kids. Variety keeps things fresh; [Christian audiobooks for kids](/blog/christian-audiobooks-for-kids) are another great screen-free rotation.
 
 **Supplement with visual learning.** Audio is powerful, but adding a visual component significantly increases retention. After listening to a Bible story podcast, watch the same story on Faithful Kids or color a related page from our [Bible coloring pages for kids](/blog/bible-coloring-pages-for-kids). Multi-sensory engagement builds the strongest memories.
 

@@ -23,13 +23,13 @@ The Beatitudes is a Bible story from Matthew/Luke in the New Testament. This ret
 
 ## What Is the Story of The Beatitudes for Kids?
 
-THE TEACHINGS OF JESUS — Episode 2 "The Beatitudes" Based on Matthew 5:1-12
+THE TEACHINGS OF JESUS, Episode 2 "The Beatitudes" Based on Matthew 5:1-12
 
 The very first words of my Sermon on the Mount were so unexpected, so upside-down, that people are STILL trying to wrap their heads around them. I gave eight statements that begin with one word: BLESSED. And what I said next shocked everyone.
 
-The world says blessed are the rich. I said: "Blessed are the poor in spirit, for theirs is the kingdom of heaven." Poor in spirit means you know you need God. You're not walking around thinking you've got it all figured out. When you realize you can't do life without Him — THAT is when the kingdom opens up.
+The world says blessed are the rich. I said: "Blessed are the poor in spirit, for theirs is the kingdom of heaven." Poor in spirit means you know you need God. You're not walking around thinking you've got it all figured out. When you realize you can't do life without Him, THAT is when the kingdom opens up.
 
-The world says blessed are the happy. I said: "Blessed are those who mourn." When your heart breaks over what breaks God's heart — injustice, pain, sin — He draws close and comforts you in a way nobody else can.
+The world says blessed are the happy. I said: "Blessed are those who mourn." When your heart breaks over what breaks God's heart, injustice, pain, sin, He draws close and comforts you in a way nobody else can.
 
 This story comes from Matthew/Luke and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Beatitudes teaches children important lessons about love, kindn
 
 ## Key Bible Verse
 
-> *"Blessed are the peacemakers, for they will be called children of God."* — Matthew 5:9
+> *"Blessed are the peacemakers, for they will be called children of God."* (Matthew 5:9)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ Being poor in spirit means recognizing that you don't have it all figured out an
 
 ### What does "meek" mean according to Jesus?
 
-Jesus compared meekness to a powerful horse that's been trained — full of strength but under control. Meekness is NOT weakness. The meek will inherit the earth (Matthew 5:5).
+Jesus compared meekness to a powerful horse that's been trained, full of strength but under control. Meekness is NOT weakness. The meek will inherit the earth (Matthew 5:5).
 
 ### What did Jesus say about those who hunger and thirst for righteousness?
 
@@ -67,11 +67,11 @@ When you crave doing the right thing the way you crave food when starving, God p
 
 ### What is the difference between a peacekeeper and a peacemaker?
 
-Jesus didn't say blessed are those who avoid problems. He said blessed are the peaceMAKERS — people who actively work to bring healing and unity, even when it's hard.
+Jesus didn't say blessed are those who avoid problems. He said blessed are the peaceMAKERS, people who actively work to bring healing and unity, even when it's hard.
 
 ### According to Jesus, what should you do when you're persecuted for following Him?
 
-Jesus said when people make fun of you or mistreat you because of your faith, you should rejoice — because the prophets before you faced the same thing. You're in incredible company (Matthew 5:11-12).
+Jesus said when people make fun of you or mistreat you because of your faith, you should rejoice, because the prophets before you faced the same thing. You're in incredible company (Matthew 5:11-12).
 
 
 ## Discussion Questions for Families
@@ -109,7 +109,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Beatitudes about for kids?
 
-The Beatitudes is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 2 "The Beatitudes" Based on Matthew 5:1-12
+The Beatitudes is a story from Matthew/Luke. THE TEACHINGS OF JESUS, Episode 2 "The Beatitudes" Based on Matthew 5:1-12
 
 ### What age is the story of The Beatitudes appropriate for?
 

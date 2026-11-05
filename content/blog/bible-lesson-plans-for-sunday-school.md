@@ -254,7 +254,7 @@ For more classroom wisdom from veteran teachers, see our [Sunday school teacher 
 
 For homeschool families, our [free homeschool Bible curriculum page](/homeschool) covers what a day looks like and what it costs.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 ## Watch on Faithful Kids
 
@@ -268,7 +268,7 @@ Want it to run itself? Our [interactive Bible quiz](/bible-trivia) handles the q
 
 We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
 
-Before the meeting, skim our [youth group games](/blog/youth-group-games) — every entry says what it needs and how long it takes to set up.
+Before the meeting, skim our [youth group games](/blog/youth-group-games), every entry says what it needs and how long it takes to set up.
 
 If the budget is zero, start with our verified list of [free Bible curriculum for kids ministry](/blog/free-bible-curriculum-for-kids-ministry).
 

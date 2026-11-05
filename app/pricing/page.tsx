@@ -16,9 +16,9 @@ export const metadata: Metadata = {
     siteName: 'Faithful Kids',
     type: 'website',
     images: [{
-      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/faithful-kids-scope-and-sequence-hero.webp',
+      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/faithful-kids-scope-and-sequence-hero.webp?v=3',
       width: 1536, height: 1024,
-      alt: 'Faithful Kids pricing — web, iOS and Android plans',
+      alt: 'Faithful Kids pricing: web, iOS and Android plans',
     }],
   },
 }
@@ -120,7 +120,7 @@ const OFFERS = [
 const FAQS = [
   {
     q: 'How much does Faithful Kids cost?',
-    a: 'On the web, $12.99 per month or $97 per year (about $8.08 per month). In the mobile apps, bought through the store, $8.99 per month or $79.99 per year — the same on iPhone, iPad and Android. It is free for churches.',
+    a: 'On the web, $12.99 per month or $97 per year (about $8.08 per month). In the mobile apps, bought through the store, $8.99 per month or $79.99 per year, the same on iPhone, iPad and Android. It is free for churches.',
   },
   {
     q: 'Why is the in-app price different from the web price?',
@@ -132,7 +132,7 @@ const FAQS = [
   },
   {
     q: 'Is there a money-back guarantee?',
-    a: 'Yes. Both web plans carry a 30-day money-back guarantee: if your kids do not love it, email christian@faithfulkids.app within 30 days and you are refunded in full. In-app refunds are handled by the store — Apple or Google Play — through its own refund process.',
+    a: 'Yes. Both web plans carry a 30-day money-back guarantee: if your kids do not love it, email christian@faithfulkids.app within 30 days and you are refunded in full. In-app refunds are handled by the store, Apple or Google Play, through its own refund process.',
   },
   {
     q: 'Can my child buy anything inside the app?',
@@ -199,7 +199,7 @@ function PricingV2() {
             <strong>$8.99 a month or $79.99 a year in the app</strong>, the same price on iPhone,
             iPad and Android. The annual plan has a free trial: <strong>7 days on the web, 3 days
             through Apple or Google Play</strong>. The difference between the two price sets is the
-            platform you buy on &mdash; Stripe, or the app store &mdash; not your region. It is{' '}
+platform you buy on, Stripe, or the app store, not your region. It is{' '}
             <strong>free for churches</strong>. There are no ads and nothing a child can buy.
           </p>
         </div>
@@ -217,7 +217,7 @@ function PricingV2() {
             <div className="pr-plan is-best">
               <span className="hv-tag">7-day free trial</span>
               <h3 className="pr-head">Annual: <span className="pr-amt">$97</span> per year (about $8.08 per month)</h3>
-              <p>7-day free trial &mdash; no charge if you cancel during it. Then $97 per year. Cancel anytime. 30-day money-back guarantee.</p>
+              <p>7-day free trial, no charge if you cancel during it. Then $97 per year. Cancel anytime. 30-day money-back guarantee.</p>
             </div>
           </div>
         </div>

@@ -23,13 +23,13 @@ Paul and Silas in Prison is a Bible story from Acts in the New Testament. This r
 
 ## What Is the Story of Paul and Silas in Prison for Kids?
 
-PAUL'S ADVENTURES — EPISODE 3: PAUL AND SILAS IN PRISON Based on Acts 16:16-40 Series: Paul's Adventures | Episode 3 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 3: PAUL AND SILAS IN PRISON Based on Acts 16:16-40 Series: Paul's Adventures | Episode 3 of 10 Target audience: Kids ages 7-15
 
-Okay — this might be my favorite Paul story. Because it's the one where everything goes wrong, and then everything goes RIGHT. In the most unexpected way possible.
+Okay, this might be my favorite Paul story. Because it's the one where everything goes wrong, and then everything goes RIGHT. In the most unexpected way possible.
 
-Paul and Silas are in Philippi — a tough Roman colony. Paul casts a spirit out of a slave girl who had been making her owners rich through fortune-telling. And those owners? They are FURIOUS. Their money machine just got shut down.
+Paul and Silas are in Philippi, a tough Roman colony. Paul casts a spirit out of a slave girl who had been making her owners rich through fortune-telling. And those owners? They are FURIOUS. Their money machine just got shut down.
 
-They drag Paul and Silas to the authorities: "These men are throwing our city into chaos!" The magistrates order them stripped, beaten with rods — MANY blows — and thrown into the deepest cell. The jailer locks their feet in wooden stocks.
+They drag Paul and Silas to the authorities: "These men are throwing our city into chaos!" The magistrates order them stripped, beaten with rods, MANY blows, and thrown into the deepest cell. The jailer locks their feet in wooden stocks.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -43,13 +43,13 @@ The story of Paul and Silas in Prison teaches children important lessons about a
 
 ## Key Bible Verse
 
-> *"For I am not ashamed of the gospel."* — Romans 1:16
+> *"For I am not ashamed of the gospel."* (Romans 1:16)
 
 Add five quiet minutes with the free [Armor of God word search](/printables/bible-word-search/armor-of-god); it prints one to a sheet with the key on the page.
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
-Paul's young apprentice — raised on Scripture by his mom and grandma — has his own profile: [Who Was Timothy in the Bible?](/blog/who-was-timothy-for-kids)
+Paul's young apprentice, raised on Scripture by his mom and grandma, has his own profile: [Who Was Timothy in the Bible?](/blog/who-was-timothy-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,15 +61,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What were Paul and Silas doing at midnight in prison?
 
-Instead of complaining or giving up, Paul and Silas chose to sing hymns and worship God at midnight — even with their backs beaten and feet locked in stocks.
+Instead of complaining or giving up, Paul and Silas chose to sing hymns and worship God at midnight, even with their backs beaten and feet locked in stocks.
 
 ### What happened when the earthquake shook the prison?
 
-The earthquake was so powerful that every single door flew open and every chain fell off — not just Paul and Silas's, but every prisoner's in the whole prison.
+The earthquake was so powerful that every single door flew open and every chain fell off, not just Paul and Silas's, but every prisoner's in the whole prison.
 
 ### What did the jailer ask Paul and Silas after the earthquake?
 
-The jailer fell trembling before Paul and Silas and asked the most important question anyone can ask — "What must I do to be saved?" — and that night his whole family believed and was baptized.
+The jailer fell trembling before Paul and Silas and asked the most important question anyone can ask, "What must I do to be saved?", and that night his whole family believed and was baptized.
 
 
 ## Discussion Questions for Families
@@ -107,7 +107,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Paul and Silas in Prison about for kids?
 
-Paul and Silas in Prison is a story from Acts. PAUL'S ADVENTURES — EPISODE 3: PAUL AND SILAS IN PRISON Based on Acts 16:16-40 Series: Paul's Adventures | Episode 3 of 10 Target audience: Kids ages 7-15
+Paul and Silas in Prison is a story from Acts. PAUL'S ADVENTURES, EPISODE 3: PAUL AND SILAS IN PRISON Based on Acts 16:16-40 Series: Paul's Adventures | Episode 3 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Paul and Silas in Prison appropriate for?
 

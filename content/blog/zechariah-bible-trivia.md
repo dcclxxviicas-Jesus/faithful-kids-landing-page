@@ -2,31 +2,31 @@
 title: "Zechariah Bible Trivia: 28 Questions and Answers for Kids"
 slug: "zechariah-bible-trivia"
 type: "listicle"
-metaDescription: "28 Zechariah Bible trivia questions with answers -- night visions, the king on a donkey, and thirty pieces of silver, sorted easy to hard for families."
+metaDescription: "28 Zechariah Bible trivia questions with answers; night visions, the king on a donkey, and thirty pieces of silver, sorted easy to hard for families."
 keywords: ["zechariah bible trivia", "zechariah quiz questions", "questions about the book of zechariah", "zechariah bible questions and answers", "zechariah 9:9 trivia", "minor prophets trivia for kids"]
 datePublished: "2026-08-14"
 dateModified: "2026-08-15"
 ---
 
-These 28 Zechariah Bible trivia questions cover the prophet's strange and wonderful night visions, the rebuilding of the temple, and the famous prophecies Jesus fulfilled -- with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
+These 28 Zechariah Bible trivia questions cover the prophet's strange and wonderful night visions, the rebuilding of the temple, and the famous prophecies Jesus fulfilled; with answers and verse references after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds.
 
-Zechariah is the minor prophet kids should know best at Easter time, because Palm Sunday runs right through it: "See, your king comes to you... lowly and riding on a donkey" (Zechariah 9:9). Flying scrolls, a woman in a basket, horses among the myrtle trees -- this book reads like a dream journal, and that makes it unforgettable trivia.
+Zechariah is the minor prophet kids should know best at Easter time, because Palm Sunday runs right through it: "See, your king comes to you... lowly and riding on a donkey" (Zechariah 9:9). Flying scrolls, a woman in a basket, horses among the myrtle trees; this book reads like a dream journal, and that makes it unforgettable trivia.
 
 ## What Is the Book of Zechariah About?
 
-The book of Zechariah is a message of encouragement to the Jews who had returned from exile in Babylon, urging them to finish rebuilding God's temple and promising that God's King -- the Messiah -- was coming. Zechariah, son of Berekiah, son of Iddo, began prophesying in the second year of King Darius of Persia (Zechariah 1:1), around 520 BC, at the same time as the prophet Haggai (Ezra 5:1).
+The book of Zechariah is a message of encouragement to the Jews who had returned from exile in Babylon, urging them to finish rebuilding God's temple and promising that God's King, the Messiah, was coming. Zechariah, son of Berekiah, son of Iddo, began prophesying in the second year of King Darius of Persia (Zechariah 1:1), around 520 BC, at the same time as the prophet Haggai (Ezra 5:1).
 
-The book falls into two halves. Chapters 1-8 center on eight vivid night visions -- horsemen among myrtle trees, a gold lampstand, a flying scroll -- all aimed at getting the temple finished under Governor Zerubbabel and Joshua the high priest. Chapters 9-14 look further ahead to a coming King, and the New Testament quotes them again and again: the donkey, the thirty pieces of silver, the pierced one, the struck shepherd. For a book most families have never quizzed on, Zechariah shows up at the crucifixion more than almost any other prophet.
+The book falls into two halves. Chapters 1-8 center on eight vivid night visions: horsemen among myrtle trees, a gold lampstand, a flying scroll, all aimed at getting the temple finished under Governor Zerubbabel and Joshua the high priest. Chapters 9-14 look further ahead to a coming King, and the New Testament quotes them again and again: the donkey, the thirty pieces of silver, the pierced one, the struck shepherd. For a book most families have never quizzed on, Zechariah shows up at the crucifixion more than almost any other prophet.
 
 ## What Was Happening in Zechariah's Time?
 
-Zechariah preached to a discouraged construction crew. Decades earlier, [King Cyrus of Persia had set the exiles free](/blog/cyrus-sets-them-free-for-kids) to go home and rebuild the temple, but opposition and discouragement had stalled the work for years. In 520 BC God sent two prophets at once -- Haggai to say "start building" and Zechariah to say "God is with you and something far bigger is coming." The one-two punch worked: "the elders of the Jews continued to build and prosper under the preaching of Haggai the prophet and Zechariah" (Ezra 6:14), and the temple was finished about four years later.
+Zechariah preached to a discouraged construction crew. Decades earlier, [King Cyrus of Persia had set the exiles free](/blog/cyrus-sets-them-free-for-kids) to go home and rebuild the temple, but opposition and discouragement had stalled the work for years. In 520 BC God sent two prophets at once: Haggai to say "start building" and Zechariah to say "God is with you and something far bigger is coming." The one-two punch worked: "the elders of the Jews continued to build and prosper under the preaching of Haggai the prophet and Zechariah" (Ezra 6:14), and the temple was finished about four years later.
 
-That's why Zechariah's most famous line lands the way it does. To a tiny province with no army, rebuilding on a shoestring, God said: "Not by might nor by power, but by my Spirit" (Zechariah 4:6). Kids who know the story of [rebuilding the temple](/blog/rebuilding-the-temple-for-kids) will recognize the moment -- and kids who know Palm Sunday will meet Zechariah again at [the triumphal entry](/blog/the-triumphal-entry-for-kids), five centuries down the road.
+That's why Zechariah's most famous line lands the way it does. To a tiny province with no army, rebuilding on a shoestring, God said: "Not by might nor by power, but by my Spirit" (Zechariah 4:6). Kids who know the story of [rebuilding the temple](/blog/rebuilding-the-temple-for-kids) will recognize the moment, and kids who know Palm Sunday will meet Zechariah again at [the triumphal entry](/blog/the-triumphal-entry-for-kids), five centuries down the road.
 
 ## Easy Zechariah Trivia Questions (Ages 5-8)
 
-1. What was Zechariah's job -- what kind of messenger was he? **A prophet** (Zechariah 1:1)
+1. What was Zechariah's job, what kind of messenger was he? **A prophet** (Zechariah 1:1)
 
 2. What big building did Zechariah encourage God's people to finish? **The temple in Jerusalem** (Zechariah 4:9; Ezra 5:1-2)
 
@@ -42,9 +42,9 @@ That's why Zechariah's most famous line lands the way it does. To a tiny provinc
 
 8. Did Zechariah's eight visions come to him during the day or during the night? **During the night** (Zechariah 1:8)
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories; no sign-up, no prep.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 ## Medium Zechariah Trivia Questions (Ages 9-12)
 
@@ -72,13 +72,13 @@ If the books' order is still fuzzy, print our free [books of the Bible chart and
 
 19. How many chapters does Zechariah have, making it the longest of the twelve minor prophets? **Fourteen** (Zechariah 1-14)
 
-20. What did Zechariah see representing the nations that had scattered Judah -- and who came to terrify them? **Four horns, and four craftsmen** (Zechariah 1:18-21)
+20. What did Zechariah see representing the nations that had scattered Judah, and who came to terrify them? **Four horns, and four craftsmen** (Zechariah 1:18-21)
 
 21. What was the man with a measuring line setting out to measure? **Jerusalem** (Zechariah 2:1-2)
 
 22. What plant-name does God give the coming Messianic servant in Zechariah? **The Branch** (Zechariah 3:8; 6:12)
 
-23. On whose head did Zechariah place a crown -- an unusual honor for a priest? **Joshua the high priest** (Zechariah 6:11)
+23. On whose head did Zechariah place a crown, an unusual honor for a priest? **Joshua the high priest** (Zechariah 6:11)
 
 24. How many pieces of silver was the shepherd paid, and where were they thrown? **Thirty pieces of silver, thrown to the potter in the house of the LORD** (Zechariah 11:12-13)
 
@@ -92,19 +92,19 @@ If the books' order is still fuzzy, print our free [books of the Bible chart and
 
 ## How to Use These Questions
 
-Start with the donkey (question 4) -- almost every kid knows Palm Sunday, and discovering that a prophet called the donkey five hundred years early is the "whoa" moment that sells the whole book. Run the easy round at dinner, use the vision questions as a draw-what-you-hear game for artsy kids (a flying scroll and a woman in a basket beg to be drawn), and save the thirty-pieces-of-silver thread for teens at [family Bible trivia night](/blog/family-bible-trivia-night) -- it's a straight line from Zechariah 11 to Judas.
+Start with the donkey (question 4): almost every kid knows Palm Sunday, and discovering that a prophet called the donkey five hundred years early is the "whoa" moment that sells the whole book. Run the easy round at dinner, use the vision questions as a draw-what-you-hear game for artsy kids (a flying scroll and a woman in a basket beg to be drawn), and save the thirty-pieces-of-silver thread for teens at [family Bible trivia night](/blog/family-bible-trivia-night): it's a straight line from Zechariah 11 to Judas.
 
 Sunday school teachers can pair this set with our [Haggai trivia questions](/blog/haggai-bible-trivia), since the two prophets preached to the same crowd in the same year. Our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) follow the same watch-then-quiz rhythm if your kids want more, and our [Old Testament trivia for kids](/blog/old-testament-bible-trivia-for-kids) covers the big picture from Creation to the exile.
 
-New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids) -- made for all ages.
+New to Bible trivia? Start with our [Bible trivia questions for kids](/blog/bible-trivia-for-kids): made for all ages.
 
-We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three levels, a verse with every answer, no ads.
+We built a [playable Bible trivia game](/bible-trivia) for exactly this: three levels, a verse with every answer, no ads.
 
-Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
+Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults): three rounds, every answer with its verse reference.
 
 Our [printable Christmas Bible trivia](/blog/christmas-bible-trivia) makes an easy party plan: 80 verse-referenced questions and a PDF you can photocopy.
 
-To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable) -- all 66 in order, printable.
+To see where this book sits in the whole library, grab our free [books of the Bible chart and flashcards](/blog/books-of-the-bible-printable): all 66 in order, printable.
 
 ## Frequently Asked Questions
 
@@ -118,7 +118,7 @@ Zechariah has 14 chapters, making it the longest book of the twelve minor prophe
 
 ### What is the most famous verse in Zechariah?
 
-Zechariah 9:9 is the book's most famous prophecy: "See, your king comes to you, righteous and victorious, lowly and riding on a donkey." The Gospels quote it directly when Jesus rides into Jerusalem on Palm Sunday (Matthew 21:4-5). Zechariah 4:6 -- "Not by might nor by power, but by my Spirit" -- is a close second.
+Zechariah 9:9 is the book's most famous prophecy: "See, your king comes to you, righteous and victorious, lowly and riding on a donkey." The Gospels quote it directly when Jesus rides into Jerusalem on Palm Sunday (Matthew 21:4-5). Zechariah 4:6, "Not by might nor by power, but by my Spirit", is a close second.
 
 ### What are the eight visions in Zechariah?
 
@@ -130,4 +130,4 @@ Zechariah is quoted throughout the passion story: the king on a donkey (Zecharia
 
 ### What age can kids start learning the book of Zechariah?
 
-Kids as young as 5 can learn the donkey prophecy and "Not by might nor by power, but by my Spirit" -- both are short, vivid, and easy to memorize. The night visions work well for ages 8 and up as a listen-and-draw activity, while the prophecies about the pierced shepherd are best for teens who can connect them to Good Friday.
+Kids as young as 5 can learn the donkey prophecy and "Not by might nor by power, but by my Spirit"; both are short, vivid, and easy to memorize. The night visions work well for ages 8 and up as a listen-and-draw activity, while the prophecies about the pierced shepherd are best for teens who can connect them to Good Friday.

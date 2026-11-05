@@ -23,13 +23,13 @@ Wandering in the Wilderness is a Bible story from Numbers 14-20 in the Old Testa
 
 ## What Is the Story of Wandering in the Wilderness for Kids?
 
-Alright, buckle up. Last time, the Israelites made a huge mistake — they let fear win and refused to enter the Promised Land. So what happens next? Forty years of wandering in the desert. Four. Zero. Years. That's not a road trip. That's a lifetime.
+Alright, buckle up. Last time, the Israelites made a huge mistake, they let fear win and refused to enter the Promised Land. So what happens next? Forty years of wandering in the desert. Four. Zero. Years. That's not a road trip. That's a lifetime.
 
-And you'd think — okay, they learned their lesson, right? Nope. Not even close.
+And you'd think, okay, they learned their lesson, right? Nope. Not even close.
 
 Let me introduce you to a man named Korah. Korah looked at Moses and basically said, "Who made YOU the boss? You think you're better than the rest of us?" He got 250 leaders to join his little rebellion. Bold move, Korah. Very bold.
 
-Moses said, "Fine. Tomorrow, God will make it clear who He has chosen." The next day, the ground literally opened up and swallowed Korah and his crew whole. The earth just — GULP — took them. That is not how you want your story to end, trust Me.
+Moses said, "Fine. Tomorrow, God will make it clear who He has chosen." The next day, the ground literally opened up and swallowed Korah and his crew whole. The earth just, GULP, took them. That is not how you want your story to end, trust Me.
 
 This story comes from Numbers 14-20 and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Wandering in the Wilderness teaches children important lessons abou
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
-We built a [Moses word search](/printables/bible-word-search/moses) around this story — free, no sign-up, on screen or on paper.
+We built a [Moses word search](/printables/bible-word-search/moses) around this story, free, no sign-up, on screen or on paper.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What happened to Korah when he rebelled against Moses' leadership?
 
-Korah challenged Moses' God-given authority, and God made it dramatically clear who He had chosen. The earth opened and swallowed Korah and his followers — a powerful reminder that rebelling against God's appointed leaders has serious consequences.
+Korah challenged Moses' God-given authority, and God made it dramatically clear who He had chosen. The earth opened and swallowed Korah and his followers, a powerful reminder that rebelling against God's appointed leaders has serious consequences.
 
 ### What mistake did Moses make that cost him entry into the Promised Land?
 
@@ -65,7 +65,7 @@ God told Moses to speak to the rock and water would come out. But Moses was so f
 
 ### How did God provide for the Israelites during their 40 years in the wilderness?
 
-Despite the Israelites' constant complaining, God faithfully provided for them in miraculous ways every single day for forty years — manna each morning, water from rocks, and even keeping their clothing and sandals from wearing out.
+Despite the Israelites' constant complaining, God faithfully provided for them in miraculous ways every single day for forty years, manna each morning, water from rocks, and even keeping their clothing and sandals from wearing out.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Wandering in the Wilderness about for kids?
 
-Wandering in the Wilderness is a story from Numbers 14-20. Alright, buckle up. Last time, the Israelites made a huge mistake — they let fear win and refused to enter the Promised Land. So what happens next? Forty years of wandering in the desert. Four. Zer...
+Wandering in the Wilderness is a story from Numbers 14-20. Alright, buckle up. Last time, the Israelites made a huge mistake, they let fear win and refused to enter the Promised Land. So what happens next? Forty years of wandering in the desert. Four. Zer...
 
 ### What age is the story of Wandering in the Wilderness appropriate for?
 

@@ -34,7 +34,7 @@ export async function generateMetadata(
   // occurrence before appending rather than renaming the puzzles, since
   // p.title is also the on-page heading where "Bible Word Search" is correct.
   const base = p.title.replace(/\s*word search\s*$/i, '')
-  const title = `${base} Word Search — Free Printable`
+  const title = `${base} Word Search, Free Printable`
   // base, not p.title: with p.title the holiday puzzles rendered doubled
   // nonsense ("A free printable Thanksgiving Word Search Bible word search").
   const desc = `A free printable ${base} Bible word search for kids (${p.scripture}). ${p.words.length} words, ${p.size}×${p.size} grid, answer key included. No sign-up.`
@@ -114,7 +114,7 @@ export default async function WordSearchPuzzle(
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={`https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${p.slug}.png`}
-          alt={`${base} Word Search — Bible word search puzzle for kids, ${p.scripture}`}
+          alt={`${base} Word Search, Bible word search puzzle for kids, ${p.scripture}`}
           width={1536}
           height={1024}
         />
@@ -140,7 +140,7 @@ export default async function WordSearchPuzzle(
       <section className="cpd-body no-print">
         <p>
           Twelve words from {p.scripture}, hidden in all eight directions including backwards.
-          Best for {p.ages.toLowerCase().replace('ages ', 'ages ')} — younger children can do the
+          Best for {p.ages.toLowerCase().replace('ages ', 'ages ')} younger children can do the
           same grid if you read the list aloud and let them find three or four rather than all
           twelve.
         </p>
@@ -148,7 +148,7 @@ export default async function WordSearchPuzzle(
         {storySlug && (
           <p>
             The words mean more once they know the story:{' '}
-            <a href={`/blog/${storySlug}`}>{base} retold for kids</a> — a short version with the
+            <a href={`/blog/${storySlug}`}>{base} retold for kids</a> a short version with the
             video lesson and a quiz.
           </p>
         )}
@@ -207,7 +207,7 @@ export default async function WordSearchPuzzle(
           source="blog-inline"
           sourcePost={`word-search-${p.slug}`}
           title="🖍️ Free too: all 26 Bible coloring pages"
-          subtitle="One PDF, Creation to the Empty Tomb — the set that pairs with these puzzles."
+          subtitle="One PDF, Creation to the Empty Tomb; the set that pairs with these puzzles."
         />
       </section>
 
@@ -215,7 +215,7 @@ export default async function WordSearchPuzzle(
         {...clip}
         duration={clip.duration ?? undefined}
         heading="Finding the words is not the same as knowing the story"
-        body={`Twelve words is vocabulary. ${clip.videoTitle} tells the story in about two minutes and ends with a quiz, so you find out what actually landed — one of 300+ episodes, Genesis to Revelation.`}
+        body={`Twelve words is vocabulary. ${clip.videoTitle} tells the story in about two minutes and ends with a quiz, so you find out what actually landed (one of 300+ episodes, Genesis to Revelation).`}
         source="word-search-detail"
       />
 
@@ -225,7 +225,7 @@ export default async function WordSearchPuzzle(
           <p>
             Finding {p.words.length} words is vocabulary, not comprehension. The {clip.videoTitle}{' '}
             episode takes about two minutes and ends with a quiz that tells you what actually
-            landed — one of 300+ episodes covering the whole Bible in order.
+            landed (one of 300+ episodes covering the whole Bible in order).
           </p>
           <a className="btn-primary" href="/quiz?ref=word-search-detail">
             Watch {clip.videoTitle} free

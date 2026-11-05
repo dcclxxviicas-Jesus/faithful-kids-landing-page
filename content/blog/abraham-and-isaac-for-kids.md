@@ -23,13 +23,13 @@ Abraham and Isaac is a Bible story from Genesis 22 in the Old Testament. This re
 
 ## What Is the Story of Abraham and Isaac for Kids?
 
-Welcome back, friend. I need to tell you upfront — today's story is intense. It might be the most intense story in all of Genesis. But it teaches us something so deep about trust and faith that it's worth every moment. Let's go.
+Welcome back, friend. I need to tell you upfront, today's story is intense. It might be the most intense story in all of Genesis. But it teaches us something so deep about trust and faith that it's worth every moment. Let's go.
 
-Years had passed since God first promised Abraham a son. Years of waiting. Years of wondering. But finally — FINALLY — the promise came true. Abraham and Sarah had a baby boy. They named him Isaac, which means "laughter," because Sarah literally laughed when God told her she'd have a baby at ninety years old. I mean, can you blame her?
+Years had passed since God first promised Abraham a son. Years of waiting. Years of wondering. But finally, FINALLY, the promise came true. Abraham and Sarah had a baby boy. They named him Isaac, which means "laughter," because Sarah literally laughed when God told her she'd have a baby at ninety years old. I mean, can you blame her?
 
 Isaac was everything to them. Their miracle child. The one they'd waited decades for. The one through whom God said a great nation would come.
 
-And then God said something that stops you in your tracks: "Abraham. Take your son — your only son Isaac, the one you love — and go to the region of Moriah. Offer him as a sacrifice."
+And then God said something that stops you in your tracks: "Abraham. Take your son, your only son Isaac, the one you love, and go to the region of Moriah. Offer him as a sacrifice."
 
 This story comes from Genesis 22 and is part of the Old Testament.
 
@@ -43,11 +43,11 @@ The story of Abraham and Isaac teaches children important lessons about creation
 
 ## Key Bible Verse
 
-> *"I will make you into a great nation, and I will bless you."* — Genesis 12:2
+> *"I will make you into a great nation, and I will bless you."* (Genesis 12:2)
 
 There is a free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) on our site too, printable on one sheet with no sign-up.
 
-For the quiet patriarch's full story — the laughter, the mountain, the wells — see [Who Was Isaac in the Bible?](/blog/who-was-isaac-for-kids)
+For the quiet patriarch's full story, the laughter, the mountain, the wells, see [Who Was Isaac in the Bible?](/blog/who-was-isaac-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,11 +59,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What does the name "Isaac" mean, and why was he given that name?
 
-Sarah laughed when God told her she'd have a son at ninety years old — it seemed impossible! So when the baby came, they named him Isaac, meaning "laughter."
+Sarah laughed when God told her she'd have a son at ninety years old, it seemed impossible! So when the baby came, they named him Isaac, meaning "laughter."
 
 ### When Isaac asked where the lamb for the sacrifice was, what did Abraham say?
 
-Abraham's answer showed incredible faith — even in the most difficult moment of his life, he trusted that God would make a way. And God did.
+Abraham's answer showed incredible faith, even in the most difficult moment of his life, he trusted that God would make a way. And God did.
 
 ### What did God provide as a substitute sacrifice instead of Isaac?
 
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Abraham and Isaac about for kids?
 
-Abraham and Isaac is a story from Genesis 22. Welcome back, friend. I need to tell you upfront — today's story is intense. It might be the most intense story in all of Genesis. But it teaches us something so deep about trust and faith that it'...
+Abraham and Isaac is a story from Genesis 22. Welcome back, friend. I need to tell you upfront, today's story is intense. It might be the most intense story in all of Genesis. But it teaches us something so deep about trust and faith that it'...
 
 ### What age is the story of Abraham and Isaac appropriate for?
 

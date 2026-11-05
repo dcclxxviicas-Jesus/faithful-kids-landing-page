@@ -161,7 +161,7 @@ function usageBBlock(v: Vars): string {
     return (
       `**Paid advertising is not part of this deal.** We won't run your content as a paid ad ` +
       `anywhere, and we won't run ads from your handle. If we'd like to later, we'll come back ` +
-      `to you and agree a separate fee for it — it's a separate thing you're selling, and this ` +
+      `to you and agree a separate fee for it; it's a separate thing you're selling, and this ` +
       `agreement doesn't include it.`
     )
   }
@@ -173,7 +173,7 @@ function usageBBlock(v: Vars): string {
     `your own handle where the platform supports that, for **${months} months from the first ` +
     `time we run it**. If a campaign is live when that period ends we have 30 days to wind it ` +
     `down rather than pulling it the same day. We may renew by agreeing a further fee with you. ` +
-    `This permission covers advertising only — it doesn't widen anything else above.`
+    `This permission covers advertising only; it doesn't widen anything else above.`
   )
 }
 

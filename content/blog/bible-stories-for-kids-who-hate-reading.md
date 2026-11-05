@@ -10,9 +10,9 @@ dateModified: "2026-08-16"
 
 "I hate reading."
 
-If your child has said those words, you are not alone — and you are not failing as a parent. According to Scholastic's Kids and Family Reading Report, more than one in four children ages 6-17 say they do not enjoy reading. Among boys, the number is even higher. For many kids, the issue is not intelligence or willfulness. It is a mismatch between how they learn best and how most content is delivered.
+If your child has said those words, you are not alone, and you are not failing as a parent. According to Scholastic's Kids and Family Reading Report, more than one in four children ages 6-17 say they do not enjoy reading. Among boys, the number is even higher. For many kids, the issue is not intelligence or willfulness. It is a mismatch between how they learn best and how most content is delivered.
 
-And here is the thing that matters for your family: a child who hates reading does not have to miss out on the Bible. Scripture existed as oral tradition — spoken, sung, performed, and memorized — for centuries before it was written down. The idea that the only way to engage with God's word is by sitting quietly with a book is historically inaccurate and developmentally limiting.
+And here is the thing that matters for your family: a child who hates reading does not have to miss out on the Bible. Scripture existed as oral tradition, spoken, sung, performed, and memorized, for centuries before it was written down. The idea that the only way to engage with God's word is by sitting quietly with a book is historically inaccurate and developmentally limiting.
 
 Your child can know the Bible deeply without being a bookworm. This article gives you the ten most engaging Bible stories for reluctant readers, explains why some kids resist reading, and offers alternative formats that deliver the same spiritual content in ways your child will actually absorb.
 
@@ -26,7 +26,7 @@ Understanding the "why" helps you avoid blame and find solutions:
 
 **Sensory preferences.** Some children are visual learners, some are auditory learners, and some are kinesthetic learners. A child who struggles with text may thrive with video, audio, or hands-on activities.
 
-**Negative associations.** If reading has always been homework, testing, and correction, it becomes associated with stress. The Bible — which should be associated with love, adventure, and hope — inherits that stress unfairly.
+**Negative associations.** If reading has always been homework, testing, and correction, it becomes associated with stress. The Bible, which should be associated with love, adventure, and hope, inherits that stress unfairly.
 
 **Competition with screens.** Books cannot match the dopamine output of video games, YouTube, and social media. This is not a moral failure; it is a neurological reality that requires intentional strategy.
 
@@ -44,7 +44,7 @@ Man runs from God. God sends a storm. Man gets thrown overboard. Giant fish swal
 
 ### 3. Daniel in the Lions' Den (Daniel 6)
 
-Daniel's enemies set a trap, and he gets thrown into a pit full of hungry lions. He spends the night there. But in the morning, he is alive — without a scratch. The lions' mouths were shut by an angel. The bad guys who set the trap end up in the den instead.
+Daniel's enemies set a trap, and he gets thrown into a pit full of hungry lions. He spends the night there. But in the morning, he is alive, without a scratch. The lions' mouths were shut by an angel. The bad guys who set the trap end up in the den instead.
 
 ### 4. The Ten Plagues of Egypt (Exodus 7-12)
 
@@ -56,15 +56,15 @@ Three men refuse to bow to a golden statue and get thrown into a furnace heated 
 
 ### 6. Samson (Judges 13-16)
 
-The strongest man who ever lived, whose power comes from God through his long hair. He fights a lion with his bare hands. He defeats an entire army with the jawbone of a donkey. He is betrayed by Delilah, captured, blinded — and then, in his final act, pushes down the pillars of a temple. Samson's story is epic, tragic, and deeply human.
+The strongest man who ever lived, whose power comes from God through his long hair. He fights a lion with his bare hands. He defeats an entire army with the jawbone of a donkey. He is betrayed by Delilah, captured, blinded, and then, in his final act, pushes down the pillars of a temple. Samson's story is epic, tragic, and deeply human.
 
 ### 7. Peter Walks on Water (Matthew 14:22-33)
 
-A storm is raging. Jesus walks across the lake. Peter gets out of the boat and walks on water too — until he looks at the waves and starts to sink. "Lord, save me!" he shouts, and Jesus grabs his hand. The visual of walking on water is so striking that it captures attention instantly.
+A storm is raging. Jesus walks across the lake. Peter gets out of the boat and walks on water too, until he looks at the waves and starts to sink. "Lord, save me!" he shouts, and Jesus grabs his hand. The visual of walking on water is so striking that it captures attention instantly.
 
 ### 8. The Great Flood (Genesis 6-9)
 
-God tells one man to build a massive boat because the entire world is about to be flooded. Noah builds the ark, loads it with two of every animal, and survives the biggest storm in history. The rainbow at the end is God's promise. The scale of this story — world-ending flood, floating zoo, divine rescue — makes it inherently captivating.
+God tells one man to build a massive boat because the entire world is about to be flooded. Noah builds the ark, loads it with two of every animal, and survives the biggest storm in history. The rainbow at the end is God's promise. The scale of this story, world-ending flood, floating zoo, divine rescue, makes it inherently captivating.
 
 ### 9. The Escape from Egypt (Exodus 14)
 
@@ -90,7 +90,7 @@ Video is not a lesser form of learning. Research from educational psychology sho
 
 ### Audio Bible Stories
 
-[Christian audiobooks](/blog/christian-audiobooks-for-kids) and [Bible story podcasts](/blog/bible-podcast-for-kids) let kids absorb Scripture while doing other things — riding in the car, getting ready for bed, or playing quietly. The audio format leverages the ancient oral tradition of storytelling and works especially well for auditory learners.
+[Christian audiobooks](/blog/christian-audiobooks-for-kids) and [Bible story podcasts](/blog/bible-podcast-for-kids) let kids absorb Scripture while doing other things, riding in the car, getting ready for bed, or playing quietly. The audio format leverages the ancient oral tradition of storytelling and works especially well for auditory learners.
 
 ### Interactive Apps
 
@@ -104,11 +104,11 @@ Family Bible time does not have to involve a book at all. Tell the story out lou
 
 For kids who resist traditional text but enjoy visual storytelling, graphic novel Bibles present the stories with illustrations that carry the narrative. The combination of image and text reduces the reading load while maintaining the story.
 
-Pair this with our free [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus), one sheet, ready for the kitchen table or the classroom.
 
 ## How Faithful Kids Solves This
 
-Faithful Kids was designed specifically for kids who might not sit down and read a Bible storybook. Each episode is a short video — typically two to three minutes — that tells one complete Bible story with engaging narration and captioning. Kids can:
+Faithful Kids was designed specifically for kids who might not sit down and read a Bible storybook. Each episode is a short video, typically two to three minutes, that tells one complete Bible story with engaging narration and captioning. Kids can:
 
 - Watch a story in about the time it takes to brush their teeth
 - Follow along with captions if they are building reading skills
@@ -116,7 +116,7 @@ Faithful Kids was designed specifically for kids who might not sit down and read
 - Respond to reflection questions that connect the story to their life
 - Earn XP and level up, adding a gamified motivation layer
 
-The result is that kids who "hate reading" end up knowing dozens of Bible stories deeply — not because they forced themselves through a book, but because the stories came to them in a format their brain naturally engaged with.
+The result is that kids who "hate reading" end up knowing dozens of Bible stories deeply, not because they forced themselves through a book, but because the stories came to them in a format their brain naturally engaged with.
 
 ## What Parents Can Do
 
@@ -132,9 +132,9 @@ The result is that kids who "hate reading" end up knowing dozens of Bible storie
 
 ## Watch on Faithful Kids
 
-Your child does not have to love reading to love the Bible. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and give them 200+ Bible stories in short, engaging video format — complete with quizzes, reflections, and a level-up system that makes learning Scripture feel like a game, not a chore.
+Your child does not have to love reading to love the Bible. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and give them 200+ Bible stories in short, engaging video format, complete with quizzes, reflections, and a level-up system that makes learning Scripture feel like a game, not a chore.
 
-Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids): simple retellings of the whole Bible, free, Genesis to Revelation.
 
 ## Frequently Asked Questions
 
@@ -152,4 +152,4 @@ If your child is consistently struggling with reading after second grade, has di
 
 ### Is it okay to use Bible videos as a replacement for family Bible reading?
 
-Videos are best used as a complement to — not a replacement for — shared family faith practices. But if the choice is between forced reading that creates resentment and a video that creates engagement, choose the video. You can always discuss what they watched, ask questions, and build on the content verbally. A family conversation about a video Bible story is far more valuable than silent, frustrated reading.
+Videos are best used as a complement to, not a replacement for, shared family faith practices. But if the choice is between forced reading that creates resentment and a video that creates engagement, choose the video. You can always discuss what they watched, ask questions, and build on the content verbally. A family conversation about a video Bible story is far more valuable than silent, frustrated reading.

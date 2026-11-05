@@ -27,11 +27,11 @@ Elijah and the Ravens is a Bible story from 1 & 2 Kings in the Old Testament. Th
 
 ELIJAH AND THE RAVENS Series: Elijah & Elisha | Episode 1 Scripture: 1 Kings 17:1-7
 
-Hey kids — buckle up, because today I'm introducing you to one of the most FEARLESS people who ever lived. His name? Elijah. And his story starts with one of the boldest mic-drop moments in the entire Bible.
+Hey kids, buckle up, because today I'm introducing you to one of the most FEARLESS people who ever lived. His name? Elijah. And his story starts with one of the boldest mic-drop moments in the entire Bible.
 
-Picture this: Israel is being ruled by King Ahab — one of the most wicked kings in history. He married a woman named Jezebel, and together they led the whole nation into worshipping a fake god called Baal. Temples to Baal everywhere. Prophets of the true God being hunted down. It was BAD.
+Picture this: Israel is being ruled by King Ahab, one of the most wicked kings in history. He married a woman named Jezebel, and together they led the whole nation into worshipping a fake god called Baal. Temples to Baal everywhere. Prophets of the true God being hunted down. It was BAD.
 
-And then — out of NOWHERE — a man walks straight into the king's palace. No appointment. No invitation. Just walks right in. This is Elijah. A prophet from a tiny town called Tishbe. And he looks King Ahab dead in the eye and says: "As the Lord God of Israel lives — there will be NO rain and NO dew in this land until I say so!"
+And then, out of NOWHERE, a man walks straight into the king's palace. No appointment. No invitation. Just walks right in. This is Elijah. A prophet from a tiny town called Tishbe. And he looks King Ahab dead in the eye and says: "As the Lord God of Israel lives, there will be NO rain and NO dew in this land until I say so!"
 
 This story comes from 1 & 2 Kings and is part of the Old Testament.
 
@@ -45,13 +45,13 @@ The story of Elijah and the Ravens teaches children important lessons about fait
 
 ## Key Bible Verse
 
-> *"The Lord, He is God! The Lord, He is God!"* — 1 Kings 18:39
+> *"The Lord, He is God! The Lord, He is God!"* (1 Kings 18:39)
 
 If small hands need something to do while you read, the free [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children) is made for exactly that.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
-For Elijah's whole life — the ravens, Mount Carmel, the whisper, the chariot — see [Who Was Elijah in the Bible?](/blog/who-was-elijah-for-kids)
+For Elijah's whole life, the ravens, Mount Carmel, the whisper, the chariot, see [Who Was Elijah in the Bible?](/blog/who-was-elijah-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -79,7 +79,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How often did the ravens bring food to Elijah?
 
-**Twice a day — morning and evening.**
+**Twice a day, morning and evening.**
 
 ### What did the ravens bring Elijah to eat?
 
@@ -91,7 +91,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this story?
 
-**God provides in unexpected ways — trust Him.**
+**God provides in unexpected ways, trust Him.**
 
 ## Discussion Questions for Families
 

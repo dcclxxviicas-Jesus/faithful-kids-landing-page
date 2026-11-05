@@ -12,25 +12,25 @@ dateModified: "2026-08-16"
 
 The Bible gives us beautiful, concrete examples. It is full of people who stopped in the middle of their busy, complicated, sometimes terrifying lives and turned their hearts toward God in thanks. Some of them sang. Some of them prayed. One of them ran back down a road when everyone else kept walking.
 
-Here are eight Bible stories about gratitude that will help your kids understand what it looks like to say thank you to God -- and why it matters so much.
+Here are eight Bible stories about gratitude that will help your kids understand what it looks like to say thank you to God, and why it matters so much.
 
-## 1. The Ten Lepers -- One Came Back (Luke 17:11-19)
+## 1. The Ten Lepers: One Came Back (Luke 17:11-19)
 
 Jesus was traveling toward Jerusalem when ten men with leprosy called out to Him for help. Leprosy was a devastating skin disease that forced people to live apart from their families and communities. Jesus told the men to go show themselves to the priests, and as they walked, they were healed. All ten of them. But only one turned around, came back, and fell at Jesus' feet to say thank you. Jesus noticed. "Were not ten cleansed?" He asked. "Where are the other nine?"
 
-[This story](/blog/ten-lepers-healed-for-kids) is so simple that even young children get the point: ten people received a miracle, but only one bothered to say thanks. It raises a question every family can sit with -- are we the one who comes back, or are we one of the nine who keeps walking?
+[This story](/blog/ten-lepers-healed-for-kids) is so simple that even young children get the point: ten people received a miracle, but only one bothered to say thanks. It raises a question every family can sit with: are we the one who comes back, or are we one of the nine who keeps walking?
 
 **Talk about it:** "Can you think of something good that happened to you today? Did you remember to thank God for it?"
 
 ## 2. David's Songs of Thanksgiving (Psalm 100, Psalm 136)
 
-King David was a warrior, a ruler, and a poet. Throughout his life -- in victories and defeats, in joy and deep grief -- David wrote songs of thanks to God. Psalm 100 is one of the most beloved: "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name. For the Lord is good and his love endures forever."
+King David was a warrior, a ruler, and a poet. Throughout his life, in victories and defeats, in joy and deep grief, David wrote songs of thanks to God. Psalm 100 is one of the most beloved: "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name. For the Lord is good and his love endures forever."
 
 Psalm 136 repeats the phrase "His love endures forever" 26 times. David was not just thankful when things went well. He was thankful because of who God is, regardless of the circumstances.
 
 **Talk about it:** "David wrote songs to thank God. What is one thing you could thank God for right now?"
 
-Pair a story with the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving) — gratitude vocabulary from Psalm 100, printable on one sheet.
+Pair a story with the free [Thanksgiving word search](/printables/bible-word-search/thanksgiving), gratitude vocabulary from Psalm 100, printable on one sheet.
 
 ## 3. Hannah's Prayer of Thanks (1 Samuel 2:1-10)
 
@@ -40,13 +40,13 @@ What makes [Hannah's prayer](/blog/hannahs-prayer-for-kids) so remarkable is tha
 
 **Talk about it:** "Hannah thanked God by giving back her most precious gift. What is the most generous way you could say thank you to God?"
 
-We drew a printable [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 For the whole season's worth, our [Thanksgiving hub](/holidays/thanksgiving) gathers every gratitude verse list, devotion, and activity in one place.
 
 ## 4. Jonah's Prayer from Inside the Fish (Jonah 2)
 
-Jonah is famous for running away from God, getting swallowed by a great fish, and eventually going to Nineveh. But tucked inside the story is a prayer of gratitude that most people skip over. While Jonah was inside the fish -- in the dark, in the deep, at the lowest point of his life -- he prayed: "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good. I will say, salvation comes from the Lord" (Jonah 2:9).
+Jonah is famous for running away from God, getting swallowed by a great fish, and eventually going to Nineveh. But tucked inside the story is a prayer of gratitude that most people skip over. While Jonah was inside the fish, in the dark, in the deep, at the lowest point of his life, he prayed: "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good. I will say, salvation comes from the Lord" (Jonah 2:9).
 
 Jonah thanked God before his situation changed. He was still inside the fish when he said those words. That is a powerful lesson for kids: you do not have to wait until everything is perfect to be grateful. You can thank God in the middle of the mess.
 
@@ -76,7 +76,7 @@ Mary's song is not just about her own blessing. She praised God for His faithful
 
 **Talk about it:** "Mary thanked God even though her life was about to get really complicated. What does it mean to be thankful even when you are not sure what comes next?"
 
-## 8. Psalm 100 -- A Family Gratitude Reading
+## 8. Psalm 100: A Family Gratitude Reading
 
 Psalm 100 is only five verses long, but it is one of the most powerful expressions of gratitude in the entire Bible. It works beautifully as a family reading at Thanksgiving, before a meal, or at bedtime:
 
@@ -98,12 +98,12 @@ As 1 Thessalonians 5:18 says, "Give thanks in all circumstances; for this is God
 
 Want your kids to see these stories come alive? Faithful Kids uses animated videos, interactive quizzes, and guided reflections to help children ages 7-15 build a thankful heart rooted in Scripture. [Start your free trial today.](https://faithfulkids.app/quiz)
 
-Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids): simple retellings of the whole Bible, free, Genesis to Revelation.
 
 ## Frequently Asked Questions
 
 ### How do I teach my child to be grateful to God?
-Start with small daily habits. Say a thank-you prayer at meals and bedtime. Point out blessings throughout the day: "Look at that sunset -- God made that." Read stories like the ten lepers together. Children learn gratitude by seeing it modeled and practicing it in low-pressure moments.
+Start with small daily habits. Say a thank-you prayer at meals and bedtime. Point out blessings throughout the day: "Look at that sunset; God made that." Read stories like the ten lepers together. Children learn gratitude by seeing it modeled and practicing it in low-pressure moments.
 
 ### What is the best Bible verse about gratitude for children?
 Psalm 100:4 is a wonderful choice: "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name." It is vivid, joyful, and easy for kids to picture and remember.

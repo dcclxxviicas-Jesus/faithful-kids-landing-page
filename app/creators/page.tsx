@@ -6,22 +6,22 @@ import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 const TITLE = 'Partner With Faithful Kids'
 const DESCRIPTION =
-  'Faithful Kids partners with Christian parenting, homeschool, and family creators \u2014 free full access to review, and paid collaborations for the right fit.'
+  'Faithful Kids partners with Christian parenting, homeschool, and family creators, free full access to review, and paid collaborations for the right fit.'
 
 export const metadata: Metadata = {
   title: TITLE,
   description: DESCRIPTION,
   alternates: { canonical: 'https://faithfulkids.app/creators' },
   openGraph: {
-    title: `${TITLE} — Creator Collaborations`,
+    title: `${TITLE}: Creator Collaborations`,
     description: DESCRIPTION,
     url: 'https://faithfulkids.app/creators',
     siteName: 'Faithful Kids',
     type: 'website',
     images: [{
-      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp',
+      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/david-and-goliath-for-kids-hero.webp?v=3',
       width: 1792, height: 1024,
-      alt: 'Faithful Kids — Bible story videos for kids',
+      alt: 'Faithful Kids, Bible story videos for kids',
     }],
   },
 }
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
 const PITCH_EMAIL = 'christian@faithfulkids.app'
 const PITCH_MAILTO =
   `mailto:${PITCH_EMAIL}?subject=` +
-  encodeURIComponent('Creator collaboration — Faithful Kids') +
+  encodeURIComponent('Creator collaboration (Faithful Kids)') +
   '&body=' +
   encodeURIComponent(
     'Hi Faithful Kids team!\n\n' +
@@ -58,7 +58,7 @@ const FAQS = [
   },
   {
     q: 'Does Faithful Kids pay creators?',
-    a: 'Yes — paid collaborations are offered for the right fit, scoped together after a conversation rather than from a fixed rate card. Every partnership starts with free full access so the recommendation is a real one.',
+    a: 'Yes, paid collaborations are offered for the right fit, scoped together after a conversation rather than from a fixed rate card. Every partnership starts with free full access so the recommendation is a real one.',
   },
   {
     q: 'Is there a follower minimum?',
@@ -114,7 +114,7 @@ function CreatorsV2() {
         art="creators"
         alt="A creator's desk: a phone on a small tripod, a glowing softbox light, an open notebook of sketches, a mug and a pinboard of photographs"
         eyebrow="Creator Partnerships"
-        title="Make something good for Christian families — with us"
+        title="Make something good for Christian families, with us"
         sub={<>We partner with Christian parenting, homeschool, and family creators who talk to
           their audience like real people. Free full access to try it with your own kids,
           and paid collaborations when it&rsquo;s a genuine fit.</>}
@@ -136,7 +136,7 @@ function CreatorsV2() {
             <strong>Faithful Kids is a Christian Bible-video app for kids (ages 5-15) that
             partners with Christian parenting, homeschool, and family content creators.</strong>{' '}
             Partners get free full access to the app, and paid collaborations are offered where
-            the fit is genuine &mdash; no follower minimums, pitched by email to{' '}
+            the fit is genuine, no follower minimums, pitched by email to{' '}
             <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>.
           </p>
         </div>
@@ -149,7 +149,7 @@ function CreatorsV2() {
             <tbody>
               <tr><td><strong>Who</strong></td><td>Christian parenting, homeschool &amp; family creators on Instagram, TikTok, YouTube</td></tr>
               <tr><td><strong>What you get</strong></td><td>Free full access for your family + paid collaborations for the right fit</td></tr>
-              <tr><td><strong>Follower minimum</strong></td><td>None &mdash; audience trust matters more than audience size</td></tr>
+              <tr><td><strong>Follower minimum</strong></td><td>None, audience trust matters more than audience size</td></tr>
               <tr><td><strong>How to pitch</strong></td><td>Email <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>: handles, audience sizes, one content idea</td></tr>
               <tr><td><strong>Who replies</strong></td><td>A real person, either way</td></tr>
             </tbody>
@@ -162,7 +162,7 @@ function CreatorsV2() {
         <div className="v2-wrap is-narrow v2-body">
           <p>
             Faithful Kids was built by a Christian dad for his own kids: the whole Bible as
-            short video lessons &mdash; about two minutes each &mdash; every one followed by a
+            short video lessons, about two minutes each, every one followed by a
             quiz and a reflection question. 300+ episodes across 31 series, Genesis to
             Revelation, for ages 5-15. No ads, no autoplay rabbit holes, no algorithm deciding
             what a child sees next.
@@ -170,7 +170,7 @@ function CreatorsV2() {
           <p>
             It&rsquo;s a deliberate alternative to handing kids an open video app and hoping:
             screen time that ends with a parent seeing, on a dashboard, exactly what their
-            child watched and what they understood. That&rsquo;s the honest pitch &mdash; if it
+            child watched and what they understood. That&rsquo;s the honest pitch, if it
             wouldn&rsquo;t be true in your house, we&rsquo;re the wrong partner, and we&rsquo;d
             rather know that too.
           </p>
@@ -182,7 +182,7 @@ function CreatorsV2() {
         <div className="v2-wrap is-narrow v2-body">
           <p>
             Creators in the Christian parenting, homeschool, and family-life space on
-            Instagram, TikTok, or YouTube &mdash; people whose recommendations come from what
+            Instagram, TikTok, or YouTube, people whose recommendations come from what
             they actually use. We care much more about whether your audience trusts you than
             about your follower count.
           </p>
@@ -193,10 +193,10 @@ function CreatorsV2() {
         <V2Head title="Content that works (ideas, not scripts)" />
         <div className="v2-wrap">
           <div className="v2-grid is-4">
-            <div className="v2-card"><div className="v2-ico" aria-hidden="true">📚</div><p><strong>&ldquo;What we use for Bible time&rdquo;</strong> &mdash; a day-in-the-life slot in your homeschool morning routine</p></div>
-            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🕯️</div><p><strong>Family devotions, upgraded</strong> &mdash; watch an episode together, let the quiz start the conversation</p></div>
-            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🌙</div><p><strong>The bedtime wind-down</strong> &mdash; a two-minute story instead of one more episode of anything else</p></div>
-            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🔄</div><p><strong>The screen-time swap</strong> &mdash; a before/after of replacing the first fifteen minutes of autoplay with Scripture</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">📚</div><p><strong>&ldquo;What we use for Bible time&rdquo;</strong> a day-in-the-life slot in your homeschool morning routine</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🕯️</div><p><strong>Family devotions, upgraded</strong> watch an episode together, let the quiz start the conversation</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🌙</div><p><strong>The bedtime wind-down</strong> a two-minute story instead of one more episode of anything else</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🔄</div><p><strong>The screen-time swap</strong> a before/after of replacing the first fifteen minutes of autoplay with Scripture</p></div>
           </div>
           <div className="v2-wrap is-narrow v2-body" style={{ marginTop: 22 }}>
             <p>
@@ -211,8 +211,8 @@ function CreatorsV2() {
         <V2Head title="What we offer" />
         <div className="v2-wrap">
           <div className="v2-grid is-2" style={{ maxWidth: 820, margin: '0 auto' }}>
-            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🎁</div><p><strong>Free full access</strong> &mdash; the complete app for your family, no strings, so any recommendation is a real one</p></div>
-            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🤝</div><p><strong>Paid collaborations</strong> &mdash; for creators where the fit is genuine, scoped together once we&rsquo;ve talked</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🎁</div><p><strong>Free full access</strong> the complete app for your family, no strings, so any recommendation is a real one</p></div>
+            <div className="v2-card"><div className="v2-ico" aria-hidden="true">🤝</div><p><strong>Paid collaborations</strong> for creators where the fit is genuine, scoped together once we&rsquo;ve talked</p></div>
           </div>
         </div>
       </section>

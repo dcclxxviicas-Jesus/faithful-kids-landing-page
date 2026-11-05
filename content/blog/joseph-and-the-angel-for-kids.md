@@ -23,13 +23,13 @@ Joseph and the Angel is a Bible story from Matthew 1:18-25 in the New Testament.
 
 ## What Is the Story of Joseph and the Angel for Kids?
 
-Welcome back! Last time I told you about my mom — how an angel appeared to Mary and she said yes to God's incredible plan. But today I need to tell you about someone else. Someone who doesn't always get the spotlight, but without him, my story wouldn't be the same. I'm talking about Joseph. My earthly dad.
+Welcome back! Last time I told you about my mom, how an angel appeared to Mary and she said yes to God's incredible plan. But today I need to tell you about someone else. Someone who doesn't always get the spotlight, but without him, my story wouldn't be the same. I'm talking about Joseph. My earthly dad.
 
-Joseph was a carpenter. Strong hands. Honest heart. The kind of guy who always tried to do the right thing. And he was deeply in love with Mary. They were engaged — and in those days, an engagement was basically as serious as marriage. You didn't just break it off.
+Joseph was a carpenter. Strong hands. Honest heart. The kind of guy who always tried to do the right thing. And he was deeply in love with Mary. They were engaged, and in those days, an engagement was basically as serious as marriage. You didn't just break it off.
 
 Think about how that hit him. He knew the baby wasn't his. He didn't know about the angel or God's plan yet. All he knew was that the woman he loved appeared to have betrayed him. It crushed him.
 
-But here's what tells you everything about Joseph's character — he didn't explode. He didn't try to humiliate Mary in public. The Bible says he planned to divorce her quietly, to protect her reputation. Even when his heart was breaking, he was thinking about what was best for her.
+But here's what tells you everything about Joseph's character, he didn't explode. He didn't try to humiliate Mary in public. The Bible says he planned to divorce her quietly, to protect her reputation. Even when his heart was breaking, he was thinking about what was best for her.
 
 This story comes from Matthew 1:18-25 and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of Joseph and the Angel teaches children important lessons about hope,
 
 ## Key Bible Verse
 
-> *"You intended to harm me, but God intended it for good."* — Genesis 50:20
+> *"You intended to harm me, but God intended it for good."* (Genesis 50:20)
 
 If small hands need something to do while you read, the free [angel visits Mary coloring page](/printables/bible-coloring-pages/angel-visits-mary) is made for exactly that.
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What was Joseph's job?
 
-Joseph was a carpenter — a hardworking man who built things with his hands. He was a humble, honest man who God chose to be the earthly father of Jesus.
+Joseph was a carpenter, a hardworking man who built things with his hands. He was a humble, honest man who God chose to be the earthly father of Jesus.
 
 ### What did the angel tell Joseph to name the baby, and what does the name mean?
 
-The angel told Joseph to name the baby Jesus, which means "God saves" — because He would save His people from their sins. The name wasn't random — it was a mission statement.
+The angel told Joseph to name the baby Jesus, which means "God saves", because He would save His people from their sins. The name wasn't random, it was a mission statement.
 
 ### What did Joseph do after the angel appeared to him in a dream?
 
-Joseph didn't hesitate. Even though obeying meant people would judge him and misunderstand, he got up and did exactly what God told him to do — he took Mary as his wife.
+Joseph didn't hesitate. Even though obeying meant people would judge him and misunderstand, he got up and did exactly what God told him to do, he took Mary as his wife.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ There is a free [shepherds and angels coloring page](/printables/bible-coloring-
 
 ### What is the story of Joseph and the Angel about for kids?
 
-Joseph and the Angel is a story from Matthew 1:18-25. Welcome back! Last time I told you about my mom — how an angel appeared to Mary and she said yes to God's incredible plan. But today I need to tell you about someone else. Someone who doesn't alway...
+Joseph and the Angel is a story from Matthew 1:18-25. Welcome back! Last time I told you about my mom, how an angel appeared to Mary and she said yes to God's incredible plan. But today I need to tell you about someone else. Someone who doesn't alway...
 
 ### What age is the story of Joseph and the Angel appropriate for?
 

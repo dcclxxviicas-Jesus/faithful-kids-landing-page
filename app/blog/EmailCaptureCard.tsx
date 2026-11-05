@@ -50,22 +50,22 @@ export function EmailCaptureCard({
   const COPY = {
     'coloring-pages': {
       heading: '🖍️ Free: All 26 Bible Coloring Pages',
-      sub: 'One PDF, Creation to the Empty Tomb — print the whole set at once instead of page by page.',
+      sub: 'One PDF, Creation to the Empty Tomb, print the whole set at once instead of page by page.',
       name: 'Bible Coloring Pack',
     },
     'trivia-pack': {
       heading: '🎯 Free: The Family Bible Trivia Pack',
-      sub: '100 printable questions for game night, car rides, and Sunday school — answers included.',
+      sub: '100 printable questions for game night, car rides, and Sunday school, answers included.',
       name: 'Trivia Pack',
     },
     'bedtime-kit': {
       heading: '🌙 Free: The Bedtime Bible Kit',
-      sub: 'Seven nights of five-minute stories — a story, a prayer, and one question to whisper about.',
+      sub: 'Seven nights of five-minute stories, a story, a prayer, and one question to whisper about.',
       name: 'Bedtime Bible Kit',
     },
     'quiz-plan': {
       heading: '\u{1F4EC} Email me my plan',
-      sub: 'A link that brings the whole plan back \u2014 day one stays free.',
+      sub: 'A link that brings the whole plan back, day one stays free.',
       name: 'Bible plan',
     },
     challenge: {
@@ -75,7 +75,7 @@ export function EmailCaptureCard({
     },
     advent: {
       heading: '🕯️ Free: 25 Days of Advent Bible Readings',
-      sub: 'December 1 to 25 — one short reading a night, from the first promise to the manger. Printable for the fridge.',
+      sub: 'December 1 to 25, one short reading a night, from the first promise to the manger. Printable for the fridge.',
       name: 'Advent Readings',
     },
   }[magnet]
@@ -152,7 +152,7 @@ export function EmailCaptureCard({
       </form>
       {state === 'error' && (
         <p style={{ color: '#b91c1c', fontSize: '0.85rem', margin: '10px 0 0' }}>
-          Something went wrong — please try again.
+          Something went wrong, please try again.
         </p>
       )}
       <p style={{ color: '#9ca3af', fontSize: '0.78rem', margin: '10px 0 0' }}>

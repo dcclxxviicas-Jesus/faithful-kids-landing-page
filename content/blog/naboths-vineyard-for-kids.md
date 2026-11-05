@@ -27,9 +27,9 @@ Naboth's Vineyard is a Bible story from 1 & 2 Kings in the Old Testament. This r
 
 NABOTH'S VINEYARD Series: Elijah & Elisha | Episode 5 Scripture: 1 Kings 21
 
-Alright kids, this story is different from the others. No fire from heaven. No dramatic showdown. This one is about something that happens every day in the real world — and it's something that makes My Father's blood boil. Injustice. Someone powerful crushing someone who can't fight back. Listen closely.
+Alright kids, this story is different from the others. No fire from heaven. No dramatic showdown. This one is about something that happens every day in the real world, and it's something that makes My Father's blood boil. Injustice. Someone powerful crushing someone who can't fight back. Listen closely.
 
-There was a man named Naboth. Good man. Ordinary guy. He owned a vineyard — a piece of land that had been in his family for generations. It wasn't just dirt and grapevines to him. It was his INHERITANCE — passed down from his fathers, given by God to his family. It meant everything.
+There was a man named Naboth. Good man. Ordinary guy. He owned a vineyard, a piece of land that had been in his family for generations. It wasn't just dirt and grapevines to him. It was his INHERITANCE, passed down from his fathers, given by God to his family. It meant everything.
 
 Now guess who lived right next door? King Ahab. And Ahab looked over at Naboth's vineyard and thought, "I want that. It would make a nice vegetable garden." So he went to Naboth and said, "Give me your vineyard. I'll pay you or give you a better one."
 
@@ -45,7 +45,7 @@ The story of Naboth's Vineyard teaches children important lessons about faith, m
 
 ## Key Bible Verse
 
-> *"I am the vine; you are the branches."* — John 15:5
+> *"I am the vine; you are the branches."* (John 15:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -85,7 +85,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this story?
 
-**Power doesn't give you the right to take what you want — God sees injustice and responds.**
+**Power doesn't give you the right to take what you want; God sees injustice and responds.**
 
 ## Discussion Questions for Families
 

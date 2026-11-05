@@ -25,13 +25,13 @@ Saul's Disobedience is a Bible story from 1 Samuel in the Old Testament. This re
 
 ## What Is the Story of Saul's Disobedience for Kids?
 
-THE RISE OF KINGS — Episode 3: Saul's Disobedience Based on 1 Samuel 13, 15 | Narrated by Jesus
+THE RISE OF KINGS, Episode 3: Saul's Disobedience Based on 1 Samuel 13, 15 | Narrated by Jesus
 
 Alright, this is where Saul's story takes a hard turn. If last episode was the highlight reel, this one is the moment everything falls apart. Two mistakes. Two chances to get it right. And Saul blows both of them.
 
-Mistake number one. The Philistines were gathering a MASSIVE army — thousands of chariots, soldiers like sand on the seashore. Israel's troops were terrified. They were hiding in caves, behind rocks, in pits — some even ran across the Jordan River. Saul was at Gilgal, waiting for Samuel to come and offer a sacrifice before battle. Samuel said, "Wait seven days. I'll come."
+Mistake number one. The Philistines were gathering a MASSIVE army, thousands of chariots, soldiers like sand on the seashore. Israel's troops were terrified. They were hiding in caves, behind rocks, in pits, some even ran across the Jordan River. Saul was at Gilgal, waiting for Samuel to come and offer a sacrifice before battle. Samuel said, "Wait seven days. I'll come."
 
-Day one passed. Day two. Day three. Soldiers were deserting left and right. By day seven, Saul panicked. He thought, "If I don't do something NOW, I'll have no army left." So he offered the sacrifice HIMSELF — something only a priest or prophet was supposed to do.
+Day one passed. Day two. Day three. Soldiers were deserting left and right. By day seven, Saul panicked. He thought, "If I don't do something NOW, I'll have no army left." So he offered the sacrifice HIMSELF, something only a priest or prophet was supposed to do.
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
@@ -45,9 +45,9 @@ The story of Saul's Disobedience teaches children important lessons about courag
 
 ## Key Bible Verse
 
-> *"To obey is better than sacrifice."* — 1 Samuel 15:22
+> *"To obey is better than sacrifice."* (1 Samuel 15:22)
 
-For Israel's first king from start to finish — the donkeys, the cracks, the jealousy — see [Who Was King Saul in the Bible?](/blog/who-was-king-saul-for-kids)
+For Israel's first king from start to finish, the donkeys, the cracks, the jealousy, see [Who Was King Saul in the Bible?](/blog/who-was-king-saul-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Saul's Disobedience about for kids?
 
-Saul's Disobedience is a story from 1 Samuel. THE RISE OF KINGS — Episode 3: Saul's Disobedience Based on 1 Samuel 13, 15 | Narrated by Jesus
+Saul's Disobedience is a story from 1 Samuel. THE RISE OF KINGS, Episode 3: Saul's Disobedience Based on 1 Samuel 13, 15 | Narrated by Jesus
 
 ### What age is the story of Saul's Disobedience appropriate for?
 

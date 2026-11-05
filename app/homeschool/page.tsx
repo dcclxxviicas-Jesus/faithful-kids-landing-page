@@ -10,13 +10,13 @@ export const metadata: Metadata = {
     'A video homeschool Bible curriculum for ages 5-15: 300+ short lessons in order, Genesis to Revelation, each with a quiz. No prep, no printing.',
   alternates: { canonical: 'https://faithfulkids.app/homeschool' },
   openGraph: {
-    title: 'Homeschool Bible Curriculum — 300+ Video Lessons',
+    title: 'Homeschool Bible Curriculum: 300+ Video Lessons',
     description:
       '300+ short Bible lessons in canonical order, each with a quiz and reflection. Built for ages 5-15. No prep, no printing.',
     url: 'https://faithfulkids.app/homeschool',
     type: 'website',
     images: [{
-      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/bible-stories-for-homeschool-hero.webp',
+      url: 'https://d3g07v1w0lehiv.cloudfront.net/blog-images/bible-stories-for-homeschool-hero.webp?v=3',
       width: 1792, height: 1024,
       alt: 'Faithful Kids homeschool Bible curriculum',
     }],
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 const FAQS = [
   {
     q: 'Is this a complete homeschool Bible curriculum?',
-    a: 'It covers the biblical narrative in order across 31 series and 300+ lessons, Genesis to Revelation, with a comprehension quiz and a reflection question after every lesson. It is designed to be the Bible spine of your week rather than a theology course — most families run it as a 10-20 minute daily block.',
+    a: 'It covers the biblical narrative in order across 31 series and 300+ lessons, Genesis to Revelation, with a comprehension quiz and a reflection question after every lesson. It is designed to be the Bible spine of your week rather than a theology course; most families run it as a 10-20 minute daily block.',
   },
   {
     q: 'What ages does it work for?',
@@ -178,7 +178,7 @@ export default function Homeschool() {
           </p>
           <LessonSamples />
           <p className="section-sub library-note">
-            Every lesson in the curriculum looks like this &mdash; about two minutes,
+            Every lesson in the curriculum looks like this, about two minutes,
             narrated and illustrated, followed by a comprehension quiz and one reflection
             question. There are 300+ of them, in order.
           </p>
@@ -191,7 +191,7 @@ export default function Homeschool() {
             <a href="/blog/faithful-kids-scope-and-sequence" style={{ color: '#059669', fontWeight: 700 }}>
               see the full scope and sequence
             </a>{' '}
-            — all 31 series, 310 lessons, in order.
+            all 31 series, 310 lessons, in order.
           </p>
           <span className="section-label">In Practice</span>
           <h2>What a day looks like</h2>
@@ -212,7 +212,7 @@ export default function Homeschool() {
             <div className="step-card">
               <div className="step-num">3</div>
               <h3>Reflect</h3>
-              <p>One question to talk about together. No typing required &mdash; tappable answers.</p>
+              <p>One question to talk about together. No typing required, tappable answers.</p>
             </div>
             <div className="step-card">
               <div className="step-num">4</div>
@@ -222,10 +222,10 @@ export default function Homeschool() {
           </div>
 
           <ul className="how-extras">
-            <li><strong>Multi-age</strong> &mdash; one subscription, five profiles, each age-matched</li>
-            <li><strong>No screens battle</strong> &mdash; ad-free, no algorithm, no suggested videos</li>
-            <li><strong>Any device</strong> &mdash; phone, tablet or laptop, nothing to install</li>
-            <li><strong>Free printables</strong> &mdash; <a href="/printables">coloring pages and word searches</a> to pair with the lessons</li>
+            <li><strong>Multi-age</strong> one subscription, five profiles, each age-matched</li>
+            <li><strong>No screens battle</strong> ad-free, no algorithm, no suggested videos</li>
+            <li><strong>Any device</strong> phone, tablet or laptop, nothing to install</li>
+            <li><strong>Free printables</strong>: <a href="/printables">coloring pages and word searches</a> to pair with the lessons</li>
           </ul>
         </section>
 
@@ -267,7 +267,7 @@ export default function Homeschool() {
           </div>
 
           <p className="plan-guarantee">
-            30-day money-back guarantee &mdash; if it does not fit your homeschool, we refund you.
+            30-day money-back guarantee, if it does not fit your homeschool, we refund you.
           </p>
         </section>
 

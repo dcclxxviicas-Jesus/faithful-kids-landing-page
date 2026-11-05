@@ -23,13 +23,13 @@ The Wise and Foolish Builders is a Bible story from Matthew/Luke in the New Test
 
 ## What Is the Story of The Wise and Foolish Builders for Kids?
 
-THE TEACHINGS OF JESUS — Episode 9 "The Wise and Foolish Builders" Based on Matthew 7:24-27
+THE TEACHINGS OF JESUS: Episode 9 "The Wise and Foolish Builders" Based on Matthew 7:24-27
 
-Okay, I want you to imagine two people. Both of them decide to build a house. They both pick a spot, they both draw up plans, and they both get to work. From the outside, the two houses might even look the same. But there is one MASSIVE difference that nobody can see — and it changes everything.
+Okay, I want you to imagine two people. Both of them decide to build a house. They both pick a spot, they both draw up plans, and they both get to work. From the outside, the two houses might even look the same. But there is one MASSIVE difference that nobody can see, and it changes everything.
 
-The first builder is wise. Before he lays a single brick, he digs deep — all the way down to solid rock. It takes longer. It is harder work. His friends probably walked by and said, "Why are you digging so much? Just start building already!" But he kept digging until he hit the foundation that would NOT move.
+The first builder is wise. Before he lays a single brick, he digs deep, all the way down to solid rock. It takes longer. It is harder work. His friends probably walked by and said, "Why are you digging so much? Just start building already!" But he kept digging until he hit the foundation that would NOT move.
 
-The second builder is foolish. He looks around, finds a nice flat spot of sand, and thinks, "Perfect! This looks great. Why waste time digging?" So he starts building right away — faster, easier, and it looks just as good on the surface.
+The second builder is foolish. He looks around, finds a nice flat spot of sand, and thinks, "Perfect! This looks great. Why waste time digging?" So he starts building right away, faster, easier, and it looks just as good on the surface.
 
 This story comes from Matthew/Luke and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Wise and Foolish Builders teaches children important lessons ab
 
 ## Key Bible Verse
 
-> *"Everyone who hears these words of mine and puts them into practice is like a wise man."* — Matthew 7:24
+> *"Everyone who hears these words of mine and puts them into practice is like a wise man."* (Matthew 7:24)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,11 +59,11 @@ The wise builder took the time and effort to dig down deep until he reached soli
 
 ### What happened to BOTH houses?
 
-The exact same storm — rain, rising floods, and powerful winds — hit BOTH houses. The storm did not pick favorites. The difference was not the storm. It was the foundation underneath each house.
+The exact same storm, rain, rising floods, and powerful winds, hit BOTH houses. The storm did not pick favorites. The difference was not the storm. It was the foundation underneath each house.
 
 ### What does "building on the rock" mean in this parable?
 
-Building on the rock means hearing what Jesus teaches and actually doing it — living it out in real life. It is not enough to just hear good words. The foundation comes from putting those words into action.
+Building on the rock means hearing what Jesus teaches and actually doing it, living it out in real life. It is not enough to just hear good words. The foundation comes from putting those words into action.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Wise and Foolish Builders about for kids?
 
-The Wise and Foolish Builders is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 9 "The Wise and Foolish Builders" Based on Matthew 7:24-27
+The Wise and Foolish Builders is a story from Matthew/Luke. THE TEACHINGS OF JESUS: Episode 9 "The Wise and Foolish Builders" Based on Matthew 7:24-27
 
 ### What age is the story of The Wise and Foolish Builders appropriate for?
 

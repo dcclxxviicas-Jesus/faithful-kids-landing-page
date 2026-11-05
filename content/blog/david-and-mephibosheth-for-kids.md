@@ -25,13 +25,13 @@ David and Mephibosheth is a Bible story from 2 Samuel/Psalms in the Old Testamen
 
 ## What Is the Story of David and Mephibosheth for Kids?
 
-KING DAVID'S REIGN — EPISODE 3: DAVID AND MEPHIBOSHETH Based on 2 Samuel 9 | Narrated by Jesus
+KING DAVID'S REIGN, EPISODE 3: DAVID AND MEPHIBOSHETH Based on 2 Samuel 9 | Narrated by Jesus
 
-Friends, get ready — because today's story is one of the most beautiful pictures of grace in the entire Old Testament. It is going to hit you right in the heart.
+Friends, get ready, because today's story is one of the most beautiful pictures of grace in the entire Old Testament. It is going to hit you right in the heart.
 
-David is at the height of his power. He is king. His enemies are defeated. His kingdom is secure. But one day, David asks a question that changes everything: "Is there anyone still left from the house of Saul that I can show kindness to — for Jonathan's sake?"
+David is at the height of his power. He is king. His enemies are defeated. His kingdom is secure. But one day, David asks a question that changes everything: "Is there anyone still left from the house of Saul that I can show kindness to, for Jonathan's sake?"
 
-Now, Saul was the previous king who hunted David for years. But Saul's son Jonathan was David's best friend. They had made a covenant — a promise — to always look after each other's families. And David never forgot.
+Now, Saul was the previous king who hunted David for years. But Saul's son Jonathan was David's best friend. They had made a covenant, a promise, to always look after each other's families. And David never forgot.
 
 This story comes from 2 Samuel/Psalms and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of David and Mephibosheth teaches children important lessons about wor
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
 A related freebie: our [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath), drawn as clean line art for crayons and markers.
 
@@ -73,7 +73,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What does the name "Lo-Debar" mean?
 
-**No pasture — a place of nothing.**
+**No pasture, a place of nothing.**
 
 ### How did Mephibosheth react when he was brought before King David?
 
@@ -124,7 +124,7 @@ We built a [David and Goliath word search](/printables/bible-word-search/david-a
 
 ### What is the story of David and Mephibosheth about for kids?
 
-David and Mephibosheth is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 3: DAVID AND MEPHIBOSHETH Based on 2 Samuel 9 | Narrated by Jesus
+David and Mephibosheth is a story from 2 Samuel/Psalms. KING DAVID'S REIGN, EPISODE 3: DAVID AND MEPHIBOSHETH Based on 2 Samuel 9 | Narrated by Jesus
 
 ### What age is the story of David and Mephibosheth appropriate for?
 

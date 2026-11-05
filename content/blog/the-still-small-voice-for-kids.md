@@ -29,7 +29,7 @@ THE STILL SMALL VOICE Series: Elijah & Elisha | Episode 4 Scripture: 1 Kings 19
 
 So you'd think after calling down FIRE FROM HEAVEN and proving God is real in front of the whole nation, Elijah would be on top of the world, right? Riding high? Full of confidence? Yeah... that's not what happened. What happened next is one of the most real and important parts of this whole story. So pay close attention.
 
-Queen Jezebel heard what Elijah did to her prophets of Baal, and she sent him a message: "By tomorrow, you'll be DEAD — just like them." And Elijah — the same man who just stared down 450 false prophets without blinking — RAN. He ran for his life. All the way into the wilderness.
+Queen Jezebel heard what Elijah did to her prophets of Baal, and she sent him a message: "By tomorrow, you'll be DEAD, just like them." And Elijah, the same man who just stared down 450 false prophets without blinking, RAN. He ran for his life. All the way into the wilderness.
 
 He sat down under a broom tree, completely alone, and said: "I've had enough, Lord. Take my life. I'm no better than my ancestors." The greatest prophet in Israel... wanted to die.
 
@@ -45,7 +45,7 @@ The story of The Still Small Voice teaches children important lessons about fait
 
 ## Key Bible Verse
 
-> *"After the earthquake came a fire. And after the fire came a gentle whisper."* — 1 Kings 19:12
+> *"After the earthquake came a fire. And after the fire came a gentle whisper."* (1 Kings 19:12)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -65,7 +65,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Elijah say to God under the broom tree?
 
-**"I've had enough, Lord — take my life".**
+**"I've had enough, Lord; take my life".**
 
 ### How did God FIRST respond to Elijah's despair?
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Which of these powerful events did God appear in on the mountain?
 
-**None of the above — God was in the gentle whisper.**
+**None of the above, God was in the gentle whisper.**
 
 ### What did Elijah do when he heard the gentle whisper?
 

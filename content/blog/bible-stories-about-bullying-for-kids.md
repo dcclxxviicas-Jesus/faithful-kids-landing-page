@@ -8,7 +8,7 @@ datePublished: "2026-04-01"
 dateModified: "2026-08-16"
 ---
 
-If your child is being bullied, your heart is probably breaking. You want to fix it, fight back, and protect them from every cruel word and every lonely lunch table. But you also know you cannot always be there. What you can do is fill your child's heart with truth — truth about who they are, who God says they are, and what courage looks like when the world feels hostile.
+If your child is being bullied, your heart is probably breaking. You want to fix it, fight back, and protect them from every cruel word and every lonely lunch table. But you also know you cannot always be there. What you can do is fill your child's heart with truth, truth about who they are, who God says they are, and what courage looks like when the world feels hostile.
 
 The Bible is full of stories about people who were mocked, excluded, threatened, and mistreated. These are not sanitized tales with easy endings. They are stories of real pain and real faithfulness. And they give kids something incredibly powerful: the knowledge that they are not the first person to face this, and they will not face it alone.
 
@@ -16,13 +16,13 @@ Here are six Bible stories that speak directly to the experience of being bullie
 
 ## 1. David and Goliath: When the Bully Seems Too Big (1 Samuel 17)
 
-Every kid knows [this story](/blog/david-and-goliath-for-kids), but when a child is being bullied, it takes on new meaning. David was a shepherd boy — the youngest, the smallest, the one his own family overlooked. When he volunteered to fight Goliath, even King Saul said he was too small.
+Every kid knows [this story](/blog/david-and-goliath-for-kids), but when a child is being bullied, it takes on new meaning. David was a shepherd boy, the youngest, the smallest, the one his own family overlooked. When he volunteered to fight Goliath, even King Saul said he was too small.
 
 Goliath mocked David openly: "Am I a dog, that you come at me with sticks?" (1 Samuel 17:43). He cursed David and laughed at him in front of two entire armies.
 
 But David did not fight with Goliath's weapons. He did not try to match the bully's size or strength. He said, "You come against me with sword and spear and javelin, but I come against you in the name of the Lord Almighty" (1 Samuel 17:45).
 
-**What your child needs to hear:** "You do not have to be bigger or tougher than the bully. God is with you, and He gives you a different kind of strength — the kind that does not depend on size."
+**What your child needs to hear:** "You do not have to be bigger or tougher than the bully. God is with you, and He gives you a different kind of strength, the kind that does not depend on size."
 
 ## 2. Joseph and His Brothers: When Family Hurts You (Genesis 37, 39-45)
 
@@ -30,21 +30,21 @@ Joseph's own brothers hated him. They mocked him, threw him into a pit, and sold
 
 But God was working through every painful chapter. Joseph eventually rose to become the second most powerful man in Egypt. And when he finally faced his brothers again, he said something extraordinary: "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives" (Genesis 50:20).
 
-This does not mean bullying is okay. It means that God can bring something good out of even the worst experiences — and that the bully does not get to write the end of your child's story.
+This does not mean bullying is okay. It means that God can bring something good out of even the worst experiences, and that the bully does not get to write the end of your child's story.
 
 **What your child needs to hear:** "What is happening to you is not fair, and it is not your fault. But this is not the end of your story. God has so much more planned for you."
 
 ## 3. Daniel Standing Firm: When Everyone Wants You to Give In (Daniel 6)
 
-Daniel served faithfully in a foreign government, but his colleagues were jealous. They could not find any fault in his work, so they targeted the one thing that made him different — his faith. They manipulated the king into signing a law that made prayer illegal, knowing Daniel would never stop praying.
+Daniel served faithfully in a foreign government, but his colleagues were jealous. They could not find any fault in his work, so they targeted the one thing that made him different, his faith. They manipulated the king into signing a law that made prayer illegal, knowing Daniel would never stop praying.
 
 Daniel did not hide. He did not compromise. He went to his room, opened his windows toward Jerusalem, and prayed just as he always had (Daniel 6:10). He was [thrown into a den of lions](/blog/daniel-in-the-lions-den-for-kids). And God shut the lions' mouths.
 
-This story speaks powerfully to kids who are bullied for being different — for their faith, their interests, their personality, or anything else that sets them apart.
+This story speaks powerfully to kids who are bullied for being different, for their faith, their interests, their personality, or anything else that sets them apart.
 
 **What your child needs to hear:** "Being different is not something to be ashamed of. Daniel was targeted because he was faithful. The things that make you stand out are often the things God is most proud of."
 
-We drew a printable [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [lost sheep coloring page](/printables/bible-coloring-pages/the-lost-sheep) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## 4. Jesus Mocked and Rejected (Matthew 27:27-31; Luke 23:34)
 
@@ -58,7 +58,7 @@ Jesus does not watch your child's pain from a distance. He knows exactly what it
 
 ## 5. Nehemiah's Enemies: When People Try to Stop Your Good Work (Nehemiah 4:1-9; 6:1-16)
 
-Nehemiah was rebuilding the walls of Jerusalem, and his enemies relentlessly mocked and threatened him. Sanballat and Tobiah publicly ridiculed the work: "What they are building — even a fox climbing up on it would break down their wall of stones!" (Nehemiah 4:3).
+Nehemiah was rebuilding the walls of Jerusalem, and his enemies relentlessly mocked and threatened him. Sanballat and Tobiah publicly ridiculed the work: "What they are building, even a fox climbing up on it would break down their wall of stones!" (Nehemiah 4:3).
 
 They sent messages trying to lure Nehemiah into meetings designed to harm him. They spread rumors about him. They used every tactic bullies use: mockery, intimidation, deception, and isolation.
 
@@ -68,13 +68,13 @@ Nehemiah's response? "I am carrying on a great project and cannot go down" (Nehe
 
 ## 6. Esther Facing Haman: When Speaking Up Takes Courage (Esther 3-7)
 
-Haman was the ultimate bully — a powerful official who wanted to destroy an entire people because one man, Mordecai, would not bow to him. When Mordecai told Esther about the plot, she was terrified. Going to the king uninvited could mean death.
+Haman was the ultimate bully, a powerful official who wanted to destroy an entire people because one man, Mordecai, would not bow to him. When Mordecai told Esther about the plot, she was terrified. Going to the king uninvited could mean death.
 
 Mordecai's words to Esther echo through the centuries: "Who knows but that you have come to your royal position for such a time as this?" (Esther 4:14).
 
 Esther fasted, prayed, and then walked into the king's court. She spoke up. She exposed Haman's cruelty. And [she saved her people](/blog/esther-saves-her-people-for-kids).
 
-**What your child needs to hear:** "Sometimes standing up to a bully means telling the truth to someone who can help. That is not tattling — that is courage. Esther saved lives by speaking up."
+**What your child needs to hear:** "Sometimes standing up to a bully means telling the truth to someone who can help. That is not tattling, that is courage. Esther saved lives by speaking up."
 
 ## What to Tell a Bullied Child
 
@@ -98,13 +98,13 @@ If your child is being physically harmed, if their mental health is deterioratin
 
 ## Building Resilience Through Story
 
-Research consistently shows that children who have a strong "narrative identity" — a sense of their own story and where they fit in a larger story — are more resilient in the face of adversity. Bible stories give kids exactly that. They are not just tales from long ago. They are proof that God sees the bullied, stands with the outcast, and writes endings that the bullies never saw coming.
+Research consistently shows that children who have a strong "narrative identity," a sense of their own story and where they fit in a larger story, are more resilient in the face of adversity. Bible stories give kids exactly that. They are not just tales from long ago. They are proof that God sees the bullied, stands with the outcast, and writes endings that the bullies never saw coming.
 
 ## Watch on Faithful Kids
 
-Help your child see themselves in these stories of courage and faithfulness. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let your kids watch David face Goliath, Daniel stand firm in the lions' den, and Esther find her voice — all in short, engaging episodes designed for ages 7-15.
+Help your child see themselves in these stories of courage and faithfulness. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let your kids watch David face Goliath, Daniel stand firm in the lions' den, and Esther find her voice, all in short, engaging episodes designed for ages 7-15.
 
-Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids); simple retellings of the whole Bible, free, Genesis to Revelation.
 
 ## Frequently Asked Questions
 
@@ -114,8 +114,8 @@ The Bible offers several principles: do not repay evil with evil (Romans 12:17),
 
 ### How do I talk to my child about forgiving a bully?
 
-Forgiveness is a process, not a one-time event, and it does not mean the bullying was acceptable or should continue. Explain that forgiving means choosing not to carry hatred in their heart — it is for their freedom, not the bully's benefit. Never pressure a child to forgive before they have fully processed their pain. Let them feel their feelings first, then gently walk toward forgiveness over time.
+Forgiveness is a process, not a one-time event, and it does not mean the bullying was acceptable or should continue. Explain that forgiving means choosing not to carry hatred in their heart, it is for their freedom, not the bully's benefit. Never pressure a child to forgive before they have fully processed their pain. Let them feel their feelings first, then gently walk toward forgiveness over time.
 
 ### Should Christian kids fight back against bullies?
 
-Physical self-defense is a personal and family decision. The Bible calls us to be peacemakers (Matthew 5:9) but also to protect the vulnerable (Proverbs 31:8-9). Most experts recommend that children first try to walk away, tell an adult, and use their words. If a child is in physical danger, protecting themselves is not sinful. The key is teaching kids that their worth does not depend on winning a fight — it comes from God.
+Physical self-defense is a personal and family decision. The Bible calls us to be peacemakers (Matthew 5:9) but also to protect the vulnerable (Proverbs 31:8-9). Most experts recommend that children first try to walk away, tell an adult, and use their words. If a child is in physical danger, protecting themselves is not sinful. The key is teaching kids that their worth does not depend on winning a fight, it comes from God.

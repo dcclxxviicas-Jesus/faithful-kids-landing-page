@@ -23,13 +23,13 @@ Solomon Turns Away is a Bible story from 1 Kings in the Old Testament. This rete
 
 ## What Is the Story of Solomon Turns Away for Kids?
 
-SOLOMON & THE KINGDOM — Episode 7: Solomon Turns Away Bible Reference: 1 Kings 11 Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM, Episode 7: Solomon Turns Away Bible Reference: 1 Kings 11 Series: Solomon & the Kingdom
 
 Hey everyone. Today's story is a hard one. Because the wisest man who ever lived is about to make the dumbest mistake imaginable.
 
-We've watched Solomon shine — the wisdom, the temple, the proverbs, the fame. But now everything unravels. And it starts in a place you might not expect — his heart.
+We've watched Solomon shine, the wisdom, the temple, the proverbs, the fame. But now everything unravels. And it starts in a place you might not expect, his heart.
 
-Solomon loved many foreign women. Not two or three. The Bible says SEVEN HUNDRED wives and three hundred concubines. Many came from nations God specifically warned about — Moab, Ammon, Edom, Sidon. God said, "Do not intermarry with them, because they WILL turn your hearts after their gods."
+Solomon loved many foreign women. Not two or three. The Bible says SEVEN HUNDRED wives and three hundred concubines. Many came from nations God specifically warned about, Moab, Ammon, Edom, Sidon. God said, "Do not intermarry with them, because they WILL turn your hearts after their gods."
 
 This story comes from 1 Kings and is part of the Old Testament.
 
@@ -43,11 +43,11 @@ The story of Solomon Turns Away teaches children important lessons about wisdom,
 
 ## Key Bible Verse
 
-> *"Give your servant a discerning heart to govern your people."* — 1 Kings 3:9
+> *"Give your servant a discerning heart to govern your people."* (1 Kings 3:9)
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
-For the wisest king's whole arc — the dream, the judgment, the temple, and the fall — see [Who Was Solomon in the Bible?](/blog/who-was-solomon-for-kids)
+For the wisest king's whole arc, the dream, the judgment, the temple, and the fall, see [Who Was Solomon in the Bible?](/blog/who-was-solomon-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -63,11 +63,11 @@ Solomon married 700 wives from foreign nations that God had specifically warned 
 
 ### What was God's consequence for Solomon's disobedience?
 
-God told Solomon that the kingdom would be torn apart — but for David's sake, it wouldn't happen during Solomon's lifetime. It would be torn from the hand of Solomon's son. Even in judgment, God showed mercy.
+God told Solomon that the kingdom would be torn apart, but for David's sake, it wouldn't happen during Solomon's lifetime. It would be torn from the hand of Solomon's son. Even in judgment, God showed mercy.
 
 ### What is the key lesson from Solomon's downfall?
 
-Solomon knew the truth better than anyone — he literally wrote the book on wisdom. But knowing what's right and doing what's right are two very different things. Small compromises led to a massive collapse.
+Solomon knew the truth better than anyone, he literally wrote the book on wisdom. But knowing what's right and doing what's right are two very different things. Small compromises led to a massive collapse.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Solomon Turns Away about for kids?
 
-Solomon Turns Away is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 7: Solomon Turns Away Bible Reference: 1 Kings 11 Series: Solomon & the Kingdom
+Solomon Turns Away is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 7: Solomon Turns Away Bible Reference: 1 Kings 11 Series: Solomon & the Kingdom
 
 ### What age is the story of Solomon Turns Away appropriate for?
 

@@ -23,11 +23,11 @@ The Burning Bush is a Bible story from Exodus 3-4 in the Old Testament. This ret
 
 ## What Is the Story of The Burning Bush for Kids?
 
-Okay, so last time we left Moses running for his life, right? He went from living in a palace to hiding out in the middle of nowhere -- a place called Midian. And what's he doing there? Herding sheep. Yep, sheep. The guy who grew up as Egyptian royalty is now chasing fluffy animals around the desert. Life is funny like that sometimes.
+Okay, so last time we left Moses running for his life, right? He went from living in a palace to hiding out in the middle of nowhere, a place called Midian. And what's he doing there? Herding sheep. Yep, sheep. The guy who grew up as Egyptian royalty is now chasing fluffy animals around the desert. Life is funny like that sometimes.
 
-But here's the thing -- Moses spent FORTY YEARS out there. Forty! That's not a quick timeout. That's a whole career of walking around dusty hills with a bunch of sheep who don't exactly have great conversation skills.
+But here's the thing: Moses spent FORTY YEARS out there. Forty! That's not a quick timeout. That's a whole career of walking around dusty hills with a bunch of sheep who don't exactly have great conversation skills.
 
-Moses is leading his flock near Mount Horeb when he sees something that makes zero sense. A bush is on fire. Okay, not that weird -- it's the desert, things get dry. BUT THIS BUSH ISN'T BURNING UP. The flames are dancing, the bush is blazing, but not a single leaf turns to ash. Moses thinks, "I gotta check this out."
+Moses is leading his flock near Mount Horeb when he sees something that makes zero sense. A bush is on fire. Okay, not that weird; it's the desert, things get dry. BUT THIS BUSH ISN'T BURNING UP. The flames are dancing, the bush is blazing, but not a single leaf turns to ash. Moses thinks, "I gotta check this out."
 
 And as he walks toward it, a voice comes from the bush: "Moses! Moses!"
 
@@ -43,9 +43,9 @@ The story of The Burning Bush teaches children important lessons about freedom, 
 
 ## Key Bible Verse
 
-> *"Take off your sandals, for the place where you are standing is holy ground."* — Exodus 3:5
+> *"Take off your sandals, for the place where you are standing is holy ground."* (Exodus 3:5)
 
-To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land — real geography, with the traditional stops labeled.
+To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land, real geography, with the traditional stops labeled.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,11 +57,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What was unusual about the burning bush Moses saw?
 
-The bush was blazing with fire, but it was not consumed -- not a single leaf burned away. This miraculous sight caught Moses' attention and drew him closer.
+The bush was blazing with fire, but it was not consumed, not a single leaf burned away. This miraculous sight caught Moses' attention and drew him closer.
 
 ### What name did God reveal to Moses at the burning bush?
 
-God told Moses His name was "I AM WHO I AM," showing that He is eternal, always present, and unchanging -- not bound by past or future.
+God told Moses His name was "I AM WHO I AM," showing that He is eternal, always present, and unchanging; not bound by past or future.
 
 ### What was one of Moses' excuses for why he couldn't go back to Egypt?
 
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Burning Bush about for kids?
 
-The Burning Bush is a story from Exodus 3-4. Okay, so last time we left Moses running for his life, right? He went from living in a palace to hiding out in the middle of nowhere -- a place called Midian. And what's he doing there? Herding she...
+The Burning Bush is a story from Exodus 3-4. Okay, so last time we left Moses running for his life, right? He went from living in a palace to hiding out in the middle of nowhere, a place called Midian. And what's he doing there? Herding she...
 
 ### What age is the story of The Burning Bush appropriate for?
 

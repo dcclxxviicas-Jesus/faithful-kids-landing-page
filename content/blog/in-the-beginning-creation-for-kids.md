@@ -23,11 +23,11 @@ In the Beginning Creation is a Bible story from Genesis 1-2 in the Old Testament
 
 ## What Is the Story of In the Beginning Creation for Kids?
 
-Hey there! I am so glad you're here. My name is Jesus, and I've got an incredible story to tell you. Actually — it's THE story. The one that started everything.
+Hey there! I am so glad you're here. My name is Jesus, and I've got an incredible story to tell you. Actually, it's THE story. The one that started everything.
 
 Close your eyes for a second and picture... nothing. No light. No sound. No ground beneath your feet. No sky above your head. Just total, complete darkness. Kind of scary, right?
 
-Now imagine a voice cutting through that darkness like thunder — my Father's voice — and He says four words: "Let there be light."
+Now imagine a voice cutting through that darkness like thunder, my Father's voice, and He says four words: "Let there be light."
 
 BOOM. Light explodes everywhere. The very first sunrise that ever existed. No one was there to see it except God Himself. And that? That was just Day One.
 
@@ -43,7 +43,7 @@ The story of In the Beginning Creation teaches children important lessons about 
 
 ## Key Bible Verse
 
-> *"In the beginning, God created the heavens and the earth."* — Genesis 1:1
+> *"In the beginning, God created the heavens and the earth."* (Genesis 1:1)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What were the very first words God spoke?
 
-God spoke "Let there be light" and light burst into existence — that was the very first thing He created on Day One.
+God spoke "Let there be light" and light burst into existence, that was the very first thing He created on Day One.
 
 ### What did God use to form Adam?
 
-God scooped up dust from the ground and formed Adam, then breathed life into him — making humans uniquely personal among all creation.
+God scooped up dust from the ground and formed Adam, then breathed life into him, making humans uniquely personal among all creation.
 
 ### Why did God rest on the seventh day?
 
-God didn't rest because He was tired — He rested to set an example and show us that rest is an important gift.
+God didn't rest because He was tired, He rested to set an example and show us that rest is an important gift.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ There is a free [Creation coloring page](/printables/bible-coloring-pages/creati
 
 ### What is the story of In the Beginning Creation about for kids?
 
-In the Beginning Creation is a story from Genesis 1-2. Hey there! I am so glad you're here. My name is Jesus, and I've got an incredible story to tell you. Actually — it's THE story. The one that started everything.
+In the Beginning Creation is a story from Genesis 1-2. Hey there! I am so glad you're here. My name is Jesus, and I've got an incredible story to tell you. Actually, it's THE story. The one that started everything.
 
 ### What age is the story of In the Beginning Creation appropriate for?
 

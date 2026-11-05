@@ -27,7 +27,7 @@ The Good Shepherd is a Bible story from Hebrews/James/Revelation in the New Test
 
 TITLE: The Good Shepherd SERIES: The Ending & the Beginning EPISODE: 5 SCRIPTURE: John 10:1-18
 
-I said these words Myself. Standing in front of the crowds, looking into the eyes of people who were tired, lost, and led by leaders who didn't care about them — I said:
+I said these words Myself. Standing in front of the crowds, looking into the eyes of people who were tired, lost, and led by leaders who didn't care about them, I said:
 
 The people who heard Me knew exactly what that meant. They knew shepherds. A shepherd doesn't clock in and clock out. A shepherd lives with the sheep. Sleeps beside them. Walks ahead of them into danger. Carries the weak ones on his shoulders. Calls each one by name.
 
@@ -45,7 +45,7 @@ The story of The Good Shepherd teaches children important lessons about faith, h
 
 ## Key Bible Verse
 
-> *"I am the good shepherd. The good shepherd lays down his life for the sheep."* — John 10:11
+> *"I am the good shepherd. The good shepherd lays down his life for the sheep."* (John 10:11)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -69,11 +69,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus say about how He would lay down His life?
 
-**No one takes His life — He lays it down of His own accord.** "No one takes My life from Me. I lay it down of My own accord." Jesus died willingly, on purpose, because He chose to save you.
+**No one takes His life, He lays it down of His own accord.** "No one takes My life from Me. I lay it down of My own accord." Jesus died willingly, on purpose, because He chose to save you.
 
 ### Who are the "other sheep not of this sheep pen" that Jesus mentions?
 
-**People from every nation — including you.** Jesus wasn't only talking about the Jewish people. He was talking about all people, from every nation and every time period — and that includes you.
+**People from every nation, including you.** Jesus wasn't only talking about the Jewish people. He was talking about all people, from every nation and every time period, and that includes you.
 
 ### Which Old Testament psalm connects directly to Jesus being the Good Shepherd?
 

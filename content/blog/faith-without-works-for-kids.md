@@ -31,7 +31,7 @@ My brother James didn't hold back. He never did. And when he wrote his letter to
 
 "What good is it if someone claims to have faith but has no deeds? Can such faith save them?"
 
-Then he painted a picture. Imagine a brother or sister comes to you — no coat, no food, shivering and hungry. And you look at them and say, "Go in peace! Stay warm and well fed!" But you don't lift a finger to help. You don't give them a jacket. You don't share your meal. You just... talk.
+Then he painted a picture. Imagine a brother or sister comes to you, no coat, no food, shivering and hungry. And you look at them and say, "Go in peace! Stay warm and well fed!" But you don't lift a finger to help. You don't give them a jacket. You don't share your meal. You just... talk.
 
 This story comes from Hebrews/James/Revelation and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of Faith Without Works teaches children important lessons about faith,
 
 ## Key Bible Verse
 
-> *"Faith by itself, if it is not accompanied by action, is dead."* — James 2:17
+> *"Faith by itself, if it is not accompanied by action, is dead."* (James 2:17)
 
 For quiet time afterwards, print the free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) and let them color while you talk it through.
 
@@ -59,27 +59,27 @@ After watching the video, see if your child can answer these questions:
 
 ### In James's example, what does the person say to the hungry, cold brother or sister?
 
-**"Go in peace! Stay warm and well fed!" — but does nothing.** James used this example to show how empty words are without action. Saying kind things while doing nothing is meaningless.
+**"Go in peace! Stay warm and well fed!" but does nothing.** James used this example to show how empty words are without action. Saying kind things while doing nothing is meaningless.
 
 ### According to James, what is faith without works?
 
-**Dead.** James didn't sugarcoat it. He said faith without works is dead — not struggling, not growing — dead. Like a body without a spirit.
+**Dead.** James didn't sugarcoat it. He said faith without works is dead, not struggling, not growing, dead. Like a body without a spirit.
 
 ### Does James teach that good works EARN salvation?
 
-**No — salvation is a gift, but real faith naturally produces action.** Salvation is always a gift from God. But genuine faith changes you from the inside out, and that change shows in how you live.
+**No,** salvation is a gift, but real faith naturally produces action. Salvation is always a gift from God. But genuine faith changes you from the inside out, and that change shows in how you live.
 
 ### What did Abraham do that showed his faith was real?
 
-**He was willing to offer his son Isaac when God asked.** Abraham's willingness to obey God — even in the hardest moment imaginable — proved that his faith wasn't just words. It was action.
+**He was willing to offer his son Isaac when God asked.** Abraham's willingness to obey God, even in the hardest moment imaginable, proved that his faith wasn't just words. It was action.
 
 ### How did Rahab demonstrate her faith?
 
-**She risked her life by hiding the Israelite spies.** Rahab didn't just believe — she acted on that belief. She risked everything to protect God's people, and her faith saved her life.
+**She risked her life by hiding the Israelite spies.** Rahab didn't just believe, she acted on that belief. She risked everything to protect God's people, and her faith saved her life.
 
 ### What is the main lesson of James chapter 2?
 
-**If you believe it, you'll live it — real faith moves your feet.** Real faith isn't just something in your head. It shows up in your life — in how you treat people, how you serve, and how you love.
+**If you believe it, you'll live it,** real faith moves your feet. Real faith isn't just something in your head. It shows up in your life, in how you treat people, how you serve, and how you love.
 
 ## Discussion Questions for Families
 

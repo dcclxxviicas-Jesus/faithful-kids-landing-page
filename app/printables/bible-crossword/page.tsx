@@ -25,9 +25,9 @@ import printableVideos from '@/lib/printable-videos.json'
  */
 
 export const metadata: Metadata = {
-  title: 'Bible Crossword Puzzles — 7 Free Printables',
+  title: 'Bible Crossword Puzzles: 7 Free Printables',
   description:
-    'Seven free Bible crossword puzzles for kids — play online or print. Christmas, Noah, Moses, David and Goliath, Easter. Clues, answer keys, no sign-up.',
+    'Seven free Bible crossword puzzles for kids, play online or print. Christmas, Noah, Moses, David and Goliath, Easter. Clues, answer keys, no sign-up.',
   keywords: [
     'bible crossword puzzles', 'bible crossword', 'bible crossword printable',
     'free bible crossword puzzles', 'bible crossword for kids',
@@ -35,9 +35,9 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-crossword' },
   openGraph: {
-    title: 'Bible Crossword Puzzles — 7 Free Printables',
+    title: 'Bible Crossword Puzzles: 7 Free Printables',
     description:
-      'Seven free Bible crossword puzzles for kids — play online or print, with answer keys. No sign-up.',
+      'Seven free Bible crossword puzzles for kids, play online or print, with answer keys. No sign-up.',
     url: 'https://faithfulkids.app/printables/bible-crossword',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -81,7 +81,7 @@ export default function CrosswordHub() {
         <span className="section-label">Free · No Sign-Up</span>
         <h1>Bible Crossword Puzzles</h1>
         <p className="blog-hero-sub">
-          Seven crosswords — one covering the whole Bible, playable right here, and six more built
+          Seven crosswords, one covering the whole Bible, playable right here, and six more built
           from a single story each. All free to print, clues and answer key included.
         </p>
       </section>
@@ -91,11 +91,11 @@ export default function CrosswordHub() {
           These are interlocking crosswords in the format kids&rsquo; Bible puzzles actually use:
           every answer crosses at least one other, and every clue comes from the story itself
           rather than generic religious vocabulary. Solving one means a child has recalled ten or
-          twelve facts from a passage — which makes a crossword the rare worksheet that is
+          twelve facts from a passage, which makes a crossword the rare worksheet that is
           actually a comprehension check in disguise.
         </p>
         <p>
-          Each puzzle plays in the browser — right answers lock in green on their own — and prints
+          Each puzzle plays in the browser, right answers lock in green on their own, and prints
           on a single sheet with an empty grid and the clues, so the same page works for a quiet
           Sunday afternoon and a Sunday school class of thirty.
         </p>
@@ -104,7 +104,7 @@ export default function CrosswordHub() {
       <section className="ws-play no-print">
         <h2>Play the Bible crossword now</h2>
         <p className="section-sub">
-          Twelve answers from across the whole Bible. Tap a clue, type the answer — it works on a
+          Twelve answers from across the whole Bible. Tap a clue, type the answer, it works on a
           phone, and nothing needs printing.
         </p>
         <CrosswordGame
@@ -160,7 +160,7 @@ export default function CrosswordHub() {
         <h2>Which puzzle suits which age</h2>
         <p>
           Noah&rsquo;s Ark and David and Goliath use the shortest answers and the most familiar
-          names, so they suit six and seven year olds — especially with a grown-up reading the
+          names, so they suit six and seven year olds, especially with a grown-up reading the
           clues aloud. The all-Bible puzzle above is the hardest, because its answers span
           Genesis to Revelation and a child has to place each clue in the right story first.
         </p>
@@ -173,7 +173,7 @@ export default function CrosswordHub() {
         <h2>Printing these for a class</h2>
         <p>
           Print as many copies as you need for a Sunday school, a homeschool co-op, a camp or a
-          church group — no licence, no attribution required. The printed page is the empty grid
+          church group, no licence, no attribution required. The printed page is the empty grid
           with clues; the answer key lives on each puzzle&rsquo;s page behind a &ldquo;show the
           answer key&rdquo; fold, so it never prints over a shoulder by accident.
         </p>
@@ -181,7 +181,7 @@ export default function CrosswordHub() {
         <h2>How to use a Bible crossword well</h2>
         <p>
           Use it after the story, not before. A word search works as a vocabulary preview, but a
-          crossword asks what happened and why — &ldquo;how many stones did David pick up?&rdquo;
+          crossword asks what happened and why, &ldquo;how many stones did David pick up?&rdquo;
           only lands once they have heard the answer. Straight after the lesson it is review that
           does not feel like review; a week later it tells you what actually stuck.
         </p>
@@ -205,7 +205,7 @@ export default function CrosswordHub() {
         <div className="blog-bottom-cta-inner">
           <h2>The stories behind the puzzles</h2>
           <p>
-            Every theme here is an episode in the Faithful Kids library — a few minutes long, with
+            Every theme here is an episode in the Faithful Kids library, a few minutes long, with
             a quiz afterwards so you can see what your child actually understood.
           </p>
           <a className="btn-primary" href="/quiz?ref=crossword">

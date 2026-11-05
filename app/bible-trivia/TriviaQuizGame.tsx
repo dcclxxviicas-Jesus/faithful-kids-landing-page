@@ -58,9 +58,9 @@ const ENCOURAGE = ['Now you know it!', 'That was a tricky one!', 'Every miss is 
 function rankFor(score: number): { title: string; emoji: string; line: string } {
   if (score >= 10) return { title: 'Bible Master', emoji: '👑', line: 'A perfect round. Incredible!' }
   if (score >= 8) return { title: 'Scripture Scholar', emoji: '🌟', line: 'You really know your Bible!' }
-  if (score >= 6) return { title: 'Faithful Learner', emoji: '📖', line: 'Great round — you know a lot!' }
+  if (score >= 6) return { title: 'Faithful Learner', emoji: '📖', line: 'Great round: you know a lot!' }
   if (score >= 4) return { title: 'Rising Star', emoji: '🌱', line: 'Nice! Every game makes you sharper.' }
-  return { title: 'Brave Beginner', emoji: '💪', line: 'Great start — every question is a story to discover!' }
+  return { title: 'Brave Beginner', emoji: '💪', line: 'Great start: every question is a story to discover!' }
 }
 
 const CONFETTI_COLORS = ['#16a34a', '#4ade80', '#fbbf24', '#f472b6', '#60a5fa', '#a78bfa']
@@ -201,7 +201,7 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
           <div style={{ fontSize: '2.6rem', lineHeight: 1, marginBottom: 8 }}>🏆</div>
           <h2 className="tg-title">Bible Trivia Challenge</h2>
           <p className="tg-sub">
-            10 questions. Pick your level — how well do you know the greatest story ever told?
+            10 questions. Pick your level, how well do you know the greatest story ever told?
           </p>
           <div className="tg-diff-grid">
             {DIFFICULTIES.map(d => (
@@ -212,7 +212,7 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
               </button>
             ))}
           </div>
-          <p className="tg-note">100 questions in the pool — every round is different. Free forever.</p>
+          <p className="tg-note">100 questions in the pool, every round is different. Free forever.</p>
         </div>
         {fsRow}
       </FullscreenShell>
@@ -268,7 +268,7 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
               click in its lifetime. Play again is now the secondary action. */}
           <div className="tg-cta-primary">
             <p style={{ fontSize: '0.92rem', margin: '0 0 12px' }} className="tg-sub">
-              Love Bible trivia? Your kids will love <strong style={{ color: 'var(--text)' }}>Faithful Kids</strong> —
+              Love Bible trivia? Your kids will love <strong style={{ color: 'var(--text)' }}>Faithful Kids</strong>:
               short Bible story videos with quizzes just like this one.
             </p>
             <a
@@ -302,7 +302,7 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
           </div>
           {difficulty !== 'hard' && score >= 8 && (
             <button className="tg-btn-text" onClick={() => start(difficulty === 'easy' ? 'medium' : 'hard')}>
-              That looked easy — try {difficulty === 'easy' ? 'Medium' : 'Hard'} →
+              That looked easy, try {difficulty === 'easy' ? 'Medium' : 'Hard'} →
             </button>
           )}
         </div>

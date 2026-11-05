@@ -23,11 +23,11 @@ Joseph the Dreamer is a Bible story from Genesis 37-40 in the Old Testament. Thi
 
 ## What Is the Story of Joseph the Dreamer for Kids?
 
-Hey friend! Alright — buckle up, because for these last two episodes, we're diving into one of the greatest stories in all of Genesis. It's got drama, betrayal, dreams, and one of the most jaw-dropping comebacks you'll ever hear. This is the story of Joseph.
+Hey friend! Alright, buckle up, because for these last two episodes, we're diving into one of the greatest stories in all of Genesis. It's got drama, betrayal, dreams, and one of the most jaw-dropping comebacks you'll ever hear. This is the story of Joseph.
 
-Jacob — now named Israel — had twelve sons. But let's be honest... he had a favorite. Joseph. And he did not hide it. Jacob gave Joseph this amazing, colorful coat — a one-of-a-kind piece that screamed "this is my favorite kid." You can imagine how the other eleven brothers felt about that. Not great.
+Jacob, now named Israel, had twelve sons. But let's be honest... he had a favorite. Joseph. And he did not hide it. Jacob gave Joseph this amazing, colorful coat, a one-of-a-kind piece that screamed "this is my favorite kid." You can imagine how the other eleven brothers felt about that. Not great.
 
-Then came the dreams. Joseph had a dream where he and his brothers were bundling up grain in a field, and all of their bundles bowed down to his. So what did Joseph do? He told them about it. Probably not the smartest move. Then he had ANOTHER dream — this time the sun, moon, and eleven stars all bowed down to him. Even his dad was like, "Okay, what is this supposed to mean?"
+Then came the dreams. Joseph had a dream where he and his brothers were bundling up grain in a field, and all of their bundles bowed down to his. So what did Joseph do? He told them about it. Probably not the smartest move. Then he had ANOTHER dream, this time the sun, moon, and eleven stars all bowed down to him. Even his dad was like, "Okay, what is this supposed to mean?"
 
 The brothers went from annoyed to jealous to full-on hatred. And one day, when Joseph came out to the fields to check on them, they saw him in the distance and said, "Here comes the dreamer. Let's kill him."
 
@@ -43,7 +43,7 @@ The story of Joseph the Dreamer teaches children important lessons about creatio
 
 ## Key Bible Verse
 
-> *"You intended to harm me, but God intended it for good."* — Genesis 50:20
+> *"You intended to harm me, but God intended it for good."* (Genesis 50:20)
 
 There is a free [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) on our site too, printable on one sheet with no sign-up.
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Why were Joseph's brothers so jealous of him?
 
-Jacob didn't hide that Joseph was his favorite — the colorful coat made it obvious. Combined with Joseph's dreams showing his family bowing to him, the brothers' jealousy turned to hatred.
+Jacob didn't hide that Joseph was his favorite, the colorful coat made it obvious. Combined with Joseph's dreams showing his family bowing to him, the brothers' jealousy turned to hatred.
 
 ### What did Joseph's brothers do to him?
 
@@ -65,7 +65,7 @@ The brothers threw Joseph into an empty pit, then sold him to passing traders fo
 
 ### What happened to Joseph in Potiphar's house?
 
-Even as a slave, Joseph worked with excellence and kept his faith. God blessed everything he did, and Potiphar noticed — putting Joseph in charge of his entire household.
+Even as a slave, Joseph worked with excellence and kept his faith. God blessed everything he did, and Potiphar noticed, putting Joseph in charge of his entire household.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Joseph the Dreamer about for kids?
 
-Joseph the Dreamer is a story from Genesis 37-40. Hey friend! Alright — buckle up, because for these last two episodes, we're diving into one of the greatest stories in all of Genesis. It's got drama, betrayal, dreams, and one of the most jaw-drop...
+Joseph the Dreamer is a story from Genesis 37-40. Hey friend! Alright, buckle up, because for these last two episodes, we're diving into one of the greatest stories in all of Genesis. It's got drama, betrayal, dreams, and one of the most jaw-drop...
 
 ### What age is the story of Joseph the Dreamer appropriate for?
 

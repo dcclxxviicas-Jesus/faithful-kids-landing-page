@@ -25,13 +25,13 @@ The Temple Is Dedicated is a Bible story from 1 Kings in the Old Testament. This
 
 ## What Is the Story of The Temple Is Dedicated for Kids?
 
-SOLOMON & THE KINGDOM — Episode 4: The Temple Is Dedicated Bible Reference: 1 Kings 8 Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM, Episode 4: The Temple Is Dedicated Bible Reference: 1 Kings 8 Series: Solomon & the Kingdom
 
 What I'm about to describe to you is one of the most powerful moments in the entire Old Testament. The day God's glory literally filled a building. The day heaven touched earth.
 
-The temple was finished. Seven years of work. Gold on every surface. Cedar from Lebanon. Carvings so intricate they'd take your breath away. But a building — no matter how beautiful — is just a building until God shows up.
+The temple was finished. Seven years of work. Gold on every surface. Cedar from Lebanon. Carvings so intricate they'd take your breath away. But a building, no matter how beautiful, is just a building until God shows up.
 
-Solomon gathered ALL of Israel. The elders. The tribal leaders. Every head of every family. They came from every corner of the nation. And the priests carried in the most sacred object in Israel's history — the Ark of the Covenant. The golden chest that held the stone tablets of the Ten Commandments. The very symbol of God's promise to His people.
+Solomon gathered ALL of Israel. The elders. The tribal leaders. Every head of every family. They came from every corner of the nation. And the priests carried in the most sacred object in Israel's history, the Ark of the Covenant. The golden chest that held the stone tablets of the Ten Commandments. The very symbol of God's promise to His people.
 
 This story comes from 1 Kings and is part of the Old Testament.
 
@@ -45,9 +45,9 @@ The story of The Temple Is Dedicated teaches children important lessons about wi
 
 ## Key Bible Verse
 
-> *"My house shall be called a house of prayer."* — Isaiah 56:7
+> *"My house shall be called a house of prayer."* (Isaiah 56:7)
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What sacred object was brought into the Most Holy Place of the temple?
 
-The glory cloud proved that God's presence is not a metaphor — it's real and powerful enough to knock trained priests off their feet. And Solomon's prayer for foreigners reveals God's heart: He has always wanted every person, from every nation, to have access to Him.
+The glory cloud proved that God's presence is not a metaphor, it's real and powerful enough to knock trained priests off their feet. And Solomon's prayer for foreigners reveals God's heart: He has always wanted every person, from every nation, to have access to Him.
 
 ### What happened when the priests came out of the Holy Place after placing the Ark?
 
@@ -71,7 +71,7 @@ The glory cloud proved that God's presence is not a metaphor — it's real and p
 
 ### Who did Solomon specifically include in his prayer, besides the people of Israel?
 
-**Foreigners — people from other nations who would come to pray.**
+**Foreigners, people from other nations who would come to pray.**
 
 ### What is the main lesson of this episode?
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Temple Is Dedicated about for kids?
 
-The Temple Is Dedicated is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 4: The Temple Is Dedicated Bible Reference: 1 Kings 8 Series: Solomon & the Kingdom
+The Temple Is Dedicated is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 4: The Temple Is Dedicated Bible Reference: 1 Kings 8 Series: Solomon & the Kingdom
 
 ### What age is the story of The Temple Is Dedicated appropriate for?
 

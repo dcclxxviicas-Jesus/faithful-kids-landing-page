@@ -8,17 +8,17 @@ datePublished: "2026-04-01"
 dateModified: "2026-08-20"
 ---
 
-Let's be honest: raising kids who love God in today's world can feel like swimming upstream. Your children are immersed in a culture that often contradicts what you teach at home. The shows they watch, the apps they scroll, the conversations they overhear at school -- it all adds up. And at some point, every Christian parent lies awake wondering the same thing: Am I doing enough?
+Let's be honest: raising kids who love God in today's world can feel like swimming upstream. Your children are immersed in a culture that often contradicts what you teach at home. The shows they watch, the apps they scroll, the conversations they overhear at school; it all adds up. And at some point, every Christian parent lies awake wondering the same thing: Am I doing enough?
 
 Here is the encouraging truth. God does not ask you to be a perfect parent. He asks you to be a faithful one. Deuteronomy 6:6-7 says, "These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up." Faith is not transferred through a single dramatic event. It is woven into the ordinary fabric of daily life.
 
-Here are eight practical, biblical strategies for raising godly kids -- not in a bubble, but right in the middle of the real world.
+Here are eight practical, biblical strategies for raising godly kids, not in a bubble, but right in the middle of the real world.
 
 ## 1. Model Faith Daily (They Watch More Than They Listen)
 
 Children are excellent observers and terrible listeners. They may not remember the devotional you read last Tuesday, but they will remember how you handled a stressful situation, whether you prayed when things got hard, and how you treated people who were difficult.
 
-Your faith has to be real before it can be transferred. Let your kids see you reading the Bible, not just telling them to read it. Let them hear you pray honestly, not just formally. When you mess up, apologize and tell them you need God's grace too. Authenticity is the most powerful parenting tool you have. If your own faith feels thin right now, a good book can refill the tank before you try to pour it out -- our list of [must-read Christian parenting books](/blog/best-christian-parenting-books) is a place to start.
+Your faith has to be real before it can be transferred. Let your kids see you reading the Bible, not just telling them to read it. Let them hear you pray honestly, not just formally. When you mess up, apologize and tell them you need God's grace too. Authenticity is the most powerful parenting tool you have. If your own faith feels thin right now, a good book can refill the tank before you try to pour it out; our list of [must-read Christian parenting books](/blog/best-christian-parenting-books) is a place to start.
 
 **Scripture:** "In everything set them an example by doing what is good" (Titus 2:7).
 
@@ -46,13 +46,13 @@ When a movie, a news story, or a schoolyard conversation brings up something tha
 - "What does the Bible say about this?"
 - "Why do you think other people believe differently?"
 
-Your home should be the safest place for your child to ask hard questions. If they cannot ask you, they will ask someone else -- and you may not like the answers they get.
+Your home should be the safest place for your child to ask hard questions. If they cannot ask you, they will ask someone else, and you may not like the answers they get.
 
 **Scripture:** "Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect" (1 Peter 3:15).
 
 ## 4. Build Church Community (Kids Need Other Believing Adults)
 
-Your child needs more than just you to build a lasting faith. They need a community. Research consistently shows that young people who stay in the faith as adults typically had at least five non-parental adults who invested in their spiritual lives -- a Sunday school teacher, a youth leader, a family friend, a grandparent.
+Your child needs more than just you to build a lasting faith. They need a community. Research consistently shows that young people who stay in the faith as adults typically had at least five non-parental adults who invested in their spiritual lives; a Sunday school teacher, a youth leader, a family friend, a grandparent.
 
 Get involved in a local church. Not because the church is perfect, but because faith was never meant to be a solo project. Your kids need to see that following Jesus is not just something your family does. It is something a whole community of people has committed their lives to.
 
@@ -69,7 +69,7 @@ Kids today spend hours each day in front of screens. You cannot eliminate that r
 
 The point is not to ban secular media but to make sure the balance tips toward content that feeds their soul. If your child spends three hours on entertainment and zero hours on anything faith-related, the math is working against you. Our guide to [healthy screen time for Christian kids](/blog/healthy-screen-time-for-christian-kids) offers a practical framework.
 
-**Scripture:** "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable -- if anything is excellent or praiseworthy -- think about such things" (Philippians 4:8).
+**Scripture:** "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable, if anything is excellent or praiseworthy, think about such things" (Philippians 4:8).
 
 ## 6. Teach Apologetics Age-Appropriately (Why We Believe)
 
@@ -101,7 +101,7 @@ This is the hardest one. At some point, your child's faith has to become their f
 
 Do not tighten your grip so hard that you push them away. Instead, keep the door open. Keep praying. Keep showing up. Keep being the parent who loves unconditionally, just like God does.
 
-Many adults who walk away from faith in their teens come back in their twenties or thirties -- often because the seeds their parents planted were deeper than anyone realized. Your job is to plant and water. God's job is to make it grow (1 Corinthians 3:6).
+Many adults who walk away from faith in their teens come back in their twenties or thirties, often because the seeds their parents planted were deeper than anyone realized. Your job is to plant and water. God's job is to make it grow (1 Corinthians 3:6).
 
 **Scripture:** "Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord" (Ephesians 6:4).
 
@@ -115,7 +115,7 @@ Keep going. Keep praying. Keep reading the stories, having the conversations, an
 
 ## Watch on Faithful Kids
 
-Looking for a daily way to weave faith into your child's screen time? Faithful Kids offers animated Bible story videos, quizzes, and reflections designed for kids ages 7-15. It is Duolingo for the Bible -- and kids actually ask to watch it. [Start your free trial today.](https://faithfulkids.app/quiz)
+Looking for a daily way to weave faith into your child's screen time? Faithful Kids offers animated Bible story videos, quizzes, and reflections designed for kids ages 7-15. It is Duolingo for the Bible, and kids actually ask to watch it. [Start your free trial today.](https://faithfulkids.app/quiz)
 
 ## Frequently Asked Questions
 

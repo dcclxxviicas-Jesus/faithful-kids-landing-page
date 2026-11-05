@@ -25,13 +25,13 @@ The Armor of God is a Bible story from Romans/Corinthians/Ephesians in the New T
 
 ## What Is the Story of The Armor of God for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 3 "The Armor of God" Based on Ephesians 6:10-18 Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 3 "The Armor of God" Based on Ephesians 6:10-18 Jesus Narrates
 
-I need to tell you something that might surprise you. You're in a battle. Right now. Every single day. Not a battle with fists or swords — a spiritual battle. There's an enemy who wants to steal your peace, wreck your confidence, and pull you away from me.
+I need to tell you something that might surprise you. You're in a battle. Right now. Every single day. Not a battle with fists or swords, a spiritual battle. There's an enemy who wants to steal your peace, wreck your confidence, and pull you away from me.
 
 But here's the good news: I've already won the war. And I've given you everything you need to stand firm. Paul described it like a suit of armor. Let me walk you through it.
 
-First — the Belt of Truth. A soldier's belt held everything together. Truth does the same thing for your life. When you know what's true — that God loves you, that his Word is real, that you have a purpose — lies can't knock you off balance. Buckle up with truth every day.
+First, the Belt of Truth. A soldier's belt held everything together. Truth does the same thing for your life. When you know what's true, that God loves you, that his Word is real, that you have a purpose, lies can't knock you off balance. Buckle up with truth every day.
 
 This story comes from Romans/Corinthians/Ephesians and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Armor of God teaches children important lessons about love, fai
 
 ## Key Bible Verse
 
-> *"Put on the full armor of God."* — Ephesians 6:11
+> *"Put on the full armor of God."* (Ephesians 6:11)
 
 Add five quiet minutes with the free [Armor of God word search](/printables/bible-word-search/armor-of-god); it prints one to a sheet with the key on the page.
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What does the Belt of Truth do for a believer?
 
-**Holds everything together — knowing what's true keeps lies from knocking you down.** The belt of truth holds your life together. When you know what is true, lies lose their power.
+**Holds everything together, knowing what's true keeps lies from knocking you down.** The belt of truth holds your life together. When you know what is true, lies lose their power.
 
 ### What does the Breastplate of Righteousness protect?
 
@@ -75,7 +75,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the ONLY offensive weapon in the armor of God?
 
-**The Sword of the Spirit — the Word of God.** The Sword of the Spirit, which is God's Word, is the only offensive weapon. Everything else is for defense.
+**The Sword of the Spirit, the Word of God.** The Sword of the Spirit, which is God's Word, is the only offensive weapon. Everything else is for defense.
 
 ## Discussion Questions for Families
 
@@ -108,13 +108,13 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
-Pair the story with our free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) — one sheet, ready to print.
+Pair the story with our free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god), one sheet, ready to print.
 
 ## Frequently Asked Questions
 
 ### What is the story of The Armor of God about for kids?
 
-The Armor of God is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 3 "The Armor of God" Based on Ephesians 6:10-18 Jesus Narrates
+The Armor of God is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES, EPISODE 3 "The Armor of God" Based on Ephesians 6:10-18 Jesus Narrates
 
 ### What age is the story of The Armor of God appropriate for?
 

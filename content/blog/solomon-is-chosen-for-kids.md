@@ -25,13 +25,13 @@ Solomon Is Chosen is a Bible story from 2 Samuel/Psalms in the Old Testament. Th
 
 ## What Is the Story of Solomon Is Chosen for Kids?
 
-KING DAVID'S REIGN — EPISODE 9: SOLOMON IS CHOSEN Scripture: 1 Kings 1-2
+KING DAVID'S REIGN, EPISODE 9: SOLOMON IS CHOSEN Scripture: 1 Kings 1-2
 
-Hey friends! Today's story is about a moment every family, every organization, and every kingdom faces — the passing of the torch. David is old now. His hair is white. His hands shake. The mighty warrior who once killed a giant can barely stay warm. But his mind is still sharp — and one final crisis is about to test him.
+Hey friends! Today's story is about a moment every family, every organization, and every kingdom faces, the passing of the torch. David is old now. His hair is white. His hands shake. The mighty warrior who once killed a giant can barely stay warm. But his mind is still sharp, and one final crisis is about to test him.
 
-David's son Adonijah saw his father fading and thought, "It's my turn." He was handsome, ambitious, and next in line by age. So without asking David, without waiting for God's direction, Adonijah threw himself a coronation party. He invited generals, priests, and officials. He sacrificed oxen and sheep. He basically said, "I am the new king" — before the old king had said a word.
+David's son Adonijah saw his father fading and thought, "It's my turn." He was handsome, ambitious, and next in line by age. So without asking David, without waiting for God's direction, Adonijah threw himself a coronation party. He invited generals, priests, and officials. He sacrificed oxen and sheep. He basically said, "I am the new king", before the old king had said a word.
 
-But not everyone was on board. Nathan the prophet — the same Nathan who had confronted David years earlier — rushed to Bathsheba with urgent news. "Adonijah is crowning himself king! David doesn't even know. If we don't act, you and Solomon are in danger."
+But not everyone was on board. Nathan the prophet, the same Nathan who had confronted David years earlier, rushed to Bathsheba with urgent news. "Adonijah is crowning himself king! David doesn't even know. If we don't act, you and Solomon are in danger."
 
 This story comes from 2 Samuel/Psalms and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Solomon Is Chosen teaches children important lessons about worship,
 
 ## Key Bible Verse
 
-> *"Give your servant a discerning heart to govern your people."* — 1 Kings 3:9
+> *"Give your servant a discerning heart to govern your people."* (1 Kings 3:9)
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
@@ -75,7 +75,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What was the most important thing David passed down to Solomon?
 
-**Faith — the charge to walk with God and keep His commands.**
+**Faith, the charge to walk with God and keep His commands.**
 
 ## Discussion Questions for Families
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Solomon Is Chosen about for kids?
 
-Solomon Is Chosen is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 9: SOLOMON IS CHOSEN Scripture: 1 Kings 1-2
+Solomon Is Chosen is a story from 2 Samuel/Psalms. KING DAVID'S REIGN, EPISODE 9: SOLOMON IS CHOSEN Scripture: 1 Kings 1-2
 
 ### What age is the story of Solomon Is Chosen appropriate for?
 

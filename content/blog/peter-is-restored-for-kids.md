@@ -25,13 +25,13 @@ Peter Is Restored is a Bible story from Matthew/Luke/Acts in the New Testament. 
 
 ## What Is the Story of Peter Is Restored for Kids?
 
-HE IS RISEN — Episode 6: Peter Is Restored Based on John 21:15-19 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN, Episode 6: Peter Is Restored Based on John 21:15-19 Series: He Is Risen | Target Age: 7-15
 
-Let me tell you about a conversation that changed Peter's life — and it happened right after breakfast.
+Let me tell you about a conversation that changed Peter's life, and it happened right after breakfast.
 
-Remember Peter? The one who said he would NEVER deny me? The one who swore he would die for me? Well, the night I was arrested, Peter denied me three times. Three times someone asked if he knew me. Three times he said no. And after that third denial, a rooster crowed — and Peter remembered what I had told him. He went outside and wept bitterly. His heart was shattered.
+Remember Peter? The one who said he would NEVER deny me? The one who swore he would die for me? Well, the night I was arrested, Peter denied me three times. Three times someone asked if he knew me. Three times he said no. And after that third denial, a rooster crowed, and Peter remembered what I had told him. He went outside and wept bitterly. His heart was shattered.
 
-Now here we are, days after I rose from the dead. We just had breakfast together on the shore — fish and bread over a charcoal fire. And I looked at Peter and asked him a question.
+Now here we are, days after I rose from the dead. We just had breakfast together on the shore, fish and bread over a charcoal fire. And I looked at Peter and asked him a question.
 
 This story comes from Matthew/Luke/Acts and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of Peter Is Restored teaches children important lessons about resurrec
 
 ## Key Bible Verse
 
-> *"Feed my sheep."* — John 21:17
+> *"Feed my sheep."* (John 21:17)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus ask Peter three times after breakfast?
 
-**"Do you love me?".** Jesus asked "Do you love me?" three times — once for each of Peter's three denials.
+**"Do you love me?".** Jesus asked "Do you love me?" three times, once for each of Peter's three denials.
 
 ### What did Jesus tell Peter to do each time Peter said he loved Him?
 
@@ -73,7 +73,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the big lesson from Peter's restoration?
 
-**Jesus does not just forgive — He restores you to purpose.** Jesus did not just forgive Peter's failure — He gave him a new mission. Our worst moments do not disqualify us from God's plan.
+**Jesus does not just forgive, He restores you to purpose.** Jesus did not just forgive Peter's failure, He gave him a new mission. Our worst moments do not disqualify us from God's plan.
 
 ## Discussion Questions for Families
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Peter Is Restored about for kids?
 
-Peter Is Restored is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 6: Peter Is Restored Based on John 21:15-19 Series: He Is Risen | Target Age: 7-15
+Peter Is Restored is a story from Matthew/Luke/Acts. HE IS RISEN, Episode 6: Peter Is Restored Based on John 21:15-19 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of Peter Is Restored appropriate for?
 

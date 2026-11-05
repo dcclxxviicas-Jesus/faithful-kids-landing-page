@@ -25,13 +25,13 @@ The Betrayal is a Bible story from Matthew/Mark/Luke/John in the New Testament. 
 
 ## What Is the Story of The Betrayal for Kids?
 
-THE ROAD TO THE CROSS — Episode 5: The Betrayal Based on Matthew 26:47-56 and John 18:1-12 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS, Episode 5: The Betrayal Based on Matthew 26:47-56 and John 18:1-12 Series: The Road to the Cross | Target audience: Ages 7-15
 
 I had barely finished praying when I heard them coming.
 
-Torches flickering through the olive trees. The clang of armor. The shuffle of hundreds of feet. A mob — Roman soldiers, temple guards, chief priests, elders — armed with swords and clubs, coming through the garden like an army marching to war.
+Torches flickering through the olive trees. The clang of armor. The shuffle of hundreds of feet. A mob, Roman soldiers, temple guards, chief priests, elders, armed with swords and clubs, coming through the garden like an army marching to war.
 
-My disciple. My friend. A man who had eaten at my table, heard my teachings, watched me heal the sick and raise the dead. A man I had loved for three years. He had sold me for thirty pieces of silver — the price of a slave.
+My disciple. My friend. A man who had eaten at my table, heard my teachings, watched me heal the sick and raise the dead. A man I had loved for three years. He had sold me for thirty pieces of silver, the price of a slave.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Betrayal teaches children important lessons about sacrifice, lo
 
 ## Key Bible Verse
 
-> *"The one I will kiss is the man; arrest him."* — Matthew 26:48
+> *"The one I will kiss is the man; arrest him."* (Matthew 26:48)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What signal did Judas give the soldiers to identify Jesus?
 
-**He kissed Jesus on the cheek.** A kiss. Judas used a kiss — a sign of friendship and respect — as the signal to identify Jesus to the soldiers. He said "Greetings, Rabbi!" and kissed Him.
+**He kissed Jesus on the cheek.** A kiss. Judas used a kiss, a sign of friendship and respect, as the signal to identify Jesus to the soldiers. He said "Greetings, Rabbi!" and kissed Him.
 
 ### What did Jesus call Judas when Judas came to betray Him?
 
@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How many legions of angels did Jesus say His Father could send?
 
-**Twelve legions, which is more than 72,000 angels.** Jesus made it clear He wasn't powerless. He had unlimited power available — He simply chose not to use it.
+**Twelve legions, which is more than 72,000 angels.** Jesus made it clear He wasn't powerless. He had unlimited power available, He simply chose not to use it.
 
 ### What was the last miracle Jesus performed before the cross?
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**Jesus wasn't a victim.** He had the power to stop everything. Twelve legions of angels were ready at His word. But He chose the cross because He chose us. He wasn't taken — He was given willingly.
+**Jesus wasn't a victim.** He had the power to stop everything. Twelve legions of angels were ready at His word. But He chose the cross because He chose us. He wasn't taken, He was given willingly.
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Betrayal about for kids?
 
-The Betrayal is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 5: The Betrayal Based on Matthew 26:47-56 and John 18:1-12 Series: The Road to the Cross | Target audience: Ages 7-15
+The Betrayal is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS, Episode 5: The Betrayal Based on Matthew 26:47-56 and John 18:1-12 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of The Betrayal appropriate for?
 

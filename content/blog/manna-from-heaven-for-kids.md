@@ -25,11 +25,11 @@ Manna from Heaven is a Bible story from Exodus 16-17 in the Old Testament. This 
 
 Hey! So glad you're back. Last time, God split the Red Sea and rescued an entire nation. You'd think after THAT, the Israelites would trust God for anything, right? Yeah... not so much.
 
-It's been about six weeks since they walked through the sea, and already they're grumbling. "Moses, why did you bring us out here to STARVE? At least in Egypt we had food!" Wait — did they just say they MISSED Egypt? The place where they were SLAVES? That's how cranky hunger makes you, I guess.
+It's been about six weeks since they walked through the sea, and already they're grumbling. "Moses, why did you bring us out here to STARVE? At least in Egypt we had food!" Wait, did they just say they MISSED Egypt? The place where they were SLAVES? That's how cranky hunger makes you, I guess.
 
-But here's what I love about my Father. Even when people complain — even when they forget every amazing thing He's done — He still provides. That's who He is.
+But here's what I love about my Father. Even when people complain, even when they forget every amazing thing He's done, He still provides. That's who He is.
 
-God told Moses, "I'm going to rain bread from heaven." That evening, quail flew into the camp — meat for dinner, just like that. But the really wild part came the next morning. The people stepped outside their tents, and the ground was covered with thin, flaky, white stuff. They stared at it and said, "Manna?" which basically means "What IS this thing?"
+God told Moses, "I'm going to rain bread from heaven." That evening, quail flew into the camp, meat for dinner, just like that. But the really wild part came the next morning. The people stepped outside their tents, and the ground was covered with thin, flaky, white stuff. They stared at it and said, "Manna?" which basically means "What IS this thing?"
 
 This story comes from Exodus 16-17 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of Manna from Heaven teaches children important lessons about freedom,
 
 ## Key Bible Verse
 
-> *"He gave them bread from heaven to eat."* — John 6:31
+> *"He gave them bread from heaven to eat."* (John 6:31)
 
 A map makes this story concrete: the free [map of the Exodus](/printables/bible-maps/the-exodus) shows Egypt, the Red Sea, Mount Sinai and the wilderness road on one printable sheet.
 
@@ -65,7 +65,7 @@ God wanted the people to trust Him daily, so any extra manna saved overnight (ex
 
 ### How did God provide water for the Israelites at Horeb?
 
-God told Moses to strike a rock with his staff, and fresh water gushed out of the solid stone — enough for the entire nation and their animals to drink.
+God told Moses to strike a rock with his staff, and fresh water gushed out of the solid stone, enough for the entire nation and their animals to drink.
 
 
 ## Discussion Questions for Families

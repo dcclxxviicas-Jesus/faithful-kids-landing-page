@@ -2,7 +2,7 @@
 title: "Bible Stories for Toddlers: 12 Simple Favorites (Ages 2-4)"
 slug: "bible-stories-for-toddlers"
 type: "listicle"
-metaDescription: "12 Bible stories toddlers will actually sit through -- short retellings full of animals and rainbows, with one-line lessons and tips for ages 2-4."
+metaDescription: "12 Bible stories toddlers will actually sit through, short retellings full of animals and rainbows, with one-line lessons and tips for ages 2-4."
 keywords: ["bible stories for toddlers", "bible stories toddlers", "bible for 2 year old", "bible for 3 year old", "toddler bible stories", "first bible stories for babies"]
 datePublished: "2026-04-01"
 dateModified: "2026-08-16"
@@ -10,7 +10,7 @@ dateModified: "2026-08-16"
 
 # Bible Stories for Toddlers: 12 Simple Favorites (Ages 2-4)
 
-Toddlers ages 2-4 need the simplest, gentlest Bible stories. The Bible stories toddlers love best share three things: animals, repetition, and a happy ending -- at this age, your child learns through bright imagery and emotional tone, not complex narratives. Here are the 12 best Bible stories for your toddler, chosen specifically for very short attention spans and ultra-simple lessons. (Slightly older kids can move up to our [Bible stories for preschoolers](/blog/bible-stories-for-preschoolers).)
+Toddlers ages 2-4 need the simplest, gentlest Bible stories. The Bible stories toddlers love best share three things: animals, repetition, and a happy ending; at this age, your child learns through bright imagery and emotional tone, not complex narratives. Here are the 12 best Bible stories for your toddler, chosen specifically for very short attention spans and ultra-simple lessons. (Slightly older kids can move up to our [Bible stories for preschoolers](/blog/bible-stories-for-preschoolers).)
 
 ## What Makes a Bible Story Good for a Toddler?
 
@@ -22,10 +22,10 @@ Toddlers ages 2-4 need the simplest, gentlest Bible stories. The Bible stories t
 
 ---
 
-### 1. Creation -- God Made Everything
+### 1. Creation: God Made Everything
 God made light, water, animals, and people. Point at things around the room: "God made the sun. God made the trees. God made YOU." This is the ultimate toddler story because everything they see connects to it.
 
-### 2. Noah's Ark -- Animals Two by Two
+### 2. Noah's Ark: Animals Two by Two
 The animals are the whole story at this age. Two elephants. Two giraffes. Two puppies. Count them. Name them. The boat, the rain, the rainbow. Toddler perfection. When they are ready for more, read [who was Noah](/blog/who-was-noah-for-kids).
 
 ### 3. Baby Moses in the Basket
@@ -76,11 +76,11 @@ Faithful Kids has 300+ Bible story videos designed for kids ages 5+. For toddler
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-toddlers)
 
-Toddlers who love this story can color it too — the free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) prints on one sheet.
+Toddlers who love this story can color it too, the free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) prints on one sheet.
 
-If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names); each with its meaning, verse, and the story it comes from.
 
-Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids); simple retellings of the whole Bible, free, Genesis to Revelation.
 
 ## Frequently Asked Questions
 

@@ -27,11 +27,11 @@ Elisha Double Portion is a Bible story from 1 & 2 Kings in the Old Testament. Th
 
 ELISHA: DOUBLE PORTION Series: Elijah & Elisha | Episode 7 Scripture: 2 Kings 2:14-25, 4:1-7
 
-Hey kids — last time, we watched Elijah get swept into heaven in a chariot of fire. But the story didn't end there. It was just getting started. Because now? It's Elisha's turn.
+Hey kids, last time, we watched Elijah get swept into heaven in a chariot of fire. But the story didn't end there. It was just getting started. Because now? It's Elisha's turn.
 
-Elisha is standing at the edge of the Jordan River, holding Elijah's cloak. The big question is — did the power transfer? Is the double portion REAL?
+Elisha is standing at the edge of the Jordan River, holding Elijah's cloak. The big question is, did the power transfer? Is the double portion REAL?
 
-Elisha rolls up the cloak, strikes the Jordan, and shouts: "Where now is the Lord, the God of Elijah?" BOOM — the water splits! Right down the middle! He walks across on dry ground. The double portion is alive and active in Elisha.
+Elisha rolls up the cloak, strikes the Jordan, and shouts: "Where now is the Lord, the God of Elijah?" BOOM, the water splits! Right down the middle! He walks across on dry ground. The double portion is alive and active in Elisha.
 
 This story comes from 1 & 2 Kings and is part of the Old Testament.
 
@@ -45,13 +45,13 @@ The story of Elisha Double Portion teaches children important lessons about fait
 
 ## Key Bible Verse
 
-> *"Let me inherit a double portion of your spirit."* — 2 Kings 2:9
+> *"Let me inherit a double portion of your spirit."* (2 Kings 2:9)
 
-Pair this with our free [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [Jesus and the children coloring page](/printables/bible-coloring-pages/jesus-and-the-children), one sheet, ready for the kitchen table or the classroom.
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
-For the apprentice who carried the ministry further — the oil, Naaman, the horses of fire — see [Who Was Elisha in the Bible?](/blog/who-was-elisha-for-kids)
+For the apprentice who carried the ministry further, the oil, Naaman, the horses of fire, see [Who Was Elisha in the Bible?](/blog/who-was-elisha-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -63,7 +63,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What happened when Elisha struck the Jordan River with Elijah's cloak?
 
-The widow thought she had nothing. But God took her tiny jar of oil and turned it into more than enough. He does the same with us — our small talents, our limited resources, our little faith. Bring what you have, start pouring, and let God do the multiplying.
+The widow thought she had nothing. But God took her tiny jar of oil and turned it into more than enough. He does the same with us, our small talents, our limited resources, our little faith. Bring what you have, start pouring, and let God do the multiplying.
 
 ### What did the watching prophets declare after seeing the Jordan part?
 
@@ -91,7 +91,7 @@ The widow thought she had nothing. But God took her tiny jar of oil and turned i
 
 ### What is the main lesson of this story?
 
-**God works with what you already have — bring Him your "small jar" and He'll multiply it.**
+**God works with what you already have, bring Him your "small jar" and He'll multiply it.**
 
 ## Discussion Questions for Families
 

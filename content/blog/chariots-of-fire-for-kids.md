@@ -27,7 +27,7 @@ Chariots of Fire is a Bible story from 1 & 2 Kings in the Old Testament. This re
 
 CHARIOTS OF FIRE Series: Elijah & Elisha | Episode 10 Scripture: 2 Kings 6:8-23
 
-Hey kids — we've reached the FINALE of the Elijah and Elisha series, and I saved one of the most incredible stories for last. Invisible armies, opened eyes, and a truth that will change the way you see EVERYTHING.
+Hey kids, we've reached the FINALE of the Elijah and Elisha series, and I saved one of the most incredible stories for last. Invisible armies, opened eyes, and a truth that will change the way you see EVERYTHING.
 
 The king of Syria was at war with Israel, setting up secret ambushes to trap the Israelite army. Except every single time, Elisha warned the Israelite king EXACTLY where the trap was.
 
@@ -45,7 +45,7 @@ The story of Chariots of Fire teaches children important lessons about faith, mi
 
 ## Key Bible Verse
 
-> *"The Lord, He is God!"* — 1 Kings 18:39
+> *"The Lord, He is God!"* (1 Kings 18:39)
 
 There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) on our site too, printable on one sheet with no sign-up.
 
@@ -59,11 +59,11 @@ After watching the video, see if your child can answer these questions:
 
 ### Why was the king of Syria frustrated with his battle plans?
 
-The greatest truth of this story is that God's protection surrounds you even when you can't see it. The chariots of fire were always there — the servant just needed his eyes opened. No matter what you're facing, you are never outnumbered, because those who are with you are more than those who are against you.
+The greatest truth of this story is that God's protection surrounds you even when you can't see it. The chariots of fire were always there, the servant just needed his eyes opened. No matter what you're facing, you are never outnumbered, because those who are with you are more than those who are against you.
 
 ### How did Elisha know the Syrian king's secret plans?
 
-**God revealed them to him — even words spoken in private rooms.**
+**God revealed them to him, even words spoken in private rooms.**
 
 ### What did the Syrian king send to capture Elisha?
 
@@ -71,7 +71,7 @@ The greatest truth of this story is that God's protection surrounds you even whe
 
 ### What did Elisha say to his terrified servant?
 
-**"Don't be afraid — those who are with us are more than those who are with them".**
+**"Don't be afraid, those who are with us are more than those who are with them".**
 
 ### What did Elisha's servant see when God opened his eyes?
 
@@ -87,7 +87,7 @@ The greatest truth of this story is that God's protection surrounds you even whe
 
 ### What is the main lesson of this story?
 
-**You are never alone — God's army is always around you, even when you can't see it.**
+**You are never alone, God's army is always around you, even when you can't see it.**
 
 ## Discussion Questions for Families
 

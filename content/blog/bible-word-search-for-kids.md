@@ -127,7 +127,7 @@ Perhaps most importantly, word searches are fun. When a child associates Bible v
 
 **Ages 7-9:** Standard grid size (12x12), words up to 8 letters, words can go across, down, and diagonally. Include 10-12 words per puzzle.
 
-**Ages 10-12:** Larger grid (15x15), longer vocabulary words, diagonal and backward words included. Challenge them with 15-20 words and add bonus questions at the bottom -- our [easy Bible trivia questions](/blog/easy-bible-trivia-questions) are the right length to drop into that bonus slot.
+**Ages 10-12:** Larger grid (15x15), longer vocabulary words, diagonal and backward words included. Challenge them with 15-20 words and add bonus questions at the bottom; our [easy Bible trivia questions](/blog/easy-bible-trivia-questions) are the right length to drop into that bonus slot.
 
 **Ages 13+:** Use advanced vocabulary (sanctification, reconciliation, propitiation) and a 20x20 grid. Include a Bible verse reference for each word and ask them to look up the passages.
 
@@ -154,21 +154,21 @@ The most useful way to organize Bible word search printables is in difficulty ti
 - **Grid:** 15x15 or 20x20.
 - **Directions:** all eight, including backwards and diagonal-backwards. Overlap words so letters get shared.
 - **Words:** 15-20 per puzzle, including long vocabulary (RIGHTEOUSNESS, COMMANDMENTS, FRANKINCENSE, FAITHFULNESS). The Armor of God, Parables, and Heroes of Faith lists are the right raw material.
-- **Include on the page:** no word bank at all for the hardest version -- give clues instead ("the piece of armor that guards your mind") and make kids derive the word before they hunt for it. Add three verse references at the bottom to look up.
+- **Include on the page:** no word bank at all for the hardest version, give clues instead ("the piece of armor that guards your mind") and make kids derive the word before they hunt for it. Add three verse references at the bottom to look up.
 
 ### What to Put on Every Printable, Regardless of Tier
 
 1. **A title and the Bible reference** in the header, so the puzzle is anchored to an actual passage.
-2. **A word bank** (except in the hardest tier), listed alphabetically -- alphabetizing is free extra practice.
+2. **A word bank** (except in the hardest tier), listed alphabetically; alphabetizing is free extra practice.
 3. **One question below the grid.** This is the single change that turns a time-filler into a review sheet.
 4. **A name and date line.** Sounds bureaucratic; matters enormously if you are running a class and want to hand work back.
 5. **An answer key on a separate page,** not the back. Kids will flip the page over.
 
 ### How to Make Your Own Printable Sets
 
-Free online word search generators will build the grid for you in under a minute: paste your word list, set the grid size, choose whether diagonals and backwards words are allowed, and export a PDF. Do the whole quarter in one sitting -- pick the ten themes, generate three difficulty versions of each, and print a stack. A folder of thirty ready puzzles gets used; "I should go make a puzzle" does not.
+Free online word search generators will build the grid for you in under a minute: paste your word list, set the grid size, choose whether diagonals and backwards words are allowed, and export a PDF. Do the whole quarter in one sitting, pick the ten themes, generate three difficulty versions of each, and print a stack. A folder of thirty ready puzzles gets used; "I should go make a puzzle" does not.
 
-Print in grayscale on plain paper for one-and-done use, or slide them into page protectors with dry-erase markers if you want a reusable classroom set. For everything else in the printable toolkit -- coloring pages, bingo, verse cards, and reading charts -- see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). And if you want a finished printable in your hands right now instead of a generator, our free [Bible Trivia Pack](/printables/bible-trivia-pack) has 100 questions in easy, medium, and hard rounds with every answer cited, which slots straight into the "bonus question" space at the bottom of any word search you build.
+Print in grayscale on plain paper for one-and-done use, or slide them into page protectors with dry-erase markers if you want a reusable classroom set. For everything else in the printable toolkit, coloring pages, bingo, verse cards, and reading charts, see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). And if you want a finished printable in your hands right now instead of a generator, our free [Bible Trivia Pack](/printables/bible-trivia-pack) has 100 questions in easy, medium, and hard rounds with every answer cited, which slots straight into the "bonus question" space at the bottom of any word search you build.
 
 ## Watch on Faithful Kids
 

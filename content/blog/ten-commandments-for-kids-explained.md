@@ -30,7 +30,7 @@ Here is each commandment explained in kid-friendly language, with a modern examp
 
 **"You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below."** (Exodus 20:4)
 
-**In kid language:** An idol is anything you treat like a god. In ancient times, people made statues out of gold and wood and prayed to them -- like the Israelites did in [the golden calf story](/blog/the-golden-calf-for-kids). Today, idols look different. They might be money, fame, a celebrity, a sport, or even your own appearance. Anything that takes God's place in your heart is an idol.
+**In kid language:** An idol is anything you treat like a god. In ancient times, people made statues out of gold and wood and prayed to them, like the Israelites did in [the golden calf story](/blog/the-golden-calf-for-kids). Today, idols look different. They might be money, fame, a celebrity, a sport, or even your own appearance. Anything that takes God's place in your heart is an idol.
 
 **Modern example:** If you spend hours every day scrolling through social media and zero minutes talking to God, your phone might have become an idol. It does not mean you cannot use it. It means it should not replace God.
 
@@ -44,7 +44,7 @@ Here is each commandment explained in kid-friendly language, with a modern examp
 
 Add five quiet minutes with the free [Moses word search](/printables/bible-word-search/moses); it prints one to a sheet with the key on the page.
 
-To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land — real geography, with the traditional stops labeled.
+To see where this happened, our free [printable Exodus route map](/printables/bible-maps/the-exodus) traces the whole journey from Egypt to the Promised Land, real geography, with the traditional stops labeled.
 
 ## Commandment #4: Keep the Sabbath
 

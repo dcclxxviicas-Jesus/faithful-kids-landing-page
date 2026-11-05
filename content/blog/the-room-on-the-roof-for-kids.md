@@ -27,11 +27,11 @@ The Room on the Roof is a Bible story from 1 & 2 Kings in the Old Testament. Thi
 
 THE ROOM ON THE ROOF Series: Elijah & Elisha | Episode 8 Scripture: 2 Kings 4:8-37
 
-Hey kids — today's story has everything. Generosity, a miracle baby, a heartbreaking tragedy, and a comeback so dramatic it'll give you chills. Let's go.
+Hey kids, today's story has everything. Generosity, a miracle baby, a heartbreaking tragedy, and a comeback so dramatic it'll give you chills. Let's go.
 
 There was a wealthy woman living in a town called Shunem. Every time Elisha passed through, she invited him in for a meal. Nobody asked her. She just saw a man of God and thought, "I'm going to take care of him."
 
-But she didn't stop at meals. She told her husband, "Let's build a small room on the ROOF for Elisha — a bed, a table, a chair, and a lamp. Whenever he comes through town, he'll have a place to stay."
+But she didn't stop at meals. She told her husband, "Let's build a small room on the ROOF for Elisha, a bed, a table, a chair, and a lamp. Whenever he comes through town, he'll have a place to stay."
 
 This story comes from 1 & 2 Kings and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of The Room on the Roof teaches children important lessons about faith
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did the wealthy woman of Shunem do for Elisha whenever he passed through town?
 
-The Shunammite woman's generosity led to blessings she never expected. And when everything seemed lost — when her son was dead — God brought him back to life. No situation is too far gone for God. He specializes in resurrection.
+The Shunammite woman's generosity led to blessings she never expected. And when everything seemed lost, when her son was dead, God brought him back to life. No situation is too far gone for God. He specializes in resurrection.
 
 ### What did the Shunammite woman build for Elisha?
 

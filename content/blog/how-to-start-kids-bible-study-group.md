@@ -10,7 +10,7 @@ dateModified: "2026-08-16"
 
 Starting a kids Bible study group at your church is one of the most impactful things you can do for the next generation. When children gather together to explore God's Word, they build friendships, deepen their faith, and develop habits that last a lifetime.
 
-Whether you're a children's ministry director, a volunteer with a heart for kids, or a parent who wants more for your church community, this guide walks you through every step -- from choosing age groups to keeping parents engaged.
+Whether you're a children's ministry director, a volunteer with a heart for kids, or a parent who wants more for your church community, this guide walks you through every step, from choosing age groups to keeping parents engaged.
 
 ## Step 1: Define Your Age Groups
 
@@ -23,7 +23,7 @@ These kids are concrete thinkers. They love stories with clear heroes and villai
 Kids in this range are starting to ask "why" questions. They can handle deeper themes like forgiveness, courage, and trust. Stories like Joseph's journey (Genesis 37-50), Daniel in the lion's den (Daniel 6), and the parables of Jesus work beautifully.
 
 **Preteens (Ages 11-13)**
-Preteens are ready for application. They want to know how the Bible connects to their real lives -- friendships, school pressure, identity. The letters of Paul, the life of David, and Jesus' Sermon on the Mount (Matthew 5-7) give them plenty to wrestle with.
+Preteens are ready for application. They want to know how the Bible connects to their real lives, friendships, school pressure, identity. The letters of Paul, the life of David, and Jesus' Sermon on the Mount (Matthew 5-7) give them plenty to wrestle with.
 
 **Pro tip:** If your church is small, you can combine ages 5-10 into one group and 11-13 into another. Two groups is manageable and still allows age-appropriate teaching.
 
@@ -32,20 +32,20 @@ Preteens are ready for application. They want to know how the Bible connects to 
 The curriculum you pick sets the tone for everything. Here are the main approaches:
 
 **Published Curriculum**
-Programs like Gospel Project for Kids, Orange/252 Kids, and Answers in Genesis offer complete lesson plans with videos, crafts, and discussion guides. The upside is that everything is done for you. The downside is cost -- expect $100-300 per quarter depending on the program.
+Programs like Gospel Project for Kids, Orange/252 Kids, and Answers in Genesis offer complete lesson plans with videos, crafts, and discussion guides. The upside is that everything is done for you. The downside is cost: expect $100-300 per quarter depending on the program.
 
 **Free Resources**
 Websites like Ministry-to-Children.com and The Bible App for Kids offer free lesson plans and printables. These require more preparation time but work well for churches on a budget. Our roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids) is a good place to start.
 
 **Video-Based Learning**
-This is where modern tools shine. Programs like Faithful Kids use AI-generated video lessons where kids watch engaging Bible stories, then answer quiz questions and reflect on what they learned. Video-based approaches work especially well for volunteer-led groups because the teaching is built into the content -- your volunteers facilitate discussion rather than lecture.
+This is where modern tools shine. Programs like Faithful Kids use AI-generated video lessons where kids watch engaging Bible stories, then answer quiz questions and reflect on what they learned. Video-based approaches work especially well for volunteer-led groups because the teaching is built into the content; your volunteers facilitate discussion rather than lecture.
 
 **DIY Approach**
 Some groups simply read a Bible passage together and discuss it. This works beautifully with preteens but can be challenging with younger kids who need more structure and visual engagement.
 
 ## Step 3: Recruit and Train Volunteers
 
-You need at least two adults per group (never one adult alone with children -- this is a safety and liability standard). Here's how to build your team:
+You need at least two adults per group (never one adult alone with children; this is a safety and liability standard). Here's how to build your team:
 
 **Where to find volunteers:**
 - Sunday morning announcements (be specific about the time commitment)
@@ -57,7 +57,7 @@ You need at least two adults per group (never one adult alone with children -- t
 - Background checks for every volunteer (non-negotiable)
 - A 30-minute orientation covering your church's child safety policy
 - A walkthrough of the curriculum so they know what to expect
-- Permission to say "I don't know -- let's find out together" (this takes pressure off new volunteers)
+- Permission to say "I don't know; let's find out together" (this takes pressure off new volunteers)
 
 As Proverbs 22:6 reminds us: "Train up a child in the way he should go; even when he is old he will not depart from it." Your volunteers are part of that sacred work.
 
@@ -65,7 +65,7 @@ If small hands need something to do while you read, the free [wise men coloring 
 
 The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
 
-If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
 ## Step 4: Structure Your Sessions
 
@@ -75,7 +75,7 @@ A typical kids Bible study session runs 45-60 minutes. Here's a structure that w
 Welcome, attendance, and an icebreaker question. Examples: "What's the best thing that happened this week?" or "If you could have any Bible character as a friend, who would it be?"
 
 **Worship (5-10 minutes)**
-Singing together builds community. You don't need a worship band -- a phone connected to a speaker playing kids' worship songs works great. Songs from Hillsong Kids, Yancy, or Seeds Family Worship are popular choices.
+Singing together builds community. You don't need a worship band; a phone connected to a speaker playing kids' worship songs works great. Songs from Hillsong Kids, Yancy, or Seeds Family Worship are popular choices.
 
 **Lesson (15-20 minutes)**
 This is the core teaching time. Whether you're reading Scripture together, watching a video lesson, or having a volunteer teach, keep it interactive. Ask questions throughout. Use props. Move around the room.
@@ -90,14 +90,14 @@ Recap the main point, pray together, and give kids a take-home card with a verse
 
 Your meeting space matters more than you think. Kids decide within the first 30 seconds whether they feel comfortable.
 
-- **Decorate intentionally.** You don't need a budget -- printed Bible verse posters, colorful tablecloths, and a designated "prayer wall" where kids can pin requests go a long way.
+- **Decorate intentionally.** You don't need a budget; printed Bible verse posters, colorful tablecloths, and a designated "prayer wall" where kids can pin requests go a long way.
 - **Have a consistent seating arrangement.** Circles work better than rows for discussion. Floor cushions or beanbags create a relaxed atmosphere.
 - **Set up a check-in system.** Even if it's just a clipboard at the door, parents need to know their kids are accounted for.
 - **Keep snacks simple.** Goldfish crackers and water cups are classic for a reason. Always check for allergies.
 
 ## Step 6: Engage Parents
 
-This is the step most churches skip -- and it's the most important one. Research consistently shows that parents are the primary faith influencers in their children's lives. Your Bible study group is a supplement, not a replacement.
+This is the step most churches skip; and it's the most important one. Research consistently shows that parents are the primary faith influencers in their children's lives. Your Bible study group is a supplement, not a replacement.
 
 **Weekly parent emails:**
 Send a short email after each session with three things: what the kids learned, the Bible verse of the week, and one dinner table question they can ask at home.
@@ -157,11 +157,11 @@ You don't need a perfect plan. You don't need a big budget. You need willing hea
 
 ## Watch on Faithful Kids
 
-Ready to supplement your kids Bible study with engaging video lessons? Faithful Kids offers hundreds of animated Bible stories with built-in quizzes and reflections -- perfect for church groups and family devotions.
+Ready to supplement your kids Bible study with engaging video lessons? Faithful Kids offers hundreds of animated Bible stories with built-in quizzes and reflections; perfect for church groups and family devotions.
 
 [Start your free trial at faithfulkids.app/quiz](https://faithfulkids.app/quiz)
 
-When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults); the warm-up round catches almost everyone on the stories they think they know.
 
 ## Frequently Asked Questions
 
@@ -172,7 +172,7 @@ Kids as young as five can participate in a structured Bible study group with age
 Plan for at least two adults per group as a safety standard. For groups larger than 15 kids, add one volunteer for every 5-7 additional children. This ensures every child gets attention and every volunteer has support.
 
 ### How long should a kids Bible study session last?
-Aim for 45-60 minutes for elementary-age kids. Younger children (ages 5-7) do best with 30-45 minute sessions, while preteens can handle a full hour. The key is variety within the session -- don't spend more than 15-20 minutes on any single activity.
+Aim for 45-60 minutes for elementary-age kids. Younger children (ages 5-7) do best with 30-45 minute sessions, while preteens can handle a full hour. The key is variety within the session: don't spend more than 15-20 minutes on any single activity.
 
 ### Can I use video lessons for kids Bible study at church?
 Absolutely. Video-based curriculum like Faithful Kids is increasingly popular because it provides consistent, engaging teaching regardless of volunteer experience. Many churches use video lessons as the core teaching and then have volunteers lead discussion and activities afterward.

@@ -36,7 +36,7 @@ A five-year-old's graduation is not really about academic accomplishment. It is 
 
 *"Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these."*
 
-**Card message:** "Jesus loves having kids near Him -- you are exactly the kind of person He wanted close by."
+**Card message:** "Jesus loves having kids near Him; you are exactly the kind of person He wanted close by."
 
 ### 5. 1 John 4:19
 
@@ -82,7 +82,7 @@ A five-year-old's graduation is not really about academic accomplishment. It is 
 
 *"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."*
 
-**Card message:** "First grade might feel a little scary. Be brave, [name] -- God goes with you wherever you go."
+**Card message:** "First grade might feel a little scary. Be brave, [name]; God goes with you wherever you go."
 
 ### 12. Psalm 56:3
 
@@ -108,9 +108,9 @@ A five-year-old's graduation is not really about academic accomplishment. It is 
 
 **Card message:** "You did hard things this year, [name]. God gave you the strength, and He is not finished yet."
 
-Pair this with our free [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden), one sheet, ready for the kitchen table or the classroom.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet, no sign-up.
 
 ## Verses for a Blessing or Certificate
 
@@ -136,7 +136,7 @@ Come February, the free [Valentine Bible verse cards](/printables/valentine-bibl
 
 *"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."*
 
-**Card message:** "You learned your letters and numbers this year -- and you learned to be kind. That's the best one."
+**Card message:** "You learned your letters and numbers this year, and you learned to be kind. That's the best one."
 
 ### 20. 3 John 1:4
 
@@ -148,7 +148,7 @@ Come February, the free [Valentine Bible verse cards](/printables/valentine-bibl
 
 **Write it in the card, then say why.** Two sentences after the verse is plenty: name one specific thing you saw your child do this year, and connect it to the verse. "You made friends with the new boy in March. Ephesians 4:32 is you."
 
-**Read it aloud at the ceremony or the table.** Preschoolers absorb tone long before vocabulary. A verse spoken warmly over a five-year-old lands even if half the words are new -- and by the third or fourth reading, they'll say it with you. If you want to keep going through the summer, our [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) list starts with an ages 3-5 section.
+**Read it aloud at the ceremony or the table.** Preschoolers absorb tone long before vocabulary. A verse spoken warmly over a five-year-old lands even if half the words are new, and by the third or fourth reading, they'll say it with you. If you want to keep going through the summer, our [Bible verses for kids to memorize](/blog/bible-verses-for-kids-to-memorize) list starts with an ages 3-5 section.
 
 **Put it on something they keep.** A bookmark, a photo frame, the inside cover of their first chapter book, or the back of the graduation photo. The physical object is what carries the verse into the years when they can actually read it.
 
@@ -160,7 +160,7 @@ For older siblings crossing a bigger stage the same season, our [Bible verses fo
 
 If your graduate is about to be a first grader, this is a good moment to build a small daily habit around God's Word. Short animated Bible stories on [Faithful Kids](https://faithfulkids.app/quiz) work well as the summer bridge between preschool routines and school ones.
 
-Graduation night usually ends with an overtired five-year-old at bedtime. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short readings and a goodnight prayer -- print it before the ceremony and you'll have something calm to end the day with.
+Graduation night usually ends with an overtired five-year-old at bedtime. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short readings and a goodnight prayer; print it before the ceremony and you'll have something calm to end the day with.
 
 ## Frequently Asked Questions
 
@@ -178,12 +178,12 @@ Most of them are within reach if you give a one-sentence explanation alongside. 
 
 ### Can I use these verses at a public school graduation?
 
-For a private, church, or homeschool ceremony, yes, without restriction. At a public school event, verses generally belong in personal cards and gifts from family rather than in the program or a staff-led portion -- policies vary, so check with the school if you're contributing to official materials. Nothing stops you from writing any of these in your own child's card.
+For a private, church, or homeschool ceremony, yes, without restriction. At a public school event, verses generally belong in personal cards and gifts from family rather than in the program or a staff-led portion; policies vary, so check with the school if you're contributing to official materials. Nothing stops you from writing any of these in your own child's card.
 
 ### What should I write in a preschool graduation card besides the verse?
 
-Name one specific memory from the year. "You were so scared on the first day and now you run in" means more than "we're proud of you," and it gives the verse something concrete to attach to. Keep the whole message under four sentences -- this is a card a parent will read aloud to a five-year-old and then save in a box.
+Name one specific memory from the year. "You were so scared on the first day and now you run in" means more than "we're proud of you," and it gives the verse something concrete to attach to. Keep the whole message under four sentences; this is a card a parent will read aloud to a five-year-old and then save in a box.
 
 ### What is a good graduation gift to pair with a Bible verse for a little kid?
 
-A first Bible with the verse written inside the cover, a bookmark with the reference on it, or a small framed print for their room. Storybook Bibles are ideal at this age since the child can look at them independently. Whatever you choose, write the verse and the date on it -- the handwriting is what makes it a keepsake fifteen years later.
+A first Bible with the verse written inside the cover, a bookmark with the reference on it, or a small framed print for their room. Storybook Bibles are ideal at this age since the child can look at them independently. Whatever you choose, write the verse and the date on it; the handwriting is what makes it a keepsake fifteen years later.

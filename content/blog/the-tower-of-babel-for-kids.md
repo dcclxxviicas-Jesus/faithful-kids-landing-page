@@ -23,13 +23,13 @@ The Tower of Babel is a Bible story from Genesis 11 in the Old Testament. This r
 
 ## What Is the Story of The Tower of Babel for Kids?
 
-Hey! Welcome back. Today's story is short, but it packs a serious punch. It's about the time humanity tried to build their way to heaven — and what happened when pride got out of control.
+Hey! Welcome back. Today's story is short, but it packs a serious punch. It's about the time humanity tried to build their way to heaven, and what happened when pride got out of control.
 
-So after the flood, Noah's descendants started having kids, and those kids had kids, and pretty soon the earth was filling up with people again. And here's a cool detail — at this point, every single person on the planet spoke the same language. Everyone could understand everyone. No translators needed. No awkward misunderstandings. One language, one people.
+So after the flood, Noah's descendants started having kids, and those kids had kids, and pretty soon the earth was filling up with people again. And here's a cool detail, at this point, every single person on the planet spoke the same language. Everyone could understand everyone. No translators needed. No awkward misunderstandings. One language, one people.
 
 A big group of them settled in a place called Shinar and came up with a plan. They said, "Let's build a city with a tower so tall it reaches heaven. Let's make a name for ourselves!"
 
-Now hold on — there's nothing wrong with building things. God made us to be creative! He made us to work and make incredible things. So what was the problem?
+Now hold on, there's nothing wrong with building things. God made us to be creative! He made us to work and make incredible things. So what was the problem?
 
 This story comes from Genesis 11 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of The Tower of Babel teaches children important lessons about creatio
 
 ## Key Bible Verse
 
-> *"Am I my brother's keeper?"* — Genesis 4:9
+> *"Am I my brother's keeper?"* (Genesis 4:9)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,7 +55,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Why did the people want to build the tower?
 
-The people weren't building to honor God — they were building out of pride, wanting to make themselves famous and prove they could reach heaven without God.
+The people weren't building to honor God, they were building out of pride, wanting to make themselves famous and prove they could reach heaven without God.
 
 ### How did God stop the tower from being built?
 
@@ -63,7 +63,7 @@ God mixed up their languages so the builders couldn't communicate anymore. The p
 
 ### What does "Babel" sound like in Hebrew?
 
-Babel sounds like the Hebrew word for "confused" — which is exactly what happened when God mixed up everyone's languages at the tower.
+Babel sounds like the Hebrew word for "confused", which is exactly what happened when God mixed up everyone's languages at the tower.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Tower of Babel about for kids?
 
-The Tower of Babel is a story from Genesis 11. Hey! Welcome back. Today's story is short, but it packs a serious punch. It's about the time humanity tried to build their way to heaven — and what happened when pride got out of control.
+The Tower of Babel is a story from Genesis 11. Hey! Welcome back. Today's story is short, but it packs a serious punch. It's about the time humanity tried to build their way to heaven, and what happened when pride got out of control.
 
 ### What age is the story of The Tower of Babel appropriate for?
 

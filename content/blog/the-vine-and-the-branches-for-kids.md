@@ -29,7 +29,7 @@ Picture a vineyard. Rows and rows of grapevines stretching across a hillside, so
 
 It was the night before the cross. I knew what was coming. And I needed them to understand something they would carry for the rest of their lives.
 
-I told them, "I am the vine. My Father is the gardener. And you — you are the branches."
+I told them, "I am the vine. My Father is the gardener. And you, you are the branches."
 
 This story comes from Hebrews/James/Revelation and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Vine and the Branches teaches children important lessons about 
 
 ## Key Bible Verse
 
-> *"I am the vine; you are the branches."* — John 15:5
+> *"I am the vine; you are the branches."* (John 15:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,11 +59,11 @@ Jesus said "I am the vine, my Father is the gardener, and you are the branches."
 
 ### What does Jesus say happens to the branches that DO bear fruit?
 
-God prunes — or trims back — the branches that are bearing fruit. Pruning isn't punishment; it's God preparing you to grow even more and produce more fruit than before.
+God prunes, or trims back, the branches that are bearing fruit. Pruning isn't punishment; it's God preparing you to grow even more and produce more fruit than before.
 
 ### What did Jesus mean when He said "Apart from me you can do nothing"?
 
-Just like a branch that's cut off from the vine shrivels up and dies, we can't produce love, joy, peace, and the other fruit of a Christ-like life on our own. We need to stay connected to Jesus — He's our power source.
+Just like a branch that's cut off from the vine shrivels up and dies, we can't produce love, joy, peace, and the other fruit of a Christ-like life on our own. We need to stay connected to Jesus, He's our power source.
 
 
 ## Discussion Questions for Families

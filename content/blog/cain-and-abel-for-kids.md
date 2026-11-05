@@ -23,13 +23,13 @@ Cain and Abel is a Bible story from Genesis 4 in the Old Testament. This retelli
 
 ## What Is the Story of Cain and Abel for Kids?
 
-Hey, welcome back. I have to warn you — today's story is a heavy one. It's about the first two brothers who ever lived. And it shows us how dangerous jealousy can be if we let it take over.
+Hey, welcome back. I have to warn you, today's story is a heavy one. It's about the first two brothers who ever lived. And it shows us how dangerous jealousy can be if we let it take over.
 
-After Adam and Eve left the garden, they had two sons. The older one was Cain, and the younger one was Abel. As they grew up, Cain became a farmer — he worked the soil and grew crops. Abel became a shepherd — he raised flocks of sheep.
+After Adam and Eve left the garden, they had two sons. The older one was Cain, and the younger one was Abel. As they grew up, Cain became a farmer, he worked the soil and grew crops. Abel became a shepherd, he raised flocks of sheep.
 
-One day, both brothers brought an offering to God. Think of it like a gift to say, "God, I appreciate you." Abel brought the very best of his flock — the firstborn, the top pick. He held nothing back. Cain brought some of his crops... but not his best. It was more like leftovers.
+One day, both brothers brought an offering to God. Think of it like a gift to say, "God, I appreciate you." Abel brought the very best of his flock, the firstborn, the top pick. He held nothing back. Cain brought some of his crops... but not his best. It was more like leftovers.
 
-God looked at Abel's offering and was pleased. But Cain's offering? Not so much. And here's the important thing — it wasn't about crops versus animals. It was about the heart behind the gift. Abel gave his best. Cain gave whatever was convenient.
+God looked at Abel's offering and was pleased. But Cain's offering? Not so much. And here's the important thing, it wasn't about crops versus animals. It was about the heart behind the gift. Abel gave his best. Cain gave whatever was convenient.
 
 This story comes from Genesis 4 and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Cain and Abel teaches children important lessons about creation, fa
 
 ## Key Bible Verse
 
-> *"Am I my brother's keeper?"* — Genesis 4:9
+> *"Am I my brother's keeper?"* (Genesis 4:9)
 
-We drew a printable [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### Why was God pleased with Abel's offering but not Cain's?
 
-It wasn't about what they brought — it was about the heart behind the gift. Abel gave God his absolute best, while Cain gave whatever was convenient.
+It wasn't about what they brought, it was about the heart behind the gift. Abel gave God his absolute best, while Cain gave whatever was convenient.
 
 ### What did God warn Cain that sin was doing?
 
-God gave Cain a vivid and powerful warning — sin was like a predator crouching at his door, ready to pounce. But Cain had the power to master it.
+God gave Cain a vivid and powerful warning, sin was like a predator crouching at his door, ready to pounce. But Cain had the power to master it.
 
 ### Even after what Cain did, how did God show mercy?
 
-Even after Cain committed the worst possible act, God still showed mercy by protecting him with a special mark — showing how deep God's mercy goes.
+Even after Cain committed the worst possible act, God still showed mercy by protecting him with a special mark, showing how deep God's mercy goes.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Cain and Abel about for kids?
 
-Cain and Abel is a story from Genesis 4. Hey, welcome back. I have to warn you — today's story is a heavy one. It's about the first two brothers who ever lived. And it shows us how dangerous jealousy can be if we let it take over.
+Cain and Abel is a story from Genesis 4. Hey, welcome back. I have to warn you, today's story is a heavy one. It's about the first two brothers who ever lived. And it shows us how dangerous jealousy can be if we let it take over.
 
 ### What age is the story of Cain and Abel appropriate for?
 

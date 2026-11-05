@@ -2,7 +2,7 @@
 title: "The Easter Story in the Bible: A Simple Walkthrough"
 slug: "easter-story-in-the-bible"
 type: "listicle"
-metaDescription: "The Easter story retold scene by scene for families -- 10 scenes from Palm Sunday to the ascension, each with scripture and a question to discuss."
+metaDescription: "The Easter story retold scene by scene for families; 10 scenes from Palm Sunday to the ascension, each with scripture and a question to discuss."
 keywords: ["easter story in the bible", "easter story bible", "where is the easter story in the bible", "resurrection story bible", "easter story for families", "holy week story"]
 datePublished: "2026-08-19"
 dateModified: "2026-08-19"
@@ -10,9 +10,9 @@ dateModified: "2026-08-19"
 
 The Easter story in the Bible is told in all four Gospels, and it covers eight days: Jesus enters Jerusalem to cheering crowds on Sunday, shares a final meal with His friends on Thursday, is arrested that night, crucified on Friday, buried before sundown, and found alive on Sunday morning. You can read the whole thing in Matthew 21-28, Mark 11-16, Luke 19-24, or John 12-21.
 
-Below is that story broken into ten scenes for reading aloud as a family. Each scene gives you the passage to look up, a short retelling in plain language, and one question to talk about. Read one scene a night for ten nights, or two a day through Holy Week, or the whole thing in one sitting on Easter Eve. The crucifixion is handled honestly but gently -- notes for younger children are included where the story gets heavy.
+Below is that story broken into ten scenes for reading aloud as a family. Each scene gives you the passage to look up, a short retelling in plain language, and one question to talk about. Read one scene a night for ten nights, or two a day through Holy Week, or the whole thing in one sitting on Easter Eve. The crucifixion is handled honestly but gently; notes for younger children are included where the story gets heavy.
 
-## Scene 1: Palm Sunday -- The King on a Donkey
+## Scene 1: Palm Sunday. The King on a Donkey
 
 **Read: Matthew 21:1-11**
 
@@ -26,11 +26,11 @@ Here is the detail worth pausing on: a conquering king would have ridden a war h
 
 *Full retelling: [the triumphal entry for kids](/blog/the-triumphal-entry-for-kids).*
 
-## Scene 2: The Last Supper -- Bread, Cup, and a Towel
+## Scene 2: The Last Supper. Bread, Cup, and a Towel
 
 **Read: Luke 22:7-20 and John 13:1-17**
 
-On Thursday evening Jesus gathers the twelve for the Passover meal. Before they eat, He does something nobody expects. He takes off His outer robe, wraps a towel around His waist, fills a basin, and washes their feet -- a job normally left to the lowest servant in the house. Peter objects. Jesus tells him that if he does not let Him do this, he has no part with Him.
+On Thursday evening Jesus gathers the twelve for the Passover meal. Before they eat, He does something nobody expects. He takes off His outer robe, wraps a towel around His waist, fills a basin, and washes their feet. A job normally left to the lowest servant in the house. Peter objects. Jesus tells him that if he does not let Him do this, he has no part with Him.
 
 Then, at the table, He takes bread, breaks it, and says, "This is my body given for you; do this in remembrance of me." He takes the cup and says it is the new covenant, poured out for them. He tells them plainly that one of them will betray Him, and that He will not eat this meal again until everything is fulfilled.
 
@@ -40,7 +40,7 @@ They sing a hymn together and walk out into the night.
 
 *Full retelling: [the Last Supper for kids](/blog/the-last-supper-for-kids).*
 
-## Scene 3: Gethsemane -- The Hardest Prayer
+## Scene 3: Gethsemane. The Hardest Prayer
 
 **Read: Luke 22:39-46 and Matthew 26:36-46**
 
@@ -56,19 +56,19 @@ This scene matters for kids because it shows Jesus was not sailing through the w
 
 *Full retelling: [the Garden of Gethsemane for kids](/blog/the-garden-of-gethsemane-for-kids).*
 
-## Scene 4: The Arrest -- A Kiss in the Dark
+## Scene 4: The Arrest. A Kiss in the Dark
 
 **Read: Matthew 26:47-56**
 
 While Jesus is still speaking, torches appear on the path. Judas, one of the twelve, has led a crowd with swords and clubs to the garden. He has given them a signal: the one I kiss is the man. He walks up to Jesus and kisses Him on the cheek. Jesus answers him with one word: "Friend."
 
-Peter draws a sword and cuts off a servant's ear. Jesus stops him, tells him to put the sword away, and heals the man on the spot -- the last miracle before the cross, done for someone who came to arrest Him. He reminds them He could call on twelve legions of angels if He wanted to.
+Peter draws a sword and cuts off a servant's ear. Jesus stops him, tells him to put the sword away, and heals the man on the spot. The last miracle before the cross, done for someone who came to arrest Him. He reminds them He could call on twelve legions of angels if He wanted to.
 
 Then the disciples run. Every one of them. The bravest men Jesus knew scattered into the dark, and He let them go.
 
 **Talk about it:** Jesus healed someone who was there to hurt Him. When is that hardest to do?
 
-## Scene 5: The Trials -- Innocent, and Condemned Anyway
+## Scene 5: The Trials. Innocent, and Condemned Anyway
 
 **Read: Matthew 26:57-27:26 and Luke 22:54-62**
 
@@ -82,7 +82,7 @@ Pilate questions Jesus, finds no crime, and tries three separate times to releas
 
 *Full retellings: [the trial for kids](/blog/the-trial-for-kids) and [Peter denies Jesus for kids](/blog/peter-denies-jesus-for-kids).*
 
-## Scene 6: The Cross -- Good Friday
+## Scene 6: The Cross. Good Friday
 
 **Read: Luke 23:26-49 and John 19:16-30**
 
@@ -90,15 +90,15 @@ This is the hardest scene in the Bible, and it should be told plainly rather tha
 
 He spends six hours there. Almost everything He says is for someone else: "Father, forgive them, for they do not know what they are doing." To the criminal beside Him: "Today you will be with me in paradise." To His mother and to John: "Here is your son... here is your mother."
 
-From noon to three, the whole land goes dark. He cries out, "My God, my God, why have you forsaken me?" Then, "It is finished." Then, "Father, into your hands I commit my spirit." And He dies. At that moment the temple curtain -- the heavy barrier separating people from the holiest place -- tears in two from top to bottom. A Roman officer standing there says, "Surely this man was the Son of God."
+From noon to three, the whole land goes dark. He cries out, "My God, my God, why have you forsaken me?" Then, "It is finished." Then, "Father, into your hands I commit my spirit." And He dies. At that moment the temple curtain, the heavy barrier separating people from the holiest place, tears in two from top to bottom. A Roman officer standing there says, "Surely this man was the Son of God."
 
-**For younger children:** "Jesus was hurt very badly by people who did not understand who He was, and He died. He could have stopped it -- He is God -- but He chose to stay, because He was taking the punishment for every wrong thing anyone has ever done. And Friday is not the end of the story."
+**For younger children:** "Jesus was hurt very badly by people who did not understand who He was, and He died. He could have stopped it. He is God, but He chose to stay, because He was taking the punishment for every wrong thing anyone has ever done. And Friday is not the end of the story."
 
 **Talk about it:** Almost everything Jesus said from the cross was about someone else. What does that tell us about Him?
 
 *Full retelling: [the cross for kids](/blog/the-cross-for-kids). For age-by-age wording, see [how to explain Easter to a child](/blog/how-to-explain-easter-to-a-child).*
 
-## Scene 7: The Burial -- The Quiet Saturday
+## Scene 7: The Burial. The Quiet Saturday
 
 **Read: John 19:38-42 and Matthew 27:57-66**
 
@@ -112,7 +112,7 @@ Then comes Saturday: a whole day of nothing. The disciples are hiding. The women
 
 *Full retelling: [the burial for kids](/blog/the-burial-for-kids).*
 
-## Scene 8: The Empty Tomb -- Sunday Morning
+## Scene 8: The Empty Tomb. Sunday Morning
 
 **Read: Matthew 28:1-10 and John 20:1-18**
 
@@ -126,27 +126,27 @@ Mary Magdalene runs for Peter and John, who sprint to the tomb and find the line
 
 *Full retelling: [the empty tomb for kids](/blog/the-empty-tomb-for-kids).*
 
-## Scene 9: He Appeared -- Forty Days of Proof
+## Scene 9: He Appeared. Forty Days of Proof
 
 **Read: Luke 24:13-49 and John 20:24-29**
 
 Jesus does not appear once and vanish. Over the next forty days He shows up again and again. That same Sunday, two travelers on the road to Emmaus walk seven miles with Him without recognizing Him while He explains from the Scriptures why the Messiah had to suffer. They only realize who He is when He breaks the bread at dinner. "Were not our hearts burning within us?" they say.
 
-He appears in a locked room and shows the disciples His hands and feet. He eats a piece of broiled fish so they will know He is not a ghost. Thomas, who missed it, says he will not believe until he touches the wounds himself -- and a week later Jesus walks in, holds out His hands, and invites him to. Thomas answers, "My Lord and my God!"
+He appears in a locked room and shows the disciples His hands and feet. He eats a piece of broiled fish so they will know He is not a ghost. Thomas, who missed it, says he will not believe until he touches the wounds himself, and a week later Jesus walks in, holds out His hands, and invites him to. Thomas answers, "My Lord and my God!"
 
 Paul later writes that more than 500 people saw Him alive at one time (1 Corinthians 15:6), many of them still living when he wrote it.
 
 **Talk about it:** Jesus let Thomas ask for proof instead of scolding him. What does that mean for our questions?
 
-## Scene 10: The Ascension -- Go and Tell
+## Scene 10: The Ascension. Go and Tell
 
 **Read: Matthew 28:16-20 and Acts 1:6-11**
 
-The last scene is on a hillside. Jesus gives His friends a job: go to every nation, teach people everything He taught, and baptize them. Then He adds the promise that holds the whole thing together -- "And surely I am with you always, to the very end of the age."
+The last scene is on a hillside. Jesus gives His friends a job: go to every nation, teach people everything He taught, and baptize them. Then He adds the promise that holds the whole thing together: "And surely I am with you always, to the very end of the age."
 
 As they watch, He is lifted up and a cloud hides Him from their sight. They are still staring at the sky when two men in white ask them why they are standing there looking up. Jesus will come back the same way, they say.
 
-So the Easter story does not end with a grave, or even with a reunion. It ends with ordinary, recently terrified people being sent out with news too good to keep -- which is how the story reached your kitchen table.
+So the Easter story does not end with a grave, or even with a reunion. It ends with ordinary, recently terrified people being sent out with news too good to keep, which is how the story reached your kitchen table.
 
 **Talk about it:** If you had been standing on that hill, who is the first person you would want to tell?
 
@@ -154,7 +154,7 @@ So the Easter story does not end with a grave, or even with a reunion. It ends w
 
 Ten scenes fit neatly into Holy Week: Palm Sunday and the Last Supper early in the week, Gethsemane and the arrest on Thursday, the trials and the cross on Friday, the burial on Saturday, and scenes 8-10 on Easter Sunday morning. Our [Holy Week day-by-day guide for kids](/blog/holy-week-day-by-day-for-kids) lays out that schedule with a reading and an activity for each day, and [Lent for kids explained](/blog/lent-for-kids-explained) covers the longer run-up if your family observes it.
 
-Two things make this land better with children. First, let the hard scenes stay hard for a moment -- kids can tell when we rush past something, and the resurrection means less if Friday costs nothing. Second, always finish a reading session on hope. If bedtime is running short, read Scene 6 and Scene 8 together rather than stopping at the cross.
+Two things make this land better with children. First, let the hard scenes stay hard for a moment; kids can tell when we rush past something, and the resurrection means less if Friday costs nothing. Second, always finish a reading session on hope. If bedtime is running short, read Scene 6 and Scene 8 together rather than stopping at the cross.
 
 If your kids do better watching than listening, the same ten scenes are animated one at a time at [Faithful Kids](https://faithfulkids.app/quiz), each with a quiz and a reflection question. Our roundup of [Easter Bible stories for kids](/blog/easter-bible-stories-for-kids) lists all of them in order.
 
@@ -176,7 +176,7 @@ Palm Sunday (the triumphal entry), the cleansing of the temple, the Last Supper 
 
 ### How do I tell kids about the crucifixion without frightening them?
 
-Tell it plainly rather than dramatically, keep the physical details minimal, and spend more words on why Jesus chose it than on what was done to Him. For ages 3-5, one or two sentences is enough: people hurt Jesus and He died, He chose it because He loves us, and God brought Him back to life. Never end a session on Friday -- always read to Sunday, or at least promise it before lights out.
+Tell it plainly rather than dramatically, keep the physical details minimal, and spend more words on why Jesus chose it than on what was done to Him. For ages 3-5, one or two sentences is enough: people hurt Jesus and He died, He chose it because He loves us, and God brought Him back to life. Never end a session on Friday; always read to Sunday, or at least promise it before lights out.
 
 ### Why is it called Good Friday if Jesus died?
 
@@ -188,4 +188,4 @@ By the Jewish reckoning of days, three days: buried Friday before sundown, in th
 
 ### What age is right for the full Easter story?
 
-Most children can handle the whole narrative around age 7, and many are ready at 6 if they have heard it in pieces before. Under 5, focus on Palm Sunday, the empty tomb, and the simple fact that Jesus is alive. From 9 up, kids start asking the deeper questions -- why the cross was necessary, and how we know the resurrection really happened -- and those are good conversations to lean into rather than deflect.
+Most children can handle the whole narrative around age 7, and many are ready at 6 if they have heard it in pieces before. Under 5, focus on Palm Sunday, the empty tomb, and the simple fact that Jesus is alive. From 9 up, kids start asking the deeper questions: why the cross was necessary, and how we know the resurrection really happened, and those are good conversations to lean into rather than deflect.

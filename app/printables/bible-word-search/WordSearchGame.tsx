@@ -255,7 +255,7 @@ export function WordSearchGame({
               placement="ws-end"
               compact
               title="🎯 Free: The Family Bible Trivia Pack"
-              subtitle="100 printable questions for game night — answers in the back."
+              subtitle="100 printable questions for game night, answers in the back."
             />
           </div>
         )}

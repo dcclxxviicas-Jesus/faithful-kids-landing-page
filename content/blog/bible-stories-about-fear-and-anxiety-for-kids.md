@@ -52,7 +52,7 @@ Here are eight Bible stories that teach children a simple, life-changing truth: 
 
 ---
 
-We drew a printable [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Jesus calms the storm coloring page](/printables/bible-coloring-pages/jesus-calms-the-storm) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## 4. Elijah and the Still Small Voice (1 Kings 19:1-18)
 
@@ -128,7 +128,7 @@ We drew a printable [Jesus calms the storm coloring page](/printables/bible-colo
 
 ---
 
-Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids) -- simple retellings of the whole Bible, free, Genesis to Revelation.
+Every story mentioned here is retold in full in our [200 Bible stories for kids](/bible-stories-for-kids): simple retellings of the whole Bible, free, Genesis to Revelation.
 
 ## Watch on Faithful Kids
 

@@ -25,13 +25,13 @@ David's Big Mistake is a Bible story from 2 Samuel/Psalms in the Old Testament. 
 
 ## What Is the Story of David's Big Mistake for Kids?
 
-KING DAVID'S REIGN — EPISODE 4: DAVID'S BIG MISTAKE Based on 2 Samuel 11-12 | Narrated by Jesus
+KING DAVID'S REIGN, EPISODE 4: DAVID'S BIG MISTAKE Based on 2 Samuel 11-12 | Narrated by Jesus
 
-Friends, today's story is hard but important. It teaches us something every person needs to know — even heroes fall. What matters most is what you do after.
+Friends, today's story is hard but important. It teaches us something every person needs to know, even heroes fall. What matters most is what you do after.
 
-It was springtime — the season when kings went to battle. But David stayed behind in Jerusalem. That was his first mistake. He was not where he was supposed to be.
+It was springtime, the season when kings went to battle. But David stayed behind in Jerusalem. That was his first mistake. He was not where he was supposed to be.
 
-One evening, David was walking on the roof of his palace when he saw a woman named Bathsheba. Instead of turning away, he let his eyes linger. One bad look led to a bad decision. David sent for her, and he did something terribly wrong — something that broke God's heart.
+One evening, David was walking on the roof of his palace when he saw a woman named Bathsheba. Instead of turning away, he let his eyes linger. One bad look led to a bad decision. David sent for her, and he did something terribly wrong, something that broke God's heart.
 
 This story comes from 2 Samuel/Psalms and is part of the Old Testament.
 
@@ -45,11 +45,11 @@ The story of David's Big Mistake teaches children important lessons about worshi
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
-We drew a printable [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -85,7 +85,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this story?
 
-**Even heroes fall — what matters is owning your mistakes and truly repenting.**
+**Even heroes fall, what matters is owning your mistakes and truly repenting.**
 
 ## Discussion Questions for Families
 
@@ -122,7 +122,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of David's Big Mistake about for kids?
 
-David's Big Mistake is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 4: DAVID'S BIG MISTAKE Based on 2 Samuel 11-12 | Narrated by Jesus
+David's Big Mistake is a story from 2 Samuel/Psalms. KING DAVID'S REIGN, EPISODE 4: DAVID'S BIG MISTAKE Based on 2 Samuel 11-12 | Narrated by Jesus
 
 ### What age is the story of David's Big Mistake appropriate for?
 

@@ -8,21 +8,21 @@ datePublished: "2026-04-01"
 dateModified: "2026-08-16"
 ---
 
-Your child will spend an estimated 10,000+ hours on screens before they turn 18. That is not a prediction of doom — it is a reality that calls for preparation. The question is not whether your child will use technology. The question is whether they will use it wisely.
+Your child will spend an estimated 10,000+ hours on screens before they turn 18. That is not a prediction of doom, it is a reality that calls for preparation. The question is not whether your child will use technology. The question is whether they will use it wisely.
 
-Stewardship is one of the most important concepts in Scripture. From the Garden of Eden, where God entrusted Adam with the care of creation (Genesis 2:15), to the parable of the talents (Matthew 25:14-30), the Bible consistently teaches that everything we have is a gift from God — and we are responsible for how we use it.
+Stewardship is one of the most important concepts in Scripture. From the Garden of Eden, where God entrusted Adam with the care of creation (Genesis 2:15), to the parable of the talents (Matthew 25:14-30), the Bible consistently teaches that everything we have is a gift from God, and we are responsible for how we use it.
 
-Technology is one of those gifts. It can educate, connect, inspire, and create. It can also distract, isolate, deceive, and harm. Teaching your child digital stewardship means helping them see their devices, apps, and online time as resources to manage wisely — not mindlessly.
+Technology is one of those gifts. It can educate, connect, inspire, and create. It can also distract, isolate, deceive, and harm. Teaching your child digital stewardship means helping them see their devices, apps, and online time as resources to manage wisely, not mindlessly.
 
 This guide provides a biblical foundation, age-appropriate conversation starters, and practical rules you can implement today.
 
 ## What Is Stewardship?
 
-A steward is someone who manages something on behalf of the owner. In the ancient world, a steward managed a household or estate for the master. They did not own the resources — they were entrusted with them and expected to use them well.
+A steward is someone who manages something on behalf of the owner. In the ancient world, a steward managed a household or estate for the master. They did not own the resources, they were entrusted with them and expected to use them well.
 
 Biblical stewardship applies to everything: time (Ephesians 5:15-16), money (Matthew 6:19-21), our bodies (1 Corinthians 6:19-20), our words (Ephesians 4:29), our talents (Matthew 25:14-30), and our influence (Matthew 5:14-16).
 
-Digital stewardship extends these principles to the digital world. It means teaching children that their screens, apps, data, online presence, and digital interactions are resources to manage — not entitlements to consume.
+Digital stewardship extends these principles to the digital world. It means teaching children that their screens, apps, data, online presence, and digital interactions are resources to manage, not entitlements to consume.
 
 ## The Scriptural Foundation
 
@@ -30,13 +30,13 @@ Digital stewardship extends these principles to the digital world. It means teac
 
 In the parable of the talents, a master gives three servants different amounts of money before leaving on a trip. Two servants invest wisely and double what they were given. The third buries his in the ground out of fear. The master rewards the first two and rebukes the third.
 
-**For kids:** "God gives us things to use wisely — time, abilities, and yes, even technology. A phone or tablet is like one of those talents. What are you doing with it? Are you using it to learn, grow, and help others? Or are you burying your time in stuff that does not matter?"
+**For kids:** "God gives us things to use wisely, time, abilities, and yes, even technology. A phone or tablet is like one of those talents. What are you doing with it? Are you using it to learn, grow, and help others? Or are you burying your time in stuff that does not matter?"
 
-### Our Words Have Power — Including Online Words (Proverbs 18:21; Ephesians 4:29)
+### Our Words Have Power: Including Online Words (Proverbs 18:21; Ephesians 4:29)
 
 "The tongue has the power of life and death" (Proverbs 18:21). "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up" (Ephesians 4:29).
 
-In the digital world, "the tongue" includes texts, comments, DMs, posts, and everything else typed or recorded. Many kids compartmentalize — they would never say something cruel to someone's face but think nothing of typing it in a group chat.
+In the digital world, "the tongue" includes texts, comments, DMs, posts, and everything else typed or recorded. Many kids compartmentalize, they would never say something cruel to someone's face but think nothing of typing it in a group chat.
 
 **For kids:** "Your words online are just as real as your words in person. When you type something to someone, imagine saying it to their face while Jesus stands next to you. Would you still send it?"
 
@@ -44,13 +44,13 @@ In the digital world, "the tongue" includes texts, comments, DMs, posts, and eve
 
 "By their fruit you will recognize them" (Matthew 7:16). The concept of "fruit" applies beautifully to digital behavior (for a deeper dive, see [the fruit of the Spirit for kids](/blog/the-fruit-of-the-spirit-for-kids)). What does your child's online activity produce? Does it produce kindness, learning, creativity, and connection? Or does it produce anxiety, comparison, gossip, and wasted time?
 
-**For kids:** "Jesus said we are known by our fruit — what we produce. If someone looked at everything you did on your phone this week, what fruit would they see? Good stuff or bad stuff? Would they see someone who uses technology to grow and help others, or someone who just consumes and scrolls?"
+**For kids:** "Jesus said we are known by our fruit, what we produce. If someone looked at everything you did on your phone this week, what fruit would they see? Good stuff or bad stuff? Would they see someone who uses technology to grow and help others, or someone who just consumes and scrolls?"
 
 ### We Are the Light of the World (Matthew 5:14-16)
 
 "You are the light of the world. A town built on a hill cannot be hidden" (Matthew 5:14). This is true online too. Every comment, every post, every shared video is an opportunity to be light in digital spaces that are often very dark.
 
-**For kids:** "You carry the light of Jesus everywhere you go — including online. When someone is being mean in the comments, you can be the one who says something kind. When everyone is sharing garbage, you can share something good. You do not have to be loud about it. Just be light."
+**For kids:** "You carry the light of Jesus everywhere you go, including online. When someone is being mean in the comments, you can be the one who says something kind. When everyone is sharing garbage, you can share something good. You do not have to be loud about it. Just be light."
 
 ## Age-Appropriate Conversations
 
@@ -89,33 +89,33 @@ Children in this range begin to have more independent access and start encounter
 This is when many kids get their first phone or social media account. The groundwork you laid in earlier years matters enormously now. Your role shifts from gatekeeper to coach.
 
 **Conversations to have:**
-- "Having a phone is a privilege, not a right. It comes with responsibility — just like the servants in the parable of the talents."
+- "Having a phone is a privilege, not a right. It comes with responsibility, just like the servants in the parable of the talents."
 - "Social media is designed to keep you scrolling. The companies make money from your attention. Being a good steward means not giving your attention away thoughtlessly."
 - "Comparison is a thief (2 Corinthians 10:12). What you see online is everyone's highlight reel. Do not compare your real life to someone else's curated posts."
 - "Your online reputation is part of your witness. What does your digital presence say about who you are and what you believe?"
 
 **Practical rules:**
 - Phone contract with clear expectations (see below)
-- Regular check-ins about online experiences — open, non-judgmental
+- Regular check-ins about online experiences, open, non-judgmental
 - Parental monitoring in place but with increasing privacy as trust grows
 - Social media accounts, if allowed, reviewed together initially
 
 ### Ages 14+: Coaching Toward Autonomy
 
-Teenagers need to be making more of their own digital decisions — within a framework you have been building for years. Your job now is to ask good questions, share observations, and be available when they need guidance.
+Teenagers need to be making more of their own digital decisions, within a framework you have been building for years. Your job now is to ask good questions, share observations, and be available when they need guidance.
 
 **Conversations to have:**
 - "How does the time you spend online make you feel afterward? Energized or drained?" (This teaches self-awareness.)
 - "Are there apps or habits that you feel are controlling you rather than the other way around? What would it look like to take that control back?"
 - "How could you use your platform, your creativity, or your voice online to be a force for good?"
 
-We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
-From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails — what worked in his house was replacement, not prohibition.
+From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails, what worked in his house was replacement, not prohibition.
 
 ## The Family Tech Contract
 
-A tech contract is not about control — it is about clarity. When expectations are written down and agreed upon, there are fewer arguments and more accountability. (For a full set of sample house rules, see [screen time rules for Christian families](/blog/screen-time-rules-christian-families).) Here is a framework you can adapt:
+A tech contract is not about control, it is about clarity. When expectations are written down and agreed upon, there are fewer arguments and more accountability. (For a full set of sample house rules, see [screen time rules for Christian families](/blog/screen-time-rules-christian-families).) Here is a framework you can adapt:
 
 **I agree to:**
 1. Keep my phone out of my bedroom at night (charges in the kitchen)
@@ -148,7 +148,7 @@ Your children will mirror your relationship with technology far more than they w
 
 ## Watch on Faithful Kids
 
-One of the best ways to practice digital stewardship is to fill screen time with content that nourishes the soul. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let your child's screen time become a tool for knowing God better — with short Bible stories, quizzes, and reflections that turn passive watching into active faith-building.
+One of the best ways to practice digital stewardship is to fill screen time with content that nourishes the soul. [Start your free trial on Faithful Kids](https://faithfulkids.app/quiz) and let your child's screen time become a tool for knowing God better, with short Bible stories, quizzes, and reflections that turn passive watching into active faith-building.
 
 ## Frequently Asked Questions
 
@@ -158,7 +158,7 @@ There is no universal right answer. The average age in the US is around 11-12, b
 
 ### How do I teach digital stewardship if my child already has bad screen habits?
 
-Start with an honest, non-shaming conversation. "I realize we have not been very intentional about how we use screens in our family, and I want to change that — for all of us, not just you." Introduce one new rule at a time. Expect pushback and respond with calm consistency. Changes made gradually stick better than overnight overhauls. We share a step-by-step plan in [how to reduce screen time for kids](/blog/how-to-reduce-screen-time-for-kids).
+Start with an honest, non-shaming conversation. "I realize we have not been very intentional about how we use screens in our family, and I want to change that, for all of us, not just you." Introduce one new rule at a time. Expect pushback and respond with calm consistency. Changes made gradually stick better than overnight overhauls. We share a step-by-step plan in [how to reduce screen time for kids](/blog/how-to-reduce-screen-time-for-kids).
 
 ### Should Christian families avoid social media entirely?
 
@@ -166,4 +166,4 @@ This is a personal decision. Some families choose to delay social media until hi
 
 ### How do I balance digital stewardship with my child's need to fit in socially?
 
-This is one of the hardest tensions in modern parenting. Be honest with your child: "I know it feels hard to be different from your friends. But part of following Jesus is sometimes making different choices." Help them find communities — youth group, sports, family friends — where they are not the only ones with boundaries. And listen to their concerns with empathy, even when you hold firm on your rules.
+This is one of the hardest tensions in modern parenting. Be honest with your child: "I know it feels hard to be different from your friends. But part of following Jesus is sometimes making different choices." Help them find communities, youth group, sports, family friends, where they are not the only ones with boundaries. And listen to their concerns with empathy, even when you hold firm on your rules.

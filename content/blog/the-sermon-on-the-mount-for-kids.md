@@ -23,13 +23,13 @@ The Sermon on the Mount is a Bible story from Matthew/Luke in the New Testament.
 
 ## What Is the Story of The Sermon on the Mount for Kids?
 
-THE TEACHINGS OF JESUS — Episode 1 "The Sermon on the Mount" Based on Matthew 5-7
+THE TEACHINGS OF JESUS, Episode 1 "The Sermon on the Mount" Based on Matthew 5-7
 
 Picture this: a hillside covered in green grass, a warm breeze blowing, and thousands of people sitting shoulder to shoulder, waiting to hear something that would change the world forever. That hillside was my pulpit. And what I preached that day? It flipped everything upside down.
 
-I sat down — that's how rabbis taught back then — and I opened my mouth and started dropping truth bombs that are STILL shaking the world two thousand years later.
+I sat down, that's how rabbis taught back then, and I opened my mouth and started dropping truth bombs that are STILL shaking the world two thousand years later.
 
-I told them: "You are the salt of the earth." Salt preserves. Salt adds flavor. Without you, the world goes bland and rotten. But here's the thing — if salt loses its saltiness, it's worthless. You were made to make a difference. So make one.
+I told them: "You are the salt of the earth." Salt preserves. Salt adds flavor. Without you, the world goes bland and rotten. But here's the thing, if salt loses its saltiness, it's worthless. You were made to make a difference. So make one.
 
 This story comes from Matthew/Luke and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Sermon on the Mount teaches children important lessons about lo
 
 ## Key Bible Verse
 
-> *"Blessed are the poor in spirit, for theirs is the kingdom of heaven."* — Matthew 5:3
+> *"Blessed are the poor in spirit, for theirs is the kingdom of heaven."* (Matthew 5:3)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,19 +55,19 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus say about your enemies?
 
-Jesus taught something radical — love your enemies and pray for those who persecute you (Matthew 5:44). That kind of love reflects the heart of God.
+Jesus taught something radical, love your enemies and pray for those who persecute you (Matthew 5:44). That kind of love reflects the heart of God.
 
 ### Jesus said not to worry. What example from nature did He use?
 
-Jesus pointed to the birds — they don't plant or harvest, yet God feeds every single one. His point: if God takes care of them, He will certainly take care of you (Matthew 6:26).
+Jesus pointed to the birds, they don't plant or harvest, yet God feeds every single one. His point: if God takes care of them, He will certainly take care of you (Matthew 6:26).
 
 ### What did Jesus say about judging others?
 
-Jesus used a vivid image — don't worry about the speck in your brother's eye when you've got a whole plank in yours. Deal with your own issues first (Matthew 7:3-5).
+Jesus used a vivid image, don't worry about the speck in your brother's eye when you've got a whole plank in yours. Deal with your own issues first (Matthew 7:3-5).
 
 ### What happens to the person who builds their life on Jesus' words?
 
-Jesus didn't promise no storms — He promised that if you build on His words, you'll survive them. The wise builder on the rock stands. The foolish builder on sand collapses (Matthew 7:24-27).
+Jesus didn't promise no storms, He promised that if you build on His words, you'll survive them. The wise builder on the rock stands. The foolish builder on sand collapses (Matthew 7:24-27).
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Sermon on the Mount about for kids?
 
-The Sermon on the Mount is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 1 "The Sermon on the Mount" Based on Matthew 5-7
+The Sermon on the Mount is a story from Matthew/Luke. THE TEACHINGS OF JESUS, Episode 1 "The Sermon on the Mount" Based on Matthew 5-7
 
 ### What age is the story of The Sermon on the Mount appropriate for?
 

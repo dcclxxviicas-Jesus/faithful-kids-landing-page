@@ -23,11 +23,11 @@ The Lord's Prayer is a Bible story from Matthew/Luke in the New Testament. This 
 
 ## What Is the Story of The Lord's Prayer for Kids?
 
-THE TEACHINGS OF JESUS — Episode 3 "The Lord's Prayer" Based on Matthew 6:9-13
+THE TEACHINGS OF JESUS, Episode 3 "The Lord's Prayer" Based on Matthew 6:9-13
 
 My disciples came to me one day and asked something so simple but so important: "Lord, teach us to pray." They'd watched me pray. Early mornings on mountainsides. Late nights alone. They saw something powerful happening and they wanted in.
 
-So I gave them a prayer. But here's what I need you to understand — I didn't give you this prayer so you could memorize it and repeat it like a robot. I gave it so you could learn how to TALK to my Father. It's a framework. A blueprint. Let me walk you through it.
+So I gave them a prayer. But here's what I need you to understand, I didn't give you this prayer so you could memorize it and repeat it like a robot. I gave it so you could learn how to TALK to my Father. It's a framework. A blueprint. Let me walk you through it.
 
 "Our Father in heaven." Stop right there. Did you catch that? FATHER. Not "Dear Distant Ruler of the Universe." Father. Dad. This is personal. When you pray, you're not sending a message into empty space. You're talking to a Father who knows your name, who loves you, who's leaning in to listen.
 
@@ -43,7 +43,7 @@ The story of The Lord's Prayer teaches children important lessons about love, ki
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,19 +55,19 @@ After watching the video, see if your child can answer these questions:
 
 ### Why did Jesus teach the Lord's Prayer?
 
-Jesus didn't want people to mindlessly repeat words. He gave the prayer as a blueprint — a pattern for real, honest conversation with the Father.
+Jesus didn't want people to mindlessly repeat words. He gave the prayer as a blueprint, a pattern for real, honest conversation with the Father.
 
 ### What does it mean that the prayer starts with "Our Father"?
 
-By calling God "Father," Jesus showed that prayer is personal and relational. You're not talking to a distant ruler — you're talking to a Dad who knows and loves you.
+By calling God "Father," Jesus showed that prayer is personal and relational. You're not talking to a distant ruler, you're talking to a Dad who knows and loves you.
 
 ### What does "hallowed be your name" mean?
 
-"Hallowed" means holy, sacred, set apart. Before asking for anything, Jesus taught us to start by worshipping — recognizing how awesome God is. It shifts our hearts from "give me" to "You are amazing."
+"Hallowed" means holy, sacred, set apart. Before asking for anything, Jesus taught us to start by worshipping, recognizing how awesome God is. It shifts our hearts from "give me" to "You are amazing."
 
 ### When Jesus said "give us this day our daily bread," what was He teaching?
 
-Jesus said DAILY bread — not yearly, not monthly. He's teaching us to trust God for today's needs and believe He'll show up again tomorrow. It's daily dependence.
+Jesus said DAILY bread, not yearly, not monthly. He's teaching us to trust God for today's needs and believe He'll show up again tomorrow. It's daily dependence.
 
 ### What connection did Jesus make between God's forgiveness and our forgiveness of others?
 
@@ -109,7 +109,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Lord's Prayer about for kids?
 
-The Lord's Prayer is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 3 "The Lord's Prayer" Based on Matthew 6:9-13
+The Lord's Prayer is a story from Matthew/Luke. THE TEACHINGS OF JESUS, Episode 3 "The Lord's Prayer" Based on Matthew 6:9-13
 
 ### What age is the story of The Lord's Prayer appropriate for?
 

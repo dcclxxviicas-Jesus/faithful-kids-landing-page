@@ -23,11 +23,11 @@ Born in a Manger is a Bible story from Luke 2:6-7 in the New Testament. This ret
 
 ## What Is the Story of Born in a Manger for Kids?
 
-Hey, welcome back! Alright — this is the big one. This is the episode where I actually show up. And let me tell you — the way I arrived was nothing like what anyone expected.
+Hey, welcome back! Alright, this is the big one. This is the episode where I actually show up. And let me tell you, the way I arrived was nothing like what anyone expected.
 
-So picture it. Mary and Joseph have just finished that grueling ninety-mile journey. They're exhausted. Dusty. Sore. And Mary is about to have a baby — any moment now. They stagger into Bethlehem, and the town is packed. Everyone is there for the census. Every inn, every guest room, every spare corner — taken. Full. No vacancy.
+So picture it. Mary and Joseph have just finished that grueling ninety-mile journey. They're exhausted. Dusty. Sore. And Mary is about to have a baby, any moment now. They stagger into Bethlehem, and the town is packed. Everyone is there for the census. Every inn, every guest room, every spare corner, taken. Full. No vacancy.
 
-Joseph is knocking on doors. "Please — my wife is about to give birth. Do you have any room?" Door after door after door. No. No. No. Sorry. We're full.
+Joseph is knocking on doors. "Please, my wife is about to give birth. Do you have any room?" Door after door after door. No. No. No. Sorry. We're full.
 
 Can you imagine the stress? The fear? The desperation? This wasn't a couple looking for a nice hotel. This was a young woman about to deliver her first child with nowhere to go.
 
@@ -43,13 +43,13 @@ The story of Born in a Manger teaches children important lessons about hope, fai
 
 ## Key Bible Verse
 
-> *"She wrapped him in cloths and placed him in a manger."* — Luke 2:7
+> *"She wrapped him in cloths and placed him in a manger."* (Luke 2:7)
 
-Pair this with our free [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem), one sheet, ready for the kitchen table or the classroom.
 
 More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
 
-A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances — kids can trace the journeys with a finger.
+A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances; kids can trace the journeys with a finger.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -65,11 +65,11 @@ Caesar Augustus had ordered a census, and everyone had to return to their ancest
 
 ### What is a manger?
 
-A manger is a feeding trough — a box or container that animals eat out of. It was meant for hay and animal food, but it became the very first bed for the King of the universe.
+A manger is a feeding trough, a box or container that animals eat out of. It was meant for hay and animal food, but it became the very first bed for the King of the universe.
 
 ### Why did Jesus say He chose to be born in a manger instead of a palace?
 
-Jesus chose the most humble beginning possible to show that He came for all people — especially the overlooked and the struggling. His birth in a manger showed that God's kingdom is built on humility, not worldly power.
+Jesus chose the most humble beginning possible to show that He came for all people, especially the overlooked and the struggling. His birth in a manger showed that God's kingdom is built on humility, not worldly power.
 
 
 ## Discussion Questions for Families
@@ -107,7 +107,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Born in a Manger about for kids?
 
-Born in a Manger is a story from Luke 2:6-7. Hey, welcome back! Alright — this is the big one. This is the episode where I actually show up. And let me tell you — the way I arrived was nothing like what anyone expected.
+Born in a Manger is a story from Luke 2:6-7. Hey, welcome back! Alright, this is the big one. This is the episode where I actually show up. And let me tell you, the way I arrived was nothing like what anyone expected.
 
 ### What age is the story of Born in a Manger appropriate for?
 

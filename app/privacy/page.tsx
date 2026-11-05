@@ -114,11 +114,11 @@ export default function Privacy() {
           data on our behalf and are bound by their own privacy policies:
         </p>
         <ul>
-          <li><strong>Supabase</strong> — database and authentication</li>
-          <li><strong>Resend</strong> — email delivery</li>
-          <li><strong>Stripe</strong> — payment processing</li>
-          <li><strong>PostHog</strong> — anonymous product analytics</li>
-          <li><strong>Google / Apple</strong> — OAuth sign-in (if used)</li>
+          <li><strong>Supabase</strong>: database and authentication</li>
+          <li><strong>Resend</strong>: email delivery</li>
+          <li><strong>Stripe</strong>: payment processing</li>
+          <li><strong>PostHog</strong>: anonymous product analytics</li>
+          <li><strong>Google / Apple</strong>: OAuth sign-in (if used)</li>
         </ul>
 
         <h2>Data Deletion</h2>

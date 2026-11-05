@@ -23,7 +23,7 @@ Calming the Storm is a Bible story from Matthew/Mark/Luke/John in the New Testam
 
 ## What Is the Story of Calming the Storm for Kids?
 
-MIRACLES OF JESUS — Episode 1: Calming the Storm Based on Mark 4:35-41
+MIRACLES OF JESUS, Episode 1: Calming the Storm Based on Mark 4:35-41
 
 Hey kids! Come sit down, because I want to tell you about a night my disciples will NEVER forget.
 
@@ -43,11 +43,11 @@ The story of Calming the Storm teaches children important lessons about faith, G
 
 ## Key Bible Verse
 
-> *"Quiet! Be still!"* — Mark 4:39
+> *"Quiet! Be still!"* (Mark 4:39)
 
-Pair this with our free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star), one sheet, ready for the kitchen table or the classroom.
 
-A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances — kids can trace the journeys with a finger.
+A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances; kids can trace the journeys with a finger.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Where were Jesus and his disciples going when the storm hit?
 
-Jesus told His disciples, "Let's cross to the other side of the lake" — the Sea of Galilee.
+Jesus told His disciples, "Let's cross to the other side of the lake" (the Sea of Galilee).
 
 ### What was Jesus doing when the storm started?
 
@@ -71,11 +71,11 @@ The disciples were so scared and frustrated that they asked Jesus, "Don't you ca
 
 ### What did Jesus say to calm the storm?
 
-Jesus stood up and commanded the storm with the words, "Quiet! Be still!" — and instantly everything went calm.
+Jesus stood up and commanded the storm with the words, "Quiet! Be still!" and instantly everything went calm.
 
 ### After the storm stopped, the disciples were terrified. Why?
 
-The disciples were no longer afraid of the storm — they were in awe of Jesus. They whispered, "Who IS this? Even the wind and waves obey Him!"
+The disciples were no longer afraid of the storm; they were in awe of Jesus. They whispered, "Who IS this? Even the wind and waves obey Him!"
 
 
 ## Discussion Questions for Families
@@ -115,7 +115,7 @@ There is a free [Jesus calms the storm coloring page](/printables/bible-coloring
 
 ### What is the story of Calming the Storm about for kids?
 
-Calming the Storm is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 1: Calming the Storm Based on Mark 4:35-41
+Calming the Storm is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS, Episode 1: Calming the Storm Based on Mark 4:35-41
 
 ### What age is the story of Calming the Storm appropriate for?
 

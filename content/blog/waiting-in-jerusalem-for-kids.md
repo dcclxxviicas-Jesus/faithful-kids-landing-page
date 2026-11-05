@@ -25,13 +25,13 @@ Waiting in Jerusalem is a Bible story from Matthew/Luke/Acts in the New Testamen
 
 ## What Is the Story of Waiting in Jerusalem for Kids?
 
-HE IS RISEN — Episode 9: Waiting in Jerusalem Based on Acts 1:12-26 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN, Episode 9: Waiting in Jerusalem Based on Acts 1:12-26 Series: He Is Risen | Target Age: 7-15
 
 Let me tell you about one of the hardest things my followers ever had to do. It was not fighting a battle. It was not climbing a mountain. It was waiting.
 
-After I ascended into heaven, the disciples walked back to Jerusalem — about a mile from the place where they watched me disappear into the clouds. I had given them a clear instruction: "Stay in Jerusalem. Wait for the gift the Father promised." I did not tell them exactly when. I did not give them a countdown clock. I just said WAIT.
+After I ascended into heaven, the disciples walked back to Jerusalem, about a mile from the place where they watched me disappear into the clouds. I had given them a clear instruction: "Stay in Jerusalem. Wait for the gift the Father promised." I did not tell them exactly when. I did not give them a countdown clock. I just said WAIT.
 
-They went to an upper room — Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James son of Alphaeus, Simon the Zealot, and Judas son of James. All eleven of them. Plus the women who had followed me, including my mother Mary. And my brothers. About one hundred and twenty believers gathered together.
+They went to an upper room, Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James son of Alphaeus, Simon the Zealot, and Judas son of James. All eleven of them. Plus the women who had followed me, including my mother Mary. And my brothers. About one hundred and twenty believers gathered together.
 
 This story comes from Matthew/Luke/Acts and is part of the New Testament.
 
@@ -45,11 +45,11 @@ The story of Waiting in Jerusalem teaches children important lessons about resur
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
-Pair this with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday), one sheet, ready for the kitchen table or the classroom.
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus tell His disciples to do after He ascended?
 
-**Stay in Jerusalem and wait for the Holy Spirit.** Jesus gave them a clear instruction: stay in Jerusalem and wait for the gift the Father promised — the Holy Spirit.
+**Stay in Jerusalem and wait for the Holy Spirit.** Jesus gave them a clear instruction: stay in Jerusalem and wait for the gift the Father promised, the Holy Spirit.
 
 ### How many believers gathered together in the upper room?
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the big lesson about waiting on God?
 
-**Obedient waiting is preparation for what God has next.** When God says "wait," it is not "no" — it is "not yet." Obedient waiting, filled with prayer and patience, prepares you for what God has planned next.
+**Obedient waiting is preparation for what God has next.** When God says "wait," it is not "no", it is "not yet." Obedient waiting, filled with prayer and patience, prepares you for what God has planned next.
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Waiting in Jerusalem about for kids?
 
-Waiting in Jerusalem is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 9: Waiting in Jerusalem Based on Acts 1:12-26 Series: He Is Risen | Target Age: 7-15
+Waiting in Jerusalem is a story from Matthew/Luke/Acts. HE IS RISEN, Episode 9: Waiting in Jerusalem Based on Acts 1:12-26 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of Waiting in Jerusalem appropriate for?
 

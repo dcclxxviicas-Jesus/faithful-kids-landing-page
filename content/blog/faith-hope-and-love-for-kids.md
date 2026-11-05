@@ -25,13 +25,13 @@ Faith Hope and Love Is a Bible story from Romans/Corinthians/Ephesians in the Ne
 
 ## What Is the Story of Faith Hope and Love for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 5 "Faith, Hope, and Love" Based on 1 Corinthians 13:13 and Hebrews 11:1 Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 5 "Faith, Hope, and Love" Based on 1 Corinthians 13:13 and Hebrews 11:1 Jesus Narrates
 
 At the end of his famous chapter on love, Paul writes one final line that sums up everything: "And now these three remain: faith, hope, and love. But the greatest of these is love."
 
-Three things that last forever. Everything else fades — money, popularity, trends, technology — but faith, hope, and love? They endure. They're eternal. And today I want to show you why these three are the foundation of everything.
+Three things that last forever. Everything else fades, money, popularity, trends, technology, but faith, hope, and love? They endure. They're eternal. And today I want to show you why these three are the foundation of everything.
 
-The book of Hebrews puts it like this: "Faith is the substance of things hoped for, the evidence of things not seen." That's a big sentence, so let me break it down. Faith means trusting something is real even when you can't see it. You can't see the wind, but you feel it. You can't see gravity, but you trust it every time you take a step. Faith in me is like that. You can't see me with your eyes — but you trust me with your life. You believe my promises are true, even before they come true.
+The book of Hebrews puts it like this: "Faith is the substance of things hoped for, the evidence of things not seen." That's a big sentence, so let me break it down. Faith means trusting something is real even when you can't see it. You can't see the wind, but you feel it. You can't see gravity, but you trust it every time you take a step. Faith in me is like that. You can't see me with your eyes, but you trust me with your life. You believe my promises are true, even before they come true.
 
 This story comes from Romans/Corinthians/Ephesians and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of Faith Hope and Love teaches children important lessons about love, 
 
 ## Key Bible Verse
 
-> *"And now these three remain: faith, hope and love. But the greatest of these is love."* — 1 Corinthians 13:13
+> *"And now these three remain: faith, hope and love. But the greatest of these is love."* (1 Corinthians 13:13)
 
 There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) on our site too, printable on one sheet with no sign-up.
 
@@ -73,7 +73,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Why does Paul say love is the GREATEST of the three?
 
-**Because faith and hope will one day be fulfilled, but love never ends.** Faith will become sight when we see Jesus face to face. Hope will be fulfilled when all God's promises come true. But love is eternal — it never ends.
+**Because faith and hope will one day be fulfilled, but love never ends.** Faith will become sight when we see Jesus face to face. Hope will be fulfilled when all God's promises come true. But love is eternal, it never ends.
 
 ### How did Jesus describe faith, hope, and love working together in daily life?
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Faith Hope and Love about for kids?
 
-Faith Hope and Love Is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 5 "Faith, Hope, and Love" Based on 1 Corinthians 13:13 and Hebrews 11:1 Jesus Narrates
+Faith Hope and Love Is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES, EPISODE 5 "Faith, Hope, and Love" Based on 1 Corinthians 13:13 and Hebrews 11:1 Jesus Narrates
 
 ### What age is the story of Faith Hope and Love appropriate for?
 

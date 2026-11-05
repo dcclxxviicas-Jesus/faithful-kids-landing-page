@@ -18,7 +18,7 @@ The funniest games make a student look silly at something harmless, never at som
 
 ### 1. The Whisper Challenge
 **Group: 4-30 | Space: any | Materials: headphones and a phone | Prep: 1 min | Mixed ages OK**
-One student wears headphones playing loud music while a partner says a phrase. The listener has to guess it by lip-reading, and their attempts are the entire show. Feed them Bible phrases -- "Shadrach, Meshach, and Abednego" is undefeated. Use the group's own phones and keep the volume reasonable.
+One student wears headphones playing loud music while a partner says a phrase. The listener has to guess it by lip-reading, and their attempts are the entire show. Feed them Bible phrases, "Shadrach, Meshach, and Abednego" is undefeated. Use the group's own phones and keep the volume reasonable.
 
 ### 2. Chicken Fight
 **Group: 6-20 | Space: open floor, soft surface | Materials: none | Prep: 0 min | Supervise closely**
@@ -38,7 +38,7 @@ Build a course out of chairs. Blindfold a runner and let their partner shout dir
 
 ### 6. Telephone Charades
 **Group: 8-20 | Space: front of room | Materials: none | Prep: 0 min | Mixed ages OK**
-Five students face away in a line. Show the first one an action, they act it silently for the second, and so on down the line. The last student guesses out loud, then you replay the original. Bible stories degrade beautifully -- "Jonah swallowed by a fish" reliably ends up as "man does laundry."
+Five students face away in a line. Show the first one an action, they act it silently for the second, and so on down the line. The last student guesses out loud, then you replay the original. Bible stories degrade beautifully, "Jonah swallowed by a fish" reliably ends up as "man does laundry."
 
 ### 7. Reverse Charades
 **Group: 10-30 | Space: front of room | Materials: paper slips | Prep: 3 min | Mixed ages OK**
@@ -50,7 +50,7 @@ Everyone writes a famous name or Bible character and sticks it on somebody else'
 
 ### 9. Pterodactyl
 **Group: 8-25 | Space: circle | Materials: none | Prep: 0 min | Mixed ages OK**
-Pass the word "pterodactyl" around the circle without showing any teeth -- lips over teeth the whole time. Flash a tooth or laugh and you're out. A screech reverses the direction. Two minutes long, and it works on everyone.
+Pass the word "pterodactyl" around the circle without showing any teeth, lips over teeth the whole time. Flash a tooth or laugh and you're out. A screech reverses the direction. Two minutes long, and it works on everyone.
 
 ### 10. Psychiatrist
 **Group: 6-14 | Space: circle | Materials: none | Prep: 0 min | Mixed ages OK**
@@ -62,7 +62,7 @@ Students draw a song and perform it as badly and dramatically as possible. Point
 
 ### 12. Sound Effects Storytime
 **Group: 6-30 | Space: any | Materials: a Bible story you'll read | Prep: 3 min | Mixed ages OK**
-Assign the group sound effects -- wind, water, crowd murmur, a donkey -- and read a Bible narrative aloud while they perform on cue. Jonah 1 and Acts 12 both work. It's a game and it's a Scripture reading at the same time, which is the whole trick.
+Assign the group sound effects, wind, water, crowd murmur, a donkey, and read a Bible narrative aloud while they perform on cue. Jonah 1 and Acts 12 both work. It's a game and it's a Scripture reading at the same time, which is the whole trick.
 
 ### 13. Balloon Between the Knees Race
 **Group: 10-30 | Space: a room with two ends | Materials: balloons | Prep: 5 min inflating | Mixed ages OK**
@@ -82,7 +82,7 @@ Everyone pairs off. The loser becomes the winner's cheering section and follows 
 
 ### 17. Bippity Bippity Bop
 **Group: 8-20 | Space: circle with room to move | Materials: none | Prep: 0 min | Mixed ages OK**
-The leader in the middle points and says "bippity bippity bop" -- you must say "bop" before they finish. If they only say "bop," you must stay silent. Add three-person poses on command: elephant, washing machine, Mount Rushmore. Fail and you're the new middle.
+The leader in the middle points and says "bippity bippity bop"; you must say "bop" before they finish. If they only say "bop," you must stay silent. Add three-person poses on command: elephant, washing machine, Mount Rushmore. Fail and you're the new middle.
 
 ### 18. Ninja
 **Group: 8-25 | Space: open circle, no furniture | Materials: none | Prep: 0 min | Mixed ages OK**
@@ -90,11 +90,11 @@ Bow, yell "Ninja," then take turns making one fluid motion to strike a neighbor'
 
 ### 19. Wax Museum
 **Group: 10-30 | Space: any room | Materials: none | Prep: 0 min | Mixed ages OK**
-Everyone freezes. Two curators try to make statues laugh or move -- no touching, no insults, just faces and voices. Anyone who breaks joins the curators. It gets quieter as it goes, so it's a good bridge into teaching.
+Everyone freezes. Two curators try to make statues laugh or move; no touching, no insults, just faces and voices. Anyone who breaks joins the curators. It gets quieter as it goes, so it's a good bridge into teaching.
 
 ### 20. Paper Plate Head Draw
 **Group: 8-40 | Space: tables or laps | Materials: paper plates or scrap paper, markers | Prep: 1 min | Mixed ages OK**
-Students put a plate on top of their head and draw a scene you call out -- Noah's ark, the nativity, your youth pastor -- without looking. Hold up all the results at once. Nobody is good at this, which is exactly the point.
+Students put a plate on top of their head and draw a scene you call out: Noah's ark, the nativity, your youth pastor, without looking. Hold up all the results at once. Nobody is good at this, which is exactly the point.
 
 ### 21. Blind Drawing Duo
 **Group: 6-30 | Space: chairs back to back | Materials: paper, pens | Prep: 1 min | Mixed ages OK**
@@ -118,11 +118,11 @@ Everyone throws one shoe in a pile. Mix it well. On go, grab a shoe that isn't y
 
 ### 26. Mummy Wrap
 **Group: 12-40 | Space: open floor | Materials: 1 roll of toilet paper per team | Prep: 0 min | Mixed ages OK**
-Teams of five wrap one volunteer head to toe. Whole roll, no gaps, fastest wins. **Faith tie-in:** John 11:44 -- Lazarus walks out still wrapped and Jesus says "take off the grave clothes and let him go."
+Teams of five wrap one volunteer head to toe. Whole roll, no gaps, fastest wins. **Faith tie-in:** John 11:44; Lazarus walks out still wrapped and Jesus says "take off the grave clothes and let him go."
 
 ### 27. Mafia
 **Group: 8-16 | Space: circle | Materials: playing cards | Prep: 2 min | Mixed ages OK**
-Deal one mafia per four players plus a detective. Nights are silent eliminations, days are loud accusations. The funny part is never the game -- it's watching a normally quiet student deliver a five-minute courtroom speech about why Kayla is obviously guilty.
+Deal one mafia per four players plus a detective. Nights are silent eliminations, days are loud accusations. The funny part is never the game; it's watching a normally quiet student deliver a five-minute courtroom speech about why Kayla is obviously guilty.
 
 ### 28. Ships and Sailors
 **Group: 25-100 | Space: gym or large hall | Materials: none | Prep: 0 min | Supervise closely**
@@ -134,29 +134,29 @@ Each team secretly picks a doctor who can revive hit teammates with a touch. **S
 
 ### 30. Ultimate Musical Chairs
 **Group: 20-60 | Space: open floor, sturdy chairs | Materials: chairs, music | Prep: 5 min | Supervise closely**
-Nobody's eliminated -- chairs are. Students end up stacked three deep on four chairs, laughing too hard to stay upright. **Supervision:** cap the pile at two people high, leaders spotting on every chair, and stop the moment somebody climbs on shoulders.
+Nobody's eliminated; chairs are. Students end up stacked three deep on four chairs, laughing too hard to stay upright. **Supervision:** cap the pile at two people high, leaders spotting on every chair, and stop the moment somebody climbs on shoulders.
 
 ## How Do You Keep a Funny Game From Turning Mean?
 
-Set the target before the game starts: students may laugh at what somebody does, never at who somebody is. Say it once, out loud, in a sentence -- "we laugh at the game, not at each other" -- and then enforce it the first time somebody crosses the line, because the first time is the only time that matters.
+Set the target before the game starts: students may laugh at what somebody does, never at who somebody is. Say it once, out loud, in a sentence: "we laugh at the game, not at each other"; and then enforce it the first time somebody crosses the line, because the first time is the only time that matters.
 
-Three practical filters. First, no game where a student's appearance, weight, family, or crush is the joke. Second, leaders go first on anything embarrassing; if no adult will do it, don't ask a 13-year-old to. Third, give every student a real exit -- a scorekeeper role, a referee whistle, a spot running the music -- so opting out doesn't look like losing. Ephesians 4:29 is the standard the room is being trained toward: talk that builds people up.
+Three practical filters. First, no game where a student's appearance, weight, family, or crush is the joke. Second, leaders go first on anything embarrassing; if no adult will do it, don't ask a 13-year-old to. Third, give every student a real exit: a scorekeeper role, a referee whistle, a spot running the music; so opting out doesn't look like losing. Ephesians 4:29 is the standard the room is being trained toward: talk that builds people up.
 
 Faithful Kids leaders often pair a loud night like this with something anchored, because a group that only ever laughs together doesn't learn to think together. Alternate: one high-energy week, one Scripture-heavy week. For the second kind of night, our [Bible games for youth](/blog/bible-games-for-youth) list and the [Bible trivia for teens](/blog/bible-trivia-for-teens) question bank both do the heavy lifting for you, and our free printable [Bible Trivia Pack](/printables/bible-trivia-pack) gives a volunteer 100 ready questions with the answers on a separate page.
 
 For more options, the full sorted list lives at [youth group games by group size](/blog/youth-group-games), with spinoffs for [indoor youth group games](/blog/indoor-youth-group-games), [youth group icebreakers](/blog/youth-group-icebreakers), [no-prep youth group games](/blog/no-prep-youth-group-games), and [outdoor youth group games](/blog/outdoor-youth-group-games). Mixed-age teams can also pull from our [Bible trivia for youth](/blog/bible-trivia-for-youth) questions, and if you want a story that matches a night this loud, [David and Goliath](/blog/david-and-goliath-for-kids) is the one every student already thinks they know.
 
-If you would rather let a screen keep score, play our [online Bible trivia game](/bible-trivia) -- 100 questions, three levels, no sign-up.
+If you would rather let a screen keep score, play our [online Bible trivia game](/bible-trivia); 100 questions, three levels, no sign-up.
 
 We have eleven [Bible word search puzzles for kids](/printables/bible-word-search), playable online and free to print.
 
 For the adults in the room, our [Bible trivia questions for adults](/blog/bible-trivia-for-adults) run from deceptively easy to expert level, with a free printable PDF.
 
-If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs -- all clean.
+If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs; all clean.
 
-For a game that gets everyone moving, our [Bible scavenger hunt](/blog/bible-scavenger-hunt) has three ready-to-play hunts -- verse hunt, object hunt, and a church photo hunt -- with a free printable.
+For a game that gets everyone moving, our [Bible scavenger hunt](/blog/bible-scavenger-hunt) has three ready-to-play hunts, verse hunt, object hunt, and a church photo hunt, with a free printable.
 
-In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games) -- 25 ideas that survive forty kids arriving at once.
+In the fall, these pair with our [church fall festival games](/blog/church-fall-festival-games): 25 ideas that survive forty kids arriving at once.
 
 ## Frequently Asked Questions
 
@@ -176,6 +176,6 @@ Pick games where physical size and speed give no advantage: Reverse Charades, St
 Two or three, totaling 15 to 25 minutes. One loud game to shake off the school day, one mid-energy game that mixes friend groups, and optionally one quiet game after teaching if you want conversation. More than three and the night becomes a game night with a Bible verse attached rather than a youth group.
 
 ### Are funny games a waste of youth group time?
-No -- shared laughter is one of the fastest ways a group of teenagers becomes safe enough to say something honest. A student who has laughed with a leader on Wednesday is dramatically more likely to text that leader on a bad Thursday. Keep the games short and tie the night to Scripture somewhere, and the laughter is doing ministry work, not replacing it.
+No, shared laughter is one of the fastest ways a group of teenagers becomes safe enough to say something honest. A student who has laughed with a leader on Wednesday is dramatically more likely to text that leader on a bad Thursday. Keep the games short and tie the night to Scripture somewhere, and the laughter is doing ministry work, not replacing it.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.

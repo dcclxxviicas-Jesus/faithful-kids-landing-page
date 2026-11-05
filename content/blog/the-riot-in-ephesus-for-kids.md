@@ -25,13 +25,13 @@ The Riot in Ephesus is a Bible story from Acts in the New Testament. This retell
 
 ## What Is the Story of The Riot in Ephesus for Kids?
 
-PAUL'S ADVENTURES — EPISODE 6: THE RIOT IN EPHESUS Based on Acts 19:23-41 Series: Paul's Adventures | Episode 6 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 6: THE RIOT IN EPHESUS Based on Acts 19:23-41 Series: Paul's Adventures | Episode 6 of 10 Target audience: Kids ages 7-15
 
-Okay — so Paul had been in Ephesus for almost three years, and things were going incredibly well. People were hearing the gospel, lives were being transformed, and the whole city was buzzing. Sick people were healed. Those caught up in dark magic were burning their spell books in public bonfires. The word of God was spreading like wildfire.
+Okay, so Paul had been in Ephesus for almost three years, and things were going incredibly well. People were hearing the gospel, lives were being transformed, and the whole city was buzzing. Sick people were healed. Those caught up in dark magic were burning their spell books in public bonfires. The word of God was spreading like wildfire.
 
 And that right there? That's when the trouble started.
 
-See, Ephesus had a massive temple — one of the Seven Wonders of the Ancient World — dedicated to the goddess Artemis. And there was a guy named Demetrius who made a very comfortable living crafting little silver shrines of Artemis. Business was booming — until Paul showed up.
+See, Ephesus had a massive temple, one of the Seven Wonders of the Ancient World, dedicated to the goddess Artemis. And there was a guy named Demetrius who made a very comfortable living crafting little silver shrines of Artemis. Business was booming, until Paul showed up.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Riot in Ephesus teaches children important lessons about advent
 
 ## Key Bible Verse
 
-> *"I consider my life worth nothing to me; my only aim is to finish the race."* — Acts 20:24
+> *"I consider my life worth nothing to me; my only aim is to finish the race."* (Acts 20:24)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**When you're making a real difference, expect pushback — especially from people profiting from the old way.**
+**When you're making a real difference, expect pushback, especially from people profiting from the old way.**
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Riot in Ephesus about for kids?
 
-The Riot in Ephesus is a story from Acts. PAUL'S ADVENTURES — EPISODE 6: THE RIOT IN EPHESUS Based on Acts 19:23-41 Series: Paul's Adventures | Episode 6 of 10 Target audience: Kids ages 7-15
+The Riot in Ephesus is a story from Acts. PAUL'S ADVENTURES, EPISODE 6: THE RIOT IN EPHESUS Based on Acts 19:23-41 Series: Paul's Adventures | Episode 6 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of The Riot in Ephesus appropriate for?
 

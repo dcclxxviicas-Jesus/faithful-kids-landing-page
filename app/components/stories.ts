@@ -25,7 +25,7 @@ export const STORIES: Story[] = [
     // 28.5MB; streaming it as a decorative background loop was 91% of the
     // homepage's weight and cost ~25 Lighthouse points on mobile.
     loopSrc: `${CDN}/hero-loops/an-angel-visits-mary-loop.mp4`,
-    poster: `${CDN}/video-posters/an-angel-visits-mary.webp`,
+    poster: `${CDN}/video-posters/an-angel-visits-mary.webp?v=3`,
     title: 'An Angel Visits Mary',
     badge: 'Birth of Jesus',
     series: 'Birth of Jesus',
@@ -34,16 +34,16 @@ export const STORIES: Story[] = [
   },
   {
     src: `${CDN}/bible/genesis-series/01-in-the-beginning-creation/lesson-video.mp4`,
-    poster: `${CDN}/video-posters/in-the-beginning-creation.webp`,
+    poster: `${CDN}/video-posters/in-the-beginning-creation.webp?v=3`,
     title: 'In the Beginning: Creation',
     badge: 'Genesis',
     series: 'Genesis',
     age: 'Ages 5+',
-    blurb: 'Day by day, God speaks the world into being — light, sky, sea, creatures, and people.',
+    blurb: 'Day by day, God speaks the world into being: light, sky, sea, creatures, and people.',
   },
   {
     src: `${CDN}/bible/exodus-series/01-a-baby-in-a-basket/lesson-video.mp4`,
-    poster: `${CDN}/video-posters/a-baby-in-a-basket.webp`,
+    poster: `${CDN}/video-posters/a-baby-in-a-basket.webp?v=3`,
     title: 'A Baby in a Basket',
     badge: 'Exodus',
     series: 'Exodus',
@@ -52,7 +52,7 @@ export const STORIES: Story[] = [
   },
   {
     src: `${CDN}/bible/genesis-series/04-noah-and-the-great-flood/lesson-video.mp4`,
-    poster: `${CDN}/video-posters/noah-and-the-great-flood.webp`,
+    poster: `${CDN}/video-posters/noah-and-the-great-flood.webp?v=3`,
     title: 'Noah & the Great Flood',
     badge: 'Genesis',
     series: 'Genesis',

@@ -8,13 +8,13 @@ datePublished: "2026-08-19"
 dateModified: "2026-08-19"
 ---
 
-Here are 100 Bible trivia questions and answers spanning the entire Bible -- Genesis to Revelation, Old Testament and New -- sorted into four difficulty tiers so the same list works for a six-year-old and a seminary graduate. Every answer appears in bold right after its question, with a verse reference so you can settle any dinner-table disputes on the spot.
+Here are 100 Bible trivia questions and answers spanning the entire Bible: Genesis to Revelation, Old Testament and New: sorted into four difficulty tiers so the same list works for a six-year-old and a seminary graduate. Every answer appears in bold right after its question, with a verse reference so you can settle any dinner-table disputes on the spot.
 
 This is the master list. If you want a version aimed at a specific crowd, we have dedicated sets of [Bible trivia for kids](/blog/bible-trivia-for-kids), [hard Bible trivia for teens](/blog/bible-trivia-for-teens), [easy Bible trivia questions](/blog/easy-bible-trivia-questions) for the youngest players, and [hard Bible trivia questions](/blog/hard-bible-trivia-questions) for the family champion who needs humbling. But if you only bookmark one page, make it this one.
 
 ## Easy Bible Trivia Questions (1-30)
 
-Start here with young kids or mixed groups. These cover the most famous trivia about the Bible -- the stories nearly everyone has heard.
+Start here with young kids or mixed groups. These cover the most famous trivia about the Bible: the stories nearly everyone has heard.
 
 1. What is the first book of the Bible? **Genesis** (Genesis 1:1)
 2. Who were the first man and woman? **Adam and Eve** (Genesis 2:7, 3:20)
@@ -84,9 +84,9 @@ These reward kids and adults who know the stories between the famous ones. Perfe
 
 ## Hard Bible Trivia Questions (61-85)
 
-Now the adults have to pay attention. This tier draws on the details most people skim -- if your crew wants a whole game at this level, our [hard Bible trivia questions](/blog/hard-bible-trivia-questions) list goes even deeper.
+Now the adults have to pay attention. This tier draws on the details most people skim: if your crew wants a whole game at this level, our [hard Bible trivia questions](/blog/hard-bible-trivia-questions) list goes even deeper.
 
-61. How many of every clean animal did Noah take on the ark? **Seven pairs -- not just two** (Genesis 7:2)
+61. How many of every clean animal did Noah take on the ark? **Seven pairs: not just two** (Genesis 7:2)
 62. What mysterious priest-king of Salem brought out bread and wine and blessed Abram? **Melchizedek** (Genesis 14:18)
 63. What did Esau trade his birthright for? **A meal of bread and lentil stew** (Genesis 25:34)
 64. Who were Moses' brother and sister? **Aaron and Miriam** (Exodus 4:14, 15:20)
@@ -105,14 +105,14 @@ Now the adults have to pay attention. This tier draws on the details most people
 77. How many wings did each seraph have in Isaiah's temple vision? **Six** (Isaiah 6:2)
 78. Which prophet was told to marry Gomer? **Hosea** (Hosea 1:3)
 79. Which prophet is known as the weeping prophet? **Jeremiah** (Jeremiah 9:1)
-80. What did Ezekiel see come to life in the valley? **Dry bones -- they became a vast army** (Ezekiel 37:1-10)
+80. What did Ezekiel see come to life in the valley? **Dry bones: they became a vast army** (Ezekiel 37:1-10)
 81. To what city did God send Jonah to preach? **Nineveh** (Jonah 1:2)
 82. What did God provide to shade Jonah outside the city? **A leafy plant, which a worm later destroyed** (Jonah 4:6-7)
 83. From which tribe of Israel was the apostle Paul? **Benjamin** (Philippians 3:5)
 84. What was Paul's name before he was known as Paul? **Saul** (Acts 13:9)
 85. On the road to which city did Saul see the blinding light? **Damascus** (Acts 9:3)
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
 ## Expert Bible Trivia Questions (86-100)
 
@@ -120,11 +120,11 @@ The final fifteen. Anyone who sweeps this round has earned bragging rights until
 
 86. Who was the first Christian martyr? **Stephen** (Acts 7:59-60)
 87. Which couple died after lying about the money from a land sale? **Ananias and Sapphira** (Acts 5:1-10)
-88. Who fell asleep and dropped from a third-story window during Paul's long sermon? **Eutychus -- Paul restored him to life** (Acts 20:9-10)
+88. Who fell asleep and dropped from a third-story window during Paul's long sermon? **Eutychus: Paul restored him to life** (Acts 20:9-10)
 89. On what island was Paul shipwrecked on his way to Rome? **Malta** (Acts 28:1)
 90. On what island did John receive the visions of Revelation? **Patmos** (Revelation 1:9)
 91. How many churches receive letters in Revelation? **Seven** (Revelation 1:4)
-92. What is the shortest book in the Old Testament? **Obadiah -- just 21 verses** (Obadiah 1:1)
+92. What is the shortest book in the Old Testament? **Obadiah, just 21 verses** (Obadiah 1:1)
 93. What is the longest chapter in the Bible? **Psalm 119, with 176 verses** (Psalm 119)
 94. Which two people in the Bible never died? **Enoch and Elijah** (Genesis 5:24; 2 Kings 2:11)
 95. Under which priest did the boy Samuel serve at the tabernacle? **Eli** (1 Samuel 3:1)
@@ -136,17 +136,17 @@ The final fifteen. Anyone who sweeps this round has earned bragging rights until
 
 ## Print This List Free
 
-Want all 100 questions on paper instead of a screen? Our free [Bible Trivia Pack](/printables/bible-trivia-pack) is a printable set of question cards and score sheets -- cut them out, split into teams, and you have a full game night with zero prep. It prints from any home printer, no signup hoops, and pairs perfectly with the tiers above: hand the easy cards to the youngest reader and let them play quizmaster.
+Want all 100 questions on paper instead of a screen? Our free [Bible Trivia Pack](/printables/bible-trivia-pack) is a printable set of question cards and score sheets; cut them out, split into teams, and you have a full game night with zero prep. It prints from any home printer, no signup hoops, and pairs perfectly with the tiers above: hand the easy cards to the youngest reader and let them play quizmaster.
 
 ## How to Use These 100 Questions
 
-Don't run all 100 in one sitting -- pick a tier per audience and 15-20 questions per game. The easy round is a car-ride or dinner-table game for little kids; the medium round fits Sunday school and [family Bible trivia night](/blog/family-bible-trivia-night); hard and expert are for youth group and adults. For a teen crowd that wants to be challenged, start with our [Bible trivia for teens](/blog/bible-trivia-for-teens).
+Don't run all 100 in one sitting; pick a tier per audience and 15-20 questions per game. The easy round is a car-ride or dinner-table game for little kids; the medium round fits Sunday school and [family Bible trivia night](/blog/family-bible-trivia-night); hard and expert are for youth group and adults. For a teen crowd that wants to be challenged, start with our [Bible trivia for teens](/blog/bible-trivia-for-teens).
 
 You can also split by testament. Our [Old Testament Bible trivia for kids](/blog/old-testament-bible-trivia-for-kids) and [New Testament Bible trivia for kids](/blog/new-testament-bible-trivia-for-kids) sets go deeper on each half of the Bible, and our [easy Bible trivia questions](/blog/easy-bible-trivia-questions) list keeps the youngest players winning. Prefer a self-scoring format? Take our [75-question Bible quiz](/blog/bible-quiz-questions-and-answers), or grab the [multiple-choice Bible trivia set](/blog/bible-trivia-multiple-choice) for classroom-style play.
 
-The best part of trivia is finding the stories your kids don't know yet. If a question stumps them, read the story together -- our five-minute retellings of [David and Goliath](/blog/david-and-goliath-for-kids) and [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids) are a good place to start. And if you want Bible learning that runs itself, [Faithful Kids](https://faithfulkids.app/quiz) turns every major Bible story into a short video with a quiz after each episode -- trivia practice that feels like screen time.
+The best part of trivia is finding the stories your kids don't know yet. If a question stumps them, read the story together; our five-minute retellings of [David and Goliath](/blog/david-and-goliath-for-kids) and [Daniel in the lions' den](/blog/daniel-in-the-lions-den-for-kids) are a good place to start. And if you want Bible learning that runs itself, [Faithful Kids](https://faithfulkids.app/quiz) turns every major Bible story into a short video with a quiz after each episode; trivia practice that feels like screen time.
 
-Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally -- pick a level, get ten questions, see the verse behind every answer.
+Our [Bible trivia game for kids](/bible-trivia) does the same thing digitally; pick a level, get ten questions, see the verse behind every answer.
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
@@ -158,7 +158,7 @@ Our [Bible quiz with answers](/bible-quiz) shows fifteen starters right on the p
 
 ### What are good Bible trivia questions for beginners?
 
-Start with the stories everyone recognizes: Noah's ark, David and Goliath, Daniel in the lions' den, and the birth of Jesus. Questions 1-30 above are built for beginners -- the answers are famous enough that new players score points early, which keeps them in the game.
+Start with the stories everyone recognizes: Noah's ark, David and Goliath, Daniel in the lions' den, and the birth of Jesus. Questions 1-30 above are built for beginners; the answers are famous enough that new players score points early, which keeps them in the game.
 
 ### What is the hardest Bible trivia question?
 
@@ -170,11 +170,11 @@ Assign tiers by age: easy questions for players under 9, medium for ages 9-12, h
 
 ### Are these Bible trivia questions printable?
 
-Yes -- the free [Bible Trivia Pack](/printables/bible-trivia-pack) includes printable question cards and score sheets you can cut out and use for game night, Sunday school, or a youth group tournament.
+Yes; the free [Bible Trivia Pack](/printables/bible-trivia-pack) includes printable question cards and score sheets you can cut out and use for game night, Sunday school, or a youth group tournament.
 
 ### Which Bible translation do these answers use?
 
-The answers follow the wording of modern translations like the NIV, but every fact is translation-independent -- names, numbers, places, and events read the same in the KJV, ESV, NLT, and others. Each answer includes a verse reference so you can check it in your family's preferred Bible.
+The answers follow the wording of modern translations like the NIV, but every fact is translation-independent; names, numbers, places, and events read the same in the KJV, ESV, NLT, and others. Each answer includes a verse reference so you can check it in your family's preferred Bible.
 
 ### How many questions should a Bible trivia game have?
 

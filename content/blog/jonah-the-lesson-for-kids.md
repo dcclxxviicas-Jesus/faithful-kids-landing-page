@@ -23,13 +23,13 @@ Jonah the Lesson is a Bible story from Daniel/Jonah/Isaiah in the Old Testament.
 
 ## What Is the Story of Jonah the Lesson for Kids?
 
-EXILE & FAITH — EPISODE 9: JONAH — THE LESSON Based on Jonah 3–4 | Narrated by Jesus
+EXILE & FAITH, EPISODE 9: JONAH, THE LESSON Based on Jonah 3–4 | Narrated by Jesus
 
-Okay, so last time we left Jonah freshly vomited onto a beach by a giant fish. Not his best look. But here's the thing — God doesn't waste second chances.
+Okay, so last time we left Jonah freshly vomited onto a beach by a giant fish. Not his best look. But here's the thing, God doesn't waste second chances.
 
 God comes to Jonah AGAIN: "Go to Nineveh and deliver the message I give you." This time? Jonah goes. Maybe getting swallowed by a fish puts things in perspective.
 
-Nineveh is ENORMOUS — takes three days to walk across. Jonah walks in and preaches the bluntest message ever: "Forty days and Nineveh will be overthrown!"
+Nineveh is ENORMOUS, takes three days to walk across. Jonah walks in and preaches the bluntest message ever: "Forty days and Nineveh will be overthrown!"
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Jonah the Lesson teaches children important lessons about courage, 
 
 ## Key Bible Verse
 
-> *"In my distress I called to the Lord, and he answered me."* — Jonah 2:2
+> *"In my distress I called to the Lord, and he answered me."* (Jonah 2:2)
 
-To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land — Jerusalem, the two kingdoms, and the cities the prophets walked.
+To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What happened when Jonah preached to the people of Nineveh?
 
-In one of the most shocking responses in the Bible, the entire city of Nineveh repented. The king himself got off his throne, put on sackcloth, and commanded everyone — even the animals — to fast and cry out to God.
+In one of the most shocking responses in the Bible, the entire city of Nineveh repented. The king himself got off his throne, put on sackcloth, and commanded everyone, even the animals, to fast and cry out to God.
 
 ### Why was Jonah angry after Nineveh was spared?
 
@@ -65,7 +65,7 @@ Jonah admitted he ran in the first place because he knew God was compassionate a
 
 ### What lesson did God teach Jonah through the vine?
 
-God pointed out that Jonah was furious about losing a vine he didn't even grow, yet he wanted God to destroy a city full of people. God's mercy extends to everyone — that's the whole point.
+God pointed out that Jonah was furious about losing a vine he didn't even grow, yet he wanted God to destroy a city full of people. God's mercy extends to everyone, that's the whole point.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ If your class needs something to do with their hands, there is a [Jonah coloring
 
 ### What is the story of Jonah the Lesson about for kids?
 
-Jonah the Lesson is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 9: JONAH — THE LESSON Based on Jonah 3–4 | Narrated by Jesus
+Jonah the Lesson is a story from Daniel/Jonah/Isaiah. EXILE & FAITH, EPISODE 9: JONAH, THE LESSON Based on Jonah 3–4 | Narrated by Jesus
 
 ### What age is the story of Jonah the Lesson appropriate for?
 

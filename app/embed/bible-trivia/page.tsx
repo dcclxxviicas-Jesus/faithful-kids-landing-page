@@ -13,7 +13,7 @@ import './embed.css'
 // auto-retires games that stop being frameable, which would silently drop us
 // from a 413-game catalogue.
 export const metadata: Metadata = {
-  title: 'Bible Trivia — Faithful Kids',
+  title: 'Bible Trivia: Faithful Kids',
   robots: { index: false, follow: true },
 }
 

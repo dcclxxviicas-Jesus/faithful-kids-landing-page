@@ -2,36 +2,36 @@
 title: "Old Testament Trivia for Kids: 45 Questions With Answers"
 slug: "old-testament-bible-trivia-for-kids"
 type: "listicle"
-metaDescription: "45 Old Testament trivia questions for kids with answers and verse references -- Genesis through the prophets, sorted easy, medium, and hard by age."
+metaDescription: "45 Old Testament trivia questions for kids with answers and verse references: Genesis through the prophets, sorted easy, medium, and hard by age."
 keywords: ["old testament trivia for kids", "old testament quiz questions", "bible trivia genesis", "old testament questions and answers for children", "sunday school old testament trivia", "bible quiz old testament stories"]
 datePublished: "2026-08-14"
 dateModified: "2026-08-19"
 ---
 
-Here are 45 Old Testament trivia questions for kids, with answers and Scripture references, sorted into easy (ages 5-7), medium (ages 8-11), and hard (ages 12+) rounds. The questions run in rough story order from Genesis through the prophets -- Creation, Noah, Abraham, Joseph, Moses, the judges, the kings, and heroes like Daniel and Esther.
+Here are 45 Old Testament trivia questions for kids, with answers and Scripture references, sorted into easy (ages 5-7), medium (ages 8-11), and hard (ages 12+) rounds. The questions run in rough story order from Genesis through the prophets: Creation, Noah, Abraham, Joseph, Moses, the judges, the kings, and heroes like Daniel and Esther.
 
-The Old Testament is a goldmine for kids' trivia because it's packed with the most vivid stories in the whole Bible: a floating zoo, a talking donkey, walls that fall down at a shout, and a floating axe head (question 43 -- most parents have never heard of it). And a couple of these are trick questions, because what "everyone knows" isn't always what the Bible says.
+The Old Testament is a goldmine for kids' trivia because it's packed with the most vivid stories in the whole Bible: a floating zoo, a talking donkey, walls that fall down at a shout, and a floating axe head (question 43: most parents have never heard of it). And a couple of these are trick questions, because what "everyone knows" isn't always what the Bible says.
 
 ## How Should You Use These Questions?
 
-Use them wherever your family already gathers -- dinner table, car, bedtime -- and match the round to the kid. A few proven setups:
+Use them wherever your family already gathers: dinner table, car, bedtime, and match the round to the kid. A few proven setups:
 
-- **Dinner table:** Two questions per night. Kids answer their level; parents must take the hard round -- pull those from our [hard Bible trivia questions](/blog/hard-bible-trivia-questions) if you want the grown-ups genuinely stumped.
+- **Dinner table:** Two questions per night. Kids answer their level; parents must take the hard round: pull those from our [hard Bible trivia questions](/blog/hard-bible-trivia-questions) if you want the grown-ups genuinely stumped.
 - **Sunday school:** Run the easy round as a warm-up, then use medium questions to review whatever era you're teaching.
-- **Road trips:** Story-order questions work great in the car -- each answer sets up the next story.
+- **Road trips:** Story-order questions work great in the car: each answer sets up the next story.
 - **Timeline game:** For older kids, shuffle the questions and have them put the people in historical order (Adam, Noah, Abraham, Joseph, Moses, David, Daniel).
 
-**Tip:** The Old Testament's power is its chronology. When a question comes up, ask "who came first?" -- kids who can walk the storyline from Eden to exile understand the Bible better than most adults.
+**Tip:** The Old Testament's power is its chronology. When a question comes up, ask "who came first?". Kids who can walk the storyline from Eden to exile understand the Bible better than most adults.
 
 ## Easy Old Testament Trivia (Ages 5-7)
 
-The classics -- these are the stories on every picture Bible cover.
+The classics: these are the stories on every picture Bible cover.
 
 **1. Who were the first man and woman God created?**
 Answer: **Adam and Eve** (Genesis 2:7, 3:20)
 
 **2. How many days did God take to create the world?**
-Answer: **Six days -- and he rested on the seventh** (Genesis 1:1-2:3)
+Answer: **Six days: and he rested on the seventh** (Genesis 1:1-2:3)
 
 **3. Who built the ark to save his family and the animals?**
 Answer: **Noah** (Genesis 6:13-14)
@@ -74,10 +74,10 @@ Answer: **His donkey** (Numbers 22:28)
 
 ## Medium Old Testament Trivia (Ages 8-11)
 
-Now the questions dig into why things happened -- and one famous "everyone knows it" mistake.
+Now the questions dig into why things happened: and one famous "everyone knows it" mistake.
 
 **16. What fruit did Adam and Eve eat in the Garden of Eden?**
-Answer: **Trick question -- the Bible only says "fruit," never an apple** (Genesis 3:6)
+Answer: **Trick question, the Bible only says "fruit," never an apple** (Genesis 3:6)
 
 **17. Who were Adam and Eve's first two sons?**
 Answer: **Cain and Abel** (Genesis 4:1-2)
@@ -127,19 +127,19 @@ Answer: **Elijah** (1 Kings 17:4-6)
 **32. Who was Moses' brother, who spoke for him before Pharaoh?**
 Answer: **Aaron** (Exodus 4:14-16)
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
 The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
 
 ## Hard Old Testament Trivia (Ages 12+)
 
-The round where parents start sweating. Every answer is checkable -- references included.
+The round where parents start sweating. Every answer is checkable, references included.
 
 **33. How many of every clean animal did Noah take on the ark?**
-Answer: **Seven pairs -- not just two** (Genesis 7:2)
+Answer: **Seven pairs, not just two** (Genesis 7:2)
 
 **34. Who is the oldest person recorded in the Bible, and how long did he live?**
-Answer: **Methuselah -- 969 years** (Genesis 5:27)
+Answer: **Methuselah, 969 years** (Genesis 5:27)
 
 **35. What new name did God give Jacob after he wrestled with God?**
 Answer: **Israel** (Genesis 32:28)
@@ -151,7 +151,7 @@ Answer: **Jacob** (Genesis 28:12)
 Answer: **Forty years** (Numbers 14:33-34)
 
 **38. What test did Gideon use to make sure God was really calling him?**
-Answer: **A wool fleece -- wet then dry** (Judges 6:36-40)
+Answer: **A wool fleece, wet then dry** (Judges 6:36-40)
 
 **39. How many men did God allow Gideon to keep in his army against Midian?**
 Answer: **Three hundred** (Judges 7:7)
@@ -171,20 +171,20 @@ Answer: **An iron axe head** (2 Kings 6:5-7)
 **44. What were the names of Daniel's three friends who survived the fiery furnace?**
 Answer: **Shadrach, Meshach, and Abednego** (Daniel 3:16-27)
 
-**45. Which Old Testament book never mentions God by name -- yet shows him saving his people?**
+**45. Which Old Testament book never mentions God by name, yet shows him saving his people?**
 Answer: **Esther**
 
 ## What Should Kids Learn Before Playing?
 
-The five people who anchor the whole Old Testament: Adam, Noah, Moses, David, and Daniel -- know their stories and half these questions answer themselves. If your kids are shaky on any of them, our kid-friendly profiles are the fastest catch-up: [who was Moses](/blog/who-was-moses-for-kids), [who was David](/blog/who-was-david-for-kids), and [who was Daniel](/blog/who-was-daniel-for-kids) each tell the full story in about five minutes.
+The five people who anchor the whole Old Testament: Adam, Noah, Moses, David, and Daniel, know their stories and half these questions answer themselves. If your kids are shaky on any of them, our kid-friendly profiles are the fastest catch-up: [who was Moses](/blog/who-was-moses-for-kids), [who was David](/blog/who-was-david-for-kids), and [who was Daniel](/blog/who-was-daniel-for-kids) each tell the full story in about five minutes.
 
-And since nearly a third of these questions come from the first book of the Bible, a family read-through of [the book of Genesis for kids](/blog/book-of-genesis-for-kids) is the single best trivia prep there is. Creation, the flood, Babel, Abraham, Jacob, Joseph -- that's questions 1 through 22 right there.
+And since nearly a third of these questions come from the first book of the Bible, a family read-through of [the book of Genesis for kids](/blog/book-of-genesis-for-kids) is the single best trivia prep there is. Creation, the flood, Babel, Abraham, Jacob, Joseph, that's questions 1 through 22 right there.
 
 If your family enjoys quiz-style learning, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) walk kids through every one of these Old Testament stories with a short animated video and a quiz after each episode.
 
 ## Why Do Trick Questions Belong in Bible Trivia?
 
-Because they send kids back to the actual text -- which is the whole point. "What fruit did Eve eat?" and "How many of each animal went on the ark?" are the two most-missed Bible questions in America, and both are missed because we learned the stories from pictures instead of pages. When a nine-year-old discovers that Genesis 7:2 says seven pairs of clean animals, something clicks: the Bible is checkable. That instinct -- "let's see what it actually says" -- will serve them for life.
+Because they send kids back to the actual text, which is the whole point. "What fruit did Eve eat?" and "How many of each animal went on the ark?" are the two most-missed Bible questions in America, and both are missed because we learned the stories from pictures instead of pages. When a nine-year-old discovers that Genesis 7:2 says seven pairs of clean animals, something clicks: the Bible is checkable. That instinct, "let's see what it actually says", will serve them for life.
 
 When your family has mastered this list, keep going with our full [100 Bible trivia questions for kids](/blog/bible-trivia-for-kids), which mixes both testaments, or move up to the all-ages master set of [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers).
 
@@ -194,14 +194,14 @@ There is an adult version too: [Bible trivia for adults](/blog/bible-trivia-for-
 
 If the party needs a game, our [Christmas Bible trivia](/blog/christmas-bible-trivia) runs 80 questions in four rounds, easy to expert, with a free printable PDF.
 
-The same bank runs our [play-along Bible quiz](/bible-quiz) -- pick easy, medium, or hard and chase the streak.
+The same bank runs our [play-along Bible quiz](/bible-quiz), pick easy, medium, or hard and chase the streak.
 
-Add a few [funny Christian jokes](/blog/christian-jokes) between rounds -- the church-sign section alone can carry a youth-group night.
+Add a few [funny Christian jokes](/blog/christian-jokes) between rounds, the church-sign section alone can carry a youth-group night.
 
 ## Frequently Asked Questions
 
 ### What are good Old Testament trivia questions for kids?
-Start with the famous stories: Who built the ark? (Noah), Who defeated Goliath? (David), and Who was thrown into the lions' den? (Daniel). Then add trick questions adults miss too -- the Bible never says Eve ate an apple (Genesis 3:6 just says "fruit"), and Noah took seven pairs of every clean animal, not two (Genesis 7:2).
+Start with the famous stories: Who built the ark? (Noah), Who defeated Goliath? (David), and Who was thrown into the lions' den? (Daniel). Then add trick questions adults miss too, the Bible never says Eve ate an apple (Genesis 3:6 just says "fruit"), and Noah took seven pairs of every clean animal, not two (Genesis 7:2).
 
 ### What age can kids start Old Testament trivia?
 Ages 5-7 can answer questions about Creation, Noah, Moses, and David if they've heard the stories at church or bedtime. Ages 8-11 handle questions about the judges and kings, and ages 12+ can take on the prophets and detail questions like Methuselah's age (969 years, Genesis 5:27).
@@ -210,10 +210,10 @@ Ages 5-7 can answer questions about Creation, Noah, Moses, and David if they've 
 There are 39 books in the Old Testament in Protestant Bibles. A simple way to teach kids the layout: 5 books of Law (Genesis through Deuteronomy), 12 of history, 5 of poetry and wisdom, and 17 books of prophets.
 
 ### Did Noah take two of every animal on the ark?
-Not exactly -- Genesis 7:2 says Noah took seven pairs of every clean animal and one pair of every unclean animal. The "two of every kind" instruction in Genesis 6:19 gets refined a chapter later, which makes this one of the best trick questions for kids and adults alike.
+Not exactly. Genesis 7:2 says Noah took seven pairs of every clean animal and one pair of every unclean animal. The "two of every kind" instruction in Genesis 6:19 gets refined a chapter later, which makes this one of the best trick questions for kids and adults alike.
 
 ### What order should kids learn Old Testament stories?
 Follow the storyline: Creation and the fall, Noah, Abraham and Isaac, Jacob, Joseph, Moses and the Exodus, Joshua and Jericho, the judges (Gideon, Samson), Ruth, the kings (Saul, David, Solomon), then the prophets and exile heroes (Elijah, Daniel, Esther). Kids who know the sequence understand every individual story better.
 
 ### How is Old Testament trivia useful for faith, not just facts?
-Every answer is a doorway into a conversation about God's character -- his promise-keeping with Noah, his patience with Jonah, his power at the Red Sea. Ask one follow-up after each question, like "why do you think God chose the smallest army?" Facts get kids to the door; the conversation walks them through it.
+Every answer is a doorway into a conversation about God's character: his promise-keeping with Noah, his patience with Jonah, his power at the Red Sea. Ask one follow-up after each question, like "why do you think God chose the smallest army?" Facts get kids to the door; the conversation walks them through it.

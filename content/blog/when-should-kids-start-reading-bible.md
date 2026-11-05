@@ -14,7 +14,7 @@ It's one of the most common questions Christian parents ask: *When is my child r
 
 The short answer: it depends on what you mean by "read." A 3-year-old can "read" the Bible with a parent through picture Bibles. A 7-year-old can read simplified Bible storybooks. A 10-year-old can read an age-appropriate translation. And a 14-year-old can engage with standard translations like the NIV or ESV independently.
 
-The longer answer is that Bible reading isn't a single milestone — it's a progression. And getting the progression right makes the difference between a child who loves Scripture and one who finds it intimidating.
+The longer answer is that Bible reading isn't a single milestone, it's a progression. And getting the progression right makes the difference between a child who loves Scripture and one who finds it intimidating.
 
 Here's a stage-by-stage guide based on child development research and decades of Christian education wisdom.
 
@@ -22,13 +22,13 @@ Here's a stage-by-stage guide based on child development research and decades of
 
 **What to use:** The Beginner's Bible, Bible App for Kids, or any illustrated children's Bible
 
-**How it works:** At this age, your child isn't reading — you are. Sit together, look at the pictures, and tell the stories in simple language. Let them point to characters and ask questions. Keep sessions to 5-10 minutes.
+**How it works:** At this age, your child isn't reading, you are. Sit together, look at the pictures, and tell the stories in simple language. Let them point to characters and ask questions. Keep sessions to 5-10 minutes.
 
 **What they'll learn:** God made the world. God loves us. Jesus loves children. Basic character recognition (Noah, Moses, David, Jesus).
 
 **Key tips:**
 - Read the same stories repeatedly. Toddlers learn through repetition, and they'll start narrating the stories back to you
-- Let them hold the book and turn pages — tactile involvement builds connection
+- Let them hold the book and turn pages, tactile involvement builds connection
 - Don't worry about theological precision. "God made the animals and said they were good!" is perfect for a 3-year-old
 - Ask simple questions: "What animal do you see on the ark?" or "Who is this?" (pointing to Jesus)
 
@@ -40,7 +40,7 @@ At age 3-4, you're walking alongside the road together.
 
 **What to use:** The Jesus Storybook Bible (Sally Lloyd-Jones), The Action Bible (Sergio Cariello), early reader Bible story collections
 
-**How it works:** Children in this range are learning to read. Many 5-year-olds can follow along while you read aloud, and by 7, many can read simplified Bible stories on their own. This is also the age when Bible story apps with audio narration become powerful — kids can "read along" with the narrator.
+**How it works:** Children in this range are learning to read. Many 5-year-olds can follow along while you read aloud, and by 7, many can read simplified Bible stories on their own. This is also the age when Bible story apps with audio narration become powerful, kids can "read along" with the narrator.
 
 **What they'll learn:** Major Bible storylines (Creation, the Flood, Exodus, David and Goliath, Jesus's birth, miracles, resurrection). Cause and effect in stories. Basic moral lessons. The idea that the Bible is one big connected story, not just random tales.
 
@@ -57,12 +57,12 @@ Proverbs 22:6 says, *"Start children off on the way they should go, and even whe
 
 **What to use:** NIrV (New International Reader's Version), ICB (International Children's Bible), NLT (New Living Translation), or Faithful Kids video lessons with quizzes
 
-**How it works:** By age 8, most children can read a simplified Bible translation with reasonable comprehension. The NIrV uses a third-grade reading level, making it accessible without oversimplifying the text. This is also the age when structured Bible education becomes powerful — children can handle quizzes, reflections, and systematic study.
+**How it works:** By age 8, most children can read a simplified Bible translation with reasonable comprehension. The NIrV uses a third-grade reading level, making it accessible without oversimplifying the text. This is also the age when structured Bible education becomes powerful, children can handle quizzes, reflections, and systematic study.
 
 **What they'll learn:** Extended passages and full chapters (not just excerpts). The structure of the Bible (Old Testament, New Testament, books, chapters, verses). Deeper themes: grace, forgiveness, sacrifice, covenant. How Bible stories connect to each other.
 
 **Key tips:**
-- Get them their own Bible. Not a family Bible, not your Bible — *their* Bible. Write their name in it. Let them highlight and bookmark
+- Get them their own Bible. Not a family Bible, not your Bible, *their* Bible. Write their name in it. Let them highlight and bookmark
 - Start with the Gospels (Mark is the shortest and most action-packed) or Genesis (the stories they already know, now in fuller detail)
 - Help them navigate: show them how chapters and verses work, how to use the table of contents, how to find a passage (our guide to the [books of the Bible for kids](/blog/books-of-the-bible-for-kids) makes this easier)
 - Pair reading with an app like Faithful Kids. Your child reads the passage, then watches the video lesson, then takes the quiz. This multi-modal approach dramatically improves retention
@@ -80,22 +80,22 @@ If small hands need something to do while you read, the free [wise men coloring 
 
 This is the age when a study Bible becomes invaluable. Study Bibles include footnotes, maps, historical context, and cross-references that help young readers understand passages in context.
 
-**What they'll learn:** Historical and cultural context of Bible passages. How to interpret difficult passages. The difference between Old and New Covenant. Personal application — what does this mean for *my* life? Beginning of devotional practice (daily quiet time).
+**What they'll learn:** Historical and cultural context of Bible passages. How to interpret difficult passages. The difference between Old and New Covenant. Personal application, what does this mean for *my* life? Beginning of devotional practice (daily quiet time).
 
 **Key tips:**
 - Introduce a daily devotional routine: 10-15 minutes of reading plus journaling or reflection. Start small and build consistency
-- Use a reading plan. The Bible Project's reading plans are excellent for this age — they provide videos that give context before reading
+- Use a reading plan. The Bible Project's reading plans are excellent for this age, they provide videos that give context before reading
 - Encourage questions, even hard ones. "Why did God tell Abraham to sacrifice Isaac?" is a fantastic question for an 11-year-old. Don't shut it down
 - If your child attends youth group, coordinate. Ask what they're studying and read those passages at home too
 - Continue using Faithful Kids alongside direct reading. The quiz format helps them self-assess whether they truly understood the passage
 
 **Translations to know:**
-- **NIV** — The most popular English translation. Balances readability and accuracy. Great default choice.
-- **NLT** — Slightly more conversational. Excellent for kids who find NIV a bit formal.
-- **ESV** — More literal translation. Good for families who prioritize word-for-word accuracy.
-- **The Message** — A paraphrase (not a translation) that makes passages sound contemporary. Great for devotional reading, but pair it with a real translation for study.
+- **NIV**, The most popular English translation. Balances readability and accuracy. Great default choice.
+- **NLT**, Slightly more conversational. Excellent for kids who find NIV a bit formal.
+- **ESV**, More literal translation. Good for families who prioritize word-for-word accuracy.
+- **The Message**, A paraphrase (not a translation) that makes passages sound contemporary. Great for devotional reading, but pair it with a real translation for study.
 
-As 2 Timothy 2:15 says, *"Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth."* At 11-13, children begin learning to "correctly handle" Scripture — a skill that will serve them for life.
+As 2 Timothy 2:15 says, *"Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth."* At 11-13, children begin learning to "correctly handle" Scripture, a skill that will serve them for life.
 
 ## Ages 14+: Independent Bible Study
 
@@ -122,7 +122,7 @@ Isaiah 55:11 promises, *"So is my word that goes out from my mouth: It will not 
 
 **Making it a chore.** If Bible reading feels like homework, kids will resist it. Gamified apps like Faithful Kids turn learning into something kids *want* to do.
 
-**Stopping too soon.** Don't assume your teenager "knows enough" because they went through Sunday school. The teen years are when faith becomes personal — and that requires deeper engagement with Scripture than they got at age 8.
+**Stopping too soon.** Don't assume your teenager "knows enough" because they went through Sunday school. The teen years are when faith becomes personal, and that requires deeper engagement with Scripture than they got at age 8.
 
 **Going it alone.** Bible reading is more powerful when it's communal. Read together as a family. Discuss passages at dinner. Share what you learned. *"For where two or three gather in my name, there am I with them"* (Matthew 18:20).
 
@@ -137,10 +137,10 @@ Ready to give your child a structured, engaging Bible education? Faithful Kids m
 ## Frequently Asked Questions
 
 ### What if my child has no interest in reading the Bible?
-Start with multimedia. Many children who resist reading will gladly watch a Bible video lesson. Apps like Faithful Kids use video, quizzes, and gamification to build engagement first — the desire to read Scripture directly often follows naturally as kids get hooked on the stories. See also our [Bible stories for kids who hate reading](/blog/bible-stories-for-kids-who-hate-reading).
+Start with multimedia. Many children who resist reading will gladly watch a Bible video lesson. Apps like Faithful Kids use video, quizzes, and gamification to build engagement first, the desire to read Scripture directly often follows naturally as kids get hooked on the stories. See also our [Bible stories for kids who hate reading](/blog/bible-stories-for-kids-who-hate-reading).
 
 ### Which Bible translation is best for kids?
-For ages 8-10, the NIrV (New International Reader's Version) is the most accessible — it uses a third-grade vocabulary. For ages 11-13, the NLT or NIV are excellent. For ages 14+, any standard translation works. Avoid the King James Version for children; the archaic language creates an unnecessary barrier.
+For ages 8-10, the NIrV (New International Reader's Version) is the most accessible, it uses a third-grade vocabulary. For ages 11-13, the NLT or NIV are excellent. For ages 14+, any standard translation works. Avoid the King James Version for children; the archaic language creates an unnecessary barrier.
 
 ### Should I read the Bible to my child or let them read it alone?
 Both, depending on age. Ages 3-7: read together. Ages 8-10: mix of reading together and beginning to read alone. Ages 11+: primarily reading alone, with family discussion. Even for teens, reading a passage together and discussing it at dinner can be incredibly powerful.

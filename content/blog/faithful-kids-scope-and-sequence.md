@@ -9,12 +9,12 @@ datePublished: "2026-09-21"
 dateModified: "2026-09-21"
 ---
 
-This is the complete scope and sequence of Faithful Kids: **31 series and 310 lessons in the order a child meets them, with the scripture each lesson covers and the number of quiz questions that follow it — 1,187 questions in all.** It is generated from the app's own data, so it is exact rather than approximate, and it is regenerated whenever the library changes.
+This is the complete scope and sequence of Faithful Kids: **31 series and 310 lessons in the order a child meets them, with the scripture each lesson covers and the number of quiz questions that follow it, 1,187 questions in all.** It is generated from the app's own data, so it is exact rather than approximate, and it is regenerated whenever the library changes.
 
 Homeschool families and Sunday school leaders ask for this in the form they use for any curriculum: what is covered, in what order, and how much of it. So here it is in that form. Two things to know before reading it:
 
 - **The first 20 series are the spine**, in two parallel tracks: ten Old Testament series and ten New Testament, each in canonical order. Genesis and the Birth of Jesus are open from the start, so a family can begin with either testament; within each track, finishing a series unlocks the next.
-- **The last 11 are deep dives** — Women of the Bible, Proverbs, Psalms, the Beatitudes, the Ten Commandments, and so on. They form a third track: Women of the Bible is open from the start and the rest unlock in the order listed.
+- **The last 11 are deep dives**, Women of the Bible, Proverbs, Psalms, the Beatitudes, the Ten Commandments, and so on. They form a third track: Women of the Bible is open from the start and the rest unlock in the order listed.
 
 Every lesson is a narrated video of about two to three minutes (measured 1:28 to 3:37, median 2:07), followed by its quiz and a reflection question. Lessons marked with a link have a free story page on this site with the retelling, discussion questions and the video; the other 110 are in the app only. Ages 5 to 15; younger children usually watch with a parent. [Pricing is here](/pricing).
 
@@ -24,8 +24,8 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 
 | # | Series | Scripture | Lessons |
 |---|---|---|---|
-| 1 | Genesis -- The Beginning | Genesis 1-50 | 10 |
-| 2 | Exodus -- Freedom! | Exodus 1-40 | 10 |
+| 1 | Genesis, The Beginning | Genesis 1-50 | 10 |
+| 2 | Exodus, Freedom! | Exodus 1-40 | 10 |
 | 3 | The Promised Land | Joshua 1-24 | 10 |
 | 4 | Judges and Ruth | Judges & Ruth | 10 |
 | 5 | Rise of Kings | 1 Samuel | 10 |
@@ -70,8 +70,8 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 
 ## Old Testament
 
-### Genesis -- The Beginning
-*Genesis 1-50* — 10 lessons
+### Genesis, The Beginning
+*Genesis 1-50*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -86,8 +86,8 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 9 | [Joseph the Dreamer](/blog/joseph-the-dreamer-for-kids) | Genesis 1-50 | 3 |
 | 10 | [Joseph From Prison to Palace](/blog/joseph-from-prison-to-palace-for-kids) | Genesis 1-50 | 3 |
 
-### Exodus -- Freedom!
-*Exodus 1-40* — 10 lessons
+### Exodus, Freedom!
+*Exodus 1-40*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -103,7 +103,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [God's Presence](/blog/gods-presence-for-kids) | Exodus 1-40 | 3 |
 
 ### The Promised Land
-*Joshua 1-24* — 10 lessons
+*Joshua 1-24*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -119,7 +119,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [Choosing to Serve](/blog/choosing-to-serve-for-kids) | Joshua 1-24 | 3 |
 
 ### Judges and Ruth
-*Judges & Ruth* — 10 lessons
+*Judges & Ruth*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -135,7 +135,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [God Calls Samuel](/blog/god-calls-samuel-for-kids) | Judges & Ruth | 3 |
 
 ### Rise of Kings
-*1 Samuel* — 10 lessons
+*1 Samuel*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -151,7 +151,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [David Becomes King](/blog/david-becomes-king-for-kids) | 1 Samuel | 5 |
 
 ### King David\
-*2 Samuel & 1 Chronicles* — 10 lessons
+*2 Samuel & 1 Chronicles*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -167,7 +167,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [David's Final Words](/blog/davids-final-words-for-kids) | 2 Samuel & 1 Chronicles | 5 |
 
 ### Solomon and the Kingdom
-*1 Kings 1-12* — 10 lessons
+*1 Kings 1-12*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -183,7 +183,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [The Northern Kingdom Falls](/blog/the-northern-kingdom-falls-for-kids) | 1 Kings 1-12 | 3 |
 
 ### Elijah and Elisha
-*1 Kings 17 - 2 Kings 13* — 10 lessons
+*1 Kings 17 - 2 Kings 13*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -199,7 +199,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [Chariots of Fire](/blog/chariots-of-fire-for-kids) | 1 Kings 17 - 2 Kings 13 | 1 |
 
 ### Exile and Faith
-*Daniel, Esther & Ezekiel* — 10 lessons
+*Daniel, Esther & Ezekiel*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -215,7 +215,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [Isaiah's Promise](/blog/isaiahs-promise-for-kids) | Daniel, Esther & Ezekiel | 3 |
 
 ### The Return Home
-*Ezra, Nehemiah & Malachi* — 10 lessons
+*Ezra, Nehemiah & Malachi*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -233,7 +233,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 ## New Testament
 
 ### Birth of Jesus
-*Matthew 1-2, Luke 1-2* — 10 lessons
+*Matthew 1-2, Luke 1-2*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -249,7 +249,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [The Baptism of Jesus](/blog/the-baptism-of-jesus-for-kids) | Matthew 1-2, Luke 1-2 | 3 |
 
 ### Jesus Begins Ministry
-*Matthew 3-4, Mark 1, Luke 3-4* — 10 lessons
+*Matthew 3-4, Mark 1, Luke 3-4*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -265,7 +265,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [The Twelve Apostles](/blog/the-twelve-apostles-for-kids) | Matthew 3-4, Mark 1, Luke 3-4 | 1 |
 
 ### Teachings of Jesus
-*The Gospels* — 10 lessons
+*The Gospels*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -281,7 +281,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [The Unforgiving Servant](/blog/the-unforgiving-servant-for-kids) | The Gospels | 3 |
 
 ### Miracles of Jesus
-*The Gospels* — 10 lessons
+*The Gospels*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -297,7 +297,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [The Great Catch of Fish](/blog/the-great-catch-of-fish-for-kids) | The Gospels | 5 |
 
 ### Road to the Cross
-*Matthew 21-27, Mark 11-15, Luke 19-23, John 12-19* — 10 lessons
+*Matthew 21-27, Mark 11-15, Luke 19-23, John 12-19*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -313,7 +313,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [The Burial](/blog/the-burial-for-kids) | Matthew 21-27, Mark 11-15, Luke 19-23, John 12-19 | 6 |
 
 ### He Is Risen!
-*Matthew 28, Mark 16, Luke 24, John 20-21* — 10 lessons
+*Matthew 28, Mark 16, Luke 24, John 20-21*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -329,7 +329,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [The Day of Pentecost](/blog/the-day-of-pentecost-for-kids) | Matthew 28, Mark 16, Luke 24, John 20-21 | 1 |
 
 ### The Early Church
-*Acts 1-12* — 10 lessons
+*Acts 1-12*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -345,7 +345,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [The Church at Antioch](/blog/the-church-at-antioch-for-kids) | Acts 1-12 | 3 |
 
 ### Paul\
-*Acts 13-28* — 10 lessons
+*Acts 13-28*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -361,7 +361,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [Paul's Legacy](/blog/pauls-legacy-for-kids) | Acts 13-28 | 6 |
 
 ### Letters to Churches
-*Romans - Jude* — 10 lessons
+*Romans - Jude*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -377,7 +377,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | [A New Creation](/blog/a-new-creation-for-kids) | Romans - Jude | 3 |
 
 ### Ending and Beginning
-*Revelation* — 10 lessons
+*Revelation*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -395,7 +395,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 ## Deep dives
 
 ### Women of the Bible
-*Across the Scriptures* — 10 lessons
+*Across the Scriptures*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -411,7 +411,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | The Hemorrhaging Woman | Across the Scriptures | 5 |
 
 ### What Jesus Said
-*The Gospels* — 10 lessons
+*The Gospels*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -427,7 +427,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | The Greatest Commandment | The Gospels | 7 |
 
 ### Proverbs for Kids
-*Proverbs* — 10 lessons
+*Proverbs*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -443,7 +443,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | Guarding Your Heart | Proverbs | 5 |
 
 ### Psalms Deep Dive
-*Psalms* — 10 lessons
+*Psalms*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -459,7 +459,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | Psalm 150 Praise Everything | Psalms | 1 |
 
 ### Jesus: I AM
-*Gospel of John* — 10 lessons
+*Gospel of John*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -475,7 +475,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | I Am With You Always | Gospel of John | 1 |
 
 ### Beatitudes Unpacked
-*Matthew 5:1-12* — 10 lessons
+*Matthew 5:1-12*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -491,7 +491,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | Living the Beatitudes | Matthew 5:1-12 | 1 |
 
 ### Ten Commandments Deep Dive
-*Exodus 20* — 10 lessons
+*Exodus 20*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -507,7 +507,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | Do Not Covet | Exodus 20 | 4 |
 
 ### Numbers in the Bible
-*Across the Scriptures* — 10 lessons
+*Across the Scriptures*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -523,7 +523,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | The Number Patterns | Across the Scriptures | 4 |
 
 ### Bible Verses Every Kid Should Know
-*Across the Scriptures* — 10 lessons
+*Across the Scriptures*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -539,7 +539,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | Romans 8 38 39 | Across the Scriptures | 4 |
 
 ### Jesus in Every Book
-*Genesis - Revelation* — 10 lessons
+*Genesis - Revelation*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -555,7 +555,7 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 | 10 | Jesus in Revelation | Genesis - Revelation | 6 |
 
 ### Church History for Kids
-*2000 Years of Faith* — 10 lessons
+*2000 Years of Faith*, 10 lessons
 
 | # | Lesson | Scripture | Quiz questions |
 |---|---|---|---|
@@ -574,15 +574,15 @@ Every lesson is a narrated video of about two to three minutes (measured 1:28 to
 
 ### How long does the whole sequence take?
 
-At one lesson a day, the 20-series spine takes about seven months and the full 310 lessons about ten. At three or four lessons a week — a typical homeschool or bedtime rhythm — plan on a school year for the spine and a second year for the deep dives.
+At one lesson a day, the 20-series spine takes about seven months and the full 310 lessons about ten. At three or four lessons a week, a typical homeschool or bedtime rhythm, plan on a school year for the spine and a second year for the deep dives.
 
 ### Does a child have to go in order?
 
-Each of the three tracks unlocks in order. Genesis, the Birth of Jesus and Women of the Bible are open from the start — one at the head of each track — and finishing a series opens the next one in that track. A family can begin with either testament, and the deep dives run alongside rather than after.
+Each of the three tracks unlocks in order. Genesis, the Birth of Jesus and Women of the Bible are open from the start, one at the head of each track, and finishing a series opens the next one in that track. A family can begin with either testament, and the deep dives run alongside rather than after.
 
 ### Is there a quiz after every lesson?
 
-Yes. Quiz length varies by lesson — one to eight questions, three to five on most, median four — and the exact count for each lesson is in the tables above. A reflection question follows the quiz on nearly every lesson.
+Yes. Quiz length varies by lesson, one to eight questions, three to five on most, median four, and the exact count for each lesson is in the tables above. A reflection question follows the quiz on nearly every lesson.
 
 ### Can I use this as a homeschool Bible curriculum?
 

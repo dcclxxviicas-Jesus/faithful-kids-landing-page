@@ -14,37 +14,37 @@ In this guide, we will walk through simple analogies, key Bible verses, and age-
 
 ## What Is the Trinity?
 
-Start with the simplest statement: **God is one God who exists as three Persons — the Father, the Son (Jesus), and the Holy Spirit.**
+Start with the simplest statement: **God is one God who exists as three Persons: the Father, the Son (Jesus), and the Holy Spirit.**
 
 They are not three separate gods. They are not three "modes" God switches between. They are three distinct Persons who are all fully God, all at the same time, and they have always existed together.
 
-For a child, you might say: "There is only one God, but He shows Himself to us in three ways — as our Father in heaven, as Jesus who came to earth, and as the Holy Spirit who lives inside people who love God."
+For a child, you might say: "There is only one God, but He shows Himself to us in three ways: as our Father in heaven, as Jesus who came to earth, and as the Holy Spirit who lives inside people who love God."
 
 ## 3 Simple Analogies to Explain the Trinity
 
-Analogies are your best friend here. No analogy is perfect — and we will talk about that — but they give kids a concrete picture to hold onto.
+Analogies are your best friend here. No analogy is perfect: and we will talk about that, but they give kids a concrete picture to hold onto.
 
 ### 1. The Water Analogy (Ice, Liquid, Steam)
 
 Water can be ice, liquid water, or steam. All three are still H2O. They look and feel different, but they are the same substance.
 
-**How to explain it:** "Think about water. You can freeze it into ice, pour it into a glass, or boil it into steam. It looks different each time, but it is always water. God is kind of like that — the Father, Jesus, and the Holy Spirit are all different, but they are all the one true God."
+**How to explain it:** "Think about water. You can freeze it into ice, pour it into a glass, or boil it into steam. It looks different each time, but it is always water. God is kind of like that: the Father, Jesus, and the Holy Spirit are all different, but they are all the one true God."
 
-**A word of caution:** This analogy can accidentally teach a heresy called modalism — the idea that God just switches between three forms, like water changing states. God is all three Persons at the same time, not one at a time. So after using this analogy, you might add: "But here is the amazing part — God does not change back and forth like water does. He is the Father AND the Son AND the Holy Spirit all at once. That is what makes God so incredible."
+**A word of caution:** This analogy can accidentally teach a heresy called modalism: the idea that God just switches between three forms, like water changing states. God is all three Persons at the same time, not one at a time. So after using this analogy, you might add: "But here is the amazing part: God does not change back and forth like water does. He is the Father AND the Son AND the Holy Spirit all at once. That is what makes God so incredible."
 
 ### 2. The Egg Analogy (Shell, White, Yolk)
 
 An egg has three parts: the shell, the white, and the yolk. All three together make one egg.
 
-**How to explain it:** "Think about an egg. It has a shell on the outside, the white part inside, and the yolk in the middle. They are three different parts, but together they make one egg. God is like that — the Father, Jesus, and the Holy Spirit are three Persons, but together they are one God."
+**How to explain it:** "Think about an egg. It has a shell on the outside, the white part inside, and the yolk in the middle. They are three different parts, but together they make one egg. God is like that: the Father, Jesus, and the Holy Spirit are three Persons, but together they are one God."
 
 **Caution:** This analogy can suggest that each Person of the Trinity is only one-third of God, like each part of the egg is only one-third of the egg. In reality, the Father is fully God, the Son is fully God, and the Holy Spirit is fully God. You might say: "Unlike an egg, though, the Father is not just a piece of God. He IS God. And Jesus IS God. And the Holy Spirit IS God. All completely, all at the same time."
 
 ### 3. The Sun Analogy (Star, Light, Heat)
 
-The sun is a star, but we also experience it as light and heat. You cannot separate the three — they all come from the same source.
+The sun is a star, but we also experience it as light and heat. You cannot separate the three, they all come from the same source.
 
-**How to explain it:** "Think about the sun. The sun is a star way up in space. But it also sends out light that you can see and heat that you can feel. The star, the light, and the heat are all the sun. God is like that — the Father is like the star, Jesus is like the light that came into the world so we could see God, and the Holy Spirit is like the warmth you feel inside when God is near."
+**How to explain it:** "Think about the sun. The sun is a star way up in space. But it also sends out light that you can see and heat that you can feel. The star, the light, and the heat are all the sun. God is like that, the Father is like the star, Jesus is like the light that came into the world so we could see God, and the Holy Spirit is like the warmth you feel inside when God is near."
 
 This is often the strongest analogy for kids because you cannot really separate sunshine from the sun. It flows naturally.
 
@@ -52,25 +52,25 @@ This is often the strongest analogy for kids because you cannot really separate 
 
 The word "Trinity" is not actually in the Bible, but the idea is everywhere. Here are two verses to share with your child:
 
-**Matthew 28:19** — "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
+**Matthew 28:19**, "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
 
-Point out to your child: "See how Jesus mentions all three? The Father, the Son, and the Holy Spirit. And He says 'the name' — singular, one name — not 'the names.' That is because they are one God."
+Point out to your child: "See how Jesus mentions all three? The Father, the Son, and the Holy Spirit. And He says 'the name', singular, one name, not 'the names.' That is because they are one God."
 
-All three Persons also showed up together at [the baptism of Jesus](/blog/the-baptism-of-jesus-for-kids) -- the Son stood in the water, the Father spoke from heaven, and the Spirit descended like a dove.
+All three Persons also showed up together at [the baptism of Jesus](/blog/the-baptism-of-jesus-for-kids): the Son stood in the water, the Father spoke from heaven, and the Spirit descended like a dove.
 
-**2 Corinthians 13:14** — "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all."
+**2 Corinthians 13:14**, "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all."
 
-This is a beautiful verse to show how all three Persons of the Trinity are active in our lives — Jesus gives grace, the Father gives love, and the Holy Spirit gives fellowship (closeness and friendship with God).
+This is a beautiful verse to show how all three Persons of the Trinity are active in our lives, Jesus gives grace, the Father gives love, and the Holy Spirit gives fellowship (closeness and friendship with God).
 
 ## How to Explain Each Person of the Trinity
 
 ### God the Father
 
-"God the Father is the one who made everything — the stars, the oceans, the animals, and you. He is in charge of all things, and He loves you more than you can imagine. He is the one Jesus called 'Abba,' which means 'Daddy.'" For a fuller conversation about who God is, see [how to explain God to a child](/blog/how-to-explain-god-to-a-child).
+"God the Father is the one who made everything, the stars, the oceans, the animals, and you. He is in charge of all things, and He loves you more than you can imagine. He is the one Jesus called 'Abba,' which means 'Daddy.'" For a fuller conversation about who God is, see [how to explain God to a child](/blog/how-to-explain-god-to-a-child).
 
 ### God the Son (Jesus)
 
-"Jesus is God who came to earth as a real person — a baby born in Bethlehem who grew up, taught people about God's love, did miracles, and then died on the cross to save us from our sins. He rose from the dead three days later and went back to heaven. Jesus shows us exactly what God is like."
+"Jesus is God who came to earth as a real person, a baby born in Bethlehem who grew up, taught people about God's love, did miracles, and then died on the cross to save us from our sins. He rose from the dead three days later and went back to heaven. Jesus shows us exactly what God is like."
 
 ### God the Holy Spirit
 
@@ -82,7 +82,7 @@ This is a beautiful verse to show how all three Persons of the Trinity are activ
 
 **2. Let questions be welcome.** Kids are natural theologians. If your child asks a question you cannot answer, say, "That is a really great question. Let us look into it together." This models lifelong learning about faith.
 
-**3. Use moments throughout the day.** When you see water in different forms, when you crack an egg for breakfast, when you feel the sun on your face — use those moments to remind your child of the Trinity. Faith is best taught in the everyday moments.
+**3. Use moments throughout the day.** When you see water in different forms, when you crack an egg for breakfast, when you feel the sun on your face, use those moments to remind your child of the Trinity. Faith is best taught in the everyday moments.
 
 **4. Do not rush it.** Understanding the Trinity is a lifelong journey. Plant the seed now and trust that God will grow it over time.
 
@@ -96,7 +96,7 @@ This is a beautiful verse to show how all three Persons of the Trinity are activ
 
 **Ages 9-12:** Have a deeper conversation. Talk about how analogies break down and why that is okay. Discuss how the Father, Son, and Holy Spirit interact with each other (the Father sends the Son, the Son sends the Spirit). Read John 14-16 together where Jesus talks about all three, then explore [the day of Pentecost](/blog/the-day-of-pentecost-for-kids), when the Spirit arrived in power.
 
-**Ages 13+:** Explore the historical creeds (the Nicene Creed is a great starting point). Discuss why early Christians cared so much about getting this right. Talk about what the Trinity tells us about the nature of love — that love existed within God even before creation, because the Father, Son, and Holy Spirit have always loved each other.
+**Ages 13+:** Explore the historical creeds (the Nicene Creed is a great starting point). Discuss why early Christians cared so much about getting this right. Talk about what the Trinity tells us about the nature of love, that love existed within God even before creation, because the Father, Son, and Holy Spirit have always loved each other.
 
 ## Common Kid Questions (and How to Answer Them)
 
@@ -116,7 +116,7 @@ Want your kids to learn about God, Jesus, and the Holy Spirit through fun animat
 ## Frequently Asked Questions
 
 ### At what age can a child understand the Trinity?
-Children as young as 4-5 can grasp the very basics — that God is Father, Jesus, and the Holy Spirit, and they are all one God. Deeper understanding develops over years. Introduce the concept early and build on it as your child grows. Most children can engage with analogies meaningfully around ages 6-8.
+Children as young as 4-5 can grasp the very basics, that God is Father, Jesus, and the Holy Spirit, and they are all one God. Deeper understanding develops over years. Introduce the concept early and build on it as your child grows. Most children can engage with analogies meaningfully around ages 6-8.
 
 ### Is it wrong to use analogies for the Trinity?
 No, but every analogy has limits. The water, egg, and sun comparisons are helpful starting points, but none of them perfectly capture the Trinity. Use them as doorways into the conversation, and then be honest that God is bigger and more wonderful than any comparison we can make.

@@ -25,13 +25,13 @@ Israel Wants a King is a Bible story from 1 Samuel in the Old Testament. This re
 
 ## What Is the Story of Israel Wants a King for Kids?
 
-THE RISE OF KINGS — Episode 1: Israel Wants a King Based on 1 Samuel 8 | Narrated by Jesus
+THE RISE OF KINGS, Episode 1: Israel Wants a King Based on 1 Samuel 8 | Narrated by Jesus
 
 Hey there! I'm Jesus, and I want to tell you a story about the time my people made a choice that changed EVERYTHING.
 
-So picture this. Samuel — one of the greatest prophets who ever lived — is getting old. He's been leading Israel faithfully for decades. But his sons? Yikes. Joel and Abijah were supposed to take over, but they were crooked. They took bribes. They twisted justice. The people saw this and they were NOT having it.
+So picture this. Samuel, one of the greatest prophets who ever lived, is getting old. He's been leading Israel faithfully for decades. But his sons? Yikes. Joel and Abijah were supposed to take over, but they were crooked. They took bribes. They twisted justice. The people saw this and they were NOT having it.
 
-So the elders of Israel marched up to Samuel and said, "Look, you're old, your sons are a mess — give us a KING. We want a king like all the other nations have!"
+So the elders of Israel marched up to Samuel and said, "Look, you're old, your sons are a mess, give us a KING. We want a king like all the other nations have!"
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Israel Wants a King teaches children important lessons about courag
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Israel Wants a King about for kids?
 
-Israel Wants a King is a story from 1 Samuel. THE RISE OF KINGS — Episode 1: Israel Wants a King Based on 1 Samuel 8 | Narrated by Jesus
+Israel Wants a King is a story from 1 Samuel. THE RISE OF KINGS, Episode 1: Israel Wants a King Based on 1 Samuel 8 | Narrated by Jesus
 
 ### What age is the story of Israel Wants a King appropriate for?
 

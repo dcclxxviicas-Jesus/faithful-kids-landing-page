@@ -23,7 +23,7 @@ Saul Meets Jesus is a Bible story from Acts in the New Testament. This retelling
 
 ## What Is the Story of Saul Meets Jesus for Kids?
 
-THE EARLY CHURCH — EPISODE 6: SAUL MEETS JESUS Based on Acts 9:1-22 Series: The Early Church | Episode 6 of 10 Target audience: Kids ages 7-15
+THE EARLY CHURCH, EPISODE 6: SAUL MEETS JESUS Based on Acts 9:1-22 Series: The Early Church | Episode 6 of 10 Target audience: Kids ages 7-15
 
 There was a man named Saul. And Saul absolutely HATED my followers. The Bible says he was breathing murderous threats against them. He went house to house, dragging men and women off to prison. He watched Stephen get killed and held the coats of the people who threw the stones.
 
@@ -43,9 +43,9 @@ The story of Saul Meets Jesus teaches children important lessons about community
 
 ## Key Bible Verse
 
-> *"To obey is better than sacrifice."* — 1 Samuel 15:22
+> *"To obey is better than sacrifice."* (1 Samuel 15:22)
 
-For a quieter follow-up, try the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) — twelve hidden words, answer key included.
+For a quieter follow-up, try the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles), twelve hidden words, answer key included.
 
 The man who vouched for Saul when no one else would has his own story: [Who Was Barnabas in the Bible?](/blog/who-was-barnabas-for-kids)
 
@@ -63,11 +63,11 @@ Saul was the most dangerous enemy of the early church. He was breathing murderou
 
 ### What happened to Saul when the bright light appeared on the road?
 
-A light brighter than the sun knocked Saul to the ground, and he heard Jesus's voice. When he opened his eyes, he was completely blind. He stayed blind for three days — no food, no water — until God sent Ananias to heal him.
+A light brighter than the sun knocked Saul to the ground, and he heard Jesus's voice. When he opened his eyes, he was completely blind. He stayed blind for three days, no food, no water, until God sent Ananias to heal him.
 
 ### Why was Ananias afraid when God told him to go to Saul?
 
-Ananias had heard all about Saul's reputation — he knew Saul had come to Damascus specifically to arrest believers. But God told Ananias that Saul was His "chosen instrument," and Ananias obeyed despite his fear.
+Ananias had heard all about Saul's reputation, he knew Saul had come to Damascus specifically to arrest believers. But God told Ananias that Saul was His "chosen instrument," and Ananias obeyed despite his fear.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Saul Meets Jesus about for kids?
 
-Saul Meets Jesus is a story from Acts. THE EARLY CHURCH — EPISODE 6: SAUL MEETS JESUS Based on Acts 9:1-22 Series: The Early Church | Episode 6 of 10 Target audience: Kids ages 7-15
+Saul Meets Jesus is a story from Acts. THE EARLY CHURCH, EPISODE 6: SAUL MEETS JESUS Based on Acts 9:1-22 Series: The Early Church | Episode 6 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Saul Meets Jesus appropriate for?
 

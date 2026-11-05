@@ -25,11 +25,11 @@ The Great Commission is a Bible story from Matthew/Luke/Acts in the New Testamen
 
 ## What Is the Story of The Great Commission for Kids?
 
-HE IS RISEN — Episode 7: The Great Commission Based on Matthew 28:16-20 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN, Episode 7: The Great Commission Based on Matthew 28:16-20 Series: He Is Risen | Target Age: 7-15
 
 Let me tell you about the moment I gave my followers the biggest assignment in history.
 
-After I rose from the dead, I told my disciples to meet me on a mountain in Galilee. All eleven of them came. When they saw me, most of them worshiped immediately. But some hesitated. Some doubted. And you know what? I gave the mission to ALL of them — the confident ones AND the doubters. I do not wait for you to be perfect before I use you.
+After I rose from the dead, I told my disciples to meet me on a mountain in Galilee. All eleven of them came. When they saw me, most of them worshiped immediately. But some hesitated. Some doubted. And you know what? I gave the mission to ALL of them, the confident ones AND the doubters. I do not wait for you to be perfect before I use you.
 
 I walked toward them and said something that shook the ground they were standing on.
 
@@ -45,7 +45,7 @@ The story of The Great Commission teaches children important lessons about resur
 
 ## Key Bible Verse
 
-> *"Go and make disciples of all nations."* — Matthew 28:19
+> *"Go and make disciples of all nations."* (Matthew 28:19)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus say had been given to Him?
 
-**All authority in heaven and on earth.** Jesus declared that ALL authority in heaven and on earth had been given to Him — total, complete authority over everything.
+**All authority in heaven and on earth.** Jesus declared that ALL authority in heaven and on earth had been given to Him, total, complete authority over everything.
 
 ### What did Jesus command His followers to do?
 
@@ -73,7 +73,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What promise did Jesus make at the end of the Great Commission?
 
-**"I am with you always, to the very end of the age".** Jesus promised to be with His followers ALWAYS — not sometimes, not when it is easy, but always, to the very end of the age.
+**"I am with you always, to the very end of the age".** Jesus promised to be with His followers ALWAYS, not sometimes, not when it is easy, but always, to the very end of the age.
 
 ## Discussion Questions for Families
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Great Commission about for kids?
 
-The Great Commission is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 7: The Great Commission Based on Matthew 28:16-20 Series: He Is Risen | Target Age: 7-15
+The Great Commission is a story from Matthew/Luke/Acts. HE IS RISEN, Episode 7: The Great Commission Based on Matthew 28:16-20 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of The Great Commission appropriate for?
 

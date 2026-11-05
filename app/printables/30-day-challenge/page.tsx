@@ -4,7 +4,7 @@ import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 
 export const metadata = {
-  title: '30-Day Family Bible Challenge — Printable',
+  title: '30-Day Family Bible Challenge: Printable',
   description:
     'A free printable 30-day family Bible reading challenge: one short daily reading from creation to resurrection, with a discussion question for each.',
   alternates: { canonical: 'https://faithfulkids.app/printables/30-day-challenge' },
@@ -24,7 +24,7 @@ const DAYS: Day[] = [
     title: 'Creation',
     read: 'Genesis 1:1-2:3',
     summary: 'God creates the whole world in six days and calls it very good.',
-    question: 'What does it tell you about God that He made the whole universe — and then made you?',
+    question: 'What does it tell you about God that He made the whole universe, and then made you?',
   },
   {
     day: 2,
@@ -38,7 +38,7 @@ const DAYS: Day[] = [
     title: 'Noah and the Flood',
     read: 'Genesis 6:9-22, 8:1-5, 9:12-17',
     summary: 'Faithful Noah builds the ark, and God seals His promise with a rainbow.',
-    question: 'What does it feel like to know God keeps His promises — even when things look hopeless?',
+    question: 'What does it feel like to know God keeps His promises, even when things look hopeless?',
   },
   {
     day: 4,
@@ -73,7 +73,7 @@ const DAYS: Day[] = [
     title: 'David and Goliath',
     read: '1 Samuel 17:32-50',
     summary: 'A shepherd boy with one stone fells a giant in the name of the Lord.',
-    question: 'What is your Goliath — and what name are you going to face it in?',
+    question: 'What is your Goliath, and what name are you going to face it in?',
   },
   {
     day: 9,
@@ -135,7 +135,7 @@ const DAYS: Day[] = [
     day: 17,
     title: 'Jesus Walks on Water',
     read: 'Matthew 14:22-33',
-    summary: 'Peter walks on the waves toward Jesus — until he looks at the storm and starts to sink.',
+    summary: 'Peter walks on the waves toward Jesus, until he looks at the storm and starts to sink.',
     question: 'When have you taken your eyes off Jesus and started sinking?',
   },
   {
@@ -143,7 +143,7 @@ const DAYS: Day[] = [
     title: 'The Prodigal Son',
     read: 'Luke 15:11-32',
     summary: 'A wayward son comes home in shame, and his father runs to meet him with a party.',
-    question: 'Which part surprises you most — the son’s return or the father’s reaction?',
+    question: 'Which part surprises you most, the son’s return or the father’s reaction?',
   },
   {
     day: 19,
@@ -156,7 +156,7 @@ const DAYS: Day[] = [
     day: 20,
     title: 'The Crucifixion and Resurrection',
     read: 'Luke 23:33-49, Matthew 28:1-10',
-    summary: 'Jesus dies on the cross, and three days later the tomb is empty — love wins.',
+    summary: 'Jesus dies on the cross, and three days later the tomb is empty, love wins.',
     question: 'Why is the resurrection the most important event in all of history?',
   },
   {
@@ -220,13 +220,13 @@ const DAYS: Day[] = [
     title: "Paul's Letter to the Romans",
     read: 'Romans 8:28-39',
     summary: 'Nothing in all creation can separate us from the love of God in Christ Jesus.',
-    question: 'What makes you feel separated from God’s love — and what does this passage say about that?',
+    question: 'What makes you feel separated from God’s love, and what does this passage say about that?',
   },
   {
     day: 30,
     title: 'The Promise of Heaven',
     read: 'Revelation 21:1-7',
-    summary: 'God wipes away every tear — the story that began in a garden ends with Him dwelling with His people forever.',
+    summary: 'God wipes away every tear, the story that began in a garden ends with Him dwelling with His people forever.',
     question: 'What are you most looking forward to about heaven?',
   },
 ];
@@ -342,7 +342,7 @@ export default function ThirtyDayChallengePrintable() {
             <span className="fk-checkbox" aria-hidden="true" />
             <div style={{ fontSize: '0.72rem', lineHeight: 1.35 }}>
               <div style={{ fontWeight: 700, fontSize: '0.78rem', color: '#111827' }}>
-                Day {d.day} — <span style={{ color: EMERALD }}>{d.title}</span>
+                Day {d.day}: <span style={{ color: EMERALD }}>{d.title}</span>
               </div>
               <div style={{ margin: '0.1rem 0' }}>
                 <strong>Read: {d.read}</strong>
@@ -368,7 +368,7 @@ export default function ThirtyDayChallengePrintable() {
         }}
       >
         Want every story as a video with a quiz? Visit{' '}
-        <strong style={{ color: EMERALD }}>faithfulkids.app</strong> — free 7-day trial.
+        <strong style={{ color: EMERALD }}>faithfulkids.app</strong> free 7-day trial.
       </footer>
     </main>
       <PrintableCta

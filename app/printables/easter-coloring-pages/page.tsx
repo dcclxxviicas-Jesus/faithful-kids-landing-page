@@ -15,12 +15,12 @@ import printableVideos from '@/lib/printable-videos.json'
 const PAGES = COLORING_PAGES.filter(p => p.season === 'easter')
 
 export const metadata: Metadata = {
-  title: 'Religious Easter Coloring Pages — Free',
+  title: 'Religious Easter Coloring Pages: Free',
   description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
   keywords: ['religious easter coloring pages', 'christian easter coloring pages', 'easter coloring pages religious', 'palm sunday coloring page', 'resurrection coloring page', 'cross coloring page', 'holy week coloring pages'],
   alternates: { canonical: 'https://faithfulkids.app/printables/easter-coloring-pages' },
   openGraph: {
-    title: 'Religious Easter Coloring Pages — Free',
+    title: 'Religious Easter Coloring Pages: Free',
     description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
     url: 'https://faithfulkids.app/printables/easter-coloring-pages',
     siteName: 'Faithful Kids',
@@ -33,7 +33,7 @@ export default function Page() {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Religious Easter Coloring Pages — Free',
+    name: 'Religious Easter Coloring Pages, Free',
     description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
     url: 'https://faithfulkids.app/printables/easter-coloring-pages',
     isFamilyFriendly: true,
@@ -64,7 +64,7 @@ export default function Page() {
       </section>
 
       <section className="cp-intro no-print">
-        <p>Most Easter coloring pages you find are rabbits and painted eggs. These are the actual story — the donkey and the palm branches, the table with the bread and cup, the empty cross, the tomb at sunrise.</p>
+        <p>Most Easter coloring pages you find are rabbits and painted eggs. These are the actual story, the donkey and the palm branches, the table with the bread and cup, the empty cross, the tomb at sunrise.</p>
         <p>They are drawn gently on purpose. The cross page shows the cross empty with a cloth over it rather than the crucifixion, so it can be used with younger children whose families are not ready for the rest of it yet.</p>
       </section>
 
@@ -75,7 +75,7 @@ export default function Page() {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={`${CDN}/${p.slug}.png`}
-                alt={`${p.title} coloring page for kids — free printable`}
+                alt={`${p.title} coloring page for kids, free printable`}
                 width={1024} height={1536} loading="lazy"
               />
             </a>
@@ -132,7 +132,7 @@ export default function Page() {
         <p>If you are working through the week day by day, the order on this page is the order it happened: Palm Sunday, the Last Supper, the cross, resurrection morning, then the road to Emmaus. One page a day from Sunday to Sunday gives a child the shape of the week without a single worksheet.</p>
         <p>
           These sit alongside the full set of{' '}
-          <a href="/printables/bible-coloring-pages">Bible coloring pages</a> — 26 scenes covering
+          <a href="/printables/bible-coloring-pages">Bible coloring pages</a>26 scenes covering
           the whole story, all free to print.
         </p>
       </section>
@@ -149,7 +149,7 @@ export default function Page() {
         <div className="blog-bottom-cta-inner">
           <h2>The story behind each page</h2>
           <p>
-            Every scene here is an episode in the Faithful Kids library — a few minutes long, with a
+            Every scene here is an episode in the Faithful Kids library, a few minutes long, with a
             quiz afterwards so you can see what your child actually understood.
           </p>
           <a className="btn-primary" href="/quiz?ref=easter-coloring">Start your child&rsquo;s Bible journey</a>

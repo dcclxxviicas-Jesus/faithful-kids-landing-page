@@ -25,13 +25,13 @@ The Paralyzed Man is a Bible story from Matthew/Mark/Luke/John in the New Testam
 
 ## What Is the Story of The Paralyzed Man for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 8 "The Paralyzed Man" Based on Mark 2:1-12
+JESUS BEGINS HIS MINISTRY, EPISODE 8 "The Paralyzed Man" Based on Mark 2:1-12
 
-Okay, this is one of the WILDEST things that ever happened while I was teaching. And trust me — I've seen a lot.
+Okay, this is one of the WILDEST things that ever happened while I was teaching. And trust me, I've seen a lot.
 
-I was in a house in Capernaum. Word got out that I was there, and people came FLOODING in. The house was jammed. Standing room only. People packed the doorway, spilled into the street — there was literally no way to get in. And I was right in the middle of it all, teaching the Word.
+I was in a house in Capernaum. Word got out that I was there, and people came FLOODING in. The house was jammed. Standing room only. People packed the doorway, spilled into the street, there was literally no way to get in. And I was right in the middle of it all, teaching the Word.
 
-Now, somewhere outside, four friends had a problem. Their buddy was paralyzed — completely unable to walk — and they were carrying him on a mat to get to me. But when they arrived? Forget it. The crowd was a wall. No gap. No opening. No chance.
+Now, somewhere outside, four friends had a problem. Their buddy was paralyzed, completely unable to walk, and they were carrying him on a mat to get to me. But when they arrived? Forget it. The crowd was a wall. No gap. No opening. No chance.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Paralyzed Man teaches children important lessons about calling,
 
 ## Key Bible Verse
 
-> *"Son, your sins are forgiven."* — Mark 2:5
+> *"Son, your sins are forgiven."* (Mark 2:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Paralyzed Man about for kids?
 
-The Paralyzed Man is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 8 "The Paralyzed Man" Based on Mark 2:1-12
+The Paralyzed Man is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY, EPISODE 8 "The Paralyzed Man" Based on Mark 2:1-12
 
 ### What age is the story of The Paralyzed Man appropriate for?
 

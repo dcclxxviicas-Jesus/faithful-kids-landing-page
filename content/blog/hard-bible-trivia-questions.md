@@ -2,25 +2,25 @@
 title: "Hard Bible Trivia: 150 Questions Ranked to Impossible"
 slug: "hard-bible-trivia-questions"
 type: "listicle"
-metaDescription: "150 hard Bible trivia questions and answers, ranked from challenging to extremely hard. Obscure names, exact numbers, and one-verse characters -- with verses."
+metaDescription: "150 hard Bible trivia questions and answers, ranked from challenging to extremely hard. Obscure names, exact numbers, and one-verse characters, with verses."
 keywords: ["hard bible trivia", "hardest bible trivia", "very hard bible trivia", "extremely hard bible trivia", "hard bible trivia questions and answers", "difficult bible trivia questions", "expert bible trivia"]
 datePublished: "2026-08-19"
 dateModified: "2026-08-19"
 ---
 
-These 150 hard Bible trivia questions and answers climb four difficulty tiers -- Challenging, Very Hard, Expert, and Nearly Impossible -- until even lifelong Bible readers start guessing. Every answer comes in bold with a verse reference right after the question, so you can settle arguments on the spot.
+These 150 hard Bible trivia questions and answers climb four difficulty tiers, Challenging, Very Hard, Expert, and Nearly Impossible, until even lifelong Bible readers start guessing. Every answer comes in bold with a verse reference right after the question, so you can settle arguments on the spot.
 
-Fair warning about the ranking: the first tier will humble casual readers, the second will humble regular churchgoers, the third will humble Sunday school teachers, and the final tier -- the extremely hard Bible trivia -- is where seminary graduates start sweating. If your group clears all 150, they have earned whatever prize you promised.
+Fair warning about the ranking: the first tier will humble casual readers, the second will humble regular churchgoers, the third will humble Sunday school teachers, and the final tier, the extremely hard Bible trivia, is where seminary graduates start sweating. If your group clears all 150, they have earned whatever prize you promised.
 
 If this list turns out to be too brutal, warm up with our [easy Bible trivia questions](/blog/easy-bible-trivia-questions) or the all-levels [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers) first, then come back.
 
 ## Tier 1: Challenging Bible Trivia (Questions 1-40)
 
-Regular Bible readers should get most of these -- but "most" is doing a lot of work in that sentence.
+Regular Bible readers should get most of these, but "most" is doing a lot of work in that sentence.
 
-1. Who is the oldest person recorded in the Bible, and how long did he live? **Methuselah -- 969 years** (Genesis 5:27)
+1. Who is the oldest person recorded in the Bible, and how long did he live? **Methuselah, 969 years** (Genesis 5:27)
 2. What is the shortest verse in the Bible? **"Jesus wept"** (John 11:35)
-3. What is the longest chapter in the Bible? **Psalm 119 -- 176 verses** (Psalm 119:1-176)
+3. What is the longest chapter in the Bible? **Psalm 119, 176 verses** (Psalm 119:1-176)
 4. Which prophet was taken up to heaven in a whirlwind? **Elijah** (2 Kings 2:11)
 5. Besides Elijah, who else in the Bible never died, because "God took him away"? **Enoch** (Genesis 5:24)
 6. Which left-handed judge killed King Eglon of Moab with a hidden sword? **Ehud** (Judges 3:15-21)
@@ -31,8 +31,8 @@ Regular Bible readers should get most of these -- but "most" is doing a lot of w
 11. Which prophet was mocked by youths for being bald, right before two bears came out of the woods? **Elisha** (2 Kings 2:23-24)
 12. Whose donkey opened its mouth and spoke to him? **Balaam's** (Numbers 22:28)
 13. What were the dimensions of Noah's ark? **300 cubits long, 50 wide, 30 high** (Genesis 6:15)
-14. How many of every clean animal did Noah take aboard the ark? **Seven pairs -- not two** (Genesis 7:2)
-15. What was the first bird Noah sent out of the ark? **A raven -- the dove came later** (Genesis 8:7)
+14. How many of every clean animal did Noah take aboard the ark? **Seven pairs, not two** (Genesis 7:2)
+15. What was the first bird Noah sent out of the ark? **A raven, the dove came later** (Genesis 8:7)
 16. Which priest-king brought out bread and wine and blessed Abram? **Melchizedek, king of Salem** (Genesis 14:18)
 17. What new name did God give Jacob after their all-night wrestling match? **Israel** (Genesis 32:28)
 18. For how many shekels of silver did Joseph's brothers sell him? **Twenty** (Genesis 37:28)
@@ -61,7 +61,7 @@ Regular Bible readers should get most of these -- but "most" is doing a lot of w
 
 ## Tier 2: Very Hard Bible Trivia (Questions 41-85)
 
-This is very hard Bible trivia -- exact numbers, ages, and details hiding in plain sight in famous stories.
+This is very hard Bible trivia: exact numbers, ages, and details hiding in plain sight in famous stories.
 
 41. How long did Adam live? **930 years** (Genesis 5:5)
 42. How old was Noah when the floodwaters came? **600 years old** (Genesis 7:6)
@@ -81,7 +81,7 @@ This is very hard Bible trivia -- exact numbers, ages, and details hiding in pla
 56. What did Moses make and put on a pole so that snake-bitten Israelites could look at it and live? **A bronze snake** (Numbers 21:9)
 57. Which rebel, along with his followers, was swallowed alive when the earth split open? **Korah** (Numbers 16:31-32)
 58. Which two of the twelve spies gave a faithful report about Canaan? **Joshua and Caleb** (Numbers 14:30)
-59. How old was Moses when he died -- and who buried him? **120 years old, and God himself buried him in Moab** (Deuteronomy 34:5-7)
+59. How old was Moses when he died, and who buried him? **120 years old, and God himself buried him in Moab** (Deuteronomy 34:5-7)
 60. Under what did Rahab hide the two Israelite spies? **Stalks of flax on her roof** (Joshua 2:6)
 61. What three things did Achan steal from Jericho? **A beautiful Babylonian robe, 200 shekels of silver, and a bar of gold** (Joshua 7:21)
 62. Over what city did the sun stand still for Joshua? **Gibeon** (Joshua 10:12-13)
@@ -93,7 +93,7 @@ This is very hard Bible trivia -- exact numbers, ages, and details hiding in pla
 68. What were the names of Eli's two wicked sons? **Hophni and Phinehas** (1 Samuel 1:3)
 69. What was Saul doing when Samuel found him to anoint him king? **Searching for his father's lost donkeys** (1 Samuel 9:3-10:1)
 70. Where was Saul hiding when he was announced as king? **Among the supplies (the baggage)** (1 Samuel 10:22)
-71. Exactly how tall was Goliath? **Six cubits and a span -- over nine feet** (1 Samuel 17:4)
+71. Exactly how tall was Goliath? **Six cubits and a span, over nine feet** (1 Samuel 17:4)
 72. What did David cut off while Saul was inside the cave at En Gedi? **A corner of Saul's robe** (1 Samuel 24:4)
 73. In what town did Saul consult a medium the night before his death? **Endor** (1 Samuel 28:7)
 74. Abigail became David's wife after the death of which foolish husband? **Nabal** (1 Samuel 25:3-42)
@@ -109,13 +109,13 @@ This is very hard Bible trivia -- exact numbers, ages, and details hiding in pla
 84. What happened to King Nebuchadnezzar when he boasted about his greatness? **He was driven from people and ate grass like an ox** (Daniel 4:33)
 85. What Babylonian name was given to Daniel? **Belteshazzar** (Daniel 1:7)
 
-## Tier 3: Expert-Level -- the Hardest Bible Trivia (Questions 86-125)
+## Tier 3: Expert-Level: the Hardest Bible Trivia (Questions 86-125)
 
 Welcome to the hardest Bible trivia on this list that still counts as fair. One-verse characters, buried details, and numbers nobody memorizes on purpose.
 
 86. How old was Sarah when she died? **127 years old** (Genesis 23:1)
 87. What Egyptian name did Pharaoh give to Joseph? **Zaphenath-Paneah** (Genesis 41:45)
-88. Tamar bore twin sons -- which one had the scarlet thread tied on his wrist? **Zerah, though his brother Perez came out first** (Genesis 38:28-30)
+88. Tamar bore twin sons, which one had the scarlet thread tied on his wrist? **Zerah, though his brother Perez came out first** (Genesis 38:28-30)
 89. How old was Joseph when he died in Egypt? **110** (Genesis 50:26)
 90. How many years did the Israelites live in Egypt? **430** (Exodus 12:40)
 91. What two objects did the high priest carry in his breastpiece for making decisions? **The Urim and the Thummim** (Exodus 28:30)
@@ -131,7 +131,7 @@ Welcome to the hardest Bible trivia on this list that still counts as fair. One-
 101. What Philistine idol kept falling on its face before the captured ark of God? **Dagon** (1 Samuel 5:3-4)
 102. Which of David's mighty men went down into a pit on a snowy day and killed a lion? **Benaiah son of Jehoiada** (2 Samuel 23:20)
 103. Which of David's advisers, after his counsel was rejected, put his house in order and hanged himself? **Ahithophel** (2 Samuel 17:23)
-104. How much did Absalom's hair weigh at his annual haircut? **Two hundred shekels by the royal standard -- about five pounds** (2 Samuel 14:26)
+104. How much did Absalom's hair weigh at his annual haircut? **Two hundred shekels by the royal standard, about five pounds** (2 Samuel 14:26)
 105. How did wicked King Ahab die, despite disguising himself in battle? **A soldier drew his bow "at random" and the arrow struck him between the sections of his armor** (1 Kings 22:34)
 106. Which servant of Elisha was struck with Naaman's leprosy for greedily taking payment? **Gehazi** (2 Kings 5:27)
 107. What miracle happened when a dead man's body touched Elisha's bones? **The man came back to life and stood up** (2 Kings 13:21)
@@ -147,23 +147,23 @@ Welcome to the hardest Bible trivia on this list that still counts as fair. One-
 117. In how many days was Jerusalem's wall rebuilt under Nehemiah? **Fifty-two** (Nehemiah 6:15)
 118. What was Nehemiah's job in the Persian court? **Cupbearer to King Artaxerxes** (Nehemiah 1:11)
 119. Which book of the Bible never mentions God by name? **Esther** (Esther 1-10)
-120. Haman, the villain of Esther, was called what -- marking him a descendant of Israel's old enemy? **An Agagite** (Esther 3:1)
+120. Haman, the villain of Esther, was called what, marking him a descendant of Israel's old enemy? **An Agagite** (Esther 3:1)
 121. Name Job's three daughters born after his restoration. **Jemimah, Keziah, and Keren-Happuch** (Job 42:14)
 122. Which angry young man spoke to Job after his three friends ran out of arguments? **Elihu son of Barakel** (Job 32:2)
 123. The prophetess Anna, who met baby Jesus in the temple, came from which tribe? **Asher** (Luke 2:36)
 124. Name Jesus' four brothers. **James, Joseph, Simon, and Judas** (Matthew 13:55)
 125. When Jesus fed the 4,000, how many loaves did he start with and how many basketfuls were left over? **Seven loaves, and seven basketfuls left over** (Matthew 15:34-37)
 
-If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring — put it on a TV and host it like the real thing.
+If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring, put it on a TV and host it like the real thing.
 
-## Tier 4: Nearly Impossible -- Extremely Hard Bible Trivia (Questions 126-150)
+## Tier 4: Nearly Impossible: Extremely Hard Bible Trivia (Questions 126-150)
 
 Extremely hard Bible trivia: if anyone in the room answers more than five of these cold, hand them the crown and go home.
 
 126. What kind of coin did Peter find in the fish's mouth to pay the temple tax? **A four-drachma coin** (Matthew 17:27)
-127. In what village did Jesus heal a blind man in two stages -- the man first saw "people like trees walking around"? **Bethsaida** (Mark 8:22-25)
-128. What Aramaic words did Jesus say to raise Jairus's daughter? **"Talitha koum" -- "Little girl, get up"** (Mark 5:41)
-129. In Mark's Gospel, what did the young man following Jesus at his arrest leave behind when he fled? **His linen garment -- he ran off naked** (Mark 14:51-52)
+127. In what village did Jesus heal a blind man in two stages, the man first saw "people like trees walking around"? **Bethsaida** (Mark 8:22-25)
+128. What Aramaic words did Jesus say to raise Jairus's daughter? **"Talitha koum", "Little girl, get up"** (Mark 5:41)
+129. In Mark's Gospel, what did the young man following Jesus at his arrest leave behind when he fled? **His linen garment, he ran off naked** (Mark 14:51-52)
 130. How many demons had gone out of Mary Magdalene? **Seven** (Luke 8:2)
 131. About how many pigs rushed down the bank when Jesus cast out the demons called Legion? **About two thousand** (Mark 5:13)
 132. Exactly how many fish were in the net in Jesus' post-resurrection miracle at the Sea of Galilee? **153** (John 21:11)
@@ -172,11 +172,11 @@ Extremely hard Bible trivia: if anyone in the room answers more than five of the
 135. Which servant girl was so overjoyed to hear Peter's voice that she left him standing at the door? **Rhoda** (Acts 12:13-14)
 136. Whose seven sons were beaten by a demon-possessed man when they tried to invoke Jesus' name? **The sons of Sceva, a Jewish chief priest** (Acts 19:14-16)
 137. From what story of the building did Eutychus fall while Paul preached past midnight? **The third story** (Acts 20:9)
-138. Who uncovered the plot of forty men who had vowed not to eat until they killed Paul? **Paul's nephew -- his sister's son** (Acts 23:16)
+138. Who uncovered the plot of forty men who had vowed not to eat until they killed Paul? **Paul's nephew, his sister's son** (Acts 23:16)
 139. What was the name of the lawyer who prosecuted Paul before Governor Felix? **Tertullus** (Acts 24:1)
 140. How many people were aboard Paul's ship when it wrecked near Malta? **276** (Acts 27:37)
 141. On Malta, whose father did Paul heal of fever and dysentery? **Publius, the chief official of the island** (Acts 28:7-8)
-142. Lydia, Paul's first convert in Philippi, sold what -- and came from what city? **Purple cloth; she was from Thyatira** (Acts 16:14)
+142. Lydia, Paul's first convert in Philippi, sold what, and came from what city? **Purple cloth; she was from Thyatira** (Acts 16:14)
 143. Who physically wrote down the letter to the Romans as Paul dictated? **Tertius** (Romans 16:22)
 144. Which deacon of the church in Cenchreae did Paul commend at the end of Romans? **Phoebe** (Romans 16:1)
 145. Which two women in Philippi did Paul plead with "to be of the same mind in the Lord"? **Euodia and Syntyche** (Philippians 4:2)
@@ -184,21 +184,21 @@ Extremely hard Bible trivia: if anyone in the room answers more than five of the
 147. What are the traditional names of the two magicians who opposed Moses, named only in the New Testament? **Jannes and Jambres** (2 Timothy 3:8)
 148. According to Jude, what did the archangel Michael dispute with the devil about? **The body of Moses** (Jude 1:9)
 149. What is the name of the star that falls on a third of the rivers in Revelation, turning the waters bitter? **Wormwood** (Revelation 8:11)
-150. What are the dimensions of the New Jerusalem? **12,000 stadia long, wide, and high -- a perfect cube about 1,400 miles per side** (Revelation 21:16)
+150. What are the dimensions of the New Jerusalem? **12,000 stadia long, wide, and high, a perfect cube about 1,400 miles per side** (Revelation 21:16)
 
 ## How to Use These Questions
 
-Don't run all 150 straight through -- start every group in Tier 1 and let them earn their way up, ten questions at a time. A good format: teams get three points for a Tier 3 or 4 answer, two for Tier 2, one for Tier 1, and anyone caught opening a Bible mid-question buys the snacks. For full game-night formats and scorekeeping ideas, see our guide to [family Bible trivia night](/blog/family-bible-trivia-night).
+Don't run all 150 straight through; start every group in Tier 1 and let them earn their way up, ten questions at a time. A good format: teams get three points for a Tier 3 or 4 answer, two for Tier 2, one for Tier 1, and anyone caught opening a Bible mid-question buys the snacks. For full game-night formats and scorekeeping ideas, see our guide to [family Bible trivia night](/blog/family-bible-trivia-night).
 
-Playing with mixed ages? Hand the younger crowd our [Bible trivia for kids](/blog/bible-trivia-for-kids) or [Bible trivia for teens](/blog/bible-trivia-for-teens) as their own tier, so a nine-year-old can score points on David while grandpa sweats over Ahithophel. Speaking of David -- if question 71 sparked an argument about the giant, our [David and Goliath story guide](/blog/david-and-goliath-for-kids) walks through the whole account, five smooth stones and all.
+Playing with mixed ages? Hand the younger crowd our [Bible trivia for kids](/blog/bible-trivia-for-kids) or [Bible trivia for teens](/blog/bible-trivia-for-teens) as their own tier, so a nine-year-old can score points on David while grandpa sweats over Ahithophel. Speaking of David, if question 71 sparked an argument about the giant, our [David and Goliath story guide](/blog/david-and-goliath-for-kids) walks through the whole account, five smooth stones and all.
 
-And if the kids watching this game want in on the fun, the video lessons at [Faithful Kids](https://faithfulkids.app/quiz) teach every one of these stories with a short video and quiz per episode -- future trivia champions in training.
+And if the kids watching this game want in on the fun, the video lessons at [Faithful Kids](https://faithfulkids.app/quiz) teach every one of these stories with a short video and quiz per episode, future trivia champions in training.
 
-Want a set you can hand around on paper? Our free [printable Bible Trivia Pack](/printables/bible-trivia-pack) collects 100 questions with the answer key in the back -- no screens, no scrolling, just print and play.
+Want a set you can hand around on paper? Our free [printable Bible Trivia Pack](/printables/bible-trivia-pack) collects 100 questions with the answer key in the back, no screens, no scrolling, just print and play.
 
 Kids who like a scoreboard tend to prefer our [Bible trivia game online](/bible-trivia), which tracks the streak for them.
 
-When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults), the warm-up round catches almost everyone on the stories they think they know.
 
 We also keep a set of [80 Christmas trivia questions](/blog/christmas-bible-trivia) sorted into rounds, so the six-year-old and the Sunday-school veteran both get a fair turn.
 
@@ -216,15 +216,15 @@ Four things: obscure names (characters who appear in one verse), exact numbers (
 
 ### How many of these questions should a pastor get right?
 
-A working pastor should clear Tier 1 nearly perfectly, get 70-80% of Tier 2, and roughly half of Tier 3. Tier 4 is a coin flip for almost everyone -- those questions live in verses that even sermon prep rarely touches, which is exactly why they're fun.
+A working pastor should clear Tier 1 nearly perfectly, get 70-80% of Tier 2, and roughly half of Tier 3. Tier 4 is a coin flip for almost everyone; those questions live in verses that even sermon prep rarely touches, which is exactly why they're fun.
 
 ### Are these hard Bible trivia questions okay for church groups?
 
-Yes -- every question and answer is family-safe and drawn straight from the biblical text with a verse reference to check. The difficulty comes from obscurity, not from controversy: there are no denominational tricks, interpretation debates, or doctrine questions in the list.
+Yes, every question and answer is family-safe and drawn straight from the biblical text with a verse reference to check. The difficulty comes from obscurity, not from controversy: there are no denominational tricks, interpretation debates, or doctrine questions in the list.
 
 ### What Bible translation do the answers use?
 
-Answers follow standard modern translations like the NIV and ESV. A few details vary slightly by translation -- the third plague is "gnats" in the NIV but "lice" in the KJV (Exodus 8:16) -- so agree on a house translation before playing, and accept any answer your translation supports.
+Answers follow standard modern translations like the NIV and ESV. A few details vary slightly by translation; the third plague is "gnats" in the NIV but "lice" in the KJV (Exodus 8:16), so agree on a house translation before playing, and accept any answer your translation supports.
 
 ### Where can I find easier Bible trivia questions?
 

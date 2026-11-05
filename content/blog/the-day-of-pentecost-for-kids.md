@@ -25,13 +25,13 @@ The Day of Pentecost is a Bible story from Matthew/Luke/Acts in the New Testamen
 
 ## What Is the Story of The Day of Pentecost for Kids?
 
-HE IS RISEN — Episode 10: The Day of Pentecost Based on Acts 2:1-41 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN, Episode 10: The Day of Pentecost Based on Acts 2:1-41 Series: He Is Risen | Target Age: 7-15
 
-Let me tell you about the day everything changed — again.
+Let me tell you about the day everything changed, again.
 
-Ten days of waiting. Ten days of prayer. One hundred and twenty believers packed into an upper room in Jerusalem, trusting a promise they did not fully understand. And then — the day of Pentecost arrived.
+Ten days of waiting. Ten days of prayer. One hundred and twenty believers packed into an upper room in Jerusalem, trusting a promise they did not fully understand. And then, the day of Pentecost arrived.
 
-Suddenly — and I mean SUDDENLY — a sound came from heaven like a violent, rushing wind. Not a gentle breeze. A ROAR. It filled the entire house where they were sitting. And then something appeared that no one could explain: what looked like tongues of FIRE separated and rested on each person. Every single one of them.
+Suddenly, and I mean SUDDENLY, a sound came from heaven like a violent, rushing wind. Not a gentle breeze. A ROAR. It filled the entire house where they were sitting. And then something appeared that no one could explain: what looked like tongues of FIRE separated and rested on each person. Every single one of them.
 
 This story comes from Matthew/Luke/Acts and is part of the New Testament.
 
@@ -45,9 +45,9 @@ The story of The Day of Pentecost teaches children important lessons about resur
 
 ## Key Bible Verse
 
-> *"All of them were filled with the Holy Spirit."* — Acts 2:4
+> *"All of them were filled with the Holy Spirit."* (Acts 2:4)
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -71,7 +71,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Who stood up and preached to the crowd at Pentecost?
 
-**Peter.** Peter — the same man who had denied Jesus three times — stood boldly before thousands and preached the first great sermon of the church.
+**Peter.** Peter, the same man who had denied Jesus three times, stood boldly before thousands and preached the first great sermon of the church.
 
 ### How many people were saved on the day of Pentecost?
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Day of Pentecost about for kids?
 
-The Day of Pentecost is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 10: The Day of Pentecost Based on Acts 2:1-41 Series: He Is Risen | Target Age: 7-15
+The Day of Pentecost is a story from Matthew/Luke/Acts. HE IS RISEN, Episode 10: The Day of Pentecost Based on Acts 2:1-41 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of The Day of Pentecost appropriate for?
 

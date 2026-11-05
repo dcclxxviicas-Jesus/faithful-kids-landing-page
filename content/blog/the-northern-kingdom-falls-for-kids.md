@@ -23,13 +23,13 @@ The Northern Kingdom Falls is a Bible story from 1 Kings in the Old Testament. T
 
 ## What Is the Story of The Northern Kingdom Falls for Kids?
 
-SOLOMON & THE KINGDOM — Episode 10: The Northern Kingdom Falls Bible Reference: 2 Kings 17 Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM, Episode 10: The Northern Kingdom Falls Bible Reference: 2 Kings 17 Series: Solomon & the Kingdom
 
-Hey everyone — this is it. The final episode. And I won't sugarcoat it — this one is heavy. But it shows you that God is endlessly patient, and consequences are very, very real.
+Hey everyone, this is it. The final episode. And I won't sugarcoat it, this one is heavy. But it shows you that God is endlessly patient, and consequences are very, very real.
 
-For over two hundred years, the Northern Kingdom rebelled. King after king — building idols, worshipping false gods, ignoring the prophets. God sent Elijah, Elisha, Amos, Hosea. Prophet after prophet, all saying: "Turn back! Come home! It's not too late!"
+For over two hundred years, the Northern Kingdom rebelled. King after king, building idols, worshipping false gods, ignoring the prophets. God sent Elijah, Elisha, Amos, Hosea. Prophet after prophet, all saying: "Turn back! Come home! It's not too late!"
 
-Second Kings 17 lays it out plainly. The people worshipped other gods. They set up idols on every high hill. Even when God warned them through every prophet — "Turn from your evil ways!" — they would not listen.
+Second Kings 17 lays it out plainly. The people worshipped other gods. They set up idols on every high hill. Even when God warned them through every prophet, "Turn from your evil ways!" they would not listen.
 
 This story comes from 1 Kings and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of The Northern Kingdom Falls teaches children important lessons about
 
 ## Key Bible Verse
 
-> *"For all have sinned and fall short of the glory of God."* — Romans 3:23
+> *"For all have sinned and fall short of the glory of God."* (Romans 3:23)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### How did God try to warn the Northern Kingdom before their destruction?
 
-God sent prophet after prophet — including Elijah, Elisha, Amos, and Hosea — all delivering the same message: "Turn from your evil ways and come back to God!" For over 200 years, God patiently sent warnings. The people refused to listen.
+God sent prophet after prophet, including Elijah, Elisha, Amos, and Hosea, all delivering the same message: "Turn from your evil ways and come back to God!" For over 200 years, God patiently sent warnings. The people refused to listen.
 
 ### What happened to the Northern Kingdom of Israel in 722 BC?
 
-The Assyrian Empire besieged the capital city of Samaria for three years, conquered it, and carried the people away — scattering the ten tribes throughout the empire. They were uprooted from the Promised Land.
+The Assyrian Empire besieged the capital city of Samaria for three years, conquered it, and carried the people away, scattering the ten tribes throughout the empire. They were uprooted from the Promised Land.
 
 ### Why did the Southern Kingdom of Judah survive when the Northern Kingdom fell?
 
-Even in the midst of judgment, God preserved the Southern Kingdom of Judah because of His covenant with David. God had promised David's line would endure — and God always keeps His promises. That line would eventually lead to Jesus.
+Even in the midst of judgment, God preserved the Southern Kingdom of Judah because of His covenant with David. God had promised David's line would endure, and God always keeps His promises. That line would eventually lead to Jesus.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Northern Kingdom Falls about for kids?
 
-The Northern Kingdom Falls is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 10: The Northern Kingdom Falls Bible Reference: 2 Kings 17 Series: Solomon & the Kingdom
+The Northern Kingdom Falls is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 10: The Northern Kingdom Falls Bible Reference: 2 Kings 17 Series: Solomon & the Kingdom
 
 ### What age is the story of The Northern Kingdom Falls appropriate for?
 

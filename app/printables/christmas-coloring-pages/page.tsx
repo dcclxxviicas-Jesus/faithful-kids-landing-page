@@ -15,12 +15,12 @@ import printableVideos from '@/lib/printable-videos.json'
 const PAGES = COLORING_PAGES.filter(p => p.season === 'christmas')
 
 export const metadata: Metadata = {
-  title: 'Christian Christmas Coloring Pages — Free',
+  title: 'Christian Christmas Coloring Pages: Free',
   description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
   keywords: ['nativity coloring pages', 'christian christmas coloring pages', 'christmas coloring pages religious', 'nativity scene coloring pages', 'advent coloring pages', 'wise men coloring page', 'shepherds coloring page'],
   alternates: { canonical: 'https://faithfulkids.app/printables/christmas-coloring-pages' },
   openGraph: {
-    title: 'Christian Christmas Coloring Pages — Free',
+    title: 'Christian Christmas Coloring Pages: Free',
     description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
     url: 'https://faithfulkids.app/printables/christmas-coloring-pages',
     siteName: 'Faithful Kids',
@@ -33,7 +33,7 @@ export default function Page() {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Christian Christmas Coloring Pages — Free',
+    name: 'Christian Christmas Coloring Pages, Free',
     description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
     url: 'https://faithfulkids.app/printables/christmas-coloring-pages',
     isFamilyFriendly: true,
@@ -64,7 +64,7 @@ export default function Page() {
       </section>
 
       <section className="cp-intro no-print">
-        <p>The Christmas story runs longer than the stable, and these pages follow it in order — the angel and Mary, the road to Bethlehem, the manger, the shepherds on the hillside, and the wise men who turned up much later than the cards suggest.</p>
+        <p>The Christmas story runs longer than the stable, and these pages follow it in order: the angel and Mary, the road to Bethlehem, the manger, the shepherds on the hillside, and the wise men who turned up much later than the cards suggest.</p>
         <p>They print one to a sheet with bold outlines, which matters in December when you are handing pages to a room of children and want them to actually finish one.</p>
       </section>
 
@@ -75,7 +75,7 @@ export default function Page() {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={`${CDN}/${p.slug}.png`}
-                alt={`${p.title} coloring page for kids — free printable`}
+                alt={`${p.title} coloring page for kids, free printable`}
                 width={1024} height={1536} loading="lazy"
               />
             </a>
@@ -128,7 +128,7 @@ export default function Page() {
         <p>One page a week through Advent works well, taken in the order they appear here. Children who color the journey to Bethlehem before they color the manger tend to remember that it was a long walk, not a short scene, and that small correction sticks for years.</p>
         <p>
           These sit alongside the full set of{' '}
-          <a href="/printables/bible-coloring-pages">Bible coloring pages</a> — 26 scenes covering
+          <a href="/printables/bible-coloring-pages">Bible coloring pages</a> 26 scenes covering
           the whole story, all free to print.
         </p>
       </section>
@@ -145,7 +145,7 @@ export default function Page() {
         <div className="blog-bottom-cta-inner">
           <h2>The story behind each page</h2>
           <p>
-            Every scene here is an episode in the Faithful Kids library — a few minutes long, with a
+            Every scene here is an episode in the Faithful Kids library, a few minutes long, with a
             quiz afterwards so you can see what your child actually understood.
           </p>
           <a className="btn-primary" href="/quiz?ref=christmas-coloring">Start your child&rsquo;s Bible journey</a>

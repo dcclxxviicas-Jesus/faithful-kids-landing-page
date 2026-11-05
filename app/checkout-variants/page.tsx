@@ -10,7 +10,7 @@ const VARIANTS: { n: number | string; name: string; ref: string; what: string }[
 // The three below all run monthly at $10.99 and favour yearly WITHOUT greying
 // the monthly option out.
 const TREATMENTS = [
-  { slug: 'toggle', name: 'Segmented toggle', what: 'One card, a switch on top. Neither option is uglier than the other — the card simply says more when yearly is picked.' },
+  { slug: 'toggle', name: 'Segmented toggle', what: 'One card, a switch on top. Neither option is uglier than the other, the card simply says more when yearly is picked.' },
   { slug: 'hero', name: 'Single hero card', what: 'Only yearly is a card. Monthly is offered as a quiet line of text that swaps it. Nothing to grey out.' },
   { slug: 'twin', name: 'Twin cards', what: 'Both white and crisp. Yearly wins on a gradient crown and rows of value monthly has nothing to put in.' },
 ]

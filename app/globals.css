@@ -829,8 +829,9 @@ body {
 }
 
 /* ===== MOBILE MENU =====
-   The nav links are display:none under 768px; this is what stands in for them.
-   Desktop is untouched — .nav-toggle and .nav-mobile only exist below 768px. */
+   The nav links are display:none at 900px and below; this is what stands in
+   for them. Desktop is untouched — .nav-toggle and .nav-mobile only exist at
+   900px and below (see the note on that media block). */
 .nav-actions {
   display: flex;
   align-items: center;
@@ -935,7 +936,13 @@ body {
   .nav-toggle-bars span { transition: none; }
 }
 
-@media (max-width: 768px) {
+/* 900px, NOT 768: `.nav-links` goes display:none at 900px (the hero media
+   block), and for a while the hamburger only appeared at 768px, so every
+   viewport from 769 to 900px (the owner's Tesla browser, iPads in portrait
+   with browser chrome, half-screen laptop windows) rendered a header with no
+   links and no menu at all (Nov 4, 2026). The two breakpoints must stay equal:
+   whatever hides the links must show the toggle. */
+@media (max-width: 900px) {
   .nav-toggle { display: inline-flex; }
   /* Sits directly under the sticky bar rather than covering it, so the logo
      and Try Free stay reachable with the menu open. */
@@ -3490,9 +3497,16 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 .tg-opt.is-wrong .tg-letter { background: #fee2e2; color: #b91c1c; }
 
 .tg-feedback { min-height: 64px; margin-top: 14px; }
-.tg-feedback-line { margin: 0 0 4px; font-weight: 700; font-size: 0.95rem; }
+.tg-feedback-line { margin: 0 0 4px; font-weight: 700; font-size: 0.95rem; position: relative; }
 .tg-feedback-ref { margin: 0; font-size: 0.82rem; color: var(--text-muted); }
-.tg-gain { display: inline-block; margin-left: 8px; color: var(--gold); animation: tgFloat 1.6s ease forwards; }
+/* The +points badge is ABSOLUTE so it does not take part in centring.
+   tgFloat ends at opacity 0 with `forwards`, so an in-flow badge stays
+   invisible but still occupies its inline box, and .tg-card centres text
+   PLUS badge. Measured: the praise line sat 22.3px left of the card centre,
+   exactly half the badge's 36.5px width plus its 8px margin. Absolute with
+   no offsets keeps it at its static position, beside the text, so it still
+   floats up from the right place. */
+.tg-gain { position: absolute; display: inline-block; margin-left: 8px; color: var(--gold); animation: tgFloat 1.6s ease forwards; }
 
 .tg-stats { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 22px; }
 .tg-stat { background: var(--bg-alt); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 12px 20px; min-width: 96px; }

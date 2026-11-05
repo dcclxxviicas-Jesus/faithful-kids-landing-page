@@ -23,9 +23,9 @@ Ruth and Boaz is a Bible story from Ruth 3-4 in the Old Testament. This retellin
 
 ## What Is the Story of Ruth and Boaz for Kids?
 
-Hey friend! Last time we left off with Ruth gleaning in the fields of a man named Boaz, and Boaz noticing something special about her. Today we get to see how this story ends — and trust me, the ending is WAY bigger than you think.
+Hey friend! Last time we left off with Ruth gleaning in the fields of a man named Boaz, and Boaz noticing something special about her. Today we get to see how this story ends, and trust me, the ending is WAY bigger than you think.
 
-So Naomi has been watching all of this unfold, and she hatches a plan. See, in Israel there was a law called the "kinsman-redeemer" law. If a man died and left his family in trouble, a close relative could step in — buy back the family's land, take care of the widow, and basically rescue the whole situation. Boaz was that kind of relative.
+So Naomi has been watching all of this unfold, and she hatches a plan. See, in Israel there was a law called the "kinsman-redeemer" law. If a man died and left his family in trouble, a close relative could step in, buy back the family's land, take care of the widow, and basically rescue the whole situation. Boaz was that kind of relative.
 
 Naomi tells Ruth, "Go to the threshing floor tonight where Boaz is sleeping after the harvest. Lie down at his feet. He'll know what it means." Now this sounds strange to us, but in that culture, it was Ruth's way of saying, "You have the right to redeem our family. Will you?"
 
@@ -43,7 +43,7 @@ The story of Ruth and Boaz teaches children important lessons about bravery, loy
 
 ## Key Bible Verse
 
-> *"Where you go I will go, and where you stay I will stay."* — Ruth 1:16
+> *"Where you go I will go, and where you stay I will stay."* (Ruth 1:16)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,7 +55,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is a "kinsman-redeemer" in the Bible?
 
-In Israelite law, a kinsman-redeemer was a near relative with the right and responsibility to step in and rescue a family member in trouble — buying back their land, providing for widows, and restoring what was lost. Boaz filled this role for Naomi and Ruth.
+In Israelite law, a kinsman-redeemer was a near relative with the right and responsibility to step in and rescue a family member in trouble, buying back their land, providing for widows, and restoring what was lost. Boaz filled this role for Naomi and Ruth.
 
 ### What happened when Boaz went to the town gate to settle the matter?
 
@@ -63,7 +63,7 @@ There was another relative closer in line who had first right to redeem Naomi's 
 
 ### Why is Ruth's place in history so incredible?
 
-Ruth — a foreign woman from Moab who once gathered leftover grain to survive — became part of the most important family line in history. Her great-grandson was King David, and her lineage leads directly to Jesus the Messiah.
+Ruth, a foreign woman from Moab who once gathered leftover grain to survive, became part of the most important family line in history. Her great-grandson was King David, and her lineage leads directly to Jesus the Messiah.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Ruth and Boaz about for kids?
 
-Ruth and Boaz is a story from Ruth 3-4. Hey friend! Last time we left off with Ruth gleaning in the fields of a man named Boaz, and Boaz noticing something special about her. Today we get to see how this story ends — and trust me, the en...
+Ruth and Boaz is a story from Ruth 3-4. Hey friend! Last time we left off with Ruth gleaning in the fields of a man named Boaz, and Boaz noticing something special about her. Today we get to see how this story ends, and trust me, the en...
 
 ### What age is the story of Ruth and Boaz appropriate for?
 

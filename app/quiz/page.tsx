@@ -15,24 +15,24 @@ import './quiz.css'
 
 const PROOF = [
   '12,847 parents answered the same way',
-  'You\'re in good company — this is the #1 answer',
+  'You\'re in good company, this is the #1 answer',
   '92% of our families chose this too',
   'Great choice. We\'ll match this to your plan.',
   'You\'re not alone. Most parents feel this way.',
-  'Noted — building your personalized path...',
+  'Noted, building your personalized path...',
   'Perfect. We have exactly what you need.',
-  'Got it — almost done!',
+  'Got it, almost done!',
 ]
 
 const KID_PROOF = [
   'Awesome pick! 🎉',
-  'Great choice — this is going to be fun!',
+  'Great choice, this is going to be fun!',
   'You have excellent taste! ⭐',
   'Adding that to your adventure...',
   'You\'re going to love this!',
   'Almost there, hero!',
   'Your adventure is looking amazing!',
-  'Last one — you\'ve got this!',
+  'Last one, you\'ve got this!',
 ]
 
 /* Build steps consume the user's REAL answers — Noom's lesson: processing
@@ -115,7 +115,7 @@ const PARENT_QUESTIONS: Question[] = [
   {
     id: 'screen_time', emoji: '📱', type: 'single',
     q: 'Daily screen time?',
-    sub: 'No judgment — just an estimate',
+    sub: 'No judgment, just an estimate',
     opts: [
       { label: 'Under 1 hour', val: '<1hr', emoji: '😇' },
       { label: '1-2 hours', val: '1-2hr', emoji: '📱' },
@@ -177,7 +177,7 @@ const PARENT_QUESTIONS: Question[] = [
        Both options are yes on purpose. */
     id: 'commit', emoji: '🤝', type: 'single',
     q: 'Could you find 15 minutes a week for this?',
-    sub: 'That’s five episodes — one short sitting',
+    sub: 'That’s five episodes, one short sitting',
     opts: [
       { label: 'Yes', val: 'yes', emoji: '👍' },
       { label: 'Absolutely', val: 'absolutely', emoji: '💪' },
@@ -204,7 +204,7 @@ const PARENT_QUESTIONS: Question[] = [
       { label: 'By Christmas', val: 'christmas', emoji: '🎄' },
       { label: 'This school year', val: 'school-year', emoji: '🎒' },
       { label: 'In the next 30 days', val: '30-days', emoji: '🚀' },
-      { label: 'No rush — when it sticks', val: 'whenever', emoji: '🌱' },
+      { label: 'No rush, when it sticks', val: 'whenever', emoji: '🌱' },
     ],
   },
   {
@@ -219,7 +219,7 @@ const PARENT_QUESTIONS: Question[] = [
        (build + plan screens), so asking last loses nothing. */
     id: 'child_name', emoji: '✏️', type: 'text',
     q: 'What’s their first name?',
-    sub: 'Last one — we’ll put their name on the plan. Or skip it',
+    sub: 'Last one, we’ll put their name on the plan. Or skip it',
   },
 ]
 
@@ -255,7 +255,7 @@ const KID_QUESTIONS: Question[] = [
     sub: 'Bet you know this one...',
     correct: 'noah',
     correctMsg: '🎉 CORRECT! You\'re good at this!',
-    revealMsg: 'It was Noah! 🚢 Now you know — that\'s how learning works!',
+    revealMsg: 'It was Noah! 🚢 Now you know, that’s how learning works!',
     opts: [
       { label: 'David', val: 'david', emoji: '🪨' },
       { label: 'Noah', val: 'noah', emoji: '🚢' },
@@ -280,7 +280,7 @@ const KID_QUESTIONS: Question[] = [
     q: 'One more! Who beat the giant Goliath?',
     sub: 'You\'ve got this...',
     correct: 'david',
-    correctMsg: '🎉 YES! Two in a row — you\'re a natural!',
+    correctMsg: '🎉 YES! Two in a row, you\'re a natural!',
     revealMsg: 'It was David! 🪨 One smooth stone. Wait till you see the video!',
     opts: [
       { label: 'Moses', val: 'moses', emoji: '🌊' },
@@ -292,7 +292,7 @@ const KID_QUESTIONS: Question[] = [
   {
     id: 'watch', emoji: '📺', type: 'single',
     q: 'How much do you watch videos or play games?',
-    sub: 'Be honest — we won\'t tell 😉',
+    sub: 'Be honest, we won\'t tell 😉',
     opts: [
       { label: 'A little', val: '<1hr', emoji: '😇' },
       { label: 'Some days a lot', val: '1-2hr', emoji: '📱' },
@@ -326,7 +326,7 @@ const KID_QUESTIONS: Question[] = [
        kids before they answered anything (Nov 1, 2026 data). */
     id: 'child_name', emoji: '👋', type: 'text',
     q: 'What’s your name, hero?',
-    sub: 'Last one — so we can put it on your adventure. Or skip it',
+    sub: 'Last one, so we can put it on your adventure. Or skip it',
   },
 ]
 
@@ -718,7 +718,7 @@ export default function Quiz() {
           <h2>{path === 'kid'
             ? (buildName ? `Building ${buildName}’s adventure map` : 'Building your adventure map')
             : (buildName ? `Building ${buildName}’s plan` : 'Building your family’s plan')}</h2>
-          <p className="qz-build-sub">{path === 'kid' ? 'Hang tight, hero — almost ready...' : 'Hang tight — personalizing for your answers...'}</p>
+          <p className="qz-build-sub">{path === 'kid' ? 'Hang tight, hero, almost ready...' : 'Hang tight, personalizing for your answers...'}</p>
           <div className="qz-build-list">
             {steps.map((s, i) => (
               <div key={i} className={`qz-build-row ${i < buildIdx ? 'done' : i === buildIdx ? 'active' : ''}`}>
@@ -760,7 +760,7 @@ export default function Quiz() {
                 <span className="qz-reframe-num">{fivePct}</span>
                 <span>hours of Bible stories per year</span>
               </div>
-              <p className="qz-reframe-sub">Enough to walk through the entire Bible — twice.</p>
+              <p className="qz-reframe-sub">Enough to walk through the entire Bible, twice.</p>
             </div>
             <button className="qz-btn" onClick={dismissInter}>Continue</button>
           </div>
@@ -841,12 +841,12 @@ function VideoInterstitial({ pct, liveCount, onDismiss, path }: { pct: number; l
       <div className="qz-bar"><div className="qz-bar-fill" style={{ width: `${pct}%` }} /></div>
       <div className="qz-body">
         <div className="qz-card enter">
-          <p className="qz-eyebrow">{isKid ? 'Look — Jesus tells YOU the story! 🤩' : 'A peek at what your kids could be watching'}</p>
+          <p className="qz-eyebrow">{isKid ? 'Look, Jesus tells YOU the story! 🤩' : 'A peek at what your kids could be watching'}</p>
           <div className="qz-vid-wrap" style={{ position: 'relative', cursor: 'pointer' }} onClick={toggleMute}>
             <video
               ref={vidRef}
               src="https://d3g07v1w0lehiv.cloudfront.net/bible/birth-of-jesus-series/01-an-angel-visits-mary/lesson-video.mp4"
-              poster="https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp"
+              poster="https://d3g07v1w0lehiv.cloudfront.net/blog-images/an-angel-visits-mary-for-kids-hero.webp?v=3"
               autoPlay playsInline muted loop
             />
             <div style={{
@@ -859,9 +859,9 @@ function VideoInterstitial({ pct, liveCount, onDismiss, path }: { pct: number; l
               {muted ? '\u{1F507} Tap to listen' : '\u{1F50A} Playing'}
             </div>
           </div>
-          <p className="qz-vid-cap">{isKid ? 'Every story is a movie like this — with a quiz to beat after!' : 'Real lesson from Faithful Kids. Jesus narrates every story.'}</p>
+          <p className="qz-vid-cap">{isKid ? 'Every story is a movie like this, with a quiz to beat after!' : 'Real lesson from Faithful Kids. Jesus narrates every story.'}</p>
           <div className="qz-live-pill">{'\u{1F441}\uFE0F'} {liveCount} families watching right now</div>
-          <button className="qz-btn" onClick={onDismiss}>{isKid ? 'Cool! Keep going →' : 'Almost done — 2 left'}</button>
+          <button className="qz-btn" onClick={onDismiss}>{isKid ? 'Cool! Keep going →' : 'Almost done, 2 left'}</button>
         </div>
       </div>
     </div>
@@ -932,7 +932,7 @@ function EmailGate({ answers, onDone }: { answers: Record<string, string>; onDon
           <button className="qz-btn" disabled={busy} onClick={submit}>
             {busy ? 'Saving…' : 'Send it + show me the plan'}
           </button>
-          <button className="qz-skip" onClick={skip}>Skip — just show the plan</button>
+          <button className="qz-skip" onClick={skip}>Skip, just show the plan</button>
         </div>
       </div>
     </div>

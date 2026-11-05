@@ -23,7 +23,7 @@ The Unforgiving Servant is a Bible story from Matthew/Luke in the New Testament.
 
 ## What Is the Story of The Unforgiving Servant for Kids?
 
-THE TEACHINGS OF JESUS — Episode 10 "The Unforgiving Servant" Based on Matthew 18:21-35
+THE TEACHINGS OF JESUS: Episode 10 "The Unforgiving Servant" Based on Matthew 18:21-35
 
 So my friend Peter came to me one day with a question he thought was really generous. He said, "Lord, how many times should I forgive someone who wrongs me? Seven times?" Peter probably thought he was being super gracious. Most rabbis said three times was enough. Peter doubled it and added one!
 
@@ -43,7 +43,7 @@ The story of The Unforgiving Servant teaches children important lessons about lo
 
 ## Key Bible Verse
 
-> *"Forgive, and you will be forgiven."* — Luke 6:37
+> *"Forgive, and you will be forgiven."* (Luke 6:37)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,7 +55,7 @@ After watching the video, see if your child can answer these questions:
 
 ### When Peter asked how many times he should forgive, what did Jesus answer?
 
-Peter thought seven times was generous, but Jesus said seventy times seven — not as a literal number to count to, but to show that forgiveness should have no limit. Stop counting and just keep forgiving.
+Peter thought seven times was generous, but Jesus said seventy times seven, not as a literal number to count to, but to show that forgiveness should have no limit. Stop counting and just keep forgiving.
 
 ### After the king forgave the servant's massive debt, what did that servant do?
 
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Unforgiving Servant about for kids?
 
-The Unforgiving Servant is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 10 "The Unforgiving Servant" Based on Matthew 18:21-35
+The Unforgiving Servant is a story from Matthew/Luke. THE TEACHINGS OF JESUS, Episode 10 "The Unforgiving Servant" Based on Matthew 18:21-35
 
 ### What age is the story of The Unforgiving Servant appropriate for?
 

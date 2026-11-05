@@ -13,11 +13,11 @@ const GREEN_DARK = '#15803d'
    KD 0; "books of the bible bookmark" 390/mo KD 0 (DataForSEO Oct 29, 2026).
    SERP is Pinterest, Etsy and worksheet blogs. Exact phrase leads the title. */
 export const metadata = {
-  title: { absolute: 'Books of the Bible — Free Printable Chart & Bookmarks' },
-  description: `All ${ALL_BOOKS.length} books of the Bible on one free printable chart — in order, in their groups, with chapter counts — plus cut-out bookmarks. No sign-up.`,
+  title: { absolute: 'Books of the Bible: Free Printable Chart & Bookmarks' },
+  description: `All ${ALL_BOOKS.length} books of the Bible on one free printable chart, in order, in their groups, with chapter counts, plus cut-out bookmarks. No sign-up.`,
   alternates: { canonical: 'https://faithfulkids.app/printables/books-of-the-bible' },
   openGraph: {
-    title: 'Books of the Bible — Free Printable Chart & Bookmarks',
+    title: 'Books of the Bible: Free Printable Chart & Bookmarks',
     description: `All ${ALL_BOOKS.length} books in order with chapter counts, plus printable bookmarks. Free, no sign-up.`,
     url: 'https://faithfulkids.app/printables/books-of-the-bible',
     siteName: 'Faithful Kids',
@@ -29,15 +29,15 @@ export const metadata = {
 const faqs = [
   {
     q: 'How many books are in the Bible?',
-    a: `Protestant Bibles have ${ALL_BOOKS.length} books: ${OT_BOOKS.length} in the Old Testament and ${NT_BOOKS.length} in the New Testament. Catholic Bibles include seven more Old Testament books (the deuterocanonical books, such as Tobit and 1–2 Maccabees), and Orthodox Bibles a few beyond that — so if your child's count differs from a friend's, both may be right for their tradition. This chart shows the ${ALL_BOOKS.length} books all those traditions share.`,
+    a: `Protestant Bibles have ${ALL_BOOKS.length} books: ${OT_BOOKS.length} in the Old Testament and ${NT_BOOKS.length} in the New Testament. Catholic Bibles include seven more Old Testament books (the deuterocanonical books, such as Tobit and 1–2 Maccabees), and Orthodox Bibles a few beyond that, so if your child's count differs from a friend's, both may be right for their tradition. This chart shows the ${ALL_BOOKS.length} books all those traditions share.`,
   },
   {
     q: 'What order are the books of the Bible in?',
-    a: 'The Old Testament runs from Genesis to Malachi, grouped as Law, History, Poetry and Wisdom, and the Prophets. The New Testament runs from Matthew to Revelation: the four Gospels, Acts, the letters, and Revelation. The order is by type of book, not by when events happened — which is why a chart grouped by section is easier to memorize than a bare list.',
+    a: 'The Old Testament runs from Genesis to Malachi, grouped as Law, History, Poetry and Wisdom, and the Prophets. The New Testament runs from Matthew to Revelation: the four Gospels, Acts, the letters, and Revelation. The order is by type of book, not by when events happened, which is why a chart grouped by section is easier to memorize than a bare list.',
   },
   {
     q: 'How many chapters are in the Bible?',
-    a: `${(OT_CHAPTERS + NT_CHAPTERS).toLocaleString()} chapters in all — ${OT_CHAPTERS} in the Old Testament and ${NT_CHAPTERS} in the New. The longest book is Psalms with 150 chapters; several letters, like Philemon, Jude, and 2 and 3 John, are a single chapter each.`,
+    a: `${(OT_CHAPTERS + NT_CHAPTERS).toLocaleString()} chapters in all, ${OT_CHAPTERS} in the Old Testament and ${NT_CHAPTERS} in the New. The longest book is Psalms with 150 chapters; several letters, like Philemon, Jude, and 2 and 3 John, are a single chapter each.`,
   },
   {
     q: 'Can I print copies for my class or church?',
@@ -45,7 +45,7 @@ const faqs = [
   },
   {
     q: 'What is the best way for kids to memorize the books of the Bible?',
-    a: 'In groups, not as one 66-item list. Learn the five books of the Law first, then the Gospels — the groups on this chart are the natural chunks. A bookmark in their Bible keeps the order in front of them every time they look something up, and the books-of-the-Bible song from Sunday school works because melody carries lists further than repetition alone.',
+    a: 'In groups, not as one 66-item list. Learn the five books of the Law first, then the Gospels, the groups on this chart are the natural chunks. A bookmark in their Bible keeps the order in front of them every time they look something up, and the books-of-the-Bible song from Sunday school works because melody carries lists further than repetition alone.',
   },
 ]
 
@@ -117,11 +117,11 @@ export default function BooksOfTheBiblePage() {
             <span style={{ fontSize: '1.05rem', fontWeight: 700, color: GREEN }}>Faithful Kids</span>
           </div>
           <h1 style={{ fontSize: '1.9rem', fontWeight: 800, margin: 0, letterSpacing: '-0.02em' }}>
-            Books of the Bible — Printable Chart &amp; Bookmarks
+            Books of the Bible, Printable Chart &amp; Bookmarks
           </h1>
           <p style={{ margin: '0.5rem 0 0', color: '#4b5563', fontSize: '1.02rem', lineHeight: 1.6 }}>
-            All <strong>{ALL_BOOKS.length} books of the Bible in order</strong> — {OT_BOOKS.length} Old
-            Testament, {NT_BOOKS.length} New Testament — grouped the way the Bible groups them, with
+            All <strong>{ALL_BOOKS.length} books of the Bible in order</strong>: {OT_BOOKS.length} Old
+            Testament, {NT_BOOKS.length} New Testament, grouped the way the Bible groups them, with
             chapter counts for every book. Print the chart for the wall and the bookmarks for their
             Bibles. Free, no sign-up.
           </p>
@@ -140,14 +140,14 @@ export default function BooksOfTheBiblePage() {
 
         <section style={{ marginBottom: '2rem' }}>
           <h2 style={{ fontSize: '1.4rem', fontWeight: 800, letterSpacing: '-0.01em' }}>
-            The Old Testament <span style={{ fontWeight: 600, color: '#6b7280', fontSize: '1rem' }}>— {OT_BOOKS.length} books · {OT_CHAPTERS} chapters</span>
+            The Old Testament<span style={{ fontWeight: 600, color: '#6b7280', fontSize: '1rem' }}>: {OT_BOOKS.length} books · {OT_CHAPTERS} chapters</span>
           </h2>
           {OT_GROUPS.map(g => <GroupBlock key={g.name} {...g} />)}
         </section>
 
         <section style={{ marginBottom: '2rem' }}>
           <h2 style={{ fontSize: '1.4rem', fontWeight: 800, letterSpacing: '-0.01em' }}>
-            The New Testament <span style={{ fontWeight: 600, color: '#6b7280', fontSize: '1rem' }}>— {NT_BOOKS.length} books · {NT_CHAPTERS} chapters</span>
+            The New Testament<span style={{ fontWeight: 600, color: '#6b7280', fontSize: '1rem' }}>: {NT_BOOKS.length} books · {NT_CHAPTERS} chapters</span>
           </h2>
           {NT_GROUPS.map(g => <GroupBlock key={g.name} {...g} />)}
         </section>
@@ -156,7 +156,7 @@ export default function BooksOfTheBiblePage() {
           <h2 style={{ fontSize: '1.4rem', fontWeight: 800, letterSpacing: '-0.01em' }}>Cut-Out Bookmarks</h2>
           <p style={{ color: '#4b5563', lineHeight: 1.6 }}>
             Print this page, cut along the dashed lines, and the whole order of Scripture lives in
-            their Bible — in front of them every time they look a verse up.
+            their Bible, in front of them every time they look a verse up.
           </p>
           <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap' }}>
             <Bookmark title="Old Testament" groups={OT_GROUPS} />
@@ -167,7 +167,7 @@ export default function BooksOfTheBiblePage() {
         <section style={{ marginBottom: '2rem' }}>
           <h2 style={{ fontSize: '1.4rem', fontWeight: 800, letterSpacing: '-0.01em' }}>How to actually memorize them</h2>
           <p style={{ color: '#4b5563', lineHeight: 1.65 }}>
-            Nobody memorizes a {ALL_BOOKS.length}-item list — they memorize the groups. Start with
+            Nobody memorizes a {ALL_BOOKS.length}-item list, they memorize the groups. Start with
             the five books of the Law, then the four Gospels: nine books in, the two Testaments
             already have shape. Add one group a week and let the chart do the reviewing. For
             practice that doesn&apos;t feel like review, our free{' '}
@@ -191,7 +191,7 @@ export default function BooksOfTheBiblePage() {
             Know the order? Now test the stories
           </h2>
           <p style={{ color: '#4b5563', lineHeight: 1.6 }}>
-            Every book on the chart has its own free trivia page — tap any book:
+            Every book on the chart has its own free trivia page, tap any book:
           </p>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
             {ALL_BOOKS.map(book => (
@@ -206,7 +206,7 @@ export default function BooksOfTheBiblePage() {
           {...clip}
           duration={clip.duration ?? undefined}
           heading="The order is the map. The stories are the point."
-          body={`Knowing where Exodus sits is the start — knowing what happened there is the goal. ${clip.videoTitle} tells its story in about two minutes and ends with a quiz, one of 300+ episodes from Genesis to Revelation.`}
+          body={`Knowing where Exodus sits is the start, knowing what happened there is the goal. ${clip.videoTitle} tells its story in about two minutes and ends with a quiz, one of 300+ episodes from Genesis to Revelation.`}
           source="books-of-the-bible"
         />
 
@@ -216,7 +216,7 @@ export default function BooksOfTheBiblePage() {
             <a href="/printables/bible-trivia-pack" style={{ color: GREEN, fontWeight: 700 }}>100-question trivia pack</a>,{' '}
             <a href="/printables/bible-word-search" style={{ color: GREEN, fontWeight: 700 }}>12 Bible word searches</a>,{' '}
             <a href="/printables/bible-crossword" style={{ color: GREEN, fontWeight: 700 }}>7 crosswords</a>, and{' '}
-            <a href="/printables/bible-coloring-pages" style={{ color: GREEN, fontWeight: 700 }}>26 coloring pages</a> — all free,{' '}
+            <a href="/printables/bible-coloring-pages" style={{ color: GREEN, fontWeight: 700 }}>26 coloring pages</a> all free,{' '}
             <a href="/printables" style={{ color: GREEN, fontWeight: 700 }}>the whole library here</a>.
           </p>
           <p style={{ color: '#4b5563', lineHeight: 1.65 }}>

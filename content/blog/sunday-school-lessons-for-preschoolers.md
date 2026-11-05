@@ -2,7 +2,7 @@
 title: "20 Sunday School Lessons for Preschoolers (Ages 3-5)"
 slug: "sunday-school-lessons-for-preschoolers"
 type: "listicle"
-metaDescription: "20 free Sunday school lessons for preschoolers ages 3-5 -- each with a story summary, one activity, one takeaway line, and a short memory verse."
+metaDescription: "20 free Sunday school lessons for preschoolers ages 3-5; each with a story summary, one activity, one takeaway line, and a short memory verse."
 keywords: ["sunday school lessons for preschoolers", "free preschool sunday school lessons", "preschool sunday school lessons", "bible lessons for preschoolers", "preschool bible lessons", "sunday school for 3 year olds", "toddler sunday school lessons"]
 datePublished: "2026-08-16"
 dateModified: "2026-08-19"
@@ -10,13 +10,13 @@ dateModified: "2026-08-19"
 
 The best Sunday school lessons for preschoolers follow one simple formula: a short story (3-5 minutes), one hands-on activity, one takeaway sentence repeated several times, and a memory verse of seven words or fewer. Below are 20 complete lessons built exactly that way, ready to teach ages 3-5 with almost no prep.
 
-If you've taught this age group, you know the truth: preschoolers don't need more content -- they need less content, delivered better. A 3-year-old will not remember your three-point outline. They will remember "God made everything!" if you say it eight times, let them shout it back, and attach it to something they did with their hands.
+If you've taught this age group, you know the truth: preschoolers don't need more content; they need less content, delivered better. A 3-year-old will not remember your three-point outline. They will remember "God made everything!" if you say it eight times, let them shout it back, and attach it to something they did with their hands.
 
 Each lesson below runs about 20-25 minutes. Stretch or shrink as your morning requires. These are free preschool Sunday school lessons in the plainest sense: nothing here is behind a signup, nothing needs a purchased curriculum, and every supply is something your church closet already has. Teach one a week and you have five months of Sundays covered. For story-time help beyond Sunday morning, our list of [Bible stories for preschoolers](/blog/bible-stories-for-preschoolers) pairs well with these.
 
 ## What Makes a Good Preschool Sunday School Lesson?
 
-A good preschool lesson teaches one truth, uses the body as much as the ears, and repeats the takeaway line at least five times. Preschoolers learn through movement, repetition, and touch -- not lecture. If you finish the morning and every child can say the takeaway line back to you, the lesson worked, even if they can't retell the story.
+A good preschool lesson teaches one truth, uses the body as much as the ears, and repeats the takeaway line at least five times. Preschoolers learn through movement, repetition, and touch; not lecture. If you finish the morning and every child can say the takeaway line back to you, the lesson worked, even if they can't retell the story.
 
 Keep these rules taped inside your supply cabinet:
 
@@ -27,13 +27,13 @@ Keep these rules taped inside your supply cabinet:
 
 ## Lesson 1: God Made Everything (Creation)
 
-**Story summary:** In the beginning there was nothing -- then God spoke, and everything appeared. Light and dark. Sky and sea. Flowers, fish, elephants, and stars. Last of all, God made people, and He said it was very good. (Genesis 1)
+**Story summary:** In the beginning there was nothing; then God spoke, and everything appeared. Light and dark. Sky and sea. Flowers, fish, elephants, and stars. Last of all, God made people, and He said it was very good. (Genesis 1)
 
 **Activity:** Creation sort. Spread out picture cards or toy animals, plants, and stars. Kids take turns picking one up and placing it in a "God made it" basket while everyone says, "God made the ___!"
 
-**Takeaway line:** "God made everything -- and God made me!"
+**Takeaway line:** "God made everything, and God made me!"
 
-**Verse:** "In the beginning God created the heavens and the earth." -- Genesis 1:1 (shorten to "God created everything")
+**Verse:** "In the beginning God created the heavens and the earth." Genesis 1:1 (shorten to "God created everything")
 
 ## Lesson 2: Noah Trusted God
 
@@ -43,35 +43,35 @@ Keep these rules taped inside your supply cabinet:
 
 **Takeaway line:** "God keeps His promises."
 
-**Verse:** "I have set my rainbow in the clouds." -- Genesis 9:13
+**Verse:** "I have set my rainbow in the clouds." Genesis 9:13
 
 A related freebie: our [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden), drawn as clean line art for crayons and markers.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
-To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart, honest about dates, from Creation to the early church.
 
-If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road — planning, child safety, volunteers, curriculum and launch — with a free printable launch kit.
+If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
 ## Lesson 3: God Took Care of Baby Moses
 
-**Story summary:** Baby Moses's mother hid him in a basket and floated it on the river to keep him safe. A princess found the basket and took care of him. God watched over Moses the whole time -- and God watches over us too. (Exodus 2:1-10)
+**Story summary:** Baby Moses's mother hid him in a basket and floated it on the river to keep him safe. A princess found the basket and took care of him. God watched over Moses the whole time, and God watches over us too. (Exodus 2:1-10)
 
 **Activity:** Basket rescue. Put a baby doll in a basket and let kids take turns "finding" it in a blue-blanket river, then rocking the baby gently. Preschoolers will happily repeat this six times.
 
 **Takeaway line:** "God watches over me."
 
-**Verse:** "The Lord watches over you." -- Psalm 121:5
+**Verse:** "The Lord watches over you." Psalm 121:5
 
 ## Lesson 4: David Was Brave Because of God
 
-**Story summary:** Everyone was afraid of the giant Goliath -- everyone except a shepherd boy named David. David wasn't big, but he knew God was with him. With one small stone and a sling, David won, because God made him brave. (1 Samuel 17)
+**Story summary:** Everyone was afraid of the giant Goliath, everyone except a shepherd boy named David. David wasn't big, but he knew God was with him. With one small stone and a sling, David won, because God made him brave. (1 Samuel 17)
 
 **Activity:** Knock down the giant. Stack paper cups into a tower (the "giant") and let kids take turns tossing a rolled-up sock or pom-pom to knock it over. Everyone cheers, "God makes me brave!" as it falls.
 
 **Takeaway line:** "I can be brave because God is with me."
 
-**Verse:** "Do not be afraid... for the Lord your God will be with you." -- Joshua 1:9 (shorten to "God is with me")
+**Verse:** "Do not be afraid... for the Lord your God will be with you." Joshua 1:9 (shorten to "God is with me")
 
 ## Lesson 5: Daniel Prayed Every Day
 
@@ -81,7 +81,7 @@ If you're building the ministry itself, not just this week's lesson, our complet
 
 **Takeaway line:** "I can pray anytime, anywhere."
 
-**Verse:** "The Lord hears when I call to him." -- Psalm 4:3 (shorten to "God hears me when I pray")
+**Verse:** "The Lord hears when I call to him." Psalm 4:3 (shorten to "God hears me when I pray")
 
 ## Lesson 6: Jesus Is Born
 
@@ -91,47 +91,47 @@ If you're building the ministry itself, not just this week's lesson, our complet
 
 **Takeaway line:** "Jesus is God's best gift."
 
-**Verse:** "Today... a Savior has been born to you." -- Luke 2:11
+**Verse:** "Today... a Savior has been born to you." Luke 2:11
 
 ## Lesson 7: Jesus Stops the Storm
 
-**Story summary:** Jesus and His friends were in a boat when a big storm blew in. The friends were scared -- but Jesus stood up and said, "Quiet! Be still!" The wind stopped. The waves stopped. Jesus is stronger than any storm. (Mark 4:35-41)
+**Story summary:** Jesus and His friends were in a boat when a big storm blew in. The friends were scared, but Jesus stood up and said, "Quiet! Be still!" The wind stopped. The waves stopped. Jesus is stronger than any storm. (Mark 4:35-41)
 
-**Activity:** Blanket boat. Kids sit inside a blanket "boat," you shake the edges like waves and make wind sounds, then one child stands and says, "Be still!" -- and everyone freezes. Rotate so each child gets a turn being the one who calms the storm.
+**Activity:** Blanket boat. Kids sit inside a blanket "boat," you shake the edges like waves and make wind sounds, then one child stands and says, "Be still!" and everyone freezes. Rotate so each child gets a turn being the one who calms the storm.
 
 **Takeaway line:** "Jesus is stronger than anything."
 
-**Verse:** "Even the wind and the waves obey him!" -- Mark 4:41
+**Verse:** "Even the wind and the waves obey him!" Mark 4:41
 
 ## Lesson 8: The Little Lunch That Fed Everyone
 
-**Story summary:** A huge crowd was hungry, and one boy shared his small lunch -- five loaves of bread and two fish. Jesus said thank you to God, and the little lunch became enough for more than 5,000 people, with 12 baskets left over. (John 6:1-14)
+**Story summary:** A huge crowd was hungry, and one boy shared his small lunch: five loaves of bread and two fish. Jesus said thank you to God, and the little lunch became enough for more than 5,000 people, with 12 baskets left over. (John 6:1-14)
 
 **Activity:** Sharing snack. Hand one child a bowl of crackers and let them serve every other child, saying "Jesus shares with you." Then count the "leftovers" together. Snack time becomes the lesson.
 
 **Takeaway line:** "Jesus can do big things with my little bit."
 
-**Verse:** "Jesus took the loaves, gave thanks, and distributed." -- John 6:11 (shorten to "Jesus said thank you and shared")
+**Verse:** "Jesus took the loaves, gave thanks, and distributed." John 6:11 (shorten to "Jesus said thank you and shared")
 
 ## Lesson 9: The Lost Sheep
 
-**Story summary:** A shepherd had 100 sheep, and one wandered off. Did the shepherd shrug? No -- he searched everywhere until he found it, then carried it home on his shoulders and threw a party. Jesus said God loves each of us like that. (Luke 15:3-7)
+**Story summary:** A shepherd had 100 sheep, and one wandered off. Did the shepherd shrug? No, he searched everywhere until he found it, then carried it home on his shoulders and threw a party. Jesus said God loves each of us like that. (Luke 15:3-7)
 
-**Activity:** Find the sheep. Hide cotton-ball sheep around the room before class. Kids hunt until every single one is found -- because the shepherd never gives up. Cheer for each sheep as it comes back. (For more hide-and-find ideas, see our [Bible scavenger hunt ideas](/blog/bible-scavenger-hunt-ideas).)
+**Activity:** Find the sheep. Hide cotton-ball sheep around the room before class. Kids hunt until every single one is found, because the shepherd never gives up. Cheer for each sheep as it comes back. (For more hide-and-find ideas, see our [Bible scavenger hunt ideas](/blog/bible-scavenger-hunt-ideas).)
 
 **Takeaway line:** "God loves me and always comes looking for me."
 
-**Verse:** "He calls his own sheep by name." -- John 10:3
+**Verse:** "He calls his own sheep by name." John 10:3
 
 ## Lesson 10: Jesus Loves the Children
 
-**Story summary:** Parents brought their children to Jesus, but the disciples tried to shoo them away. Jesus said, "Let the little children come to me" -- then He welcomed them, held them, and blessed them. Kids were never a bother to Jesus. They were the point. (Mark 10:13-16)
+**Story summary:** Parents brought their children to Jesus, but the disciples tried to shoo them away. Jesus said, "Let the little children come to me", then He welcomed them, held them, and blessed them. Kids were never a bother to Jesus. They were the point. (Mark 10:13-16)
 
 **Activity:** Welcome circle. Kids sit in a circle; one at a time, each child's name is called and everyone opens their arms and says, "Jesus loves you, [name]!" Simple, and they'll ask to do it again next week.
 
 **Takeaway line:** "Jesus loves ME."
 
-**Verse:** "Let the little children come to me." -- Mark 10:14
+**Verse:** "Let the little children come to me." Mark 10:14
 
 ## Lesson 11: Abraham Said Yes to God
 
@@ -141,7 +141,7 @@ If you're building the ministry itself, not just this week's lesson, our complet
 
 **Takeaway line:** "I can go where God says."
 
-**Verse:** "Abram went, as the Lord had told him." -- Genesis 12:4 (shorten to "I will go where God says")
+**Verse:** "Abram went, as the Lord had told him." Genesis 12:4 (shorten to "I will go where God says")
 
 ## Lesson 12: God Had a Plan for Joseph
 
@@ -151,27 +151,27 @@ If you're building the ministry itself, not just this week's lesson, our complet
 
 **Takeaway line:** "God is with me on happy days and sad days."
 
-**Verse:** "God intended it for good." -- Genesis 50:20
+**Verse:** "God intended it for good." Genesis 50:20
 
 ## Lesson 13: God Made a Dry Path Through the Sea
 
-**Story summary:** God's people were trapped -- water in front of them, chariots behind them. Moses held out his staff, and God pushed the water back to make a dry road right through the middle of the sea. Every single person walked across safely. (Exodus 14)
+**Story summary:** God's people were trapped: water in front of them, chariots behind them. Moses held out his staff, and God pushed the water back to make a dry road right through the middle of the sea. Every single person walked across safely. (Exodus 14)
 
 **Activity:** Blue sheet sea. Two adults or big kids hold up a blue sheet, then lift it high while children walk through the "dry path" one at a time. Wiggle it like waves, then hold it apart and shout, "God made a way!"
 
 **Takeaway line:** "God makes a way for me."
 
-**Verse:** "The Lord will fight for you." -- Exodus 14:14
+**Verse:** "The Lord will fight for you." Exodus 14:14
 
 ## Lesson 14: The Walls of Jericho Fell Down
 
-**Story summary:** God told Joshua to march his people around a big walled city once a day for six days, and seven times on the seventh day. Then everyone shouted -- and the enormous walls came crashing down. God's instructions did not sound like a plan. They worked anyway. (Joshua 6)
+**Story summary:** God told Joshua to march his people around a big walled city once a day for six days, and seven times on the seventh day. Then everyone shouted, and the enormous walls came crashing down. God's instructions did not sound like a plan. They worked anyway. (Joshua 6)
 
 **Activity:** Block wall march. Build a tall wall out of blocks or cardboard boxes. Kids march around it silently six times, then on the seventh lap everyone shouts as loud as they can and the wall gets knocked down. Rebuild and repeat, because they will ask.
 
 **Takeaway line:** "I can obey God even when it seems silly."
 
-**Verse:** "Be strong and courageous." -- Joshua 1:9
+**Verse:** "Be strong and courageous.". Joshua 1:9
 
 ## Lesson 15: Samuel Heard God Say His Name
 
@@ -181,47 +181,47 @@ If you're building the ministry itself, not just this week's lesson, our complet
 
 **Takeaway line:** "God knows my name, and I can listen."
 
-**Verse:** "Speak, Lord, for your servant is listening." -- 1 Samuel 3:9
+**Verse:** "Speak, Lord, for your servant is listening.". 1 Samuel 3:9
 
 ## Lesson 16: Solomon Asked for a Wise Heart
 
-**Story summary:** God told young King Solomon he could ask for anything at all. He could have asked for money, or a bigger castle, or to live forever. Instead Solomon asked God to make him wise so he could take good care of people -- and God was so pleased that He gave him wisdom and much more besides. (1 Kings 3:5-13)
+**Story summary:** God told young King Solomon he could ask for anything at all. He could have asked for money, or a bigger castle, or to live forever. Instead Solomon asked God to make him wise so he could take good care of people, and God was so pleased that He gave him wisdom and much more besides. (1 Kings 3:5-13)
 
 **Activity:** The wish crown. Kids decorate a paper crown, then go around the circle finishing the sentence "If I could ask God for one thing, I would ask for ___." Say every answer back warmly, then teach the good one: "God, help me be wise."
 
 **Takeaway line:** "I can ask God to help me choose the good thing."
 
-**Verse:** "Give your servant a discerning heart." -- 1 Kings 3:9 (shorten to "God, make my heart wise")
+**Verse:** "Give your servant a discerning heart.". 1 Kings 3:9 (shorten to "God, make my heart wise")
 
 ## Lesson 17: Jonah and the Big Fish
 
-**Story summary:** God told Jonah to go to a city called Nineveh, but Jonah got on a boat going the opposite way. A storm blew up, Jonah ended up in the sea, and a giant fish swallowed him. Jonah prayed for three days -- and God gave him another chance. (Jonah 1-3)
+**Story summary:** God told Jonah to go to a city called Nineveh, but Jonah got on a boat going the opposite way. A storm blew up, Jonah ended up in the sea, and a giant fish swallowed him. Jonah prayed for three days, and God gave him another chance. (Jonah 1-3)
 
 **Activity:** Fish tunnel. Drape a blanket over two chairs to make a fish's belly. Kids crawl in, count to three, and crawl out the other side while everyone cheers, "God gave Jonah another chance!" A paper-plate fish with a moving mouth works too.
 
 **Takeaway line:** "God gives me another chance."
 
-**Verse:** "Salvation comes from the Lord." -- Jonah 2:9 (shorten to "God saves me")
+**Verse:** "Salvation comes from the Lord.". Jonah 2:9 (shorten to "God saves me")
 
 ## Lesson 18: Jesus Called Zacchaeus by Name
 
-**Story summary:** Zacchaeus was too short to see over the crowd, so he climbed a tree. Jesus stopped right underneath, looked up, and called him by his name -- and invited Himself over for dinner. Nobody else wanted to be Zacchaeus's friend. Jesus did. (Luke 19:1-10)
+**Story summary:** Zacchaeus was too short to see over the crowd, so he climbed a tree. Jesus stopped right underneath, looked up, and called him by his name, and invited Himself over for dinner. Nobody else wanted to be Zacchaeus's friend. Jesus did. (Luke 19:1-10)
 
 **Activity:** Climb and see. Set up a sturdy step stool with an adult spotting. Each child climbs up, looks around, and everyone calls out, "[Name], come down! Jesus wants to be your friend!" Then a pretend dinner party with plastic food.
 
 **Takeaway line:** "Jesus knows my name and wants to be my friend."
 
-**Verse:** "The Son of Man came to seek and to save the lost." -- Luke 19:10 (shorten to "Jesus came to find us")
+**Verse:** "The Son of Man came to seek and to save the lost.". Luke 19:10 (shorten to "Jesus came to find us")
 
 ## Lesson 19: Jesus Is Alive!
 
-**Story summary:** Jesus died on the cross because He loves us. His friends were very sad and laid Him in a cave with a big stone across the door. But on Sunday morning the stone was rolled away and the cave was empty -- Jesus was alive! (Luke 24:1-8)
+**Story summary:** Jesus died on the cross because He loves us. His friends were very sad and laid Him in a cave with a big stone across the door. But on Sunday morning the stone was rolled away and the cave was empty, Jesus was alive! (Luke 24:1-8)
 
 **Activity:** Roll the stone. Make a cave from a paper plate folded in half with a circle "stone" to slide aside. Kids open and shut it while everyone says the line. Keep this lesson light and joyful; the good news is the whole point at this age.
 
 **Takeaway line:** "Jesus is alive!"
 
-**Verse:** "He is not here; he has risen!" -- Luke 24:6
+**Verse:** "He is not here; he has risen!". Luke 24:6
 
 ## Lesson 20: The Helper Who Stopped
 
@@ -231,25 +231,25 @@ If you're building the ministry itself, not just this week's lesson, our complet
 
 **Takeaway line:** "I can be the one who stops and helps."
 
-**Verse:** "Go and do likewise." -- Luke 10:37 (shorten to "I can help too")
+**Verse:** "Go and do likewise.". Luke 10:37 (shorten to "I can help too")
 
 ## Can Preschoolers Really Handle a Solomon Lesson?
 
-Yes -- as long as you teach the wish, not the throne. Solomon shows up in preschool searches more than teachers expect, and Lesson 16 above works because the hook is something every 4-year-old already understands: someone offers you anything you want, and you have to pick. The politics, the temple building, and Solomon's later mistakes belong to older classes. What preschoolers can carry home is the choice itself -- Solomon asked for a wise heart instead of treasure, and God was glad. If you want the fuller version to read aloud or send home, our story post [Solomon asks for wisdom](/blog/solomon-asks-for-wisdom-for-kids) tells it at an elementary reading level, and his famous wise ruling in [Solomon's wise judgment](/blog/solomons-wise-judgment-for-kids) makes a good follow-up week for a 5-year-old class.
+Yes, as long as you teach the wish, not the throne. Solomon shows up in preschool searches more than teachers expect, and Lesson 16 above works because the hook is something every 4-year-old already understands: someone offers you anything you want, and you have to pick. The politics, the temple building, and Solomon's later mistakes belong to older classes. What preschoolers can carry home is the choice itself, Solomon asked for a wise heart instead of treasure, and God was glad. If you want the fuller version to read aloud or send home, our story post [Solomon asks for wisdom](/blog/solomon-asks-for-wisdom-for-kids) tells it at an elementary reading level, and his famous wise ruling in [Solomon's wise judgment](/blog/solomons-wise-judgment-for-kids) makes a good follow-up week for a 5-year-old class.
 
 ## How Do You Keep 3-Year-Olds Engaged for a Whole Lesson?
 
 You keep preschoolers engaged by changing the activity every 5-7 minutes and letting their bodies participate in the story. A workable rhythm: welcome song (3 min), story with motions (5 min), activity (8 min), snack with takeaway-line review (5 min), free play or coloring (5 min). Our roundup of [Sunday school games for kids](/blog/sunday-school-games-for-kids) has quick movement games that fit the transitions, and [Bible crafts with lessons built in](/blog/bible-crafts-for-kids-with-lessons) work well when you have an extra 10 minutes to fill.
 
-One more tool worth knowing about: many teachers use the short animated video lessons at [Faithful Kids](https://faithfulkids.app/quiz) as a story-time supplement -- each video pairs a Bible story with a simple quiz, which makes it an easy "second telling" of the same story you just taught, and a way for families to continue the lesson at home during the week.
+One more tool worth knowing about: many teachers use the short animated video lessons at [Faithful Kids](https://faithfulkids.app/quiz) as a story-time supplement, each video pairs a Bible story with a simple quiz, which makes it an easy "second telling" of the same story you just taught, and a way for families to continue the lesson at home during the week.
 
 ## What Should You Do When a Lesson Falls Apart?
 
-When a preschool lesson falls apart, drop the plan and return to the takeaway line with a movement activity. Meltdowns, wiggles, and a fire truck driving past the window are not failures -- they're Tuesday. Stand up, do the motions, sing the song again, and repeat the one sentence you want them to leave with. If they walk out to their parents saying "God made everything!", the morning was a win, whatever it looked like from inside the room.
+When a preschool lesson falls apart, drop the plan and return to the takeaway line with a movement activity. Meltdowns, wiggles, and a fire truck driving past the window are not failures, they're Tuesday. Stand up, do the motions, sing the song again, and repeat the one sentence you want them to leave with. If they walk out to their parents saying "God made everything!", the morning was a win, whatever it looked like from inside the room.
 
 If you're building out a full quarter of teaching, our broader guide to [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school) covers structure for every age group. For the two Sundays that matter most on the church calendar, swap in a seasonal plan: our [Christmas Sunday school lessons](/blog/christmas-sunday-school-lessons) and [Easter Sunday school lessons](/blog/easter-sunday-school-lessons) both include preschool adaptations, so you can run them in the same 20-minute rhythm you use here.
 
-We built a [playable Bible trivia game](/bible-trivia) for exactly this -- three levels, a verse with every answer, no ads.
+We built a [playable Bible trivia game](/bible-trivia) for exactly this: three levels, a verse with every answer, no ads.
 
 Our [free Bible word search](/printables/bible-word-search) works the same way: play it on screen, or print it for the table.
 
@@ -267,11 +267,11 @@ Stories with clear action, animals, and one obvious truth work best: Creation, N
 
 ### Do preschoolers really need a memory verse?
 
-Yes -- but keep it under seven words and treat it as a chant, not a recitation. Preschoolers memorize through rhythm and repetition, so say the verse with claps, whispers, or big and small voices. A 4-year-old who can shout "God is with me!" has genuinely hidden Scripture in their heart, even if they can't cite the reference.
+Yes, but keep it under seven words and treat it as a chant, not a recitation. Preschoolers memorize through rhythm and repetition, so say the verse with claps, whispers, or big and small voices. A 4-year-old who can shout "God is with me!" has genuinely hidden Scripture in their heart, even if they can't cite the reference.
 
 ### How much prep time do these lessons take?
 
-Each lesson here takes 10-15 minutes of prep -- gathering household supplies like paper plates, cotton balls, cups, blocks, and a blanket. The stories can be told from a children's Bible or from the summaries above. If your church has a supply closet with construction paper, glue sticks, and crayons, you're equipped for all 20 lessons.
+Each lesson here takes 10-15 minutes of prep, gathering household supplies like paper plates, cotton balls, cups, blocks, and a blanket. The stories can be told from a children's Bible or from the summaries above. If your church has a supply closet with construction paper, glue sticks, and crayons, you're equipped for all 20 lessons.
 
 ### What do I do with mixed ages, like 2-year-olds alongside 5-year-olds?
 
@@ -279,4 +279,4 @@ Teach to the middle and give the oldest kids helper jobs. A 5-year-old can hold 
 
 ### Should I repeat lessons, or always teach something new?
 
-Repeat freely -- preschoolers love repetition and learn through it. Twenty lessons is roughly five months of Sundays, so many teachers run the whole list once and then cycle back through it, changing only the activity the second time around. If a child says "We already did Noah!", smile and say "Good memory! Let's see what else we can find in the story" -- that's retention, and it's exactly what you're after.
+Repeat freely, preschoolers love repetition and learn through it. Twenty lessons is roughly five months of Sundays, so many teachers run the whole list once and then cycle back through it, changing only the activity the second time around. If a child says "We already did Noah!", smile and say "Good memory! Let's see what else we can find in the story", that's retention, and it's exactly what you're after.

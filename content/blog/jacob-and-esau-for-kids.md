@@ -23,13 +23,13 @@ Jacob and Esau is a Bible story from Genesis 25-33 in the Old Testament. This re
 
 ## What Is the Story of Jacob and Esau for Kids?
 
-Hey, welcome back! Today's story has it all — twin brothers, stolen blessings, a bowl of soup that changes history, and one of the greatest wrestling matches ever. Let's get into it.
+Hey, welcome back! Today's story has it all, twin brothers, stolen blessings, a bowl of soup that changes history, and one of the greatest wrestling matches ever. Let's get into it.
 
-Isaac grew up, married a woman named Rebekah, and they had twin boys. But even before they were born, these two were fighting inside the womb. Rebekah could feel them wrestling in there! The first one came out red and covered in hair — they named him Esau. The second came out gripping Esau's heel — they named him Jacob, which literally means "heel grabber" or... "deceiver." Yep. That was his actual name.
+Isaac grew up, married a woman named Rebekah, and they had twin boys. But even before they were born, these two were fighting inside the womb. Rebekah could feel them wrestling in there! The first one came out red and covered in hair, they named him Esau. The second came out gripping Esau's heel, they named him Jacob, which literally means "heel grabber" or... "deceiver." Yep. That was his actual name.
 
-As they grew up, Esau became this rugged outdoorsman — a skilled hunter, tough, impulsive. He was Isaac's favorite. Jacob was quieter, clever, and stayed close to home. He was Rebekah's favorite. And right there — the favoritism — that's where the trouble starts.
+As they grew up, Esau became this rugged outdoorsman, a skilled hunter, tough, impulsive. He was Isaac's favorite. Jacob was quieter, clever, and stayed close to home. He was Rebekah's favorite. And right there, the favoritism, that's where the trouble starts.
 
-One day, Esau came home from hunting, absolutely starving. Jacob was cooking a pot of red stew. Esau said, "Give me some of that — I'm dying!" And Jacob saw his chance. He said, "Sure. But first... sell me your birthright."
+One day, Esau came home from hunting, absolutely starving. Jacob was cooking a pot of red stew. Esau said, "Give me some of that, I'm dying!" And Jacob saw his chance. He said, "Sure. But first... sell me your birthright."
 
 This story comes from Genesis 25-33 and is part of the Old Testament.
 
@@ -43,9 +43,9 @@ The story of Jacob and Esau teaches children important lessons about creation, f
 
 ## Key Bible Verse
 
-> *"I am with you and will watch over you wherever you go."* — Genesis 28:15
+> *"I am with you and will watch over you wherever you go."* (Genesis 28:15)
 
-For the whole life — the stolen blessing, the stairway dream, and the night he wrestled God — see [Who Was Jacob in the Bible?](/blog/who-was-jacob-for-kids)
+For the whole life, the stolen blessing, the stairway dream, and the night he wrestled God, see [Who Was Jacob in the Bible?](/blog/who-was-jacob-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Esau trade his birthright for?
 
-Esau was so hungry and focused on what he wanted in the moment that he gave up his birthright — his entire future inheritance and family leadership — for a single bowl of red stew.
+Esau was so hungry and focused on what he wanted in the moment that he gave up his birthright, his entire future inheritance and family leadership, for a single bowl of red stew.
 
 ### What new name did God give Jacob after they wrestled, and what does it mean?
 
-God changed Jacob's name from "deceiver" to Israel — "one who wrestles with God and overcomes." It marked a complete transformation of his identity. The entire nation of Israel is named after him.
+God changed Jacob's name from "deceiver" to Israel, "one who wrestles with God and overcomes." It marked a complete transformation of his identity. The entire nation of Israel is named after him.
 
 ### How did Esau react when he finally saw Jacob again after twenty years?
 
-After twenty years of hurt and betrayal, Esau chose forgiveness. He ran to Jacob, embraced him, and wept — one of the most beautiful moments of reconciliation in the Bible.
+After twenty years of hurt and betrayal, Esau chose forgiveness. He ran to Jacob, embraced him, and wept, one of the most beautiful moments of reconciliation in the Bible.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Jacob and Esau about for kids?
 
-Jacob and Esau is a story from Genesis 25-33. Hey, welcome back! Today's story has it all — twin brothers, stolen blessings, a bowl of soup that changes history, and one of the greatest wrestling matches ever. Let's get into it.
+Jacob and Esau is a story from Genesis 25-33. Hey, welcome back! Today's story has it all, twin brothers, stolen blessings, a bowl of soup that changes history, and one of the greatest wrestling matches ever. Let's get into it.
 
 ### What age is the story of Jacob and Esau appropriate for?
 

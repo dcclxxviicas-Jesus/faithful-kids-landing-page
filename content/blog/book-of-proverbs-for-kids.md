@@ -18,7 +18,7 @@ For kids, Proverbs is pure gold. The wisdom in this book applies to playground c
 
 ## 15 Proverbs Every Kid Should Know
 
-### 1. Proverbs 3:5-6 — Trust God, Not Just Yourself
+### 1. Proverbs 3:5-6: Trust God, Not Just Yourself
 
 **"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."**
 
@@ -26,7 +26,7 @@ What it means for kids: You do not have to figure everything out on your own. Wh
 
 Real-life example: When your best friend moves away and you do not understand why, trust that God has something good planned even though you cannot see it yet.
 
-### 2. Proverbs 22:6 — Start Young
+### 2. Proverbs 22:6: Start Young
 
 **"Start children off on the way they should go, and even when they are old they will not turn from it."**
 
@@ -34,7 +34,7 @@ What it means for kids: The habits you build now, like praying, being kind, and 
 
 Real-life example: A child who practices saying "I'm sorry" when they are seven grows into an adult who knows how to admit mistakes at thirty.
 
-### 3. Proverbs 17:17 — What Real Friends Do
+### 3. Proverbs 17:17: What Real Friends Do
 
 **"A friend loves at all times, and a brother is born for a time of adversity."**
 
@@ -42,7 +42,7 @@ What it means for kids: A true friend does not disappear when things get hard. R
 
 Real-life example: When your friend does not make the soccer team and everyone else ignores them, a true friend sits with them at lunch and says, "I know that was tough."
 
-### 4. Proverbs 15:1 — Soft Words Win
+### 4. Proverbs 15:1: Soft Words Win
 
 **"A gentle answer turns away wrath, but a harsh word stirs up anger."**
 
@@ -50,7 +50,7 @@ What it means for kids: When someone is angry at you and you yell back, the figh
 
 Real-life example: Your sibling accuses you of taking their toy. Instead of shouting "I didn't take it!" try saying calmly, "I understand you're upset. Let's find it together."
 
-### 5. Proverbs 12:22 — God Loves Truth
+### 5. Proverbs 12:22: God Loves Truth
 
 **"The Lord detests lying lips, but he delights in people who are trustworthy."**
 
@@ -58,7 +58,7 @@ What it means for kids: God really, truly hates lying, and He really, truly love
 
 Real-life example: You accidentally broke a lamp. It is tempting to blame the dog, but telling your parent the truth, even knowing there will be consequences, is what makes God proud of you. These [Bible stories about honesty](/blog/bible-stories-about-honesty-for-kids) show what truth-telling looks like in action.
 
-### 6. Proverbs 16:3 — Give Your Plans to God
+### 6. Proverbs 16:3: Give Your Plans to God
 
 **"Commit to the Lord whatever you do, and he will establish your plans."**
 
@@ -66,7 +66,7 @@ What it means for kids: Before you start something new, whether it is a school p
 
 Real-life example: Before a big test, instead of just worrying, pray: "God, I studied hard. Please help me do my best and trust You with the results."
 
-### 7. Proverbs 27:17 — Friends Make You Better
+### 7. Proverbs 27:17: Friends Make You Better
 
 **"As iron sharpens iron, so one person sharpens another."**
 
@@ -74,7 +74,7 @@ What it means for kids: Good friends make you a better person. Just like a dull 
 
 Real-life example: A friend who says, "Hey, that was not nice. You should apologize," is a better friend than one who says, "Don't worry about it."
 
-### 8. Proverbs 16:18 — Pride Goes Before a Fall
+### 8. Proverbs 16:18: Pride Goes Before a Fall
 
 **"Pride goes before destruction, a haughty spirit before a fall."**
 
@@ -82,7 +82,7 @@ What it means for kids: When you start thinking you are better than everyone els
 
 Real-life example: The kid who brags about winning every race is the one most embarrassed when they finally lose. The kid who wins humbly earns everyone's respect.
 
-### 9. Proverbs 18:21 — Words Are Powerful
+### 9. Proverbs 18:21: Words Are Powerful
 
 **"The tongue has the power of life and death, and those who love it will eat its fruit."**
 
@@ -90,7 +90,7 @@ What it means for kids: Your words can build someone up or tear them down. A kin
 
 Real-life example: Telling a classmate "You are really good at drawing" could be the encouragement they needed to keep going. Saying "Your drawing is ugly" could make them stop drawing forever.
 
-### 10. Proverbs 3:9 — Give Your Best to God
+### 10. Proverbs 3:9: Give Your Best to God
 
 **"Honor the Lord with your wealth, with the firstfruits of all your crops."**
 
@@ -98,31 +98,31 @@ What it means for kids: When you get something good, whether it is allowance mon
 
 Real-life example: If you earn five dollars, put some in the offering at church before you spend the rest. If you are good at singing, use that gift to praise God, not just to show off.
 
-### 11. Proverbs 19:20 — Listen to Advice
+### 11. Proverbs 19:20: Listen to Advice
 
 **"Listen to advice and accept discipline, and at the end you will be counted among the wise."**
 
 What it means for kids: Wise people are not born wise. They become wise by listening to people who know more than they do. When your parents, teachers, or coaches give you advice, listen carefully. It might not feel good in the moment, but it will make you wiser over time.
 
-### 12. Proverbs 14:29 — Be Slow to Anger
+### 12. Proverbs 14:29: Be Slow to Anger
 
 **"Whoever is patient has great understanding, but one who is quick-tempered displays folly."**
 
 What it means for kids: When you get mad fast and react without thinking, you usually make things worse. But when you take a deep breath, count to ten, and think before you respond, that is true strength. Patience is not weakness; it is self-control. For more on this, see these [Bible verses about patience](/blog/bible-verses-about-patience-for-kids).
 
-### 13. Proverbs 11:25 — Generosity Comes Back
+### 13. Proverbs 11:25: Generosity Comes Back
 
 **"A generous person will prosper; whoever refreshes others will be refreshed."**
 
 What it means for kids: When you give to others, whether it is sharing your snack, helping a classmate, or giving your time, good things come back to you. God designed the world so that generosity creates more generosity. The more you give, the more you receive.
 
-### 14. Proverbs 20:11 — Your Actions Reveal Your Character
+### 14. Proverbs 20:11: Your Actions Reveal Your Character
 
 **"Even small children are known by their actions, so is their conduct really pure and upright?"**
 
 What it means for kids: People watch what you do, not just what you say. If you say you are kind but you are mean to your sibling, your actions tell the real story. Your character is built by the choices you make every day, especially when no one is watching.
 
-### 15. Proverbs 4:23 — Guard Your Heart
+### 15. Proverbs 4:23: Guard Your Heart
 
 **"Above all else, guard your heart, for everything you do flows from it."**
 

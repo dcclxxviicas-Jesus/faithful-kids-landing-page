@@ -10,27 +10,27 @@ dateModified: "2026-08-16"
 
 It is Sunday morning. The bread and the little cups are being passed around. Your child watches everyone eat and drink with serious faces, and they whisper, "What are they doing? Can I have some?"
 
-Communion — also called the Lord's Supper or the Eucharist — is one of the most sacred practices in the Christian faith. And it is natural for children to be curious about it. Here is how to explain it in a way your child can understand, while honoring the depth and beauty of what communion represents.
+Communion, also called the Lord's Supper or the Eucharist, is one of the most sacred practices in the Christian faith. And it is natural for children to be curious about it. Here is how to explain it in a way your child can understand, while honoring the depth and beauty of what communion represents.
 
 ## Start With the Story: The Last Supper
 
 Every good explanation starts with a good story, and communion has one of the best.
 
-The night before Jesus died, He ate a special dinner with His twelve closest friends — His disciples. This meal is called the Last Supper, and you can find our full kid-friendly retelling in [the Last Supper for kids](/blog/the-last-supper-for-kids).
+The night before Jesus died, He ate a special dinner with His twelve closest friends, His disciples. This meal is called the Last Supper, and you can find our full kid-friendly retelling in [the Last Supper for kids](/blog/the-last-supper-for-kids).
 
 **Luke 22:19-20** tells us what happened: "And he took bread, gave thanks and broke it, and gave it to them, saying, 'This is my body given for you; do this in remembrance of me.' In the same way, after the supper he took the cup, saying, 'This cup is the new covenant in my blood, which is poured out for you.'"
 
 For your child, you might tell the story like this:
 
-"On the night before Jesus went to the cross, He had dinner with His best friends. During dinner, He picked up a piece of bread, broke it, and said, 'This bread is like my body. I am going to give my body for you.' Then He took a cup of wine and said, 'This cup is like my blood. I am going to give my life for you so that your sins can be forgiven.' Then He said something really important: 'Do this to remember me.' That is why we still do it today — to remember what Jesus did for us."
+"On the night before Jesus went to the cross, He had dinner with His best friends. During dinner, He picked up a piece of bread, broke it, and said, 'This bread is like my body. I am going to give my body for you.' Then He took a cup of wine and said, 'This cup is like my blood. I am going to give my life for you so that your sins can be forgiven.' Then He said something really important: 'Do this to remember me.' That is why we still do it today, to remember what Jesus did for us."
 
 ## What Does the Bread Mean?
 
 The bread represents the body of Jesus.
 
-For kids: "When we eat the bread during communion, we are remembering that Jesus gave His body for us. He went to the cross and suffered so that we could be forgiven and be close to God. The bread helps us remember that Jesus's love for us was not just words — He showed it with His whole self." (Our gentle telling of [the cross for kids](/blog/the-cross-for-kids) can help with that part of the story.)
+For kids: "When we eat the bread during communion, we are remembering that Jesus gave His body for us. He went to the cross and suffered so that we could be forgiven and be close to God. The bread helps us remember that Jesus's love for us was not just words, He showed it with His whole self." (Our gentle telling of [the cross for kids](/blog/the-cross-for-kids) can help with that part of the story.)
 
-You might point out that Jesus broke the bread. "Jesus broke the bread into pieces, just like His body was broken on the cross. But here is the amazing part — because He was broken, we get to be made whole."
+You might point out that Jesus broke the bread. "Jesus broke the bread into pieces, just like His body was broken on the cross. But here is the amazing part, because He was broken, we get to be made whole."
 
 ## What Does the Cup Mean?
 
@@ -38,22 +38,22 @@ The cup represents the blood of Jesus.
 
 For kids: "When we drink from the cup during communion, we are remembering that Jesus shed His blood for us. In the Bible, blood represents life. Jesus gave His life so that we could have a new relationship with God. The cup reminds us of that incredible sacrifice."
 
-Most churches use grape juice for children (and many for everyone). Your child might be relieved to know they are not actually drinking blood — it is a symbol, a way of remembering.
+Most churches use grape juice for children (and many for everyone). Your child might be relieved to know they are not actually drinking blood, it is a symbol, a way of remembering.
 
-We drew a printable [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## Why Do We Keep Doing It?
 
-Jesus said, "Do this in remembrance of me." That is the heart of communion — **remembering.**
+Jesus said, "Do this in remembrance of me." That is the heart of communion, **remembering.**
 
 **1 Corinthians 11:23-26** explains: "For whenever you eat this bread and drink this cup, you proclaim the Lord's death until he comes."
 
-For your child: "We keep doing communion because Jesus asked us to. Every time we eat the bread and drink from the cup, we are telling the story of what Jesus did. It is like a family tradition that has been going on for almost 2,000 years. Christians all over the world — in every country, in every language — do this same thing to remember Jesus."
+For your child: "We keep doing communion because Jesus asked us to. Every time we eat the bread and drink from the cup, we are telling the story of what Jesus did. It is like a family tradition that has been going on for almost 2,000 years. Christians all over the world, in every country, in every language, do this same thing to remember Jesus."
 
 Here are some reasons communion matters that kids can understand:
 
 ### It Helps Us Remember
-"Our brains are good at forgetting things. Communion is a way God helps us stop and remember the most important thing — that Jesus loves us so much He died for us."
+"Our brains are good at forgetting things. Communion is a way God helps us stop and remember the most important thing, that Jesus loves us so much He died for us."
 
 ### It Connects Us to Other Christians
 "When we take communion together at church, we are doing the same thing Christians have done since the very beginning. It connects us to believers all over the world and all throughout history."
@@ -80,10 +80,10 @@ Just like with [baptism](/blog/how-to-explain-baptism-to-a-child), different chu
 - Some use individual cups, others share a common cup
 
 ### What It Is Called
-- **Communion** — emphasizes the togetherness and fellowship
-- **The Lord's Supper** — emphasizes it as the meal Jesus started
-- **The Eucharist** — comes from the Greek word for "thanksgiving"
-- **The Breaking of Bread** — the earliest name used by Christians in the book of Acts
+- **Communion**, emphasizes the togetherness and fellowship
+- **The Lord's Supper**, emphasizes it as the meal Jesus started
+- **The Eucharist**, comes from the Greek word for "thanksgiving"
+- **The Breaking of Bread**, the earliest name used by Christians in the book of Acts
 
 ### What Churches Believe Is Happening
 This is where traditions differ most. Some churches believe the bread and wine actually become the body and blood of Jesus (Catholic and Orthodox). Some believe Jesus is specially present in the bread and wine (Lutheran). Some believe it is a meaningful symbol and act of remembrance (Baptist, nondenominational, and many others).
@@ -101,7 +101,7 @@ In Catholic, Orthodox, and some other traditions, children may receive communion
 Many Protestant churches invite children to participate once they have made a personal decision to follow Jesus and can understand the significance of what they are doing. Some families use this as a meaningful milestone.
 
 ### Churches That Welcome All
-Some churches practice open communion and welcome anyone — including children — to participate as an act of grace.
+Some churches practice open communion and welcome anyone, including children, to participate as an act of grace.
 
 **Tips for navigating this with your child:**
 
@@ -116,7 +116,7 @@ When the time is right, here is how to make it meaningful:
 
 **1. Read the story together.** Go through Luke 22:14-20 or 1 Corinthians 11:23-26 the night before or that morning. Around Easter, pairing it with [how to explain Easter to a child](/blog/how-to-explain-easter-to-a-child) gives the meal its full context.
 
-**2. Explain what will happen.** Walk them through the practical steps — someone will pray, bread will be passed, the cup will be passed, everyone eats and drinks together.
+**2. Explain what will happen.** Walk them through the practical steps, someone will pray, bread will be passed, the cup will be passed, everyone eats and drinks together.
 
 **3. Talk about what to think about.** "While you eat the bread, think about how much Jesus loves you. While you drink from the cup, say thank you to God in your heart."
 
@@ -130,7 +130,7 @@ When the time is right, here is how to make it meaningful:
 
 **Ages 6-8:** "Communion is a special meal at church where we eat bread and drink juice to remember what Jesus did for us. The bread reminds us of His body, and the juice reminds us of His blood. Jesus started this meal the night before He died, and He said, 'Do this to remember me.'"
 
-**Ages 9-12:** "Communion, or the Lord's Supper, goes back to the night Jesus was betrayed. He shared bread and wine with His disciples and told them the bread represented His body and the cup represented His blood — both given for the forgiveness of sins. Every time we take communion, we are proclaiming Jesus's death and looking forward to His return."
+**Ages 9-12:** "Communion, or the Lord's Supper, goes back to the night Jesus was betrayed. He shared bread and wine with His disciples and told them the bread represented His body and the cup represented His blood, both given for the forgiveness of sins. Every time we take communion, we are proclaiming Jesus's death and looking forward to His return."
 
 If forgiveness itself is the concept your child is wrestling with, our guide on [explaining forgiveness to a child](/blog/how-to-explain-forgiveness-to-a-child) can help.
 
@@ -150,4 +150,4 @@ Communion can actually be deeply comforting for a grieving child. It reminds us 
 This is a personal and denominational decision. Some churches practice "open communion" and welcome all believers. Others may have specific requirements. When visiting another church, observe their practice and follow their lead. Use it as a chance to talk with your child about how different Christians worship.
 
 ### Why do some churches use wine and others use juice?
-At the Last Supper, Jesus and His disciples drank wine, as was customary. Many churches today use grape juice instead, especially when children are present, and because some members may need to avoid alcohol. Both are valid ways to participate. What matters is the meaning behind the act — remembering Jesus's sacrifice — not the specific beverage used.
+At the Last Supper, Jesus and His disciples drank wine, as was customary. Many churches today use grape juice instead, especially when children are present, and because some members may need to avoid alcohol. Both are valid ways to participate. What matters is the meaning behind the act, remembering Jesus's sacrifice, not the specific beverage used.

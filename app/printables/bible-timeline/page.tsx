@@ -22,16 +22,16 @@ import '../bible-maps/maps.css'
  */
 
 export const metadata: Metadata = {
-  title: { absolute: 'Bible Timeline for Kids — Free Printable Chart' },
-  description: `The whole Bible in order on one free printable timeline — ${ERA_COUNT} eras from Creation to the early church, with dates, key events and books. No sign-up.`,
+  title: { absolute: 'Bible Timeline for Kids: Free Printable Chart' },
+  description: `The whole Bible in order on one free printable timeline, ${ERA_COUNT} eras from Creation to the early church, with dates, key events and books. No sign-up.`,
   keywords: [
     'bible timeline', 'bible timeline for kids', 'printable bible timeline',
     'bible timeline printable', 'bible history timeline', 'old testament timeline',
   ],
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-timeline' },
   openGraph: {
-    title: 'Bible Timeline for Kids — Free Printable Chart',
-    description: `${ERA_COUNT} eras from Creation to the early church on one printable chart — dates, key events, and the books of the Bible each era lives in.`,
+    title: 'Bible Timeline for Kids: Free Printable Chart',
+    description: `${ERA_COUNT} eras from Creation to the early church on one printable chart, dates, key events, and the books of the Bible each era lives in.`,
     url: 'https://faithfulkids.app/printables/bible-timeline',
     siteName: 'Faithful Kids',
     type: 'article',
@@ -42,19 +42,19 @@ export const metadata: Metadata = {
 const faqs = [
   {
     q: 'How many years does the Bible cover?',
-    a: 'From Abraham (around 2000 BC) to John’s vision on Patmos (around AD 95) is roughly 2,100 years of history the Bible itself dates. Genesis 1–11 — Creation through Babel — stands before that span, and the Bible gives those chapters no dates, so an honest timeline doesn’t either.',
+    a: 'From Abraham (around 2000 BC) to John’s vision on Patmos (around AD 95) is roughly 2,100 years of history the Bible itself dates. Genesis 1–11, Creation through Babel, stands before that span, and the Bible gives those chapters no dates, so an honest timeline doesn’t either.',
   },
   {
     q: 'When did Jesus live?',
-    a: 'He was born around 6–4 BC — the monk who later invented our calendar miscounted by a few years, which is why "BC" ends slightly before Jesus’ birth — and was crucified and raised around AD 30 or 33. His public ministry lasted about three years.',
+    a: 'He was born around 6–4 BC, the monk who later invented our calendar miscounted by a few years, which is why "BC" ends slightly before Jesus’ birth, and was crucified and raised around AD 30 or 33. His public ministry lasted about three years.',
   },
   {
     q: 'What are the "400 silent years"?',
-    a: 'The gap between Malachi, the last Old Testament book (around 430 BC), and the events of the Gospels. No new Scripture was written, but the map changed completely: Alexander the Great brought Greek language and culture, the Maccabees won a short independence, and then Rome took over — which is why the New Testament opens with Roman soldiers, Greek-speaking crowds, and a King Herod nobody voted for.',
+    a: 'The gap between Malachi, the last Old Testament book (around 430 BC), and the events of the Gospels. No new Scripture was written, but the map changed completely: Alexander the Great brought Greek language and culture, the Maccabees won a short independence, and then Rome took over, which is why the New Testament opens with Roman soldiers, Greek-speaking crowds, and a King Herod nobody voted for.',
   },
   {
     q: 'Are the dates on this timeline exact?',
-    a: 'The late ones are solid — Assyria took the northern kingdom in 722 BC and Babylon destroyed Jerusalem in 586 BC, dates confirmed by records outside the Bible. The early ones are traditional approximations: the exodus is traditionally dated around 1446 BC while many scholars argue for around 1270 BC, and the chart says so rather than picking a side. Anything marked "c." (circa) means "around."',
+    a: 'The late ones are solid, Assyria took the northern kingdom in 722 BC and Babylon destroyed Jerusalem in 586 BC, dates confirmed by records outside the Bible. The early ones are traditional approximations: the exodus is traditionally dated around 1446 BC while many scholars argue for around 1270 BC, and the chart says so rather than picking a side. Anything marked "c." (circa) means "around."',
   },
 ]
 
@@ -86,9 +86,9 @@ export default function BibleTimelinePage() {
         </nav>
 
         <header className="bm-head">
-          <h1>Bible Timeline for Kids — the Whole Story in Order</h1>
+          <h1>Bible Timeline for Kids, the Whole Story in Order</h1>
           <p className="bm-sub">
-            {ERA_COUNT} eras from Creation to the early church — what happened, roughly when, and
+            {ERA_COUNT} eras from Creation to the early church, what happened, roughly when, and
             which books of the Bible each era lives in. Honest about dates: firm where history is
             firm, &ldquo;c.&rdquo; where it isn&rsquo;t, and silent where the Bible is silent.
           </p>
@@ -125,7 +125,7 @@ export default function BibleTimelinePage() {
           <section>
             <h2>How to use the timeline</h2>
             <p>
-              The Bible is arranged by type of book, not by time — Job sits near Psalms though its
+              The Bible is arranged by type of book, not by time, Job sits near Psalms though its
               story is patriarch-era, and the prophets cluster at the Old Testament&rsquo;s end
               though they preached in the middle of its history. That is why children (and plenty
               of adults) lose the plot. A timeline fixes it: thirteen eras, learned in order, give
@@ -134,8 +134,8 @@ export default function BibleTimelinePage() {
             </p>
             <p>
               It pairs naturally with the{' '}
-              <a href="/printables/books-of-the-bible">books of the Bible chart</a> — one sheet for
-              where a book sits on the shelf, one for where it sits in time — and with the{' '}
+              <a href="/printables/books-of-the-bible">books of the Bible chart</a> one sheet for
+              where a book sits on the shelf, one for where it sits in time, and with the{' '}
               <a href="/printables/bible-maps">six printable Bible maps</a>, which do the same job
               for place that this chart does for time.
             </p>
@@ -158,7 +158,7 @@ export default function BibleTimelinePage() {
             source="blog-inline"
             sourcePost="bible-timeline"
             title="🖍️ Free too: all 26 Bible coloring pages"
-            subtitle="One PDF, Creation to the Empty Tomb — in the same order as this timeline."
+            subtitle="One PDF, Creation to the Empty Tomb, in the same order as this timeline."
           />
         </section>
 
@@ -166,7 +166,7 @@ export default function BibleTimelinePage() {
           {...clip}
           duration={clip.duration ?? undefined}
           heading="The timeline is the shelf. The episodes are the books."
-          body={`Faithful Kids tells these eras as 300+ short video stories in order, Genesis to Revelation — ${clip.videoTitle} runs about two minutes and ends with a quiz so you can see what stuck.`}
+          body={`Faithful Kids tells these eras as 300+ short video stories in order, Genesis to Revelation, ${clip.videoTitle} runs about two minutes and ends with a quiz so you can see what stuck.`}
           source="bible-timeline"
         />
       </main>

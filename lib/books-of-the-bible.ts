@@ -41,7 +41,7 @@ export const OT_GROUPS: BookGroup[] = [
   },
   {
     name: 'Major Prophets',
-    blurb: '"Major" means longer, not more important — the big prophetic books.',
+    blurb: '"Major" means longer, not more important: the big prophetic books.',
     books: [b('Isaiah', 66), b('Jeremiah', 52), b('Lamentations', 5), b('Ezekiel', 48), b('Daniel', 12)],
   },
   {

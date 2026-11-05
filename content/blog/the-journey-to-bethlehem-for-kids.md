@@ -23,13 +23,13 @@ The Journey to Bethlehem is a Bible story from Luke 2:1-5 in the New Testament. 
 
 ## What Is the Story of The Journey to Bethlehem for Kids?
 
-Welcome back, friend! Okay — so far you've heard about my mom saying yes to God, and my earthly dad Joseph choosing to trust and obey. Now the story takes a wild turn. And it starts with a guy who had absolutely no idea he was part of God's plan.
+Welcome back, friend! Okay, so far you've heard about my mom saying yes to God, and my earthly dad Joseph choosing to trust and obey. Now the story takes a wild turn. And it starts with a guy who had absolutely no idea he was part of God's plan.
 
-His name was Caesar Augustus. The most powerful man on the planet. Emperor of Rome. He ruled everything. And one day he decided, "I want to count every single person in my empire." So he issued a decree — a royal command — that everyone had to travel back to their ancestral hometown to be registered in a census.
+His name was Caesar Augustus. The most powerful man on the planet. Emperor of Rome. He ruled everything. And one day he decided, "I want to count every single person in my empire." So he issued a decree, a royal command, that everyone had to travel back to their ancestral hometown to be registered in a census.
 
-Now here's where it gets amazing. Seven hundred years before this — SEVEN HUNDRED — a prophet named Micah wrote down a message from God. He said the Messiah would be born in Bethlehem. Not Jerusalem. Not Rome. Little, tiny Bethlehem.
+Now here's where it gets amazing. Seven hundred years before this, SEVEN HUNDRED, a prophet named Micah wrote down a message from God. He said the Messiah would be born in Bethlehem. Not Jerusalem. Not Rome. Little, tiny Bethlehem.
 
-Problem? Mary and Joseph lived in Nazareth — about ninety miles away from Bethlehem. There was no reason for them to go there.
+Problem? Mary and Joseph lived in Nazareth, about ninety miles away from Bethlehem. There was no reason for them to go there.
 
 This story comes from Luke 2:1-5 and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Journey to Bethlehem teaches children important lessons about h
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
@@ -63,7 +63,7 @@ Caesar Augustus issued a decree that everyone in the Roman Empire had to return 
 
 ### How far was the journey from Nazareth to Bethlehem?
 
-The journey from Nazareth to Bethlehem was about ninety miles — a long, exhausting trip on foot and donkey, especially for Mary who was almost ready to have her baby.
+The journey from Nazareth to Bethlehem was about ninety miles, a long, exhausting trip on foot and donkey, especially for Mary who was almost ready to have her baby.
 
 ### Which prophet said the Messiah would be born in Bethlehem, and how long before it happened?
 
@@ -107,7 +107,7 @@ We drew a printable [journey to Bethlehem coloring page](/printables/bible-color
 
 ### What is the story of The Journey to Bethlehem about for kids?
 
-The Journey to Bethlehem is a story from Luke 2:1-5. Welcome back, friend! Okay — so far you've heard about my mom saying yes to God, and my earthly dad Joseph choosing to trust and obey. Now the story takes a wild turn. And it starts with a guy who ...
+The Journey to Bethlehem is a story from Luke 2:1-5. Welcome back, friend! Okay, so far you've heard about my mom saying yes to God, and my earthly dad Joseph choosing to trust and obey. Now the story takes a wild turn. And it starts with a guy who ...
 
 ### What age is the story of The Journey to Bethlehem appropriate for?
 

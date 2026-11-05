@@ -29,7 +29,7 @@ Close your eyes and imagine the most beautiful place you've ever been. The most 
 
 What I'm about to show you is the future. Not a fairy tale. Not wishful thinking. A promise.
 
-My apostle John — the one I loved, the one who leaned against me at dinner, the one who stood at the foot of my cross — he was old now. Exiled to a lonely island called Patmos. And there, I gave him a vision that would change everything.
+My apostle John, the one I loved, the one who leaned against me at dinner, the one who stood at the foot of my cross, he was old now. Exiled to a lonely island called Patmos. And there, I gave him a vision that would change everything.
 
 This story comes from Hebrews/James/Revelation and is part of the New Testament.
 
@@ -43,9 +43,9 @@ The story of A New Heaven and New Earth teaches children important lessons about
 
 ## Key Bible Verse
 
-> *"He will wipe every tear from their eyes."* — Revelation 21:4
+> *"He will wipe every tear from their eyes."* (Revelation 21:4)
 
-For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages) — print as many as your class needs.
+For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages), print as many as your class needs.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### Who received the vision of the new heaven and new earth?
 
-John — the beloved disciple of Jesus — was exiled on the island of Patmos when Jesus gave him the incredible vision recorded in the book of Revelation, including the new heaven and new earth.
+John, the beloved disciple of Jesus, was exiled on the island of Patmos when Jesus gave him the incredible vision recorded in the book of Revelation, including the new heaven and new earth.
 
 ### What did the voice from the throne promise about tears, death, and pain?
 
-The promise is total and complete — God will wipe every tear from their eyes, and death, mourning, crying, and pain will be completely gone. Not reduced. Gone. The old order of things will have passed away forever.
+The promise is total and complete, God will wipe every tear from their eyes, and death, mourning, crying, and pain will be completely gone. Not reduced. Gone. The old order of things will have passed away forever.
 
 ### What did Jesus say from the throne about what He is doing?
 
-Jesus said "I am making everything new" — not just fixing or repairing the old world, but creating something entirely new and perfect. This is the ultimate promise: everything broken will be made brand new.
+Jesus said "I am making everything new", not just fixing or repairing the old world, but creating something entirely new and perfect. This is the ultimate promise: everything broken will be made brand new.
 
 
 ## Discussion Questions for Families

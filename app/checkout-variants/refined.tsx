@@ -77,7 +77,7 @@ export function Refined({ monthly, tag }: { monthly: number; tag: string }) {
         {annual ? (
           <p className="cv-terms">
             <strong>$0.00 today.</strong> Free until {trialEndDate()}, then ${ANNUAL_YEAR} for the
-            year &mdash; ${saved} less than paying monthly, or about {monthsFree} months free.
+            year, ${saved} less than paying monthly, or about {monthsFree} months free.
             Cancel any time before then and you are charged nothing.
           </p>
         ) : (

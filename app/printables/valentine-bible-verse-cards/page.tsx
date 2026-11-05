@@ -14,11 +14,11 @@ const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/valentine-cards'
    page-1 winners on the kids variant are printable VERSE CARDS, not
    articles — so this ships the cards. */
 export const metadata = {
-  title: { absolute: 'Valentine Bible Verse Cards — Free Printable for Kids' },
-  description: `${VALENTINE_CARDS.length} free printable Valentine cards with short Bible verses about love — line art kids can color, then hand out at school, church, or class. No sign-up.`,
+  title: { absolute: 'Valentine Bible Verse Cards: Free Printable for Kids' },
+  description: `${VALENTINE_CARDS.length} free printable Valentine cards with short Bible verses about love, line art kids can color, then hand out at school, church, or class. No sign-up.`,
   alternates: { canonical: 'https://faithfulkids.app/printables/valentine-bible-verse-cards' },
   openGraph: {
-    title: 'Valentine Bible Verse Cards — Free Printable for Kids',
+    title: 'Valentine Bible Verse Cards: Free Printable for Kids',
     description: `${VALENTINE_CARDS.length} printable Valentine cards with Bible verses about love, drawn as line art kids color themselves. Free, no sign-up.`,
     url: 'https://faithfulkids.app/printables/valentine-bible-verse-cards',
     siteName: 'Faithful Kids',
@@ -30,7 +30,7 @@ export const metadata = {
 const faqs = [
   {
     q: 'How do I print and use these Valentine Bible verse cards?',
-    a: `Press print — the ${VALENTINE_CARDS.length} cards lay out four to a sheet with cut lines. Kids color the picture, sign the To and From lines, cut them out, and hand them to classmates, church friends, teachers, or grandparents. They work for a class Valentine exchange anywhere a store-bought card would.`,
+    a: `Press print, the ${VALENTINE_CARDS.length} cards lay out four to a sheet with cut lines. Kids color the picture, sign the To and From lines, cut them out, and hand them to classmates, church friends, teachers, or grandparents. They work for a class Valentine exchange anywhere a store-bought card would.`,
   },
   {
     q: 'Are these cards okay for a public school Valentine exchange?',
@@ -80,7 +80,7 @@ export default function ValentineCardsPage() {
           </h1>
           <p style={{ margin: '0.5rem 0 0', color: '#4b5563', fontSize: '1.02rem', lineHeight: 1.6 }}>
             <strong>{VALENTINE_CARDS.length} free printable Valentine cards</strong>, each with a short
-            Bible verse about love and a picture drawn as line art — so kids color their own cards
+            Bible verse about love and a picture drawn as line art, so kids color their own cards
             before handing them out. Four to a sheet, To/From lines, cut and go. Free, no sign-up.
           </p>
         </header>
@@ -92,7 +92,7 @@ export default function ValentineCardsPage() {
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={`${CDN}/${card.slug}.png`}
-                  alt={`Valentine Bible verse coloring card — ${card.verse} (${card.ref})`}
+                  alt={`Valentine Bible verse coloring card, ${card.verse} (${card.ref})`}
                   width={1024}
                   height={1024}
                   loading="lazy"
@@ -113,7 +113,7 @@ export default function ValentineCardsPage() {
           <h2 style={{ fontSize: '1.4rem', fontWeight: 800, letterSpacing: '-0.01em' }}>How families use these</h2>
           <p style={{ color: '#4b5563', lineHeight: 1.65 }}>
             Print one sheet per child and let them color at the kitchen table the week before
-            Valentine&apos;s Day — the coloring is the point, since a card they made beats a card
+            Valentine&apos;s Day, the coloring is the point, since a card they made beats a card
             they bought. Sunday school classes print a stack and make it the craft; homeschool
             co-ops pair them with copywork of each verse. Because each card carries its reference,
             every card handed out is a verse someone can look up.
@@ -141,7 +141,7 @@ export default function ValentineCardsPage() {
           {...clip}
           duration={clip.duration ?? undefined}
           heading="The verses are the start. The stories are the rest."
-          body={`Each card carries one line of Scripture — ${clip.videoTitle} tells a whole story in about two minutes and ends with a quiz, one of 300+ episodes from Genesis to Revelation.`}
+          body={`Each card carries one line of Scripture, ${clip.videoTitle} tells a whole story in about two minutes and ends with a quiz, one of 300+ episodes from Genesis to Revelation.`}
           source="valentine-cards"
         />
 

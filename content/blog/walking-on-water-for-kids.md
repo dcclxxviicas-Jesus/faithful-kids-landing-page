@@ -23,13 +23,13 @@ Walking on Water is a Bible story from Matthew/Mark/Luke/John in the New Testame
 
 ## What Is the Story of Walking on Water for Kids?
 
-MIRACLES OF JESUS — Episode 3: Walking on Water Based on Matthew 14:22-33
+MIRACLES OF JESUS, Episode 3: Walking on Water Based on Matthew 14:22-33
 
 Hey kids! Buckle up, because this story has a plot twist that will blow your mind. It involves a dark lake, terrified disciples, and one very bold fisherman who did something NO human had ever done.
 
 Right after I fed the five thousand, I told my disciples to get in the boat and cross the Sea of Galilee without me. I needed time alone to pray. So they sailed off, and I went up on a mountainside by myself.
 
-Hours passed. It was now the middle of the night — somewhere between 3 and 6 in the morning. Pitch black. And my disciples were in TROUBLE. The wind was against them. Waves were battering the boat. They'd been rowing for HOURS and barely made any progress.
+Hours passed. It was now the middle of the night, somewhere between 3 and 6 in the morning. Pitch black. And my disciples were in TROUBLE. The wind was against them. Waves were battering the boat. They'd been rowing for HOURS and barely made any progress.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of Walking on Water teaches children important lessons about faith, Go
 
 ## Key Bible Verse
 
-> *"Take courage! It is I. Don't be afraid."* — Matthew 14:27
+> *"Take courage! It is I. Don't be afraid."* (Matthew 14:27)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ After feeding the five thousand, Jesus went up on a mountainside by Himself to p
 
 ### What time of night did Jesus walk on the water toward the boat?
 
-The Bible says it was during the "fourth watch of the night," which was between 3 and 6 AM — the darkest, most exhausting hours.
+The Bible says it was during the "fourth watch of the night," which was between 3 and 6 AM, the darkest, most exhausting hours.
 
 ### What did the disciples think they were seeing when Jesus walked on the water?
 
@@ -109,7 +109,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Walking on Water about for kids?
 
-Walking on Water is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 3: Walking on Water Based on Matthew 14:22-33
+Walking on Water is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS, Episode 3: Walking on Water Based on Matthew 14:22-33
 
 ### What age is the story of Walking on Water appropriate for?
 

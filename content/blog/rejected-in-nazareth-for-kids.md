@@ -25,9 +25,9 @@ Rejected in Nazareth is a Bible story from Matthew/Mark/Luke/John in the New Tes
 
 ## What Is the Story of Rejected in Nazareth for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 5 "Rejected in Nazareth" Based on Luke 4:14-30
+JESUS BEGINS HIS MINISTRY, EPISODE 5 "Rejected in Nazareth" Based on Luke 4:14-30
 
-I went home. Back to Nazareth — the town where I grew up, where people watched me play in the streets as a kid, where they knew me as the carpenter's son. I walked into the synagogue on the Sabbath, just like I'd done my whole life. But this time was different.
+I went home. Back to Nazareth, the town where I grew up, where people watched me play in the streets as a kid, where they knew me as the carpenter's son. I walked into the synagogue on the Sabbath, just like I'd done my whole life. But this time was different.
 
 They handed me the scroll of Isaiah. I unrolled it and found the exact passage I was looking for. Then I read these words out loud: "The Spirit of the Lord is on me, because He has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free, to proclaim the year of the Lord's favor."
 
@@ -45,9 +45,9 @@ The story of Rejected in Nazareth teaches children important lessons about calli
 
 ## Key Bible Verse
 
-> *"A prophet is not without honor except in his own town."* — Mark 6:4
+> *"A prophet is not without honor except in his own town."* (Mark 6:4)
 
-A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances — kids can trace the journeys with a finger.
+A map helps here: our free [map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) puts Nazareth, Capernaum and Jerusalem at their true distances; kids can trace the journeys with a finger.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Rejected in Nazareth about for kids?
 
-Rejected in Nazareth is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 5 "Rejected in Nazareth" Based on Luke 4:14-30
+Rejected in Nazareth is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY, EPISODE 5 "Rejected in Nazareth" Based on Luke 4:14-30
 
 ### What age is the story of Rejected in Nazareth appropriate for?
 

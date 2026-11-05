@@ -85,13 +85,13 @@ Older children can engage with the complete gospel narrative and even wrestle wi
 
 Keep these verses accessible. Write them on index cards, put them on the fridge, or review one each night at bedtime.
 
-- **John 3:16** — "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
-- **Romans 3:23** — "For all have sinned and fall short of the glory of God."
-- **Romans 6:23** — "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
-- **Ephesians 2:8-9** — "For it is by grace you have been saved, through faith, and this is not from yourselves, it is the gift of God, not by works, so that no one can boast."
-- **Romans 10:9** — "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
-- **1 John 1:9** — "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness."
-- **2 Corinthians 5:17** — "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"
+- **John 3:16**; "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+- **Romans 3:23**; "For all have sinned and fall short of the glory of God."
+- **Romans 6:23**; "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
+- **Ephesians 2:8-9**; "For it is by grace you have been saved, through faith, and this is not from yourselves, it is the gift of God, not by works, so that no one can boast."
+- **Romans 10:9**: "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
+- **1 John 1:9**: "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness."
+- **2 Corinthians 5:17**: "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"
 
 ---
 

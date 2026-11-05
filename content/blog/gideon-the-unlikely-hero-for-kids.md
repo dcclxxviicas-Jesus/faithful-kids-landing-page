@@ -25,9 +25,9 @@ Gideon the Unlikely Hero is a Bible story from Judges 6-7 in the Old Testament. 
 
 Hey everyone! Okay, today's story is one of my absolute favorites because it's about a guy who was the LAST person you'd expect to become a hero. His name is Gideon, and when we first meet him, he's hiding. Like, literally hiding.
 
-Here's what's going on. The Midianites have been terrorizing Israel for seven years. Every time the Israelites plant crops, the Midianites swarm in like locusts and destroy everything — food, livestock, all of it. The people are starving. They're living in caves and hiding in the mountains. It's bad.
+Here's what's going on. The Midianites have been terrorizing Israel for seven years. Every time the Israelites plant crops, the Midianites swarm in like locusts and destroy everything, food, livestock, all of it. The people are starving. They're living in caves and hiding in the mountains. It's bad.
 
-And right in the middle of all this chaos, there's Gideon — threshing wheat in a winepress. Now, you're supposed to thresh wheat out in the open where the wind can blow away the husks. But Gideon is doing it in a winepress, which is basically a hole in the ground, because he's terrified the Midianites will find him.
+And right in the middle of all this chaos, there's Gideon, threshing wheat in a winepress. Now, you're supposed to thresh wheat out in the open where the wind can blow away the husks. But Gideon is doing it in a winepress, which is basically a hole in the ground, because he's terrified the Midianites will find him.
 
 That's when my angel shows up and says the most incredible thing: "The Lord is with you, mighty warrior."
 
@@ -43,13 +43,13 @@ The story of Gideon the Unlikely Hero teaches children important lessons about b
 
 ## Key Bible Verse
 
-> *"The Lord is with you, mighty warrior."* — Judges 6:12
+> *"The Lord is with you, mighty warrior."* (Judges 6:12)
 
 For quiet time afterwards, print the free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) and let them color while you talk it through.
 
-For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land, printable, with the story behind the division.
 
-For Gideon's whole arc — the winepress, the fleece, the 300 and the honest ending — see [Who Was Gideon in the Bible?](/blog/who-was-gideon-for-kids)
+For Gideon's whole arc, the winepress, the fleece, the 300 and the honest ending, see [Who Was Gideon in the Bible?](/blog/who-was-gideon-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,15 +61,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What was Gideon doing when the angel of the Lord appeared to him?
 
-Gideon was so afraid of the Midianites that he was threshing wheat in a winepress — a hidden, low spot — instead of out in the open where it was normally done. He was trying to prepare food without being discovered by the enemy.
+Gideon was so afraid of the Midianites that he was threshing wheat in a winepress, a hidden, low spot, instead of out in the open where it was normally done. He was trying to prepare food without being discovered by the enemy.
 
 ### What did the angel call Gideon when he first appeared?
 
-The angel greeted Gideon by saying "The Lord is with you, mighty warrior" — even though Gideon was hiding in fear at that very moment. God saw Gideon not as he was, but as who he would become.
+The angel greeted Gideon by saying "The Lord is with you, mighty warrior", even though Gideon was hiding in fear at that very moment. God saw Gideon not as he was, but as who he would become.
 
 ### What did Gideon do with a fleece to test whether God was really calling him?
 
-Gideon placed a wool fleece on the ground and asked God to make it wet with dew while the ground stayed dry. When God did it, Gideon asked for the reverse — dry fleece, wet ground. God patiently did both, confirming His call on Gideon's life.
+Gideon placed a wool fleece on the ground and asked God to make it wet with dew while the ground stayed dry. When God did it, Gideon asked for the reverse, dry fleece, wet ground. God patiently did both, confirming His call on Gideon's life.
 
 
 ## Discussion Questions for Families

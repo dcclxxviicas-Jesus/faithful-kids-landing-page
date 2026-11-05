@@ -25,9 +25,9 @@ The Wall Is Finished is a Bible story from Ezra/Nehemiah/Esther in the Old Testa
 
 ## What Is the Story of The Wall Is Finished for Kids?
 
-TITLE: The Wall Is Finished SERIES: The Return Home — Episode 6 SCRIPTURE: Nehemiah 6
+TITLE: The Wall Is Finished SERIES: The Return Home, Episode 6 SCRIPTURE: Nehemiah 6
 
-Have you ever been SO close to finishing something — a school project, a race, a goal you've been grinding on — and right at the end, everything tries to stop you? That's exactly what happened to Nehemiah. And let me tell you, the attacks came from EVERY direction.
+Have you ever been SO close to finishing something, a school project, a race, a goal you've been grinding on, and right at the end, everything tries to stop you? That's exactly what happened to Nehemiah. And let me tell you, the attacks came from EVERY direction.
 
 The wall was almost done. The gaps were closed, the stones were stacked, and the enemies of Israel were getting desperate. See, when you're close to a breakthrough, that's when the opposition gets loudest.
 
@@ -45,7 +45,7 @@ The story of The Wall Is Finished teaches children important lessons about rebui
 
 ## Key Bible Verse
 
-> *"It is finished."* — John 19:30
+> *"It is finished."* (John 19:30)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How many days did it take to complete the wall around Jerusalem?
 
-**52 days.** The wall was completed in just 52 days — an astonishing achievement that stunned everyone, including Israel's enemies.
+**52 days.** The wall was completed in just 52 days, an astonishing achievement that stunned everyone, including Israel's enemies.
 
 ### Why were the surrounding nations afraid when the wall was finished?
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Wall Is Finished about for kids?
 
-The Wall Is Finished is a story from Ezra/Nehemiah/Esther. TITLE: The Wall Is Finished SERIES: The Return Home — Episode 6 SCRIPTURE: Nehemiah 6
+The Wall Is Finished is a story from Ezra/Nehemiah/Esther. TITLE: The Wall Is Finished SERIES: The Return Home, Episode 6 SCRIPTURE: Nehemiah 6
 
 ### What age is the story of The Wall Is Finished appropriate for?
 

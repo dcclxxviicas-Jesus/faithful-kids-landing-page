@@ -25,13 +25,13 @@ David on the Run is a Bible story from 1 Samuel in the Old Testament. This retel
 
 ## What Is the Story of David on the Run for Kids?
 
-THE RISE OF KINGS — Episode 7: David on the Run Based on 1 Samuel 21-26 | Narrated by Jesus
+THE RISE OF KINGS, Episode 7: David on the Run Based on 1 Samuel 21-26 | Narrated by Jesus
 
-Hey, welcome back! If you thought David's life would get easier after being anointed king, think again. Today's episode is about the HARDEST chapter of David's journey — the years he spent running for his life.
+Hey, welcome back! If you thought David's life would get easier after being anointed king, think again. Today's episode is about the HARDEST chapter of David's journey, the years he spent running for his life.
 
-Saul wasn't just angry anymore. He was HUNTING David. He assembled three THOUSAND elite soldiers — three thousand! — with one mission: find David and kill him. The future king of Israel was now the most wanted man in the country.
+Saul wasn't just angry anymore. He was HUNTING David. He assembled three THOUSAND elite soldiers, three thousand!, with one mission: find David and kill him. The future king of Israel was now the most wanted man in the country.
 
-So where did David go? Caves. Deserts. Wilderness. He hid in the cave of Adullam, deep in the rocky hills. And here's one of my favorite details — people started showing up. Not soldiers. Not warriors. The Bible says everyone who was in distress, in debt, or discontented gathered around David. About four hundred men that nobody else wanted. Outcasts. Rejects. The forgotten ones.
+So where did David go? Caves. Deserts. Wilderness. He hid in the cave of Adullam, deep in the rocky hills. And here's one of my favorite details, people started showing up. Not soldiers. Not warriors. The Bible says everyone who was in distress, in debt, or discontented gathered around David. About four hundred men that nobody else wanted. Outcasts. Rejects. The forgotten ones.
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of David on the Run teaches children important lessons about courage, 
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
 There is a free [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath) on our site too, printable on one sheet with no sign-up.
 
@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### About how many men joined David's group?
 
-**About 400 men.** They were people in distress, in debt, or discontented -- and David became their leader in the cave of Adullam (1 Samuel 22:1-2).
+**About 400 men.** They were people in distress, in debt, or discontented, and David became their leader in the cave of Adullam (1 Samuel 22:1-2).
 
 ### What did David do during his time hiding in caves and deserts?
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of David on the Run about for kids?
 
-David on the Run is a story from 1 Samuel. THE RISE OF KINGS — Episode 7: David on the Run Based on 1 Samuel 21-26 | Narrated by Jesus
+David on the Run is a story from 1 Samuel. THE RISE OF KINGS, Episode 7: David on the Run Based on 1 Samuel 21-26 | Narrated by Jesus
 
 ### What age is the story of David on the Run appropriate for?
 

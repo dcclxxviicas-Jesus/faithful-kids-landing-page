@@ -10,15 +10,15 @@ dateModified: "2026-08-16"
 
 # Who Was Noah? Bible Story for Kids
 
-Noah's Ark is one of the very first Bible stories kids hear. There's something magical about the image of a huge boat filled with animals, two by two, floating on a giant flood. But the story of Noah is so much more than a cute nursery theme. It's a story about obedience when nobody else believes you, patience that lasts more than a year, and a God who keeps His promises -- sealed with a rainbow.
+Noah's Ark is one of the very first Bible stories kids hear. There's something magical about the image of a huge boat filled with animals, two by two, floating on a giant flood. But the story of Noah is so much more than a cute nursery theme. It's a story about obedience when nobody else believes you, patience that lasts more than a year, and a God who keeps His promises, sealed with a rainbow.
 
 Here's Noah's story from Genesis 6-9, explained in a way that kids can understand and parents can build on.
 
 ## The World Goes Wrong (Genesis 6:1-8)
 
-To understand Noah, we need to understand what the world looked like before the flood -- the story that began back in [the Garden and the Fall](/blog/the-garden-and-the-fall-for-kids). The Bible says that people had become deeply wicked. "Every inclination of the thoughts of the human heart was only evil all the time" (Genesis 6:5). Violence and cruelty were everywhere. The world God had created as good and beautiful had been filled with darkness.
+To understand Noah, we need to understand what the world looked like before the flood, the story that began back in [the Garden and the Fall](/blog/the-garden-and-the-fall-for-kids). The Bible says that people had become deeply wicked. "Every inclination of the thoughts of the human heart was only evil all the time" (Genesis 6:5). Violence and cruelty were everywhere. The world God had created as good and beautiful had been filled with darkness.
 
-God was grieved. The Bible says His heart was filled with pain (Genesis 6:6). This is an important detail for kids -- God isn't a distant figure who doesn't care. He was heartbroken by what His creation had become.
+God was grieved. The Bible says His heart was filled with pain (Genesis 6:6). This is an important detail for kids: God isn't a distant figure who doesn't care. He was heartbroken by what His creation had become.
 
 But in the middle of all this darkness, there was one man who was different.
 
@@ -30,11 +30,11 @@ Noah was a righteous man, blameless among the people of his time. He walked fait
 
 ## God Tells Noah to Build an Ark (Genesis 6:9-22)
 
-God told Noah something shocking: He was going to send a flood to cover the entire earth. But He was going to save Noah and his family. God gave Noah very specific instructions to build an ark -- a giant boat.
+God told Noah something shocking: He was going to send a flood to cover the entire earth. But He was going to save Noah and his family. God gave Noah very specific instructions to build an ark, a giant boat.
 
 The measurements God gave were enormous. The ark was about 450 feet long, 75 feet wide, and 45 feet tall. That's roughly the length of one and a half football fields. It had three decks, one door, and a window near the top. It was made of cypress wood and sealed inside and out with pitch (a waterproof coating).
 
-God told Noah to bring his wife, his three sons (Shem, Ham, and Japheth), and their wives. That's eight people total. He also told Noah to bring two of every kind of animal -- male and female -- and seven pairs of certain clean animals. Plus enough food for everyone.
+God told Noah to bring his wife, his three sons (Shem, Ham, and Japheth), and their wives. That's eight people total. He also told Noah to bring two of every kind of animal, male and female, and seven pairs of certain clean animals. Plus enough food for everyone.
 
 And here's the amazing part: Noah did everything exactly as God commanded (Genesis 6:22).
 
@@ -50,11 +50,11 @@ Year after year, Noah kept building. Year after year, people kept mocking. And y
 
 **Key lesson for kids:** Sometimes doing the right thing means doing something nobody else understands. That takes incredible courage and patience. Noah didn't stop building just because people made fun of him. He kept going because he trusted God, not people's opinions. (For more heroes who obeyed against the odds, see our [Bible stories about obedience for kids](/blog/bible-stories-about-obedience-for-kids).)
 
-Pair this with our free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark), one sheet, ready for the kitchen table or the classroom.
 
 ## The Animals Come (Genesis 7:1-16)
 
-When the ark was finished, God told Noah it was time. The animals came to the ark -- two by two, just as God had said. The Bible says "they came to Noah and entered the ark" (Genesis 7:9). Noah didn't have to chase them down or round them up. God brought them.
+When the ark was finished, God told Noah it was time. The animals came to the ark, two by two, just as God had said. The Bible says "they came to Noah and entered the ark" (Genesis 7:9). Noah didn't have to chase them down or round them up. God brought them.
 
 Lions and lambs. Eagles and earthworms. Elephants and insects. Every kind of creature on earth came to the ark. It must have been an incredible sight. (Curious kids can meet more creatures in [Animals of the Bible for kids](/blog/animals-of-the-bible-for-kids).)
 
@@ -92,7 +92,7 @@ God was pleased with Noah's worship. He made a promise: "Never again will I curs
 
 ## The Rainbow Promise (Genesis 9:8-17)
 
-God made a covenant -- a binding promise -- with Noah, his descendants, and every living creature on earth. He said, "Never again will there be a flood to destroy the earth" (Genesis 9:11).
+God made a covenant, a binding promise, with Noah, his descendants, and every living creature on earth. He said, "Never again will there be a flood to destroy the earth" (Genesis 9:11).
 
 And to seal this promise, God set a rainbow in the sky.
 
@@ -112,30 +112,30 @@ Noah's story is packed with lessons that kids can carry for their entire lives:
 - **One person can make a difference.** Noah was one righteous man in a world full of wickedness, and God used him to preserve life on earth.
 - **Worship first.** When God brings us through something, our first response should be gratitude.
 
-Noah's story reminds us that God is both just and merciful. He takes sin seriously, but He always provides a way of rescue for those who trust Him. That pattern runs through the entire Bible -- all the way to Jesus. Continue the Genesis journey with [Who Was Abraham? for kids](/blog/who-was-abraham-for-kids), or read our fuller retelling in [Noah and the Great Flood for kids](/blog/noah-and-the-great-flood-for-kids).
+Noah's story reminds us that God is both just and merciful. He takes sin seriously, but He always provides a way of rescue for those who trust Him. That pattern runs through the entire Bible: all the way to Jesus. Continue the Genesis journey with [Who Was Abraham? for kids](/blog/who-was-abraham-for-kids), or read our fuller retelling in [Noah and the Great Flood for kids](/blog/noah-and-the-great-flood-for-kids).
 
 ## Watch on Faithful Kids
 
-Bring Noah's adventure to life for your kids with animated video lessons on Faithful Kids. Watch the ark being built, the animals arriving, and the rainbow appearing -- all in engaging episodes designed for kids ages 7-15 with quizzes and reflections.
+Bring Noah's adventure to life for your kids with animated video lessons on Faithful Kids. Watch the ark being built, the animals arriving, and the rainbow appearing, all in engaging episodes designed for kids ages 7-15 with quizzes and reflections.
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
-If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names) -- each with its meaning, verse, and the story it comes from.
+If you're choosing a name, we keep full lists of [biblical boy names](/blog/biblical-boy-names) and [biblical girl names](/blog/biblical-girl-names), each with its meaning, verse, and the story it comes from.
 
 ## Frequently Asked Questions
 
 ### How big was Noah's Ark?
 
-According to Genesis 6:15, the ark was 300 cubits long, 50 cubits wide, and 30 cubits high. Using the standard cubit of about 18 inches, that makes the ark approximately 450 feet long, 75 feet wide, and 45 feet tall. That's about one and a half football fields long and over four stories tall, giving it roughly 1.5 million cubic feet of interior space -- enough to hold thousands of animals.
+According to Genesis 6:15, the ark was 300 cubits long, 50 cubits wide, and 30 cubits high. Using the standard cubit of about 18 inches, that makes the ark approximately 450 feet long, 75 feet wide, and 45 feet tall. That's about one and a half football fields long and over four stories tall, giving it roughly 1.5 million cubic feet of interior space, enough to hold thousands of animals.
 
 ### How long was Noah on the ark?
 
-Noah and his family were on the ark for approximately 370 days -- just over a year. They entered the ark seven days before the rain began, endured 40 days of rain, waited 150 days for the water to recede, and then waited several more months until the earth was dry enough to leave.
+Noah and his family were on the ark for approximately 370 days, just over a year. They entered the ark seven days before the rain began, endured 40 days of rain, waited 150 days for the water to recede, and then waited several more months until the earth was dry enough to leave.
 
 ### How did Noah fit all the animals on the ark?
 
-The Bible says Noah took two of every "kind" of animal, not every species. Many scholars believe "kind" refers to broader animal families (like the dog kind or the cat kind), which would significantly reduce the total number of animals needed. Even so, the ark's massive size -- estimated at 1.5 million cubic feet -- provided ample space for thousands of animals plus food storage.
+The Bible says Noah took two of every "kind" of animal, not every species. Many scholars believe "kind" refers to broader animal families (like the dog kind or the cat kind), which would significantly reduce the total number of animals needed. Even so, the ark's massive size, estimated at 1.5 million cubic feet, provided ample space for thousands of animals plus food storage.
 
 ### What does the rainbow symbolize in Christianity?
 
-The rainbow is a sign of God's covenant promise to never again destroy the earth with a flood (Genesis 9:12-17). For Christians, it represents God's faithfulness and mercy. Every rainbow is a visual reminder that God keeps His promises. It's a wonderful teaching moment with kids -- next time you see a rainbow together, talk about how God put it there to remind us of His love.
+The rainbow is a sign of God's covenant promise to never again destroy the earth with a flood (Genesis 9:12-17). For Christians, it represents God's faithfulness and mercy. Every rainbow is a visual reminder that God keeps His promises. It's a wonderful teaching moment with kids: next time you see a rainbow together, talk about how God put it there to remind us of His love.

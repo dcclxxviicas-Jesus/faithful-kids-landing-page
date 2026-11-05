@@ -121,7 +121,7 @@ export default async function TopicHubPage({ params }: Props) {
           {posts.map(post => (
             <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
               <img
-                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp`}
+                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=3`}
                 alt={post.title}
                 width={896}
                 height={512}
@@ -165,7 +165,7 @@ export default async function TopicHubPage({ params }: Props) {
             <h2>Start Your Child&apos;s Bible Journey</h2>
             <p>
               300+ narrated video lessons with comprehension quizzes after every story.
-              From Genesis to Revelation — safe, ad-free, and made for kids.
+              From Genesis to Revelation, safe, ad-free, and made for kids.
             </p>
             <a href="/quiz" className="btn-primary btn-lg" style={{ textDecoration: 'none', display: 'inline-block' }}>
               Get started

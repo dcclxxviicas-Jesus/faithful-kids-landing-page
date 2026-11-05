@@ -25,13 +25,13 @@ Looking Forward is a Bible story from Ezra/Nehemiah/Esther in the Old Testament.
 
 ## What Is the Story of Looking Forward for Kids?
 
-TITLE: Looking Forward SERIES: The Return Home — Episode 10 SCRIPTURE: Malachi; Isaiah 40, 9:6-7
+TITLE: Looking Forward SERIES: The Return Home, Episode 10 SCRIPTURE: Malachi; Isaiah 40, 9:6-7
 
-This is it. The final episode. Not just of this series — but of the entire Old Testament story. Everything we've walked through together leads right here.
+This is it. The final episode. Not just of this series, but of the entire Old Testament story. Everything we've walked through together leads right here.
 
 The people are back in the land. The temple is rebuilt. The walls of Jerusalem are standing. But things aren't perfect. The people start drifting again. They get sloppy with their worship. They stop giving their best to God. Sound familiar? Same pattern, over and over.
 
-And then God sends one final prophet. His name is Malachi — and he carries the last message of the Old Testament.
+And then God sends one final prophet. His name is Malachi, and he carries the last message of the Old Testament.
 
 This story comes from Ezra/Nehemiah/Esther and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Looking Forward teaches children important lessons about rebuilding
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -69,11 +69,11 @@ After watching the video, see if your child can answer these questions:
 
 ### How long was the period of silence between the Old and New Testaments?
 
-**400 years.** After Malachi's prophecy, there were 400 years with no prophets, no miracles, and no new messages from God — until the birth of Jesus in Bethlehem.
+**400 years.** After Malachi's prophecy, there were 400 years with no prophets, no miracles, and no new messages from God, until the birth of Jesus in Bethlehem.
 
 ### According to Isaiah's prophecy, what would the coming child be called?
 
-**Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.** Isaiah 9:6 prophesied that the child would be called "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace" — names that describe who Jesus truly is.
+**Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.** Isaiah 9:6 prophesied that the child would be called "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace", names that describe who Jesus truly is.
 
 ## Discussion Questions for Families
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Looking Forward about for kids?
 
-Looking Forward is a story from Ezra/Nehemiah/Esther. TITLE: Looking Forward SERIES: The Return Home — Episode 10 SCRIPTURE: Malachi; Isaiah 40, 9:6-7
+Looking Forward is a story from Ezra/Nehemiah/Esther. TITLE: Looking Forward SERIES: The Return Home, Episode 10 SCRIPTURE: Malachi; Isaiah 40, 9:6-7
 
 ### What age is the story of Looking Forward appropriate for?
 

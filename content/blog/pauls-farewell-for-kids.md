@@ -25,13 +25,13 @@ Paul's Farewell is a Bible story from Acts in the New Testament. This retelling 
 
 ## What Is the Story of Paul's Farewell for Kids?
 
-PAUL'S ADVENTURES — EPISODE 7: PAUL'S FAREWELL Based on Acts 20:17-38 Series: Paul's Adventures | Episode 7 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 7: PAUL'S FAREWELL Based on Acts 20:17-38 Series: Paul's Adventures | Episode 7 of 10 Target audience: Kids ages 7-15
 
 This one is going to hit you right in the heart. I'm warning you now.
 
-Paul was on his way to Jerusalem. He knew what was waiting for him there — prison, chains, hardship. The Holy Spirit had been telling him at every stop along the way: "Paul, suffering is coming." And Paul didn't flinch. Not once.
+Paul was on his way to Jerusalem. He knew what was waiting for him there, prison, chains, hardship. The Holy Spirit had been telling him at every stop along the way: "Paul, suffering is coming." And Paul didn't flinch. Not once.
 
-But before he got to Jerusalem, he made one important stop. He sent a message to the elders of the church in Ephesus — the leaders he had poured into for three years — and asked them to meet him at a place called Miletus.
+But before he got to Jerusalem, he made one important stop. He sent a message to the elders of the church in Ephesus, the leaders he had poured into for three years, and asked them to meet him at a place called Miletus.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -45,9 +45,9 @@ The story of Paul's Farewell teaches children important lessons about adventure,
 
 ## Key Bible Verse
 
-> *"For I am not ashamed of the gospel."* — Romans 1:16
+> *"For I am not ashamed of the gospel."* (Romans 1:16)
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -116,7 +116,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Paul's Farewell about for kids?
 
-Paul's Farewell is a story from Acts. PAUL'S ADVENTURES — EPISODE 7: PAUL'S FAREWELL Based on Acts 20:17-38 Series: Paul's Adventures | Episode 7 of 10 Target audience: Kids ages 7-15
+Paul's Farewell is a story from Acts. PAUL'S ADVENTURES, EPISODE 7: PAUL'S FAREWELL Based on Acts 20:17-38 Series: Paul's Adventures | Episode 7 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Paul's Farewell appropriate for?
 

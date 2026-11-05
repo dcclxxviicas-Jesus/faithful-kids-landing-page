@@ -47,7 +47,22 @@ def clean(script: str) -> str:
     # Collapse 3+ newlines, strip stage directions in [brackets] if any.
     script = re.sub(r"\[[^\]]{0,80}\]", "", script)
     script = re.sub(r"\n{3,}", "\n\n", script).strip()
-    return script
+    return no_em_dash(script)
+
+
+def no_em_dash(text: str) -> str:
+    """The production scripts still use em-dashes; the site does not.
+
+    Strip them on the way in, or the next regeneration quietly puts them back
+    into published transcript text. Narration is plain prose, so a comma is
+    right nearly every time; a dash introducing a capitalised clause reads
+    better as a full stop.
+    """
+    def join(m):
+        after = m.group(1)
+        return (". " + after) if after[:1].isupper() else (", " + after)
+    text = re.sub(r"\s*\u2014\s*(\S)", join, text)
+    return re.sub(r"\s+([,.;:!?])", r"\1", text)
 
 found = missing = 0
 for md in sorted(BLOG.glob("*.md")):

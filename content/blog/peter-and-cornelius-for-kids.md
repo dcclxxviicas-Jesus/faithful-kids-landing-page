@@ -23,9 +23,9 @@ Peter and Cornelius is a Bible story from Acts in the New Testament. This retell
 
 ## What Is the Story of Peter and Cornelius for Kids?
 
-THE EARLY CHURCH — EPISODE 7: PETER AND CORNELIUS Based on Acts 10 Series: The Early Church | Episode 7 of 10 Target audience: Kids ages 7-15
+THE EARLY CHURCH: EPISODE 7, PETER AND CORNELIUS Based on Acts 10 Series: The Early Church | Episode 7 of 10 Target audience: Kids ages 7-15
 
-Alright — this episode changes EVERYTHING. And I mean everything.
+Alright, this episode changes EVERYTHING. And I mean everything.
 
 Up to this point, my followers were almost entirely Jewish. Most of them assumed my message was just for Jewish people.
 
@@ -43,7 +43,7 @@ The story of Peter and Cornelius teaches children important lessons about commun
 
 ## Key Bible Verse
 
-> *"God does not show favoritism."* — Acts 10:34
+> *"God does not show favoritism."* (Acts 10:34)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Peter see in his vision on the rooftop?
 
-Peter saw heaven open and a huge sheet lowered down, filled with animals that Jewish law considered impure and forbidden to eat. A voice told him, "Do not call anything impure that God has made clean." This vision was preparing Peter to understand that God's message was for ALL people — not just the Jewish community.
+Peter saw heaven open and a huge sheet lowered down, filled with animals that Jewish law considered impure and forbidden to eat. A voice told him, "Do not call anything impure that God has made clean." This vision was preparing Peter to understand that God's message was for ALL people, not just the Jewish community.
 
 ### Who was Cornelius?
 
-Cornelius was a Roman military officer — a Gentile, not Jewish. But he feared God, prayed regularly, and gave generously to those in need. God saw his heart and sent an angel to direct him to Peter.
+Cornelius was a Roman military officer, a Gentile, not Jewish. But he feared God, prayed regularly, and gave generously to those in need. God saw his heart and sent an angel to direct him to Peter.
 
 ### What happened while Peter was preaching at Cornelius's house?
 
-While Peter was still speaking, the Holy Spirit came upon every Gentile in the room with the same power and gifts as Pentecost. This proved that God's gift was for everyone — not just Jewish believers — and Peter baptized them all.
+While Peter was still speaking, the Holy Spirit came upon every Gentile in the room with the same power and gifts as Pentecost. This proved that God's gift was for everyone, not just Jewish believers, and Peter baptized them all.
 
 
 ## Discussion Questions for Families
@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Peter and Cornelius about for kids?
 
-Peter and Cornelius is a story from Acts. THE EARLY CHURCH — EPISODE 7: PETER AND CORNELIUS Based on Acts 10 Series: The Early Church | Episode 7 of 10 Target audience: Kids ages 7-15
+Peter and Cornelius is a story from Acts. THE EARLY CHURCH: EPISODE 7, PETER AND CORNELIUS Based on Acts 10 Series: The Early Church | Episode 7 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Peter and Cornelius appropriate for?
 

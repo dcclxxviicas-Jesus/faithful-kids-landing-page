@@ -25,13 +25,13 @@ Ezra Reads the Law is a Bible story from Ezra/Nehemiah/Esther in the Old Testame
 
 ## What Is the Story of Ezra Reads the Law for Kids?
 
-TITLE: Ezra Reads the Law SERIES: The Return Home — Episode 3 SCRIPTURE: Nehemiah 8
+TITLE: Ezra Reads the Law SERIES: The Return Home, Episode 3 SCRIPTURE: Nehemiah 8
 
-Have you ever heard something for the first time that completely changed how you saw everything? Like finding out a rule you'd been breaking your whole life — not because you were rebellious, but because nobody ever TOLD you?
+Have you ever heard something for the first time that completely changed how you saw everything? Like finding out a rule you'd been breaking your whole life, not because you were rebellious, but because nobody ever TOLD you?
 
 That's exactly what happened in this story, and it's one of the most powerful moments in the Bible.
 
-The people had come home. The temple was rebuilt. But something was still missing. They had the building — but they'd lost the WORD. For decades in Babylon, most of them had never heard God's Law read aloud. They didn't know the commands. They didn't know the promises. They were living in the dark without even realizing it.
+The people had come home. The temple was rebuilt. But something was still missing. They had the building, but they'd lost the WORD. For decades in Babylon, most of them had never heard God's Law read aloud. They didn't know the commands. They didn't know the promises. They were living in the dark without even realizing it.
 
 This story comes from Ezra/Nehemiah/Esther and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Ezra Reads the Law teaches children important lessons about rebuild
 
 ## Key Bible Verse
 
-> *"The hand of the Lord my God was on me."* — Ezra 7:28
+> *"The hand of the Lord my God was on me."* (Ezra 7:28)
 
 For quiet time afterwards, print the free [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) and let them color while you talk it through.
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How long did Ezra read the Law to the people?
 
-**From sunrise to midday — about 6 hours.** Ezra read from sunrise to midday, which was roughly six hours. And the people stood and listened the entire time!
+**From sunrise to midday, about 6 hours.** Ezra read from sunrise to midday, which was roughly six hours. And the people stood and listened the entire time!
 
 ### Who helped explain the meaning of the Law to the people as Ezra read?
 
@@ -75,7 +75,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What famous verse comes from this passage?
 
-**"The joy of the Lord is your strength".** Nehemiah told the people, "The joy of the Lord is your strength" (Nehemiah 8:10). Conviction from God isn't meant to crush you — it's meant to guide you back.
+**"The joy of the Lord is your strength".** Nehemiah told the people, "The joy of the Lord is your strength" (Nehemiah 8:10). Conviction from God isn't meant to crush you; it's meant to guide you back.
 
 ## Discussion Questions for Families
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Ezra Reads the Law about for kids?
 
-Ezra Reads the Law is a story from Ezra/Nehemiah/Esther. TITLE: Ezra Reads the Law SERIES: The Return Home — Episode 3 SCRIPTURE: Nehemiah 8
+Ezra Reads the Law is a story from Ezra/Nehemiah/Esther. TITLE: Ezra Reads the Law SERIES: The Return Home, Episode 3 SCRIPTURE: Nehemiah 8
 
 ### What age is the story of Ezra Reads the Law appropriate for?
 

@@ -8,7 +8,7 @@ export const dynamic = 'force-dynamic'
 // Never indexed, and robots.txt disallows /sign/ as well. A contract carrying
 // someone's name and fee must not end up in a search result.
 export const metadata: Metadata = {
-  title: 'Agreement — Faithful Kids',
+  title: 'Agreement: Faithful Kids',
   robots: { index: false, follow: false, nocache: true },
 }
 
@@ -25,7 +25,7 @@ function Shell({ children }: { children: React.ReactNode }) {
         <p className="sg-foot">
           Sent by Christian Alexander, Faithful Kids.<br />
           Questions, or want something changed? Email{' '}
-          <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a> — it comes
+          <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a> it comes
           straight to me.
         </p>
       </div>
@@ -49,7 +49,7 @@ const fmt = (iso: string | null) =>
     ? new Date(iso).toLocaleString('en-US', {
         dateStyle: 'long', timeStyle: 'short', timeZone: 'America/New_York',
       }) + ' ET'
-    : '—'
+    : '–'
 
 export default async function SignPage({ params }: { params: Promise<{ token: string }> }) {
   const { token } = await params
@@ -63,12 +63,12 @@ export default async function SignPage({ params }: { params: Promise<{ token: st
   if (row.status === 'voided') {
     return <Gate
       title="This agreement was withdrawn"
-      body="This version is no longer open for signature. If we're still working together, a replacement is on its way — email christian@faithfulkids.app if you haven't had it." />
+      body="This version is no longer open for signature. If we're still working together, a replacement is on its way; email christian@faithfulkids.app if you haven't had it." />
   }
   if (row.status !== 'signed' && new Date(row.expires_at) < new Date()) {
     return <Gate
       title="This link has expired"
-      body="Signing links are open for 30 days. Nothing is lost — email christian@faithfulkids.app and I'll send a new one with the same terms." />
+      body="Signing links are open for 30 days. Nothing is lost; email christian@faithfulkids.app and I'll send a new one with the same terms." />
   }
 
   // Idempotent: only the first view is recorded, so this is safe however many
@@ -91,7 +91,7 @@ export default async function SignPage({ params }: { params: Promise<{ token: st
         </div>
       ) : (
         <div className="sg-intro">
-          <strong>{row.signer_name}</strong> — here is the agreement for the work we discussed,
+          <strong>{row.signer_name}</strong> here is the agreement for the work we discussed,
           in full. Read it, and if you&apos;re happy, sign at the bottom. It takes one click.
           I&apos;ve already signed it on our side. If you want anything changed, reply to my email
           rather than signing and I&apos;ll send a revised version.
@@ -111,8 +111,8 @@ export default async function SignPage({ params }: { params: Promise<{ token: st
             <dt>Signed at</dt><dd>{fmt(row.signed_at)}</dd>
             <dt>Sent at</dt><dd>{fmt(row.sent_at)}</dd>
             <dt>First opened</dt><dd>{fmt(row.first_viewed_at)}</dd>
-            <dt>IP address</dt><dd>{row.signer_ip || '—'}</dd>
-            <dt>Consent</dt><dd>{row.consent_electronic ? 'Agreed to sign electronically' : '—'}</dd>
+            <dt>IP address</dt><dd>{row.signer_ip || '–'}</dd>
+            <dt>Consent</dt><dd>{row.consent_electronic ? 'Agreed to sign electronically' : '–'}</dd>
             <dt>Document</dt><dd>SHA-256 {row.body_sha256}</dd>
           </dl>
         </div>

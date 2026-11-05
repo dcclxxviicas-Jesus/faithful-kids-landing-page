@@ -25,11 +25,11 @@ Peter Denies Jesus is a Bible story from Matthew/Mark/Luke/John in the New Testa
 
 ## What Is the Story of Peter Denies Jesus for Kids?
 
-THE ROAD TO THE CROSS — Episode 7: Peter Denies Jesus Based on Luke 22:54-62 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS: Episode 7, Peter Denies Jesus Based on Luke 22:54-62 Series: The Road to the Cross | Target audience: Ages 7-15
 
-I need to tell you about my friend Peter — and the worst night of his life.
+I need to tell you about my friend Peter, and the worst night of his life.
 
-Just hours before, at the Last Supper, Peter had looked me in the eyes and said, "Lord, I'm ready to go with you to prison and to death." He meant it. Every word. Peter was always the bold one — the first to jump out of the boat, the first to draw a sword, the first to make a promise.
+Just hours before, at the Last Supper, Peter had looked me in the eyes and said, "Lord, I'm ready to go with you to prison and to death." He meant it. Every word. Peter was always the bold one, the first to jump out of the boat, the first to draw a sword, the first to make a promise.
 
 But I told him the truth. "Peter, before the rooster crows tomorrow morning, you will deny three times that you even know me."
 
@@ -45,9 +45,9 @@ The story of Peter Denies Jesus teaches children important lessons about sacrifi
 
 ## Key Bible Verse
 
-> *"Before the rooster crows today, you will disown me three times."* — Luke 22:34
+> *"Before the rooster crows today, you will disown me three times."* (Luke 22:34)
 
-Older kids who find coloring dull usually take to the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) instead — it plays in the browser or prints on one sheet.
+Older kids who find coloring dull usually take to the free [miracles of Jesus word search](/printables/bible-word-search/jesus-miracles) instead, it plays in the browser or prints on one sheet.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -71,7 +71,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus do when He looked at Peter across the courtyard?
 
-**Jesus looked at Peter with love and sadness.** There was no anger in that look — just the heartbreak of knowing what Peter was going through.
+**Jesus looked at Peter with love and sadness.** There was no anger in that look, just the heartbreak of knowing what Peter was going through.
 
 ### What did Peter do after realizing what he had done?
 
@@ -79,7 +79,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**Failure doesn't disqualify you.** Peter went on to become the leader of the early church. His worst night didn't end his story — getting back up is what mattered.
+**Failure doesn't disqualify you.** Peter went on to become the leader of the early church. His worst night didn't end his story, getting back up is what mattered.
 
 ## Discussion Questions for Families
 
@@ -116,7 +116,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Peter Denies Jesus about for kids?
 
-Peter Denies Jesus is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 7: Peter Denies Jesus Based on Luke 22:54-62 Series: The Road to the Cross | Target audience: Ages 7-15
+Peter Denies Jesus is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS, Episode 7: Peter Denies Jesus Based on Luke 22:54-62 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of Peter Denies Jesus appropriate for?
 

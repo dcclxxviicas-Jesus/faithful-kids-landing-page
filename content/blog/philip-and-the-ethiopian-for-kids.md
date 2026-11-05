@@ -25,11 +25,11 @@ Philip and the Ethiopian is a Bible story from Acts in the New Testament. This r
 
 ## What Is the Story of Philip and the Ethiopian for Kids?
 
-THE EARLY CHURCH — EPISODE 5: PHILIP AND THE ETHIOPIAN Based on Acts 8:26-40 Series: The Early Church | Episode 5 of 5 Target audience: Kids ages 7-15
+THE EARLY CHURCH, EPISODE 5: PHILIP AND THE ETHIOPIAN Based on Acts 8:26-40 Series: The Early Church | Episode 5 of 5 Target audience: Kids ages 7-15
 
 After I went back to my Father, some of the wildest stories happened in the most unexpected places. This one? A desert road in the middle of nowhere.
 
-An angel appeared to Philip the evangelist — one of the same servants chosen alongside Stephen. The angel said: "Get up. Go south. Take the desert road from Jerusalem to Gaza."
+An angel appeared to Philip the evangelist, one of the same servants chosen alongside Stephen. The angel said: "Get up. Go south. Take the desert road from Jerusalem to Gaza."
 
 No explanation. No "here's why." Just... go.
 
@@ -45,7 +45,7 @@ The story of Philip and the Ethiopian teaches children important lessons about c
 
 ## Key Bible Verse
 
-> *"How can I understand unless someone explains it to me?"* — Acts 8:31
+> *"How can I understand unless someone explains it to me?"* (Acts 8:31)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### Who was the man in the chariot?
 
-**An Ethiopian official — the treasurer for the queen of Ethiopia.**
+**An Ethiopian official, the treasurer for the queen of Ethiopia.**
 
 ### What was the Ethiopian reading when Philip found him?
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson from this story?
 
-**God sets up divine appointments — be ready to explain your faith when someone asks.**
+**God sets up divine appointments, be ready to explain your faith when someone asks.**
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Philip and the Ethiopian about for kids?
 
-Philip and the Ethiopian is a story from Acts. THE EARLY CHURCH — EPISODE 5: PHILIP AND THE ETHIOPIAN Based on Acts 8:26-40 Series: The Early Church | Episode 5 of 5 Target audience: Kids ages 7-15
+Philip and the Ethiopian is a story from Acts. THE EARLY CHURCH, EPISODE 5: PHILIP AND THE ETHIOPIAN Based on Acts 8:26-40 Series: The Early Church | Episode 5 of 5 Target audience: Kids ages 7-15
 
 ### What age is the story of Philip and the Ethiopian appropriate for?
 

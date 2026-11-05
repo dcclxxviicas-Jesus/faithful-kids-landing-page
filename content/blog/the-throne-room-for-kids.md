@@ -29,7 +29,7 @@ What if I told you there's a room so magnificent, so full of glory, that the mom
 
 He was on the island of Patmos when a voice like a trumpet said, "Come up here." And instantly, he was standing in the throne room of heaven.
 
-A throne — blazing with light. The One sitting on it radiated brilliance like jasper and ruby, like a living gemstone. Around the throne, an emerald rainbow shimmered, circling it like a ring of fire and light.
+A throne, blazing with light. The One sitting on it radiated brilliance like jasper and ruby, like a living gemstone. Around the throne, an emerald rainbow shimmered, circling it like a ring of fire and light.
 
 This story comes from Hebrews/James/Revelation and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of The Throne Room teaches children important lessons about faith, hop
 
 ## Key Bible Verse
 
-> *"Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come."* — Revelation 4:8
+> *"Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come."* (Revelation 4:8)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,15 +55,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What did the four living creatures say day and night without stopping?
 
-The four living creatures never stopped declaring God's holiness — saying "Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come!" day and night, forever.
+The four living creatures never stopped declaring God's holiness, saying "Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come!" day and night, forever.
 
 ### Why did John start weeping when no one could open the scroll?
 
-The scroll held God's plan for the future. When no one in heaven or on earth could open it, John wept because it seemed like the story couldn't continue — until the Lamb stepped forward.
+The scroll held God's plan for the future. When no one in heaven or on earth could open it, John wept because it seemed like the story couldn't continue, until the Lamb stepped forward.
 
 ### When John was told "the Lion of Judah has conquered," what did he actually see?
 
-Everyone expected a conquering lion, but Jesus appeared as a Lamb that had been slain. This is the great surprise of heaven — Jesus conquered not through violence or force, but by sacrificing His life. True power looks like love.
+Everyone expected a conquering lion, but Jesus appeared as a Lamb that had been slain. This is the great surprise of heaven, Jesus conquered not through violence or force, but by sacrificing His life. True power looks like love.
 
 
 ## Discussion Questions for Families

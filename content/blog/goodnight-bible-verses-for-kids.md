@@ -10,7 +10,7 @@ dateModified: "2026-08-16"
 
 # 10 Goodnight Bible Verses for Kids (Bedtime Scripture)
 
-Bedtime can be one of the most beautiful moments in a family's day -- or one of the most challenging. Kids might be stalling, scared of the dark, worried about tomorrow, or just wound up from the day. Whatever the bedtime mood, Scripture has a way of settling little hearts and pointing them toward peace.
+Bedtime can be one of the most beautiful moments in a family's day, or one of the most challenging. Kids might be stalling, scared of the dark, worried about tomorrow, or just wound up from the day. Whatever the bedtime mood, Scripture has a way of settling little hearts and pointing them toward peace.
 
 Reading a Bible verse together before sleep does more than calm nerves. It plants seeds of faith in your child's heart. Night after night, those words sink in. Before long, your child will know deep in their bones that God watches over them while they sleep, that they don't need to be afraid, and that tomorrow is in His hands.
 
@@ -44,21 +44,21 @@ For kids who are afraid of the dark or worried about bad things happening at nig
 
 **Bedtime idea:** Ask your child to close their eyes and imagine being inside a strong, safe castle. The walls are thick, the doors are locked, and God Himself is standing guard. "That's what it means to dwell in God's shelter," you can say.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out — four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet, no sign-up.
 
 ## 4. Psalm 121:3-4
 
-**"He will not let your foot slip -- he who watches over you will not slumber; indeed, he who watches over Israel will neither slumber nor sleep."**
+**"He will not let your foot slip; he who watches over you will not slumber; indeed, he who watches over Israel will neither slumber nor sleep."**
 
 Here's a truth that can completely change how a child feels about going to sleep: God never sleeps. While your child closes their eyes and drifts off, God is wide awake, watching over them. He doesn't take breaks. He doesn't nod off. He is alert and attentive all night long.
 
-**How to talk about it with kids:** Say, "You know how Mom or Dad checks on you when you're sleeping? Well, God is doing that too -- all night long. He never gets tired, and He never falls asleep. You can rest because He's awake."
+**How to talk about it with kids:** Say, "You know how Mom or Dad checks on you when you're sleeping? Well, God is doing that too, all night long. He never gets tired, and He never falls asleep. You can rest because He's awake."
 
 ## 5. Matthew 11:28
 
 **"Come to me, all you who are weary and burdened, and I will give you rest."**
 
-Jesus spoke these words to people who were tired and worn out. Kids get tired and worn out too -- from school, from activities, from social pressures, from just being kids in a busy world. Jesus's invitation is so gentle: "Come to Me. I will give you rest."
+Jesus spoke these words to people who were tired and worn out. Kids get tired and worn out too, from school, from activities, from social pressures, from just being kids in a busy world. Jesus's invitation is so gentle: "Come to Me. I will give you rest."
 
 Bedtime is the perfect moment to accept this invitation. The day is done. The worries can wait. Jesus says, "Come, and rest."
 
@@ -66,9 +66,9 @@ Bedtime is the perfect moment to accept this invitation. The day is done. The wo
 
 ## 6. Psalm 127:2
 
-**"In vain you rise early and stay up late, toiling for food to eat -- for he grants sleep to those he loves."**
+**"In vain you rise early and stay up late, toiling for food to eat; for he grants sleep to those he loves."**
 
-God grants sleep to those He loves. What a tender verse. Sleep isn't just a biological necessity. According to this verse, it's a gift from God to His beloved children. When your child lies down at night, they are receiving a gift -- the gift of rest from a God who loves them deeply.
+God grants sleep to those He loves. What a tender verse. Sleep isn't just a biological necessity. According to this verse, it's a gift from God to His beloved children. When your child lies down at night, they are receiving a gift, the gift of rest from a God who loves them deeply.
 
 **How to talk about it with kids:** Say, "Did you know that sleep is actually a gift from God? He loves you so much that He gives you rest every single night. Closing your eyes and falling asleep is like unwrapping a present from God."
 
@@ -76,7 +76,7 @@ God grants sleep to those He loves. What a tender verse. Sleep isn't just a biol
 
 **"On my bed I remember you; I think of you through the watches of the night. Because you are my help, I sing in the shadow of your wings."**
 
-David turned bedtime into prayer time. While lying in bed, he thought about God. He remembered how God had helped him. And instead of worrying about tomorrow, he felt safe -- like a baby bird tucked under its mother's wings.
+David turned bedtime into prayer time. While lying in bed, he thought about God. He remembered how God had helped him. And instead of worrying about tomorrow, he felt safe, like a baby bird tucked under its mother's wings.
 
 This verse teaches kids that bedtime is a wonderful time to think about God. Instead of replaying worries or scary thoughts, they can replay the good things God did that day.
 
@@ -86,7 +86,7 @@ This verse teaches kids that bedtime is a wonderful time to think about God. Ins
 
 **"You will keep in perfect peace those whose minds are steadfast, because they trust in you."**
 
-Perfect peace. Not sort-of peace or almost peace -- perfect peace. And how do we get it? By keeping our minds focused on God and trusting Him. When a child's mind is racing at bedtime with worries and what-ifs, this verse points them back to the source of peace. For more scriptures on this theme, see our collection of [Bible verses about peace for kids](/blog/bible-verses-about-peace-for-kids).
+Perfect peace. Not sort-of peace or almost peace, perfect peace. And how do we get it? By keeping our minds focused on God and trusting Him. When a child's mind is racing at bedtime with worries and what-ifs, this verse points them back to the source of peace. For more scriptures on this theme, see our collection of [Bible verses about peace for kids](/blog/bible-verses-about-peace-for-kids).
 
 **How to talk about it with kids:** Explain "steadfast" in kid-friendly terms: "It means keeping your mind on God instead of letting it wander to scary thoughts. When you think about how much God loves you and how He's taking care of you, your mind settles down and you feel peace."
 
@@ -134,16 +134,16 @@ Want to make Bible learning a daily joy for your kids? Faithful Kids offers shor
 
 ### What age should I start reading bedtime Bible verses with my child?
 
-You can start from infancy. Even babies benefit from hearing your voice read Scripture -- it builds the habit and the association between bedtime and God's Word. By ages 3-4, children can start to understand simple concepts like "God loves you" and "God keeps you safe." By ages 6-8, they can begin memorizing short verses. The earlier you start, the more natural it becomes.
+You can start from infancy. Even babies benefit from hearing your voice read Scripture, it builds the habit and the association between bedtime and God's Word. By ages 3-4, children can start to understand simple concepts like "God loves you" and "God keeps you safe." By ages 6-8, they can begin memorizing short verses. The earlier you start, the more natural it becomes.
 
 ### My child is afraid of the dark. Which verse should I use?
 
-Psalm 4:8 and Psalm 91:1-2 are especially powerful for kids who fear the dark. They focus specifically on God's protection and safety during the night. You might also try Psalm 121:3-4, which reminds children that God never sleeps -- He's always watching over them, even in the darkest night.
+Psalm 4:8 and Psalm 91:1-2 are especially powerful for kids who fear the dark. They focus specifically on God's protection and safety during the night. You might also try Psalm 121:3-4, which reminds children that God never sleeps. He's always watching over them, even in the darkest night.
 
 ### How long should a bedtime Scripture routine take?
 
-Keep it short and sweet -- five minutes is plenty. Read one verse, talk about it briefly, and say a short prayer. If you make it too long or complicated, it becomes a chore rather than a comfort. The goal is consistency, not length. Five peaceful minutes every night will have a much bigger impact than a 30-minute session once a week.
+Keep it short and sweet; five minutes is plenty. Read one verse, talk about it briefly, and say a short prayer. If you make it too long or complicated, it becomes a chore rather than a comfort. The goal is consistency, not length. Five peaceful minutes every night will have a much bigger impact than a 30-minute session once a week.
 
 ### Can I use these verses with teenagers too?
 
-Absolutely. Teens deal with anxiety, stress, and sleep difficulties at even higher rates than younger children. The verses themselves are timeless. You might adjust your approach -- instead of reading aloud to them, text them a verse before bed, or write it on a note card for their nightstand. Many teens appreciate the quiet comfort of Scripture even if they don't show it outwardly.
+Absolutely. Teens deal with anxiety, stress, and sleep difficulties at even higher rates than younger children. The verses themselves are timeless. You might adjust your approach; instead of reading aloud to them, text them a verse before bed, or write it on a note card for their nightstand. Many teens appreciate the quiet comfort of Scripture even if they don't show it outwardly.

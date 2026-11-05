@@ -118,7 +118,7 @@ Parents sometimes worry that teaching humility will make their child a doormat. 
 2. **Model humility yourself.** Apologize to your kids when you are wrong. Say "I do not know" when you do not know. Ask for help in front of them.
 3. **Praise effort and character, not just achievement.** "I am proud of how hard you worked" matters more than "You are the best."
 4. **Teach them to celebrate others.** When a friend succeeds, practice being genuinely happy for them. "That is awesome that Sophia won the science fair!"
-5. **Read stories of humble heroes.** The Bible is full of them. David, Mary, Moses, John the Baptist, Jesus Himself. These are not weak people. They are the strongest people in Scripture. Jesus even built humility into His most famous sermon -- see [the Beatitudes explained for kids](/blog/beatitudes-for-kids-explained).
+5. **Read stories of humble heroes.** The Bible is full of them. David, Mary, Moses, John the Baptist, Jesus Himself. These are not weak people. They are the strongest people in Scripture. Jesus even built humility into His most famous sermon; see [the Beatitudes explained for kids](/blog/beatitudes-for-kids-explained).
 
 ---
 
@@ -132,7 +132,7 @@ Faithful Kids covers all nine of these stories in short video lessons with compr
 
 A related freebie: our [road to Emmaus coloring page](/printables/bible-coloring-pages/road-to-emmaus), drawn as clean line art for crayons and markers.
 
-Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids) -- every retelling is free and runs from Genesis to Revelation in order.
+Browse the full shelf at [200 Bible stories for kids](/bible-stories-for-kids): every retelling is free and runs from Genesis to Revelation in order.
 
 ## Frequently Asked Questions
 

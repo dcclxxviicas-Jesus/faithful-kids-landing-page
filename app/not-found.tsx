@@ -66,7 +66,7 @@ export default function NotFound() {
           </div>
           <div className="nf-art" aria-hidden="true">
             <img
-              src={`${CDN}/blog-images/the-lost-sheep-for-kids-hero.webp`}
+              src={`${CDN}/blog-images/the-lost-sheep-for-kids-hero.webp?v=3`}
               alt=""
               width={1536}
               height={1024}

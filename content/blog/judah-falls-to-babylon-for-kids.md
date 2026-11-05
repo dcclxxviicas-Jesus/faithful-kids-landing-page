@@ -25,13 +25,13 @@ Judah Falls to Babylon is a Bible story from Daniel/Jonah/Isaiah in the Old Test
 
 ## What Is the Story of Judah Falls to Babylon for Kids?
 
-EXILE & FAITH — EPISODE 1: JUDAH FALLS TO BABYLON Based on 2 Kings 24–25 | Narrated by Jesus
+EXILE & FAITH, EPISODE 1: JUDAH FALLS TO BABYLON Based on 2 Kings 24–25 | Narrated by Jesus
 
-Hey — I need to tell you about one of the hardest days in the history of My people. And I'm not going to sugarcoat it, because you're old enough to understand. This one hurts. But stay with Me — because even in the darkest chapter, I was already writing the comeback.
+Hey, I need to tell you about one of the hardest days in the history of My people. And I'm not going to sugarcoat it, because you're old enough to understand. This one hurts. But stay with Me, because even in the darkest chapter, I was already writing the comeback.
 
-Remember the Northern Kingdom — Israel? They fell to Assyria because they turned their backs on God. Well, the Southern Kingdom — Judah — watched that happen. They SAW it. And for a while, they tried to do better. But eventually... they didn't.
+Remember the Northern Kingdom, Israel? They fell to Assyria because they turned their backs on God. Well, the Southern Kingdom, Judah, watched that happen. They SAW it. And for a while, they tried to do better. But eventually... they didn't.
 
-King after king after king ignored God's warnings. The prophets shouted, pleaded, even wept — but Judah wouldn't listen. So God allowed the consequences to come.
+King after king after king ignored God's warnings. The prophets shouted, pleaded, even wept, but Judah wouldn't listen. So God allowed the consequences to come.
 
 This story comes from Daniel/Jonah/Isaiah and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Judah Falls to Babylon teaches children important lessons about cou
 
 ## Key Bible Verse
 
-> *"For all have sinned and fall short of the glory of God."* — Romans 3:23
+> *"For all have sinned and fall short of the glory of God."* (Romans 3:23)
 
 If small hands need something to do while you read, the free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) is made for exactly that.
 
@@ -75,7 +75,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**Even when it looks like God has abandoned you, He hasn't — the worst chapter can set up the greatest comeback.** Even when everything falls apart, God doesn't lose track of His people. The worst chapter was setting up an incredible comeback.
+**Even when it looks like God has abandoned you, He hasn't; the worst chapter can set up the greatest comeback.** Even when everything falls apart, God doesn't lose track of His people. The worst chapter was setting up an incredible comeback.
 
 ## Discussion Questions for Families
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Judah Falls to Babylon about for kids?
 
-Judah Falls to Babylon is a story from Daniel/Jonah/Isaiah. EXILE & FAITH — EPISODE 1: JUDAH FALLS TO BABYLON Based on 2 Kings 24–25 | Narrated by Jesus
+Judah Falls to Babylon is a story from Daniel/Jonah/Isaiah. EXILE & FAITH, EPISODE 1: JUDAH FALLS TO BABYLON Based on 2 Kings 24–25 | Narrated by Jesus
 
 ### What age is the story of Judah Falls to Babylon appropriate for?
 

@@ -103,7 +103,7 @@ export function PrintableCta({
             title={videoTitle}
             location="printables"
           />
-          <p className="pc-caption">A real lesson from the app — watch the whole thing free.</p>
+          <p className="pc-caption">A real lesson from the app, watch the whole thing free.</p>
         </div>
       </div>
     </section>

@@ -25,13 +25,13 @@ Rebuilding the Walls is a Bible story from Ezra/Nehemiah/Esther in the Old Testa
 
 ## What Is the Story of Rebuilding the Walls for Kids?
 
-TITLE: Rebuilding the Walls SERIES: The Return Home — Episode 5 SCRIPTURE: Nehemiah 3–4
+TITLE: Rebuilding the Walls SERIES: The Return Home, Episode 5 SCRIPTURE: Nehemiah 3–4
 
-Alright — you want to see what teamwork, grit, and faith look like all at the same time? THIS is the story.
+Alright, you want to see what teamwork, grit, and faith look like all at the same time? THIS is the story.
 
-Nehemiah arrived in Jerusalem, and the first thing he did was ride around the city at NIGHT, secretly inspecting the walls. What he saw was worse than he'd imagined — gates reduced to ash, walls crumbled into heaps of rock, sections so destroyed you couldn't even walk a donkey through them. The city had no defense, no dignity, and no hope.
+Nehemiah arrived in Jerusalem, and the first thing he did was ride around the city at NIGHT, secretly inspecting the walls. What he saw was worse than he'd imagined, gates reduced to ash, walls crumbled into heaps of rock, sections so destroyed you couldn't even walk a donkey through them. The city had no defense, no dignity, and no hope.
 
-He gathered the people and said, "You see the mess we're in. Let's REBUILD." And then he organized the most incredible construction project you've ever seen. Read Nehemiah chapter 3 — it's like a blueprint come alive. He assigned every family, every group, every guild a section of the wall.
+He gathered the people and said, "You see the mess we're in. Let's REBUILD." And then he organized the most incredible construction project you've ever seen. Read Nehemiah chapter 3, it's like a blueprint come alive. He assigned every family, every group, every guild a section of the wall.
 
 This story comes from Ezra/Nehemiah/Esther and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Rebuilding the Walls teaches children important lessons about rebui
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What was unusual about the people who helped rebuild the wall?
 
-**Priests, perfume-makers, goldsmiths, and entire families — including daughters — all helped build.** The rebuilding included all kinds of people: priests, perfume-makers, goldsmiths, and even families with their daughters. Everyone contributed regardless of their usual profession.
+**Priests, perfume-makers, goldsmiths, and entire families, including daughters, all helped build.** The rebuilding included all kinds of people: priests, perfume-makers, goldsmiths, and even families with their daughters. Everyone contributed regardless of their usual profession.
 
 ### Why did Nehemiah assign each family the section of wall nearest their own house?
 
@@ -73,7 +73,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How did Nehemiah respond when enemies threatened to attack?
 
-**He armed the workers — half held weapons while the other half built, and builders carried tools in one hand and a weapon in the other.** Nehemiah armed the workers so they could build AND defend at the same time. They carried loads with one hand and held a weapon with the other.
+**He armed the workers, half held weapons while the other half built, and builders carried tools in one hand and a weapon in the other.** Nehemiah armed the workers so they could build AND defend at the same time. They carried loads with one hand and held a weapon with the other.
 
 ## Discussion Questions for Families
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Rebuilding the Walls about for kids?
 
-Rebuilding the Walls is a story from Ezra/Nehemiah/Esther. TITLE: Rebuilding the Walls SERIES: The Return Home — Episode 5 SCRIPTURE: Nehemiah 3–4
+Rebuilding the Walls is a story from Ezra/Nehemiah/Esther. TITLE: Rebuilding the Walls SERIES: The Return Home, Episode 5 SCRIPTURE: Nehemiah 3–4
 
 ### What age is the story of Rebuilding the Walls appropriate for?
 

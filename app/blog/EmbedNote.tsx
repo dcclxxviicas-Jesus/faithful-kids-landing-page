@@ -56,7 +56,7 @@ export function EmbedNote({ slug, label }: { slug: string; label: string }) {
         <div className="tg-embed-note-body">
           <p className="tg-embed-note-lead">
             Free to use on any church, school or ministry site. Paste this
-            wherever you want the game to appear &mdash; it keeps working on its
+            wherever you want the game to appear, it keeps working on its
             own, and the credit link back to this page is the only thing we ask.
           </p>
           <pre className="tg-embed-code">{code}</pre>

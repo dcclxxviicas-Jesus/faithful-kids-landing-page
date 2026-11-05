@@ -23,11 +23,11 @@ The Great Catch of Fish is a Bible story from Matthew/Mark/Luke/John in the New 
 
 ## What Is the Story of The Great Catch of Fish for Kids?
 
-MIRACLES OF JESUS — Episode 10: The Great Catch of Fish Based on Luke 5:1-11 and John 21:1-14
+MIRACLES OF JESUS, Episode 10: The Great Catch of Fish Based on Luke 5:1-11 and John 21:1-14
 
-Hey kids! Welcome to the FINAL episode of our Miracles of Jesus series. And I saved something really special for last — because this isn't just ONE miracle. It's TWO. The same miracle, same man, same lake — but EVERYTHING is different. And that's the whole point.
+Hey kids! Welcome to the FINAL episode of our Miracles of Jesus series. And I saved something really special for last, because this isn't just ONE miracle. It's TWO. The same miracle, same man, same lake, but EVERYTHING is different. And that's the whole point.
 
-Let's start at the BEGINNING of my ministry. I was standing by the Sea of Galilee, teaching a crowd so large they were practically pushing me into the water. I spotted two boats at the shore. One belonged to a fisherman named Simon — you know him as Peter. He'd been out ALL night and caught NOTHING. Zero. Empty nets.
+Let's start at the BEGINNING of my ministry. I was standing by the Sea of Galilee, teaching a crowd so large they were practically pushing me into the water. I spotted two boats at the shore. One belonged to a fisherman named Simon, you know him as Peter. He'd been out ALL night and caught NOTHING. Zero. Empty nets.
 
 I climbed into his boat, asked him to push out a little, and I taught the crowd from there. When I finished, I turned to Peter and said, "Put out into deep water and let down your nets for a catch."
 
@@ -43,9 +43,9 @@ The story of The Great Catch of Fish teaches children important lessons about fa
 
 ## Key Bible Verse
 
-> *"Put out into deep water, and let down the nets for a catch."* — Luke 5:4
+> *"Put out into deep water, and let down the nets for a catch."* (Luke 5:4)
 
-We drew a printable [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -57,15 +57,15 @@ After watching the video, see if your child can answer these questions:
 
 ### In Luke 5, what had Peter been doing all night before Jesus told him to cast his nets?
 
-Peter had been fishing all night long and caught absolutely nothing. He was exhausted and frustrated — which made the miracle even more dramatic.
+Peter had been fishing all night long and caught absolutely nothing. He was exhausted and frustrated, which made the miracle even more dramatic.
 
 ### What did Peter say when he saw the enormous catch of fish the first time?
 
-Peter was so overwhelmed by the miracle that he fell to his knees and said, "Go away from me, Lord — I am a sinful man!" He felt unworthy to be near Jesus.
+Peter was so overwhelmed by the miracle that he fell to his knees and said, "Go away from me, Lord, I am a sinful man!" He felt unworthy to be near Jesus.
 
 ### In John 21, after the resurrection, how many large fish were caught in the net?
 
-The disciples hauled in a net full of exactly 153 large fish — and remarkably, the net didn't tear despite the enormous catch.
+The disciples hauled in a net full of exactly 153 large fish, and remarkably, the net didn't tear despite the enormous catch.
 
 ### When John said "It is the Lord," what did Peter do?
 
@@ -73,7 +73,7 @@ Peter threw on his outer garment and jumped right into the water, swimming as fa
 
 ### How many times did Jesus ask Peter "Do you love me?" on the shore?
 
-Jesus asked Peter "Do you love me?" three times — one for each of the three times Peter had denied knowing Jesus. It was a moment of complete restoration.
+Jesus asked Peter "Do you love me?" three times, one for each of the three times Peter had denied knowing Jesus. It was a moment of complete restoration.
 
 
 ## Discussion Questions for Families
@@ -111,7 +111,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Great Catch of Fish about for kids?
 
-The Great Catch of Fish is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS — Episode 10: The Great Catch of Fish Based on Luke 5:1-11 and John 21:1-14
+The Great Catch of Fish is a story from Matthew/Mark/Luke/John. MIRACLES OF JESUS, Episode 10: The Great Catch of Fish Based on Luke 5:1-11 and John 21:1-14
 
 ### What age is the story of The Great Catch of Fish appropriate for?
 

@@ -136,6 +136,7 @@ export function SiteFooter() {
           <a href="/blog">Guides &amp; Resources</a>
           <a href="/parenting">Parenting</a>
           <a href="/parenting/write-for-us">Write for Us</a>
+          <a href="/research">Research</a>
           <a href="/bible-trivia">Trivia Game</a>
           <a href="/printables">Printables</a>
           <a href="/holidays">Holidays</a>

@@ -23,9 +23,9 @@ The Good Samaritan is a Bible story from Matthew/Luke in the New Testament. This
 
 ## What Is the Story of The Good Samaritan for Kids?
 
-THE TEACHINGS OF JESUS — Episode 4 "The Good Samaritan" Based on Luke 10:25-37
+THE TEACHINGS OF JESUS, Episode 4 "The Good Samaritan" Based on Luke 10:25-37
 
-A religious expert walked up to me one day trying to test me. He said, "Teacher, what must I do to inherit eternal life?" I turned it back on him: "What does the law say?" He answered perfectly: "Love the Lord your God with all your heart, soul, strength, and mind — and love your neighbor as yourself." I said, "You nailed it. Do that and you'll live."
+A religious expert walked up to me one day trying to test me. He said, "Teacher, what must I do to inherit eternal life?" I turned it back on him: "What does the law say?" He answered perfectly: "Love the Lord your God with all your heart, soul, strength, and mind, and love your neighbor as yourself." I said, "You nailed it. Do that and you'll live."
 
 But he wasn't satisfied. He wanted to justify himself. So he asked the question that changed everything: "And who is my neighbor?"
 
@@ -43,7 +43,7 @@ The story of The Good Samaritan teaches children important lessons about love, k
 
 ## Key Bible Verse
 
-> *"Go and do likewise."* — Luke 10:37
+> *"Go and do likewise."* (Luke 10:37)
 
 To see where this took place, the free [printable map of Israel in Jesus' time](/printables/bible-maps/israel-in-jesus-time) shows Galilee, Samaria and Judea with every Gospel town at its real location.
 
@@ -61,19 +61,19 @@ The expert wanted Jesus to limit the definition of "neighbor" so he wouldn't hav
 
 ### Who were the first two people to walk past the beaten man?
 
-Both were religious leaders — people you'd EXPECT to help. But they both saw the man and walked right past. Their religion didn't translate into action.
+Both were religious leaders, people you'd EXPECT to help. But they both saw the man and walked right past. Their religion didn't translate into action.
 
 ### Why was it shocking that the Samaritan helped the Jewish man?
 
-Jews and Samaritans despised each other. For a Samaritan to stop, kneel down, bandage wounds, and pay for a Jewish man's care — that was radical, shocking, boundary-breaking love.
+Jews and Samaritans despised each other. For a Samaritan to stop, kneel down, bandage wounds, and pay for a Jewish man's care, that was radical, shocking, boundary-breaking love.
 
 ### What did the Samaritan do AFTER bandaging the man's wounds?
 
-The Samaritan didn't do the bare minimum. He went ALL in — transported the man, nursed him overnight, paid the innkeeper, and promised to cover any extra costs. That's complete, generous love.
+The Samaritan didn't do the bare minimum. He went ALL in, transported the man, nursed him overnight, paid the innkeeper, and promised to cover any extra costs. That's complete, generous love.
 
 ### What did Jesus say after telling the story?
 
-Three simple words with massive implications. Don't just hear this story — LIVE it. Be the one who stops. Be the one who crosses lines to show love. Go and do likewise.
+Three simple words with massive implications. Don't just hear this story, LIVE it. Be the one who stops. Be the one who crosses lines to show love. Go and do likewise.
 
 
 ## Discussion Questions for Families
@@ -113,7 +113,7 @@ We drew a printable [Good Samaritan coloring page](/printables/bible-coloring-pa
 
 ### What is the story of The Good Samaritan about for kids?
 
-The Good Samaritan is a story from Matthew/Luke. THE TEACHINGS OF JESUS — Episode 4 "The Good Samaritan" Based on Luke 10:25-37
+The Good Samaritan is a story from Matthew/Luke. THE TEACHINGS OF JESUS, Episode 4 "The Good Samaritan" Based on Luke 10:25-37
 
 ### What age is the story of The Good Samaritan appropriate for?
 

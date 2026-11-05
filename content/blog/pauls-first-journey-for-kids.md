@@ -23,13 +23,13 @@ Paul's First Journey is a Bible story from Acts in the New Testament. This retel
 
 ## What Is the Story of Paul's First Journey for Kids?
 
-PAUL'S ADVENTURES — EPISODE 1: PAUL'S FIRST JOURNEY Based on Acts 13-14 Series: Paul's Adventures | Episode 1 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 1: PAUL'S FIRST JOURNEY Based on Acts 13-14 Series: Paul's Adventures | Episode 1 of 10 Target audience: Kids ages 7-15
 
-Alright — it's adventure time. And I mean REAL adventure. Dangerous roads, angry mobs, false gods, and a man who just will not quit. Let's talk about Paul's very first missionary journey.
+Alright, it's adventure time. And I mean REAL adventure. Dangerous roads, angry mobs, false gods, and a man who just will not quit. Let's talk about Paul's very first missionary journey.
 
-It starts in Antioch. The church is praying and fasting when the Holy Spirit speaks: "Set apart Barnabas and Saul for the work I've called them to." The church lays hands on them and sends them out. No GPS. No bodyguards. Just faith and a mission — go tell the world about me.
+It starts in Antioch. The church is praying and fasting when the Holy Spirit speaks: "Set apart Barnabas and Saul for the work I've called them to." The church lays hands on them and sends them out. No GPS. No bodyguards. Just faith and a mission, go tell the world about me.
 
-First stop — the island of Cyprus. They're preaching in synagogues when they run into trouble. A sorcerer named Bar-Jesus tries to turn the governor AWAY from the faith — whispering lies, twisting the truth, doing everything he can to block the message.
+First stop, the island of Cyprus. They're preaching in synagogues when they run into trouble. A sorcerer named Bar-Jesus tries to turn the governor AWAY from the faith, whispering lies, twisting the truth, doing everything he can to block the message.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -43,7 +43,7 @@ The story of Paul's First Journey teaches children important lessons about adven
 
 ## Key Bible Verse
 
-> *"For I am not ashamed of the gospel."* — Romans 1:16
+> *"For I am not ashamed of the gospel."* (Romans 1:16)
 
 To follow the route, our free [map of Paul's missionary journeys](/printables/bible-maps/pauls-missionary-journeys) shows all three journeys and the voyage to Rome, color-coded on one printable sheet.
 
@@ -57,7 +57,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What happened to the sorcerer Bar-Jesus when he tried to stop the governor from believing?
 
-When Bar-Jesus tried to turn the governor away from the faith, Paul called him out and the sorcerer was struck blind — and the governor believed.
+When Bar-Jesus tried to turn the governor away from the faith, Paul called him out and the sorcerer was struck blind, and the governor believed.
 
 ### When Paul healed the lame man in Lystra, what did the crowd try to do?
 
@@ -65,7 +65,7 @@ The crowd was so amazed by the healing that they thought Paul and Barnabas were 
 
 ### After Paul was stoned and left for dead outside Lystra, what did he do?
 
-Paul got back up, walked right back into the city, and traveled to the next town the very next day to keep preaching — that is unstoppable faith in action.
+Paul got back up, walked right back into the city, and traveled to the next town the very next day to keep preaching, that is unstoppable faith in action.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Paul's First Journey about for kids?
 
-Paul's First Journey is a story from Acts. PAUL'S ADVENTURES — EPISODE 1: PAUL'S FIRST JOURNEY Based on Acts 13-14 Series: Paul's Adventures | Episode 1 of 10 Target audience: Kids ages 7-15
+Paul's First Journey is a story from Acts. PAUL'S ADVENTURES, EPISODE 1: PAUL'S FIRST JOURNEY Based on Acts 13-14 Series: Paul's Adventures | Episode 1 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Paul's First Journey appropriate for?
 

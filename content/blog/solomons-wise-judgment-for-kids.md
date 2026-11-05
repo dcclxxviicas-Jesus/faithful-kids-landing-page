@@ -25,13 +25,13 @@ Solomon's Wise Judgment is a Bible story from 1 Kings in the Old Testament. This
 
 ## What Is the Story of Solomon's Wise Judgment for Kids?
 
-SOLOMON & THE KINGDOM — Episode 2: Solomon's Wise Judgment Bible Reference: 1 Kings 3:16-28 Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM, Episode 2: Solomon's Wise Judgment Bible Reference: 1 Kings 3:16-28 Series: Solomon & the Kingdom
 
-Alright — last time, Solomon asked God for wisdom. Now you're about to see that wisdom in action. And trust me, this story is wild.
+Alright, last time, Solomon asked God for wisdom. Now you're about to see that wisdom in action. And trust me, this story is wild.
 
 Two women came before King Solomon. They lived in the same house, and both had newborn babies. But during the night, one of the babies died. The mother of the dead child secretly switched the babies while the other woman was sleeping. She took the living baby and put her dead son in the other woman's arms.
 
-When morning came, the second woman woke up to nurse her baby — and realized the dead child wasn't hers. But the first woman insisted, "No — the living baby is MINE."
+When morning came, the second woman woke up to nurse her baby, and realized the dead child wasn't hers. But the first woman insisted, "No, the living baby is MINE."
 
 This story comes from 1 Kings and is part of the Old Testament.
 
@@ -45,11 +45,11 @@ The story of Solomon's Wise Judgment teaches children important lessons about wi
 
 ## Key Bible Verse
 
-> *"Give your servant a discerning heart to govern your people."* — 1 Kings 3:9
+> *"Give your servant a discerning heart to govern your people."* (1 Kings 3:9)
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
-For the wisest king's whole arc — the dream, the judgment, the temple, and the fall — see [Who Was Solomon in the Bible?](/blog/who-was-solomon-for-kids)
+For the wisest king's whole arc, the dream, the judgment, the temple, and the fall, see [Who Was Solomon in the Bible?](/blog/who-was-solomon-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What was the dispute between the two women who came to Solomon?
 
-All Israel heard about the verdict and held the king in awe. They recognized this wasn't just human cleverness — the wisdom of God Himself was operating through Solomon. His reputation for wisdom spread across the entire nation.
+All Israel heard about the verdict and held the king in awe. They recognized this wasn't just human cleverness, the wisdom of God Himself was operating through Solomon. His reputation for wisdom spread across the entire nation.
 
 ### What did Solomon order to be brought before him?
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Solomon's Wise Judgment about for kids?
 
-Solomon's Wise Judgment is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 2: Solomon's Wise Judgment Bible Reference: 1 Kings 3:16-28 Series: Solomon & the Kingdom
+Solomon's Wise Judgment is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 2: Solomon's Wise Judgment Bible Reference: 1 Kings 3:16-28 Series: Solomon & the Kingdom
 
 ### What age is the story of Solomon's Wise Judgment appropriate for?
 

@@ -41,7 +41,7 @@ function executedEmail(opts: {
       Permanent copy: <a href="${opts.link}" style="color:#15803d">${opts.link}</a>
     </div>
     <p style="margin:18px 0 0;font-size:13px;color:#3f5a77">
-      Keep this email — it is your copy of the signed agreement.
+      Keep this email; it is your copy of the signed agreement.
     </p>
   </div>`
 }
@@ -100,7 +100,7 @@ export async function POST(req: NextRequest) {
       `Signed: ${row.talent_name} and Faithful Kids`,
       executedEmail({
         heading: 'Your signed agreement',
-        intro: `Thank you — this is your copy of the agreement you signed on ${when}. Nothing else is needed from you right now.`,
+        intro: `Thank you; this is your copy of the agreement you signed on ${when}. Nothing else is needed from you right now.`,
         bodyHtml: row.body_html,
         typedName: typedName.trim(),
         signedAt: when,

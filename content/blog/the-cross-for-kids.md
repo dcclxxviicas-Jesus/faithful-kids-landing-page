@@ -25,13 +25,13 @@ The Cross is a Bible story from Matthew/Mark/Luke/John in the New Testament. Thi
 
 ## What Is the Story of The Cross for Kids?
 
-THE ROAD TO THE CROSS — Episode 8: The Cross Based on Matthew 27:32-44 and John 19:17-27 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS, Episode 8: The Cross Based on Matthew 27:32-44 and John 19:17-27 Series: The Road to the Cross | Target audience: Ages 7-15
 
 This is the hardest story I will ever tell you. But I need you to hear it, because this is why I came.
 
 After the beating, they placed a heavy wooden cross on my back and made me walk through the streets of Jerusalem. My body was broken. The crowd that had waved palm branches five days earlier now lined the road to watch me suffer. Some were weeping. Most just stared.
 
-I stumbled. My legs gave out. The soldiers grabbed a man from the crowd — a man named Simon, from a place called Cyrene. He was just passing through. He never planned to be part of this story. But they forced the cross onto his shoulders, and he carried it the rest of the way for me. Sometimes the person who helps you the most is someone you never expected.
+I stumbled. My legs gave out. The soldiers grabbed a man from the crowd, a man named Simon, from a place called Cyrene. He was just passing through. He never planned to be part of this story. But they forced the cross onto his shoulders, and he carried it the rest of the way for me. Sometimes the person who helps you the most is someone you never expected.
 
 This story comes from Matthew/Mark/Luke/John and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Cross teaches children important lessons about sacrifice, love,
 
 ## Key Bible Verse
 
-> *"Father, forgive them, for they do not know what they are doing."* — Luke 23:34
+> *"Father, forgive them, for they do not know what they are doing."* (Luke 23:34)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -110,13 +110,13 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
-Pair the story with our free [the cross coloring page](/printables/bible-coloring-pages/the-cross) — one sheet, ready to print.
+Pair the story with our free [the cross coloring page](/printables/bible-coloring-pages/the-cross), one sheet, ready to print.
 
 ## Frequently Asked Questions
 
 ### What is the story of The Cross about for kids?
 
-The Cross is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 8: The Cross Based on Matthew 27:32-44 and John 19:17-27 Series: The Road to the Cross | Target audience: Ages 7-15
+The Cross is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS, Episode 8: The Cross Based on Matthew 27:32-44 and John 19:17-27 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of The Cross appropriate for?
 

@@ -25,13 +25,13 @@ Saul the First King is a Bible story from 1 Samuel in the Old Testament. This re
 
 ## What Is the Story of Saul the First King for Kids?
 
-THE RISE OF KINGS — Episode 2: Saul — The First King Based on 1 Samuel 9-11 | Narrated by Jesus
+THE RISE OF KINGS, Episode 2: Saul, The First King Based on 1 Samuel 9-11 | Narrated by Jesus
 
-Welcome back! Last time, Israel demanded a king. And God said, "Alright — you'll get one." So buckle up, because Israel's first king is about to walk onto the stage, and he is NOT what you'd expect.
+Welcome back! Last time, Israel demanded a king. And God said, "Alright, you'll get one." So buckle up, because Israel's first king is about to walk onto the stage, and he is NOT what you'd expect.
 
-Meet Saul, son of Kish, from the tribe of Benjamin. This guy was tall — I'm talking head and shoulders above EVERYONE in Israel. Strong jaw. Impressive build. If you were casting a movie for "guy who looks like a king," Saul would get the part instantly.
+Meet Saul, son of Kish, from the tribe of Benjamin. This guy was tall, I'm talking head and shoulders above EVERYONE in Israel. Strong jaw. Impressive build. If you were casting a movie for "guy who looks like a king," Saul would get the part instantly.
 
-But here's what's wild — Saul was actually humble at first. When Samuel told him privately that God had chosen him to be king, Saul said, "Me? I'm from Benjamin — the smallest tribe! And my family is the least important in the whole tribe!" He genuinely couldn't believe it.
+But here's what's wild, Saul was actually humble at first. When Samuel told him privately that God had chosen him to be king, Saul said, "Me? I'm from Benjamin, the smallest tribe! And my family is the least important in the whole tribe!" He genuinely couldn't believe it.
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
@@ -45,9 +45,9 @@ The story of Saul the First King teaches children important lessons about courag
 
 ## Key Bible Verse
 
-> *"To obey is better than sacrifice."* — 1 Samuel 15:22
+> *"To obey is better than sacrifice."* (1 Samuel 15:22)
 
-For Israel's first king from start to finish — the donkeys, the cracks, the jealousy — see [Who Was King Saul in the Bible?](/blog/who-was-king-saul-for-kids)
+For Israel's first king from start to finish, the donkeys, the cracks, the jealousy, see [Who Was King Saul in the Bible?](/blog/who-was-king-saul-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Saul the First King about for kids?
 
-Saul the First King is a story from 1 Samuel. THE RISE OF KINGS — Episode 2: Saul — The First King Based on 1 Samuel 9-11 | Narrated by Jesus
+Saul the First King is a story from 1 Samuel. THE RISE OF KINGS, Episode 2: Saul, The First King Based on 1 Samuel 9-11 | Narrated by Jesus
 
 ### What age is the story of Saul the First King appropriate for?
 

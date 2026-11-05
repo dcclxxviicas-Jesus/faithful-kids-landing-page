@@ -15,7 +15,7 @@ import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
    search. Absolute title: the layout suffix would push this past Google's
    ~60-char display cutoff. */
 export const metadata: Metadata = {
-  title: { absolute: 'Bible Jeopardy — Free Game with Questions & Answers' },
+  title: { absolute: 'Bible Jeopardy: Free Game with Questions & Answers' },
   description:
     `Play Bible Jeopardy free: a ${CATEGORIES.length}-category board, ${CLUE_COUNT} questions, team scoring, and a verse with every answer. For Sunday school, youth group, or family night.`,
   alternates: { canonical: 'https://faithfulkids.app/bible-jeopardy' },
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     'bible jeopardy for kids', 'bible jeopardy for youth',
   ],
   openGraph: {
-    title: 'Bible Jeopardy — Free Game with Questions & Answers',
+    title: 'Bible Jeopardy: Free Game with Questions & Answers',
     description:
       `A real ${CATEGORIES.length}-category Bible Jeopardy board with ${CLUE_COUNT} questions, team scoring, and every answer backed by its verse. Free, no sign-up.`,
     url: 'https://faithfulkids.app/bible-jeopardy',
@@ -68,7 +68,7 @@ function BibleJeopardy() {
         title={<>Bible <span className="hv-love"><span className="l l1">J</span><span className="l l2">e</span><span className="l l3">o</span><span className="l l4">p</span><span className="l l1">a</span><span className="l l2">r</span><span className="l l3">d</span><span className="l l4">y</span></span></>}
         sub={<>A real Jeopardy board for Bible knowledge: {CATEGORIES.length} categories, {CLUE_COUNT} questions from $100 to
           $500, up to four teams, and every answer backed by its verse. Built for Sunday school,
-          youth group, and family game night &mdash; free, no sign-up, no ads. Prefer paper?{' '}
+          youth group, and family game night, free, no sign-up, no ads. Prefer paper?{' '}
           <a href="#questions" style={g}>All {CLUE_COUNT} questions and answers are below</a>.</>}
       />
 
@@ -78,7 +78,7 @@ function BibleJeopardy() {
 
       <section className="v2-section is-alt">
         <V2Head eyebrow="How to Host" title="Run it like a game show"
-                sub="Thirty clues takes a group about 25–40 minutes — one Sunday school session, one youth group opener, or one family night." />
+                sub="Thirty clues takes a group about 25–40 minutes, one Sunday school session, one youth group opener, or one family night." />
         <div className="v2-wrap">
           <div className="v2-grid is-4">
             <div className="v2-card">
@@ -97,7 +97,7 @@ function BibleJeopardy() {
               <div className="v2-ico" aria-hidden="true">💰</div>
               <h3>Points, not penalties</h3>
               <p>A right answer earns the dollar value; a wrong one just reveals the answer and
-                its verse. No negative scores &mdash; nobody plays scared.</p>
+                its verse. No negative scores, nobody plays scared.</p>
             </div>
             <div className="v2-card">
               <div className="v2-ico" aria-hidden="true">📖</div>
@@ -114,7 +114,7 @@ function BibleJeopardy() {
           host-cheat-sheet version for anyone running the game off a phone. */}
       <section id="questions" className="v2-section">
         <V2Head eyebrow="The Question Bank" title={`All ${CLUE_COUNT} Bible Jeopardy questions and answers`}
-                sub="Hosting without a screen? Read from the list — categories left to right, $100 to $500. Answers and verses included." />
+                sub="Hosting without a screen? Read from the list, categories left to right, $100 to $500. Answers and verses included." />
         <div className="v2-wrap is-narrow">
           {CATEGORIES.map(cat => (
             <details key={cat.name} className="v2-details">
@@ -130,7 +130,7 @@ function BibleJeopardy() {
             </details>
           ))}
           <details className="v2-details">
-            <summary>Bonus — the final question</summary>
+            <summary>Bonus, the final question</summary>
             <p style={{ margin: '10px 0 0' }}>
               {FINAL_CLUE.q}<br />
               <em>Answer:</em> {FINAL_CLUE.a} <span style={{ color: '#6b7280' }}>({FINAL_CLUE.ref})</span>
@@ -157,7 +157,7 @@ function BibleJeopardy() {
         </ul>
         <h2>If your kids love this game, they&apos;ll love Faithful Kids</h2>
         <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '38em' }}>
-          Short Bible story videos with quizzes just like these &mdash; 300+ episodes from Genesis
+          Short Bible story videos with quizzes just like these, 300+ episodes from Genesis
           to Revelation, with levels, streaks, and zero ads.
         </p>
         <a className="hv-cta" href="/quiz">

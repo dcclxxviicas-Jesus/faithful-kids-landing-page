@@ -25,11 +25,11 @@ The Twelve Spies is a Bible story from Numbers 13-14 in the Old Testament. This 
 
 Hey, welcome back! I am so glad you're here because today's story? Oh, it's a wild one. We're talking about spies, giants, and grapes so enormous that two grown men had to carry a single cluster on a pole between them. I'm not exaggerating. This actually happened.
 
-So here's the setup. My people, the Israelites, have been traveling through the desert, and they're finally right on the doorstep of the Promised Land — Canaan. This is the land God promised to Abraham way back in the day. Flowing with milk and honey. The real deal.
+So here's the setup. My people, the Israelites, have been traveling through the desert, and they're finally right on the doorstep of the Promised Land: Canaan. This is the land God promised to Abraham way back in the day. Flowing with milk and honey. The real deal.
 
 Moses says, "Alright, let's send in twelve spies to scope the place out." One spy from each tribe. Among them? Two guys you need to remember: Joshua and Caleb. Keep those names locked in your brain.
 
-The twelve spies sneak into Canaan, and what they find is absolutely incredible. The land is gorgeous. The fruit is ridiculous — pomegranates, figs, and those monster grapes I told you about. They cut down a single cluster so heavy it took two men and a pole just to haul it back. Can you imagine showing up to your family barbecue with THAT?
+The twelve spies sneak into Canaan, and what they find is absolutely incredible. The land is gorgeous. The fruit is ridiculous: pomegranates, figs, and those monster grapes I told you about. They cut down a single cluster so heavy it took two men and a pole just to haul it back. Can you imagine showing up to your family barbecue with THAT?
 
 This story comes from Numbers 13-14 and is part of the Old Testament.
 
@@ -43,11 +43,11 @@ The story of The Twelve Spies teaches children important lessons about courage, 
 
 ## Key Bible Verse
 
-> *"If the Lord is pleased with us, he will lead us into that land."* — Numbers 14:8
+> *"If the Lord is pleased with us, he will lead us into that land."* (Numbers 14:8)
 
-To picture the land itself, the free [printable map of Canaan](/printables/bible-maps/the-promised-land) shows the Promised Land as Joshua found it — walled cities, seven nations and the Jordan to cross.
+To picture the land itself, the free [printable map of Canaan](/printables/bible-maps/the-promised-land) shows the Promised Land as Joshua found it: walled cities, seven nations and the Jordan to cross.
 
-For Joshua's whole life — apprentice, spy, general, and the choice at Shechem — see [Who Was Joshua in the Bible?](/blog/who-was-joshua-for-kids)
+For Joshua's whole life: apprentice, spy, general, and the choice at Shechem: see [Who Was Joshua in the Bible?](/blog/who-was-joshua-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 

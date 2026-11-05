@@ -30,8 +30,8 @@ export async function generateMetadata(
   const { slug } = await params
   const page = getColoringPage(slug)
   if (!page) return {}
-  const title = `${page.title} Coloring Page — Free Printable`
-  const desc = `A free printable ${page.title} coloring page for kids (${page.scripture}). Bold simple outlines, ${page.ages.toLowerCase()}. Print it straight from the page — no sign-up.`
+  const title = `${page.title} Coloring Page, Free Printable`
+  const desc = `A free printable ${page.title} coloring page for kids (${page.scripture}). Bold simple outlines, ${page.ages.toLowerCase()}. Print it straight from the page, no sign-up.`
   const url = `https://faithfulkids.app/printables/bible-coloring-pages/${page.slug}`
   return {
     // absolute: the root layout appends " | Faithful Kids", 16 of the ~60
@@ -111,7 +111,7 @@ export default async function ColoringPageDetail(
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={`${CDN}/${page.slug}.png`}
-          alt={`${page.title} Bible coloring page for kids — free printable, ${page.scripture}`}
+          alt={`${page.title} Bible coloring page for kids, free printable, ${page.scripture}`}
           width={1024}
           height={1536}
         />
@@ -129,7 +129,7 @@ export default async function ColoringPageDetail(
         {page.story && (
           <p>
             Read the story first and the page means more:{' '}
-            <a href={`/blog/${page.story}`}>{page.title} explained for kids</a> — a short retelling
+            <a href={`/blog/${page.story}`}>{page.title} explained for kids</a> a short retelling
             with the video lesson and a quiz.
           </p>
         )}
@@ -200,7 +200,7 @@ export default async function ColoringPageDetail(
           source="blog-inline"
           sourcePost={`coloring-${page.slug}`}
           title="🖍️ Want all 26 pages in one PDF?"
-          subtitle="Print the whole set at once instead of one page at a time — Creation to the Empty Tomb."
+          subtitle="Print the whole set at once instead of one page at a time, Creation to the Empty Tomb."
         />
       </section>
 
@@ -208,7 +208,7 @@ export default async function ColoringPageDetail(
         {...clip}
         duration={clip.duration ?? undefined}
         heading={`They colored it. Now let them watch it.`}
-        body={`A coloring page holds a child for ten minutes and tells you nothing about what they understood. ${clip.videoTitle} takes about two minutes and ends with a quiz that does — one of 300+ episodes covering the whole Bible in order.`}
+        body={`A coloring page holds a child for ten minutes and tells you nothing about what they understood. ${clip.videoTitle} takes about two minutes and ends with a quiz that does, one of 300+ episodes covering the whole Bible in order.`}
         source="coloring-detail"
       />
 
@@ -217,7 +217,7 @@ export default async function ColoringPageDetail(
           <h2>Now watch {page.title}</h2>
           <p>
             Your child colors it in ten minutes. The video tells them what actually happened in
-            about two — then a quiz shows you what they took in, which a coloring page never can.
+            about two, then a quiz shows you what they took in, which a coloring page never can.
             {page.title} is one of 300+ episodes, all in order, Genesis to Revelation.
           </p>
           <a className="btn-primary" href="/quiz?ref=coloring-detail">

@@ -25,13 +25,13 @@ Paul's Legacy is a Bible story from Acts in the New Testament. This retelling is
 
 ## What Is the Story of Paul's Legacy for Kids?
 
-PAUL'S ADVENTURES — EPISODE 10: PAUL'S LEGACY Based on 2 Timothy 4:6-8, Philippians 1:21 Series: Paul's Adventures | Episode 10 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 10: PAUL'S LEGACY Based on 2 Timothy 4:6-8, Philippians 1:21 Series: Paul's Adventures | Episode 10 of 10 Target audience: Kids ages 7-15
 
 This is it. The final episode. And honestly? This one might be the most important story I've ever asked you to hear.
 
 Paul was old now. He'd been beaten, stoned, shipwrecked, bitten by a snake, thrown in prison more times than he could count. His body was broken. But his spirit? Unbreakable.
 
-He was sitting in a cold Roman dungeon — not the rented house this time, but an actual underground cell — writing one last letter. His final letter. To Timothy, the young man he loved like a son.
+He was sitting in a cold Roman dungeon, not the rented house this time, but an actual underground cell, writing one last letter. His final letter. To Timothy, the young man he loved like a son.
 
 This story comes from Acts and is part of the New Testament.
 
@@ -45,9 +45,9 @@ The story of Paul's Legacy teaches children important lessons about adventure, p
 
 ## Key Bible Verse
 
-> *"For I am not ashamed of the gospel."* — Romans 1:16
+> *"For I am not ashamed of the gospel."* (Romans 1:16)
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
 ## Parent's Guide: Why This Story Matters
 
@@ -79,7 +79,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of the series finale?
 
-**It's not how you start — it's how you finish.**
+**It's not how you start, it's how you finish.**
 
 ## Discussion Questions for Families
 
@@ -116,7 +116,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Paul's Legacy about for kids?
 
-Paul's Legacy is a story from Acts. PAUL'S ADVENTURES — EPISODE 10: PAUL'S LEGACY Based on 2 Timothy 4:6-8, Philippians 1:21 Series: Paul's Adventures | Episode 10 of 10 Target audience: Kids ages 7-15
+Paul's Legacy is a story from Acts. PAUL'S ADVENTURES: EPISODE 10, PAUL'S LEGACY Based on 2 Timothy 4:6-8, Philippians 1:21 Series: Paul's Adventures | Episode 10 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Paul's Legacy appropriate for?
 

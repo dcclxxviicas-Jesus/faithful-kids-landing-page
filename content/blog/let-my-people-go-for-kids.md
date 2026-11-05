@@ -25,7 +25,7 @@ Let My People Go is a Bible story from Exodus 5-7 in the Old Testament. This ret
 
 Alright, buckle up because things are about to get INTENSE.
 
-So Moses finally says yes to God. He packs up, heads back to Egypt, meets up with his brother Aaron, and together they march right into Pharaoh's palace. Picture this -- two guys who grew up as nobodies walking into the most powerful throne room on Earth and saying five words that would change history:
+So Moses finally says yes to God. He packs up, heads back to Egypt, meets up with his brother Aaron, and together they march right into Pharaoh's palace. Picture this, two guys who grew up as nobodies walking into the most powerful throne room on Earth and saying five words that would change history:
 
 Can you feel the tension? The whole court goes silent. Pharaoh looks at them like they've lost their minds. And his response? Basically: "Who is this God of yours? I don't know Him, and I'm definitely NOT letting your people go."
 
@@ -43,7 +43,7 @@ The story of Let My People Go teaches children important lessons about freedom, 
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -55,7 +55,7 @@ After watching the video, see if your child can answer these questions:
 
 ### How did Pharaoh respond when Moses and Aaron first asked him to let the Israelites go?
 
-Pharaoh not only refused to let the Israelites go, but he punished them by taking away their straw supply while still demanding the same number of bricks -- making their work nearly impossible.
+Pharaoh not only refused to let the Israelites go, but he punished them by taking away their straw supply while still demanding the same number of bricks; making their work nearly impossible.
 
 ### What happened when Aaron threw down his staff in front of Pharaoh?
 

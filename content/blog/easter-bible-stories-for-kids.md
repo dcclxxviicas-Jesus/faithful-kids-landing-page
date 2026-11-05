@@ -56,7 +56,7 @@ Women come to the tomb at sunrise. The stone is rolled away. The tomb is empty. 
 
 Reading one verse aloud with each story makes it stick, and we have gathered the best [Easter Bible verses](/blog/easter-bible-verses) for kids in a single list.
 
-After the stories, keep the conversation going with our [Easter Bible trivia for kids](/blog/easter-bible-trivia-for-kids) -- it is a fun way to see how much they remembered. If your kids learn best by doing, pair the week with a few [hands-on resurrection activities](/blog/resurrection-activities-for-kids).
+After the stories, keep the conversation going with our [Easter Bible trivia for kids](/blog/easter-bible-trivia-for-kids). It is a fun way to see how much they remembered. If your kids learn best by doing, pair the week with a few [hands-on resurrection activities](/blog/resurrection-activities-for-kids).
 
 ---
 
@@ -68,7 +68,7 @@ All 10 episodes of the Road to the Cross and He Is Risen series are available on
 
 We built a [Easter word search](/printables/bible-word-search/easter) around this story. Free, no sign-up, and it works on screen or on paper.
 
-Our free [Easter coloring pages](/printables/easter-coloring-pages) are ready to print for the season — no email wall, no sign-up.
+Our free [Easter coloring pages](/printables/easter-coloring-pages) are ready to print for the season, no email wall, no sign-up.
 
 ## Frequently Asked Questions
 

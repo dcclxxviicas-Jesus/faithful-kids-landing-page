@@ -25,13 +25,13 @@ The Ascension is a Bible story from Matthew/Luke/Acts in the New Testament. This
 
 ## What Is the Story of The Ascension for Kids?
 
-HE IS RISEN — Episode 8: The Ascension Based on Acts 1:1-11 Series: He Is Risen | Target Age: 7-15
+HE IS RISEN, Episode 8: The Ascension Based on Acts 1:1-11 Series: He Is Risen | Target Age: 7-15
 
-Let me tell you about the day I left earth — and why it was the best thing that could have happened.
+Let me tell you about the day I left earth, and why it was the best thing that could have happened.
 
-Forty days. That is how long I stayed after the resurrection. Forty days of walking with my disciples, eating with them, teaching them, proving beyond any shadow of doubt that I was alive. I appeared to Peter, to the eleven, to more than five hundred people at once. No one could say it was a dream or a trick. I was ALIVE — and I made sure everyone knew it.
+Forty days. That is how long I stayed after the resurrection. Forty days of walking with my disciples, eating with them, teaching them, proving beyond any shadow of doubt that I was alive. I appeared to Peter, to the eleven, to more than five hundred people at once. No one could say it was a dream or a trick. I was ALIVE, and I made sure everyone knew it.
 
-I gathered my disciples together one final time near the village of Bethany, just outside Jerusalem. And I gave them one last instruction — the most important instruction they had ever received.
+I gathered my disciples together one final time near the village of Bethany, just outside Jerusalem. And I gave them one last instruction, the most important instruction they had ever received.
 
 This story comes from Matthew/Luke/Acts and is part of the New Testament.
 
@@ -45,7 +45,7 @@ The story of The Ascension teaches children important lessons about resurrection
 
 ## Key Bible Verse
 
-> *"You will receive power when the Holy Spirit comes on you."* — Acts 1:8
+> *"You will receive power when the Holy Spirit comes on you."* (Acts 1:8)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,7 +61,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Jesus tell His disciples to wait for in Jerusalem?
 
-**The Holy Spirit.** Jesus told them to stay in Jerusalem and wait for the gift the Father had promised — the baptism of the Holy Spirit.
+**The Holy Spirit.** Jesus told them to stay in Jerusalem and wait for the gift the Father had promised, the baptism of the Holy Spirit.
 
 ### What happened when Jesus ascended into heaven?
 
@@ -69,11 +69,11 @@ After watching the video, see if your child can answer these questions:
 
 ### What did the two angels say to the disciples?
 
-**"This same Jesus will come back in the same way you have seen Him go".** The angels promised that Jesus would return in the same way He left — visibly, physically, and from the sky.
+**"This same Jesus will come back in the same way you have seen Him go".** The angels promised that Jesus would return in the same way He left, visibly, physically, and from the sky.
 
 ### Why did Jesus say He was leaving?
 
-**So the Holy Spirit could come and live inside every believer.** Jesus left so that something better could come — the Holy Spirit, God Himself, living inside every believer, every moment.
+**So the Holy Spirit could come and live inside every believer.** Jesus left so that something better could come, the Holy Spirit, God Himself, living inside every believer, every moment.
 
 ## Discussion Questions for Families
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Ascension about for kids?
 
-The Ascension is a story from Matthew/Luke/Acts. HE IS RISEN — Episode 8: The Ascension Based on Acts 1:1-11 Series: He Is Risen | Target Age: 7-15
+The Ascension is a story from Matthew/Luke/Acts. HE IS RISEN, Episode 8: The Ascension Based on Acts 1:1-11 Series: He Is Risen | Target Age: 7-15
 
 ### What age is the story of The Ascension appropriate for?
 

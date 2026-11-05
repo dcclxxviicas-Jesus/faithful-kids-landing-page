@@ -75,10 +75,10 @@ interface Row {
 
 const money = (v?: string) => {
   const n = Number(String(v || '').replace(/[^0-9.]/g, ''))
-  return n ? '$' + n.toLocaleString('en-US') : '—'
+  return n ? '$' + n.toLocaleString('en-US') : '–'
 }
 const short = (iso: string | null) =>
-  iso ? new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) : '—'
+  iso ? new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) : '–'
 
 export default function ContractsAdmin() {
   const [pw, setPw] = useState('')
@@ -238,7 +238,7 @@ export default function ContractsAdmin() {
                 Create &amp; get link
               </button>
             </div>
-            {!preview && <p className="hint">Preview first — the rendered contract is what gets frozen.</p>}
+            {!preview && <p className="hint">Preview first, the rendered contract is what gets frozen.</p>}
             {error && <p className="err">{error}</p>}
 
             {created && (
@@ -303,7 +303,7 @@ export default function ContractsAdmin() {
 
         {preview && (
           <section className="card" style={{ marginTop: 22 }}>
-            <h2>Preview — this exact text is what gets frozen</h2>
+            <h2>Preview, this exact text is what gets frozen</h2>
             <div className="preview" dangerouslySetInnerHTML={{ __html: preview }} />
           </section>
         )}

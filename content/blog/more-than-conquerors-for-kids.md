@@ -25,11 +25,11 @@ More Than Conquerors is a Bible story from Romans/Corinthians/Ephesians in the N
 
 ## What Is the Story of More Than Conquerors for Kids?
 
-LETTERS TO THE CHURCHES — EPISODE 2 "More Than Conquerors" Based on Romans 8:28-39 Jesus Narrates
+LETTERS TO THE CHURCHES, EPISODE 2 "More Than Conquerors" Based on Romans 8:28-39 Jesus Narrates
 
-In our last episode, we talked about the gospel — how salvation is a gift. Today, I want to show you what happens after you receive that gift. Because once you're mine, nothing can take you away from me. Nothing.
+In our last episode, we talked about the gospel, how salvation is a gift. Today, I want to show you what happens after you receive that gift. Because once you're mine, nothing can take you away from me. Nothing.
 
-Paul wrote some of the most powerful words ever put on paper. And I want to walk through them with you — slowly — because I want every word to sink in.
+Paul wrote some of the most powerful words ever put on paper. And I want to walk through them with you, slowly, because I want every word to sink in.
 
 He starts here: "We know that in all things God works for the good of those who love him."
 
@@ -45,7 +45,7 @@ The story of More Than Conquerors teaches children important lessons about love,
 
 ## Key Bible Verse
 
-> *"We are more than conquerors through him who loved us."* — Romans 8:37
+> *"We are more than conquerors through him who loved us."* (Romans 8:37)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of More Than Conquerors about for kids?
 
-More Than Conquerors is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES — EPISODE 2 "More Than Conquerors" Based on Romans 8:28-39 Jesus Narrates
+More Than Conquerors is a story from Romans/Corinthians/Ephesians. LETTERS TO THE CHURCHES, EPISODE 2 "More Than Conquerors" Based on Romans 8:28-39 Jesus Narrates
 
 ### What age is the story of More Than Conquerors appropriate for?
 

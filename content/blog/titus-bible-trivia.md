@@ -2,7 +2,7 @@
 title: "Titus Bible Trivia: 21 Questions and Answers for Families"
 slug: "titus-bible-trivia"
 type: "listicle"
-metaDescription: "21 Titus Bible trivia questions with answers and verse references -- easy to hard rounds from Paul's letter to Crete, great for family trivia night."
+metaDescription: "21 Titus Bible trivia questions with answers and verse references, easy to hard rounds from Paul's letter to Crete, great for family trivia night."
 keywords: ["titus bible trivia", "titus quiz questions", "questions about the book of titus", "titus bible questions and answers", "book of titus trivia", "pastoral epistles trivia for kids"]
 datePublished: "2026-08-14"
 dateModified: "2026-08-14"
@@ -10,19 +10,19 @@ dateModified: "2026-08-14"
 
 These 21 Titus Bible trivia questions cover Paul's short letter to his troubleshooter on the island of Crete, with answers and verse references included after every question. They're sorted into easy (ages 5-8), medium (ages 9-12), and hard (teens and adults) rounds so everyone at the table can play.
 
-At just three chapters, Titus is one of the shortest books in the New Testament -- which makes it a perfect "read the whole book first, then quiz" pick for family devotions. It also contains one of the strangest quotes in the Bible, where Paul cites a Cretan poet insulting his own people.
+At just three chapters, Titus is one of the shortest books in the New Testament, which makes it a perfect "read the whole book first, then quiz" pick for family devotions. It also contains one of the strangest quotes in the Bible, where Paul cites a Cretan poet insulting his own people.
 
 ## What Is the Book of Titus About?
 
 The book of Titus is a letter from the apostle Paul instructing Titus, his coworker on the island of Crete, to finish organizing the young churches there, appoint trustworthy elders in every town, and teach believers to live lives full of good works. Paul had left Titus behind in Crete precisely for that cleanup job: "The reason I left you in Crete was that you might put in order what was left unfinished" (Titus 1:5).
 
-Paul wrote the letter in the mid-60s AD, between his two Roman imprisonments, and it's grouped with 1 and 2 Timothy as the "Pastoral Letters" -- letters to pastors rather than to whole churches. The big theme is that grace produces goodness: "the grace of God has appeared that offers salvation to all people" and it "teaches us to say 'No' to ungodliness" (Titus 2:11-12). For a tiny book, the phrase "doing good" shows up remarkably often -- Paul circles back to it in every chapter (Titus 2:7, 2:14, 3:8, 3:14).
+Paul wrote the letter in the mid-60s AD, between his two Roman imprisonments, and it's grouped with 1 and 2 Timothy as the "Pastoral Letters", letters to pastors rather than to whole churches. The big theme is that grace produces goodness: "the grace of God has appeared that offers salvation to all people" and it "teaches us to say 'No' to ungodliness" (Titus 2:11-12). For a tiny book, the phrase "doing good" shows up remarkably often, Paul circles back to it in every chapter (Titus 2:7, 2:14, 3:8, 3:14).
 
 ## Who Was Titus in the Bible?
 
-Titus was a Greek convert who became one of Paul's most trusted partners -- Paul calls him "my true son in our common faith" (Titus 1:4). He was an important test case in the early church: because Titus was a Gentile, Paul brought him to Jerusalem, and the church leaders agreed he did not need to be circumcised to be a full Christian (Galatians 2:1-3) -- a landmark moment for the gospel going to all nations.
+Titus was a Greek convert who became one of Paul's most trusted partners, Paul calls him "my true son in our common faith" (Titus 1:4). He was an important test case in the early church: because Titus was a Gentile, Paul brought him to Jerusalem, and the church leaders agreed he did not need to be circumcised to be a full Christian (Galatians 2:1-3), a landmark moment for the gospel going to all nations.
 
-Titus was also Paul's go-to fixer for hard assignments. Paul sent him to Corinth to help mend a painful conflict with that church and to organize a famine-relief collection (2 Corinthians 7:6-7, 8:6, 8:16-17), calling him "my partner and co-worker" (2 Corinthians 8:23). Crete -- a large Mediterranean island with a rough reputation -- was exactly the kind of tough posting Paul saved for him. Here's a fun trivia hook for kids: for all his importance, Titus is never once mentioned by name in the book of Acts, so everything we know about him comes from Paul's letters. Read more about the man who mentored him in our guide to [who Paul was](/blog/who-was-paul-for-kids).
+Titus was also Paul's go-to fixer for hard assignments. Paul sent him to Corinth to help mend a painful conflict with that church and to organize a famine-relief collection (2 Corinthians 7:6-7, 8:6, 8:16-17), calling him "my partner and co-worker" (2 Corinthians 8:23). Crete, a large Mediterranean island with a rough reputation, was exactly the kind of tough posting Paul saved for him. Here's a fun trivia hook for kids: for all his importance, Titus is never once mentioned by name in the book of Acts, so everything we know about him comes from Paul's letters. Read more about the man who mentored him in our guide to [who Paul was](/blog/who-was-paul-for-kids).
 
 ## Easy Titus Trivia Questions (Ages 5-8)
 
@@ -38,7 +38,7 @@ Titus was also Paul's go-to fixer for hard assignments. Paul sent him to Corinth
 
 6. What did Paul say our people must learn to devote themselves to? **Doing what is good** (Titus 3:14)
 
-There is also a playable [Bible Jeopardy board](/bible-jeopardy) — 6 categories, team scoring, and a verse with every answer — built for Sunday school and youth group screens.
+There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
 Keep the order straight while you quiz: our free [printable books of the Bible chart](/printables/books-of-the-bible) shows all 66 in their groups, with chapter counts and cut-out bookmarks.
 
@@ -58,7 +58,7 @@ Keep the order straight while you quiz: our free [printable books of the Bible c
 
 13. Through what "washing" did God save us? **The washing of rebirth and renewal by the Holy Spirit** (Titus 3:5)
 
-14. How many warnings does a divisive person get before you are to have nothing to do with them? **Two -- warn them once, and then a second time** (Titus 3:10)
+14. How many warnings does a divisive person get before you are to have nothing to do with them? **Two, warn them once, and then a second time** (Titus 3:10)
 
 ## Hard Titus Trivia Questions (Teens and Adults)
 
@@ -78,9 +78,9 @@ Keep the order straight while you quiz: our free [printable books of the Bible c
 
 ## How to Use These Questions
 
-Read the whole book of Titus out loud first -- it takes about six minutes -- and then run the rounds, which turns the quiz into a memory game instead of a stumper. Start with the easy round at dinner, save the hard round for teens, and award bonus points for anyone who can recite the Cretan poet's insult from Titus 1:12 with a dramatic voice. For a bigger event, mix these into a [family Bible trivia night](/blog/family-bible-trivia-night) as the "shortest books" round.
+Read the whole book of Titus out loud first, it takes about six minutes, and then run the rounds, which turns the quiz into a memory game instead of a stumper. Start with the easy round at dinner, save the hard round for teens, and award bonus points for anyone who can recite the Cretan poet's insult from Titus 1:12 with a dramatic voice. For a bigger event, mix these into a [family Bible trivia night](/blog/family-bible-trivia-night) as the "shortest books" round.
 
-Titus also works well as part of a books-of-the-Bible unit -- see our overview of the [books of the Bible for kids](/blog/books-of-the-bible-for-kids) to show where it sits among Paul's letters. When you're ready for more, our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids) and [Bible trivia for kids](/blog/bible-trivia-for-kids) collections have hundreds more, and our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each Bible story with a quiz kids actually ask to take.
+Titus also works well as part of a books-of-the-Bible unit, see our overview of the [books of the Bible for kids](/blog/books-of-the-bible-for-kids) to show where it sits among Paul's letters. When you're ready for more, our [New Testament trivia questions](/blog/new-testament-bible-trivia-for-kids) and [Bible trivia for kids](/blog/bible-trivia-for-kids) collections have hundreds more, and our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair each Bible story with a quiz kids actually ask to take.
 
 Prefer to play on a screen? Our [free online Bible quiz](/bible-trivia) shuffles a fresh round every time you play.
 
@@ -102,16 +102,16 @@ Titus has 3 chapters and 46 verses, making it one of the shortest books in the N
 
 ### Who was Titus in the Bible?
 
-Titus was a Greek convert who became one of Paul's most trusted coworkers -- Paul calls him "my true son in our common faith" (Titus 1:4). He helped resolve the conflict with the church in Corinth, was a test case proving Gentiles didn't need to be circumcised (Galatians 2:3), and was left in Crete to appoint elders. Interestingly, he is never mentioned in the book of Acts.
+Titus was a Greek convert who became one of Paul's most trusted coworkers. Paul calls him "my true son in our common faith" (Titus 1:4). He helped resolve the conflict with the church in Corinth, was a test case proving Gentiles didn't need to be circumcised (Galatians 2:3), and was left in Crete to appoint elders. Interestingly, he is never mentioned in the book of Acts.
 
 ### What is the main message of Titus?
 
-The main message is that God's grace produces good lives: "the grace of God has appeared that offers salvation to all people" and it "teaches us to say 'No' to ungodliness" (Titus 2:11-12). Paul repeats the phrase "doing good" in every chapter -- right belief and right living belong together.
+The main message is that God's grace produces good lives: "the grace of God has appeared that offers salvation to all people" and it "teaches us to say 'No' to ungodliness" (Titus 2:11-12). Paul repeats the phrase "doing good" in every chapter; right belief and right living belong together.
 
 ### What is the famous quote about Cretans in Titus?
 
-Paul quotes one of Crete's own prophets: "Cretans are always liars, evil brutes, lazy gluttons" (Titus 1:12), and then adds, "This saying is true." Ancient writers attributed the line to the Cretan poet Epimenides -- Paul used the island's own reputation to explain why Titus needed to appoint solid, trustworthy leaders.
+Paul quotes one of Crete's own prophets: "Cretans are always liars, evil brutes, lazy gluttons" (Titus 1:12), and then adds, "This saying is true." Ancient writers attributed the line to the Cretan poet Epimenides. Paul used the island's own reputation to explain why Titus needed to appoint solid, trustworthy leaders.
 
 ### What age can kids start learning Titus?
 
-Kids around 8 and up handle Titus well, since it's practical instruction rather than a story. The memorable hooks for younger kids are the island setting, the funny Cretan quote, and the repeated theme of "doing good" -- a takeaway even a five-year-old can act on the same day.
+Kids around 8 and up handle Titus well, since it's practical instruction rather than a story. The memorable hooks for younger kids are the island setting, the funny Cretan quote, and the repeated theme of "doing good"; a takeaway even a five-year-old can act on the same day.

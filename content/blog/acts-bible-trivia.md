@@ -2,25 +2,25 @@
 title: "Acts Bible Trivia: 44 Questions and Answers for Kids"
 slug: "acts-bible-trivia"
 type: "listicle"
-metaDescription: "44 Acts Bible trivia questions with answers and verse references -- Pentecost, Paul's journeys, prison escapes, and the shipwreck, easy to expert."
+metaDescription: "44 Acts Bible trivia questions with answers and verse references: Pentecost, Paul's journeys, prison escapes, and the shipwreck, easy to expert."
 keywords: ["acts bible trivia", "book of acts quiz questions", "questions about the book of acts", "acts bible questions and answers", "acts of the apostles trivia", "paul missionary journeys quiz"]
 datePublished: "2026-08-14"
 dateModified: "2026-08-15"
 ---
 
-These 44 Acts Bible trivia questions cover Pentecost, Stephen, the road to Damascus, two miraculous prison breaks, and the shipwreck on Malta -- with answers and verse references after every question. They're sorted into easy, medium, and hard rounds so ages 5 through adult can play the same game.
+These 44 Acts Bible trivia questions cover Pentecost, Stephen, the road to Damascus, two miraculous prison breaks, and the shipwreck on Malta, with answers and verse references after every question. They're sorted into easy, medium, and hard rounds so ages 5 through adult can play the same game.
 
-Acts might be the most action-packed book in the Bible -- earthquakes, angels, riots, snake bites, and a boy who falls out a window mid-sermon -- so almost every question here has a story behind it. Watch out for question 35, the most common Bible mistake adults make.
+Acts might be the most action-packed book in the Bible: earthquakes, angels, riots, snake bites, and a boy who falls out a window mid-sermon, so almost every question here has a story behind it. Watch out for question 35, the most common Bible mistake adults make.
 
 ## What Is the Book of Acts About?
 
-The book of Acts tells the true story of the church's first thirty years -- how the good news about Jesus spread from a locked room in Jerusalem all the way to Rome, the capital of the world. It's traditionally attributed to Luke, the doctor who wrote the Gospel of Luke; Acts is his sequel, addressed to the same reader, Theophilus (Acts 1:1), and Luke personally joined Paul for parts of the journey (the famous "we" passages, starting in Acts 16:10).
+The book of Acts tells the true story of the church's first thirty years: how the good news about Jesus spread from a locked room in Jerusalem all the way to Rome, the capital of the world. It's traditionally attributed to Luke, the doctor who wrote the Gospel of Luke; Acts is his sequel, addressed to the same reader, Theophilus (Acts 1:1), and Luke personally joined Paul for parts of the journey (the famous "we" passages, starting in Acts 16:10).
 
-The whole book follows the outline Jesus gives in Acts 1:8: "You will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth." Peter dominates the first half, Paul the second -- and the big idea is that no prison, storm, or empire can stop the message.
+The whole book follows the outline Jesus gives in Acts 1:8: "You will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth." Peter dominates the first half, Paul the second, and the big idea is that no prison, storm, or empire can stop the message.
 
 ## Easy Acts Trivia Questions (Ages 5-8)
 
-1. What happened to Jesus at the very beginning of Acts? **He was taken up to heaven -- the ascension** (Acts 1:9)
+1. What happened to Jesus at the very beginning of Acts? **He was taken up to heaven: the ascension** (Acts 1:9)
 2. How many days did Jesus spend with his disciples after rising from the dead? **Forty** (Acts 1:3)
 3. What appeared to rest on each believer at Pentecost? **What seemed to be tongues of fire** (Acts 2:3)
 4. What sound filled the whole house at Pentecost? **A sound like a violent, rushing wind** (Acts 2:2)
@@ -35,7 +35,7 @@ The whole book follows the outline Jesus gives in Acts 1:8: "You will be my witn
 
 ## Medium Acts Trivia Questions (Ages 9-12)
 
-13. Who wrote Acts, and to whom is it addressed? **Luke -- addressed to Theophilus** (Acts 1:1)
+13. Who wrote Acts, and to whom is it addressed? **Luke: addressed to Theophilus** (Acts 1:1)
 14. Who was chosen to replace Judas as the twelfth apostle? **Matthias** (Acts 1:26)
 15. Jesus said the disciples would be his witnesses in Jerusalem, Judea, Samaria, and where else? **To the ends of the earth** (Acts 1:8)
 16. Who was the first Christian martyr, killed by stoning? **Stephen** (Acts 7:59-60)
@@ -58,24 +58,24 @@ There is a free [Fruit of the Spirit word search](/printables/bible-word-search/
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
-A free [books of the Bible printable](/printables/books-of-the-bible) — chart plus bookmarks, with every book's chapter count — makes a good companion sheet.
+A free [books of the Bible printable](/printables/books-of-the-bible), chart plus bookmarks, with every book's chapter count, makes a good companion sheet.
 
-For the full story of the church's first martyr — and the surprise link to Paul — see [Who Was Stephen in the Bible?](/blog/who-was-stephen-for-kids)
+For the full story of the church's first martyr, and the surprise link to Paul, see [Who Was Stephen in the Bible?](/blog/who-was-stephen-for-kids)
 
 ## Hard Acts Trivia Questions (Teens and Adults)
 
 31. What altar inscription did Paul quote when preaching in Athens? **"TO AN UNKNOWN GOD"** (Acts 17:23)
 32. What trade did Paul share with Aquila and Priscilla in Corinth? **Tentmaking** (Acts 18:3)
 33. What did the rioting crowd in Ephesus shout for about two hours? **"Great is Artemis of the Ephesians!"** (Acts 19:34)
-34. Who fell asleep and dropped from a third-story window during Paul's long sermon -- and what happened? **Eutychus -- Paul raised him alive** (Acts 20:9-10)
-35. Trick question: when did God change Saul's name to Paul? **He didn't -- the Bible simply says Saul "was also called Paul." He had both names all along** (Acts 13:9)
+34. Who fell asleep and dropped from a third-story window during Paul's long sermon, and what happened? **Eutychus: Paul raised him alive** (Acts 20:9-10)
+35. Trick question: when did God change Saul's name to Paul? **He didn't, the Bible simply says Saul "was also called Paul." He had both names all along** (Acts 13:9)
 36. Which two Greek gods did the crowd at Lystra mistake Barnabas and Paul for? **Zeus and Hermes** (Acts 14:12)
 37. What did the prophet Agabus do with Paul's belt? **Tied his own hands and feet with it to act out Paul's coming arrest** (Acts 21:11)
 38. How many men took an oath not to eat or drink until they had killed Paul? **More than forty** (Acts 23:13)
-39. Who overheard that murder plot and saved Paul's life? **Paul's nephew -- his sister's son** (Acts 23:16)
+39. Who overheard that murder plot and saved Paul's life? **Paul's nephew, his sister's son** (Acts 23:16)
 40. Name the two governors and the king Paul stood before in Caesarea. **Felix, Festus, and King Agrippa** (Acts 24-26)
 41. Exactly how many people were aboard Paul's ship when it wrecked? **276** (Acts 27:37)
-42. What fastened onto Paul's hand on Malta -- and what happened to him? **A viper -- he shook it off into the fire and suffered no harm** (Acts 28:3-5)
+42. What fastened onto Paul's hand on Malta, and what happened to him? **A viper, he shook it off into the fire and suffered no harm** (Acts 28:3-5)
 43. When the sorcerers of Ephesus burned their scrolls, what were they worth? **Fifty thousand drachmas** (Acts 19:19)
 44. How does the book of Acts end? **With Paul under house arrest in Rome for two years, preaching the kingdom of God "with all boldness and without hindrance"** (Acts 28:30-31)
 
@@ -90,7 +90,7 @@ Half the hard round gets easier once you can place each story on the right trip.
 | Third journey | Acts 18:23-21:17 | Timothy and others | Ephesus riot, Eutychus at Troas |
 | Voyage to Rome | Acts 27-28 | Luke, Aristarchus | Storm, shipwreck, viper on Malta |
 
-A pattern worth pointing out to kids: in Acts, trouble is a delivery method. The jailer in Philippi meets Jesus because Paul was arrested; the ship's crew hears the gospel because of a storm; Rome itself gets two years of free preaching because Paul was a prisoner. Every setback moves the message forward -- which is the argument of the whole book in miniature.
+A pattern worth pointing out to kids: in Acts, trouble is a delivery method. The jailer in Philippi meets Jesus because Paul was arrested; the ship's crew hears the gospel because of a storm; Rome itself gets two years of free preaching because Paul was a prisoner. Every setback moves the message forward, which is the argument of the whole book in miniature.
 
 ## How to Use These Questions
 
@@ -102,7 +102,7 @@ Want a mix from the whole Bible? Try our [Bible trivia for kids](/blog/bible-tri
 
 For nights when nobody wants to read questions aloud, our [free Bible quiz for kids](/bible-trivia) takes over.
 
-When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- the warm-up round catches almost everyone on the stories they think they know.
+When the kids' round ends, hand the grown-ups our [Bible trivia for adults](/blog/bible-trivia-for-adults), the warm-up round catches almost everyone on the stories they think they know.
 
 When dinner winds down, the [Christmas trivia game with answers](/blog/christmas-bible-trivia) settles who actually knows the real story.
 
@@ -124,12 +124,12 @@ The conversion of Saul on the road to Damascus (Acts 9), when a blinding light a
 
 ### Did God change Saul's name to Paul?
 
-No -- this is one of the most repeated Bible mix-ups. Saul kept his name long after meeting Jesus; Acts 13:9 simply notes that Saul "was also called Paul." Like many Jews in the Roman world, he had a Hebrew name (Saul) and a Roman one (Paul), and Luke switches to the Roman name as Paul begins preaching across the empire.
+No, this is one of the most repeated Bible mix-ups. Saul kept his name long after meeting Jesus; Acts 13:9 simply notes that Saul "was also called Paul." Like many Jews in the Roman world, he had a Hebrew name (Saul) and a Roman one (Paul), and Luke switches to the Roman name as Paul begins preaching across the empire.
 
 ### What does "Acts" actually mean?
 
-The full traditional title is "The Acts of the Apostles" -- the deeds or actions of Jesus' messengers. Many teachers point out it could just as well be called the Acts of the Holy Spirit, since the Spirit directs nearly every move in the book (Acts 8:29; 13:2; 16:6-7).
+The full traditional title is "The Acts of the Apostles," the deeds or actions of Jesus' messengers. Many teachers point out it could just as well be called the Acts of the Holy Spirit, since the Spirit directs nearly every move in the book (Acts 8:29; 13:2; 16:6-7).
 
 ### What age can kids start learning the book of Acts?
 
-Ages 5-7 can enjoy the big action stories -- Pentecost, the prison escapes, and the shipwreck. Ages 8-11 can follow Paul's journeys on a map, and the trials before Felix, Festus, and Agrippa work best for ages 12 and up. For more all-ages questions, try our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids).
+Ages 5-7 can enjoy the big action stories, Pentecost, the prison escapes, and the shipwreck. Ages 8-11 can follow Paul's journeys on a map, and the trials before Felix, Festus, and Agrippa work best for ages 12 and up. For more all-ages questions, try our [New Testament trivia for kids](/blog/new-testament-bible-trivia-for-kids).

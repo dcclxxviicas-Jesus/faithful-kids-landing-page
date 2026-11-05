@@ -352,7 +352,7 @@ export function getPostMarkdown(slug: string): string | null {
     '',
     '---',
     '',
-    '*Faithful Kids (https://faithfulkids.app) — Bible video lessons for kids ages 5-15. This is the Markdown edition of the page above; the HTML page is canonical.*',
+    '*Faithful Kids (https://faithfulkids.app): Bible video lessons for kids ages 5-15. This is the Markdown edition of the page above; the HTML page is canonical.*',
     '',
   ].join('\n')
 }
@@ -474,7 +474,7 @@ export function extractDiscussionQuestions(content: string): { question: string;
     if (question) {
       questions.push({
         question,
-        answer: 'Discuss this question together as a family. There is no single right answer — the goal is to help your child think deeply about the story and connect it to their own life.',
+        answer: 'Discuss this question together as a family. There is no single right answer: the goal is to help your child think deeply about the story and connect it to their own life.',
       })
     }
   }

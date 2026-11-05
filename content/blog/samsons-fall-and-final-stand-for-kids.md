@@ -23,11 +23,11 @@ Samson's Fall and Final Stand is a Bible story from Judges 16 in the Old Testame
 
 ## What Is the Story of Samson's Fall and Final Stand for Kids?
 
-Hey friend! Last time we met the strongest man who ever lived — Samson. Ripped apart a lion. Defeated armies single-handedly. Unstoppable. But today? Today you're going to see what happens when the strongest person in the room makes the weakest choices. This story is both heartbreaking and incredible. Let's go.
+Hey friend! Last time we met the strongest man who ever lived, Samson. Ripped apart a lion. Defeated armies single-handedly. Unstoppable. But today? Today you're going to see what happens when the strongest person in the room makes the weakest choices. This story is both heartbreaking and incredible. Let's go.
 
 After all of his victories, Samson fell in love with a woman named Delilah. And the Philistine rulers saw their chance. They went to Delilah and said, "Find out the secret of his strength. We'll each pay you eleven hundred pieces of silver." That is a FORTUNE. And Delilah said yes.
 
-So she started asking. "Samson, tell me — what makes you so strong?" At first, Samson lied. He made up fake answers three different times. Each time Delilah tested it, and each time Samson broke free. You'd think after three tries he'd realize — she's working against me!
+So she started asking. "Samson, tell me, what makes you so strong?" At first, Samson lied. He made up fake answers three different times. Each time Delilah tested it, and each time Samson broke free. You'd think after three tries he'd realize, she's working against me!
 
 But Delilah didn't stop. Day after day she nagged and pressured him until his soul was "vexed to death." And finally, Samson told her everything. "I'm a Nazirite. Set apart for God since birth. A razor has never touched my head. If my hair is shaved, my strength will leave me."
 
@@ -43,11 +43,11 @@ The story of Samson's Fall and Final Stand teaches children important lessons ab
 
 ## Key Bible Verse
 
-> *"For all have sinned and fall short of the glory of God."* — Romans 3:23
+> *"For all have sinned and fall short of the glory of God."* (Romans 3:23)
 
-For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land — printable, with the story behind the division.
+For the land these stories happened in, our free [12 tribes of Israel map](/printables/bible-maps/twelve-tribes-of-israel) shows how Joshua divided the Promised Land, printable, with the story behind the division.
 
-For the whole story in one place — the vow, Delilah, and the final prayer — see [Who Was Samson?](/blog/who-was-samson-for-kids)
+For the whole story in one place, the vow, Delilah, and the final prayer, see [Who Was Samson?](/blog/who-was-samson-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -59,7 +59,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did Delilah keep pressuring Samson to reveal?
 
-The Philistine rulers bribed Delilah to discover the source of Samson's power. She nagged him day after day until he finally gave in and told her about his Nazirite vow — that his hair had never been cut.
+The Philistine rulers bribed Delilah to discover the source of Samson's power. She nagged him day after day until he finally gave in and told her about his Nazirite vow, that his hair had never been cut.
 
 ### What happened when Samson's hair was shaved off?
 
@@ -67,7 +67,7 @@ Samson's hair was the sign of his Nazirite vow with God. When it was shaved, his
 
 ### How did Samson's story end?
 
-Even after his terrible fall, Samson cried out to God one final time. God answered his prayer, giving him strength to bring down the entire temple on thousands of Philistines. It was tragic but powerful — proof that God still hears us even after failure.
+Even after his terrible fall, Samson cried out to God one final time. God answered his prayer, giving him strength to bring down the entire temple on thousands of Philistines. It was tragic but powerful, proof that God still hears us even after failure.
 
 
 ## Discussion Questions for Families
@@ -105,7 +105,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Samson's Fall and Final Stand about for kids?
 
-Samson's Fall and Final Stand is a story from Judges 16. Hey friend! Last time we met the strongest man who ever lived — Samson. Ripped apart a lion. Defeated armies single-handedly. Unstoppable. But today? Today you're going to see what happens when the...
+Samson's Fall and Final Stand is a story from Judges 16. Hey friend! Last time we met the strongest man who ever lived, Samson. Ripped apart a lion. Defeated armies single-handedly. Unstoppable. But today? Today you're going to see what happens when the...
 
 ### What age is the story of Samson's Fall and Final Stand appropriate for?
 

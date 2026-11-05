@@ -25,11 +25,11 @@ It Is Finished is a Bible story from Matthew/Mark/Luke/John in the New Testament
 
 ## What Is the Story of It Is Finished for Kids?
 
-THE ROAD TO THE CROSS — Episode 9: It Is Finished Based on Matthew 27:45-56 and John 19:28-37 Series: The Road to the Cross | Target audience: Ages 7-15
+THE ROAD TO THE CROSS, Episode 9: It Is Finished Based on Matthew 27:45-56 and John 19:28-37 Series: The Road to the Cross | Target audience: Ages 7-15
 
-Not a cloud. Not an eclipse. The sun itself refused to shine. For three hours, darkness covered the entire land — from noon to three in the afternoon. People who had been mocking me went silent. The soldiers shifted nervously. Something was happening that no one could explain.
+Not a cloud. Not an eclipse. The sun itself refused to shine. For three hours, darkness covered the entire land, from noon to three in the afternoon. People who had been mocking me went silent. The soldiers shifted nervously. Something was happening that no one could explain.
 
-During those three hours, something heavier than the nails pressed down on me. The weight of every sin — every lie ever told, every act of cruelty, every broken promise, every hateful word from the beginning of time to the end of it — all of it was placed on me. Not my sin. Yours. The world's. All of it.
+During those three hours, something heavier than the nails pressed down on me. The weight of every sin, every lie ever told, every act of cruelty, every broken promise, every hateful word from the beginning of time to the end of it, all of it was placed on me. Not my sin. Yours. The world's. All of it.
 
 And for the first and only time in all of eternity, I felt something I had never felt before: separation from my Father.
 
@@ -45,7 +45,7 @@ The story of It Is Finished teaches children important lessons about sacrifice, 
 
 ## Key Bible Verse
 
-> *"It is finished."* — John 19:30
+> *"It is finished."* (John 19:30)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -63,9 +63,9 @@ After watching the video, see if your child can answer these questions:
 
 **"My God, my God, why have you forsaken me?" For the first time in all of eternity, Jesus experienced separation from His Father as He bore the weight of the world's sin.** 
 
-### What does the word "Tetelestai" — the word Jesus used when He said "It is finished" — mean?
+### What does the word "Tetelestai": the word Jesus used when He said "It is finished", mean?
 
-**"Paid in full." Jesus wasn't saying He was defeated.** He was declaring that the debt for sin was completely settled — nothing left to pay.
+**"Paid in full." Jesus wasn't saying He was defeated.** He was declaring that the debt for sin was completely settled, nothing left to pay.
 
 ### What happened to the temple curtain when Jesus died?
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What is the main lesson of this episode?
 
-**"It is finished" is the most important sentence ever spoken.** Jesus completed the work of salvation. It's not something we earn or add to — it's a gift that's already been paid for.
+**"It is finished" is the most important sentence ever spoken.** Jesus completed the work of salvation. It's not something we earn or add to, it's a gift that's already been paid for.
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of It Is Finished about for kids?
 
-It Is Finished is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS — Episode 9: It Is Finished Based on Matthew 27:45-56 and John 19:28-37 Series: The Road to the Cross | Target audience: Ages 7-15
+It Is Finished is a story from Matthew/Mark/Luke/John. THE ROAD TO THE CROSS, Episode 9: It Is Finished Based on Matthew 27:45-56 and John 19:28-37 Series: The Road to the Cross | Target audience: Ages 7-15
 
 ### What age is the story of It Is Finished appropriate for?
 

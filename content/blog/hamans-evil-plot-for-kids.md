@@ -25,11 +25,11 @@ Hamans Evil Plot is a Bible story from Ezra/Nehemiah/Esther in the Old Testament
 
 ## What Is the Story of Hamans Evil Plot for Kids?
 
-TITLE: Haman's Evil Plot SERIES: The Return Home — Episode 8 SCRIPTURE: Esther 3-5
+TITLE: Haman's Evil Plot SERIES: The Return Home, Episode 8 SCRIPTURE: Esther 3-5
 
-Things are about to get VERY intense. Because the villain just walked onto the stage — and he's not playing around.
+Things are about to get VERY intense. Because the villain just walked onto the stage, and he's not playing around.
 
-His name is Haman. He's the king's right-hand man — the highest official in the empire. And here's the deal: when Haman walks by, EVERYONE bows. It's the rule. Heads down, knees bent, total respect.
+His name is Haman. He's the king's right-hand man, the highest official in the empire. And here's the deal: when Haman walks by, EVERYONE bows. It's the rule. Heads down, knees bent, total respect.
 
 Everyone bows... except one man. Mordecai.
 
@@ -45,7 +45,7 @@ The story of Hamans Evil Plot teaches children important lessons about rebuildin
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -69,7 +69,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What famous words did Mordecai say to Esther?
 
-**"Who knows — perhaps you were made queen for such a time as this?".** Mordecai's words are some of the most powerful in the Bible. He helped Esther see that her position as queen wasn't about comfort — it was about purpose.
+**"Who knows, perhaps you were made queen for such a time as this?".** Mordecai's words are some of the most powerful in the Bible. He helped Esther see that her position as queen wasn't about comfort, it was about purpose.
 
 ### What was Esther's courageous response?
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Hamans Evil Plot about for kids?
 
-Hamans Evil Plot is a story from Ezra/Nehemiah/Esther. TITLE: Haman's Evil Plot SERIES: The Return Home — Episode 8 SCRIPTURE: Esther 3-5
+Hamans Evil Plot is a story from Ezra/Nehemiah/Esther. TITLE: Haman's Evil Plot SERIES: The Return Home, Episode 8 SCRIPTURE: Esther 3-5
 
 ### What age is the story of Hamans Evil Plot appropriate for?
 

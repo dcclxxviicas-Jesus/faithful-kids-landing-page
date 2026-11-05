@@ -25,13 +25,13 @@ David Becomes King is a Bible story from 1 Samuel in the Old Testament. This ret
 
 ## What Is the Story of David Becomes King for Kids?
 
-THE RISE OF KINGS — Episode 10: David Becomes King Based on 2 Samuel 5-6 | Narrated by Jesus
+THE RISE OF KINGS, Episode 10: David Becomes King Based on 2 Samuel 5-6 | Narrated by Jesus
 
-We made it! This is the episode we've been building toward since the very beginning. After years of waiting, running, hiding, fighting, grieving — David is FINALLY crowned king.
+We made it! This is the episode we've been building toward since the very beginning. After years of waiting, running, hiding, fighting, grieving, David is FINALLY crowned king.
 
-But it didn't happen all at once. First, the tribe of Judah anointed him king in Hebron. He ruled there for seven years. Then, one by one, the rest of the tribes came to him. ALL of Israel united under David. The shepherd boy from Bethlehem was king over the entire nation. God's promise — fulfilled.
+But it didn't happen all at once. First, the tribe of Judah anointed him king in Hebron. He ruled there for seven years. Then, one by one, the rest of the tribes came to him. ALL of Israel united under David. The shepherd boy from Bethlehem was king over the entire nation. God's promise, fulfilled.
 
-David's first big move? He conquered Jerusalem. The Jebusites who held it taunted him: "Even the blind and the lame could keep you out!" But David's men found a way in through a water shaft, and the city fell. David made it his capital — the City of David. That city is STILL one of the most important places on earth. That's where I would walk, teach, and change everything.
+David's first big move? He conquered Jerusalem. The Jebusites who held it taunted him: "Even the blind and the lame could keep you out!" But David's men found a way in through a water shaft, and the city fell. David made it his capital, the City of David. That city is STILL one of the most important places on earth. That's where I would walk, teach, and change everything.
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of David Becomes King teaches children important lessons about courage
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
 A related freebie: our [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath), drawn as clean line art for crayons and markers.
 
@@ -77,7 +77,7 @@ After watching the video, see if your child can answer these questions:
 
 ### What did David say when Michal criticized him for dancing?
 
-**"I will celebrate before the LORD — I will become even more undignified".**
+**"I will celebrate before the LORD, I will become even more undignified".**
 
 ## Discussion Questions for Families
 
@@ -116,7 +116,7 @@ Print the [David and Goliath word search](/printables/bible-word-search/david-an
 
 ### What is the story of David Becomes King about for kids?
 
-David Becomes King is a story from 1 Samuel. THE RISE OF KINGS — Episode 10: David Becomes King Based on 2 Samuel 5-6 | Narrated by Jesus
+David Becomes King is a story from 1 Samuel. THE RISE OF KINGS, Episode 10: David Becomes King Based on 2 Samuel 5-6 | Narrated by Jesus
 
 ### What age is the story of David Becomes King appropriate for?
 

@@ -10,13 +10,13 @@ dateModified: "2026-08-16"
 
 # Who Was Paul the Apostle? Bible Story for Kids
 
-Paul is one of the most important people in the entire New Testament. He wrote 13 of the 27 books in it. He traveled thousands of miles on foot and by ship to tell people about Jesus. He was beaten, shipwrecked, thrown in prison, and bitten by a snake -- and he never stopped.
+Paul is one of the most important people in the entire New Testament. He wrote 13 of the 27 books in it. He traveled thousands of miles on foot and by ship to tell people about Jesus. He was beaten, shipwrecked, thrown in prison, and bitten by a snake, and he never stopped.
 
 But here's what makes Paul's story truly amazing: he started out as one of the worst enemies of Christians. Before he was Paul the missionary, he was Saul the persecutor. His transformation is one of the most dramatic conversion stories in history.
 
 ## Saul the Persecutor (Acts 7:58-8:3)
 
-Paul's story begins with a different name: Saul. He was born in Tarsus (in modern-day Turkey) and was a proud Pharisee -- a Jewish religious leader who studied God's law with extreme dedication. Saul believed he was serving God by following every rule perfectly.
+Paul's story begins with a different name: Saul. He was born in Tarsus (in modern-day Turkey) and was a proud Pharisee, a Jewish religious leader who studied God's law with extreme dedication. Saul believed he was serving God by following every rule perfectly.
 
 When followers of Jesus began spreading the message that Jesus was the Messiah, Saul was furious. He thought they were dangerous heretics destroying the Jewish faith. The Bible says Saul "began to destroy the church. Going from house to house, he dragged off both men and women and put them in prison" (Acts 8:3).
 
@@ -28,7 +28,7 @@ Saul wasn't a casual opponent of Christianity. He was its most aggressive enemy.
 
 ## The Road to Damascus (Acts 9:1-19)
 
-Saul was on his way to Damascus, breathing threats and murder against Christians, when suddenly everything changed. A light from heaven flashed around him -- brighter than the sun. Saul fell to the ground.
+Saul was on his way to Damascus, breathing threats and murder against Christians, when suddenly everything changed. A light from heaven flashed around him, brighter than the sun. Saul fell to the ground.
 
 Then he heard a voice: "Saul, Saul, why do you persecute me?"
 
@@ -38,13 +38,13 @@ Then he heard a voice: "Saul, Saul, why do you persecute me?"
 
 When Saul opened his eyes, he was blind. The men traveling with him had to lead him by the hand into Damascus. For three days, Saul sat in darkness. He didn't eat or drink. Everything he had believed about himself and about God was being turned upside down.
 
-God then sent a Christian named Ananias to visit Saul. Ananias was understandably terrified -- everyone knew Saul's reputation. But God told Ananias, "Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel" (Acts 9:15).
+God then sent a Christian named Ananias to visit Saul. Ananias was understandably terrified; everyone knew Saul's reputation. But God told Ananias, "Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel" (Acts 9:15).
 
-Ananias went to Saul, placed his hands on him, and said, "Brother Saul, the Lord -- Jesus, who appeared to you on the road as you were coming here -- has sent me so that you may see again and be filled with the Holy Spirit."
+Ananias went to Saul, placed his hands on him, and said, "Brother Saul, the Lord, Jesus, who appeared to you on the road as you were coming here, has sent me so that you may see again and be filled with the Holy Spirit."
 
 Immediately, something like scales fell from Saul's eyes. He could see. He was baptized. And Saul the persecutor began his transformation into Paul the apostle. (We retell this dramatic moment in [Saul Meets Jesus for kids](/blog/saul-meets-jesus-for-kids).)
 
-**Key lesson for kids:** No one is too far gone for God. Saul was actively trying to destroy the church, and Jesus stopped him with a flash of light and a question. If God can turn Saul into Paul, He can change anyone. This is also a lesson about obedience -- Ananias was scared but went anyway because God asked him to.
+**Key lesson for kids:** No one is too far gone for God. Saul was actively trying to destroy the church, and Jesus stopped him with a flash of light and a question. If God can turn Saul into Paul, He can change anyone. This is also a lesson about obedience; Ananias was scared but went anyway because God asked him to.
 
 ## Paul's New Life (Acts 9:20-31)
 
@@ -52,17 +52,17 @@ The change in Paul was immediate and dramatic. He went straight to the synagogue
 
 Not everyone was happy about Paul's conversion. The Jewish leaders in Damascus plotted to kill him. Paul's friends had to lower him over the city wall in a basket at night so he could escape.
 
-When Paul went to Jerusalem, the Christians there were afraid of him. They didn't believe he was really a follower of Jesus -- they thought it might be a trick. But a man named Barnabas vouched for Paul and brought him to the apostles. Barnabas told them about Paul's encounter with Jesus and how boldly he had preached in Damascus. (Meet this remarkable friend in [Barnabas the Encourager for kids](/blog/barnabas-the-encourager-for-kids).)
+When Paul went to Jerusalem, the Christians there were afraid of him. They didn't believe he was really a follower of Jesus; they thought it might be a trick. But a man named Barnabas vouched for Paul and brought him to the apostles. Barnabas told them about Paul's encounter with Jesus and how boldly he had preached in Damascus. (Meet this remarkable friend in [Barnabas the Encourager for kids](/blog/barnabas-the-encourager-for-kids).)
 
-**Key lesson for kids:** When God changes us, it might take time for others to believe it. Paul's past made people suspicious. But his actions over time proved that his change was real. This is true for us too -- when we change, our consistent behavior shows people that the change is genuine.
+**Key lesson for kids:** When God changes us, it might take time for others to believe it. Paul's past made people suspicious. But his actions over time proved that his change was real. This is true for us too; when we change, our consistent behavior shows people that the change is genuine.
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
-Paul's young apprentice — raised on Scripture by his mom and grandma — has his own profile: [Who Was Timothy in the Bible?](/blog/who-was-timothy-for-kids)
+Paul's young apprentice, raised on Scripture by his mom and grandma, has his own profile: [Who Was Timothy in the Bible?](/blog/who-was-timothy-for-kids)
 
 ## Missionary Journeys (Acts 13-21)
 
-Paul went on three major missionary journeys that took him across the Roman Empire. He traveled through what is now Turkey, Greece, and beyond -- sometimes on foot, sometimes by ship. Wherever he went, he told people about Jesus, started new churches, and trained leaders.
+Paul went on three major missionary journeys that took him across the Roman Empire. He traveled through what is now Turkey, Greece, and beyond, sometimes on foot, sometimes by ship. Wherever he went, he told people about Jesus, started new churches, and trained leaders.
 
 His journeys were anything but comfortable. In 2 Corinthians 11:24-28, Paul lists what he endured:
 
@@ -76,7 +76,7 @@ His journeys were anything but comfortable. In 2 Corinthians 11:24-28, Paul list
 
 And through all of it, Paul kept going. He didn't stop because it was hard. He didn't quit because it was dangerous. He was driven by one thing: the love of Christ.
 
-On these journeys, Paul preached in major cities like Antioch, Ephesus, Corinth, Philippi, and Athens. In Athens, he stood on Mars Hill and preached to Greek philosophers (see [Paul in Athens for kids](/blog/paul-in-athens-for-kids)). In Philippi, he and Silas were beaten and thrown in prison -- where they sang hymns at midnight until an earthquake shook the prison doors open (Acts 16:25-26). (Read the full story in [Paul and Silas in Prison for kids](/blog/paul-and-silas-in-prison-for-kids), or start at the beginning with [Paul's First Journey for kids](/blog/pauls-first-journey-for-kids).)
+On these journeys, Paul preached in major cities like Antioch, Ephesus, Corinth, Philippi, and Athens. In Athens, he stood on Mars Hill and preached to Greek philosophers (see [Paul in Athens for kids](/blog/paul-in-athens-for-kids)). In Philippi, he and Silas were beaten and thrown in prison, where they sang hymns at midnight until an earthquake shook the prison doors open (Acts 16:25-26). (Read the full story in [Paul and Silas in Prison for kids](/blog/paul-and-silas-in-prison-for-kids), or start at the beginning with [Paul's First Journey for kids](/blog/pauls-first-journey-for-kids).)
 
 **Key lesson for kids:** Following Jesus doesn't mean life will be easy. Paul faced incredible hardships, but he counted them as worth it for the sake of sharing God's love. When we face difficult things for doing what's right, we're in good company.
 
@@ -84,10 +84,10 @@ On these journeys, Paul preached in major cities like Antioch, Ephesus, Corinth,
 
 Some of the most beautiful and beloved books of the Bible were written by Paul from prison. While chained up, he wrote letters to the churches he had started and to individual leaders. These letters include:
 
-- **Ephesians** -- about God's incredible love and the unity of believers
-- **Philippians** -- about joy in all circumstances (remember, he wrote this from jail)
-- **Colossians** -- about the supremacy of Christ over everything
-- **Philemon** -- a personal letter asking a slave owner to free a runaway slave named Onesimus
+- **Ephesians**, about God's incredible love and the unity of believers
+- **Philippians**, about joy in all circumstances (remember, he wrote this from jail)
+- **Colossians**: about the supremacy of Christ over everything
+- **Philemon**: a personal letter asking a slave owner to free a runaway slave named Onesimus
 
 Paul also wrote letters from freedom, including Romans (the longest and most theologically rich), 1 and 2 Corinthians, Galatians, 1 and 2 Thessalonians, 1 and 2 Timothy, and Titus.
 
@@ -102,13 +102,13 @@ Many of the most quoted Bible verses come from Paul's letters:
 
 ## Paul's Final Years
 
-Paul was eventually taken to Rome as a prisoner -- a journey that included a dramatic shipwreck ([Shipwrecked! for kids](/blog/shipwrecked-for-kids)) before he arrived in the capital ([Paul in Rome for kids](/blog/paul-in-rome-for-kids)). According to tradition, he was executed under Emperor Nero around AD 64-67. He died for the faith he once tried to destroy.
+Paul was eventually taken to Rome as a prisoner, a journey that included a dramatic shipwreck ([Shipwrecked! for kids](/blog/shipwrecked-for-kids)) before he arrived in the capital ([Paul in Rome for kids](/blog/paul-in-rome-for-kids)). According to tradition, he was executed under Emperor Nero around AD 64-67. He died for the faith he once tried to destroy.
 
 But before he died, Paul wrote some of his most moving words. In his final letter to Timothy, his young protege, Paul wrote:
 
-"I have fought the good fight, I have finished the race, I have kept the faith. Now there is in store for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day -- and not only to me, but also to all who have longed for his appearing" (2 Timothy 4:7-8).
+"I have fought the good fight, I have finished the race, I have kept the faith. Now there is in store for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day, and not only to me, but also to all who have longed for his appearing" (2 Timothy 4:7-8).
 
-Paul finished well. He didn't just start strong -- he ran all the way to the finish line.
+Paul finished well. He didn't just start strong; he ran all the way to the finish line.
 
 ## Why Paul Matters
 
@@ -128,13 +128,13 @@ Bring Paul's incredible story to life for your kids with animated video lessons 
 
 [Start your free trial today at Faithful Kids!](https://faithfulkids.app/quiz)
 
-Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names) -- meanings, verses, and the stories included.
+Naming a baby after a Bible hero? Start with our [biblical boy names](/blog/biblical-boy-names) or [biblical girl names](/blog/biblical-girl-names): meanings, verses, and the stories included.
 
 ## Frequently Asked Questions
 
 ### Why did Saul change his name to Paul?
 
-Saul didn't technically change his name. As a Roman citizen born in Tarsus, he likely had both names from birth -- Saul was his Hebrew name and Paul (Paulus) was his Roman name. The Bible starts using "Paul" in Acts 13:9 when he begins his ministry to the Gentiles (non-Jews). The name shift reflects his mission to the wider Roman world rather than a formal name change.
+Saul didn't technically change his name. As a Roman citizen born in Tarsus, he likely had both names from birth: Saul was his Hebrew name and Paul (Paulus) was his Roman name. The Bible starts using "Paul" in Acts 13:9 when he begins his ministry to the Gentiles (non-Jews). The name shift reflects his mission to the wider Roman world rather than a formal name change.
 
 ### How many books of the Bible did Paul write?
 
@@ -142,7 +142,7 @@ Paul is credited with writing 13 of the 27 books in the New Testament: Romans, 1
 
 ### How far did Paul travel on his missionary journeys?
 
-Scholars estimate that Paul traveled approximately 10,000 miles across three missionary journeys -- mostly on foot and by sailing ship. He crossed through modern-day Turkey, Greece, Syria, Cyprus, and eventually reached Rome. This is roughly equivalent to walking from New York to Los Angeles three and a half times.
+Scholars estimate that Paul traveled approximately 10,000 miles across three missionary journeys, mostly on foot and by sailing ship. He crossed through modern-day Turkey, Greece, Syria, Cyprus, and eventually reached Rome. This is roughly equivalent to walking from New York to Los Angeles three and a half times.
 
 ### What can kids learn from Paul's conversion?
 

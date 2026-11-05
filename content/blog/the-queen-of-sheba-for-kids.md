@@ -25,13 +25,13 @@ The Queen of Sheba is a Bible story from 1 Kings in the Old Testament. This rete
 
 ## What Is the Story of The Queen of Sheba for Kids?
 
-SOLOMON & THE KINGDOM — Episode 5: The Queen of Sheba Bible Reference: 1 Kings 10 Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM, Episode 5: The Queen of Sheba Bible Reference: 1 Kings 10 Series: Solomon & the Kingdom
 
-Alright — I've saved one of the most dramatic stories in Solomon's life for this episode. The day a powerful queen traveled over a thousand miles just to see if the rumors were true.
+Alright, I've saved one of the most dramatic stories in Solomon's life for this episode. The day a powerful queen traveled over a thousand miles just to see if the rumors were true.
 
-The Queen of Sheba had heard about Solomon. His wisdom. His wealth. His God. Reports had traveled down the trade routes and across the deserts all the way to her kingdom — likely in modern-day Yemen or Ethiopia, over 1,400 miles from Jerusalem. And she wasn't the type to just take someone's word for it. She needed to see for herself.
+The Queen of Sheba had heard about Solomon. His wisdom. His wealth. His God. Reports had traveled down the trade routes and across the deserts all the way to her kingdom, likely in modern-day Yemen or Ethiopia, over 1,400 miles from Jerusalem. And she wasn't the type to just take someone's word for it. She needed to see for herself.
 
-So she loaded up a caravan — and when I say caravan, I mean a MASSIVE one. Camels carrying spices so rare they were worth more than gold. Actual gold — tons of it. Precious stones. She rolled into Jerusalem like the superpower she was.
+So she loaded up a caravan, and when I say caravan, I mean a MASSIVE one. Camels carrying spices so rare they were worth more than gold. Actual gold, tons of it. Precious stones. She rolled into Jerusalem like the superpower she was.
 
 This story comes from 1 Kings and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of The Queen of Sheba teaches children important lessons about wisdom,
 
 ## Key Bible Verse
 
-> *"The report I heard in my own country about your achievements and your wisdom is true."* — 1 Kings 10:6
+> *"The report I heard in my own country about your achievements and your wisdom is true."* (1 Kings 10:6)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -65,7 +65,7 @@ Solomon never advertised himself. He never tried to prove anything. He simply li
 
 ### How did Solomon perform when the Queen tested him with hard questions?
 
-**He answered every single one — nothing was too hard for him.**
+**He answered every single one, nothing was too hard for him.**
 
 ### What was the Queen of Sheba's famous reaction after seeing everything?
 
@@ -73,7 +73,7 @@ Solomon never advertised himself. He never tried to prove anything. He simply li
 
 ### What is the main lesson of this episode?
 
-**Wisdom and godly character will speak for themselves — you don't have to prove yourself, just be faithful.**
+**Wisdom and godly character will speak for themselves; you don't have to prove yourself, just be faithful.**
 
 ## Discussion Questions for Families
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of The Queen of Sheba about for kids?
 
-The Queen of Sheba is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 5: The Queen of Sheba Bible Reference: 1 Kings 10 Series: Solomon & the Kingdom
+The Queen of Sheba is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 5: The Queen of Sheba Bible Reference: 1 Kings 10 Series: Solomon & the Kingdom
 
 ### What age is the story of The Queen of Sheba appropriate for?
 

@@ -25,13 +25,13 @@ David and Goliath is a Bible story from 1 Samuel in the Old Testament. This rete
 
 ## What Is the Story of David and Goliath for Kids?
 
-THE RISE OF KINGS — Episode 5: David and Goliath Based on 1 Samuel 17 | Narrated by Jesus
+THE RISE OF KINGS, Episode 5: David and Goliath Based on 1 Samuel 17 | Narrated by Jesus
 
-THIS. IS. THE. STORY. The most famous underdog moment in ALL of history. You probably already know it — but trust me, it hits different when you really understand what's going on. Let's go!
+THIS. IS. THE. STORY. The most famous underdog moment in ALL of history. You probably already know it, but trust me, it hits different when you really understand what's going on. Let's go!
 
-The Philistine army lined up on one hill. Israel's army on the other. A valley between them. And out of the Philistine camp stepped a MONSTER — Goliath of Gath. Nine feet tall. Bronze helmet. Armor weighing 125 pounds. A spear with an iron tip that weighed 15 pounds alone. Walking. Tank.
+The Philistine army lined up on one hill. Israel's army on the other. A valley between them. And out of the Philistine camp stepped a MONSTER, Goliath of Gath. Nine feet tall. Bronze helmet. Armor weighing 125 pounds. A spear with an iron tip that weighed 15 pounds alone. Walking. Tank.
 
-Every morning and evening for FORTY DAYS, Goliath stomped into that valley and shouted: "Send me one man to fight! If he wins, we're your servants. If I win, you're OURS!" And every day, the entire army of Israel — including King Saul — shook with fear. Nobody moved. For forty days.
+Every morning and evening for FORTY DAYS, Goliath stomped into that valley and shouted: "Send me one man to fight! If he wins, we're your servants. If I win, you're OURS!" And every day, the entire army of Israel, including King Saul, shook with fear. Nobody moved. For forty days.
 
 This story comes from 1 Samuel and is part of the Old Testament.
 
@@ -45,9 +45,9 @@ The story of David and Goliath teaches children important lessons about courage,
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
-Pair this with our free [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) — one sheet, ready for the kitchen table or the classroom.
+Pair this with our free [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger), one sheet, ready for the kitchen table or the classroom.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
@@ -116,7 +116,7 @@ If your class needs something to do with their hands, there is a [David and Goli
 
 ### What is the story of David and Goliath about for kids?
 
-David and Goliath is a story from 1 Samuel. THE RISE OF KINGS — Episode 5: David and Goliath Based on 1 Samuel 17 | Narrated by Jesus
+David and Goliath is a story from 1 Samuel. THE RISE OF KINGS, Episode 5: David and Goliath Based on 1 Samuel 17 | Narrated by Jesus
 
 ### What age is the story of David and Goliath appropriate for?
 

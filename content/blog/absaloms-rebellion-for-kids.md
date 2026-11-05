@@ -25,13 +25,13 @@ Absalom's Rebellion is a Bible story from 2 Samuel/Psalms in the Old Testament. 
 
 ## What Is the Story of Absalom's Rebellion for Kids?
 
-KING DAVID'S REIGN — EPISODE 7: ABSALOM'S REBELLION Scripture: 2 Samuel 15-18
+KING DAVID'S REIGN, EPISODE 7: ABSALOM'S REBELLION Scripture: 2 Samuel 15-18
 
-Friends, today's story is one of the hardest in David's entire life. It's not about an enemy army or a giant. It's about something far more painful — betrayal from his own son.
+Friends, today's story is one of the hardest in David's entire life. It's not about an enemy army or a giant. It's about something far more painful, betrayal from his own son.
 
-David had a son named Absalom. And Absalom was impressive — handsome, charming, and magnetic. People were drawn to him. But deep inside, Absalom was angry. He felt overlooked. He wanted power. And instead of talking to his father, he started scheming.
+David had a son named Absalom. And Absalom was impressive, handsome, charming, and magnetic. People were drawn to him. But deep inside, Absalom was angry. He felt overlooked. He wanted power. And instead of talking to his father, he started scheming.
 
-Here's what Absalom did. He would stand at the city gate where people came to bring their problems to the king. And he'd say, "Oh, your case is so important, but there's nobody from the king to listen to you. If only I were judge — I'd give you justice!" One by one, he stole the hearts of the people. He made them love him and doubt David. It was smooth, calculated, and devastating.
+Here's what Absalom did. He would stand at the city gate where people came to bring their problems to the king. And he'd say, "Oh, your case is so important, but there's nobody from the king to listen to you. If only I were judge, I'd give you justice!" One by one, he stole the hearts of the people. He made them love him and doubt David. It was smooth, calculated, and devastating.
 
 This story comes from 2 Samuel/Psalms and is part of the Old Testament.
 
@@ -45,7 +45,7 @@ The story of Absalom's Rebellion teaches children important lessons about worshi
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 A related freebie: our [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark), drawn as clean line art for crayons and markers.
 
@@ -112,7 +112,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Absalom's Rebellion about for kids?
 
-Absalom's Rebellion is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 7: ABSALOM'S REBELLION Scripture: 2 Samuel 15-18
+Absalom's Rebellion is a story from 2 Samuel/Psalms. KING DAVID'S REIGN, EPISODE 7: ABSALOM'S REBELLION Scripture: 2 Samuel 15-18
 
 ### What age is the story of Absalom's Rebellion appropriate for?
 

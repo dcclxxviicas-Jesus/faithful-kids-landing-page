@@ -16,11 +16,11 @@ The best bedtime Bible stories are calming, reassuring, and end with a sense of 
 
 ## What Makes a Good Bedtime Bible Story?
 
-- **Gentle tone** — no battles, no scary scenes, no intense drama
-- **Reassuring message** — "God is with you," "you are loved," "you are safe"
-- **Short** — 60 seconds to 3 minutes max (they are already tired)
-- **Peaceful imagery** — stars, gardens, quiet waters, gentle shepherds
-- **Ends with comfort** — the last thing they hear before sleep should be love
+- **Gentle tone**: no battles, no scary scenes, no intense drama
+- **Reassuring message**: "God is with you," "you are loved," "you are safe"
+- **Short**: 60 seconds to 3 minutes max (they are already tired)
+- **Peaceful imagery**: stars, gardens, quiet waters, gentle shepherds
+- **Ends with comfort**: the last thing they hear before sleep should be love
 
 ---
 
@@ -105,13 +105,13 @@ After the resurrection, Jesus makes breakfast for His friends on the beach. Fish
 
 ## Using Faithful Kids at Bedtime
 
-Faithful Kids is a lesson, not a lullaby — and used right, that is exactly what bedtime needs. Pick one story, watch it together, and let the reflection question be the wind-down conversation; there is no autoplay and no feed, so when the story ends, it ends. For a child who needs pure audio to fall asleep to, a sleep-first app like Abide is built for that final stage — a good pairing is one Faithful Kids story before lights-out, then audio after.
+Faithful Kids is a lesson, not a lullaby, and used right, that is exactly what bedtime needs. Pick one story, watch it together, and let the reflection question be the wind-down conversation; there is no autoplay and no feed, so when the story ends, it ends. For a child who needs pure audio to fall asleep to, a sleep-first app like Abide is built for that final stage, a good pairing is one Faithful Kids story before lights-out, then audio after.
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=listicle-bedtime)
 
-We drew a printable [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
-All of these come from our free [Bible stories for kids](/bible-stories-for-kids) collection -- the whole Bible as simple retellings, each with discussion questions.
+All of these come from our free [Bible stories for kids](/bible-stories-for-kids) collection; the whole Bible as simple retellings, each with discussion questions.
 
 ## Frequently Asked Questions
 

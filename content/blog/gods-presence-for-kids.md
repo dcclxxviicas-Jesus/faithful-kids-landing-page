@@ -23,13 +23,13 @@ God's Presence is a Bible story from Exodus 33-40 in the Old Testament. This ret
 
 ## What Is the Story of God's Presence for Kids?
 
-Hey, friends! Welcome to the final episode of our Exodus journey. We've saved the best for last. Everything — the plagues, the Passover, the Red Sea, the manna, the commandments, even the golden calf — it all leads to this moment.
+Hey, friends! Welcome to the final episode of our Exodus journey. We've saved the best for last. Everything, the plagues, the Passover, the Red Sea, the manna, the commandments, even the golden calf, it all leads to this moment.
 
 After the golden calf mess, Moses did something bold. He said to God, "If your presence doesn't go with us, don't send us anywhere." He didn't ask for an easier road or a bigger army. He asked for GOD. Without God's presence, nothing else mattered.
 
-Then Moses went further: "Show me your glory." He wanted to SEE God. And God said, "I'll pass by you, but you can't see my face — no one can and live. I'll put you in a crack in the rock and cover you with my hand, and you'll see my back." And that's what happened. God's glory passed by Moses, and God declared His own name: "The Lord — compassionate, gracious, slow to anger, overflowing with love and faithfulness!" THAT is who God is. Not angry and distant. Compassionate. Overflowing with love.
+Then Moses went further: "Show me your glory." He wanted to SEE God. And God said, "I'll pass by you, but you can't see my face, no one can and live. I'll put you in a crack in the rock and cover you with my hand, and you'll see my back." And that's what happened. God's glory passed by Moses, and God declared His own name: "The Lord, compassionate, gracious, slow to anger, overflowing with love and faithfulness!" THAT is who God is. Not angry and distant. Compassionate. Overflowing with love.
 
-God gave Moses new stone tablets to replace the shattered ones. A fresh start. That's what God does — He restores what's broken.
+God gave Moses new stone tablets to replace the shattered ones. A fresh start. That's what God does, He restores what's broken.
 
 This story comes from Exodus 33-40 and is part of the Old Testament.
 
@@ -43,7 +43,7 @@ The story of God's Presence teaches children important lessons about freedom, co
 
 ## Key Bible Verse
 
-> *"Trust in the Lord with all your heart."* — Proverbs 3:5
+> *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
 If small hands need something to do while you read, the free [resurrection coloring page](/printables/bible-coloring-pages/resurrection-morning) is made for exactly that.
 
@@ -65,7 +65,7 @@ When the Tabernacle was finished, the cloud of God's glory came down and filled 
 
 ### What is the main point of the entire book of Exodus?
 
-The whole story of Exodus is about God rescuing His people from slavery and then choosing to live WITH them — first in the Tabernacle, and ultimately through Jesus (Emmanuel, meaning "God with us") and the Holy Spirit living in every believer.
+The whole story of Exodus is about God rescuing His people from slavery and then choosing to live WITH them, first in the Tabernacle, and ultimately through Jesus (Emmanuel, meaning "God with us") and the Holy Spirit living in every believer.
 
 
 ## Discussion Questions for Families
@@ -103,7 +103,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of God's Presence about for kids?
 
-God's Presence is a story from Exodus 33-40. Hey, friends! Welcome to the final episode of our Exodus journey. We've saved the best for last. Everything — the plagues, the Passover, the Red Sea, the manna, the commandments, even the golden ca...
+God's Presence is a story from Exodus 33-40. Hey, friends! Welcome to the final episode of our Exodus journey. We've saved the best for last. Everything, the plagues, the Passover, the Red Sea, the manna, the commandments, even the golden ca...
 
 ### What age is the story of God's Presence appropriate for?
 

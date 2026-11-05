@@ -25,9 +25,9 @@ David's Final Words is a Bible story from 2 Samuel/Psalms in the Old Testament. 
 
 ## What Is the Story of David's Final Words for Kids?
 
-KING DAVID'S REIGN — EPISODE 10: DAVID'S FINAL WORDS (Series Finale) Scripture: 1 Chronicles 28-29
+KING DAVID'S REIGN, EPISODE 10: DAVID'S FINAL WORDS (Series Finale) Scripture: 1 Chronicles 28-29
 
-Friends, we've reached the end. This is the final episode of King David's story — and I have to tell you, it's one of the most beautiful moments in the entire Bible.
+Friends, we've reached the end. This is the final episode of King David's story, and I have to tell you, it's one of the most beautiful moments in the entire Bible.
 
 David is old. His battles are behind him. His songs have been written. His mistakes have been confessed. And now, one last time, he gathers all of Israel together for a farewell that will echo through eternity.
 
@@ -45,9 +45,9 @@ The story of David's Final Words teaches children important lessons about worshi
 
 ## Key Bible Verse
 
-> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* — 1 Samuel 16:7
+> *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
-We drew a printable [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) to go with this story — free, and the printed sheet includes the answer to where it came from.
+We drew a printable [baby Jesus in the manger coloring page](/printables/bible-coloring-pages/baby-jesus-manger) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of David's Final Words about for kids?
 
-David's Final Words is a story from 2 Samuel/Psalms. KING DAVID'S REIGN — EPISODE 10: DAVID'S FINAL WORDS (Series Finale) Scripture: 1 Chronicles 28-29
+David's Final Words is a story from 2 Samuel/Psalms. KING DAVID'S REIGN, EPISODE 10: DAVID'S FINAL WORDS (Series Finale) Scripture: 1 Chronicles 28-29
 
 ### What age is the story of David's Final Words appropriate for?
 

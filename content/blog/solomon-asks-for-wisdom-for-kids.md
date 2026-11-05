@@ -25,13 +25,13 @@ Solomon Asks for Wisdom is a Bible story from 1 Kings in the Old Testament. This
 
 ## What Is the Story of Solomon Asks for Wisdom for Kids?
 
-SOLOMON & THE KINGDOM — Episode 1: Solomon Asks for Wisdom Bible Reference: 1 Kings 3 Series: Solomon & the Kingdom
+SOLOMON & THE KINGDOM, Episode 1: Solomon Asks for Wisdom Bible Reference: 1 Kings 3 Series: Solomon & the Kingdom
 
-Hey everyone — I want to tell you about one of the most important nights in all of history. A night when a young man made a choice that changed everything.
+Hey everyone, I want to tell you about one of the most important nights in all of history. A night when a young man made a choice that changed everything.
 
 His name was Solomon. And he had just become king of Israel.
 
-Now picture this — Solomon was young, probably in his early twenties. His father David, the giant-slayer, the warrior-poet, had just died. And suddenly, the weight of an entire nation landed on Solomon's shoulders. Millions of people. Enemies on every border. Decisions that would affect generations.
+Now picture this, Solomon was young, probably in his early twenties. His father David, the giant-slayer, the warrior-poet, had just died. And suddenly, the weight of an entire nation landed on Solomon's shoulders. Millions of people. Enemies on every border. Decisions that would affect generations.
 
 This story comes from 1 Kings and is part of the Old Testament.
 
@@ -45,11 +45,11 @@ The story of Solomon Asks for Wisdom teaches children important lessons about wi
 
 ## Key Bible Verse
 
-> *"Give your servant a discerning heart to govern your people."* — 1 Kings 3:9
+> *"Give your servant a discerning heart to govern your people."* (1 Kings 3:9)
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 
-For the wisest king's whole arc — the dream, the judgment, the temple, and the fall — see [Who Was Solomon in the Bible?](/blog/who-was-solomon-for-kids)
+For the wisest king's whole arc, the dream, the judgment, the temple, and the fall, see [Who Was Solomon in the Bible?](/blog/who-was-solomon-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -77,7 +77,7 @@ The big takeaway is that what you ask for reveals what's really in your heart. S
 
 ### What is the main lesson of this episode?
 
-**What you ask for reveals what you value — and wisdom is the best thing you can pursue.**
+**What you ask for reveals what you value, and wisdom is the best thing you can pursue.**
 
 ## Discussion Questions for Families
 
@@ -114,7 +114,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Solomon Asks for Wisdom about for kids?
 
-Solomon Asks for Wisdom is a story from 1 Kings. SOLOMON & THE KINGDOM — Episode 1: Solomon Asks for Wisdom Bible Reference: 1 Kings 3 Series: Solomon & the Kingdom
+Solomon Asks for Wisdom is a story from 1 Kings. SOLOMON & THE KINGDOM, Episode 1: Solomon Asks for Wisdom Bible Reference: 1 Kings 3 Series: Solomon & the Kingdom
 
 ### What age is the story of Solomon Asks for Wisdom appropriate for?
 

@@ -3,29 +3,29 @@ title: "80 Christmas Bible Trivia Questions and Answers (PDF)"
 slug: "christmas-bible-trivia"
 metaTitle: "Christmas Trivia Questions and Answers: 80 Bible Q&As (PDF)"
 type: "listicle"
-metaDescription: "80 Christmas Bible trivia questions with answers and verse references in four rounds, easy to expert -- plus a free printable PDF for parties and church."
+metaDescription: "80 Christmas Bible trivia questions with answers and verse references in four rounds, easy to expert; plus a free printable PDF for parties and church."
 keywords: ["bible trivia for christmas", "christmas bible trivia", "christmas bible trivia questions and answers", "christmas trivia questions bible", "nativity trivia questions and answers", "christmas quiz questions and answers bible", "christmas trivia questions", "christmas trivia questions and answers"]
 datePublished: "2026-08-19"
 dateModified: "2026-10-03"
 ---
 
-Here are 80 Christmas Bible trivia questions with answers and Scripture references, sorted into four rounds -- easy, medium, hard, and expert -- so one game can cover everyone from the six-year-old to the grandmother who has taught Sunday school for thirty years. Every answer comes straight from Matthew 1-2, Luke 1-2, and the prophets they quote, with the verse printed right there so you can settle disputes on the spot.
+Here are 80 Christmas Bible trivia questions with answers and Scripture references, sorted into four rounds: easy, medium, hard, and expert; so one game can cover everyone from the six-year-old to the grandmother who has taught Sunday school for thirty years. Every answer comes straight from Matthew 1-2, Luke 1-2, and the prophets they quote, with the verse printed right there so you can settle disputes on the spot.
 
 Fair warning about the expert round: it is designed to stump the most Bible-literate person at your table. The Christmas story most of us carry in our heads is about one-third Christmas card and two-thirds Scripture, and rounds three and four are where those get sorted out.
 
-**Playing with little ones?** Start with our [Christmas Bible trivia for kids](/blog/christmas-bible-trivia-for-kids) instead -- 45 questions tiered for ages 5-12, with gentler wording and no expert round. This page is the all-ages version for family gatherings, adult small groups, church parties, and youth nights -- and if you want general Christmas trivia questions on top of the Scripture rounds, the bonus carol round at the end covers the songs.
+**Playing with little ones?** Start with our [Christmas Bible trivia for kids](/blog/christmas-bible-trivia-for-kids) instead; 45 questions tiered for ages 5-12, with gentler wording and no expert round. This page is the all-ages version for family gatherings, adult small groups, church parties, and youth nights; and if you want general Christmas trivia questions on top of the Scripture rounds, the bonus carol round at the end covers the songs.
 
-**Need this on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf) -- all 80 questions as ready-to-copy quiz sheets, with the full answer key and verse references on separate pages. No sign-up, free to photocopy for your party or class.
+**Need this on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf), all 80 questions as ready-to-copy quiz sheets, with the full answer key and verse references on separate pages. No sign-up, free to photocopy for your party or class.
 
 ## How to Run the Game
 
-The four rounds map cleanly onto team play: give kids the easy round, teens the medium round, adults the hard round, and make anyone who claims to know the Bible well answer from the expert round. Two points per correct answer, one point for a near miss, and when an answer surprises the room -- read the verse out loud before moving on. That thirty-second habit is what turns a party game into the best Bible study your family does all year.
+The four rounds map cleanly onto team play: give kids the easy round, teens the medium round, adults the hard round, and make anyone who claims to know the Bible well answer from the expert round. Two points per correct answer, one point for a near miss, and when an answer surprises the room, read the verse out loud before moving on. That thirty-second habit is what turns a party game into the best Bible study your family does all year.
 
 Our [books of the Bible in order](/blog/books-of-the-bible-printable) printable pack (chart, flashcards, bookmarks) turns book-finding into a game worth drilling.
 
 ## Easy Round (Questions 1-20)
 
-Warm-up territory -- the parts of the story everyone knows from nativity scenes and pageants.
+Warm-up territory, the parts of the story everyone knows from nativity scenes and pageants.
 
 1. In what town was Jesus born? **Bethlehem** (Luke 2:4-7)
 2. Who was Jesus' mother? **Mary** (Luke 1:30-31)
@@ -41,7 +41,7 @@ Warm-up territory -- the parts of the story everyone knows from nativity scenes 
 12. What three gifts did the wise men bring? **Gold, frankincense, and myrrh** (Matthew 2:11)
 13. From what direction did the wise men come? **The east** (Matthew 2:1)
 14. What name did the angel say to give the baby? **Jesus** (Luke 1:31; Matthew 1:21)
-15. What was baby Jesus wrapped in? **Cloths -- swaddling cloths** (Luke 2:7)
+15. What was baby Jesus wrapped in? **Cloths, swaddling cloths** (Luke 2:7)
 16. What did the great company of angels declare? **"Glory to God in the highest heaven, and on earth peace..."** (Luke 2:13-14)
 17. Which jealous king wanted to find the child? **King Herod** (Matthew 2:3)
 18. To what country did the family flee to escape Herod? **Egypt** (Matthew 2:13-14)
@@ -50,7 +50,7 @@ Warm-up territory -- the parts of the story everyone knows from nativity scenes 
 
 ## Medium Round (Questions 21-40)
 
-Names, places, and reasons -- solid ground for teens and anyone who grew up in church.
+Names, places, and reasons, solid ground for teens and anyone who grew up in church.
 
 21. In what town was Mary living when Gabriel visited her? **Nazareth, in Galilee** (Luke 1:26)
 22. Why did Mary and Joseph have to travel to Bethlehem? **A census required everyone to register in their own town** (Luke 2:1-4)
@@ -73,21 +73,21 @@ Names, places, and reasons -- solid ground for teens and anyone who grew up in c
 39. Which two people recognized the infant Jesus as the Messiah at the temple? **Simeon and Anna** (Luke 2:25-38)
 40. What happened to Zechariah when he doubted the angel's message? **He was unable to speak until his son John was born** (Luke 1:20)
 
-Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day — free, no sign-up.
+Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day, free, no sign-up.
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 
-Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories — no sign-up, no prep.
+Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
-If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible) — grouped the way the Bible groups them, which is the actual memory trick.
+If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible), grouped the way the Bible groups them, which is the actual memory trick.
 
 ## Hard Round (Questions 41-60)
 
 This is where the Bible starts correcting the Christmas card. Have the verses ready.
 
-41. How many wise men does the Bible say there were? **It never gives a number -- "three" comes from the three gifts** (Matthew 2:1, 11)
-42. When the wise men arrived, did they find Jesus in a stable or a house? **A house -- likely months after the birth** (Matthew 2:11)
-43. What animal did Mary ride to Bethlehem? **Trick question -- the Bible never mentions one** (Luke 2:4-5)
+41. How many wise men does the Bible say there were? **It never gives a number, "three" comes from the three gifts** (Matthew 2:1, 11)
+42. When the wise men arrived, did they find Jesus in a stable or a house? **A house, likely months after the birth** (Matthew 2:11)
+43. What animal did Mary ride to Bethlehem? **Trick question, the Bible never mentions one** (Luke 2:4-5)
 44. What temple offering showed that Jesus' family was poor? **A pair of doves or two young pigeons** (Luke 2:24)
 45. What terrible order did Herod give when the wise men never returned? **Kill all the boys two years old and under in Bethlehem and its vicinity** (Matthew 2:16)
 46. Which prophet foretold that Israel's ruler would come from Bethlehem? **Micah** (Micah 5:2; Matthew 2:5-6)
@@ -103,7 +103,7 @@ This is where the Bible starts correcting the Christmas card. Have the verses re
 56. What sobering thing did Simeon tell Mary? **"A sword will pierce your own soul too"** (Luke 2:35)
 57. About how long did Mary stay with Elizabeth? **About three months** (Luke 1:56)
 58. What was Zechariah's occupation? **A priest, belonging to the division of Abijah** (Luke 1:5)
-59. Does the Bible say Jesus was born on December 25? **No -- Scripture never gives a date; the church chose it centuries later** (cf. Luke 2:8)
+59. Does the Bible say Jesus was born on December 25? **No, Scripture never gives a date; the church chose it centuries later** (cf. Luke 2:8)
 60. John the Baptist would go before the Lord "in the spirit and power of" whom? **Elijah** (Luke 1:17)
 
 ## Expert Round (Questions 61-80)
@@ -121,19 +121,19 @@ Reserve this round for the pastors, the seminary grads, and the relative who has
 69. Matthew quotes which prophet's words about "Rachel weeping for her children" after Herod's massacre? **Jeremiah** (Jeremiah 31:15; Matthew 2:18)
 70. "Out of Egypt I called my son" quotes which prophet? **Hosea** (Hosea 11:1; Matthew 2:15)
 71. Whose rule over Judea made Joseph afraid to settle there after Egypt? **Archelaus, Herod's son** (Matthew 2:22)
-72. Does the text actually say the angels "sang" to the shepherds? **No -- it says the heavenly host was "praising God and saying"; the singing is tradition** (Luke 2:13-14)
-73. Are the names Caspar, Melchior, and Balthasar in the Bible? **No -- they come from later tradition; Matthew leaves the Magi unnamed** (Matthew 2:1)
+72. Does the text actually say the angels "sang" to the shepherds? **No, it says the heavenly host was "praising God and saying"; the singing is tradition** (Luke 2:13-14)
+73. Are the names Caspar, Melchior, and Balthasar in the Bible? **No, they come from later tradition; Matthew leaves the Magi unnamed** (Matthew 2:1)
 74. Matthew arranges Jesus' genealogy into three sets of how many generations? **Fourteen** (Matthew 1:17)
 75. Name two of the women Matthew includes in Jesus' genealogy. **Tamar, Rahab, Ruth, "Uriah's wife" (Bathsheba), and Mary** (Matthew 1:3-16)
-76. Matthew's genealogy begins with Abraham -- how far back does Luke's go? **All the way to Adam** (Matthew 1:1-2; Luke 3:38)
+76. Matthew's genealogy begins with Abraham; how far back does Luke's go? **All the way to Adam** (Matthew 1:1-2; Luke 3:38)
 77. What does the name "Bethlehem" mean in Hebrew? **"House of bread"** (cf. John 6:35)
 78. On what day was Jesus circumcised and officially named? **The eighth day** (Luke 2:21)
-79. How many dreams guided Joseph in Matthew's account of Jesus' early years? **Four -- marry Mary, flee to Egypt, return to Israel, withdraw to Galilee** (Matthew 1:20; 2:13, 19, 22)
+79. How many dreams guided Joseph in Matthew's account of Jesus' early years? **Four: marry Mary, flee to Egypt, return to Israel, withdraw to Galilee** (Matthew 1:20; 2:13, 19, 22)
 80. How does John's Gospel tell the Christmas story? **In one line of theology: "The Word became flesh and made his dwelling among us"** (John 1:14)
 
 ## Bonus Round: Name That Carol (Web Only)
 
-Ten classic carols, identified from a single line. These are general Christmas trivia questions rather than Scripture questions, so they are not in the printable PDF -- use them as a palate cleanser between Bible rounds, or as a sudden-death tiebreaker. Every one of these carols is itself a retelling of the story above, which makes this the rare "fun round" that still points back to Luke 2.
+Ten classic carols, identified from a single line. These are general Christmas trivia questions rather than Scripture questions, so they are not in the printable PDF: use them as a palate cleanser between Bible rounds, or as a sudden-death tiebreaker. Every one of these carols is itself a retelling of the story above, which makes this the rare "fun round" that still points back to Luke 2.
 
 1. "Glory to the newborn King" **Hark! The Herald Angels Sing**
 2. "Let every heart prepare Him room" **Joy to the World**
@@ -148,19 +148,19 @@ Ten classic carols, identified from a single line. These are general Christmas t
 
 ## Keep the Story Going After the Game
 
-The best follow-up to a stumper is reading the scene itself, slowly. For the moment the whole story hinges on, read [the angel's visit to Mary](/blog/an-angel-visits-mary-for-kids) together -- and pair it with [Joseph and the angel](/blog/joseph-and-the-angel-for-kids) so the kids hear both halves of the announcement. For the full sweep from Nazareth to Egypt, our [Christmas story for kids](/blog/the-christmas-story-for-kids) walks through it in one sitting.
+The best follow-up to a stumper is reading the scene itself, slowly. For the moment the whole story hinges on, read [the angel's visit to Mary](/blog/an-angel-visits-mary-for-kids) together, and pair it with [Joseph and the angel](/blog/joseph-and-the-angel-for-kids) so the kids hear both halves of the announcement. For the full sweep from Nazareth to Egypt, our [Christmas story for kids](/blog/the-christmas-story-for-kids) walks through it in one sitting.
 
-If the family wants more rounds once Christmas dinner is cleared, go year-round with our [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers), or hand the phone to the youth group with [Bible trivia for teens](/blog/bible-trivia-for-teens). And for the littlest players, keep it winnable with the [kids' Christmas trivia](/blog/christmas-bible-trivia-for-kids) -- nobody enjoys a game they can't score in.
+If the family wants more rounds once Christmas dinner is cleared, go year-round with our [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers), or hand the phone to the youth group with [Bible trivia for teens](/blog/bible-trivia-for-teens). And for the littlest players, keep it winnable with the [kids' Christmas trivia](/blog/christmas-bible-trivia-for-kids): nobody enjoys a game they can't score in.
 
-Families who like the video-then-quiz rhythm should try [Faithful Kids](https://faithfulkids.app/quiz): short animated Bible story videos for ages 7-15, each followed by a quiz and reflection -- essentially this game, every day, run by an app instead of by you.
+Families who like the video-then-quiz rhythm should try [Faithful Kids](https://faithfulkids.app/quiz): short animated Bible story videos for ages 7-15, each followed by a quiz and reflection: essentially this game, every day, run by an app instead of by you.
 
-Printing for a party? Our free [Bible Trivia Pack](/printables/bible-trivia-pack) works the same way year-round -- 100 questions with the answer key kept separate for whoever is hosting.
+Printing for a party? Our free [Bible Trivia Pack](/printables/bible-trivia-pack) works the same way year-round: 100 questions with the answer key kept separate for whoever is hosting.
 
 If you want something the kids can play alone, point them at our [Bible trivia quiz for kids](/bible-trivia).
 
-For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas) — twelve words hidden in the grid, answer key included.
+For a quieter follow-up, try the [Christmas word search](/printables/bible-word-search/christmas), twelve words hidden in the grid, answer key included.
 
-If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead -- the expert round settles who actually knows their Bible.
+If the adults keep stealing the kids' questions, point them at [Bible trivia for adults](/blog/bible-trivia-for-adults) instead: the expert round settles who actually knows their Bible.
 
 ## Frequently Asked Questions
 
@@ -170,20 +170,20 @@ The hard and expert rounds above are built for adults: How many wise men were th
 
 ### Where in the Bible is the Christmas story found?
 
-In Matthew 1-2 and Luke 1-2. Luke gives Mary's side -- the annunciation, the census, the manger, and the shepherds -- while Matthew gives Joseph's side, plus the Magi, Herod, and the flight to Egypt. John 1:14 adds the theological summary, and Mark skips the birth entirely.
+In Matthew 1-2 and Luke 1-2. Luke gives Mary's side: the annunciation, the census, the manger, and the shepherds, while Matthew gives Joseph's side, plus the Magi, Herod, and the flight to Egypt. John 1:14 adds the theological summary, and Mark skips the birth entirely.
 
 ### Were there really three wise men?
 
-The Bible never numbers them -- Matthew 2 says only that "Magi from the east" came to Jerusalem. The number three is an inference from the three gifts, and the traditional names Caspar, Melchior, and Balthasar come from later tradition, not Scripture. It remains the single most reliable stumper in Christmas trivia.
+The Bible never numbers them: Matthew 2 says only that "Magi from the east" came to Jerusalem. The number three is an inference from the three gifts, and the traditional names Caspar, Melchior, and Balthasar come from later tradition, not Scripture. It remains the single most reliable stumper in Christmas trivia.
 
 ### Did the wise men arrive on the night Jesus was born?
 
-Almost certainly not. Matthew 2:11 says they found the child in a house, and Herod's order to kill boys two years old and under (Matthew 2:16, based on the star's timing) suggests months had passed. The shepherds came on the night of the birth; the Magi came later -- which is why some families move their nativity wise men across the room until Epiphany.
+Almost certainly not. Matthew 2:11 says they found the child in a house, and Herod's order to kill boys two years old and under (Matthew 2:16, based on the star's timing) suggests months had passed. The shepherds came on the night of the birth; the Magi came later: which is why some families move their nativity wise men across the room until Epiphany.
 
 ### How do I make this trivia work for mixed ages at a family gathering?
 
-Assign rounds by age -- easy for young kids, medium for teens, hard for adults, expert for the resident Bible scholar -- so every generation faces a fair challenge. Score two points per correct answer and one for a near miss, and read the verse aloud whenever an answer surprises someone. If most players are under 10, switch to our [kids' version](/blog/christmas-bible-trivia-for-kids) instead.
+Assign rounds by age: easy for young kids, medium for teens, hard for adults, expert for the resident Bible scholar, so every generation faces a fair challenge. Score two points per correct answer and one for a near miss, and read the verse aloud whenever an answer surprises someone. If most players are under 10, switch to our [kids' version](/blog/christmas-bible-trivia-for-kids) instead.
 
 ### Can I use these questions for a church Christmas party or youth group?
 
-Yes -- the four-tier structure was designed for exactly that. Run it as a table-versus-table game with one round per course of the meal, or as a bracket where teams pick their difficulty for double points. Everything is verse-referenced, so leaders can turn any question into a two-minute devotional on the spot.
+Yes: the four-tier structure was designed for exactly that. Run it as a table-versus-table game with one round per course of the meal, or as a bracket where teams pick their difficulty for double points. Everything is verse-referenced, so leaders can turn any question into a two-minute devotional on the spot.

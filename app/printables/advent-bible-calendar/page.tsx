@@ -5,12 +5,12 @@ import adventReadings from '@/lib/advent-readings.json'
 const EMERALD = '#059669'
 
 export const metadata = {
-  title: 'Printable Advent Bible Calendar — 25 Daily Readings',
+  title: 'Printable Advent Bible Calendar: 25 Daily Readings',
   description:
     'A free printable Advent Bible reading calendar: 25 short daily readings from the first promise to the manger, with one-line summaries. No sign-up, free PDF.',
   alternates: { canonical: 'https://faithfulkids.app/printables/advent-bible-calendar' },
   openGraph: {
-    title: 'Printable Advent Bible Calendar — 25 Daily Readings',
+    title: 'Printable Advent Bible Calendar: 25 Daily Readings',
     description: 'Free printable Advent reading plan: 25 short Bible readings, December 1 to Christmas Day.',
     images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/jesse-tree/advent-hero.png', width: 1536, height: 1024 }],
   },
@@ -22,19 +22,19 @@ const days = adventReadings as Day[]
 const faqs = [
   {
     q: 'What is an Advent Bible reading calendar?',
-    a: 'It is a reading plan shaped like an Advent calendar: one short Bible passage for each day from December 1 to Christmas Day. This plan follows the story in order — ten days of promises and prophecies, then the events of the first Christmas from Gabriel\'s announcement to the Word made flesh — so by December 25 your family has read the whole Christmas story from Scripture itself, not just the highlights.',
+    a: 'It is a reading plan shaped like an Advent calendar: one short Bible passage for each day from December 1 to Christmas Day. This plan follows the story in order, ten days of promises and prophecies, then the events of the first Christmas from Gabriel\'s announcement to the Word made flesh, so by December 25 your family has read the whole Christmas story from Scripture itself, not just the highlights.',
   },
   {
     q: 'How long does each day take?',
-    a: 'Most readings are ten to twenty verses — about three to five minutes read aloud. The one-line summary beside each day works as a conversation starter: read the passage, then let a child put it in their own words.',
+    a: 'Most readings are ten to twenty verses, about three to five minutes read aloud. The one-line summary beside each day works as a conversation starter: read the passage, then let a child put it in their own words.',
   },
   {
     q: 'What ages is this for?',
-    a: 'The readings come straight from the Bible, so it works for any age that can listen to Scripture read aloud — roughly 5 and up. For younger children, read the passage and lean on the one-line summary; older kids can take turns reading the passages themselves.',
+    a: 'The readings come straight from the Bible, so it works for any age that can listen to Scripture read aloud, roughly 5 and up. For younger children, read the passage and lean on the one-line summary; older kids can take turns reading the passages themselves.',
   },
   {
     q: 'Can I print copies for my church or class?',
-    a: 'Yes — the plan and the PDF are free with no sign-up, and you are welcome to photocopy them for your family, Sunday school class, or church. The printed page carries our web address so families can find it again at home.',
+    a: 'Yes, the plan and the PDF are free with no sign-up, and you are welcome to photocopy them for your family, Sunday school class, or church. The printed page carries our web address so families can find it again at home.',
   },
 ]
 
@@ -70,7 +70,7 @@ export default function AdventCalendarPage() {
           </h1>
           <p style={{ margin: '0.5rem 0 0', color: '#4b5563', fontSize: '1.02rem', lineHeight: 1.6 }}>
             A free Advent reading plan for families: <strong>25 short Bible readings</strong>, one
-            for each day from December 1 to Christmas Day — starting with the first promise in the
+            for each day from December 1 to Christmas Day, starting with the first promise in the
             garden and ending at the manger. Ten days of prophecy, fifteen days of the Christmas
             story itself, a few minutes a night.
           </p>

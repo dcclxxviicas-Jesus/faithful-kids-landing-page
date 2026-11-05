@@ -2,15 +2,15 @@
 title: "New Testament Trivia for Kids: 45 Questions With Answers"
 slug: "new-testament-bible-trivia-for-kids"
 type: "listicle"
-metaDescription: "45 New Testament trivia questions for kids with answers and verse references -- Jesus' life, parables, miracles, and the book of Acts, sorted by difficulty."
+metaDescription: "45 New Testament trivia questions for kids with answers and verse references, Jesus' life, parables, miracles, and the book of Acts, sorted by difficulty."
 keywords: ["new testament trivia for kids", "new testament quiz questions", "bible trivia about jesus", "gospel trivia for kids", "book of acts trivia", "new testament questions and answers for children"]
 datePublished: "2026-08-14"
 dateModified: "2026-08-19"
 ---
 
-Here are 45 New Testament trivia questions for kids, with answers and Scripture references, organized by difficulty: easy for ages 5-7, medium for ages 8-11, and hard for ages 12 and up. The questions walk through the whole New Testament story -- Jesus' birth, miracles, and parables, then the resurrection, Pentecost, and the adventures of Peter and Paul in the book of Acts.
+Here are 45 New Testament trivia questions for kids, with answers and Scripture references, organized by difficulty: easy for ages 5-7, medium for ages 8-11, and hard for ages 12 and up. The questions walk through the whole New Testament story, Jesus' birth, miracles, and parables, then the resurrection, Pentecost, and the adventures of Peter and Paul in the book of Acts.
 
-Most kids know the Gospel headlines (walking on water, feeding the 5,000) but have barely met the second half of the New Testament, where the church explodes across the Roman world. So we've made sure Acts gets its fair share of questions -- including a man who fell asleep during a sermon and fell out a window. Yes, that's really in the Bible.
+Most kids know the Gospel headlines (walking on water, feeding the 5,000) but have barely met the second half of the New Testament, where the church explodes across the Roman world. So we've made sure Acts gets its fair share of questions, including a man who fell asleep during a sermon and fell out a window. Yes, that's really in the Bible.
 
 ## How Should You Use These Questions?
 
@@ -18,10 +18,10 @@ Match the round to the kid, and let everyone play at their own level. A few form
 
 - **Family quiz night:** Kids answer from their age bracket; parents must answer hard-round questions. Keep score on paper.
 - **Sunday school review:** The easy round makes a great warm-up; the Acts questions work well after a unit on the early church. Our [Bible quiz questions and answers](/blog/bible-quiz-questions-and-answers) page is built for exactly this kind of end-of-lesson review.
-- **Car rides and waiting rooms:** No supplies needed -- just read a question aloud.
+- **Car rides and waiting rooms:** No supplies needed, just read a question aloud.
 - **Bedtime bonus round:** One question after prayers. If they get it right, they pick tomorrow's Bible story.
 
-**Tip:** When kids miss a question, don't just give the answer -- read the verse. "Let's find out" teaches more than "you're wrong."
+**Tip:** When kids miss a question, don't just give the answer, read the verse. "Let's find out" teaches more than "you're wrong."
 
 ## Easy New Testament Trivia (Ages 5-7)
 
@@ -34,7 +34,7 @@ Answer: **Bethlehem** (Matthew 2:1)
 Answer: **Nazareth** (Luke 2:39-40)
 
 **3. What did Jesus turn water into at a wedding?**
-Answer: **Wine** -- his first miracle (John 2:1-11)
+Answer: **Wine**, his first miracle (John 2:1-11)
 
 **4. How many disciples did Jesus choose?**
 Answer: **Twelve** (Matthew 10:1-4)
@@ -74,7 +74,7 @@ Answer: **The prodigal son** (Luke 15:11-32)
 
 ## Medium New Testament Trivia (Ages 8-11)
 
-Parables, miracles, and the events of Holy Week -- with a few names kids should start learning.
+Parables, miracles, and the events of Holy Week, with a few names kids should start learning.
 
 **16. What was Matthew's job before he followed Jesus?**
 Answer: **Tax collector** (Matthew 9:9)
@@ -88,14 +88,14 @@ Answer: **The rock** (Matthew 7:24-25)
 **19. What did Jesus say to calm the storm?**
 Answer: **"Quiet! Be still!"** (Mark 4:39)
 
-**20. How many lepers did Jesus heal at once -- and how many came back to say thank you?**
+**20. How many lepers did Jesus heal at once, and how many came back to say thank you?**
 Answer: **Ten healed; only one returned** (Luke 17:11-19)
 
 **21. Which religious leader came to ask Jesus questions at night?**
 Answer: **Nicodemus** (John 3:1-2)
 
 **22. Where did Jesus preach his most famous sermon, which includes the Beatitudes?**
-Answer: **On a mountainside** -- the Sermon on the Mount (Matthew 5:1-2)
+Answer: **On a mountainside**, the Sermon on the Mount (Matthew 5:1-2)
 
 **23. In what garden did Jesus pray the night before he died?**
 Answer: **The Garden of Gethsemane** (Matthew 26:36)
@@ -129,7 +129,7 @@ Answer: **Damascus** (Acts 9:3-5)
 
 For a ready-made game night, play our free [Bible Jeopardy](/bible-jeopardy): a real 6-category board, up to four teams, every answer backed by its verse.
 
-To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart — honest about dates, from Creation to the early church.
+To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart, honest about dates, from Creation to the early church.
 
 ## Hard New Testament Trivia (Ages 12+)
 
@@ -145,7 +145,7 @@ Answer: **Matthias** (Acts 1:26)
 Answer: **Stephen** (Acts 7:54-60)
 
 **36. Philip explained Isaiah's prophecy to an official from which country, then baptized him?**
-Answer: **Ethiopia** -- the Ethiopian official served Candace, the queen (Acts 8:26-38)
+Answer: **Ethiopia**, the Ethiopian official served Candace, the queen (Acts 8:26-38)
 
 **37. In which city were believers first called Christians?**
 Answer: **Antioch** (Acts 11:26)
@@ -157,7 +157,7 @@ Answer: **Cornelius** (Acts 10)
 Answer: **An earthquake opened the doors and loosed everyone's chains** (Acts 16:25-26)
 
 **40. What young man fell asleep during Paul's long sermon and fell out of a third-story window?**
-Answer: **Eutychus** -- Paul restored him to life (Acts 20:9-12)
+Answer: **Eutychus**, Paul restored him to life (Acts 20:9-12)
 
 **41. On what island was Paul shipwrecked, where a snake bit him and he was unharmed?**
 Answer: **Malta** (Acts 28:1-5)
@@ -176,9 +176,9 @@ Answer: **John, on the island of Patmos** (Revelation 1:9)
 
 ## Which Stories Should Kids Learn Before Playing?
 
-Kids get far more out of trivia when they've actually heard the stories, so cover the big four first: Jesus' birth, one famous miracle, the resurrection, and Paul's conversion. The [feeding of the five thousand](/blog/feeding-the-five-thousand-for-kids) is the perfect first miracle -- it's the only one recorded in all four Gospels, and kids love that the lunch belonged to a boy their age.
+Kids get far more out of trivia when they've actually heard the stories, so cover the big four first: Jesus' birth, one famous miracle, the resurrection, and Paul's conversion. The [feeding of the five thousand](/blog/feeding-the-five-thousand-for-kids) is the perfect first miracle; it's the only one recorded in all four Gospels, and kids love that the lunch belonged to a boy their age.
 
-For the second half of the New Testament, introduce the two big personalities by name. Our kid-friendly profiles of [Peter](/blog/who-was-peter-for-kids) and [Paul](/blog/who-was-paul-for-kids) give children the backstory that makes the Acts questions click -- Peter the impulsive fisherman who became the rock, and Paul the church-hunter who became its greatest missionary.
+For the second half of the New Testament, introduce the two big personalities by name. Our kid-friendly profiles of [Peter](/blog/who-was-peter-for-kids) and [Paul](/blog/who-was-paul-for-kids) give children the backstory that makes the Acts questions click: Peter the impulsive fisherman who became the rock, and Paul the church-hunter who became its greatest missionary.
 
 If your family likes learning this way, our video lessons at [Faithful Kids](https://faithfulkids.app/quiz) pair every New Testament story with a short animated video and a built-in quiz, so kids practice questions like these all year.
 
@@ -188,13 +188,13 @@ New Testament trivia rewards kids who know the story's sequence, not just its sc
 
 No printer and no prep: our [play-along Bible trivia game](/bible-trivia) runs on any phone, which makes it a good one for the car.
 
-Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults) -- three rounds, every answer with its verse reference.
+Small groups and Bible studies get their own set in our [Bible trivia for adults](/blog/bible-trivia-for-adults): three rounds, every answer with its verse reference.
 
 The [Christmas Bible trivia set](/blog/christmas-bible-trivia) adds a seasonal round to any of these games, with the verse printed beside every answer.
 
 If the group skews older, start from the [all-ages Bible quiz](/bible-quiz) rather than the kids' game.
 
-For the grown-ups, the [Christian jokes list](/blog/christian-jokes) leans on church culture -- the thermostat ministry, the seventeen-goodbye fellowship dinner, and other documented phenomena.
+For the grown-ups, the [Christian jokes list](/blog/christian-jokes) leans on church culture: the thermostat ministry, the seventeen-goodbye fellowship dinner, and other documented phenomena.
 
 ## Frequently Asked Questions
 
@@ -208,10 +208,10 @@ Ages 5-7 can handle questions about Jesus' birth, miracles, and disciples if the
 There are 27 books in the New Testament: four Gospels, Acts, 21 letters, and Revelation. A handy kids' breakdown: Matthew, Mark, Luke, and John tell Jesus' story; Acts tells the church's story; the letters teach believers how to live; and Revelation looks ahead to Jesus' return.
 
 ### What is the shortest verse in the Bible?
-"Jesus wept" (John 11:35) is the shortest verse in most English Bibles, at just two words. It comes from the story of Lazarus, when Jesus cried at his friend's tomb before raising him from the dead -- a great reminder for kids that Jesus felt real emotions.
+"Jesus wept" (John 11:35) is the shortest verse in most English Bibles, at just two words. It comes from the story of Lazarus, when Jesus cried at his friend's tomb before raising him from the dead; a great reminder for kids that Jesus felt real emotions.
 
 ### Why include the book of Acts in kids' trivia?
-Because Acts is where kids see that the story didn't end at the resurrection -- ordinary people filled with the Holy Spirit turned the world upside down. It's also full of kid-friendly drama: earthquakes opening prison doors, a shipwreck, a snakebite, and a boy who fell out a window during a sermon and lived.
+Because Acts is where kids see that the story didn't end at the resurrection: ordinary people filled with the Holy Spirit turned the world upside down. It's also full of kid-friendly drama: earthquakes opening prison doors, a shipwreck, a snakebite, and a boy who fell out a window during a sermon and lived.
 
 ### How do I keep trivia fun instead of frustrating?
-Let kids answer at their own difficulty level, give partial credit for close answers, and read the verse aloud whenever anyone misses. Keep rounds short -- 10 to 15 questions -- and end while everyone still wants one more. The goal is for kids to associate Scripture with laughter, not a test.
+Let kids answer at their own difficulty level, give partial credit for close answers, and read the verse aloud whenever anyone misses. Keep rounds short: 10 to 15 questions, and end while everyone still wants one more. The goal is for kids to associate Scripture with laughter, not a test.

@@ -25,11 +25,11 @@ Matthew the Tax Collector is a Bible story from Matthew/Mark/Luke/John in the Ne
 
 ## What Is the Story of Matthew the Tax Collector for Kids?
 
-JESUS BEGINS HIS MINISTRY — EPISODE 9 "Matthew the Tax Collector" Based on Matthew 9:9-13
+JESUS BEGINS HIS MINISTRY,  EPISODE 9 "Matthew the Tax Collector" Based on Matthew 9:9-13
 
 Let me tell you about the day I picked the LAST person anyone expected me to choose.
 
-In Israel, there was nobody more hated than a tax collector. I mean NOBODY. Here's why — the Roman Empire occupied Israel, and tax collectors were Jewish men who worked FOR Rome, collecting money from their own people. But it got worse. They were allowed to charge EXTRA and keep the difference. So they got rich by ripping off their own neighbors, their own families, their own nation. People saw them as traitors. Thieves. Scum.
+In Israel, there was nobody more hated than a tax collector. I mean NOBODY. Here's why, the Roman Empire occupied Israel, and tax collectors were Jewish men who worked FOR Rome, collecting money from their own people. But it got worse. They were allowed to charge EXTRA and keep the difference. So they got rich by ripping off their own neighbors, their own families, their own nation. People saw them as traitors. Thieves. Scum.
 
 I walked right up to his tax booth. He was sitting there, probably counting coins, surrounded by the stench of everyone's disgust. People crossed the street to avoid him. Religious leaders wouldn't even look his direction. He was the outcast of outcasts.
 
@@ -45,7 +45,7 @@ The story of Matthew the Tax Collector teaches children important lessons about 
 
 ## Key Bible Verse
 
-> *"Follow me."* — Matthew 9:9
+> *"Follow me."* (Matthew 9:9)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Matthew the Tax Collector about for kids?
 
-Matthew the Tax Collector is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY — EPISODE 9 "Matthew the Tax Collector" Based on Matthew 9:9-13
+Matthew the Tax Collector is a story from Matthew/Mark/Luke/John. JESUS BEGINS HIS MINISTRY, EPISODE 9 "Matthew the Tax Collector" Based on Matthew 9:9-13
 
 ### What age is the story of Matthew the Tax Collector appropriate for?
 

@@ -23,9 +23,9 @@ Paul in Corinth is a Bible story from Acts in the New Testament. This retelling 
 
 ## What Is the Story of Paul in Corinth for Kids?
 
-PAUL'S ADVENTURES — EPISODE 5: PAUL IN CORINTH Based on Acts 18:1-18 Series: Paul's Adventures | Episode 5 of 10 Target audience: Kids ages 7-15
+PAUL'S ADVENTURES, EPISODE 5: PAUL IN CORINTH Based on Acts 18:1-18 Series: Paul's Adventures | Episode 5 of 10 Target audience: Kids ages 7-15
 
-Okay — Athens was the city of thinkers. But Corinth? Corinth was the city of EVERYTHING. Wealth. Trade. Wild parties. Temples to false gods. Sailors, merchants, and people from every corner of the empire crammed into one booming, chaotic, anything-goes city. If Athens was a university, Corinth was a Vegas strip mall with a seaport.
+Okay, Athens was the city of thinkers. But Corinth? Corinth was the city of EVERYTHING. Wealth. Trade. Wild parties. Temples to false gods. Sailors, merchants, and people from every corner of the empire crammed into one booming, chaotic, anything-goes city. If Athens was a university, Corinth was a Vegas strip mall with a seaport.
 
 Most people would look at Corinth and say, "No way God can work HERE." And that's exactly why Paul went.
 
@@ -43,13 +43,13 @@ The story of Paul in Corinth teaches children important lessons about adventure,
 
 ## Key Bible Verse
 
-> *"For I am not ashamed of the gospel."* — Romans 1:16
+> *"For I am not ashamed of the gospel."* (Romans 1:16)
 
 There is a free [Armor of God word search](/printables/bible-word-search/armor-of-god) to go with this, playable on a phone and printable for a class.
 
-There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys) — every city in this story at its real location, from Jerusalem to Rome.
+There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 
-Europe's first believer — the purple-cloth merchant whose home became the first church on the continent — has her own story: [Who Was Lydia in the Bible?](/blog/who-was-lydia-for-kids)
+Europe's first believer, the purple-cloth merchant whose home became the first church on the continent, has her own story: [Who Was Lydia in the Bible?](/blog/who-was-lydia-for-kids)
 
 ## Parent's Guide: Why This Story Matters
 
@@ -61,15 +61,15 @@ After watching the video, see if your child can answer these questions:
 
 ### What trade did Paul share with Aquila and Priscilla?
 
-Paul, Aquila, and Priscilla were all tentmakers — Paul worked alongside them during the week to support himself while he preached on the Sabbath.
+Paul, Aquila, and Priscilla were all tentmakers, Paul worked alongside them during the week to support himself while he preached on the Sabbath.
 
 ### What did God tell Paul in a vision while he was in Corinth?
 
-God encouraged Paul not to be afraid and to keep preaching because He had many people in Corinth who would believe — even in that wild, messy city.
+God encouraged Paul not to be afraid and to keep preaching because He had many people in Corinth who would believe, even in that wild, messy city.
 
 ### How long did Paul stay in Corinth?
 
-Paul stayed in Corinth for eighteen months — a year and a half — preaching, teaching, and building up what became one of the strongest churches in the early Christian world.
+Paul stayed in Corinth for eighteen months, a year and a half, preaching, teaching, and building up what became one of the strongest churches in the early Christian world.
 
 
 ## Discussion Questions for Families
@@ -107,7 +107,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 ### What is the story of Paul in Corinth about for kids?
 
-Paul in Corinth is a story from Acts. PAUL'S ADVENTURES — EPISODE 5: PAUL IN CORINTH Based on Acts 18:1-18 Series: Paul's Adventures | Episode 5 of 10 Target audience: Kids ages 7-15
+Paul in Corinth is a story from Acts. PAUL'S ADVENTURES, EPISODE 5: PAUL IN CORINTH Based on Acts 18:1-18 Series: Paul's Adventures | Episode 5 of 10 Target audience: Kids ages 7-15
 
 ### What age is the story of Paul in Corinth appropriate for?
 

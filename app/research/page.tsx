@@ -60,7 +60,7 @@ const PLANNED: Study[] = [
     tag: 'Planned',
     when: 'January 2027',
     title: 'What Christian parents told us about screen time, ages and worries',
-    blurb: 'More than 1,200 parents have answered our short onboarding questions since August: their children’s ages, daily screen time, what they hope the Bible does for their family and what worries them most. Reported in aggregate, with the questions shown exactly as asked.',
+    blurb: 'More than 800 parents have answered our short onboarding questions since August: their children’s ages, daily screen time, what success would look like and their biggest screen time frustration. Reported in aggregate, with the questions shown exactly as asked.',
     source: 'Faithful Kids parent questionnaire, Aug 2026 onward',
   },
   {
@@ -234,10 +234,9 @@ export default function ResearchHub() {
           </section>
 
           <section className="rs-band">
-            <h2>Be part of the next edition</h2>
-            <p>Every round of the free Bible trivia game adds to the literacy study. Play one, and you have contributed a data point.</p>
-            <a className="hv-cta" href="/bible-trivia" data-testid="rs-cta-hub"><span className="hv-cta-play" aria-hidden="true" />Play the Bible trivia game</a>
-            <small>Free. No signup. Rounds for kids, teens and adults.</small>
+            <h2>Get started with Faithful Kids</h2>
+            <p>Short Bible story videos for kids, Genesis to Revelation, each with a quiz and a reflection.</p>
+            <a className="hv-cta" href="/quiz" data-testid="rs-cta-hub"><span className="hv-cta-play" aria-hidden="true" />Get started</a>
           </section>
 
           <section className="v2-section" style={{ paddingTop: 36, paddingBottom: 44 }}>

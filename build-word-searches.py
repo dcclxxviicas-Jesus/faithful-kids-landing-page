@@ -32,7 +32,14 @@ PUZZLES = [
     # Christmas Story" it rendered "The Christmas Story Word Search" and the
     # page sat outside the top 30 while every page-1 result led with the
     # exact phrase (checked on the live SERP, Oct 13, 2026).
-    ("christmas", "Christmas Word Search", "Luke 2", "Ages 6+",
+    # Retargeted Nov 9, 2026 (handoff §7 pivot): 28d GSC showed ONE impression
+    # on the generic head term (5,534 cs) despite 28 inbound links; the only
+    # query we appeared for was "christmas story word search". The winnable
+    # terms are the faith variants: "christmas bible word search" 103 cs,
+    # "nativity word search" 51 cs / 110 ads, "religious christmas word
+    # search" 51 cs (DFS Nov 9). Title drives <title>/H1/desc via the slug
+    # page template; "Nativity" keeps every composed string grammatical.
+    ("christmas", "Christmas Nativity Word Search", "Luke 2", "Ages 6+",
      ["MARY", "JOSEPH", "JESUS", "MANGER", "SHEPHERDS", "ANGEL", "STAR", "BETHLEHEM", "WISEMEN", "GIFTS", "STABLE", "GABRIEL"]),
     ("easter", "The Easter Story", "Matthew 26-28", "Ages 7+",
      ["EASTER", "TOMB", "STONE", "RISEN", "CROSS", "PALM", "SUPPER", "GARDEN", "ANGEL", "MARY", "PETER", "ALIVE"]),

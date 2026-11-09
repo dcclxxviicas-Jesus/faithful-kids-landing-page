@@ -26,7 +26,7 @@ Toddlers ages 2-4 need the simplest, gentlest Bible stories. The Bible stories t
 God made light, water, animals, and people. Point at things around the room: "God made the sun. God made the trees. God made YOU." This is the ultimate toddler story because everything they see connects to it.
 
 ### 2. Noah's Ark: Animals Two by Two
-The animals are the whole story at this age. Two elephants. Two giraffes. Two puppies. Count them. Name them. The boat, the rain, the rainbow. Toddler perfection. When they are ready for more, read [who was Noah](/blog/who-was-noah-for-kids).
+The animals are the whole story at this age. Two elephants. Two giraffes. Two zebras. Count them. Name them. The boat, the rain, the rainbow. Toddler perfection. When they are ready for more, read [who was Noah](/blog/who-was-noah-for-kids).
 
 ### 3. Baby Moses in the Basket
 A baby in a basket floating on water. A princess finds him. At this age, the "baby in a basket" concept is the whole story. Toddlers relate to babies.

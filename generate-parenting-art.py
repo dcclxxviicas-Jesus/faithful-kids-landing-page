@@ -108,6 +108,16 @@ SCENES = {
         "darkened from years of small hands, the thick middle of the book still crisp, pale and tightly bound, never "
         "turned. A small hand rests on the worn pages. Beside the book one lit Advent candle. Quiet, honest, hopeful."
     ),
+    "curiosity-is-a-spiritual-discipline": (
+        "A father and his daughter of about seven crouched at the edge of a rocky tide pool, the girl pointing "
+        "excitedly at something in the clear water, the father leaning in to look with the same wonder, an open "
+        "field guide and a small net on the rock beside them. Late afternoon coastal light, sea behind. Shared curiosity."
+    ),
+    "why-we-read-the-boring-parts-of-the-bible-to-our-kids": (
+        "Bedtime in a children's room: a father sits on the lower bunk reading aloud from a thick, well-worn Bible, "
+        "while a boy and a girl lean over the rail of the top bunk, wide awake, hanging on the story. A small lamp, "
+        "a handwritten list of names pinned to the wall. Warm, a little mischievous, the opposite of boring."
+    ),
     "how-to-raise-children-to-have-god-in-their-hearts-and-minds": (
         "A child standing in tall grass on a hill at night, head tipped back, looking up at an enormous sky "
         "full of stars and the pale band of the Milky Way, a parent's hand on their shoulder just at the edge of frame. "

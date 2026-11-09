@@ -44,6 +44,8 @@ If you have a longer drive, the interview shows give you a full conversation wit
 
 **10. Don't Mom Alone**, Heather MacFadyen has built a 500-plus episode archive around a single idea: mothering in isolation is the problem, and community is the fix. Interview format, wide-ranging guests. Best for moms in a lonely season. It's broader than parenting: some episodes are lifestyle or humor, so browse titles rather than starting at the newest.
 
+For ongoing reading beyond this list, our roundup of the [best Christian blogs for parents](/blog/best-christian-blogs) covers mom, dad, homeschool and teen-parenting sites, every one verified active.
+
 ## What Are the Best Christian Parenting Podcasts for Deeper Teaching?
 
 For parents who want a framework rather than a conversation, these two shows teach a specific method and stick to it.

@@ -44,7 +44,9 @@ Two lecture-traps to avoid. First, do not correct small errors mid-story ("actua
 
 If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
-If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+Parents and teachers who want to write about this work can find every open door in our [Christian writing opportunities](/blog/christian-writing-opportunities) guide, including [our own parenting section](/parenting/write-for-us).
+
+For ongoing reading beyond this list, our roundup of the [best Christian blogs for parents](/blog/best-christian-blogs) covers mom, dad, homeschool and teen-parenting sites, every one verified active.
 
 ## How Do You Build a Bible Routine That Actually Survives Real Life?
 

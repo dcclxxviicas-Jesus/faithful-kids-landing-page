@@ -206,6 +206,8 @@ For homeschool families, our [free homeschool Bible curriculum page](/homeschool
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
+If writing these yourself appeals to you, our guide to [how to write a devotional](/blog/how-to-write-a-devotional) covers the four-part format and the markets that pay $30 a piece for them.
+
 ## You Did It. Now What?
 
 Thirty days. Thirty stories. One connected narrative from Creation to the New Creation.

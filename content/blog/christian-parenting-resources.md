@@ -56,7 +56,9 @@ Pick one app the kids will actually open, and one for yourself. Two is a system;
 
 Side-by-side comparisons, including free options, live in our [best Bible apps by age](/blog/best-bible-apps-by-age) guide.
 
-If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+If reading these makes you want to write one yourself, our [Christian writing opportunities](/blog/christian-writing-opportunities) guide lists the outlets that take parent essays, and [ours is open to pitches](/parenting/write-for-us).
+
+For ongoing reading beyond this list, our roundup of the [best Christian blogs for parents](/blog/best-christian-blogs) covers mom, dad, homeschool and teen-parenting sites, every one verified active.
 
 ## What Bible Curricula Do Christian Families Use at Home?
 

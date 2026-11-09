@@ -60,7 +60,9 @@ Crouch's argument is that families should decide their technology commitments in
 A stage-by-stage map of boyhood: explorer, lover, individual, wanderer, warrior, arguing that boys need to be understood and challenged rather than managed and quieted. Fathers in particular tend to find it clarifying.
 **Who won't like it:** parents of boys who don't fit the archetype. First published in 2008, its gender framing is fairly traditional, and a quiet, bookish son can feel absent from the pages.
 
-If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+Plenty of these authors started as parents with one essay; the current doors are listed in our [Christian writing opportunities](/blog/christian-writing-opportunities) guide, and our own parenting section [takes pitches](/parenting/write-for-us).
+
+For ongoing reading beyond this list, our roundup of the [best Christian blogs for parents](/blog/best-christian-blogs) covers mom, dad, homeschool and teen-parenting sites, every one verified active.
 
 ## What Are the Best Christian Parenting Books for Teens?
 

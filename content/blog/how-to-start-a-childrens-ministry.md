@@ -93,7 +93,7 @@ The fastest way to lose great volunteers is to burn them. Build the rota so nobo
 
 **Downloads for this stage:** volunteer role descriptions, training checklist, sample rota (in the [launch kit](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)).
 
-If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+Ministry founders have stories other church leaders need; our [Christian writing opportunities](/blog/christian-writing-opportunities) guide lists where to publish them, and our parenting section [welcomes pitches from pastors](/parenting/write-for-us).
 
 ## Stage 4: Choose What You'll Teach (Weeks 5–8)
 

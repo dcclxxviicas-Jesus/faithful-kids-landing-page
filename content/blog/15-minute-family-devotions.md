@@ -106,6 +106,8 @@ At the end of four weeks, you have read through the shape of the whole Bible sto
 
 The free [Bible timeline for kids](/printables/bible-timeline) helps here: one printable chart showing where every story sits, Creation to the early church.
 
+If writing these yourself appeals to you, our guide to [how to write a devotional](/blog/how-to-write-a-devotional) covers the four-part format and the markets that pay $30 a piece for them.
+
 ## What to Do When It Falls Apart
 
 It will. Here is what each failure actually means and what to do about it.

@@ -33,6 +33,8 @@ A note on how this list works: we are one of the brands on it (first, because it
 
 **The program:** a [brand ambassador program](https://www.kerusso.com/pages/ambassador) framed around living the message, not just wearing it, application on their site.
 
+Prefer writing to filming? The same niche pays writers too; our [Christian writing jobs](/blog/christian-writing-jobs) guide lists the markets and verified rates.
+
 ## 4. DaySpring
 
 **What they make:** faith-based greeting cards, home decor, and gifts (a Hallmark subsidiary, one of the largest Christian retailers in the US).

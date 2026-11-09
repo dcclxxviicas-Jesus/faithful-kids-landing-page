@@ -190,7 +190,7 @@ To keep the order straight, our free [printable Bible timeline](/printables/bibl
 
 If you're building the ministry itself, not just this week's lesson, our complete guide to [how to start a children's ministry](/blog/how-to-start-a-childrens-ministry) walks the whole road, planning, child safety, volunteers, curriculum and launch, with a free printable launch kit.
 
-If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+Teachers who write about what the classroom taught them can find outlets in our [Christian writing opportunities](/blog/christian-writing-opportunities) guide; our parenting section also [takes pitches from teachers](/parenting/write-for-us).
 
 ## Print the Free Trivia Pack for Review Weeks
 

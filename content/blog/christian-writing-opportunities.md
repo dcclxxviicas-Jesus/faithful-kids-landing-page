@@ -30,7 +30,7 @@ One thing upfront, because this guide follows our house rule of saying where we 
 | [ChurchLeaders](https://churchleaders.com/contribute) | Ministry articles and how-tos | Not stated |
 | [Raising Faithful Kids](/parenting/write-for-us), that's us | Parenting essays and op-eds | No (byline + human editor) |
 
-Details, quirks, and how to actually get accepted at each one below.
+Details, quirks, and how to actually get accepted at each one below. Three companion guides go deeper: [Christian writing jobs](/blog/christian-writing-jobs) ranks every market by what it actually pays, [how to write a devotional](/blog/how-to-write-a-devotional) teaches the form behind the two most reliable paying markets, and [how to write an op-ed](/blog/how-to-write-an-op-ed) covers the argument-driven piece, from a team whose own op-ed ran in The Christian Post.
 
 ## Risen Motherhood
 

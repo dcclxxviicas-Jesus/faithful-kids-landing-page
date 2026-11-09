@@ -66,7 +66,9 @@ A free [books of the Bible printable](/printables/books-of-the-bible), chart plu
 
 To keep the order straight, our free [printable Bible timeline](/printables/bible-timeline) puts all thirteen eras on one chart, honest about dates, from Creation to the early church.
 
-If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+If your homeschool has taught you something worth telling other parents, our [Christian writing opportunities](/blog/christian-writing-opportunities) guide lists who publishes essays like that, and [we do too](/parenting/write-for-us).
+
+For ongoing reading beyond this list, our roundup of the [best Christian blogs for parents](/blog/best-christian-blogs) covers mom, dad, homeschool and teen-parenting sites, every one verified active.
 
 ## How Do You Adapt Bible Lessons by Age?
 

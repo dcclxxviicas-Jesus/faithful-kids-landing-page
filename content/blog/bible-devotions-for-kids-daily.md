@@ -290,6 +290,8 @@ One good week is easy. Week six is where most families quit. Here's the sequence
 
 Pair this with our free [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan), one sheet, ready for the kitchen table or the classroom.
 
+If writing these yourself appeals to you, our guide to [how to write a devotional](/blog/how-to-write-a-devotional) covers the four-part format and the markets that pay $30 a piece for them.
+
 ## What Age Should Kids Start Daily Devotions?
 
 Earlier than most parents think, but with the format scaled down, not the frequency.

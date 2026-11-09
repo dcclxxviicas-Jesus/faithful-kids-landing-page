@@ -46,7 +46,9 @@ Paul could have said "discipline your children" and left it there. Instead, he l
 
 ---
 
-If you write about faith and family yourself, or want to start, our guide to [Christian writing opportunities](/blog/christian-writing-opportunities) lists the outlets accepting essays right now, and our own parenting section [takes pitches directly](/parenting/write-for-us).
+Some parents process conviction by writing about it; if that is you, the open doors are in our [Christian writing opportunities](/blog/christian-writing-opportunities) guide, or [pitch our parenting section](/parenting/write-for-us) in a few sentences.
+
+For ongoing reading beyond this list, our roundup of the [best Christian blogs for parents](/blog/best-christian-blogs) covers mom, dad, homeschool and teen-parenting sites, every one verified active.
 
 ## 4. Model What You Teach
 

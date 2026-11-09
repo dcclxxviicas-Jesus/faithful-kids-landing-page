@@ -51,7 +51,7 @@ I do not think any parent decides to raise an incurious child. It happens by acc
 
 **We separate learning from faith.** School is school and church is church, and the two never meet at the dinner table. So a child concludes that God lives in one building and facts live in another, and that the two have nothing to say to each other. Later, when a fact seems to press on a belief, the child has no practice at holding them together and lets one of them go.
 
-**We treat questions as threats.** A child asks why God let the dog die, or how there were days before there was a sun, and the adult tenses up. The child reads the tension perfectly. The lesson is not the answer; the lesson is that some questions are dangerous here. A child who learns that lesson at seven stops bringing the big questions home at fourteen, which is exactly when they most need to.
+**We treat questions as threats.** A child asks why God does not answer every prayer, or how there were days before there was a sun, and the adult tenses up. The child reads the tension perfectly. The lesson is not the answer; the lesson is that some questions are dangerous here. A child who learns that lesson at seven stops bringing the big questions home at fourteen, which is exactly when they most need to.
 
 **We reward being right over finding out.** Praise goes to the correct answer, the finished worksheet, the memorised verse. Those are fine things. But if they are the only things praised, the child learns that the goal is to already know, and curiosity, which begins by admitting you do not know, starts to feel like failure.
 

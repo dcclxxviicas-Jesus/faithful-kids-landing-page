@@ -17,6 +17,7 @@
   --pt-rule: #e6e2da;
   --pt-rule-strong: #16314f;
   --pt-serif: var(--font-serif), Georgia, 'Times New Roman', serif;
+  --pt-dek: var(--font-literata), var(--font-serif), Georgia, serif; /* deks, ledes, pull quotes */
   --pt-sans: var(--font-nunito), -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --pt-max: 1120px;
   --pt-measure: 680px;
@@ -107,7 +108,7 @@
 }
 .pt .pt-featured h2 a { text-decoration: none; }
 .pt .pt-featured h2 a:hover { color: var(--pt-green-dark); }
-.pt .pt-featured-dek { font-family: var(--pt-serif); font-size: 1.1rem; line-height: 1.55; color: var(--pt-ink-soft); margin: 0 0 14px; max-width: 34em; }
+.pt .pt-featured-dek { font-family: var(--pt-dek); font-size: 1.06rem; line-height: 1.55; color: var(--pt-ink); margin: 0 0 14px; max-width: 34em; }
 .pt .pt-rail { min-width: 0; border-top: 1px solid var(--pt-rule-strong); padding-top: 12px; }
 .pt .pt-rail h2 { font-family: var(--pt-sans); font-size: .76rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--pt-ink-soft); margin: 0 0 4px; }
 .pt .pt-rail ol { list-style: none; margin: 0; padding: 0; }
@@ -206,7 +207,7 @@
   font-family: var(--pt-serif); font-weight: 600; letter-spacing: -0.02em;
   font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.08; margin: 12px 0 14px; text-wrap: balance;
 }
-.pt .pt-dek { font-family: var(--pt-serif); font-style: italic; font-size: clamp(1.1rem, 2.2vw, 1.35rem); line-height: 1.5; color: var(--pt-ink-soft); margin: 0 auto 22px; max-width: 36em; }
+.pt .pt-dek { font-family: var(--pt-dek); font-size: clamp(1.04rem, 2.1vw, 1.26rem); line-height: 1.5; color: var(--pt-ink); margin: 0 auto 22px; max-width: 36em; }
 .pt .pt-article-head .pt-byline { justify-content: center; margin-bottom: 4px; }
 .pt .pt-article-meta { font-size: .82rem; color: var(--pt-ink-mute); display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 8px; }
 .pt .pt-article-meta time { font-weight: 700; color: var(--pt-ink-soft); }
@@ -230,7 +231,7 @@
 .pt .pt-prose li::marker { color: var(--pt-green); }
 .pt .pt-prose blockquote {
   margin: 2em 0; padding: 0 0 0 22px; border-left: 3px solid var(--pt-green);
-  font-size: 1.42rem; line-height: 1.38; font-style: italic; color: var(--pt-ink); letter-spacing: -0.01em;
+  font-family: var(--pt-dek); font-weight: 500; font-size: 1.34rem; line-height: 1.38; color: var(--pt-ink); letter-spacing: -0.01em;
 }
 .pt .pt-prose hr { border: 0; border-top: 1px solid var(--pt-rule); margin: 2.4em auto; width: 120px; }
 .pt .pt-prose table { width: 100%; border-collapse: collapse; font-family: var(--pt-sans); font-size: .92rem; margin: 1.4em 0; }
@@ -239,7 +240,7 @@
 .pt .pt-prose code { font-size: .9em; background: var(--pt-cream); padding: 1px 6px; border-radius: 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
 .pt .pt-figure { margin: 2em 0; }
 .pt .pt-figure img { width: 100%; height: auto; border-radius: 6px; }
-@media (max-width: 560px) { .pt .pt-prose { font-size: 1.08rem; } .pt .pt-prose blockquote { font-size: 1.22rem; } }
+@media (max-width: 560px) { .pt .pt-prose { font-size: 1.08rem; } .pt .pt-prose blockquote { font-size: 1.16rem; } }
 
 /* interview Q&A: a bold speaker label at the start of a paragraph */
 .pt .pt-prose p > strong:first-child { font-family: var(--pt-sans); font-size: .82em; letter-spacing: .06em; text-transform: uppercase; color: var(--pt-ink-soft); }
@@ -302,7 +303,7 @@
 /* ---------- static pages (about, policy, write for us) ---------- */
 .pt .pt-page { max-width: var(--pt-measure); margin: 0 auto; padding: 10px 20px 24px; }
 .pt .pt-page h1 { font-family: var(--pt-serif); font-weight: 600; font-size: clamp(2.1rem, 5vw, 3rem); line-height: 1.08; letter-spacing: -0.02em; margin: 14px 0 14px; text-wrap: balance; }
-.pt .pt-page .pt-lede { font-family: var(--pt-serif); font-size: 1.25rem; line-height: 1.55; color: var(--pt-ink-soft); margin: 0 0 28px; }
+.pt .pt-page .pt-lede { font-family: var(--pt-dek); font-size: 1.18rem; line-height: 1.55; color: var(--pt-ink); margin: 0 0 28px; }
 .pt .pt-page h2 { font-family: var(--pt-serif); font-weight: 600; font-size: 1.55rem; margin: 2em 0 .5em; line-height: 1.2; }
 .pt .pt-faq { margin: 0; }
 .pt .pt-faq > div { padding: 14px 0; border-top: 1px solid var(--pt-rule); }

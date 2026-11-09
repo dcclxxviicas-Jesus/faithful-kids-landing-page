@@ -19,6 +19,7 @@ sources:
   - "Psalm 122:1 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Psalm+122%3A1&version=NIV"
   - "Hebrews 10:24-25 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Hebrews+10%3A24-25&version=NIV"
 resources:
+  - "The Bible Lesson Your Kids Remember Is the One Where You Apologized | /parenting/the-bible-lesson-your-kids-remember-is-the-one-where-you-apologized"
   - "Sunday school lessons for kids | /blog/sunday-school-lessons-for-kids"
   - "How to make church fun for kids | /blog/how-to-make-church-fun-for-kids"
   - "Faithful Kids is free for churches | /churches"
@@ -58,7 +59,7 @@ None of this needs a system. It needs a few decisions moved to Saturday and a sl
 - **Saturday night does the work.** Clothes out, down to the socks. Bags packed by the door. Breakfast decided, ideally something that needs no cooking. If there is a Bible to bring, it is in the bag. Every one of these is a fight that now cannot happen in the morning.
 - **Aim to be early, so that late is still on time.** Families who plan to arrive ten minutes early arrive on time, calm. Families who plan to arrive on time arrive late, furious. The difference is the same ten minutes; it just decides who spends them.
 - **Lower the dress code before you lower your voice.** If the choice on a given morning is a child in the wrong shirt or a child in the right shirt who was shouted at, choose the shirt. Nobody in the pew behind you will remember the shirt.
-- **Say one true sentence in the car.** Not a devotion, not a lecture. "I am glad we are going today." Or, on the mornings that went badly, "That was a rough hour. I am sorry. I am still glad we are going." Children can absorb a bad morning if it is named; they cannot absorb one that is denied at the church door.
+- **Say one true sentence in the car.** Not a devotion, not a lecture. "I am glad we are going today." Or, on the mornings that went badly, "That was a rough hour. I am sorry. I am still glad we are going." Children can absorb a bad morning [if it is named](/parenting/the-bible-lesson-your-kids-remember-is-the-one-where-you-apologized); they cannot absorb one that is denied at the church door.
 - **Let the arrival be slow.** A family that walks in with two minutes to spare and sits down together has had a different morning from one that scatters children to rooms while a parent sprints for a seat. If that means missing the first song for a season, miss it.
 
 ## Why it is worth the trouble

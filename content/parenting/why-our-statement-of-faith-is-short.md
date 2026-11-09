@@ -35,7 +35,7 @@ So the instruction I gave myself, and the one I have asked everyone who touches 
 
 ## The two words I would not add
 
-The page says, "The Bible is the inspired, true Word of God." More than one reader has suggested it should continue, "and our final authority." I understand why. It sounds firmer. It is also a specific position: Scripture as the sole final authority is a Protestant conviction, and Catholic and Orthodox Christians, who affirm with their whole hearts that the Bible is inspired and true, hold it alongside the teaching of the Church. Adding four words would turn a sentence every Christian family can hand to their children into a sentence that quietly tells a third of them this is not for you.
+[The page](/beliefs) says, "The Bible is the inspired, true Word of God." More than one reader has suggested it should continue, "and our final authority." I understand why. It sounds firmer. It is also a specific position: Scripture as the sole final authority is a Protestant conviction, and Catholic and Orthodox Christians, who affirm with their whole hearts that the Bible is inspired and true, hold it alongside the teaching of the Church. Adding four words would turn a sentence every Christian family can hand to their children into a sentence that quietly tells a third of them this is not for you.
 
 The page also says, "Salvation is found in him, by grace through faith." That is Ephesians 2:8, nearly word for word, and it is universal. One more word, "alone," makes it a Reformation slogan. I believe the Reformation debates matter. I also believe a seven-year-old watching the story of Zacchaeus does not need her Bible app to have taken a side in them, and her parents did not ask it to.
 

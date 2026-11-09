@@ -23,7 +23,7 @@ resources:
 disclosure: "I founded Faithful Kids, which makes a Bible video app for children. That is a screen. I have tried to argue honestly against my own interest where it applies."
 ---
 
-I wrote earlier this year, in The Christian Post, about the season I took my kids' screens away and why it did not work. I am not going to retell that piece here. I want to say the thing I have become more sure of since: the fight most Christian parents think they are in is the wrong fight.
+I wrote earlier this year, [in The Christian Post](https://www.christianpost.com/voices/i-took-my-kids-screens-away-heres-why-it-didnt-work.html), about the season I took my kids' screens away and why it did not work. I am not going to retell that piece here. I want to say the thing I have become more sure of since: the fight most Christian parents think they are in is the wrong fight.
 
 We talk about screen time as if the unit of harm were the minute. Thirty minutes good, three hours bad. Set a timer, hold the line, feel guilty when it slips. That framing made sense when a screen was a television with four channels and a sign-off at midnight. It makes no sense now, because the thing on the other side of the glass is no longer a program. It is a feed, and a feed is designed by very capable people to make sure there is never a natural place to stop.
 
@@ -43,7 +43,7 @@ A show that ends is a show you can talk about. A video that ends with a question
 
 In practice that means a few rules in our house that have held better than any timer:
 
-- **No feeds for children.** Not YouTube, not YouTube Kids, not a short-form app of any kind. A child can watch something we chose, from a library we trust, that ends.
+- **No feeds for children.** Not YouTube, not YouTube Kids, not a short-form app of any kind. A child can watch something we chose, from [a library we trust](/blog/christian-alternatives-to-youtube-for-kids), that ends.
 - **Pick, then watch.** The choosing happens before the device is on. "What are we watching tonight?" is a question for the dinner table, not for the thumbnail grid.
 - **Something has to come after.** A question, a drawing, a verse we say back, a walk. The thing after the screen is what turns watching into learning, and it is also what makes the ending feel like an ending instead of a loss.
 - **We watch some of it with them.** Not all. Some. Enough that the child knows the screen is not a place parents never go.
@@ -60,7 +60,7 @@ Paul's "whatever is true, whatever is noble, whatever is right, whatever is pure
 
 ## The honest part
 
-I make a screen for children now. My company builds Bible video lessons, and children watch them on the same tablets I used to confiscate. I would be lying if I said that was not awkward to write in an essay like this.
+I make a screen for children now. My company [builds Bible video lessons](/about), and children watch them on the same tablets I used to confiscate. I would be lying if I said that was not awkward to write in an essay like this.
 
 Here is how I square it, and you can judge whether it holds. Every lesson we make ends. It ends with a question the child has to answer, and then one they talk about with a parent. There is no feed, nothing autoplays, and there are no ads, because an ad is just a tiny feed with a budget. I built it that way because of the season I describe in the Christian Post piece, not in spite of it. If I had found something else that worked that way, I would have used it.
 

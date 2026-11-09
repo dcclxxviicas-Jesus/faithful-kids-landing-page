@@ -19,6 +19,7 @@ sources:
   - "Zechariah 4:10 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Zechariah+4%3A10&version=NIV"
   - "Lamentations 3:22-23 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Lamentations+3%3A22-23&version=NIV"
 resources:
+  - "Why We Read the Boring Parts of the Bible to Our Kids, where this routine went next | /parenting/why-we-read-the-boring-parts-of-the-bible-to-our-kids"
   - "15-minute family devotions: a realistic weekly plan | /blog/15-minute-family-devotions"
   - "Bible stories for bedtime | /blog/bible-stories-for-bedtime"
   - "Free printable: the 30-day family Bible challenge | /printables/30-day-challenge"
@@ -39,7 +40,7 @@ The way out is not more discipline. It is a plan small enough to be boring.
 
 ## Shrink the unit until missing it is impossible
 
-What is the smallest version of family Bible time that still counts? Not the ideal version. The smallest one. For most families it is something like: one short passage or story, read aloud, followed by one question, and done. Five minutes. Some nights three.
+What is the smallest version of family Bible time that still counts? Not the ideal version. The smallest one. For most families it is something like: one short passage or [story](/bible-stories-for-kids), read aloud, followed by one question, and done. Five minutes. Some nights three.
 
 That feels like cheating. It is not. A habit is built by repetitions, not by intensity, and a five-minute routine that happens two hundred times in a year does something to a child that a thirty-minute routine that happens eleven times cannot. The child who hears a little Scripture most nights grows up assuming that Scripture is part of what evenings are. The child who had three ambitious devotions in January grows up assuming that Scripture is what parents attempt and abandon.
 
@@ -51,7 +52,7 @@ Zechariah's question is useful here: "Who dares despise the day of small things?
 
 The second reason good plans die is that they ask the family to create a new slot in the day, and families do not have new slots. The alternative is to attach the habit to an anchor that already exists and is not going anywhere.
 
-Dinner is one. Not after dinner, when the table scatters, but during it, before the plates are cleared, while everyone is captive. Bedtime is another, and for young children it may be the best one, because the child wants to delay sleep and will sit through almost anything that achieves that. The drive to school works for families who drive. The point is not which anchor; it is that the Bible rides on something that would have happened anyway, so there is nothing to remember and nothing to schedule.
+Dinner is one. Not after dinner, when the table scatters, but during it, before the plates are cleared, while everyone is captive. [Bedtime](/blog/bible-stories-for-bedtime) is another, and for young children it may be the best one, because the child wants to delay sleep and will sit through almost anything that achieves that. The drive to school works for families who drive. The point is not which anchor; it is that the Bible rides on something that would have happened anyway, so there is nothing to remember and nothing to schedule.
 
 ## Make missing cheap
 
@@ -65,7 +66,7 @@ So decide in advance that missing costs nothing. No catching up. No doubling tom
 
 It looks underwhelming, which is how you know it is working. A child asks for "the story" at bedtime the way they ask for water. A verse read at dinner on Monday surfaces, garbled, in a question on Thursday. Nobody remembers starting the habit because it was never a project; it was just something the family did, like brushing teeth, and about as glamorous.
 
-If you want more than that, add it later, once the small thing has run for months without effort. A song, a longer reading, a Sunday that goes deeper. Those are good. But they are the roof, and February is the month that teaches most of us we tried to build the roof first.
+If you want more than that, add it later, once the small thing has run for months without effort. A song, [a longer reading](/parenting/why-we-read-the-boring-parts-of-the-bible-to-our-kids), a Sunday that goes deeper. Those are good. But they are the roof, and February is the month that teaches most of us we tried to build the roof first.
 
 ## If yours already died
 

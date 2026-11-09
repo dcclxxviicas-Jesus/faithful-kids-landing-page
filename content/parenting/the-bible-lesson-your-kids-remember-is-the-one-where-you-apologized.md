@@ -20,6 +20,7 @@ sources:
   - "James 5:16 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=James+5%3A16&version=NIV"
   - "1 John 1:9 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=1+John+1%3A9&version=NIV"
 resources:
+  - "What the Sunday Morning Scramble Teaches Your Kids | /parenting/what-the-sunday-morning-scramble-teaches-your-kids"
   - "Bible stories about forgiveness for kids | /blog/bible-stories-about-forgiveness-for-kids"
   - "Object lessons on forgiveness | /blog/object-lessons-on-forgiveness"
   - "200 free Bible stories for kids | /bible-stories-for-kids"
@@ -28,7 +29,7 @@ disclosure: ""
 
 There is a particular silence in a house after a parent has lost their temper. The child has gone quiet. The parent is replaying the last ninety seconds and finding no version in which they come out well. And in that silence a decision gets made, usually without anyone noticing, about what the children in that house will believe about God.
 
-That sounds too large. It is not. We tell children that God forgives those who confess. We tell them the prodigal's father ran down the road. We tell them that Peter denied Jesus three times and was restored over breakfast. And then the most powerful adult in their world does something wrong, in front of them, and either names it or pretends it did not happen. Whichever one we choose, that is the lesson. The stories are the footnotes.
+That sounds too large. It is not. We tell children that God forgives those who confess. We tell them [the prodigal's father ran down the road](/blog/the-prodigal-son-for-kids). We tell them that [Peter denied Jesus three times](/blog/peter-denies-jesus-for-kids) and [was restored over breakfast](/blog/peter-is-restored-for-kids). And then the most powerful adult in their world does something wrong, in front of them, and either names it or pretends it did not happen. Whichever one we choose, that is the lesson. The stories are the footnotes.
 
 ## Children believe what they see modelled, not what they are told
 

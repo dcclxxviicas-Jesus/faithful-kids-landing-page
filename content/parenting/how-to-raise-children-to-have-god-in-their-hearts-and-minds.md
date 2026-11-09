@@ -23,6 +23,7 @@ sources:
   - "Matthew 25:14-30 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Matthew+25%3A14-30&version=NIV"
   - "Mark 4:35-41 (NIV, Bible Gateway) | https://www.biblegateway.com/passage/?search=Mark+4%3A35-41&version=NIV"
 resources:
+  - "Curiosity Is a Spiritual Discipline, the second essay in this pair | /parenting/curiosity-is-a-spiritual-discipline"
   - "Bible discussion questions for kids | /blog/bible-discussion-questions-for-kids"
   - "The creation story for kids | /blog/in-the-beginning-creation-for-kids"
   - "200 free Bible stories for kids | /bible-stories-for-kids"
@@ -33,7 +34,7 @@ Ask a child what it means to fear God and watch their face. Most of them picture
 
 "The fear of the Lord is the beginning of wisdom" (Proverbs 9:10). The Hebrew word there, *yirah*, covers more ground than our English "fear." It is the feeling of standing in front of something vastly bigger than you and knowing it. Trembling is part of it. So is wonder. The nearest modern word is awe, and awe is not what you feel toward a headmaster. It is what you feel at the edge of a canyon, or under a sky full of stars, or the first time a child understands that the light reaching their eyes left that star before they were born.
 
-I want to suggest that the single most useful thing a Christian parent can do to keep God in a child's heart and mind is to teach them awe properly, and then to keep feeding it.
+I want to suggest that the single most useful thing a Christian parent can do to keep God in a child's heart and mind is to teach them awe properly, and then to [keep feeding it](/parenting/curiosity-is-a-spiritual-discipline).
 
 ## Fear closes a mind. Awe opens one.
 
@@ -51,9 +52,9 @@ With God's world it works the other way round. The more a child knows about anyt
 
 > Fear makes a child smaller. Awe makes a child lean in. Only one of those lasts past the day they are old enough to leave the room.
 
-This is why the burning bush matters as a parenting story and not just a prophet story. "Moses thought, 'I will go over and see this strange sight, why the bush does not burn up'" (Exodus 3:3). Notice the order. The curiosity came first. God speaks to Moses only after he turns aside to look. A man who had walked past would have had no encounter at all. The habit of going over to see is a spiritual habit, and children have it by default until we train it out of them.
+This is why [the burning bush](/blog/the-burning-bush-for-kids) matters as a parenting story and not just a prophet story. "Moses thought, 'I will go over and see this strange sight, why the bush does not burn up'" (Exodus 3:3). Notice the order. The curiosity came first. God speaks to Moses only after he turns aside to look. A man who had walked past would have had no encounter at all. The habit of going over to see is a spiritual habit, and children have it by default until we train it out of them.
 
-Jesus himself, at twelve, is found "in the temple courts, sitting among the teachers, listening to them and asking them questions," and the chapter closes by saying that he "grew in wisdom and stature, and in favor with God and man" (Luke 2:46, 52). Growing in wisdom is listed next to growing taller, as if it were just as natural and just as expected. It was not finished at twelve. It was not meant to be finished at any age.
+Jesus himself, [at twelve](/blog/young-jesus-in-the-temple-for-kids), is found "in the temple courts, sitting among the teachers, listening to them and asking them questions," and the chapter closes by saying that he "grew in wisdom and stature, and in favor with God and man" (Luke 2:46, 52). Growing in wisdom is listed next to growing taller, as if it were just as natural and just as expected. It was not finished at twelve. It was not meant to be finished at any age.
 
 ## Growth is where the joy is
 
@@ -73,7 +74,7 @@ None of this requires a curriculum. It requires a parent who is willing to be am
 
 **Connect what they learn to who made it.** This is the move most of us skip. The child learns about migration, or photosynthesis, or how far away the moon is, and the lesson ends at the fact. Add the one sentence that turns a fact into awe: "And God thought of that." Not as a way to shut down the science, but as its natural conclusion. Everything they will ever learn about the world is something he made first.
 
-**Read the Bible as a book full of people who were amazed.** The disciples in the boat after the storm were "terrified and asked each other, 'Who is this? Even the wind and the waves obey him!'" (Mark 4:41). That terror is awe, and it is the right response to what they had just seen. Point it out to your children. The people in these stories are not calm. They are astonished, and they are astonished because they were paying attention.
+**Read the Bible as a book full of people who were amazed.** [The disciples in the boat after the storm](/blog/calming-the-storm-for-kids) were "terrified and asked each other, 'Who is this? Even the wind and the waves obey him!'" (Mark 4:41). That terror is awe, and it is the right response to what they had just seen. Point it out to your children. The people in these stories are not calm. They are astonished, and they are astonished because they were paying attention.
 
 **Keep learning yourself, where they can see it.** A parent who has stopped being curious cannot hand curiosity down. Read something hard at the kitchen table. Say "I did not know that" and mean it. Let them watch you be small in front of something big and glad about it. That is the fear of the Lord, demonstrated, and it is caught far more often than it is taught.
 

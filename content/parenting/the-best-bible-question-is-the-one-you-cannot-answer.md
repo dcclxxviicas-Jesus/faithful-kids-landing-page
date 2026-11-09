@@ -23,7 +23,7 @@ resources:
 disclosure: ""
 ---
 
-Ask a child what happened in the story of Jonah and you will get an answer: a big fish, a city, a man who ran away. Ask the same child whether God was unfair to the plant and you will get a silence, then a frown, then something you did not expect. The first question checks whether they were listening. The second one is where the story gets in.
+Ask a child what happened in [the story of Jonah](/blog/who-was-jonah-for-kids) and you will get an answer: a big fish, a city, a man who ran away. Ask the same child whether God was unfair to the plant and you will get a silence, then a frown, then something you did not expect. The first question checks whether they were listening. The second one is where the story gets in.
 
 Most of what we call Bible teaching for children is built around the first kind of question. That is not a criticism. Comprehension matters, and a child who cannot tell you who built the ark is not ready to wonder why. But if comprehension is where we stop, we have taught a child that the Bible is a set of facts to be retrieved rather than a conversation to be entered. And the conversation is the point.
 
@@ -49,13 +49,13 @@ Three things happen when you ask a question you cannot answer.
 
 ## Jesus asked questions
 
-It is worth noticing that the only glimpse Scripture gives us of Jesus as a child shows him asking questions. Luke records the twelve-year-old in the temple, "sitting among the teachers, listening to them and asking them questions," and everyone who heard him "was amazed at his understanding and his answers" (Luke 2:46-47). The understanding and the questions arrive together. He did not ask because he lacked answers. He asked because that is how understanding moves between people.
+It is worth noticing that the only glimpse Scripture gives us of Jesus as a child shows him asking questions. Luke records [the twelve-year-old in the temple](/blog/young-jesus-in-the-temple-for-kids), "sitting among the teachers, listening to them and asking them questions," and everyone who heard him "was amazed at his understanding and his answers" (Luke 2:46-47). The understanding and the questions arrive together. He did not ask because he lacked answers. He asked because that is how understanding moves between people.
 
 Deuteronomy assumes the same thing from the other direction. "In the future, when your son asks you, 'What is the meaning of the stipulations, decrees and laws the Lord our God has commanded you?' tell him" (Deuteronomy 6:20-21). The pattern of faith passed down is not a lecture; it is a child's question and a parent's story. The text does not say "when you test your son." It says when he asks.
 
 ## Three questions for tonight
 
-You do not need a curriculum for this. You need the story, a little courage, and a willingness to sit in the pause. After any Bible story, try one of these:
+You do not need a curriculum for this. You need the story, a little courage, and a willingness to sit in the pause. After [any Bible story](/bible-stories-for-kids), try one of these:
 
 1. **"Who in this story would you not want to be, and why?"** Children pick the obvious villain first. Let them. Then ask about the second-least-enviable person, the one who was afraid or who stayed quiet, and watch the conversation turn.
 2. **"What do you think God was feeling here?"** Not what God did. What God felt. This question has startled more adults than children, and it is the fastest road from facts to relationship.

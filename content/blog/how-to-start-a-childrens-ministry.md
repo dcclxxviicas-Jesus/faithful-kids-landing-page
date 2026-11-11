@@ -33,7 +33,7 @@ Common groupings: nursery (0–2), preschool (3–5), elementary (6–11), somet
 
 ### Get real agreement from leadership
 
-You need three things from your pastor and board, explicitly: permission (you're authorized to do this), protection (they'll adopt the safety policy you bring them, see Stage 2), and provision (a budget line, even a small one, and rooms). Ask for all three in one meeting and take notes. A ministry that launches on vague goodwill stalls at the first conflict over space or money.
+You need three things from your pastor and board, explicitly: permission (you're authorized to do this), protection (they'll adopt the safety policy you bring them, see Stage 2), and provision (a budget line, even a small one, and rooms). Ask for all three in one meeting and take notes. A ministry that launches on vague goodwill stalls at the first conflict over space or money. (If the budget line is the sticking point, real outside money exists: see our verified guide to [grants for Christian schools and Sunday schools](/blog/grants-for-christian-schools).)
 
 ### Decide the opening format
 
@@ -113,7 +113,7 @@ Evaluate any curriculum, free or paid, against five questions:
 
 ### Where Faithful Kids fits: free for churches
 
-This guide is published by [Faithful Kids](/churches), and here is our honest pitch for this step: our library is 300+ short Bible video episodes, each about two minutes, each ending with a quiz and reflection, covering the whole Bible in order, and **churches and Sunday schools get free access** (the same library families pay for at home; not a trial). Many small ministries use an episode as the "story" beat and build the session around it: the video tells the story consistently well, and the teacher gets to do the part only a person can do, the conversation. Pair it with our free [printables](/printables), [Bible maps](/printables/bible-maps), and [trivia games](/bible-trivia), which need no license and photocopy freely. And if you'd rather use another curriculum, our [honest comparison of free options](/blog/free-bible-curriculum-for-kids-ministry) includes competitors we think are excellent.
+This guide is published by [Faithful Kids](/churches), and here is our honest pitch for this step: our library is 300+ short Bible video episodes, each about two minutes, each ending with a quiz and reflection, covering the whole Bible in order, and **churches and Sunday schools get free access** (the same library families pay for at home; not a trial). Many small ministries use an episode as the "story" beat and build the session around it: the video tells the story consistently well, and the teacher gets to do the part only a person can do, the conversation. Pair it with our free [printables](/printables), [Bible maps](/printables/bible-maps), and [trivia games](/bible-trivia), which need no license and photocopy freely. And if you'd rather use another curriculum, our [honest comparison of free options](/blog/free-bible-curriculum-for-kids-ministry) includes competitors we think are excellent, and our wider roundup of [free Bible resources for children's ministry](/blog/free-childrens-ministry-resources) covers printables, video, music, and volunteer training.
 
 **Downloads for this stage:** curriculum evaluation worksheet, sample session plan (in the [launch kit](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)).
 

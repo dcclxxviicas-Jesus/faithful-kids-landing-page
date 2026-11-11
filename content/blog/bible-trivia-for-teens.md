@@ -228,6 +228,10 @@ You can also play this as a game: our [online Bible quiz](/bible-quiz) grades it
 
 If the table wants jokes about church rather than Bible stories, the [Christian jokes collection](/blog/christian-jokes) covers pastors, potlucks, and church signs, all clean.
 
+## Where Serious Bible Knowledge Can Lead
+
+For a teen who wins every round here, there is a bigger stage: the National Bible Bee awards over $135,000 a year in prize money for Scripture memorization, topping out at $50,000 for the senior division. That and the denominational awards worth real tuition money are in our verified guide to [Christian scholarships](/blog/christian-scholarships).
+
 ## Frequently Asked Questions
 
 ### Where can I find more challenging Bible trivia questions?

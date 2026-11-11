@@ -46,7 +46,7 @@ If you have never sold a word, devotionals are the most realistic first paycheck
 
 ## Christian Writing Contests
 
-**Plough** runs an annual **Short Fiction Contest** and the **Rhina Espaillat Poetry Award**, each with a prize and publication in Plough Quarterly. These are the only routes into Plough for fiction and poetry (they do not read either unsolicited), and per their submissions page, nonfiction essays can be pitched year-round to submissions@plough.com. For contest-focused writers, these two are the highest-prestige targets in this niche with current, verifiable guidelines.
+**Plough** runs an annual **Short Fiction Contest** and the **Rhina Espaillat Poetry Award**, each with a prize and publication in Plough Quarterly. These are the only routes into Plough for fiction and poetry (they do not read either unsolicited), and per their submissions page, nonfiction essays can be pitched year-round to submissions@plough.com. For contest-focused writers, these two are the highest-prestige targets in this niche with current, verifiable guidelines; our full guide to [Christian writing contests](/blog/christian-writing-contests) covers the wider field with every fee and prize verified.
 
 ## The Unpaid Tier: When a Byline Is Worth More Than the Check
 

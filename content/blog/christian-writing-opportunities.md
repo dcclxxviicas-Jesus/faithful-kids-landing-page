@@ -82,7 +82,7 @@ This one is different: you're not writing *about* parenting, you're writing *for
 
 ## Plough
 
-**What they want:** Plough publishes nonfiction articles, reviews, art, and letters for its website and quarterly print magazine. Their essays are narrative-driven, built around a real-life story rather than an argued thesis, though they'll consider an idea-driven piece if the subject is urgent. Faith, family, community, and society are home turf. They do not take unsolicited fiction or poetry, those go through their annual contests.
+**What they want:** Plough publishes nonfiction articles, reviews, art, and letters for its website and quarterly print magazine. Their essays are narrative-driven, built around a real-life story rather than an argued thesis, though they'll consider an idea-driven piece if the subject is urgent. Faith, family, community, and society are home turf. They do not take unsolicited fiction or poetry, those go through their annual contests (covered, with the rest of the field, in our [Christian writing contests guide](/blog/christian-writing-contests)).
 
 **How to submit:** Pitches or finished manuscripts to submissions@plough.com with a one-paragraph bio or CV and links to previous work if you have any. Their own advice is the best advice: read the magazine first. Plough has a distinct literary sensibility, and a piece that would be perfect for Risen Motherhood will feel out of place there, and vice versa.
 

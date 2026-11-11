@@ -6,7 +6,7 @@ metaTitle: "10 Christian Brands That Work With Influencers (2026)"
 metaDescription: "10 Christian brands with real influencer, ambassador, and UGC programs, what each offers, who they look for, and where to apply. Verified program links."
 keywords: ["christian brands that work with influencers", "brands looking for ugc creators", "christian brand ambassador programs", "christian affiliate programs", "christian ugc", "faith based brands looking for influencers"]
 datePublished: "2026-10-08"
-dateModified: "2026-10-08"
+dateModified: "2026-11-11"
 ---
 
 Here are 10 Christian brands that actually work with influencers, brand ambassadors, and UGC creators, each verified against the brand's own program page, with a link to apply. No "they probably do collabs" padding: every entry below has a live, public way in.
@@ -35,11 +35,11 @@ A note on how this list works: we are one of the brands on it (first, because it
 
 Prefer writing to filming? The same niche pays writers too; our [Christian writing jobs](/blog/christian-writing-jobs) guide lists the markets and verified rates.
 
-## 4. DaySpring
+## 4. DaySpring (program discontinued; update from November 2026)
 
 **What they make:** faith-based greeting cards, home decor, and gifts (a Hallmark subsidiary, one of the largest Christian retailers in the US).
 
-**The program:** an affiliate program aimed at Christian lifestyle, home, and faith content creators. Find it via their site footer or affiliate network listings.
+**The program:** gone. We previously listed DaySpring's affiliate program here, and as of November 2026 the old affiliate page redirects to Hallmark's site with no affiliate program surviving the brand's absorption. We keep this entry because nearly every other list still recommends it; do not spend an application on it. For current, verified alternatives, see our guides to [how Christian bloggers make money](/blog/how-christian-bloggers-make-money) and [brands that work with homeschool bloggers](/blog/brands-that-work-with-homeschool-bloggers), both checked against the brands' own pages.
 
 ## 5. Logos Bible Software
 

@@ -107,7 +107,7 @@ Sermon notes have a second use worth knowing: they work identically for video le
 
 For the rest of the printable landscape, coloring pages, word searches, bingo, mazes, see our complete roundup of [free Bible printables for kids](/blog/free-bible-printables-for-kids). Sunday school teachers building lessons around these sheets should also look at our [Bible lesson plans for Sunday school](/blog/bible-lesson-plans-for-sunday-school).
 
-All five printables on this page are ours, free, with no email wall; and they pair with the rest of the [Faithful Kids free printables](/printables): coloring pages, word searches, and quiz PDFs with answer keys.
+All five printables on this page are ours, free,; and they pair with the rest of the [Faithful Kids free printables](/printables): coloring pages, word searches, and quiz PDFs with answer keys.
 
 ## How Do You Fit All Five Into One Week?
 
@@ -124,11 +124,11 @@ That is roughly fifteen minutes a day, most of it attached to meals you were alr
 
 Our [printable Bible coloring sheets](/printables/bible-coloring-pages) work well alongside this; each page names the scripture it comes from.
 
-Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with no sign-up.
+Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with
 
 Our [Bible trivia for adults](/blog/bible-trivia-for-adults) page does the same thing for grown-up groups, opening with questions where the popular version of the story and the text disagree.
 
-And when the room needs to get quiet, hand out a [Bible crossword](/printables/bible-crossword), seven free story-based puzzles, no sign-up.
+And when the room needs to get quiet, hand out a [Bible crossword](/printables/bible-crossword), seven free story-based puzzles.
 
 ## Frequently Asked Questions
 

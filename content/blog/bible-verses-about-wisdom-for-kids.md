@@ -86,7 +86,7 @@ Good friends sharpen each other. Flip the friendship question around: "Whom are 
 
 If small hands need something to do while you read, the free [the cross coloring page](/printables/bible-coloring-pages/the-cross) is made for exactly that.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out; four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out; four to a sheet.
 
 ## What Do Wise Words Sound Like?
 

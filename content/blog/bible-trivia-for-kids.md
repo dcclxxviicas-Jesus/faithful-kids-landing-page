@@ -3,7 +3,7 @@ title: "Bible Trivia for Kids: 50 Quiz Questions and Answers (PDF)"
 metaTitle: "Bible Trivia for Kids: 50 Quiz Questions & Answers (Free PDF)"
 slug: "bible-trivia-for-kids"
 type: "listicle"
-metaDescription: "Bible trivia for kids: 50 Bible quiz questions with answers and verse references in easy, medium, and hard rounds; plus a free printable PDF, no sign-up."
+metaDescription: "Bible trivia for kids: 50 Bible quiz questions with answers and verse references in easy, medium, and hard rounds; plus a free printable PDF."
 keywords: ["bible questions for kids", "bible quiz for kids with answers", "kids bible quiz questions and answers pdf", "easy bible questions for kids", "bible questions and answers for kids", "bible trivia for kids with answers", "easy bible trivia questions for kids", "bible quiz questions for children", "sunday school bible trivia questions"]
 datePublished: "2026-04-16"
 dateModified: "2026-08-28"

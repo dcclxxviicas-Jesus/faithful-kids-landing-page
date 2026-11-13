@@ -100,7 +100,7 @@ Keep it short, keep it at the same time each night, and let kids do some of the 
 
 **Prayer:** Glory to You, God, in the highest! Thank You for sending peace to earth. Help our family's December be full of singing, not just stress. Amen.
 
-Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season: no email wall, no sign-up.
+Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season:.
 
 Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar): 25 short readings from the first promise to the manger, one a night.
 

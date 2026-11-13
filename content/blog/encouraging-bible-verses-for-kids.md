@@ -74,7 +74,7 @@ Jesus said this to his disciples, and it means the child eating lunch alone is n
 
 If small hands need something to do while you read, the free [shepherds and angels coloring page](/printables/bible-coloring-pages/shepherds-and-angels) is made for exactly that.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet.
 
 ## What Bible Verses Help Kids Through Big Changes?
 

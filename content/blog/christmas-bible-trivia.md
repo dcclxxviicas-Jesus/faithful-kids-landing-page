@@ -73,7 +73,7 @@ Names, places, and reasons, solid ground for teens and anyone who grew up in chu
 39. Which two people recognized the infant Jesus as the Messiah at the temple? **Simeon and Anna** (Luke 2:25-38)
 40. What happened to Zechariah when he doubted the angel's message? **He was unable to speak until his son John was born** (Luke 1:20)
 
-Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day, free, no sign-up.
+Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day, free.
 
 Planning the whole month? The [Christmas hub](/holidays/christmas) lists every Advent devotion, story, and printable we publish.
 

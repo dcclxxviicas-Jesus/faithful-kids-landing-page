@@ -68,7 +68,7 @@ Everyone should bank points here. These are quiz questions from Bible stories ne
 44. What appeared over the believers' heads at Pentecost? **Tongues of fire** (Acts 2:3)
 45. Which Roman centurion became one of the first Gentile believers? **Cornelius** (Acts 10:1, 44-48)
 
-We built a [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) around this story, free, no sign-up, on screen or on paper.
+We built a [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) around this story, free, on screen or on paper.
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 

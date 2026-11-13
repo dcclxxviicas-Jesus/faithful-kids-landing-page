@@ -22,7 +22,7 @@ import './maps.css'
 
 export const metadata: Metadata = {
   title: { absolute: `Bible Maps for Kids: ${MAP_COUNT} Free Printable Maps` },
-  description: `${MAP_COUNT} free printable Bible maps for kids, the Exodus route, Israel in Jesus' time, Paul's journeys, the 12 tribes and more. Real geography, no sign-up.`,
+  description: `${MAP_COUNT} free printable Bible maps for kids, the Exodus route, Israel in Jesus' time, Paul's journeys, the 12 tribes and more. Real geography.`,
   keywords: [
     'bible maps', 'bible map', 'bible maps for kids', 'printable bible maps',
     'bible maps printable', 'sunday school maps', 'bible geography for kids',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   alternates: { canonical: 'https://faithfulkids.app/printables/bible-maps' },
   openGraph: {
     title: `Bible Maps for Kids: ${MAP_COUNT} Free Printable Maps`,
-    description: `${MAP_COUNT} printable Bible maps with real geography, the Exodus, Paul's journeys, Israel in Jesus' time and more. Free, no sign-up.`,
+    description: `${MAP_COUNT} printable Bible maps with real geography, the Exodus, Paul's journeys, Israel in Jesus' time and more. Free.`,
     url: 'https://faithfulkids.app/printables/bible-maps',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -45,7 +45,7 @@ const faqs = [
   },
   {
     q: 'Can I print these for my Sunday school class or co-op?',
-    a: 'Yes. Every map is free with no sign-up, and you are welcome to photocopy them for your family, class, homeschool co-op, camp or church group. Each printed sheet carries our web address so families can find the set again at home.',
+    a: 'Yes. Every map is free, and you are welcome to photocopy them for your family, class, homeschool co-op, camp or church group. Each printed sheet carries our web address so families can find the set again at home.',
   },
   {
     q: 'What order should kids learn the maps in?',
@@ -96,7 +96,7 @@ export default function BibleMapsHub() {
       <SiteNav active="printables" />
 
       <section className="blog-hero">
-        <span className="section-label">Free · No Sign-Up</span>
+        <span className="section-label">Free Printables</span>
         <h1>Printable Bible Maps for Kids</h1>
         <p className="blog-hero-sub">
           {MAP_COUNT} maps that cover the whole story, the Promised Land, the Exodus route, the

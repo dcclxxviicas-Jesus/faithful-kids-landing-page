@@ -145,7 +145,7 @@ This guide is published by [Faithful Kids](/churches), and here is our honest pi
 
 ## The Launch Kit
 
-Every checklist and template in this guide lives in one free PDF pack, the **Children's Ministry Launch Kit**: fifteen designed pages covering the launch timeline, age-group worksheet, safety policy outline, volunteer role cards and screening tracker, training sign-off, monthly rota, curriculum comparison grid, session planner, budget and supplies worksheets, parent welcome letter, cut-out check-in and pick-up cards, an incident report form, and the first-Sunday readiness checklist. Free, no sign-up, photocopy at will.
+Every checklist and template in this guide lives in one free PDF pack, the **Children's Ministry Launch Kit**: fifteen designed pages covering the launch timeline, age-group worksheet, safety policy outline, volunteer role cards and screening tracker, training sign-off, monthly rota, curriculum comparison grid, session planner, budget and supplies worksheets, parent welcome letter, cut-out check-in and pick-up cards, an incident report form, and the first-Sunday readiness checklist. Free, photocopy at will.
 
 [Download the Children's Ministry Launch Kit (PDF) →](https://d3g07v1w0lehiv.cloudfront.net/printables/childrens-ministry-launch-kit.pdf)
 

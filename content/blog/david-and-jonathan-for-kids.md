@@ -110,7 +110,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
-We built a [David and Goliath word search](/printables/bible-word-search/david-and-goliath) around this story. Free, no sign-up, and it works on screen or on paper.
+We built a [David and Goliath word search](/printables/bible-word-search/david-and-goliath) around this story. Free, and it works on screen or on paper.
 
 ## Frequently Asked Questions
 

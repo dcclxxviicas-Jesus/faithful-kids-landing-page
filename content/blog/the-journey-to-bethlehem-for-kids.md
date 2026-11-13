@@ -101,7 +101,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
-We drew a printable [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) to go with this one. It is free, with no sign-up.
+We drew a printable [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) to go with this one. It is free, with
 
 ## Frequently Asked Questions
 

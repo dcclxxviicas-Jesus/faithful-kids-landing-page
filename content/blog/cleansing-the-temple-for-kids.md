@@ -47,7 +47,7 @@ The story of Cleansing the Temple teaches children important lessons about sacri
 
 > *"My house shall be called a house of prayer."* (Isaiah 56:7)
 
-There is a free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) on our site too, printable on one sheet with no sign-up.
+There is a free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) on our site too, printable on one sheet with
 
 To place this story on the map, our free [printable map of ancient Israel](/printables/bible-maps/ancient-israel) shows the whole Old Testament land, Jerusalem, the two kingdoms, and the cities the prophets walked.
 

@@ -508,7 +508,7 @@ Use these as tiebreakers or as a warm-up before the multiple-choice rounds. No o
 
 ## Print It or Keep Playing
 
-For paper play, grab the free [Bible Trivia Pack](/printables/bible-trivia-pack). Cut-out question cards and score sheets that print from any home printer, no signup hoops. It works well for Sunday school tables, road trips, and anywhere you would rather not hand a kid a phone.
+For paper play, grab the free [Bible Trivia Pack](/printables/bible-trivia-pack). Cut-out question cards and score sheets that print from any home printer hoops. It works well for Sunday school tables, road trips, and anywhere you would rather not hand a kid a phone.
 
 If you want more questions, our [100 Bible trivia questions and answers](/blog/100-bible-trivia-questions-and-answers) master list spans Genesis to Revelation in four difficulty tiers, [Bible trivia for kids](/blog/bible-trivia-for-kids) is pitched at ages 5-12, and [50 hard Bible trivia questions for teens](/blog/bible-trivia-for-teens) will humble the family champion. For team formats, prizes, and a full evening plan, see our guide to [family Bible trivia night](/blog/family-bible-trivia-night).
 

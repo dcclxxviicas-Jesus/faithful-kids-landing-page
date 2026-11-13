@@ -46,7 +46,7 @@ For a quieter follow-up, try the free [David and Goliath word search](/printable
 
 There is also a playable [Bible Jeopardy board](/bible-jeopardy), 6 categories, team scoring, and a verse with every answer, built for Sunday school and youth group screens.
 
-Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles.
 
 There is also a free [printable map of Paul's journeys](/printables/bible-maps/pauls-missionary-journeys), every city in this story at its real location, from Jerusalem to Rome.
 

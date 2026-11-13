@@ -45,7 +45,7 @@ The story of Wandering in the Wilderness teaches children important lessons abou
 
 > *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
-We built a [Moses word search](/printables/bible-word-search/moses) around this story, free, no sign-up, on screen or on paper.
+We built a [Moses word search](/printables/bible-word-search/moses) around this story, free, on screen or on paper.
 
 ## Parent's Guide: Why This Story Matters
 

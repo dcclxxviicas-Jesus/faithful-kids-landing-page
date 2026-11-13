@@ -52,7 +52,7 @@ The book falls into two halves. Chapters 1-18 are the rescue: Moses' birth, the 
 27. How much manna were the Israelites told to gather on the sixth day? **Twice as much, so they could rest on the Sabbath** (Exodus 16:22-26)
 28. Who held up Moses' tired arms during the battle against the Amalekites? **Aaron and Hur** (Exodus 17:12)
 
-There is a free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) on our site too, printable on one sheet with no sign-up.
+There is a free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) on our site too, printable on one sheet with
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 

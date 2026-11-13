@@ -9,7 +9,7 @@ import { V2Shell, V2Hero } from '@/app/v2-shell'
 export const metadata: Metadata = {
   title: { absolute: 'Bible Activities for Every Holiday' },
   description:
-    'Free Bible resources for kids by season: Christmas and Advent, Easter and Holy Week, Thanksgiving, back to school, and Halloween alternatives. No sign-up.',
+    'Free Bible resources for kids by season: Christmas and Advent, Easter and Holy Week, Thanksgiving, back to school, and Halloween alternatives.',
   alternates: { canonical: 'https://faithfulkids.app/holidays' },
   openGraph: {
     title: 'Bible Activities for Every Holiday',

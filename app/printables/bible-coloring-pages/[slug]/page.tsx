@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { SiteNav, SiteFooter } from '../../../components/SiteChrome'
 import PrintButton from '../../PrintButton'
+import PdfDownloadLink from '../../PdfDownloadLink'
 import { COLORING_PAGES, getColoringPage, CDN } from '@/lib/coloring-pages'
 import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
 import { PrintableCta } from '../../PrintableCta'
@@ -31,7 +32,7 @@ export async function generateMetadata(
   const page = getColoringPage(slug)
   if (!page) return {}
   const title = `${page.title} Coloring Page, Free Printable`
-  const desc = `A free printable ${page.title} coloring page for kids (${page.scripture}). Bold simple outlines, ${page.ages.toLowerCase()}. Print it straight from the page, no sign-up.`
+  const desc = `A free printable ${page.title} coloring page for kids (${page.scripture}). Bold simple outlines, ${page.ages.toLowerCase()}. Print it straight from the page.`
   const url = `https://faithfulkids.app/printables/bible-coloring-pages/${page.slug}`
   return {
     // absolute: the root layout appends " | Faithful Kids", 16 of the ~60
@@ -119,9 +120,9 @@ export default async function ColoringPageDetail(
 
       <div className="cpd-actions no-print">
         <PrintButton />
-        <a className="cpd-download" href={`${CDN}/${page.slug}.png`} download>
+        <PdfDownloadLink className="cpd-download" href={`${CDN}/${page.slug}.png`} printable={`bible-coloring-pages/${page.slug}`}>
           Download PNG
-        </a>
+        </PdfDownloadLink>
       </div>
 
       <section className="cpd-body no-print">
@@ -172,9 +173,9 @@ export default async function ColoringPageDetail(
           bottom margin so anyone who asks where it came from can find it.
         </p>
         <p>
-          <strong>Do I have to give an email address?</strong> No. Every page on this site prints
-          without a sign-up. The only thing behind an email is the combined PDF of all 26 pages,
-          which exists because printing one file is easier than printing twenty-six.
+          <strong>Do I have to give an email address?</strong> Yes, once. Enter it the first time you
+          download or print, and every printable on the site opens from then on in this browser.
+          It also gets you the combined PDF of all 26 pages in one file.
         </p>
         <p>
           <strong>What paper size does it print on?</strong> It is sized for US Letter and prints

@@ -8,7 +8,7 @@ const EMERALD = '#16a34a'
 export const metadata = {
   title: 'Printable Advent Bible Calendar: 25 Daily Readings',
   description:
-    'A free printable Advent Bible reading calendar: 25 short daily readings from the first promise to the manger, with one-line summaries. No sign-up, free PDF.',
+    'A free printable Advent Bible reading calendar: 25 short daily readings from the first promise to the manger, with one-line summaries. Free PDF.',
   alternates: { canonical: 'https://faithfulkids.app/printables/advent-bible-calendar' },
   openGraph: {
     title: 'Printable Advent Bible Calendar: 25 Daily Readings',
@@ -35,7 +35,7 @@ const faqs = [
   },
   {
     q: 'Can I print copies for my church or class?',
-    a: 'Yes, the plan and the PDF are free with no sign-up, and you are welcome to photocopy them for your family, Sunday school class, or church. The printed page carries our web address so families can find it again at home.',
+    a: 'Yes, the plan and the PDF are free, and you are welcome to photocopy them for your family, Sunday school class, or church. The printed page carries our web address so families can find it again at home.',
   },
 ]
 

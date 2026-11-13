@@ -107,7 +107,7 @@ Faithful Kids has **300+ Bible story videos** covering the entire Bible from Gen
 
 [**Start your free trial**](https://faithfulkids.app/quiz?ref=blog)
 
-We drew a printable [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) to go with this one. It is free, with no sign-up.
+We drew a printable [Good Samaritan coloring page](/printables/bible-coloring-pages/the-good-samaritan) to go with this one. It is free, with
 
 ## Frequently Asked Questions
 

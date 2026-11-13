@@ -112,7 +112,7 @@ The Bible, when taught with these principles, becomes one of the most ADHD-frien
 
 **Celebrate engagement, not perfection.** If your child listened for three minutes and remembers one thing, that is a win. Do not measure their spiritual growth by neurotypical standards.
 
-There is a free [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) on our site too, printable on one sheet with no sign-up.
+There is a free [Last Supper coloring page](/printables/bible-coloring-pages/the-last-supper) on our site too, printable on one sheet with
 
 ## Why Two-to-Three-Minute Lessons Fit the ADHD Attention Window
 

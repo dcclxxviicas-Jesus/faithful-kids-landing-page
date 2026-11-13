@@ -70,11 +70,11 @@ The book has two halves: chapters 1-9 are family trees (the longest genealogy in
 
 24. How long did David reign as king, and over which two cities? **Forty years total, seven in Hebron and thirty-three in Jerusalem** (1 Chronicles 29:26-27)
 
-We built a [Noah's Ark word search](/printables/bible-word-search/noahs-ark) around this story, free, no sign-up, on screen or on paper.
+We built a [Noah's Ark word search](/printables/bible-word-search/noahs-ark) around this story, free, on screen or on paper.
 
 Want the game-show version? The free [Bible Jeopardy game](/bible-jeopardy) deals 30 questions from $100 to $500 across 6 categories, no sign-up, no prep.
 
-Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles, no sign-up.
+Pair this with our free [printable books of the Bible chart](/printables/books-of-the-bible): one page for the wall, two cut-out bookmarks for their Bibles.
 
 ## Hard 1 Chronicles Trivia Questions (Teens and Adults)
 

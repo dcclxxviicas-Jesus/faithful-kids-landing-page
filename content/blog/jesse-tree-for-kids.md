@@ -75,7 +75,7 @@ Pick one method based on your time and your kids' ages. Homemade ornaments teach
 
 A hybrid works too: buy or print a finished set this year and let kids make replacement ornaments year by year. By the third Christmas, the tree is entirely theirs.
 
-There is a free [Jesse Tree set](/printables/jesse-tree) on our site too: 25 printable ornaments plus the daily readings, no sign-up.
+There is a free [Jesse Tree set](/printables/jesse-tree) on our site too: 25 printable ornaments plus the daily readings.
 
 If you need a handout too, the free printable [Christmas word search](/printables/bible-word-search/christmas) covers the Luke 2 story; Mary, the shepherds, Bethlehem and the manger; with an answer key.
 

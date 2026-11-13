@@ -16,12 +16,12 @@ const PAGES = COLORING_PAGES.filter(p => p.season === 'easter')
 
 export const metadata: Metadata = {
   title: 'Religious Easter Coloring Pages: Free',
-  description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
+  description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines.',
   keywords: ['religious easter coloring pages', 'christian easter coloring pages', 'easter coloring pages religious', 'palm sunday coloring page', 'resurrection coloring page', 'cross coloring page', 'holy week coloring pages'],
   alternates: { canonical: 'https://faithfulkids.app/printables/easter-coloring-pages' },
   openGraph: {
     title: 'Religious Easter Coloring Pages: Free',
-    description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
+    description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines.',
     url: 'https://faithfulkids.app/printables/easter-coloring-pages',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -34,7 +34,7 @@ export default function Page() {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
     name: 'Religious Easter Coloring Pages, Free',
-    description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines, no sign-up.',
+    description: 'Free printable religious Easter coloring pages for kids: Palm Sunday, the Last Supper, the cross, and resurrection morning. Bold outlines.',
     url: 'https://faithfulkids.app/printables/easter-coloring-pages',
     isFamilyFriendly: true,
     inLanguage: 'en',
@@ -57,9 +57,9 @@ export default function Page() {
       <div className="no-print"><SiteNav active="printables" /></div>
 
       <section className="blog-hero no-print">
-        <span className="section-label">Free · No Sign-Up</span>
+        <span className="section-label">Free Printables</span>
         <h1>Religious Easter Coloring Pages</h1>
-        <p className="blog-hero-sub">Six pages walking Holy Week from Palm Sunday to the road to Emmaus. Free to print, no email, no sign-up.</p>
+        <p className="blog-hero-sub">Six pages walking Holy Week from Palm Sunday to the road to Emmaus. Free to print.</p>
         <div style={{ marginTop: 18 }}><PrintButton /></div>
       </section>
 

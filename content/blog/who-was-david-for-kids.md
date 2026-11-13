@@ -60,7 +60,7 @@ Jonathan later died in battle alongside his father. David mourned deeply and sai
 
 **Key lesson for kids:** True friendship means being loyal even when it's hard. Jonathan gave up his chance to be king because he knew God had chosen David. Real friends put others before themselves. (Read more in [David and Jonathan for kids](/blog/david-and-jonathan-for-kids).)
 
-We built a [David and Goliath word search](/printables/bible-word-search/david-and-goliath) around this story, free, no sign-up, on screen or on paper.
+We built a [David and Goliath word search](/printables/bible-word-search/david-and-goliath) around this story, free, on screen or on paper.
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 

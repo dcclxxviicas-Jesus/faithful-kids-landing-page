@@ -118,7 +118,7 @@ For a quiet bedside activity, our free [Good Shepherd coloring page](/printables
 
 For seasonal encouragement, our [Thanksgiving](/holidays/thanksgiving) and [Christmas](/holidays/christmas) hubs gather every comfort-filled verse list and gentle activity for the holidays.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out: four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out: four to a sheet.
 
 ## How to Pray for Your Sick Child
 

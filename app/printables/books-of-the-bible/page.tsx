@@ -15,11 +15,11 @@ const GREEN_DARK = '#15803d'
    SERP is Pinterest, Etsy and worksheet blogs. Exact phrase leads the title. */
 export const metadata = {
   title: { absolute: 'Books of the Bible: Free Printable Chart & Bookmarks' },
-  description: `All ${ALL_BOOKS.length} books of the Bible on one free printable chart, in order, in their groups, with chapter counts, plus cut-out bookmarks. No sign-up.`,
+  description: `All ${ALL_BOOKS.length} books of the Bible on one free printable chart, in order, in their groups, with chapter counts, plus cut-out bookmarks.`,
   alternates: { canonical: 'https://faithfulkids.app/printables/books-of-the-bible' },
   openGraph: {
     title: 'Books of the Bible: Free Printable Chart & Bookmarks',
-    description: `All ${ALL_BOOKS.length} books in order with chapter counts, plus printable bookmarks. Free, no sign-up.`,
+    description: `All ${ALL_BOOKS.length} books in order with chapter counts, plus printable bookmarks. Free.`,
     url: 'https://faithfulkids.app/printables/books-of-the-bible',
     siteName: 'Faithful Kids',
     type: 'article',
@@ -42,7 +42,7 @@ const faqs = [
   },
   {
     q: 'Can I print copies for my class or church?',
-    a: 'Yes. The chart and bookmarks are free with no sign-up, and you are welcome to photocopy them for your family, Sunday school class, homeschool co-op, or church. The printed page carries our web address so families can find it again at home.',
+    a: 'Yes. The chart and bookmarks are free, and you are welcome to photocopy them for your family, Sunday school class, homeschool co-op, or church. The printed page carries our web address so families can find it again at home.',
   },
   {
     q: 'What is the best way for kids to memorize the books of the Bible?',
@@ -124,7 +124,7 @@ export default function BooksOfTheBiblePage() {
             All <strong>{ALL_BOOKS.length} books of the Bible in order</strong>: {OT_BOOKS.length} Old
             Testament, {NT_BOOKS.length} New Testament, grouped the way the Bible groups them, with
             chapter counts for every book. Print the chart for the wall and the bookmarks for their
-            Bibles. Free, no sign-up.
+            Bibles. Free.
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
             <PdfDownloadLink

@@ -37,7 +37,7 @@ const FAQS = [
   },
   {
     q: 'Which faith-based kids apps offer a free trial?',
-    a: 'Faithful Kids offers a free trial on its annual plan, 7 days when you subscribe on the web, 3 days through the iOS or Android app, with no charge if you cancel during it. Beyond the app, the site offers a large free library with no sign-up at all: 200 Bible story retellings, printable coloring pages and word searches, and a 100-question Bible trivia game.',
+    a: 'Faithful Kids offers a free trial on its annual plan, 7 days when you subscribe on the web, 3 days through the iOS or Android app, with no charge if you cancel during it. Beyond the app, the site offers a large free library: 200 Bible story retellings, printable coloring pages and word searches, and a 100-question Bible trivia game.',
   },
   {
     q: 'Is Faithful Kids safe for kids?',
@@ -185,7 +185,7 @@ function AboutV2() {
               <p>
                 {stories.length} Bible story retellings, {COLORING_PAGES.length} printable coloring
                 pages, {wordSearches.length} word search puzzles, and a 100-question{' '}
-                <a href="/bible-trivia">trivia game</a> (all free on this site, no email wall.)
+                <a href="/bible-trivia">trivia game</a> (all free on this site.)
               </p>
             </div>
           </div>

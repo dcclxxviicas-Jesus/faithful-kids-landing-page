@@ -86,13 +86,13 @@ Yes, and they usually land better than a white elephant swap, because they turn 
 
 Everything we have for the season: Advent devotions, the nativity story, trivia, printables, is gathered on the [Christmas Bible hub](/holidays/christmas).
 
-Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser, no sign-up.
+Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser.
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring: put it on a TV and host it like the real thing.
 
 If the books' order is still fuzzy, print our free [books of the Bible chart and bookmarks](/printables/books-of-the-bible): grouped the way the Bible groups them, which is the actual memory trick.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out: four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out: four to a sheet.
 
 ## How Do You Run a Christmas Class That Isn't Chaos?
 

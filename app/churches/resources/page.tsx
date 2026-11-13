@@ -29,7 +29,7 @@ import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 export const metadata: Metadata = {
   title: { absolute: "Children's Ministry Resources: Free Library" },
   description:
-    "A free resource library for children's ministry leaders and Sunday school teachers, lesson guides, games, printables, Bible maps and trivia. No sign-up.",
+    "A free resource library for children's ministry leaders and Sunday school teachers, lesson guides, games, printables, Bible maps and trivia.",
   alternates: { canonical: 'https://faithfulkids.app/churches/resources' },
   openGraph: {
     title: "Children's Ministry Resources: Free Library",
@@ -85,7 +85,7 @@ const SECTIONS: Section[] = [
   {
     emoji: '🖨️',
     title: 'Print & Hand Out',
-    sub: 'Free printables that photocopy well, no email wall, no license to buy.',
+    sub: 'Free printables that photocopy well, with no license to buy.',
     cards: [
       { href: '/printables', title: 'The Whole Printables Library', blurb: 'Coloring pages, word searches, crosswords, trivia packs and more.' },
       { href: '/printables/bible-maps', title: 'Bible Maps (6 printable maps)', blurb: 'Real-geography maps: the Exodus, Paul’s journeys, the 12 tribes.' },
@@ -141,7 +141,7 @@ function ResourcesV2() {
           title={<>Children&rsquo;s Ministry <span className="hv-love"><span className="l l1">R</span><span className="l l2">e</span><span className="l l3">s</span><span className="l l4">o</span><span className="l l1">u</span><span className="l l2">r</span><span className="l l3">c</span><span className="l l4">e</span><span className="l l1">s</span></span></>}
           sub={<>Everything here is free and photocopy-friendly, lesson guides, games,
             printables, maps and trivia, organized by the job you&rsquo;re actually doing this
-            week. No sign-up, no license, no email wall.</>}
+            week. No license to buy, ever.</>}
         />
 
         {SECTIONS.map((section, i) => (

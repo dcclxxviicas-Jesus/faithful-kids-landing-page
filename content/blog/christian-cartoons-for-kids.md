@@ -79,7 +79,7 @@ Match the show to your kid's age and you'll get a lot less pushback. Here's the 
 | 9-12 | Friends and Heroes, What's in the Bible?, Adventures in Odyssey, The Greatest Adventure | Deeper stories, big-picture teaching |
 | 9-15 | Faithful Kids (narrated, not animated) | Whole Bible in order, a quiz after every story, for kids past cartoons |
 
-There is a free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) on our site too, printable on one sheet with no sign-up.
+There is a free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) on our site too, printable on one sheet with
 
 ## Do Cartoons Actually Teach Kids the Bible?
 

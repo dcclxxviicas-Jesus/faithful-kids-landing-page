@@ -47,7 +47,7 @@ import { GiftHero, GiftHeroShell } from './GiftHero'
 export const metadata: Metadata = {
   title: 'A Gift for Your Family',
   description:
-    'Free Bible stories for your kids, 200 retellings from Genesis to Revelation, plus printable games and coloring pages. No signup needed.',
+    'Free Bible stories for your kids, 200 retellings from Genesis to Revelation, plus printable games and coloring pages.',
   robots: { index: false, follow: true },
   alternates: { canonical: 'https://faithfulkids.app/gift' },
 }
@@ -102,7 +102,7 @@ const PRINT_PACKS = [
     title: 'Printable trivia pack',
     description:
       'Question cards to cut out for a class, a car journey or a Sunday school table.',
-    details: 'Print at home · no account',
+    details: 'Print at home',
   },
 ]
 

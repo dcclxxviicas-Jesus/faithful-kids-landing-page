@@ -16,12 +16,12 @@ const PAGES = COLORING_PAGES.filter(p => p.season === 'christmas')
 
 export const metadata: Metadata = {
   title: 'Christian Christmas Coloring Pages: Free',
-  description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
+  description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men.',
   keywords: ['nativity coloring pages', 'christian christmas coloring pages', 'christmas coloring pages religious', 'nativity scene coloring pages', 'advent coloring pages', 'wise men coloring page', 'shepherds coloring page'],
   alternates: { canonical: 'https://faithfulkids.app/printables/christmas-coloring-pages' },
   openGraph: {
     title: 'Christian Christmas Coloring Pages: Free',
-    description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
+    description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men.',
     url: 'https://faithfulkids.app/printables/christmas-coloring-pages',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -34,7 +34,7 @@ export default function Page() {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
     name: 'Christian Christmas Coloring Pages, Free',
-    description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men. No sign-up.',
+    description: 'Free printable nativity and Christian Christmas coloring pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men.',
     url: 'https://faithfulkids.app/printables/christmas-coloring-pages',
     isFamilyFriendly: true,
     inLanguage: 'en',
@@ -57,9 +57,9 @@ export default function Page() {
       <div className="no-print"><SiteNav active="printables" /></div>
 
       <section className="blog-hero no-print">
-        <span className="section-label">Free · No Sign-Up</span>
+        <span className="section-label">Free Printables</span>
         <h1>Christian Christmas Coloring Pages</h1>
-        <p className="blog-hero-sub">Six nativity pages, from the angel visiting Mary to the wise men arriving. Free to print, no email, no sign-up.</p>
+        <p className="blog-hero-sub">Six nativity pages, from the angel visiting Mary to the wise men arriving. Free to print.</p>
         <div style={{ marginTop: 18 }}><PrintButton /></div>
       </section>
 

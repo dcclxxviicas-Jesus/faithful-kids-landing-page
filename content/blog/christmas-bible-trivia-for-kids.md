@@ -131,7 +131,7 @@ Answer: **"God with us"** (Matthew 1:23)
 **32. Why was the baby to be named Jesus?**
 Answer: **Because he would save his people from their sins** (Matthew 1:21)
 
-Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season, no email wall, no sign-up.
+Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season.
 
 Pair it with our free [Advent Bible reading calendar](/printables/advent-bible-calendar), 25 short readings from the first promise to the manger, one a night.
 
@@ -198,7 +198,7 @@ When Christmas is over, keep the habit going with our year-round list of [100 Bi
 
 For a version that scores itself, try the [Bible trivia game](/bible-trivia) on our site and let the kids chase the streak counter.
 
-We built a [Christmas word search](/printables/bible-word-search/christmas) around this story. Free, no sign-up, and it works on screen or on paper.
+We built a [Christmas word search](/printables/bible-word-search/christmas) around this story. Free, and it works on screen or on paper.
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 

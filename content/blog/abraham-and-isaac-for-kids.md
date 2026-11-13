@@ -45,7 +45,7 @@ The story of Abraham and Isaac teaches children important lessons about creation
 
 > *"I will make you into a great nation, and I will bless you."* (Genesis 12:2)
 
-There is a free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) on our site too, printable on one sheet with no sign-up.
+There is a free [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) on our site too, printable on one sheet with
 
 For the quiet patriarch's full story, the laughter, the mountain, the wells, see [Who Was Isaac in the Bible?](/blog/who-was-isaac-for-kids)
 

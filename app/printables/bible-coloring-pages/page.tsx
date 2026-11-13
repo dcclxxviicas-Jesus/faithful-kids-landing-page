@@ -25,7 +25,7 @@ const PAGES = COLORING_PAGES
 export const metadata: Metadata = {
   title: 'Free Bible Coloring Pages: 26 Printables',
   description:
-    '26 free printable Bible coloring pages, from Creation to the Empty Tomb. Bold simple outlines for young children. No sign-up, no email, just print.',
+    '26 free printable Bible coloring pages, from Creation to the Empty Tomb. Bold simple outlines for young children. Just print.',
   keywords: [
     'bible coloring pages', 'free bible coloring pages', 'bible coloring pages for kids',
     'printable bible coloring pages', 'bible verse coloring pages',
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Free Bible Coloring Pages: 26 Printables',
     description:
-      '26 free printable Bible coloring pages, Creation to the Empty Tomb. No sign-up, just print.',
+      '26 free printable Bible coloring pages, Creation to the Empty Tomb. Just print.',
     url: 'https://faithfulkids.app/printables/bible-coloring-pages',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -73,7 +73,7 @@ export default function BibleColoringPages() {
       <div className="no-print"><SiteNav active="printables" /></div>
 
       <section className="blog-hero no-print">
-        <span className="section-label">Free · No Sign-Up</span>
+        <span className="section-label">Free Printables</span>
         <h1>Bible Coloring Pages</h1>
         <p className="blog-hero-sub">
           {PAGES.length} printable pages, Creation to the Empty Tomb. Bold simple outlines made for
@@ -86,8 +86,8 @@ export default function BibleColoringPages() {
       <section className="cp-intro no-print">
         <p>
           Every page here is drawn as a single clear scene rather than a busy illustration, because
-          a four-year-old with a fat crayon needs room to work. There is no email wall and nothing to
-          sign up for, right-click any page to save it, or use the print button above for the set.
+          a four-year-old with a fat crayon needs room to work. Right-click any page to save it, or
+          use the print button above for the set.
         </p>
         <p>
           If you are using these in Sunday school, the scripture reference under each page is there

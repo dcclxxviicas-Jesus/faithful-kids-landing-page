@@ -10,7 +10,7 @@ import printableVideos from '@/lib/printable-videos.json'
 export const metadata: Metadata = {
   title: 'Free Printable Bible Activities for Kids',
   description:
-    'Free printable Bible resources for families: 100 Bible trivia questions, a 30-day family Bible challenge, and a bedtime Bible kit. No sign-up required.',
+    'Free printable Bible resources for families: 100 Bible trivia questions, a 30-day family Bible challenge, and a bedtime Bible kit. Free to print and share.',
   alternates: { canonical: 'https://faithfulkids.app/printables' },
 }
 
@@ -25,7 +25,7 @@ const PACKS = [
     title: 'Jesse Tree: 25 Ornaments & Readings',
     description:
       'The whole Bible story from Creation to the manger, one ornament a day through Advent. Twenty-five printable ornaments drawn for coloring, each with its daily Scripture reading and a one-line summary to start the conversation.',
-    details: 'December 1-25 \u00b7 Free PDF \u00b7 No email, no sign-up',
+    details: 'December 1-25 \u00b7 Free PDF',
   },
   {
     href: '/printables/advent-bible-calendar',
@@ -41,7 +41,7 @@ const PACKS = [
     title: 'Christmas & Nativity Coloring Pages',
     description:
       'Six nativity pages following the Christmas story in order, the angel and Mary, the journey to Bethlehem, the stable, the shepherds on the hillside, and the wise men who arrived much later than the cards suggest.',
-    details: 'One a week through Advent · No email, no sign-up',
+    details: 'One a week through Advent',
   },
   {
     href: '/printables/easter-coloring-pages',
@@ -49,7 +49,7 @@ const PACKS = [
     title: 'Easter & Holy Week Coloring Pages',
     description:
       'Six pages walking Holy Week from Palm Sunday to the road to Emmaus. The cross page shows the empty cross rather than the crucifixion, so it works with younger children too.',
-    details: 'One a day, Sunday to Sunday · No email, no sign-up',
+    details: 'One a day, Sunday to Sunday',
   },
   {
     href: '/printables/bible-word-search',
@@ -57,7 +57,7 @@ const PACKS = [
     title: 'Bible Word Search: 12 Puzzles',
     description:
       'Twelve printable Bible word searches, the whole-Bible classic plus story and season puzzles: Noah, Christmas, Thanksgiving, Easter, David and Goliath, the armor of God. Answer keys on the page.',
-    details: 'Ages 6+ · Answer keys included · No email, no sign-up',
+    details: 'Ages 6+ · Answer keys included',
   },
   {
     href: '/printables/bible-crossword',
@@ -65,7 +65,7 @@ const PACKS = [
     title: 'Bible Crossword Puzzles: 7 Puzzles',
     description:
       'Seven interlocking crosswords with clues drawn from the stories themselves, the whole-Bible puzzle plus Christmas, Noah, Moses, David and Goliath, Easter, and the miracles of Jesus. Playable in the browser, printable with answer keys.',
-    details: 'Ages 6+ · Answer keys included · No email, no sign-up',
+    details: 'Ages 6+ · Answer keys included',
   },
   {
     href: '/printables/bible-coloring-pages',
@@ -73,7 +73,7 @@ const PACKS = [
     title: 'Bible Coloring Pages: 26 Printables',
     description:
       '26 Bible scenes drawn as clean line art for young children, Creation through the Empty Tomb, including full Christmas and Easter sets. Bold simple outlines with room for thick crayons, each with its Scripture reference.',
-    details: 'Print the whole set or one page · No email, no sign-up',
+    details: 'Print the whole set or one page',
   },
   {
     href: '/printables/bible-maps',
@@ -81,7 +81,7 @@ const PACKS = [
     title: 'Bible Maps: 6 Printable Maps',
     description:
       'Six maps with real geography, the Promised Land, the Exodus route, the 12 tribes, ancient Israel, Israel in Jesus’ time, and Paul’s journeys. Over 100 labeled places, every one at its true coordinates.',
-    details: 'Real coastlines · Free PDFs · No email, no sign-up',
+    details: 'Real coastlines · Free PDFs',
   },
   {
     href: '/printables/bible-timeline',
@@ -89,7 +89,7 @@ const PACKS = [
     title: 'Bible Timeline: Wall Chart',
     description:
       'The whole story in order on one sheet, thirteen eras from Creation to the early church, with dates where history gives them, key events, and the books of the Bible each era lives in.',
-    details: 'One-page chart · Free PDF · No email, no sign-up',
+    details: 'One-page chart · Free PDF',
   },
   {
     href: '/printables/valentine-bible-verse-cards',
@@ -97,7 +97,7 @@ const PACKS = [
     title: 'Valentine Bible Verse Cards: 12 to Color',
     description:
       'Twelve printable Valentine cards, each with a short Bible verse about love and a line-art picture kids color themselves before handing them out, school exchange, Sunday school, or the fridge door.',
-    details: '4 per sheet · To/From lines · Color-your-own · No sign-up',
+    details: '4 per sheet · To/From lines · Color-your-own',
   },
   {
     href: '/printables/books-of-the-bible',
@@ -105,7 +105,7 @@ const PACKS = [
     title: 'Books of the Bible: Chart & Bookmarks',
     description:
       'All 66 books in order on one chart, grouped the way the Bible groups them with chapter counts for every book, plus cut-out bookmarks for their Bibles. The groups are the memory trick.',
-    details: 'One-page chart · 2 bookmarks · Free PDF · No sign-up',
+    details: 'One-page chart · 2 bookmarks · Free PDF',
   },
   {
     href: '/printables/bible-trivia-pack',
@@ -154,7 +154,7 @@ function PrintablesV2() {
         eyebrow="Free Downloads"
         title={<>Free Printable <span className="hv-love"><span className="l l1">B</span><span className="l l2">i</span><span className="l l3">b</span><span className="l l4">l</span><span className="l l1">e</span></span> Activities</>}
         sub={<>Print-ready Bible resources for families, homeschoolers, and Sunday school teachers.
-          Completely free, no sign-up, no email required. Print as many copies as you like
+          Completely free. Print as many copies as you like
           for your family, class, or church group.</>}
       />
 

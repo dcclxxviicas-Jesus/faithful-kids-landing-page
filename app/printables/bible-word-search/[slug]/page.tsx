@@ -37,7 +37,7 @@ export async function generateMetadata(
   const title = `${base} Word Search, Free Printable`
   // base, not p.title: with p.title the holiday puzzles rendered doubled
   // nonsense ("A free printable Thanksgiving Word Search Bible word search").
-  const desc = `A free printable ${base} Bible word search for kids (${p.scripture}). ${p.words.length} words, ${p.size}×${p.size} grid, answer key included. No sign-up.`
+  const desc = `A free printable ${base} Bible word search for kids (${p.scripture}). ${p.words.length} words, ${p.size}×${p.size} grid, answer key included.`
   const url = `https://faithfulkids.app/printables/bible-word-search/${p.slug}`
   return {
     // absolute: the root layout appends " | Faithful Kids", 16 of the ~60

@@ -47,7 +47,7 @@ The story of Chariots of Fire teaches children important lessons about faith, mi
 
 > *"The Lord, He is God!"* (1 Kings 18:39)
 
-There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) on our site too, printable on one sheet with no sign-up.
+There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) on our site too, printable on one sheet with
 
 ## Parent's Guide: Why This Story Matters
 

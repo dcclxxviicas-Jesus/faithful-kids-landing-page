@@ -107,7 +107,7 @@ The offline resources matter more than the digital ones, because they put other 
 - **Rain for Roots**, gentler, folk-styled Scripture songs; excellent for bedtime and quiet time.
 - **ChildDiscipleship.com (Awana)**, Awana's free at-home resources, including a weekly family email, for families whose church doesn't run a club.
 
-Printables belong in this category too, because a page on the fridge outlasts an app. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short readings, one question to talk about, and a goodnight prayer, no sign-up, no account, just print it and start tonight.
+Printables belong in this category too, because a page on the fridge outlasts an app. Our free [Bedtime Bible Kit](/printables/bedtime-bible-kit) gives you seven nights of short readings, one question to talk about, and a goodnight prayer, no account, just print it and start tonight.
 
 ## How Do You Choose Without Buying Everything?
 

@@ -136,7 +136,7 @@ The final fifteen. Anyone who sweeps this round has earned bragging rights until
 
 ## Print This List Free
 
-Want all 100 questions on paper instead of a screen? Our free [Bible Trivia Pack](/printables/bible-trivia-pack) is a printable set of question cards and score sheets; cut them out, split into teams, and you have a full game night with zero prep. It prints from any home printer, no signup hoops, and pairs perfectly with the tiers above: hand the easy cards to the youngest reader and let them play quizmaster.
+Want all 100 questions on paper instead of a screen? Our free [Bible Trivia Pack](/printables/bible-trivia-pack) is a printable set of question cards and score sheets; cut them out, split into teams, and you have a full game night with zero prep. It prints from any home printer hoops, and pairs perfectly with the tiers above: hand the easy cards to the youngest reader and let them play quizmaster.
 
 ## How to Use These 100 Questions
 

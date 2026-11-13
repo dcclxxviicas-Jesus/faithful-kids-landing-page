@@ -52,7 +52,7 @@ Cost: $1-4 each. Age fit: noted per item. Keep these small and keep them few; 2 
 
 We drew a printable [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) to go with this story, free, and the printed sheet includes the answer to where it came from.
 
-There is a free [Jesse Tree set](/printables/jesse-tree) on our site too: 25 printable ornaments plus the daily readings, no sign-up.
+There is a free [Jesse Tree set](/printables/jesse-tree) on our site too: 25 printable ornaments plus the daily readings.
 
 Everything we have for the season, Advent devotions, the nativity story, trivia, printables, is gathered on the [Christmas Bible hub](/holidays/christmas).
 

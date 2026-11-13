@@ -12,7 +12,7 @@
  * screen — this is a print artefact, not page furniture.
  */
 import { BlogStickyCta } from '../blog/BlogStickyCta'
-import { PostActionCapture } from './PostActionCapture'
+import { PrintableGate } from './PrintableGate'
 
 export default function PrintablesLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -23,8 +23,8 @@ export default function PrintablesLayout({ children }: { children: React.ReactNo
           and a sales panel above it raises bounce. The sticky bar keeps a path
           to /quiz visible the whole way down without taking the page hostage. */}
       <BlogStickyCta postSlug="printables" />
-      {/* Email ask after a Download or Print click; never gates either. */}
-      <PostActionCapture />
+      {/* Email required before Download or Print (owner decision Nov 13, 2026). */}
+      <PrintableGate />
       <div className="print-mark" aria-hidden="true">
         <strong>FaithfulKids.app</strong>
         <span>Free Bible printables · 300+ story videos with quizzes</span>

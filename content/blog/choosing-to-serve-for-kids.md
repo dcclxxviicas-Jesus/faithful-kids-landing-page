@@ -45,7 +45,7 @@ The story of Choosing to Serve teaches children important lessons about courage,
 
 > *"Trust in the Lord with all your heart."* (Proverbs 3:5)
 
-There is a free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) on our site too, printable on one sheet with no sign-up.
+There is a free [wise men coloring page](/printables/bible-coloring-pages/wise-men-star) on our site too, printable on one sheet with
 
 ## Parent's Guide: Why This Story Matters
 

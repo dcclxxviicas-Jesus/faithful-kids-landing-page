@@ -47,7 +47,7 @@ The story of The Last Supper teaches children important lessons about sacrifice,
 
 > *"Do this in remembrance of me."* (Luke 22:19)
 
-Our free [Easter coloring pages](/printables/easter-coloring-pages) are ready to print for the season, no email wall, no sign-up.
+Our free [Easter coloring pages](/printables/easter-coloring-pages) are ready to print for the season.
 
 ## Parent's Guide: Why This Story Matters
 

@@ -235,7 +235,7 @@ function ArticlePage({ article: a }: { article: Article }) {
               <ul>
                 {resources.map(r => <li key={r.href}><a href={r.href}>{r.label}</a></li>)}
               </ul>
-              <p>Faithful Kids publishes this section. Our free Bible stories and printables need no account.</p>
+              <p>Faithful Kids publishes this section. Our Bible stories and printables are free for every family.</p>
             </section>
           )}
         </article>

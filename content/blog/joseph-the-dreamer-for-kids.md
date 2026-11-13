@@ -45,7 +45,7 @@ The story of Joseph the Dreamer teaches children important lessons about creatio
 
 > *"You intended to harm me, but God intended it for good."* (Genesis 50:20)
 
-There is a free [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) on our site too, printable on one sheet with no sign-up.
+There is a free [journey to Bethlehem coloring page](/printables/bible-coloring-pages/journey-to-bethlehem) on our site too, printable on one sheet with
 
 ## Parent's Guide: Why This Story Matters
 

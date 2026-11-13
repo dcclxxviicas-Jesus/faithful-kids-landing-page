@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Bible Word Search: 10 Free Printables',
     description:
-      'Twelve free Bible word search puzzles for kids, play online or print, with answer keys. No sign-up.',
+      'Twelve free Bible word search puzzles for kids, play online or print, with answer keys.',
     url: 'https://faithfulkids.app/printables/bible-word-search',
     siteName: 'Faithful Kids',
     type: 'website',
@@ -70,7 +70,7 @@ export default function WordSearchHub() {
       <SiteNav active="printables" />
 
       <section className="blog-hero">
-        <span className="section-label">Free · No Sign-Up</span>
+        <span className="section-label">Free Printables</span>
         <h1>Bible Word Search Puzzles</h1>
         <p className="blog-hero-sub">
           Twelve puzzles, one covering the whole Bible, playable right here, and eleven more built from a

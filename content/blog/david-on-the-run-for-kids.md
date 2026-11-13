@@ -47,7 +47,7 @@ The story of David on the Run teaches children important lessons about courage, 
 
 > *"The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart."* (1 Samuel 16:7)
 
-There is a free [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath) on our site too, printable on one sheet with no sign-up.
+There is a free [David and Goliath coloring page](/printables/bible-coloring-pages/david-and-goliath) on our site too, printable on one sheet with
 
 There is also a free [ancient Israel map to print](/printables/bible-maps/ancient-israel): Dan to Beersheba with 23 labeled places, so kids can find where this happened.
 

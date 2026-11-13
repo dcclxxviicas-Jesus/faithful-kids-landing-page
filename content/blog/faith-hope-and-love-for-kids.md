@@ -47,7 +47,7 @@ The story of Faith Hope and Love teaches children important lessons about love, 
 
 > *"And now these three remain: faith, hope and love. But the greatest of these is love."* (1 Corinthians 13:13)
 
-There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) on our site too, printable on one sheet with no sign-up.
+There is a free [fiery furnace coloring page](/printables/bible-coloring-pages/the-fiery-furnace) on our site too, printable on one sheet with
 
 There is also a set of free [Valentine Bible verse cards for kids](/printables/valentine-bible-verse-cards): twelve short love verses as line-art cards children color before giving away.
 

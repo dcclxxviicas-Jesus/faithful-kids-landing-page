@@ -1,6 +1,6 @@
 'use client';
 
-import { requestPostActionCapture } from './PostActionCapture';
+import { gatePrintable } from './PrintableGate';
 
 export default function PrintButton() {
   return (
@@ -8,12 +8,10 @@ export default function PrintButton() {
       type="button"
       className="no-print"
       onClick={() => {
-        // Request first so the afterprint listener exists before the dialog opens.
-        requestPostActionCapture({
-          kind: 'print',
-          printable: window.location.pathname.replace(/^\/printables\/?/, '') || 'printables',
-        });
-        window.print();
+        // Email-gated since Nov 13, 2026 (owner decision): opens PrintableGate
+        // until this browser has submitted an email.
+        const printable = window.location.pathname.replace(/^\/printables\/?/, '') || 'printables';
+        if (gatePrintable({ kind: 'print', printable })) window.print();
       }}
       style={{
         display: 'inline-flex',

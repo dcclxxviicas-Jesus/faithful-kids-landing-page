@@ -38,13 +38,13 @@ An easy way to explain it to kids: "Find Christmas on the calendar, then count b
 
 Because Advent is measured in Sundays, most family traditions center on Sunday evenings: lighting a candle, reading a Bible story, singing a carol. But plenty of families add something daily too, like an Advent calendar. If you want daily ideas, we've collected 15 of them in our guide to [Advent calendar ideas for kids](/blog/advent-calendar-ideas-for-kids).
 
-There is a free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) on our site too, printable on one sheet with no sign-up.
+There is a free [nativity coloring page](/printables/bible-coloring-pages/nativity-scene) on our site too, printable on one sheet with
 
 Families building an Advent rhythm love the [printable Jesse Tree ornaments](/printables/jesse-tree), hang one a day and walk the whole Bible story to the manger.
 
 For the rest of the season, our [Christmas hub](/holidays/christmas) collects every Advent and nativity resource in one place.
 
-Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser, no sign-up.
+Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser.
 
 ## What Do the Advent Wreath and Candles Mean?
 

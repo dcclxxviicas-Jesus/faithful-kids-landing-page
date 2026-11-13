@@ -104,7 +104,7 @@ God watches hoping people the way a parent watches a kid on the high dive, atten
 
 Hoping in God actually delights him. Tell your child plainly: when you keep trusting God on a bad day, God smiles; that's what this verse says.
 
-There is a free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) on our site too, printable on one sheet with no sign-up.
+There is a free [Palm Sunday coloring page](/printables/bible-coloring-pages/palm-sunday) on our site too, printable on one sheet with
 
 For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines, ready for a class exchange.
 

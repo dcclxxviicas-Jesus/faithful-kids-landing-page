@@ -110,7 +110,7 @@ A five-year-old's graduation is not really about academic accomplishment. It is 
 
 Pair this with our free [Adam and Eve coloring page](/printables/bible-coloring-pages/adam-and-eve-garden), one sheet, ready for the kitchen table or the classroom.
 
-Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet, no sign-up.
+Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet.
 
 ## Verses for a Blessing or Certificate
 

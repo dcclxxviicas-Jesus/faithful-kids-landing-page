@@ -125,7 +125,7 @@ Preschool fears are enormous and specific. These three shrink them.
 **The aha moment:** Something that small was hiding a whole plant inside.
 **Takeaway line:** *Small things grow big when God grows them.*
 
-There is a free [Creation coloring page](/printables/bible-coloring-pages/creation) on our site too, printable on one sheet with no sign-up.
+There is a free [Creation coloring page](/printables/bible-coloring-pages/creation) on our site too, printable on one sheet with
 
 ## Lessons About Sorry, Kindness, and Prayer
 

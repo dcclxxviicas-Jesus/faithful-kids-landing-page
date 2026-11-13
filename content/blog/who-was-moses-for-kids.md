@@ -48,7 +48,7 @@ Moses was scared. He gave God excuse after excuse. "Who am I to do this?" "What 
 
 **Key lesson for kids:** God doesn't call people who are perfect or confident. He calls people who are willing. Moses was afraid and full of doubts, but God equipped him for everything He asked him to do. (There's more in [The Burning Bush for kids](/blog/the-burning-bush-for-kids).)
 
-There is a free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) on our site too, printable on one sheet with no sign-up.
+There is a free [Red Sea coloring page](/printables/bible-coloring-pages/moses-red-sea) on our site too, printable on one sheet with
 
 A map makes this story concrete: the free [map of the Exodus](/printables/bible-maps/the-exodus) shows Egypt, the Red Sea, Mount Sinai and the wilderness road on one printable sheet.
 

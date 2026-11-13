@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react'
 import posthog from 'posthog-js'
-import { markCaptureSeen, markCaptureSubmitted, postActionShownThisVisit } from '@/lib/capture-state'
+import { markCaptureSubmitted } from '@/lib/capture-state'
 
 export function EmailCaptureCard({
   magnet,
@@ -13,9 +13,10 @@ export function EmailCaptureCard({
   subtitle,
   compact = false,
   placement,
+  onSuccess,
 }: {
   magnet: 'challenge' | 'trivia-pack' | 'bedtime-kit' | 'coloring-pages' | 'quiz-plan' | 'advent'
-  source: 'blog-inline' | 'blog-exit' | 'quiz-exit' | 'game-end' | 'printable-postaction'
+  source: 'blog-inline' | 'blog-exit' | 'quiz-exit' | 'game-end' | 'printable-gate'
   sourcePost: string
   quizAnswers?: Record<string, string>
   title?: string
@@ -29,36 +30,26 @@ export function EmailCaptureCard({
       Quiz surfaces fire their own shown event and pass no placement; adding
       one there would double-count. */
   placement?: string
+  /** Called once the email is accepted (the printable gate unlocks on it). */
+  onSuccess?: () => void
 }) {
   const [email, setEmail] = useState('')
   const [state, setState] = useState<'idle' | 'sending' | 'done' | 'error'>('idle')
   const cardRef = useRef<HTMLDivElement>(null)
   const shownRef = useRef(false)
 
-  /* On a printable page, the post-action ask (PostActionCapture) and the
-     inline card share one budget: if the ask already showed this visit, the
-     inline card steps aside instead of asking a second time. */
-  const [stepAside, setStepAside] = useState(false)
-  useEffect(() => {
-    if (source !== 'printable-postaction' && location.pathname.startsWith('/printables') && postActionShownThisVisit()) {
-      setStepAside(true)
-    }
-  }, [source])
-
   useEffect(() => {
     const el = cardRef.current
-    if (!el || shownRef.current) return
+    if (!placement || !el || shownRef.current) return
     const io = new IntersectionObserver(entries => {
       if (shownRef.current || !entries.some(e => e.isIntersecting)) return
       shownRef.current = true
-      // Recorded for every card so the post-action ask never doubles up.
-      if (source !== 'printable-postaction') markCaptureSeen()
-      if (placement) posthog.capture('email_capture_shown', { magnet, source, post: sourcePost, placement })
+      posthog.capture('email_capture_shown', { magnet, source, post: sourcePost, placement })
       io.disconnect()
     }, { threshold: 0.5 })
     io.observe(el)
     return () => io.disconnect()
-  }, [placement, magnet, source, sourcePost, stepAside])
+  }, [placement, magnet, source, sourcePost])
 
   const COPY = {
     'coloring-pages': {
@@ -108,6 +99,7 @@ export function EmailCaptureCard({
       if (!res.ok) throw new Error(String(res.status))
       setState('done')
       markCaptureSubmitted()
+      onSuccess?.()
       /* First join between the anonymous browsing id and a real identity —
          this is what makes a later purchase attributable to a funnel. */
       try { posthog.identify(email.trim().toLowerCase()) } catch { /* fine */ }
@@ -118,8 +110,6 @@ export function EmailCaptureCard({
   }
 
   const emerald = '#16a34a'
-
-  if (stepAside && state === 'idle') return null
 
   if (state === 'done') {
     return (

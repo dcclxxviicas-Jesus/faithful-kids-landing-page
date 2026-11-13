@@ -44,7 +44,7 @@ Both are good curricula. The question this page exists to answer is narrower: if
 
 ## Free Extras That Fit Any Curriculum
 
-Whatever curriculum you run, these free pieces slot in alongside it, no sign-up:
+Whatever curriculum you run, these free pieces slot in alongside it:
 
 - Our [embeddable Bible trivia game](/blog/bible-trivia-embed-for-church-website); one line of HTML puts a 100-question game on your church website.
 - [Printable Bible word searches](/printables/bible-word-search) and [coloring pages](/printables/bible-coloring-pages) for the quiet-activity table.

@@ -69,9 +69,9 @@ An angel brings the news to Mary, and then to Joseph. If your kids want the full
 **13. Matthew 1:23**: "They will call him Immanuel (which means 'God with us')."
 *For kids: Christmas in three words: God with us. Not far away, right here.*
 
-Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season, no email wall, no sign-up.
+Our free [Christmas coloring pages](/printables/christmas-coloring-pages) are ready to print for the season.
 
-Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day, free, no sign-up.
+Our [printable Advent reading plan](/printables/advent-bible-calendar) gives you one short passage a night from December 1 to Christmas Day, free.
 
 Everything we have for the season, Advent devotions, the nativity story, trivia, printables, is gathered on the [Christmas Bible hub](/holidays/christmas).
 

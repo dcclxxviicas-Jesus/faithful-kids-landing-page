@@ -122,7 +122,7 @@ For coloring beyond the flood, our story-by-story guide to [Bible coloring pages
 
 Short on prep time? Our [Bible coloring pages](/printables/bible-coloring-pages) are one click from the page to the printer.
 
-We drew a printable [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) to go with this one. It is free, with no sign-up.
+We drew a printable [Noah's Ark coloring page](/printables/bible-coloring-pages/noahs-ark) to go with this one. It is free, with
 
 ## Frequently Asked Questions
 

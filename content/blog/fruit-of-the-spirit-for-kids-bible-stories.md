@@ -144,7 +144,7 @@ Every one of these Bible stories is available as a short video lesson on Faithfu
 
 ---
 
-We built a [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) around this story. Free, no sign-up, and it works on screen or on paper.
+We built a [Fruit of the Spirit word search](/printables/bible-word-search/fruit-of-the-spirit) around this story. Free, and it works on screen or on paper.
 
 ## Frequently Asked Questions
 

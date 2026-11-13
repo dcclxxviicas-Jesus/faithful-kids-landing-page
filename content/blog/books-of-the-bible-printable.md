@@ -216,11 +216,11 @@ Ages 6-7 is the sweet spot to start, though preschoolers can learn sections thro
 
 Don't rush a reluctant 5-year-old, and don't assume a motivated 6-year-old can't do it: some first graders learn the whole list in a month because a sibling is doing it.
 
-For something to hand over right now, there are 16 [printable Bible coloring pages](/printables/bible-coloring-pages) on our site, free, no sign-up.
+For something to hand over right now, there are 16 [printable Bible coloring pages](/printables/bible-coloring-pages) on our site, free.
 
 For older children who find coloring dull, a [Bible word search](/printables/bible-word-search) holds attention longer.
 
-We built a [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) around this story. Free, no sign-up, and it works on screen or on paper.
+We built a [books of the Bible word search](/printables/bible-word-search/books-of-the-bible) around this story. Free, and it works on screen or on paper.
 
 For the puzzle-lover at the table, there's a whole set of [Bible crossword puzzles](/printables/bible-crossword): free to print, answer keys included.
 

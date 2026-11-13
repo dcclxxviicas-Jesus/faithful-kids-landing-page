@@ -10,7 +10,7 @@ const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/jesse-tree'
 export const metadata = {
   title: 'Printable Jesse Tree Ornaments & Readings: Free Set of 25',
   description:
-    'Free printable Jesse Tree set: 25 ornaments to color, one for each day of Advent, with the daily Scripture reading for each symbol. No sign-up, free PDF.',
+    'Free printable Jesse Tree set: 25 ornaments to color, one for each day of Advent, with the daily Scripture reading for each symbol. Free PDF.',
   alternates: { canonical: 'https://faithfulkids.app/printables/jesse-tree' },
   openGraph: {
     title: 'Printable Jesse Tree Ornaments & Readings: Free Set of 25',
@@ -37,7 +37,7 @@ const faqs = [
   },
   {
     q: 'Is this really free? Can I print copies for my class or church?',
-    a: 'Yes, the ornaments, the readings, and the PDF are free with no sign-up, and you are welcome to photocopy them for your family, Sunday school class, homeschool co-op, or church. Printed pages carry our web address so families can find the readings again at home.',
+    a: 'Yes, everything is free: enter your email once and the download and print buttons open from then on. You are welcome to photocopy the pages for your family, Sunday school class, homeschool co-op, or church. Printed pages carry our web address so families can find the readings again at home.',
   },
 ]
 
@@ -75,7 +75,7 @@ export default function JesseTreePage() {
             A free Jesse Tree set for Advent: <strong>25 ornaments to color</strong> one for each
             day from December 1 to 25, each with its <strong>daily Scripture reading</strong>, so
             your family walks the whole Bible story from Creation to the manger, a few minutes a
-            day. No sign-up, no email. Print it, color it, hang it.
+            day. Print it, color it, hang it.
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
             <PdfDownloadLink

@@ -201,7 +201,7 @@ export default function BibleTriviaPackPage() {
           >
             free downloadable PDF
           </PdfDownloadLink>{' '}
-          quiz sheets with write-in lines plus a separate answer key. No sign-up.
+          quiz sheets with write-in lines plus a separate answer key.
         </p>
       </header>
 

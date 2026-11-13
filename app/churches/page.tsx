@@ -75,7 +75,7 @@ Request Free Access,{' '}
 
       <section className="v2-section is-alt">
         <V2Head eyebrow="What Your Ministry Gets" title="Everything families get, free for your class"
-                sub="The full app, plus free resources you can use today without signing up for anything." />
+                sub="The full app, plus free resources you can put in front of your class today." />
         <div className="v2-wrap">
           <div className="v2-grid is-3">
             <div className="v2-card">

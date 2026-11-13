@@ -56,7 +56,7 @@ For a deeper comparison of the curriculum options specifically, including what t
 
 **DLTK Bible** has been serving free ad-supported Bible crafts, coloring, and lesson plans for decades, with no charge appearing anywhere on the site.
 
-And ours: the **Faithful Kids printables library** has [free Bible coloring pages, word searches, maps, and a Bible timeline](/printables), no email wall, with answer keys and a print-friendly layout built for Sunday school use. Our [Bible trivia games](/blog/bible-trivia-for-kids) are free to play in class off a projector, too.
+And ours: the **Faithful Kids printables library** has [free Bible coloring pages, word searches, maps, and a Bible timeline](/printables), with answer keys and a print-friendly layout built for Sunday school use. Our [Bible trivia games](/blog/bible-trivia-for-kids) are free to play in class off a projector, too.
 
 ## Free Video and Music
 

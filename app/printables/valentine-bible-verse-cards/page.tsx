@@ -15,11 +15,11 @@ const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/valentine-cards'
    articles — so this ships the cards. */
 export const metadata = {
   title: { absolute: 'Valentine Bible Verse Cards: Free Printable for Kids' },
-  description: `${VALENTINE_CARDS.length} free printable Valentine cards with short Bible verses about love, line art kids can color, then hand out at school, church, or class. No sign-up.`,
+  description: `${VALENTINE_CARDS.length} free printable Valentine cards with short Bible verses about love, line art kids can color, then hand out at school, church, or class.`,
   alternates: { canonical: 'https://faithfulkids.app/printables/valentine-bible-verse-cards' },
   openGraph: {
     title: 'Valentine Bible Verse Cards: Free Printable for Kids',
-    description: `${VALENTINE_CARDS.length} printable Valentine cards with Bible verses about love, drawn as line art kids color themselves. Free, no sign-up.`,
+    description: `${VALENTINE_CARDS.length} printable Valentine cards with Bible verses about love, drawn as line art kids color themselves. Free.`,
     url: 'https://faithfulkids.app/printables/valentine-bible-verse-cards',
     siteName: 'Faithful Kids',
     type: 'article',
@@ -42,7 +42,7 @@ const faqs = [
   },
   {
     q: 'Can I photocopy these for my class or church?',
-    a: 'Yes. The cards are free with no sign-up, and you are welcome to print or photocopy them for your family, classroom, Sunday school, or church. The printed sheet carries our web address so families can find the set again at home.',
+    a: 'Yes. The cards are free, and you are welcome to print or photocopy them for your family, classroom, Sunday school, or church. The printed sheet carries our web address so families can find the set again at home.',
   },
 ]
 
@@ -81,7 +81,7 @@ export default function ValentineCardsPage() {
           <p style={{ margin: '0.5rem 0 0', color: '#4b5563', fontSize: '1.02rem', lineHeight: 1.6 }}>
             <strong>{VALENTINE_CARDS.length} free printable Valentine cards</strong>, each with a short
             Bible verse about love and a picture drawn as line art, so kids color their own cards
-            before handing them out. Four to a sheet, To/From lines, cut and go. Free, no sign-up.
+            before handing them out. Four to a sheet, To/From lines, cut and go. Free.
           </p>
         </header>
 

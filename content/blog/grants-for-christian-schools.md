@@ -71,7 +71,7 @@ Christian schools in Alaska, Idaho, Montana, Oregon, and Washington (plus faith-
 
 ## While You Wait on Grant Cycles
 
-Most of the deadlines above cluster in January through March, which leaves a budget gap right now. Two free things that need no application: our list of [free Bible resources for children's ministry](/blog/free-childrens-ministry-resources) covers what is genuinely free across curriculum, printables, video, and training, and **Faithful Kids gives churches free accounts** for our Bible video app, no grant required ([how it works](/churches)). Our [printable Bible activities](/printables) are also free for classroom use, no email wall.
+Most of the deadlines above cluster in January through March, which leaves a budget gap right now. Two free things that need no application: our list of [free Bible resources for children's ministry](/blog/free-childrens-ministry-resources) covers what is genuinely free across curriculum, printables, video, and training, and **Faithful Kids gives churches free accounts** for our Bible video app, no grant required ([how it works](/churches)). Our [printable Bible activities](/printables) are also free for classroom use.
 
 ## Frequently Asked Questions
 

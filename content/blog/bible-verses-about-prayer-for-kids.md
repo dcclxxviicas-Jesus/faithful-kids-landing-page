@@ -42,7 +42,7 @@ Here are 10 Bible verses about prayer that will teach your child to talk to God 
 
 **How to practice it:** Teach your child the three levels. Some prayers are simple asks ("God, help me on my test"). Some require seeking ("God, show me what to do about this friendship"). Some require persistent knocking ("God, I've been praying about this for weeks, I'm still here, still trusting"). All three are valid.
 
-There is a free [the cross coloring page](/printables/bible-coloring-pages/the-cross) on our site too, printable on one sheet with no sign-up.
+There is a free [the cross coloring page](/printables/bible-coloring-pages/the-cross) on our site too, printable on one sheet with
 
 For Valentine's Day, our free [printable Valentine Bible verse cards](/printables/valentine-bible-verse-cards) put twelve of these verses on color-your-own cards with To/From lines, ready for a class exchange.
 

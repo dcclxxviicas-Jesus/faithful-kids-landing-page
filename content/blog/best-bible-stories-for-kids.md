@@ -276,7 +276,7 @@ The apostle Paul is sailing to Rome as a prisoner when a massive storm destroys 
 
 ---
 
-There is a free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) on our site too, printable on one sheet with no sign-up.
+There is a free [Jonah coloring page](/printables/bible-coloring-pages/jonah-and-the-big-fish) on our site too, printable on one sheet with
 
 ## How to Use These Stories with Your Kids
 

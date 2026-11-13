@@ -66,7 +66,7 @@ For ages 8-11, the best stocking stuffers are little tools of ownership, devotio
 
 **21. Bible trivia card deck**, A small question-and-answer deck keeps Christmas dinner lively. Warm the family up with our free [Christmas Bible trivia for kids](/blog/christmas-bible-trivia-for-kids) while you wait for the turkey.
 
-There is a free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) on our site too, printable on one sheet with no sign-up.
+There is a free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) on our site too, printable on one sheet with
 
 ## What Are Good Christian Stocking Stuffers for Tweens (Ages 12-14)?
 

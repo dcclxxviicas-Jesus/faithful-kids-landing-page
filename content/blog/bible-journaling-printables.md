@@ -116,7 +116,7 @@ There are also seven free [printable Bible crosswords](/printables/bible-crosswo
 
 ### Where can I find genuinely free Bible journaling printables?
 
-The most reliable source is your own printer, because every template in this guide is just labeled boxes on a page and takes ten minutes to build once in any word processor. Many ministry and blog sites do offer free journaling pages, though a large share require an email signup, so check before you click. Our own free 30-Day Family Bible Challenge requires no sign-up and gives you the daily passages to journal about.
+The most reliable source is your own printer, because every template in this guide is just labeled boxes on a page and takes ten minutes to build once in any word processor. Many ministry and blog sites do offer free journaling pages, though a large share require an email signup, so check before you click. Our own free 30-Day Family Bible Challenge gives you the daily passages to journal about.
 
 ### What is the SOAP method in Bible journaling?
 

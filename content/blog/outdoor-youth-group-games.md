@@ -121,7 +121,7 @@ Planning the rest of the summer? Our full [youth group games](/blog/youth-group-
 
 Our [Bible trivia app for kids](/bible-trivia) is free in the browser: no download, no account, no ads.
 
-Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with no sign-up.
+Twelve words from a single story: try our [Bible word search puzzles](/printables/bible-word-search), free and with
 
 Leaders who want a round for themselves should try our [hard Bible trivia for adults](/blog/bible-trivia-for-adults), 50 questions with answers and verse references.
 

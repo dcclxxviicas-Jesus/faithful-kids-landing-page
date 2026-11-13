@@ -47,7 +47,7 @@ The story of Daniel's Resolve teaches children important lessons about courage, 
 
 > *"My God sent his angel, and he shut the mouths of the lions."* (Daniel 6:22)
 
-There is a free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) on our site too, printable on one sheet with no sign-up.
+There is a free [Daniel in the lions' den coloring page](/printables/bible-coloring-pages/daniel-lions-den) on our site too, printable on one sheet with
 
 ## Parent's Guide: Why This Story Matters
 

@@ -30,7 +30,7 @@ export async function generateMetadata(
   if (!p) return {}
   const title = `${p.title} Crossword, Free Printable`
   const clues = p.across.length + p.down.length
-  const desc = `A free printable ${p.title} Bible crossword for kids (${p.scripture}). ${clues} clues, answer key included, plays in the browser too. No sign-up.`
+  const desc = `A free printable ${p.title} Bible crossword for kids (${p.scripture}). ${clues} clues, answer key included, plays in the browser too.`
   const url = `https://faithfulkids.app/printables/bible-crossword/${p.slug}`
   return {
     // absolute: the root layout appends " | Faithful Kids", which truncated

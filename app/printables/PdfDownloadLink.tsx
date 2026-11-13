@@ -2,17 +2,16 @@
 
 import type { CSSProperties, ReactNode } from 'react'
 import posthog from 'posthog-js'
-import { requestPostActionCapture } from './PostActionCapture'
+import { gatePrintable } from './PrintableGate'
 
 /**
- * Drop-in replacement for the plain <a> PDF buttons on printables pages.
- * Fires printable_pdf_download so /cas-admin and PostHog can count kit
- * downloads (before this, 261 Jesse Tree visitors/week were invisible
- * past the pageview).
+ * The tracked download link used on every printables page (PDFs, and the
+ * coloring pages' PNG). Fires printable_pdf_download so /cas-admin and
+ * PostHog can count kit downloads.
  *
- * Opens in a new tab: the CDN serves PDFs inline (no Content-Disposition),
- * so a same-tab click navigated away and the post-action email ask could
- * never be seen. The PDF itself is untouched and never gated.
+ * Email-gated since Nov 13, 2026 (owner decision): until this browser has
+ * submitted an email, the click opens PrintableGate instead of the file.
+ * Opens in a new tab because the CDN serves files inline.
  */
 export default function PdfDownloadLink({
   href,
@@ -34,13 +33,16 @@ export default function PdfDownloadLink({
       rel="noopener"
       className={className}
       style={style}
-      onClick={() => {
+      onClick={e => {
+        if (!gatePrintable({ kind: 'download', printable, href })) {
+          e.preventDefault()
+          return
+        }
         try {
           posthog.capture('printable_pdf_download', { printable })
         } catch {
           /* tracking must never block the download */
         }
-        requestPostActionCapture({ kind: 'download', printable })
       }}
     >
       {children}

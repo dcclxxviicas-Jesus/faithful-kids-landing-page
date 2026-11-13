@@ -33,6 +33,7 @@ export default function PdfDownloadLink({
       rel="noopener"
       className={className}
       style={style}
+      data-gated="1"
       onClick={e => {
         if (!gatePrintable({ kind: 'download', printable, href })) {
           e.preventDefault()

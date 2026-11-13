@@ -14,7 +14,7 @@ Fair warning: a few of these will stump the adults too. Most of us picture three
 
 If your kids are new to the story itself, start with our walkthrough of [Christmas Bible stories for kids](/blog/christmas-bible-stories-for-kids) first, then come back and quiz them.
 
-**Want the all-ages version on paper?** The [free Christmas Bible trivia PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf) has 80 questions as quiz sheets with a separate answer key, no sign-up, free to photocopy.
+**Want the all-ages version on paper?** The [free Christmas Bible trivia PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf) has 80 questions as quiz sheets with a separate answer key, free to photocopy.
 
 ## How Should You Use These Questions?
 

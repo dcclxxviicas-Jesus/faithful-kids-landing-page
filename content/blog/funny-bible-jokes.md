@@ -14,7 +14,7 @@ If you're mostly telling jokes to little ones, start with our [30 clean Bible jo
 
 One ground rule before we start: these jokes are playful about Bible stories, never mocking of them. You have to actually know who Lot, Jehu, and Zacchaeus are to get the punchlines, which is exactly why they're secretly the best Bible review tool ever invented.
 
-**Need these on paper?** [Download the free joke cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf): 100 fold-over cards (every joke on this page plus the kids' list), punchline hidden under the fold. One in a lunchbox per day is the classic move. No sign-up, free to photocopy.
+**Need these on paper?** [Download the free joke cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf): 100 fold-over cards (every joke on this page plus the kids' list), punchline hidden under the fold. One in a lunchbox per day is the classic move. Free to photocopy.
 
 ## Bible Puns That Actually Land
 

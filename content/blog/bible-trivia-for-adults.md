@@ -9,7 +9,7 @@ datePublished: "2026-08-28"
 
 These 50 Bible trivia questions for adults run from deceptively easy to genuinely expert, with every answer in bold and a book-chapter-verse reference right after it, so the page works as a complete, self-checking quiz for small groups, Bible studies, and family gatherings. The warm-up round is the most dangerous one: it targets the stories everyone is sure they know; where the popular version and the biblical text quietly disagree; and it reliably humbles the most confident person at the table. From there, the hard round asks about the people and places inside the famous stories, and the expert round reaches for the record-holders, one-verse characters, and left-handed judges that only serious readers remember.
 
-**Need this on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-trivia-for-adults.pdf); all 50 questions as ready-to-copy quiz sheets, with the full answer key and verse references on separate pages. No sign-up, no email, free to photocopy for your class or group.
+**Need this on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-trivia-for-adults.pdf); all 50 questions as ready-to-copy quiz sheets, with the full answer key and verse references on separate pages. Free to photocopy for your class or group.
 
 **Want it scored for you?** Our [free Bible trivia game](/bible-trivia) runs a ten-question round on the hard setting with streaks and a scoreboard; no setup, and church groups can [embed it on their own site](/blog/bible-trivia-embed-for-church-website) for free.
 
@@ -112,7 +112,7 @@ The personal name of God, Yahweh, rendered in most English Bibles as "the LORD" 
 
 ### Can I print these questions for a Sunday school class or Bible study?
 
-Yes; that is what they are for. The [free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-trivia-for-adults.pdf) formats all 50 questions as quiz sheets with the answer key on separate pages, so you can photocopy the questions without handing out the answers. No sign-up is required, and you are welcome to copy them for any class, group, or church event.
+Yes; that is what they are for. The [free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-trivia-for-adults.pdf) formats all 50 questions as quiz sheets with the answer key on separate pages, so you can photocopy the questions without handing out the answers. You are welcome to copy them for any class, group, or church event.
 
 ### Where can I find easier questions for kids at the same event?
 

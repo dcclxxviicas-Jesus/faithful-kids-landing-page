@@ -11,7 +11,7 @@ dateModified: "2026-10-03"
 
 Here are three complete Bible scavenger hunts, ready to play tonight: a **verse hunt** that gets Bibles open and pages turning, an **around-the-house object hunt** for kids too young to look up Habakkuk, and a **church photo hunt** built for youth groups. Every clue is below as text you can read off a phone, and all three hunts fit on one printable.
 
-**Need it on paper?** [Download the free scavenger hunt PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-scavenger-hunt.pdf), all three hunts as ready-to-copy sheets, with the verse-hunt answer key on its own page so nobody peeks. No sign-up, free to photocopy for home, class, or church.
+**Need it on paper?** [Download the free scavenger hunt PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-scavenger-hunt.pdf), all three hunts as ready-to-copy sheets, with the verse-hunt answer key on its own page so nobody peeks. Free to photocopy for home, class, or church.
 
 ## Hunt 1: The Bible Verse Scavenger Hunt (Ages 7+)
 

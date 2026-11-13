@@ -30,6 +30,26 @@ export function seasonalDefaultMagnet(now = new Date()): Magnet {
   return [10, 11].includes(now.getMonth()) ? 'advent' : 'bedtime-kit'
 }
 
+/** Magnet for a direct printables-PDF link (blog posts deep-link these,
+    gated site-wide by PdfLinkGate since Nov 14, 2026). A PDF not listed
+    here falls back to the page/seasonal rule, which also avoids offering
+    the quiz-pack PDF to someone who is downloading that very file. */
+const PDF_MAGNETS: Record<string, Magnet> = {
+  'bible-trivia-for-adults': 'trivia-pack',
+  'bible-jokes': 'trivia-pack',
+  'bible-bingo': 'trivia-pack',
+  'bible-charades': 'trivia-pack',
+  'bible-riddles': 'trivia-pack',
+  'bible-scavenger-hunt': 'trivia-pack',
+  'christmas-bible-trivia': 'advent',
+  'nativity-play-script': 'advent',
+}
+
+export function magnetForPdfHref(href: string): Magnet | undefined {
+  const m = href.match(/\/printables\/([a-z0-9-]+)\.pdf$/)
+  return m ? PDF_MAGNETS[m[1]] : undefined
+}
+
 /** Which drip magnet a printable page's gate signs the visitor up for. */
 export function magnetForPrintablePath(path: string): Magnet {
   const p = path.replace(/^\/printables\/?/, '')

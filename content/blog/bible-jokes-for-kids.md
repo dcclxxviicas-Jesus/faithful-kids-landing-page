@@ -14,7 +14,7 @@ Laughter is a gift from God. Proverbs 17:22 says, "A cheerful heart is good medi
 
 Fair warning: some of these are wonderfully corny. That is the point. Kids ages 5-14 love a good groan-worthy joke, especially when it connects to something they are learning about in the Bible. Want jokes the grown-ups will groan at too? See our all-ages collection of [70 funny Bible jokes](/blog/funny-bible-jokes).
 
-**Want them on paper?** [Download the free joke cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf); all 30 of these plus the all-ages list, 100 fold-over cards with the punchline hidden under the fold for lunchboxes and car rides. No sign-up needed.
+**Want them on paper?** [Download the free joke cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf); all 30 of these plus the all-ages list, 100 fold-over cards with the punchline hidden under the fold for lunchboxes and car rides.
 
 ## The Jokes
 

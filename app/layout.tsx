@@ -3,6 +3,7 @@ import { Nunito } from 'next/font/google'
 import './globals.css'
 import { PostHogProvider } from './providers'
 import { MetaPixel } from './MetaPixel'
+import PdfLinkGate from './components/PdfLinkGate'
 
 // The rounded, heavy face the design was drawn in. Without it the page falls
 // back to the system stack and reads noticeably colder.
@@ -118,7 +119,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             potentialAction: { '@type': 'SearchAction', target: 'https://faithfulkids.app/blog?q={search_term_string}', 'query-input': 'required name=search_term_string' },
           }) }}
         />
-        <PostHogProvider>{children}</PostHogProvider>
+        <PostHogProvider>
+          {children}
+          {/* Single site-wide email gate: printables Download/Print buttons
+              call it directly; this also intercepts direct PDF links in blog
+              posts (owner decision Nov 14, 2026). Mounted here, not per
+              section, so exactly one modal answers the gate event. */}
+          <PdfLinkGate />
+        </PostHogProvider>
         <MetaPixel />
       </body>
     </html>

@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useState } from 'react'
 import posthog from 'posthog-js'
 import { EmailCaptureCard } from '../blog/EmailCaptureCard'
-import { hasSubmittedCapture, magnetForPrintablePath, type Magnet } from '@/lib/capture-state'
+import { hasSubmittedCapture, magnetForPdfHref, magnetForPrintablePath, type Magnet } from '@/lib/capture-state'
 
 /**
  * Email gate on printable Download and Print buttons (owner decision,
@@ -67,7 +67,7 @@ export function PrintableGate() {
     function onRequest(e: Event) {
       const d = (e as CustomEvent<Detail>).detail
       if (!d) return
-      const magnet = magnetForPrintablePath(location.pathname)
+      const magnet = (d.href && magnetForPdfHref(d.href)) || magnetForPrintablePath(location.pathname)
       setUnlocked(false)
       setOpen({ ...d, magnet })
       try { posthog.capture('printable_gate_shown', { printable: d.printable, kind: d.kind, magnet }) } catch { /* fine */ }

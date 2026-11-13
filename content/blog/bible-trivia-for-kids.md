@@ -13,7 +13,7 @@ These 50 Bible questions for kids cover the most important stories, people, and 
 
 Two of these questions trip up almost every family that plays. Question 14 asks what fruit Adam and Eve ate, and nearly everyone answers wrong, because the "right" answer most people learned is not actually in the Bible. Question 33 asks how many of each animal Noah brought on the ark, and the famous answer of "two" is only part of the story. If your kids get both right on the first try, they know their Bible better than most adults.
 
-**Need this quiz on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf), all 50 questions as ready-to-copy quiz sheets with write-in lines, plus the full answer key with verse references on separate pages. No sign-up, no email, free to photocopy for your class or family game night.
+**Need this quiz on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf), all 50 questions as ready-to-copy quiz sheets with write-in lines, plus the full answer key with verse references on separate pages. Free to photocopy for your class or family game night.
 
 **Want to play instead of read?** Our [free Bible trivia game](/bible-trivia) puts 100 questions into a scored round you can play right now. Pick easy, medium, or hard, answer ten questions, and see the verse behind every answer. No sign-up, no ads, and free for churches and teachers to [embed on their own site](/blog/bible-trivia-embed-for-church-website).
 

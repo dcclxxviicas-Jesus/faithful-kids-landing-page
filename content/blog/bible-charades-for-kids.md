@@ -12,7 +12,7 @@ Bible charades is played exactly like regular charades: one player silently acts
 
 It's the single best Bible game for wiggly kids, because the "distraction" (moving, performing, being silly) *is* the game. If your crew has energy to burn, this beats any worksheet ever printed.
 
-**Need this on paper?** [Download the free charades cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-charades.pdf): 60 prompts as ready-to-cut cards in easy, medium, and hard decks, cut lines marked. No sign-up, free to photocopy for family night or class.
+**Need this on paper?** [Download the free charades cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-charades.pdf): 60 prompts as ready-to-cut cards in easy, medium, and hard decks, cut lines marked. Free to photocopy for family night or class.
 
 ## How Do You Play Bible Charades?
 

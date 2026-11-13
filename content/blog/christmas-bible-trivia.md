@@ -15,7 +15,7 @@ Fair warning about the expert round: it is designed to stump the most Bible-lite
 
 **Playing with little ones?** Start with our [Christmas Bible trivia for kids](/blog/christmas-bible-trivia-for-kids) instead; 45 questions tiered for ages 5-12, with gentler wording and no expert round. This page is the all-ages version for family gatherings, adult small groups, church parties, and youth nights; and if you want general Christmas trivia questions on top of the Scripture rounds, the bonus carol round at the end covers the songs.
 
-**Need this on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf), all 80 questions as ready-to-copy quiz sheets, with the full answer key and verse references on separate pages. No sign-up, free to photocopy for your party or class.
+**Need this on paper?** [Download the free PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf), all 80 questions as ready-to-copy quiz sheets, with the full answer key and verse references on separate pages. Free to photocopy for your party or class.
 
 ## How to Run the Game
 

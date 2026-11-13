@@ -12,7 +12,7 @@ Here are 75 clean Christian jokes about the part of faith life we all recognize:
 
 One note on what this page is not: if you want jokes about Bible characters and stories, Moses puns, Noah one-liners, the whole genre, that's its own collection, our [70 funny Bible jokes](/blog/funny-bible-jokes) (with a simpler [kids' version](/blog/bible-jokes-for-kids) for ages 5-10). This page is the church-life and Christian-living set, so between the three lists, nobody at your table escapes unlaughed-at.
 
-**Need jokes on paper?** Our free [Bible joke cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf) has 100 fold-over cards from those two Bible-joke collections: punchline hidden under the fold, perfect for lunchboxes. No sign-up, free to photocopy.
+**Need jokes on paper?** Our free [Bible joke cards PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf) has 100 fold-over cards from those two Bible-joke collections: punchline hidden under the fold, perfect for lunchboxes. Free to photocopy.
 
 ## Church Life Jokes
 

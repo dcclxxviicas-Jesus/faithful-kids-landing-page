@@ -14,7 +14,7 @@ These 45 Bible riddles are perfect for car rides, dinner table fun, Sunday schoo
 
 They are sorted into four sections: 20 classic riddles to start with, a batch of Old Testament riddles, a batch of New Testament riddles, and four tricky ones saved for the kid who already knows every Bible story cold.
 
-**Need this on paper?** [Download the free riddle sheets PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-riddles.pdf); all 45 riddles as read-aloud sheets with the answer key on its own pages, so nobody can peek over a shoulder. No sign-up, free to photocopy.
+**Need this on paper?** [Download the free riddle sheets PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-riddles.pdf); all 45 riddles as read-aloud sheets with the answer key on its own pages, so nobody can peek over a shoulder. Free to photocopy.
 
 Ready? See how many your family can solve.
 

@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { SiteNav, SiteFooter } from '../../../components/SiteChrome'
 import PrintButton from '../../PrintButton'
+import PdfDownloadLink from '../../PdfDownloadLink'
 import { PrintableCta } from '../../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
@@ -236,9 +237,9 @@ export default async function BibleMapPage(
             print for your family, class, or church group.
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <a className="bm-dl" href={`https://d3g07v1w0lehiv.cloudfront.net/printables/bible-maps/${m.slug}.pdf`}>
+            <PdfDownloadLink className="bm-dl" href={`https://d3g07v1w0lehiv.cloudfront.net/printables/bible-maps/${m.slug}.pdf`} printable={`bible-maps/${m.slug}`}>
               Download the free PDF &rarr;
-            </a>
+            </PdfDownloadLink>
             <span className="bm-dl-note">Letter size · prints on one sheet</span>
           </p>
         </header>

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
+import PdfDownloadLink from '../PdfDownloadLink'
 import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 import { EmailCaptureCard } from '../../blog/EmailCaptureCard'
@@ -93,9 +94,9 @@ export default function BibleTimelinePage() {
             firm, &ldquo;c.&rdquo; where it isn&rsquo;t, and silent where the Bible is silent.
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <a className="bm-dl" href="https://d3g07v1w0lehiv.cloudfront.net/printables/bible-timeline.pdf">
+            <PdfDownloadLink className="bm-dl" href="https://d3g07v1w0lehiv.cloudfront.net/printables/bible-timeline.pdf" printable="bible-timeline">
               Download the free PDF &rarr;
-            </a>
+            </PdfDownloadLink>
             <span className="bm-dl-note">One-sheet wall chart, Letter size</span>
           </p>
         </header>

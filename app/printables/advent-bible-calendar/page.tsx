@@ -1,8 +1,9 @@
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
+import PdfDownloadLink from '../PdfDownloadLink'
 import adventReadings from '@/lib/advent-readings.json'
 
-const EMERALD = '#059669'
+const EMERALD = '#16a34a'
 
 export const metadata = {
   title: 'Printable Advent Bible Calendar: 25 Daily Readings',
@@ -75,12 +76,13 @@ export default function AdventCalendarPage() {
             story itself, a few minutes a night.
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <a
+            <PdfDownloadLink
               href="https://d3g07v1w0lehiv.cloudfront.net/printables/advent-bible-calendar.pdf"
-              style={{ display: 'inline-block', background: EMERALD, color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: '0 4px 0 #047857' }}
+              printable="advent-bible-calendar"
+              style={{ display: 'inline-block', background: EMERALD, color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: '0 4px 0 #15803d' }}
             >
               Download the free PDF calendar &rarr;
-            </a>
+            </PdfDownloadLink>
             <span style={{ display: 'inline-block', marginLeft: 12, color: '#6b7280', fontSize: '0.9rem' }}>
               One sheet to print, check off, and read from all season
             </span>
@@ -94,7 +96,7 @@ export default function AdventCalendarPage() {
           <div style={{ overflowX: 'auto' }}>
             <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.95rem' }}>
               <thead>
-                <tr style={{ background: '#ecfdf5', textAlign: 'left' }}>
+                <tr style={{ background: '#f0fdf4', textAlign: 'left' }}>
                   <th style={{ padding: '8px 10px' }}>Day</th>
                   <th style={{ padding: '8px 10px' }}>Title</th>
                   <th style={{ padding: '8px 10px' }}>Reading</th>

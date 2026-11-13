@@ -1,8 +1,10 @@
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
+import PdfDownloadLink from '../PdfDownloadLink'
+import { EmailCaptureCard } from '../../blog/EmailCaptureCard'
 import jesseTree from '@/lib/jesse-tree.json'
 
-const EMERALD = '#059669'
+const EMERALD = '#16a34a'
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/jesse-tree'
 
 export const metadata = {
@@ -76,12 +78,13 @@ export default function JesseTreePage() {
             day. No sign-up, no email. Print it, color it, hang it.
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <a
+            <PdfDownloadLink
               href="https://d3g07v1w0lehiv.cloudfront.net/printables/jesse-tree.pdf"
-              style={{ display: 'inline-block', background: EMERALD, color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: '0 4px 0 #047857' }}
+              printable="jesse-tree"
+              style={{ display: 'inline-block', background: EMERALD, color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: '0 4px 0 #15803d' }}
             >
               Download the free Jesse Tree PDF &rarr;
-            </a>
+            </PdfDownloadLink>
             <span style={{ display: 'inline-block', marginLeft: 12, color: '#6b7280', fontSize: '0.9rem' }}>
               All 25 ornaments + the readings plan in one file
             </span>
@@ -96,7 +99,7 @@ export default function JesseTreePage() {
           <div style={{ overflowX: 'auto' }}>
             <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.95rem' }}>
               <thead>
-                <tr style={{ background: '#ecfdf5', textAlign: 'left' }}>
+                <tr style={{ background: '#f0fdf4', textAlign: 'left' }}>
                   <th style={{ padding: '8px 10px' }}>Day</th>
                   <th style={{ padding: '8px 10px' }}>Ornament</th>
                   <th style={{ padding: '8px 10px' }}>Reading</th>
@@ -145,6 +148,18 @@ export default function JesseTreePage() {
               </figure>
             ))}
           </div>
+        </section>
+
+        {/* Advent-kit email capture: the printable above stays ungated; this
+            offers the companion nightly reading plan by email */}
+        <section className="no-print" style={{ margin: '0 0 2rem' }}>
+          <EmailCaptureCard
+            magnet="advent"
+            source="blog-inline"
+            sourcePost="jesse-tree"
+            title="🎄 Free too: the 25-Day Advent readings as one PDF"
+            subtitle="The companion to this tree: December 1 to 25, one short nightly reading, from the first promise to the manger."
+          />
         </section>
 
         {/* FAQ */}

@@ -1,4 +1,5 @@
 import PrintButton from '../PrintButton';
+import PdfDownloadLink from '../PdfDownloadLink';
 import { SiteNav, SiteFooter } from '../../components/SiteChrome';
 import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
@@ -193,12 +194,13 @@ export default function BibleTriviaPackPage() {
         </p>
         <p className="no-print" style={{ margin: '0.6rem 0 0', color: '#4b5563', fontSize: '0.95rem' }}>
           Prefer a ready-made file? Our 50-question kids quiz is also a{' '}
-          <a
+          <PdfDownloadLink
             href="https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf"
+            printable="bible-trivia-pack"
             style={{ color: EMERALD, fontWeight: 700 }}
           >
             free downloadable PDF
-          </a>{' '}
+          </PdfDownloadLink>{' '}
           quiz sheets with write-in lines plus a separate answer key. No sign-up.
         </p>
       </header>

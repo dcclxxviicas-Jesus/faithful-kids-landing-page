@@ -1,5 +1,6 @@
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
+import PdfDownloadLink from '../PdfDownloadLink'
 import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 import {
@@ -126,12 +127,13 @@ export default function BooksOfTheBiblePage() {
             Bibles. Free, no sign-up.
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <a
+            <PdfDownloadLink
               href="https://d3g07v1w0lehiv.cloudfront.net/printables/books-of-the-bible-chart.pdf"
+              printable="books-of-the-bible"
               style={{ display: 'inline-block', background: GREEN, color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: `0 4px 0 ${GREEN_DARK}` }}
             >
               Download the free PDF &rarr;
-            </a>
+            </PdfDownloadLink>
             <span style={{ display: 'inline-block', marginLeft: 12, color: '#6b7280', fontSize: '0.9rem' }}>
               Chart + bookmarks, two sheets
             </span>

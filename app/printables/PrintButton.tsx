@@ -1,11 +1,20 @@
 'use client';
 
+import { requestPostActionCapture } from './PostActionCapture';
+
 export default function PrintButton() {
   return (
     <button
       type="button"
       className="no-print"
-      onClick={() => window.print()}
+      onClick={() => {
+        // Request first so the afterprint listener exists before the dialog opens.
+        requestPostActionCapture({
+          kind: 'print',
+          printable: window.location.pathname.replace(/^\/printables\/?/, '') || 'printables',
+        });
+        window.print();
+      }}
       style={{
         display: 'inline-flex',
         alignItems: 'center',

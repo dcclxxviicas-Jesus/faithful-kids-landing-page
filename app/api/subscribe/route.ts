@@ -20,7 +20,7 @@ function rateLimited(ip: string): boolean {
 // card offered the 26-page PDF but the fallback silently delivered the
 // 30-day-challenge email instead (9 leads got the wrong magnet).
 const VALID_MAGNETS = new Set(['challenge', 'trivia-pack', 'bedtime-kit', 'coloring-pages', 'quiz-plan', 'advent'])
-const VALID_SOURCES = new Set(['blog-inline', 'blog-exit', 'quiz-exit', 'quiz-gate', 'game-end'])
+const VALID_SOURCES = new Set(['blog-inline', 'blog-exit', 'quiz-exit', 'quiz-gate', 'game-end', 'printable-postaction'])
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/
 
 export async function POST(req: Request) {

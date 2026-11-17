@@ -1,6 +1,7 @@
 import { SITE_URL, unsubscribeUrl, type Lead } from './leads'
 import { buildEmail as build, type BuiltEmail } from './email-system'
 import { escapeHtml, type Block } from './email-system/render'
+import PRINTABLE_NAMES from './printable-previews.json'
 
 // The nurture sequences for captured leads. Copy and design live in
 // lib/email-system (the "Home" design); this file decides WHICH email a lead
@@ -103,6 +104,45 @@ const MAGNETS: Record<string, Magnet> = {
   },
 }
 
+/* WHAT THEY ASKED FOR. The email gate files every sign-up under one of the
+   six magnets above, but most people unlock a specific printable: a word
+   search, a coloring page, the Jesse Tree. Until Nov 2026 the first email
+   delivered the magnet instead (68 people asked for the Jesse Tree and were
+   sent the Advent Readings). The gate stores the exact printable in
+   source_post, so the first email now delivers that one. Names and cover
+   pictures come from lib/printable-previews.json, the same list the gate
+   popup uses; an unknown printable falls back to the magnet email. */
+const OWN_PAGE: Record<string, string> = {
+  'advent-readings': 'advent',
+  'bedtime-bible-kit': 'bedtime-kit',
+  'bible-trivia-pack': 'trivia-pack',
+  '30-day-challenge': 'challenge',
+}
+
+function requestedPrintable(lead: Lead): Magnet | null {
+  const post = (lead.source === 'printable-gate' && lead.source_post) || ''
+  if (!/^[a-z0-9/-]+$/.test(post)) return null
+  // The magnet's own page has its own, better email.
+  if (OWN_PAGE[post] && MAGNETS[OWN_PAGE[post]]) return MAGNETS[OWN_PAGE[post]]
+  const isFile = post.startsWith('pdf/')
+  // A direct PDF link is always one plain file name. Anything else is not a
+  // shape the gate produces, so fall back to the magnet email.
+  if (isFile && !/^pdf\/[a-z0-9]+(?:-[a-z0-9]+)*$/.test(post)) return null
+  const key = isFile ? `file--${post.slice(4)}` : `page--${post.replace(/\//g, '--')}`
+  const name = (PRINTABLE_NAMES as Record<string, string>)[key]
+  if (!name) return null
+  return {
+    short: name,
+    url: isFile ? `${SITE_URL}/printables/${post.slice(4)}.pdf` : `${SITE_URL}/printables/${post}`,
+    img: `pv/${key}`,
+    subject: name.length <= 34 ? `Your ${name}` : 'Here’s your printable',
+    pre: 'Ready to print, or save it as a PDF.',
+    headline: name,
+    line: `Here it is: ${name}. Open it to print, or save it as a PDF.`,
+    tip: 'Print it and keep it where your kids will see it. If you’d rather not print, the PDF opens on any phone or tablet.',
+  }
+}
+
 /* The second email gives a printable the lead does not already have: the
    Bedtime Bible Kit for everyone except the people who asked for that one,
    who get the Trivia Pack. */
@@ -136,15 +176,18 @@ export function buildEmail(lead: Lead, stage: number): { subject: string; html: 
     return { subject: e.subject, html: e.html }
   }
 
-  const m = MAGNETS[lead.magnet] || MAGNETS.challenge
-  const gift = giftFor(lead.magnet)
+  const asked = requestedPrintable(lead)
+  const m = asked || MAGNETS[lead.magnet] || MAGNETS.challenge
+  // Never offer as the "second printable" the one they already have.
+  const gift = m === MAGNETS['bedtime-kit'] ? MAGNETS['trivia-pack'] : giftFor(lead.magnet)
   const sep = (url: string) => url + (url.includes('?') ? '&' : '?')
   const vars: Record<string, string> = {
     source,
     magnet_subject: m.subject,
     magnet_pre: m.pre,
     magnet_headline: m.headline,
-    magnet_short: m.short,
+    // The button reads "Open my ...": a long printable name does not fit there.
+    magnet_short: stage === 1 && asked && !Object.values(MAGNETS).includes(asked) ? 'printable' : m.short,
     magnet_line: m.line,
     magnet_tip: m.tip,
     magnet_url: sep(m.url),
@@ -158,7 +201,7 @@ export function buildEmail(lead: Lead, stage: number): { subject: string; html: 
       e = build('printable/1', m.img ? vars : { ...vars, magnet_img: 'none' }, m.img ? opts : { ...opts, replace: { img: null } })
       break
     case 2:
-      e = build(lead.magnet === 'bedtime-kit' ? 'printable/2-trivia' : 'printable/2', vars, opts)
+      e = build(gift === MAGNETS['trivia-pack'] ? 'printable/2-trivia' : 'printable/2', vars, opts)
       break
     case 3:
     case 4:

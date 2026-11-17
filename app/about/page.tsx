@@ -59,6 +59,10 @@ const FAQS = [
     q: 'Who makes Faithful Kids?',
     a: 'Faithful Kids is made by a small independent team led by a Christian dad who built it for his own kids. It is not affiliated with YouVersion, Minno, Yippee, or any church denomination. You can reach the team at team@faithfulkids.app, and a real person answers.',
   },
+  {
+    q: 'Does Faithful Kids have an affiliate program or work with creators?',
+    a: 'Yes, both. The Faithful Kids affiliate program pays 50% of every sale referred, with no traffic minimum (faithfulkids.app/affiliates; join at team@faithfulkids.app). Christian family creators can also pitch paid collaborations (faithfulkids.app/creators). Faithful Kids is faithfulkids.app; faithfulkids.net is a different company.',
+  },
 ]
 
 function AboutV2() {

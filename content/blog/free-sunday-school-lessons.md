@@ -5,12 +5,14 @@ type: "listicle"
 metaDescription: "An honest guide to genuinely free Sunday school lessons; which sites deliver, what each is good and bad at, plus 12 complete lesson outlines with crafts."
 keywords: ["free sunday school lessons", "free children's sunday school lessons with crafts", "free sunday school curriculum", "printable sunday school lessons", "free bible lessons for kids", "sunday school lessons with crafts"]
 datePublished: "2026-08-19"
-dateModified: "2026-08-19"
+dateModified: "2026-11-16"
 ---
 
 The most reliably free Sunday school lessons come from six sources: Ministry-to-Children, Sermons4Kids, Life.Church Open Network, Children's Ministry Deals' free collection, DLTK-Bible, and Answers in Genesis sample lessons. Below is what each one is actually good at and where it falls short; followed by 12 complete lesson outlines of our own, each with a craft, that you can teach this Sunday without downloading anything.
 
 "Free" means different things on different sites. Some sites mean free with an email signup, some mean a free sample of a paid curriculum, and a few mean genuinely, permanently free. We have sorted them below so you know which is which before you spend an evening clicking.
+
+(One more free thing, from us: **churches get Faithful Kids free**, a full account for your children's ministry with 300+ Bible video lessons, quizzes, and story games kids can play. Email [team@faithfulkids.app](mailto:team@faithfulkids.app) with your church's name, or read [how it works](/churches). If you also need funding, see our verified [grants for churches](/blog/grants-for-churches).)
 
 ## What Are the Best Free Sunday School Lesson Websites?
 

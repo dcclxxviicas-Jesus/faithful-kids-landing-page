@@ -6,7 +6,7 @@ type: "listicle"
 metaDescription: "Compare the 7 best educational apps for Christian kids in 2026. Features, pricing, age ranges and honest reviews of Faithful Kids, Minno and more."
 keywords: ["best bible apps for kids", "christian educational apps for kids", "bible app for kids review"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-18"
+dateModified: "2026-11-16"
 ---
 
 The strongest educational apps for Christian kids right now are Faithful Kids (structured Bible video course with quizzes, ages 5-15), YouVersion's free Bible App for Kids (best for ages 2-8), and Minno (best pure streaming library). Superbook, Yippee, the Adventure Bible App, and RightNow Media Kids round out the list, each is best at something different, compared honestly below.
@@ -21,7 +21,7 @@ This guide reviews seven of the best educational apps and platforms for Christia
 **Price:** $12.99/month, or $97/year (about $8.08/month). 7-day free trial on the annual plan.
 **Platform:** iOS app, web browser (app.faithfulkids.app)
 
-**What it is:** A gamified video learning platform that teaches kids the Bible through short AI-generated video episodes (a few minutes each), followed by interactive quizzes and reflection activities. Think Duolingo, but for Scripture.
+**What it is:** A gamified video learning platform that teaches kids the Bible through short AI-generated video episodes (a few minutes each), followed by interactive quizzes and reflection activities. Think Duolingo, but for Scripture. It also turns the whole Bible into an interactive game: after each video, kids play the story itself, then take a quiz on a 3D map ([how the story games work](/blog/bible-story-games)).
 
 **Content library:** Over 300 episodes across 30+ series covering the entire Bible, from Genesis through Revelation, plus supplemental series on key themes like prayer, miracles, and the parables of Jesus.
 

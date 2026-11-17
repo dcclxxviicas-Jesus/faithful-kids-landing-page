@@ -5,12 +5,14 @@ type: "listicle"
 metaDescription: "The best Christian board games for families: Bible Outburst, Bibleopoly, Apples to Apples Bible Edition, Settlers of Canaan, plus DIY card games."
 keywords: ["christian board games for families", "bible board games", "christian family game night", "bible games for family", "religious board games", "bible card games"]
 datePublished: "2026-08-14"
-dateModified: "2026-08-14"
+dateModified: "2026-11-16"
 ---
 
 The best Christian board games for families are Outburst Bible Edition for loud group fun, Apples to Apples Bible Edition for mixed ages, Bibleopoly for Monopoly lovers, and The Settlers of Canaan for strategy fans. Below are 10 real, buy-able games plus 4 games you can play tonight with a regular deck of cards and a pair of dice: no purchase required.
 
 One honest note up front: Christian game shelves have their share of duds: games that are basically pop quizzes in a box. Every game below was chosen because the *game* part is genuinely fun. A game night that feels like a test teaches kids that the Bible is homework; a game night full of laughing teaches them the opposite.
+
+Two companions worth knowing before you shop. Our newer [Christian board games guide](/blog/christian-board-games) verifies every boxed game's current price and availability (three famous titles are now out of print). And if your kids want a game they can play any night with no box at all, **Faithful Kids turns the whole Bible into a game**: each story is a short video, then a playable story game, then a quiz on a 3D map ([see how it works](/blog/bible-story-games), or [try the free quiz](/quiz)).
 
 ## What Makes a Good Christian Family Game?
 

@@ -6,7 +6,7 @@ metaTitle: "Brands That Work With Homeschool Bloggers (Verified Rates)"
 metaDescription: "Which brands actually partner with homeschool bloggers in 2026: Sonlight 6%, Notgrass 12%, All About Learning 15%, KiwiCo, Timberdoodle. Every rate verified."
 keywords: ["brands that work with homeschool bloggers", "homeschool bloggers", "homeschool affiliate programs", "homeschool blogger sponsorships", "curriculum affiliate programs", "homeschool influencer programs", "monetize homeschool blog", "homeschool review programs"]
 datePublished: "2026-11-11"
-dateModified: "2026-11-11"
+dateModified: "2026-11-16"
 ---
 
 Search for brands that partner with homeschool bloggers and you get two kinds of pages: affiliate roundups recycling commission figures from other roundups, and media-kit pages from bloggers hoping brands find them. In this pass alone we found third-party rate claims that contradicted the brand's own page for four separate programs.
@@ -68,7 +68,7 @@ One structural oddity worth knowing: **HSLDA** pays $20 per new member referred,
 
 ## Where Faithful Kids Fits
 
-We are a Bible video app for kids, and in the same spirit as the rest of this page, here is exactly what we offer and what we do not. We do not run an affiliate program. What we do run: we **pay Christian family creators for short video content** about their real experience with the app ([how our creator partnerships work](/creators)), and our parenting section takes **essays from homeschool parents** with a real byline and an author-page link to your blog, unpaid and said plainly ([pitch here](/parenting/write-for-us)). If you write about teaching the Bible at home, our [free printables](/printables) and [Bible trivia games](/bible-trivia) are free to use and link with your readers, no partnership required.
+We are a Bible video app for kids, and in the same spirit as the rest of this page, here is exactly what we offer. **Our [affiliate program](/affiliates) pays 50% of every sale you refer**, several times the 6-15% the homeschool programs above pay, with no traffic minimum; email [team@faithfulkids.app](mailto:team@faithfulkids.app) to join. We also **pay Christian family creators for short video content** about their real experience with the app ([how our creator partnerships work](/creators)), and our parenting section takes **essays from homeschool parents** with a real byline and an author-page link to your blog, unpaid and said plainly ([pitch here](/parenting/write-for-us)). If you write about teaching the Bible at home, our [free printables](/printables) and [Bible trivia games](/bible-trivia) are free to use and link with your readers, no partnership required.
 
 ## How to Actually Get Accepted
 

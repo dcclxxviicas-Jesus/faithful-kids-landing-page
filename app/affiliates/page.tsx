@@ -6,7 +6,7 @@ import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 const TITLE = 'Faithful Kids Affiliate Program'
 const DESCRIPTION =
-  'Earn 50% of every sale you refer to Faithful Kids, the Bible video app for kids. One of the highest-paying affiliate commissions in the faith niche. Email team@faithfulkids.app to join.'
+  'Earn 50% of every sale you refer to Faithful Kids, the Bible app for kids. One of the highest commissions in the faith niche. Email team@faithfulkids.app.'
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -184,6 +184,7 @@ function AffiliatesV2() {
             affiliate links should see our <a href="/creators">creator partnerships page</a>;
             for the wider landscape, see our verified guide to{' '}
             <a href="/blog/christian-affiliate-programs">Christian affiliate programs</a>.
+            Faithful Kids is faithfulkids.app; faithfulkids.net is a different company.
           </p>
         </div>
       </section>

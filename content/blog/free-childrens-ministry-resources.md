@@ -6,7 +6,7 @@ metaTitle: "Free Bible Resources for Children's Ministry (Verified)"
 metaDescription: "Free Bible resources for children's ministry, verified in 2026: curriculum, printables, videos, music, training, and apps. What's genuinely free vs a trial."
 keywords: ["free children's ministry resources", "free bible resources for kids ministry", "free resources for children's ministry", "free sunday school resources", "children's ministry on a budget", "free kidmin resources", "free bible videos for church", "free kids worship music"]
 datePublished: "2026-11-11"
-dateModified: "2026-11-11"
+dateModified: "2026-11-16"
 ---
 
 Search for free children's ministry curriculum and most of what you find is the first lesson of a paid series wearing a "free" headline. Some pages link promotions that expired years ago; one famous "free" recommendation is actually a paid membership your church buys.
@@ -72,7 +72,7 @@ For music, the standout is again Life.Church: the Bible Adventure worship songs 
 
 ## Where Faithful Kids Fits
 
-We are a Bible video app that families pay for, and in the same honest register as everything above: **churches get Faithful Kids free.** We set up a real account for your children's ministry with full access to our library of animated Bible story videos, quizzes, and games, no trial clock and no card ([how it works](/churches)). The printables and trivia games linked above are free for anyone, church account or not. That is the whole pitch; the rest of this page works fine without us.
+We are a Bible video app that families pay for, and in the same honest register as everything above: **churches get Faithful Kids free.** We set up a real account for your children's ministry with full access to our library of animated Bible story videos, quizzes, and games, no trial clock and no card ([how it works](/churches)). The printables and trivia games linked above are free for anyone, church account or not. If your church needs funding as well as free resources, our verified guide to [grants for churches](/blog/grants-for-churches) lists the programs opening in January 2027 with real deadlines and amounts. **Claiming a free church account takes one email:** write to [team@faithfulkids.app](mailto:team@faithfulkids.app) with your church's name and roughly how many kids you serve, and a real person sets it up. That is the whole pitch; the rest of this page works fine without us.
 
 ## Frequently Asked Questions
 

@@ -35,6 +35,16 @@ export default function AboutParentingPage() {
             A place on Faithful Kids for grown-ups: real stories, thoughtful perspectives, and practical wisdom
             from Christian parents, educators, and ministry leaders.
           </p>
+          <p>
+            <strong>Raising Faithful Kids</strong> is the editorial section of Faithful Kids
+            (faithfulkids.app/parenting), publishing since November 2026 for Christian parents
+            raising young kids. It covers faith at home, the Bible with your kids, hard questions,
+            and screens and culture, through first-person essays, labelled opinion, interviews, and
+            original research from the Faithful Kids research desk. Every piece runs under the
+            writer&apos;s real name and is edited by a person on the Faithful Kids team; it is free to
+            read, with no paywall and no ads. Pitches go to{' '}
+            <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>.
+          </p>
 
           <h2>Why it exists</h2>
           <p>

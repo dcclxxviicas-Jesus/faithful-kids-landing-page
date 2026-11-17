@@ -72,6 +72,10 @@ export const EMBED_UTM = '?utm_source=embed&utm_medium=iframe&utm_campaign=bible
 
 export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
   const [round, setRound] = useState<Dealt[] | null>(null)
+  // The opening screen is one Begin button (owner request, Nov 2026). The
+  // level picker comes after it, so the first thing a visitor sees is a
+  // single obvious action instead of four choices.
+  const [begun, setBegun] = useState(false)
   const [difficulty, setDifficulty] = useState<Difficulty>('mixed')
   const [index, setIndex] = useState(0)
   const [picked, setPicked] = useState<number | null>(null)
@@ -200,18 +204,36 @@ export function TriviaQuizGame({ embed = false }: { embed?: boolean }) {
         <div className="tg-card">
           <div style={{ fontSize: '2.6rem', lineHeight: 1, marginBottom: 8 }}>🏆</div>
           <h2 className="tg-title">Bible Trivia Challenge</h2>
-          <p className="tg-sub">
-            10 questions. Pick your level, how well do you know the greatest story ever told?
-          </p>
-          <div className="tg-diff-grid">
-            {DIFFICULTIES.map(d => (
-              <button key={d.key} className="tg-diff" onClick={() => start(d.key)}>
-                <span className="tg-diff-emoji">{d.emoji}</span>
-                <span className="tg-diff-name">{d.label}</span>
-                <span className="tg-diff-sub">{d.sub}</span>
+          {!begun ? (
+            <>
+              <p className="tg-sub">
+                10 questions. How well do you know the greatest story ever told?
+              </p>
+              <button
+                className="tg-btn"
+                style={{ fontSize: '1.05rem', padding: '14px 44px' }}
+                onClick={() => {
+                  setBegun(true)
+                  track('trivia_page_begin', { surface: embed ? 'embed' : 'page' })
+                }}
+              >
+                Begin
               </button>
-            ))}
-          </div>
+            </>
+          ) : (
+            <>
+              <p className="tg-sub">Pick your level.</p>
+              <div className="tg-diff-grid">
+                {DIFFICULTIES.map(d => (
+                  <button key={d.key} className="tg-diff" onClick={() => start(d.key)}>
+                    <span className="tg-diff-emoji">{d.emoji}</span>
+                    <span className="tg-diff-name">{d.label}</span>
+                    <span className="tg-diff-sub">{d.sub}</span>
+                  </button>
+                ))}
+              </div>
+            </>
+          )}
           <p className="tg-note">100 questions in the pool, every round is different. Free forever.</p>
         </div>
         {fsRow}

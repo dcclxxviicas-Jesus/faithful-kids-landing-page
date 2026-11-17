@@ -42,8 +42,8 @@ export default function AboutParentingPage() {
             and screens and culture, through first-person essays, labelled opinion, interviews, and
             original research from the Faithful Kids research desk. Every piece runs under the
             writer&apos;s real name and is edited by a person on the Faithful Kids team; it is free to
-            read, with no paywall and no ads. Pitches go to{' '}
-            <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>.
+            read, with no paywall and no ads. Writers can pitch on the{' '}
+            <a href="/parenting/write-for-us">write for us</a> page.
           </p>
 
           <h2>Why it exists</h2>

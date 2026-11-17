@@ -50,6 +50,8 @@ So this guide was built the other way around. We loaded every funder's own pages
 
 **Walmart's Local Community Grants** ($250-$5,000) name churches and faith-based organizations as eligible, with one condition from their own page: the project must benefit "the community at large," like food pantries or kids' programs open to the neighborhood. Supplies for your own Sunday school classroom will not qualify; a free community kids' event will.
 
+If the school is a church ministry, the church side has its own verified funding guide: [grants for churches](/blog/grants-for-churches) covers the open cycles, the security money, and the dead programs.
+
 ## Grants for Christian School Teachers
 
 Start with the eligibility traps, because they run in both directions:

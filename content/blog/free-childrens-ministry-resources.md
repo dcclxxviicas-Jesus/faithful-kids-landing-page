@@ -46,6 +46,8 @@ For a deeper comparison of the curriculum options specifically, including what t
 - **Calvary Curriculum**, long passed around as a free classic, now shows membership tiers on its site with free samples but no free-access statement. Check before you plan a year around it.
 - **Bible Pathway Adventures**, despite its reputation, sells its printables (about $2 each).
 
+If free resources solve half the budget, the other half is funding; our verified guide to [grants for churches](/blog/grants-for-churches) sorts what's actually open from what died.
+
 ## Free Printables and Teaching Images
 
 **TrueWay Kids** publishes complete printable lessons (story, games, worksheets, crafts, coloring) and says it without hedging: "All our lessons are free to download and use." No email wall; the newsletter is optional.

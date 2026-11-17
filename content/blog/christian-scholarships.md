@@ -44,6 +44,8 @@ So this guide was verified the slow way: every amount, deadline, and eligibility
 
 **Fellowship of Evangelical Churches**: the Christian Service Foundation pays **$1,500 a year** to students from FEC churches at CCCU member colleges or accredited Bible colleges, reapplied annually.
 
+After graduation comes the job hunt; our verified guide to the [best Christian companies to work for](/blog/best-christian-companies-to-work-for) checks wages, benefits, and culture claims on the employers' own pages.
+
 ## For Missionary Kids
 
 The **Christian Missionary Scholarship Foundation** set aside $1.25 million for 2026-2027 and supports over 100 missionary kids a year with renewable four-year scholarships. Two things their page makes clear: applicants must be children of missionaries currently on or recently returned from the field, and the money travels only to their partner Christian colleges (Calvin, Dordt, Hope, Kuyper, Wheaton among them). Deadline: **February 1, 2027**. The WMU Foundation's missionary-kid track above is the Southern Baptist counterpart.

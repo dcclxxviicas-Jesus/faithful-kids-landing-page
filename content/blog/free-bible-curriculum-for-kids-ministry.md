@@ -59,6 +59,8 @@ If you're building the ministry itself, not just this week's lesson, our complet
 
 Curriculum is only one line in the budget. Our wider roundup of [free Bible resources for children's ministry](/blog/free-childrens-ministry-resources) covers printables, videos, worship music, volunteer training, and apps, all verified the same way.
 
+For the money side of ministry budgets, see our verified guide to [grants for churches](/blog/grants-for-churches), including the cycles that open each January.
+
 ## Frequently Asked Questions
 
 ### Is Faithful Kids really free for churches?

@@ -52,6 +52,8 @@ Details, quirks, and how to actually get accepted at each one below. Three compa
 
 **Honest note:** Contributors agree to share the published article on their own social media and tag the site. If you have no social presence at all, factor that in. The formatting rules read as fussy, but following them exactly is the cheapest way to signal you're easy to work with, editors notice.
 
+Writing a book rather than articles? Our verified list of [Christian publishers accepting submissions](/blog/christian-publishers-accepting-submissions) names the four genuinely open doors and the paid traps.
+
 ## Just Between Us
 
 **What they want:** Personal, conversational articles that encourage and equip Christian women, relatable stories with practical, Scripture-based application. They publish to weekly topics (their guidelines list upcoming themes and deadlines), and they also take off-topic pieces by email. No poetry, no fiction, no book reviews, and, stated outright, no AI-generated articles.

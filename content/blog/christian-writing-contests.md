@@ -45,6 +45,8 @@ These two are the highest-prestige, cleanest-terms contests in the niche, which 
 
 For students, **The Word Guild's Fresh Ink category is now free for students**, within its Canadian awards program below.
 
+If the manuscript is bigger than a contest entry, see which [Christian publishers are accepting submissions](/blog/christian-publishers-accepting-submissions), verified on their own guidelines pages.
+
 ## Conference and Association Contests (Fees Apply)
 
 **The Cascade Writing Contest**, run by Cascade Christian Writers (formerly Oregon Christian Writers; same organization, new name), takes unpublished work in 13 categories including young adult, middle grade, children's chapter books, picture books, poetry, and devotionals. Fees are **$45 per entry for members, $65 for non-members**, entries run January 15 to February 15, and winners are announced at their June conference. The value here is category breadth: it is one of few places a children's picture book manuscript can compete in a Christian contest.

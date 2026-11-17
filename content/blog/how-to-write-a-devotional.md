@@ -48,6 +48,8 @@ Here is the skeleton of the form doing its job:
 
 Notice what it does not do: no second illustration, no survey of what commentators say about Psalm 139, no three-point application. One moment, one verse, one turn, one ask.
 
+For book-length devotional projects, our verified guide to [Christian publishers accepting submissions](/blog/christian-publishers-accepting-submissions) shows the open doors and response windows.
+
 ## The Mistakes That Get Devotionals Returned
 
 - **Starting with the lesson instead of the moment.** If your first sentence could open a sermon, cut it and start where something happened.

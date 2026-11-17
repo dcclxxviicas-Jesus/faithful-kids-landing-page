@@ -40,6 +40,8 @@ If you have never sold a word, devotionals are the most realistic first paycheck
 
 If your medium is streaming rather than writing, the paying programs are different ones; we verified those separately in [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers).
 
+Writing is one remote path; the wider map of verified [remote Christian jobs](/blog/remote-christian-jobs) covers the employers whose remote policies we checked on their own pages.
+
 ## Magazine Features and Essays
 
 **Reformed Perspective** pays a **$100-$300 honorarium** for accepted original features of 800-2,000 words: Reformed reflection on culture, technology, family life, and current events, written for the whole family. The audience is conservatively Reformed; write inside that tradition or pitch elsewhere. Modern translations only (their guidelines say no KJV).

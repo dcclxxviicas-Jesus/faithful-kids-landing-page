@@ -93,6 +93,8 @@ We drew a printable [Palm Sunday coloring page](/printables/bible-coloring-pages
 
 Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet.
 
+To put these verses into practice as a family, our guide to the [best Christian charities](/blog/best-christian-charities) checks 17 ministries against three watchdogs, including ones kids can help with.
+
 ## Which Verses Teach Kids to Help People in Need?
 
 Generosity toward the poor gets special attention in Scripture; God takes it personally.

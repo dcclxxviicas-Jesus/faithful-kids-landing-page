@@ -97,6 +97,8 @@ One player (or the adult) hides a stuffed sheep, any stuffed animal works, somew
 
 The cheer is the point: Jesus said the shepherd who finds his one lost sheep "rejoices over it more than the ninety-nine" (Luke 15:4-7), so the celebration is not a bolt-on; it IS the lesson. Ages 4-7, two or more players, and the only supply is one stuffed animal.
 
+For hands-on play away from screens and paper, see our [Christian toys](/blog/christian-toys) guide, checked for Christmas stock.
+
 ## Which Bible Games Work for Ages 8-12?
 
 Kids who can read and handle real competition are ready for these seven. That competitive streak is also what makes [the goofiest youth group games](/blog/fun-youth-group-games) land once these kids hit middle school, so the transition is easier than it looks.

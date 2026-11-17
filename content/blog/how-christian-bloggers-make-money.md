@@ -58,6 +58,8 @@ Bloggers who also stream have a separate monetization path; see our guide to [Tw
 
 For the affiliate layer specifically, our verified directory of [Christian affiliate programs](/blog/christian-affiliate-programs) ranks every live program by what it actually pays, including one at 50%.
 
+To see who's building the biggest faith audiences right now, our list of [Christian influencers](/blog/christian-influencers) verifies 22 active creators, platform by platform.
+
 ## Ministry and Brand Partnerships
 
 This is the route every ranking post misses, and for a Christian blogger it is often the most natural fit.

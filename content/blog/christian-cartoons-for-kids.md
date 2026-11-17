@@ -81,6 +81,8 @@ Match the show to your kid's age and you'll get a lot less pushback. Here's the 
 
 There is a free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) on our site too, printable on one sheet with
 
+For the holidays, see our [Christian Christmas movies for kids](/blog/christian-christmas-movies-for-kids), with where to stream The Star, VeggieTales and The Best Christmas Pageant Ever.
+
 ## Do Cartoons Actually Teach Kids the Bible?
 
 Cartoons introduce Bible stories brilliantly, but kids retain far more when watching is paired with conversation or questions. That's the honest limitation of every show on this list: it's one-directional. Your kid watches Superbook's David and Goliath episode, enjoys it, and moves on; unless someone asks them about it.

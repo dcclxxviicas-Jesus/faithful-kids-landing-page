@@ -91,6 +91,8 @@ There is a Christmas edition too: [Christmas Bible trivia](/blog/christmas-bible
 
 For the program itself, there's a complete [nativity play script for kids](/blog/nativity-play-script-for-kids); free to perform and photocopy, with director's notes.
 
+If you're buying for the whole family this season, our [Christian gifts](/blog/christian-gifts) guide has 30 ideas sorted by person and budget.
+
 ## Frequently Asked Questions
 
 ### What is the best Advent book for kids overall?

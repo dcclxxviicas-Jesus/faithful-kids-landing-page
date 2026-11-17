@@ -48,6 +48,8 @@ For ongoing reading beyond this list, our roundup of the [best Christian blogs f
 
 Prefer watching to listening? Our verified roundup of [Christian YouTubers](/blog/christian-youtubers) covers the teaching and apologetics channels worth a subscription.
 
+For your own listening, beyond parenting, our [best Christian podcasts](/blog/best-christian-podcasts) list checks 22 shows that are still publishing, plus the famous ones that ended.
+
 ## What Are the Best Christian Parenting Podcasts for Deeper Teaching?
 
 For parents who want a framework rather than a conversation, these two shows teach a specific method and stick to it.

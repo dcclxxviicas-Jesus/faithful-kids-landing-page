@@ -53,6 +53,10 @@ If you want songs that put the biblical text itself into your child's memory, th
 
 Pairing these with a plan multiplies the effect: our guide to [Bible memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids) shows how to rotate songs so verses move into long-term memory.
 
+For whole albums and artists rather than single songs, see our guide to the [best Christian music for kids](/blog/christian-music-for-kids), with which artists are still releasing new music.
+
+When your kids graduate to the grown-up charts, our [best Christian artists](/blog/christian-artists) list has this week's Billboard positions and the 2026 Dove winners.
+
 ## Which Songs Fit Which Setting?
 
 Match the song to the moment: high-energy songs for the car, quiet ones for bedtime, and congregational ones for church prep. Here's a quick playlist-builder:

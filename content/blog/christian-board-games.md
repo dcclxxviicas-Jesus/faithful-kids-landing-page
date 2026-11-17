@@ -35,6 +35,8 @@ A money tip from their store: Cactus sells damaged-box copies of several titles 
 
 The newest verified releases come from Doxa Games, a Kickstarter-funded trio that actually shipped and was all in stock at [doxagames.com](https://doxagames.com/) on November 16, 2026: **Bible Clash: Gospels** ($12.99), a Top-Trumps-style head-to-head where Bible characters match up on Faith, Wisdom, Courage, Obedience, Service, and Strategy; **Trials & Triumphs** ($26.99), a family path game where abiding Grapevines (John 15:5) move you forward and Cracked Paths set you back; and **Hurry! Fleeing Disciples** ($34.99), set in Acts, guiding disciples past Roman guards to hidden house churches. Publisher-direct only; there's a bundle, and a Black Friday code was advertised when we looked.
 
+For younger kids who aren't ready for board games, our [Christian toys](/blog/christian-toys) guide covers playsets, plush and simple Bible games.
+
 ## For Serious Board Gamers
 
 **Deliverance** (Lowen Games, $89 at [playdeliverance.com](https://playdeliverance.com/shop/), listed as pre-order in a reprint cycle; Noble Knight had the Deluxe Edition physically in stock): a cooperative tactical campaign game where 1-4 players are angelic warriors defending a town from demonic forces. It earned mainstream hobby-press reviews, which almost nothing in this niche does. The spiritual-warfare theme makes it a teens-and-up table, not a kids' game.

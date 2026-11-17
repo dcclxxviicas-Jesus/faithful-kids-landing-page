@@ -99,6 +99,8 @@ Cecil B. DeMille's four-hour epic with Charlton Heston as Moses is a rite of pas
 
 For quiet time afterwards, print the free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) and let them color while you talk it through.
 
+For December specifically, our [Christian Christmas movies for kids](/blog/christian-christmas-movies-for-kids) guide says where each one streams this season and what leaves soon.
+
 ## How Do You Turn a Movie Into a Real Conversation?
 
 Ask one open question, then let silence do the work. Kids shut down under quizzing, but they'll talk if you ask what surprised them and genuinely wait. Three habits that help: ask your question over food rather than the moment the movie ends; share your own answer first sometimes; and connect the film back to the actual Bible story where there is one, our guide to [Bible stories with moral lessons for kids](/blog/bible-stories-with-moral-lessons-for-kids) pairs well here.

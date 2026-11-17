@@ -66,6 +66,10 @@ Familiar characters, gentle faith lessons on kindness, forgiveness, and prayer. 
 
 There is a free [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god) on our site too, printable on one sheet with
 
+For the Bible itself, our [best kids Bibles by age](/blog/best-bibles-for-kids) guide goes from toddler board books to teen study Bibles.
+
+Choosing a first full Bible? Our guide to the [best Bible translation for kids](/blog/best-bible-translation-for-kids) explains NIrV vs ICB vs NLT.
+
 ## Best Christian Books for Tweens (Ages 8-12)
 
 The sweet spot for this age is adventure first, faith woven through; these are the books tweens actually finish.

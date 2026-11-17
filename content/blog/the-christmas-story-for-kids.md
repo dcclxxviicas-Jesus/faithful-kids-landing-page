@@ -112,6 +112,8 @@ Add the [kids' nativity play script](/blog/nativity-play-script-for-kids), free,
 
 Pair it with our free [Christmas word search](/printables/bible-word-search/christmas): 12 words from the nativity story in Luke 2, printable or playable in the browser.
 
+To watch the story together, our guide to [Christian Christmas movies for kids](/blog/christian-christmas-movies-for-kids) sorts the Nativity films by age.
+
 ## Frequently Asked Questions
 
 ### What is the Christmas story in simple words?

@@ -43,6 +43,8 @@ If video is more your family's medium than blogs, we verified the active [Christ
 
 For newsrooms rather than personal blogs, our verified roundup of the [best Christian news sites and publications](/blog/best-christian-news-sites) covers who's actually publishing, what's free, and which famous mastheads just changed names.
 
+Many of today's biggest Christian voices live on video and social rather than blogs; our [Christian influencers](/blog/christian-influencers) list covers them.
+
 ## Teens, Tech and Media
 
 The question behind half of Christian parenting search traffic is really "what do I do about the phone," and four sites own it.

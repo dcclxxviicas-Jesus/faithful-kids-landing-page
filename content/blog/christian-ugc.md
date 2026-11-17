@@ -45,6 +45,8 @@ If your content is live rather than posted, sponsorships work differently there;
 
 Alongside UGC fees, affiliate links are the second income stream; our verified [Christian affiliate programs](/blog/christian-affiliate-programs) directory ranks them by what they pay.
 
+For examples of what's working, our list of [Christian influencers to follow](/blog/christian-influencers) verifies 22 active accounts and their real audience sizes.
+
 ## The Pitch That Gets Answered
 
 Three sentences, no attachments:

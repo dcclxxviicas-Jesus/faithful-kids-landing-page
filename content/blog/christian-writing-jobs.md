@@ -42,6 +42,8 @@ If your medium is streaming rather than writing, the paying programs are differe
 
 Writing is one remote path; the wider map of verified [remote Christian jobs](/blog/remote-christian-jobs) covers the employers whose remote policies we checked on their own pages.
 
+If you're weighing a degree first, our [best Christian colleges](/blog/best-christian-colleges) guide uses College Scorecard data, not reputation.
+
 ## Magazine Features and Essays
 
 **Reformed Perspective** pays a **$100-$300 honorarium** for accepted original features of 800-2,000 words: Reformed reflection on culture, technology, family life, and current events, written for the whole family. The audience is conservatively Reformed; write inside that tradition or pitch elsewhere. Modern translations only (their guidelines say no KJV).

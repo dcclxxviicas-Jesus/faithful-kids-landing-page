@@ -61,6 +61,14 @@ A related freebie: our [Armor of God coloring page](/printables/bible-coloring-p
 
 Shopping for a gamer kid? Our guide to [Christian video games](/blog/christian-video-games) verified what's actually available this year, with prices from the stores themselves.
 
+Shopping for the adults too? Our [best Christian gifts](/blog/christian-gifts) guide covers her, him, pastors, teens and grandparents, with every price checked.
+
+For the youngest on your list, our [Christian toys](/blog/christian-toys) guide checks which Noah's arks, nativity playsets and Bible games are actually in stock.
+
+Clothing makes an easy gift too; our guide to [Christian clothing for kids](/blog/christian-clothing-for-kids) lists the brands still selling, with real sizes and prices.
+
+A gift in someone's name can be the best gift of all; our [best Christian charities](/blog/best-christian-charities) guide shows which ministries score well with the watchdogs.
+
 ## What Are the Best Christian Gifts for Ages 8-10?
 
 For ages 8-10, the best gifts are real Bibles they can read themselves, devotionals, and story-driven media. This is the golden window when kids are proud to own "big kid" faith stuff. Aim for gifts that respect their growing independence.

@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Comparing the 7 best Bible apps for kids in 2026. Features, pricing, age ranges, and which app is best for your family. Includes free and paid options."
 keywords: ["best bible app for kids", "bible app for kids", "kids bible app", "bible app for children 2026"]
 datePublished: "2026-04-01"
-dateModified: "2026-11-16"
+dateModified: "2026-11-17"
 ---
 
 # Best Bible App for Kids in 2026: Top 7 Apps Compared
@@ -18,7 +18,7 @@ Every cell below was checked against the vendor's own site or App Store listing 
 
 | App | Price | Free trial | Ages (vendor) | Ads | Quiz after every story | Parent dashboard | Platforms | Whole Bible in order |
 |---|---|---|---|---|---|---|---|---|
-| **Faithful Kids** | $12.99/mo · $97/yr (web); $8.99/mo · $79.99/yr (iOS) | 7 days web / 3 days Apple | 5-15 | No ads | **Yes** | **Yes** (PIN) | Web, iPhone/iPad | **Yes**, 310 lessons |
+| **Faithful Kids** | $12.99/mo · $97/yr (web); $8.99/mo · $79.99/yr (iOS and Google Play) | 7 days web / 3 days Apple and Google Play | 5-15 | No ads | **Yes** | **Yes** (PIN) | Web, iPhone/iPad, Android | **Yes**, 310 lessons |
 | Bible App for Kids (YouVersion) | Free |, | 4-8 | Free, no in-app purchases | No (games) | No | iOS, Android, Kindle | No, 41 stories |
 | Superbook Kids | Free |, | 5-12 |, (no purchases listed) | No (games) | Controls, no dashboard | iOS, Android, web | No |
 | Minno | $10.99/mo · $69.99/yr | 7 days | 2-10 | "100% Ad-Free" | No |, | iOS, Android, TVs, web | No |
@@ -37,7 +37,7 @@ Every cell below was checked against the vendor's own site or App Store listing 
 **Ages:** 5+
 **Content:** 300+ video lessons across 30+ series, Genesis to Revelation
 
-Faithful Kids stands out for two reasons: coverage and accountability. Only two apps on this list quiz a child after every single story, Faithful Kids and BibleBuddy Kids, and only Faithful Kids does it across the whole Bible for the whole childhood: 310 lessons from Genesis to Revelation, ages 5-15, on the web and iPhone/iPad (BibleBuddy covers 82 stories for ages 6-8, iOS only). Your child does not just watch. They learn and prove they understood. And Faithful Kids turns the whole Bible into a game kids can play: each story moves from the video to a playable story game to a quiz on a 3D map, which is why it also tops our guide to [Christian video games for kids](/blog/christian-video-games) ([see the story games](/blog/bible-story-games)).
+Faithful Kids stands out for two reasons: coverage and accountability. Only two apps on this list quiz a child after every single story, Faithful Kids and BibleBuddy Kids, and only Faithful Kids does it across the whole Bible for the whole childhood: 310 lessons from Genesis to Revelation, ages 5-15, on the web, iPhone/iPad and Android (BibleBuddy covers 82 stories for ages 6-8, iOS only). Your child does not just watch. They learn and prove they understood. And Faithful Kids turns the whole Bible into a game kids can play: each story moves from the video to a playable story game to a quiz on a 3D map, which is why it also tops our guide to [Christian video games for kids](/blog/christian-video-games) ([see the story games](/blog/bible-story-games)).
 
 **Pros:**
 - 300+ video lessons covering Genesis to Revelation
@@ -187,7 +187,7 @@ God for Kids is a simple app designed for very young children. It has basic Bibl
 
 For deeper dives on the individual platforms, see our [Minno review](/blog/minno-review) and the three-way [Minno vs Superbook vs Yippee TV](/blog/minno-vs-superbook-vs-yippee) comparison.
 
-Faithful Kids itself is now on the App Store, our [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside, pricing, and the Made for Kids safety details.
+Faithful Kids itself is now on the App Store and Google Play; our [Faithful Kids app page](/blog/faithful-kids-app) covers what is inside, pricing, and the Made for Kids safety details.
 
 Prices change; the always-current numbers for web and iOS are on our [pricing page](/pricing).
 

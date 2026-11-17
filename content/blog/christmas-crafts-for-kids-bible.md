@@ -126,6 +126,8 @@ For the season's readings, print the free [Advent Bible calendar](/printables/ad
 
 More for December: the [Christmas Bible activities hub](/holidays/christmas) gathers the whole season's stories, trivia, and printables.
 
+Looking for a nativity set kids can actually play with? Our [Christian toys](/blog/christian-toys) guide compares them by age.
+
 ## Crafts 11-15: The Response
 
 ### 11. Shepherd's Staff Candy Cane Craft

@@ -211,6 +211,8 @@ We drew a printable [angel visits Mary coloring page](/printables/bible-coloring
 
 Come February, the free [Valentine Bible verse cards](/printables/valentine-bible-verse-cards) turn short love verses into cards kids color and hand out, four to a sheet.
 
+Memorizing is easier in a translation they understand; see our guide to the [best Bible translation for kids](/blog/best-bible-translation-for-kids), with the same verse side by side.
+
 ## General Memory Tips for All Ages
 
 **Repetition is king.** Say it daily for a week, then review weekly for a month. After that, monthly review keeps it permanent. For a complete system, see these [memory verse strategies for kids](/blog/bible-memory-verse-strategies-for-kids).

@@ -39,6 +39,8 @@ Before the big employers, the disclosure that doubles as an invitation: we make 
 
 **Samaritan's Purse**: the ministry's faith statements are clear on its own site, but its careers portal blocked our verification entirely, so we can't report openings or employment terms first-hand. [samaritanspurse.org](https://www.samaritanspurse.org/) links its careers site from the homepage; check it directly.
 
+Still deciding where to study first? Our [best Christian colleges](/blog/best-christian-colleges) guide compares real costs and graduation rates.
+
 ## Publishing, Media, and Christian Tech
 
 **Lifeway Christian Resources** (Nashville): banner, "Faith Works Here"; careers page, "At Lifeway, faith is the foundation of everything we do." The standout verified policy is its "strong Work from Anywhere (WFA) culture": most of its 16 current openings were US-remote at our check, with benefits boilerplate including mission trip time and adoption assistance. [Careers](https://www.lifeway.com/about/careers).

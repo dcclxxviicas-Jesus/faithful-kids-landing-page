@@ -50,6 +50,8 @@ The best family-wide Christian podcasts are ones parents genuinely enjoy too, Ti
 
 If small hands need something to do while you read, the free [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb) is made for exactly that.
 
+Looking for something for the grown-ups in the car? Our verified list of the [best Christian podcasts](/blog/best-christian-podcasts) covers Bible teaching, prayer and culture shows still publishing in 2026.
+
 ## Which Christian Podcast Fits Which Age?
 
 Match the show's length and format to your child's attention span, not their reading level; kids can comprehend audio two to three grade levels above what they can read. Here's the whole list at a glance:

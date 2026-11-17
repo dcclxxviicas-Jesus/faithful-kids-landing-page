@@ -48,6 +48,10 @@ Parents and teachers who want to write about this work can find every open door 
 
 For ongoing reading beyond this list, our roundup of the [best Christian blogs for parents](/blog/best-christian-blogs) covers mom, dad, homeschool and teen-parenting sites, every one verified active.
 
+The right Bible for their age makes all of this easier; see our [best kids Bibles by age](/blog/best-bibles-for-kids).
+
+Which translation you hand them matters too; our guide to the [best Bible translation for kids](/blog/best-bible-translation-for-kids) compares the NIrV, ICB, NLT and more by reading level.
+
 ## How Do You Build a Bible Routine That Actually Survives Real Life?
 
 Anchor it to an existing habit, keep it under ten minutes, and plan for failure in advance.

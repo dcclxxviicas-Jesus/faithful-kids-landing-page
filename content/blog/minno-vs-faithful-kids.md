@@ -5,7 +5,7 @@ type: "listicle"
 metaDescription: "Minno vs Faithful Kids compared honestly, content style, Bible coverage, quizzes, pricing, and ages, plus which app fits your family's actual goal."
 keywords: ["minno vs faithful kids", "minno review", "minno alternative", "best christian kids app comparison"]
 datePublished: "2026-04-01"
-dateModified: "2026-08-18"
+dateModified: "2026-11-17"
 ---
 
 Minno and Faithful Kids are both Christian video apps for kids, but they are built for different jobs: Minno is Christian entertainment, a streaming library of full-length animated shows, while Faithful Kids is Bible education, with short structured lessons, quizzes, and progress tracking through Scripture in order. Choose Minno if you want a safe replacement for Netflix; choose Faithful Kids if you want your child to systematically learn the Bible; many families deliberately run both.
@@ -16,7 +16,7 @@ This comparison walks through content, Bible coverage, learning features, pricin
 
 **Minno** is a streaming service for Christian kids' shows, think of it as a faith-based Netflix. Its library includes hundreds of episodes of animated series (VeggieTales and What's in the Bible? are its best-known titles) plus movies and music, mostly in the 10-30 minute episode format kids know from mainstream streaming. Kids browse and watch; there is no lesson structure.
 
-**Faithful Kids** is a Bible learning platform disguised as a kids' app. It walks children through the entire Bible, Genesis to Revelation, in 20 series of short video lessons, each followed by a comprehension quiz and a reflection question. Progress unlocks like a game (levels, streaks, achievements, Duolingo-style), and parents get a dashboard showing what their child watched and how they scored.
+**Faithful Kids** is a Bible learning platform disguised as a kids' app. It walks children through the entire Bible, Genesis to Revelation, in 31 series of short video lessons, each followed by a comprehension quiz and a reflection question. Progress unlocks like a game (levels, streaks, achievements, Duolingo-style), and parents get a dashboard showing what their child watched and how they scored.
 
 ## How Do They Compare Side by Side?
 

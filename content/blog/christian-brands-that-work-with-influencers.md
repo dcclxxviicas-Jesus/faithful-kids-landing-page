@@ -37,6 +37,8 @@ Prefer writing to filming? The same niche pays writers too; our [Christian writi
 
 Prefer links to sponsorships? Our verified directory of [Christian affiliate programs](/blog/christian-affiliate-programs) sorts the niche by real commission rates.
 
+If you're shopping rather than partnering, our [best Christian clothing brands](/blog/christian-clothing-brands) guide checks which apparel brands are still selling and which closed.
+
 ## 4. DaySpring (program discontinued; update from November 2026)
 
 **What they make:** faith-based greeting cards, home decor, and gifts (a Hallmark subsidiary, one of the largest Christian retailers in the US).

@@ -7,9 +7,10 @@ import {
   resourcesFor, fmtDate, articleUrl, type Article, type Section,
 } from '@/lib/parenting'
 import {
-  Masthead, SectionNav, Kicker, Byline, ArticleCard, AuthorCard, SampleRibbon, QuietStrip,
+  Masthead, SectionNav, Kicker, Byline, ArticleCard, AuthorCard, SampleRibbon, QuietStrip, MidSignup, WatchStories,
 } from '../ui'
 import { ShareRow } from '../client'
+import { getWatchStories, splitForSignup } from '@/lib/parenting-watch'
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -165,6 +166,8 @@ function ArticlePage({ article: a }: { article: Article }) {
     ...(a.sources.length ? { citation: a.sources.map(s => s.href) } : {}),
   }
   if (a.type === 'interview' && a.interviewee) jsonLd.about = { '@type': 'Person', name: a.interviewee.split(',')[0].trim() }
+  const split = splitForSignup(a.contentHtml)
+  const watch = getWatchStories(a)
   const breadcrumb = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -212,7 +215,16 @@ function ArticlePage({ article: a }: { article: Article }) {
         )}
 
         <article className="pt-article">
-          <div className="pt-prose" dangerouslySetInnerHTML={{ __html: a.contentHtml }} />
+          {split ? (
+            <>
+              <div className="pt-prose" dangerouslySetInnerHTML={{ __html: split[0] }} />
+              <MidSignup slug={a.slug} />
+              <div className="pt-prose" dangerouslySetInnerHTML={{ __html: split[1] }} />
+            </>
+          ) : (
+            <div className="pt-prose" dangerouslySetInnerHTML={{ __html: a.contentHtml }} />
+          )}
+          <WatchStories stories={watch.stories} fromEssay={watch.fromEssay} />
 
           {a.sources.length > 0 && (
             <section className="pt-sources" aria-label="Sources">

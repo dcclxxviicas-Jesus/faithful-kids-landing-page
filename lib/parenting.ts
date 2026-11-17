@@ -136,6 +136,8 @@ export interface Article {
   canonical: string
   sources: LinkItem[]
   resources: LinkItem[]
+  /* Optional override for the end-of-essay story tiles (see lib/parenting-watch.ts). */
+  watch: string[]
   disclosure: string
   contentHtml: string
   body: string
@@ -395,6 +397,7 @@ function readArticle(file: string): Article {
     canonical: str(data.canonical),
     sources: toLinks(list(data.sources)),
     resources: toLinks(list(data.resources)),
+    watch: list(data.watch),
     disclosure: str(data.disclosure),
     contentHtml,
     body,

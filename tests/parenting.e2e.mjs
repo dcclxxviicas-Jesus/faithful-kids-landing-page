@@ -148,6 +148,27 @@ await check('retired section pages redirect to /parenting; no section tabs; labe
   return '5 redirects, no tabs, plain labels'
 })
 
+await check('every essay: mid-article signup between paragraphs + three working story tiles', async () => {
+  const home = await (await fetch(`${BASE}/parenting`)).text()
+  const slugs = [...new Set([...home.matchAll(/href="\/parenting\/([a-z0-9-]+)"/g)].map(m => m[1]))]
+    .filter(s => !['about', 'write-for-us', 'editorial-policy', 'submission-guidelines', 'authors'].includes(s))
+  must(slugs.length >= 10, `only ${slugs.length} essays found on /parenting`)
+  const tileHrefs = new Set()
+  for (const s of slugs) {
+    const html = await (await fetch(`${BASE}/parenting/${s}`)).text()
+    must(/<\/p><aside class="pt-midsignup"/.test(html.replace(/<\/div>/g, '')), `${s}: signup box missing or not after a paragraph`)
+    must(html.includes('Get new essays on raising kids who love God, by email.'), `${s}: signup headline missing`)
+    const tiles = [...html.matchAll(/class="pt-watch-tile" href="([^"]+)"/g)].map(m => m[1])
+    must(tiles.length === 3, `${s}: ${tiles.length} story tiles`)
+    tiles.forEach(h => tileHrefs.add(h))
+  }
+  for (const h of tileHrefs) {
+    const r = await fetch(`${BASE}${h}`)
+    must(r.status === 200, `story tile ${h} returned ${r.status}`)
+  }
+  return `${slugs.length} essays, ${tileHrefs.size} distinct story links all 200`
+})
+
 await check('author page: profile schema and article list', async () => {
   must(firstAuthor, 'no author link found')
   const page = await desktop.newPage()

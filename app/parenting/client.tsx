@@ -42,7 +42,7 @@ export function ShareRow({ url, title }: { url: string; title: string }) {
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/
 
-export function NewsletterInline({ source }: { source: string }) {
+export function NewsletterInline({ source, button = 'Subscribe', placeholder = 'you@example.com' }: { source: string; button?: string; placeholder?: string }) {
   const [email, setEmail] = useState('')
   const [state, setState] = useState<'idle' | 'sending' | 'done' | 'error'>('idle')
   const [msg, setMsg] = useState('')
@@ -89,9 +89,9 @@ export function NewsletterInline({ source }: { source: string }) {
       ) : (
         <form className="pt-news-form" onSubmit={submit} noValidate>
           <label htmlFor={`pt-news-${source}`} className="pt-hp">Email address</label>
-          <input id={`pt-news-${source}`} type="email" inputMode="email" autoComplete="email" placeholder="you@example.com"
+          <input id={`pt-news-${source}`} type="email" inputMode="email" autoComplete="email" placeholder={placeholder}
                  value={email} onChange={e => setEmail(e.target.value)} required aria-invalid={state === 'error'} />
-          <button type="submit" disabled={state === 'sending'}>{state === 'sending' ? 'Sending…' : 'Subscribe'}</button>
+          <button type="submit" disabled={state === 'sending'}>{state === 'sending' ? 'Sending…' : button}</button>
         </form>
       )}
       {state === 'error' && <p className="pt-news-err" role="alert">{msg}</p>}

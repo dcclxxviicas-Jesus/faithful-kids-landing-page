@@ -4,6 +4,7 @@
 import type { Article, Author, Section } from '@/lib/parenting'
 import { fmtDate } from '@/lib/parenting'
 import { NewsletterInline } from './client'
+import type { WatchStory } from '@/lib/parenting-watch'
 
 export const SECTION_LABEL = 'Parenting'
 export const SECTION_H1 = 'Raising Faithful Kids'
@@ -175,6 +176,38 @@ export function QuietStrip({ source }: { source: string }) {
         </div>
       </div>
     </section>
+  )
+}
+
+/* Mid-essay newsletter box (owner's pick, Nov 16, 2026): green label, one
+   headline, the field. Sits between two paragraphs; see splitForSignup. */
+export function MidSignup({ slug }: { slug: string }) {
+  return (
+    <aside className="pt-midsignup" aria-labelledby="pt-midsignup-h">
+      <p className="pt-midsignup-label">Raising Faithful Kids</p>
+      <p className="pt-midsignup-h" id="pt-midsignup-h">Get new essays on raising kids who love God, by email.</p>
+      <NewsletterInline source={`article-mid:${slug}`} button="Sign me up" placeholder="Your email address" />
+    </aside>
+  )
+}
+
+/* End-of-essay "Watch the stories" block (owner's pick, Nov 16, 2026). The
+   stories are chosen in lib/parenting-watch.ts, never by hand. */
+export function WatchStories({ stories, fromEssay }: { stories: WatchStory[]; fromEssay: boolean }) {
+  if (stories.length === 0) return null
+  return (
+    <aside className="pt-watch" aria-labelledby="pt-watch-h">
+      <p className="pt-watch-label" id="pt-watch-h">{fromEssay ? 'Watch the stories from this essay' : 'Bible stories to watch with your kids'}</p>
+      <div className="pt-watch-tiles">
+        {stories.map(s => (
+          <a key={s.slug} className="pt-watch-tile" href={s.href}>
+            <span className="pt-watch-art"><img src={s.image} alt="" width={480} height={300} loading="lazy" /><i aria-hidden="true" /></span>
+            <span className="pt-watch-title">{s.title}</span>
+          </a>
+        ))}
+      </div>
+      <p className="pt-watch-foot">Two-minute video lessons for kids, in the Faithful Kids app. <a href="/quiz?ref=parenting-watch">Try it free &rarr;</a></p>
+    </aside>
   )
 }
 

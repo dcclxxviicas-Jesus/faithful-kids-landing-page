@@ -33,11 +33,31 @@ sources:
 resources:
   - "Noah's Ark video lesson | /blog/noahs-ark-for-kids"
 disclosure: "The author's church uses Faithful Kids through the free church program."
+watch: ["esther-saves-her-people-for-kids"]   # optional; see "Story tiles" below
 ---
 ```
 
 Body rules: no `#` H1 (the template renders the title), headings start at `##`,
 `![alt](src "Caption")` renders a captioned figure, `> quote` renders a pull quote.
+
+## Story tiles and the newsletter box (automatic)
+
+Every published essay gets two things you never place by hand:
+
+- **The newsletter box** goes after the paragraph nearest 40% of the way
+  through, between two plain paragraphs (never in a list, quote or next to a
+  heading). Nothing to do; `splitForSignup` in `lib/parenting-watch.ts`.
+- **"Watch the stories from this essay"**: three video-lesson tiles at the end.
+  They are picked by `getWatchStories` in the same file, in this order:
+  1. `watch:` in frontmatter, if set (blog story slugs, max 3; a slug that is
+     not a story post with a video FAILS THE BUILD);
+  2. otherwise the story posts the essay links to, in reading order;
+  3. any gaps filled with David and Goliath, Noah, Calming the Storm.
+  The heading says "from this essay" only when all three came from the essay;
+  otherwise it reads "Bible stories to watch with your kids".
+  **So: link the stories you name** (`[Esther](/blog/esther-saves-her-people-for-kids)`)
+  and the tiles follow. Use `watch:` only to name a story the essay mentions
+  without linking, and only stories the essay actually talks about.
 
 ## Status
 

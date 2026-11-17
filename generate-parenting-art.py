@@ -123,6 +123,11 @@ SCENES = {
         "full of stars and the pale band of the Milky Way, a parent's hand on their shoulder just at the edge of frame. "
         "Awe, not fear. The sky takes most of the picture."
     ),
+    "what-to-say-when-your-child-says-i-dont-think-i-believe": (
+        "Dusk on a back porch: a mother and her son of about thirteen sit side by side on the wooden step, "
+        "shoulders nearly touching, both looking out at the garden rather than at each other, two mugs on the step "
+        "between them, a warm kitchen light glowing through the screen door behind. Quiet, honest, unhurried."
+    ),
 }
 
 

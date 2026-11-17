@@ -138,6 +138,11 @@ SCENES = {
         "taking her first step across the open asphalt toward another girl sitting alone on a bench under a tree. "
         "Other children blurred and busy in the background. Brave, quiet, hopeful."
     ),
+    "jesus-made-breakfast": (
+        "Dawn on a quiet lakeshore: a father crouched by a small campfire cooking fish and flatbread in a cast-iron pan, "
+        "smoke curling up into pale morning light over still water, while a boy and a girl in jackets sit close on a log "
+        "wrapped in one blanket, watching hungrily. A fishing boat pulled up on the pebbles behind. Warm, simple, loving."
+    ),
 }
 
 

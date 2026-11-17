@@ -70,7 +70,7 @@ export default function ValentineCardsPage() {
         </div>
 
         <header className="vc-head" style={{ borderBottom: `3px solid ${GREEN}`, paddingBottom: '1rem', marginBottom: '1.5rem' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '0.75rem' }}>
+          <div className="print-brand" style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '0.75rem' }}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/logo-sm.png" alt="Faithful Kids logo" width={36} height={36} style={{ display: 'block' }} />
             <span style={{ fontSize: '1.05rem', fontWeight: 700, color: GREEN }}>Faithful Kids</span>

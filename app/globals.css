@@ -3813,6 +3813,13 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 }
 @media print { .wsg-sel { background: none !important; color: #333 !important; } }
 
+/* Printables: the small logo + wordmark above the H1 is the letterhead of the
+   PRINTED sheet (the nav is hidden in print). On screen it duplicated the nav
+   logo, so it is hidden there. !important because the row sets an inline
+   display:flex. */
+.print-brand { display: none !important; }
+@media print { .print-brand { display: flex !important; } }
+
 /* Print-only mark, repeated on every printed sheet.
    position:fixed inside @media print repeats on each page, which is what a
    multi-sheet printable needs — the trivia pack alone runs several pages. */

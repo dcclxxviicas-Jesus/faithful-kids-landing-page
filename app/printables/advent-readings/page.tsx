@@ -267,7 +267,7 @@ export default function AdventReadingsPrintable() {
           paddingBottom: '1rem',
         }}
       >
-        <div
+        <div className="print-brand"
           style={{
             display: 'flex',
             alignItems: 'center',

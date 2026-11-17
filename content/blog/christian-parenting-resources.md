@@ -40,6 +40,8 @@ Podcasts are the highest-return format for parents because they fit into drives 
 
 All 12 shows, with episode lengths and who each one fits, are in our [Christian parenting podcasts](/blog/christian-parenting-podcasts) list. Worth knowing: Risen Motherhood, long the go-to for moms of littles, has ended; the archive is still excellent, but no new episodes are coming.
 
+For podcasts beyond parenting, our [best Christian podcasts](/blog/best-christian-podcasts) list checks 22 shows still publishing in 2026, from The Bible Recap to Ask NT Wright Anything, each linked to its Apple Podcasts page.
+
 ## What Are the Best Christian Apps for Families?
 
 Pick one app the kids will actually open, and one for yourself. Two is a system; six is clutter.

@@ -97,6 +97,8 @@ Small on YouTube (under 4K subscribers) and big where it counts: founder of the 
 
 About 12.6K YouTube subscribers, but Twitch-first, where UK Christian press has profiled her as quietly sharing Jesus with a reach in the hundreds of thousands. Her YouTube is the archive; the live ministry happens on stream. Best for teen girls into streaming culture.
 
+For Christian creators beyond YouTube (Instagram, TikTok and podcasts), see our verified list of [Christian influencers to follow](/blog/christian-influencers). And if you're a Christian creator yourself, Faithful Kids pays for collaborations with no follower minimum and runs a 50% affiliate program; email [team@faithfulkids.app](mailto:team@faithfulkids.app).
+
 ## Channels That Went Quiet (Check Before You Recommend)
 
 Verified silent as of November 16, 2026, despite still appearing on popular lists:

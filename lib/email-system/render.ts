@@ -41,7 +41,8 @@ export interface RenderInput {
 }
 
 const ASSETS = 'https://d3g07v1w0lehiv.cloudfront.net/email'
-const LOGO = `${ASSETS}/logo-line.png`
+// The header is the name in plain text, no logo image (owner decision, Nov 17,
+// 2026): every logo tried rendered badly in Gmail's dark mode on phones.
 
 export function escapeHtml(s: string): string {
   return String(s)
@@ -126,7 +127,7 @@ export function renderEmail(input: RenderInput): string {
   if (style === 'home') {
     return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&display=swap" rel="stylesheet"><style>a{color:#15803d}</style></head><body style="margin:0;background:#ffffff;">${pre}
 <div style="max-width:560px;margin:0 auto;padding:0 22px 40px;font:16px/1.6 ${NUNITO};color:#1e293b;">
-${table('width:100%;margin:0 0 30px;border-bottom:1px solid #e5e7eb;', `<tr><td style="padding:16px 0;width:40px;"><img src="${LOGO}" alt="" width="36" height="36" style="display:block;border:0;"></td><td style="padding:16px 0 16px 8px;font:800 19px ${NUNITO};color:#1e293b;">Faithful Kids</td></tr>`)}
+${table('width:100%;margin:0 0 30px;border-bottom:1px solid #e5e7eb;', `<tr><td style="padding:16px 0;font:800 19px ${NUNITO};color:#1e293b;">Faithful Kids</td></tr>`)}
 ${body}
 <div style="margin:36px 0 0;padding-top:16px;border-top:1px solid #e5e7eb;font-size:12px;line-height:1.55;color:#9ca3af;">${reason}${unsub}<br>Faithful Kids · faithfulkids.app</div>
 </div></body></html>`

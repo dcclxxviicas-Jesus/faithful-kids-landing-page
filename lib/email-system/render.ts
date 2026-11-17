@@ -41,7 +41,7 @@ export interface RenderInput {
 }
 
 const ASSETS = 'https://d3g07v1w0lehiv.cloudfront.net/email'
-const LOGO = `${ASSETS}/logo-tile.png`
+const LOGO = `${ASSETS}/logo-line.png`
 
 export function escapeHtml(s: string): string {
   return String(s)

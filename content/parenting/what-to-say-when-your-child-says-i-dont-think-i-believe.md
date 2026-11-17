@@ -1,6 +1,6 @@
 ---
-title: "What to Say When Your Child Says, \"I Don't Think I Believe\""
-seoTitle: "When Your Child Says \"I Don't Think I Believe\""
+title: "What to Say When Your Child Says, “I Don’t Think I Believe”"
+seoTitle: "When Your Child Says “I Don’t Think I Believe”"
 subtitle: "The sentence every Christian parent dreads usually arrives in the car, at bedtime, or over a sink full of dishes. What you say in the next minute matters less than whether you stay in the room."
 slug: "what-to-say-when-your-child-says-i-dont-think-i-believe"
 type: "opinion"

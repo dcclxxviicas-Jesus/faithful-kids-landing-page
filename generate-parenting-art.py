@@ -128,6 +128,16 @@ SCENES = {
         "shoulders nearly touching, both looking out at the garden rather than at each other, two mugs on the step "
         "between them, a warm kitchen light glowing through the screen door behind. Quiet, honest, unhurried."
     ),
+    "every-home-is-teaching-something": (
+        "A sunlit bedroom in the morning: a mother and her daughter of about five folding a warm heap of clean laundry "
+        "together on a bed, the girl holding up a small towel proudly, and through the open doorway a glimpse of a kitchen "
+        "with a loaf of bread cooling on the windowsill and a child's drawing on the fridge. Tender, ordinary, full of grace."
+    ),
+    "courage-is-a-bible-skill": (
+        "A school playground at lunchtime seen from a little distance: a girl of about nine with a lunchbox, shoulders back, "
+        "taking her first step across the open asphalt toward another girl sitting alone on a bench under a tree. "
+        "Other children blurred and busy in the background. Brave, quiet, hopeful."
+    ),
 }
 
 

@@ -141,7 +141,7 @@ await check('retired section pages redirect to /parenting; no section tabs; labe
   await page.goto(`${BASE}/parenting`)
   must(!(await page.$('.pt-secnav')), 'section tabs still render')
   must(!(await page.$('a.pt-kicker')), 'a kicker label is still a link')
-  must((await page.$$('span.pt-kicker')).length >= 1, 'kicker labels missing')
+  must((await page.$$('.pt-kicker')).length === 0, 'type label shows on the front page (owner: article page only)')
   const sw = await page.goto(`${BASE}/parenting/latest`)
   must(sw.status() === 404, `reserved slug /parenting/latest returned ${sw.status()}`)
   await page.close()

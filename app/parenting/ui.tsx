@@ -97,7 +97,6 @@ export function ArticleCard({ article, row = false, eager = false }: { article: 
           <img src={article.image} alt="" width={1200} height={800} loading={eager ? 'eager' : 'lazy'} />
         </a>
       )}
-      <Kicker section={article.section} />
       <h3><a href={href}>{article.title}</a></h3>
       {!row && <p>{article.excerpt}</p>}
       <Byline article={article} withAvatar={false} />
@@ -113,7 +112,6 @@ export function FeaturedStory({ article }: { article: Article }) {
         {article.image && <img src={article.image} alt="" width={1600} height={1067} fetchPriority="high" />}
       </a>
       <div>
-        <Kicker section={article.section} />
         <h2><a href={href}>{article.title}</a></h2>
         {article.subtitle ? <p className="pt-featured-dek">{article.subtitle}</p> : <p className="pt-featured-dek">{article.excerpt}</p>}
         <Byline article={article} />
@@ -144,7 +142,6 @@ export function RailList({ title, articles }: { title: string; articles: Article
       <ol>
         {articles.map(a => (
           <li key={a.slug}>
-            <Kicker section={a.section} />
             <h3><a href={`/parenting/${a.slug}`}>{a.title}</a></h3>
             <Byline article={a} withAvatar={false} />
           </li>

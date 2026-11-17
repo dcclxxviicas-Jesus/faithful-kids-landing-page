@@ -121,6 +121,10 @@ A few real ones: Ryan Wright makes explicitly Gospel-centered Minecraft content,
 
 Start with the category you actually need: apologetics for a questioning teen, teaching for your own growth, lifestyle for daily-habit modeling. Then check the channel is alive before you invest; this list verified upload dates for every entry, and a quarter of the famous names we checked turned out dormant.
 
+### I'm a Christian YouTuber; do you work with creators?
+
+Yes. We partner with Christian family, parenting, homeschool, and gaming creators: free full access to Faithful Kids for your family, and paid collaborations where the fit is genuine, with no follower minimum. Email [christian@faithfulkids.app](mailto:christian@faithfulkids.app) with your channel link and one content idea, or see [faithfulkids.app/creators](/creators). If you stream, our verified guide to [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers) maps the rest of the landscape.
+
 ---
 
 *Every subscriber count and activity check above was read from the channel's own YouTube page on November 16, 2026. Counts are YouTube's rounded figures and drift daily; dormant channels sometimes wake up. Check the channel before you build a habit on it.*

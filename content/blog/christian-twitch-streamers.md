@@ -63,7 +63,11 @@ Half the names on existing "Christian streamer" lists failed verification: sever
 
 Live content is different in kind from videos: no one, including the streamer, can pre-screen a live chat, and "family friendly" on Twitch is a self-applied label with no enforcement. For teens, the channels above are the good end of the platform, and watching together beats policy-setting from another room. For younger kids, pre-recorded and closed beats live and open: our [family-friendly YouTubers guide](/blog/family-friendly-youtubers) covers vetted video channels, [is gaming a sin?](/blog/is-gaming-a-sin) covers the underlying question, and [Faithful Kids](https://faithfulkids.app/quiz) is our own closed library of 300+ Bible story videos with quizzes, built so the screen time itself teaches Scripture.
 
-Thinking of streaming yourself? The money side of small-channel streaming, including the faith-friendly brands that actually reply, is its own verified guide: [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers).
+## If You're a Christian Streamer Yourself
+
+This part is addressed to the streamers this page is about. We partner with Christian creators, and streamers are exactly who we're looking for: a family-gaming channel, a Christian variety streamer with parents in chat, a mom or dad who streams. The shape of it: free full access to Faithful Kids for your family, and paid collaborations where the fit is genuine, with no follower minimum, because we care whether your audience trusts you, not how big it is. Email [christian@faithfulkids.app](mailto:christian@faithfulkids.app) with your channel link and one content idea; a real person reads every pitch and replies either way. Details at [faithfulkids.app/creators](/creators).
+
+And the wider money side of small-channel streaming, including every faith-friendly brand program that actually replies, is its own verified guide: [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers).
 
 ## Frequently Asked Questions
 

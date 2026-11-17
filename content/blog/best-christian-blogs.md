@@ -41,6 +41,8 @@ At a glance, this guide covers 26 verified-active resources grouped by what you 
 
 If video is more your family's medium than blogs, we verified the active [Christian YouTubers](/blog/christian-youtubers) the same way: every channel checked on its own page.
 
+For newsrooms rather than personal blogs, our verified roundup of the [best Christian news sites and publications](/blog/best-christian-news-sites) covers who's actually publishing, what's free, and which famous mastheads just changed names.
+
 ## Teens, Tech and Media
 
 The question behind half of Christian parenting search traffic is really "what do I do about the phone," and four sites own it.

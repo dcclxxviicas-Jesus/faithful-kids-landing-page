@@ -39,6 +39,8 @@ Keep it 600-800 words. If the outlet wants different, their guidelines will say.
 - **One outlet at a time, with a stated deadline.** Standard practice is to tell the editor you will take the piece elsewhere if you have not heard back in a week or two; op-ed desks expect this and it is not rude.
 - **Expect silence, not rejection letters.** Send, wait out your window, move down your list. The piece that ran for us was not placed on the first attempt at anything in this niche; persistence is a feature of the system, not a sign of failure.
 
+Choosing where to pitch? Our verified guide to the [best Christian news sites and publications](/blog/best-christian-news-sites) maps the outlets, including which are free to read and which are paywalled.
+
 ## Where Christian Writers Can Place Op-Eds
 
 - **The Christian Post** runs outside contributors in its Voices section; that is where ours ran. Large reach, actively publishes non-staff writers.

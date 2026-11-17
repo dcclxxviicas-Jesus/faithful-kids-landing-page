@@ -13,7 +13,13 @@ Lists of Christian companies to work for tend to recycle the same names with dec
 
 One framing before the list, because it's the thing job seekers most need to know: "Christian company" covers a wide spectrum. At one end, World Vision states plainly that it hires only candidates who agree with its Statement of Faith or the Apostles' Creed. At the other, Interstate Batteries runs on an openly biblical purpose statement while its own culture page says employees don't have to be Christian and the prayer groups are optional. Both are honest positions; know which one you're applying into.
 
-And our disclosure: Faithful Kids is a tiny team and we aren't hiring staff; the ways to work with us are at the end.
+And our disclosure: we make Faithful Kids, and the ways to work with us are at the end of this guide.
+
+## First: the One Where You Can Start This Week (Ours)
+
+Before the big employers, the disclosure that doubles as an invitation: we make **Faithful Kids**, the Bible app where kids watch, play, and quiz their way through the whole Bible, and of every company on this page, we are the easiest to start working with. Not W-2 roles; something more flexible: **paid creator collaborations** with no follower minimum, an **affiliate program that pays 50% of every sale you refer** (the highest published rate in this niche; the standard is 7-15%), and **bylined essays** in our parenting section. All of it remote, all of it started with one email.
+
+**How to reach out, exactly:** email [team@faithfulkids.app](mailto:team@faithfulkids.app) with two or three sentences: who you are, where you publish or what you do, and the thing you'd love to do with us. That's the whole application. A real person reads every message and replies either way, usually within days, which is more than most careers portals on this page can promise.
 
 ## The Big Employers
 
@@ -53,9 +59,9 @@ And our disclosure: Faithful Kids is a tiny team and we aren't hiring staff; the
 
 A few famous names are absent because their sites blocked verification entirely (In-N-Out foremost); we'd rather skip an entry than print second-hand facts about someone's employer.
 
-## Working With Us (the Honest Version)
+## Work With Faithful Kids
 
-Faithful Kids is a small team building a Bible app for kids, and we aren't hiring employees. The real ways to work with us: [creator partnerships](/creators) (free access plus paid collaborations), our [affiliate program](/affiliates) (50% of every sale you refer), and [essays for our parenting section](/parenting/write-for-us). If you're job hunting in this niche more broadly, our verified guides to [remote Christian jobs](/blog/remote-christian-jobs) and [Christian writing jobs](/blog/christian-writing-jobs) were built the same way this page was.
+We make Faithful Kids, the Bible video app where kids watch, play, and quiz their way through the whole Bible, and we are always looking for people to work with: [creator partnerships](/creators) with free access and paid collaborations, our [affiliate program](/affiliates) paying 50% of every sale you refer, and [essays for our parenting section](/parenting/write-for-us). If you want to work with a Christian company whose whole product is kids falling in love with Scripture, email [team@faithfulkids.app](mailto:team@faithfulkids.app) and tell us what you'd love to do; a real person reads every message and replies either way. For the wider hunt, our verified guides to [remote Christian jobs](/blog/remote-christian-jobs) and [Christian writing jobs](/blog/christian-writing-jobs) were built the same way this page was.
 
 ## Frequently Asked Questions
 

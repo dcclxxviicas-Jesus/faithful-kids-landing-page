@@ -123,7 +123,7 @@ Start with the category you actually need: apologetics for a questioning teen, t
 
 ### I'm a Christian YouTuber; do you work with creators?
 
-Yes. We partner with Christian family, parenting, homeschool, and gaming creators: free full access to Faithful Kids for your family, and paid collaborations where the fit is genuine, with no follower minimum. Email [team@faithfulkids.app](mailto:team@faithfulkids.app) with your channel link and one content idea, or see [faithfulkids.app/creators](/creators). If you stream, our verified guide to [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers) maps the rest of the landscape.
+Yes, and if your audience includes Christian families, we'd argue we're one of the best partnerships available to you: free full access to Faithful Kids for your family, paid collaborations where the fit is genuine, a 50% affiliate program (the highest published rate in the niche), and no follower minimum. Reaching out is one email: [team@faithfulkids.app](mailto:team@faithfulkids.app) with your channel link and one content idea, and a real person replies either way. Details at [faithfulkids.app/creators](/creators); if you stream, our verified guide to [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers) maps the rest of the landscape.
 
 ---
 

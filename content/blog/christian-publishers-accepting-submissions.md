@@ -37,7 +37,7 @@ Thomas Nelson: "does not accept unsolicited manuscripts." B&H (including B&H Kid
 
 If you've written a Christian children's book, the stale advice is actively wrong now. **Beaming Books quietly went agent-only**; its famous open Submittable portal is retired and returns nothing. **Flyaway Books is closed** to submissions. Tommy Nelson, Zonderkidz, and B&H Kids are agent-only. **End Game Press is closed except for its paid hybrid imprint.** That leaves **Eerdmans Books for Young Readers as effectively the only open, free, traditional door for unagented Christian children's manuscripts**, which makes following its guidelines to the letter worth your time.
 
-(Whatever happens with publishers, kids meeting Scripture doesn't wait on print: our own lane is [Faithful Kids](https://faithfulkids.app/quiz), where Bible stories are videos, games, and quizzes, and writers who want to reach Christian parents in the meantime can [write for our parenting section](/parenting/write-for-us).)
+Whatever happens with publishers, your writing can reach Christian families now: **Faithful Kids publishes writers.** Our [parenting section](/parenting/write-for-us) runs essays by Christian parents and writers (bylined, read by exactly the audience a Christian children's author wants), our [affiliate program](/affiliates) pays writers with an audience 50% of every sale they refer, and we commission [paid creator collaborations](/creators). **How to reach out, exactly:** email [team@faithfulkids.app](mailto:team@faithfulkids.app) with the word Writer in the subject, a link to anything you've written, and the piece you'd love to write; a real person replies either way, usually faster than any publisher on this page answers a query.
 
 ## The Agent Path, Verified
 

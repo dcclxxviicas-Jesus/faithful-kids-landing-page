@@ -11,7 +11,7 @@ dateModified: "2026-11-16"
 
 Remote Christian jobs are real, but the lists recommending them are full of stale reputations: the most famous "remote Christian tech employer" had zero remote openings on its own board the day we checked, while a Nashville publishing house most people picture as office-bound turns out to run a work-from-anywhere culture. So this guide was verified the only way that works: every employer's remote policy below is quoted from its own careers pages, and every job board was opened and checked on November 16, 2026.
 
-(Disclosure: we make Faithful Kids, a Bible app for kids. We're a tiny team not hiring staff; the ways to work with us are at the end.)
+(Disclosure up front, because it's also the fastest door in this guide: we make Faithful Kids, and working with us is remote by default, no application portal, one email. The details are in the [Work With Faithful Kids](#work-with-faithful-kids-from-anywhere) section below, or skip straight to emailing [team@faithfulkids.app](mailto:team@faithfulkids.app).)
 
 ## Employers With Verified Remote Policies
 
@@ -53,9 +53,9 @@ Remote Christian work clusters into four lanes: ministry operations and developm
 
 Two sibling guides were verified the same day as this one: [best Christian companies to work for](/blog/best-christian-companies-to-work-for) (the full employer roster with wages and benefits) and [Christian writing jobs](/blog/christian-writing-jobs) (the freelance path, with verified rates).
 
-## Working With Us
+## Work With Faithful Kids, From Anywhere
 
-Faithful Kids isn't hiring employees; we're a small team. But remote, flexible ways to work with us exist and pay real money: our [affiliate program](/affiliates) pays 50% of every sale you refer, [creator partnerships](/creators) include paid collaborations, and our [parenting section](/parenting/write-for-us) takes essays. All of it is done from wherever you are.
+The most remote-friendly door in this whole guide is ours, because every way to work with Faithful Kids is done from wherever you are: our [affiliate program](/affiliates) pays 50% of every sale you refer, [creator partnerships](/creators) include paid collaborations with no follower minimum, and our [parenting section](/parenting/write-for-us) takes essays. If you have an audience of Christian families, a camera, or a keyboard, email [team@faithfulkids.app](mailto:team@faithfulkids.app) with what you'd love to do; a real person replies either way.
 
 ## Frequently Asked Questions
 

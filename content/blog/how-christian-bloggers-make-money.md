@@ -54,6 +54,8 @@ None of these networks charges to apply. The practical path: Journey at 1,000 se
 
 **Lifeway** has no affiliate program either (though its imprint B&H sends review copies to bloggers through NetGalley), and **Minno's** affiliate terms page has not been revised since 2015 with no live signup, so treat that one as "contact them directly."
 
+Bloggers who also stream have a separate monetization path; see our guide to [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers), verified the same way this page is.
+
 ## Ministry and Brand Partnerships
 
 This is the route every ranking post misses, and for a Christian blogger it is often the most natural fit.

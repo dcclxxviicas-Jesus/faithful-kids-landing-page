@@ -39,6 +39,8 @@ At a glance, this guide covers 26 verified-active resources grouped by what you 
 
 **[Rooted Ministry](https://rootedministry.com)** is the best thing published for parents of teenagers in the faith, full stop: gospel-centered articles on anxiety, social media, and discipleship at home, publishing multiple times a week as of this month, plus a weekly "Rooted Parent Top 10" roundup worth subscribing to by itself.
 
+If video is more your family's medium than blogs, we verified the active [Christian YouTubers](/blog/christian-youtubers) the same way: every channel checked on its own page.
+
 ## Teens, Tech and Media
 
 The question behind half of Christian parenting search traffic is really "what do I do about the phone," and four sites own it.

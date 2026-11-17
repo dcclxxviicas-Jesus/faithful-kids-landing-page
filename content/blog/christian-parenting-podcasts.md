@@ -46,6 +46,8 @@ If you have a longer drive, the interview shows give you a full conversation wit
 
 For ongoing reading beyond this list, our roundup of the [best Christian blogs for parents](/blog/best-christian-blogs) covers mom, dad, homeschool and teen-parenting sites, every one verified active.
 
+Prefer watching to listening? Our verified roundup of [Christian YouTubers](/blog/christian-youtubers) covers the teaching and apologetics channels worth a subscription.
+
 ## What Are the Best Christian Parenting Podcasts for Deeper Teaching?
 
 For parents who want a framework rather than a conversation, these two shows teach a specific method and stick to it.

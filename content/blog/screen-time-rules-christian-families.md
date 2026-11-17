@@ -46,6 +46,10 @@ Adapt these to your family's unique situation. Some families will implement all 
 
 From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails, what worked in his house was replacement, not prohibition.
 
+Rules work better with a pre-approved list to point at; our verified roster of [family-friendly YouTubers](/blog/family-friendly-youtubers) names which famous channels still earn the label.
+
+If gaming is the screen fight in your house, the underlying question deserves a real answer; we wrote one in [is gaming a sin?](/blog/is-gaming-a-sin)
+
 ## Rule 4: Earn Screen Time with Non-Screen Activities First
 
 **The rule:** Before recreational screen time, complete daily responsibilities: homework, chores, physical activity, reading time, and Bible time.

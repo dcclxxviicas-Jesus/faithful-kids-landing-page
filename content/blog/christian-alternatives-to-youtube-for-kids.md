@@ -118,6 +118,8 @@ Prices change; the always-current numbers for web and iOS are on our [pricing pa
 
 From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails, what worked in his house was replacement, not prohibition.
 
+For teens drawn to live platforms rather than video apps, there is a real faith-based streaming scene worth knowing; our [Christian streamers guide](/blog/christian-twitch-streamers) covers the gamer churches and believers streaming today.
+
 ## Frequently Asked Questions
 
 ### What is the safest video app for Christian kids?

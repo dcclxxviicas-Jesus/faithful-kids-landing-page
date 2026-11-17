@@ -59,6 +59,8 @@ For ages 5-7, the best gifts combine early reading with music and hands-on activ
 
 A related freebie: our [Armor of God coloring page](/printables/bible-coloring-pages/armor-of-god), drawn as clean line art for crayons and markers.
 
+Shopping for a gamer kid? Our guide to [Christian video games](/blog/christian-video-games) verified what's actually available this year, with prices from the stores themselves.
+
 ## What Are the Best Christian Gifts for Ages 8-10?
 
 For ages 8-10, the best gifts are real Bibles they can read themselves, devotionals, and story-driven media. This is the golden window when kids are proud to own "big kid" faith stuff. Aim for gifts that respect their growing independence.

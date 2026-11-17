@@ -40,6 +40,10 @@ This also relieves a lot of false guilt. Most Christian parents feel vaguely sin
 
 From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails, what worked in his house was replacement, not prohibition.
 
+Quality matters as much as quantity, and channel choice is where quality starts; see our verified list of [family-friendly YouTubers](/blog/family-friendly-youtubers).
+
+The gaming version of this question gets its own biblical treatment in [is gaming a sin?](/blog/is-gaming-a-sin)
+
 ## How Much Screen Time Is Right at Each Age?
 
 Use these as starting points and adjust for your child:

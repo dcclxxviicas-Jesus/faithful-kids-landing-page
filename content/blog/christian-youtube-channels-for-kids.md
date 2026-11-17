@@ -89,6 +89,10 @@ Practical setup that takes ten minutes: use YouTube Kids (not regular YouTube) f
 
 A related freebie: our [empty tomb coloring page](/printables/bible-coloring-pages/the-empty-tomb), drawn as clean line art for crayons and markers.
 
+For the mainstream gaming and entertainment channels kids ask about by name, our verified guide to [family-friendly YouTubers](/blog/family-friendly-youtubers) covers who still uploads, who retired, and who changed.
+
+Parents and teens outgrow this list eventually; our companion roundup of [Christian YouTubers](/blog/christian-youtubers) covers apologetics, Bible teaching, and Christian gaming channels for older viewers.
+
 ## How Do You Make Christian Videos Actually Count?
 
 Watch with your kids when you can, and ask one question afterward; that single habit doubles what a video teaches. Passive watching washes over kids; a 30-second conversation ("Why do you think David wasn't scared?") turns the same video into a memory. Three easy habits: pick the video *before* handing over the device, so kids watch something instead of browsing for something; connect what they watched to real life at dinner or bedtime; and let a video be the springboard into the actual Bible story ("Want to hear what happens next? It's in here."). A five-minute Saddleback Kids video plus a two-minute chat beats an hour of unattended autoplay by a mile, for the video *and* for the relationship.

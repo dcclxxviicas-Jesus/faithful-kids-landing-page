@@ -41,6 +41,8 @@ Writers get the same treatment as creators here: our [Christian writing opportun
 
 Prefer writing to filming? The same niche pays writers too; our [Christian writing jobs](/blog/christian-writing-jobs) guide lists the markets and verified rates.
 
+If your content is live rather than posted, sponsorships work differently there; our verified guide to [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers) covers the programs that are real and the scams that aren't.
+
 ## The Pitch That Gets Answered
 
 Three sentences, no attachments:

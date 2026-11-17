@@ -176,6 +176,13 @@ export function getGuideCategory(slug: string): string {
   if (slug.startsWith('bible-stories-about-') || slug === 'bible-stories-with-moral-lessons-for-kids') return 'Bible Themes'
   if (slug.startsWith('bible-stories-for-') || slug === 'best-bible-stories-for-kids') return 'By Age'
   if (slug.includes('screen-time') || slug.includes('digital-stewardship') || slug.includes('christian-alternatives')) return 'Screen Time'
+  // Creator-monetization posts (sponsorships, UGC) are recruitment guides, not
+  // watcher guides — route them before the streamer/youtuber rule below.
+  if (slug.includes('sponsor') || slug.includes('ugc')) return 'Guides'
+  // Who-to-watch rosters and gaming guidance belong with Screen Time ("what to
+  // point kids toward instead"). Must sit before the Activities 'games' rule
+  // (christian-video-games) and the Family rule (family-friendly-youtubers).
+  if (slug.includes('youtuber') || slug.includes('streamer') || slug.includes('video-games') || slug.includes('gaming')) return 'Screen Time'
   // "Where to watch X" / streaming posts belong with the app and service
   // reviews, not the generic Guides catch-all. FIRST MATCH WINS, so this sits
   // immediately above the -vs- / -review rule it belongs with.

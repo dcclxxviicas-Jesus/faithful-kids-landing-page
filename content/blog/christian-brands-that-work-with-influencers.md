@@ -2,14 +2,14 @@
 title: "Christian Brands That Work With Influencers & UGC Creators"
 slug: "christian-brands-that-work-with-influencers"
 type: "listicle"
-metaTitle: "10 Christian Brands That Work With Influencers (2026)"
-metaDescription: "10 Christian brands with real influencer, ambassador, and UGC programs, what each offers, who they look for, and where to apply. Verified program links."
+metaTitle: "Christian Brands That Work With Influencers (2026)"
+metaDescription: "Christian brands with real influencer, ambassador, and UGC programs, what each offers, where to apply, and which famous programs just died. Verified links."
 keywords: ["christian brands that work with influencers", "brands looking for ugc creators", "christian brand ambassador programs", "christian affiliate programs", "christian ugc", "faith based brands looking for influencers"]
 datePublished: "2026-10-08"
-dateModified: "2026-11-11"
+dateModified: "2026-11-16"
 ---
 
-Here are 10 Christian brands that actually work with influencers, brand ambassadors, and UGC creators, each verified against the brand's own program page, with a link to apply. No "they probably do collabs" padding: every entry below has a live, public way in.
+Here are the Christian brands that actually work with influencers, brand ambassadors, and UGC creators, each verified against the brand's own program page, with a link to apply. No "they probably do collabs" padding, and no silent rot either: when we re-verify this list and a program has died, we say so in its entry rather than deleting it, because other lists will keep recommending it for years. As of our November 16, 2026 check, four programs on this page are dead, and they're labeled.
 
 A note on how this list works: we are one of the brands on it (first, because it's our list, that's the only editorial bias here, and we're telling you about it). The rest are real programs we'd point a Christian creator to even though some compete with us for your audience's attention.
 
@@ -27,11 +27,11 @@ A note on how this list works: we are one of the brands on it (first, because it
 
 **The program:** a long-running [brand ambassador program](https://elevatedfaith.com/pages/brand-ambassadors), their page describes 10% commission on sales, paid via gift card or PayPal, with an open application form.
 
-## 3. Kerusso
+## 3. Kerusso (program dead; update from November 2026)
 
 **What they make:** one of the biggest names in Christian T-shirts and gifts.
 
-**The program:** a [brand ambassador program](https://www.kerusso.com/pages/ambassador) framed around living the message, not just wearing it, application on their site.
+**The program:** gone. When we re-verified on November 16, 2026, Kerusso's ambassador page no longer exists; the URL serves a plain storefront with no mention of ambassadors, and third-party affiliate trackers list the campaign as paused. We listed this program as live five days earlier, which tells you how fast this niche churns. Don't spend an application on it; check their site for any relaunch.
 
 Prefer writing to filming? The same niche pays writers too; our [Christian writing jobs](/blog/christian-writing-jobs) guide lists the markets and verified rates.
 
@@ -53,11 +53,11 @@ Prefer writing to filming? The same niche pays writers too; our [Christian writi
 
 **The program:** an [affiliate program](https://hosannarevival.com/pages/affiliate-home) explicitly seeking women who use their platform to point their audience to Scripture.
 
-## 7. Walk In Faith Clothing
+## 7. Walk In Faith Clothing (program dead; update from November 2026)
 
 **What they make:** Christian apparel.
 
-**The program:** a [brand ambassador program](https://walkinfaithclothing.com/pages/brand-ambassador); their page describes 10% commission, a private community, and early product access, with fast application turnaround.
+**The program:** gone. As of November 16, 2026 the brand ambassador page redirects to their homepage, which carries no ambassador content. The 10%-commission program we previously described is no longer offered anywhere on their site.
 
 ## 8. Child of God Co.
 
@@ -65,11 +65,11 @@ Prefer writing to filming? The same niche pays writers too; our [Christian writi
 
 **The program:** [brand ambassadors](https://www.childofgodco.net/brand-ambassadors) earn commission on referral-code orders while their followers get a store discount, per their program page.
 
-## 9. We The Believers
+## 9. We The Believers (site down; update from November 2026)
 
 **What they make:** Christian streetwear.
 
-**The program:** a simple [ambassador application](https://wethebelieversclothing.com/pages/brand-ambassador-faq); apply, get approved, receive a referral code.
+**The program:** unreachable. As of November 16, 2026, not just the ambassador pages but the brand's entire website returns errors. We can't say whether the brand is gone for good, but there is currently nothing to apply to.
 
 ## 10. Crossway
 
@@ -86,10 +86,10 @@ If you're new to the UGC side of this; making content for brands to run, rather 
 ## Frequently Asked Questions
 
 **What Christian brands pay influencers?**
-Most programs on this list are commission-based (ambassador/affiliate). Faithful Kids offers scoped paid collaborations; larger brands like DaySpring and Logos pay commissions through formal affiliate networks. Paid flat-rate UGC in the faith niche is usually negotiated directly rather than advertised.
+Most programs on this list are commission-based (ambassador/affiliate). Faithful Kids offers scoped paid collaborations; Logos pays commissions through a formal affiliate network. Paid flat-rate UGC in the faith niche is usually negotiated directly rather than advertised. If you stream rather than post, the sponsor landscape is different; see our verified guide to [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers).
 
 **Do I need a big following to work with Christian brands?**
-Mostly no. The apparel ambassador programs are open-application, and Faithful Kids has no follower minimum. Logos is the exception with published thresholds (~1,000 YouTube / 5,000 Instagram).
+Mostly no. The surviving apparel ambassador programs (Elevated Faith, Child of God Co.) are open-application, and Faithful Kids has no follower minimum. Logos is the exception with published thresholds (~1,000 YouTube / 5,000 Instagram).
 
 **How do I find Christian UGC jobs?**
 Pitch the brands on this list directly; faith-based brands rarely post on generic UGC job boards. Our [Christian UGC guide](/blog/christian-ugc) walks through the pitch, the portfolio, and realistic expectations.

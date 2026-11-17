@@ -38,6 +38,8 @@ If you have never sold a word, devotionals are the most realistic first paycheck
 
 **Focus on the Family Clubhouse**, the print magazine for ages 8-12, pays **15 to 25 cents per word on acceptance**. Fiction runs 1,800-2,000 words (that is $270-$500 per story), nonfiction 400-1,000. They want completed manuscripts by postal mail, no query letters, no simultaneous submissions, and seasonal material at least eight months early. The bar is real but the market is genuinely open to unknown writers, and the parents, teachers, and Sunday school leaders reading this already know how kids talk, which is most of the craft.
 
+If your medium is streaming rather than writing, the paying programs are different ones; we verified those separately in [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers).
+
 ## Magazine Features and Essays
 
 **Reformed Perspective** pays a **$100-$300 honorarium** for accepted original features of 800-2,000 words: Reformed reflection on culture, technology, family life, and current events, written for the whole family. The audience is conservatively Reformed; write inside that tradition or pitch elsewhere. Modern translations only (their guidelines say no KJV).

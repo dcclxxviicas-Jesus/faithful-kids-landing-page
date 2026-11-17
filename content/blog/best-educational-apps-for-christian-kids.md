@@ -91,6 +91,8 @@ This guide reviews seven of the best educational apps and platforms for Christia
 
 **Best for:** Families who want a safe streaming library for family movie nights and casual viewing. Best used as entertainment rather than structured Bible education. See our side-by-side look at [Minno vs Faithful Kids](/blog/minno-vs-faithful-kids).
 
+If your kids ask for games more than apps, see our verified roundup of [Christian video games](/blog/christian-video-games), including the free ones that are genuinely still alive.
+
 ## 4. Superbook
 
 **Ages:** 5-12

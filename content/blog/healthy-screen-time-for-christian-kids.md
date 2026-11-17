@@ -81,6 +81,10 @@ Screens can connect us or isolate us. When a child watches a video and then disc
 
 From our Parenting desk, the founder's essay [Taking the screen away is not a plan](/parenting/taking-the-screen-away-is-not-a-plan) makes the case that removal alone fails, what worked in his house was replacement, not prohibition.
 
+If your teen is into streaming culture, it helps to know the good corners of it; we verified the active [Christian streamers on Twitch](/blog/christian-twitch-streamers), gamer churches included.
+
+For families wrestling specifically with video games, [is gaming a sin?](/blog/is-gaming-a-sin) walks through what Scripture actually says.
+
 ## 5 Practical Rules for Your Family
 
 ### Rule 1: No Screens During Meals

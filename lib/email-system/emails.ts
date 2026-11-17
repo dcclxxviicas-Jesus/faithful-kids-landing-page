@@ -2258,9 +2258,9 @@ export const EMAILS = {
   "from": "brand",
   "style": "letter",
   "billing": false,
-  "reason": "You requested Faithful Kids Weekly.",
+  "reason": "You subscribed to Raising Faithful Kids.",
   "subjects": [
-   "Confirm your Weekly signup",
+   "Confirm your signup",
    "One tap to confirm",
    "Please confirm your email"
   ],
@@ -2275,7 +2275,7 @@ export const EMAILS = {
    ],
    [
     "p",
-    "You asked for Faithful Kids Weekly. When we publish a new essay, you’ll get it by email, with one practical idea and one thing to explore with your kids."
+    "You asked for essays from Raising Faithful Kids. When we publish a new essay, you’ll get it by email, with one practical idea and one thing to explore with your kids."
    ],
    [
     "btn",
@@ -2375,7 +2375,7 @@ export const EMAILS = {
    "from": "brand",
    "style": "letter",
    "billing": false,
-   "reason": "You requested Faithful Kids Weekly.",
+   "reason": "You subscribed to Raising Faithful Kids.",
    "subjects": [
     "{{subject}}",
     "{{subject}}",
@@ -2402,7 +2402,7 @@ export const EMAILS = {
    "blocks": [
     [
      "eyebrow",
-     "Faithful Kids Weekly"
+     "Raising Faithful Kids"
     ],
     [
      "h",

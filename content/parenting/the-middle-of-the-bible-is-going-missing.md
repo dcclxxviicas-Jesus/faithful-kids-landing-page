@@ -8,7 +8,7 @@ tags: ["Family Bible Study", "Christian Education", "Faith at Home"]
 author: "christian-alexander"
 editor: "christian-alexander"
 status: "published"
-datePublished: "2026-11-04"
+datePublished: "2026-11-05"
 dateModified: "2026-11-05"
 excerpt: "Fifty-one days of answers to a free Bible quiz show a clear shape: Eden, the ark and David's sling are safe, while Saul, Gideon, Jericho and Antioch are fading, and under half of players could place Jesus in a manger. Here is what the data says about how we hand the Bible to children, and what to do about it this Advent."
 metaDescription: "26,395 graded Bible quiz answers: the early stories survive, the middle of the Bible fades, Christmas is half remembered. What parents can do this Advent."

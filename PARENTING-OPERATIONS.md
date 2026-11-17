@@ -76,7 +76,7 @@ Set the status. When the contributor confirms in writing that a specific piece m
 `/cas-admin/parenting` → Outreach. Add contacts by hand (name, organization, email, role, relationship source, suggested topic). Status: Not contacted → Contacted → Interested → Pitched → Accepted → Published, plus Declined and Do not contact. "Mark contacted today" stamps `last_contact_at`; set a next follow-up date and filter by "Follow-up due". Nothing is imported, nothing is emailed, and contacts never become newsletter subscribers.
 
 ### Newsletter signup
-Forms on the Parenting home and under every article post to `/api/parenting/newsletter`. A row is `pending` until the person clicks the confirmation email; `/cas-admin/parenting` → Newsletter shows counts and recent rows. Confirming sends `weekly/welcome` once.
+Forms on the Parenting home and under every article post to `/api/parenting/newsletter`. Since Nov 16, 2026 (Cas) there is no confirm step: a sign-up is stored as `confirmed` and gets `weekly/welcome` at once. Old confirm links still work. `/cas-admin/parenting` → Newsletter shows counts and recent rows. The list was renamed from "Faithful Kids Weekly" to **Raising Faithful Kids** the same night; the internal list id `parenting-weekly` is unchanged.
 
 ### Sending an issue (Nov 16, 2026, owner's decisions)
 - **Cadence: only when there is a new essay.** Nothing promises "weekly" any more (confirm email, welcome email, confirm page, write-for-us, guidelines). The list keeps the name Faithful Kids Weekly unless Cas renames it.

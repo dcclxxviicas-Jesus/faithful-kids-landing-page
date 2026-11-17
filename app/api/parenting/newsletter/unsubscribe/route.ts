@@ -2,7 +2,7 @@ import { verifyNewsletterToken, setSubscriberStatus } from '@/lib/parenting-db'
 
 export const dynamic = 'force-dynamic'
 
-// One-click unsubscribe for Faithful Kids Weekly. GET for the link in the
+// One-click unsubscribe for the Raising Faithful Kids newsletter. GET for the link in the
 // footer, POST for the List-Unsubscribe-Post header. Never leaks whether the
 // address exists.
 async function handle(req: Request): Promise<Response> {
@@ -18,7 +18,7 @@ async function handle(req: Request): Promise<Response> {
 <body style="font-family:-apple-system,Segoe UI,Roboto,sans-serif;background:#f7f7f7;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;">
 <div style="background:#fff;border-radius:16px;padding:40px;max-width:420px;text-align:center;">
 <h1 style="font-size:1.3rem;color:#16314f;">You&rsquo;re unsubscribed</h1>
-<p style="color:#555;line-height:1.6;">No more Faithful Kids Weekly. The articles stay free at <a href="https://faithfulkids.app/parenting" style="color:#16a34a;font-weight:700;">faithfulkids.app/parenting</a> whenever you want them.</p>
+<p style="color:#555;line-height:1.6;">You won’t get any more Raising Faithful Kids emails. The articles stay free at <a href="https://faithfulkids.app/parenting" style="color:#16a34a;font-weight:700;">faithfulkids.app/parenting</a> whenever you want them.</p>
 </div></body></html>`,
     { headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' } },
   )

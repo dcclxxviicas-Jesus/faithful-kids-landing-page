@@ -544,13 +544,13 @@ function Issues({ rows, confirmed, sendsTableMissing, call, busy }: { rows: Issu
 function Newsletter({ rows, counts }: { rows: Subscriber[]; counts: Record<string, number> }) {
   return (
     <section className="card">
-      <h2>Faithful Kids Weekly</h2>
+      <h2>Raising Faithful Kids subscribers</h2>
       <div className="stat">
         <div><b>{counts.confirmed ?? 0}</b><span>confirmed</span></div>
-        <div><b>{counts.pending ?? 0}</b><span>pending confirmation</span></div>
+        <div><b>{counts.pending ?? 0}</b><span>pending (old confirm flow)</span></div>
         <div><b>{counts.unsubscribed ?? 0}</b><span>unsubscribed</span></div>
       </div>
-      <p className="hint">Double opt-in: only confirmed addresses ever receive an issue; the sender above reads this table and skips pending and unsubscribed rows. Export is intentionally absent from this page.</p>
+      <p className="hint">New sign-ups arrive confirmed (no confirm step since Nov 16, 2026). Only confirmed addresses receive an issue; pending and unsubscribed rows are skipped. Export is intentionally absent from this page.</p>
       {rows.length > 0 && (
         <table style={{ marginTop: 14 }}>
           <thead><tr><th>When</th><th>Email</th><th>Status</th><th>Source</th></tr></thead>

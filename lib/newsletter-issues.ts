@@ -4,7 +4,8 @@ import { getWatchStories } from './parenting-watch'
 import { newsletterUnsubscribeUrl } from './parenting-db'
 
 /*
- * Faithful Kids Weekly issues (owner decisions, Nov 16, 2026):
+ * Raising Faithful Kids newsletter issues (owner decisions, Nov 16, 2026;
+ * renamed from "Faithful Kids Weekly" the same night, Cas's call):
  *  - An issue goes out only when there is a new essay, not on a fixed weekly
  *    day. The signup copy promises "when we publish a new essay", nothing more.
  *  - Claude drafts each issue here; Cas reads the test email and presses

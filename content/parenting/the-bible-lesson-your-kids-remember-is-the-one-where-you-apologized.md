@@ -8,7 +8,7 @@ tags: ["Christian Parenting", "Faith at Home"]
 author: "teresa-marie"
 editor: "christian-alexander"
 status: "published"
-datePublished: "2026-10-29"
+datePublished: "2026-11-02"
 dateModified: "2026-11-02"
 excerpt: "We spend years telling children about repentance and forgiveness. The lesson they treasure is the one they get to watch: a parent who was wrong, said so, and asked to be forgiven. It is the easiest gift you will give them all week."
 metaDescription: "Why a parent's apology teaches repentance and grace better than any Bible story, what a real apology to a child sounds like, and what it is not."

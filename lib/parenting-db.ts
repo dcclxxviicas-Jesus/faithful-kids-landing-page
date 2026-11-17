@@ -264,7 +264,7 @@ export function newsletterUnsubscribeUrl(email: string): string {
 
 /* ------------------------------------------------------ newsletter sends */
 
-/* The send log for Faithful Kids Weekly issues (supabase-newsletter-sends-
+/* The send log for Raising Faithful Kids newsletter issues (supabase-newsletter-sends-
    migration.sql). (issue_id, email) is the primary key, so claiming a row
    before sending is what stops an issue reaching anyone twice. */
 

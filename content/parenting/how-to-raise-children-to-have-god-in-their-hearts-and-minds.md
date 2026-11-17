@@ -8,7 +8,7 @@ tags: ["Christian Parenting", "Child Development", "Faith at Home"]
 author: "nas-aziz"
 editor: "christian-alexander"
 status: "published"
-datePublished: "2026-11-02"
+datePublished: "2026-11-03"
 dateModified: "2026-11-03"
 excerpt: "We tell children to fear God and then wonder why they picture him angry. The fear Scripture means is awe, awe grows with learning, and a child who never stops learning never runs out of reasons to find him."
 metaDescription: "What the fear of the Lord really means, why awe grows with learning, and how to raise a child who keeps God in heart and mind by never ceasing to wonder."

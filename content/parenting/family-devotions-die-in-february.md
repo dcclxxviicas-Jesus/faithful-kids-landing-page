@@ -8,7 +8,7 @@ tags: ["Faith at Home", "Family Traditions"]
 author: "zach-thomas"
 editor: "christian-alexander"
 status: "published"
-datePublished: "2026-10-27"
+datePublished: "2026-11-02"
 dateModified: "2026-11-02"
 excerpt: "Most family Bible routines are designed for the family we wish we were. Here is how to build one for the family you actually have: five minutes, attached to dinner or bedtime, cheap to miss and easy to restart."
 metaDescription: "Why most family devotion plans collapse within weeks, what a routine built for a real household looks like, and how to restart without guilt."

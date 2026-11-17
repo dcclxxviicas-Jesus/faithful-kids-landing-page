@@ -162,7 +162,7 @@ export function QuietStrip({ source }: { source: string }) {
     <section className="pt-strip" id="newsletter" aria-label="Newsletter and contributing">
       <div className="pt-strip-inner">
         <div className="pt-strip-news">
-          <p className="pt-strip-label">Faithful Kids Weekly</p>
+          <p className="pt-strip-label">Raising Faithful Kids by email</p>
           <p className="pt-strip-text">Essays for Christian parents, sent on occasion when we publish something new. Adults only, one-click unsubscribe.</p>
           <NewsletterInline source={source} />
         </div>

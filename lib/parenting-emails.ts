@@ -1,5 +1,6 @@
-import { confirmUrl, newsletterUnsubscribeUrl } from './parenting-db'
+import { confirmUrl, newsletterUnsubscribeUrl, listConfirmedEmails, claimSends, markSend } from './parenting-db'
 import { buildEmail } from './email-system'
+import { buildIssue, issueProblems, type Issue } from './newsletter-issues'
 
 /*
  * Transactional email for the Parenting desk, via Resend's REST API.
@@ -119,4 +120,57 @@ export async function sendNewsletterWelcome(to: string): Promise<boolean> {
     from: TEAM_FROM, to, subject: e.subject, html: e.html,
     headers: { 'List-Unsubscribe': `<${newsletterUnsubscribeUrl(to)}>`, 'List-Unsubscribe-Post': 'List-Unsubscribe=One-Click' },
   })
+}
+
+/* ------------------------------------------------------- weekly issues */
+
+const unsubHeaders = (to: string) => ({ 'List-Unsubscribe': `<${newsletterUnsubscribeUrl(to)}>`, 'List-Unsubscribe-Post': 'List-Unsubscribe=One-Click' })
+
+/** One copy of an issue to one address, for Cas to read before sending. Not logged. */
+export async function sendIssueTest(issue: Issue, to: string): Promise<boolean> {
+  const problems = issueProblems(issue)
+  if (problems.length) throw new Error(problems.join('; '))
+  const e = buildIssue(issue, to)
+  return send({ from: TEAM_FROM, to, subject: e.subject, html: e.html, headers: unsubHeaders(to) })
+}
+
+/*
+ * Send an issue to every confirmed subscriber who has not had it. Only ever
+ * run from the desk when Cas presses the button. Each address is claimed in
+ * newsletter_sends first (primary key issue+email), so a second press, a
+ * retry or two tabs can never deliver it twice. Resend's batch endpoint takes
+ * up to 100 messages a call; we pause between calls to stay under its rate.
+ */
+export async function sendIssueToAll(issue: Issue): Promise<{ claimed: number; sent: number; failed: number; skipped: number }> {
+  const problems = issueProblems(issue)
+  if (problems.length) throw new Error(problems.join('; '))
+  // A local run with email off must not touch the real send log: it would
+  // mark every subscriber as sent and the real send would then skip them.
+  if (!LIVE) throw new Error('Email is off on this server (PARENTING_EMAIL_LIVE=0 or development), so nothing was sent or logged')
+  const all = await listConfirmedEmails()
+  const mine = await claimSends(issue.id, all)
+  let sent = 0, failed = 0
+  for (let i = 0; i < mine.length; i += 100) {
+    const chunk = mine.slice(i, i + 100)
+    const msgs = chunk.map(to => { const e = buildIssue(issue, to); return { from: TEAM_FROM, to: [to], subject: e.subject, html: e.html, headers: unsubHeaders(to) } })
+    let ids: (string | null)[] = chunk.map(() => null)
+    let err: string | null = null
+    if (!RESEND_KEY) {
+      err = 'RESEND_API_KEY missing'
+    } else {
+      const res = await fetch('https://api.resend.com/emails/batch', {
+        method: 'POST', headers: { Authorization: `Bearer ${RESEND_KEY}`, 'Content-Type': 'application/json' }, body: JSON.stringify(msgs),
+      })
+      const json = await res.json().catch(() => ({})) as { data?: { id: string }[]; message?: string }
+      if (res.ok && Array.isArray(json.data)) ids = chunk.map((_, k) => json.data![k]?.id ?? null)
+      else err = `resend ${res.status}: ${json.message || 'batch failed'}`
+    }
+    for (let k = 0; k < chunk.length; k++) {
+      const ok = !err && Boolean(ids[k])
+      await markSend(issue.id, chunk[k], ok, ok ? ids[k] : (err || 'no id returned'))
+      if (ok) sent++; else failed++
+    }
+    if (i + 100 < mine.length) await new Promise(r => setTimeout(r, 700))
+  }
+  return { claimed: mine.length, sent, failed, skipped: all.length - mine.length }
 }

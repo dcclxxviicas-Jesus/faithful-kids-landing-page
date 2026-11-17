@@ -116,7 +116,7 @@ export default function WriteForUsPage() {
             <li>Your piece read closely and edited with care. You see every change before it goes live.</li>
             <li>A byline, an author page with your biography, and a link to your website, church, or work.</li>
             <li>Readers: faithfulkids.app reaches thousands of Christian parents and teachers every week through search.</li>
-            <li>Selected pieces go out in our weekly email and on our Pinterest boards.</li>
+            <li>Selected pieces go out in our email newsletter and on our Pinterest boards.</li>
             <li>A plain answer within about a week, whether or not it is yes.</li>
           </ul>
           <p>

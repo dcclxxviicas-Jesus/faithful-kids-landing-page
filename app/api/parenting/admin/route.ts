@@ -3,11 +3,16 @@ import { passwordOk, adminCookieValue, cookieHeader, clearCookieHeader } from '@
 import {
   listSubmissions, patchSubmission, SUBMISSION_STATUSES, type SubmissionStatus,
   listOutreach, insertOutreach, patchOutreach, deleteOutreach, OUTREACH_STATUSES, type OutreachStatus,
-  listSubscribers, dbConfigured, TableMissing,
+  listSubscribers, dbConfigured, TableMissing, sendCounts, listConfirmedEmails,
 } from '@/lib/parenting-db'
+import { ISSUES, getIssue, buildIssue, issueProblems } from '@/lib/newsletter-issues'
+import { sendIssueTest, sendIssueToAll } from '@/lib/parenting-emails'
+import { getPublicArticle } from '@/lib/parenting'
 import { getAllArticles, getAuthors, isPublic } from '@/lib/parenting'
 
 export const dynamic = 'force-dynamic'
+// Sending an issue to the whole list runs inside one request.
+export const maxDuration = 300
 
 /*
  * The Parenting desk API. Password in the x-admin-password header on every
@@ -44,6 +49,16 @@ export async function GET(req: NextRequest) {
       if (err instanceof TableMissing) payload.tableMissing = err.message
       else return fail(err)
     }
+    // Separate from the block above: the send-log table has its own migration.
+    let counts: Record<string, Record<string, number>> = {}
+    try { counts = await sendCounts() } catch (err) {
+      if (err instanceof TableMissing) payload.sendsTableMissing = true
+      else return fail(err)
+    }
+    payload.issues = [...ISSUES].reverse().map(i => ({
+      id: i.id, subject: i.subject, essay: i.essay, essayTitle: getPublicArticle(i.essay)?.title || i.essay,
+      problems: issueProblems(i), counts: counts[i.id] || { sending: 0, sent: 0, failed: 0 },
+    }))
   }
   const res = NextResponse.json(payload)
   res.headers.set('Set-Cookie', cookieHeader(await adminCookieValue()))
@@ -91,6 +106,32 @@ export async function POST(req: NextRequest) {
         const stamp = new Date().toISOString().slice(0, 16).replace('T', ' ')
         const notes = `${cur.notes ? cur.notes + '\n\n' : ''}[${stamp}] ${note}`
         return NextResponse.json({ row: await patchSubmission(cur.id, { notes }) })
+      }
+
+      /* ---- newsletter issues ---- */
+      case 'issue.preview': {
+        const issue = getIssue(String(body.id))
+        if (!issue) return NextResponse.json({ error: 'Unknown issue' }, { status: 404 })
+        const e = buildIssue(issue, 'preview@faithfulkids.app')
+        return NextResponse.json({ subject: e.subject, html: e.html, problems: issueProblems(issue) })
+      }
+      case 'issue.test': {
+        const issue = getIssue(String(body.id))
+        if (!issue) return NextResponse.json({ error: 'Unknown issue' }, { status: 404 })
+        const to = str('to', 254)?.trim().toLowerCase() || ''
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(to)) return NextResponse.json({ error: 'Enter an email address for the test' }, { status: 400 })
+        const ok = await sendIssueTest(issue, to)
+        return NextResponse.json({ ok, message: ok ? `Test sent to ${to}` : 'Test failed to send' })
+      }
+      case 'issue.send': {
+        // Cas presses this. He types the number of confirmed subscribers; if
+        // the list has changed since the page loaded, nothing is sent.
+        const issue = getIssue(String(body.id))
+        if (!issue) return NextResponse.json({ error: 'Unknown issue' }, { status: 404 })
+        const confirmed = (await listConfirmedEmails()).length
+        if (Number(body.confirm) !== confirmed) return NextResponse.json({ error: `Type ${confirmed}, the current number of confirmed subscribers, to send` }, { status: 400 })
+        const r = await sendIssueToAll(issue)
+        return NextResponse.json({ ok: r.failed === 0, message: `Sent ${r.sent}, failed ${r.failed}, already had it ${r.skipped}` })
       }
 
       /* ---- outreach ---- */

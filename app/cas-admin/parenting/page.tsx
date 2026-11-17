@@ -95,7 +95,10 @@ type Subscriber = { id: string; created_at: string; email: string; status: strin
 type Payload = {
   articles: ArticleRow[]; authors: AuthorRow[]; dbConfigured: boolean; tableMissing?: string
   submissions?: Submission[]; outreach?: Outreach[]; subscribers?: Subscriber[]; subscriberCounts?: Record<string, number>
+  issues?: IssueRow[]; sendsTableMissing?: boolean
 }
+type IssueRow = { id: string; subject: string; essay: string; essayTitle: string; problems: string[]; counts: Record<string, number> }
+type Call = (body: Record<string, unknown>, reload?: boolean) => Promise<Record<string, unknown> | null>
 
 const SUB_STATUSES = ['received', 'under_review', 'accepted', 'drafting', 'editing', 'awaiting_approval', 'scheduled', 'published', 'declined', 'withdrawn', 'archived']
 const OUT_STATUSES = ['not_contacted', 'contacted', 'interested', 'pitched', 'accepted', 'published', 'declined', 'do_not_contact']
@@ -139,6 +142,12 @@ export default function ParentingDesk() {
   const act = useCallback(async (body: Record<string, unknown>) => {
     setBusy(true); setError('')
     try { await api(pw, body); await load(pw) } catch (e) { setError(e instanceof Error ? e.message : 'Failed') } finally { setBusy(false) }
+  }, [api, pw, load])
+
+  // Like act(), but hands the response back (preview HTML, send results).
+  const call: Call = useCallback(async (body, reload = true) => {
+    setBusy(true); setError('')
+    try { const r = await api(pw, body); if (reload) await load(pw); return r } catch (e) { setError(e instanceof Error ? e.message : 'Failed'); return null } finally { setBusy(false) }
   }, [api, pw, load])
 
   if (!authed) {
@@ -185,7 +194,7 @@ export default function ParentingDesk() {
         {tab === 'pitches' && data && <Pitches rows={data.submissions || []} authors={data.authors} articles={data.articles} act={act} busy={busy} />}
         {tab === 'outreach' && data && <OutreachTab rows={data.outreach || []} act={act} busy={busy} />}
         {tab === 'articles' && data && <Articles rows={data.articles} authors={data.authors} />}
-        {tab === 'newsletter' && data && <Newsletter rows={data.subscribers || []} counts={data.subscriberCounts || {}} />}
+        {tab === 'newsletter' && data && <><Issues rows={data.issues || []} confirmed={data.subscriberCounts?.confirmed ?? 0} sendsTableMissing={Boolean(data.sendsTableMissing)} call={call} busy={busy} /><Newsletter rows={data.subscribers || []} counts={data.subscriberCounts || {}} /></>}
       </div>
     </div>
   )
@@ -475,6 +484,63 @@ function Articles({ rows, authors }: { rows: ArticleRow[]; authors: AuthorRow[] 
 
 /* ---------------------------------------------------------- newsletter */
 
+/* Issues are drafted in lib/newsletter-issues.ts. Cas reads a preview, sends a
+   test to himself, then sends to the list by typing the subscriber count. */
+function Issues({ rows, confirmed, sendsTableMissing, call, busy }: { rows: IssueRow[]; confirmed: number; sendsTableMissing: boolean; call: Call; busy: boolean }) {
+  const [open, setOpen] = useState<string | null>(rows[0]?.id ?? null)
+  const [html, setHtml] = useState<{ id: string; subject: string; html: string } | null>(null)
+  const [to, setTo] = useState(() => { try { return localStorage.getItem('fkIssueTestTo') || '' } catch { return '' } })
+  const [typed, setTyped] = useState('')
+  const [msg, setMsg] = useState('')
+  const cur = rows.find(r => r.id === open)
+
+  useEffect(() => {
+    if (!open || html?.id === open) return
+    call({ action: 'issue.preview', id: open }, false).then(r => { if (r) setHtml({ id: open, subject: String(r.subject), html: String(r.html) }) })
+  }, [open, html, call])
+
+  return (
+    <section className="card">
+      <h2>Issues</h2>
+      {sendsTableMissing && <div className="warn">The send log table is not created yet, so sending to the list is off. Run <code>supabase-newsletter-sends-migration.sql</code> in the Supabase SQL editor once, then refresh. Test sends work without it.</div>}
+      {rows.length === 0 ? <p className="hint">No issues drafted yet.</p> : (
+        <table>
+          <thead><tr><th>Issue</th><th>Subject</th><th>Essay</th><th>Sent</th></tr></thead>
+          <tbody>
+            {rows.map(r => (
+              <tr key={r.id} className={`click${open === r.id ? ' sel' : ''}`} onClick={() => { setOpen(r.id); setTyped(''); setMsg('') }}>
+                <td className="tiny">{r.id}</td><td>{r.subject}</td><td className="tiny">{r.essayTitle}</td>
+                <td className="tiny">{r.counts.sent || 0}{r.counts.failed ? ` · ${r.counts.failed} failed` : ''}{r.counts.sending ? ` · ${r.counts.sending} in progress` : ''}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      )}
+      {cur && (
+        <div style={{ marginTop: 16 }}>
+          {cur.problems.length > 0 && <div className="warn">Cannot send until fixed: {cur.problems.join('; ')}</div>}
+          <div className="row">
+            <div className="f"><label>1. Send a test to</label><input value={to} placeholder="you@example.com" onChange={e => { setTo(e.target.value); try { localStorage.setItem('fkIssueTestTo', e.target.value) } catch {} }} /></div>
+            <div className="f"><label>2. To send to everyone, type {confirmed}, the number of confirmed subscribers</label><input value={typed} inputMode="numeric" onChange={e => setTyped(e.target.value)} /></div>
+          </div>
+          <div className="btns">
+            <button className="btn" disabled={busy || !to || cur.problems.length > 0} onClick={async () => { const r = await call({ action: 'issue.test', id: cur.id, to }, false); if (r) setMsg(String(r.message)) }}>Send test</button>
+            <button className="btn go" disabled={busy || sendsTableMissing || cur.problems.length > 0 || confirmed === 0 || typed !== String(confirmed)} onClick={async () => { const r = await call({ action: 'issue.send', id: cur.id, confirm: Number(typed) }); if (r) { setMsg(String(r.message)); setTyped('') } }}>Send to all {confirmed} confirmed</button>
+          </div>
+          {msg && <p className="hint" style={{ color: '#6ee7a0' }}>{msg}</p>}
+          <p className="hint">Anyone who already has this issue is skipped, so pressing send again only reaches people who confirmed since, or retries failures.</p>
+          {html?.id === cur.id && (
+            <>
+              <p className="hint">Subject: <b>{html.subject}</b></p>
+              <iframe title="Issue preview" srcDoc={html.html} style={{ width: '100%', maxWidth: 640, height: 900, border: '1px solid #2b3a4a', borderRadius: 12, background: '#fff', marginTop: 8 }} />
+            </>
+          )}
+        </div>
+      )}
+    </section>
+  )
+}
+
 function Newsletter({ rows, counts }: { rows: Subscriber[]; counts: Record<string, number> }) {
   return (
     <section className="card">
@@ -484,7 +550,7 @@ function Newsletter({ rows, counts }: { rows: Subscriber[]; counts: Record<strin
         <div><b>{counts.pending ?? 0}</b><span>pending confirmation</span></div>
         <div><b>{counts.unsubscribed ?? 0}</b><span>unsubscribed</span></div>
       </div>
-      <p className="hint">Double opt-in: only confirmed addresses may ever receive an issue. No sending tool exists yet; when one is built it must read this table and skip pending and unsubscribed rows. Export is intentionally absent from this page.</p>
+      <p className="hint">Double opt-in: only confirmed addresses ever receive an issue; the sender above reads this table and skips pending and unsubscribed rows. Export is intentionally absent from this page.</p>
       {rows.length > 0 && (
         <table style={{ marginTop: 14 }}>
           <thead><tr><th>When</th><th>Email</th><th>Status</th><th>Source</th></tr></thead>

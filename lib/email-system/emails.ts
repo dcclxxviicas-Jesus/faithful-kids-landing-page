@@ -1,4 +1,5 @@
-// GENERATED from the approved copy (Nov 2026). Edit the copy here; keep the
+// Generated once from the approved copy (Nov 2026); hand-edited source since
+// Nov 16, 2026 (nothing regenerates it). Edit the copy here; keep the
 // {{tokens}}: buildEmail() refuses to send while one is unfilled.
 import type { Block, EmailStyle } from './render'
 
@@ -2274,7 +2275,7 @@ export const EMAILS = {
    ],
    [
     "p",
-    "You asked for Faithful Kids Weekly. Each week you’ll get one essay, one practical idea and one thing to explore with your kids."
+    "You asked for Faithful Kids Weekly. When we publish a new essay, you’ll get it by email, with one practical idea and one thing to explore with your kids."
    ],
    [
     "btn",
@@ -2316,7 +2317,7 @@ export const EMAILS = {
    ],
    [
     "p",
-    "Welcome. Once a week, you’ll get one essay from Raising Faithful Kids, one practical idea and one thing to explore with your kids."
+    "Welcome. Whenever we publish a new essay on Raising Faithful Kids, you’ll get it here, with one practical idea and one thing to explore with your kids."
    ],
    [
     "h3",
@@ -2347,75 +2348,91 @@ export const EMAILS = {
   ]
  },
  "weekly/issue": {
-  "path": "weekly",
-  "step": "issue",
-  "from": "brand",
-  "style": "letter",
-  "billing": false,
-  "reason": "You requested Faithful Kids Weekly.",
-  "subjects": [
-   "When your child stumps you",
-   "You don’t need every answer",
-   "This week: room to wonder"
-  ],
-  "pre": "An essay by Mark Antonio, plus one idea to try tonight.",
-  "tokens": [],
-  "blocks": [
-   [
-    "eyebrow",
-    "Faithful Kids Weekly"
+   "path": "weekly",
+   "step": "issue",
+   "from": "brand",
+   "style": "letter",
+   "billing": false,
+   "reason": "You requested Faithful Kids Weekly.",
+   "subjects": [
+    "{{subject}}",
+    "{{subject}}",
+    "{{subject}}"
    ],
-   [
-    "h",
-    "You don’t have to know every answer"
+   "pre": "{{pre}}",
+   "tokens": [
+    "subject",
+    "pre",
+    "campaign",
+    "headline",
+    "summary",
+    "image_key",
+    "image_alt",
+    "essay_title",
+    "byline",
+    "essay_url",
+    "try_tonight",
+    "link_label",
+    "link_url",
+    "story_title",
+    "story_url"
    ],
-   [
-    "p",
-    "When your child asks something you can’t answer, it can feel like failing. Mark Antonio thinks it may be the best moment in the whole conversation."
-   ],
-   [
-    "img",
-    "p-the-best-bible-question-is-the-one-you-cannot-answer",
-    "Illustration of a family pausing over a child’s question",
-    "https://faithfulkids.app/parenting/the-best-bible-question-is-the-one-you-cannot-answer?utm_source=email&utm_medium=weekly&utm_campaign=weekly-issue&utm_content=parenting-newsletter",
-    false,
-    "wide"
-   ],
-   [
-    "p",
-    "<strong>The Best Bible Question Is the One You Cannot Answer</strong>. By Mark Antonio"
-   ],
-   [
-    "btn",
-    "Read the essay",
-    "https://faithfulkids.app/parenting/the-best-bible-question-is-the-one-you-cannot-answer?utm_source=email&utm_medium=weekly&utm_campaign=weekly-issue&utm_content=parenting-newsletter"
-   ],
-   [
-    "h3",
-    "Try tonight"
-   ],
-   [
-    "p",
-    "After a Bible story, ask your child what surprised them. Then wait a moment before you give your own answer."
-   ],
-   [
-    "link",
-    "For another evening: the free Bedtime Bible Kit",
-    "https://faithfulkids.app/printables/bedtime-bible-kit?utm_source=email&utm_medium=weekly&utm_campaign=weekly-issue&utm_content=parenting-newsletter"
-   ],
-   [
-    "divider"
-   ],
-   [
-    "p",
-    "Faithful Kids makes short Bible story videos for kids. <a href=\"https://faithfulkids.app/blog/in-the-beginning-creation-for-kids?utm_source=email&utm_medium=weekly&utm_campaign=weekly-issue&utm_content=parenting-newsletter\">Watch Creation free</a>."
-   ],
-   [
-    "sign",
-    "brand"
+   "blocks": [
+    [
+     "eyebrow",
+     "Faithful Kids Weekly"
+    ],
+    [
+     "h",
+     "{{headline}}"
+    ],
+    [
+     "p",
+     "{{summary}}"
+    ],
+    [
+     "img",
+     "{{image_key}}",
+     "{{image_alt}}",
+     "{{essay_url}}",
+     false,
+     "wide"
+    ],
+    [
+     "p",
+     "<strong>{{essay_title}}</strong><br>By {{byline}}"
+    ],
+    [
+     "btn",
+     "Read the essay",
+     "{{essay_url}}"
+    ],
+    [
+     "h3",
+     "Try tonight"
+    ],
+    [
+     "p",
+     "{{try_tonight}}"
+    ],
+    [
+     "link",
+     "{{link_label}}",
+     "{{link_url}}"
+    ],
+    [
+     "divider"
+    ],
+    [
+     "p",
+     "Faithful Kids makes short Bible story videos for kids. <a href=\"{{story_url}}\">Watch {{story_title}} free</a>."
+    ],
+    [
+     "sign",
+     "brand"
+    ]
    ]
-  ]
- },
+  },
  "writers/received": {
   "path": "writers",
   "step": "received",
@@ -2854,6 +2871,21 @@ export const EMAILS = {
 
 /** Sample values, used for previews and owner test sends only. */
 export const SAMPLE_VARS: Record<string, string> = {
+ "subject": "Your home is already teaching",
+ "pre": "A new essay by Natalie Batan, plus one idea to try tonight.",
+ "campaign": "weekly-sample",
+ "headline": "Your kids are reading the house",
+ "summary": "Long before children can read a verse, they read the way a home handles a spill, a guest and a long day.",
+ "image_key": "p-the-best-bible-question-is-the-one-you-cannot-answer",
+ "image_alt": "Illustration for the essay",
+ "essay_title": "Every Home Is Teaching Something. Make Yours Teach Grace.",
+ "byline": "Natalie Batan",
+ "essay_url": "https://faithfulkids.app/parenting/every-home-is-teaching-something",
+ "try_tonight": "Fold the laundry with your kids tonight and ask each child about their day.",
+ "link_label": "The free Advent Readings",
+ "link_url": "https://faithfulkids.app/printables/advent-readings",
+ "story_title": "David and Goliath",
+ "story_url": "https://faithfulkids.app/blog/david-and-goliath-for-kids",
  "parent": "Jordan",
  "child": "Sam",
  "Child": "Sam",

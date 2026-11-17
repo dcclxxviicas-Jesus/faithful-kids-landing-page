@@ -36,5 +36,5 @@ export async function GET(req: Request) {
     console.error('confirm error', err)
     return page('Something went wrong', 'We could not confirm your subscription just now. Please try the link again in a minute.')
   }
-  return page('You are subscribed', 'Faithful Kids Weekly will arrive once a week. Every email has a one-click unsubscribe link, and we never share your address.')
+  return page('You are subscribed', 'We will email you when we publish a new essay. Every email has a one-click unsubscribe link, and we never share your address.')
 }

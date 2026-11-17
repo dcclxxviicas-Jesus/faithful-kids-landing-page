@@ -56,7 +56,7 @@ export default function SubmissionGuidelinesPage() {
             <li>If yes, we agree a deadline and a rough length. You write, or we interview you and draft it with you.</li>
             <li>We edit for clarity, length and accuracy. You see every change and approve the final text.</li>
             <li>You send a short biography, any links you want on your author page, and (optionally) a photo of yourself that you have the right to use.</li>
-            <li>We publish, send you the link, and feature selected pieces in our weekly email and on Pinterest.</li>
+            <li>We publish, send you the link, and feature selected pieces in our email newsletter and on Pinterest.</li>
           </ol>
 
           <h2>Terms that apply to published pieces</h2>

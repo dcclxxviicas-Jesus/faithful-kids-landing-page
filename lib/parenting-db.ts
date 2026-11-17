@@ -259,3 +259,59 @@ export function confirmUrl(email: string): string {
 export function newsletterUnsubscribeUrl(email: string): string {
   return `https://faithfulkids.app/api/parenting/newsletter/unsubscribe?email=${encodeURIComponent(email)}&token=${newsletterToken(email, 'unsubscribe')}`
 }
+
+/* ------------------------------------------------------ newsletter sends */
+
+/* The send log for Faithful Kids Weekly issues (supabase-newsletter-sends-
+   migration.sql). (issue_id, email) is the primary key, so claiming a row
+   before sending is what stops an issue reaching anyone twice. */
+
+export async function listConfirmedEmails(): Promise<string[]> {
+  const out: string[] = []
+  for (let from = 0; ; from += 1000) {
+    const res = await expectOk(await supa(`/newsletter_subscribers?select=email&status=eq.confirmed&list=eq.${NEWSLETTER_LIST}&order=created_at.asc`, {
+      headers: { Range: `${from}-${from + 999}` },
+    }), 'list confirmed')
+    const rows: { email: string }[] = await res.json()
+    out.push(...rows.map(r => r.email))
+    if (rows.length < 1000) return out
+  }
+}
+
+/** Claim addresses for an issue. Returns only the ones this call claimed:
+ *  new rows, plus earlier failures being retried. Addresses already sent (or
+ *  being sent by another press) are left out. */
+export async function claimSends(issueId: string, emails: string[]): Promise<string[]> {
+  if (emails.length === 0) return []
+  const res = await expectOk(await supa('/newsletter_sends?on_conflict=issue_id,email', {
+    method: 'POST', headers: { Prefer: 'resolution=ignore-duplicates,return=representation' },
+    body: JSON.stringify(emails.map(email => ({ issue_id: issueId, email, status: 'sending' }))),
+  }), 'claim sends')
+  const claimed = new Set((await res.json() as { email: string }[]).map(r => r.email))
+  const failed = emails.filter(e => !claimed.has(e))
+  if (failed.length) {
+    const list = failed.map(e => `"${e.replace(/"/g, '')}"`).join(',')
+    const r = await expectOk(await supa(`/newsletter_sends?issue_id=eq.${encodeURIComponent(issueId)}&status=eq.failed&email=in.(${encodeURIComponent(list)})`, {
+      method: 'PATCH', headers: { Prefer: 'return=representation' }, body: JSON.stringify({ status: 'sending', error: null }),
+    }), 'retry sends')
+    for (const row of await r.json() as { email: string }[]) claimed.add(row.email)
+  }
+  return emails.filter(e => claimed.has(e))
+}
+
+export async function markSend(issueId: string, email: string, ok: boolean, detail: string | null): Promise<void> {
+  await expectOk(await supa(`/newsletter_sends?issue_id=eq.${encodeURIComponent(issueId)}&email=eq.${encodeURIComponent(email)}`, {
+    method: 'PATCH',
+    body: JSON.stringify(ok ? { status: 'sent', resend_id: detail, sent_at: new Date().toISOString() } : { status: 'failed', error: (detail || '').slice(0, 500) }),
+  }), 'mark send')
+}
+
+export async function sendCounts(): Promise<Record<string, Record<string, number>>> {
+  const res = await expectOk(await supa('/newsletter_sends?select=issue_id,status&limit=100000'), 'send counts')
+  const out: Record<string, Record<string, number>> = {}
+  for (const r of await res.json() as { issue_id: string; status: string }[]) {
+    out[r.issue_id] ??= { sending: 0, sent: 0, failed: 0 }
+    out[r.issue_id][r.status] = (out[r.issue_id][r.status] || 0) + 1
+  }
+  return out
+}

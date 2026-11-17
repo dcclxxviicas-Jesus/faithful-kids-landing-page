@@ -76,7 +76,16 @@ Set the status. When the contributor confirms in writing that a specific piece m
 `/cas-admin/parenting` → Outreach. Add contacts by hand (name, organization, email, role, relationship source, suggested topic). Status: Not contacted → Contacted → Interested → Pitched → Accepted → Published, plus Declined and Do not contact. "Mark contacted today" stamps `last_contact_at`; set a next follow-up date and filter by "Follow-up due". Nothing is imported, nothing is emailed, and contacts never become newsletter subscribers.
 
 ### Newsletter signup
-Forms on the Parenting home and under every article post to `/api/parenting/newsletter`. A row is `pending` until the person clicks the confirmation email; `/cas-admin/parenting` → Newsletter shows counts and recent rows. **No sending tool exists yet.** When one is built it must read `newsletter_subscribers` where `status = 'confirmed'` only, and every issue must carry the unsubscribe link from `newsletterUnsubscribeUrl()`.
+Forms on the Parenting home and under every article post to `/api/parenting/newsletter`. A row is `pending` until the person clicks the confirmation email; `/cas-admin/parenting` → Newsletter shows counts and recent rows. Confirming sends `weekly/welcome` once.
+
+### Sending an issue (Nov 16, 2026, owner's decisions)
+- **Cadence: only when there is a new essay.** Nothing promises "weekly" any more (confirm email, welcome email, confirm page, write-for-us, guidelines). The list keeps the name Faithful Kids Weekly unless Cas renames it.
+- **Claude drafts, Cas approves and presses send.** Each issue is an entry in `lib/newsletter-issues.ts` (`ISSUES`): permanent `id` (also the send-log key; never rename one that has been sent), essay slug, subject (32 characters max), preheader, headline, two-sentence summary, a "Try tonight" idea and one free faithfulkids.app link. Title, byline, URL and the app-line story are read from the essay itself. `issueProblems()` blocks a send on an over-long subject, an em-dash, "I" voice or an unpublished essay.
+- **Image**: a JPG at CDN `email/p-<slug>.jpg`, 1040px wide 16:9 at quality 85, made from `parenting/art/<slug>.webp` and uploaded with `s3-put.py` (Outlook cannot show webp). Use a new key rather than overwriting (one-year cache).
+- **Desk**: Newsletter tab → Issues. Preview renders the real email; "Send test" sends one unlogged copy; "Send to all N confirmed" needs the current confirmed count typed in, and refuses if the list changed since the page loaded.
+- **No double sends**: every address is claimed in `newsletter_sends` (primary key issue + email, `supabase-newsletter-sends-migration.sql`) before Resend's batch endpoint is called (100 per call, 0.7s apart). Pressing send again only reaches people who confirmed since, or retries `failed` rows. A row stuck at `sending` (crash mid-send) is NOT retried, because it may have gone out.
+- **Never run "send to all" locally**: with `PARENTING_EMAIL_LIVE=0` it refuses outright, so a test run cannot mark the real list as sent.
+- Every issue carries `List-Unsubscribe` + one-click headers. Nothing sends on a schedule.
 
 ### Update categories or tags
 `SECTIONS` and `TAGS` in `lib/parenting.ts`. Category pages, nav, sitemap and schema all derive from `SECTIONS`; a category page only exists once it has an article.

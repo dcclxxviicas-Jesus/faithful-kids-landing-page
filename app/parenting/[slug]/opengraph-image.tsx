@@ -25,7 +25,7 @@ export default async function OgImage({ params }: { params: Promise<{ slug: stri
   const article = section ? undefined : getPublicArticle(slug)
   const kicker = section ? section.label : article?.section.label || 'Parenting'
   const title = section ? section.title : article?.title || 'Raising Faithful Kids'
-  const byline = article ? `By ${article.author.name}` : 'Practical wisdom from Christian parents, educators, and ministry leaders'
+  const byline = article ? `By ${article.author.name}` : 'Practical wisdom from Christian parents, educators, and ministry leaders on raising children with God in their hearts and minds'
   const big = title.length < 60
 
   return new ImageResponse(

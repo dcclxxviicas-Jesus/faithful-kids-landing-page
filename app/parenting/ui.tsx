@@ -8,7 +8,7 @@ import { NewsletterInline } from './client'
 export const SECTION_LABEL = 'Parenting'
 export const SECTION_H1 = 'Raising Faithful Kids'
 export const SECTION_SUB =
-  'Practical wisdom from Christian parents, educators, and ministry leaders.'
+  'Practical wisdom from Christian parents, educators, and ministry leaders on raising children with God in their hearts and minds.'
 
 /**
  * The section's own header: one centred wordmark linking to the homepage.

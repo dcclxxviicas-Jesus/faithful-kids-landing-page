@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 import { SiteFooter } from '@/app/components/SiteChrome'
 import { ParentingHeader } from './ui'
-import { getPublicArticles, getFeatured, liveSections } from '@/lib/parenting'
+import { getPublicArticles, getFeatured } from '@/lib/parenting'
 import {
-  Masthead, SectionNav, FeaturedStory, ArticleCard, SectionBlock, RailList, QuietStrip,
+  Masthead, FeaturedStory, ArticleCard, SectionBlock, RailList, QuietStrip,
   EmptyState, SECTION_H1, SECTION_SUB,
 } from './ui'
 
@@ -27,7 +27,6 @@ export const metadata: Metadata = {
 export default function ParentingHome() {
   const articles = getPublicArticles()
   const featured = getFeatured(articles)
-  const sections = liveSections(articles)
   /* Newspaper front: one lead story, a headline-only rail of the next four,
      then every remaining story with its picture. Nothing is held back; when
      the library outgrows one grid, split it into section rows here. */
@@ -66,7 +65,6 @@ export default function ParentingHome() {
       <ParentingHeader />
       <main id="main-content">
         <Masthead />
-        <SectionNav sections={sections} current="latest" />
 
         {featured ? (
           <>

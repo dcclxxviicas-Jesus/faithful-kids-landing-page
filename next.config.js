@@ -28,6 +28,9 @@ const nextConfig = {
       // Parenting essay retitled minutes after publish (Nov 2, 2026); old slug was already shared.
       { source: '/parenting/stop-teaching-kids-to-fear-god-teach-them-awe', destination: '/parenting/how-to-raise-children-to-have-god-in-their-hearts-and-minds', permanent: true },
       { source: '/parenting/why-i-built-an-ai-bible-app-for-my-kids', destination: '/parenting/why-i-built-a-bible-app-for-my-kids', permanent: true },
+      // Parenting is one stream since Nov 16, 2026 (owner's call): the format
+      // section pages are retired and their URLs fold into the front page.
+      { source: '/parenting/:section(stories|opinion|interviews|news|research)', destination: '/parenting', permanent: true },
     ]
   },
   async rewrites() {

@@ -131,18 +131,21 @@ await check('article: markdown edition served', async () => {
   return `${body.length} bytes`
 })
 
-await check('section page: renders for a live section, 404 for an empty one', async () => {
-  const page = await desktop.newPage()
-  const res = await page.goto(`${BASE}/parenting/stories`)
-  if (res.status() === 200) {
-    must(await page.$('.pt-secnav a[aria-current="page"]'), 'section nav does not mark current')
-    must((await page.$$('.pt-card')).length >= 1, 'no cards')
-    await shot(page, 'section-desktop.png')
+await check('retired section pages redirect to /parenting; no section tabs; labels are not links', async () => {
+  for (const s of ['stories', 'opinion', 'interviews', 'news', 'research']) {
+    const r = await fetch(`${BASE}/parenting/${s}`, { redirect: 'manual' })
+    const loc = (r.headers.get('location') || '').replace(/^https?:\/\/[^/]+/, '')
+    must(r.status === 308 && loc === '/parenting', `/parenting/${s} gave ${r.status} -> ${loc}`)
   }
+  const page = await desktop.newPage()
+  await page.goto(`${BASE}/parenting`)
+  must(!(await page.$('.pt-secnav')), 'section tabs still render')
+  must(!(await page.$('a.pt-kicker')), 'a kicker label is still a link')
+  must((await page.$$('span.pt-kicker')).length >= 1, 'kicker labels missing')
   const sw = await page.goto(`${BASE}/parenting/latest`)
   must(sw.status() === 404, `reserved slug /parenting/latest returned ${sw.status()}`)
   await page.close()
-  return res.status() === 200 ? 'stories live' : 'stories empty (404 as designed)'
+  return '5 redirects, no tabs, plain labels'
 })
 
 await check('author page: profile schema and article list', async () => {

@@ -60,9 +60,12 @@ export function SectionNav({ sections, current }: { sections: Section[]; current
   )
 }
 
-export function Kicker({ section, link = true }: { section: Section; link?: boolean }) {
-  const cls = `pt-kicker is-${section.type}`
-  return link ? <a className={cls} href={`/parenting/${section.slug}`}>{section.label}</a> : <span className={cls}>{section.label}</span>
+/* A plain label, not a link (Nov 16, 2026, owner's call): the section pages
+   were retired in favour of one stream, and their URLs 308 to /parenting.
+   The label stays because it tells readers (and Google) a piece is signed
+   opinion rather than reporting. `link` is accepted so old callers compile. */
+export function Kicker({ section }: { section: Section; link?: boolean }) {
+  return <span className={`pt-kicker is-${section.type}`}>{section.label}</span>
 }
 
 export function Avatar({ author, size }: { author: Author; size?: 'lg' | 'xl' }) {

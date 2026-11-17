@@ -7,7 +7,7 @@ import jesseTree from '@/lib/jesse-tree.json'
 import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
 import { MAPS as bibleMaps } from '@/lib/bible-maps'
-import { getPublicArticles, getPublicAuthors, liveSections } from '@/lib/parenting'
+import { getPublicArticles, getPublicAuthors } from '@/lib/parenting'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://faithfulkids.app'
@@ -365,7 +365,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/parenting/about`, lastModified: new Date('2026-11-03'), changeFrequency: 'yearly' as const, priority: 0.4 },
     { url: `${baseUrl}/parenting/editorial-policy`, lastModified: new Date('2026-11-03'), changeFrequency: 'yearly' as const, priority: 0.3 },
     { url: `${baseUrl}/parenting/submission-guidelines`, lastModified: new Date('2026-11-03'), changeFrequency: 'yearly' as const, priority: 0.3 },
-    ...liveSections(pArticles).map(s => ({ url: `${baseUrl}/parenting/${s.slug}`, lastModified: new Date(), changeFrequency: 'weekly' as const, priority: 0.7 })),
     ...pArticles.map(a => ({
       url: `${baseUrl}/parenting/${a.slug}`,
       lastModified: new Date(a.dateModified + 'T00:00:00Z'),

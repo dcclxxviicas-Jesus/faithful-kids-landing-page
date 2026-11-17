@@ -19,7 +19,6 @@ type Props = { params: Promise<{ slug: string }> }
 export async function generateStaticParams() {
   const articles = getPublicArticles()
   return [
-    ...liveSections(articles).map(s => ({ slug: s.slug })),
     ...articles.map(a => ({ slug: a.slug })),
   ]
 }
@@ -172,8 +171,7 @@ function ArticlePage({ article: a }: { article: Article }) {
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://faithfulkids.app' },
       { '@type': 'ListItem', position: 2, name: 'Parenting', item: 'https://faithfulkids.app/parenting' },
-      { '@type': 'ListItem', position: 3, name: a.section.label, item: `https://faithfulkids.app/parenting/${a.section.slug}` },
-      { '@type': 'ListItem', position: 4, name: a.title },
+      { '@type': 'ListItem', position: 3, name: a.title },
     ],
   }
 

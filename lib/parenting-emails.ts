@@ -1,12 +1,12 @@
 import { confirmUrl, newsletterUnsubscribeUrl } from './parenting-db'
+import { buildEmail } from './email-system'
 
 /*
  * Transactional email for the Parenting desk, via Resend's REST API.
  *
- * Sender rule (owner decision, Aug 24 2026): mail that invites a reply from a
- * person goes out as "Christian at Faithful Kids" from the monitored inbox;
- * brand mail (newsletter confirmation) goes out as "Faithful Kids" from
- * team@. First name only, never a surname, in the sign-off.
+ * Sender rule (owner decision, Nov 16 2026): everything goes out as
+ * "Faithful Kids" from team@ and is signed by the team. A pitch receipt sets
+ * reply-to to the editor's inbox so the writer's answer reaches the desk.
  *
  * In development nothing is sent: the message is logged instead, so a test
  * pitch never lands in the real inbox. PARENTING_EMAIL_LIVE=1 overrides.
@@ -14,7 +14,8 @@ import { confirmUrl, newsletterUnsubscribeUrl } from './parenting-db'
 
 const RESEND_KEY = process.env.RESEND_API_KEY
 const TEAM_FROM = `Faithful Kids <${process.env.RESEND_FROM_EMAIL || 'team@faithfulkids.app'}>`
-const CHRISTIAN_FROM = 'Christian at Faithful Kids <christian@faithfulkids.app>'
+// Shows as the brand; replies still go to the editor's inbox via replyTo.
+const CHRISTIAN_FROM = TEAM_FROM
 export const EDITOR_INBOX = 'christian@faithfulkids.app'
 
 // PARENTING_EMAIL_LIVE=0 is a hard off switch for local production-mode test
@@ -67,18 +68,17 @@ async function send(opts: { from: string; to: string; replyTo?: string; subject:
 /* -------------------------------------------------------------- pitches */
 
 export async function sendPitchReceipt(to: string, name: string, topic: string, wantsInterview: boolean): Promise<boolean> {
-  const first = esc(name.trim().split(/\s+/)[0] || 'there')
-  const html = shell(`
-<p>Hi ${first},</p>
-<p>Thank you for sending a pitch to Parenting at Faithful Kids. I read every one myself. Here is what I have:</p>
-<blockquote style="margin:16px 0;padding:12px 16px;border-left:3px solid #16a34a;background:#f0fdf4;color:#166534;"><strong>${esc(topic)}</strong></blockquote>
-<p>${wantsInterview
-  ? 'You said you would rather be interviewed than write it up yourself. Good. If it is a fit I will suggest a couple of times for a short call, and I will draft the piece in your voice for you to approve.'
-  : 'If it is a fit I will reply with a rough length and a deadline, and you write. You see every edit before anything is published.'}</p>
-<p>Expect an answer within about a week either way. If you do not hear from me by then, reply to this email and it comes straight to me.</p>
-<p style="margin:26px 0 0;">— Christian from Faithful Kids<br/><span style="color:#6b7280;font-size:13px;">faithfulkids.app/parenting</span></p>`,
-  `You are receiving this because you submitted a pitch at faithfulkids.app/parenting/write-for-us. We keep your pitch and email private and use them only to consider your piece.`)
-  return send({ from: CHRISTIAN_FROM, to, replyTo: EDITOR_INBOX, subject: `Got your pitch: ${topic.slice(0, 70)}`, html })
+  const first = name.trim().split(/\s+/)[0] || 'there'
+  // Someone who asked to be interviewed is told how that works instead of
+  // being told they will write it. Same letter otherwise.
+  const e = buildEmail('writers/received', { parent: first, topic: topic.slice(0, 120) }, {
+    unsubscribeUrl: null,
+    ...(wantsInterview ? { replaceText: [
+      'If it’s a fit, we’ll agree on length and timing together, and you’ll see every edit before anything is published.',
+      'You said you’d rather be interviewed than write it yourself. If it’s a fit, we’ll suggest a couple of times for a short call, then draft the piece in your voice for you to approve.',
+    ] as [string, string] } : {}),
+  })
+  return send({ from: CHRISTIAN_FROM, to, replyTo: EDITOR_INBOX, subject: e.subject, html: e.html })
 }
 
 export async function sendPitchNotification(s: {
@@ -105,16 +105,9 @@ ${button('https://faithfulkids.app/cas-admin/parenting', 'Open the desk')}
 /* ----------------------------------------------------------- newsletter */
 
 export async function sendNewsletterConfirm(to: string): Promise<boolean> {
-  const url = confirmUrl(to)
-  const html = shell(`
-<p>One click and you are in.</p>
-<p>You asked to receive <strong>Faithful Kids Weekly</strong>, our once-a-week letter for Christian parents: one story worth your time, one practical family activity, one thing worth knowing, and one Bible lesson to explore with your kids.</p>
-${button(url, 'Confirm my subscription')}
-<p style="color:#6b7280;font-size:13px;">If you did not request this, ignore this email and nothing further will be sent. The link works for 14 days.</p>
-<p style="margin:26px 0 0;">— The Faithful Kids Team<br/><span style="color:#6b7280;font-size:13px;">faithfulkids.app/parenting</span></p>`,
-  `Sent to ${esc(to)} because this address was entered at faithfulkids.app. <a href="${newsletterUnsubscribeUrl(to)}" style="color:#9ca3af;">Unsubscribe</a>`)
+  const e = buildEmail('weekly/confirm', { newsletter_confirmation_url: confirmUrl(to) }, { unsubscribeUrl: newsletterUnsubscribeUrl(to) })
   return send({
-    from: TEAM_FROM, to, subject: 'Confirm your Faithful Kids Weekly subscription', html,
+    from: TEAM_FROM, to, subject: e.subject, html: e.html,
     headers: { 'List-Unsubscribe': `<${newsletterUnsubscribeUrl(to)}>`, 'List-Unsubscribe-Post': 'List-Unsubscribe=One-Click' },
   })
 }

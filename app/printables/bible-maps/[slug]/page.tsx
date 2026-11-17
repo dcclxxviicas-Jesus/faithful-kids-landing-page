@@ -237,7 +237,7 @@ export default async function BibleMapPage(
             print for your family, class, or church group.
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <PdfDownloadLink className="bm-dl" href={`https://d3g07v1w0lehiv.cloudfront.net/printables/bible-maps/${m.slug}.pdf`} printable={`bible-maps/${m.slug}`}>
+            <PdfDownloadLink className="bm-dl" href={`https://faithfulkids.app/printables/bible-maps/${m.slug}.pdf`} printable={`bible-maps/${m.slug}`}>
               Download the free PDF &rarr;
             </PdfDownloadLink>
             <span className="bm-dl-note">Letter size · prints on one sheet</span>

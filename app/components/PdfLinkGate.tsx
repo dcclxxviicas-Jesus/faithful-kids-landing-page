@@ -18,7 +18,9 @@ import { PrintableGate, gatePrintable } from '../printables/PrintableGate'
  * modified-button clicks (middle/cmd-click), which browsers handle natively.
  * The raw hrefs stay in the DOM, so crawlers are unaffected.
  */
-const PDF_LINK = /cloudfront\.net\/printables\/([a-z0-9-]+)\.pdf$/
+// Matches the faithfulkids.app address (absolute or relative) and the old
+// CloudFront one, which still appears in links shared before Nov 2026.
+const PDF_LINK = /(?:cloudfront\.net|faithfulkids\.app|^)\/printables\/([a-z0-9-]+)\.pdf$/
 
 export default function PdfLinkGate() {
   useEffect(() => {

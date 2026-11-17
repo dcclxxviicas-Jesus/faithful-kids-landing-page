@@ -94,7 +94,7 @@ export default function BibleTimelinePage() {
             firm, &ldquo;c.&rdquo; where it isn&rsquo;t, and silent where the Bible is silent.
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <PdfDownloadLink className="bm-dl" href="https://d3g07v1w0lehiv.cloudfront.net/printables/bible-timeline.pdf" printable="bible-timeline">
+            <PdfDownloadLink className="bm-dl" href="https://faithfulkids.app/printables/bible-timeline.pdf" printable="bible-timeline">
               Download the free PDF &rarr;
             </PdfDownloadLink>
             <span className="bm-dl-note">One-sheet wall chart, Letter size</span>

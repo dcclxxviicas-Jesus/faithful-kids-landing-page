@@ -45,17 +45,17 @@ If your festival is a trunk or treat, the best trunks aren't the most decorated,
 
 17. **Walls of Jericho March**, everyone marches around the "city" seven times with kazoos and tambourines, then the leaders collapse the box wall. Chaos. Perfection.
 18. **Gideon's Torch Relay**, glow sticks in cups ("torches hidden in jars"): relay to the far cone, reveal the glow, run home.
-19. **Giant Bible Charades**, two teams, prompts from our [70 Bible charades cards](/blog/bible-charades-for-kids) ([printable deck](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-charades.pdf)).
+19. **Giant Bible Charades**, two teams, prompts from our [70 Bible charades cards](/blog/bible-charades-for-kids) ([printable deck](https://faithfulkids.app/printables/bible-charades.pdf)).
 20. **The Great Pumpkin Roll**, pumpkins and a stretch of lawn. Straightest line wins; the pumpkins are the prize.
 
 ## Quiet Stations (Where Small Kids and Tired Parents Land)
 
 Every festival needs a calm corner, and it's also where the actual conversations happen.
 
-21. **Bible Bingo Table**, our [free bingo printable](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-bingo.pdf) has eight pre-filled boards and caller cards; one volunteer, endless rounds. ([How to run it](/blog/bible-bingo-for-kids).)
+21. **Bible Bingo Table**, our [free bingo printable](https://faithfulkids.app/printables/bible-bingo.pdf) has eight pre-filled boards and caller cards; one volunteer, endless rounds. ([How to run it](/blog/bible-bingo-for-kids).)
 22. **Coloring Corner**, print a stack of [Bible coloring pages](/printables/bible-coloring-pages); fall-appropriate picks: Creation, Noah's rainbow, the lost sheep.
 23. **Scavenger Hunt Station**, hand older kids the church photo hunt from our [Bible scavenger hunt printable](/blog/bible-scavenger-hunt) and watch them vanish productively for twenty minutes.
-24. **Joke Booth**, a cup of fold-over [Bible joke cards](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-jokes.pdf); kids pull one, read it to the volunteer, groaning earns candy. (More ammo: [75 clean Christian jokes](/blog/christian-jokes).)
+24. **Joke Booth**, a cup of fold-over [Bible joke cards](https://faithfulkids.app/printables/bible-jokes.pdf); kids pull one, read it to the volunteer, groaning earns candy. (More ammo: [75 clean Christian jokes](/blog/christian-jokes).)
 25. **Word Search & Crossword Table**, print the fall-friendly puzzles from our [Bible word searches](/printables/bible-word-search) and [Bible crosswords](/printables/bible-crossword); answer keys stay with the volunteer.
 
 ## Running the Night Well: Five Hard-Won Rules
@@ -81,4 +81,4 @@ Aim for a mix: six to ten booth games (ring toss, knockdown walls, fishing pond)
 The best trunk games take under 20 seconds per child: a single bean-bag toss, a find-the-hidden-object challenge, or a guess-the-count jar. Six ready-to-use trunk games are in the list above, each one themed to a Bible story the trunk can decorate around.
 
 **How do you do a fall festival on a small budget?**
-Borrow, don't buy: bean bags, tarps, and cardboard cover half the games above. Ask the congregation for candy donations three weeks out, use donated cakes for the cake walk, and print the free game stations ([bingo](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-bingo.pdf), [charades](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-charades.pdf), [coloring pages](/printables/bible-coloring-pages)) instead of renting anything.
+Borrow, don't buy: bean bags, tarps, and cardboard cover half the games above. Ask the congregation for candy donations three weeks out, use donated cakes for the cake walk, and print the free game stations ([bingo](https://faithfulkids.app/printables/bible-bingo.pdf), [charades](https://faithfulkids.app/printables/bible-charades.pdf), [coloring pages](/printables/bible-coloring-pages)) instead of renting anything.

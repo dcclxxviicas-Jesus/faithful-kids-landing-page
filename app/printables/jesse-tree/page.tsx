@@ -79,7 +79,7 @@ export default function JesseTreePage() {
           </p>
           <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
             <PdfDownloadLink
-              href="https://d3g07v1w0lehiv.cloudfront.net/printables/jesse-tree.pdf"
+              href="https://faithfulkids.app/printables/jesse-tree.pdf"
               printable="jesse-tree"
               style={{ display: 'inline-block', background: EMERALD, color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: '0 4px 0 #15803d' }}
             >

@@ -120,7 +120,7 @@ export default async function ColoringPageDetail(
 
       <div className="cpd-actions no-print">
         <PrintButton />
-        <PdfDownloadLink className="cpd-download" href={`${CDN}/${page.slug}.png`} printable={`bible-coloring-pages/${page.slug}`}>
+        <PdfDownloadLink className="cpd-download" href={`/printables/bible-coloring-pages/${page.slug}.png`} printable={`bible-coloring-pages/${page.slug}`}>
           Download PNG
         </PdfDownloadLink>
       </div>

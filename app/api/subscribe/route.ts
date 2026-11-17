@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server'
-import { upsertLead, getLeadByEmail, updateLead, sendLeadEmail } from '@/lib/leads'
+import { upsertLead, getLeadByEmail, updateLead, sendLeadEmail, customerStatus } from '@/lib/leads'
 import { buildEmail, nextDripDays } from '@/lib/lead-emails'
 
 // Basic per-IP rate limiting (per serverless instance — good enough to stop
@@ -61,7 +61,11 @@ export async function POST(req: Request) {
         const { subject, html } = buildEmail(lead, 1)
         const sent = await sendLeadEmail(email, subject, html)
         if (sent) {
-          const days = nextDripDays(magnet, 1)
+          // A customer still gets the printable they asked for, but no
+          // nurture after it. If the lookup fails, schedule as normal: the
+          // drip re-checks before every send.
+          const isCustomer = await customerStatus(email).catch(() => null)
+          const days = isCustomer ? undefined : nextDripDays(magnet, 1)
           const next = days ? new Date(Date.now() + days * 86400_000).toISOString() : null
           await updateLead(email, { sequence_stage: 1, next_send_at: next })
         }

@@ -107,6 +107,15 @@ def main():
             # Exclude backslashes: React's flight payload JSON-escapes quotes, so a
             # naive match swallows the trailing \ and every URL 403s.
             urls |= set(re.findall(r'https://d3g07v1w0lehiv\.cloudfront\.net/[^\s"\'<>)\\]+', body))
+            # Printable PDFs are linked at faithfulkids.app/printables/<x>.pdf and
+            # passed through to the CDN by a rewrite (next.config.js), so they
+            # are neither a built route nor a CDN URL in the HTML. Check the file
+            # the rewrite points at, or a dead PDF link would never be seen.
+            for pdf in set(re.findall(r'(?:href="|https://faithfulkids\.app)(/printables/[A-Za-z0-9/_-]+\.pdf)', body)):
+                if pdf == '/printables/bible-coloring-pages.pdf':
+                    urls.add('https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/faithful-kids-bible-coloring-pages.pdf')
+                else:
+                    urls.add('https://d3g07v1w0lehiv.cloudfront.net' + pdf)
 
         # The flight payload also splits long strings across serialization
         # chunks, leaving a truncated URL fragment mid-payload (seen:

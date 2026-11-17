@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getAllPosts } from '@/lib/blog'
 import pinManifest from '@/lib/pin-manifest.json'
+import printablePins from '@/lib/printable-pins.json'
 
 // RSS feeds for Pinterest auto-publish (Settings -> Bulk create Pins).
 // One feed per content cluster -> one Pinterest board each. Pinterest polls
@@ -9,6 +10,13 @@ import pinManifest from '@/lib/pin-manifest.json'
 // posts join their feed's queue automatically.
 //
 // Feeds: /pin-feeds/trivia.xml, stories.xml, verses.xml, parenting.xml
+//
+// Plus /pin-feeds/printables.xml (Nov 2026, owner request): one pin per
+// printable, where the pin image IS the whole sheet (the full word search,
+// coloring page, crossword, map), so someone who saves the pin has the
+// printable itself. Items come from lib/printable-pins.json and the images
+// from CDN pin-images/printables/<key>.jpg. Connect it to its own board in
+// Pinterest. To add a printable: build its pin image, add it to the JSON.
 
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net'
 const SITE = 'https://faithfulkids.app'
@@ -33,6 +41,46 @@ const FEEDS: Record<string, { title: string; match: (slug: string) => boolean }>
   stories: { title: 'Bible Stories for Kids', match: () => true }, // catch-all, checked last
 }
 
+const PRINTABLES_LAUNCH = Date.UTC(2026, 10, 18) // Nov 18, 2026: day one of the printables drip
+// Advent and Christmas printables go out first: the feed launches in November.
+const SEASONAL = /advent|christmas|jesse-tree|nativity|bethlehem|shepherds|wise-men|angel-visits|baby-jesus/
+
+function printablesFeed(): NextResponse {
+  const all = (printablePins as { key: string; path: string; title: string; description: string }[])
+    .slice()
+    .sort((a, b) => Number(SEASONAL.test(b.key)) - Number(SEASONAL.test(a.key)) || slugHash(a.key) - slugHash(b.key))
+  const daysLive = Math.floor((Date.now() - PRINTABLES_LAUNCH) / 86400_000)
+  const revealed = daysLive < 0 ? 0 : Math.min(all.length, (daysLive + 1) * PER_DAY)
+  const items = all
+    .slice(0, revealed)
+    .map((p, i) => ({ p, pubDate: new Date(PRINTABLES_LAUNCH + Math.floor(i / PER_DAY) * 86400_000 + 16 * 3600_000) }))
+    .reverse()
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Free Bible Printables for Kids | Faithful Kids</title>
+<link>${SITE}/printables</link>
+<description>Free printable Bible word searches, crosswords, coloring pages, maps and reading plans from FaithfulKids.app.</description>
+${items
+  .map(
+    ({ p, pubDate }) => `<item>
+<title>${esc(p.title)}</title>
+<link>${SITE}${p.path}</link>
+<guid isPermaLink="true">${SITE}${p.path}</guid>
+<description>${esc(p.description)}</description>
+<pubDate>${pubDate.toUTCString()}</pubDate>
+<media:content url="${CDN}/pin-images/printables/${p.key}.jpg" medium="image" />
+<enclosure url="${CDN}/pin-images/printables/${p.key}.jpg" type="image/jpeg" length="300000" />
+</item>`
+  )
+  .join('\n')}
+</channel>
+</rss>`
+  return new NextResponse(xml, {
+    headers: { 'Content-Type': 'application/rss+xml; charset=utf-8', 'Cache-Control': 'public, max-age=3600' },
+  })
+}
+
 // Stable pseudo-shuffle so the drip mixes topics instead of going A-Z
 function slugHash(s: string): number {
   let h = 5381
@@ -47,6 +95,7 @@ function esc(s: string): string {
 export async function GET(_req: NextRequest, { params }: { params: Promise<{ feed: string }> }) {
   const { feed } = await params
   const key = feed.replace(/\.xml$/, '')
+  if (key === 'printables') return printablesFeed()
   const def = FEEDS[key]
   if (!def) return new NextResponse('Not found', { status: 404 })
 

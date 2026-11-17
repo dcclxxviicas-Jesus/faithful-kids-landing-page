@@ -56,7 +56,7 @@ export function gatePrintable(detail: Detail): boolean {
 
 /** Which preview picture and name belong to this click. */
 function previewFor(d: Detail): { name: string | null; image: string | null } {
-  const m = d.href?.match(/cloudfront\.net\/(?:printables\/)?([a-z0-9/-]+)\.pdf(?:$|[?#])/)
+  const m = d.href?.match(/(?:cloudfront\.net|faithfulkids\.app|^)\/(?:printables\/)?([a-z0-9/-]+)\.pdf(?:$|[?#])/)
   const fileKey = m ? 'file--' + m[1].replace(/\//g, '--') : null
   const path = location.pathname.replace(/\/$/, '')
   const pageKey = path.startsWith('/printables/')
@@ -84,6 +84,16 @@ export function PrintableGate() {
       return null
     })
   }, [unlocked])
+
+  /* Someone who arrives from one of our emails has already given us their
+     address, often on a different device from the one they signed up on.
+     Asking again before they can print what we just sent them was the
+     complaint; every email link carries utm_source=email. */
+  useEffect(() => {
+    try {
+      if (new URLSearchParams(window.location.search).get('utm_source') === 'email') markCaptureSubmitted()
+    } catch { /* fine */ }
+  }, [])
 
   useEffect(() => {
     function onRequest(e: Event) {

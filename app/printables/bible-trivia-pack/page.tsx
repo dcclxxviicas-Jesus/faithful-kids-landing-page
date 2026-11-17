@@ -195,7 +195,7 @@ export default function BibleTriviaPackPage() {
         <p className="no-print" style={{ margin: '0.6rem 0 0', color: '#4b5563', fontSize: '0.95rem' }}>
           Prefer a ready-made file? Our 50-question kids quiz is also a{' '}
           <PdfDownloadLink
-            href="https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf"
+            href="https://faithfulkids.app/printables/bible-quiz-questions-for-kids.pdf"
             printable="bible-trivia-pack"
             style={{ color: EMERALD, fontWeight: 700 }}
           >

@@ -1,6 +1,6 @@
 import { cfg, TEST_EMAILS } from '@/lib/admin-stats'
-import { sendLeadEmail } from '@/lib/leads'
-import { buildTrialEmail, TRIAL_FROM, type TrialContext, type TrialEmailType } from '@/lib/trial-emails'
+import { sendLeadEmail, familyUnsubscribed } from '@/lib/leads'
+import { buildTrialEmail, TRIAL_FROM, TRIAL_REPLY_TO, type TrialContext, type TrialEmailType } from '@/lib/trial-emails'
 
 // Trial lifecycle engine. Lives in lib because the Vercel Hobby plan allows
 // only two cron jobs and both are taken, so this runs as a second step inside
@@ -164,6 +164,8 @@ async function findCandidates(): Promise<Candidate[]> {
     const fams = famRes.ok ? await famRes.json() : []
     const fam = fams[0]
     if (!fam?.parent_email) continue
+    // They unsubscribed: none of these are billing email, so send nothing.
+    if (familyUnsubscribed(fam.email_notifications)) continue
 
     // Build/test and friends-and-family accounts never get customer mail
     const custEmail = (stripeEmail || '').toLowerCase()
@@ -176,13 +178,19 @@ async function findCandidates(): Promise<Candidate[]> {
     const kidIds = (kids as { id: string }[]).map((k) => k.id)
 
     let episodesWatched = 0
+    let quizStars = 0
+    let streak = 0
     let lastSeriesName: string | null = null
     if (kidIds.length) {
       const progRes = await supa(
-        `/episode_progress?select=series_slug,watched,updated_at&kid_id=in.(${kidIds.join(',')})&watched=is.true&order=updated_at.desc`
+        `/episode_progress?select=series_slug,watched,quiz_score,updated_at&kid_id=in.(${kidIds.join(',')})&watched=is.true&order=updated_at.desc`
       )
       const prog = progRes.ok ? await progRes.json() : []
       episodesWatched = (prog as unknown[]).length
+      quizStars = (prog as { quiz_score?: number | null }[]).reduce((n, r) => n + (Number(r.quiz_score) || 0), 0)
+      const kp = await supa(`/kid_progress?select=streak_current&kid_id=in.(${kidIds.join(',')})`)
+      const streaks = kp.ok ? ((await kp.json()) as { streak_current?: number | null }[]) : []
+      streak = Math.max(0, ...streaks.map((r) => Number(r.streak_current) || 0))
       const slug = (prog as { series_slug?: string }[])[0]?.series_slug
       if (slug) {
         lastSeriesName = slug
@@ -219,6 +227,11 @@ async function findCandidates(): Promise<Candidate[]> {
         lastSeriesName,
         priceLabel: priceLabel(sub),
         trialEndsLabel: dayLabel(sub.trial_end),
+        quizStars,
+        streak,
+        trialEndDate: sub.trial_end
+          ? new Date(sub.trial_end * 1000).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/New_York' })
+          : null,
       },
     })
   }
@@ -235,12 +248,20 @@ export async function runTrialEmails(dry = false): Promise<TrialRunResult> {
   const candidates = await findCandidates()
   const results: Record<string, string>[] = []
   for (const c of candidates) {
-    const { subject, html } = buildTrialEmail(c.ctx, c.type)
+    // One family's email failing to build must not stop everyone else's.
+    let built: { subject: string; html: string }
+    try {
+      built = buildTrialEmail(c.ctx, c.type)
+    } catch (e) {
+      results.push({ email: c.ctx.email, type: c.type, reason: c.reason, sent: `BUILD FAILED: ${e instanceof Error ? e.message : e}` })
+      continue
+    }
+    const { subject, html } = built
     if (dry) {
       results.push({ email: c.ctx.email, type: c.type, reason: c.reason, subject, sent: 'DRY RUN' })
       continue
     }
-    const ok = await sendLeadEmail(c.ctx.email, subject, html, TRIAL_FROM)
+    const ok = await sendLeadEmail(c.ctx.email, subject, html, TRIAL_FROM, TRIAL_REPLY_TO)
     if (ok) {
       await supa('/email_log', {
         method: 'POST',

@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server'
-import { getDueLeads, updateLead, sendLeadEmail } from '@/lib/leads'
+import { getDueLeads, updateLead, sendLeadEmail, customerStatus } from '@/lib/leads'
 import { buildEmail, nextDripDays } from '@/lib/lead-emails'
 import { runTrialEmails } from '@/lib/trial-runner'
 
@@ -24,9 +24,33 @@ export async function GET(req: Request) {
     let sent = 0
     let failed = 0
 
+    let converted = 0
     for (const lead of due) {
+      // Customers leave the drip for good. A failed lookup skips this lead
+      // until tomorrow rather than risk pitching a trial to a paying parent.
+      let status: string | null
+      try {
+        status = await customerStatus(lead.email)
+      } catch {
+        failed++
+        continue
+      }
+      if (status) {
+        await updateLead(lead.email, { next_send_at: null })
+        converted++
+        continue
+      }
       const stage = lead.sequence_stage + 1
-      const { subject, html } = buildEmail(lead, stage)
+      // One lead's email failing to build must not stop everyone else's.
+      let built: { subject: string; html: string }
+      try {
+        built = buildEmail(lead, stage)
+      } catch (e) {
+        console.error('lead email build failed:', lead.magnet, stage, e)
+        failed++
+        continue
+      }
+      const { subject, html } = built
       const ok = await sendLeadEmail(lead.email, subject, html)
       if (!ok) {
         failed++
@@ -52,7 +76,7 @@ export async function GET(req: Request) {
       trial = { error: e instanceof Error ? e.message : 'failed' }
     }
 
-    return NextResponse.json({ ok: true, due: due.length, sent, failed, trial })
+    return NextResponse.json({ ok: true, due: due.length, sent, failed, converted, trial })
   } catch (e) {
     console.error('drip error:', e)
     return NextResponse.json({ error: 'drip failed' }, { status: 500 })

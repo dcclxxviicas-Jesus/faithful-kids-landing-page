@@ -33,8 +33,35 @@ const nextConfig = {
       { source: '/parenting/:section(stories|opinion|interviews|news|research)', destination: '/parenting', permanent: true },
     ]
   },
+  /* PDFs are served at faithfulkids.app addresses (rewrites below) but must
+     not be indexed: a PDF in search results skips the page it belongs to,
+     with its email gate and its videos. Links people make to a PDF still
+     count for the domain. */
+  async headers() {
+    return [
+      { source: '/printables/:path(.+\\.pdf)', headers: [{ key: 'X-Robots-Tag', value: 'noindex' }] },
+    ]
+  },
   async rewrites() {
     return [
+      /* Printable PDFs live on CloudFront but open at faithfulkids.app
+         (owner request, Nov 2026): /printables/<anything>.pdf is passed
+         through to the same path on the CDN. A printable page's own PDF is
+         its address plus .pdf. The coloring pack predates the scheme and
+         sits under another prefix, so it gets its own line, first. */
+      {
+        source: '/printables/bible-coloring-pages.pdf',
+        destination: 'https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/faithful-kids-bible-coloring-pages.pdf',
+      },
+      // The single coloring page a visitor downloads is an image, same idea.
+      {
+        source: '/printables/bible-coloring-pages/:slug.png',
+        destination: 'https://d3g07v1w0lehiv.cloudfront.net/coloring-pages/:slug.png',
+      },
+      {
+        source: '/printables/:path(.+\\.pdf)',
+        destination: 'https://d3g07v1w0lehiv.cloudfront.net/printables/:path',
+      },
       // Markdown parity: /blog/<slug>.md serves the same post as plain Markdown.
       // Handler lives at app/blog-md/[slug]/route.ts. HTML stays canonical.
       {

@@ -13,7 +13,7 @@ The Bible has 66 books: 39 in the Old Testament and 27 in the New Testament, and
 
 Knowing the books in order isn't a party trick. A kid who knows where Habakkuk lives can actually find it during a sermon or a [sword drill](/blog/sunday-school-games-for-kids), and that small confidence makes the whole Bible feel like home.
 
-**Want it ready to print?** [Download the free Books of the Bible PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/books-of-the-bible.pdf); a one-page wall chart of all 66 books in order, 66 cut-out flashcards, and three bookmarks (Old Testament, New Testament, and the ten "shelves"). Free to photocopy for home, class, or church.
+**Want it ready to print?** [Download the free Books of the Bible PDF](https://faithfulkids.app/printables/books-of-the-bible.pdf); a one-page wall chart of all 66 books in order, 66 cut-out flashcards, and three bookmarks (Old Testament, New Testament, and the ten "shelves"). Free to photocopy for home, class, or church.
 
 ## What Are the 66 Books of the Bible in Order?
 
@@ -111,7 +111,7 @@ The 66 books run from Genesis to Revelation, and they're easiest to learn in gro
 
 ## What Books of the Bible Printables Should You Make?
 
-There are three formats worth printing, and each does a different job: a **chart** for daily exposure, **flashcards** for games and drills, and a **bookmark** for use inside an actual Bible. All three are in [our free PDF above](https://d3g07v1w0lehiv.cloudfront.net/printables/books-of-the-bible.pdf), ready to photocopy. If you'd rather make your own, laminated, color-coded to your curriculum, or sized for a classroom wall, here is how each format earns its keep.
+There are three formats worth printing, and each does a different job: a **chart** for daily exposure, **flashcards** for games and drills, and a **bookmark** for use inside an actual Bible. All three are in [our free PDF above](https://faithfulkids.app/printables/books-of-the-bible.pdf), ready to photocopy. If you'd rather make your own, laminated, color-coded to your curriculum, or sized for a classroom wall, here is how each format earns its keep.
 
 ### Format 1: The One-Page List
 

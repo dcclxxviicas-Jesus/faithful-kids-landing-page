@@ -135,11 +135,11 @@ export default function BibleQuizPage() {
           </h2>
           <p style={{ color: 'var(--text-secondary)', marginBottom: 12 }}>
             Running this on paper, a classroom, a church table, a long car ride?{' '}
-            <a href="https://d3g07v1w0lehiv.cloudfront.net/printables/bible-quiz-questions-for-kids.pdf" style={{ color: 'var(--primary)', fontWeight: 700 }}>
+            <a href="https://faithfulkids.app/printables/bible-quiz-questions-for-kids.pdf" style={{ color: 'var(--primary)', fontWeight: 700 }}>
               Download the quiz sheets
             </a>{' '}
             with the answer key on its own page, free to photocopy. The{' '}
-            <a href="https://d3g07v1w0lehiv.cloudfront.net/printables/christmas-bible-trivia.pdf" style={{ color: 'var(--primary)', fontWeight: 700 }}>
+            <a href="https://faithfulkids.app/printables/christmas-bible-trivia.pdf" style={{ color: 'var(--primary)', fontWeight: 700 }}>
               Christmas edition PDF
             </a>{' '}
             does the same for December. More paper games live in our{' '}

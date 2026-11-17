@@ -11,7 +11,7 @@ dateModified: "2026-10-03"
 
 Here is a complete nativity play script for kids, **"The Night of Nights"**, free to perform, copy, and adapt for any church, school, or home. No licence, no permission emails, no fee. It runs about ten minutes, scales from 8 kids to 40, and is built around the one rule every children's director learns the hard way: **nobody except the narrators should have to memorize more than two lines.**
 
-**Want it on paper?** [Download the free script PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/nativity-play-script.pdf), cast list, director's notes, and the full script formatted for rehearsal folders. Free to photocopy for the whole cast.
+**Want it on paper?** [Download the free script PDF](https://faithfulkids.app/printables/nativity-play-script.pdf), cast list, director's notes, and the full script formatted for rehearsal folders. Free to photocopy for the whole cast.
 
 ## Why This Script Works
 

@@ -1,4 +1,6 @@
-import { SITE_URL, unsubscribeUrl } from './leads'
+import { unsubscribeUrl } from './leads'
+import { buildEmail, childVars, storyVars, FROM } from './email-system'
+import type { Block } from './email-system/render'
 
 // Trial lifecycle emails. The annual plan carries a free trial — seven days
 // on the web since 2026-09-16, three through Apple — so the sequence is three
@@ -12,15 +14,14 @@ import { SITE_URL, unsubscribeUrl } from './leads'
 // Plus trial_canceling, fired the moment someone sets cancel_at_period_end
 // during the trial (the case that lost us a customer in August).
 //
-// Copy rules: no founder name, sender is always "Faithful Kids", plain
-// chrome so Gmail keeps these out of Promotions.
+// Copy and design live in lib/email-system (the "Home" design). This file
+// picks the right email for the family's setup state and fills in their data.
 
-const APP_URL = 'https://app.faithfulkids.app'
-
-// Trial mail comes from Christian, not the brand: every one of these emails
-// invites a reply, and christian@faithfulkids.app is a monitored inbox.
-// (Cold lead nurture still sends as "Faithful Kids"; see lib/lead-emails.ts.)
-export const TRIAL_FROM = 'Christian Alexander <christian@faithfulkids.app>'
+// Trial mail shows as "Faithful Kids" from team@, like everything else
+// (owner decision, Nov 16, 2026). These emails invite a reply, so team@ must
+// be a watched inbox.
+export const TRIAL_FROM = FROM.christian
+export { REPLY_TO as TRIAL_REPLY_TO } from './email-system'
 
 export type TrialState = 'no_kids' | 'no_episodes' | 'engaged'
 export type TrialEmailType =
@@ -39,30 +40,12 @@ export interface TrialContext {
   lastSeriesName: string | null
   priceLabel: string // e.g. "$97/year"
   trialEndsLabel: string // e.g. "Tuesday"
-}
-
-function utm(url: string, type: TrialEmailType): string {
-  const sep = url.includes('?') ? '&' : '?'
-  return `${url}${sep}utm_source=email&utm_medium=trial&utm_campaign=${type}`
-}
-
-function wrap(email: string, bodyHtml: string): string {
-  return `<!DOCTYPE html>
-<html><body style="margin:0;padding:0;background:#ffffff;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;">
-<div style="max-width:560px;margin:0 auto;padding:28px 20px;color:#1f2937;font-size:15px;line-height:1.65;">
-${bodyHtml}
-<p style="margin:26px 0 0;">— Christian from Faithful Kids<br/><span style="color:#6b7280;font-size:13px;">faithfulkids.app</span></p>
-<p style="margin:24px 0 0;color:#9ca3af;font-size:12px;line-height:1.5;">
-  You're receiving this because you have a Faithful Kids account.
-  <a href="${unsubscribeUrl(email)}" style="color:#9ca3af;">Unsubscribe from tips</a>
-</p>
-</div></body></html>`
-}
-
-function button(href: string, label: string): string {
-  return `<table role="presentation" cellpadding="0" cellspacing="0" style="margin:22px auto;"><tr><td style="background:#16a34a;border-radius:999px;">
-  <a href="${href}" style="display:inline-block;padding:13px 30px;color:#ffffff;font-weight:700;text-decoration:none;font-size:15px;">${label}</a>
-</td></tr></table>`
+  /** Sum of quiz scores across watched episodes. */
+  quizStars: number
+  /** Longest current streak across the family's kids. */
+  streak: number
+  /** Trial end as a full date, "November 21, 2026", or null if unknown. */
+  trialEndDate: string | null
 }
 
 // Plenty of parents type placeholders into the profile screen ("Kid 1",
@@ -103,162 +86,72 @@ export function trialState(ctx: TrialContext): TrialState {
   return 'engaged'
 }
 
-const hi = (ctx: TrialContext) => (ctx.firstName ? `Hi ${ctx.firstName},` : 'Hi there,')
+/** The one child's name when there is exactly one usable name, else null. */
+function singleChild(names: string[]): string | null {
+  const kids = names.filter((n) => !isSelfProfile(n))
+  return kids.length === 1 && looksLikeRealName(kids[0]) ? kids[0].trim() : null
+}
 
 export function buildTrialEmail(
   ctx: TrialContext,
   type: TrialEmailType
 ): { subject: string; html: string } {
   const state = trialState(ctx)
-  const kids = nameList(ctx.kidNames)
-  const plural = ctx.kidNames.length !== 1
-  const appLink = utm(APP_URL, type)
-  const billingLink = utm(`${APP_URL}/parent`, type)
-
-  switch (type) {
-    // ---------- Day 1: get them to press play ----------
-    case 'trial_day1': {
-      if (state === 'no_kids') {
-        return {
-          subject: 'One step before your first story',
-          html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>Your account is ready. One step left: add a profile for each child.</p>
-<p>It takes about thirty seconds, and it's what lets each kid keep their own progress and streak.</p>
-${button(utm(`${APP_URL}/profiles`, type), 'Add your kids →')}
-<p style="color:#6b7280;font-size:13px;">Stuck on anything? Just reply. This comes straight to my inbox.</p>`),
-        }
-      }
-      if (state === 'no_episodes') {
-        return {
-          subject: looksLikeRealName(ctx.kidNames[0] || '')
-            ? `${ctx.kidNames[0]}'s first story is waiting`
-            : 'Their first story is waiting',
-          html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>${kids} ${plural ? 'are' : 'is'} all set up. Now the fun part.</p>
-<p>Start with <strong>Creation</strong>, the first episode of Genesis. Three minutes: a story narrated by Jesus, a short quiz, then one question to talk about together.</p>
-${button(appLink, 'Play the first episode →')}
-<p style="color:#6b7280;font-size:13px;">Watch it side by side if you can. Most parents say the questions their kids ask afterward are the best part.</p>`),
-        }
-      }
-      return {
-        subject: 'Nice start 🌱',
-        html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>${kids} finished ${ctx.episodesWatched === 1 ? 'the first episode' : `${ctx.episodesWatched} episodes`}. That's a real start.</p>
-<p>${ctx.lastSeriesName ? `<strong>${ctx.lastSeriesName}</strong> picks up` : 'The next episode picks up'} right where you left off.</p>
-${button(appLink, 'Continue watching →')}
-<p style="color:#6b7280;font-size:13px;">Families who watch a few days in a row tend to keep going for months.</p>`),
-      }
-    }
-
-    // ---------- The later trial email: momentum, never billing ----------
-    // Fires ~2 days before the charge (see trial-runner), not on day 2 — the
-    // web trial is 7 days as of 2026-09-16, so signup age and billing date are
-    // no longer the same moment.
-    //
-    // Still NO charge reminder, re-confirmed by the owner when the trial was
-    // lengthened. The terms live in the enrollment confirmation, which carries
-    // free-days count, exact end date, renewal price and how to cancel, pulled
-    // live from the subscription. Do not add a "your trial ends tomorrow"
-    // email here without asking.
-    case 'trial_day2': {
-      if (state === 'no_kids') {
-        return {
-          subject: 'Your first story is still waiting',
-          html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>Everything is ready on our side. One step left: a profile for each child, about thirty seconds.</p>
-${button(utm(`${APP_URL}/profiles`, type), 'Add your kids →')}
-<p>Then start with <strong>Creation</strong>. Three minutes, and the conversation afterward is usually the best part.</p>
-<p style="color:#6b7280;font-size:13px;">If something is in the way, a login that won't work or a question about ages, just reply and tell me.</p>`),
-        }
-      }
-      if (state === 'no_episodes') {
-        return {
-          subject: 'Three minutes, one story',
-          html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>${kids} ${plural ? 'are' : 'is'} ready to go but ${plural ? "haven't" : "hasn't"} watched a story yet. So here is the smallest possible start.</p>
-<p><strong>One episode. Three minutes.</strong> Creation, the first story in Genesis: narrated by Jesus, a handful of questions, then one thing to talk about together.</p>
-${button(appLink, 'Play Creation →')}
-<p>That's all it takes to know whether this is right for your family. Bedtime, breakfast, the car, wherever three minutes fits.</p>`),
-        }
-      }
-      return {
-        subject: 'Look what they did this week',
-        html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>Where ${kids} ${plural ? 'have' : 'has'} got to:</p>
-<p style="font-size:20px;font-weight:800;margin:14px 0;color:#16a34a;">${ctx.episodesWatched} ${ctx.episodesWatched === 1 ? 'episode' : 'episodes'} finished</p>
-<p>Every one was a full story, a quiz, and a reflection. Not a video playing in the background. That's the part that sticks.</p>
-<p>${ctx.lastSeriesName ? `<strong>${ctx.lastSeriesName}</strong> picks up` : 'The next episode picks up'} where you left off, and finishing a series unlocks the next one.</p>
-${button(appLink, 'Keep going →')}`),
-      }
-    }
-
-    // ---------- Converted ----------
-    case 'trial_converted':
-      return {
-        subject: "You're in. Thank you 💚",
-        html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>Your subscription is active. Thank you for backing what we're building.</p>
-<ul style="margin:0 0 12px;padding-left:20px;">
-  <li>New series unlock as your kids finish the one before</li>
-  <li>The parent dashboard shows what each child watched and scored</li>
-  <li>You can add up to 5 kid profiles at no extra cost</li>
-</ul>
-${button(appLink, 'Keep the streak going →')}
-<p>If anything ever feels off, a story that didn't land or a feature you wish existed, just reply and tell me. I read every message.</p>`),
-      }
-
-    // ---------- They set it to cancel, mid-trial ----------
-    case 'trial_canceling':
-      return {
-        subject: 'Before you go, can we help?',
-        html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>We saw your subscription is set to end${ctx.trialEndsLabel ? ` ${ctx.trialEndsLabel}` : ''}. That's completely okay and there's nothing you need to do.</p>
-${
-  state === 'engaged'
-    ? `<p>One thing though: ${kids} did get through ${ctx.episodesWatched === 1 ? 'an episode' : `${ctx.episodesWatched} episodes`}, so something was working. If it was the price, the timing, or something that annoyed you, I'd like to know. Just hit reply.</p>`
-    : `<p>If you never quite got started, that's usually our fault rather than yours. If there's a reason it didn't click, confusing setup or not what you expected, hit reply and tell me. I read every one.</p>`
-}
-<p>Your access stays on until the end of the period.</p>
-${button(appLink, 'Watch while you still have access →')}
-<p style="color:#6b7280;font-size:13px;">Changed your mind? You can turn it back on any time from your <a href="${billingLink}" style="color:#6b7280;">parent dashboard</a>.</p>`),
-      }
-
-    // ---------- Paying, but has never opened an episode ----------
-    // Not a trial email: this covers any active subscriber, including the
-    // monthly plan which has no trial and therefore no other touchpoint.
-    case 'never_watched':
-      return {
-        subject: looksLikeRealName(ctx.kidNames[0] || '')
-          ? `Where to start with ${kids}`
-          : 'Where to start',
-        html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>Thanks for joining us.${ctx.kidNames.some(isSelfProfile) ? ' I saw you set up a profile for yourself as well as the kids, which is my favourite way to do it.' : ''}</p>
-<p>If you have three minutes today, start with <strong>Creation</strong>, the first episode of Genesis. A story narrated by Jesus, a few questions, then one thing to talk about together. That last part is where it sticks.</p>
-${button(appLink, 'Start with Creation →')}
-<p style="color:#6b7280;font-size:13px;">Anything at all in the way, just reply. This comes straight to me.</p>`),
-      }
-
-    // ---------- Trial lapsed without converting ----------
-    case 'trial_canceled':
-    default:
-      return {
-        subject: 'The door stays open',
-        html: wrap(ctx.email, `
-<p>${hi(ctx)}</p>
-<p>Your trial has ended and you haven't been charged.</p>
-<p>If Faithful Kids wasn't the right fit, we understand. Your account and any progress will be waiting if you come back. Nothing gets deleted.</p>
-<p>If you'd send me one honest sentence about why it didn't work, it would help me build something better. Just reply.</p>
-${button(utm(`${SITE_URL}/quiz`, type), 'Start again whenever you like')}
-<p style="color:#6b7280;font-size:13px;">Our Bible stories, trivia and printables stay free at faithfulkids.app.</p>`),
-      }
+  const vars: Record<string, string> = {
+    parent: ctx.firstName || 'there',
+    ...childVars(singleChild(ctx.kidNames)),
+    ...storyVars(ctx.episodesWatched),
+    stars: String(ctx.quizStars),
+    streak: String(ctx.streak),
   }
+  const opts: { unsubscribeUrl: string; replace?: Partial<Record<Block[0], Block | null>>; subject?: number } = {
+    unsubscribeUrl: unsubscribeUrl(ctx.email),
+  }
+  // Only show numbers that are worth showing: a zero is not a celebration.
+  const stats: [string, string][] = [[vars.stories, vars.stories_label]]
+  if (ctx.quizStars > 0) stats.push([vars.stars, 'quiz stars'])
+  if (ctx.streak > 1) stats.push([vars.streak, 'day streak'])
+
+  let key: string
+  switch (type) {
+    // Day 1: get them to press play.
+    case 'trial_day1':
+      key = state === 'no_kids' ? 'trial/1-noprofile' : state === 'engaged' ? 'trial/1-engaged' : 'trial/1'
+      break
+
+    // The later trial email: momentum, never billing. Fires about two days
+    // before the charge (see trial-runner). Still NO charge reminder,
+    // re-confirmed by the owner when the trial was lengthened: the terms live
+    // in the enrollment confirmation. Do not add a "your trial ends tomorrow"
+    // email here without asking.
+    case 'trial_day2':
+      key = state === 'no_kids' ? 'trial/2-noprofile' : state === 'engaged' ? 'trial/2' : 'trial/2-noactivity'
+      if (key === 'trial/2') opts.replace = { stats: ['stats', stats] }
+      break
+
+    case 'trial_converted':
+      key = 'trial/3a'
+      if (!ctx.firstName) opts.subject = 2 // the pick thanks them by name
+      break
+
+    // They set it to cancel mid-trial: confirm it plainly, no arguing.
+    case 'trial_canceling':
+      key = 'trial/3b'
+      if (!ctx.trialEndDate) throw new Error('trial_canceling needs the trial end date')
+      vars.trial_end_date = ctx.trialEndDate
+      vars.trial_end_short = ctx.trialEndDate.replace(/,\s*\d{4}$/, '')
+      break
+
+    case 'trial_canceled':
+      key = 'trial/3c'
+      break
+
+    // A paying customer who has watched nothing: the same first-story nudge
+    // a new monthly customer gets.
+    case 'never_watched':
+    default:
+      key = state === 'no_kids' ? 'monthly/1-noprofile' : 'monthly/1'
+  }
+  const e = buildEmail(key, vars, opts)
+  return { subject: e.subject, html: e.html }
 }

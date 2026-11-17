@@ -12,7 +12,7 @@ Bible bingo is a 5x5 grid game where each square holds a Bible character, story,
 
 It works for ages 4 to 12, scales from two kids at the kitchen table to thirty in a Sunday school room, and sneaks in real Bible review while everyone thinks they're just playing a game. Here's everything you need: how to make the cards, four complete themed word lists, four ways to play, and when each version works best.
 
-**Playing tonight?** [Download the free Bible bingo PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-bingo.pdf). Eight pre-filled 5x5 boards plus a sheet of caller cards to cut out and draw from a bowl. Free to photocopy.
+**Playing tonight?** [Download the free Bible bingo PDF](https://faithfulkids.app/printables/bible-bingo.pdf). Eight pre-filled 5x5 boards plus a sheet of caller cards to cut out and draw from a bowl. Free to photocopy.
 
 ## How Do You Make Bible Bingo Cards?
 
@@ -54,7 +54,7 @@ Ark, Rainbow, Dove, Staff, Basket, Manna, Stone Tablets, Trumpet, Sling, Five St
 
 Here's the honest truth about free Bible bingo printables: the download is the least valuable part. Purchased and downloaded sets come with words somebody else picked, which almost never match what your class is studying this month, and a bingo card full of words kids haven't learned yet is just a lottery ticket. What you actually need is four ready-to-make sets with complete word lists, which is what follows. Photocopy a blank 5x5 grid, fill it from the list, and you have a printable set that matches your lessons exactly.
 
-Each set below is complete: 25-30 words, enough for a full class, ready to hand to a volunteer with no further instructions. (And if you do just want a finished set for tonight, our [free bingo PDF](https://d3g07v1w0lehiv.cloudfront.net/printables/bible-bingo.pdf) has eight pre-filled boards and caller cards from the characters-and-objects list, the lists below are for when you want cards matched to your own lessons.)
+Each set below is complete: 25-30 words, enough for a full class, ready to hand to a volunteer with no further instructions. (And if you do just want a finished set for tonight, our [free bingo PDF](https://faithfulkids.app/printables/bible-bingo.pdf) has eight pre-filled boards and caller cards from the characters-and-objects list, the lists below are for when you want cards matched to your own lessons.)
 
 ### Set 1: Bible Characters (30 words)
 

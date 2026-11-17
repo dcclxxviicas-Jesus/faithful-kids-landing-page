@@ -65,9 +65,9 @@ Live content is different in kind from videos: no one, including the streamer, c
 
 ## If You're a Christian Streamer Yourself
 
-This part is addressed to the streamers this page is about. We partner with Christian creators, and streamers are exactly who we're looking for: a family-gaming channel, a Christian variety streamer with parents in chat, a mom or dad who streams. The shape of it: free full access to Faithful Kids for your family, and paid collaborations where the fit is genuine, with no follower minimum, because we care whether your audience trusts you, not how big it is. Email [christian@faithfulkids.app](mailto:christian@faithfulkids.app) with your channel link and one content idea; a real person reads every pitch and replies either way. Details at [faithfulkids.app/creators](/creators).
+This part is addressed to the streamers this page is about. We partner with Christian creators, and streamers are exactly who we're looking for: a family-gaming channel, a Christian variety streamer with parents in chat, a mom or dad who streams. The shape of it: free full access to Faithful Kids for your family, and paid collaborations where the fit is genuine, with no follower minimum, because we care whether your audience trusts you, not how big it is. Email [team@faithfulkids.app](mailto:team@faithfulkids.app) with your channel link and one content idea; a real person reads every pitch and replies either way. Details at [faithfulkids.app/creators](/creators).
 
-And the wider money side of small-channel streaming, including every faith-friendly brand program that actually replies, is its own verified guide: [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers).
+And the money side has two verified guides of its own: [brands that work with Christian streamers](/blog/brands-that-work-with-christian-streamers) for who to pitch, and [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers) for the whole landscape.
 
 ## Frequently Asked Questions
 

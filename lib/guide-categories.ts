@@ -178,7 +178,7 @@ export function getGuideCategory(slug: string): string {
   if (slug.includes('screen-time') || slug.includes('digital-stewardship') || slug.includes('christian-alternatives')) return 'Screen Time'
   // Creator-monetization posts (sponsorships, UGC) are recruitment guides, not
   // watcher guides — route them before the streamer/youtuber rule below.
-  if (slug.includes('sponsor') || slug.includes('ugc')) return 'Guides'
+  if (slug.includes('sponsor') || slug.includes('ugc') || slug.includes('brands-that')) return 'Guides'
   // Who-to-watch rosters and gaming guidance belong with Screen Time ("what to
   // point kids toward instead"). Must sit before the Activities 'games' rule
   // (christian-video-games) and the Family rule (family-friendly-youtubers).

@@ -86,7 +86,7 @@ If you're new to the UGC side of this; making content for brands to run, rather 
 ## Frequently Asked Questions
 
 **What Christian brands pay influencers?**
-Most programs on this list are commission-based (ambassador/affiliate). Faithful Kids offers scoped paid collaborations; Logos pays commissions through a formal affiliate network. Paid flat-rate UGC in the faith niche is usually negotiated directly rather than advertised. If you stream rather than post, the sponsor landscape is different; see our verified guide to [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers).
+Most programs on this list are commission-based (ambassador/affiliate). Faithful Kids offers scoped paid collaborations; Logos pays commissions through a formal affiliate network. Paid flat-rate UGC in the faith niche is usually negotiated directly rather than advertised. If you stream rather than post, the sponsor landscape is different; see our verified guides to [brands that work with Christian streamers](/blog/brands-that-work-with-christian-streamers) and [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers).
 
 **Do I need a big following to work with Christian brands?**
 Mostly no. The surviving apparel ambassador programs (Elevated Faith, Child of God Co.) are open-application, and Faithful Kids has no follower minimum. Logos is the exception with published thresholds (~1,000 YouTube / 5,000 Instagram).

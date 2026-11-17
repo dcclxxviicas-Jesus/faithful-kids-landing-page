@@ -52,13 +52,13 @@ The honest news first: this tier is thinner than it was even a week ago. When we
 
 What's live and open as of November 16, 2026:
 
-- **Faithful Kids (that's us).** We partner with Christian parenting, family, and homeschool creators, and that includes streamers; a family-gaming channel or a Christian variety streamer with parents in chat is exactly who we want. Free full access for your family, and paid collaborations where the fit is genuine, with no follower minimum. Email [christian@faithfulkids.app](mailto:christian@faithfulkids.app) with your channel links and one content idea; a real person reads every pitch and replies either way. Details: [faithfulkids.app/creators](/creators).
+- **Faithful Kids (that's us).** We partner with Christian parenting, family, and homeschool creators, and that includes streamers; a family-gaming channel or a Christian variety streamer with parents in chat is exactly who we want. Free full access for your family, and paid collaborations where the fit is genuine, with no follower minimum. Email [team@faithfulkids.app](mailto:team@faithfulkids.app) with your channel links and one content idea; a real person reads every pitch and replies either way. Details: [faithfulkids.app/creators](/creators).
 - **[Elevated Faith](https://elevatedfaith.com/pages/brand-ambassadors)**: the 2026 ambassador program is open, with 10% commission, 15% off for your audience, PayPal or gift-card payouts from $25, and milestone rewards. Requires being 18+ and active on Instagram, Facebook, or TikTok, so streamers with a clip presence qualify.
 - **[Child of God Co.](https://childofgodco.net/brand-ambassadors)**: 10% commission, 15% off for your followers, free merch milestones, PayPal payouts mid-month. Open application, 18+.
 - **[Hosanna Revival](https://hosannarevival.com/pages/affiliate-home)**: an affiliate program aimed at women who point their audience to Scripture; commission rate isn't published on the page.
 - **[Logos Bible Software](https://www.logos.com/apply-to-partner)**: the serious option for Bible-study streamers. Their page gives example thresholds of roughly 1,000 YouTube subscribers, 5,000 Instagram followers, or 10,000 monthly page views, asks for alignment with their biblical-literacy mission, and expects promotion at least every 90 days.
 
-For the wider set of faith brands that work with creators generally (not streamer-specific), see our verified lists of [Christian brands that work with influencers](/blog/christian-brands-that-work-with-influencers) and [brands that work with homeschool bloggers](/blog/brands-that-work-with-homeschool-bloggers).
+The streamer-specific brand list, with every program above ranked for faith-based channels, lives in its own guide: [brands that work with Christian streamers](/blog/brands-that-work-with-christian-streamers). For creators generally, see our verified lists of [Christian brands that work with influencers](/blog/christian-brands-that-work-with-influencers) and [brands that work with homeschool bloggers](/blog/brands-that-work-with-homeschool-bloggers).
 
 ## The Fake Sponsorship Scam Every Small Streamer Gets
 

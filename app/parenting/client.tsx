@@ -85,7 +85,7 @@ export function NewsletterInline({ source, button = 'Subscribe', placeholder = '
   return (
     <div className="pt-news" ref={box}>
       {state === 'done' ? (
-        <p className="pt-news-ok" role="status">Check your inbox. We sent a confirmation link; the newsletter starts once you click it.</p>
+        <p className="pt-news-ok" role="status">You’re in. A welcome email with a few essays to start with is on its way.</p>
       ) : (
         <form className="pt-news-form" onSubmit={submit} noValidate>
           <label htmlFor={`pt-news-${source}`} className="pt-hp">Email address</label>

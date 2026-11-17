@@ -184,25 +184,27 @@ export interface Subscriber {
 
 export const NEWSLETTER_LIST = 'parenting-weekly'
 
-/** Insert or re-open a subscriber row. Returns the row and whether a
- *  confirmation email should go out (new, still pending, or re-subscribing). */
-export async function upsertSubscriber(fields: { email: string; source: string; source_path: string; ip_hash: string; user_agent: string }): Promise<{ row: Subscriber; sendConfirm: boolean }> {
+/** Insert or re-open a subscriber row. Returns the row and whether the
+ *  welcome email should go out (new, still pending, or re-subscribing).
+ *  There is no confirmation step (owner decision, Nov 17, 2026): a sign-up is
+ *  subscribed at once, the way the printable and quiz sign-ups always were. */
+export async function upsertSubscriber(fields: { email: string; source: string; source_path: string; ip_hash: string; user_agent: string }): Promise<{ row: Subscriber; sendWelcome: boolean }> {
   const email = fields.email.toLowerCase().trim()
   const existing = await getSubscriber(email)
   if (!existing) {
     const res = await expectOk(await supa('/newsletter_subscribers', {
       method: 'POST', headers: { Prefer: 'return=representation' },
-      body: JSON.stringify([{ ...fields, email, list: NEWSLETTER_LIST, status: 'pending' }]),
+      body: JSON.stringify([{ ...fields, email, list: NEWSLETTER_LIST, status: 'confirmed', confirmed_at: new Date().toISOString() }]),
     }), 'insert subscriber')
-    return { row: (await res.json())[0], sendConfirm: true }
+    return { row: (await res.json())[0], sendWelcome: true }
   }
-  if (existing.status === 'confirmed') return { row: existing, sendConfirm: false }
-  // pending (resend the link) or unsubscribed (they asked again: new consent)
+  if (existing.status === 'confirmed') return { row: existing, sendWelcome: false }
+  // pending from the old confirm flow, or unsubscribed (they asked again: new consent)
   const res = await expectOk(await supa(`/newsletter_subscribers?email=eq.${encodeURIComponent(email)}`, {
     method: 'PATCH', headers: { Prefer: 'return=representation' },
-    body: JSON.stringify({ status: 'pending', consent_at: new Date().toISOString(), unsubscribed_at: null, source: fields.source, source_path: fields.source_path }),
+    body: JSON.stringify({ status: 'confirmed', confirmed_at: new Date().toISOString(), consent_at: new Date().toISOString(), unsubscribed_at: null, source: fields.source, source_path: fields.source_path }),
   }), 'reopen subscriber')
-  return { row: (await res.json())[0], sendConfirm: true }
+  return { row: (await res.json())[0], sendWelcome: true }
 }
 
 export async function getSubscriber(email: string): Promise<Subscriber | null> {

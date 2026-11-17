@@ -163,7 +163,7 @@ export function QuietStrip({ source }: { source: string }) {
       <div className="pt-strip-inner">
         <div className="pt-strip-news">
           <p className="pt-strip-label">Faithful Kids Weekly</p>
-          <p className="pt-strip-text">One email a week for parents: the best piece from this section and one Bible lesson to explore together. Adults only, confirmed by email, one-click unsubscribe.</p>
+          <p className="pt-strip-text">Essays for Christian parents, sent on occasion when we publish something new. Adults only, one-click unsubscribe.</p>
           <NewsletterInline source={source} />
         </div>
         <div className="pt-strip-write">

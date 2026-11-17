@@ -2298,48 +2298,70 @@ export const EMAILS = {
   "from": "brand",
   "style": "letter",
   "billing": false,
-  "reason": "You requested Faithful Kids Weekly.",
+  "reason": "You subscribed to our parenting essays at faithfulkids.app.",
   "subjects": [
-   "When you can’t answer your child",
-   "Welcome to Faithful Kids Weekly",
-   "Your first read is here"
+   "Welcome. Start with this essay",
+   "You’re in. Start here",
+   "A first essay for you"
   ],
-  "pre": "Welcome. Your first essay is about the questions that stop us short.",
+  "pre": "Thank you for subscribing. One essay to begin, and three more below.",
   "tokens": [],
   "blocks": [
    [
     "eyebrow",
-    "Faithful Kids Weekly"
+    "Raising Faithful Kids"
    ],
    [
     "h",
-    "For the questions that come home"
+    "Welcome. Here’s a good place to start"
    ],
    [
     "p",
-    "Welcome. Whenever we publish a new essay on Raising Faithful Kids, you’ll get it here, with one practical idea and one thing to explore with your kids."
+    "Thank you for subscribing. We publish essays for Christian parents who want faith to feel real at home, and we’ll email you on occasion, when there’s a new one worth your time."
    ],
    [
-    "h3",
-    "Start here"
+    "img",
+    "p-how-to-raise-children-to-have-god-in-their-hearts-and-minds",
+    "A child in tall grass looks up at a sky full of stars, a parent’s hand on their shoulder",
+    "https://faithfulkids.app/parenting/how-to-raise-children-to-have-god-in-their-hearts-and-minds?utm_source=email&utm_medium=weekly&utm_campaign=weekly-welcome&utm_content=parenting-newsletter",
+    false,
+    "wide"
    ],
    [
     "p",
-    "<strong>The Best Bible Question Is the One You Cannot Answer</strong>. By Mark Antonio"
+    "<strong>How to Raise Children with God in Their Hearts and Minds</strong>. By Nas Aziz"
    ],
    [
     "p",
-    "What do you say when your child asks something you can’t answer? This essay may change how you hear those questions."
+    "We tell children to fear God, then wonder why they picture him angry. Nas Aziz writes that the fear Scripture means is awe, and that a child who never stops learning never runs out of reasons to find him."
    ],
    [
     "btn",
     "Read the essay",
+    "https://faithfulkids.app/parenting/how-to-raise-children-to-have-god-in-their-hearts-and-minds?utm_source=email&utm_medium=weekly&utm_campaign=weekly-welcome&utm_content=parenting-newsletter"
+   ],
+   [
+    "h3",
+    "More to read"
+   ],
+   [
+    "link",
+    "The Best Bible Question Is the One You Cannot Answer, by Mark Antonio",
     "https://faithfulkids.app/parenting/the-best-bible-question-is-the-one-you-cannot-answer?utm_source=email&utm_medium=weekly&utm_campaign=weekly-welcome&utm_content=parenting-newsletter"
    ],
    [
     "link",
-    "Also read: The Five-Minute Family Devotion That Lasts All Year",
+    "The Five-Minute Family Devotion That Lasts All Year, by Zach Thomas",
     "https://faithfulkids.app/parenting/family-devotions-die-in-february?utm_source=email&utm_medium=weekly&utm_campaign=weekly-welcome&utm_content=parenting-newsletter"
+   ],
+   [
+    "link",
+    "What to Say When Your Child Says, “I Don’t Think I Believe”, by Shannon Michaels",
+    "https://faithfulkids.app/parenting/what-to-say-when-your-child-says-i-dont-think-i-believe?utm_source=email&utm_medium=weekly&utm_campaign=weekly-welcome&utm_content=parenting-newsletter"
+   ],
+   [
+    "p",
+    "That’s all for now. There’s no schedule: you’ll only hear from us when we’ve published something new."
    ],
    [
     "sign",

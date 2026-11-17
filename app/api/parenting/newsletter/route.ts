@@ -1,14 +1,14 @@
 import { NextResponse } from 'next/server'
 import { upsertSubscriber, ipHash, dbConfigured, TableMissing } from '@/lib/parenting-db'
-import { sendNewsletterConfirm } from '@/lib/parenting-emails'
+import { sendNewsletterWelcome } from '@/lib/parenting-emails'
 
 export const dynamic = 'force-dynamic'
 
 /*
- * Faithful Kids Weekly signup. Double opt-in: the row is `pending` until the
- * confirmation link is clicked, and nothing is ever sent to a pending row.
- * Repeat submissions re-send the confirmation; confirmed addresses get a
- * quiet ok (no duplicate email, no information leak about who is subscribed).
+ * Parenting newsletter signup. No confirmation step (owner decision, Nov 17,
+ * 2026): a sign-up is subscribed at once and gets the welcome email. An
+ * address that is already subscribed gets a quiet ok (no duplicate email, no
+ * information leak about who is subscribed).
  */
 
 const hits = new Map<string, { n: number; t: number }>()
@@ -38,11 +38,11 @@ export async function POST(req: Request) {
   if (!dbConfigured()) return NextResponse.json({ error: 'Signup is not available yet.' }, { status: 503 })
 
   try {
-    const { sendConfirm } = await upsertSubscriber({
+    const { sendWelcome } = await upsertSubscriber({
       email, source, source_path: sourcePath, ip_hash: ipHash(ip),
       user_agent: (req.headers.get('user-agent') || '').slice(0, 300),
     })
-    if (sendConfirm) await sendNewsletterConfirm(email)
+    if (sendWelcome) await sendNewsletterWelcome(email)
     return NextResponse.json({ ok: true })
   } catch (err) {
     if (err instanceof TableMissing) {

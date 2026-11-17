@@ -43,6 +43,8 @@ Prefer writing to filming? The same niche pays writers too; our [Christian writi
 
 If your content is live rather than posted, sponsorships work differently there; our verified guide to [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers) covers the programs that are real and the scams that aren't.
 
+Alongside UGC fees, affiliate links are the second income stream; our verified [Christian affiliate programs](/blog/christian-affiliate-programs) directory ranks them by what they pay.
+
 ## The Pitch That Gets Answered
 
 Three sentences, no attachments:

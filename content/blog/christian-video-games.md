@@ -11,7 +11,7 @@ dateModified: "2026-11-16"
 
 Most lists of Christian video games have a problem: half the games on them no longer exist. We checked every game below against its own store page or official site in November 2026, which means this list can tell you something the others can't: what your family can actually install tonight, what costs money, what's still "coming soon" after five years, and which beloved recommendations are quietly dead.
 
-One disclosure up front: we make [Faithful Kids](https://faithfulkids.app/quiz), a Bible video app for kids with quizzes and games built into every lesson. It's not a video game in the console sense, so it's not ranked below, but if what you really want is screen time that teaches the Bible, that's the job it was built for.
+One disclosure up front: we make [Faithful Kids](https://faithfulkids.app/quiz), which turns the whole Bible into an interactive game: every story is a short video, then a playable game built from that story, then a quiz, on a 3D map of the biblical world kids explore from Genesis on. It's an app rather than a console title, so it's not ranked below, but if what you want is a game where the Bible is the game, that's the one we built; there's a free trial, and [Bible story games](/blog/bible-story-games) explains how it works.
 
 ## Is Grace on Roblox a Christian Game? (The Honest Answer)
 
@@ -60,6 +60,8 @@ This section is why we verify. Each of these still appears in Christian-game rou
 - **The Robloxian Christians**: ended live in-game services in 2023 after twelve years; remember it fondly, don't send your kids looking for it.
 
 One more to not confuse: "Heaven Forest" titles on Steam are vaguely-spiritual meditation games with no Christian content, whatever the thumbnails imply.
+
+For free browser games your family can play tonight without installing anything, start at our [Bible games online hub](/blog/bible-games-online).
 
 ## How to Think About Games and Faith
 

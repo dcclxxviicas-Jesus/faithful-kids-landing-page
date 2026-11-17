@@ -33,6 +33,8 @@ A note on how this list works, same as our [creators list](/blog/christian-brand
 
 **The program:** [brand ambassadors](https://childofgodco.net/brand-ambassadors) earn 10% commission while followers get 15% off, with free merch milestones and PayPal payouts mid-month. Open application, 18+, replies in about a week.
 
+Streamers monetize with links too; see the verified [Christian affiliate programs](/blog/christian-affiliate-programs) directory, including the 50% program we run ourselves.
+
 ## 4. Logos Bible Software
 
 **What they make:** the heavyweight Bible study platform, and the natural sponsor for anyone streaming Bible study, theology Q&A, or church services.

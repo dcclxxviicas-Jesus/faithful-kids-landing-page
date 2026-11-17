@@ -35,6 +35,8 @@ A note on how this list works: we are one of the brands on it (first, because it
 
 Prefer writing to filming? The same niche pays writers too; our [Christian writing jobs](/blog/christian-writing-jobs) guide lists the markets and verified rates.
 
+Prefer links to sponsorships? Our verified directory of [Christian affiliate programs](/blog/christian-affiliate-programs) sorts the niche by real commission rates.
+
 ## 4. DaySpring (program discontinued; update from November 2026)
 
 **What they make:** faith-based greeting cards, home decor, and gifts (a Hallmark subsidiary, one of the largest Christian retailers in the US).

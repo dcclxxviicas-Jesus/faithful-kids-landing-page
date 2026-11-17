@@ -6,7 +6,7 @@ type: "listicle"
 metaDescription: "Bible games for kids sorted by age and setting. 29 Christian games for ages 4-12, Sunday school, outdoor youth groups, and zero-prep nights, with how-tos."
 keywords: ["bible games for kids", "christian games for kids", "bible games for youth outdoor", "jesus games for kids", "bible games for kids indoor", "bible games for sunday school", "no prep bible games for kids", "bible games for 5 year olds"]
 datePublished: "2026-04-16"
-dateModified: "2026-08-20"
+dateModified: "2026-11-16"
 ---
 
 The best Bible games for kids are Sword Drill for kids who can read, Bible Charades for mixed-age groups, Who Am I? for car rides, and Disciples Tag for burning off energy; those four alone can carry a semester of Sunday school. Below are 29 of the best Christian games for kids, sorted by age and setting: indoor, outdoor, Sunday school, and zero-prep; each with full how-to-play instructions, what it teaches, and how much prep it needs (many need none).
@@ -14,6 +14,12 @@ The best Bible games for kids are Sword Drill for kids who can read, Bible Chara
 One insight before the list: the fastest way to kill a Bible game is to make it feel like a pop quiz with a costume on. Kids smell "secret homework" instantly. The games that work are games first: running, guessing, drawing, laughing; where the Bible content rides inside the fun instead of being the toll you pay for it. Every game below is built on that principle.
 
 **Want a game you can play right now, with no setup?** Our [free Bible trivia game](/bible-trivia) runs in the browser: 100 questions across three difficulty levels, a fresh ten-question round every time, and a verse with every answer. It works on a phone in the car and on a projector in a classroom, and churches can [embed it on their own website](/blog/bible-trivia-embed-for-church-website) for free.
+
+## The Game That Is the Whole Bible (Ours)
+
+Full disclosure before the list: we make one of these. Every game below is a game *about* the Bible; [Faithful Kids](https://faithfulkids.app/quiz) turns the Bible itself into an interactive game kids can play. Each story is a short video lesson, then a playable game built from that exact story (load the ark before the rain, escape through the Red Sea, face Goliath), then a quiz, and kids move across a 3D map of the biblical world as they unlock story after story, from Genesis on. It's built for ages 5-15, with no ads and no algorithm, and the practical effect parents report is kids asking for "one more story" the way they used to ask for one more level. [Try it free here](https://faithfulkids.app/quiz), and see [Bible story games](/blog/bible-story-games) for how the play-the-story idea works, including at-home versions needing no screen at all.
+
+Now, the 29 in-person games.
 
 ## Which Bible Game Should You Play? (Quick Reference)
 

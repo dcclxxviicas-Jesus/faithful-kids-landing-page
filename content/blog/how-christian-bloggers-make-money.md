@@ -56,6 +56,8 @@ None of these networks charges to apply. The practical path: Journey at 1,000 se
 
 Bloggers who also stream have a separate monetization path; see our guide to [Twitch sponsorships for small streamers](/blog/twitch-sponsorships-for-small-streamers), verified the same way this page is.
 
+For the affiliate layer specifically, our verified directory of [Christian affiliate programs](/blog/christian-affiliate-programs) ranks every live program by what it actually pays, including one at 50%.
+
 ## Ministry and Brand Partnerships
 
 This is the route every ranking post misses, and for a Christian blogger it is often the most natural fit.

@@ -137,6 +137,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      url: `${baseUrl}/affiliates`,
+      lastModified: new Date('2026-11-16'),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: `${baseUrl}/homeschool`,
       lastModified: new Date('2026-08-31'),
       changeFrequency: 'monthly',

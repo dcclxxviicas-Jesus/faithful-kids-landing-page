@@ -186,6 +186,8 @@ Teams start with a paperclip and knock on doors trading up for something bigger 
 
 If your group loves a game-show format, our free [Bible Jeopardy board](/bible-jeopardy) runs 6 categories and 30 questions with team scoring; put it on a TV and host it like the real thing.
 
+Need something playable on a screen between meetings? Our hub of [Bible games you can play online](/blog/bible-games-online) collects the trivia, Jeopardy boards, and puzzles, all free in the browser.
+
 ## What Games Work for Large Youth Groups (25+)?
 
 Large groups need games where the rules are shoutable in 20 seconds and nobody waits in a line. These 18 all handle 25 to 100+ students.

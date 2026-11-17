@@ -1,4 +1,5 @@
 import { verifyNewsletterToken, setSubscriberStatus, getSubscriber } from '@/lib/parenting-db'
+import { sendNewsletterWelcome } from '@/lib/parenting-emails'
 
 export const dynamic = 'force-dynamic'
 
@@ -25,7 +26,12 @@ export async function GET(req: Request) {
   }
   try {
     const row = await getSubscriber(email)
-    if (row && row.status !== 'confirmed') await setSubscriberStatus(email, 'confirmed')
+    if (row && row.status !== 'confirmed') {
+      await setSubscriberStatus(email, 'confirmed')
+      // Welcome them once, on the change to confirmed. A failed send must
+      // not turn a successful confirmation into an error page.
+      await sendNewsletterWelcome(email).catch((err) => console.error('newsletter welcome failed', err))
+    }
   } catch (err) {
     console.error('confirm error', err)
     return page('Something went wrong', 'We could not confirm your subscription just now. Please try the link again in a minute.')

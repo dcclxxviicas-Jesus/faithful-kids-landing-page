@@ -3847,6 +3847,28 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
 .ws-play h2, .ws-themed-head h2 { font-size: 1.7rem; font-weight: 800; margin-bottom: 8px; }
 .ws-themed-head { padding: 28px 24px 6px; text-align: center; }
 
+/* Word search HUB print sheet. The general puzzle has no detail page, so the
+   hub prints it as the same single sheet the detail pages do. Its title and
+   credit are generated content: nothing is added on screen or to the HTML. */
+.ws-credit.ws-hub-credit { display: none; }
+@media print {
+  .ws-play { padding: 0 !important; }
+  .ws-hub-sheet { text-align: center; page-break-inside: avoid; break-inside: avoid; }
+  .ws-hub-sheet::before {
+    content: "Bible Word Search";
+    display: block; font-size: 1.3rem; font-weight: 800; margin-bottom: 14px;
+  }
+  .ws-credit.ws-hub-credit { display: flex; }
+  .ws-hub-credit::before {
+    content: "FaithfulKids.app";
+    font-size: .95rem; font-weight: 800; color: #111; letter-spacing: .01em;
+  }
+  .ws-hub-credit::after {
+    content: "Free Bible story videos \00B7  faithfulkids.app/bible-stories-for-kids";
+    font-size: .74rem;
+  }
+}
+
 /* App Store badge in the sticky bar (iPhone only — see AppStore.tsx).
 
    The headline is dropped in this variant: "Try free:" plus the badge is 176px

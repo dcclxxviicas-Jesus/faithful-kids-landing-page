@@ -41,7 +41,9 @@ const FEEDS: Record<string, { title: string; match: (slug: string) => boolean }>
   stories: { title: 'Bible Stories for Kids', match: () => true }, // catch-all, checked last
 }
 
-const PRINTABLES_LAUNCH = Date.UTC(2026, 10, 18) // Nov 18, 2026: day one of the printables drip
+// Day one of the printables drip. Pinterest refuses to connect a feed with
+// no items, so the start date has to be in the past by the time it is linked.
+const PRINTABLES_LAUNCH = Date.UTC(2026, 10, 16) // Nov 16, 2026
 // Advent and Christmas printables go out first: the feed launches in November.
 const SEASONAL = /advent|christmas|jesse-tree|nativity|bethlehem|shepherds|wise-men|angel-visits|baby-jesus/
 

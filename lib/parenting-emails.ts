@@ -111,3 +111,12 @@ export async function sendNewsletterConfirm(to: string): Promise<boolean> {
     headers: { 'List-Unsubscribe': `<${newsletterUnsubscribeUrl(to)}>`, 'List-Unsubscribe-Post': 'List-Unsubscribe=One-Click' },
   })
 }
+
+/* Sent once, the moment a subscriber confirms. */
+export async function sendNewsletterWelcome(to: string): Promise<boolean> {
+  const e = buildEmail('weekly/welcome', {}, { unsubscribeUrl: newsletterUnsubscribeUrl(to) })
+  return send({
+    from: TEAM_FROM, to, subject: e.subject, html: e.html,
+    headers: { 'List-Unsubscribe': `<${newsletterUnsubscribeUrl(to)}>`, 'List-Unsubscribe-Post': 'List-Unsubscribe=One-Click' },
+  })
+}

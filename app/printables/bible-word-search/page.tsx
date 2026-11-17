@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import puzzles from '@/lib/word-searches.json'
 import { WordSearchGame } from './WordSearchGame'
+import PrintButton from '../PrintButton'
 import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 
@@ -93,21 +94,30 @@ export default function WordSearchHub() {
       </section>
 
       <section className="ws-play">
-        <h2>Play the Bible word search now</h2>
-        <p className="section-sub">
+        <h2 className="no-print">Play the Bible word search now</h2>
+        <p className="section-sub no-print">
           Twelve words from across the whole Bible. Drag across a word or tap its first and last
           letter, it works on a phone, and nothing needs printing.
         </p>
-        <WordSearchGame
-          grid={general.grid}
-          words={general.words}
-          answers={general.answers as unknown as Record<string, { row: number; col: number; dr: number; dc: number }>}
-          slug={general.slug}
-          title="Bible"
-        />
+        {/* The printed sheet: grid + word list, with the title and credit drawn
+            by the print stylesheet (.ws-hub-sheet / .ws-hub-credit in
+            globals.css) so the on-screen page and its HTML text are unchanged.
+            Everything else on this hub is hidden in print. REBUILD
+            printables/bible-word-search.pdf if this layout changes. */}
+        <div className="ws-hub-sheet">
+          <WordSearchGame
+            grid={general.grid}
+            words={general.words}
+            answers={general.answers as unknown as Record<string, { row: number; col: number; dr: number; dc: number }>}
+            slug={general.slug}
+            title="Bible"
+          />
+          <p className="ws-credit ws-hub-credit" aria-hidden="true" />
+        </div>
+        <div className="cpd-actions no-print"><PrintButton /></div>
       </section>
 
-      <section className="ws-themed-head">
+      <section className="ws-themed-head no-print">
         <h2>Word searches by Bible story</h2>
         <p className="section-sub">
           Ten more puzzles, each built from one story or theme. Every one plays in the browser and
@@ -115,7 +125,7 @@ export default function WordSearchHub() {
         </p>
       </section>
 
-      <div className="ws-grid">
+      <div className="ws-grid no-print">
         {themed.map(p => (
           <a key={p.slug} className="ws-card" href={`/printables/bible-word-search/${p.slug}`}>
             {/* eslint-disable-next-line @next/next/no-img-element */}

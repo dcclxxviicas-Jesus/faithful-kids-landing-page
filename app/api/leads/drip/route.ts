@@ -2,6 +2,11 @@ import { NextResponse } from 'next/server'
 import { getDueLeads, updateLead, sendLeadEmail, customerStatus } from '@/lib/leads'
 import { buildEmail, nextDripDays } from '@/lib/lead-emails'
 import { runTrialEmails } from '@/lib/trial-runner'
+import { runLifecycleEmails } from '@/lib/lifecycle-runner'
+
+// Three jobs run on this one daily tick (leads, trial emails, lifecycle
+// emails), so give it room.
+export const maxDuration = 300
 
 // Drip engine — hit daily by cron-job.org:
 //   GET /api/leads/drip?secret=DRIP_SECRET
@@ -76,7 +81,16 @@ export async function GET(req: Request) {
       trial = { error: e instanceof Error ? e.message : 'failed' }
     }
 
-    return NextResponse.json({ ok: true, due: due.length, sent, failed, converted, trial })
+    // Third job: the other customer lifecycle emails. Isolated the same way.
+    let lifecycle: unknown = { skipped: true }
+    try {
+      lifecycle = await runLifecycleEmails()
+    } catch (e) {
+      console.error('lifecycle emails failed:', e)
+      lifecycle = { error: e instanceof Error ? e.message : 'failed' }
+    }
+
+    return NextResponse.json({ ok: true, due: due.length, sent, failed, converted, trial, lifecycle })
   } catch (e) {
     console.error('drip error:', e)
     return NextResponse.json({ error: 'drip failed' }, { status: 500 })

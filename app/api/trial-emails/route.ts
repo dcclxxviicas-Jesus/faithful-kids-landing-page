@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { adminPassword } from '@/lib/admin-stats'
 import { runTrialEmails, previewTrialEmails } from '@/lib/trial-runner'
+import { runLifecycleEmails } from '@/lib/lifecycle-runner'
 
 export const maxDuration = 120
 
@@ -24,7 +25,10 @@ export async function GET(req: NextRequest) {
     }
     const dry = req.nextUrl.searchParams.get('dry') === '1'
     const out = await runTrialEmails(dry)
-    return NextResponse.json({ ok: true, dry, ...out })
+    // ?dry=1 also previews the other lifecycle emails; a real run of those
+    // only ever happens from the daily cron.
+    const lifecycle = dry ? await runLifecycleEmails(true) : undefined
+    return NextResponse.json({ ok: true, dry, ...out, lifecycle })
   } catch (err) {
     console.error('trial-emails error:', err)
     return NextResponse.json(

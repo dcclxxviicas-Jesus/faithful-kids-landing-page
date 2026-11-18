@@ -186,7 +186,8 @@ function propsOf(d: Desired): Props {
 interface LeadRow { email: string; magnet: string; unsubscribed: boolean }
 interface FamilyRow {
   id: string; parent_email: string | null; parent_name: string | null; created_at: string
-  subscription_status: string | null; stripe_customer_id: string | null; email_notifications: unknown
+  subscription_status: string | null; stripe_customer_id: string | null; subscription_id: string | null
+  email_notifications: unknown
 }
 interface NewsRow { email: string; status: string }
 
@@ -235,10 +236,14 @@ async function buildDesired(
     if (!f.parent_email) continue
     const status = f.subscription_status || 'none'
     const email = norm(f.parent_email)
-    let paid = !!f.stripe_customer_id
+    // Comped accounts ('comp:lifetime' etc.) were given the product free:
+    // not customers, and not opted into email, so they are left out.
+    if ((f.subscription_id || '').startsWith('comp')) continue
+    // Some web buyers carry the Stripe subscription id without the customer id.
+    let paid = !!f.stripe_customer_id || (f.subscription_id || '').startsWith('sub_')
     let app = false
     if (!paid && status !== 'none') {
-      app = (knownApp.has(email) && !families.some((x) => x !== f && x.stripe_customer_id && norm(x.parent_email || '') === email))
+      app = (knownApp.has(email) && !families.some((x) => x !== f && (x.stripe_customer_id || (x.subscription_id || '').startsWith('sub_')) && norm(x.parent_email || '') === email))
         || (rcFor(f) && (await boughtInApp(f.id)))
       paid = app
     }
@@ -355,7 +360,7 @@ export async function reconcileContacts(opts: { budgetMs?: number; full?: boolea
 
   const [leads, families, news] = await Promise.all([
     supaAll<LeadRow>('leads?select=email,magnet,unsubscribed'),
-    supaAll<FamilyRow>('families?select=id,parent_email,parent_name,created_at,subscription_status,stripe_customer_id,email_notifications'),
+    supaAll<FamilyRow>('families?select=id,parent_email,parent_name,created_at,subscription_status,stripe_customer_id,subscription_id,email_notifications'),
     supaAll<NewsRow>('newsletter_subscribers?select=email,status'),
   ])
   const knownApp = new Set([...current].filter(([, c]) => c.segments.has(SEGMENTS.customers)).map(([e]) => e))
@@ -392,6 +397,21 @@ export async function reconcileContacts(opts: { budgetMs?: number; full?: boolea
       console.error('contact sync:', e instanceof Error ? e.message : e)
     }
   }
+  // 3. Anyone no longer on any list (e.g. an account later marked comped)
+  //    leaves our segments. The contact itself stays, so an unsubscribe
+  //    recorded on it is never lost.
+  let removed = 0
+  for (const [email, c] of current) {
+    if (desired.has(email) || opts.dry) continue
+    for (const name of c.segments) {
+      if (Date.now() - started > budget) break
+      const id = ids.get(name)
+      if (!id) continue
+      const r = await resend(`/contacts/${c.id}/segments/${id}`, { method: 'DELETE' })
+      if (r.ok) removed++
+    }
+  }
+
   const bySegment: Record<string, number> = {}
   const byStatus: Record<string, number> = {}
   let unsubscribed = 0
@@ -400,7 +420,7 @@ export async function reconcileContacts(opts: { budgetMs?: number; full?: boolea
     byStatus[d.status || '(none)'] = (byStatus[d.status || '(none)'] || 0) + 1
     if (d.unsubscribed) unsubscribed++
   }
-  return { ...counts, contacts: desired.size, unsubscribed, bySegment, byStatus, ms: Date.now() - started }
+  return { ...counts, removedFromSegments: removed, contacts: desired.size, unsubscribed, bySegment, byStatus, ms: Date.now() - started }
 }
 
 /* ---------- one address, right after a sign-up or status change ---------- */
@@ -412,7 +432,7 @@ export async function syncEmail(email: string): Promise<void> {
     const q = encodeURIComponent(e)
     const [leads, families, news] = await Promise.all([
       supaAll<LeadRow>(`leads?select=email,magnet,unsubscribed&email=eq.${q}`),
-      supaAll<FamilyRow>(`families?select=id,parent_email,parent_name,created_at,subscription_status,stripe_customer_id,email_notifications&parent_email=ilike.${q}`),
+      supaAll<FamilyRow>(`families?select=id,parent_email,parent_name,created_at,subscription_status,stripe_customer_id,subscription_id,email_notifications&parent_email=ilike.${q}`),
       supaAll<NewsRow>(`newsletter_subscribers?select=email,status&email=eq.${q}`),
     ])
     const ids = await segmentIds()

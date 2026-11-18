@@ -43,15 +43,26 @@ const orgSchema = {
   '@type': 'Organization',
   name: 'Faithful Kids',
   url: 'https://faithfulkids.app',
-  logo: 'https://faithfulkids.app/logo-512.png',
+  logo: 'https://faithfulkids.app/press/faithful-kids-app-icon-512.png',
   founder: { '@type': 'Person', name: 'Christian Alexander', url: 'https://faithfulkids.app/about/christian-alexander' },
   contactPoint: { '@type': 'ContactPoint', contactType: 'Press', email: EMAIL, availableLanguage: 'English' },
 }
+
+const PRESS_CSS = `
+.pr-assets{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px;margin:8px 0 18px}
+.pr-asset{margin:0;background:#fff;border:1px solid #e7e2d6;border-radius:20px;padding:18px;display:flex;flex-direction:column;align-items:center;gap:12px;box-shadow:0 2px 0 rgba(0,0,0,.03)}
+.pr-asset-img{width:100%;height:240px;display:flex;align-items:center;justify-content:center;background:#f7f5ef;border-radius:14px;padding:18px;box-sizing:border-box}
+.pr-asset-img img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain}
+.pr-asset figcaption{font-weight:700;color:#1f2937;text-align:center;margin-top:auto}
+.pr-dl{display:inline-block;background:#16a34a;color:#fff!important;font-weight:800;text-decoration:none;padding:10px 26px;border-radius:999px;box-shadow:0 4px 0 #15803d}
+.pr-dl:active{transform:translateY(2px);box-shadow:0 2px 0 #15803d}
+`
 
 function PressV2() {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
+      <style dangerouslySetInnerHTML={{ __html: PRESS_CSS }} />
       <SiteNav />
       <main id="main-content">
         <V2Hero
@@ -130,10 +141,24 @@ function PressV2() {
               You&rsquo;re welcome to use our logo in coverage of Faithful Kids. Please don&rsquo;t
               alter it.
             </p>
-            <ul style={{ paddingLeft: '1.3rem', margin: '0 0 1rem' }}>
-              <li><a href="/logo.png" download>Faithful Kids logo (PNG)</a></li>
-              <li><a href="/logo-512.png" download>App icon, 512 by 512 (PNG)</a></li>
-            </ul>
+            <div className="pr-assets">
+              <figure className="pr-asset">
+                <div className="pr-asset-img">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src="/logo.png" alt="Faithful Kids logo" width={1425} height={941} />
+                </div>
+                <figcaption>Faithful Kids logo (PNG)</figcaption>
+                <a className="pr-dl" href="/logo.png" download="faithful-kids-logo.png">Download</a>
+              </figure>
+              <figure className="pr-asset">
+                <div className="pr-asset-img">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src="/press/faithful-kids-app-icon-512.png" alt="Faithful Kids app icon" width={512} height={512} />
+                </div>
+                <figcaption>App icon, 512 by 512 (PNG)</figcaption>
+                <a className="pr-dl" href="/press/faithful-kids-app-icon-512.png" download="faithful-kids-app-icon-512.png">Download</a>
+              </figure>
+            </div>
             <p>Need screenshots or lesson stills? Email us and say what size you need.</p>
           </div>
         </section>

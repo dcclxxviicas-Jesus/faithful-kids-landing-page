@@ -5,6 +5,7 @@ import { allListings } from '@/lib/app-directory-db'
 import { forKids, sortListings, categoryLabel, PRICE_LABEL, CHECKED_ON, GONE, prettyDate, CATEGORIES, type Listing } from '@/lib/christian-apps'
 import { AppDirectory } from './AppDirectory'
 import { Card, FkAd } from './ui'
+import { RelatedGuides, ADULTS_HUB } from './RelatedGuides'
 import './apps.css'
 
 /*
@@ -166,17 +167,14 @@ export default async function ChristianAppsHub() {
           <a className="ad-btn" href="/christian-apps/submit">Submit yours</a>
         </section>
 
-        <section className="ad-section">
-          <h2>More guides for choosing</h2>
-          <ul className="ad-related">
-            <li><a href="/best-christian-apps">The best Christian apps for adults</a></li>
-            <li><a href="/blog/best-bible-app-for-kids">Best Bible apps for kids, compared</a></li>
-            <li><a href="/blog/free-bible-apps-for-kids">Free Bible apps for kids</a></li>
-            <li><a href="/blog/best-bible-apps-by-age">Bible apps by age</a></li>
-            <li><a href="/blog/christian-alternatives-to-youtube-for-kids">Christian alternatives to YouTube for kids</a></li>
-            <li><a href="/blog/best-educational-apps-for-christian-kids">Educational apps for Christian kids</a></li>
-          </ul>
-        </section>
+        <RelatedGuides title="More Guides for Choosing" items={[
+          ADULTS_HUB,
+          { slug: 'best-bible-app-for-kids', badge: 'App Reviews' },
+          { slug: 'free-bible-apps-for-kids', badge: 'App Reviews' },
+          { slug: 'best-bible-apps-by-age', badge: 'App Reviews' },
+          { slug: 'christian-alternatives-to-youtube-for-kids', badge: 'Screen Time' },
+          { slug: 'best-educational-apps-for-christian-kids', badge: 'App Reviews' },
+        ]} />
 
         <section className="ad-section ad-faq">
           <h2>Questions parents ask</h2>

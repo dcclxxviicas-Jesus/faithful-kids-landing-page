@@ -4,6 +4,7 @@ import { allListings } from '@/lib/app-directory-db'
 import { forAdults, sortListings, PRICE_LABEL, CHECKED_ON, GONE_ADULTS, prettyDate, CATEGORIES, type Listing } from '@/lib/christian-apps'
 import { AppDirectory } from '../christian-apps/AppDirectory'
 import { Card, FkAd } from '../christian-apps/ui'
+import { RelatedGuides, KIDS_HUB } from '../christian-apps/RelatedGuides'
 import '../christian-apps/apps.css'
 
 /*
@@ -166,15 +167,14 @@ export default async function BestChristianAppsHub() {
           <a className="ad-btn" href="/christian-apps/submit">Submit yours</a>
         </section>
 
-        <section className="ad-section">
-          <h2>More guides</h2>
-          <ul className="ad-related">
-            <li><a href="/christian-apps">The best Christian apps for kids</a></li>
-            <li><a href="/blog/best-christian-podcasts">Best Christian podcasts</a></li>
-            <li><a href="/blog/best-bible-translation-for-kids">Bible translations compared</a></li>
-            <li><a href="/blog/where-to-list-a-christian-app">Where to list a Christian app</a></li>
-          </ul>
-        </section>
+        <RelatedGuides items={[
+          KIDS_HUB,
+          { slug: 'best-christian-podcasts' },
+          { slug: 'best-bible-translation-for-kids', badge: 'Bible' },
+          { slug: 'where-to-list-a-christian-app', badge: 'For App Makers' },
+          { slug: 'christian-influencers' },
+          { slug: 'best-christian-charities' },
+        ]} />
 
         <section className="ad-section ad-faq">
           <h2>Questions people ask</h2>

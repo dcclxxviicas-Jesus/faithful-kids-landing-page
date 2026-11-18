@@ -37,6 +37,8 @@ The official CBN-run Superbook channel is the quickest route, no account, no dow
 
 But it is YouTube, with the ads and the sidebar and the autoplay that follows. If the reason you're looking for Bible content is to get your kids *out* of the algorithm, the free app solves the problem the free channel doesn't.
 
+The app's price, ages and last update are on its [Superbook listing](/christian-apps/superbook-kids-bible) in our Christian apps directory.
+
 ## What Superbook actually is
 
 Superbook is CBN's animated retelling of the Bible, following two children and a robot who get sent back into biblical events. Episodes run around 25 minutes and cover the narrative properly: creation, the patriarchs, the exodus, the prophets, the gospels, Acts.

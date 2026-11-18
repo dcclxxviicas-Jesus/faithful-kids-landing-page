@@ -58,6 +58,8 @@ Both are valuable. They're just different tools.
 
 Consider the analogy: watching a nature documentary is wonderful, but it's not the same as taking a biology class. Yippee TV is the documentary. Faithful Kids is the class.
 
+Yippee's current store prices are on its [listing in our Christian apps directory](/christian-apps/yippee-tv).
+
 ## Side-by-Side Comparison
 
 | Feature | Yippee TV | Faithful Kids |

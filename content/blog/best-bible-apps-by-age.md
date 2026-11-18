@@ -62,6 +62,8 @@ The 7-to-10 band straddles the two sections above, and it is where most families
 
 If you want a printed Bible alongside the app, our [kids Bibles by age](/blog/best-bibles-for-kids) guide matches one to each stage.
 
+To narrow by age across every kind of faith app, not just Bible apps, use the filters in our [Christian apps for kids directory](/christian-apps).
+
 ## Ages 9-12: Deep Learning and Independence
 
 **What kids need at this age:**

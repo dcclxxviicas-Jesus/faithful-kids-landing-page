@@ -43,6 +43,8 @@ The weaknesses only show up as your child grows, but they show up reliably:
 
 None of these are flaws in what the app is trying to be. They are simply the edges of a tool designed for preschoolers.
 
+For the plain facts at a glance (price, ages, devices, last update), see the [Bible App for Kids listing](/christian-apps/bible-app-for-kids) in our directory.
+
 ## Is the Bible App for Kids Safe?
 
 Yes, it is about as safe as a children's app can be. There are no ads, no in-app purchases, no chat features, no external links, and no data-hungry account requirements. A toddler can be handed the app unsupervised without any realistic way to stumble into trouble. If safety is your top concern when choosing apps, this one sets the standard, and our roundup of [free Bible apps for kids](/blog/free-bible-apps-for-kids) uses it as the benchmark.

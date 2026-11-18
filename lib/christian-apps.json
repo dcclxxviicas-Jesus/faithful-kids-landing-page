@@ -1,0 +1,1722 @@
+{
+ "checkedOn": "2026-11-17",
+ "apps": [
+  {
+   "slug": "faithful-kids",
+   "name": "Faithful Kids",
+   "maker": "Catterfly LLC",
+   "category": "video",
+   "ages": "5-15",
+   "agesSource": "maker",
+   "ageGroups": [
+    "young",
+    "older",
+    "teen"
+   ],
+   "priceModel": "subscription",
+   "price": "Web: $12.99/mo or $97/yr; annual has a 7-day free trial, monthly has none · iPhone/iPad: $8.99/mo or $79.99/yr (App Store IAP list); annual has a 3-day free trial · Android: $8.99/mo or $79.99/yr; annual has a 3-day free trial",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/faithful-kids/id6761875106",
+    "android": "https://play.google.com/store/apps/details?id=app.faithfulkids.app",
+    "web": "https://faithfulkids.app"
+   },
+   "ads": "no",
+   "updated": "2026-10-21",
+   "denomination": "non-denominational",
+   "description": "Short animated Bible video lessons for kids, each followed by a quiz and a reflection, organized as series from Genesis onward. Includes kid profiles, streaks and levels, and a PIN-protected parent dashboard.",
+   "goodFor": "Families who want a structured, ad-free daily Bible habit for kids roughly 5 to 15.",
+   "worthKnowing": "Subscription only after the trial, and prices differ by platform (web vs App Store and Google Play).",
+   "website": "https://faithfulkids.app",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/faithful-kids/id6761875106",
+    "https://play.google.com/store/apps/details?id=app.faithfulkids.app",
+    "https://faithfulkids.app"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/faithful-kids.webp"
+  },
+  {
+   "slug": "bible-app-for-kids",
+   "name": "Bible App for Kids",
+   "maker": "Life.Church",
+   "category": "bible-stories",
+   "ages": "6-8",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "young"
+   ],
+   "priceModel": "free",
+   "price": "Free (maker says it is always completely free; no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bible-app-for-kids/id668692393",
+    "android": "https://play.google.com/store/apps/details?id=com.bible.kids"
+   },
+   "ads": "no",
+   "updated": "2026-11-13",
+   "denomination": "non-denominational",
+   "description": "Free interactive Bible story app from YouVersion (Life.Church, in partnership with OneHope). Kids tap through animated stories and activities covering the big stories of the Bible.",
+   "goodFor": "Young children who want short, playful Bible stories at no cost.",
+   "worthKnowing": "Best for younger kids; Apple files it in the Ages 6-8 Kids band, so older children may find it simple.",
+   "website": "https://www.bible.com/kids",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bible-app-for-kids/id668692393",
+    "https://play.google.com/store/apps/details?id=com.bible.kids",
+    "https://www.bible.com/kids"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-app-for-kids.webp"
+  },
+  {
+   "slug": "superbook-kids-bible",
+   "name": "Superbook Kids Bible",
+   "maker": "The Christian Broadcasting Network, Inc",
+   "category": "video",
+   "ages": "9-11",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "older"
+   ],
+   "priceModel": "free",
+   "price": "Free (68 free episodes stated in the App Store description; no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/superbook-kids-bible/id606378030",
+    "android": "https://play.google.com/store/apps/details?id=air.cbn.superbook.bible.app.android"
+   },
+   "ads": "no",
+   "updated": "2026-11-11",
+   "denomination": "non-denominational",
+   "description": "Free CBN app with a full Bible, Bible videos, images and games, including 68 full-length episodes of the animated Superbook series.",
+   "goodFor": "Kids who like longer animated episodes and want free access to Superbook.",
+   "worthKnowing": "Episodes are long-form cartoons; the app mixes a full Bible text with games, so it is less of a guided lesson path.",
+   "website": "https://superbook.cbn.com/app",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/superbook-kids-bible/id606378030",
+    "https://play.google.com/store/apps/details?id=air.cbn.superbook.bible.app.android",
+    "https://superbook.cbn.com/app"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/superbook-kids-bible.webp"
+  },
+  {
+   "slug": "minno",
+   "name": "Minno",
+   "maker": "Winsome Truth INC",
+   "category": "video",
+   "ages": "6-8",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "young"
+   ],
+   "priceModel": "subscription",
+   "price": "$10.99/mo or $69.99/yr (App Store); 7-day trial per App Store description",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/minno-kids-bible-videos/id705286113",
+    "android": "https://play.google.com/store/apps/details?id=com.jellytelly"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Streaming service of Christian kids' shows and Bible videos, formerly called JellyTelly.",
+   "goodFor": "Families who want a large library of Christian cartoons and shows in one place.",
+   "worthKnowing": "Subscription required for the full library after the 7-day trial.",
+   "website": "https://www.gominno.com/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/minno-kids-bible-videos/id705286113",
+    "https://play.google.com/store/apps/details?id=com.jellytelly",
+    "https://en.wikipedia.org/wiki/Minno",
+    "https://www.gominno.com/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/minno.webp"
+  },
+  {
+   "slug": "yippee-tv",
+   "name": "Yippee TV",
+   "maker": "Yippee Entertainment, Inc.",
+   "category": "video",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "toddler",
+    "young",
+    "older"
+   ],
+   "priceModel": "subscription",
+   "price": "$7.99/mo or $48.99/yr (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/yippee-tv-christian-streaming/id1488781371",
+    "android": "https://play.google.com/store/apps/details?id=com.yippeeentertainment",
+    "web": "https://watch.yippee.tv"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Christian streaming service for kids and families with faith-based shows and movies.",
+   "goodFor": "Families wanting a lower-priced Christian streaming option for kids.",
+   "worthKnowing": "Subscription service; it is entertainment-led rather than a structured Bible lesson path.",
+   "website": "https://watch.yippee.tv",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/yippee-tv-christian-streaming/id1488781371",
+    "https://play.google.com/store/apps/details?id=com.yippeeentertainment",
+    "https://watch.yippee.tv"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/yippee-tv.webp"
+  },
+  {
+   "slug": "angel-studios",
+   "name": "Angel (Angel Studios)",
+   "maker": "Angel Studios, Inc.",
+   "category": "video",
+   "ages": "Rated 12+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "teen",
+    "family"
+   ],
+   "priceModel": "freemium",
+   "price": "Free to download; Angel Guild memberships listed at $12.00 to $20.00 (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/angel-stream-tv-movies/id1473663873",
+    "android": "https://play.google.com/store/apps/details?id=com.vidangel.thechosen",
+    "web": "https://www.angel.com/"
+   },
+   "ads": "no",
+   "updated": "2026-11-11",
+   "denomination": "non-denominational",
+   "description": "Streaming app from Angel Studios for its movies and series, including family titles such as The Wayfinders and Tuttle Twins and films like King of Kings.",
+   "goodFor": "Families looking for faith and values-driven movies and series to watch together.",
+   "worthKnowing": "Rated 12+ on the App Store and Teen on Google Play; it is a general family and adult catalog, not a kids' app.",
+   "website": "https://www.angel.com/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/angel-stream-tv-movies/id1473663873",
+    "https://play.google.com/store/apps/details?id=com.vidangel.thechosen",
+    "https://www.angel.com/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/angel-studios.webp"
+  },
+  {
+   "slug": "pure-flix",
+   "name": "Great American Pure Flix",
+   "maker": "Great American PF, LLC",
+   "category": "video",
+   "ages": "Rated 12+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "teen",
+    "family"
+   ],
+   "priceModel": "subscription",
+   "price": "App Store IAP list shows monthly plans at $7.99, $9.99 and $12.99 and an annual plan at $69.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/pure-flix/id995082390",
+    "android": "https://play.google.com/store/apps/details?id=com.pureflix",
+    "web": "https://www.pureflix.com"
+   },
+   "ads": "no",
+   "updated": "2026-06-29",
+   "denomination": "non-denominational",
+   "description": "Faith-based and family-friendly streaming service with movies and series; monthly or annual membership.",
+   "goodFor": "Parents who want a faith-based movie library for family nights.",
+   "worthKnowing": "Rated 12+ on the App Store; aimed at families and adults rather than young children.",
+   "website": "https://www.pureflix.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/pure-flix/id995082390",
+    "https://play.google.com/store/apps/details?id=com.pureflix",
+    "https://www.pureflix.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/pure-flix.webp"
+  },
+  {
+   "slug": "the-chosen",
+   "name": "The Chosen",
+   "maker": "Come and See Foundation, Inc",
+   "category": "video",
+   "ages": "Rated 12+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "teen",
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free to stream; no in-app purchases listed on the App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/the-chosen/id6443956656",
+    "android": "https://play.google.com/store/apps/details?id=net.comeandsee.thechosen",
+    "web": "https://watch.thechosen.tv/"
+   },
+   "ads": "no",
+   "updated": "2026-11-05",
+   "denomination": "non-denominational",
+   "description": "Official app for The Chosen, the multi-season drama about the life of Jesus. The listing says it is ad-free.",
+   "goodFor": "Families with older kids and teens watching a dramatized life of Jesus together.",
+   "worthKnowing": "Rated 12+ on the App Store; it is a drama for older viewers, and it adds invented dialogue and backstory to the Gospel accounts.",
+   "website": "https://watch.thechosen.tv/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/the-chosen/id6443956656",
+    "https://play.google.com/store/apps/details?id=net.comeandsee.thechosen",
+    "https://watch.thechosen.tv/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/the-chosen.webp"
+  },
+  {
+   "slug": "adventures-in-odyssey-club",
+   "name": "Adventures in Odyssey Club",
+   "maker": "Focus on the Family",
+   "category": "audio-stories",
+   "ages": "8-12",
+   "agesSource": "maker",
+   "ageGroups": [
+    "young",
+    "older"
+   ],
+   "priceModel": "subscription",
+   "price": "$9.99/mo, $56.94 per 6 months, or $107.88 per year; 14-day free trial (adventuresinodyssey.com join page)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/adventures-in-odyssey-club/id776170924",
+    "android": "https://play.google.com/store/apps/details?id=com.fotf.odysseyadventureclub"
+   },
+   "ads": "no",
+   "updated": "2026-07-02",
+   "denomination": "non-denominational",
+   "description": "Focus on the Family's membership app for the Adventures in Odyssey audio drama, with access to over 1,000 episodes plus exclusive monthly episodes.",
+   "goodFor": "Kids 8 to 12 who enjoy story-driven audio drama and screen-free listening.",
+   "worthKnowing": "Requires a paid membership; the app shows no in-app purchases, so you sign up on the website.",
+   "website": "https://www.adventuresinodyssey.com/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/adventures-in-odyssey-club/id776170924",
+    "https://play.google.com/store/apps/details?id=com.fotf.odysseyadventureclub",
+    "https://www.adventuresinodyssey.com/audio/join-the-club/",
+    "https://www.adventuresinodyssey.com/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/adventures-in-odyssey-club.webp"
+  },
+  {
+   "slug": "keys-for-kids",
+   "name": "Keys for Kids",
+   "maker": "CHILDREN'S BIBLE HOUR INC",
+   "category": "prayer-devotional",
+   "ages": "Rated 12+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "teen",
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed on either store)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/keys-for-kids-ministries/id1247475861",
+    "android": "https://play.google.com/store/apps/details?id=org.keysforkids.dailydevotional"
+   },
+   "ads": "yes",
+   "updated": "2026-11-13",
+   "denomination": "non-denominational",
+   "description": "Daily devotional stories for kids from Keys for Kids Ministries, plus on-demand audio shows, music and Keys for Kids Radio.",
+   "goodFor": "A free daily devotional habit that kids can listen to or read along with.",
+   "worthKnowing": "Google Play shows a \"Contains ads\" label; the App Store rates it 12+, which is unusual for a kids' devotional.",
+   "website": "https://www.keysforkids.org/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/keys-for-kids-ministries/id1247475861",
+    "https://play.google.com/store/apps/details?id=org.keysforkids.dailydevotional",
+    "https://www.keysforkids.org/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/keys-for-kids.webp"
+  },
+  {
+   "slug": "unlocked-teen-devotional",
+   "name": "Unlocked (Teen Devotional)",
+   "maker": "CHILDREN'S BIBLE HOUR INC",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "teen"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/unlocked-teen-devotional/id1476589789",
+    "android": "https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_3S254M"
+   },
+   "ads": "no",
+   "updated": "2026-09-27",
+   "denomination": "non-denominational",
+   "description": "Daily devotional app for teens from Keys for Kids Ministries (published under Children's Bible Hour Inc).",
+   "goodFor": "Teens who have outgrown kids' devotionals.",
+   "worthKnowing": "Text-led devotional app built on the Subsplash platform; content is simple compared with study apps.",
+   "website": "https://www.keysforkids.org/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/unlocked-teen-devotional/id1476589789",
+    "https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_3S254M",
+    "https://www.keysforkids.org/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/unlocked-teen-devotional.webp"
+  },
+  {
+   "slug": "truplay",
+   "name": "TruPlay",
+   "maker": "TruPlay Games, Inc.",
+   "category": "games",
+   "ages": "4-12",
+   "agesSource": "maker",
+   "ageGroups": [
+    "toddler",
+    "young",
+    "older"
+   ],
+   "priceModel": "subscription",
+   "price": "$12.99/mo or $69.99/yr (App Store IAP list); 7-day free trial (maker site)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/truplay-christian-games/id1594689215",
+    "android": "https://play.google.com/store/apps/details?id=com.truplaygames.platformclient001"
+   },
+   "ads": "no",
+   "updated": "2026-11-09",
+   "denomination": "non-denominational",
+   "description": "Christian game platform for kids with 35+ games, comics and videos built around Bible stories and lessons. The maker says there are no ads, chatrooms or in-app purchases inside the subscription.",
+   "goodFor": "Kids who want console-style games with a faith message.",
+   "worthKnowing": "Subscription needed for the full library; it is game-first, so Bible teaching is lighter than in lesson apps.",
+   "website": "https://www.truplaygames.com/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/truplay-christian-games/id1594689215",
+    "https://play.google.com/store/apps/details?id=com.truplaygames.platformclient001",
+    "https://www.truplaygames.com/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/truplay.webp"
+  },
+  {
+   "slug": "god-for-kids",
+   "name": "God for Kids",
+   "maker": "Scripture Union",
+   "category": "prayer-devotional",
+   "ages": "pre-schoolers and children under 10",
+   "agesSource": "maker",
+   "ageGroups": [
+    "toddler",
+    "young",
+    "older"
+   ],
+   "priceModel": "free",
+   "price": "Free; optional donations as in-app purchases",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/god-for-kids-family-bible-app/id1063358442",
+    "android": "https://play.google.com/store/apps/details?id=so.appt.god4kids"
+   },
+   "ads": "no",
+   "updated": "2026-08-21",
+   "denomination": "non-denominational",
+   "description": "Scripture Union app with 31 child-centred devotions about God's character, plus music videos, stories and grown-up tips.",
+   "goodFor": "Preschoolers and children under 10 doing devotions with a parent.",
+   "worthKnowing": "UK-made; the in-app purchases are donations, and the content set is small (31 devotions).",
+   "website": "https://www.godforkidsapp.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/god-for-kids-family-bible-app/id1063358442",
+    "https://play.google.com/store/apps/details?id=so.appt.god4kids",
+    "https://www.godforkidsapp.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/god-for-kids.webp"
+  },
+  {
+   "slug": "sunscool",
+   "name": "SunScool",
+   "maker": "Nikolay Abkairov",
+   "category": "bible-stories",
+   "ages": "9-11",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "older"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/sunscool-bible-for-kids/id959883048",
+    "android": "https://play.google.com/store/apps/details?id=com.Sunscool.Sunscool"
+   },
+   "ads": "no",
+   "updated": "2026-10-24",
+   "denomination": "non-denominational",
+   "description": "Free Sunday-school-style course for kids with Bible lessons and activities, based on the long-running Bibletime paper course.",
+   "goodFor": "Families without easy access to Sunday school, or homeschoolers wanting a free Bible course.",
+   "worthKnowing": "Activity-and-quiz format rather than video; the design is basic.",
+   "website": "https://sunscool.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/sunscool-bible-for-kids/id959883048",
+    "https://play.google.com/store/apps/details?id=com.Sunscool.Sunscool",
+    "https://sunscool.org"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/sunscool.webp"
+  },
+  {
+   "slug": "windowseat",
+   "name": "WindowSeat",
+   "maker": "These Things, LLC",
+   "category": "audio-stories",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "toddler",
+    "young",
+    "older",
+    "family"
+   ],
+   "priceModel": "subscription",
+   "price": "$9.99/mo or $83.90/yr (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/windowseat-kids-bible-stories/id6478859053",
+    "android": "https://play.google.com/store/apps/details?id=com.windowseat"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Christian audio app for kids with Bible stories, audio dramas (Your Story Hour, Paws & Tales and others), Seeds Kids Worship music and bedtime stories.",
+   "goodFor": "Screen-free listening in the car or at bedtime.",
+   "worthKnowing": "Subscription needed for full access; audio only, so no visual Bible lessons.",
+   "website": "https://windowseat.io",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/windowseat-kids-bible-stories/id6478859053",
+    "https://play.google.com/store/apps/details?id=com.windowseat",
+    "https://windowseat.io"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/windowseat.webp"
+  },
+  {
+   "slug": "kids-bible-pray-com",
+   "name": "Kids Bible by PRAY.COM",
+   "maker": "Pray, Inc.",
+   "category": "bible-stories",
+   "ages": "3-12",
+   "agesSource": "maker",
+   "ageGroups": [
+    "toddler",
+    "young",
+    "older"
+   ],
+   "priceModel": "subscription",
+   "price": "Monthly $9.99 or $14.99; yearly $59.99 or $79.99 (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/kids-bible-by-pray-com/id6759003412"
+   },
+   "ads": "unknown",
+   "updated": "2026-11-13",
+   "denomination": "non-denominational",
+   "description": "Animated Bible stories with a daily learning path, streaks and badges, guided prayers, bedtime stories and worship music, from Pray.com.",
+   "goodFor": "Kids 3 to 12 who respond to a daily-path, game-like structure.",
+   "worthKnowing": "Several overlapping subscription prices are listed ($9.99 to $14.99 monthly, $59.99 to $79.99 yearly); no Google Play version found.",
+   "website": "https://www.pray.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/kids-bible-by-pray-com/id6759003412",
+    "https://www.pray.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/kids-bible-pray-com.webp"
+  },
+  {
+   "slug": "theo",
+   "name": "Theo",
+   "maker": "Familify Corp",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "young",
+    "older"
+   ],
+   "priceModel": "subscription",
+   "price": "$14.99/mo or $59.99/yr (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/theo-prayer-meditation/id6740779207",
+    "android": "https://play.google.com/store/apps/details?id=com.theopray"
+   },
+   "ads": "no",
+   "updated": "2026-11-17",
+   "denomination": "Catholic and general Christian (filterable)",
+   "description": "Bedtime prayer, meditation and Bible story app for families from Familify, with Catholic and Christian content and a filter for non-denominational content.",
+   "goodFor": "Building a bedtime prayer routine with young children.",
+   "worthKnowing": "Rooted in Catholic tradition by default (novenas, Rosary for kids); premium is $14.99/mo or $59.99/yr.",
+   "website": "https://www.theopray.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/theo-prayer-meditation/id6740779207",
+    "https://play.google.com/store/apps/details?id=com.theopray",
+    "https://www.theopray.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/theo.webp"
+  },
+  {
+   "slug": "abide",
+   "name": "Abide",
+   "maker": "Guideposts Church Corporation",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "family"
+   ],
+   "priceModel": "freemium",
+   "price": "Premium options from $4.99 to $44.99 listed (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/abide-bible-prayer-meditation/id726031617",
+    "android": "https://play.google.com/store/apps/details?id=is.abide"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Christian meditation and prayer app with 2,000+ meditations, 365+ bedtime stories including kids' Bible stories, and NIV audio.",
+   "goodFor": "Parents who also want an app for themselves, with kids' bedtime stories included.",
+   "worthKnowing": "Mainly an adult app; kids' content is one section of it, and most features are behind premium.",
+   "website": "https://abide.com/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/abide-bible-prayer-meditation/id726031617",
+    "https://play.google.com/store/apps/details?id=is.abide",
+    "https://abide.com/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/abide.webp"
+  },
+  {
+   "slug": "lectio-365",
+   "name": "Lectio 365",
+   "maker": "24-7 Prayer",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free (listing says completely free)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/lectio-365-daily-bible-prayer/id1483974820",
+    "android": "https://play.google.com/store/apps/details?id=com.prayer247.lectio365"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Free daily prayer devotional from 24-7 Prayer, with morning, midday and night prayer times based on Scripture.",
+   "goodFor": "Parents and teens building a daily prayer rhythm.",
+   "worthKnowing": "Written for adults and teens; there is no dedicated kids' mode in the listing.",
+   "website": "https://lectio365.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/lectio-365-daily-bible-prayer/id1483974820",
+    "https://play.google.com/store/apps/details?id=com.prayer247.lectio365",
+    "https://lectio365.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/lectio-365.webp"
+  },
+  {
+   "slug": "listener-kids",
+   "name": "Listener Kids: Bible Songs",
+   "maker": "Listener Records LLC",
+   "category": "music",
+   "ages": "0-5",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "toddler",
+    "young"
+   ],
+   "priceModel": "subscription",
+   "price": "$4.99/mo or $39.99/yr (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/listener-kids-bible-songs/id1631373640",
+    "android": "https://play.google.com/store/apps/details?id=com.listenerkids"
+   },
+   "ads": "no",
+   "updated": "2026-10-01",
+   "denomination": "non-denominational",
+   "description": "Animated Christian music videos for kids, with classic Sunday school songs and Scripture-based songs. Listing says completely ad-free.",
+   "goodFor": "Toddlers and preschoolers who learn through songs.",
+   "worthKnowing": "Subscription for the full library; Apple places it in the Ages 0-5 band, so it skews young.",
+   "website": "https://www.listenerkids.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/listener-kids-bible-songs/id1631373640",
+    "https://play.google.com/store/apps/details?id=com.listenerkids",
+    "https://www.listenerkids.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/listener-kids.webp"
+  },
+  {
+   "slug": "jesus-loves-me-listener-kids",
+   "name": "Jesus Loves Me (Listener Kids)",
+   "maker": "Listener Records LLC",
+   "category": "music",
+   "ages": "0-5",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "toddler",
+    "young"
+   ],
+   "priceModel": "freemium",
+   "price": "Full Version $2.99; extras $0.99 each (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/jesus-loves-me/id567302978",
+    "android": "https://play.google.com/store/apps/details?id=com.listenerkids.jlm"
+   },
+   "ads": "no",
+   "updated": "2026-02-12",
+   "denomination": "non-denominational",
+   "description": "Single-song app from Listener Kids with the Jesus Loves Me music video, sing-along karaoke, short Bible verse cartoons and a matching game.",
+   "goodFor": "Very young children; a small, contained app.",
+   "worthKnowing": "Small content set; extras are unlocked by small in-app purchases.",
+   "website": "http://www.listenerkids.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/jesus-loves-me/id567302978",
+    "https://play.google.com/store/apps/details?id=com.listenerkids.jlm",
+    "http://www.listenerkids.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/jesus-loves-me-listener-kids.webp"
+  },
+  {
+   "slug": "bible-memory-app",
+   "name": "The Bible Memory App",
+   "maker": "Millennial Apps, LLC",
+   "category": "scripture-memory",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "older",
+    "teen",
+    "family"
+   ],
+   "priceModel": "freemium",
+   "price": "PRO $9.99, PRO Monthly $1.99, Lifetime $19.99, Unlimited Yearly $49.99 (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/the-bible-memory-app/id496790833",
+    "android": "https://play.google.com/store/apps/details?id=com.millennialsolutions.scripturetyper"
+   },
+   "ads": "no",
+   "updated": "2026-11-09",
+   "denomination": "non-denominational",
+   "description": "Scripture memorization app (formerly Scripture Typer) that uses typing and review to help you memorize verses.",
+   "goodFor": "Older kids, teens and parents memorizing verses together.",
+   "worthKnowing": "Built for general users, not kids specifically; extra translations and features cost extra.",
+   "website": "https://biblememory.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/the-bible-memory-app/id496790833",
+    "https://play.google.com/store/apps/details?id=com.millennialsolutions.scripturetyper",
+    "https://biblememory.com/bulletin/3865",
+    "https://biblememory.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-memory-app.webp"
+  },
+  {
+   "slug": "verselocker",
+   "name": "VerseLocker",
+   "maker": "SCRIPTURE MEMORY FELLOWSHIP INTERNATIONAL",
+   "category": "scripture-memory",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "older",
+    "teen",
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bible-memory-verselocker/id1544933853"
+   },
+   "ads": "unknown",
+   "updated": "2026-10-26",
+   "denomination": "non-denominational",
+   "description": "Scripture memory app from Scripture Memory Fellowship with five practice modes (listen, fill in, type, first letters, scheduled review) in many translations.",
+   "goodFor": "Families following a memory program; free on iOS.",
+   "worthKnowing": "General-audience app; no Google Play listing found under its iOS bundle.",
+   "website": "https://verselocker.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bible-memory-verselocker/id1544933853",
+    "https://verselocker.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/verselocker.webp"
+  },
+  {
+   "slug": "remember-me-bible-memory",
+   "name": "Remember Me (Bible Memory)",
+   "maker": "Remember Me - Bible Memory App. Poimena",
+   "category": "scripture-memory",
+   "ages": "Rated Everyone",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "older",
+    "teen",
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases label on Google Play)",
+   "platforms": {
+    "android": "https://play.google.com/store/apps/details?id=org.bible.remember_me",
+    "ios": "https://apps.apple.com/us/app/bible-memory/id1600128209"
+   },
+   "ads": "no",
+   "updated": "2026-11-12",
+   "denomination": "non-denominational",
+   "description": "Free Bible memory app from Poimena with spaced review and verse games.",
+   "goodFor": "Free scripture memory practice for older kids and parents.",
+   "worthKnowing": "General audience; not designed specifically for kids.",
+   "website": null,
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://play.google.com/store/apps/details?id=org.bible.remember_me",
+    "https://apps.apple.com/us/app/bible-memory/id1600128209"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/remember-me-bible-memory.webp"
+  },
+  {
+   "slug": "scripture-singer",
+   "name": "Scripture Singer",
+   "maker": "Advent Herald Academy, Inc.",
+   "category": "scripture-memory",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "young",
+    "older",
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/scripture-singer/id1439400316",
+    "android": "https://play.google.com/store/apps/details?id=com.scripturesinger4"
+   },
+   "ads": "no",
+   "updated": "2026-01-29",
+   "denomination": "other (Seventh-day Adventist publisher)",
+   "description": "App that pairs Bible verses with music to help with memorization.",
+   "goodFor": "Kids who memorize more easily by singing.",
+   "worthKnowing": "Made by Advent Herald Academy (Seventh-day Adventist background); small, simple app.",
+   "website": null,
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/scripture-singer/id1439400316",
+    "https://play.google.com/store/apps/details?id=com.scripturesinger4"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/scripture-singer.webp"
+  },
+  {
+   "slug": "bible-quiz-dh3",
+   "name": "Bible Quiz: Scripture & Trivia (DH3 Games)",
+   "maker": "DH3 Games Ltd",
+   "category": "games",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "older",
+    "teen",
+    "family"
+   ],
+   "priceModel": "freemium",
+   "price": "Remove Ads $2.99/$3.99; Premium Mode $2.99/$3.99; listing also cites a $2.99/week subscription",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bible-quiz-scripture-trivia/id1477465492",
+    "android": "https://play.google.com/store/apps/details?id=dh3games.biblequiz"
+   },
+   "ads": "yes",
+   "updated": "2026-10-27",
+   "denomination": "non-denominational",
+   "description": "Bible trivia game with 100 levels of questions from both Testaments, for kids, teens and adults.",
+   "goodFor": "Quick trivia rounds for mixed ages.",
+   "worthKnowing": "The App Store description lists an auto-renewing subscription at $2.99 per week; Google Play shows a \"Contains ads\" label.",
+   "website": "http://dh3games.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bible-quiz-scripture-trivia/id1477465492",
+    "https://play.google.com/store/apps/details?id=dh3games.biblequiz",
+    "http://dh3games.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-quiz-dh3.webp"
+  },
+  {
+   "slug": "bible-trivia-quiz-no-ads",
+   "name": "Bible Trivia Quiz (Bible Resources)",
+   "maker": "Bible Resources Inc.",
+   "category": "games",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "older",
+    "teen",
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bible-trivia-quiz-no-ads/id633541326",
+    "android": "https://play.google.com/store/apps/details?id=com.bibleresources.trivia"
+   },
+   "ads": "no",
+   "updated": "2026-01-06",
+   "denomination": "non-denominational",
+   "description": "Ad-free offline Bible trivia app that shows the related verse after each answer.",
+   "goodFor": "A free, ad-free trivia option for older kids.",
+   "worthKnowing": "Simple design; the iOS version was last updated in January 2025.",
+   "website": "https://bibleresources.info",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bible-trivia-quiz-no-ads/id633541326",
+    "https://play.google.com/store/apps/details?id=com.bibleresources.trivia",
+    "https://bibleresources.info"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-trivia-quiz-no-ads.webp"
+  },
+  {
+   "slug": "heroes-bible-trivia",
+   "name": "Heroes: The Bible Trivia Game",
+   "maker": "General Conference Corporation of Seventh-day Adventist",
+   "category": "games",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "young",
+    "older",
+    "teen"
+   ],
+   "priceModel": "free",
+   "price": "Free (listing says free and ad-free)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bible-trivia-game-heroes/id1529609634",
+    "android": "https://play.google.com/store/apps/details?id=org.adventist.heroes.ii"
+   },
+   "ads": "no",
+   "updated": "2026-09-01",
+   "denomination": "other (Seventh-day Adventist)",
+   "description": "Free, ad-free Bible trivia game where correct answers unlock Bible heroes and power-ups.",
+   "goodFor": "Kids and families who like trivia with game rewards.",
+   "worthKnowing": "Published by the General Conference of Seventh-day Adventists (Hope Software Services on Google Play).",
+   "website": "https://www.heroesbibletrivia.org/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bible-trivia-game-heroes/id1529609634",
+    "https://play.google.com/store/apps/details?id=org.adventist.heroes.ii",
+    "https://www.heroesbibletrivia.org/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/heroes-bible-trivia.webp"
+  },
+  {
+   "slug": "bible-coloring-book-for-kids",
+   "name": "Bible Coloring Book for Kids",
+   "maker": "Irina Schens",
+   "category": "games",
+   "ages": "0-5",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "toddler",
+    "young"
+   ],
+   "priceModel": "free",
+   "price": "Free (listing says truly free; no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bible-coloring-book-for-kids/id1055647135"
+   },
+   "ads": "unknown",
+   "updated": "2026-09-30",
+   "denomination": "non-denominational",
+   "description": "Bible coloring pages, memory games and jigsaw puzzles for young children.",
+   "goodFor": "Preschoolers who like coloring.",
+   "worthKnowing": "Light on teaching; iOS only in our check (no matching Google Play listing found).",
+   "website": "https://apps.apple.com/developer/irina-schens/id460727003",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bible-coloring-book-for-kids/id1055647135"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-coloring-book-for-kids.webp"
+  },
+  {
+   "slug": "godly-kids",
+   "name": "Godly Kids: Bible Game",
+   "maker": "Kingdom Builders Publishing Inc.",
+   "category": "games",
+   "ages": "6-8",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "young"
+   ],
+   "priceModel": "subscription",
+   "price": "Monthly $7.99; yearly $29.99 to $69.99; lifetime $19.99 (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/godly-kids-bible-game/id6737245412",
+    "android": "https://play.google.com/store/apps/details?id=com.kbpublish.godlykidscb"
+   },
+   "ads": "no",
+   "updated": "2026-11-09",
+   "denomination": "non-denominational",
+   "description": "Bible adventure game where kids explore Bible story islands, read stories, unlock characters and build a community, with audio and ministry videos.",
+   "goodFor": "Kids 6 to 8 who like building and exploration games.",
+   "worthKnowing": "Many overlapping subscription offers are listed ($7.99/mo, $29.99 to $69.99/yr, $19.99 lifetime).",
+   "website": "https://www.godlykids.com/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/godly-kids-bible-game/id6737245412",
+    "https://play.google.com/store/apps/details?id=com.kbpublish.godlykidscb",
+    "https://www.godlykids.com/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/godly-kids.webp"
+  },
+  {
+   "slug": "noahs-ark-kids-bible-game",
+   "name": "Noah's Ark: Kids Bible Game",
+   "maker": "Heaven Born Studios LLC",
+   "category": "games",
+   "ages": "0-5",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "toddler",
+    "young"
+   ],
+   "priceModel": "freemium",
+   "price": "Unlock all content $1.99 (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/noahs-ark-kids-bible-game/id6736891338",
+    "android": "https://play.google.com/store/apps/details?id=com.HeavenBornStudios.NoahsArk"
+   },
+   "ads": "no",
+   "updated": "2026-07-04",
+   "denomination": "non-denominational",
+   "description": "Toddler game built around the story of Noah's Ark, from Heaven Born Studios.",
+   "goodFor": "Toddlers and preschoolers.",
+   "worthKnowing": "Covers one story only; a $1.99 unlock opens all content on iOS.",
+   "website": "https://heavenbornstudios.com/noahs-ark-bible-game-for-toddlers",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/noahs-ark-kids-bible-game/id6736891338",
+    "https://play.google.com/store/apps/details?id=com.HeavenBornStudios.NoahsArk",
+    "https://heavenbornstudios.com/noahs-ark-bible-game-for-toddlers"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/noahs-ark-kids-bible-game.webp"
+  },
+  {
+   "slug": "bible-kids-bcc-media",
+   "name": "Bible Kids (BCC Media)",
+   "maker": "BCC Media STI",
+   "category": "video",
+   "ages": "6-8",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "young"
+   ],
+   "priceModel": "free",
+   "price": "Free (listing says free, unlimited, ad-free)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bible-kids/id6449032504",
+    "android": "https://play.google.com/store/apps/details?id=media.bcc.kids"
+   },
+   "ads": "no",
+   "updated": "2026-08-26",
+   "denomination": "other (Brunstad Christian Church media)",
+   "description": "Free, ad-free app with animated series such as Bible Heroes of Faith and Bible Stories with Simon & Sarah.",
+   "goodFor": "A free video option for younger kids.",
+   "worthKnowing": "Made by BCC Media (Brunstad Christian Church media arm); the listing does not describe the theology behind the content.",
+   "website": "https://biblekids.io/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bible-kids/id6449032504",
+    "https://play.google.com/store/apps/details?id=media.bcc.kids",
+    "https://biblekids.io/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-kids-bcc-media.webp"
+  },
+  {
+   "slug": "i-read-bible-app-for-kids",
+   "name": "I Read: The Bible App for Kids",
+   "maker": "Sierra Chica Software SL",
+   "category": "bible-stories",
+   "ages": "6-8",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "young"
+   ],
+   "priceModel": "freemium",
+   "price": "Unlocks at $1.99, $4.99 and $9.99 (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/i-read-the-bible-app-for-kids/id1632203665",
+    "android": "https://play.google.com/store/apps/details?id=com.sierrachica.ireadbible"
+   },
+   "ads": "no",
+   "updated": "2026-09-16",
+   "denomination": "non-denominational",
+   "description": "Reading app with 98 short Bible stories (48 Old Testament, 50 New Testament), each followed by comprehension questions with a star score. Works offline.",
+   "goodFor": "Kids who are learning to read independently.",
+   "worthKnowing": "Text-first; parts are paid unlocks.",
+   "website": "https://www.sierrachica.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/i-read-the-bible-app-for-kids/id1632203665",
+    "https://play.google.com/store/apps/details?id=com.sierrachica.ireadbible",
+    "https://www.sierrachica.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/i-read-bible-app-for-kids.webp"
+  },
+  {
+   "slug": "bible-stories-for-the-young",
+   "name": "Bible Stories for the Young",
+   "maker": "Tangent Media Network, Inc",
+   "category": "video",
+   "ages": "6-8",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "young"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bible-stories-for-the-young/id1508607899"
+   },
+   "ads": "unknown",
+   "updated": "2026-07-14",
+   "denomination": "non-denominational",
+   "description": "Storytelling-style Bible videos for children from Tangent Media Network, with new videos added over time.",
+   "goodFor": "Simple, free storytelling videos.",
+   "worthKnowing": "iOS only in our check; no Google Play listing found.",
+   "website": "https://biblestoriesonline.com/mobile-app",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bible-stories-for-the-young/id1508607899",
+    "https://biblestoriesonline.com/mobile-app"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-stories-for-the-young.webp"
+  },
+  {
+   "slug": "bible-for-kids-bedtime-stories",
+   "name": "Bible for Kids Bedtime Stories",
+   "maker": "Karaleuski Stanislau",
+   "category": "audio-stories",
+   "ages": "0-5",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "toddler",
+    "young"
+   ],
+   "priceModel": "freemium",
+   "price": "Full access $4.99 (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bible-for-kids-bedtime-stories/id1606903165"
+   },
+   "ads": "no",
+   "updated": "2026-11-06",
+   "denomination": "non-denominational",
+   "description": "Offline audiobook of major Bible stories narrated with calm background music, aimed at bedtime.",
+   "goodFor": "Toddlers and preschoolers winding down at night.",
+   "worthKnowing": "Made by an individual developer; full access is a $4.99 purchase; iOS only in our check.",
+   "website": "https://storystas.com/bible_stories.html",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bible-for-kids-bedtime-stories/id1606903165",
+    "https://storystas.com/bible_stories.html"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-for-kids-bedtime-stories.webp"
+  },
+  {
+   "slug": "kids-corner-bible-devotions",
+   "name": "Kids Corner Bible Devotions",
+   "maker": "ReFrame Ministries (Apps)",
+   "category": "prayer-devotional",
+   "ages": "6-8",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "young"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/kids-corner-bible-devotions/id6758524424",
+    "android": "https://play.google.com/store/apps/details?id=net.kidscorner.BibleDevotions"
+   },
+   "ads": "no",
+   "updated": "2026-11-04",
+   "denomination": "non-denominational",
+   "description": "Short devotions for elementary-age kids and families with Bible readings, memory verses, reflections and prayers, from ReFrame Ministries.",
+   "goodFor": "Elementary-age kids starting a daily devotion habit.",
+   "worthKnowing": "New app (2026), so the content library is still small.",
+   "website": "https://kidscorner.net",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/kids-corner-bible-devotions/id6758524424",
+    "https://play.google.com/store/apps/details?id=net.kidscorner.BibleDevotions",
+    "https://kidscorner.net"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/kids-corner-bible-devotions.webp"
+  },
+  {
+   "slug": "vom-kids",
+   "name": "VOM Kids",
+   "maker": "The Voice of the Martyrs, Inc.",
+   "category": "bible-stories",
+   "ages": "9-11",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "older"
+   ],
+   "priceModel": "free",
+   "price": "Free (listing says free and ad-free)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/vom-kids/id6752357401",
+    "android": "https://play.google.com/store/apps/details?id=com.vom.kids"
+   },
+   "ads": "no",
+   "updated": "2026-09-03",
+   "denomination": "non-denominational",
+   "description": "Free, ad-free discipleship app from The Voice of the Martyrs with Bible stories, videos and badges, including stories of Christians who face persecution.",
+   "goodFor": "Older kids learning about courageous faith worldwide.",
+   "worthKnowing": "Stories of persecution may need a parent nearby for sensitive children.",
+   "website": "https://www.persecution.com/kidsapp/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/vom-kids/id6752357401",
+    "https://play.google.com/store/apps/details?id=com.vom.kids",
+    "https://www.persecution.com/kidsapp/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/vom-kids.webp"
+  },
+  {
+   "slug": "rightnow-kids",
+   "name": "RightNow Kids",
+   "maker": "RightNow Ministries International",
+   "category": "video",
+   "ages": "9-11",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "older"
+   ],
+   "priceModel": "free",
+   "price": "Free to eligible families (church subscription required)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/rightnow-kids/id6751357084",
+    "android": "https://play.google.com/store/apps/details?id=org.rightnow.kids"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Companion app with weekly lesson recaps, conversation starters and worship videos for families.",
+   "goodFor": "Families whose church already uses the God's Kids curriculum.",
+   "worthKnowing": "Only available to families whose church subscribes to the God's Kids curriculum; not open to the public.",
+   "website": "https://rightnowkids.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/rightnow-kids/id6751357084",
+    "https://play.google.com/store/apps/details?id=org.rightnow.kids",
+    "https://www.rightnowmedia.org/kids",
+    "https://rightnowkids.org"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/rightnow-kids.webp"
+  },
+  {
+   "slug": "rightnow-media",
+   "name": "RightNow Media",
+   "maker": "RightNow Ministries International",
+   "category": "video",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "teen",
+    "family"
+   ],
+   "priceModel": "subscription",
+   "price": "Sold to churches; no consumer price listed",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/rightnow-media/id925747028",
+    "android": "https://play.google.com/store/apps/details?id=com.rightnowmedia.rightnowmedia"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Church-licensed Christian video library with adult Bible studies and a kids' section (Superbook, The Mr. Phil Show and others).",
+   "goodFor": "Families whose church provides a RightNow Media subscription.",
+   "worthKnowing": "Access comes through a church or organization subscription; individuals cannot simply buy it in the app.",
+   "website": "https://www.rightnowmedia.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/rightnow-media/id925747028",
+    "https://play.google.com/store/apps/details?id=com.rightnowmedia.rightnowmedia",
+    "https://www.rightnowmedia.org/kids",
+    "https://www.rightnowmedia.org"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/rightnow-media.webp"
+  },
+  {
+   "slug": "bibleproject",
+   "name": "BibleProject",
+   "maker": "BibleProject (OR)",
+   "category": "video",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "older",
+    "teen",
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free (all content listed as 100% free)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/bibleproject/id1523687027",
+    "android": "https://play.google.com/store/apps/details?id=com.bibleproject",
+    "web": "https://bibleproject.com/"
+   },
+   "ads": "no",
+   "updated": "2026-10-13",
+   "denomination": "non-denominational",
+   "description": "Free animated videos, podcasts and classes that explain the books and themes of the Bible.",
+   "goodFor": "Older kids, teens and parents who want to understand how the Bible fits together.",
+   "worthKnowing": "Made for teens and adults; younger kids may find it too dense.",
+   "website": "https://bibleproject.com/",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/bibleproject/id1523687027",
+    "https://play.google.com/store/apps/details?id=com.bibleproject",
+    "https://bibleproject.com/"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bibleproject.webp"
+  },
+  {
+   "slug": "jesus-film-project",
+   "name": "Jesus Film Project",
+   "maker": "Cru Global, Inc",
+   "category": "video",
+   "ages": "Rated 12+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "teen",
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free (all content free to watch)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/jesus-film-project/id550525738",
+    "android": "https://play.google.com/store/apps/details?id=com.jesusfilmmedia.android.jesusfilm"
+   },
+   "ads": "no",
+   "updated": "2026-10-27",
+   "denomination": "non-denominational",
+   "description": "Free library of more than 200 films and series about Jesus, including content for children, in many languages.",
+   "goodFor": "Families who want free films about Jesus, including in other languages.",
+   "worthKnowing": "Rated 12+ on the App Store and Teen on Google Play; browse before handing it to a young child.",
+   "website": "http://www.jesusfilm.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/jesus-film-project/id550525738",
+    "https://play.google.com/store/apps/details?id=com.jesusfilmmedia.android.jesusfilm",
+    "http://www.jesusfilm.org"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/jesus-film-project.webp"
+  },
+  {
+   "slug": "hallow",
+   "name": "Hallow",
+   "maker": "Hallow, Inc.",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "family"
+   ],
+   "priceModel": "freemium",
+   "price": "$9.99/mo or $69.99/yr (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/hallow-prayer-meditation/id1405323394",
+    "android": "https://play.google.com/store/apps/details?id=app.hallow.android"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "Catholic",
+   "description": "Catholic prayer and meditation app with 10,000+ sessions, including Rosary, Bible stories for sleep, Lectio Divina and seasonal challenges.",
+   "goodFor": "Catholic parents who also want family prayer and sleep stories.",
+   "worthKnowing": "Mostly an adult app; premium is $9.99/mo or $69.99/yr.",
+   "website": "https://hallow.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/hallow-prayer-meditation/id1405323394",
+    "https://play.google.com/store/apps/details?id=app.hallow.android",
+    "https://hallow.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/hallow.webp"
+  },
+  {
+   "slug": "calm-catholic-kids",
+   "name": "Calm Catholic Kids",
+   "maker": "Michael Jaquith",
+   "category": "catholic",
+   "ages": "5 and under",
+   "agesSource": "maker",
+   "ageGroups": [
+    "toddler",
+    "young"
+   ],
+   "priceModel": "paid",
+   "price": "Collections $17.99 to $24.99 each (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/calm-catholic-kids/id6768798893",
+    "android": "https://play.google.com/store/apps/details?id=co.madeforgreatness.cckapp"
+   },
+   "ads": "no",
+   "updated": "2026-09-30",
+   "denomination": "Catholic",
+   "description": "Gentle audio app for Catholic children 5 and under: each story features an animal friend who helps a child work through a big feeling. No video or games.",
+   "goodFor": "Little ones who need calm, screen-light audio with Catholic themes.",
+   "worthKnowing": "Content is sold as collections ($17.99 to $24.99 each on iOS) rather than one subscription.",
+   "website": "https://calmcatholickids.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/calm-catholic-kids/id6768798893",
+    "https://play.google.com/store/apps/details?id=co.madeforgreatness.cckapp",
+    "https://calmcatholickids.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/calm-catholic-kids.webp"
+  },
+  {
+   "slug": "saintlings",
+   "name": "Saintlings",
+   "maker": "SLATEWORKS, LLC",
+   "category": "catholic",
+   "ages": "0-5",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "toddler",
+    "young"
+   ],
+   "priceModel": "subscription",
+   "price": "$5.99/mo or $49.99/yr family plan (App Store)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/saintlings-catholic-kids/id6779050447"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "Catholic",
+   "description": "iPad-first storybook app that introduces a Catholic saint each day with a story and simple games. No ads, chat or external links.",
+   "goodFor": "Young Catholic children learning about saints.",
+   "worthKnowing": "iOS only in our check; subscription for the full year of saints.",
+   "website": "https://saintlings.slateworks.io",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/saintlings-catholic-kids/id6779050447",
+    "https://saintlings.slateworks.io"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/saintlings.webp"
+  },
+  {
+   "slug": "holy-heroes",
+   "name": "Holy Heroes",
+   "maker": "Kenneth Davison",
+   "category": "catholic",
+   "ages": "3 and up",
+   "agesSource": "maker",
+   "ageGroups": [
+    "toddler",
+    "young",
+    "older",
+    "teen"
+   ],
+   "priceModel": "subscription",
+   "price": "$11.99/mo or $99.99/yr; story unlock $3.99 (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/holy-heroes/id6766268722",
+    "android": "https://play.google.com/store/apps/details?id=com.holyheroes.app"
+   },
+   "ads": "no",
+   "updated": "2026-11-11",
+   "denomination": "Catholic",
+   "description": "Catholic family app with Glory Stories saint audio dramas, kid-led family prayers and weekly Sunday Mass Prep for kids aged 3 and up.",
+   "goodFor": "Catholic families preparing kids for Sunday Mass.",
+   "worthKnowing": "New app (first released Sept 2026); subscription plus optional story unlocks. The App Store seller is an individual (Kenneth Davison) and Google Play lists the developer as Holy Heroes; we could not confirm a link to the app on holyheroes.com.",
+   "website": "https://www.holyheroes.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/holy-heroes/id6766268722",
+    "https://play.google.com/store/apps/details?id=com.holyheroes.app",
+    "https://www.holyheroes.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/holy-heroes.webp"
+  },
+  {
+   "slug": "catholic-bible-storybook",
+   "name": "Catholic Bible Storybook",
+   "maker": "CatholicBrain, Inc",
+   "category": "catholic",
+   "ages": "0-5",
+   "agesSource": "App Store kids category",
+   "ageGroups": [
+    "toddler",
+    "young"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/catholic-bible-storybook/id6450628803",
+    "android": "https://play.google.com/store/apps/details?id=com.catholicbrain.biblestorybook"
+   },
+   "ads": "no",
+   "updated": "2023-08-01",
+   "denomination": "Catholic",
+   "description": "Illustrated Bible storybook from CatholicBrain covering Creation through the early Church.",
+   "goodFor": "Young Catholic children reading Bible stories with a parent.",
+   "worthKnowing": "Not updated since 2023 on either store.",
+   "website": "https://www.catholicbrain.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/catholic-bible-storybook/id6450628803",
+    "https://play.google.com/store/apps/details?id=com.catholicbrain.biblestorybook",
+    "https://www.catholicbrain.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/catholic-bible-storybook.webp"
+  },
+  {
+   "slug": "formed",
+   "name": "Formed",
+   "maker": "Augustine Institute, Inc.",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "family"
+   ],
+   "priceModel": "subscription",
+   "price": "$9.99/mo or $99.99/yr (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/formed/id1212963367",
+    "android": "https://play.google.com/store/apps/details?id=com.ai.formed.formed",
+    "web": "https://watch.formed.org"
+   },
+   "ads": "no",
+   "updated": "2026-09-22",
+   "denomination": "Catholic",
+   "description": "Catholic streaming platform from the Augustine Institute with films, studies and children's programs; many parishes provide free access.",
+   "goodFor": "Catholic families whose parish offers a Formed subscription.",
+   "worthKnowing": "General Catholic library, not a kids' app; individual plans are $9.99/mo or $99.99/yr.",
+   "website": "https://watch.formed.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/formed/id1212963367",
+    "https://play.google.com/store/apps/details?id=com.ai.formed.formed",
+    "https://watch.formed.org"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/formed.webp"
+  },
+  {
+   "slug": "audio-catholic-kids",
+   "name": "Audio Catholic Kids",
+   "maker": "WGQM Partners, LLC",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "young",
+    "older"
+   ],
+   "priceModel": "freemium",
+   "price": "Full library $2.99 (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/audio-catholic-kids/id763531536"
+   },
+   "ads": "unknown",
+   "updated": "2023-06-08",
+   "denomination": "Catholic",
+   "description": "Audio library for Catholic children with My Bible History, the Baltimore Catechism No. 2, First Communion stories and more.",
+   "goodFor": "Traditional Catholic families wanting classic catechism audio.",
+   "worthKnowing": "Last updated June 2023 and iOS only; content is older public-domain-era material.",
+   "website": null,
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/audio-catholic-kids/id763531536"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/audio-catholic-kids.webp"
+  },
+  {
+   "slug": "parent-cue",
+   "name": "Parent Cue",
+   "maker": "The reThink Group, Inc.",
+   "category": "parent-tools",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free on iOS; Google Play listing shows an in-app purchases label",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/parent-cue/id433066482",
+    "android": "https://play.google.com/store/apps/details?id=org.rethinkgroup.parentcuepaid"
+   },
+   "ads": "no",
+   "updated": "2026-04-11",
+   "denomination": "non-denominational",
+   "description": "Weekly prompts and conversation ideas to help parents build faith and character with kids from preschool to teens, from Orange (The reThink Group).",
+   "goodFor": "Parents who want simple weekly faith conversation starters.",
+   "worthKnowing": "Best when your church uses Orange curriculum; the Android version is published under a different developer name (Amazing Life).",
+   "website": "http://theparentcue.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/parent-cue/id433066482",
+    "https://play.google.com/store/apps/details?id=org.rethinkgroup.parentcuepaid",
+    "http://theparentcue.org"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/parent-cue.webp"
+  },
+  {
+   "slug": "focus-on-the-family",
+   "name": "Focus on the Family App",
+   "maker": "Focus on the Family",
+   "category": "parent-tools",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "family"
+   ],
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/focus-on-the-family-app/id373261246",
+    "android": "https://play.google.com/store/apps/details?id=com.focusonthefamily.android.focusdaily"
+   },
+   "ads": "no",
+   "updated": "2026-10-17",
+   "denomination": "non-denominational",
+   "description": "Focus on the Family's app with its broadcasts, articles and resources on marriage and parenting from a Christian perspective.",
+   "goodFor": "Parents who want Christian parenting advice on demand.",
+   "worthKnowing": "Parent-facing content, not a kids' app.",
+   "website": "https://www.focusonthefamily.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/focus-on-the-family-app/id373261246",
+    "https://play.google.com/store/apps/details?id=com.focusonthefamily.android.focusdaily",
+    "https://www.focusonthefamily.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/focus-on-the-family.webp"
+  },
+  {
+   "slug": "covenant-eyes-victory",
+   "name": "Victory by Covenant Eyes",
+   "maker": "Covenant Eyes, Inc.",
+   "category": "parent-tools",
+   "ages": "Rated 9+",
+   "agesSource": "store age rating",
+   "ageGroups": [
+    "family"
+   ],
+   "priceModel": "subscription",
+   "price": "Covenant Eyes plan $19.99/mo or $219.99/yr (App Store IAP list)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/victory-by-covenant-eyes/id1593067468",
+    "android": "https://play.google.com/store/apps/details?id=com.covenanteyes.victoryandroid"
+   },
+   "ads": "no",
+   "updated": "2026-10-15",
+   "denomination": "non-denominational",
+   "description": "Accountability and blocking app from Covenant Eyes for people who want to stop viewing explicit content, with ally reports and courses.",
+   "goodFor": "Parents and teens who want a Christian accountability tool.",
+   "worthKnowing": "Built for individual accountability, not full parental controls; the plan is $19.99/mo or $219.99/yr on iOS.",
+   "website": "https://victory.covenanteyes.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/victory-by-covenant-eyes/id1593067468",
+    "https://play.google.com/store/apps/details?id=com.covenanteyes.victoryandroid",
+    "https://victory.covenanteyes.com"
+   ],
+   "kind": "app",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/covenant-eyes-victory.webp"
+  }
+ ],
+ "gone": [
+  {
+   "name": "The Jesus Storybook Bible (standalone app)",
+   "status": "no standalone App Store app found",
+   "evidence": "No App Store search result for the title or for author Sally Lloyd-Jones (iTunes Search API, 2026-11-17). The book is sold as a $15.99 add-on inside the Olive Tree Bible App instead."
+  },
+  {
+   "name": "JellyTelly",
+   "status": "renamed to Minno (not removed)",
+   "evidence": "Minno's Google Play package is still com.jellytelly. A new 'Jelly Telly' App Store app (Oct 31, 2026) is an unrelated business phone app from Jelly What, LLC."
+  },
+  {
+   "name": "Scripture Typer",
+   "status": "renamed to The Bible Memory App (2018); the name is being reused for a new typing product (July 2026 bulletin)",
+   "evidence": "Developer bulletin Dec 19, 2018 and July 15, 2026; the App Store bundle id is still com.bgolson.scripturetyper."
+  },
+  {
+   "name": "Seeds Family Worship app",
+   "status": "no app; the brand is now Seeds Kids Worship and streams on Spotify, Apple Music and others (also inside WindowSeat)",
+   "evidence": "seedsfamilyworship.com redirects to seedskidsworship.com, which lists streaming services only."
+  },
+  {
+   "name": "Owlegories",
+   "status": "not found on the US App Store",
+   "evidence": "No App Store search result for 'owlegories' (iTunes Search API, 2026-11-17); owlegories.com returned HTTP 406 to our request. Not checked on Google Play."
+  },
+  {
+   "name": "Verses - Bible Memory",
+   "status": "still listed but stale",
+   "evidence": "Last App Store update 2020-03-13; no Google Play listing found."
+  },
+  {
+   "name": "Bible Bee (National Bible Bee)",
+   "status": "no store app found",
+   "evidence": "biblebee.org links only to a web login at biblebee.app; no App Store result for 'bible bee app'."
+  },
+  {
+   "name": "Slugs & Bugs app",
+   "status": "no app found",
+   "evidence": "No App Store result; slugsandbugs.com is live as a music site."
+  }
+ ]
+}

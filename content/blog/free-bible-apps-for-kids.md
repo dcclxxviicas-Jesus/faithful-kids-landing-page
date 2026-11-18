@@ -85,6 +85,8 @@ Based on the bestselling Adventure Bible print edition (over 10 million copies s
 
 The Adventure Bible App works well for kids who are ready to read Scripture on their own. But for families looking for an engaging multimedia experience, it can feel static compared to video-based alternatives.
 
+For more free options beyond Bible apps, filter our [directory of Christian apps for kids](/christian-apps) by "Free to start": games, music, devotionals and more, each checked for ads.
+
 ## 4. Bible for Kids by DLTK
 
 **Platform:** Web (dltk-bible.com)  

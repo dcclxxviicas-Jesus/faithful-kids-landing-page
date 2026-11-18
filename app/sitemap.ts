@@ -8,6 +8,7 @@ import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
 import { MAPS as bibleMaps } from '@/lib/bible-maps'
 import { getPublicArticles, getPublicAuthors } from '@/lib/parenting'
+import { CURATED as christianApps, CHECKED_ON as appsChecked } from '@/lib/christian-apps'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://faithfulkids.app'
@@ -377,5 +378,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ]
 
-  return [...staticPages, ...holidayPages, ...seriesPages, ...topicPages, ...blogPages, ...parentingPages]
+  // Christian Apps directory. Approved submissions are reached from the hub's
+  // links; only the researched listings are enumerated here.
+  const appPages: MetadataRoute.Sitemap = [
+    { url: `${baseUrl}/christian-apps`, lastModified: new Date(appsChecked + 'T00:00:00Z'), changeFrequency: 'weekly' as const, priority: 0.8 },
+    { url: `${baseUrl}/christian-apps/submit`, lastModified: new Date('2026-11-17'), changeFrequency: 'yearly' as const, priority: 0.4 },
+    ...christianApps.map(a => ({ url: `${baseUrl}/christian-apps/${a.slug}`, lastModified: new Date(a.checkedOn + 'T00:00:00Z'), changeFrequency: 'monthly' as const, priority: 0.5 })),
+  ]
+
+  return [...staticPages, ...holidayPages, ...seriesPages, ...topicPages, ...blogPages, ...parentingPages, ...appPages]
 }

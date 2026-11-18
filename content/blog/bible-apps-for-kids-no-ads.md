@@ -55,6 +55,8 @@ Every paid app on this list is ad-free; that is the baseline you are paying for.
 
 **TruPlay** is a games app: "no ads, no chatrooms," Bible-inspired games, comics and animated adventures, up to ten profiles, $12.99 a month or $69.99 a year. For a child who would rather play than watch.
 
+Every listing in our [Christian apps for kids directory](/christian-apps) says whether the store shows a "Contains ads" label, so you can check before you download.
+
 ## Two things "no ads" does not tell you
 
 **No ads is not the same as no purchases.** Every subscription app here has an in-app purchase, the subscription. What matters for a child's device is whether a child can trigger one. On Faithful Kids the purchase is behind a parental gate; on the others, check whether the subscription screen is reachable from the child's side of the app and set your device's purchase restrictions either way (on iOS: Settings → Screen Time → Content & Privacy → iTunes & App Store Purchases).

@@ -27,6 +27,8 @@ Two free supplements that work at this age: our [Bible trivia for teens](/blog/b
 
 The right move at 16 isn't a better kids' app, it's an adult tool plus a habit. If your teen built the habit on structured lessons, any of these carries it forward.
 
+For teen-friendly devotional and Bible apps alongside the kids' ones, filter our [Christian apps directory](/christian-apps) by "Teens".
+
 ## What to Leave Behind
 
 The apps drawn for early childhood, YouVersion's Bible App for Kids (ages 4-8), Superbook (produced for roughly 5-12), and the animated streaming libraries, are excellent for the ages on their labels and quietly insulting past them. Our [Christian apps that grow with your child](/blog/christian-apps-that-grow-with-your-child) comparison covers which apps span ages instead of stopping at eight.

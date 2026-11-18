@@ -73,6 +73,8 @@ The Bible App for Kids is made by the same team behind the YouVersion Bible app 
 - Best for ages 3-8, older kids may find it too simple
 - No video content
 
+Want to see everything else out there? Our [Christian apps for kids directory](/christian-apps) lists more than 50 apps with the price, ages, ads and last update checked on each store.
+
 ## 3. Minno: Best for Animated Shows
 
 **Price:** $10.99/month

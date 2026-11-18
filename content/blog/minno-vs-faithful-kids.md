@@ -47,6 +47,8 @@ Choose Faithful Kids if your goal is that your child actually knows the Bible, n
 
 The trade-off is honest: one-minute lessons plus quizzes are learning, not entertainment. Faithful Kids will not fill a rainy Saturday afternoon, and it is not trying to.
 
+For Minno's current store prices and ratings at a glance, see its [listing in our Christian apps directory](/christian-apps/minno).
+
 ## When Should You Choose Minno?
 
 Choose Minno if the problem you are solving is what your kids watch during entertainment time. If your 4-to-9-year-old currently watches an hour of Netflix or YouTube daily, redirecting that hour to VeggieTales and What's in the Bible? is a real upgrade, values-aligned, ad-free, and genuinely fun. What's in the Bible? in particular carries more teaching content than most children's shows.

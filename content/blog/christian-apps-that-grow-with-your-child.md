@@ -55,6 +55,8 @@ An app grows with a child when three things are true at once, and most apps mana
 
 **TruPlay** and **Yippee TV** do not state an upper age. TruPlay is games and comics with up to ten profiles; Yippee is shows. Whether they hold a thirteen-year-old depends entirely on the thirteen-year-old.
 
+For a side-by-side look at the rest of the field, see our [Christian apps for kids directory](/christian-apps), sorted by age and price.
+
 ## A practical sequence
 
 - **Ages 3 to 5:** Bible App for Kids, free. Sit with them.

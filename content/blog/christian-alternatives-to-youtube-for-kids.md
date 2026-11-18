@@ -120,6 +120,8 @@ From our Parenting desk, the founder's essay [Taking the screen away is not a pl
 
 For teens drawn to live platforms rather than video apps, there is a real faith-based streaming scene worth knowing; our [Christian streamers guide](/blog/christian-twitch-streamers) covers the gamer churches and believers streaming today.
 
+If you'd rather choose an app than a channel, our [directory of Christian apps for kids](/christian-apps) compares more than 50 of them, including the Christian streaming apps.
+
 ## Frequently Asked Questions
 
 ### What is the safest video app for Christian kids?

@@ -187,7 +187,7 @@ export function getGuideCategory(slug: string): string {
   // reviews, not the generic Guides catch-all. FIRST MATCH WINS, so this sits
   // immediately above the -vs- / -review rule it belongs with.
   if (slug.startsWith('where-to-watch') || slug.includes('streaming') || slug.includes('adventures-in-odyssey')) return 'App Reviews'
-  if (slug === 'faithful-kids-app' || slug.startsWith('bible-apps-') || slug.startsWith('christian-apps-') || slug.includes('-vs-') || slug.includes('best-bible-app') || slug.includes('free-bible-apps') || slug.includes('best-educational') || slug.includes('best-bible-apps') || slug.endsWith('-review')) return 'App Reviews'
+  if (slug === 'faithful-kids-app' || slug === 'where-to-list-a-christian-app' || slug.startsWith('bible-apps-') || slug.startsWith('christian-apps-') || slug.includes('-vs-') || slug.includes('best-bible-app') || slug.includes('free-bible-apps') || slug.includes('best-educational') || slug.includes('best-bible-apps') || slug.endsWith('-review')) return 'App Reviews'
   // Blogger-monetization posts mention "homeschool" in the slug but are not
   // teaching content — route them before the Teaching rule catches them.
   if (slug.includes('blogger')) return 'Guides'

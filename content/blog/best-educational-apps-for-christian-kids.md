@@ -93,6 +93,8 @@ This guide reviews seven of the best educational apps and platforms for Christia
 
 If your kids ask for games more than apps, see our verified roundup of [Christian video games](/blog/christian-video-games), including the free ones that are genuinely still alive.
 
+Our full [Christian apps for kids directory](/christian-apps) covers the faith side: Bible stories, games, music and Scripture memory, compared on price and ads.
+
 ## 4. Superbook
 
 **Ages:** 5-12

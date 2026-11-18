@@ -95,7 +95,19 @@ export function BlogExitIntent({
       try { history.pushState({ fk: 'exit' }, '', location.href) } catch { /* older Safari */ }
     }
 
+    /* A click on an in-page link ("On this page", footnotes, #faq) also
+       fires popstate, and the URL changes. Only a popstate that leaves the
+       URL unchanged is the reader spending our armed entry with Back; any
+       other one is in-page navigation and must be left alone. Before this
+       (Nov 17, 2026) every in-page link click fell through to history.back()
+       and sent the reader back to Google, on desktop as well. */
+    let lastHref = location.href
+
     function onPop() {
+      const href = location.href
+      const sameUrl = href === lastHref
+      lastHref = href
+      if (!sameUrl) return
       if (armed.current && !triggered.current && !blocked()) {
         armed.current = false
         trigger('back_button')
@@ -103,9 +115,11 @@ export function BlogExitIntent({
       }
       /* Nothing to show. The entry is already spent and the URL never
          changed, so send them where they were going. */
+      if (!armed.current) return
       armed.current = false
       history.back()
     }
+    function onHash() { lastHref = location.href }
 
     function onScroll() {
       const y = window.scrollY
@@ -131,11 +145,13 @@ export function BlogExitIntent({
 
     window.addEventListener('scroll', onScroll, { passive: true })
     window.addEventListener('popstate', onPop)
+    window.addEventListener('hashchange', onHash)
     document.addEventListener('mouseleave', onMouseLeave)
     document.addEventListener('click', onClick, true)
     return () => {
       window.removeEventListener('scroll', onScroll)
       window.removeEventListener('popstate', onPop)
+      window.removeEventListener('hashchange', onHash)
       document.removeEventListener('mouseleave', onMouseLeave)
       document.removeEventListener('click', onClick, true)
     }

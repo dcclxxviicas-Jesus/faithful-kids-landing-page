@@ -90,4 +90,4 @@ An adult Bible app. YouVersion's main app is free and has reading plans. For the
 
 ---
 
-*We make Faithful Kids. Every age range quoted for another app is that app's own wording from its App Store listing or website on the date shown. If one has changed, email christian@faithfulkids.app.*
+*We make Faithful Kids. Every age range quoted for another app is that app's own wording from its App Store listing or website on the date shown. If one has changed, email team@faithfulkids.app.*

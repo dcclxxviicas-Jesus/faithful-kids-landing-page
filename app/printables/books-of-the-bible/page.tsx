@@ -1,5 +1,6 @@
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
+import '../printable-page.css'
 import PdfDownloadLink from '../PdfDownloadLink'
 import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
@@ -107,11 +108,13 @@ export default function BooksOfTheBiblePage() {
       <SiteNav active="printables" />
 
       <main style={{ maxWidth: 900, margin: '0 auto', padding: '24px' }}>
-        <div className="no-print" style={{ textAlign: 'right', marginBottom: '0.75rem' }}>
-          <PrintButton />
-        </div>
 
         <header style={{ borderBottom: `3px solid ${GREEN}`, paddingBottom: '1rem', marginBottom: '1.5rem' }}>
+        {/* Screen-only cover picture (Nov 2026); print is unchanged. */}
+        <PdfDownloadLink className="pp-cover no-print pp-coverlink" href="https://faithfulkids.app/printables/books-of-the-bible-chart.pdf" printable="books-of-the-bible">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="https://d3g07v1w0lehiv.cloudfront.net/hub-thumbs/heroes/books-of-the-bible-1200.webp" alt="A child reading in an armchair beside a lamp and a bookshelf full of old books" width={1200} height={686} fetchPriority="high" />
+        </PdfDownloadLink>
           <div className="print-brand" style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '0.75rem' }}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/logo-sm.png" alt="Faithful Kids logo" width={36} height={36} style={{ display: 'block' }} />
@@ -126,14 +129,11 @@ export default function BooksOfTheBiblePage() {
             chapter counts for every book. Print the chart for the wall and the bookmarks for their
             Bibles. Free.
           </p>
-          <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <PdfDownloadLink
-              href="https://faithfulkids.app/printables/books-of-the-bible-chart.pdf"
-              printable="books-of-the-bible"
-              style={{ display: 'inline-block', background: GREEN, color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: `0 4px 0 ${GREEN_DARK}` }}
-            >
-              Download the free PDF &rarr;
-            </PdfDownloadLink>
+          <p className="no-print" style={{ margin: '0.9rem 0 0', display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '0.6rem' }}>
+            <PrintButton
+              align="start"
+              pdf={{ href: 'https://faithfulkids.app/printables/books-of-the-bible-chart.pdf', printable: 'books-of-the-bible', label: 'Download the free PDF' }}
+            />
             <span style={{ display: 'inline-block', marginLeft: 12, color: '#6b7280', fontSize: '0.9rem' }}>
               Chart + bookmarks, two sheets
             </span>

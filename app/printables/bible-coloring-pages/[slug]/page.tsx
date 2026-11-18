@@ -9,6 +9,7 @@ import { PrintableCta } from '../../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 import { COLORING_TO_WORDSEARCH } from '@/lib/printable-pairs'
 import puzzles from '@/lib/word-searches.json'
+import './coloring-detail.css'
 
 /**
  * One page per coloring scene.
@@ -97,43 +98,52 @@ export default async function ColoringPageDetail(
 
       <div className="no-print"><SiteNav active="printables" /></div>
 
-      <section className="cpd-head no-print">
-        <nav className="cpd-crumb">
-          <a href="/printables">Printables</a>
-          <span>›</span>
-          <a href="/printables/bible-coloring-pages">Bible Coloring Pages</a>
-        </nav>
-        <h1>{page.title} Coloring Page</h1>
-        <p className="cpd-meta">{page.scripture} · {page.ages} · Free to print</p>
-      </section>
+      {/* Screen layout (Nov 2026): the sheet on the left, everything you need
+          to decide and act on the right, so the print button is beside the
+          picture instead of a screen-height below it. Print is unchanged: only
+          .cpd-sheet prints. */}
+      <div className="cpd-top">
+        <section className="cpd-head no-print">
+          <nav className="cpd-crumb">
+            <a href="/printables">Printables</a>
+            <span>›</span>
+            <a href="/printables/bible-coloring-pages">Bible Coloring Pages</a>
+          </nav>
+          <h1>{page.title} Coloring Page</h1>
+          <p className="cpd-meta">{page.scripture} · {page.ages} · Free to print</p>
+          <p className="cpd-blurb">{page.blurb}</p>
+          {page.story && (
+            <p className="cpd-blurb">
+              Read the story first and the page means more:{' '}
+              <a href={`/blog/${page.story}`}>{page.title} explained for kids</a> a short retelling
+              with the video lesson and a quiz.
+            </p>
+          )}
+          <div className="cpd-actions no-print">
+            <PrintButton align="start" />
+            <PdfDownloadLink className="cpd-download" href={`/printables/bible-coloring-pages/${page.slug}.png`} printable={`bible-coloring-pages/${page.slug}`}>
+              Download PNG
+            </PdfDownloadLink>
+          </div>
+        </section>
 
-      {/* The sheet itself. Printing this route prints only this image. */}
-      <div className="cpd-sheet">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src={`${CDN}/${page.slug}.png`}
-          alt={`${page.title} Bible coloring page for kids, free printable, ${page.scripture}`}
-          width={1024}
-          height={1536}
-        />
-      </div>
-
-      <div className="cpd-actions no-print">
-        <PrintButton />
-        <PdfDownloadLink className="cpd-download" href={`/printables/bible-coloring-pages/${page.slug}.png`} printable={`bible-coloring-pages/${page.slug}`}>
-          Download PNG
-        </PdfDownloadLink>
+        {/* The sheet itself. Printing this route prints only this image. */}
+        <div className="cpd-sheet">
+          {/* Clicking the sheet asks for the email once, then opens the PDF
+              (owner request, Nov 17, 2026). */}
+          <PdfDownloadLink className="pp-coverlink" href={`/printables/bible-coloring-pages/${page.slug}.pdf`} printable={`bible-coloring-pages/${page.slug}`}>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={`${CDN}/${page.slug}.png`}
+              alt={`${page.title} Bible coloring page for kids, free printable, ${page.scripture}`}
+              width={1024}
+              height={1536}
+            />
+          </PdfDownloadLink>
+        </div>
       </div>
 
       <section className="cpd-body no-print">
-        <p>{page.blurb}</p>
-        {page.story && (
-          <p>
-            Read the story first and the page means more:{' '}
-            <a href={`/blog/${page.story}`}>{page.title} explained for kids</a> a short retelling
-            with the video lesson and a quiz.
-          </p>
-        )}
         {pairedWs && (
           <p>
             For older children, the same story comes as a puzzle:{' '}
@@ -218,7 +228,7 @@ export default async function ColoringPageDetail(
           <h2>Now watch {page.title}</h2>
           <p>
             Your child colors it in ten minutes. The video tells them what actually happened in
-            about two, then a quiz shows you what they took in, which a coloring page never can.
+            about two, then a quiz shows you what they took in, which a coloring page never can.{' '}
             {page.title} is one of 300+ episodes, all in order, Genesis to Revelation.
           </p>
           <a className="btn-primary" href="/quiz?ref=coloring-detail">

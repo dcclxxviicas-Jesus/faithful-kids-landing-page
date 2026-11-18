@@ -521,7 +521,7 @@ export default function BibleLiteracyResearch() {
               </div>
               <div className="v2-card">
                 <h3>Get the data</h3>
-                <p>The question-level table is below. The raw per-answer export is available to journalists and researchers on request: <a className="rs-link" href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>. Figures may be reused with attribution (CC BY 4.0).</p>
+                <p>The question-level table is below. The raw per-answer export is available to journalists and researchers on request: <a className="rs-link" href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>. Figures may be reused with attribution (CC BY 4.0).</p>
               </div>
             </div>
             <div className="rs-cite">

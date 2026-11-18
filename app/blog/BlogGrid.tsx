@@ -31,7 +31,13 @@ export default function BlogGrid({
   posts: PostCard[]
   seriesList: SeriesInfo[]
 }) {
-  const [activeFilter, setActiveFilter] = useState<string>('all')
+  const [activeFilter, setFilter] = useState<string>('all')
+  // 24 cards at a time (Nov 17, 2026): the full grid was 500+ cards and the
+  // longest page on the site. Every card is still rendered into the HTML,
+  // hidden past the cut, so crawlers see all the links.
+  const PAGE = 24
+  const [shown, setShown] = useState(PAGE)
+  const setActiveFilter = (f: string) => { setFilter(f); setShown(PAGE) }
 
   const guidePosts = posts.filter(p => !p.series)
   const storyPosts = posts.filter(p => !!p.series)
@@ -122,8 +128,8 @@ export default function BlogGrid({
 
       {/* Grid */}
       <div className="blog-grid">
-        {filtered.map(post => (
-          <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
+        {filtered.map((post, i) => (
+          <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card" hidden={i >= shown}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=3`}
@@ -148,6 +154,14 @@ export default function BlogGrid({
           </a>
         ))}
       </div>
+      {filtered.length > shown && (
+        <div className="bx-more">
+          <button type="button" onClick={() => setShown(n => n + PAGE)}>
+            Show {Math.min(PAGE, filtered.length - shown)} more
+          </button>
+          <span>Showing {shown} of {filtered.length}</span>
+        </div>
+      )}
     </>
   )
 }

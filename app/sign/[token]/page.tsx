@@ -25,7 +25,7 @@ function Shell({ children }: { children: React.ReactNode }) {
         <p className="sg-foot">
           Sent by Christian Alexander, Faithful Kids.<br />
           Questions, or want something changed? Email{' '}
-          <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a> it comes
+          <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a> it comes
           straight to me.
         </p>
       </div>
@@ -58,17 +58,17 @@ export default async function SignPage({ params }: { params: Promise<{ token: st
   if (!row) {
     return <Gate
       title="This link isn't valid"
-      body="We couldn't find an agreement for this link. It may have been typed incorrectly, or replaced by a newer one. Email christian@faithfulkids.app and I'll send a fresh link." />
+      body="We couldn't find an agreement for this link. It may have been typed incorrectly, or replaced by a newer one. Email team@faithfulkids.app and I'll send a fresh link." />
   }
   if (row.status === 'voided') {
     return <Gate
       title="This agreement was withdrawn"
-      body="This version is no longer open for signature. If we're still working together, a replacement is on its way; email christian@faithfulkids.app if you haven't had it." />
+      body="This version is no longer open for signature. If we're still working together, a replacement is on its way; email team@faithfulkids.app if you haven't had it." />
   }
   if (row.status !== 'signed' && new Date(row.expires_at) < new Date()) {
     return <Gate
       title="This link has expired"
-      body="Signing links are open for 30 days. Nothing is lost; email christian@faithfulkids.app and I'll send a new one with the same terms." />
+      body="Signing links are open for 30 days. Nothing is lost; email team@faithfulkids.app and I'll send a new one with the same terms." />
   }
 
   // Idempotent: only the first view is recorded, so this is safe however many

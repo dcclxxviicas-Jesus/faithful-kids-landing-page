@@ -224,7 +224,7 @@ export default function ContractsAdmin() {
 
             <div className="f chk">
               <input type="checkbox" id="alsoEmail" checked={alsoEmail} onChange={e => setAlsoEmail(e.target.checked)} />
-              <label htmlFor="alsoEmail">Also email the link from christian@</label>
+              <label htmlFor="alsoEmail">Also email the link from team@</label>
             </div>
             <p className="hint">
               Usually leave that off and paste the link into the Gmail thread you&apos;re already in

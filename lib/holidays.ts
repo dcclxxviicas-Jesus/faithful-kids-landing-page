@@ -65,7 +65,7 @@ export const HOLIDAYS: Holiday[] = [
     peak: 'December',
     peakMonth: 12,
     intro:
-      'Everything we have for the Christmas season in one place: the nativity story retold for children, Advent devotions and calendars, Christmas trivia, and free printables you can hand a child in about ten seconds. All of it is free and none of it asks for an email address.',
+      'Everything we have for the Christmas season in one place: the nativity story retold for children, Advent devotions and calendars, Christmas trivia, and free printables you can hand a child in about ten seconds. All of it is free.',
     heroSlug: 'the-christmas-story-for-kids',
     match: /christmas|advent|nativity|bethlehem|wise-men|manger/,
     printables: [
@@ -144,4 +144,64 @@ export function getHoliday(slug: string): Holiday | undefined {
 export function monthsUntil(peakMonth: number, now = new Date()): number {
   const diff = peakMonth - (now.getMonth() + 1)
   return diff < 0 ? diff + 12 : diff
+}
+
+/* ---------- Day-accurate "what is coming next" (Nov 17, 2026) ----------
+   monthsUntil() only knows the month, so the whole of November ranked
+   Thanksgiving first even after Thanksgiving had passed. These work to the
+   day, in New York time, and a season stays "next" through its own day.
+   /holidays and /holidays/<slug> revalidate a few times a day (see their
+   `revalidate` exports), so the order changes on its own without a deploy. */
+
+/** Western Easter Sunday (anonymous Gregorian algorithm). */
+function easter(y: number): [number, number] {
+  const a = y % 19, b = Math.floor(y / 100), c = y % 100
+  const d = Math.floor(b / 4), e = b % 4, f = Math.floor((b + 8) / 25)
+  const g = Math.floor((b - f + 1) / 3), h = (19 * a + b - d - g + 15) % 30
+  const i = Math.floor(c / 4), k = c % 4, l = (32 + 2 * e + 2 * i - h - k) % 7
+  const m = Math.floor((a + 11 * h + 22 * l) / 451)
+  const month = Math.floor((h + l - 7 * m + 114) / 31)
+  return [month, ((h + l - 7 * m + 114) % 31) + 1]
+}
+
+/** The season's own day in a given year, as [month 1-12, day]. */
+function keyDay(slug: string, y: number, peakMonth: number): [number, number] {
+  switch (slug) {
+    case 'christmas': return [12, 25]
+    case 'easter': return easter(y)
+    case 'halloween': return [10, 31]
+    // Most US schools start in the second half of August.
+    case 'back-to-school': return [8, 20]
+    case 'thanksgiving': {
+      // Fourth Thursday of November.
+      const firstDow = new Date(Date.UTC(y, 10, 1)).getUTCDay()
+      return [11, 1 + ((4 - firstDow + 7) % 7) + 21]
+    }
+    default: return [peakMonth, 15]
+  }
+}
+
+/** Today's calendar date in New York, as a UTC midnight timestamp. */
+function todayNY(now: Date): number {
+  const p = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', year: 'numeric', month: 'numeric', day: 'numeric' })
+    .formatToParts(now)
+  const n = (t: string) => Number(p.find(x => x.type === t)!.value)
+  return Date.UTC(n('year'), n('month') - 1, n('day'))
+}
+
+/** Days until the season's next day (0 on the day itself). */
+export function daysUntil(h: Holiday, now = new Date()): number {
+  const today = todayNY(now)
+  const y = new Date(today).getUTCFullYear()
+  for (const year of [y, y + 1]) {
+    const [m, d] = keyDay(h.slug, year, h.peakMonth)
+    const t = Date.UTC(year, m - 1, d)
+    if (t >= today) return Math.round((t - today) / 86400000)
+  }
+  return 365
+}
+
+/** Seasons ordered by which one comes next. */
+export function byNext<T extends Holiday>(list: T[], now = new Date()): T[] {
+  return [...list].sort((a, b) => daysUntil(a, now) - daysUntil(b, now))
 }

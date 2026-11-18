@@ -81,4 +81,4 @@ Not that we found. Guardians of Ancora (free) follows a rough Genesis-to-Revelat
 
 ---
 
-*We make Faithful Kids. Facts about other apps are from their App Store listings or websites on the date shown; quoted phrases are theirs. If something has changed, email christian@faithfulkids.app.*
+*We make Faithful Kids. Facts about other apps are from their App Store listings or websites on the date shown; quoted phrases are theirs. If something has changed, email team@faithfulkids.app.*

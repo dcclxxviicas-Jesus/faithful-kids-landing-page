@@ -1,12 +1,13 @@
 import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
+import '../hub.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 const TITLE = 'Partner With Faithful Kids'
 const DESCRIPTION =
-  'Faithful Kids partners with Christian parenting, homeschool, and family creators, free full access to review, and paid collaborations for the right fit.'
+  'Faithful Kids works with nearly every kind of Christian creator: free full access to review, and paid collaborations for the right fit.'
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -29,12 +30,11 @@ export const metadata: Metadata = {
 /* Constants, FAQS and both schema blocks are the live page's, unchanged.
    The honesty rules carry over: no invented rates, no follower minimums, no
    fabricated stats. "Free access + paid collaborations" is the whole offer. */
-/* christian@ on purpose (owner's call, Oct 7 2026): creator pitches invite a
-   reply, and per the sender split that is the monitored, personal inbox —
-   team@ is the no-reply-expected cold-nurture sender. The address itself IS
-   the CTA; a visible human email outperforms a generic button for this
-   audience. */
-const PITCH_EMAIL = 'christian@faithfulkids.app'
+/* team@ since Nov 17, 2026 (owner's call, in line with the Nov 16 rule that
+   everything goes through team@). It was christian@ from Oct 7, 2026. The
+   address itself is the CTA; team@ is watched, so the promise that a real
+   person reads every pitch still holds. */
+const PITCH_EMAIL = 'team@faithfulkids.app'
 const PITCH_MAILTO =
   `mailto:${PITCH_EMAIL}?subject=` +
   encodeURIComponent('Creator collaboration (Faithful Kids)') +
@@ -54,7 +54,7 @@ const PITCH_MAILTO =
 const FAQS = [
   {
     q: 'Does Faithful Kids work with Christian influencers and content creators?',
-    a: 'Yes. Faithful Kids partners with Christian parenting, homeschool, and family creators on Instagram, TikTok, and YouTube. Every partner family gets free full access to the app, and paid collaborations are offered where the fit is genuine. Pitch by emailing christian@faithfulkids.app with your handles, audience sizes, and a content idea.',
+    a: 'Yes. Faithful Kids works with nearly all Christian creators, whatever their niche, on Instagram, TikTok, YouTube and beyond. Every partner gets free full access to the app, and paid collaborations are offered where the fit is genuine. Pitch by emailing team@faithfulkids.app with your handles, audience sizes, and a content idea.',
   },
   {
     q: 'Does Faithful Kids pay creators?',
@@ -62,7 +62,7 @@ const FAQS = [
   },
   {
     q: 'Is there a follower minimum?',
-    a: 'No. Whether an audience trusts the creator matters far more to us than its size. Small, engaged Christian family audiences are exactly who the app serves.',
+    a: 'No. Whether an audience trusts the creator matters far more to us than its size. Small, engaged Christian audiences are very welcome.',
   },
   {
     q: 'What is Faithful Kids?',
@@ -70,7 +70,7 @@ const FAQS = [
   },
   {
     q: 'How do I pitch Faithful Kids a collaboration?',
-    a: 'Email christian@faithfulkids.app with: where you post (handles and links), rough audience size per platform, and the content idea you want to make. A real person reads every pitch and replies either way.',
+    a: 'Email team@faithfulkids.app with: where you post (handles and links), rough audience size per platform, and the content idea you want to make. A real person reads every pitch and replies either way.',
   },
   {
     q: 'What kind of content performs for Faithful Kids partners?',
@@ -96,7 +96,7 @@ const orgSchema = {
   contactPoint: {
     '@type': 'ContactPoint',
     contactType: 'Creator partnerships',
-    email: 'christian@faithfulkids.app',
+    email: 'team@faithfulkids.app',
     availableLanguage: 'English',
   },
 }
@@ -108,15 +108,16 @@ function CreatorsV2() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
       <SiteNav />
 
-      <main id="main-content">
+      <main id="main-content" className="hb">
 
+      {/* Live header kept (owner, Nov 17, 2026). */}
       <V2Hero
         art="creators"
         alt="A creator's desk: a phone on a small tripod, a glowing softbox light, an open notebook of sketches, a mug and a pinboard of photographs"
         eyebrow="Creator Partnerships"
         title="Make something good for Christian families, with us"
-        sub={<>We partner with Christian parenting, homeschool, and family creators who talk to
-          their audience like real people. Free full access to try it with your own kids,
+        sub={<>We work with nearly all Christian creators, from parents and pastors to musicians,
+          gamers and artists, who talk to their audience like real people. Free full access to try it with your own kids,
           and paid collaborations when it&rsquo;s a genuine fit.</>}
       >
         {/* The address itself IS the CTA; a visible human email outperforms a
@@ -132,14 +133,14 @@ function CreatorsV2() {
           {/* The first paragraph is written to be QUOTED: entity-dense, present
               tense, states the whole offer in two sentences. Answer engines lift
               openings; this one is built to be lifted. */}
-          <p className="v2-note">
+          <p>
             <strong>Faithful Kids is a Christian Bible-video app for kids (ages 5-15) that
-            partners with Christian parenting, homeschool, and family content creators.</strong>{' '}
+            works with nearly all Christian creators, whatever their niche.</strong>{' '}
             Partners get free full access to the app, and paid collaborations are offered where
             the fit is genuine, no follower minimums, pitched by email to{' '}
-            <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>.
+            <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>.
           </p>
-          <p className="v2-note">
+          <p>
             Prefer a commission? Our <a href="/affiliates">affiliate program</a> pays 50% of
             every sale you refer.
           </p>
@@ -151,10 +152,10 @@ function CreatorsV2() {
         <div className="v2-wrap is-narrow">
           <table className="cr-table">
             <tbody>
-              <tr><td><strong>Who</strong></td><td>Christian parenting, homeschool &amp; family creators on Instagram, TikTok, YouTube</td></tr>
+              <tr><td><strong>Who</strong></td><td>Nearly any Christian creator, on Instagram, TikTok, YouTube and beyond</td></tr>
               <tr><td><strong>What you get</strong></td><td>Free full access for your family + paid collaborations for the right fit</td></tr>
               <tr><td><strong>Follower minimum</strong></td><td>None, audience trust matters more than audience size</td></tr>
-              <tr><td><strong>How to pitch</strong></td><td>Email <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>: handles, audience sizes, one content idea</td></tr>
+              <tr><td><strong>How to pitch</strong></td><td>Email <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>: handles, audience sizes, one content idea</td></tr>
               <tr><td><strong>Who replies</strong></td><td>A real person, either way</td></tr>
             </tbody>
           </table>
@@ -185,9 +186,9 @@ function CreatorsV2() {
         <V2Head title="Who we partner with" />
         <div className="v2-wrap is-narrow v2-body">
           <p>
-            Creators in the Christian parenting, homeschool, and family-life space on
-            Instagram, TikTok, or YouTube, people whose recommendations come from what
-            they actually use. We care much more about whether your audience trusts you than
+            Nearly any Christian creator. Parents and homeschoolers, yes, but also pastors,
+            worship leaders, artists, gamers, teachers and storytellers, on Instagram, TikTok,
+            YouTube or anywhere else, whose recommendations come from what they actually use. We care much more about whether your audience trusts you than
             about your follower count.
           </p>
         </div>

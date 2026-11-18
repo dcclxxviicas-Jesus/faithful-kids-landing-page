@@ -2,7 +2,13 @@ import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { notFound } from 'next/navigation'
 import { getAllPosts } from '@/lib/blog'
-import { HOLIDAYS, getHoliday, MIN_POSTS, type Holiday } from '@/lib/holidays'
+import { HOLIDAYS, getHoliday, MIN_POSTS, byNext, type Holiday } from '@/lib/holidays'
+import { EmailCaptureCard } from '@/app/blog/EmailCaptureCard'
+import { V2Shell } from '@/app/v2-shell'
+import '../../home.css'
+import '../../v2-pages.css'
+import '../../hub.css'
+import './season.css'
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -19,6 +25,10 @@ function postsForHoliday(h: Holiday) {
 function liveHolidays() {
   return HOLIDAYS.filter(h => postsForHoliday(h).length >= MIN_POSTS)
 }
+
+/* Rebuilt every six hours so "Other seasons" stays in coming-up order and
+   the sign-up below offers the right seasonal printable. */
+export const revalidate = 21600
 
 export async function generateStaticParams() {
   return liveHolidays().map(h => ({ slug: h.slug }))
@@ -79,10 +89,14 @@ export default async function HolidayHubPage({ params }: Props) {
     ],
   }
 
-  const others = liveHolidays().filter(o => o.slug !== h.slug)
+  const others = byNext(liveHolidays()).filter(o => o.slug !== h.slug)
+  // The first email delivers a printable. Christmas always gets the Advent
+  // readings; other seasons follow the site-wide rule (Advent readings in
+  // November and December, the Bedtime Bible Kit otherwise).
+  const magnet = h.slug === 'christmas' || [10, 11].includes(new Date().getMonth()) ? 'advent' : 'bedtime-kit'
 
   return (
-    <>
+    <V2Shell>
       <script type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionJsonLd) }} />
       <script type="application/ld+json"
@@ -90,78 +104,92 @@ export default async function HolidayHubPage({ params }: Props) {
 
       <SiteNav />
 
-      <main>
-        <div className="blog-breadcrumb">
-          <a href="/holidays">Holidays</a>
-          <span className="blog-breadcrumb-sep">/</span>
-          <span className="blog-breadcrumb-current">{h.name}</span>
-        </div>
+      {/* Redesigned Nov 2026 to match the /holidays hub: the season's own
+          painting in the header, printables as buttons beside the intro, the
+          guides as picture cards. Every word and link is unchanged. */}
+      <main className="hb ss">
 
-        {/* 1100 so the left edge lines up with the card grid below; the
-            paragraph keeps its own readable measure. */}
-        <header className="blog-article-header" style={{ maxWidth: '1100px', margin: '0 auto 32px', padding: '8px 20px 28px' }}>
-          <h1 className="blog-article-title">{h.title}</h1>
-          <p style={{ color: '#555', fontSize: '1.05rem', lineHeight: 1.6, margin: '12px 0 8px', maxWidth: '68ch' }}>
-            {h.intro}
-          </p>
-          <p className="blog-result-count">
-            {posts.length} free {posts.length === 1 ? 'resource' : 'resources'} &middot; busiest in {h.peak}
-          </p>
+        <header className="hb-hero ss-hero">
+          <div className="hb-hero-text">
+            <h1 className="hv-h1 hb-h1">{h.title}</h1>
+            <p className="hb-lede">{h.intro}</p>
+            <p className="ss-count">
+              {posts.length} free {posts.length === 1 ? 'resource' : 'resources'} &middot; busiest in {h.peak}
+            </p>
+            {/* Printables first where they exist — the artifact is what the
+                seasonal searcher actually wants, and these are the pages with
+                the lowest competition in the whole niche. */}
+            {h.printables.length > 0 && (
+              <section className="ss-printables">
+                <h2>Free printables</h2>
+                <div className="ss-printable-links">
+                  {h.printables.map(p => (
+                    <a key={p.href} href={p.href}>{p.label} &rarr;</a>
+                  ))}
+                </div>
+              </section>
+            )}
+          </div>
+          <div className="hb-hero-art">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${h.heroSlug}-hero.webp?v=3`}
+              srcSet={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/sm/${h.heroSlug}-hero.webp?v=3 760w, https://d3g07v1w0lehiv.cloudfront.net/blog-images/${h.heroSlug}-hero.webp?v=3 1792w`}
+              sizes="(min-width: 960px) 560px, 100vw"
+              alt="" width={1792} height={1024} fetchPriority="high"
+            />
+          </div>
         </header>
 
-        {/* Printables first where they exist — the artifact is what the
-            seasonal searcher actually wants, and these are the pages with
-            the lowest competition in the whole niche. */}
-        {h.printables.length > 0 && (
-          <section style={{ maxWidth: '1100px', margin: '8px auto 0', padding: '0 20px' }}>
-            <h2 style={{ fontSize: '1.2rem', marginBottom: '12px' }}>Free printables</h2>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-              {h.printables.map(p => (
-                <a key={p.href} href={p.href} className="blog-filter-tab blog-filter-tab-guide"
-                   style={{ textDecoration: 'none' }}>
-                  {p.label}
-                </a>
-              ))}
-            </div>
-          </section>
-        )}
-
-        <div className="blog-grid" style={{ maxWidth: '1100px', margin: '24px auto 0', padding: '0 20px' }}>
-          {posts.map(post => (
-            <a key={post.slug} href={`/blog/${post.slug}`} className="blog-card">
-              <img
-                src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=3`}
-                alt={post.title}
-                width={896}
-                height={512}
-                loading="lazy"
-                className="blog-card-img"
-              />
-              <div className="blog-card-body">
-                <div className="blog-card-header">
-                  <span className="blog-card-badge blog-card-badge-guide">{h.name}</span>
-                </div>
-                <h3 className="blog-card-title">{post.title.split(':')[0]}</h3>
-                <p className="blog-card-desc">{post.metaDescription}</p>
-                <span className="blog-card-link">Read &rarr;</span>
-              </div>
-            </a>
-          ))}
+        {/* Owner request, Nov 17, 2026: an email sign-up right under the
+            header. Same card and same drip as the blog sign-ups. */}
+        <div className="hb-wrap ss-signup">
+          <EmailCaptureCard
+            magnet={magnet}
+            source="blog-inline"
+            sourcePost={`holiday-${h.slug}`}
+            placement="season-top"
+            title={`\u{1F4EC} Get ${h.name} Bible activities to do with your kids`}
+            subtitle="Free printables, Bible stories and easy ideas for the whole family, sent to your inbox, starting with a free printable today."
+          />
         </div>
 
-        {others.length > 0 && (
-          <section style={{ maxWidth: '1100px', margin: '48px auto 0', padding: '0 20px' }}>
-            <h2 style={{ fontSize: '1.2rem', marginBottom: '12px' }}>Other seasons</h2>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-              {others.map(o => (
-                <a key={o.slug} href={`/holidays/${o.slug}`} className="blog-filter-tab blog-filter-tab-guide"
-                   style={{ textDecoration: 'none' }}>
-                  {o.name}
+        <section className="hb-section is-tight-top">
+          <div className="hb-wrap">
+            <div className="hb-shelf">
+              {posts.map(post => (
+                <a key={post.slug} href={`/blog/${post.slug}`} className="hb-item">
+                  <span className="hb-thumb">
+                    <img
+                      src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${post.slug}-hero.webp?v=3`}
+                      alt={post.title}
+                      width={896}
+                      height={512}
+                      loading="lazy"
+                    />
+                    <span className="hb-tag">{h.name}</span>
+                  </span>
+                  <span className="hb-item-text">
+                    <h3>{post.title.split(':')[0]}</h3>
+                    <p>{post.metaDescription}</p>
+                    <span className="hb-go">Read &rarr;</span>
+                  </span>
                 </a>
               ))}
             </div>
-          </section>
-        )}
+
+            {others.length > 0 && (
+              <section className="ss-others">
+                <h2>Other seasons</h2>
+                <div className="ss-printable-links">
+                  {others.map(o => (
+                    <a key={o.slug} href={`/holidays/${o.slug}`}>{o.name}</a>
+                  ))}
+                </div>
+              </section>
+            )}
+          </div>
+        </section>
 
         <section className="blog-bottom-cta">
           <div className="blog-bottom-cta-inner">
@@ -178,6 +206,6 @@ export default async function HolidayHubPage({ params }: Props) {
       </main>
 
       <SiteFooter />
-    </>
+    </V2Shell>
   )
 }

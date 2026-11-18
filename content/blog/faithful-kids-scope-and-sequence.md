@@ -598,4 +598,4 @@ It is generated from the app's series data, the same file the app itself reads, 
 
 ---
 
-*Faithful Kids is made by Catterfly LLC. Questions about the sequence: christian@faithfulkids.app.*
+*Faithful Kids is made by Catterfly LLC. Questions about the sequence: team@faithfulkids.app.*

@@ -1,4 +1,6 @@
-import PrintButton from '../PrintButton';
+import PrintButton from '../PrintButton'
+import PdfDownloadLink from '../PdfDownloadLink'
+import '../printable-page.css';
 import { SiteNav, SiteFooter } from '../../components/SiteChrome';
 import { PrintableCta } from '../PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
@@ -172,11 +174,6 @@ export default function BedtimeBibleKitPrintable() {
         }
       `}</style>
 
-      {/* Print button */}
-      <div className="no-print" style={{ textAlign: 'right', marginBottom: '1rem' }}>
-        <PrintButton />
-      </div>
-
       {/* Branded header */}
       <header
         className="fk-header"
@@ -187,6 +184,11 @@ export default function BedtimeBibleKitPrintable() {
           paddingBottom: '1rem',
         }}
       >
+        {/* Screen-only cover picture (Nov 2026); print is unchanged. */}
+        <PdfDownloadLink className="pp-cover no-print pp-coverlink" href="/printables/bedtime-bible-kit.pdf" printable="bedtime-bible-kit">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="https://d3g07v1w0lehiv.cloudfront.net/blog-images/bedtime-prayers-for-kids-hero.webp?v=3" alt="Children in pajamas sitting together with folded hands and an open Bible before bed" width={1200} height={686} fetchPriority="high" />
+        </PdfDownloadLink>
         <div className="print-brand"
           style={{
             display: 'flex',
@@ -209,6 +211,7 @@ export default function BedtimeBibleKitPrintable() {
           </span>
         </div>
         <h1
+          className="pp-h1-match"
           style={{
             fontSize: '1.75rem',
             fontWeight: 800,
@@ -219,10 +222,11 @@ export default function BedtimeBibleKitPrintable() {
         >
           The Bedtime Bible Kit
         </h1>
-        <p style={{ fontSize: '0.95rem', color: '#374151', margin: 0, lineHeight: 1.5 }}>
+        <p className="pp-lede-match" style={{ fontSize: '0.95rem', color: '#374151', margin: 0, lineHeight: 1.5 }}>
           Seven nights of five-minute Bible stories, a story, a prayer, and one question to
           whisper about.
         </p>
+        <div className="pp-printrow no-print"><PrintButton /></div>
       </header>
 
       {/* 7 nights */}

@@ -1,0 +1,13 @@
+/* /holidays/[slug], Nov 2026. Builds on hub.css (main.hb). */
+.hb.ss .hb-h1 { font-size: clamp(2rem, 4vw, 3rem); }
+.hb.ss .ss-count { margin: 0 0 22px; font-weight: 700; color: #6b7f94; font-size: .92rem; }
+.hb.ss .ss-printables h2, .hb.ss .ss-others h2 { font-size: 1.05rem; margin: 0 0 10px; font-weight: 800; }
+.hb.ss .ss-printable-links { display: flex; flex-wrap: wrap; gap: 10px; }
+.hb.ss .ss-printables .ss-printable-links a { background: var(--hv-green); color: #fff; font-family: var(--font-display), sans-serif; font-weight: 800; padding: 11px 20px; border-radius: 999px; text-decoration: none; box-shadow: 0 3px 0 var(--hv-green-dark); }
+.hb.ss .ss-printables .ss-printable-links a:hover { background: var(--hv-green-dark); }
+.hb.ss .ss-others { margin-top: 56px; padding-top: 28px; border-top: 1px solid var(--hb-line); }
+.hb.ss .ss-others a { background: #fff; border: 1.5px solid var(--hb-line); color: var(--hv-ink); font-weight: 700; padding: 8px 16px; border-radius: 999px; text-decoration: none; }
+.hb.ss .ss-others a:hover { border-color: var(--hv-green); color: var(--hv-green-dark); }
+.hb.ss .blog-breadcrumb-sep { color: #9aa8b6; }
+@media (max-width: 560px) { .hb.ss .ss-printables .ss-printable-links a { width: 100%; text-align: center; } }
+.ss .ss-signup { max-width: 760px; margin: 0 auto 8px; }

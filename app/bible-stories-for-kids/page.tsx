@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
 import './stories.css'
+import './stories-v3.css'
 
 import { V2Shell } from '@/app/v2-shell'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
@@ -203,7 +204,7 @@ function BibleStoriesV2() {
 
       <SiteNav active="stories" />
 
-      <main id="main-content">
+      <main id="main-content" className="sv3">
 
       <section className="hv-hero sv-hero">
         <img className="hv-hero-art"
@@ -278,11 +279,17 @@ function BibleStoriesV2() {
                 {count} stories across {entries.length} series, in the order they happened.
               </p>
             </div>
+            {/* Jump straight to a series (Nov 17, 2026 redesign). */}
+            <nav className="sv3-series-nav" aria-label={`${testament} series`}>
+              {entries.map(([series, { slug }]) => (
+                <a key={slug} href={`#series-${slug}`}>{seriesLabel(slug, series)}</a>
+              ))}
+            </nav>
             <div className="sv-series-grid">
               {entries.map(([series, { slug, items }]) => {
                 const name = seriesLabel(slug, series)
                 return (
-                  <article key={slug} className="sv-series">
+                  <article key={slug} id={`series-${slug}`} className="sv-series">
                     <a className="sv-series-art" href={`/blog/series/${slug}`}>
                       <img
                         src={hero(items[0].slug)}
@@ -310,6 +317,11 @@ function BibleStoriesV2() {
                         <li key={p.slug}><a href={`/blog/${p.slug}`}>{clean(p.title)}</a></li>
                       ))}
                     </ol>
+                    {/* Phones show the first four stories and this link, so
+                        twenty ten-story lists do not make a 16,000px page. */}
+                    <a className="sv3-more" href={`/blog/series/${slug}`}>
+                      All {items.length} {name} stories &rarr;
+                    </a>
                   </article>
                 )
               })}

@@ -11,6 +11,10 @@ const nextConfig = {
     // tracer has to be told the folder exists, exactly like the contracts.
     '/api/parenting/admin': ['./content/parenting/**/*'],
     '/parenting/preview/[slug]': ['./content/parenting/**/*'],
+    // The holiday pages revalidate every six hours so the next season moves
+    // to the front on its own; a revalidation re-reads the blog posts.
+    '/holidays': ['./content/blog/**/*'],
+    '/holidays/[slug]': ['./content/blog/**/*'],
   },
   // PostHog reverse proxy — routes analytics through our domain so ad
   // blockers don't drop events (PostHog "Set up reverse proxy" health check)

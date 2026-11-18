@@ -17,7 +17,7 @@ const RESEND_KEY = process.env.RESEND_API_KEY
 const TEAM_FROM = `Faithful Kids <${process.env.RESEND_FROM_EMAIL || 'team@faithfulkids.app'}>`
 // Shows as the brand; replies still go to the editor's inbox via replyTo.
 const CHRISTIAN_FROM = TEAM_FROM
-export const EDITOR_INBOX = 'christian@faithfulkids.app'
+export const EDITOR_INBOX = 'team@faithfulkids.app'
 
 // PARENTING_EMAIL_LIVE=0 is a hard off switch for local production-mode test
 // runs (`next start` sets NODE_ENV=production, which would otherwise send).

@@ -1,8 +1,11 @@
 import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import PrintButton from '../PrintButton'
 import PdfDownloadLink from '../PdfDownloadLink'
+import { PrintableCta } from '../PrintableCta'
+import printableVideos from '@/lib/printable-videos.json'
 import { EmailCaptureCard } from '../../blog/EmailCaptureCard'
 import jesseTree from '@/lib/jesse-tree.json'
+import '../printable-page.css'
 
 const EMERALD = '#16a34a'
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/jesse-tree'
@@ -57,62 +60,71 @@ export default function JesseTreePage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <SiteNav active="printables" />
 
-      <main style={{ maxWidth: 900, margin: '0 auto', padding: '24px' }}>
-        <div className="no-print" style={{ textAlign: 'right', marginBottom: '0.75rem' }}>
-          <PrintButton />
-        </div>
-
-        <header style={{ borderBottom: `3px solid ${EMERALD}`, paddingBottom: '1rem', marginBottom: '1.5rem' }}>
-          <div className="print-brand" style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '0.75rem' }}>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/logo-sm.png" alt="Faithful Kids logo" width={36} height={36} style={{ display: 'block' }} />
-            <span style={{ fontSize: '1.05rem', fontWeight: 700, color: EMERALD }}>Faithful Kids</span>
+      <main className="pp">
+        <header className="pp-head">
+          <div>
+            <div className="print-brand" style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '0.75rem' }}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/logo-sm.png" alt="Faithful Kids logo" width={36} height={36} style={{ display: 'block' }} />
+              <span style={{ fontSize: '1.05rem', fontWeight: 700, color: EMERALD }}>Faithful Kids</span>
+            </div>
+            <p className="pp-eyebrow no-print" aria-hidden="true">Free Advent printable</p>
+            <h1 className="pp-h1">Printable Jesse Tree Ornaments &amp; Readings</h1>
+            <p className="pp-lede">
+              A free Jesse Tree set for Advent: <strong>25 ornaments to color</strong> one for each
+              day from December 1 to 25, each with its <strong>daily Scripture reading</strong>, so
+              your family walks the whole Bible story from Creation to the manger, a few minutes a
+              day. Print it, color it, hang it.
+            </p>
+            {/* Download and Print side by side: the print button used to float
+                alone above the title, away from the thing it prints. */}
+            <div className="pp-actions no-print">
+              <PrintButton
+                align="start"
+                pdf={{ href: 'https://faithfulkids.app/printables/jesse-tree.pdf', printable: 'jesse-tree', label: 'Download the free Jesse Tree PDF' }}
+              />
+              <p className="pp-actions-note">All 25 ornaments + the readings plan in one file</p>
+            </div>
           </div>
-          <h1 style={{ fontSize: '1.9rem', fontWeight: 800, margin: 0, letterSpacing: '-0.02em' }}>
-            Printable Jesse Tree Ornaments &amp; Readings
-          </h1>
-          <p style={{ margin: '0.5rem 0 0', color: '#4b5563', fontSize: '1.02rem', lineHeight: 1.6 }}>
-            A free Jesse Tree set for Advent: <strong>25 ornaments to color</strong> one for each
-            day from December 1 to 25, each with its <strong>daily Scripture reading</strong>, so
-            your family walks the whole Bible story from Creation to the manger, a few minutes a
-            day. Print it, color it, hang it.
-          </p>
-          <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <PdfDownloadLink
-              href="https://faithfulkids.app/printables/jesse-tree.pdf"
-              printable="jesse-tree"
-              style={{ display: 'inline-block', background: EMERALD, color: '#fff', fontWeight: 700, padding: '12px 22px', borderRadius: 12, textDecoration: 'none', boxShadow: '0 4px 0 #15803d' }}
-            >
-              Download the free Jesse Tree PDF &rarr;
-            </PdfDownloadLink>
-            <span style={{ display: 'inline-block', marginLeft: 12, color: '#6b7280', fontSize: '0.9rem' }}>
-              All 25 ornaments + the readings plan in one file
-            </span>
-          </p>
+          <PdfDownloadLink className="pp-hero-art no-print pp-coverlink" href="https://faithfulkids.app/printables/jesse-tree.pdf" printable="jesse-tree">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="https://d3g07v1w0lehiv.cloudfront.net/hub-thumbs/heroes/jesse-tree-1200.webp"
+              srcSet="https://d3g07v1w0lehiv.cloudfront.net/hub-thumbs/heroes/jesse-tree-720.webp 720w, https://d3g07v1w0lehiv.cloudfront.net/hub-thumbs/heroes/jesse-tree-1200.webp 1200w"
+              sizes="(min-width: 900px) 540px, 100vw"
+              alt="Children hanging hand-colored ornaments on a small Jesse Tree branch beside a lit candle"
+              width={1200} height={800} fetchPriority="high"
+            />
+          </PdfDownloadLink>
         </header>
 
-        {/* Readings table — HTML on purpose: crawlable, screen-readable, printable */}
-        <section style={{ marginBottom: '2rem' }}>
-          <h2 style={{ fontSize: '1.4rem', fontWeight: 800, letterSpacing: '-0.01em' }}>
-            The 25 Days: Symbols &amp; Readings
-          </h2>
-          <div style={{ overflowX: 'auto' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.95rem' }}>
+        {/* Readings table — HTML on purpose: crawlable, screen-readable, printable.
+            On screen it renders as a calendar list with each day's ornament;
+            in print it is the same plain table it always was. */}
+        <section className="pp-section">
+          <h2 className="pp-h2">The 25 Days: Symbols &amp; Readings</h2>
+          <div className="pp-tablewrap">
+            <table className="pp-table has-thumbs">
               <thead>
-                <tr style={{ background: '#f0fdf4', textAlign: 'left' }}>
-                  <th style={{ padding: '8px 10px' }}>Day</th>
-                  <th style={{ padding: '8px 10px' }}>Ornament</th>
-                  <th style={{ padding: '8px 10px' }}>Reading</th>
-                  <th style={{ padding: '8px 10px' }}>The story in one line</th>
+                <tr>
+                  <th>Day</th>
+                  <th className="pp-thumb no-print" aria-hidden="true"></th>
+                  <th>Ornament</th>
+                  <th>Reading</th>
+                  <th>The story in one line</th>
                 </tr>
               </thead>
               <tbody>
                 {days.map(d => (
-                  <tr key={d.day} style={{ borderBottom: '1px solid #e5e7eb' }}>
-                    <td style={{ padding: '8px 10px', fontWeight: 700, color: EMERALD }}>Dec {d.day}</td>
-                    <td style={{ padding: '8px 10px', fontWeight: 600 }}>{d.title}</td>
-                    <td style={{ padding: '8px 10px', whiteSpace: 'nowrap' }}>{d.scripture}</td>
-                    <td style={{ padding: '8px 10px', color: '#4b5563' }}>{d.summary}</td>
+                  <tr key={d.day}>
+                    <td className="pp-day">Dec <b>{d.day}</b></td>
+                    <td className="pp-thumb no-print" aria-hidden="true">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img src={`${CDN}/${d.slug}.png`} alt="" width={64} height={64} loading="lazy" decoding="async" />
+                    </td>
+                    <td className="pp-title">{d.title}</td>
+                    <td className="pp-ref">{d.scripture}</td>
+                    <td className="pp-sum">{d.summary}</td>
                   </tr>
                 ))}
               </tbody>
@@ -121,18 +133,16 @@ export default function JesseTreePage() {
         </section>
 
         {/* Ornament grid */}
-        <section style={{ marginBottom: '2rem' }}>
-          <h2 style={{ fontSize: '1.4rem', fontWeight: 800, letterSpacing: '-0.01em' }}>
-            The Ornaments, Ready to Color
-          </h2>
-          <p style={{ color: '#4b5563', lineHeight: 1.6 }}>
+        <section className="pp-section">
+          <h2 className="pp-h2">The Ornaments, Ready to Color</h2>
+          <p className="pp-muted">
             Each ornament is drawn as simple line art so kids can color it before it goes on the
             tree. Print straight from this page, or grab the PDF above for all 25 on clean sheets
             with the readings included.
           </p>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))', gap: 12 }}>
+          <div className="pp-ornaments">
             {days.map(d => (
-              <figure key={d.slug} style={{ margin: 0, textAlign: 'center' }}>
+              <figure key={d.slug}>
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={`${CDN}/${d.slug}.png`}
@@ -140,9 +150,8 @@ export default function JesseTreePage() {
                   width={512}
                   height={512}
                   loading="lazy"
-                  style={{ width: '100%', height: 'auto', border: '1px solid #e5e7eb', borderRadius: 12 }}
                 />
-                <figcaption style={{ fontSize: '0.8rem', color: '#6b7280', marginTop: 4 }}>
+                <figcaption>
                   Dec {d.day} &middot; {d.title}
                 </figcaption>
               </figure>
@@ -152,7 +161,7 @@ export default function JesseTreePage() {
 
         {/* Advent-kit email capture: the printable above stays ungated; this
             offers the companion nightly reading plan by email */}
-        <section className="no-print" style={{ margin: '0 0 2rem' }}>
+        <section className="no-print pp-capture" style={{ margin: '0 0 2rem' }}>
           <EmailCaptureCard
             magnet="advent"
             source="blog-inline"
@@ -163,35 +172,47 @@ export default function JesseTreePage() {
         </section>
 
         {/* FAQ */}
-        <section style={{ marginBottom: '2rem' }}>
-          <h2 style={{ fontSize: '1.4rem', fontWeight: 800, letterSpacing: '-0.01em' }}>Jesse Tree Questions</h2>
-          {faqs.map(f => (
-            <div key={f.q} style={{ marginBottom: '1rem' }}>
-              <h3 style={{ fontSize: '1.05rem', fontWeight: 700, margin: '0 0 4px' }}>{f.q}</h3>
-              <p style={{ margin: 0, color: '#4b5563', lineHeight: 1.65 }}>{f.a}</p>
-            </div>
-          ))}
+        <section className="pp-section pp-faq">
+          <h2 className="pp-h2">Jesse Tree Questions</h2>
+          <div>
+            {faqs.map(f => (
+              <div key={f.q} className="pp-faq-item">
+                <h3>{f.q}</h3>
+                <p>{f.a}</p>
+              </div>
+            ))}
+          </div>
         </section>
 
         {/* Cross-links + offer */}
-        <section className="no-print" style={{ borderTop: `2px solid ${EMERALD}`, paddingTop: '1.25rem', marginBottom: '2.5rem' }}>
-          <p style={{ color: '#4b5563', lineHeight: 1.65 }}>
+        <section className="no-print pp-more">
+          <p>
             More free Advent and Christmas resources: our printable{' '}
-            <a href="/printables/advent-bible-calendar" style={{ color: EMERALD, fontWeight: 700 }}>Advent Bible reading calendar</a>,{' '}
-            <a href="/printables/christmas-coloring-pages" style={{ color: EMERALD, fontWeight: 700 }}>Christmas coloring pages</a>, the{' '}
-            <a href="/printables/bible-word-search/christmas" style={{ color: EMERALD, fontWeight: 700 }}>Christmas word search</a>, and{' '}
-            <a href="/blog/christmas-bible-trivia" style={{ color: EMERALD, fontWeight: 700 }}>80 Christmas Bible trivia questions</a>.
+            <a href="/printables/advent-bible-calendar">Advent Bible reading calendar</a>,{' '}
+            <a href="/printables/christmas-coloring-pages">Christmas coloring pages</a>, the{' '}
+            <a href="/printables/bible-word-search/christmas">Christmas word search</a>, and{' '}
+            <a href="/blog/christmas-bible-trivia">80 Christmas Bible trivia questions</a>.
           </p>
-          <p style={{ color: '#4b5563', lineHeight: 1.65 }}>
+          <p>
             And when the ornament is hung and the reading is done, the same story exists as a video
             your kids will ask for: Faithful Kids tells the whole Bible in 300+ short video lessons
             with a quiz after every story.{' '}
-            <a href="/quiz" style={{ color: EMERALD, fontWeight: 700 }}>Start your free trial</a>
+            <a href="/quiz">Start your free trial</a>
             {' '}&middot; churches and Sunday schools get it{' '}
-            <a href="/churches" style={{ color: EMERALD, fontWeight: 700 }}>free</a>.
+            <a href="/churches">free</a>.
           </p>
         </section>
       </main>
+
+      {/* Owner request, Nov 17, 2026: the same "try Faithful Kids" close the
+          other printables carry. Screen only (PrintableCta is no-print). */}
+      <PrintableCta
+        {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>).christmas}
+        duration={(printableVideos as Record<string, { duration: string | null }>).christmas.duration ?? undefined}
+        heading="Every ornament is a story. Now let them watch it."
+        body="Faithful Kids tells the whole Bible, Creation to the manger and beyond, in 300+ short video lessons, about two minutes each, with a quiz after every story so you can see what your child took in. Here is the manger, the last ornament on the tree."
+        source="jesse-tree"
+      />
 
       <SiteFooter />
     </>

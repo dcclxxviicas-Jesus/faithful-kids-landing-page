@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { SiteNav, SiteFooter } from '../../../components/SiteChrome'
 import PrintButton from '../../PrintButton'
+import PdfDownloadLink from '../../PdfDownloadLink'
 import puzzles from '@/lib/word-searches.json'
 import crosswords from '@/lib/crosswords.json'
 import { WordSearchGame } from '../WordSearchGame'
@@ -10,6 +11,7 @@ import printableVideos from '@/lib/printable-videos.json'
 import { EmailCaptureCard } from '../../../blog/EmailCaptureCard'
 import { WORDSEARCH_TO_COLORING, WORDSEARCH_STORY } from '@/lib/printable-pairs'
 import { getColoringPage } from '@/lib/coloring-pages'
+import './ws-detail.css'
 
 type Puzzle = (typeof puzzles)[number]
 
@@ -110,7 +112,7 @@ export default async function WordSearchPuzzle(
         </p>
       </section>
 
-      <div className="ws-hero no-print">
+      <PdfDownloadLink className="ws-hero no-print pp-coverlink" href={`/printables/bible-word-search/${p.slug}.pdf`} printable={`bible-word-search/${p.slug}`}>
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={`https://d3g07v1w0lehiv.cloudfront.net/wordsearch-images/${p.slug}.png`}
@@ -118,7 +120,7 @@ export default async function WordSearchPuzzle(
           width={1536}
           height={1024}
         />
-      </div>
+      </PdfDownloadLink>
 
       <div className="ws-sheet">
         <h2 className="ws-sheet-title">{base} Word Search</h2>

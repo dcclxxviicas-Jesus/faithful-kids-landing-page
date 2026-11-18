@@ -71,7 +71,7 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'This agreement was withdrawn.' }, { status: 409 })
   }
   if (new Date(row.expires_at) < new Date()) {
-    return NextResponse.json({ error: 'This link has expired. Email christian@faithfulkids.app for a new one.' }, { status: 410 })
+    return NextResponse.json({ error: 'This link has expired. Email team@faithfulkids.app for a new one.' }, { status: 410 })
   }
 
   const signedAt = new Date()
@@ -84,7 +84,7 @@ export async function POST(req: NextRequest) {
     consent_electronic: true,
   })
   if (!updated) {
-    return NextResponse.json({ error: 'Could not record the signature. Please email christian@faithfulkids.app.' }, { status: 500 })
+    return NextResponse.json({ error: 'Could not record the signature. Please email team@faithfulkids.app.' }, { status: 500 })
   }
 
   const link = `${SITE_URL}/sign/${row.token}`
@@ -109,7 +109,7 @@ export async function POST(req: NextRequest) {
       })
     ),
     sendMail(
-      'christian@faithfulkids.app',
+      'team@faithfulkids.app',
       `Signed: ${row.talent_name}${row.signer_capacity ? ` (via ${row.signer_name})` : ''}`,
       executedEmail({
         heading: `${row.talent_name} signed`,

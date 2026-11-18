@@ -1,0 +1,11 @@
+/* /printables/bible-word-search/[slug], Nov 2026: the picture becomes a slim
+   banner so the puzzle starts on the first screen. Screen only (the picture
+   was already .no-print). */
+@media screen {
+  .ws-hero { max-width: 760px; margin-bottom: 18px; }
+  .ws-hero img { aspect-ratio: 16 / 5; object-fit: cover; object-position: center 40%; border-radius: 18px; }
+}
+@media screen and (max-width: 600px) {
+  .ws-hero { margin-bottom: 12px; padding: 0 16px; }
+  .ws-hero img { aspect-ratio: 16 / 6; border-radius: 14px; }
+}

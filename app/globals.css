@@ -4552,3 +4552,11 @@ a.asset-card:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(3
    badge stays 36px rather than shrinking for no gain. Pre-existing, cosmetic
    (it wraps, nothing overflows or is cut off), and a vanishing share of
    traffic — iPhone SE 1st gen and comparable Androids. */
+
+/* Printable header pictures are links to the PDF (owner request, Nov 17,
+   2026): a click opens the email gate once, then the file. Screen only. */
+a.pp-coverlink { display: block; color: inherit; text-decoration: none; }
+@media screen {
+  a.pp-coverlink { cursor: pointer; transition: transform .15s ease, box-shadow .15s ease; }
+  a.pp-coverlink:hover { transform: translateY(-2px); }
+}

@@ -77,9 +77,6 @@ export default function BibleTimelinePage() {
       <div className="no-print"><SiteNav active="printables" /></div>
 
       <main className="bm-wrap">
-        <div className="no-print" style={{ textAlign: 'right', marginBottom: '0.5rem' }}>
-          <PrintButton />
-        </div>
         <nav className="bm-crumb no-print">
           <a href="/printables">Printables</a>
           <span>›</span>
@@ -93,10 +90,8 @@ export default function BibleTimelinePage() {
             which books of the Bible each era lives in. Honest about dates: firm where history is
             firm, &ldquo;c.&rdquo; where it isn&rsquo;t, and silent where the Bible is silent.
           </p>
-          <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <PdfDownloadLink className="bm-dl" href="https://faithfulkids.app/printables/bible-timeline.pdf" printable="bible-timeline">
-              Download the free PDF &rarr;
-            </PdfDownloadLink>
+          <p className="no-print" style={{ margin: '0.9rem 0 0', display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '0.6rem' }}>
+            <PrintButton align="start" pdf={{ href: 'https://faithfulkids.app/printables/bible-timeline.pdf', printable: 'bible-timeline', label: 'Download the free PDF' }} />
             <span className="bm-dl-note">One-sheet wall chart, Letter size</span>
           </p>
         </header>

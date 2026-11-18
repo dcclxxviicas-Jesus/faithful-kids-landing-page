@@ -221,9 +221,6 @@ export default async function BibleMapPage(
       <div className="no-print"><SiteNav active="printables" /></div>
 
       <main className="bm-wrap">
-        <div className="no-print" style={{ textAlign: 'right', marginBottom: '0.5rem' }}>
-          <PrintButton />
-        </div>
         <nav className="bm-crumb no-print">
           <a href="/printables">Printables</a>
           <span>›</span>
@@ -231,15 +228,13 @@ export default async function BibleMapPage(
         </nav>
 
         <header className="bm-head">
-          <h1>{m.title}Printable Bible Map</h1>
+          <h1>{m.title}: Printable Bible Map</h1>
           <p className="bm-sub">
             {m.intro} <strong>{m.places.length} labeled places</strong> · {m.scripture} · free to
             print for your family, class, or church group.
           </p>
-          <p className="no-print" style={{ margin: '0.9rem 0 0' }}>
-            <PdfDownloadLink className="bm-dl" href={`https://faithfulkids.app/printables/bible-maps/${m.slug}.pdf`} printable={`bible-maps/${m.slug}`}>
-              Download the free PDF &rarr;
-            </PdfDownloadLink>
+          <p className="no-print" style={{ margin: '0.9rem 0 0', display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '0.6rem' }}>
+            <PrintButton align="start" pdf={{ href: `https://faithfulkids.app/printables/bible-maps/${m.slug}.pdf`, printable: `bible-maps/${m.slug}`, label: 'Download the free PDF' }} />
             <span className="bm-dl-note">Letter size · prints on one sheet</span>
           </p>
         </header>

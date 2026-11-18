@@ -70,7 +70,7 @@ export function StudyPage({ s, lede, cap, stats, children }: {
             <a className="hv-cta" href="/quiz" data-testid="rs-cta"><span className="hv-cta-play" aria-hidden="true" />Get started</a>
           </section>
           <section className="v2-section" style={{ paddingTop: 36, paddingBottom: 44 }}>
-            <p className="rs-soft">Part of <a href="/research">Faithful Kids Research</a>, which studies how people actually learn the Bible. Figures may be reused with attribution (CC BY 4.0). Questions or corrections: <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>.</p>
+            <p className="rs-soft">Part of <a href="/research">Faithful Kids Research</a>, which studies how people actually learn the Bible. Figures may be reused with attribution (CC BY 4.0). Questions or corrections: <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>.</p>
           </section>
         </main>
         <SiteFooter />

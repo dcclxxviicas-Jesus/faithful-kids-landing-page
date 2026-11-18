@@ -350,7 +350,7 @@ export async function sendMail(to: string, subject: string, html: string): Promi
     // correspond with. Never a new domain or subdomain: the pool is cautious
     // enough that people email to check an invitation is genuine.
     body: JSON.stringify({
-      from: 'Christian Alexander <christian@faithfulkids.app>',
+      from: 'Faithful Kids <team@faithfulkids.app>',
       to: [to],
       subject,
       html,

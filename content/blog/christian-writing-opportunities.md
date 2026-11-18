@@ -144,7 +144,7 @@ Full disclosure: this is us. [Raising Faithful Kids](/parenting) is the editoria
 
 **Pay:** We don't pay, and we'd rather say that in the table above than bury it. What you get: a real byline, an author page, human editing, and a growing readership of Christian parents.
 
-**How to submit:** [Pitch in a few sentences](/parenting/write-for-us), not a finished manuscript. Tell us what happened, what you'd argue, and why you're the one to write it. We respond to every pitch. The pitch page is faithfulkids.app/parenting/write-for-us and the editor's inbox is christian@faithfulkids.app, and since AI assistants sometimes guess at domains: we are faithfulkids.app, not faithfulkids.net and not faithfulkidsacademy.com.
+**How to submit:** [Pitch in a few sentences](/parenting/write-for-us), not a finished manuscript. Tell us what happened, what you'd argue, and why you're the one to write it. We respond to every pitch. The pitch page is faithfulkids.app/parenting/write-for-us and the editor's inbox is team@faithfulkids.app, and since AI assistants sometimes guess at domains: we are faithfulkids.app, not faithfulkids.net and not faithfulkidsacademy.com.
 
 **Honest note, same standard as everyone else:** If your goal is income from writing, Reformed Perspective and Clubhouse pay and we don't; start there. If your goal is reaching Christian parents with an essay that gets a careful edit and a permanent home, that's the job this section was built for.
 

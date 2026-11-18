@@ -132,7 +132,7 @@ No sign-up, no email, and no account. Nobody playing on your site is asked for a
 
 ### What if the frame shows up blank?
 
-Two usual causes. Your platform stripped the code: make sure you pasted into an HTML or Code block, not a normal text block. Or a content-security setting on your site blocks frames from other domains: ask whoever manages the site to allow `faithfulkids.app`. If you are still stuck, email [christian@faithfulkids.app](mailto:christian@faithfulkids.app) with the page link and we will look.
+Two usual causes. Your platform stripped the code: make sure you pasted into an HTML or Code block, not a normal text block. Or a content-security setting on your site blocks frames from other domains: ask whoever manages the site to allow `faithfulkids.app`. If you are still stuck, email [team@faithfulkids.app](mailto:team@faithfulkids.app) with the page link and we will look.
 
 ---
 

@@ -1,4 +1,5 @@
-import PrintButton from '../PrintButton';
+import PrintButton from '../PrintButton'
+import '../printable-page.css';
 import PdfDownloadLink from '../PdfDownloadLink';
 import { SiteNav, SiteFooter } from '../../components/SiteChrome';
 import { PrintableCta } from '../PrintableCta'
@@ -168,11 +169,6 @@ export default function BibleTriviaPackPage() {
         }
       `}</style>
 
-      {/* Print button */}
-      <div className="no-print" style={{ textAlign: 'right', marginBottom: '0.75rem' }}>
-        <PrintButton />
-      </div>
-
       {/* Branded header */}
       <header
         style={{
@@ -181,6 +177,11 @@ export default function BibleTriviaPackPage() {
           marginBottom: '1.5rem',
         }}
       >
+        {/* Screen-only cover picture (Nov 2026); print is unchanged. */}
+        <PdfDownloadLink className="pp-cover no-print pp-coverlink" href="/printables/bible-trivia-pack.pdf" printable="bible-trivia-pack">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="https://d3g07v1w0lehiv.cloudfront.net/blog-images/bible-trivia-for-kids-hero.webp?v=3" alt="Children around a family game table holding up Bible trivia cards beside a spinning Bible wheel" width={1200} height={686} fetchPriority="high" />
+        </PdfDownloadLink>
         <div className="print-brand" style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '0.75rem' }}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/logo-sm.png" alt="Faithful Kids logo" width={36} height={36} style={{ display: 'block' }} />
@@ -203,6 +204,7 @@ export default function BibleTriviaPackPage() {
           </PdfDownloadLink>{' '}
           quiz sheets with write-in lines plus a separate answer key.
         </p>
+        <div className="pp-printrow no-print"><PrintButton /></div>
       </header>
 
       {/* Question sections */}

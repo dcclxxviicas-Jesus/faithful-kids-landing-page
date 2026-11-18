@@ -101,7 +101,7 @@ export default function EditorialPolicyPage() {
             When we get something wrong we fix it in the article and add a dated correction note at the end
             saying what changed. Significant updates to a published piece are noted the same way; the Updated
             date is changed only for substantive edits. To report an error, email
-            {' '}<a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>. A contributor may ask
+            {' '}<a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>. A contributor may ask
             for their piece to be amended or withdrawn; we will discuss it with them and act promptly on
             reasonable requests.
           </p>
@@ -116,7 +116,7 @@ export default function EditorialPolicyPage() {
           <h2>Editor of record</h2>
           <p>
             <a href="/about/christian-alexander">Christian Alexander</a>, founder of Faithful Kids. Questions
-            about this policy go to <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>.
+            about this policy go to <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>.
           </p>
         </div>
         <div className="pt-footgap" />

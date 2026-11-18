@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
+import StoreRow from './StoreRow'
 import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 export const metadata: Metadata = {
@@ -132,7 +133,7 @@ const FAQS = [
   },
   {
     q: 'Is there a money-back guarantee?',
-    a: 'Yes. Both web plans carry a 30-day money-back guarantee: if your kids do not love it, email christian@faithfulkids.app within 30 days and you are refunded in full. In-app refunds are handled by the store, Apple or Google Play, through its own refund process.',
+    a: 'Yes. Both web plans carry a 30-day money-back guarantee: if your kids do not love it, email team@faithfulkids.app within 30 days and you are refunded in full. In-app refunds are handled by the store, Apple or Google Play, through its own refund process.',
   },
   {
     q: 'Can my child buy anything inside the app?',
@@ -148,7 +149,7 @@ const FAQS = [
   },
   {
     q: 'How do I cancel?',
-    a: 'Web plans: from the parent dashboard, or by emailing christian@faithfulkids.app; cancelling stops the next charge and access continues to the end of the paid period. iOS plans: Settings → your name → Subscriptions on your iPhone or iPad. Android plans: the Google Play app → your profile picture → Payments and subscriptions → Subscriptions.',
+    a: 'Web plans: from the parent dashboard, or by emailing team@faithfulkids.app; cancelling stops the next charge and access continues to the end of the paid period. iOS plans: Settings → your name → Subscriptions on your iPhone or iPad. Android plans: the Google Play app → your profile picture → Payments and subscriptions → Subscriptions.',
   },
   {
     q: 'Are prices the same everywhere?',
@@ -194,7 +195,7 @@ function PricingV2() {
 
       <section className="v2-section">
         <div className="v2-wrap is-narrow v2-body">
-          <p className="v2-note">
+          <p>
             Faithful Kids costs <strong>$12.99 a month or $97 a year on the web</strong>, and{' '}
             <strong>$8.99 a month or $79.99 a year in the app</strong>, the same price on iPhone,
             iPad and Android. The annual plan has a free trial: <strong>7 days on the web, 3 days
@@ -213,11 +214,15 @@ platform you buy on, Stripe, or the app store, not your region. It is{' '}
             <div className="pr-plan">
               <h3 className="pr-head">Monthly: <span className="pr-amt">$12.99</span> per month</h3>
               <p>No trial. Cancel anytime. 30-day money-back guarantee.</p>
+              {/* Straight to checkout with this plan selected (owner, Nov 17,
+                  2026); /checkout honours ?plan= in a layout effect. */}
+              <a className="hv-cta pr-go" href="/checkout?plan=monthly">Choose monthly &rarr;</a>
             </div>
             <div className="pr-plan is-best">
               <span className="hv-tag">7-day free trial</span>
               <h3 className="pr-head">Annual: <span className="pr-amt">$97</span> per year (about $8.08 per month)</h3>
               <p>7-day free trial, no charge if you cancel during it. Then $97 per year. Cancel anytime. 30-day money-back guarantee.</p>
+              <a className="hv-cta pr-go" href="/checkout?plan=annual">Start the 7-day free trial &rarr;</a>
             </div>
           </div>
         </div>
@@ -238,6 +243,7 @@ platform you buy on, Stripe, or the app store, not your region. It is{' '}
               <p>3-day free trial through Apple or Google Play, then $79.99 per year. Managed and cancelled in your Apple or Google Play subscriptions.</p>
             </div>
           </div>
+          <StoreRow />
         </div>
       </section>
 

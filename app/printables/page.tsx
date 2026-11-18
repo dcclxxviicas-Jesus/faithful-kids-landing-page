@@ -1,9 +1,11 @@
 import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
+import '../hub.css'
 
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
-import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
+import { V2Shell, V2Hero } from '@/app/v2-shell'
+import { HubHead } from '@/app/hub-ui'
 import { PrintableCta } from '@/app/printables/PrintableCta'
 import printableVideos from '@/lib/printable-videos.json'
 
@@ -14,7 +16,6 @@ export const metadata: Metadata = {
   alternates: { canonical: 'https://faithfulkids.app/printables' },
 }
 
-const g = { color: 'var(--hv-green-dark)', fontWeight: 800 }
 
 /* The ten packs, copied verbatim from app/printables/page.tsx — every href,
    title, description and detail line unchanged. */
@@ -141,13 +142,65 @@ const PACKS = [
   },
 ]
 
+/* A picture of every pack. The art is each printable's own (its og:image or
+   the illustration its page already uses), cut down to 720px for the grid:
+   the originals run 1-3.5MB each, which is 25MB for one page of cards. */
+const THUMB = (slug: string) => `https://d3g07v1w0lehiv.cloudfront.net/hub-thumbs/printables/${slug}.webp`
+const slugOf = (href: string) => href.replace('/printables/', '')
+
+/* Grouped by what a parent or teacher is looking for, rather than one long
+   grid of fifteen identical boxes. Every pack appears exactly once; the
+   season group leads while it is the season. */
+const GROUPS: { id: string; title: string; note: string; hrefs: string[] }[] = [
+  { id: 'advent-christmas', title: 'Advent & Christmas', note: 'Count down to Christmas with the whole story.',
+    hrefs: ['/printables/jesse-tree', '/printables/advent-bible-calendar', '/printables/christmas-coloring-pages', '/printables/advent-readings'] },
+  { id: 'puzzles', title: 'Puzzles & trivia', note: 'Word searches, crosswords and quiz questions, all with answer keys.',
+    hrefs: ['/printables/bible-word-search', '/printables/bible-crossword', '/printables/bible-trivia-pack'] },
+  { id: 'coloring', title: 'Coloring pages & cards', note: 'Bold line art with room for thick crayons.',
+    hrefs: ['/printables/bible-coloring-pages', '/printables/easter-coloring-pages', '/printables/valentine-bible-verse-cards'] },
+  { id: 'maps-charts', title: 'Maps & wall charts', note: 'For the classroom wall or the front of a Bible.',
+    hrefs: ['/printables/bible-maps', '/printables/bible-timeline', '/printables/books-of-the-bible'] },
+  { id: 'family', title: 'Family Bible routines', note: 'A few minutes a day, at the table or at bedtime.',
+    hrefs: ['/printables/30-day-challenge', '/printables/bedtime-bible-kit'] },
+]
+const BY_HREF = Object.fromEntries(PACKS.map(p => [p.href, p]))
+if (GROUPS.flatMap(g => g.hrefs).sort().join() !== PACKS.map(p => p.href).sort().join()) {
+  throw new Error('printables: every pack must appear in exactly one group')
+}
+
+function Pack({ pack, lead = false }: { pack: (typeof PACKS)[number]; lead?: boolean }) {
+  return (
+    <a href={pack.href} className={`hb-item${lead ? ' is-lead' : ''}`}>
+      <span className="hb-thumb">
+        <img src={THUMB(slugOf(pack.href))} alt="" width={720} height={540}
+             loading={lead ? 'eager' : 'lazy'} decoding="async" />
+      </span>
+      <span className="hb-item-text">
+        <h3>{pack.title}</h3>
+        <p>{pack.description}</p>
+        <span className="hb-meta">{pack.details}</span>
+        <span className="hb-go">View &amp; print free &rarr;</span>
+      </span>
+    </a>
+  )
+}
+
+const JUMP_ICON: Record<string, string> = {
+  'advent-christmas': '🎄',
+  puzzles: '🧩',
+  coloring: '🖍️',
+  'maps-charts': '🗺️',
+  family: '🏡',
+}
+
 function PrintablesV2() {
   return (
     <>
       <SiteNav active="printables" />
 
-      <main id="main-content">
+      <main id="main-content" className="hb">
 
+      {/* Live header, kept by owner's call (Nov 17, 2026). */}
       <V2Hero
         art="printables"
         alt="A craft table with freshly printed Bible activity sheets fanned out, a jar of coloured pencils, crayons, scissors and paper stars"
@@ -158,68 +211,66 @@ function PrintablesV2() {
           for your family, class, or church group.</>}
       />
 
-      <section className="v2-section">
-        <div className="v2-wrap">
-          <div className="v2-grid is-3">
-            {PACKS.map(pack => (
-              <a key={pack.href} href={pack.href} className="v2-asset">
-                <div className="v2-ico" aria-hidden="true">{pack.emoji}</div>
-                <h3>{pack.title}</h3>
-                <p>{pack.description}</p>
-                <div className="v2-asset-meta">{pack.details}</div>
-                <span className="v2-asset-go">View &amp; print free &rarr;</span>
-              </a>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="v2-section is-alt">
-        <V2Head
-          eyebrow="Who Makes These?"
-          title="A gift from Faithful Kids"
-          sub={<>These printables are made by Faithful Kids, a Bible video learning app for kids
-            ages 7&ndash;15, short story episodes, quizzes, and reflections that make
-            Scripture stick. The printables are our gift to families either way. And if your kids
-            like trivia on paper, they&apos;ll love the{' '}
-            <a href="/bible-trivia" style={g}>free online trivia game</a>.</>}
-        />
-        <div className="v2-wrap is-narrow">
-          <div className="v2-card">
-            <div className="v2-ico" aria-hidden="true">🔗</div>
-            <h3>Bloggers, churches &amp; newsletters</h3>
-            <p>You&apos;re welcome to link to this page or any individual printable, and to use one
-              screenshot of each pack in a roundup. Questions? Email{' '}
-              <a href="mailto:team@faithfulkids.app" style={g}>team@faithfulkids.app</a>.</p>
-          </div>
-        </div>
-      </section>
-
-      <section className="hv-close">
-        <ul className="hv-chips">
-          <li><span aria-hidden="true">🎁</span>7-day free trial</li>
-          <li><span aria-hidden="true">🔓</span>Cancel anytime</li>
-          <li><span aria-hidden="true">🚫</span>Zero ads, ever</li>
+      {/* Clear pill buttons with a label above (owner, Nov 17, 2026). The
+          bare counts beside each name read as part of the label
+          ("Advent & Christmas4"), so they are gone. */}
+      <nav className="hb-jump is-pills" aria-label="Printables by type">
+        <p className="hb-jump-label">Jump to a section</p>
+        <ul>
+          {GROUPS.map(g => (
+            <li key={g.id}><a href={`#${g.id}`}><span aria-hidden="true">{JUMP_ICON[g.id] ?? '📄'}</span>{g.title}</a></li>
+          ))}
         </ul>
-        <h2>Want the stories behind the trivia?</h2>
-        <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '36em' }}>
-          Faithful Kids brings every one of these stories to life, 300+ short video episodes
-          with quizzes and reflections, Genesis to Revelation.
-        </p>
-        <a className="hv-cta" href="/quiz">
-          <span className="hv-cta-play" aria-hidden="true" />
-          Get started
-        </a>
+      </nav>
+
+      {GROUPS.map((g, gi) => (
+        <section key={g.id} id={g.id} className={`hb-section${gi === 0 ? '' : ' is-tight-top'}`}>
+          <div className="hb-wrap">
+            <HubHead title={g.title} sub={g.note} />
+            <div className="hb-shelf">
+              {g.hrefs.map((href, i) => (
+                <Pack key={href} pack={BY_HREF[href]} lead={gi === 0 && i === 0} />
+              ))}
+            </div>
+          </div>
+        </section>
+      ))}
+
+      <section className="hb-section">
+        <div className="hb-wrap hb-split">
+          <HubHead
+            eyebrow="Who Makes These?"
+            title="A gift from Faithful Kids"
+          />
+          <div>
+            <div className="hb-prose">
+              <p>These printables are made by Faithful Kids, a Bible video learning app for kids
+                ages 7&ndash;15, short story episodes, quizzes, and reflections that make
+                Scripture stick. The printables are our gift to families either way. And if your kids
+                like trivia on paper, they&apos;ll love the{' '}
+                <a href="/bible-trivia">free online trivia game</a>.</p>
+            </div>
+            <div className="hb-note" style={{ marginTop: 24 }}>
+              <h3>Bloggers, churches &amp; newsletters</h3>
+              <p>You&apos;re welcome to link to this page or any individual printable, and to use one
+                screenshot of each pack in a roundup. Questions? Email{' '}
+                <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>.</p>
+            </div>
+          </div>
+        </div>
       </section>
 
-      {/* Unchanged component, unchanged copy: this block plays the actual
-          episode beside the pitch and is the conversion path on every
-          printable page. */}
+
+      {/* The one closing pitch on this page: it plays a real episode beside
+          the words. Copy rewritten Nov 17, 2026 (owner: the old "Free is the
+          start, not the whole thing" made no sense to him); a second close
+          block that asked about "the stories behind the trivia" sat right
+          above it and was removed as a duplicate. */}
       <PrintableCta
         {...(printableVideos as Record<string, { videoSrc: string; posterSrc: string; videoTitle: string; duration: string | null }>)._default}
         duration={(printableVideos as Record<string, { duration: string | null }>)._default.duration ?? undefined}
-        heading="Free is the start, not the whole thing"
-        body="Every printable here comes from a story in the Faithful Kids library. The episodes tell it properly, a few minutes each, with a quiz afterwards so you can see what your child actually understood, across 200 stories in order."
+        heading="Every printable here is a story your kids can watch"
+        body="The coloring pages, puzzles and readings all come from the Faithful Kids library of short Bible video lessons. Print the sheet, then press play: a two-minute episode tells the story, and a quiz afterwards shows you what your child took in. 300+ episodes, Genesis to Revelation."
         source="printables-index"
       />
 

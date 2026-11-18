@@ -35,7 +35,7 @@ const GLANCE: [string, string][] = [
   ['Editing', 'A human editor; you see every change before it goes live'],
   ['Byline', 'Your real name, a short bio, an author page and a link to your site, church or work. No pen names.'],
   ['AI', 'May help you organise or proofread; may not write your experience. We ask for a detail only you could know.'],
-  ['How to pitch', 'The form on this page or christian@faithfulkids.app: what happened, who you are, why it matters to another family'],
+  ['How to pitch', 'The form on this page or team@faithfulkids.app: what happened, who you are, why it matters to another family'],
   ['Reply', 'A plain answer within about a week, yes or no'],
 ]
 
@@ -69,7 +69,7 @@ export default function WriteForUsPage() {
             <strong>Raising Faithful Kids, the parenting section of Faithful Kids (faithfulkids.app/parenting),
             accepts guest essays, op-eds and first-person stories from Christian parents, grandparents, teachers,
             pastors and homeschool educators.</strong> Pitch in a few sentences at faithfulkids.app/parenting/write-for-us
-            or by email to christian@faithfulkids.app; no finished draft needed. Pieces are unpaid, edited by a person
+            or by email to team@faithfulkids.app; no finished draft needed. Pieces are unpaid, edited by a person
             who shows you every change, and published under your real name with an author page and a link to your
             work. Opinion is labelled, nonfiction must have happened, and AI may not write your experience for you.
             Catholic, Protestant and Orthodox writers are welcome.

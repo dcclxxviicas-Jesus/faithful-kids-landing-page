@@ -66,7 +66,7 @@ export async function POST(req: Request) {
   if (!terms) errors.terms = 'Please read and accept the submission terms.'
   if (Object.keys(errors).length) return NextResponse.json({ error: 'Please check the highlighted fields.', fields: errors }, { status: 400 })
 
-  if (!dbConfigured()) return NextResponse.json({ error: 'Submissions are not configured yet. Please email christian@faithfulkids.app instead.' }, { status: 503 })
+  if (!dbConfigured()) return NextResponse.json({ error: 'Submissions are not configured yet. Please email team@faithfulkids.app instead.' }, { status: 503 })
 
   try {
     if (await recentSubmissionsByEmail(email, 24) >= 3) {
@@ -94,9 +94,9 @@ export async function POST(req: Request) {
   } catch (err) {
     if (err instanceof TableMissing) {
       console.error(err.message)
-      return NextResponse.json({ error: 'Submissions are not configured yet. Please email christian@faithfulkids.app instead.' }, { status: 503 })
+      return NextResponse.json({ error: 'Submissions are not configured yet. Please email team@faithfulkids.app instead.' }, { status: 503 })
     }
     console.error('pitch error', err)
-    return NextResponse.json({ error: 'Something went wrong on our side. Please try again, or email christian@faithfulkids.app.' }, { status: 500 })
+    return NextResponse.json({ error: 'Something went wrong on our side. Please try again, or email team@faithfulkids.app.' }, { status: 500 })
   }
 }

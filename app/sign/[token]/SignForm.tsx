@@ -31,7 +31,7 @@ export function SignForm({ token, signerName }: { token: string; signerName: str
       })
       const data = await res.json().catch(() => ({}))
       if (!res.ok) {
-        setError(data.error || 'Something went wrong. Please email christian@faithfulkids.app.')
+        setError(data.error || 'Something went wrong. Please email team@faithfulkids.app.')
         setBusy(false)
         return
       }

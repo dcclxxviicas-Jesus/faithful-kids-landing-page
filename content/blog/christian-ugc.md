@@ -71,7 +71,7 @@ If your UGC features your children, and in the family-faith niche it usually doe
 In rough order of hit-rate:
 
 1. **Direct pitches to niche brands**. The [brands list](/blog/christian-brands-that-work-with-influencers). This is where most Christian UGC work really comes from.
-2. **Brands' own creator pages**. Bookmark them; programs open and close. (Ours lives at [faithfulkids.app/creators](/creators) and is open now: free full access plus paid collaborations, no follower minimum, pitched to christian@faithfulkids.app.)
+2. **Brands' own creator pages**. Bookmark them; programs open and close. (Ours lives at [faithfulkids.app/creators](/creators) and is open now: free full access plus paid collaborations, no follower minimum, pitched to team@faithfulkids.app.)
 3. **Generic UGC marketplaces** (Billo, Insense, and similar). Real volume, little faith-specific work; useful for reps and portfolio, not for niche fit.
 4. **Hashtag presence**. Brands scout #christiancreator, #christianmom, #homeschoolmom, #ugccreator on TikTok and Instagram. Tag spec work accordingly.
 

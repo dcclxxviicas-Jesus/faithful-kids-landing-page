@@ -175,3 +175,8 @@
 @media (max-width: 560px) { .rs th { white-space: normal; } }
 .rs .rs-study-grid:not(.is-featured) .rs-study-art { flex: none; }
 .rs .rs-study-grid:not(.is-featured) .rs-study-body { flex: 1; }
+
+/* Hub section heads centred (owner, Nov 17, 2026). Study pages keep their
+   left-aligned finding heads; only the /research hub uses .is-center. */
+.rs .rs-finding-head.is-center { text-align: center; }
+.rs .rs-finding-head.is-center p { margin-left: auto; margin-right: auto; }

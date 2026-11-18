@@ -1,0 +1,26 @@
+/* /printables/bible-coloring-pages/[slug], screen only (Nov 2026).
+   Print is untouched: the print rules in globals.css show .cpd-sheet alone. */
+@media screen {
+  .cpd-top { max-width: 1140px; margin: 0 auto; padding: 32px 24px 0; display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); gap: 48px; align-items: start; }
+  .cpd-top .cpd-sheet { grid-column: 1; grid-row: 1; max-width: none; padding: 0; margin: 0; }
+  .cpd-top .cpd-sheet img { border-radius: 18px; box-shadow: 0 24px 60px -28px rgba(22,49,79,.4); }
+  .cpd-top .cpd-head { grid-column: 2; grid-row: 1; position: sticky; top: 96px; max-width: none; margin: 0; padding: 12px 0 0; text-align: left; }
+  .cpd-top .cpd-crumb { margin-bottom: 18px; }
+  .cpd-top .cpd-head h1 { font-size: clamp(2rem, 3.4vw, 2.8rem); line-height: 1.08; letter-spacing: -0.015em; margin-bottom: 10px; text-wrap: balance; }
+  .cpd-top .cpd-meta { display: inline-block; font-weight: 700; color: #15803d; background: #f0fdf4; border-radius: 999px; padding: 4px 14px; font-size: .9rem; margin: 0 0 18px; }
+  .cpd-blurb { font-size: 1.06rem; line-height: 1.7; color: var(--text-secondary); margin: 0 0 14px; }
+  .cpd-blurb a { color: var(--primary-dark); font-weight: 700; }
+  .cpd-top .cpd-actions { justify-content: flex-start; margin: 24px 0 0; padding: 0; }
+  .cpd-body { margin-top: 56px; padding-top: 8px; border-top: 1px solid #ece5d6; }
+}
+@media screen and (max-width: 860px) {
+  .cpd-top { grid-template-columns: 1fr; gap: 20px; padding-top: 22px; }
+  /* Phone order: title, the sheet, the buttons, then the words. Nothing is
+     hidden; the head's children just join the grid so they can be ordered. */
+  .cpd-top .cpd-head { display: contents; }
+  .cpd-top .cpd-crumb, .cpd-top .cpd-head h1, .cpd-top .cpd-meta { order: 1; text-align: center; justify-self: center; margin-bottom: 0; }
+  .cpd-top .cpd-sheet { order: 2; grid-row: auto; grid-column: 1; max-width: 560px; justify-self: center; width: 100%; }
+  .cpd-top .cpd-actions { order: 3; justify-content: center; margin: 0; }
+  .cpd-blurb { order: 4; margin: 0; }
+  .cpd-body { margin-top: 32px; }
+}

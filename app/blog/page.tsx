@@ -1,11 +1,15 @@
 import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
+import '../hub.css'
 
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { getAllPosts, getAllSeriesNames } from '@/lib/blog'
 import BlogGrid from '@/app/blog/BlogGrid'
 import { V2Shell, V2Hero } from '@/app/v2-shell'
+import { HubHead } from '@/app/hub-ui'
+import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
+import './blog-index.css'
 
 export const metadata: Metadata = {
   title: 'Bible Guides for Parents: 500+ Free Resources',
@@ -57,12 +61,23 @@ function BlogV2() {
 
   const storyCount = posts.filter(p => p.series).length
 
+  // Topic shelf: every topic hub with its real post count and, as its
+  // picture, the hero of its most recently updated guide.
+  const guides = posts.filter(p => !p.series)
+  const topics = GUIDE_CATEGORIES.map(c => {
+    const inCat = guides
+      .filter(p => getGuideCategory(p.slug) === c.name)
+      .sort((a, b) => (b.dateModified || '').localeCompare(a.dateModified || ''))
+    return { ...c, count: inCat.length, cover: inCat[0]?.slug }
+  }).filter(t => t.count > 0).sort((a, b) => b.count - a.count)
+
   return (
     <>
       <SiteNav />
 
-      <main id="main-content">
+      <main id="main-content" className="hb">
 
+      {/* Live header kept (owner, Nov 17, 2026). */}
       <V2Hero
         short
         art="parents"
@@ -75,7 +90,7 @@ function BlogV2() {
         <div className="v2-ctarow">
           <a className="hv-cta" href="/quiz">
             <span className="hv-cta-play" aria-hidden="true" />
-            Watch the video lessons free
+            Watch the video lessons
           </a>
           <a className="hv-cta is-ghost" href="/bible-stories-for-kids">
             Just want the stories?
@@ -103,8 +118,45 @@ function BlogV2() {
         </div>
       </div>
 
+      {/* Nov 17, 2026 pass: the live page went straight from the stat bar
+          into 500+ cards. These two shelves give a parent a way in first:
+          a topic, or a story series. Every link is a real hub page. */}
+      <section className="hb-section bx-topics">
+        <div className="hb-wrap">
+          <HubHead center title="Start with a topic" sub="Every guide sorted by the job you are doing this week." />
+          <div className="bx-topic-grid">
+            {topics.map(t => (
+              <a key={t.slug} href={`/blog/topics/${t.slug}`} className="bx-topic">
+                <span className="bx-topic-img">
+                  {t.cover && (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${t.cover}-hero.webp?v=3`} alt="" width={760} height={434} loading="lazy" decoding="async" />
+                  )}
+                </span>
+                <span className="bx-topic-text">
+                  <strong>{t.name}</strong>
+                  <span>{t.count} {t.count === 1 ? 'guide' : 'guides'}</span>
+                </span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="hb-section is-paper bx-series">
+        <div className="hb-wrap">
+          <HubHead center title="Bible stories, series by series" sub={<>{storyCount} stories in {seriesList.length} series, Genesis to Revelation. <a href="/bible-stories-for-kids">See them all in order &rarr;</a></>} />
+          <nav className="bx-series-list" aria-label="Story series">
+            {seriesList.map(s => (
+              <a key={s.slug} href={`/blog/series/${s.slug}`}>{s.name}<span>{s.count}</span></a>
+            ))}
+          </nav>
+        </div>
+      </section>
+
       <section className="v2-section" style={{ paddingTop: 34 }}>
         <div className="v2-wrap" style={{ maxWidth: 1180 }}>
+          <HubHead center title="Every guide and story" />
           <BlogGrid posts={postCards} seriesList={seriesList} />
         </div>
       </section>

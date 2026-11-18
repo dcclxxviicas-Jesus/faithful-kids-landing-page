@@ -100,4 +100,4 @@ This page is about apps a child uses directly. Streaming services and channels a
 
 ---
 
-*We make Faithful Kids. Every claim on this page about another app comes from that app's own App Store listing or website on the date shown, and we have quoted their words rather than ours wherever they make a claim. If something here is out of date, email christian@faithfulkids.app and we will fix it.*
+*We make Faithful Kids. Every claim on this page about another app comes from that app's own App Store listing or website on the date shown, and we have quoted their words rather than ours wherever they make a claim. If something here is out of date, email team@faithfulkids.app and we will fix it.*

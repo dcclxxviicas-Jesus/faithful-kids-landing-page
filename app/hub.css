@@ -1,0 +1,423 @@
+/* The five hub pages, redesigned Nov 2026. See app/hub-ui.tsx for the brief.
+   Everything is scoped under main.hb; tokens (--hv-*) and the display face
+   come from home.css and v2-shell.tsx, so the pages still read as the site. */
+
+.hb { --hb-line: #e9e2d3; --hb-paper: #fbf7ef; --hb-wrap: 1140px; }
+
+/* ---------- type ---------- */
+.hb .hb-eyebrow {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 12px;
+  font-family: var(--font-display), sans-serif;
+  font-size: .95rem; font-weight: 700; letter-spacing: 0; text-transform: none;
+  color: var(--hv-green-dark);
+}
+.hb .hb-eyebrow::before { content: ''; width: 22px; height: 2px; border-radius: 2px; background: currentColor; opacity: .7; }
+.hb .is-center .hb-eyebrow, .hb .hv-close .hb-eyebrow { justify-content: center; }
+.hb :is(.hb-lede, .hv-sub, .hb-prose, .hb-note, .hb-rows, .hb-cols, .hb-callout, .hv-close-fine, .hv-faq-item, .hb-head-sub) a:not([class]) { color: var(--hv-green-dark); font-weight: 800; text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+
+/* ---------- hero ---------- */
+.hb .hb-hero {
+  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.04fr);
+  gap: clamp(28px, 4vw, 60px); align-items: center;
+  max-width: calc(var(--hb-wrap) + 48px); margin: 0 auto;
+  padding: clamp(28px, 5vw, 64px) 24px clamp(36px, 5vw, 64px);
+}
+.hb .hb-hero-text { max-width: 540px; width: 100%; }
+.hb .hb-h1 { font-size: clamp(2.2rem, 4.6vw, 3.5rem); line-height: 1.04; margin: 0 0 18px; text-align: left; letter-spacing: -.01em; }
+.hb .hb-lede { font-size: clamp(1.05rem, 1.6vw, 1.2rem); line-height: 1.65; color: var(--hv-ink-soft); font-weight: 600; margin: 0 0 24px; }
+.hb .hb-hero-art { position: relative; border-radius: 28px; overflow: hidden; aspect-ratio: 4 / 3; background: var(--hb-paper); box-shadow: 0 1px 0 rgba(22,49,79,.04), 0 24px 60px -24px rgba(22,49,79,.35); }
+.hb .hb-hero-art > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.hb .hb-hero .hv-cta { display: inline-block; text-align: left; line-height: 1.35; padding: 16px 30px; font-size: clamp(1.1rem, 1.8vw, 1.25rem); }
+.hb .hb-hero .hv-cta .hv-cta-play { display: inline-block; vertical-align: -5px; margin-right: 10px; }
+.hb .hb-hero .hv-close-fine { text-align: left; margin: 14px 0 0; max-width: 34em; }
+
+/* the trivia game sits on the painting */
+.hb .hb-hero.has-aside .hb-hero-art { aspect-ratio: auto; min-height: 560px; display: grid; place-items: center; padding: 28px; }
+.hb .hb-hero.has-aside .hb-hero-art::after { content: ''; position: absolute; inset: 0; background: rgba(22,49,79,.12); }
+.hb .hb-hero-aside { position: relative; z-index: 1; width: 100%; max-width: 480px; }
+
+@media (max-width: 959px) {
+  .hb .hb-hero { grid-template-columns: 1fr; padding-top: 22px; }
+  .hb .hb-hero-text { justify-self: start; max-width: 680px; }
+  .hb .hb-hero-art { aspect-ratio: 16 / 10; border-radius: 22px; }
+  .hb .hb-hero.has-aside .hb-hero-art { min-height: 0; padding: 18px 12px; border-radius: 22px; }
+}
+@media (max-width: 560px) {
+  .hb .hb-hero { padding-left: 16px; padding-right: 16px; gap: 22px; }
+  .hb .hb-hero-art { margin: 0 -4px; }
+  .hb .hb-hero .hv-cta { width: 100%; justify-content: center; font-size: 1.05rem; padding: 15px 20px; }
+}
+
+/* ---------- sections ---------- */
+.hb .hb-section { padding: clamp(44px, 6vw, 80px) 24px; }
+.hb .hb-section.is-paper { background: var(--hb-paper); }
+.hb .hb-section.is-tight-top { padding-top: 12px; }
+.hb .hb-wrap { max-width: var(--hb-wrap); margin: 0 auto; }
+.hb .hb-wrap.is-narrow { max-width: 820px; }
+.hb .hb-head { margin: 0 0 30px; max-width: 760px; }
+.hb .hb-head.is-center { margin-left: auto; margin-right: auto; text-align: center; }
+.hb .hb-head.has-action { max-width: none; display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; }
+.hb .hb-head.has-action > div:first-child { max-width: 760px; }
+.hb .hb-head h2 { font-size: clamp(1.65rem, 3.2vw, 2.4rem); line-height: 1.12; margin: 0; font-weight: 800; letter-spacing: -.005em; }
+.hb .hb-head-sub { margin: 12px 0 0; color: var(--hv-ink-soft); font-weight: 600; line-height: 1.65; font-size: 1.04rem; }
+.hb .hb-head-action { flex: none; font-family: var(--font-display), sans-serif; font-weight: 800; }
+.hb .hb-head-action a { color: var(--hv-green-dark); text-decoration: none; }
+.hb .hb-head-action a:hover { text-decoration: underline; }
+@media (max-width: 700px) { .hb .hb-head.has-action { display: block; } .hb .hb-head-action { margin-top: 12px; } }
+@media (max-width: 560px) { .hb .hb-section { padding-left: 16px; padding-right: 16px; } }
+
+/* two-column: heading on the left, content on the right */
+.hb .hb-split { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: clamp(28px, 5vw, 72px); align-items: start; }
+.hb .hb-split > .hb-head { margin: 0; position: sticky; top: 96px; }
+@media (max-width: 860px) { .hb .hb-split { grid-template-columns: 1fr; gap: 24px; } .hb .hb-split > .hb-head { position: static; } }
+
+/* ---------- jump bar (in-page navigation) ---------- */
+.hb .hb-jump { max-width: calc(var(--hb-wrap) + 48px); margin: 0 auto; padding: 0 24px; }
+.hb .hb-jump ul { list-style: none; margin: 0; padding: 14px 0; display: flex; gap: 6px 26px; flex-wrap: wrap; border-top: 1px solid var(--hb-line); border-bottom: 1px solid var(--hb-line); }
+.hb .hb-jump a { font-family: var(--font-display), sans-serif; font-weight: 700; color: var(--hv-ink); text-decoration: none; font-size: 1rem; }
+.hb .hb-jump a span { color: var(--hv-ink-soft); font-weight: 600; margin-left: 5px; font-size: .9rem; }
+.hb .hb-jump a:hover { color: var(--hv-green-dark); }
+@media (max-width: 560px) {
+  .hb .hb-jump { padding: 0 16px; }
+  .hb .hb-jump ul { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+  .hb .hb-jump ul::-webkit-scrollbar { display: none; }
+  .hb .hb-jump li { flex: none; }
+}
+
+/* ---------- catalogue items (printables, seasons) ----------
+   A picture of the thing, then its name. No box: the picture is the card. */
+.hb .hb-shelf { display: grid; gap: 40px 28px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.hb .hb-shelf.is-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.hb .hb-item { display: flex; flex-direction: column; color: inherit; text-decoration: none; }
+.hb .hb-item-text { display: flex; flex-direction: column; align-items: flex-start; flex: 1; }
+.hb .hb-thumb { position: relative; display: block; aspect-ratio: 4 / 3; border-radius: 18px; overflow: hidden; background: var(--hb-paper); margin-bottom: 16px; box-shadow: inset 0 0 0 1px rgba(22,49,79,.06); }
+.hb .hb-thumb::after { content: ''; position: absolute; inset: 0; border-radius: inherit; box-shadow: inset 0 0 0 1px rgba(22,49,79,.09); pointer-events: none; }
+.hb .hb-thumb img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform .5s cubic-bezier(.2,.7,.2,1); }
+.hb .hb-item:hover .hb-thumb img { transform: scale(1.035); }
+.hb .hb-item h3 { font-size: 1.22rem; line-height: 1.3; margin: 0 0 8px; font-weight: 800; }
+.hb .hb-item:hover h3 { color: var(--hv-green-dark); }
+.hb .hb-item p { margin: 0 0 12px; font-size: .98rem; line-height: 1.62; color: var(--hv-ink-soft); font-weight: 600; }
+.hb .hb-meta { margin-top: auto; font-size: .86rem; font-weight: 700; color: #6b7f94; line-height: 1.5; }
+.hb .hb-go { align-self: flex-start; display: inline-block; margin-top: 14px; font-family: var(--font-display), sans-serif; font-weight: 800; font-size: .95rem; background: var(--hv-green); color: #fff; border-radius: 999px; padding: 9px 18px; box-shadow: 0 3px 0 var(--hv-green-dark); }
+.hb .hb-item:hover .hb-go { background: var(--hv-green-dark); }
+.hb .hb-tag {
+  position: absolute; left: 12px; top: 12px;
+  background: #fff; color: var(--hv-ink);
+  font-family: var(--font-display), sans-serif; font-weight: 700; font-size: .82rem;
+  padding: 4px 11px; border-radius: 999px; box-shadow: 0 2px 8px rgba(22,49,79,.12);
+}
+
+/* the lead item of a group: picture and words side by side */
+.hb .hb-item.is-lead { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 36px; align-items: center; }
+.hb .hb-item.is-lead .hb-thumb { margin: 0; aspect-ratio: 16 / 10; border-radius: 22px; }
+.hb .hb-item.is-lead h3 { font-size: clamp(1.45rem, 2.4vw, 1.9rem); }
+.hb .hb-item.is-lead p { font-size: 1.06rem; }
+.hb .hb-item.is-lead .hb-go { display: inline-block; margin-top: 16px; background: var(--hv-green); color: #fff; border-radius: 999px; padding: 11px 22px; box-shadow: 0 3px 0 var(--hv-green-dark); }
+.hb .hb-item.is-lead:hover .hb-go { text-decoration: none; background: var(--hv-green-dark); }
+
+@media (max-width: 960px) { .hb .hb-shelf { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 720px) { .hb .hb-item.is-lead { grid-template-columns: 1fr; gap: 16px; } }
+@media (max-width: 560px) { .hb .hb-shelf, .hb .hb-shelf.is-2 { grid-template-columns: 1fr; gap: 34px; } }
+
+/* ---------- ruled list (features, how-to-play) ---------- */
+.hb .hb-rows { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--hb-line); }
+.hb .hb-rows > li { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); gap: 8px 32px; padding: 22px 0; border-bottom: 1px solid var(--hb-line); }
+.hb .hb-rows h3 { margin: 0; font-size: 1.12rem; font-weight: 800; line-height: 1.4; }
+.hb .hb-rows p { margin: 0; color: var(--hv-ink-soft); font-weight: 600; line-height: 1.65; }
+.hb .hb-rows p + p { margin-top: 10px; }
+@media (max-width: 640px) { .hb .hb-rows > li { grid-template-columns: 1fr; } }
+
+/* ---------- facts in columns (how to play, three steps) ---------- */
+.hb .hb-cols { display: grid; gap: 28px; grid-template-columns: repeat(var(--n, 3), minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; }
+.hb .hb-cols > li { border-top: 3px solid var(--c, var(--hv-green)); padding-top: 18px; }
+.hb .hb-cols > li:nth-child(4n+1) { --c: var(--hv-green); }
+.hb .hb-cols > li:nth-child(4n+2) { --c: #f59e0b; }
+.hb .hb-cols > li:nth-child(4n+3) { --c: #3b82f6; }
+.hb .hb-cols > li:nth-child(4n+4) { --c: #e11d48; }
+.hb .hb-cols h3 { margin: 0 0 8px; font-size: 1.12rem; font-weight: 800; line-height: 1.35; }
+.hb .hb-cols p { margin: 0; color: var(--hv-ink-soft); font-weight: 600; line-height: 1.62; font-size: .98rem; }
+.hb .hb-num { display: block; font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 2.6rem; line-height: 1; color: var(--c); margin-bottom: 10px; }
+@media (max-width: 960px) { .hb .hb-cols { grid-template-columns: repeat(min(var(--n, 3), 2), minmax(0, 1fr)); } }
+@media (max-width: 600px) { .hb .hb-cols { grid-template-columns: 1fr; gap: 24px; } }
+
+/* ---------- a quiet aside note ---------- */
+.hb .hb-note { background: #fff; border: 1px solid var(--hb-line); border-radius: 20px; padding: 24px 26px; }
+.hb .hb-note h3 { margin: 0 0 8px; font-size: 1.12rem; font-weight: 800; }
+.hb .hb-note p { margin: 0; color: var(--hv-ink-soft); font-weight: 600; line-height: 1.65; }
+.hb .hb-note p + p { margin-top: 10px; }
+.hb .hb-prose p { font-size: 1.04rem; line-height: 1.72; color: var(--hv-ink-soft); font-weight: 600; margin: 0 0 16px; }
+.hb .hb-prose p:last-child { margin-bottom: 0; }
+
+/* ---------- FAQ in the split layout ---------- */
+.hb .hb-split .hv-faq-list { gap: 0; border-top: 1px solid var(--hb-line); }
+.hb .hb-split .hv-faq-item { background: none; border: 0; border-bottom: 1px solid var(--hb-line); border-radius: 0; padding-left: 0; padding-right: 0; box-shadow: none; }
+.hb .hb-split .hv-faq-item[open] { background: none; }
+
+/* ---------- the closing band ----------
+   Same words, same button. The emoji pills become a quiet line of facts. */
+.hb .hv-close { background: var(--hb-paper); }
+.hb .hv-chips { gap: 4px 0; margin-bottom: 18px; }
+.hb .hv-chips li { background: none !important; color: var(--hv-ink-soft) !important; box-shadow: none; padding: 0 !important; font-size: .98rem; font-weight: 700; }
+.hb .hv-chips li > span[aria-hidden] { display: none; }
+.hb .hv-chips li + li::before { content: '·'; margin: 0 12px; color: #a3b1c0; }
+
+/* ---------- a whole-card link to another hub ---------- */
+.hb .hb-banner {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px 40px; align-items: center;
+  padding: clamp(26px, 4vw, 40px); border-radius: 26px;
+  background: #f0f7f2; border: 1px solid #d5eadb; color: inherit; text-decoration: none;
+  transition: border-color .15s ease, background .15s ease;
+}
+.hb .hb-banner:hover { border-color: var(--hv-green); background: #ebf6ee; }
+.hb .hb-banner h2 { font-size: clamp(1.45rem, 2.8vw, 2rem); line-height: 1.15; margin: 0; font-weight: 800; }
+.hb .hb-banner .hb-head-sub { display: block; max-width: 40em; }
+.hb .hb-banner-go {
+  font-family: var(--font-display), sans-serif; font-weight: 800; color: #fff;
+  background: var(--hv-green); border-radius: 999px; padding: 13px 24px;
+  box-shadow: 0 3px 0 var(--hv-green-dark); text-align: center; max-width: 300px; line-height: 1.3;
+}
+.hb .hb-banner:hover .hb-banner-go { background: var(--hv-green-dark); }
+@media (max-width: 760px) { .hb .hb-banner { grid-template-columns: 1fr; } .hb .hb-banner-go { max-width: none; } }
+
+.hb .hb-rows > li.is-aside { display: block; padding: 20px 0 0; border-bottom: 0; }
+.hb .hb-rows > li.is-aside p { font-size: .95rem; }
+
+/* breadcrumb lines up with the hero's left edge */
+.hb .hb-crumb { max-width: calc(var(--hb-wrap) + 48px); padding: 18px 24px 0; }
+@media (max-width: 560px) { .hb .hb-crumb { padding-left: 16px; padding-right: 16px; } }
+
+/* ---------- trivia: notes under the embed code ---------- */
+.hb .hb-embed-notes { margin-top: 22px; }
+.hb .hb-embed-notes p { font-size: .98rem; }
+.hb .hb-callout { background: #fff; border: 1px solid var(--hb-line); border-left: 4px solid var(--hv-green); border-radius: 0 16px 16px 0; padding: 14px 18px; color: var(--hv-ink) !important; }
+
+/* ---------- trivia: the directory ----------
+   Ruled link lists instead of a wall of bordered boxes and pills. */
+.hb .hb-dir { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 36px; margin-bottom: 48px; }
+.hb .hb-dir-label { font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.15rem; margin: 0 0 6px; color: var(--hv-ink); }
+.hb .hb-links { list-style: none; margin: 0; padding: 0; }
+.hb .hb-links li { border-bottom: 1px solid var(--hb-line); }
+.hb .hb-links a { display: block; padding: 13px 0; text-decoration: none; }
+.hb .hb-links strong { display: block; color: var(--hv-green-dark); font-weight: 800; font-size: 1rem; line-height: 1.35; }
+.hb .hb-links span { display: block; color: var(--hv-ink-soft); font-weight: 600; font-size: .9rem; line-height: 1.5; margin-top: 2px; }
+.hb .hb-links a:hover strong { text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 900px) { .hb .hb-dir { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 600px) { .hb .hb-dir { grid-template-columns: 1fr; gap: 28px; } }
+
+/* catalogue cards in pairs get a wider crop */
+.hb .hb-shelf.is-2 .hb-item:not(.is-lead) .hb-thumb { aspect-ratio: 16 / 10; }
+/* Trivia, desktop: owner's layout (Nov 17, 2026). Header centred on its own,
+   the game below it, centred on the game-night painting. */
+@media (min-width: 960px) {
+  .hb .hb-hero.has-aside { grid-template-columns: 1fr; gap: 34px; padding-bottom: 72px; }
+  .hb .hb-hero.has-aside .hb-hero-text { max-width: 780px; justify-self: center; text-align: center; }
+  .hb .hb-hero.has-aside .hb-eyebrow { justify-content: center; }
+  .hb .hb-hero.has-aside .hb-h1 { text-align: center; }
+  .hb .hb-hero.has-aside .hb-lede { margin-left: auto; margin-right: auto; max-width: 40em; }
+  .hb .hb-hero.has-aside .hb-play-cta .hv-close-fine { text-align: center; margin-left: auto; margin-right: auto; }
+  .hb .hb-hero.has-aside .hb-hero-art { width: 100%; max-width: 1040px; justify-self: center; min-height: 0; padding: 36px 28px 30px; }
+  .hb .hb-hero.has-aside .hb-hero-aside { max-width: 640px; }
+}
+.hb .hb-hero.has-aside .hb-hero-aside { max-width: 580px; }
+
+
+
+/* The four levels sit in one row on the painting; 2x2 on a phone. The game's
+   own auto-fit grid wrapped them 3+1 in this narrower column. */
+.hb .hb-play .tg-diff-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 520px) { .hb .hb-play .tg-diff-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+/* ---------- /bible-trivia: make the game unmistakably playable ---------- */
+.hb .hb-play { scroll-margin-top: 90px; }
+.hb .hb-play-label {
+  display: flex; align-items: center; justify-content: center; gap: 10px; width: fit-content;
+  margin: 0 auto 14px; padding: 9px 18px; border-radius: 999px;
+  background: var(--hv-green); color: #fff;
+  font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1.05rem;
+  box-shadow: 0 3px 0 var(--hv-green-dark), 0 10px 24px rgba(0,0,0,.18);
+}
+.hb .hb-play-dot { width: 10px; height: 10px; border-radius: 50%; background: #fff; box-shadow: 0 0 0 0 rgba(255,255,255,.8); animation: hbPing 1.8s ease-out infinite; }
+@keyframes hbPing { 0% { box-shadow: 0 0 0 0 rgba(255,255,255,.75); } 80%, 100% { box-shadow: 0 0 0 9px rgba(255,255,255,0); } }
+
+/* level buttons read as buttons: white, outlined, with a "Play" chip */
+.hb .hb-play .tg-card { box-shadow: 0 18px 50px rgba(0,0,0,.22); }
+.hb .hb-play .tg-diff {
+  background: #fff; border: 2px solid #cfe8d9; box-shadow: 0 3px 0 #cfe8d9;
+  padding: 16px 8px 14px; display: flex; flex-direction: column; align-items: center;
+}
+.hb .hb-play .tg-diff::after {
+  content: 'Play \25B8'; display: inline-block; margin-top: 10px;
+  background: var(--hv-green); color: #fff; border-radius: 999px; padding: 4px 12px;
+  font-family: var(--font-display), sans-serif; font-weight: 800; font-size: .82rem;
+}
+.hb .hb-play .tg-diff:hover { border-color: var(--hv-green); background: #f3fbf6; box-shadow: 0 5px 0 var(--hv-green); }
+.hb .hb-play .tg-diff:hover::after { background: var(--hv-green-dark); }
+
+
+/* Phone: the game comes straight after the title, before the paragraph, so
+   the first screen is the game rather than a block of text. The button that
+   points at the game is unnecessary when the game is the next thing. */
+@media (max-width: 959px) {
+  .hb .hb-hero.has-aside .hb-hero-text { display: contents; }
+  .hb .hb-hero.has-aside .hb-eyebrow { order: 1; margin-bottom: -10px; }
+  .hb .hb-hero.has-aside .hb-h1 { order: 2; margin-bottom: 0; }
+  .hb .hb-hero.has-aside .hb-hero-art { order: 3; }
+  .hb .hb-hero.has-aside .hb-lede { order: 4; margin-bottom: 0; }
+  .hb .hb-hero.has-aside .hb-play-cta { display: none; }
+  /* centred like desktop, so the title lines up with the game under it */
+  .hb .hb-hero.has-aside .hb-eyebrow { justify-content: center; }
+  .hb .hb-hero.has-aside .hb-h1, .hb .hb-hero.has-aside .hb-lede { text-align: center; }
+}
+@media (prefers-reduced-motion: reduce) { .hb .hb-play-dot { animation: none; } }
+
+
+
+/* ---------- /bible-trivia: the embed offer as one quiet line ---------- */
+.hb .hb-embed { border: 1px solid var(--hb-line); border-radius: 16px; background: #fff; scroll-margin-top: 90px; }
+.hb .hb-embed > summary {
+  list-style: none; cursor: pointer; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px;
+  padding: 14px 20px;
+}
+.hb .hb-embed > summary::-webkit-details-marker { display: none; }
+.hb .hb-embed-kicker { font-size: .82rem; font-weight: 800; color: var(--hv-ink-soft); }
+.hb .hb-embed > summary h2 { margin: 0; font-family: var(--font-nunito), system-ui, sans-serif; font-size: .98rem; font-weight: 800; color: var(--hv-ink); }
+.hb .hb-embed-toggle { margin-left: auto; font-family: var(--font-display), sans-serif; font-weight: 800; font-size: .92rem; color: var(--hv-green-dark); }
+.hb .hb-embed-toggle::after { content: ' \25BE'; }
+.hb .hb-embed[open] .hb-embed-toggle::after { content: ' \25B4'; }
+.hb .hb-embed > summary:hover h2 { color: var(--hv-green-dark); }
+.hb .hb-embed > summary:focus-visible { outline: 3px solid var(--hv-green); outline-offset: 2px; border-radius: 16px; }
+.hb .hb-embed-body { padding: 4px 20px 22px; border-top: 1px solid var(--hb-line); }
+.hb .hb-embed-sub { color: var(--hv-ink-soft); font-weight: 600; line-height: 1.65; margin: 16px 0; font-size: .96rem; }
+@media (max-width: 560px) { .hb .hb-embed-toggle { margin-left: 0; } }
+.hb .hb-section.hb-embed-band { padding-top: 0; padding-bottom: 8px; margin-top: -28px; }
+
+/* Churches hero button on a phone: two deliberate lines, centred. The action
+   on top, the address it opens beneath in smaller type, instead of one long
+   label wrapping wherever it happens to break. */
+@media (max-width: 640px) {
+  .hb .hv-cta.hb-cta-2 {
+    display: flex; flex-direction: column; align-items: center; gap: 3px;
+    width: 100%; text-align: center; padding: 15px 20px 16px;
+  }
+  .hb .hv-cta.hb-cta-2 .hv-cta-play, .hb .hv-cta.hb-cta-2 .hb-cta-comma { display: none; }
+  .hb .hb-cta-2 .hb-cta-main { font-size: 1.2rem; line-height: 1.2; }
+  .hb .hb-cta-2 .hb-cta-sub { font-family: var(--font-nunito), system-ui, sans-serif; font-size: .92rem; font-weight: 700; opacity: .92; line-height: 1.3; }
+}
+
+/* ---------- /bible-trivia: live header, then the game ----------
+   Owner's call (Nov 17, 2026): keep the painted header as it is live, with
+   the game directly beneath it. The glowing Play button sits in the header. */
+/* The game sits fully below the header with room to breathe (owner, Nov 17:
+   it was overlapping the painting). */
+.hb .hb-game-band { padding: 36px 20px 56px; position: relative; z-index: 2; }
+.hb .hb-game-band .hb-play { max-width: 640px; margin: 0 auto; }
+@media (max-width: 520px) { .hb .hb-play .tg-diff-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .hb .hb-game-band { padding: 24px 12px 40px; } }
+
+/* ---------- /bible-trivia: the 66 books, grouped like a table of contents ----------
+   One panel per testament; inside it one row per section of the Bible (Law,
+   History, Gospels, Paul's Letters...) with a colour key, and the books as
+   tappable chips. Rows rather than columns, because the sections run from 1
+   book (Acts) to 13 (Paul's Letters) and columns left big empty gaps. */
+.hb .hb-books { display: grid; gap: 22px; padding-top: 8px; }
+.hb .hb-testament { background: var(--hb-paper); border: 1px solid var(--hb-line); border-radius: 22px; padding: 24px clamp(18px, 3vw, 30px) 26px; }
+.hb .hb-testament-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 16px; margin-bottom: 18px; }
+.hb .hb-testament .hb-dir-label { font-size: clamp(1.3rem, 2.4vw, 1.6rem); margin: 0; }
+.hb .hb-testament-count { font-weight: 700; color: var(--hv-ink-soft); font-size: .92rem; }
+.hb .hb-bookgroups { display: grid; gap: 0; }
+.hb .hb-bookgroup { --c: var(--hv-green); display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 8px 20px; align-items: start; padding: 14px 0; border-top: 1px solid var(--hb-line); }
+.hb .hb-bookgroup:nth-child(5n+2) { --c: #d97706; }
+.hb .hb-bookgroup:nth-child(5n+3) { --c: #2563eb; }
+.hb .hb-bookgroup:nth-child(5n+4) { --c: #9333ea; }
+.hb .hb-bookgroup:nth-child(5n+5) { --c: #e11d48; }
+.hb .hb-bookgroup-name { display: flex; align-items: center; gap: 9px; margin: 6px 0 0; font-family: var(--font-display), sans-serif; font-weight: 800; font-size: 1rem; color: var(--hv-ink); }
+.hb .hb-bookgroup-name::before { content: ''; width: 10px; height: 10px; border-radius: 3px; background: var(--c); flex: none; }
+.hb .hb-bookgroup ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.hb .hb-bookgroup a {
+  display: inline-block; padding: 7px 14px; border-radius: 999px;
+  background: #fff; border: 1.5px solid var(--hb-line);
+  color: var(--hv-ink); font-weight: 700; font-size: .94rem; text-decoration: none; line-height: 1.2;
+  transition: border-color .12s ease, color .12s ease, transform .12s ease;
+}
+.hb .hb-bookgroup a:hover, .hb .hb-bookgroup a:focus-visible { border-color: var(--c); color: var(--hv-ink); transform: translateY(-1px); }
+.hb .hb-bookgroup a:focus-visible { outline: 3px solid var(--c); outline-offset: 2px; }
+@media (max-width: 640px) {
+  .hb .hb-bookgroup { grid-template-columns: 1fr; gap: 10px; }
+  .hb .hb-bookgroup-name { margin: 0; }
+  .hb .hb-bookgroup a { padding: 8px 13px; }
+}
+
+/* ---------- /bible-quiz ----------
+   The all-ages twin of /bible-trivia: same shape (centred header, game
+   straight under it), plain paper band instead of the kids' painting. */
+.hb.bq .bq-head { background: var(--hb-paper); text-align: center; padding: clamp(36px, 6vw, 64px) 20px clamp(36px, 5vw, 56px); }
+.hb.bq .bq-head .hv-h1 { margin: 0 auto 14px; font-size: clamp(2.4rem, 6vw, 3.6rem); }
+.hb.bq .bq-lede { max-width: 40em; margin: 0 auto; font-size: clamp(1.02rem, 1.8vw, 1.15rem); line-height: 1.65; color: var(--hv-ink-soft); font-weight: 600; }
+.hb.bq .bq-aside { max-width: 40em; margin: 12px auto 0; font-size: .95rem; color: var(--hv-ink-soft); font-weight: 600; }
+.hb.bq .bq-head a { color: var(--hv-green-dark); font-weight: 800; text-underline-offset: 3px; }
+.hb.bq .bq-game { margin-top: 0; }
+.hb.bq .bq-levels { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; }
+.hb.bq .bq-level { --c: var(--hv-green); border-top: 3px solid var(--c); padding-top: 14px; }
+.hb.bq .bq-level:nth-child(2) { --c: #d97706; }
+.hb.bq .bq-level:nth-child(3) { --c: #e11d48; }
+.hb.bq .bq-level h3 { margin: 0 0 6px; font-size: 1.25rem; color: var(--c); }
+.hb.bq .bq-level ol { margin: 0; padding: 0; list-style: none; counter-reset: q; }
+.hb.bq .bq-level li { counter-increment: q; position: relative; padding: 12px 0 12px 30px; border-bottom: 1px solid var(--hb-line); line-height: 1.55; font-weight: 600; color: var(--hv-ink-soft); }
+.hb.bq .bq-level li::before { content: counter(q); position: absolute; left: 0; top: 12px; width: 21px; height: 21px; border-radius: 50%; background: var(--c); color: #fff; font-size: .75rem; font-weight: 800; display: grid; place-items: center; }
+.hb.bq .bq-q { color: var(--hv-ink); font-weight: 700; }
+.hb.bq .bq-level strong { display: block; margin-top: 4px; color: var(--hv-green-dark); font-weight: 800; }
+.hb.bq .bq-ref { font-size: .85rem; color: #6b7f94; }
+.hb.bq .bq-after { margin: 22px 0 0; color: var(--hv-ink-soft); font-weight: 600; }
+.hb.bq .bq-twin { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 48px; }
+.hb.bq .bq-twin .hb-head { margin-bottom: 8px; }
+.hb.bq .bq-twin .hb-head h2 { font-size: clamp(1.35rem, 2.4vw, 1.75rem); }
+.hb.bq .bq-all { margin: 16px 0 0; }
+.hb.bq .bq-all a { color: var(--hv-green-dark); font-weight: 800; font-family: var(--font-display), sans-serif; text-decoration: none; }
+.hb.bq .bq-all a:hover { text-decoration: underline; }
+.hb.bq .bq-print { background: #f0f7f2; border: 1px solid #d5eadb; border-radius: 24px; padding: clamp(22px, 4vw, 34px); }
+.hb.bq .bq-print h2 { margin: 0 0 10px; font-size: clamp(1.4rem, 2.6vw, 1.8rem); }
+.hb.bq .bq-print p { margin: 0; color: var(--hv-ink-soft); font-weight: 600; line-height: 1.7; }
+.hb.bq .bq-print a { color: var(--hv-green-dark); font-weight: 800; }
+@media (max-width: 900px) { .hb.bq .bq-levels { grid-template-columns: 1fr; gap: 24px; } .hb.bq .bq-twin { grid-template-columns: 1fr; gap: 32px; } }
+
+/* ---------- the older V2 template inside a hub page ----------
+   /about, /beliefs, /blog, /bible-jeopardy and /creators are built from the
+   shared v2 pieces (V2Head, .v2-card with an emoji tile, .v2-steps). Rather
+   than rewrite five pages, the same quieter treatment the hubs got is applied
+   to those pieces here, only where the page has opted in with main.hb. */
+.hb :not(.hv-hero-inner) > .hv-eyebrow { font-family: var(--font-display), sans-serif; font-size: .95rem; font-weight: 700; letter-spacing: 0; text-transform: none; color: var(--hv-green-dark); }
+.hb .v2-section { padding: clamp(44px, 6vw, 80px) 24px; }
+.hb .v2-section.is-alt, .hb .v2-section.is-sky { background: var(--hb-paper); }
+/* Section heads stay centred: every hub page now opens on the live, centred
+   header (owner, Nov 17, 2026), and a left-aligned head under it read as
+   off-centre, so the live v2-pages.css layout for .v2-head stands. */
+.hb .v2-head h2 { font-size: clamp(1.65rem, 3.2vw, 2.4rem); line-height: 1.12; }
+.hb .v2-ico { display: none; }
+.hb .v2-grid { gap: 30px 32px; }
+.hb .v2-card, .hb .is-alt .v2-card, .hb .is-sky .v2-card { --c: var(--hv-green); background: transparent; box-shadow: none; border-radius: 0; padding: 16px 0 0; border-top: 3px solid var(--c); }
+.hb .v2-grid > :nth-child(4n+2) { --c: #d97706; }
+.hb .v2-grid > :nth-child(4n+3) { --c: #2563eb; }
+.hb .v2-grid > :nth-child(4n+4) { --c: #e11d48; }
+.hb .v2-card h3 { font-size: 1.12rem; }
+.hb .v2-card p { font-size: .98rem; }
+.hb .v2-step { background: transparent; box-shadow: none; padding: 0; border-radius: 0; }
+.hb .v2-step::before { position: static; display: grid; margin-bottom: 12px; box-shadow: none; }
+.hb .v2-steps { row-gap: 32px; }
+.hb .v2-note { background: #fff; border: 1px solid var(--hb-line); border-left: 4px solid var(--hv-green); }
+.hb .v2-mini { border-width: 1px; }
+.hb .be-item { box-shadow: none; border: 1px solid var(--hb-line); }
+.hb .bv-stats { background: var(--hb-paper); }
+.hb .cr-table { box-shadow: none; border: 1px solid var(--hb-line); }
+.hb .hb-hero .v2-ctarow { justify-content: flex-start; }
+
+/* Printables section menu as clear pill buttons (owner, Nov 17, 2026). */
+.hb .hb-jump.is-pills { text-align: center; padding-top: 28px; }
+.hb .hb-jump-label { margin: 0 0 12px; font-family: var(--font-display), sans-serif; font-weight: 800; font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; color: var(--hv-green-dark); }
+.hb .hb-jump.is-pills ul { justify-content: center; gap: 10px; border: 0; padding: 0; }
+.hb .hb-jump.is-pills a { display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; border-radius: 999px; background: #fff; border: 2px solid #cfe8d9; color: var(--hv-ink); font-size: 1rem; box-shadow: 0 3px 0 #e2efe7; transition: border-color .15s, background .15s; }
+.hb .hb-jump.is-pills a:hover { border-color: var(--hv-green); background: #f2fbf5; color: var(--hv-green-dark); }
+.hb .hb-jump.is-pills a span { margin: 0; color: inherit; font-size: 1.05rem; }
+@media (max-width: 700px) {
+  .hb .hb-jump.is-pills ul { flex-wrap: wrap; overflow: visible; }
+  .hb .hb-jump.is-pills a { padding: 8px 14px; font-size: .95rem; }
+}

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
+import '../hub.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { V2Shell, V2Hero } from '@/app/v2-shell'
 
@@ -78,8 +79,9 @@ function BeliefsV2() {
     <>
       <SiteNav />
 
-      <main id="main-content">
+      <main id="main-content" className="hb">
 
+      {/* Live header kept (owner, Nov 17, 2026). */}
       <V2Hero
         short
         art="beliefs"

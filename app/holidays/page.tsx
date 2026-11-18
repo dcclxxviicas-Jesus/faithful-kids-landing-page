@@ -1,10 +1,15 @@
 import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
+import '../hub.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { getAllPosts } from '@/lib/blog'
-import { HOLIDAYS, MIN_POSTS, monthsUntil, type Holiday } from '@/lib/holidays'
+import { HOLIDAYS, MIN_POSTS, byNext, type Holiday } from '@/lib/holidays'
 import { V2Shell, V2Hero } from '@/app/v2-shell'
+
+/* Rebuilt every six hours so the season that is coming up next moves to the
+   front on its own, without a deploy (owner request, Nov 17, 2026). */
+export const revalidate = 21600
 
 export const metadata: Metadata = {
   title: { absolute: 'Bible Activities for Every Holiday' },
@@ -30,9 +35,7 @@ function postsFor(h: Holiday) {
 
 function HolidaysV2() {
   // Only seasons with real content, ordered by what is coming next.
-  const live = HOLIDAYS.filter(h => postsFor(h).length >= MIN_POSTS).sort(
-    (a, b) => monthsUntil(a.peakMonth) - monthsUntil(b.peakMonth)
-  )
+  const live = byNext(HOLIDAYS.filter(h => postsFor(h).length >= MIN_POSTS))
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -66,16 +69,11 @@ function HolidaysV2() {
 
       <SiteNav />
 
-      <main id="main-content">
+      <main id="main-content" className="hb">
 
-      {/* The breadcrumb stays above the hero and matches the BreadcrumbList
-          schema above it. */}
-      <div className="v2-crumb">
-        <a href="/blog">Guides &amp; Resources</a>
-        <span aria-hidden="true">/</span>
-        <span className="is-current">Holidays</span>
-      </div>
-
+      {/* No visible breadcrumb (owner, Nov 17, 2026); the BreadcrumbList
+          schema above still tells search engines where the page sits. */}
+      {/* Live header kept (owner, Nov 17, 2026). */}
       <V2Hero
         short
         art="holidays"
@@ -84,34 +82,38 @@ function HolidaysV2() {
         title={<>Bible Activities for Every <span className="hv-love"><span className="l l1">H</span><span className="l l2">o</span><span className="l l3">l</span><span className="l l4">i</span><span className="l l1">d</span><span className="l l2">a</span><span className="l l3">y</span></span></>}
         sub={<>Every season gathered in one place, the stories, verses, trivia and free
           printables we have for Christmas, Easter, Thanksgiving, the first week of school, and
-          the end of October. Everything here is free and nothing asks for an email address.</>}
+          the end of October. Everything here is free.</>}
       />
 
-      <section className="v2-section">
-        <div className="v2-wrap">
-          <div className="v2-grid is-3">
-            {live.map(h => {
+      {/* The season coming next leads, picture and words side by side; the
+          rest follow in pairs. Same cards, same order, same words. */}
+      <section className="hb-section is-tight-top">
+        <div className="hb-wrap">
+          <div className="hb-shelf is-2">
+            {live.map((h, i) => {
               const n = postsFor(h).length
               return (
-                <a key={h.slug} href={`/holidays/${h.slug}`} className="v2-asset hd-card">
-                  <span className="hd-art">
+                <a key={h.slug} href={`/holidays/${h.slug}`} className={`hb-item${i === 0 ? ' is-lead' : ''}`}>
+                  <span className="hb-thumb">
                     {/* Card-sized copy. The originals run 183-506KB each and
                         five of them is 1.4MB for cards that render about 360px
-                        wide — the live page pays that too. These are 760px. */}
+                        wide. These are 760px. */}
                     <img
                       src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/sm/${h.heroSlug}-hero.webp?v=3`}
                       alt={h.name}
                       width={760}
                       height={434}
-                      loading="lazy"
+                      loading={i === 0 ? 'eager' : 'lazy'}
                       decoding="async"
                     />
-                    <span className="hd-peak">{h.peak}</span>
+                    <span className="hb-tag">{h.peak}</span>
                   </span>
-                  <h3>{h.name}</h3>
-                  <p>{h.metaDescription}</p>
-                  <span className="v2-asset-go">
-                    {n} free {n === 1 ? 'resource' : 'resources'} &rarr;
+                  <span className="hb-item-text">
+                    <h3>{h.name}</h3>
+                    <p>{h.metaDescription}</p>
+                    <span className="hb-go">
+                      {n} free {n === 1 ? 'resource' : 'resources'} &rarr;
+                    </span>
                   </span>
                 </a>
               )

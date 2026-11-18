@@ -86,4 +86,4 @@ On Faithful Kids the questions are per lesson, not per age; younger children usu
 
 ---
 
-*We make Faithful Kids. Competitor facts are from each app's App Store listing or website on the date shown. If something is out of date, email christian@faithfulkids.app.*
+*We make Faithful Kids. Competitor facts are from each app's App Store listing or website on the date shown. If something is out of date, email team@faithfulkids.app.*

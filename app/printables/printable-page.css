@@ -1,0 +1,134 @@
+/* Shared look for the reading-plan printables (/printables/jesse-tree,
+   /printables/advent-bible-calendar), Nov 2026.
+
+   PRINT IS SACRED. These pages are printed and photocopied for classrooms, so
+   the base rules below reproduce exactly what the old inline styles printed,
+   and every new screen treatment sits inside @media screen. Verify any change
+   with a print-emulated render against the live page. */
+
+/* ---------- base (screen AND print): the old inline values ---------- */
+.pp { max-width: 900px; margin: 0 auto; padding: 24px; }
+.pp-head { border-bottom: 3px solid #16a34a; padding-bottom: 1rem; margin-bottom: 1.5rem; }
+.pp-h1 { font-size: 1.9rem; font-weight: 800; margin: 0; letter-spacing: -0.02em; }
+.pp-lede { margin: 0.5rem 0 0; color: #4b5563; font-size: 1.02rem; line-height: 1.6; }
+.pp-h2 { font-size: 1.4rem; font-weight: 800; letter-spacing: -0.01em; }
+.pp-section { margin-bottom: 2rem; }
+.pp-tablewrap { overflow-x: auto; }
+.pp-table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+.pp-table thead tr { background: #f0fdf4; text-align: left; }
+.pp-table th, .pp-table td { padding: 8px 10px; }
+.pp-table tbody tr { border-bottom: 1px solid #e5e7eb; }
+.pp-day { font-weight: 700; color: #16a34a; }
+.pp-day b { font-weight: inherit; }
+.pp-title { font-weight: 600; }
+.pp-ref { white-space: nowrap; }
+.pp-sum { color: #4b5563; }
+.pp-ornaments { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+.pp-ornaments figure { margin: 0; text-align: center; }
+.pp-ornaments img { width: 100%; height: auto; border: 1px solid #e5e7eb; border-radius: 12px; }
+.pp-ornaments figcaption { font-size: 0.8rem; color: #6b7280; margin-top: 4px; }
+.pp-muted { color: #4b5563; line-height: 1.6; }
+.pp-faq-item { margin-bottom: 1rem; }
+.pp-faq-item h3 { font-size: 1.05rem; font-weight: 700; margin: 0 0 4px; }
+.pp-faq-item p { margin: 0; color: #4b5563; line-height: 1.65; }
+.pp-more { border-top: 2px solid #16a34a; padding-top: 1.25rem; margin-bottom: 2.5rem; }
+.pp-more p { color: #4b5563; line-height: 1.65; }
+.pp-more a { color: #16a34a; font-weight: 700; }
+
+/* ---------- screen only ---------- */
+@media screen {
+  .pp { max-width: 1140px; padding: 0 24px; }
+
+  /* hero: words left, the page's own painting right */
+  .pp-head { border-bottom: 0; padding: clamp(24px, 4vw, 48px) 0 clamp(28px, 4vw, 44px); margin: 0;
+    display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(24px, 4vw, 56px); align-items: center; }
+  .pp-eyebrow { display: flex; align-items: center; gap: 10px; margin: 0 0 12px; font-family: var(--font-display, inherit), sans-serif; font-weight: 700; color: #15803d; font-size: .95rem; }
+  .pp-eyebrow::before { content: ''; width: 22px; height: 2px; border-radius: 2px; background: currentColor; opacity: .7; }
+  .pp-h1 { font-size: clamp(2rem, 4vw, 3rem); line-height: 1.08; letter-spacing: -0.015em; color: #16314f; text-wrap: balance; }
+  .pp-lede { margin-top: 16px; font-size: 1.1rem; line-height: 1.65; color: #3f5a77; font-weight: 600; }
+  .pp-lede strong { color: #16314f; }
+  .pp-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; margin-top: 24px; }
+  .pp-actions .pp-dl { display: inline-block; background: #16a34a; color: #fff; font-weight: 800; padding: 14px 24px; border-radius: 999px; text-decoration: none; box-shadow: 0 4px 0 #15803d; font-size: 1.02rem; }
+  .pp-actions .pp-dl:hover { background: #15803d; }
+  .pp-actions .print-btn, .pp-actions button { border-radius: 999px !important; }
+  .pp-actions-note { flex-basis: 100%; color: #6b7280; font-size: .92rem; font-weight: 600; margin: 0; }
+  .pp-hero-art { position: relative; border-radius: 26px; overflow: hidden; aspect-ratio: 3 / 2; background: #fbf7ef; box-shadow: 0 24px 60px -24px rgba(22,49,79,.35); }
+  .pp-hero-art img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+
+  .pp-section { margin: 0; padding: clamp(36px, 5vw, 56px) 0; border-top: 1px solid #ece5d6; }
+  .pp-h2 { font-size: clamp(1.5rem, 2.8vw, 2rem); color: #16314f; margin: 0 0 8px; }
+  .pp-section > .pp-muted { margin: 0 0 22px; max-width: 46em; font-size: 1.02rem; }
+
+  /* the 25 days: a calendar list rather than a spreadsheet */
+  .pp-tablewrap { overflow: visible; margin-top: 18px; }
+  .pp-table { font-size: 1rem; }
+  .pp-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .pp-table tbody tr { display: grid; grid-template-columns: 64px minmax(0, 1fr) auto; column-gap: 18px; row-gap: 4px; align-items: start; padding: 16px 0; border-bottom: 1px solid #ece5d6; }
+  .pp-table.has-thumbs tbody tr { grid-template-columns: 64px 64px minmax(0, 1fr) auto; }
+  .pp-table td { padding: 0; }
+  .pp-table td.pp-day { grid-row: 1 / span 2; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 64px; height: 64px; border-radius: 16px; background: #f0fdf4; color: #15803d; font-size: .74rem; text-transform: uppercase; letter-spacing: .08em; line-height: 1.1; }
+  .pp-day b { display: block; font-size: 1.6rem; letter-spacing: 0; color: #16a34a; font-weight: 800; }
+  .pp-table td.pp-thumb { grid-row: 1 / span 2; }
+  .pp-table td.pp-thumb img { width: 64px; height: 64px; border-radius: 14px; border: 1px solid #ece5d6; background: #fff; display: block; }
+  .pp-table td.pp-title { grid-column: -3; grid-row: 1; font-weight: 800; color: #16314f; font-size: 1.08rem; padding-top: 4px; }
+  .pp-table td.pp-sum { grid-column: -3; grid-row: 2; color: #3f5a77; font-weight: 600; line-height: 1.55; }
+  .pp-table td.pp-ref { grid-column: -2; grid-row: 1; margin-top: 4px; font-size: .85rem; font-weight: 700; color: #15803d; background: #f0fdf4; border-radius: 999px; padding: 3px 11px; }
+
+  .pp-ornaments { grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 18px; }
+  .pp-ornaments img { border-color: #ece5d6; border-radius: 18px; background: #fff; transition: transform .2s ease, box-shadow .2s ease; }
+  .pp-ornaments figure:hover img { transform: translateY(-2px); box-shadow: 0 10px 24px -12px rgba(22,49,79,.3); }
+  .pp-ornaments figcaption { font-size: .86rem; font-weight: 700; color: #3f5a77; margin-top: 8px; }
+
+  .pp-faq { display: grid; grid-template-columns: minmax(0, 4fr) minmax(0, 7fr); gap: 24px 56px; align-items: start; }
+  .pp-faq .pp-h2 { position: sticky; top: 96px; }
+  .pp-faq-item { margin: 0; padding: 18px 0; border-bottom: 1px solid #ece5d6; }
+  .pp-faq-item:first-child { padding-top: 0; }
+  .pp-faq-item h3 { font-size: 1.1rem; font-weight: 800; color: #16314f; margin-bottom: 6px; }
+  .pp-faq-item p { color: #3f5a77; font-weight: 600; }
+
+  .pp-more { border-top: 0; margin: 8px 0 56px; padding: 24px 28px; background: #fbf7ef; border: 1px solid #ece5d6; border-radius: 22px; }
+  .pp-more p { color: #3f5a77; font-weight: 600; margin: 0; }
+  .pp-more p + p { margin-top: 12px; }
+  .pp-more a { color: #15803d; font-weight: 800; }
+}
+
+@media screen and (max-width: 900px) {
+  .pp-head { grid-template-columns: 1fr; padding-top: 20px; }
+  .pp-hero-art { order: -1; aspect-ratio: 16 / 9; border-radius: 20px; }
+  .pp-faq { grid-template-columns: 1fr; }
+  .pp-faq .pp-h2 { position: static; }
+}
+@media screen and (max-width: 600px) {
+  .pp { padding: 0 16px; }
+  .pp-table tbody tr, .pp-table.has-thumbs tbody tr { grid-template-columns: 52px minmax(0, 1fr); column-gap: 14px; }
+  .pp-table td.pp-day { width: 52px; height: 52px; border-radius: 14px; }
+  .pp-day b { font-size: 1.3rem; }
+  .pp-table td.pp-thumb { display: none; }
+  .pp-table td.pp-day { grid-row: 1 / span 3; }
+  .pp-table td.pp-title, .pp-table td.pp-ref, .pp-table td.pp-sum { grid-column: 2; }
+  .pp-table td.pp-ref { grid-row: 2; justify-self: start; margin-top: 0; }
+  .pp-table td.pp-sum { grid-row: 3; }
+  .pp-actions .pp-dl { width: 100%; text-align: center; }
+  .pp-ornaments { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .pp-more { padding: 20px; }
+}
+@media screen { .pp-capture { margin: 0 0 8px !important; padding: 8px 0 36px; } }
+
+/* Cover picture for the document printables (trivia pack, bedtime kit,
+   books of the Bible), screen only. */
+.pp-cover, .pp-printrow, .pp-printbtn { display: none; }
+@media screen {
+  .pp-cover { display: block; margin: 0 0 22px; border-radius: 20px; overflow: hidden; aspect-ratio: 16 / 7; background: #fbf7ef; }
+  .pp-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .pp-printrow { display: block; margin-top: 14px; }
+  .pp-printbtn { display: inline-block; margin: 8px 0 0 4px; vertical-align: middle; }
+}
+@media screen and (max-width: 600px) { .pp-cover { aspect-ratio: 16 / 9; border-radius: 16px; margin-bottom: 16px; } }
+
+/* Bedtime Kit title on screen matches the other printables (owner, Nov 17,
+   2026). Its inline styles are the print design, which stays green and
+   small on paper; !important only here, only on screen. */
+@media screen {
+  .pp-h1-match { color: #16314f !important; font-size: clamp(2rem, 4vw, 3rem) !important; line-height: 1.08 !important; letter-spacing: -0.015em; text-wrap: balance; margin-top: 8px !important; }
+  .pp-lede-match { font-size: 1.1rem !important; line-height: 1.65 !important; color: #3f5a77 !important; font-weight: 600; margin-top: 12px !important; }
+}

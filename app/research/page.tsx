@@ -219,7 +219,7 @@ export default function ResearchHub() {
           </header>
 
           <section className="v2-section" id="published">
-            <div className="rs-finding-head">
+            <div className="rs-finding-head is-center">
               <span className="rs-num">Published</span>
               <h2>Studies you can cite today</h2>
               <p>Each one has a last-updated date at the top and a methodology section a statistics teacher could check.</p>
@@ -233,7 +233,7 @@ export default function ResearchHub() {
           </section>
 
           <section className="v2-section is-alt" id="planned">
-            <div className="rs-finding-head">
+            <div className="rs-finding-head is-center">
               <span className="rs-num">In the works</span>
               <h2>What we are studying next</h2>
               <p>
@@ -247,13 +247,13 @@ export default function ResearchHub() {
             </div>
             <p className="rs-soft" style={{ marginTop: 26 }}>
               Have a question you think we should study, or data you would like to see cut a different way?{' '}
-              <a href="mailto:christian@faithfulkids.app">christian@faithfulkids.app</a>. Suggestions from
+              <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>. Suggestions from
               teachers, pastors and researchers shape this list.
             </p>
           </section>
 
           <section className="v2-section" id="how">
-            <div className="rs-finding-head">
+            <div className="rs-finding-head is-center">
               <span className="rs-num">How we work</span>
               <h2>The rules every study follows</h2>
               <p>Written down so they are harder to bend when a result is tempting.</p>

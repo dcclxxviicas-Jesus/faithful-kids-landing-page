@@ -130,25 +130,22 @@ export default function AuthorPage() {
         </p>
       </section>
 
-      <section className="stories-section">
-        <h2>Published writing</h2>
-        <ul>
-          <li>
-            <a
-              href="https://www.christianpost.com/voices/i-took-my-kids-screens-away-heres-why-it-didnt-work.html"
-              target="_blank"
-              rel="noopener"
-            >
-              I took my kids&apos; screens away. Here&apos;s why it didn&apos;t work.
-            </a>{' '}
-            (The Christian Post, September 1, 2026)
-          </li>
-        </ul>
-        <p>
-          More on the thinking behind the app is on the{' '}
-          <Link href="/about">about page</Link>, which lays out pricing, ages, and how the app
-          treats kids&apos; data in plain language.
+      {/* A visible way to reach Christian (owner request, Nov 17, 2026). His
+          own address on purpose: this page is about him, everything else on
+          the site goes to team@. */}
+      <section className="stories-section" style={{ textAlign: 'center' }}>
+        <h2 style={{ marginBottom: 14 }}>Get in touch</h2>
+        <p style={{ maxWidth: '34em', margin: '0 auto 26px', lineHeight: 1.7 }}>
+          Questions, press, partnerships, or something we got wrong? Email Christian
+          directly. He reads and answers every message himself.
         </p>
+        <a
+          href="mailto:christian@faithfulkids.app"
+          className="btn-primary"
+          style={{ display: 'inline-flex', alignItems: 'center', gap: 8, marginTop: 4, textDecoration: 'none' }}
+        >
+          <span aria-hidden="true">✉️</span> Email christian@faithfulkids.app
+        </a>
       </section>
 
       <section className="blog-bottom-cta">

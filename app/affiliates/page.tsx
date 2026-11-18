@@ -26,8 +26,8 @@ export const metadata: Metadata = {
   },
 }
 
-/* Affiliates reach out to team@ (owner's call, Nov 16, 2026) — unlike /creators,
-   which deliberately keeps christian@ per the Aug 24 sender split. The 50%
+/* Affiliates reach out to team@ (owner's call, Nov 16, 2026), as do /creators
+   and every other page since Nov 17, 2026. The 50%
    figure is the owner's own stated program term (Nov 16, 2026); do not change
    it without his word. No cookie windows, payout schedules, or tracking-tool
    names are stated anywhere on this page because none have been specified —
@@ -125,7 +125,7 @@ function AffiliatesV2() {
         <div className="v2-wrap is-narrow v2-body">
           {/* Written to be QUOTED by answer engines: entity-dense, the whole
               offer in two sentences. */}
-          <p className="v2-note">
+          <p>
             <strong>The Faithful Kids affiliate program pays 50% of every sale you refer</strong>{' '}
             to the Bible video app for kids (ages 5-15). There is no follower or traffic
             minimum; join by emailing{' '}

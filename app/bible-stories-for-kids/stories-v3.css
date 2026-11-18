@@ -1,0 +1,70 @@
+/* /bible-stories-for-kids, Nov 17, 2026 pass. The centred header and the
+   intro card stay exactly as live (owner's preference). What changes:
+   - a row of series links under each testament heading, so a parent who
+     wants Exodus does not scroll past Genesis to find it;
+   - no lonely last card: the tenth series spans the row on desktop;
+   - phones show four stories per series plus a link to the rest, instead of
+     a 16,000px page of lists (all 200 links stay in the HTML);
+   - the age and theme cards drop the emoji badges and pastel fills for white
+     cards with a coloured top rule, the treatment the other hubs use. */
+
+.sv3 .sv-series { scroll-margin-top: 96px; }
+
+.sv3 .sv3-series-nav {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;
+  max-width: 980px; margin: -6px auto 30px; padding: 0 16px;
+}
+.sv3 .sv3-series-nav a {
+  font-family: var(--font-display), sans-serif; font-weight: 700; font-size: .92rem;
+  color: var(--hv-ink); background: #fff; border: 1.5px solid #e6e0d4; border-radius: 999px;
+  padding: 7px 14px; text-decoration: none; transition: border-color .15s, color .15s;
+}
+.sv3 .sv3-series-nav a:hover { border-color: var(--hv-green); color: var(--hv-green-dark); }
+
+.sv3 .sv3-more { display: none; }
+
+@media (min-width: 960px) {
+  .sv3 .sv-series-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  /* The tenth series would sit alone on its row: lay it out across the row,
+     picture left, its stories in two columns. */
+  .sv3 .sv-series-grid > .sv-series:last-child:nth-child(3n + 1) {
+    grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); align-items: stretch;
+  }
+  .sv3 .sv-series-grid > .sv-series:last-child:nth-child(3n + 1) .sv-series-art { height: 100%; min-height: 260px; }
+  .sv3 .sv-series-grid > .sv-series:last-child:nth-child(3n + 1) .sv-series-art img { height: 100%; }
+  .sv3 .sv-series-grid > .sv-series:last-child:nth-child(3n + 1) .sv-list { columns: 2; column-gap: 36px; align-self: center; padding: 22px 32px; }
+  .sv3 .sv-series-grid > .sv-series:last-child:nth-child(3n + 1) .sv-list li { break-inside: avoid; }
+}
+
+@media (max-width: 620px) {
+  .sv3 .sv3-series-nav { flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; margin: -4px -16px 22px; padding: 0 16px 6px; scrollbar-width: none; }
+  .sv3 .sv3-series-nav::-webkit-scrollbar { display: none; }
+  .sv3 .sv3-series-nav a { white-space: nowrap; }
+  .sv3 .sv-series .sv-list li:nth-child(n + 5) { display: none; }
+  .sv3 .sv3-more {
+    display: block; margin: 0 18px 18px; padding: 11px 14px; border-radius: 12px; text-align: center;
+    background: #f0fdf4; color: var(--hv-green-dark); font-weight: 800; text-decoration: none; font-size: .95rem;
+  }
+}
+
+/* Age and theme cards */
+.sv3 .sv-card { background: #fff !important; border: 1px solid #ebe5d9; border-top: 5px solid var(--sv3-c, var(--hv-green)); box-shadow: 0 6px 18px rgba(22,49,79,.06); }
+.sv3 .sv-theme { padding-top: 22px; }
+.sv3 .sv-theme-icon { display: none; }
+.sv3 .sv-cards > .sv-card:nth-child(8n + 1) { --sv3-c: #2563eb; }
+.sv3 .sv-cards > .sv-card:nth-child(8n + 2) { --sv3-c: #16a34a; }
+.sv3 .sv-cards > .sv-card:nth-child(8n + 3) { --sv3-c: #d97706; }
+.sv3 .sv-cards > .sv-card:nth-child(8n + 4) { --sv3-c: #db2777; }
+.sv3 .sv-cards > .sv-card:nth-child(8n + 5) { --sv3-c: #ca8a04; }
+.sv3 .sv-cards > .sv-card:nth-child(8n + 6) { --sv3-c: #4f46e5; }
+.sv3 .sv-cards > .sv-card:nth-child(8n + 7) { --sv3-c: #059669; }
+.sv3 .sv-cards > .sv-card:nth-child(8n + 8) { --sv3-c: #dc2626; }
+.sv3 .sv-cards.is-3 .sv-card h3 { color: var(--sv3-c); }
+
+/* Shorter hero (owner, Nov 17, 2026): the 560px minimum left a band of empty
+   hills between the intro and the card. Height now follows the text, with
+   enough bottom room that the card still overlaps a strip of the painting. */
+.hv2.sv3 .sv-hero, .sv3 .sv-hero { min-height: 0; padding: 44px 20px 200px; }
+@media (max-width: 560px) {
+  .hv2.sv3 .sv-hero, .sv3 .sv-hero { min-height: 0; padding: 24px 18px 170px; }
+}

@@ -86,4 +86,4 @@ Faithful Kids shows both: the quiz score and the tapped reflection answer for ea
 
 ---
 
-*We make Faithful Kids. Competitor facts come from each app's App Store listing or website on the date shown; quoted phrases are theirs. If something is out of date, email christian@faithfulkids.app.*
+*We make Faithful Kids. Competitor facts come from each app's App Store listing or website on the date shown; quoted phrases are theirs. If something is out of date, email team@faithfulkids.app.*

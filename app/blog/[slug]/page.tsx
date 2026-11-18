@@ -26,6 +26,7 @@ import { getIntentPanel } from '@/lib/intent-panels'
 import { getTriviaVideo } from '@/lib/trivia-video'
 import { attachChoices, playableCount } from '@/lib/trivia-choices'
 import { EmbedNote } from '../EmbedNote'
+import './post.css'
 
 // Seasonal default magnet: November–December builds offer the Advent
 // readings instead of the bedtime kit (trivia pages keep the trivia pack).
@@ -291,6 +292,10 @@ export default async function BlogPostPage({ params }: Props) {
   // page). Copy map + rationale: lib/intent-panels.ts.
   const intentPanel = !isStory && !isAppPage ? getIntentPanel(slug) : undefined
   const intentVideo = guideVideo ?? samplerVideo
+  // Headings get ids at render time (not in lib/blog.ts, whose FAQ and
+  // discussion extractors match the bare <h2> tag) so the contents list can
+  // link to them.
+  const toc = headingList(post.content)
   const introParts = splitIntro(contentParts.first)
   const firstSplit = splitAfterFirstSection(contentParts.first)
 
@@ -301,6 +306,15 @@ export default async function BlogPostPage({ params }: Props) {
 const hasTriviaGame = playableCount(triviaQuestions) >= 10
   const exitVariant: 'trivia' | 'story' | 'guide' =
     post.slug.includes('trivia') ? 'trivia' : post.type !== 'listicle' ? 'story' : 'guide'
+  const midMagnet = exitVariant === 'trivia' ? ('trivia-pack' as const) : DEFAULT_MAGNET
+  // The closing card never repeats the mid-article one. In Advent season the
+  // trivia pages close on the Advent readings and every other post on the
+  // Trivia Pack; out of season trivia pages close on the Bedtime Kit.
+  const endMagnet = !contentParts.second
+    ? midMagnet
+    : midMagnet === 'trivia-pack'
+      ? (ADVENT_SEASON ? ('advent' as const) : ('bedtime-kit' as const))
+      : ('trivia-pack' as const)
 
   return (
     <>
@@ -352,18 +366,6 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
         <span className="blog-breadcrumb-current">{post.title.split(':')[0]}</span>
       </div>
 
-      {/* HERO IMAGE */}
-      <div style={{ maxWidth: '900px', margin: '0 auto', padding: '0 20px' }}>
-        <BlogImage
-          src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-hero.webp?v=3`}
-          alt={`${post.title} - Bible Story Illustration for Kids`}
-          width={1792}
-          height={1024}
-          fetchPriority="high"
-          style={{ width: '100%', height: 'auto', borderRadius: '16px', marginBottom: '24px' }}
-        />
-      </div>
-
       {/* ARTICLE */}
       <article className="blog-article">
         {/* Header */}
@@ -385,16 +387,18 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             )}
           </div>
           <h1 className="blog-article-title">{post.title}</h1>
+          {/* Built from a list so an empty field (guides have no testament)
+              no longer leaves a stray "· ·" in the line. */}
           <div className="blog-article-info">
-            <span>{post.age}</span>
-            <span>&middot;</span>
-            <span>{readingTime} min read</span>
-            <span>&middot;</span>
-            <span>{post.testament}</span>
-            <span>&middot;</span>
-            <span>By Faithful Kids Team</span>
-            <span>&middot;</span>
-            <span>Updated {new Date(post.dateModified + 'T00:00:00').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+            {[
+              post.age,
+              `${readingTime} min read`,
+              post.testament,
+              'By Faithful Kids Team',
+              `Updated ${new Date(post.dateModified + 'T00:00:00').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}`,
+            ].filter(Boolean).map((item, i) => (
+              <span key={i} className="blog-article-info-item">{i > 0 && <span aria-hidden="true">&middot;</span>}{item}</span>
+            ))}
             {post.author === 'Christian Alexander' && (
               <span>By <a href="/about/christian-alexander">Christian Alexander</a></span>
             )}
@@ -407,6 +411,42 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             </div>
           )}
         </header>
+
+        {/* The picture now follows the title instead of sitting above it: on a
+            phone the old order put the headline a third of the way down the
+            first screen. Same image, same alt, still the priority load. */}
+        <div className="post-hero">
+          <BlogImage
+            src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${slug}-hero.webp?v=3`}
+            alt={`${post.title} - Bible Story Illustration for Kids`}
+            width={1792}
+            height={1024}
+            fetchPriority="high"
+            style={{ width: "100%", height: "auto", borderRadius: "18px", display: "block" }}
+          />
+        </div>
+
+        {toc.length >= 4 && (
+          <details className="blog-toc">
+            <summary>On this page <span>{toc.length} sections</span></summary>
+            {/* Headings often carry their own number ("1. Joshua..."), so the
+                list draws none of its own: a numbered heading shows its number
+                once, in a badge, and an unnumbered one gets an arrow. */}
+            <ul>
+              {toc.map(h => {
+                const m = h.text.match(/^(\d+)[.)]\s+(.*)$/)
+                return (
+                  <li key={h.id}>
+                    <a href={`#${h.id}`}>
+                      <span className="toc-mark" aria-hidden={m ? undefined : true}>{m ? m[1] : '\u203A'}</span>
+                      <span className="toc-text">{m ? m[2] : h.text}</span>
+                    </a>
+                  </li>
+                )
+              })}
+            </ul>
+          </details>
+        )}
 
         {isStory && (
           <StoryLesson
@@ -452,7 +492,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
                 first buried the one interactive thing on the page. */}
             <div
               className="blog-article-body"
-              dangerouslySetInnerHTML={{ __html: introParts.intro }}
+              dangerouslySetInnerHTML={{ __html: withHeadingIds(introParts.intro) }}
             />
             <TriviaGame
               questions={attachChoices(triviaQuestions)}
@@ -469,14 +509,14 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             {!isAppPage && <VerseCta postSlug={post.slug} />}
             <div
               className="blog-article-body"
-              dangerouslySetInnerHTML={{ __html: introParts.rest }}
+              dangerouslySetInnerHTML={{ __html: withHeadingIds(introParts.rest) }}
             />
           </>
         ) : (
           <>
             <div
               className="blog-article-body"
-              dangerouslySetInnerHTML={{ __html: firstSplit.a }}
+              dangerouslySetInnerHTML={{ __html: withHeadingIds(firstSplit.a) }}
             />
             {/* Verse CTA after the first h2 section — high, but after value.
                 High-intent pages get their matched product panel here instead. */}
@@ -496,7 +536,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             {firstSplit.b && (
               <div
                 className="blog-article-body"
-                dangerouslySetInnerHTML={{ __html: firstSplit.b }}
+                dangerouslySetInnerHTML={{ __html: withHeadingIds(firstSplit.b) }}
               />
             )}
           </>
@@ -558,7 +598,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
         {secondParts.a && (
           <div
             className="blog-article-body"
-            dangerouslySetInnerHTML={{ __html: secondParts.a }}
+            dangerouslySetInnerHTML={{ __html: withHeadingIds(secondParts.a) }}
           />
         )}
 
@@ -569,7 +609,7 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
             still are. `placement` splits mid vs end in PostHog. */}
         {contentParts.second && (
           <EmailCaptureCard
-            magnet={exitVariant === 'trivia' ? 'trivia-pack' : DEFAULT_MAGNET}
+            magnet={midMagnet}
             source="blog-inline"
             sourcePost={post.slug}
             placement="mid"
@@ -593,12 +633,15 @@ const hasTriviaGame = playableCount(triviaQuestions) >= 10
         {contentParts.second && (
           <div
             className="blog-article-body"
-            dangerouslySetInnerHTML={{ __html: secondParts.b || contentParts.second }}
+            dangerouslySetInnerHTML={{ __html: withHeadingIds(secondParts.b || contentParts.second) }}
           />
         )}
-        {/* Email capture — magnet matched to page type */}
+        {/* Email capture — magnet matched to page type. When the mid-article
+            card is on the page, this one offers a DIFFERENT printable (owner,
+            Nov 17, 2026: two identical Advent cards on one post read as a
+            mistake). See endMagnet above. */}
         <EmailCaptureCard
-          magnet={exitVariant === 'trivia' ? 'trivia-pack' : DEFAULT_MAGNET}
+          magnet={endMagnet}
           source="blog-inline"
           sourcePost={post.slug}
           placement="end"
@@ -777,4 +820,28 @@ function splitContentForCTA(html: string): { first: string; second: string } {
     first: html.slice(0, splitIndex),
     second: html.slice(splitIndex),
   }
+}
+
+
+/* ---------- heading anchors for the "On this page" list ---------- */
+function headingSlug(text: string) {
+  return text.replace(/<[^>]+>/g, '').replace(/&[a-z#0-9]+;/gi, '').toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60) || 'section'
+}
+function headingList(html: string): { id: string; text: string }[] {
+  const seen = new Map<string, number>()
+  // A repeated heading keeps the id of its first appearance, so the list
+  // shows it once and the link lands on the first one.
+  return Array.from(html.matchAll(/<h2>([\s\S]*?)<\/h2>/g)).flatMap(m => {
+    const id = headingSlug(m[1])
+    if (seen.has(id)) return []
+    seen.set(id, 1)
+    const text = m[1].replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&#x27;|&#39;/g, "'").replace(/&quot;/g, '"')
+    return [{ id, text }]
+  })
+}
+/* Ids depend only on the heading text (plus a counter for repeats), so the
+   same heading gets the same id whichever chunk of the body it lands in. */
+function withHeadingIds(html: string) {
+  return html.replace(/<h2>([\s\S]*?)<\/h2>/g, (_m, inner) => `<h2 id="${headingSlug(inner)}">${inner}</h2>`)
 }

@@ -19,7 +19,7 @@ A note on how this list works: we are one of the brands on it (first, because it
 
 **The program:** free full access for your family, plus **paid collaborations** for creators where the fit is genuine. No follower minimums, we care whether your audience trusts you, not how big it is. We partner with Christian parenting, homeschool, and family creators on Instagram, TikTok, and YouTube.
 
-**How to apply:** email [christian@faithfulkids.app](mailto:christian@faithfulkids.app) with your handles, audience sizes, and one content idea. A real person reads every pitch and replies either way. Full details: [faithfulkids.app/creators](/creators).
+**How to apply:** email [team@faithfulkids.app](mailto:team@faithfulkids.app) with your handles, audience sizes, and one content idea. A real person reads every pitch and replies either way. Full details: [faithfulkids.app/creators](/creators).
 
 ## 2. Elevated Faith
 

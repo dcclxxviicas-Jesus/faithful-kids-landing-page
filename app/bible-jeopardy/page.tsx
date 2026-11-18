@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
+import '../hub.css'
 import './jeopardy.css'
 
 import { JeopardyGame } from './JeopardyGame'
@@ -58,8 +59,9 @@ function BibleJeopardy() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(quizSchema) }} />
       <SiteNav active="trivia" />
 
-      <main id="main-content">
+      <main id="main-content" className="hb">
 
+      {/* Live header kept (owner, Nov 17, 2026). */}
       <V2Hero
         short
         art="trivia"

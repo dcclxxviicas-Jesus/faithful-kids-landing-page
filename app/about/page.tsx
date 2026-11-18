@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
+import '../hub.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { getAllPosts } from '@/lib/blog'
 import { COLORING_PAGES } from '@/lib/coloring-pages'
@@ -114,8 +115,9 @@ function AboutV2() {
 
       <SiteNav />
 
-      <main id="main-content">
+      <main id="main-content" className="hb">
 
+      {/* Live header kept (owner, Nov 17, 2026). */}
       <V2Hero
         short
         art="about"
@@ -147,18 +149,22 @@ function AboutV2() {
       </section>
 
       <section className="v2-section is-alt">
-        <V2Head title="Faithful Kids by the numbers"
-                sub="Exact figures, counted from the app's own data. Updated when the data changes." />
+        {/* Simplified Nov 17, 2026 (owner: "more clear/simple"). Every claim
+            is still true: 310 lessons in 31 series, median 2:07, a reflection
+            on 305 of 310 (so "most"), 5 profiles, Seedling to Bible Master.
+            Printables ask for an email to print, so no "no sign-up" here. */}
+        <V2Head title="Faithful Kids at a glance"
+                sub="What your family gets inside the app." />
         <div className="v2-wrap">
           <div className="v2-grid is-4">
-            <div className="v2-card"><h3>31 series, 310 video lessons</h3><p>In Bible order, Genesis to Revelation. The first ten series are Old Testament. Each lesson is about two to three minutes (measured 1:28 to 3:37, median 2:07). The <a href="/blog/faithful-kids-scope-and-sequence">complete scope and sequence</a> lists every lesson.</p></div>
-            <div className="v2-card"><h3>1,187 quiz questions</h3><p>A quiz after every lesson: one to eight questions, three to five on most, median four. 250 of the 310 lessons have three or more.</p></div>
-            <div className="v2-card"><h3>A reflection question after 305 lessons</h3><p>Answered by tapping response cards, no typing. The answer is shown to the parent.</p></div>
-            <div className="v2-card"><h3>Up to 5 kid profiles per family</h3><p>Each with its own progress, unlocks, streak and level.</p></div>
-            <div className="v2-card"><h3>Parent dashboard, PIN-protected</h3><p>Shows, per child: lessons completed, each quiz score, each reflection answer, current streak, and level and XP.</p></div>
-            <div className="v2-card"><h3>Streaks, 10 levels, 15 achievements</h3><p>Daily streaks; levels from Seedling to Bible Master based on XP; achievements such as First Steps, Quiz Master, Faithful Five, Series Champion and Week Warrior.</p></div>
-            <div className="v2-card"><h3>Series unlock in order</h3><p>Genesis and the Birth of Jesus are open from the start; finishing a series unlocks the next.</p></div>
-            <div className="v2-card"><h3>Free web library, no sign-up</h3><p>200 Bible story pages with discussion questions, 26 coloring pages, 11 word searches, a 100-question trivia game, and every lesson transcript.</p></div>
+            <div className="v2-card"><h3>310 video lessons</h3><p>The whole Bible in order, Genesis to Revelation, across 31 series. About two minutes each. <a href="/blog/faithful-kids-scope-and-sequence">See every lesson</a>.</p></div>
+            <div className="v2-card"><h3>A quiz after every lesson</h3><p>A few quick questions that show what your child understood.</p></div>
+            <div className="v2-card"><h3>A question to talk about</h3><p>Most lessons end with one. Kids answer by tapping, no typing, and you can see what they said.</p></div>
+            <div className="v2-card"><h3>Up to 5 kids per family</h3><p>Each child has their own profile and progress.</p></div>
+            <div className="v2-card"><h3>A dashboard for parents</h3><p>See each child&apos;s finished lessons, quiz scores and answers. Protected by a PIN.</p></div>
+            <div className="v2-card"><h3>Streaks and levels</h3><p>Kids grow from Seedling to Bible Master as they keep going.</p></div>
+            <div className="v2-card"><h3>Unlocks in order</h3><p>Start with Genesis or the Birth of Jesus. Finishing a series opens the next one.</p></div>
+            <div className="v2-card"><h3>Free on our website</h3><p>200 Bible stories, coloring pages, word searches and a <a href="/bible-trivia">Bible trivia game</a>.</p></div>
           </div>
         </div>
       </section>

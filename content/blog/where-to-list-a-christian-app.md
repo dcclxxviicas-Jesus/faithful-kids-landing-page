@@ -3,10 +3,10 @@ title: "Where to List a Christian App in 2026: Free Directories and Review Sites
 slug: "where-to-list-a-christian-app"
 type: "listicle"
 metaTitle: "Where to List a Christian App (2026): Free Directories"
-metaDescription: "Free places to list a Christian app or kids' faith app in 2026: directories, homeschool reviewers and church lists, plus the ones that went paid."
-keywords: ["where to list a christian app", "christian app directory", "submit christian app", "christian app review sites", "app review sites", "kids app review sites", "how to promote a christian app", "homeschool curriculum directory"]
+metaDescription: "Free places to list a Christian app or kids' faith app in 2026: Christian app directories, app review sites, homeschool reviewers and church lists."
+keywords: ["where to list a christian app", "christian app directory", "submit christian app", "christian app review sites", "app review sites", "kids app review sites", "how to promote a christian app"]
 datePublished: "2026-11-17"
-dateModified: "2026-11-17"
+dateModified: "2026-11-18"
 ---
 
 If you've built a Christian app or website for kids, getting it in front of parents is harder than building it. The app stores bury small faith apps, and most "submit your app" lists online are years out of date, full of sites that closed, went paid or quietly stopped reviewing anything.

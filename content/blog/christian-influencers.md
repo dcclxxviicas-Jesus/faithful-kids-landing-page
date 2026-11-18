@@ -3,10 +3,10 @@ title: "Christian Influencers to Follow (2026): 22 Verified Accounts"
 slug: "christian-influencers"
 type: "listicle"
 metaTitle: "22 Christian Influencers to Follow (Verified 2026)"
-metaDescription: "Christian influencers worth following in 2026, for Bible teaching, women, moms, men, apologetics and Catholics, each verified active."
-keywords: ["christian influencers", "christian influencers to follow", "christian instagram accounts", "christian tiktokers", "christian content creators", "christian women influencers", "christian mom influencers", "catholic influencers"]
+metaDescription: "Popular Christian influencers to follow in 2026 on Instagram, TikTok and YouTube: Bible teaching, women, moms, men, apologetics and Catholic, all active."
+keywords: ["christian influencers", "christian influencers to follow", "popular christian influencers", "christian content creators", "christian mom influencers", "catholic influencers", "christian influencers on tiktok", "christian instagram accounts", "christian women influencers"]
 datePublished: "2026-11-16"
-dateModified: "2026-11-16"
+dateModified: "2026-11-18"
 ---
 
 Lists of Christian influencers go stale fast: accounts go quiet, people step back from ministry, and fan accounts get mistaken for the real thing. So every creator below was checked on their own profile on November 16, 2026. Audience sizes are as shown that day, recent activity is their latest post or episode, and where an account was only visible on Instagram (which hides post dates), we say so.
@@ -41,7 +41,7 @@ Lists of Christian influencers go stale fast: accounts go quiet, people step bac
 
 **7. Allie Beth Stuckey** ([YouTube](https://www.youtube.com/@AllieBethStuckey)). Host of BlazeTV's *Relatable*, on culture, news and theology: 756K on YouTube and 947K on Instagram, with an episode out the day we checked.
 
-## For Women
+## Christian Women Influencers
 
 **8. Lisa Bevere** ([YouTube](https://www.youtube.com/@LisaBevere)). Teaching for women from the bestselling author, 964K on Instagram and 289K on YouTube.
 
@@ -51,7 +51,7 @@ Lists of Christian influencers go stale fast: accounts go quiet, people step bac
 
 **11. Rebekah Lyons** ([Instagram](https://www.instagram.com/rebekahlyons)). Faith, family and mental health, 250K on Instagram.
 
-## Moms and Family
+## Christian Mom Influencers
 
 **12. Sadie Robertson Huff** ([Instagram](https://www.instagram.com/legitsadierob)). 5 million on Instagram and 752K on YouTube, plus the *WHOA That's Good* podcast. Watch for fakes: her real Instagram is @legitsadierob.
 
@@ -59,7 +59,7 @@ Lists of Christian influencers go stale fast: accounts go quiet, people step bac
 
 **14. Ruth Chou Simons** ([Instagram](https://www.instagram.com/gracelaced)). Scripture art and devotionals through GraceLaced, 122K on Instagram.
 
-## For Men
+## Christian Influencers for Men
 
 **15. Ruslan KD** ([YouTube](https://www.youtube.com/@RuslanKD)). A self-described "Christian YouTuber" on faith and culture, with 862K on YouTube, 220K on Instagram and regular livestreams.
 
@@ -71,13 +71,13 @@ Lists of Christian influencers go stale fast: accounts go quiet, people step bac
 
 **18. Craig Groeschel** ([YouTube](https://www.youtube.com/@CraigGroeschel)). Leadership and sermons from Life.Church, 1 million on Instagram. (He stepped away from the Life Surge events in September 2026 and remains senior pastor.)
 
-## Catholic
+## Catholic Influencers
 
 **19. Bishop Robert Barron, Word on Fire** ([YouTube](https://www.youtube.com/@bishopbarron)). Sunday sermons and faith-and-culture commentary, 3.66 million on YouTube.
 
 **20. Fr. Mike Schmitz** ([YouTube](https://www.youtube.com/@ascensionpresents)). Short homilies and Catholic Q&A on Ascension Presents, 1.36 million subscribers. (The separate "Bible in a Year" YouTube channel hasn't uploaded in about two years; the daily show lives on podcast apps now.)
 
-## Gen Z
+## Gen Z Christian Influencers
 
 **21. Bryce Crawford** ([TikTok](https://www.tiktok.com/@brycecrawford)). Street preaching and evangelism with 4.6 million TikTok followers and a podcast that published the day we checked.
 

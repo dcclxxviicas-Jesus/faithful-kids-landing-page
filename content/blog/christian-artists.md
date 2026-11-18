@@ -1,12 +1,12 @@
 ---
-title: "Best Christian Artists Right Now (2026): 25 to Listen To"
+title: "Best Christian Artists Right Now (2026): 25 Popular Singers to Listen To"
 slug: "christian-artists"
 type: "listicle"
-metaTitle: "25 Best Christian Artists Right Now (November 2026)"
-metaDescription: "The best Christian artists of 2026 in worship, CCM, hip hop, rock and gospel, with Billboard chart positions and the 2026 Dove Award winners."
-keywords: ["christian artists", "christian music artists", "best christian artists", "top christian artists 2026", "christian singers", "worship artists", "christian rap artists", "gospel artists", "new christian artists"]
+metaTitle: "25 Best and Most Popular Christian Artists Right Now (2026)"
+metaDescription: "The most popular Christian artists of 2026 in worship, CCM, Christian rap and gospel, with Billboard chart positions and the 2026 Dove Award winners."
+keywords: ["christian artists", "popular christian artists", "contemporary christian artists", "best christian artists", "top christian artists", "christian singers", "christian music artists", "christian rap artists", "christian hip hop artists", "gospel artists", "worship artists"]
 datePublished: "2026-11-16"
-dateModified: "2026-11-16"
+dateModified: "2026-11-18"
 ---
 
 Most "best Christian artists" lists are a decade behind: they lead with names that haven't released new music in years and miss the ones topping the charts right now. This one is built from what's verifiable this week: Billboard's Christian and gospel charts dated November 14, 2026, each artist's Spotify monthly listeners as shown on November 16, 2026, release dates from Apple's catalogue, and the winners of the 57th GMA Dove Awards held on October 6, 2026. Listener counts move every day, so read them as "about."
@@ -19,7 +19,7 @@ Most "best Christian artists" lists are a decade behind: they lead with names th
 - **Largest audience:** Skillet, at about 11.6 million monthly listeners.
 - **For kids and families:** Seeds Kids Worship, Hillsong Kids, Yancy and Rend Collective (at the end).
 
-## Worship
+## Worship Artists
 
 **1. Elevation Worship.** About 10.2 million monthly listeners, and "God I'm Just Grateful" with Chandler Moore is #1 on Hot Christian Songs; it also won the 2026 Dove for Worship Recorded Song. Latest album: *Promise & Presence* (August 2026). [Spotify](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix)
 
@@ -39,7 +39,7 @@ Most "best Christian artists" lists are a decade behind: they lead with names th
 
 **9. Chris Tomlin.** About 5.4 million listeners, with a new Christmas album, *Good News of Great Joy* (November 6, 2026). [Spotify](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m)
 
-## Christian Pop and CCM
+## Contemporary Christian (CCM) and Pop Artists
 
 **10. Forrest Frank.** About 7 million listeners and two songs in this week's top ten ("OKAY!" at #6, "What A Life" at #10), with *Child of God II* at #2 on Top Christian Albums. His next album, *THE JESUS GENERATION*, is listed for December 4, 2026. [Spotify](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ)
 
@@ -61,11 +61,11 @@ Most "best Christian artists" lists are a decade behind: they lead with names th
 
 Also in this week's charts: Leanna Crawford ("Thank God"), Matt Maher ("Gonna Be Alright"), tobyMac ("Lord It Feels Good"), Casting Crowns and Jeremy Camp.
 
-## Rock
+## Christian Rock Artists
 
 **19. Skillet.** The largest audience on this list, about 11.6 million monthly listeners, with a new EP, *After The Storm* (October 2026). Its collaboration with Jeremy Camp, "No Survivors," won the Dove for Rock/Contemporary Recorded Song. [Spotify](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8)
 
-## Hip Hop
+## Christian Hip Hop and Rap Artists
 
 **20. Lecrae.** *Reconstruction: Second Story* (February 2026); about 2.4 million listeners. [Spotify](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW)
 
@@ -73,7 +73,7 @@ Also in this week's charts: Leanna Crawford ("Thank God"), Matt Maher ("Gonna Be
 
 **22. Andy Mineo.** *MAGIC & BIRD 2: WHAT A RUSH!* with Wordsplayed (June 2026). Also worth a listen: Hulvey, whose *COULD BE TONIGHT* won the 2026 Dove for Rap/Hip Hop Album. [Spotify](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw)
 
-## Gospel
+## Gospel Artists
 
 **23. Kirk Franklin.** *I Am What I Am* (October 30, 2026) debuted at **#1 on Top Gospel Albums**, and "This Time" is #1 on Hot Gospel Songs. [Spotify](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu)
 

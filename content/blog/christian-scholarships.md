@@ -1,12 +1,12 @@
 ---
-title: "Christian Scholarships: The Verified List for 2026-2027"
+title: "Christian Scholarships for 2026-2027: The Verified List, With Deadlines"
 slug: "christian-scholarships"
 type: "listicle"
 metaTitle: "Christian Scholarships 2026-2027: Verified Deadlines"
-metaDescription: "Christian scholarships checked on each funder's own page in November 2026: real amounts, deadlines from Dec 31 to Mar 1, who qualifies, and which ended."
-keywords: ["christian scholarships", "christian scholarships for college", "scholarships for christian students", "catholic scholarships", "baptist scholarships", "methodist scholarships", "presbyterian scholarships", "scholarships for homeschoolers", "ministry scholarships"]
+metaDescription: "Christian scholarships for college, checked on each funder's own page in November 2026: real amounts, deadlines from Dec 31 to Mar 1, and which ended."
+keywords: ["christian scholarships", "christian college scholarships", "scholarships for christian students", "catholic scholarships", "church scholarships", "baptist scholarships", "methodist scholarships", "scholarships for homeschoolers", "ministry scholarships"]
 datePublished: "2026-11-11"
-dateModified: "2026-11-16"
+dateModified: "2026-11-18"
 ---
 
 Christian scholarship lists are full of awards that no longer exist. The best-known example: Thrivent's scholarships for graduating seniors ended in 2022, and lists still recommend them. Aggregator sites also routinely print deadlines that contradict the funders' own pages.
@@ -45,7 +45,7 @@ The honest shape of this market: **most Christian scholarships require membershi
 
 **10. Catholic Order of Foresters.** Two member awards, both due **June 30, 2027**. The **Fraternal Scholarship** pays $1,000, earned through service such as teaching religious education. The **Educational Award** pays $600 to up to 50 members, chosen by random drawing. Both require 15 or more months of membership. [catholicforester.org](https://www.catholicforester.org/scholarships/)
 
-## More Denominational, Regional and Seminary Awards
+## Catholic, Baptist, Methodist and Other Church Scholarships
 
 These were verified on the funders' own pages on November 11, 2026, for an earlier edition of this guide:
 

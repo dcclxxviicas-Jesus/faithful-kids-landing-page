@@ -1,19 +1,19 @@
 ---
-title: "18 Christian YouTubers Actually Worth Following in 2026"
+title: "18 Christian YouTubers and Channels Actually Worth Following in 2026"
 slug: "christian-youtubers"
 type: "listicle"
-metaTitle: "18 Christian YouTubers Worth Following (Verified 2026)"
-metaDescription: "The best Christian YouTubers in 2026, verified active: apologetics, Bible teaching, lifestyle, music, and Christian gaming channels, with who each one fits."
-keywords: ["christian youtubers", "popular christian youtubers", "most popular christian youtubers", "christian gaming youtubers", "christian minecraft youtubers", "best christian youtube channels", "christian content creators"]
+metaTitle: "18 Best Christian YouTube Channels and YouTubers (2026)"
+metaDescription: "The best Christian YouTube channels and YouTubers of 2026, all verified active: apologetics, Bible teaching, lifestyle, music and Christian gaming."
+keywords: ["christian youtubers", "christian youtube channels", "best christian youtube channels", "popular christian youtubers", "christian gaming youtubers", "christian minecraft youtubers", "most popular christian youtubers"]
 datePublished: "2026-11-16"
-dateModified: "2026-11-16"
+dateModified: "2026-11-18"
 ---
 
 Lists of Christian YouTubers age badly, because channels go quiet without announcing it. Several of the names other roundups still recommend have not uploaded in over a year. So we checked every channel below against its own page and upload feed in November 2026: all 18 are genuinely active, the subscriber counts are what YouTube displayed the day we checked, and the quiet ones are named at the end so you stop recommending them too.
 
 Looking for channels for young kids instead? That's a different list: our [best Christian YouTube channels for kids](/blog/christian-youtube-channels-for-kids) covers Saddleback Kids, Superbook, and friends by age. (Full disclosure while we're here: we run a kids' Bible channel ourselves and make the [Faithful Kids](https://faithfulkids.app/quiz) app; neither is ranked below.)
 
-## Apologetics and Hard Questions
+## Christian Apologetics YouTube Channels
 
 ### 1. Mike Winger (BibleThinker)
 
@@ -77,7 +77,7 @@ About 504K subscribers. The married-couple podcast on theology, relationships, p
 
 About 3.15M subscribers, and the biggest crossover force in Christian music right now. Lyric videos and faith shorts, uploading weekly. One hygiene note from our verification: the real channel is @hiforrest; several lookalike "official" Forrest Frank channels are fakes.
 
-## Christian Gaming YouTubers
+## Christian Gaming YouTubers (Minecraft and More)
 
 The most-asked flavor of this question is also the thinnest, so here is the honest state of Christian gaming YouTube in 2026, verified channel by channel. If your kids watch gaming more than they play it, our [family-friendly YouTubers guide](/blog/family-friendly-youtubers) covers the mainstream side, and our [Christian streamers roundup](/blog/christian-twitch-streamers) covers the live side.
 

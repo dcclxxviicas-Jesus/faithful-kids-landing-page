@@ -1,12 +1,12 @@
 ---
-title: "Best Christian Clothing Brands for Kids and Babies (2026)"
+title: "Christian Clothing for Kids and Babies (2026): 11 Brands Still Selling"
 slug: "christian-clothing-for-kids"
 type: "listicle"
-metaTitle: "Christian Clothing for Kids & Babies: 11 Brands (2026)"
-metaDescription: "Christian clothing for babies, toddlers and kids: 11 brands verified selling in November 2026, with real sizes, prices and matching family sets."
-keywords: ["christian clothing for kids", "christian baby clothes", "christian kids clothing brands", "christian toddler clothes", "christian onesies", "christian shirts for kids", "bible verse pajamas", "christian youth shirts"]
+metaTitle: "Christian Clothing for Kids and Christian Baby Clothes"
+metaDescription: "Christian clothing for kids and Christian baby clothes: 11 brands verified selling in November 2026, with real sizes, prices and matching family sets."
+keywords: ["christian clothing for kids", "christian baby clothes", "christian kids clothing brands", "christian toddler clothes", "christian onesies", "christian shirts for kids", "christian youth shirts", "bible verse pajamas"]
 datePublished: "2026-11-16"
-dateModified: "2026-11-16"
+dateModified: "2026-11-18"
 ---
 
 Shopping for Christian clothes for kids is harder than it should be. Search results are mostly single products on Etsy and print-on-demand listings, and several brands that older guides recommend have quietly closed their stores. Tough Christian, Maximus Grace and Kingdom Kids all now show a "store unavailable" page.

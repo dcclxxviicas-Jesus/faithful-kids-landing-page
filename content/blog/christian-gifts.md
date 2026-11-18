@@ -1,12 +1,12 @@
 ---
-title: "Best Christian Gifts (2026): 30 Ideas for Every Age and Budget"
+title: "Best Christian Gifts (2026): 31 Ideas for Women, Men, Kids and Every Budget"
 slug: "christian-gifts"
 type: "listicle"
-metaTitle: "30 Best Christian Gifts for 2026 (Prices Checked)"
-metaDescription: "Christian gift ideas for her, him, pastors, teens, grandparents, new believers and kids, with every price checked in November 2026."
-keywords: ["christian gifts", "christian gift ideas", "christian christmas gifts", "christian gifts for women", "christian gifts for men", "gifts for pastors", "christian gifts under 25", "gifts for new believers"]
+metaTitle: "31 Christian Gifts for Women, Men and Kids (Prices Checked)"
+metaDescription: "Christian gifts and religious gift ideas for women, men, pastors, teens, grandparents, new believers and kids, with every price checked in November 2026."
+keywords: ["christian gifts", "christian gift ideas", "christian gifts for women", "christian gifts for men", "religious gifts", "christian christmas gifts", "gifts for pastors", "christian gifts for teens", "gifts for new believers"]
 datePublished: "2026-11-16"
-dateModified: "2026-11-16"
+dateModified: "2026-11-18"
 ---
 
 Christian gift guides tend to recycle the same picks for years, including products that have been discontinued and a famous brand that's been sold twice. So every gift below was checked on the seller's own live page on November 16, 2026: the exact product, the price that day, and whether it was in stock for Christmas. Prices on the big retailers move daily, so treat them as a guide, not a quote.
@@ -17,7 +17,7 @@ A note on how this list works: we make Faithful Kids, a Bible app for kids, and 
 
 Most gifts get one good morning. This one gets a few minutes every day: **Faithful Kids turns the whole Bible into something kids want to come back to**, with 300+ short video lessons from Genesis to Revelation, a quiz after each one, and stories they can play as interactive games. No ads, no autoplay, no algorithm, ages 5 to 15. On the web it's $97 a year (about $8.08 a month) with a 7-day free trial, or $12.99 monthly. It's the gift for parents and grandparents who'd rather the screen time already happening point somewhere good. [See how it works](/quiz).
 
-## For Her
+## Christian Gifts for Women
 
 **2. CSB Notetaking Bible, Faroe Theme** (Hosanna Revival), $64.90. A beautifully designed cover with wide margins for notes; Hosanna Revival's covers are the reason people photograph their Bibles. [Shop](https://hosannarevival.com/products/csb-notetaking-bible-faroe-theme)
 
@@ -29,7 +29,7 @@ Most gifts get one good morning. This one gets a few minutes every day: **Faithf
 
 **6. One Thing I Ask 5-Year Prayer Journal, Stockholm Theme** (Hosanna Revival), $49.90. One short prayer prompt a day, five years on each page, so she can look back on what God answered. [Shop](https://hosannarevival.com/products/one-thing-i-ask-5-year-prayer-journal-stockholm-theme)
 
-## For Him
+## Christian Gifts for Men
 
 **7. ESV Journaling Bible, Westminster Theme** (Hosanna Revival), $64.90. A more understated cover, same journaling margins. [Shop](https://hosannarevival.com/products/esv-journaling-bible-westminster-theme)
 
@@ -45,7 +45,7 @@ Most gifts get one good morning. This one gets a few minutes every day: **Faithf
 
 **12. How to Read the Bible: Literary Styles in Scripture** (BibleProject), $26. Explains why poetry, law, letters and narrative read differently. [Shop](https://store.bibleproject.com/products/how-to-read-the-bible-literary-styles-in-scripture)
 
-## For Pastors
+## Gifts for Pastors
 
 **13. ESV Preaching Bible, goatskin** (Crossway), $249.99. The pulpit Bible many pastors want and few buy themselves. Christianbook had the verse-by-verse goatskin edition for **$167.99** the same day. [Crossway](https://www.crossway.org/bibles/esv-preaching-bible-tgl/) · [Christianbook](https://www.christianbook.com/esv-preaching-verse-edition-goatskin-leather/9781433572067/pd/572069)
 
@@ -53,7 +53,7 @@ Most gifts get one good morning. This one gets a few minutes every day: **Faithf
 
 **15. Theologian Mug** (The Daily Grace Co.), $16.99. The under-$25 option for a whole staff. [Shop](https://thedailygraceco.com/products/theologian-mug)
 
-## For Teens
+## Christian Gifts for Teens
 
 **16. CSB Teen Study Bible** (Lifeway), $54.99. Built around the questions teenagers ask about God's Word, in an easy-to-read type. [Shop](https://www.lifeway.com/en/product/csb-teen-study-bible-optimal-type-navy-leathertouch-indexed-P005857886)
 
@@ -79,7 +79,7 @@ Our full [Christian gifts for kids](/blog/christian-gifts-for-kids) guide has do
 
 **24. The Advent Storybook, Family Devotional** (The Daily Grace Co.), $9.99. A December read-aloud for the whole family. [Shop](https://thedailygraceco.com/products/the-advent-storybook-family-devotional)
 
-## Under $25
+## Christian Gifts Under $25
 
 **25. Notebook, Faroe Theme** (Hosanna Revival), $17.90. [Shop](https://hosannarevival.com/products/notebook-faroe-theme)
 

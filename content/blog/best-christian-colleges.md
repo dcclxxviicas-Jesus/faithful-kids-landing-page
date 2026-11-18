@@ -1,12 +1,12 @@
 ---
-title: "Best Christian Colleges (2026): 26 Schools With Real Costs and Outcomes"
+title: "Best Christian Colleges and Universities (2026): 26 Schools With Real Costs and Outcomes"
 slug: "best-christian-colleges"
 type: "listicle"
-metaTitle: "Best Christian Colleges 2026: Costs & Outcomes"
-metaDescription: "Best Christian colleges compared on 2026-27 tuition, net price, graduation rate and earnings, plus faith requirements and the colleges that closed."
-keywords: ["christian colleges", "best christian colleges", "christian universities", "catholic colleges", "cccu colleges", "christian colleges in the us", "christian colleges online", "cheapest christian colleges"]
+metaTitle: "Best Christian Colleges and Universities in the US (2026)"
+metaDescription: "The best Christian colleges and universities in the US, compared on 2026-27 tuition, net price, graduation rate and earnings, plus the ones that closed."
+keywords: ["christian colleges", "best christian colleges", "christian universities", "best christian colleges in america", "best christian colleges in the us", "online christian colleges", "catholic colleges", "cccu colleges", "cheapest christian colleges"]
 datePublished: "2026-11-17"
-dateModified: "2026-11-17"
+dateModified: "2026-11-18"
 ---
 
 Most "best Christian colleges" rankings are a list of names with no numbers. This one is built from the numbers families actually need. Tuition comes from each school's own 2026-27 tuition page. Average net price, graduation rate and median earnings come from the US Department of Education's College Scorecard (accessed November 2026). And whether students must profess faith to be admitted is taken from each school's own admissions wording. We don't rank by prestige; we sort by type, so you can compare like with like.
@@ -34,7 +34,7 @@ Three terms, quickly. **Sticker tuition** is the published price. **Net price** 
 
 Notre Dame's net price is lower than most state flagships' out-of-state cost, despite the sticker. **Baylor** says students are "not required to sign any statement of faith," and offers an optional guaranteed tuition of $75,556 a year, locked for four years. **SMU** amended its articles of incorporation in 2026 and, in a joint statement with the church's South Central Jurisdiction, described a "historic and ongoing relationship."
 
-## Evangelical Liberal Arts (CCCU Members)
+## Best Evangelical Christian Colleges (CCCU Members)
 
 | School | Faith required to enroll? | Tuition 2026-27 | Avg net price | Grad rate | Median earnings |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@ What each one says about itself:
 - **Liberty** has frozen residential tuition through 2027-28 and enrolls over 50,000 undergraduates.
 - **Grand Canyon** has the lowest sticker tuition on this list, frozen for an 18th year.
 
-## Catholic Liberal Arts
+## Best Catholic Liberal Arts Colleges
 
 | School | Tuition 2026-27 | Avg net price | Grad rate | Median earnings |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ What each one says about itself:
 
 *The Scorecard's net-price figure for the University of Dallas is higher than its sticker tuition, so we've left it out. **Thomas Aquinas** includes books, with no other fees, and enrolls about 566 students. **Christendom** takes no federal aid or loans and says students typically pay $24,000 to $26,000 after its own aid. The University of Dallas also offers a $5,000-a-year Homeschool Scholarship; see our [Christian scholarships](/blog/christian-scholarships) guide.
 
-## Online Options
+## Online Christian Colleges
 
 **Liberty University Online** charges $410 per credit hour full-time ($475 part-time, $250 for military), with no faith document required. **Cedarville** offers an online undergraduate program at about $12,000 a year. **Grand Canyon** also runs a very large online program.
 

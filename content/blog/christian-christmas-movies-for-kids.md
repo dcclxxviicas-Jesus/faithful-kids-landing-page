@@ -1,12 +1,12 @@
 ---
-title: "Best Christian Christmas Movies for Kids (2026), and Where to Stream Them"
+title: "15 Best Christian Christmas Movies for Kids (2026), and Where to Stream Them"
 slug: "christian-christmas-movies-for-kids"
 type: "listicle"
-metaTitle: "Christian Christmas Movies for Kids: Where to Stream (2026)"
-metaDescription: "The best Christian Christmas movies for kids by age, where each streams this season, what's free, and what leaves soon."
-keywords: ["christian christmas movies for kids", "christian christmas movies", "nativity movies for kids", "religious christmas movies for kids", "christmas movies about jesus for kids", "where to watch the star movie", "best christmas pageant ever streaming", "free christian christmas movies"]
+metaTitle: "15 Best Christian Christmas Movies for Kids, Where to Stream"
+metaDescription: "The 15 best Christian Christmas movies for kids by age, where each streams this season, which are free, and which leave Peacock and Prime soon."
+keywords: ["christian christmas movies", "best christian christmas movies", "christian christmas movies for kids", "best christian movies for christmas", "christmas movies about jesus", "nativity movies for kids", "best christmas pageant ever streaming", "free christian christmas movies", "where to watch the star movie"]
 datePublished: "2026-11-17"
-dateModified: "2026-11-17"
+dateModified: "2026-11-18"
 ---
 
 Finding a Christmas movie that actually tells the Christmas story, and that's right for your kids' ages, gets harder every year, because the streaming services keep shuffling titles. So every movie below was checked for where it streams in the US on November 16 and 17, 2026, with age guidance from Common Sense Media and Focus on the Family's Plugged In.
@@ -16,7 +16,7 @@ Two dates to know before you plan movie night:
 - **The Star leaves Peacock on December 1.**
 - **The Nativity Story leaves Prime Video on January 1.**
 
-## The Short Version
+## The Best Christian Christmas Movies: The Short Version
 
 - **Ages 3 and up:** A Charlie Brown Christmas, which is **free for everyone on Apple TV December 12 and 13**, plus the VeggieTales Christmas specials.
 - **Ages 6 and up:** The Star (on Peacock until December 1) and The Best Christmas Pageant Ever (**new on Netflix**).
@@ -64,7 +64,7 @@ Two dates to know before you plan movie night:
 
 **Not for young kids:** Angel Studios' *Zero A.D.: The Birth of Christ* opens in theatres on December 11, 2026. Angel's own synopsis centres on Herod's slaughter of the innocents, and we found no rating beyond one theatre listing PG-13. Teens at most.
 
-## Make It More Than a Movie
+## Make a Christmas Movie About Jesus More Than a Movie
 
 The movie gets their attention; the conversation afterwards makes it stick. After any of these, ask: *Who was waiting for Jesus? Why did God send him as a baby? What gift could you give him?* Our [Christmas story for kids](/blog/the-christmas-story-for-kids) tells the whole Nativity simply, and our free [Christmas coloring pages](/printables/christmas-coloring-pages) work for the minutes before the movie starts. And if your kids want the whole story arc, from the prophets who waited to the angels and shepherds, **Faithful Kids** (that's us) tells it in short videos with a quiz after each. [See how it works](/quiz).
 

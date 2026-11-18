@@ -122,6 +122,8 @@ For teens drawn to live platforms rather than video apps, there is a real faith-
 
 If you'd rather choose an app than a channel, our [directory of Christian apps for kids](/christian-apps) compares more than 50 of them, including the Christian streaming apps.
 
+If your child is hooked on channels like Vlad and Niki or Like Nastya, our parents' guide to [kid influencers](/blog/kid-influencers) explains how those channels work and what to watch instead.
+
 ## Frequently Asked Questions
 
 ### What is the safest video app for Christian kids?

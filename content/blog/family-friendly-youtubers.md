@@ -77,6 +77,8 @@ A vetted channel list is half the job, because on regular YouTube the sidebar, a
 
 The third option is skipping the algorithm entirely for part of the day: [Faithful Kids](https://faithfulkids.app/quiz) is a closed library of 300+ Bible story videos with quizzes and reflections, no ads, no sidebar, nothing we didn't put there. Many families run both: supervised YouTube for entertainment, a closed app for the screen time they want working toward something. Our guides to [Christian YouTube channels for kids](/blog/christian-youtube-channels-for-kids) and [Christian alternatives to YouTube](/blog/christian-alternatives-to-youtube-for-kids) go deeper on that setup.
 
+Wondering about the kids who are YouTube stars themselves? Our guide to [kid influencers](/blog/kid-influencers) covers the biggest channels and the new state laws protecting the children in them.
+
 ## Frequently Asked Questions
 
 ### Who are the best family-friendly YouTubers for kids?

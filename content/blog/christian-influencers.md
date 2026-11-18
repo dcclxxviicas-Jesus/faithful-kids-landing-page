@@ -41,6 +41,8 @@ Lists of Christian influencers go stale fast: accounts go quiet, people step bac
 
 **7. Allie Beth Stuckey** ([YouTube](https://www.youtube.com/@AllieBethStuckey)). Host of BlazeTV's *Relatable*, on culture, news and theology: 756K on YouTube and 947K on Instagram, with an episode out the day we checked.
 
+For the child stars of YouTube rather than grown-up creators, see our guide to [kid influencers](/blog/kid-influencers) and what parents should know.
+
 ## Christian Women Influencers
 
 **8. Lisa Bevere** ([YouTube](https://www.youtube.com/@LisaBevere)). Teaching for women from the bestselling author, 964K on Instagram and 289K on YouTube.

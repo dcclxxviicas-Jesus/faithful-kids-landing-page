@@ -31,16 +31,17 @@ export function PlatformTags({ p }: { p: Listing['platforms'] }) {
   )
 }
 
-const NOAH = STORIES.find(s => s.title.startsWith('Noah')) || STORIES[0]
+// Creation, by owner's pick (Nov 17, 2026). Resolved by title, never index.
+const CLIP = STORIES.find(s => s.title.startsWith('In the Beginning')) || STORIES[0]
 
 export function FkAd({ alternativeTo, location }: { alternativeTo?: string; location: string }) {
   return (
     <aside className="ad-fk" aria-label="From Faithful Kids">
       <div className="ad-fk-media">
         <VideoTile
-          src={NOAH.src}
-          poster={NOAH.poster}
-          title={NOAH.title}
+          src={CLIP.src}
+          poster={CLIP.poster}
+          title={CLIP.title}
           badge="Faithful Kids lesson"
           location={location}
           showLabels={false}

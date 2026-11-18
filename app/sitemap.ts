@@ -382,6 +382,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // links; only the researched listings are enumerated here.
   const appPages: MetadataRoute.Sitemap = [
     { url: `${baseUrl}/christian-apps`, lastModified: new Date(appsChecked + 'T00:00:00Z'), changeFrequency: 'weekly' as const, priority: 0.8 },
+    { url: `${baseUrl}/press`, lastModified: new Date('2026-11-17'), changeFrequency: 'yearly' as const, priority: 0.4 },
     { url: `${baseUrl}/christian-apps/submit`, lastModified: new Date('2026-11-17'), changeFrequency: 'yearly' as const, priority: 0.4 },
     ...christianApps.map(a => ({ url: `${baseUrl}/christian-apps/${a.slug}`, lastModified: new Date(a.checkedOn + 'T00:00:00Z'), changeFrequency: 'monthly' as const, priority: 0.5 })),
   ]

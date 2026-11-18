@@ -116,7 +116,7 @@ export default async function AppPage({ params }: { params: Promise<{ slug: stri
     '@context': 'https://schema.org', '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://faithfulkids.app' },
-      { '@type': 'ListItem', position: 2, name: 'Christian Apps for Kids', item: 'https://faithfulkids.app/christian-apps' },
+      { '@type': 'ListItem', position: 2, name: 'Best Christian Apps for Kids', item: 'https://faithfulkids.app/christian-apps' },
       { '@type': 'ListItem', position: 3, name: app.name, item: url },
     ],
   }
@@ -129,7 +129,7 @@ export default async function AppPage({ params }: { params: Promise<{ slug: stri
       <SiteNav />
       <main className="ad-wrap ad-detail">
         <nav className="ad-crumbs" aria-label="Breadcrumb">
-          <a href="/christian-apps">Christian Apps for Kids</a> <span aria-hidden="true">/</span> {categoryLabel(app.category)}
+          <a href="/christian-apps">Best Christian Apps for Kids</a> <span aria-hidden="true">/</span> {categoryLabel(app.category)}
         </nav>
 
         <header className="ad-dh">
@@ -204,7 +204,7 @@ export default async function AppPage({ params }: { params: Promise<{ slug: stri
                 </a>
               ))}
             </div>
-            <p><a href="/christian-apps">See all Christian apps for kids</a></p>
+            <p><a href="/christian-apps">See all the best Christian apps for kids</a></p>
           </section>
         )}
 

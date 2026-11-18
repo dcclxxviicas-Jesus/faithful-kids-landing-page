@@ -26,12 +26,12 @@ const URL = 'https://faithfulkids.app/christian-apps'
 
 export async function generateMetadata(): Promise<Metadata> {
   const n = (await allListings()).length
-  const title = `Christian Apps for Kids: ${n} Checked and Compared (2026)`
-  const description = `A directory of ${n} Christian apps for kids and families, with real prices, ages, ads and last-update dates checked on each store. Submit your own.`
+  const title = `Best Christian Apps for Kids (2026): ${n} Checked and Compared`
+  const description = `The best Christian apps for kids, compared: ${n} apps with real prices, ages, ads and last-update dates checked on each store. Submit your own.`
   return {
     title: { absolute: title },
     description,
-    keywords: ['christian apps for kids', 'christian apps', 'christian app directory', 'bible apps for kids', 'catholic apps for kids', 'free christian apps for kids', 'christian games for kids'],
+    keywords: ['best christian apps for kids', 'christian apps for kids', 'christian apps', 'christian app directory', 'bible apps for kids', 'catholic apps for kids', 'free christian apps for kids', 'christian games for kids'],
     alternates: { canonical: URL },
     openGraph: { title, description, url: URL, siteName: 'Faithful Kids', type: 'website', images: [{ url: 'https://d3g07v1w0lehiv.cloudfront.net/app-icons/og-christian-apps.png', width: 1200, height: 630 }] },
     twitter: { card: 'summary_large_image', images: ['https://d3g07v1w0lehiv.cloudfront.net/app-icons/og-christian-apps.png'] },
@@ -96,7 +96,7 @@ export default async function ChristianAppsHub() {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Christian Apps for Kids',
+    name: 'Best Christian Apps for Kids',
     url: URL,
     isFamilyFriendly: true,
     dateModified: CHECKED_ON,
@@ -114,7 +114,7 @@ export default async function ChristianAppsHub() {
     '@context': 'https://schema.org', '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://faithfulkids.app' },
-      { '@type': 'ListItem', position: 2, name: 'Christian Apps for Kids', item: URL },
+      { '@type': 'ListItem', position: 2, name: 'Best Christian Apps for Kids', item: URL },
     ],
   }
 
@@ -127,7 +127,7 @@ export default async function ChristianAppsHub() {
 
       <header className="ad-hero">
         <span className="ad-kicker">The Christian Apps Directory</span>
-        <h1>Christian Apps for Kids</h1>
+        <h1>The Best Christian Apps for Kids</h1>
         <p className="ad-lede">
           {listings.length} Christian apps for kids and families, each checked on its own store page:
           the real price, the age rating, whether it has ads, and when it was last updated.

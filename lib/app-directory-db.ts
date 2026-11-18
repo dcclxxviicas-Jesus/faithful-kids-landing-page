@@ -132,6 +132,7 @@ function toListing(r: AppSubmission): Listing | null {
     priceModel: r.price_model, price: r.price || '', platforms, ads: 'unknown', updated: null,
     denomination: null, description: r.description, goodFor: '', worthKnowing: '',
     website: r.web_url, checkedOn: day, sources: [], kind: r.kind, submitted: true,
+    audience: r.age_groups?.length && r.age_groups.every(g => g === 'family') ? 'both' : 'kids',
   }
 }
 

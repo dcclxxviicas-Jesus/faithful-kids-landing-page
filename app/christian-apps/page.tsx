@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import { SiteNav, SiteFooter } from '../components/SiteChrome'
 import { BlogStickyCta } from '../blog/BlogStickyCta'
 import { allListings } from '@/lib/app-directory-db'
-import { sortListings, categoryLabel, PRICE_LABEL, CHECKED_ON, GONE, prettyDate, CATEGORIES, type Listing } from '@/lib/christian-apps'
+import { forKids, sortListings, categoryLabel, PRICE_LABEL, CHECKED_ON, GONE, prettyDate, CATEGORIES, type Listing } from '@/lib/christian-apps'
 import { AppDirectory } from './AppDirectory'
-import { AppIcon, PlatformTags, FkAd } from './ui'
+import { Card, FkAd } from './ui'
 import './apps.css'
 
 /*
@@ -25,7 +25,7 @@ export const revalidate = 3600
 const URL = 'https://faithfulkids.app/christian-apps'
 
 export async function generateMetadata(): Promise<Metadata> {
-  const n = (await allListings()).length
+  const n = forKids(await allListings()).length
   const title = `Best Christian Apps for Kids (2026): ${n} Checked and Compared`
   const description = `The best Christian apps for kids, compared: ${n} apps with real prices, ages, ads and last-update dates checked on each store. Submit your own.`
   return {
@@ -57,29 +57,8 @@ const faqs = [
   },
 ]
 
-function Card({ l }: { l: Listing }) {
-  return (
-    <a className="ad-card" href={`/christian-apps/${l.slug}`}>
-      <div className="ad-card-top">
-        <AppIcon app={l} />
-        <div className="ad-card-id">
-          <h3>{l.name}</h3>
-          {l.maker && <span className="ad-maker">{l.maker}</span>}
-        </div>
-      </div>
-      <p className="ad-card-desc">{l.goodFor || l.description}</p>
-      <div className="ad-card-meta">
-        <span className={`ad-price ad-price-${l.priceModel}`}>{PRICE_LABEL[l.priceModel]}</span>
-        <span className="ad-chip">{categoryLabel(l.category)}</span>
-        <span className="ad-chip">Ages {l.ages.replace(/^Rated /, 'rated ')}</span>
-      </div>
-      <PlatformTags p={l.platforms} />
-    </a>
-  )
-}
-
 export default async function ChristianAppsHub() {
-  const listings = sortListings(await allListings())
+  const listings = sortListings(forKids(await allListings()))
   const freeCount = listings.filter(l => ['free', 'free-with-ads', 'freemium'].includes(l.priceModel)).length
   const pick = (f: (l: Listing) => boolean, n = 6) => listings.filter(f).slice(0, n)
   const freeish = (l: Listing) => ['free', 'free-with-ads', 'freemium'].includes(l.priceModel)
@@ -190,6 +169,7 @@ export default async function ChristianAppsHub() {
         <section className="ad-section">
           <h2>More guides for choosing</h2>
           <ul className="ad-related">
+            <li><a href="/best-christian-apps">The best Christian apps for adults</a></li>
             <li><a href="/blog/best-bible-app-for-kids">Best Bible apps for kids, compared</a></li>
             <li><a href="/blog/free-bible-apps-for-kids">Free Bible apps for kids</a></li>
             <li><a href="/blog/best-bible-apps-by-age">Bible apps by age</a></li>

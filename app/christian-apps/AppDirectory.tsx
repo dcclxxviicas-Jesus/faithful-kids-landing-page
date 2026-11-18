@@ -16,7 +16,7 @@ type PlatFilter = 'all' | 'ios' | 'android' | 'web'
 
 const isFree = (l: Listing) => l.priceModel === 'free' || l.priceModel === 'free-with-ads' || l.priceModel === 'freemium'
 
-export function AppDirectory({ listings, ad, cards }: { listings: Listing[]; ad: ReactNode; cards: Record<string, ReactNode> }) {
+export function AppDirectory({ listings, ad, cards, showAge = true }: { listings: Listing[]; ad: ReactNode; cards: Record<string, ReactNode>; showAge?: boolean }) {
   const [cat, setCat] = useState<Category | 'all'>('all')
   const [age, setAge] = useState<AgeGroup | 'all'>('all')
   const [price, setPrice] = useState<PriceFilter>('all')
@@ -56,12 +56,12 @@ export function AppDirectory({ listings, ad, cards }: { listings: Listing[]; ad:
           ))}
         </div>
         <div className="ad-selects">
-          <label>Age
+          {showAge && <label>Age
             <select value={age} onChange={e => { setAge(e.target.value as AgeGroup | 'all'); track('age', e.target.value) }}>
               <option value="all">Any age</option>
               {AGE_GROUPS.map(a => <option key={a.key} value={a.key}>{a.label}</option>)}
             </select>
-          </label>
+          </label>}
           <label>Price
             <select value={price} onChange={e => { setPrice(e.target.value as PriceFilter); track('price', e.target.value) }}>
               <option value="all">Free or paid</option>

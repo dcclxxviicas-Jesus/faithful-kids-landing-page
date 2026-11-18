@@ -23,6 +23,23 @@ export * from './christian-apps-meta'
 export const CHECKED_ON: string = data.checkedOn
 export const CURATED: Listing[] = data.apps as Listing[]
 export const GONE: { name: string; status: string; evidence: string }[] = data.gone
+export const GONE_ADULTS: { name: string; status: string; evidence: string }[] = data.goneAdults
+
+/** Kids hub (/christian-apps): everything not adults-only. */
+export function forKids(list: Listing[]): Listing[] {
+  return list.filter(l => l.audience !== 'adults')
+}
+/** Adults hub (/best-christian-apps): everything not kids-only, with the
+ *  adult category applied where a listing has one. */
+export function forAdults(list: Listing[]): Listing[] {
+  return list.filter(l => l.audience !== 'kids').map(l => l.adultCategory ? { ...l, category: l.adultCategory } : l)
+}
+/** Where a listing's breadcrumb and "see all" link should point. */
+export function hubFor(l: Listing): { href: string; label: string } {
+  return l.audience === 'adults'
+    ? { href: '/best-christian-apps', label: 'Best Christian Apps' }
+    : { href: '/christian-apps', label: 'Best Christian Apps for Kids' }
+}
 
 /** The directory is a list, not an ad: Faithful Kids is listed, never first. */
 export function sortListings(list: Listing[]): Listing[] {

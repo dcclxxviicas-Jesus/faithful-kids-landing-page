@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import '../home.css'
 import '../v2-pages.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
-import { V2Hero, V2Head } from '@/app/v2-shell'
+import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
 
 /*
  * /press: who to contact for press and media (owner request, Nov 17, 2026).
@@ -48,7 +48,7 @@ const orgSchema = {
   contactPoint: { '@type': 'ContactPoint', contactType: 'Press', email: EMAIL, availableLanguage: 'English' },
 }
 
-export default function PressPage() {
+function PressV2() {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
@@ -130,7 +130,7 @@ export default function PressPage() {
               You&rsquo;re welcome to use our logo in coverage of Faithful Kids. Please don&rsquo;t
               alter it.
             </p>
-            <ul>
+            <ul style={{ paddingLeft: '1.3rem', margin: '0 0 1rem' }}>
               <li><a href="/logo.png" download>Faithful Kids logo (PNG)</a></li>
               <li><a href="/logo-512.png" download>App icon, 512 by 512 (PNG)</a></li>
             </ul>
@@ -151,5 +151,13 @@ export default function PressPage() {
       </main>
       <SiteFooter />
     </>
+  )
+}
+
+export default function Page() {
+  return (
+    <V2Shell>
+      <PressV2 />
+    </V2Shell>
   )
 }

@@ -4,17 +4,23 @@
 export type Category =
   | 'bible-stories' | 'video' | 'games' | 'music' | 'audio-stories'
   | 'prayer-devotional' | 'scripture-memory' | 'catholic' | 'parent-tools' | 'websites'
+  | 'bible' | 'bible-study' | 'audio' | 'church' | 'accountability'
 
 export const CATEGORIES: { key: Category; label: string; blurb: string }[] = [
+  { key: 'bible', label: 'Bible apps', blurb: 'Bible reading apps and audio Bibles' },
+  { key: 'bible-study', label: 'Bible study', blurb: 'Study Bibles, commentaries and original-language tools' },
   { key: 'bible-stories', label: 'Bible stories', blurb: 'Read-aloud and interactive Bible story apps' },
   { key: 'video', label: 'Video & shows', blurb: 'Christian shows, films and video lessons' },
   { key: 'games', label: 'Games & trivia', blurb: 'Bible games, quizzes and play' },
   { key: 'music', label: 'Music', blurb: 'Worship and Scripture songs for kids' },
   { key: 'audio-stories', label: 'Audio stories', blurb: 'Audio dramas and listen-along stories' },
+  { key: 'audio', label: 'Sermons & teaching', blurb: 'Sermons, teaching and audio devotionals' },
   { key: 'prayer-devotional', label: 'Prayer & devotionals', blurb: 'Daily devotions, prayer and Bible reading' },
   { key: 'scripture-memory', label: 'Scripture memory', blurb: 'Memorize verses with games and songs' },
   { key: 'catholic', label: 'Catholic', blurb: 'Apps made for Catholic families' },
   { key: 'parent-tools', label: 'For parents', blurb: 'Christian parenting and family tools' },
+  { key: 'church', label: 'Church', blurb: 'Church and community apps' },
+  { key: 'accountability', label: 'Accountability', blurb: 'Christian accountability and filtering apps' },
   { key: 'websites', label: 'Websites', blurb: 'Christian websites for kids and families' },
 ]
 
@@ -58,6 +64,10 @@ export interface Listing {
   sources: string[]
   kind: 'app' | 'website'
   icon?: string
+  /** Which hub lists it: /christian-apps (kids), /best-christian-apps (adults), or both. */
+  audience: 'kids' | 'adults' | 'both'
+  /** Category to use on the adults hub when it differs (e.g. The Chosen: video). */
+  adultCategory?: Category
   /** true for approved submissions: the maker wrote the description. */
   submitted?: boolean
 }

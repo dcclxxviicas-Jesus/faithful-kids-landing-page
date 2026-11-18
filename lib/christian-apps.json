@@ -34,7 +34,8 @@
     "https://faithfulkids.app"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/faithful-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/faithful-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "bible-app-for-kids",
@@ -66,7 +67,8 @@
     "https://www.bible.com/kids"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-app-for-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-app-for-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "superbook-kids-bible",
@@ -98,7 +100,8 @@
     "https://superbook.cbn.com/app"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/superbook-kids-bible.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/superbook-kids-bible.webp",
+   "audience": "kids"
   },
   {
    "slug": "minno",
@@ -131,7 +134,8 @@
     "https://www.gominno.com/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/minno.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/minno.webp",
+   "audience": "kids"
   },
   {
    "slug": "yippee-tv",
@@ -166,7 +170,8 @@
     "https://watch.yippee.tv"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/yippee-tv.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/yippee-tv.webp",
+   "audience": "kids"
   },
   {
    "slug": "angel-studios",
@@ -200,7 +205,9 @@
     "https://www.angel.com/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/angel-studios.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/angel-studios.webp",
+   "audience": "both",
+   "adultCategory": "video"
   },
   {
    "slug": "pure-flix",
@@ -234,7 +241,9 @@
     "https://www.pureflix.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/pure-flix.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/pure-flix.webp",
+   "audience": "both",
+   "adultCategory": "video"
   },
   {
    "slug": "the-chosen",
@@ -268,7 +277,9 @@
     "https://watch.thechosen.tv/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/the-chosen.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/the-chosen.webp",
+   "audience": "both",
+   "adultCategory": "video"
   },
   {
    "slug": "adventures-in-odyssey-club",
@@ -302,7 +313,8 @@
     "https://www.adventuresinodyssey.com/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/adventures-in-odyssey-club.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/adventures-in-odyssey-club.webp",
+   "audience": "kids"
   },
   {
    "slug": "keys-for-kids",
@@ -335,7 +347,8 @@
     "https://www.keysforkids.org/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/keys-for-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/keys-for-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "unlocked-teen-devotional",
@@ -367,7 +380,8 @@
     "https://www.keysforkids.org/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/unlocked-teen-devotional.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/unlocked-teen-devotional.webp",
+   "audience": "kids"
   },
   {
    "slug": "truplay",
@@ -401,7 +415,8 @@
     "https://www.truplaygames.com/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/truplay.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/truplay.webp",
+   "audience": "kids"
   },
   {
    "slug": "god-for-kids",
@@ -435,7 +450,8 @@
     "https://www.godforkidsapp.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/god-for-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/god-for-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "sunscool",
@@ -467,7 +483,8 @@
     "https://sunscool.org"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/sunscool.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/sunscool.webp",
+   "audience": "kids"
   },
   {
    "slug": "windowseat",
@@ -502,7 +519,8 @@
     "https://windowseat.io"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/windowseat.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/windowseat.webp",
+   "audience": "kids"
   },
   {
    "slug": "kids-bible-pray-com",
@@ -534,7 +552,8 @@
     "https://www.pray.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/kids-bible-pray-com.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/kids-bible-pray-com.webp",
+   "audience": "kids"
   },
   {
    "slug": "theo",
@@ -567,7 +586,8 @@
     "https://www.theopray.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/theo.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/theo.webp",
+   "audience": "kids"
   },
   {
    "slug": "abide",
@@ -599,7 +619,9 @@
     "https://abide.com/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/abide.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/abide.webp",
+   "audience": "both",
+   "adultCategory": "prayer-devotional"
   },
   {
    "slug": "lectio-365",
@@ -631,7 +653,9 @@
     "https://lectio365.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/lectio-365.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/lectio-365.webp",
+   "audience": "both",
+   "adultCategory": "prayer-devotional"
   },
   {
    "slug": "listener-kids",
@@ -664,7 +688,8 @@
     "https://www.listenerkids.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/listener-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/listener-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "jesus-loves-me-listener-kids",
@@ -697,7 +722,8 @@
     "http://www.listenerkids.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/jesus-loves-me-listener-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/jesus-loves-me-listener-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "bible-memory-app",
@@ -732,7 +758,9 @@
     "https://biblememory.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-memory-app.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-memory-app.webp",
+   "audience": "both",
+   "adultCategory": "scripture-memory"
   },
   {
    "slug": "verselocker",
@@ -764,7 +792,9 @@
     "https://verselocker.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/verselocker.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/verselocker.webp",
+   "audience": "both",
+   "adultCategory": "scripture-memory"
   },
   {
    "slug": "remember-me-bible-memory",
@@ -797,7 +827,9 @@
     "https://apps.apple.com/us/app/bible-memory/id1600128209"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/remember-me-bible-memory.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/remember-me-bible-memory.webp",
+   "audience": "both",
+   "adultCategory": "scripture-memory"
   },
   {
    "slug": "scripture-singer",
@@ -830,7 +862,8 @@
     "https://play.google.com/store/apps/details?id=com.scripturesinger4"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/scripture-singer.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/scripture-singer.webp",
+   "audience": "kids"
   },
   {
    "slug": "bible-quiz-dh3",
@@ -864,7 +897,8 @@
     "http://dh3games.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-quiz-dh3.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-quiz-dh3.webp",
+   "audience": "kids"
   },
   {
    "slug": "bible-trivia-quiz-no-ads",
@@ -898,7 +932,8 @@
     "https://bibleresources.info"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-trivia-quiz-no-ads.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-trivia-quiz-no-ads.webp",
+   "audience": "kids"
   },
   {
    "slug": "heroes-bible-trivia",
@@ -932,7 +967,8 @@
     "https://www.heroesbibletrivia.org/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/heroes-bible-trivia.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/heroes-bible-trivia.webp",
+   "audience": "kids"
   },
   {
    "slug": "bible-coloring-book-for-kids",
@@ -962,7 +998,8 @@
     "https://apps.apple.com/us/app/bible-coloring-book-for-kids/id1055647135"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-coloring-book-for-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-coloring-book-for-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "godly-kids",
@@ -994,7 +1031,8 @@
     "https://www.godlykids.com/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/godly-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/godly-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "noahs-ark-kids-bible-game",
@@ -1027,7 +1065,8 @@
     "https://heavenbornstudios.com/noahs-ark-bible-game-for-toddlers"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/noahs-ark-kids-bible-game.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/noahs-ark-kids-bible-game.webp",
+   "audience": "kids"
   },
   {
    "slug": "bible-kids-bcc-media",
@@ -1059,7 +1098,8 @@
     "https://biblekids.io/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-kids-bcc-media.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-kids-bcc-media.webp",
+   "audience": "kids"
   },
   {
    "slug": "i-read-bible-app-for-kids",
@@ -1091,7 +1131,8 @@
     "https://www.sierrachica.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/i-read-bible-app-for-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/i-read-bible-app-for-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "bible-stories-for-the-young",
@@ -1121,7 +1162,8 @@
     "https://biblestoriesonline.com/mobile-app"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-stories-for-the-young.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-stories-for-the-young.webp",
+   "audience": "kids"
   },
   {
    "slug": "bible-for-kids-bedtime-stories",
@@ -1152,7 +1194,8 @@
     "https://storystas.com/bible_stories.html"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-for-kids-bedtime-stories.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-for-kids-bedtime-stories.webp",
+   "audience": "kids"
   },
   {
    "slug": "kids-corner-bible-devotions",
@@ -1184,7 +1227,8 @@
     "https://kidscorner.net"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/kids-corner-bible-devotions.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/kids-corner-bible-devotions.webp",
+   "audience": "kids"
   },
   {
    "slug": "vom-kids",
@@ -1216,7 +1260,8 @@
     "https://www.persecution.com/kidsapp/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/vom-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/vom-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "rightnow-kids",
@@ -1249,7 +1294,8 @@
     "https://rightnowkids.org"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/rightnow-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/rightnow-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "rightnow-media",
@@ -1283,7 +1329,9 @@
     "https://www.rightnowmedia.org"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/rightnow-media.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/rightnow-media.webp",
+   "audience": "both",
+   "adultCategory": "audio"
   },
   {
    "slug": "bibleproject",
@@ -1318,7 +1366,9 @@
     "https://bibleproject.com/"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bibleproject.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bibleproject.webp",
+   "audience": "both",
+   "adultCategory": "bible-study"
   },
   {
    "slug": "jesus-film-project",
@@ -1351,7 +1401,9 @@
     "http://www.jesusfilm.org"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/jesus-film-project.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/jesus-film-project.webp",
+   "audience": "both",
+   "adultCategory": "video"
   },
   {
    "slug": "hallow",
@@ -1383,7 +1435,9 @@
     "https://hallow.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/hallow.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/hallow.webp",
+   "audience": "both",
+   "adultCategory": "catholic"
   },
   {
    "slug": "calm-catholic-kids",
@@ -1416,7 +1470,8 @@
     "https://calmcatholickids.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/calm-catholic-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/calm-catholic-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "saintlings",
@@ -1447,7 +1502,8 @@
     "https://saintlings.slateworks.io"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/saintlings.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/saintlings.webp",
+   "audience": "kids"
   },
   {
    "slug": "holy-heroes",
@@ -1482,7 +1538,8 @@
     "https://www.holyheroes.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/holy-heroes.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/holy-heroes.webp",
+   "audience": "kids"
   },
   {
    "slug": "catholic-bible-storybook",
@@ -1515,7 +1572,8 @@
     "https://www.catholicbrain.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/catholic-bible-storybook.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/catholic-bible-storybook.webp",
+   "audience": "kids"
   },
   {
    "slug": "formed",
@@ -1548,7 +1606,9 @@
     "https://watch.formed.org"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/formed.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/formed.webp",
+   "audience": "both",
+   "adultCategory": "catholic"
   },
   {
    "slug": "audio-catholic-kids",
@@ -1578,7 +1638,8 @@
     "https://apps.apple.com/us/app/audio-catholic-kids/id763531536"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/audio-catholic-kids.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/audio-catholic-kids.webp",
+   "audience": "kids"
   },
   {
    "slug": "parent-cue",
@@ -1610,7 +1671,8 @@
     "http://theparentcue.org"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/parent-cue.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/parent-cue.webp",
+   "audience": "kids"
   },
   {
    "slug": "focus-on-the-family",
@@ -1642,7 +1704,8 @@
     "https://www.focusonthefamily.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/focus-on-the-family.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/focus-on-the-family.webp",
+   "audience": "kids"
   },
   {
    "slug": "covenant-eyes-victory",
@@ -1674,7 +1737,1654 @@
     "https://victory.covenanteyes.com"
    ],
    "kind": "app",
-   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/covenant-eyes-victory.webp"
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/covenant-eyes-victory.webp",
+   "audience": "both",
+   "adultCategory": "accountability"
+  },
+  {
+   "slug": "youversion-bible-app",
+   "name": "YouVersion Bible App",
+   "maker": "Life.Church",
+   "category": "bible",
+   "ages": "Rated 13+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id282935706",
+    "android": "https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android",
+    "web": "https://www.bible.com"
+   },
+   "ads": "no",
+   "updated": "2026-11-13",
+   "denomination": "non-denominational",
+   "description": "Free Bible app from Life.Church with thousands of Bible versions, audio Bibles, reading plans, verse images and shared reading with friends.",
+   "goodFor": "Anyone who wants a full-featured Bible and reading plans at no cost.",
+   "worthKnowing": "It has a lot of social and plan features; people who want a plain reader may find it busy.",
+   "website": "https://www.bible.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id282935706",
+    "https://itunes.apple.com/lookup?id=282935706&country=us",
+    "https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android",
+    "https://www.bible.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/youversion-bible-app.webp"
+  },
+  {
+   "slug": "bible-gateway",
+   "name": "Bible Gateway",
+   "maker": "HarperCollins Christian Publishing, Inc.",
+   "category": "bible",
+   "ages": "Rated 9+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Bible Gateway Plus $6.99/month, $58.99 or $69.99/year",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id506512797",
+    "android": "https://play.google.com/store/apps/details?id=com.csnmedia.android.bg",
+    "web": "https://www.biblegateway.com"
+   },
+   "ads": "yes",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "HarperCollins Christian Publishing's Bible app with 200+ translations and audio, rebuilt with a new design in spring 2026. Bible Gateway Plus adds study Bibles and commentaries.",
+   "goodFor": "Comparing many translations quickly, the same way the website works.",
+   "worthKnowing": "Google Play labels it Contains ads; the study library sits behind the Plus subscription.",
+   "website": "https://www.biblegateway.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id506512797",
+    "https://itunes.apple.com/lookup?id=506512797&country=us",
+    "https://play.google.com/store/apps/details?id=com.csnmedia.android.bg",
+    "https://www.biblegateway.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-gateway.webp"
+  },
+  {
+   "slug": "esv-bible",
+   "name": "ESV Bible",
+   "maker": "Crossway",
+   "category": "bible",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "ESV Bible App Subscription $3.99/month or $39.99/year",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id361797273",
+    "android": "https://play.google.com/store/apps/details?id=com.subsplash.esv",
+    "web": "https://www.esv.org"
+   },
+   "ads": "no",
+   "updated": "2026-11-10",
+   "denomination": "Protestant",
+   "description": "Crossway's official English Standard Version app with reading, audio and study tools.",
+   "goodFor": "ESV readers who want the publisher's own app.",
+   "worthKnowing": "One translation only; the extra study content is a subscription.",
+   "website": "https://www.esv.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id361797273",
+    "https://itunes.apple.com/lookup?id=361797273&country=us",
+    "https://play.google.com/store/apps/details?id=com.subsplash.esv",
+    "https://www.esv.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/esv-bible.webp"
+  },
+  {
+   "slug": "niv-bible",
+   "name": "NIV Bible",
+   "maker": "NIV BIBLE APP, LLC",
+   "category": "bible",
+   "ages": "Rated 13+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Free NIV, NIrV and NVI text with an account; study Bibles and books $9.99 to $39.99 (e.g. NIV Study Bible $24.99)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id6504437381",
+    "android": "https://play.google.com/store/apps/details?id=bible.nivapp",
+    "web": "https://www.thenivbible.com"
+   },
+   "ads": "no",
+   "updated": "2026-11-17",
+   "denomination": "non-denominational",
+   "description": "Official NIV app from Biblica and Zondervan with the NIV, NIrV and NVI text free once you create an account, plus paid study Bibles.",
+   "goodFor": "NIV readers who may want to add Zondervan study Bibles later.",
+   "worthKnowing": "The free text requires creating an account; the study Bibles are individual purchases.",
+   "website": "https://www.thenivbible.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id6504437381",
+    "https://itunes.apple.com/lookup?id=6504437381&country=us",
+    "https://play.google.com/store/apps/details?id=bible.nivapp",
+    "https://www.thenivbible.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/niv-bible.webp"
+  },
+  {
+   "slug": "life-bible",
+   "name": "Life Bible (formerly Tecarta Bible)",
+   "maker": "Tecarta, Inc.",
+   "category": "bible",
+   "ages": "Rated 13+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Bible Premium $5.99/month or $59.99/year; Remove Ads (1 year) $4.99; translations and study Bibles $5.99 to $24.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id325955298",
+    "android": "https://play.google.com/store/apps/details?id=com.tecarta.TecartaBible",
+    "web": "https://lifebible.com"
+   },
+   "ads": "yes",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Tecarta's all-in-one Bible app, now named Life Bible, with daily verses, devotionals, audio Bibles and a large store of study Bibles.",
+   "goodFor": "People who want to buy and read major study Bibles in one app.",
+   "worthKnowing": "Google Play labels it Contains ads, and removing ads is a separate purchase.",
+   "website": "https://lifebible.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id325955298",
+    "https://itunes.apple.com/lookup?id=325955298&country=us",
+    "https://play.google.com/store/apps/details?id=com.tecarta.TecartaBible",
+    "https://lifebible.com/features",
+    "https://lifebible.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/life-bible.webp"
+  },
+  {
+   "slug": "bible-is",
+   "name": "Bible.is (Audio and Video Bibles)",
+   "maker": "Faith Comes By Hearing",
+   "category": "bible",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id378075859",
+    "android": "https://play.google.com/store/apps/details?id=com.faithcomesbyhearing.android.bibleis",
+    "web": "https://www.bible.is"
+   },
+   "ads": "no",
+   "updated": "2026-08-25",
+   "denomination": "non-denominational",
+   "description": "Faith Comes By Hearing's free app with dramatized audio Bibles and video in a very large number of languages.",
+   "goodFor": "Listening to Scripture, especially in a language other than English.",
+   "worthKnowing": "Built around audio and languages rather than study tools.",
+   "website": "https://www.bible.is",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id378075859",
+    "https://itunes.apple.com/lookup?id=378075859&country=us",
+    "https://play.google.com/store/apps/details?id=com.faithcomesbyhearing.android.bibleis",
+    "https://www.bible.is"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-is.webp"
+  },
+  {
+   "slug": "mere-bible",
+   "name": "Mere Bible",
+   "maker": "Dwell App, LLC",
+   "category": "bible",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id961857426",
+    "web": "https://www.merebible.app"
+   },
+   "ads": "unknown",
+   "updated": "2026-04-16",
+   "denomination": "non-denominational",
+   "description": "A minimal, distraction-free Bible reader with 11 translations in English and Spanish, from Dwell App, LLC. Available on iOS and the web.",
+   "goodFor": "Reading Scripture with no feeds, plans or streaks.",
+   "worthKnowing": "No Android app; the maker's site lists iOS and web only.",
+   "website": "https://www.merebible.app",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id961857426",
+    "https://itunes.apple.com/lookup?id=961857426&country=us",
+    "https://www.merebible.app"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/mere-bible.webp"
+  },
+  {
+   "slug": "logos-bible",
+   "name": "Logos Bible",
+   "maker": "Faithlife Corporation",
+   "category": "bible-study",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Logos Plus $4.99/month or $49.99/year; Logos Premium $9.99/month or $99.99/year; books and translations from $9.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id336400266",
+    "android": "https://play.google.com/store/apps/details?id=com.logos.androidlogos",
+    "web": "https://app.logos.com"
+   },
+   "ads": "yes",
+   "updated": "2026-11-17",
+   "denomination": "non-denominational",
+   "description": "Faithlife's Bible study app with 40+ free Bibles and books, commentaries and sermon tools, connected to the wider Logos library.",
+   "goodFor": "Serious study, sermon preparation and anyone who already owns Logos books.",
+   "worthKnowing": "Google Play labels it Contains ads, and the deepest tools cost a lot once you start buying libraries.",
+   "website": "https://www.logos.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id336400266",
+    "https://itunes.apple.com/lookup?id=336400266&country=us",
+    "https://play.google.com/store/apps/details?id=com.logos.androidlogos",
+    "https://www.logos.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/logos-bible.webp"
+  },
+  {
+   "slug": "blue-letter-bible",
+   "name": "Blue Letter Bible",
+   "maker": "Blue Letter Bible",
+   "category": "bible-study",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id365547505",
+    "android": "https://play.google.com/store/apps/details?id=org.blueletterbible.blb",
+    "web": "https://www.blueletterbible.org"
+   },
+   "ads": "no",
+   "updated": "2026-10-29",
+   "denomination": "non-denominational",
+   "description": "Free study app with 30+ Bible versions, Hebrew and Greek lexicons, concordances, commentaries and audio.",
+   "goodFor": "Word studies in the original languages without paying anything.",
+   "worthKnowing": "Dense interface; it is a study tool more than a daily reading app.",
+   "website": "https://www.blueletterbible.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id365547505",
+    "https://itunes.apple.com/lookup?id=365547505&country=us",
+    "https://play.google.com/store/apps/details?id=org.blueletterbible.blb",
+    "https://www.blueletterbible.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/blue-letter-bible.webp"
+  },
+  {
+   "slug": "olive-tree-bible-app",
+   "name": "Olive Tree Bible App",
+   "maker": "Gospel Technologies LLC",
+   "category": "bible-study",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Starter Pack $2.99/month; ESV, NIV or NKJV Study Pack $7.99/month; books such as ESV Study Bible $47.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id332615624",
+    "android": "https://play.google.com/store/apps/details?id=biblereader.olivetree",
+    "web": "https://www.olivetree.com"
+   },
+   "ads": "no",
+   "updated": "2026-10-26",
+   "denomination": "non-denominational",
+   "description": "Bible study app from Gospel Technologies with commentaries and original-language tools shown beside the text.",
+   "goodFor": "Reading a Bible with a study Bible or commentary open alongside.",
+   "worthKnowing": "Most of the study library is sold separately or by monthly pack.",
+   "website": "https://www.olivetree.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id332615624",
+    "https://itunes.apple.com/lookup?id=332615624&country=us",
+    "https://play.google.com/store/apps/details?id=biblereader.olivetree",
+    "https://www.olivetree.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/olive-tree-bible-app.webp"
+  },
+  {
+   "slug": "accordance",
+   "name": "Accordance Bible Software",
+   "maker": "OakTree Software, Inc.",
+   "category": "bible-study",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Free app; modules sold individually, e.g. Geneva Bible $9.99, NLT $14.99, NIV 2011 with G/K numbers $39.99, tagged Greek New Testament $59.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id411970514",
+    "web": "https://www.accordancebible.com"
+   },
+   "ads": "unknown",
+   "updated": "2025-12-02",
+   "denomination": "non-denominational",
+   "description": "Mobile companion to the Accordance desktop software for fast reading, searching and original-language study.",
+   "goodFor": "Existing Accordance desktop users who want their library on the phone.",
+   "worthKnowing": "No Android app was found on Google Play; the last iOS update was December 2025.",
+   "website": "https://www.accordancebible.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id411970514",
+    "https://itunes.apple.com/lookup?id=411970514&country=us",
+    "https://www.accordancebible.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/accordance.webp"
+  },
+  {
+   "slug": "mybsf",
+   "name": "MyBSF",
+   "maker": "Bible Study Fellowship",
+   "category": "bible-study",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1524174445",
+    "android": "https://play.google.com/store/apps/details?id=org.bsfinternational.bsfapp",
+    "web": "https://www.mybsf.org"
+   },
+   "ads": "no",
+   "updated": "2026-11-17",
+   "denomination": "non-denominational",
+   "description": "Bible Study Fellowship's app for completing BSF lesson questions, reading notes and listening to lectures.",
+   "goodFor": "People enrolled in a BSF class.",
+   "worthKnowing": "Built for BSF participants; it is not a stand-alone study course for outsiders.",
+   "website": "https://www.bsfinternational.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1524174445",
+    "https://itunes.apple.com/lookup?id=1524174445&country=us",
+    "https://play.google.com/store/apps/details?id=org.bsfinternational.bsfapp",
+    "https://www.bsfinternational.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/mybsf.webp"
+  },
+  {
+   "slug": "catena",
+   "name": "Catena Bible and Commentaries",
+   "maker": "AD30 INC",
+   "category": "bible-study",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1218663640",
+    "android": "https://play.google.com/store/apps/details?id=com.catena",
+    "web": "https://catenabible.com"
+   },
+   "ads": "no",
+   "updated": "2026-11-08",
+   "denomination": null,
+   "description": "Bible app that shows commentary from the early Church Fathers beside each verse.",
+   "goodFor": "Reading what early Christian writers said about a passage.",
+   "worthKnowing": "Focused on historic commentary rather than modern study notes.",
+   "website": "https://catenabible.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1218663640",
+    "https://itunes.apple.com/lookup?id=1218663640&country=us",
+    "https://play.google.com/store/apps/details?id=com.catena",
+    "https://catenabible.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/catena.webp"
+  },
+  {
+   "slug": "macarthur-study-bible",
+   "name": "The MacArthur Study Bible",
+   "maker": "Grace to You",
+   "category": "bible-study",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "John MacArthur's Study Bible Notes listed at $0.00",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id992237916",
+    "android": "https://play.google.com/store/apps/details?id=com.gty.macarthurstudybible",
+    "web": "https://www.studybible.org"
+   },
+   "ads": "no",
+   "updated": "2026-08-12",
+   "denomination": "Protestant",
+   "description": "Grace to You's app with John MacArthur's study notes linked to the passage you are reading.",
+   "goodFor": "Readers who want MacArthur's verse-by-verse notes on the go.",
+   "worthKnowing": "Reflects one teacher's theological perspective.",
+   "website": "https://www.studybible.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id992237916",
+    "https://itunes.apple.com/lookup?id=992237916&country=us",
+    "https://play.google.com/store/apps/details?id=com.gty.macarthurstudybible",
+    "https://www.studybible.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/macarthur-study-bible.webp"
+  },
+  {
+   "slug": "glorify",
+   "name": "Glorify",
+   "maker": "TUPOE LTD",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Glorify Plus $6.99 or $9.99/month; $41.99 or $69.99/year",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1490587079",
+    "android": "https://play.google.com/store/apps/details?id=com.glorify.app",
+    "web": "https://glorify-app.com"
+   },
+   "ads": "no",
+   "updated": "2026-10-29",
+   "denomination": "non-denominational",
+   "description": "Daily devotional app that pairs a quote, a Bible passage, a devotional and a guided prayer.",
+   "goodFor": "Building a short daily quiet-time habit.",
+   "worthKnowing": "Much of the library sits behind Glorify Plus, with several price points shown.",
+   "website": "https://glorify-app.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1490587079",
+    "https://itunes.apple.com/lookup?id=1490587079&country=us",
+    "https://play.google.com/store/apps/details?id=com.glorify.app",
+    "https://glorify-app.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/glorify.webp"
+  },
+  {
+   "slug": "pray-com",
+   "name": "Pray.com",
+   "maker": "Pray, Inc.",
+   "category": "prayer-devotional",
+   "ages": "Rated 13+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Premium $1.99 or $7.99/month; 'Premium Subscription No Ads' $14.99; Pray Bible Experience $49.99 to $109.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1161035371",
+    "android": "https://play.google.com/store/apps/details?id=com.prayapp.client",
+    "web": "https://www.pray.com"
+   },
+   "ads": "no",
+   "updated": "2026-11-17",
+   "denomination": "non-denominational",
+   "description": "Prayer and audio app with daily prayers, prayer plans, bedtime Bible stories and audio Bible dramatizations.",
+   "goodFor": "Audio prayers and bedtime Bible stories.",
+   "worthKnowing": "Rated 13+ on the App Store, and one iOS in-app purchase is named 'Premium Subscription No Ads', which suggests the free tier carries ads.",
+   "website": "https://www.pray.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1161035371",
+    "https://itunes.apple.com/lookup?id=1161035371&country=us",
+    "https://play.google.com/store/apps/details?id=com.prayapp.client",
+    "https://www.pray.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/pray-com.webp"
+  },
+  {
+   "slug": "echo-prayer",
+   "name": "Echo Prayer",
+   "maker": "The Parable Group, Inc.",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Echo Plus+ $2.99 to $14.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id880759027",
+    "android": "https://play.google.com/store/apps/details?id=com.cloversites.echo",
+    "web": "https://www.echoprayer.com"
+   },
+   "ads": "no",
+   "updated": "2026-10-30",
+   "denomination": "non-denominational",
+   "description": "Prayer list app that organises requests and reminds you to pray for them.",
+   "goodFor": "Keeping track of prayer requests and actually praying for them.",
+   "worthKnowing": "A list and reminder tool, not a devotional content library.",
+   "website": "https://www.echoprayer.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id880759027",
+    "https://itunes.apple.com/lookup?id=880759027&country=us",
+    "https://play.google.com/store/apps/details?id=com.cloversites.echo",
+    "https://www.echoprayer.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/echo-prayer.webp"
+  },
+  {
+   "slug": "prayermate",
+   "name": "PrayerMate",
+   "maker": "Discipleship Tech",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "Optional Patron $0.99/month or $10.99/year; prayer guides $1.99 to $4.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id434815549",
+    "android": "https://play.google.com/store/apps/details?id=net.geero.prayermate",
+    "web": "https://app.prayermate.net"
+   },
+   "ads": "no",
+   "updated": "2026-11-04",
+   "denomination": "non-denominational",
+   "description": "Prayer app that picks people and topics from your own lists each day and shows them as cards to pray through.",
+   "goodFor": "Praying regularly for family, church and mission partners.",
+   "worthKnowing": "You add most of the content yourself.",
+   "website": "https://www.prayermate.net",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id434815549",
+    "https://itunes.apple.com/lookup?id=434815549&country=us",
+    "https://play.google.com/store/apps/details?id=net.geero.prayermate",
+    "https://www.prayermate.net"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/prayermate.webp"
+  },
+  {
+   "slug": "she-reads-truth",
+   "name": "She Reads Truth",
+   "maker": "Penguin Random House LLC NY",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "SRT Monthly Subscription $2.99; some reading plans $0.00",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id892128363",
+    "android": "https://play.google.com/store/apps/details?id=com.shereadstruth.shereadstruth",
+    "web": "https://shereadstruth.com"
+   },
+   "ads": "no",
+   "updated": "2026-10-14",
+   "denomination": "non-denominational",
+   "description": "Bible and devotional app for women with daily reading plans, full-text Bible and community comments.",
+   "goodFor": "Women who follow She Reads Truth plans.",
+   "worthKnowing": "The iOS app was last updated August 21, 2024, while the Android app was updated in October 2026.",
+   "website": "https://shereadstruth.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id892128363",
+    "https://itunes.apple.com/lookup?id=892128363&country=us",
+    "https://play.google.com/store/apps/details?id=com.shereadstruth.shereadstruth",
+    "https://shereadstruth.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/she-reads-truth.webp"
+  },
+  {
+   "slug": "he-reads-truth",
+   "name": "He Reads Truth",
+   "maker": "Penguin Random House LLC NY",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "HRT Monthly Subscription $1.99; individual plans $0.00 to $2.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1009532934",
+    "android": "https://play.google.com/store/apps/details?id=com.shereadstruth.hereadstruth",
+    "web": "https://hereadstruth.com"
+   },
+   "ads": "no",
+   "updated": "2026-10-14",
+   "denomination": "non-denominational",
+   "description": "Men's counterpart to She Reads Truth with daily Bible reading plans and a full-text Bible.",
+   "goodFor": "Men who want a simple daily reading plan.",
+   "worthKnowing": "The iOS app was last updated August 21, 2024.",
+   "website": "https://hereadstruth.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1009532934",
+    "https://itunes.apple.com/lookup?id=1009532934&country=us",
+    "https://play.google.com/store/apps/details?id=com.shereadstruth.hereadstruth",
+    "https://hereadstruth.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/he-reads-truth.webp"
+  },
+  {
+   "slug": "jesus-calling",
+   "name": "Jesus Calling",
+   "maker": "HarperCollins Christian Publishing, Inc.",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Jesus Calling Standard $2.99; Premium $4.99/month, $39.99 or $49.99/year; audiobooks $20.99 to $21.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id444553118",
+    "android": "https://play.google.com/store/apps/details?id=com.thomasnelson.jesuscalling",
+    "web": "https://www.jesuscalling.com"
+   },
+   "ads": "no",
+   "updated": "2026-10-08",
+   "denomination": "non-denominational",
+   "description": "Digital version of Sarah Young's Jesus Calling daily devotional with audio features.",
+   "goodFor": "Readers who already love the Jesus Calling book.",
+   "worthKnowing": "The devotional is written in the first person, as if Jesus is speaking; paid tiers unlock the extras.",
+   "website": "https://www.jesuscalling.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id444553118",
+    "https://itunes.apple.com/lookup?id=444553118&country=us",
+    "https://play.google.com/store/apps/details?id=com.thomasnelson.jesuscalling",
+    "https://www.jesuscalling.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/jesus-calling.webp"
+  },
+  {
+   "slug": "first-5",
+   "name": "First 5",
+   "maker": "Proverbs 31 Ministry, Inc.",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id997457664",
+    "android": "https://play.google.com/store/apps/details?id=com.crowdhub.first5",
+    "web": "https://first5.org"
+   },
+   "ads": "no",
+   "updated": "2026-04-27",
+   "denomination": "non-denominational",
+   "description": "Proverbs 31 Ministries' free app with a short daily teaching that walks through books of the Bible.",
+   "goodFor": "Women who want a guided, free daily Bible study.",
+   "worthKnowing": "Last updated in April 2026 on both stores, so less frequently than some.",
+   "website": "https://first5.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id997457664",
+    "https://itunes.apple.com/lookup?id=997457664&country=us",
+    "https://play.google.com/store/apps/details?id=com.crowdhub.first5",
+    "https://first5.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/first-5.webp"
+  },
+  {
+   "slug": "our-daily-bread",
+   "name": "Our Daily Bread",
+   "maker": "RBC Ministries",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id437496538",
+    "android": "https://play.google.com/store/apps/details?id=org.rbc.odb",
+    "web": "https://www.odbm.org"
+   },
+   "ads": "no",
+   "updated": "2026-11-09",
+   "denomination": "non-denominational",
+   "description": "Our Daily Bread Ministries' free daily devotional with Scripture, a short reading and audio.",
+   "goodFor": "A familiar, short daily devotional at no cost.",
+   "worthKnowing": "Brief readings; not built for deeper study.",
+   "website": "https://www.odbm.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id437496538",
+    "https://itunes.apple.com/lookup?id=437496538&country=us",
+    "https://play.google.com/store/apps/details?id=org.rbc.odb",
+    "https://www.odbm.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/our-daily-bread.webp"
+  },
+  {
+   "slug": "pray-as-you-go",
+   "name": "Pray As You Go",
+   "maker": "Jesuits in Britain",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id865934048",
+    "android": "https://play.google.com/store/apps/details?id=pl.foxcode.prayasyougo",
+    "web": "https://www.prayasyougo.org"
+   },
+   "ads": "no",
+   "updated": "2026-10-19",
+   "denomination": "Catholic",
+   "description": "Free daily audio prayer from the Jesuits in Britain, combining music, Scripture and Ignatian reflection.",
+   "goodFor": "A short guided audio prayer on a commute.",
+   "worthKnowing": "Rooted in Catholic Ignatian spirituality; it is made by the Jesuits in Britain.",
+   "website": "https://www.prayasyougo.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id865934048",
+    "https://itunes.apple.com/lookup?id=865934048&country=us",
+    "https://play.google.com/store/apps/details?id=pl.foxcode.prayasyougo",
+    "https://www.prayasyougo.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/pray-as-you-go.webp"
+  },
+  {
+   "slug": "soultime",
+   "name": "Soultime",
+   "maker": "Soultime Media Limited",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "subscription",
+   "price": "$5.99 or $7.99/month; $19.99/quarter; $29.99 to $59.99/year",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1369059690",
+    "android": "https://play.google.com/store/apps/details?id=com.soultime.app",
+    "web": "https://soultime.com"
+   },
+   "ads": "no",
+   "updated": "2026-09-06",
+   "denomination": null,
+   "description": "UK-made Christian meditation app with 250+ meditations for anxiety, sleep and stress.",
+   "goodFor": "Christian meditation with a calm, British style.",
+   "worthKnowing": "The Android app was last updated in August 2025.",
+   "website": "https://soultime.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1369059690",
+    "https://itunes.apple.com/lookup?id=1369059690&country=us",
+    "https://play.google.com/store/apps/details?id=com.soultime.app",
+    "https://soultime.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/soultime.webp"
+  },
+  {
+   "slug": "bible-with-nicky-and-pippa",
+   "name": "The Bible with Nicky and Pippa",
+   "maker": "alpha international",
+   "category": "prayer-devotional",
+   "ages": "Rated 13+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id504133402",
+    "android": "https://play.google.com/store/apps/details?id=com.multipie.bibleinoneyear",
+    "web": "https://bible.alpha.org/en/"
+   },
+   "ads": "no",
+   "updated": "2026-10-06",
+   "denomination": "non-denominational",
+   "description": "Alpha's free read-through-the-Bible-in-a-year plan with daily commentary from Nicky and Pippa Gumbel.",
+   "goodFor": "Reading the whole Bible in a year with a guide.",
+   "worthKnowing": "Rated 13+ on the App Store; one fixed plan rather than a library.",
+   "website": "https://bible.alpha.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id504133402",
+    "https://itunes.apple.com/lookup?id=504133402&country=us",
+    "https://play.google.com/store/apps/details?id=com.multipie.bibleinoneyear",
+    "https://bible.alpha.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/bible-with-nicky-and-pippa.webp"
+  },
+  {
+   "slug": "daily-grace-co",
+   "name": "The Daily Grace Co.",
+   "maker": "Jeremy Kristin LLC",
+   "category": "prayer-devotional",
+   "ages": "Rated 13+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Individual studies $15.99 to $21.99 (e.g. It Is Well, Esther, Habakkuk)",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1445578410",
+    "android": "https://play.google.com/store/apps/details?id=com.thedailygrace.thedailygrace",
+    "web": "https://thedailygraceco.com"
+   },
+   "ads": "yes",
+   "updated": "2026-11-04",
+   "denomination": "non-denominational",
+   "description": "Women's Bible study app from The Daily Grace Co. with studies, quiet-time tools and community.",
+   "goodFor": "Women who use Daily Grace printed studies.",
+   "worthKnowing": "Google Play labels it Contains ads and it is rated 13+ on the App Store; studies are sold one by one.",
+   "website": "https://thedailygraceco.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1445578410",
+    "https://itunes.apple.com/lookup?id=1445578410&country=us",
+    "https://play.google.com/store/apps/details?id=com.thedailygrace.thedailygrace",
+    "https://thedailygraceco.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/daily-grace-co.webp"
+  },
+  {
+   "slug": "every-moment-holy",
+   "name": "Every Moment Holy",
+   "maker": "Brentwood Press LLC",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "$2.99/month or $29.99/year; volumes from $0.99 to $19.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1559675417",
+    "android": "https://play.google.com/store/apps/details?id=com.brentwood.emh",
+    "web": "https://www.everymomentholy.com"
+   },
+   "ads": "no",
+   "updated": "2026-10-20",
+   "denomination": null,
+   "description": "Liturgies and prayers for ordinary moments of life, drawn from the Every Moment Holy book series.",
+   "goodFor": "Prayers for specific everyday moments, grief and change.",
+   "worthKnowing": "Most volumes are paid content.",
+   "website": "https://www.everymomentholy.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1559675417",
+    "https://itunes.apple.com/lookup?id=1559675417&country=us",
+    "https://play.google.com/store/apps/details?id=com.brentwood.emh",
+    "https://www.everymomentholy.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/every-moment-holy.webp"
+  },
+  {
+   "slug": "daily-office-bcp-2019",
+   "name": "The Daily Office (BCP 2019)",
+   "maker": "The Daily Office, LLC",
+   "category": "prayer-devotional",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1513851259",
+    "android": "https://play.google.com/store/apps/details?id=com.dailyoffice2019.app",
+    "web": "https://www.dailyoffice2019.com"
+   },
+   "ads": "no",
+   "updated": "2026-11-09",
+   "denomination": "Protestant",
+   "description": "Morning, midday, evening and compline prayer from the 2019 Book of Common Prayer, laid out on one page per office.",
+   "goodFor": "Praying the Anglican daily office without flipping through a prayer book.",
+   "worthKnowing": "Follows the 2019 Book of Common Prayer specifically.",
+   "website": "https://www.dailyoffice2019.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1513851259",
+    "https://itunes.apple.com/lookup?id=1513851259&country=us",
+    "https://play.google.com/store/apps/details?id=com.dailyoffice2019.app",
+    "https://www.dailyoffice2019.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/daily-office-bcp-2019.webp"
+  },
+  {
+   "slug": "dwell",
+   "name": "Dwell",
+   "maker": "Dwell App, LLC",
+   "category": "audio",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "subscription",
+   "price": "Dwell Monthly $9.99; Dwell Yearly $59.99 or $69.99; Family Plan $17.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1343917374",
+    "android": "https://play.google.com/store/apps/details?id=com.dwellapp.dwell",
+    "web": "https://dwellapp.io"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Audio Bible app with 20+ narrator voices across 14 translations, listening plans and background music.",
+   "goodFor": "Listening to Scripture beautifully read while commuting or doing chores.",
+   "worthKnowing": "Full access is a subscription after the free trial.",
+   "website": "https://dwellapp.io",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1343917374",
+    "https://itunes.apple.com/lookup?id=1343917374&country=us",
+    "https://play.google.com/store/apps/details?id=com.dwellapp.dwell",
+    "https://dwellapp.io"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/dwell.webp"
+  },
+  {
+   "slug": "grow-ligonier",
+   "name": "Grow: From Ligonier",
+   "maker": "Ligonier",
+   "category": "audio",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id371390152",
+    "android": "https://play.google.com/store/apps/details?id=com.subsplash.thechurchapp.ligonier",
+    "web": "https://www.ligonier.org/app"
+   },
+   "ads": "no",
+   "updated": "2026-11-13",
+   "denomination": "Protestant",
+   "description": "Ligonier Ministries' free app of daily Bible teaching to read, watch or listen to, including R.C. Sproul's Renewing Your Mind.",
+   "goodFor": "Reformed teaching in short daily doses.",
+   "worthKnowing": "Content reflects Reformed theology.",
+   "website": "https://www.ligonier.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id371390152",
+    "https://itunes.apple.com/lookup?id=371390152&country=us",
+    "https://play.google.com/store/apps/details?id=com.subsplash.thechurchapp.ligonier",
+    "https://www.ligonier.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/grow-ligonier.webp"
+  },
+  {
+   "slug": "desiring-god",
+   "name": "Desiring God (ft. Solid Joys)",
+   "maker": "Desiring God",
+   "category": "audio",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id6764369476",
+    "android": "https://play.google.com/store/apps/details?id=org.desiringgod.app",
+    "web": "https://www.desiringgod.org"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "Protestant",
+   "description": "Desiring God's app, released July 2026, with a year of Solid Joys daily devotionals built in for offline reading or listening, no account and no ads.",
+   "goodFor": "A free daily devotional from John Piper's ministry that works offline.",
+   "worthKnowing": "New app as of July 2026; it replaces older single-purpose Desiring God apps.",
+   "website": "https://www.desiringgod.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id6764369476",
+    "https://itunes.apple.com/lookup?id=6764369476&country=us",
+    "https://play.google.com/store/apps/details?id=org.desiringgod.app",
+    "https://www.desiringgod.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/desiring-god.webp"
+  },
+  {
+   "slug": "truth-for-life",
+   "name": "Truth For Life",
+   "maker": "Truth For Life",
+   "category": "audio",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id387699558",
+    "android": "https://play.google.com/store/apps/details?id=org.truthforlife.app",
+    "web": "https://www.truthforlife.org"
+   },
+   "ads": "no",
+   "updated": "2026-10-20",
+   "denomination": "Protestant",
+   "description": "Daily Bible teaching from Alistair Begg, a daily devotional and a free sermon library.",
+   "goodFor": "Listening to expository preaching.",
+   "worthKnowing": "Single-teacher ministry app.",
+   "website": "https://www.truthforlife.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id387699558",
+    "https://itunes.apple.com/lookup?id=387699558&country=us",
+    "https://play.google.com/store/apps/details?id=org.truthforlife.app",
+    "https://www.truthforlife.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/truth-for-life.webp"
+  },
+  {
+   "slug": "grace-to-you",
+   "name": "Grace to You",
+   "maker": "Grace to You",
+   "category": "audio",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id6624293742",
+    "android": "https://play.google.com/store/apps/details?id=com.gty.gracetoyou",
+    "web": "https://www.gty.org"
+   },
+   "ads": "no",
+   "updated": "2026-11-07",
+   "denomination": "Protestant",
+   "description": "Free streaming app with John MacArthur's verse-by-verse Bible teaching archive, launched December 2024.",
+   "goodFor": "Working through a book of the Bible with long-form sermons.",
+   "worthKnowing": "Single-teacher ministry app.",
+   "website": "https://www.gty.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id6624293742",
+    "https://itunes.apple.com/lookup?id=6624293742&country=us",
+    "https://play.google.com/store/apps/details?id=com.gty.gracetoyou",
+    "https://www.gty.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/grace-to-you.webp"
+  },
+  {
+   "slug": "k-love",
+   "name": "K-LOVE",
+   "maker": "Emf Broadcasting",
+   "category": "music",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free-with-ads",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id589478573",
+    "android": "https://play.google.com/store/apps/details?id=com.emf.klove",
+    "web": "https://www.klove.com"
+   },
+   "ads": "yes",
+   "updated": "2026-10-09",
+   "denomination": "non-denominational",
+   "description": "Live stream of K-LOVE Christian radio with song info, favorites and local station finder.",
+   "goodFor": "Contemporary Christian music in the car or at home.",
+   "worthKnowing": "Google Play labels it Contains ads.",
+   "website": "https://www.klove.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id589478573",
+    "https://itunes.apple.com/lookup?id=589478573&country=us",
+    "https://play.google.com/store/apps/details?id=com.emf.klove",
+    "https://www.klove.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/k-love.webp"
+  },
+  {
+   "slug": "air1",
+   "name": "Air1",
+   "maker": "Emf Broadcasting",
+   "category": "music",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free-with-ads",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id589502557",
+    "android": "https://play.google.com/store/apps/details?id=com.emf.air1",
+    "web": "https://www.air1.com"
+   },
+   "ads": "yes",
+   "updated": "2026-10-09",
+   "denomination": "non-denominational",
+   "description": "Live stream of Air1 worship radio from the same broadcaster as K-LOVE.",
+   "goodFor": "Worship music radio.",
+   "worthKnowing": "Google Play labels it Contains ads.",
+   "website": "https://www.air1.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id589502557",
+    "https://itunes.apple.com/lookup?id=589502557&country=us",
+    "https://play.google.com/store/apps/details?id=com.emf.air1",
+    "https://www.air1.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/air1.webp"
+  },
+  {
+   "slug": "moody-radio",
+   "name": "Moody Radio",
+   "maker": "Moody Bible Institute",
+   "category": "music",
+   "ages": "Rated 9+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id339276728",
+    "android": "https://play.google.com/store/apps/details?id=org.moodyradio.moodyradio",
+    "web": "https://www.moodyradio.org"
+   },
+   "ads": "no",
+   "updated": "2026-11-11",
+   "denomination": "non-denominational",
+   "description": "Moody Bible Institute's radio app with Christian music, teaching programs and news.",
+   "goodFor": "A mix of music and Bible teaching programs.",
+   "worthKnowing": "Rated 9+ on the App Store.",
+   "website": "https://www.moodyradio.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id339276728",
+    "https://itunes.apple.com/lookup?id=339276728&country=us",
+    "https://play.google.com/store/apps/details?id=org.moodyradio.moodyradio",
+    "https://www.moodyradio.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/moody-radio.webp"
+  },
+  {
+   "slug": "refnet",
+   "name": "RefNet",
+   "maker": "Ligonier",
+   "category": "music",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id537706472",
+    "android": "https://play.google.com/store/apps/details?id=com.ligonier.refnet",
+    "web": "https://refnet.fm"
+   },
+   "ads": "no",
+   "updated": "2026-10-05",
+   "denomination": "Protestant",
+   "description": "Ligonier's 24-hour internet radio of Reformed teaching and sacred music.",
+   "goodFor": "Background teaching from Reformed pastors.",
+   "worthKnowing": "Mostly preaching and teaching, not a music station.",
+   "website": "https://refnet.fm",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id537706472",
+    "https://itunes.apple.com/lookup?id=537706472&country=us",
+    "https://play.google.com/store/apps/details?id=com.ligonier.refnet",
+    "https://refnet.fm"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/refnet.webp"
+  },
+  {
+   "slug": "church-center",
+   "name": "Church Center",
+   "maker": "Ministry Centered Technologies",
+   "category": "church",
+   "ages": "Rated 13+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1357742931",
+    "android": "https://play.google.com/store/apps/details?id=com.ministrycentered.churchcenter",
+    "web": "https://churchcenter.com"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": null,
+   "description": "Planning Center's member app for churches that use it: events, giving, groups, check-in and directory.",
+   "goodFor": "Members of a church that runs on Planning Center.",
+   "worthKnowing": "Only useful if your church uses Planning Center; rated 13+ on the App Store.",
+   "website": "https://www.planningcenter.com/church-center",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1357742931",
+    "https://itunes.apple.com/lookup?id=1357742931&country=us",
+    "https://play.google.com/store/apps/details?id=com.ministrycentered.churchcenter",
+    "https://www.planningcenter.com/church-center"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/church-center.webp"
+  },
+  {
+   "slug": "life-church",
+   "name": "Life.Church",
+   "maker": "Life.Church",
+   "category": "church",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1014635777",
+    "android": "https://play.google.com/store/apps/details?id=church.life.app",
+    "web": "https://www.life.church/app"
+   },
+   "ads": "no",
+   "updated": "2026-11-16",
+   "denomination": "non-denominational",
+   "description": "Life.Church's app for watching Craig Groeschel's messages, following message notes and connecting to a campus or Church Online.",
+   "goodFor": "Life.Church attenders and Church Online viewers.",
+   "worthKnowing": "Built for one church.",
+   "website": "https://www.life.church",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1014635777",
+    "https://itunes.apple.com/lookup?id=1014635777&country=us",
+    "https://play.google.com/store/apps/details?id=church.life.app",
+    "https://www.life.church"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/life-church.webp"
+  },
+  {
+   "slug": "laudate",
+   "name": "Laudate",
+   "maker": "Andrzej Krawczyk",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id499428207",
+    "android": "https://play.google.com/store/apps/details?id=com.aycka.apps.MassReadings"
+   },
+   "ads": "no",
+   "updated": "2026-11-11",
+   "denomination": "Catholic",
+   "description": "Free Catholic app with daily Mass readings, Liturgy of the Hours, Rosary, prayers and saint of the day in many languages.",
+   "goodFor": "Free access to a wide range of Catholic prayers and readings.",
+   "worthKnowing": "Packed menus; it can feel cluttered.",
+   "website": null,
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id499428207",
+    "https://itunes.apple.com/lookup?id=499428207&country=us",
+    "https://play.google.com/store/apps/details?id=com.aycka.apps.MassReadings"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/laudate.webp"
+  },
+  {
+   "slug": "ibreviary",
+   "name": "iBreviary",
+   "maker": "Paolo Padrini",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id422601705",
+    "android": "https://play.google.com/store/apps/details?id=com.netguru.ibreviary",
+    "web": "https://www.ibreviary.org"
+   },
+   "ads": "no",
+   "updated": "2026-08-25",
+   "denomination": "Catholic",
+   "description": "Free Catholic Breviary app with the Liturgy of the Hours, Mass texts and prayers in several languages.",
+   "goodFor": "Praying the Hours from a simple, free app.",
+   "worthKnowing": "Plain design.",
+   "website": "https://www.ibreviary.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id422601705",
+    "https://itunes.apple.com/lookup?id=422601705&country=us",
+    "https://play.google.com/store/apps/details?id=com.netguru.ibreviary",
+    "https://www.ibreviary.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/ibreviary.webp"
+  },
+  {
+   "slug": "ascension",
+   "name": "Ascension",
+   "maker": "Ascension Publishing Group, LLC",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "freemium",
+   "price": "Full Access $8.99/month or $59.99/year",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1660909501",
+    "android": "https://play.google.com/store/apps/details?id=com.ascension.app",
+    "web": "https://ascensionpress.com/pages/ascension-app"
+   },
+   "ads": "no",
+   "updated": "2026-10-19",
+   "denomination": "Catholic",
+   "description": "Ascension's Catholic Bible app with the Great Adventure Catholic Bible and its reading and catechism content.",
+   "goodFor": "Catholics following Ascension's Bible in a Year.",
+   "worthKnowing": "Full access is a subscription.",
+   "website": "https://ascensionpress.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1660909501",
+    "https://itunes.apple.com/lookup?id=1660909501&country=us",
+    "https://play.google.com/store/apps/details?id=com.ascension.app",
+    "https://ascensionpress.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/ascension.webp"
+  },
+  {
+   "slug": "divine-office",
+   "name": "Divine Office",
+   "maker": "Surgeworks, Inc.",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id914635909",
+    "android": "https://play.google.com/store/apps/details?id=com.surgeworks.divineoffice",
+    "web": "https://divineoffice.org"
+   },
+   "ads": "no",
+   "updated": "2026-11-03",
+   "denomination": "Catholic",
+   "description": "Audio and text app for praying the Catholic Liturgy of the Hours along with recorded readers.",
+   "goodFor": "Praying the Hours by listening.",
+   "worthKnowing": "Built on the Roman Catholic Liturgy of the Hours approved for use in the US by the USCCB.",
+   "website": "https://divineoffice.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id914635909",
+    "https://itunes.apple.com/lookup?id=914635909&country=us",
+    "https://play.google.com/store/apps/details?id=com.surgeworks.divineoffice",
+    "https://divineoffice.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/divine-office.webp"
+  },
+  {
+   "slug": "universalis",
+   "name": "Universalis",
+   "maker": "Universalis Publishing Limited",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "paid",
+   "price": "$9.99 upfront on the US App Store; optional add-ons such as Daily Mass Readings $1.99 or $19.99, All Hours $2.99 or $29.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id284942719",
+    "android": "https://play.google.com/store/apps/details?id=com.universalis.android.universalis",
+    "web": "https://universalis.com"
+   },
+   "ads": "no",
+   "updated": "2026-11-09",
+   "denomination": "Catholic",
+   "description": "Catholic missal and breviary app with the Liturgy of the Hours and the Mass for every day.",
+   "goodFor": "A one-time purchase with no subscription.",
+   "worthKnowing": "Paid upfront, unlike most apps here.",
+   "website": "https://universalis.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id284942719",
+    "https://itunes.apple.com/lookup?id=284942719&country=us",
+    "https://play.google.com/store/apps/details?id=com.universalis.android.universalis",
+    "https://universalis.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/universalis.webp"
+  },
+  {
+   "slug": "word-on-fire-digital",
+   "name": "Word on Fire Digital",
+   "maker": "Word on Fire Catholic Ministries",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "subscription",
+   "price": "$19.99/month or $199.99/year",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1351343017",
+    "android": "https://play.google.com/store/apps/details?id=com.wordonfire",
+    "web": "https://www.wofdigital.org"
+   },
+   "ads": "no",
+   "updated": "2026-09-18",
+   "denomination": "Catholic",
+   "description": "Streaming subscription for Bishop Robert Barron's video series and courses.",
+   "goodFor": "Catholic adult formation through high-quality video.",
+   "worthKnowing": "One of the more expensive subscriptions in this list.",
+   "website": "https://www.wordonfire.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1351343017",
+    "https://itunes.apple.com/lookup?id=1351343017&country=us",
+    "https://play.google.com/store/apps/details?id=com.wordonfire",
+    "https://www.wordonfire.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/word-on-fire-digital.webp"
+  },
+  {
+   "slug": "amen-catholic",
+   "name": "Amen",
+   "maker": "Augustine Institute, Inc.",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "No in-app purchases listed on the US App Store",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1573298413",
+    "android": "https://play.google.com/store/apps/details?id=org.amenapp.amen",
+    "web": "https://amenapp.org"
+   },
+   "ads": "no",
+   "updated": "2026-11-11",
+   "denomination": "Catholic",
+   "description": "Augustine Institute's free Catholic app with daily readings, Mass recordings and recorded prayers.",
+   "goodFor": "Free daily readings and prayers.",
+   "worthKnowing": "The Android app was last updated in June 2026.",
+   "website": "https://amenapp.org",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1573298413",
+    "https://itunes.apple.com/lookup?id=1573298413&country=us",
+    "https://play.google.com/store/apps/details?id=org.amenapp.amen",
+    "https://amenapp.org"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/amen-catholic.webp"
+  },
+  {
+   "slug": "ewtn",
+   "name": "EWTN",
+   "maker": "EWTN RELIGIOUS CATALOGUE, INC",
+   "category": "catholic",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "free",
+   "price": "Free; individual films and programs rentable from $0.99 to $14.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id569376490",
+    "android": "https://play.google.com/store/apps/details?id=com.ewtn.truthandlife",
+    "web": "https://www.ewtn.com"
+   },
+   "ads": "no",
+   "updated": "2026-08-28",
+   "denomination": "Catholic",
+   "description": "EWTN's app for live TV and radio, on-demand programs and news.",
+   "goodFor": "Catholic TV and radio on the phone.",
+   "worthKnowing": "The iOS app was last updated October 23, 2024.",
+   "website": "https://www.ewtn.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id569376490",
+    "https://itunes.apple.com/lookup?id=569376490&country=us",
+    "https://play.google.com/store/apps/details?id=com.ewtn.truthandlife",
+    "https://www.ewtn.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/ewtn.webp"
+  },
+  {
+   "slug": "ever-accountable",
+   "name": "Ever Accountable",
+   "maker": "Ever Accountable",
+   "category": "accountability",
+   "ages": "Rated 9+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "subscription",
+   "price": "Individual $9.99 or $14.99/month, $88.99 to $128.99/year; Family $12.99/month or $118.99/year",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1074047778",
+    "android": "https://play.google.com/store/apps/details?id=com.everaccountable.android",
+    "web": "https://www.everaccountable.com"
+   },
+   "ads": "no",
+   "updated": "2026-10-30",
+   "denomination": "non-denominational",
+   "description": "Accountability app that uses on-device AI to report on web and app activity to chosen partners.",
+   "goodFor": "Accountability that covers apps as well as browsers.",
+   "worthKnowing": "Many price tiers listed; compare before subscribing.",
+   "website": "https://www.everaccountable.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1074047778",
+    "https://itunes.apple.com/lookup?id=1074047778&country=us",
+    "https://play.google.com/store/apps/details?id=com.everaccountable.android",
+    "https://www.everaccountable.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/ever-accountable.webp"
+  },
+  {
+   "slug": "accountable2you",
+   "name": "Accountable2You",
+   "maker": "ACCOUNTABLE2YOU, LLC",
+   "category": "accountability",
+   "ages": "Rated 4+",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "priceModel": "subscription",
+   "price": "Personal (Monthly) $14.99",
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/id1531309290",
+    "android": "https://play.google.com/store/apps/details?id=com.accountable2you.ap1.googleplay",
+    "web": "https://accountable2you.com"
+   },
+   "ads": "no",
+   "updated": "2026-08-25",
+   "denomination": "non-denominational",
+   "description": "Monitoring app that reports browsing and app use to accountability partners without blocking.",
+   "goodFor": "People who want reporting rather than blocking.",
+   "worthKnowing": "Reports only; it does not block content.",
+   "website": "https://accountable2you.com",
+   "checkedOn": "2026-11-17",
+   "sources": [
+    "https://apps.apple.com/us/app/id1531309290",
+    "https://itunes.apple.com/lookup?id=1531309290&country=us",
+    "https://play.google.com/store/apps/details?id=com.accountable2you.ap1.googleplay",
+    "https://accountable2you.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/accountable2you.webp"
   }
  ],
  "gone": [
@@ -1717,6 +3427,18 @@
    "name": "Slugs & Bugs app",
    "status": "no app found",
    "evidence": "No App Store result; slugsandbugs.com is live as a music site."
+  }
+ ],
+ "goneAdults": [
+  {
+   "name": "Ask Pastor John (Desiring God)",
+   "status": "abandoned",
+   "evidence": "Still listed on the US App Store but the last iOS update was 2020-03-19, over six years ago. Desiring God released a new main app, 'Desiring God ft. Solid Joys', on 2026-07-16."
+  },
+  {
+   "name": "Verses: Bible Memory",
+   "status": "abandoned",
+   "evidence": "Still listed on the US App Store but the last iOS update was 2020-03-13, over six years ago; no matching Google Play listing found in a Play search."
   }
  ]
 }

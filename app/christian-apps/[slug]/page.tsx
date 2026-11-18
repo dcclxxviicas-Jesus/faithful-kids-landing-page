@@ -4,7 +4,7 @@ import { SiteNav, SiteFooter } from '../../components/SiteChrome'
 import { BlogStickyCta } from '../../blog/BlogStickyCta'
 import { allListings } from '@/lib/app-directory-db'
 import {
-  CURATED, ALTERNATIVE_TO, FK_SLUG, PRICE_LABEL, categoryLabel, prettyDate, isStale, type Listing,
+  CURATED, ALTERNATIVE_TO, FK_SLUG, forKids, forAdults, hubFor, PRICE_LABEL, categoryLabel, prettyDate, isStale, type Listing,
 } from '@/lib/christian-apps'
 import { AppIcon, PlatformTags, FkAd } from '../ui'
 import { BadgeSnippet } from './BadgeSnippet'
@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const hit = await find(slug)
   if (!hit) return { title: 'Not found', robots: { index: false } }
   const { app } = hit
-  const title = `${app.name} Review: Price, Ages and Ads (2026)`
+  const title = app.audience === 'adults' ? `${app.name} App Review: Price, Features and Ads (2026)` : `${app.name} Review: Price, Ages and Ads (2026)`
   const url = `https://faithfulkids.app/christian-apps/${app.slug}`
   return {
     title: { absolute: title.length > 62 ? `${app.name} Review for Parents (2026)` : title },
@@ -67,10 +67,10 @@ function appFaqs(app: Listing, alts: Listing[]): { q: string; a: string }[] {
     a: app.ads === 'yes' ? 'Yes. Google Play shows a "Contains ads" label on it.' : `We found no "Contains ads" label on its store listing${free ? ', which is worth knowing for a free app' : ''}.`,
   })
   const devs = [app.platforms.ios && 'iPhone and iPad', app.platforms.android && 'Android phones and tablets', app.platforms.web && 'any web browser'].filter(Boolean) as string[]
-  if (devs.length) out.push({ q: `What devices does ${app.name} work on?`, a: `${devs.length === 1 ? devs[0] : devs.slice(0, -1).join(', ') + ' and ' + devs[devs.length - 1]}.`.replace(/^./, c => c.toUpperCase()) })
+  if (devs.length) out.push({ q: `What devices does ${app.name} work on?`, a: `${devs.length === 1 ? devs[0] : devs.slice(0, -1).join(', ') + ' and ' + devs[devs.length - 1]}.`.replace(/^[a-hj-z]/, c => c.toUpperCase()) })
   if (alts.length) out.push({
     q: `What are some alternatives to ${app.name}?`,
-    a: `Similar Christian apps include ${alts.slice(0, 4).map(a => a.name).join(', ')}${app.slug !== FK_SLUG ? ', and Faithful Kids, which walks kids through the whole Bible in short lessons with a quiz after each' : ''}.`,
+    a: `Similar Christian apps include ${alts.slice(0, 4).map(a => a.name).join(', ')}${app.slug !== FK_SLUG && app.audience !== 'adults' ? ', and Faithful Kids, which walks kids through the whole Bible in short lessons with a quiz after each' : ''}.`,
   })
   return out
 }
@@ -92,8 +92,15 @@ export default async function AppPage({ params }: { params: Promise<{ slug: stri
   // Faithful Kids is left out here because its ad already sits above this list.
   const score = (l: Listing) => l.ageGroups.filter(g => app.ageGroups.includes(g)).length * 2 + (l.priceModel === app.priceModel ? 1 : 0)
   const byScore = (a: Listing, b: Listing) => score(b) - score(a) || a.name.localeCompare(b.name)
-  const related = all.filter(l => l.slug !== app.slug && l.slug !== FK_SLUG && l.category === app.category).sort(byScore).slice(0, 6)
-  const more = related.length < 4 ? all.filter(l => l.slug !== app.slug && l.slug !== FK_SLUG && l.category !== app.category && l.ageGroups.some(g => app.ageGroups.includes(g))).sort(byScore).slice(0, 6 - related.length) : []
+  // Each listing compares against its own hub: adults-only apps against the
+  // adults directory, everything else against the kids directory.
+  const adultsOnly = app.audience === 'adults'
+  const pool = (adultsOnly ? forAdults(all) : forKids(all)).filter(l => l.slug !== app.slug && l.slug !== FK_SLUG)
+  const related = pool.filter(l => l.category === app.category).sort(byScore).slice(0, 6)
+  const more = related.length < 4
+    ? pool.filter(l => l.category !== app.category && (adultsOnly || l.ageGroups.some(g => app.ageGroups.includes(g)))).sort(byScore).slice(0, 6 - related.length)
+    : []
+  const hub = hubFor(app)
   const url = `https://faithfulkids.app/christian-apps/${app.slug}`
   const alts = [...related, ...more].filter(r => r.slug !== FK_SLUG)
   const faqs = appFaqs(app, alts)
@@ -116,7 +123,7 @@ export default async function AppPage({ params }: { params: Promise<{ slug: stri
     '@context': 'https://schema.org', '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://faithfulkids.app' },
-      { '@type': 'ListItem', position: 2, name: 'Best Christian Apps for Kids', item: 'https://faithfulkids.app/christian-apps' },
+      { '@type': 'ListItem', position: 2, name: hub.label, item: `https://faithfulkids.app${hub.href}` },
       { '@type': 'ListItem', position: 3, name: app.name, item: url },
     ],
   }
@@ -129,13 +136,13 @@ export default async function AppPage({ params }: { params: Promise<{ slug: stri
       <SiteNav />
       <main className="ad-wrap ad-detail">
         <nav className="ad-crumbs" aria-label="Breadcrumb">
-          <a href="/christian-apps">Best Christian Apps for Kids</a> <span aria-hidden="true">/</span> {categoryLabel(app.category)}
+          <a href={hub.href}>{hub.label}</a> <span aria-hidden="true">/</span> {categoryLabel(app.category)}
         </nav>
 
         <header className="ad-dh">
           <AppIcon app={app} size={96} />
           <div>
-            <h1>{app.name} <span className="ad-h1-tail">review for parents</span></h1>
+            <h1>{app.name} <span className="ad-h1-tail">{adultsOnly ? 'app review' : 'review for parents'}</span></h1>
             <p className="ad-dh-sub">
               {app.maker && <>by {app.maker} · </>}{categoryLabel(app.category)}
               {app.denomination && app.denomination !== 'non-denominational' && <> · {app.denomination}</>}
@@ -191,7 +198,7 @@ export default async function AppPage({ params }: { params: Promise<{ slug: stri
           </aside>
         </div>
 
-        {!isFk && <FkAd alternativeTo={ALTERNATIVE_TO.has(app.slug) || app.submitted ? app.name : undefined} location={`christian-apps-${app.slug}`} />}
+        {!isFk && <FkAd parents={adultsOnly} alternativeTo={!adultsOnly && (ALTERNATIVE_TO.has(app.slug) || app.submitted) ? app.name : undefined} location={`christian-apps-${app.slug}`} />}
 
         {[...related, ...more].length > 0 && (
           <section className="ad-section">
@@ -204,12 +211,12 @@ export default async function AppPage({ params }: { params: Promise<{ slug: stri
                 </a>
               ))}
             </div>
-            <p><a href="/christian-apps">See all the best Christian apps for kids</a></p>
+            <p><a href={hub.href}>See all the {hub.label.replace(/^Best/, 'best')}</a></p>
           </section>
         )}
 
         <section className="ad-section ad-faq">
-          <h2>{app.name}: questions parents ask</h2>
+          <h2>{app.name}: questions {adultsOnly ? 'people' : 'parents'} ask</h2>
           {faqs.map(f => (
             <details key={f.q} open>
               <summary>{f.q}</summary>

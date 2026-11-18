@@ -3,6 +3,7 @@ import { getDueLeads, updateLead, sendLeadEmail, customerStatus } from '@/lib/le
 import { buildEmail, nextDripDays } from '@/lib/lead-emails'
 import { runTrialEmails } from '@/lib/trial-runner'
 import { runLifecycleEmails } from '@/lib/lifecycle-runner'
+import { reconcileContacts } from '@/lib/resend-contacts'
 
 // Three jobs run on this one daily tick (leads, trial emails, lifecycle
 // emails), so give it room.
@@ -22,6 +23,17 @@ export async function GET(req: Request) {
   const isManual = url.searchParams.get('secret') === process.env.DRIP_SECRET
   if (!isVercelCron && !isManual) {
     return NextResponse.json({ error: 'unauthorized' }, { status: 401 })
+  }
+
+  // Step zero: mirror the audience into Resend, and first take in anyone who
+  // unsubscribed from a Resend Broadcast so nobody below emails them today.
+  // Isolated: a Resend problem must never stop the emails.
+  let contacts: unknown = { skipped: true }
+  try {
+    contacts = await reconcileContacts({ budgetMs: 90_000 })
+  } catch (e) {
+    console.error('contact sync failed:', e)
+    contacts = { error: e instanceof Error ? e.message : 'failed' }
   }
 
   try {
@@ -90,7 +102,7 @@ export async function GET(req: Request) {
       lifecycle = { error: e instanceof Error ? e.message : 'failed' }
     }
 
-    return NextResponse.json({ ok: true, due: due.length, sent, failed, converted, trial, lifecycle })
+    return NextResponse.json({ ok: true, due: due.length, sent, failed, converted, trial, lifecycle, contacts })
   } catch (e) {
     console.error('drip error:', e)
     return NextResponse.json({ error: 'drip failed' }, { status: 500 })

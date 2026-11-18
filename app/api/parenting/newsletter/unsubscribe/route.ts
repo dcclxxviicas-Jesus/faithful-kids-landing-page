@@ -1,4 +1,6 @@
+import { after } from 'next/server'
 import { verifyNewsletterToken, setSubscriberStatus } from '@/lib/parenting-db'
+import { syncEmail } from '@/lib/resend-contacts'
 
 export const dynamic = 'force-dynamic'
 
@@ -13,6 +15,7 @@ async function handle(req: Request): Promise<Response> {
     return new Response('Invalid unsubscribe link.', { status: 400 })
   }
   try { await setSubscriberStatus(email, 'unsubscribed') } catch { /* same page either way */ }
+  after(() => syncEmail(email)) // takes them out of the Resend "Newsletter" segment
   return new Response(
     `<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>Unsubscribed</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"></head>
 <body style="font-family:-apple-system,Segoe UI,Roboto,sans-serif;background:#f7f7f7;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;">

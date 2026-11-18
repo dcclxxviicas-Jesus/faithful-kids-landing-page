@@ -1,4 +1,6 @@
 import { verifyUnsubscribeToken, updateLead, unsubscribeFamilies } from '@/lib/leads'
+import { after } from 'next/server'
+import { syncEmail } from '@/lib/resend-contacts'
 
 // Unsubscribe, linked in every lead, trial and customer email.
 //
@@ -45,5 +47,6 @@ export async function POST(req: Request) {
     console.error('unsubscribe failed for both tables', results)
     return page('Something went wrong', `<p style="color:#555;">We could not unsubscribe you just now. Please reply to any of our emails and we will do it by hand.</p>`)
   }
+  after(() => syncEmail(email)) // mark the Resend contact unsubscribed too
   return page('You are unsubscribed', `<p style="color:#555;">No more emails from us at this address. Anything you downloaded is still yours to keep, and you are always welcome back at <a href="https://faithfulkids.app" style="color:#16a34a;font-weight:700;">faithfulkids.app</a>.</p>`)
 }

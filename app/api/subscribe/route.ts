@@ -1,4 +1,5 @@
-import { NextResponse } from 'next/server'
+import { NextResponse, after } from 'next/server'
+import { syncEmail } from '@/lib/resend-contacts'
 import { upsertLead, getLeadByEmail, updateLead, sendLeadEmail, customerStatus } from '@/lib/leads'
 import { buildEmail, nextDripDays } from '@/lib/lead-emails'
 
@@ -71,6 +72,8 @@ export async function POST(req: Request) {
         }
       }
     }
+    // Mirror into the Resend audience once the response is out.
+    after(() => syncEmail(email))
     // Repeat subscribers just get a friendly ok — no duplicate emails
     return NextResponse.json({ ok: true })
   } catch (e) {

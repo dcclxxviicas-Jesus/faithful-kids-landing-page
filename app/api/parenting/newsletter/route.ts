@@ -1,4 +1,5 @@
-import { NextResponse } from 'next/server'
+import { NextResponse, after } from 'next/server'
+import { syncEmail } from '@/lib/resend-contacts'
 import { upsertSubscriber, ipHash, dbConfigured, TableMissing } from '@/lib/parenting-db'
 import { sendNewsletterWelcome } from '@/lib/parenting-emails'
 
@@ -43,6 +44,7 @@ export async function POST(req: Request) {
       user_agent: (req.headers.get('user-agent') || '').slice(0, 300),
     })
     if (sendWelcome) await sendNewsletterWelcome(email)
+    after(() => syncEmail(email))
     return NextResponse.json({ ok: true })
   } catch (err) {
     if (err instanceof TableMissing) {

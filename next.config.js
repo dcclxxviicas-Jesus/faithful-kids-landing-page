@@ -40,6 +40,7 @@ const nextConfig = {
   async headers() {
     return [
       { source: '/printables/:path(.+\\.pdf)', headers: [{ key: 'X-Robots-Tag', value: 'noindex' }] },
+      { source: '/email/:path*', headers: [{ key: 'X-Robots-Tag', value: 'noindex' }, { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }] },
     ]
   },
   async rewrites() {
@@ -61,6 +62,13 @@ const nextConfig = {
       {
         source: '/printables/:path(.+\\.pdf)',
         destination: 'https://d3g07v1w0lehiv.cloudfront.net/printables/:path',
+      },
+      /* Email images open at faithfulkids.app too: receivers (Gmail above
+         all) trust images hosted on the sending domain more than a
+         third-party CDN host. Same files, same CDN behind it. */
+      {
+        source: '/email/:path*',
+        destination: 'https://d3g07v1w0lehiv.cloudfront.net/email/:path*',
       },
       // Markdown parity: /blog/<slug>.md serves the same post as plain Markdown.
       // Handler lives at app/blog-md/[slug]/route.ts. HTML stays canonical.

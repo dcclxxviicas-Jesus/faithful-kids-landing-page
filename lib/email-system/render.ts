@@ -40,7 +40,7 @@ export interface RenderInput {
   unsubscribeUrl?: string | null
 }
 
-const ASSETS = 'https://d3g07v1w0lehiv.cloudfront.net/email'
+const ASSETS = 'https://faithfulkids.app/email'
 // The header is the name in plain text, no logo image (owner decision, Nov 17,
 // 2026): every logo tried rendered badly in Gmail's dark mode on phones.
 

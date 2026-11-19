@@ -3385,6 +3385,347 @@
    "kind": "app",
    "audience": "adults",
    "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/accountable2you.webp"
+  },
+  {
+   "slug": "truthly",
+   "name": "Truthly",
+   "maker": "Truthly, Inc.",
+   "ages": "Rated 12+ (App Store), Everyone 10+ (Google Play)",
+   "priceModel": "freemium",
+   "price": "Free to start; Pro from $4.99 to $7.99/mo or $29.99 to $47.99/yr, Pro+ $17.99/mo or $149.99/yr (App Store IAP list)",
+   "ads": "no",
+   "updated": "2026-11-09",
+   "description": "An AI chat app that answers questions about faith, life, culture and the news from a Catholic point of view.",
+   "goodFor": "Quick answers to questions about Catholic teaching.",
+   "worthKnowing": "AI answers can be wrong, so check anything important against the Catechism. Rated 12+ on the App Store.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/truthly-catholic-ai/id6504047524",
+    "android": "https://play.google.com/store/apps/details?id=com.truthly"
+   },
+   "denomination": "Catholic",
+   "website": "https://www.truthly.ai",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/truthly-catholic-ai/id6504047524",
+    "https://play.google.com/store/apps/details?id=com.truthly",
+    "https://www.truthly.ai"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/truthly.webp"
+  },
+  {
+   "slug": "magnificat",
+   "name": "Magnificat",
+   "maker": "Magnificat, Inc.",
+   "ages": "Rated 4+",
+   "priceModel": "subscription",
+   "price": "$24.00 for a one-year subscription, or single issues $0.99 to $1.99 (App Store IAP list)",
+   "ads": "no",
+   "updated": "2025-10-14",
+   "description": "The digital edition of the monthly Magnificat prayer missal, with the daily Mass texts, morning and evening prayer and meditations.",
+   "goodFor": "Magnificat readers who want the missal on their phone.",
+   "worthKnowing": "The iPhone app was last updated in October 2025 and the Android app in September 2025.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/magnificat-english-editions/id363526415",
+    "android": "https://play.google.com/store/apps/details?id=com.magnificat.magnificat.usa"
+   },
+   "denomination": "Catholic",
+   "website": "https://us.magnificat.net/online/",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/magnificat-english-editions/id363526415",
+    "https://play.google.com/store/apps/details?id=com.magnificat.magnificat.usa",
+    "https://us.magnificat.net/online/"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/magnificat.webp"
+  },
+  {
+   "slug": "catholic-answers",
+   "name": "Catholic Answers",
+   "maker": "Catholic Answers Inc.",
+   "ages": "Rated 4+",
+   "priceModel": "free",
+   "price": "Free (no in-app purchases listed)",
+   "ads": "no",
+   "updated": "2026-08-01",
+   "description": "Catholic Answers Live radio, podcasts, video and searchable Q&As and articles from Catholic.com, focused on explaining and defending the faith.",
+   "goodFor": "Apologetics and Q&A listening.",
+   "worthKnowing": "Mostly audio and articles; it is not a prayer or readings app.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/catholic-answers/id971611664",
+    "android": "https://play.google.com/store/apps/details?id=com.calive.playstore"
+   },
+   "denomination": "Catholic",
+   "website": "http://www.catholicanswerslive.com",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/catholic-answers/id971611664",
+    "https://play.google.com/store/apps/details?id=com.calive.playstore",
+    "http://www.catholicanswerslive.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/catholic-answers.webp"
+  },
+  {
+   "slug": "catholic-calendar-universalis",
+   "name": "Catholic Calendar (Universalis)",
+   "maker": "Universalis Publishing Limited",
+   "ages": "Rated 4+",
+   "priceModel": "freemium",
+   "price": "Free calendar; add-ons such as Daily texts $0.99, Daily Mass Readings $1.99 or $19.99, All Hours $2.99 or $29.99 (App Store IAP list)",
+   "ads": "no",
+   "updated": "2026-10-30",
+   "description": "A free liturgical calendar from the makers of Universalis, with the day's feast and season and optional paid readings and Hours.",
+   "goodFor": "A free liturgical calendar you can add texts to later.",
+   "worthKnowing": "The readings and the Liturgy of the Hours are paid add-ons. The full Universalis app is listed separately.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/catholic-calendar/id285512407",
+    "android": "https://play.google.com/store/apps/details?id=com.universalis.android.calendar"
+   },
+   "denomination": "Catholic",
+   "website": "http://www.universalis.com/n-ios.htm",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/catholic-calendar/id285512407",
+    "https://play.google.com/store/apps/details?id=com.universalis.android.calendar",
+    "http://www.universalis.com/n-ios.htm"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/catholic-calendar-universalis.webp"
+  },
+  {
+   "slug": "relevant-radio",
+   "name": "Relevant Radio",
+   "maker": "Relevant Radio Inc",
+   "ages": "Rated 4+",
+   "priceModel": "free-with-ads",
+   "price": "Free (no in-app purchases listed)",
+   "ads": "yes",
+   "updated": "2026-11-17",
+   "description": "Relevant Radio's app: live Catholic talk radio, a daily family Rosary, daily Mass, sacred music and Christian music streams.",
+   "goodFor": "Catholic talk radio and a guided Rosary.",
+   "worthKnowing": "Google Play shows a \"Contains ads\" label.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/relevant-radio-catholic-rosary/id597930318",
+    "android": "https://play.google.com/store/apps/details?id=com.jacobsmedia.relevantradio"
+   },
+   "denomination": "Catholic",
+   "website": "https://relevantradio.com/",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/relevant-radio-catholic-rosary/id597930318",
+    "https://play.google.com/store/apps/details?id=com.jacobsmedia.relevantradio",
+    "https://relevantradio.com/"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/relevant-radio.webp"
+  },
+  {
+   "slug": "intercede",
+   "name": "Intercede",
+   "maker": "Devoted Coders, LLC",
+   "ages": "Rated 4+",
+   "priceModel": "freemium",
+   "price": "Free; optional Patron upgrades $4.99/mo, or $29.99 to $44.99 (App Store IAP list)",
+   "ads": "no",
+   "updated": "2026-11-14",
+   "description": "A Catholic novena app (formerly Pray Catholic Novenas) with a library of traditional novenas and day-by-day reminders.",
+   "goodFor": "Keeping track of a novena day by day.",
+   "worthKnowing": "Patron upgrades run from $4.99/mo up to a $44.99 family tier.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/intercede-catholic-novenas/id1088485587",
+    "android": "https://play.google.com/store/apps/details?id=com.devotedcoders.praythecatholicnovenaapp"
+   },
+   "denomination": "Catholic",
+   "website": "https://catholicnovenaapp.com",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/intercede-catholic-novenas/id1088485587",
+    "https://play.google.com/store/apps/details?id=com.devotedcoders.praythecatholicnovenaapp",
+    "https://catholicnovenaapp.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/intercede.webp"
+  },
+  {
+   "slug": "verbum",
+   "name": "Verbum",
+   "maker": "Faithlife Corporation",
+   "ages": "Rated 4+",
+   "priceModel": "freemium",
+   "price": "Free app; books sold separately, such as The Ignatius Bible $9.99 or The Navarre Bible $59.99 (App Store IAP list)",
+   "ads": "yes",
+   "updated": "2026-11-13",
+   "description": "Faithlife's Catholic Bible study app, the Catholic edition of Logos, with Bibles, commentaries, the Church Fathers and Church documents.",
+   "goodFor": "Serious Catholic Bible study.",
+   "worthKnowing": "Most of the library costs extra, and Google Play shows a \"Contains ads\" label.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/verbum-catholic-bible-study/id571019685",
+    "android": "https://play.google.com/store/apps/details?id=com.logos.androidverbum"
+   },
+   "denomination": "Catholic",
+   "website": "https://www.verbum.com",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/verbum-catholic-bible-study/id571019685",
+    "https://play.google.com/store/apps/details?id=com.logos.androidverbum",
+    "https://www.verbum.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/verbum.webp"
+  },
+  {
+   "slug": "word-among-us",
+   "name": "The Word Among Us Mass Edition",
+   "maker": "The Word Among Us, Inc.",
+   "ages": "Rated 4+",
+   "priceModel": "subscription",
+   "price": "$1.99/mo or $22.99/yr (App Store IAP list); the maker offers a 7-day free trial",
+   "ads": "no",
+   "updated": "2026-11-19",
+   "description": "The daily Mass readings with a short meditation each day, plus prayer streaks and daily reminders.",
+   "goodFor": "Daily readings with a short reflection.",
+   "worthKnowing": "Subscription after the trial. The Android app was last updated in April 2026.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/word-among-us-mass-edition/id548665259",
+    "android": "https://play.google.com/store/apps/details?id=org.wau.android"
+   },
+   "denomination": "Catholic",
+   "website": "http://wau.org/apple",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/word-among-us-mass-edition/id548665259",
+    "https://play.google.com/store/apps/details?id=org.wau.android",
+    "http://wau.org/apple"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/word-among-us.webp"
+  },
+  {
+   "slug": "divine-mercy",
+   "name": "Divine Mercy",
+   "maker": "Marian Fathers of the Immaculate Conception",
+   "ages": "Rated 12+ (App Store), Teen (Google Play)",
+   "priceModel": "free-with-ads",
+   "price": "Free (no in-app purchases listed)",
+   "ads": "yes",
+   "updated": "2026-10-23",
+   "description": "The Marian Fathers' app for the Divine Mercy devotion: the Chaplet, the message of St. Faustina and related prayers.",
+   "goodFor": "Praying the Divine Mercy Chaplet.",
+   "worthKnowing": "Rated 12+ on the App Store and Teen on Google Play, which shows a \"Contains ads\" label. On Android it is called Divine Mercy Plus.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/divine-mercy/id410696366",
+    "android": "https://play.google.com/store/apps/details?id=org.marian.divinemercyplus"
+   },
+   "denomination": "Catholic",
+   "website": "https://thedivinemercy.org/app",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/divine-mercy/id410696366",
+    "https://play.google.com/store/apps/details?id=org.marian.divinemercyplus",
+    "https://thedivinemercy.org/app"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/divine-mercy.webp"
+  },
+  {
+   "slug": "creedo",
+   "name": "Creedo",
+   "maker": "Caleb Burbach",
+   "ages": "Rated 9+",
+   "priceModel": "freemium",
+   "price": "Free to start; Creedo Lux $7.99/mo or $59.99/yr (App Store IAP list)",
+   "ads": "no",
+   "updated": "2026-10-22",
+   "description": "Short daily lessons on the Catholic faith drawn from Scripture, the Catechism and the saints, each ending in a quiz.",
+   "goodFor": "Teens and adults learning the basics of Catholicism.",
+   "worthKnowing": "A new app from an independent developer. The Android app was last updated in May 2026.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/creedo-learn-catholicism/id6748240201",
+    "android": "https://play.google.com/store/apps/details?id=com.creedo.app"
+   },
+   "denomination": "Catholic",
+   "website": "https://creedo.faith",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/creedo-learn-catholicism/id6748240201",
+    "https://play.google.com/store/apps/details?id=com.creedo.app",
+    "https://creedo.faith"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/creedo.webp"
+  },
+  {
+   "slug": "liturgical",
+   "name": "Liturgical",
+   "maker": "Joseph Kokenge",
+   "ages": "Rated 4+",
+   "priceModel": "freemium",
+   "price": "Free; optional donations $0.49 to $4.99 and a $24.99 lifetime option (App Store IAP list)",
+   "ads": "no",
+   "updated": "2026-08-10",
+   "description": "A Catholic calendar app with feast days, the liturgical season, daily and Sunday Mass readings (US) and home-screen widgets.",
+   "goodFor": "A simple feast-day calendar on your home screen.",
+   "worthKnowing": "Saint biographies need a monthly donation.",
+   "category": "catholic",
+   "agesSource": "store age rating",
+   "ageGroups": [],
+   "platforms": {
+    "ios": "https://apps.apple.com/us/app/liturgical-catholic-calendar/id1524036837",
+    "android": "https://play.google.com/store/apps/details?id=com.liturgical.android"
+   },
+   "denomination": "Catholic",
+   "website": "https://www.jokenge.com",
+   "checkedOn": "2026-11-19",
+   "sources": [
+    "https://apps.apple.com/us/app/liturgical-catholic-calendar/id1524036837",
+    "https://play.google.com/store/apps/details?id=com.liturgical.android",
+    "https://www.jokenge.com"
+   ],
+   "kind": "app",
+   "audience": "adults",
+   "icon": "https://d3g07v1w0lehiv.cloudfront.net/app-icons/liturgical.webp"
   }
  ],
  "gone": [

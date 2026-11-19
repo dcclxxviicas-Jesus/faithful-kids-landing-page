@@ -50,6 +50,8 @@ A little preparation decides whether a reviewer bothers to open your app.
 
 **8. Glorifind.** A Christian family-safe search engine that gives reviewed Christian-owned sites a "Christian Owned" label in its results. It's a label, not a listing page, so treat it as a two-minute bonus. [glorifind.com](https://glorifind.com/pages/christian-owned-label)
 
+Catholic apps are also compared in their own hub, [the best Catholic apps](/best-catholic-apps), which takes submissions through the same form.
+
 ## Homeschool Directories and Reviewers
 
 If your app teaches anything, homeschool families are often the most motivated buyers in the faith niche.

@@ -145,7 +145,7 @@ export default async function AppPage({ params }: { params: Promise<{ slug: stri
             <h1>{app.name} <span className="ad-h1-tail">{adultsOnly ? 'app review' : 'review for parents'}</span></h1>
             <p className="ad-dh-sub">
               {app.maker && <>by {app.maker} · </>}{categoryLabel(app.category)}
-              {app.denomination && app.denomination !== 'non-denominational' && <> · {app.denomination}</>}
+              {app.denomination && app.denomination !== 'non-denominational' && app.denomination !== categoryLabel(app.category) && <> · {app.denomination}</>}
             </p>
             <div className="ad-card-meta">
               <span className={`ad-price ad-price-${app.priceModel}`}>{PRICE_LABEL[app.priceModel]}</span>

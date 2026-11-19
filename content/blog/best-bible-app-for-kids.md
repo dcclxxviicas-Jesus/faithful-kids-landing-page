@@ -75,6 +75,8 @@ The Bible App for Kids is made by the same team behind the YouVersion Bible app 
 
 Want to see everything else out there? Our [Christian apps for kids directory](/christian-apps) lists more than 50 apps with the price, ages, ads and last update checked on each store.
 
+Raising your kids Catholic? Our [best Catholic apps guide](/best-catholic-apps) has a section of Catholic apps for kids, from saints stories to Sunday Mass prep.
+
 ## 3. Minno: Best for Animated Shows
 
 **Price:** $10.99/month

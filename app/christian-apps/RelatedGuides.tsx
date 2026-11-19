@@ -48,6 +48,11 @@ export const KIDS_HUB: GuideItem = {
   desc: 'More than 50 Christian apps for kids compared on price, ages, ads and updates.',
   img: `${CDN}/app-icons/og-christian-apps.png`,
 }
+export const CATHOLIC_HUB: GuideItem = {
+  href: '/best-catholic-apps', badge: 'Directory', title: 'The Best Catholic Apps',
+  desc: 'Catholic apps for daily readings, the Hours, the Rosary, Bible study and kids, each checked on its store.',
+  img: `${CDN}/app-icons/og-best-catholic-apps.png`,
+}
 export const ADULTS_HUB: GuideItem = {
   href: '/best-christian-apps', badge: 'Directory', title: 'The Best Christian Apps',
   desc: 'Bible, prayer, study, worship and Catholic apps for adults, each checked on its store.',

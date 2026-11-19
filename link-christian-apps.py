@@ -19,6 +19,10 @@ LINKS = [
  ("where-to-watch-superbook", "/christian-apps/superbook-kids-bible", "The app's price, ages and last update are on its [Superbook listing](/christian-apps/superbook-kids-bible) in our Christian apps directory."),
  ("minno-vs-faithful-kids", "/christian-apps/minno", "For Minno's current store prices and ratings at a glance, see its [listing in our Christian apps directory](/christian-apps/minno)."),
  ("yippee-tv-vs-faithful-kids", "/christian-apps/yippee-tv", "Yippee's current store prices are on its [listing in our Christian apps directory](/christian-apps/yippee-tv)."),
+ ("best-christian-podcasts", "/best-catholic-apps", "If the Catholic shows here are your kind of listening, our [guide to the best Catholic apps](/best-catholic-apps) compares the apps for daily readings, the Rosary and the Liturgy of the Hours, each checked on its store."),
+ ("lent-for-kids-explained", "/best-catholic-apps", "For daily readings, prayer and Mass prep through Lent, including apps made for Catholic kids, see our [guide to the best Catholic apps](/best-catholic-apps)."),
+ ("best-bible-app-for-kids", "/best-catholic-apps", "Raising your kids Catholic? Our [best Catholic apps guide](/best-catholic-apps) has a section of Catholic apps for kids, from saints stories to Sunday Mass prep."),
+ ("where-to-list-a-christian-app", "/best-catholic-apps", "Catholic apps are also compared in their own hub, [the best Catholic apps](/best-catholic-apps), which takes submissions through the same form."),
 ]
 def insert_mid(text, sentence):
     lines = text.split("\n"); h2s = [i for i, l in enumerate(lines) if l.startswith("## ")]

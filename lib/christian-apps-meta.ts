@@ -5,6 +5,7 @@ export type Category =
   | 'bible-stories' | 'video' | 'games' | 'music' | 'audio-stories'
   | 'prayer-devotional' | 'scripture-memory' | 'catholic' | 'parent-tools' | 'websites'
   | 'bible' | 'bible-study' | 'audio' | 'church' | 'accountability'
+  | 'readings' | 'learning'
 
 export const CATEGORIES: { key: Category; label: string; blurb: string }[] = [
   { key: 'bible', label: 'Bible apps', blurb: 'Bible reading apps and audio Bibles' },
@@ -18,6 +19,8 @@ export const CATEGORIES: { key: Category; label: string; blurb: string }[] = [
   { key: 'prayer-devotional', label: 'Prayer & devotionals', blurb: 'Daily devotions, prayer and Bible reading' },
   { key: 'scripture-memory', label: 'Scripture memory', blurb: 'Memorize verses with games and songs' },
   { key: 'catholic', label: 'Catholic', blurb: 'Apps made for Catholic families' },
+  { key: 'readings', label: 'Daily readings', blurb: 'Mass readings, missals, the Liturgy of the Hours and liturgical calendars' },
+  { key: 'learning', label: 'Learn the faith', blurb: 'Lessons and answers about what the Church teaches' },
   { key: 'parent-tools', label: 'For parents', blurb: 'Christian parenting and family tools' },
   { key: 'church', label: 'Church', blurb: 'Church and community apps' },
   { key: 'accountability', label: 'Accountability', blurb: 'Christian accountability and filtering apps' },

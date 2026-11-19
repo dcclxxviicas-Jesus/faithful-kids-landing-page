@@ -41,6 +41,8 @@ Most lists of the best Christian podcasts include at least one show that stopped
 
 **9. Ask Pastor John** (John Piper, Desiring God). Short answers to real listener questions about Scripture and life. About 13 minutes, twice a week. [Listen](https://podcasts.apple.com/podcast/id618132843)
 
+If the Catholic shows here are your kind of listening, our [guide to the best Catholic apps](/best-catholic-apps) compares the apps for daily readings, the Rosary and the Liturgy of the Hours, each checked on its store.
+
 ## Faith, Culture and the News
 
 **10. The Briefing** (R. Albert Mohler Jr.). The day's news analysed from a Christian worldview, every weekday morning. About 26 minutes. [Listen](https://podcasts.apple.com/podcast/id390278738)

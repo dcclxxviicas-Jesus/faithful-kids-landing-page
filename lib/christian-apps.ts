@@ -36,9 +36,16 @@ export function forAdults(list: Listing[]): Listing[] {
 }
 /** Where a listing's breadcrumb and "see all" link should point. */
 export function hubFor(l: Listing): { href: string; label: string } {
+  if (l.audience === 'adults' && isCatholic(l)) return { href: '/best-catholic-apps', label: 'Best Catholic Apps' }
   return l.audience === 'adults'
     ? { href: '/best-christian-apps', label: 'Best Christian Apps' }
     : { href: '/christian-apps', label: 'Best Christian Apps for Kids' }
+}
+
+/** Catholic hub (/best-catholic-apps): made for Catholics, by category or by
+ *  the denomination we recorded (Theo is "Catholic and general Christian"). */
+export function isCatholic(l: Listing): boolean {
+  return l.category === 'catholic' || /catholic/i.test(l.denomination || '')
 }
 
 /** The directory is a list, not an ad: Faithful Kids is listed, never first. */

@@ -4,7 +4,7 @@ import { allListings } from '@/lib/app-directory-db'
 import { forAdults, sortListings, PRICE_LABEL, CHECKED_ON, GONE_ADULTS, prettyDate, CATEGORIES, type Listing } from '@/lib/christian-apps'
 import { AppDirectory } from '../christian-apps/AppDirectory'
 import { Card, FkAd } from '../christian-apps/ui'
-import { RelatedGuides, KIDS_HUB } from '../christian-apps/RelatedGuides'
+import { RelatedGuides, KIDS_HUB, CATHOLIC_HUB } from '../christian-apps/RelatedGuides'
 import '../christian-apps/apps.css'
 
 /*
@@ -145,6 +145,10 @@ export default async function BestChristianAppsHub() {
               </div>
             ))}
           </div>
+          <p style={{ marginTop: 16 }}>
+            Catholic? Our <a href="/best-catholic-apps">guide to the best Catholic apps</a> compares every Catholic app we checked,
+            from daily readings and the Liturgy of the Hours to novenas, with a section of Catholic apps for kids.
+          </p>
         </section>
 
         {GONE_ADULTS.length > 0 && (
@@ -169,11 +173,11 @@ export default async function BestChristianAppsHub() {
 
         <RelatedGuides items={[
           KIDS_HUB,
+          CATHOLIC_HUB,
           { slug: 'best-christian-podcasts' },
           { slug: 'best-bible-translation-for-kids', badge: 'Bible' },
           { slug: 'where-to-list-a-christian-app', badge: 'For App Makers' },
           { slug: 'christian-influencers' },
-          { slug: 'best-christian-charities' },
         ]} />
 
         <section className="ad-section ad-faq">

@@ -145,6 +145,8 @@ Don't rush through the hard parts of Lent to get to Easter. The joy of resurrect
 
 For the season, we keep a set of free [Easter coloring pages](/printables/easter-coloring-pages), print as many as your class needs.
 
+For daily readings, prayer and Mass prep through Lent, including apps made for Catholic kids, see our [guide to the best Catholic apps](/best-catholic-apps).
+
 ## Making Lent a Family Tradition
 
 Lent works best when it's consistent and communal:

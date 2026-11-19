@@ -5,7 +5,7 @@ import { allListings } from '@/lib/app-directory-db'
 import { forKids, sortListings, categoryLabel, PRICE_LABEL, CHECKED_ON, GONE, prettyDate, CATEGORIES, type Listing } from '@/lib/christian-apps'
 import { AppDirectory } from './AppDirectory'
 import { Card, FkAd } from './ui'
-import { RelatedGuides, ADULTS_HUB } from './RelatedGuides'
+import { RelatedGuides, ADULTS_HUB, CATHOLIC_HUB } from './RelatedGuides'
 import './apps.css'
 
 /*
@@ -67,7 +67,7 @@ export default async function ChristianAppsHub() {
     { h: 'Free Christian apps for kids', intro: 'Free to use when we checked; a few carry ads, so read each listing.', items: pick(l => l.priceModel === 'free' && l.ageGroups.some(g => g === 'young' || g === 'older')) },
     { h: 'Christian apps for toddlers and preschoolers', intro: 'Simple, read-aloud and tap-to-play apps for the youngest.', items: pick(l => l.ageGroups.includes('toddler')) },
     { h: 'Christian apps for tweens and teens', intro: 'For kids who have outgrown the cartoon apps.', items: pick(l => l.ageGroups.includes('teen') && l.category !== 'parent-tools') },
-    { h: 'Catholic apps for kids', intro: 'Made for Catholic families, from saints stories to Mass prep.', items: pick(l => l.category === 'catholic' || l.denomination === 'Catholic') },
+    { h: 'Catholic apps for kids', intro: 'Made for Catholic families, from saints stories to Mass prep.', items: pick(l => l.category === 'catholic' || l.denomination === 'Catholic'), more: { href: '/best-catholic-apps#kids', label: 'All Catholic apps, for kids and adults' } },
     { h: 'Bible games and trivia apps', intro: 'Quizzes and games that test what kids know.', items: pick(l => l.category === 'games') },
     { h: 'Christian shows and video apps', intro: 'Libraries of Christian shows, films and video lessons.', items: pick(l => l.category === 'video' && !freeish(l) || l.category === 'video' && l.ageGroups.some(g => g === 'young')) },
   ].filter(p => p.items.length >= 3)
@@ -144,6 +144,7 @@ export default async function ChristianAppsHub() {
                     <li key={l.slug}><a href={`/christian-apps/${l.slug}`}>{l.name}</a> <span>{PRICE_LABEL[l.priceModel]} · ages {l.ages.replace(/^Rated /, 'rated ')}</span></li>
                   ))}
                 </ul>
+                {'more' in p && p.more && <p><a href={p.more.href}>{p.more.label} &rarr;</a></p>}
               </div>
             ))}
           </div>
@@ -169,9 +170,9 @@ export default async function ChristianAppsHub() {
 
         <RelatedGuides title="More Guides for Choosing" items={[
           ADULTS_HUB,
+          CATHOLIC_HUB,
           { slug: 'best-bible-app-for-kids', badge: 'App Reviews' },
           { slug: 'free-bible-apps-for-kids', badge: 'App Reviews' },
-          { slug: 'best-bible-apps-by-age', badge: 'App Reviews' },
           { slug: 'christian-alternatives-to-youtube-for-kids', badge: 'Screen Time' },
           { slug: 'best-educational-apps-for-christian-kids', badge: 'App Reviews' },
         ]} />

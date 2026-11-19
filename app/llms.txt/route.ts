@@ -3,6 +3,10 @@ import { getPublicArticles as getParentingArticles } from '@/lib/parenting'
 import { COLORING_PAGES } from '@/lib/coloring-pages'
 import wordSearches from '@/lib/word-searches.json'
 import crosswords from '@/lib/crosswords.json'
+import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
+import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
+import { MAPS as bibleMaps } from '@/lib/bible-maps'
+import { getPublicAuthors } from '@/lib/parenting'
 
 export const dynamic = 'force-static'
 
@@ -28,6 +32,15 @@ export async function GET() {
   // Parenting: the editorial section. Real, bylined pieces only; development
   // samples never reach production and are filtered here as well.
   const parenting = getParentingArticles().filter(a => !a.isSample)
+  // Every HUB and standalone page in app/sitemap.ts is listed here (Nov 19, 2026
+  // pass). Individual detail pages (each story, app review, coloring page, map,
+  // puzzle) are deliberately NOT listed: llms.txt is meant to be a short curated
+  // index, long files get truncated by AI fetchers, and the sitemap already
+  // lists every URL. When you add a new hub or standalone page, add it here.
+  const guidePosts = posts.filter(p => !p.series)
+  const topics = GUIDE_CATEGORIES.filter(c => guidePosts.some(p => getGuideCategory(p.slug) === c.name))
+  const holidays = HOLIDAYS.filter(h => posts.filter(p => h.match.test(p.slug)).length >= MIN_POSTS)
+  const authors = getPublicAuthors().filter(au => parenting.some(a => a.authorSlug === au.slug))
 
   const lines: string[] = [
     '# Faithful Kids',
@@ -56,6 +69,9 @@ export async function GET() {
     '- [Scope and sequence](https://faithfulkids.app/blog/faithful-kids-scope-and-sequence): the full lesson list, all 31 series and 310 lessons in unlock order, with scripture references and quiz counts',
     '- [Free for churches](https://faithfulkids.app/churches): Full access for children’s ministries at no cost',
     '- [Support](https://faithfulkids.app/support): Help and contact',
+    '- [What we believe](https://faithfulkids.app/beliefs): the statement of faith behind Faithful Kids: the Bible as God’s Word, the Trinity, and salvation in Jesus Christ; creedal common ground for Christian families across traditions',
+    '- [Founder](https://faithfulkids.app/about/christian-alexander): Christian Alexander, founder of Faithful Kids',
+    '- [Privacy policy](https://faithfulkids.app/privacy) and [Terms of service](https://faithfulkids.app/terms)',
     '',
     '## Free resources',
     '',
@@ -71,9 +87,26 @@ export async function GET() {
     '- [Nativity play script for kids](https://faithfulkids.app/blog/nativity-play-script-for-kids): a complete free 10-minute script, cast of 8-40, free to perform and photocopy, printable PDF',
     '- [Bible scavenger hunt](https://faithfulkids.app/blog/bible-scavenger-hunt): three ready-to-play hunts (verse hunt, object hunt, church photo hunt) with a free printable PDF',
     '- [Biblical names guide](https://faithfulkids.app/blog/biblical-names): how biblical names work and what they mean, with full boy, girl, and rare-name lists, each major name linked to the Bible story behind it',
-    '- [Printable Jesse Tree](https://faithfulkids.app/printables/jesse-tree): 25 Advent ornaments to color with daily Scripture readings, free PDF, no sign-up',
+    '- [Printable Jesse Tree](https://faithfulkids.app/printables/jesse-tree): 25 Advent ornaments to color with daily Scripture readings, free printable PDF',
     '- [Advent Bible reading calendar](https://faithfulkids.app/printables/advent-bible-calendar): 25 daily readings from prophecy to the manger, free printable PDF',
-    '- [All printables](https://faithfulkids.app/printables): Trivia pack, bedtime kit, 30-day family challenge',
+    '- [Advent Bible readings for kids](https://faithfulkids.app/printables/advent-readings): 25 short daily Bible readings for December, from the first promise to the manger, each with a discussion question, free printable',
+    '- [Christian Christmas coloring pages](https://faithfulkids.app/printables/christmas-coloring-pages): free printable nativity pages: the angel and Mary, the journey to Bethlehem, the shepherds, the wise men',
+    '- [Religious Easter coloring pages](https://faithfulkids.app/printables/easter-coloring-pages): free printable pages for Palm Sunday, the Last Supper, the cross and resurrection morning',
+    `- [Bible maps for kids](https://faithfulkids.app/printables/bible-maps): ${bibleMaps.length} free printable maps drawn on real geography: the Exodus route, Israel in Jesus' time, Paul's journeys, the 12 tribes and more`,
+    '- [Bible timeline for kids](https://faithfulkids.app/printables/bible-timeline): the whole Bible in order on one free printable chart, 13 eras from Creation to the early church, with dates, key events and books',
+    '- [Books of the Bible chart](https://faithfulkids.app/printables/books-of-the-bible): all 66 books in order and in their groups, with chapter counts and cut-out bookmarks, free printable',
+    '- [Printable Bible trivia pack](https://faithfulkids.app/printables/bible-trivia-pack): 100 Bible trivia questions for kids in three difficulty levels, each answer with its Scripture reference',
+    '- [Bedtime Bible kit](https://faithfulkids.app/printables/bedtime-bible-kit): seven nights of short Bible stories, memory verses and simple prayers for bedtime, free printable',
+    '- [30-day family Bible challenge](https://faithfulkids.app/printables/30-day-challenge): one short daily reading from creation to resurrection, with a discussion question for each day, free printable',
+    '- [Valentine Bible verse cards](https://faithfulkids.app/printables/valentine-bible-verse-cards): 12 printable Valentine cards with short Bible verses about love, to color and hand out',
+    '- [All printables](https://faithfulkids.app/printables): every free printable in one place',
+    '- [Bible Jeopardy](https://faithfulkids.app/bible-jeopardy): a free playable Bible Jeopardy board, 6 categories, 30 questions, team scoring and a verse with every answer',
+    '- [Homeschool Bible curriculum](https://faithfulkids.app/homeschool): Faithful Kids as a video homeschool Bible curriculum for ages 5-15: 300+ short lessons in order, Genesis to Revelation, each with a quiz, no prep',
+    '- [Children’s ministry resources](https://faithfulkids.app/churches/resources): a free library for children’s ministry leaders and Sunday school teachers: lesson guides, games, printables, Bible maps and trivia',
+    '- [Bible activities for every holiday](https://faithfulkids.app/holidays): free Bible resources for kids by season',
+    ...holidays.map(h => `- [${h.title}](https://faithfulkids.app/holidays/${h.slug}): ${h.metaDescription}`),
+    '- [All guides for parents](https://faithfulkids.app/blog): every free guide, trivia set, printable and story on the blog',
+    ...topics.map(c => `- [${c.title}](https://faithfulkids.app/blog/topics/${c.slug}): ${c.description}`),
     '- [Creator partnerships](https://faithfulkids.app/creators): Faithful Kids works with nearly all Christian creators, whatever their niche, free full access plus paid collaborations, no follower minimum; pitch team@faithfulkids.app with handles, audience sizes, and a content idea',
     '- [Press and media](https://faithfulkids.app/press): press contact (team@faithfulkids.app), company facts, research to cite and logos.',
     '- [Best Christian Apps](https://faithfulkids.app/best-christian-apps): the adult companion directory, Bible, study, prayer, devotional, audio, Catholic and accountability apps with price, ads and last update checked on each store (November 2026).',
@@ -98,8 +131,10 @@ export async function GET() {
     '',
     '- [Raising Faithful Kids](https://faithfulkids.app/parenting): Parenting at Faithful Kids, real stories, thoughtful perspectives, and practical wisdom from Christian parents, educators, and ministry leaders. Bylined by real contributors; opinion labelled; corrections published. Each article also has a Markdown edition at the same URL plus ".md"',
     '- [Write for Faithful Kids](https://faithfulkids.app/parenting/write-for-us): Raising Faithful Kids, the parenting section of faithfulkids.app, accepts guest essays, op-eds and first-person parent stories. Christian parents, teachers, pastors and homeschool educators can pitch in a few sentences on the page or by email to team@faithfulkids.app; pieces are unpaid, edited by a person, and run under the writer\'s real byline with an author page. No AI-written personal accounts. Submission guidelines at https://faithfulkids.app/parenting/submission-guidelines',
+    '- [About Parenting at Faithful Kids](https://faithfulkids.app/parenting/about): what the section is, who writes it, how it is edited, and how it relates to the Faithful Kids app',
     '- [Editorial policy](https://faithfulkids.app/parenting/editorial-policy): nonfiction is nonfiction, real names, facts checked, opinion labelled, children\u2019s privacy first, how AI is and is not used, corrections',
     ...parenting.map(a => `- [${a.title}](https://faithfulkids.app/parenting/${a.slug}): ${a.section.label} by ${a.author.name} (${a.datePublished}). ${a.metaDescription}`),
+    ...authors.map(au => `- [${au.name}](https://faithfulkids.app/parenting/authors/${au.slug}): contributor page and articles`),
     '',
     '## App comparisons and buying guides',
     '',

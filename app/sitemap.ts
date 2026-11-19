@@ -8,9 +8,15 @@ import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
 import { MAPS as bibleMaps } from '@/lib/bible-maps'
 import { getPublicArticles, getPublicAuthors } from '@/lib/parenting'
-import { CURATED as christianApps, CHECKED_ON as appsChecked } from '@/lib/christian-apps'
+import { CHECKED_ON as appsChecked } from '@/lib/christian-apps'
+import { allListings } from '@/lib/app-directory-db'
 
-export default function sitemap(): MetadataRoute.Sitemap {
+// Approved submissions come from Supabase, so the sitemap refreshes hourly
+// (and on the christian-apps tag when a listing is approved).
+export const revalidate = 3600
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const christianApps = await allListings()
   const baseUrl = 'https://faithfulkids.app'
   const posts = getAllPosts()
   const series = getAllSeriesNames()
@@ -384,8 +390,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ]
 
-  // Christian Apps directory. Approved submissions are reached from the hub's
-  // links; only the researched listings are enumerated here.
+  // Christian Apps directory: curated listings plus approved submissions.
   const appPages: MetadataRoute.Sitemap = [
     { url: `${baseUrl}/christian-apps`, lastModified: new Date(appsChecked + 'T00:00:00Z'), changeFrequency: 'weekly' as const, priority: 0.8 },
     { url: `${baseUrl}/best-christian-apps`, lastModified: new Date(appsChecked + 'T00:00:00Z'), changeFrequency: 'weekly' as const, priority: 0.8 },

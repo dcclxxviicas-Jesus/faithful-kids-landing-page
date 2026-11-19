@@ -6,6 +6,10 @@ import { CURATED, DIRECTORY_TAG, type Listing, type Category, type AgeGroup, typ
  * Table: app_directory_submissions (supabase-app-directory-migration.sql).
  */
 
+// Logos for approved submissions (no icon column in the table): filled by
+// fetch-listing-icons.py after each approval. A slug missing here shows its letter.
+import SUBMITTED_ICONS from './submitted-icons.json'
+
 const SUPABASE_URL = process.env.SUPABASE_URL
 const SUPABASE_KEY = process.env.SUPABASE_SECRET_KEY
 const TABLE = '/app_directory_submissions'
@@ -132,6 +136,7 @@ function toListing(r: AppSubmission): Listing | null {
     priceModel: r.price_model, price: r.price || '', platforms, ads: 'unknown', updated: null,
     denomination: null, description: r.description, goodFor: '', worthKnowing: '',
     website: r.web_url, checkedOn: day, sources: [], kind: r.kind, submitted: true,
+    icon: (SUBMITTED_ICONS as Record<string, string>)[r.slug],
     audience: r.age_groups?.length && r.age_groups.every(g => g === 'family') ? 'both' : 'kids',
   }
 }

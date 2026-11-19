@@ -18,7 +18,8 @@ export const dynamic = 'force-static'
 export async function GET() {
   const posts = getAllPosts()
   const series = getAllSeriesNames()
-  const listicles = posts.filter(p => p.type === 'listicle')
+  // 'guide' posts were silently left out before Nov 19, 2026 (aeo session caught it).
+  const listicles = posts.filter(p => p.type === 'listicle' || p.type === 'guide')
   const stories = posts.filter(p => p.seriesSlug && p.episode)
   const comparisons = listicles.filter(
     p => p.slug.includes('-vs-') || p.slug.startsWith('best-') || p.slug.startsWith('free-bible-apps') || p.slug.endsWith('-review') || p.slug.startsWith('bible-apps-') || p.slug.startsWith('christian-apps-'),

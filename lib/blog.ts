@@ -328,7 +328,9 @@ export function getPostMarkdown(slug: string): string | null {
   const meta: string[] = []
   if (post.scripture) meta.push(`**Scripture:** ${post.scripture}`)
   if (post.series) meta.push(`**Series:** ${post.series}${post.episode ? ` (episode ${post.episode})` : ''}`)
-  if (post.age) meta.push(`**Ages:** ${post.age}`)
+  // Only story posts carry a real age field (others get the 'Ages 5+' default),
+  // and the value already starts with 'Ages', so strip it to avoid 'Ages: Ages 5+'.
+  if (post.series && post.age) meta.push(`**Ages:** ${post.age.replace(/^Ages\s+/i, '')}`)
   meta.push(`**Published:** ${post.datePublished}`)
   meta.push(`**Updated:** ${post.dateModified}`)
   meta.push(`**Canonical:** https://faithfulkids.app/blog/${post.slug}`)

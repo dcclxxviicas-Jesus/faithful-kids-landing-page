@@ -7,8 +7,6 @@ import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
 import { MAPS as bibleMaps } from '@/lib/bible-maps'
 import { getPublicAuthors } from '@/lib/parenting'
-import { allListings } from '@/lib/app-directory-db'
-import { PRICE_LABEL, categoryLabel } from '@/lib/christian-apps'
 
 export const dynamic = 'force-static'
 
@@ -40,11 +38,13 @@ export async function GET() {
   // section, which the llms.txt spec defines as secondary links an agent may
   // skip when it needs a shorter context. Keep Optional entries to one short
   // line each and keep it LAST, so a truncating fetcher only loses the extras.
-  // When you add a page to the sitemap, add it here too.
+  // When you add a page to the sitemap, add it here too. Exception (Cas, Nov 19,
+  // 2026): individual /christian-apps/<slug> listings are left out on purpose.
+  // They describe other companies' apps and submitters' own text; the three
+  // directory hubs above are listed and link to every one.
   const guidePosts = posts.filter(p => !p.series)
   const topics = GUIDE_CATEGORIES.filter(c => guidePosts.some(p => getGuideCategory(p.slug) === c.name))
   const holidays = HOLIDAYS.filter(h => posts.filter(p => h.match.test(p.slug)).length >= MIN_POSTS)
-  const apps = (await allListings()).slice().sort((a, b) => a.name.localeCompare(b.name))
   const authors = getPublicAuthors().filter(au => parenting.some(a => a.authorSlug === au.slug))
 
   const lines: string[] = [
@@ -163,7 +163,6 @@ export async function GET() {
       .filter(p => p.seriesSlug === s.slug)
       .sort((a, b) => Number(a.episode) - Number(b.episode))
       .map(p => `- [${p.title}](https://faithfulkids.app/blog/${p.slug}): ${s.name}, episode ${p.episode}${p.scripture ? `, ${p.scripture}` : ''}`)),
-    ...apps.map(a => `- [${a.name} review](https://faithfulkids.app/christian-apps/${a.slug}): category ${categoryLabel(a.category)}; audience ${a.audience === 'adults' ? 'adults' : a.audience === 'kids' ? 'kids' : 'kids and adults'}; price ${(PRICE_LABEL[a.priceModel] ?? a.priceModel).toLowerCase()}`),
     ...COLORING_PAGES.map(c => `- [${c.title} coloring page](https://faithfulkids.app/printables/bible-coloring-pages/${c.slug}): ${c.scripture}, ${c.ages.toLowerCase()}`),
     ...wordSearches.filter(w => w.slug !== 'bible').map(w => `- [${w.title} word search](https://faithfulkids.app/printables/bible-word-search/${w.slug}): ${w.scripture}, ${w.ages.toLowerCase()}`),
     ...crosswords.filter(w => w.slug !== 'bible').map(w => `- [${w.title} crossword](https://faithfulkids.app/printables/bible-crossword/${w.slug}): ${w.scripture}, ${w.ages.toLowerCase()}`),

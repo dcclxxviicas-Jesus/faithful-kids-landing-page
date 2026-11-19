@@ -1,0 +1,67 @@
+/* Affiliate program pages: the application form, the terms and the private
+   stats page. Scoped under .hv2 (V2Shell) so nothing leaks into globals.css. */
+
+.hv2 .af-form { background: #fff; border-radius: 20px; padding: 26px 24px; box-shadow: 0 6px 18px rgba(22,49,79,.07); text-align: left; }
+.hv2 .af-form fieldset { border: 0; padding: 0; margin: 0 0 6px; }
+.hv2 .af-f { margin: 0 0 16px; }
+.hv2 .af-f label, .hv2 .af-f .af-label { display: block; font-weight: 800; color: var(--hv-ink); margin: 0 0 6px; font-size: .95rem; }
+.hv2 .af-f small { display: block; font-weight: 600; color: var(--hv-ink-soft); font-size: .82rem; margin-top: 4px; }
+.hv2 .af-f input[type=text], .hv2 .af-f input[type=email], .hv2 .af-f select, .hv2 .af-f textarea {
+  width: 100%; box-sizing: border-box; padding: 12px 14px; border: 2px solid #e3ebf2; border-radius: 12px;
+  font-family: inherit; font-size: 1rem; font-weight: 600; line-height: 1.4; color: var(--hv-ink); background: #fbfdff;
+}
+.hv2 .af-f textarea { min-height: 92px; resize: vertical; }
+.hv2 .af-f input:focus, .hv2 .af-f select:focus, .hv2 .af-f textarea:focus { outline: none; border-color: #16a34a; background: #fff; }
+.hv2 .af-two { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.hv2 .af-f .af-agree { display: flex; gap: 10px; align-items: flex-start; font-weight: 600; color: var(--hv-ink-soft); line-height: 1.5; }
+.hv2 .af-f .af-agree input { margin-top: 4px; width: 18px; height: 18px; flex: none; accent-color: #16a34a; }
+.hv2 .af-agree a { color: var(--hv-green-dark); font-weight: 800; }
+.hv2 .af-err { display: block; color: #b91c1c; font-weight: 700; font-size: .85rem; margin-top: 5px; }
+.hv2 .af-formerr { background: #fef2f2; color: #991b1b; border-radius: 12px; padding: 12px 14px; font-weight: 700; margin-bottom: 16px; }
+.hv2 .af-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.hv2 .af-btn { display: inline-block; border: 0; cursor: pointer; background: #16a34a; color: #fff; font-family: inherit; font-size: 1.05rem; font-weight: 800; line-height: 1;
+  padding: 16px 28px; border-radius: 16px; box-shadow: 0 4px 0 #15803d; }
+.hv2 .af-btn:active { transform: translateY(2px); box-shadow: 0 2px 0 #15803d; }
+.hv2 .af-btn:disabled { opacity: .6; cursor: default; }
+.hv2 .af-done { background: #f0fdf4; border-radius: 20px; padding: 26px 24px; text-align: left; }
+.hv2 .af-done h3 { margin: 0 0 8px; font-size: 1.3rem; color: var(--hv-ink); }
+.hv2 .af-done p { margin: 0 0 10px; font-weight: 600; color: var(--hv-ink-soft); line-height: 1.6; }
+.hv2 .af-alt { margin: 18px 0 0; font-weight: 600; color: var(--hv-ink-soft); font-size: .92rem; }
+.hv2 .af-alt a { color: var(--hv-green-dark); font-weight: 800; }
+
+/* Terms */
+.hv2 .af-terms h2 { font-size: 1.2rem; margin: 30px 0 10px; color: var(--hv-ink); }
+.hv2 .af-terms ol, .hv2 .af-terms ul { padding-left: 22px; margin: 0 0 16px; }
+.hv2 .af-terms li { font-size: 1rem; line-height: 1.7; color: var(--hv-ink-soft); font-weight: 600; margin: 0 0 8px; }
+
+/* Stats page */
+.hv2 .af-acct { max-width: 860px; margin: 0 auto; padding: 34px 16px 60px; }
+.hv2 .af-acct h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); margin: 0 0 6px; color: var(--hv-ink); }
+.hv2 .af-acct .af-sub { margin: 0 0 22px; font-weight: 600; color: var(--hv-ink-soft); }
+.hv2 .af-card { background: #fff; border-radius: 18px; padding: 20px 22px; box-shadow: 0 6px 18px rgba(22,49,79,.07); margin: 0 0 16px; }
+.hv2 .af-card h2 { font-size: 1.08rem; margin: 0 0 12px; color: var(--hv-ink); }
+.hv2 .af-card p { margin: 0 0 10px; font-weight: 600; color: var(--hv-ink-soft); line-height: 1.6; }
+.hv2 .af-link { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.hv2 .af-link code { font: 800 1.05rem/1.3 ui-monospace, SFMono-Regular, Menlo, monospace; background: #f0fdf4; color: #166534; padding: 10px 14px; border-radius: 12px; word-break: break-all; }
+.hv2 .af-copy { border: 2px solid #16a34a; background: #fff; color: #15803d; font-family: inherit; font-size: .9rem; font-weight: 800; border-radius: 12px; padding: 9px 14px; cursor: pointer; }
+.hv2 .af-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin: 0 0 16px; }
+.hv2 .af-stat { background: #fff; border-radius: 16px; padding: 16px; box-shadow: 0 6px 18px rgba(22,49,79,.07); }
+.hv2 .af-stat b { display: block; font-size: 1.6rem; color: #16a34a; letter-spacing: -.02em; }
+.hv2 .af-stat span { font-size: .85rem; font-weight: 700; color: var(--hv-ink-soft); }
+.hv2 .af-table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+.hv2 .af-table th, .hv2 .af-table td { text-align: left; padding: 9px 8px; border-bottom: 1px solid #eef4f8; font-weight: 600; color: var(--hv-ink-soft); }
+.hv2 .af-table th { color: var(--hv-ink); font-weight: 800; }
+.hv2 .af-scroll { overflow-x: auto; }
+.hv2 .af-pill { display: inline-block; padding: 2px 9px; border-radius: 999px; font-size: .75rem; font-weight: 800; }
+.hv2 .af-pill.pending { background: #e0f2fe; color: #075985; }
+.hv2 .af-pill.payable { background: #fef3c7; color: #92400e; }
+.hv2 .af-pill.paid { background: #dcfce7; color: #166534; }
+.hv2 .af-pill.void { background: #fee2e2; color: #991b1b; }
+.hv2 .af-payout { display: flex; gap: 10px; flex-wrap: wrap; }
+.hv2 .af-payout input { flex: 1 1 220px; padding: 11px 13px; border: 2px solid #e3ebf2; border-radius: 12px; font-family: inherit; font-size: 1rem; font-weight: 600; }
+.hv2 .af-ok { color: #15803d; font-weight: 800; }
+
+@media (max-width: 600px) {
+  .hv2 .af-two { grid-template-columns: 1fr; }
+  .hv2 .af-form, .hv2 .af-done { padding: 20px 16px; }
+}

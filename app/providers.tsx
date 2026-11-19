@@ -53,6 +53,26 @@ if (typeof window !== 'undefined' && !posthog.__loaded) {
   }
 }
 
+// Affiliate links can also be plain ?ref=<code> on any page. The server
+// checks the code and sets the 30-day fk_aff cookie only for an active
+// affiliate (app/api/affiliates/click). Runs outside the PostHog block so it
+// works with analytics blocked or unconfigured.
+if (typeof window !== 'undefined') {
+  try {
+    const ref = new URLSearchParams(window.location.search).get('ref')
+    if (ref && /^[a-z0-9][a-z0-9-]{1,30}[a-z0-9]$/i.test(ref)) {
+      fetch('/api/affiliates/click', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ code: ref.toLowerCase(), path: window.location.pathname, referrer: document.referrer || null }),
+        keepalive: true,
+      }).catch(() => {})
+    }
+  } catch {
+    // ignore
+  }
+}
+
 // One listener for the whole site: remembers where the pointer was on the
 // last CTA press so the quiz welcome screen can put Begin under it.
 startCtaTracking()

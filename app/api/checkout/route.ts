@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import Stripe from 'stripe'
+import { refFromCookieHeader } from '@/lib/affiliates'
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
   apiVersion: '2025-04-30.basil',
@@ -46,6 +47,13 @@ export async function POST(req: NextRequest) {
 
   const origin = req.headers.get('origin') || 'https://faithfulkids.app'
 
+  /* Affiliate credit: the fk_aff cookie (set by /r/<code> or ?ref=, 30 days,
+     last click wins) is copied onto the subscription's metadata. Stripe
+     snapshots that onto every invoice, which is what lib/affiliates-ledger.ts
+     reads to pay commission. */
+  const affiliate = refFromCookieHeader(req.headers.get('cookie'))
+  const affMeta = affiliate ? { fk_affiliate: affiliate } : null
+
   const session = await stripe.checkout.sessions.create({
     mode: 'subscription',
     /* Carries the browser's PostHog distinct_id through Stripe so the purchase
@@ -88,7 +96,13 @@ export async function POST(req: NextRequest) {
        changed: the enrollment confirmation already carries free-days count,
        exact end date, renewal price and how to cancel, pulled live from the
        subscription. See sendPurchaseConfirmationEmail. */
-    ...(plan === 'annual' ? { subscription_data: { trial_period_days: 7 } } : {}),
+    ...(plan === 'annual' || affMeta
+      ? { subscription_data: {
+          ...(plan === 'annual' ? { trial_period_days: 7 } : {}),
+          ...(affMeta ? { metadata: affMeta } : {}),
+        } }
+      : {}),
+    ...(affMeta ? { metadata: affMeta } : {}),
     /* Buyers land on OUR domain first (faithfulkids.app/success), which fires
        purchase_complete under the same browser distinct_id that did the quiz
        and gives Google Ads a faithfulkids.app conversion URL, then forwards to

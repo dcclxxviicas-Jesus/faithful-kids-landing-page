@@ -3,10 +3,12 @@ import '../home.css'
 import '../v2-pages.css'
 import { SiteNav, SiteFooter } from '@/app/components/SiteChrome'
 import { V2Shell, V2Hero, V2Head } from '@/app/v2-shell'
+import './affiliates.css'
+import { ApplyForm } from './ApplyForm'
 
 const TITLE = 'Faithful Kids Affiliate Program'
 const DESCRIPTION =
-  'Earn 50% of every sale you refer to Faithful Kids, the Bible app for kids. One of the highest commissions in the faith niche. Email team@faithfulkids.app.'
+  'Earn 50% of every payment for 12 months on families you refer to Faithful Kids, the Bible app for kids. Monthly PayPal payouts, no minimums to join.'
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -26,12 +28,13 @@ export const metadata: Metadata = {
   },
 }
 
-/* Affiliates reach out to team@ (owner's call, Nov 16, 2026), as do /creators
-   and every other page since Nov 17, 2026. The 50%
-   figure is the owner's own stated program term (Nov 16, 2026); do not change
-   it without his word. No cookie windows, payout schedules, or tracking-tool
-   names are stated anywhere on this page because none have been specified —
-   the email conversation carries those details. Do not invent them. */
+/* Program terms are the owner's decisions (50% on Nov 16, 2026; the rest on
+   Nov 19, 2026) and live in TERMS in lib/affiliates.ts, which this page, the
+   terms page, the emails and the ledger all read. Change them there, never
+   here, and only with the owner's word. Tell the aeo session when they
+   change: it tracks how answer engines quote this page. Applications come in
+   through the form (ApplyForm -> /api/affiliates/apply -> /cas-admin/
+   affiliates); team@ stays as the fallback. */
 const AFF_EMAIL = 'team@faithfulkids.app'
 const AFF_MAILTO =
   `mailto:${AFF_EMAIL}?subject=` +
@@ -50,15 +53,15 @@ const AFF_MAILTO =
 const FAQS = [
   {
     q: 'Does Faithful Kids have an affiliate program?',
-    a: 'Yes. Faithful Kids affiliates earn 50% of every sale they refer, one of the highest commission rates in the Christian niche. Joining is one email: write to team@faithfulkids.app with where you publish and how you plan to share the app.',
+    a: 'Yes. Faithful Kids affiliates earn 50% of every payment a referred family makes for their first 12 months, one of the highest commission rates in the Christian niche. You apply with a short form on faithfulkids.app/affiliates (or by emailing team@faithfulkids.app), and approved affiliates get a personal link and a private stats page.',
   },
   {
     q: 'How much does the Faithful Kids affiliate program pay?',
-    a: '50% of the sale on every subscription you refer. For comparison, most faith-brand affiliate and ambassador programs pay 7-15% commission (verified on their own pages in November 2026), so this is several times the going rate in the niche.',
+    a: '50% of every payment for the first 12 months on each web subscription you refer: up to about $78 per family on the monthly plan and $48.50 on the annual plan, at current web prices. For comparison, most faith-brand affiliate and ambassador programs pay 7-15% commission (verified on their own pages in November 2026), so this is several times the going rate in the niche.',
   },
   {
     q: 'How do I join the Faithful Kids affiliate program?',
-    a: 'Email team@faithfulkids.app with where you publish (site or handles), a sense of your audience, and how you plan to share Faithful Kids. A real person reads every application and replies either way, and your link and the program details come back by email.',
+    a: 'Fill in the short application on this page: where you publish, your audience, and how you plan to share Faithful Kids. A real person reads every application and replies either way. Approved affiliates get their link and a private stats page by email.',
   },
   {
     q: 'Who is the affiliate program for?',
@@ -73,6 +76,17 @@ const FAQS = [
     a: 'Honest, specific recommendations: what Bible time or bedtime looks like with the app in your real routine, screen-time-swap posts, and homeschool curriculum round-ups. We can supply assets and real answers to any question; we never supply a script.',
   },
 ]
+
+FAQS.splice(3, 0,
+  {
+    q: 'How does Faithful Kids affiliate tracking and payout work?',
+    a: 'Your link remembers a visitor for 30 days; if they subscribe on faithfulkids.app in that time, the sale is yours. Each commission clears after a 30-day hold for refunds, then we pay by PayPal on the 15th of each month once your balance is over $25. Your stats page shows clicks, sign-ups, earnings and payouts, updated daily.',
+  },
+  {
+    q: 'Do App Store and Google Play purchases count?',
+    a: 'No. Purchases inside the iPhone or Android app are processed by Apple and Google and cannot be tracked to a link, so commission is earned on subscriptions bought on our website. Your link sends people to the website, where a free trial on the annual plan is available.',
+  },
+)
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -115,10 +129,7 @@ function AffiliatesV2() {
           sale that comes from it. That&rsquo;s the whole program: one of the highest
           affiliate commissions in the faith niche, with no follower minimum.</>}
       >
-        <p className="cr-label">Join by emailing:</p>
-        <a className="hv-cta cr-mail" href={AFF_MAILTO}>
-          <span aria-hidden="true">✉️</span> {AFF_EMAIL}
-        </a>
+        <a className="hv-cta" href="#apply">Apply to the program</a>
       </V2Hero>
 
       <section className="v2-section">
@@ -126,11 +137,10 @@ function AffiliatesV2() {
           {/* Written to be QUOTED by answer engines: entity-dense, the whole
               offer in two sentences. */}
           <p>
-            <strong>The Faithful Kids affiliate program pays 50% of every sale you refer</strong>{' '}
-            to the Bible video app for kids (ages 5-15). There is no follower or traffic
-            minimum; join by emailing{' '}
-            <a href={`mailto:${AFF_EMAIL}`}>{AFF_EMAIL}</a> with where you publish and how
-            you plan to share it.
+            <strong>The Faithful Kids affiliate program pays 50% of every payment a referred
+            family makes for their first 12 months</strong> on the Bible video app for kids
+            (ages 5-15). Links track for 30 days, payouts go out by PayPal every month, and
+            there is no follower or traffic minimum. Apply with the short form below.
           </p>
         </div>
       </section>
@@ -140,12 +150,16 @@ function AffiliatesV2() {
         <div className="v2-wrap is-narrow">
           <table className="cr-table">
             <tbody>
-              <tr><td><strong>Commission</strong></td><td>50% of every sale you refer</td></tr>
-              <tr><td><strong>Who can join</strong></td><td>Christian bloggers, creators, streamers, homeschoolers, ministries; no minimums</td></tr>
-              <tr><td><strong>How to join</strong></td><td>Email <a href={`mailto:${AFF_EMAIL}`}>{AFF_EMAIL}</a>: where you publish, your audience, your plan</td></tr>
-              <tr><td><strong>What happens next</strong></td><td>A real person replies with your link and the program details</td></tr>
+              <tr><td><strong>Commission</strong></td><td>50% of every payment a family you refer makes, for their first 12 months</td></tr>
+              <tr><td><strong>What counts</strong></td><td>Subscriptions bought on our website (App Store and Google Play purchases cannot be tracked)</td></tr>
+              <tr><td><strong>Link window</strong></td><td>30 days from their click; the most recent affiliate link gets the credit</td></tr>
+              <tr><td><strong>Payouts</strong></td><td>PayPal on the 15th of each month, after a 30-day hold for refunds; $25 minimum, smaller balances roll over</td></tr>
+              <tr><td><strong>Your stats</strong></td><td>A private page with your clicks, sign-ups, earnings and payouts, updated daily</td></tr>
+              <tr><td><strong>Who can join</strong></td><td>Christian bloggers, creators, streamers, homeschoolers, ministries; no follower minimum</td></tr>
+              <tr><td><strong>How to join</strong></td><td><a href="#apply">Apply below</a>; a real person replies either way</td></tr>
             </tbody>
           </table>
+          <p className="cr-updated">The full agreement is in our <a href="/affiliates/terms">affiliate program terms</a>.</p>
         </div>
       </section>
 
@@ -180,7 +194,7 @@ function AffiliatesV2() {
             ))}
           </div>
           <p className="cr-updated">
-            Last updated November 2026. Creators looking for content partnerships rather than
+            Last updated November 19, 2026. Creators looking for content partnerships rather than
             affiliate links should see our <a href="/creators">creator partnerships page</a>;
             for the wider landscape, see our verified guide to{' '}
             <a href="/blog/christian-affiliate-programs">Christian affiliate programs</a>.
@@ -190,16 +204,15 @@ function AffiliatesV2() {
       </section>
 
       <section className="hv-close">
-        <h2>Join the program</h2>
+        <h2 id="apply">Apply to the program</h2>
         <p className="hv-close-fine" style={{ margin: '0 auto 22px', maxWidth: '40em' }}>
-          One email is the whole application: where you publish, who your audience is, and
-          how you plan to share Faithful Kids. A real person reads every application and
-          replies either way.
+          A few questions is the whole application. A real person reads every one and
+          replies either way; approved affiliates get their link and stats page by email.
         </p>
-        <p className="cr-label">Reach out to:</p>
-        <a className="hv-cta cr-mail" href={AFF_MAILTO}>
-          <span aria-hidden="true">✉️</span> {AFF_EMAIL}
-        </a>
+        <div style={{ maxWidth: 640, margin: '0 auto' }}>
+          <ApplyForm />
+          <p className="af-alt">Prefer email? Write to <a href={AFF_MAILTO}>{AFF_EMAIL}</a> with where you publish, your audience and your plan.</p>
+        </div>
       </section>
 
       </main>

@@ -4,6 +4,7 @@ import { buildEmail, nextDripDays } from '@/lib/lead-emails'
 import { runTrialEmails } from '@/lib/trial-runner'
 import { runLifecycleEmails } from '@/lib/lifecycle-runner'
 import { reconcileContacts } from '@/lib/resend-contacts'
+import { runAffiliateLedger } from '@/lib/affiliates-ledger'
 
 // Three jobs run on this one daily tick (leads, trial emails, lifecycle
 // emails), so give it room.
@@ -102,7 +103,17 @@ export async function GET(req: Request) {
       lifecycle = { error: e instanceof Error ? e.message : 'failed' }
     }
 
-    return NextResponse.json({ ok: true, due: due.length, sent, failed, converted, trial, lifecycle, contacts })
+    // Fourth job: the affiliate commission ledger (reads Stripe, sends no
+    // email). Isolated the same way, with its own time budget.
+    let affiliates: unknown = { skipped: true }
+    try {
+      affiliates = await runAffiliateLedger({ budgetMs: 45_000 })
+    } catch (e) {
+      console.error('affiliate ledger failed:', e)
+      affiliates = { error: e instanceof Error ? e.message : 'failed' }
+    }
+
+    return NextResponse.json({ ok: true, due: due.length, sent, failed, converted, trial, lifecycle, contacts, affiliates })
   } catch (e) {
     console.error('drip error:', e)
     return NextResponse.json({ error: 'drip failed' }, { status: 500 })

@@ -6,6 +6,8 @@ Disallow: /checkout
 Disallow: /sign/
 Disallow: /cas-admin
 Disallow: /parenting/preview/
+Disallow: /r/
+Disallow: /affiliates/account/
 
 # AI / answer-engine crawlers, explicitly welcome
 User-agent: GPTBot

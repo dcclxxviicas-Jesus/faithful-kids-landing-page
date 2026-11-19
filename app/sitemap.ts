@@ -270,6 +270,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       images: ['https://d3g07v1w0lehiv.cloudfront.net/jesse-tree/advent-hero.png'],
     },
     {
+      url: `${baseUrl}/printables/advent-readings`,
+      lastModified: new Date('2026-11-16'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/printables/bible-trivia-pack`,
       lastModified: new Date('2026-08-16'),
       changeFrequency: 'monthly',

@@ -7,6 +7,8 @@ import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
 import { MAPS as bibleMaps } from '@/lib/bible-maps'
 import { getPublicAuthors } from '@/lib/parenting'
+import { allListings } from '@/lib/app-directory-db'
+import { PRICE_LABEL, categoryLabel } from '@/lib/christian-apps'
 
 export const dynamic = 'force-static'
 
@@ -32,14 +34,17 @@ export async function GET() {
   // Parenting: the editorial section. Real, bylined pieces only; development
   // samples never reach production and are filtered here as well.
   const parenting = getParentingArticles().filter(a => !a.isSample)
-  // Every HUB and standalone page in app/sitemap.ts is listed here (Nov 19, 2026
-  // pass). Individual detail pages (each story, app review, coloring page, map,
-  // puzzle) are deliberately NOT listed: llms.txt is meant to be a short curated
-  // index, long files get truncated by AI fetchers, and the sitemap already
-  // lists every URL. When you add a new hub or standalone page, add it here.
+  // Every page in app/sitemap.ts is listed here (Nov 19, 2026 pass). Hubs and
+  // standalone pages sit in the curated sections; individual detail pages (each
+  // story, app review, coloring page, puzzle, map) go in the final "## Optional"
+  // section, which the llms.txt spec defines as secondary links an agent may
+  // skip when it needs a shorter context. Keep Optional entries to one short
+  // line each and keep it LAST, so a truncating fetcher only loses the extras.
+  // When you add a page to the sitemap, add it here too.
   const guidePosts = posts.filter(p => !p.series)
   const topics = GUIDE_CATEGORIES.filter(c => guidePosts.some(p => getGuideCategory(p.slug) === c.name))
   const holidays = HOLIDAYS.filter(h => posts.filter(p => h.match.test(p.slug)).length >= MIN_POSTS)
+  const apps = (await allListings()).slice().sort((a, b) => a.name.localeCompare(b.name))
   const authors = getPublicAuthors().filter(au => parenting.some(a => a.authorSlug === au.slug))
 
   const lines: string[] = [
@@ -142,13 +147,27 @@ export async function GET() {
     '',
     ...comparisons.map(p => `- [${p.title}](https://faithfulkids.app/blog/${p.slug}): ${p.metaDescription}`),
     '',
+    '## Bible story series (kid-friendly retellings)',
+    '',
+    ...series.map(s => `- [${s.name}](https://faithfulkids.app/blog/series/${s.slug}): ${s.count} stories explained for kids`),
+    '',
     '## Guides for Christian families',
     '',
     ...guides.map(p => `- [${p.title}](https://faithfulkids.app/blog/${p.slug}): ${p.metaDescription}`),
     '',
-    '## Bible story series (kid-friendly retellings)',
+    '## Optional',
     '',
-    ...series.map(s => `- [${s.name}](https://faithfulkids.app/blog/series/${s.slug}): ${s.count} stories explained for kids`),
+    'Every individual page, one line each. The sections above are the curated entry points; these are the detail pages behind them.',
+    '',
+    ...series.flatMap(s => stories
+      .filter(p => p.seriesSlug === s.slug)
+      .sort((a, b) => Number(a.episode) - Number(b.episode))
+      .map(p => `- [${p.title}](https://faithfulkids.app/blog/${p.slug}): ${s.name}, episode ${p.episode}${p.scripture ? `, ${p.scripture}` : ''}`)),
+    ...apps.map(a => `- [${a.name} review](https://faithfulkids.app/christian-apps/${a.slug}): category ${categoryLabel(a.category)}; audience ${a.audience === 'adults' ? 'adults' : a.audience === 'kids' ? 'kids' : 'kids and adults'}; price ${(PRICE_LABEL[a.priceModel] ?? a.priceModel).toLowerCase()}`),
+    ...COLORING_PAGES.map(c => `- [${c.title} coloring page](https://faithfulkids.app/printables/bible-coloring-pages/${c.slug}): ${c.scripture}, ${c.ages.toLowerCase()}`),
+    ...wordSearches.filter(w => w.slug !== 'bible').map(w => `- [${w.title} word search](https://faithfulkids.app/printables/bible-word-search/${w.slug}): ${w.scripture}, ${w.ages.toLowerCase()}`),
+    ...crosswords.filter(w => w.slug !== 'bible').map(w => `- [${w.title} crossword](https://faithfulkids.app/printables/bible-crossword/${w.slug}): ${w.scripture}, ${w.ages.toLowerCase()}`),
+    ...bibleMaps.map(m => `- [${m.title} map](https://faithfulkids.app/printables/bible-maps/${m.slug}): ${m.subtitle}`),
     '',
   ]
 

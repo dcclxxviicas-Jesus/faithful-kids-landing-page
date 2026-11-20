@@ -124,9 +124,9 @@ function AffiliatesV2() {
         art="creators"
         alt="A creator's desk: a phone on a small tripod, a glowing softbox light, an open notebook of sketches, a mug and a pinboard of photographs"
         eyebrow="Affiliate Program"
-        title="Earn 50% of every sale you refer"
-        sub={<>Share Faithful Kids with the families who trust you, and keep half of every
-          sale that comes from it. That&rsquo;s the whole program: one of the highest
+        title="Earn 50% of every payment for a full year"
+        sub={<>Share Faithful Kids with the families who trust you, and keep half of
+          everything each family pays in their first 12 months. One of the highest
           affiliate commissions in the faith niche, with no follower minimum.</>}
       >
         <a className="hv-cta" href="#apply">Apply to the program</a>

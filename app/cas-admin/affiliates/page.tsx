@@ -199,7 +199,7 @@ export default function AffiliateDesk() {
                     <b>Country:</b> {cur.country}{'\n'}
                     <b>Terms accepted:</b> {cur.terms_version ? `${cur.terms_version} on ${d(cur.terms_accepted_at)}` : 'not through the form (added by hand)'}{'\n'}
                     {cur.link && <><b>Link:</b> <a href={cur.link} target="_blank" rel="noreferrer">{cur.link}</a>{'\n'}</>}
-                    {cur.account && <><b>Their stats page:</b> <a href={cur.account} target="_blank" rel="noreferrer">{cur.account}</a>{'\n'}</>}
+                    {cur.account && <><b>Their page (opening it signs this browser in as them):</b> <a href={cur.account} target="_blank" rel="noreferrer">{cur.account}</a>{'\n'}</>}
                   </div>
 
                   {(cur.status === 'applied' || cur.status === 'declined') && (

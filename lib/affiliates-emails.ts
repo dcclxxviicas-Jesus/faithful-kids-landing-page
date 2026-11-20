@@ -1,5 +1,5 @@
 import { renderEmail, escapeHtml as esc, type Block } from '@/lib/email-system/render'
-import { TERMS, SITE_URL, linkFor, accountUrl, money, fmtDate, nextPayoutDate, type Affiliate } from '@/lib/affiliates'
+import { TERMS, SITE_URL, LOGIN_URL, linkFor, accountUrl, money, fmtDate, nextPayoutDate, type Affiliate } from '@/lib/affiliates'
 
 /*
  * Affiliate program email. Sender rule (Nov 16, 2026): "Faithful Kids"
@@ -108,10 +108,11 @@ export function approvalEmail(a: Affiliate): Built {
       ['h3', 'Your link'],
       ['p', `<a href="${link}" style="font-weight:800;font-size:18px;">${esc(link.replace('https://', ''))}</a>`],
       ['small', `To send people to a particular page, add it after <code>?to=</code>, for example ${esc(link.replace('https://', ''))}?to=/bible-trivia`],
-      ['h3', 'Your stats page'],
-      ['p', 'Clicks, sign-ups, earnings and payouts, updated every day. Keep this link private: anyone with it can see your numbers.'],
-      ['btn', 'Open your affiliate page', accountUrl(a.token)],
-      ['p', 'On that page, add the PayPal email you want to be paid at.'],
+      ['h3', 'Your affiliate page'],
+      ['p', 'Your own page shows visits from your link, sign-ups, sales, earnings and payouts, updated every day. This button signs you straight in:'],
+      ['btn', 'Sign in to your affiliate page', accountUrl(a.token)],
+      ['p', `Any time after that, sign in at <a href="${LOGIN_URL}">faithfulkids.app/affiliates/login</a> with this email address (${esc(a.email)}) and we will email you a sign-in link. No password to remember. Please keep this email private, since the button above signs in as you.`],
+      ['p', 'Once you are in, add the PayPal email you want to be paid at.'],
       ['h3', 'How it works'],
       ['list', termLines()],
       ['h3', 'Three rules that protect you and us'],
@@ -151,7 +152,23 @@ export function payoutEmail(a: Affiliate, amountCents: number, sentTo: string, r
       ['p', hello(a.name)],
       ['p', `We have sent ${money(amountCents)} to your PayPal account (${esc(sentTo)})${reference ? `, PayPal transaction ${esc(reference)}` : ''}. Thank you for every family you have pointed our way.`],
       ['p', `Your affiliate page shows exactly which payments this covers. The next payout date is ${fmtDate(next)}.`],
-      ...(a.token ? [['btn', 'See your affiliate page', accountUrl(a.token)] as Block] : []),
+      ['btn', 'See your affiliate page', LOGIN_URL],
+      ['sign', 'brand'],
+    ]),
+  }
+}
+
+export function signInEmail(a: Affiliate, link: string): Built {
+  return {
+    to: a.email,
+    subject: 'Your Faithful Kids affiliate sign-in link',
+    html: page('Sign in to your affiliate page.', 'You are receiving this because someone asked to sign in to this Faithful Kids affiliate account.', [
+      ['eyebrow', 'Affiliate program'],
+      ['h', 'Sign in to your affiliate page'],
+      ['p', hello(a.name)],
+      ['p', 'Here is your sign-in link. It works for one hour.'],
+      ['btn', 'Sign in', link],
+      ['small', 'If you did not ask for this, you can ignore it. Nobody can sign in without this email.'],
       ['sign', 'brand'],
     ]),
   }

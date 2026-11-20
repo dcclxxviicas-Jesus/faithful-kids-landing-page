@@ -36,7 +36,9 @@ export const REF_COOKIE = 'fk_aff'
 export const CODE_RE = /^[a-z0-9][a-z0-9-]{1,30}[a-z0-9]$/
 
 export const linkFor = (code: string) => `${SITE_URL}/r/${code}`
-export const accountUrl = (token: string) => `${SITE_URL}/affiliates/account/${token}`
+/** The never-expiring sign-in link carried by the welcome email. */
+export const accountUrl = (token: string) => `${SITE_URL}/affiliates/signin?k=${token}`
+export const LOGIN_URL = `${SITE_URL}/affiliates/login`
 
 export function money(cents: number): string {
   const neg = cents < 0
@@ -68,6 +70,15 @@ export function refFromCookieHeader(cookie: string | null): string | null {
   if (!m) return null
   const v = decodeURIComponent(m[1]).toLowerCase()
   return CODE_RE.test(v) ? v : null
+}
+
+/* Link-preview fetchers and crawlers hit a link the moment it is pasted into
+   Facebook, iMessage, Slack, WhatsApp and so on. They are not people, so they
+   are never counted as visits (the visitor is still redirected). */
+const BOT_UA = /bot|crawl|spider|slurp|preview|facebookexternalhit|facebookcatalog|meta-externalagent|slack|discord|whatsapp|telegram|skype|linkedin|pinterest|embedly|quora|vkshare|outbrain|bitlybot|curl|wget|python-|httpclient|go-http|axios|node-fetch|headless|lighthouse|monitor|uptime|google-read-aloud|mediapartners/i
+
+export function isBot(ua: string | null): boolean {
+  return !ua || ua.length < 12 || BOT_UA.test(ua)
 }
 
 export function newToken(): string {
@@ -244,6 +255,11 @@ export async function clickCounts(affiliateId: string): Promise<{ last30: number
   }
   const [last30, total] = await Promise.all([count(`&at=gte.${enc(since)}`), count('')])
   return { last30, total }
+}
+
+export async function recentClicks(affiliateId: string, days = 30): Promise<{ at: string; path: string | null; referrer_host: string | null }[]> {
+  const since = new Date(Date.now() - days * 86400_000).toISOString()
+  return rows(`/affiliate_clicks?select=at,path,referrer_host&affiliate_id=eq.${enc(affiliateId)}&at=gte.${enc(since)}&order=at.desc&limit=20000`)
 }
 
 export async function allClickCounts(): Promise<Map<string, number>> {

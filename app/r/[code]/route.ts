@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { REF_COOKIE, TERMS, CODE_RE, SITE_URL, affiliateByCode, recordClick, cookieDomain, dbConfigured } from '@/lib/affiliates'
+import { REF_COOKIE, TERMS, CODE_RE, SITE_URL, affiliateByCode, recordClick, cookieDomain, dbConfigured, isBot, refFromCookieHeader } from '@/lib/affiliates'
 
 export const dynamic = 'force-dynamic'
 
@@ -29,7 +29,10 @@ export async function GET(req: NextRequest, ctx: { params: Promise<{ code: strin
 
   let refHost: string | null = null
   try { const r = req.headers.get('referer'); refHost = r ? new URL(r).hostname.slice(0, 120) : null } catch { /* ignore */ }
-  await recordClick(a.id, to.slice(0, 300), refHost).catch(e => console.error('affiliate click', e))
+  // One visitor = one count: a browser already carrying this affiliate's
+  // cookie (a repeat click within 30 days) is not counted again.
+  const repeat = refFromCookieHeader(req.headers.get('cookie')) === code
+  if (!repeat && !isBot(req.headers.get('user-agent'))) await recordClick(a.id, to.slice(0, 300), refHost).catch(e => console.error('affiliate click', e))
   res.cookies.set(REF_COOKIE, code, {
     maxAge: TERMS.cookieDays * 86400, path: '/', sameSite: 'lax', secure: true, httpOnly: false,
     domain: cookieDomain(req.headers.get('host')),

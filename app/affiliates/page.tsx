@@ -212,6 +212,7 @@ function AffiliatesV2() {
         <div style={{ maxWidth: 640, margin: '0 auto' }}>
           <ApplyForm />
           <p className="af-alt">Prefer email? Write to <a href={AFF_MAILTO}>{AFF_EMAIL}</a> with where you publish, your audience and your plan.</p>
+          <p className="af-alt">Already an affiliate? <a href="/affiliates/login">Sign in to your affiliate page</a>.</p>
         </div>
       </section>
 

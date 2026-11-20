@@ -65,3 +65,24 @@
   .hv2 .af-two { grid-template-columns: 1fr; }
   .hv2 .af-form, .hv2 .af-done { padding: 20px 16px; }
 }
+
+/* Dashboard additions */
+.hv2 .af-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin: 0 0 10px; }
+.hv2 .af-signout { font-weight: 800; color: var(--hv-green-dark); font-size: .9rem; }
+.hv2 .af-bars { display: flex; align-items: flex-end; gap: 3px; height: 120px; padding: 6px 0; border-bottom: 2px solid #eef4f8; }
+.hv2 .af-bar { flex: 1 1 0; height: 100%; display: flex; align-items: flex-end; }
+.hv2 .af-bar span { display: block; width: 100%; background: #16a34a; border-radius: 4px 4px 0 0; }
+.hv2 .af-bars-axis { display: flex; justify-content: space-between; font-size: .78rem; font-weight: 700; color: var(--hv-ink-soft); margin-top: 6px; }
+.hv2 .af-acct .af-two .af-table td { word-break: break-all; }
+.hv2 .af-stats-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.hv2 .af-payline { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.hv2 .af-payline span { display: block; font-size: .82rem; font-weight: 700; color: var(--hv-ink-soft); }
+.hv2 .af-payline b { display: block; font-size: 1.3rem; color: var(--hv-ink); margin-top: 2px; }
+.hv2 .af-payline div:first-child b { color: #16a34a; }
+.hv2 .af-note { margin: -6px 0 16px; font-size: .88rem; font-weight: 600; color: var(--hv-ink-soft); }
+.hv2 .af-more summary { cursor: pointer; font-weight: 800; color: var(--hv-ink); }
+.hv2 .af-mini { font-weight: 800; color: var(--hv-ink); margin: 0 0 6px; font-size: .92rem; }
+@media (max-width: 640px) {
+  .hv2 .af-stats-4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .hv2 .af-payline { grid-template-columns: 1fr; gap: 10px; }
+}

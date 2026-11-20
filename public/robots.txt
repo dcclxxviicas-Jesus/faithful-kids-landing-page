@@ -8,6 +8,9 @@ Disallow: /cas-admin
 Disallow: /parenting/preview/
 Disallow: /r/
 Disallow: /affiliates/account/
+Disallow: /affiliates/dashboard
+Disallow: /affiliates/signin
+Disallow: /affiliates/login
 
 # AI / answer-engine crawlers, explicitly welcome
 User-agent: GPTBot

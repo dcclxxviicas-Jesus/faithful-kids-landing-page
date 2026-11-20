@@ -41,7 +41,7 @@ export async function GET(req: NextRequest) {
         suggestedCode: a.code || suggestCode(a.name),
         clicks30: clicks.get(a.id) || 0,
         signups: refs.length,
-        paying: refs.filter(r => r.first_paid_at && r.flag !== 'self_referral').length,
+        paying: new Set(mine.filter(c => c.kind === 'sale' && c.status !== 'void').map(c => c.subscription_id)).size,
         flagged: refs.filter(r => r.flag).length,
         balance: balanceOf(mine),
       }

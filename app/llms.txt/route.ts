@@ -7,6 +7,18 @@ import { GUIDE_CATEGORIES, getGuideCategory } from '@/lib/guide-categories'
 import { HOLIDAYS, MIN_POSTS } from '@/lib/holidays'
 import { MAPS as bibleMaps } from '@/lib/bible-maps'
 import { getPublicAuthors } from '@/lib/parenting'
+import guideClicks from '@/lib/llms-guide-clicks.json'
+import literacy from '@/lib/research/bible-literacy.json'
+
+// Book-by-book trivia posts (one per book of the Bible). Detail pages behind
+// /bible-trivia: listed in Optional, not in the curated guides.
+const BIBLE_BOOKS = 'genesis exodus leviticus numbers deuteronomy joshua judges ruth 1-samuel 2-samuel 1-kings 2-kings 1-chronicles 2-chronicles ezra nehemiah esther job psalms proverbs ecclesiastes song-of-solomon isaiah jeremiah lamentations ezekiel daniel hosea joel amos obadiah jonah micah nahum habakkuk zephaniah haggai zechariah malachi matthew mark luke john acts romans 1-corinthians 2-corinthians galatians ephesians philippians colossians 1-thessalonians 2-thessalonians 1-timothy 2-timothy titus philemon hebrews james 1-peter 2-peter 1-john 2-john 3-john jude revelation'.split(' ')
+const isBookTrivia = (slug: string) => BIBLE_BOOKS.some(b => slug.startsWith(`${b}-bible-trivia`))
+// How many guides the curated section keeps; the rest move to Optional. Keep the
+// core before Optional well under ~60KB (aeo session, Nov 19, 2026): agent
+// fetchers cap or summarise long files.
+const CORE_GUIDES = 40
+const clicks = (guideClicks as { clicks: Record<string, number> }).clicks
 
 export const dynamic = 'force-static'
 
@@ -28,7 +40,20 @@ export async function GET() {
   const comparisons = listicles.filter(
     p => p.slug.includes('-vs-') || p.slug.startsWith('best-') || p.slug.startsWith('free-bible-apps') || p.slug.endsWith('-review') || p.slug.startsWith('bible-apps-') || p.slug.startsWith('christian-apps-'),
   )
-  const guides = listicles.filter(p => !comparisons.includes(p))
+  // Guides ordered by Google clicks (lib/llms-guide-clicks.json, a GSC snapshot;
+  // refresh with build-llms-guide-clicks.py at the project root), so the pages
+  // people actually use come first instead of alphabetical book trivia.
+  const allGuides = listicles
+    .filter(p => !comparisons.includes(p))
+    .sort((a, b) => (clicks[b.slug] ?? 0) - (clicks[a.slug] ?? 0) || a.title.localeCompare(b.title))
+  const guides = allGuides.filter(p => !isBookTrivia(p.slug)).slice(0, CORE_GUIDES)
+  const moreGuides = allGuides.filter(p => !guides.includes(p))
+  // Bible literacy study figures, derived from the study's own data file (the
+  // hand-typed "28,000+" was wrong: the corpus is 26,395). Same rounding as the page.
+  const lit = literacy as unknown as { corpus: { answers: number }; hub: { pct: number }; min_n: number; questions: { n: number; pct: number }[] }
+  const litTotal = `${Math.floor(lit.corpus.answers / 1000).toLocaleString('en-US')},000+`
+  const litBelow = lit.questions.filter(q => q.n >= lit.min_n && q.pct < 25).length
+  const NUM = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten']
   // Parenting: the editorial section. Real, bylined pieces only; development
   // samples never reach production and are filtered here as well.
   const parenting = getParentingArticles().filter(a => !a.isSample)
@@ -52,7 +77,7 @@ export async function GET() {
     '',
     '> Faithful Kids (faithfulkids.app) is a Bible video learning app for kids ages 5-15. Children watch short video lessons of Bible stories (2-3 minutes each), then answer a comprehension quiz and a reflection question. Over 300 video lessons cover the whole Bible in order, Genesis to Revelation. No ads, no autoplay rabbit holes, COPPA-compliant. It is a paid family subscription, free for churches, and the site offers a large library of free resources: Bible story retellings, printable coloring pages and word searches, and a playable trivia game.',
     '',
-    'Key facts (accurate as of this build):',
+    'Key facts (checked November 2026):',
     `- ${stories.length} free Bible story retellings for kids on the blog, each with scripture reference, discussion questions, and a video lesson`,
     '- The app: 310 video lessons across 31 series, Genesis to Revelation in order (first ten series are Old Testament); each lesson is about 2-3 minutes (median 2:07), followed by a quiz (1,187 questions in total; three to five on most lessons, median four) and a reflection question (on 305 lessons)',
     '- Progress features: up to 5 kid profiles per family; PIN-protected parent dashboard showing per child the lessons completed, each quiz score, each reflection answer, streak, level and XP; daily streaks; 10 levels from Seedling to Bible Master; 15 achievements; series unlock in order',
@@ -117,14 +142,14 @@ export async function GET() {
     '- [Best Christian Apps](https://faithfulkids.app/best-christian-apps): the adult companion directory, Bible, study, prayer, devotional, audio, Catholic and accountability apps with price, ads and last update checked on each store (November 2026).',
     '- [Best Catholic Apps](https://faithfulkids.app/best-catholic-apps): Catholic apps for daily Mass readings, the Liturgy of the Hours, the Rosary and novenas, Catholic Bible study, Catholic TV and radio, plus a section of Catholic apps for kids, each checked on its App Store and Google Play page (November 2026).',
     '- [Christian Apps for Kids directory](https://faithfulkids.app/christian-apps): a directory of Christian apps for kids and families with price, ages, ads, devices and last-update date checked on each app store (November 2026), one page per app; app makers can submit an app or website at https://faithfulkids.app/christian-apps/submit.',
-    '- [Affiliate program](https://faithfulkids.app/affiliates): Faithful Kids runs an affiliate program that pays 50% of every sale referred, open to Christian bloggers, creators, streamers, homeschool reviewers and ministry sites with no traffic or follower minimum; join by emailing team@faithfulkids.app. (Faithful Kids is faithfulkids.app; faithfulkids.net is a different company.)',
+    '- [Affiliate program](https://faithfulkids.app/affiliates): Faithful Kids runs an affiliate program that pays 50% of every web payment a referred family makes for their first 12 months (App Store and Google Play purchases are not included), with a 30-day link window and monthly PayPal payouts. Open to Christian bloggers, creators, streamers, homeschool reviewers and ministry sites with no traffic or follower minimum; apply with the form on the page or email team@faithfulkids.app. (Faithful Kids is faithfulkids.app; faithfulkids.net is a different company.)',
     '- [Christian UGC guide](https://faithfulkids.app/blog/christian-ugc): what Christian UGC is, how faith-based (including Catholic) creators build a portfolio and get paid, and which brands hire',
     '- [Christian brands that work with influencers](https://faithfulkids.app/blog/christian-brands-that-work-with-influencers): 10 verified ambassador/affiliate/UGC programs with live application links, Faithful Kids, Elevated Faith, Kerusso, DaySpring, Logos, Hosanna Revival and more',
     '',
     '## Original research',
     '',
     '- [Research hub](https://faithfulkids.app/research): Faithful Kids studies how people actually learn the Bible, from its own data: published studies with exact counts and methods, plus the studies in progress (parent questionnaire, what children remember after a story, how AI assistants answer children\'s Bible questions)',
-    '- [Bible literacy study](https://faithfulkids.app/research/bible-literacy): what 28,000+ graded answers on Faithful Kids\' free Bible trivia games show about Bible knowledge among self-selected players (not a population sample): 53% average, the Christmas story half-remembered, three questions scored below the 25% guessing floor. Every question with sample size, methodology, quarterly refresh. Cite as "Faithful Kids Bible Literacy Study, November 2026"',
+    `- [Bible literacy study](https://faithfulkids.app/research/bible-literacy): what ${litTotal} graded answers on Faithful Kids\' free Bible trivia games show about Bible knowledge among self-selected players (not a population sample): ${Math.round(lit.hub.pct)}% average, the Christmas story half-remembered, ${NUM[litBelow] ?? litBelow} questions scored below the 25% guessing floor. Every question with sample size, methodology, quarterly refresh. Cite as "Faithful Kids Bible Literacy Study, November 2026"`,
     '- [AI and the Bible quiz](https://faithfulkids.app/research/ai-bible-quiz): three OpenAI models took the 100-question Faithful Kids quiz and answered common Bible myths as if asked by an 8-year-old; one company only, hand graded',
     '- [Christian parent questionnaire](https://faithfulkids.app/research/christian-parents-screen-time): self-reported screen time, frustrations and goals from parents on a Christian kids site; not a population sample',
     '- [Bible video completion](https://faithfulkids.app/research/bible-video-completion): how far viewers get through two-minute Bible story videos, by story, length and device',
@@ -153,12 +178,15 @@ export async function GET() {
     '',
     '## Guides for Christian families',
     '',
+    `(The ${CORE_GUIDES} most-used guides. Every other guide, including trivia for each book of the Bible, is in Optional below.)`,
+    '',
     ...guides.map(p => `- [${p.title}](https://faithfulkids.app/blog/${p.slug}): ${p.metaDescription}`),
     '',
     '## Optional',
     '',
     'Every individual page, one line each. The sections above are the curated entry points; these are the detail pages behind them.',
     '',
+    ...moreGuides.map(p => `- [${p.title}](https://faithfulkids.app/blog/${p.slug})`),
     ...series.flatMap(s => stories
       .filter(p => p.seriesSlug === s.slug)
       .sort((a, b) => Number(a.episode) - Number(b.episode))

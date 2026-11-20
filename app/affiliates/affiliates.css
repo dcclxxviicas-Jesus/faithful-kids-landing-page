@@ -86,3 +86,26 @@
   .hv2 .af-stats-4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .hv2 .af-payline { grid-template-columns: 1fr; gap: 10px; }
 }
+
+/* Dashboard header (Nov 19, 2026) */
+.hv2 .af-head { background: #fff; border-bottom: 1px solid #e8eef3; position: sticky; top: 0; z-index: 10; }
+.hv2 .af-head-in { max-width: 860px; margin: 0 auto; padding: 12px 16px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.hv2 .af-brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--hv-ink); font-weight: 800; font-size: 1.15rem; }
+.hv2 .af-brand img { width: 34px; height: 34px; object-fit: contain; }
+.hv2 .af-brand em { font-style: normal; font-size: .72rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: #15803d; background: #dcfce7; padding: 4px 9px; border-radius: 999px; }
+.hv2 .af-head .af-signout { text-decoration: none; border: 2px solid #e3ebf2; color: var(--hv-ink); padding: 8px 14px; border-radius: 12px; font-weight: 800; font-size: .88rem; }
+.hv2 .af-head .af-signout:hover { border-color: #16a34a; color: #15803d; }
+.hv2 .af-hello { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+  background: linear-gradient(135deg, #f0fdf4 0%, #ecfeff 100%); border: 1px solid #dcfce7; border-radius: 22px; padding: 24px 26px; margin: 0 0 18px; }
+.hv2 .af-hello h1 { margin: 0 0 4px; font-size: clamp(1.6rem, 4vw, 2.1rem); color: var(--hv-ink); }
+.hv2 .af-hello p { margin: 0; font-weight: 600; color: var(--hv-ink-soft); }
+.hv2 .af-status { display: inline-flex; align-items: center; gap: 7px; font-weight: 800; font-size: .85rem; padding: 7px 13px; border-radius: 999px; background: #fff; color: #15803d; border: 1px solid #bbf7d0; white-space: nowrap; }
+.hv2 .af-status::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: #16a34a; box-shadow: 0 0 0 3px rgba(22,163,74,.18); }
+.hv2 .af-status.paused { color: #92400e; border-color: #fde68a; } .hv2 .af-status.paused::before { background: #f59e0b; box-shadow: 0 0 0 3px rgba(245,158,11,.18); }
+.hv2 .af-status.closed { color: #991b1b; border-color: #fecaca; } .hv2 .af-status.closed::before { background: #ef4444; box-shadow: 0 0 0 3px rgba(239,68,68,.18); }
+.hv2 .af-acct:has(.af-hello) { padding-top: 22px; }
+@media (max-width: 480px) {
+  .hv2 .af-brand { font-size: 1rem; gap: 8px; }
+  .hv2 .af-brand img { width: 28px; height: 28px; }
+  .hv2 .af-hello { padding: 20px; }
+}

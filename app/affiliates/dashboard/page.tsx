@@ -73,12 +73,24 @@ export default async function Page() {
 
   return (
     <V2Shell>
-      <main id="main-content" className="af-acct">
-        <div className="af-top">
-          <p className="hv-eyebrow" style={{ margin: 0 }}><a href="/" style={{ color: 'inherit' }}>Faithful Kids</a> affiliate</p>
+      <header className="af-head">
+        <div className="af-head-in">
+          <a href="/" className="af-brand">
+            <img src="/logo-sm.png" alt="" width={34} height={34} />
+            <span>Faithful Kids</span>
+            <em>Affiliate</em>
+          </a>
           <a className="af-signout" href="/affiliates/signout">Sign out</a>
         </div>
-        <h1>Hi {a.name.split(/\s+/)[0]}</h1>
+      </header>
+      <main id="main-content" className="af-acct">
+        <section className="af-hello">
+          <div>
+            <h1>Hi {a.name.split(/\s+/)[0]} 👋</h1>
+            <p>Here is how your link is doing. Thank you for sharing Faithful Kids.</p>
+          </div>
+          <span className={`af-status ${a.status}`}>{a.status === 'active' ? 'Link active' : a.status === 'paused' ? 'Link paused' : 'Account closed'}</span>
+        </section>
         {a.status !== 'active' && <p className="af-sub">{a.status === 'paused' ? 'Your link is paused, so new visitors are not being credited. Email team@faithfulkids.app with questions.' : 'This affiliate account is closed. Commission you earned is still paid on schedule.'}</p>}
 
         <div className="af-stats af-stats-4">

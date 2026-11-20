@@ -127,9 +127,11 @@ export async function POST(req: NextRequest) {
 
     if (body.action === 'payout') {
       if (!a.payout_email) return bad('This affiliate has not given a PayPal email yet (they add it on their affiliate page).')
-      if (a.tax_form === 'none') return bad('No tax form on file. Collect a W-9 (US) or W-8BEN (outside the US) before the first payout, then tick it here.')
       const due = (await listCommissions(`&affiliate_id=eq.${a.id}&status=eq.payable`))
       const total = due.reduce((n, c) => n + c.commission_cents, 0)
+      const yearStart = `${new Date().getUTCFullYear()}-01-01T00:00:00Z`
+      const paidThisYear = (await listPayouts(a.id)).filter(p => p.created_at >= yearStart).reduce((n, p) => n + p.amount_cents, 0)
+      if (a.tax_form === 'none' && paidThisYear + total >= TERMS.taxFormAtCents) return bad(`This payout takes ${a.name} to ${(paidThisYear + total) / 100} dollars this year, over the ${TERMS.taxFormAtCents / 100} dollar line where a tax form is needed. Collect a W-9 (US) or W-8BEN (outside the US), tick it under Details, then record the payout.`)
       if (total < TERMS.minimumCents) return bad(`Payable balance is ${(total / 100).toFixed(2)}, under the ${(TERMS.minimumCents / 100).toFixed(2)} minimum. It rolls over to next month.`)
       const reference = String(body.reference || '').trim().slice(0, 120)
       if (!reference) return bad('Paste the PayPal transaction id first, so the payout can be traced.')

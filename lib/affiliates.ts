@@ -29,6 +29,10 @@ export const TERMS = {
   payoutDay: 15,
   minimumCents: 2500,
   cookieDays: 30,
+  // Owner's call (Nov 19, 2026): pay through PayPal and skip tax paperwork
+  // to start. A W-9 / W-8BEN is only required once an affiliate's payouts in
+  // a calendar year reach this amount (the 1099-NEC reporting line for 2026).
+  taxFormAtCents: 200000,
 } as const
 
 export const SITE_URL = 'https://faithfulkids.app'

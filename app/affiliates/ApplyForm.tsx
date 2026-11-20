@@ -65,7 +65,7 @@ export function ApplyForm() {
             <option value="" disabled>Choose one</option>
             {COUNTRIES.map(c => <option key={c}>{c}</option>)}
           </select>
-          <small>We ask because US affiliates need a W-9 and others a W-8BEN before the first payout.</small><E k="country" /></div>
+          <E k="country" /></div>
         <div className="af-hp" aria-hidden="true"><label>Company site<input name="company_site" tabIndex={-1} autoComplete="off" /></label></div>
         <div className="af-f">
           <label className="af-agree"><input type="checkbox" name="agree" />

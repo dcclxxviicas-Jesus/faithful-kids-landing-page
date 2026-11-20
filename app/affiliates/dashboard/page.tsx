@@ -10,6 +10,7 @@ import {
   linkFor, money, fmtDate, nextPayoutDate,
 } from '@/lib/affiliates'
 import { SESSION_COOKIE, verifySession } from '@/lib/affiliate-session'
+import { quickLedger } from '@/lib/affiliates-ledger'
 import { CopyButton, PayoutEmailForm } from './client'
 
 /* The signed-in affiliate's own page: visits from their link, sign-ups,
@@ -40,6 +41,7 @@ export default async function Page() {
   const a = id ? await getAffiliate(id).catch(() => null) : null
   if (!a || !a.code || !['active', 'paused', 'closed'].includes(a.status)) redirect('/affiliates/login')
 
+  await quickLedger()
   const [counts, clicks, refs, coms, pays] = await Promise.all([
     clickCounts(a.id), recentClicks(a.id, 30), listReferrals(a.id), listCommissions(`&affiliate_id=eq.${a.id}`), listPayouts(a.id),
   ])
@@ -134,7 +136,7 @@ export default async function Page() {
 
         <div className="af-card">
           <h2>Where we pay you</h2>
-          <p>PayPal, on the {TERMS.payoutDay}th of each month. {a.tax_form === 'none' ? 'Before your first payout we will email you for a tax form (W-9 in the US, W-8BEN elsewhere).' : 'Your tax form is on file.'}</p>
+          <p>PayPal, on the {TERMS.payoutDay}th of each month, once you are over {money(TERMS.minimumCents)}.</p>
           <PayoutEmailForm current={a.payout_email} />
         </div>
 
@@ -164,7 +166,7 @@ export default async function Page() {
               <tbody>{pays.map(p => <tr key={p.id}><td>{fmtDate(p.created_at)}</td><td>{money(p.amount_cents)}</td><td>{p.sent_to}</td><td>{p.reference}</td></tr>)}</tbody>
             </table></div>
           </>}
-          <p style={{ marginTop: 16 }}>Visitors count each person once per 30 days, and leave out link previews and bots. Sign-ups and sales come straight from our payment system and update every morning. All-time visitors: {counts.total}. Owed to you now, cleared or clearing: {money(owed)}.</p>
+          <p style={{ marginTop: 16 }}>Visitors count each person once per 30 days, and leave out link previews and bots. Visitors appear the moment they click. Sign-ups and sales come straight from our payment system and show up within a few minutes; refunds are applied once a day. All-time visitors: {counts.total}. Owed to you now, cleared or clearing: {money(owed)}.</p>
         </details>
 
         <p className="cr-updated">Program terms: <a href="/affiliates/terms">faithfulkids.app/affiliates/terms</a>. Questions, or want images to share? <a href="mailto:team@faithfulkids.app">team@faithfulkids.app</a>.</p>

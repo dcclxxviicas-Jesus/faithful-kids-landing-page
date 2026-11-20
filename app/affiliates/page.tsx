@@ -80,7 +80,7 @@ const FAQS = [
 FAQS.splice(3, 0,
   {
     q: 'How does Faithful Kids affiliate tracking and payout work?',
-    a: 'Your link remembers a visitor for 30 days; if they subscribe on faithfulkids.app in that time, the sale is yours. Each commission clears after a 30-day hold for refunds, then we pay by PayPal on the 15th of each month once your balance is over $25. Your stats page shows clicks, sign-ups, earnings and payouts, updated daily.',
+    a: 'Your link remembers a visitor for 30 days; if they subscribe on faithfulkids.app in that time, the sale is yours. Each commission clears after a 30-day hold for refunds, then we pay by PayPal on the 15th of each month once your balance is over $25. Your own dashboard shows visitors live, plus sign-ups, sales, earnings and payouts within minutes.',
   },
   {
     q: 'Do App Store and Google Play purchases count?',
@@ -154,7 +154,7 @@ function AffiliatesV2() {
               <tr><td><strong>What counts</strong></td><td>Subscriptions bought on our website (App Store and Google Play purchases cannot be tracked)</td></tr>
               <tr><td><strong>Link window</strong></td><td>30 days from their click; the most recent affiliate link gets the credit</td></tr>
               <tr><td><strong>Payouts</strong></td><td>PayPal on the 15th of each month, after a 30-day hold for refunds; $25 minimum, smaller balances roll over</td></tr>
-              <tr><td><strong>Your stats</strong></td><td>A private page with your clicks, sign-ups, earnings and payouts, updated daily</td></tr>
+              <tr><td><strong>Your dashboard</strong></td><td>Sign in any time to see visitors live, plus sign-ups, sales, earnings and payouts within minutes</td></tr>
               <tr><td><strong>Who can join</strong></td><td>Christian bloggers, creators, streamers, homeschoolers, ministries; no follower minimum</td></tr>
               <tr><td><strong>How to join</strong></td><td><a href="#apply">Apply below</a>; a real person replies either way</td></tr>
             </tbody>

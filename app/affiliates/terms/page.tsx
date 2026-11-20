@@ -74,10 +74,10 @@ export default function Page() {
               <li>Commission on fraudulent, self-referred or prohibited sales (section 7) is cancelled, and we may recover any amount already paid for them.</li>
             </ol>
 
-            <h2>6. Tax forms</h2>
+            <h2>6. Taxes</h2>
             <ol>
-              <li>Before your first payout we will ask for a W-9 if you are in the United States, or a W-8BEN (W-8BEN-E for a business) if you are not. We cannot send a payout until we have it.</li>
-              <li>Where the law requires it, we will report your earnings to the IRS and send you a 1099.</li>
+              <li>You are responsible for reporting and paying tax on what you earn.</li>
+              <li>If your payouts in a calendar year reach {money(TERMS.taxFormAtCents)}, we will ask for a W-9 (United States) or W-8BEN (elsewhere) before paying more, and where the law requires it we will report your earnings and send you a 1099.</li>
             </ol>
 
             <h2>7. How you may promote Faithful Kids</h2>

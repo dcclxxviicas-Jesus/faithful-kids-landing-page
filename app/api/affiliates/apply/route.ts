@@ -50,7 +50,7 @@ export async function POST(req: Request) {
   if (website.length < 4) errors.website = 'Where do you publish? A link or handle is enough.'
   if (audience.length < 10) errors.audience = 'A sentence about who follows you helps us reply well.'
   if (plan.length < 10) errors.plan = 'A sentence about how you would share Faithful Kids.'
-  if (!country) errors.country = 'Choose where you live (we need it for tax forms).'
+  if (!country) errors.country = 'Choose where you live.'
   if (body.agree !== true) errors.agree = 'Please read and accept the program terms.'
   if (Object.keys(errors).length) return NextResponse.json({ error: 'A few details need a look.', fields: errors }, { status: 400 })
 

@@ -74,7 +74,21 @@ async function firstPaidAt(s: Stripe, subscriptionId: string): Promise<string | 
   return min ? iso(min) : null
 }
 
-export async function runAffiliateLedger(opts: { days?: number; budgetMs?: number } = {}): Promise<LedgerReport> {
+/* A light pass for the affiliate dashboard: the last two days of sign-ups
+   and payments, no refund sweep, at most once every two minutes per server
+   instance. It makes a new sale show up within minutes instead of the next
+   morning; the daily run still does the full job (refunds, holds). */
+let lastQuick = 0
+export async function quickLedger(): Promise<void> {
+  if (Date.now() - lastQuick < 120_000) return
+  lastQuick = Date.now()
+  try {
+    const r = await runAffiliateLedger({ days: 2, budgetMs: 6_000, quick: true })
+    if (r.errors.length || r.commissionsAdded) console.log('quick ledger', JSON.stringify(r))
+  } catch (e) { console.error('quick ledger', e) }
+}
+
+export async function runAffiliateLedger(opts: { days?: number; budgetMs?: number; quick?: boolean } = {}): Promise<LedgerReport> {
   const days = opts.days ?? 45
   const deadline = Date.now() + (opts.budgetMs ?? 60_000)
   const s = stripe()
@@ -163,7 +177,7 @@ export async function runAffiliateLedger(opts: { days?: number; budgetMs?: numbe
   }
 
   // (3) Refunds and disputes on anything charged in the last 120 days.
-  const recent = await listCommissions(`&kind=eq.sale&charged_at=gte.${encodeURIComponent(new Date(Date.now() - 120 * DAY).toISOString())}`)
+  const recent = opts.quick ? [] : await listCommissions(`&kind=eq.sale&charged_at=gte.${encodeURIComponent(new Date(Date.now() - 120 * DAY).toISOString())}`)
   for (const c of recent) {
     if (Date.now() > deadline) { report.errors.push('time budget reached in refund sweep'); break }
     if (!c.payment_intent || c.void_reason === 'self_referral') continue
@@ -215,4 +229,35 @@ export async function runAffiliateLedger(opts: { days?: number; budgetMs?: numbe
 
   report.unknownCodes = [...unknown]
   return report
+}
+
+/*
+ * The owner's monthly payout email. Rides the same daily cron: from the
+ * payout day (the 15th, New York time) onward it sends once per month, and
+ * only when someone is owed at least the minimum. Claimed in email_log
+ * (key aff:payout-report:YYYY-MM, no family) so a manual rerun never repeats it.
+ */
+export async function sendPayoutReport(now = new Date()): Promise<{ sent: boolean; reason?: string; total?: number }> {
+  const { listAffiliates, listCommissions, listPayouts } = await import('@/lib/affiliates')
+  const { payoutReport, send } = await import('@/lib/affiliates-emails')
+  const ny = new Date(now.toLocaleString('en-US', { timeZone: 'America/New_York' }))
+  if (ny.getDate() < TERMS.payoutDay) return { sent: false, reason: 'before payout day' }
+  const key = `aff:payout-report:${ny.getFullYear()}-${String(ny.getMonth() + 1).padStart(2, '0')}`
+  const seen = await supa(`/email_log?select=id&email_type=eq.${encodeURIComponent(key)}&limit=1`)
+  if (seen.ok && ((await seen.json()) as unknown[]).length) return { sent: false, reason: 'already sent this month' }
+
+  const [affs, payable, payouts] = await Promise.all([listAffiliates(), listCommissions('&status=eq.payable'), listPayouts()])
+  const yearStart = `${now.getUTCFullYear()}-01-01T00:00:00Z`
+  const rows = [], under = []
+  for (const a of affs) {
+    const cents = payable.filter(c => c.affiliate_id === a.id).reduce((n, c) => n + c.commission_cents, 0)
+    if (cents <= 0) continue
+    if (cents < TERMS.minimumCents) { under.push({ name: a.name, cents }); continue }
+    const paidYear = payouts.filter(p => p.affiliate_id === a.id && p.created_at >= yearStart).reduce((n, p) => n + p.amount_cents, 0)
+    rows.push({ name: a.name, email: a.email, payoutEmail: a.payout_email, cents, needsTaxForm: a.tax_form === 'none' && paidYear + cents >= TERMS.taxFormAtCents })
+  }
+  if (!rows.length) return { sent: false, reason: 'nobody over the minimum' }
+  const ok = await send(payoutReport(rows, under, now))
+  if (ok) await supa('/email_log', { method: 'POST', body: JSON.stringify({ family_id: null, email_type: key, sent_to: 'team@faithfulkids.app' }) })
+  return { sent: ok, total: rows.reduce((n, r) => n + r.cents, 0) }
 }

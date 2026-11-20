@@ -109,7 +109,7 @@ export function approvalEmail(a: Affiliate): Built {
       ['p', `<a href="${link}" style="font-weight:800;font-size:18px;">${esc(link.replace('https://', ''))}</a>`],
       ['small', `To send people to a particular page, add it after <code>?to=</code>, for example ${esc(link.replace('https://', ''))}?to=/bible-trivia`],
       ['h3', 'Your affiliate page'],
-      ['p', 'Your own page shows visits from your link, sign-ups, sales, earnings and payouts, updated every day. This button signs you straight in:'],
+      ['p', 'Your own page shows visitors from your link as they arrive, plus sign-ups, sales, earnings and payouts within minutes. This button signs you straight in:'],
       ['btn', 'Sign in to your affiliate page', accountUrl(a.token)],
       ['p', `Any time after that, sign in at <a href="${LOGIN_URL}">faithfulkids.app/affiliates/login</a> with this email address (${esc(a.email)}) and we will email you a sign-in link. No password to remember. Please keep this email private, since the button above signs in as you.`],
       ['p', 'Once you are in, add the PayPal email you want to be paid at.'],
@@ -170,6 +170,27 @@ export function signInEmail(a: Affiliate, link: string): Built {
       ['btn', 'Sign in', link],
       ['small', 'If you did not ask for this, you can ignore it. Nobody can sign in without this email.'],
       ['sign', 'brand'],
+    ]),
+  }
+}
+
+export interface DueRow { name: string; email: string; payoutEmail: string | null; cents: number; needsTaxForm: boolean }
+
+/** The owner's monthly "who to pay" email, sent to team@ on payout day. */
+export function payoutReport(rows: DueRow[], under: { name: string; cents: number }[], payDate: Date): Built {
+  const total = rows.reduce((n, r) => n + r.cents, 0)
+  const line = (r: DueRow) =>
+    `<strong>${esc(r.name)}</strong>: <strong>${money(r.cents)}</strong> to ${r.payoutEmail ? `PayPal <strong>${esc(r.payoutEmail)}</strong>` : `<span style="color:#b91c1c;">no PayPal email yet (ask ${esc(r.email)})</span>`}${r.needsTaxForm ? ' <span style="color:#b91c1c;">(collect a W-9 or W-8BEN first: over $2,000 this year)</span>' : ''}`
+  return {
+    to: TEAM,
+    subject: `Affiliate payouts due ${fmtDate(payDate)}: ${money(total)} to ${rows.length} affiliate${rows.length === 1 ? '' : 's'}`,
+    html: page(`${money(total)} to pay today.`, 'Internal monthly payout report for the Faithful Kids team.', [
+      ['eyebrow', 'Affiliate payouts'],
+      ['h', `${money(total)} to pay`],
+      ['p', `These affiliates have cleared commission over the ${money(TERMS.minimumCents)} minimum. Send each amount by PayPal, then record it in the desk with the PayPal transaction id so their page shows it as paid.`],
+      ['list', rows.map(line)],
+      ...(under.length ? [['small', `Under the minimum, rolling over to next month: ${under.map(u => `${esc(u.name)} ${money(u.cents)}`).join(', ')}.`] as Block] : []),
+      ['btn', 'Open the affiliate desk', `${SITE_URL}/cas-admin/affiliates`],
     ]),
   }
 }

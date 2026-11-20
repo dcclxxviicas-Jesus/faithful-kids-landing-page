@@ -55,7 +55,7 @@ Two sibling guides were verified the same day as this one: [best Christian compa
 
 ## Work With Faithful Kids, From Anywhere
 
-The most remote-friendly door in this whole guide is ours, because every way to work with Faithful Kids is done from wherever you are: our [affiliate program](/affiliates) pays 50% of every sale you refer, [creator partnerships](/creators) include paid collaborations with no follower minimum, and our [parenting section](/parenting/write-for-us) takes essays. If you have an audience of Christian families, a camera, or a keyboard, email [team@faithfulkids.app](mailto:team@faithfulkids.app) with what you'd love to do; a real person replies either way.
+The most remote-friendly door in this whole guide is ours, because every way to work with Faithful Kids is done from wherever you are: our [affiliate program](/affiliates) pays 50% of every payment for 12 months on families you refer, [creator partnerships](/creators) include paid collaborations with no follower minimum, and our [parenting section](/parenting/write-for-us) takes essays. If you have an audience of Christian families, a camera, or a keyboard, email [team@faithfulkids.app](mailto:team@faithfulkids.app) with what you'd love to do; a real person replies either way.
 
 ## Frequently Asked Questions
 

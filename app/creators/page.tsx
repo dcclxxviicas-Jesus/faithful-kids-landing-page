@@ -58,7 +58,7 @@ const FAQS = [
   },
   {
     q: 'Does Faithful Kids pay creators?',
-    a: 'Yes, paid collaborations are offered for the right fit, scoped together after a conversation rather than from a fixed rate card. Every partnership starts with free full access so the recommendation is a real one. Creators who prefer a commission can join the Faithful Kids affiliate program, which pays 50% of every sale referred (faithfulkids.app/affiliates).',
+    a: 'Yes, paid collaborations are offered for the right fit, scoped together after a conversation rather than from a fixed rate card. Every partnership starts with free full access so the recommendation is a real one. Creators who prefer a commission can join the Faithful Kids affiliate program, which pays 50% of every payment for 12 months on families referred (faithfulkids.app/affiliates).',
   },
   {
     q: 'Is there a follower minimum?',
@@ -142,7 +142,7 @@ function CreatorsV2() {
           </p>
           <p>
             Prefer a commission? Our <a href="/affiliates">affiliate program</a> pays 50% of
-            every sale you refer.
+            every payment for 12 months on families you refer.
           </p>
         </div>
       </section>

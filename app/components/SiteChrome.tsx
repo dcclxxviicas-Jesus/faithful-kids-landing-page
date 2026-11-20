@@ -143,6 +143,7 @@ export function SiteFooter() {
           <a href="/pricing">Pricing</a>
           <a href="/churches">Churches</a>
           <a href="/creators">Creators</a>
+          <a href="/affiliates">Affiliates</a>
           <a href="/about">About</a>
           <a href="/press">Press</a>
           <a href="/beliefs">What We Believe</a>

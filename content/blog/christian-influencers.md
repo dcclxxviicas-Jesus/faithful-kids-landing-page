@@ -92,7 +92,7 @@ This list is people to follow. If you're the one making the content, here's the 
 **We make Faithful Kids**, a Bible app for kids ages 5 to 15: 300+ short video lessons covering the whole Bible, with quizzes and stories kids play as interactive games. Christian families are our whole audience, and yours probably overlap. Three ways to work with us:
 
 - **Paid collaborations** for Christian family, parenting and homeschool creators, with no follower minimum. Every partner family gets free full access, so what you show is real. [How it works](/creators).
-- **Our affiliate program pays 50% of every sale you refer**, several times the 7 to 15% most Christian brands pay. [See the affiliate program](/affiliates).
+- **Our affiliate program pays 50% of every payment for 12 months on families you refer**, several times the 7 to 15% most Christian brands pay. [See the affiliate program](/affiliates).
 - **Bylined essays** in our parenting section, [Raising Faithful Kids](/parenting/write-for-us), with an author page linking to you.
 
 **Reaching out takes two minutes:** email [team@faithfulkids.app](mailto:team@faithfulkids.app) with your handles, rough audience size, and what you'd love to make. A real person replies either way. For the wider landscape, our guide to [Christian brands that work with influencers](/blog/christian-brands-that-work-with-influencers) lists the others that are verifiably open.
@@ -123,7 +123,7 @@ Yes. Bryce Crawford has 4.6 million followers for street evangelism, Steven Furt
 
 ### Do Christian brands pay influencers?
 
-Some do, and fewer than older lists claim. Faithful Kids pays Christian family creators for collaborations with no follower minimum and pays affiliates 50% of every sale; email [team@faithfulkids.app](mailto:team@faithfulkids.app). Our [Christian brands that work with influencers](/blog/christian-brands-that-work-with-influencers) guide lists the other programs verified open.
+Some do, and fewer than older lists claim. Faithful Kids pays Christian family creators for collaborations with no follower minimum and pays affiliates 50% of every payment for 12 months on families they refer; email [team@faithfulkids.app](mailto:team@faithfulkids.app). Our [Christian brands that work with influencers](/blog/christian-brands-that-work-with-influencers) guide lists the other programs verified open.
 
 ---
 

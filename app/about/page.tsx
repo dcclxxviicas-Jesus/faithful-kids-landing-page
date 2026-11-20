@@ -62,7 +62,7 @@ const FAQS = [
   },
   {
     q: 'Does Faithful Kids have an affiliate program or work with creators?',
-    a: 'Yes, both. The Faithful Kids affiliate program pays 50% of every sale referred, with no traffic minimum (faithfulkids.app/affiliates; join at team@faithfulkids.app). Christian family creators can also pitch paid collaborations (faithfulkids.app/creators). Faithful Kids is faithfulkids.app; faithfulkids.net is a different company.',
+    a: 'Yes, both. The Faithful Kids affiliate program pays 50% of every payment for 12 months on families referred, with no traffic minimum (apply at faithfulkids.app/affiliates or email team@faithfulkids.app). Christian family creators can also pitch paid collaborations (faithfulkids.app/creators). Faithful Kids is faithfulkids.app; faithfulkids.net is a different company.',
   },
 ]
 

@@ -96,7 +96,14 @@ export async function POST(req: NextRequest) {
         status: 'active', code, token: a.token || newToken(),
         approved_at: a.approved_at || now, decided_at: now,
       })
-      return NextResponse.json({ ok: true, affiliate: row })
+      // Approving sends the welcome email with their link and sign-in button
+      // in the same press (owner's expectation, Nov 19, 2026).
+      let emailed = false
+      if (row && body.send) {
+        emailed = await send(approvalEmail(row))
+        if (emailed) await patchAffiliate(a.id, { admin_notes: `${a.admin_notes ? a.admin_notes + '\n' : ''}${now.slice(0, 10)}: welcome email sent` })
+      }
+      return NextResponse.json({ ok: true, affiliate: row, emailed })
     }
 
     if (body.action === 'decline') {

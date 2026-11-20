@@ -205,13 +205,13 @@ export default function AffiliateDesk() {
                   {(cur.status === 'applied' || cur.status === 'declined') && (
                     <div className="btns" style={{ alignItems: 'flex-end' }}>
                       <div className="f" style={{ margin: 0, flex: '1 1 200px' }}><label>Their link code (faithfulkids.app/r/…)</label><input value={code} onChange={e => setCode(e.target.value.toLowerCase())} /></div>
-                      <button className="btn go" disabled={busy} onClick={() => act({ action: 'approve', id: cur.id, code }, 'Approved. Now preview and send the welcome email.')}>Approve</button>
+                      <button className="btn go" disabled={busy} onClick={async () => { const j = await act({ action: 'approve', id: cur.id, code, send: true }, ''); if (j) setMsg(j.emailed ? { ok: `Approved, and the welcome email with their link and sign-in button went to ${cur.email}.` } : { err: 'Approved, but the welcome email did not send. Use "Resend welcome email" below.' }) }}>Approve and email them</button>
                       {cur.status === 'applied' && <button className="btn danger" disabled={busy} onClick={() => act({ action: 'decline', id: cur.id }, 'Declined. Preview and send the decline email if you want to reply.')}>Decline</button>}
                     </div>
                   )}
 
                   <div className="btns">
-                    {cur.status === 'active' && <button className="btn" disabled={busy} onClick={async () => { const j = await act({ action: 'email', id: cur.id, kind: 'approval' }, ''); if (j?.preview) setPreview({ kind: 'approval', ...j.preview }) }}>Preview welcome email</button>}
+                    {cur.status === 'active' && <button className="btn" disabled={busy} onClick={async () => { const j = await act({ action: 'email', id: cur.id, kind: 'approval' }, ''); if (j?.preview) setPreview({ kind: 'approval', ...j.preview }) }}>Resend welcome email</button>}
                     {cur.status === 'declined' && <button className="btn" disabled={busy} onClick={async () => { const j = await act({ action: 'email', id: cur.id, kind: 'decline' }, ''); if (j?.preview) setPreview({ kind: 'decline', ...j.preview }) }}>Preview decline email</button>}
                   </div>
                   {preview && (

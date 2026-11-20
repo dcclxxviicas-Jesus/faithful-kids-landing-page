@@ -145,9 +145,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
     {
       url: `${baseUrl}/affiliates`,
-      lastModified: new Date('2026-11-16'),
+      lastModified: new Date('2026-11-19'),
       changeFrequency: 'monthly',
       priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/affiliates/terms`,
+      lastModified: new Date('2026-11-19'),
+      changeFrequency: 'yearly',
+      priority: 0.3,
     },
     {
       url: `${baseUrl}/homeschool`,

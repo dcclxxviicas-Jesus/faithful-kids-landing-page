@@ -136,7 +136,7 @@ export default async function HolidayHubPage({ params }: Props) {
               src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${h.heroSlug}-hero.webp?v=3`}
               srcSet={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/sm/${h.heroSlug}-hero.webp?v=3 760w, https://d3g07v1w0lehiv.cloudfront.net/blog-images/${h.heroSlug}-hero.webp?v=3 1792w`}
               sizes="(min-width: 960px) 560px, 100vw"
-              alt="" width={1792} height={1024} fetchPriority="high"
+              alt={`${h.name} Bible story illustration for kids`} width={1792} height={1024} fetchPriority="high"
             />
           </div>
         </header>

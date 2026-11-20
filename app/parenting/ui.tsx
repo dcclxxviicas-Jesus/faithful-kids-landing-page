@@ -21,7 +21,7 @@ export function ParentingHeader() {
   return (
     <header className="pt-top">
       <a href="/" className="pt-top-logo" aria-label="Faithful Kids home">
-        <img src="/logo-sm.png" alt="" width={32} height={32} />
+        <img src="/logo-sm.png" alt="Faithful Kids logo" width={32} height={32} />
         <span>Faithful Kids</span>
       </a>
     </header>
@@ -71,7 +71,7 @@ export function Kicker({ section }: { section: Section; link?: boolean }) {
 
 export function Avatar({ author, size }: { author: Author; size?: 'lg' | 'xl' }) {
   const cls = `pt-avatar${size ? ` is-${size}` : ''}`
-  if (author.photo) return <img className={cls} src={author.photo} alt="" width={size === 'xl' ? 112 : size === 'lg' ? 64 : 34} height={size === 'xl' ? 112 : size === 'lg' ? 64 : 34} loading="lazy" />
+  if (author.photo) return <img className={cls} src={author.photo} alt={author.name} width={size === 'xl' ? 112 : size === 'lg' ? 64 : 34} height={size === 'xl' ? 112 : size === 'lg' ? 64 : 34} loading="lazy" />
   const initials = author.name.split(/\s+/).map(w => w[0]).filter(Boolean).slice(0, 2).join('').toUpperCase()
   return <span className={cls} aria-hidden="true">{initials}</span>
 }
@@ -95,7 +95,7 @@ export function ArticleCard({ article, row = false, eager = false }: { article: 
     <article className={`pt-card${row ? ' is-row' : ''}`}>
       {article.image && (
         <a className="pt-card-art" href={href} tabIndex={-1} aria-hidden="true">
-          <img src={article.image} alt="" width={1200} height={800} loading={eager ? 'eager' : 'lazy'} />
+          <img src={article.image} alt={`Illustration for ${article.title}`} width={1200} height={800} loading={eager ? 'eager' : 'lazy'} />
         </a>
       )}
       <h3><a href={href}>{article.title}</a></h3>
@@ -110,7 +110,7 @@ export function FeaturedStory({ article }: { article: Article }) {
   return (
     <section className="pt-featured" aria-label="Featured story">
       <a className="pt-featured-art" href={href} tabIndex={-1} aria-hidden="true">
-        {article.image && <img src={article.image} alt="" width={1600} height={1067} fetchPriority="high" />}
+        {article.image && <img src={article.image} alt={`Illustration for ${article.title}`} width={1600} height={1067} fetchPriority="high" />}
       </a>
       <div>
         <h2><a href={href}>{article.title}</a></h2>
@@ -201,7 +201,7 @@ export function WatchStories({ stories, fromEssay }: { stories: WatchStory[]; fr
       <div className="pt-watch-tiles">
         {stories.map(s => (
           <a key={s.slug} className="pt-watch-tile" href={s.href}>
-            <span className="pt-watch-art"><img src={s.image} alt="" width={480} height={300} loading="lazy" /><i aria-hidden="true" /></span>
+            <span className="pt-watch-art" aria-hidden="true"><img src={s.image} alt={`${s.title}, Bible story video`} width={480} height={300} loading="lazy" /><i aria-hidden="true" /></span>
             <span className="pt-watch-title">{s.title}</span>
           </a>
         ))}

@@ -127,10 +127,10 @@ function BlogV2() {
           <div className="bx-topic-grid">
             {topics.map(t => (
               <a key={t.slug} href={`/blog/topics/${t.slug}`} className="bx-topic">
-                <span className="bx-topic-img">
+                <span className="bx-topic-img" aria-hidden="true">
                   {t.cover && (
                     // eslint-disable-next-line @next/next/no-img-element
-                    <img src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${t.cover}-hero.webp?v=3`} alt="" width={760} height={434} loading="lazy" decoding="async" />
+                    <img src={`https://d3g07v1w0lehiv.cloudfront.net/blog-images/${t.cover}-hero.webp?v=3`} alt={t.title} width={760} height={434} loading="lazy" decoding="async" />
                   )}
                 </span>
                 <span className="bx-topic-text">

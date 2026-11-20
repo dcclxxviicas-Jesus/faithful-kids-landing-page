@@ -20,7 +20,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const desc = a.bioText.slice(0, 155)
   const hasSampleOnly = articlesByAuthor(a.slug).every(p => p.isSample)
   return {
-    title: { absolute: `${a.name}${a.role ? `: ${a.role}` : ''} | Parenting at Faithful Kids` },
+    // Bing flags titles over ~70 characters: drop the section suffix when it would push past 65.
+    title: { absolute: (t => (t + ' | Parenting at Faithful Kids').length > 65 ? t : t + ' | Parenting at Faithful Kids')(`${a.name}${a.role ? `: ${a.role}` : ''}`) },
     description: desc,
     alternates: { canonical: url },
     robots: hasSampleOnly ? { index: false, follow: false } : { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 } },

@@ -11,7 +11,8 @@ const EMERALD = '#16a34a'
 const CDN = 'https://d3g07v1w0lehiv.cloudfront.net/jesse-tree'
 
 export const metadata = {
-  title: 'Printable Jesse Tree Ornaments & Readings: Free Set of 25',
+  // absolute: the '| Faithful Kids' suffix pushed this to 73 chars, which Bing flags as too long.
+  title: { absolute: 'Printable Jesse Tree Ornaments & Readings: Free Set of 25' },
   description:
     'Free printable Jesse Tree set: 25 ornaments to color, one for each day of Advent, with the daily Scripture reading for each symbol. Free PDF.',
   alternates: { canonical: 'https://faithfulkids.app/printables/jesse-tree' },
@@ -120,7 +121,7 @@ export default function JesseTreePage() {
                     <td className="pp-day">Dec <b>{d.day}</b></td>
                     <td className="pp-thumb no-print" aria-hidden="true">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img src={`${CDN}/${d.slug}.png`} alt="" width={64} height={64} loading="lazy" decoding="async" />
+                      <img src={`${CDN}/${d.slug}.png`} alt={`${d.title} Jesse Tree ornament`} width={64} height={64} loading="lazy" decoding="async" />
                     </td>
                     <td className="pp-title">{d.title}</td>
                     <td className="pp-ref">{d.scripture}</td>

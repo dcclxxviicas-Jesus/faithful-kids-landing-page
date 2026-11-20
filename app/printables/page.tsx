@@ -171,8 +171,8 @@ if (GROUPS.flatMap(g => g.hrefs).sort().join() !== PACKS.map(p => p.href).sort()
 function Pack({ pack, lead = false }: { pack: (typeof PACKS)[number]; lead?: boolean }) {
   return (
     <a href={pack.href} className={`hb-item${lead ? ' is-lead' : ''}`}>
-      <span className="hb-thumb">
-        <img src={THUMB(slugOf(pack.href))} alt="" width={720} height={540}
+      <span className="hb-thumb" aria-hidden="true">
+        <img src={THUMB(slugOf(pack.href))} alt={pack.title} width={720} height={540}
              loading={lead ? 'eager' : 'lazy'} decoding="async" />
       </span>
       <span className="hb-item-text">
